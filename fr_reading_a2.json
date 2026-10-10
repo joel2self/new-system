@@ -1,0 +1,162 @@
+[
+  {
+    "id": "la-recherche-dun-appartement-a-louer",
+    "titre": "La recherche d'un appartement à louer",
+    "niveau": "A2",
+    "langue": "fr",
+    "type": "reading",
+    "texte": [
+      "Ces derniers jours, j'ai entrepris la recherche d'un nouvel appartement à louer. Je suis à la recherche d'un endroit confortable et abordable où je pourrai m'installer.",
+      "J'ai parcouru les annonces immobilières en ligne et j'ai visité plusieurs appartements dans différents quartiers de la ville.",
+      "J'ai pris note de leurs caractéristiques, de leur emplacement et de leur loyer.",
+      "J'ai également rencontré plusieurs propriétaires et agents immobiliers pour discuter des conditions de location et poser des questions sur les logements disponibles.",
+      "Après avoir comparé toutes mes options, j'ai enfin trouvé l'appartement parfait qui répond à mes besoins et à mon budget. Je suis ravi(e) de commencer cette nouvelle étape de ma vie dans mon nouveau chez-moi."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a2-001-1",
+        "personnage": "Catherine",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+      },
+      {
+        "id": "audio-fr-read-a2-001-2",
+        "personnage": "Albert",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-001-01",
+        "question": "Que recherche l'auteur ces derniers jours ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Un nouvel emploi",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Un nouvel appartement à louer",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Un nouveau passe-temps",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Un nouveau partenaire",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-02",
+        "question": "Comment l'auteur a-t-il/elle recherché un appartement ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "En demandant à des amis",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "En parcourant les annonces immobilières en ligne",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "En consultant un agent de voyages",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "En visitant les parcs de la ville",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-03",
+        "question": "Qu'a fait l'auteur après avoir visité plusieurs appartements ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Il/Elle a fait une liste de courses",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Il/Elle a pris des notes sur les caractéristiques des appartements",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Il/Elle a décidé de ne pas emménager",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Il/Elle a réservé des billets d'avion",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-04",
+        "question": "Avec qui l'auteur a-t-il/elle discuté des conditions de location ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Avec ses amis",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Avec les propriétaires et les agents immobiliers",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Avec sa famille",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Avec ses collègues de travail",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-05",
+        "question": "Comment l'auteur se sent-il/elle à la fin du processus de recherche ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Fatigué(e)",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Désespéré(e)",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Ravi(e)",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "En colère",
+            "correcte": false
+          }
+        ]
+      }
+    ]
+  }
+]
