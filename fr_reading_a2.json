@@ -94,4 +94,69 @@
             "correcte": true
           },
           {
-          ]
+            "id": "c",
+            "texte": "Il/Elle a décidé de ne pas emménager",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Il/Elle a réservé des billets d'avion",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-04",
+        "question": "Avec qui l'auteur a-t-il/elle discuté des conditions de location ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Avec ses amis",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Avec les propriétaires et les agents immobiliers",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Avec sa famille",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Avec ses collègues de travail",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-05",
+        "question": "Comment l'auteur se sent-il/elle à la fin du processus de recherche ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Fatigué(e)",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Désespéré(e)",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Ravi(e)",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "En colère",
+            "correcte": false
+          }
+        ]
+      }
+    ]
+  }
+]
