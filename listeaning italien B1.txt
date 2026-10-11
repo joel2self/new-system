@@ -1,9 +1,302 @@
-{
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
-}
+[
+  {
+    "id": "001",
+    "titre": "Il primo giorno di scoutismo",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Catherine",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Albert",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-it-listening-b1-001-01",
+        "question": "Quanti anni ha Antoine?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "6 anni",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "7 anni",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "8 anni",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "9 anni",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-it-listening-b1-001-02",
+        "question": "Perché ad Antoine è difficile alzarsi la mattina?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Perché è malato",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Perché è molto stanco",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Perché è eccitato all’idea di unirsi agli scout",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "Perché non ha una sveglia per svegliarsi",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-it-listening-b1-001-03",
+        "question": "Chi sveglia Antoine la mattina?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Sua madre",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Suo padre",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Suo fratello maggiore",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "Sua sorella maggiore",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-it-listening-b1-001-04",
+        "question": "Chi ha preparato la colazione di Antoine?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Suo nonno",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Sua sorella maggiore",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Sua madre",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Suo padre",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-it-listening-b1-001-05",
+        "question": "Chi accompagna Antoine durante il suo primo giorno con gli scout?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Suo nonno",
+            "correcte": true
+          },
+          {
+            "id": "b",
+            "texte": "Sua sorella maggiore",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Il suo migliore amico Lucas",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Il suo capo scout Julien",
+            "correcte": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Il primo giorno di scoutismo",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Catherine",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Albert",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-it-listening-b1-001-01",
+        "question": "Quanti anni ha Antoine?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "6 anni",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "7 anni",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "8 anni",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "9 anni",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-it-listening-b1-001-02",
+        "question": "Perché ad Antoine è difficile alzarsi la mattina?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Perché è malato",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Perché è molto stanco",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Perché è eccitato all’idea di unirsi agli scout",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "Perché non ha una sveglia per svegliarsi",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-it-listening-b1-001-03",
+        "question": "Chi sveglia Antoine la mattina?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Sua madre",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Suo padre",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Suo fratello maggiore",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "Sua sorella maggiore",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-it-listening-b1-001-04",
+        "question": "Chi ha preparato la colazione di Antoine?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Suo nonno",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Sua sorella maggiore",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Sua madre",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Suo padre",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-it-listening-b1-001-05",
+        "question": "Chi accompagna Antoine durante il suo primo giorno con gli scout?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Suo nonno",
+            "correcte": true
+          },
+          {
+            "id": "b",
+            "texte": "Sua sorella maggiore",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Il suo migliore amico Lucas",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Il suo capo scout Julien",
+            "correcte": false
+          }
+        ]
+      }
+    ]
+  }
+]
