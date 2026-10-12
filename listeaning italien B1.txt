@@ -1,5 +1,5 @@
 [
- {
+  {
     "id": "001",
     "titre": "exercise 1",
     "audios": [
@@ -21,57 +21,137 @@
         "id": "q-it-listening-b1-001-01",
         "question": "Quanti anni ha Antoine?",
         "reponses": [
-          {"id": "a", "texte": "6 anni", "correcte": false},
-          {"id": "b", "texte": "7 anni", "correcte": false},
-          {"id": "c", "texte": "8 anni", "correcte": true},
-          {"id": "d", "texte": "9 anni", "correcte": false}
+          {
+            "id": "a",
+            "texte": "6 anni",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "7 anni",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "8 anni",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "9 anni",
+            "correcte": false
+          }
         ]
       },
       {
         "id": "q-it-listening-b1-001-02",
         "question": "Perché ad Antoine è difficile alzarsi la mattina?",
         "reponses": [
-          {"id": "a", "texte": "Perché è malato", "correcte": false},
-          {"id": "b", "texte": "Perché è molto stanco", "correcte": false},
-          {"id": "c", "texte": "Perché è eccitato all'idea di unirsi agli scout", "correcte": true},
-          {"id": "d", "texte": "Perché non ha una sveglia per svegliarsi", "correcte": false}
+          {
+            "id": "a",
+            "texte": "Perché è malato",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Perché è molto stanco",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Perché è eccitato all'idea di unirsi agli scout",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "Perché non ha una sveglia per svegliarsi",
+            "correcte": false
+          }
         ]
       },
       {
         "id": "q-it-listening-b1-001-03",
         "question": "Chi sveglia Antoine la mattina?",
         "reponses": [
-          {"id": "a", "texte": "Sua madre", "correcte": false},
-          {"id": "b", "texte": "Suo padre", "correcte": false},
-          {"id": "c", "texte": "Suo fratello maggiore", "correcte": true},
-          {"id": "d", "texte": "Sua sorella maggiore", "correcte": false}
+          {
+            "id": "a",
+            "texte": "Sua madre",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Suo padre",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Suo fratello maggiore",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "Sua sorella maggiore",
+            "correcte": false
+          }
         ]
       },
       {
         "id": "q-it-listening-b1-001-04",
         "question": "Chi ha preparato la colazione di Antoine?",
         "reponses": [
-          {"id": "a", "texte": "Suo nonno", "correcte": false},
-          {"id": "b", "texte": "Sua sorella maggiore", "correcte": true},
-          {"id": "c", "texte": "Sua madre", "correcte": false},
-          {"id": "d", "texte": "Suo padre", "correcte": false}
+          {
+            "id": "a",
+            "texte": "Suo nonno",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Sua sorella maggiore",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Sua madre",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Suo padre",
+            "correcte": false
+          }
         ]
       },
       {
         "id": "q-it-listening-b1-001-05",
         "question": "Chi accompagna Antoine durante il suo primo giorno con gli scout?",
         "reponses": [
-          {"id": "a", "texte": "Suo nonno", "correcte": true},
-          {"id": "b", "texte": "Sua sorella maggiore", "correcte": false},
-          {"id": "c", "texte": "Il suo migliore amico Lucas", "correcte": false},
-          {"id": "d", "texte": "Il suo capo scout Julien", "correcte": false}
+          {
+            "id": "a",
+            "texte": "Suo nonno",
+            "correcte": true
+          },
+          {
+            "id": "b",
+            "texte": "Sua sorella maggiore",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Il suo migliore amico Lucas",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Il suo capo scout Julien",
+            "correcte": false
+          }
         ]
       }
     ]
   },
   {
     "id": "002",
-    "titre": "exercise 2",
+    "titre": "esercizio 2",
     "audios": [
       {
         "id": "audio-it-listening-b1-001-1",
@@ -86,57 +166,1868 @@
         "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
       }
     ],
-    "questions": [
+    "questions": []
+  },
+  {
+    "id": "003",
+    "titre": "esercizio 3",
+    "audios": [
       {
-        "id": "q-it-listening-b1-001-01",
-        "question": "Quanti anni ha Antoine?",
-        "reponses": [
-          {"id": "a", "texte": "6 anni", "correcte": false},
-          {"id": "b", "texte": "7 anni", "correcte": false},
-          {"id": "c", "texte": "8 anni", "correcte": true},
-          {"id": "d", "texte": "9 anni", "correcte": false}
-        ]
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
       },
       {
-        "id": "q-it-listening-b1-001-02",
-        "question": "Perché ad Antoine è difficile alzarsi la mattina?",
-        "reponses": [
-          {"id": "a", "texte": "Perché è malato", "correcte": false},
-          {"id": "b", "texte": "Perché è molto stanco", "correcte": false},
-          {"id": "c", "texte": "Perché è eccitato all'idea di unirsi agli scout", "correcte": true},
-          {"id": "d", "texte": "Perché non ha una sveglia per svegliarsi", "correcte": false}
-        ]
-      },
-      {
-        "id": "q-it-listening-b1-001-03",
-        "question": "Chi sveglia Antoine la mattina?",
-        "reponses": [
-          {"id": "a", "texte": "Sua madre", "correcte": false},
-          {"id": "b", "texte": "Suo padre", "correcte": false},
-          {"id": "c", "texte": "Suo fratello maggiore", "correcte": true},
-          {"id": "d", "texte": "Sua sorella maggiore", "correcte": false}
-        ]
-      },
-      {
-        "id": "q-it-listening-b1-001-04",
-        "question": "Chi ha preparato la colazione di Antoine?",
-        "reponses": [
-          {"id": "a", "texte": "Suo nonno", "correcte": false},
-          {"id": "b", "texte": "Sua sorella maggiore", "correcte": true},
-          {"id": "c", "texte": "Sua madre", "correcte": false},
-          {"id": "d", "texte": "Suo padre", "correcte": false}
-        ]
-      },
-      {
-        "id": "q-it-listening-b1-001-05",
-        "question": "Chi accompagna Antoine durante il suo primo giorno con gli scout?",
-        "reponses": [
-          {"id": "a", "texte": "Suo nonno", "correcte": true},
-          {"id": "b", "texte": "Sua sorella maggiore", "correcte": false},
-          {"id": "c", "texte": "Il suo migliore amico Lucas", "correcte": false},
-          {"id": "d", "texte": "Il suo capo scout Julien", "correcte": false}
-        ]
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
       }
-    ]
+    ],
+    "questions": []
+  },
+  {
+    "id": "004",
+    "titre": "esercizio 4",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "005",
+    "titre": "esercizio 5",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "006",
+    "titre": "esercizio 6",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "007",
+    "titre": "esercizio 7",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "008",
+    "titre": "esercizio 8",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "009",
+    "titre": "esercizio 9",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "010",
+    "titre": "esercizio 10",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "011",
+    "titre": "esercizio 11",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "012",
+    "titre": "esercizio 12",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "013",
+    "titre": "esercizio 13",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "014",
+    "titre": "esercizio 14",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "015",
+    "titre": "esercizio 15",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "016",
+    "titre": "esercizio 16",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "017",
+    "titre": "esercizio 17",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "018",
+    "titre": "esercizio 18",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "019",
+    "titre": "esercizio 19",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "020",
+    "titre": "esercizio 20",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "021",
+    "titre": "esercizio 21",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "022",
+    "titre": "esercizio 22",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "023",
+    "titre": "esercizio 23",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "024",
+    "titre": "esercizio 24",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "025",
+    "titre": "esercizio 25",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "026",
+    "titre": "esercizio 26",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "027",
+    "titre": "esercizio 27",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "028",
+    "titre": "esercizio 28",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "029",
+    "titre": "esercizio 29",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "030",
+    "titre": "esercizio 30",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "031",
+    "titre": "esercizio 31",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "032",
+    "titre": "esercizio 32",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "033",
+    "titre": "esercizio 33",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "034",
+    "titre": "esercizio 34",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "035",
+    "titre": "esercizio 35",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "036",
+    "titre": "esercizio 36",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "037",
+    "titre": "esercizio 37",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "038",
+    "titre": "esercizio 38",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "039",
+    "titre": "esercizio 39",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "040",
+    "titre": "esercizio 40",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "041",
+    "titre": "esercizio 41",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "042",
+    "titre": "esercizio 42",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "043",
+    "titre": "esercizio 43",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "044",
+    "titre": "esercizio 44",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "045",
+    "titre": "esercizio 45",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "046",
+    "titre": "esercizio 46",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "047",
+    "titre": "esercizio 47",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "048",
+    "titre": "esercizio 48",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "049",
+    "titre": "esercizio 49",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "050",
+    "titre": "esercizio 50",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "051",
+    "titre": "esercizio 51",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "052",
+    "titre": "esercizio 52",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "053",
+    "titre": "esercizio 53",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "054",
+    "titre": "esercizio 54",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "055",
+    "titre": "esercizio 55",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "056",
+    "titre": "esercizio 56",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "057",
+    "titre": "esercizio 57",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "058",
+    "titre": "esercizio 58",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "059",
+    "titre": "esercizio 59",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "060",
+    "titre": "esercizio 60",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "061",
+    "titre": "esercizio 61",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "062",
+    "titre": "esercizio 62",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "063",
+    "titre": "esercizio 63",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "064",
+    "titre": "esercizio 64",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "065",
+    "titre": "esercizio 65",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "066",
+    "titre": "esercizio 66",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "067",
+    "titre": "esercizio 67",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "068",
+    "titre": "esercizio 68",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "069",
+    "titre": "esercizio 69",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "070",
+    "titre": "esercizio 70",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "071",
+    "titre": "esercizio 71",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "072",
+    "titre": "esercizio 72",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "073",
+    "titre": "esercizio 73",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "074",
+    "titre": "esercizio 74",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "075",
+    "titre": "esercizio 75",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "076",
+    "titre": "esercizio 76",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "077",
+    "titre": "esercizio 77",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "078",
+    "titre": "esercizio 78",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "079",
+    "titre": "esercizio 79",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "080",
+    "titre": "esercizio 80",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "081",
+    "titre": "esercizio 81",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "082",
+    "titre": "esercizio 82",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "083",
+    "titre": "esercizio 83",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "084",
+    "titre": "esercizio 84",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "085",
+    "titre": "esercizio 85",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "086",
+    "titre": "esercizio 86",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "087",
+    "titre": "esercizio 87",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "088",
+    "titre": "esercizio 88",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "089",
+    "titre": "esercizio 89",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "090",
+    "titre": "esercizio 90",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "091",
+    "titre": "esercizio 91",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "092",
+    "titre": "esercizio 92",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "093",
+    "titre": "esercizio 93",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "094",
+    "titre": "esercizio 94",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "095",
+    "titre": "esercizio 95",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "096",
+    "titre": "esercizio 96",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "097",
+    "titre": "esercizio 97",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "098",
+    "titre": "esercizio 98",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "099",
+    "titre": "esercizio 99",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "100",
+    "titre": "esercizio 100",
+    "audios": [
+      {
+        "id": "audio-it-listening-b1-001-1",
+        "personaggio": "Chiara Rossi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415622-perinemagne-lect38-italien-il-primo-giorno-di-scoutismo-b1"
+      },
+      {
+        "id": "audio-it-listening-b1-001-2",
+        "personaggio": "Lorenzo Bianchi",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1858415934-perinemagne-lect38italien-il-primo-giorno-di-scoutismo-b1h"
+      }
+    ],
+    "questions": []
   }
 ]
