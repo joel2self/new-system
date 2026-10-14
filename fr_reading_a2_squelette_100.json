@@ -2,7 +2,13 @@
   {
     "id": "001",
     "titre": "La recherche d'un appartement à louer",
-    "texte": [],
+    "texte": [
+      "Ces derniers jours, j'ai entrepris la recherche d'un nouvel appartement à louer. Je suis à la recherche d'un endroit confortable et abordable où je pourrai m'installer.",
+      "J'ai parcouru les annonces immobilières en ligne et j'ai visité plusieurs appartements dans différents quartiers de la ville.",
+      "J'ai pris note de leurs caractéristiques, de leur emplacement et de leur loyer.",
+      "J'ai également rencontré plusieurs propriétaires et agents immobiliers pour discuter des conditions de location et poser des questions sur les logements disponibles.",
+      "Après avoir comparé toutes mes options, j'ai enfin trouvé l'appartement parfait qui répond à mes besoins et à mon budget. Je suis ravi(e) de commencer cette nouvelle étape de ma vie dans mon nouveau chez-moi."
+    ],
     "audios": [
       {
         "id": "audio-fr-read-a2-001-1",
@@ -17,11 +23,142 @@
         "url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
       }
     ],
-    "questions": []
+    "questions": [
+      {
+        "id": "q-fr-read-a2-001-01",
+        "question": "Que recherche l'auteur ces derniers jours ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Un nouvel emploi",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Un nouvel appartement à louer",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Un nouveau passe-temps",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Un nouveau partenaire",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-02",
+        "question": "Comment l'auteur a-t-il/elle recherché un appartement ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "En demandant à des amis",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "En parcourant les annonces immobilières en ligne",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "En consultant un agent de voyages",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "En visitant les parcs de la ville",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-03",
+        "question": "Qu'a fait l'auteur après avoir visité plusieurs appartements ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Il/Elle a fait une liste de courses",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Il/Elle a pris des notes sur les caractéristiques des appartements",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Il/Elle a décidé de ne pas emménager",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Il/Elle a réservé des billets d'avion",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-04",
+        "question": "Avec qui l'auteur a-t-il/elle discuté des conditions de location ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Avec ses amis",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Avec les propriétaires et les agents immobiliers",
+            "correcte": true
+          },
+          {
+            "id": "c",
+            "texte": "Avec sa famille",
+            "correcte": false
+          },
+          {
+            "id": "d",
+            "texte": "Avec ses collègues de travail",
+            "correcte": false
+          }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-05",
+        "question": "Comment l'auteur se sent-il/elle à la fin du processus de recherche ?",
+        "reponses": [
+          {
+            "id": "a",
+            "texte": "Fatigué(e)",
+            "correcte": false
+          },
+          {
+            "id": "b",
+            "texte": "Désespéré(e)",
+            "correcte": false
+          },
+          {
+            "id": "c",
+            "texte": "Ravi(e)",
+            "correcte": true
+          },
+          {
+            "id": "d",
+            "texte": "En colère",
+            "correcte": false
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "002",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -41,7 +178,7 @@
   },
   {
     "id": "003",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -61,7 +198,7 @@
   },
   {
     "id": "004",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -81,7 +218,7 @@
   },
   {
     "id": "005",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -101,7 +238,7 @@
   },
   {
     "id": "006",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -121,7 +258,7 @@
   },
   {
     "id": "007",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -141,7 +278,7 @@
   },
   {
     "id": "008",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -161,7 +298,7 @@
   },
   {
     "id": "009",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -181,7 +318,7 @@
   },
   {
     "id": "010",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -201,7 +338,7 @@
   },
   {
     "id": "011",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -221,7 +358,7 @@
   },
   {
     "id": "012",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -241,7 +378,7 @@
   },
   {
     "id": "013",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -261,7 +398,7 @@
   },
   {
     "id": "014",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -281,7 +418,7 @@
   },
   {
     "id": "015",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -301,7 +438,7 @@
   },
   {
     "id": "016",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -321,7 +458,7 @@
   },
   {
     "id": "017",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -341,7 +478,7 @@
   },
   {
     "id": "018",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -361,7 +498,7 @@
   },
   {
     "id": "019",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -381,7 +518,7 @@
   },
   {
     "id": "020",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -401,7 +538,7 @@
   },
   {
     "id": "021",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -421,7 +558,7 @@
   },
   {
     "id": "022",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -441,7 +578,7 @@
   },
   {
     "id": "023",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -461,7 +598,7 @@
   },
   {
     "id": "024",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -481,7 +618,7 @@
   },
   {
     "id": "025",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -501,7 +638,7 @@
   },
   {
     "id": "026",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -521,7 +658,7 @@
   },
   {
     "id": "027",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -541,7 +678,7 @@
   },
   {
     "id": "028",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -561,7 +698,7 @@
   },
   {
     "id": "029",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -581,7 +718,7 @@
   },
   {
     "id": "030",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -601,7 +738,7 @@
   },
   {
     "id": "031",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -621,7 +758,7 @@
   },
   {
     "id": "032",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -641,7 +778,7 @@
   },
   {
     "id": "033",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -661,7 +798,7 @@
   },
   {
     "id": "034",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -681,7 +818,7 @@
   },
   {
     "id": "035",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -701,7 +838,7 @@
   },
   {
     "id": "036",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -721,7 +858,7 @@
   },
   {
     "id": "037",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -741,7 +878,7 @@
   },
   {
     "id": "038",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -761,7 +898,7 @@
   },
   {
     "id": "039",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -781,7 +918,7 @@
   },
   {
     "id": "040",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -801,7 +938,7 @@
   },
   {
     "id": "041",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -821,7 +958,7 @@
   },
   {
     "id": "042",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -841,7 +978,7 @@
   },
   {
     "id": "043",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -861,7 +998,7 @@
   },
   {
     "id": "044",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -881,7 +1018,7 @@
   },
   {
     "id": "045",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -901,7 +1038,7 @@
   },
   {
     "id": "046",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -921,7 +1058,7 @@
   },
   {
     "id": "047",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -941,7 +1078,7 @@
   },
   {
     "id": "048",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -961,7 +1098,7 @@
   },
   {
     "id": "049",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -981,7 +1118,7 @@
   },
   {
     "id": "050",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1001,7 +1138,7 @@
   },
   {
     "id": "051",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1021,7 +1158,7 @@
   },
   {
     "id": "052",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1041,7 +1178,7 @@
   },
   {
     "id": "053",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1061,7 +1198,7 @@
   },
   {
     "id": "054",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1081,7 +1218,7 @@
   },
   {
     "id": "055",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1101,7 +1238,7 @@
   },
   {
     "id": "056",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1121,7 +1258,7 @@
   },
   {
     "id": "057",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1141,7 +1278,7 @@
   },
   {
     "id": "058",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1161,7 +1298,7 @@
   },
   {
     "id": "059",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1181,7 +1318,7 @@
   },
   {
     "id": "060",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1201,7 +1338,7 @@
   },
   {
     "id": "061",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1221,7 +1358,7 @@
   },
   {
     "id": "062",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1241,7 +1378,7 @@
   },
   {
     "id": "063",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1261,7 +1398,7 @@
   },
   {
     "id": "064",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1281,7 +1418,7 @@
   },
   {
     "id": "065",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1301,7 +1438,7 @@
   },
   {
     "id": "066",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1321,7 +1458,7 @@
   },
   {
     "id": "067",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1341,7 +1478,7 @@
   },
   {
     "id": "068",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1361,7 +1498,7 @@
   },
   {
     "id": "069",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1381,7 +1518,7 @@
   },
   {
     "id": "070",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1401,7 +1538,7 @@
   },
   {
     "id": "071",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1421,7 +1558,7 @@
   },
   {
     "id": "072",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1441,7 +1578,7 @@
   },
   {
     "id": "073",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1461,7 +1598,7 @@
   },
   {
     "id": "074",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1481,7 +1618,7 @@
   },
   {
     "id": "075",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1501,7 +1638,7 @@
   },
   {
     "id": "076",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1521,7 +1658,7 @@
   },
   {
     "id": "077",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1541,7 +1678,7 @@
   },
   {
     "id": "078",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1561,7 +1698,7 @@
   },
   {
     "id": "079",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1581,7 +1718,7 @@
   },
   {
     "id": "080",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1601,7 +1738,7 @@
   },
   {
     "id": "081",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1621,7 +1758,7 @@
   },
   {
     "id": "082",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1641,7 +1778,7 @@
   },
   {
     "id": "083",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1661,7 +1798,7 @@
   },
   {
     "id": "084",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1681,7 +1818,7 @@
   },
   {
     "id": "085",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1701,7 +1838,7 @@
   },
   {
     "id": "086",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1721,7 +1858,7 @@
   },
   {
     "id": "087",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1741,7 +1878,7 @@
   },
   {
     "id": "088",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1761,7 +1898,7 @@
   },
   {
     "id": "089",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1781,7 +1918,7 @@
   },
   {
     "id": "090",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1801,7 +1938,7 @@
   },
   {
     "id": "091",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1821,7 +1958,7 @@
   },
   {
     "id": "092",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1841,7 +1978,7 @@
   },
   {
     "id": "093",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1861,7 +1998,7 @@
   },
   {
     "id": "094",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1881,7 +2018,7 @@
   },
   {
     "id": "095",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1901,7 +2038,7 @@
   },
   {
     "id": "096",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1921,7 +2058,7 @@
   },
   {
     "id": "097",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1941,7 +2078,7 @@
   },
   {
     "id": "098",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1961,7 +2098,7 @@
   },
   {
     "id": "099",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
@@ -1981,7 +2118,7 @@
   },
   {
     "id": "100",
-    "titre": "La recherche d'un appartement à louer",
+    "titre": "",
     "texte": [],
     "audios": [
       {
