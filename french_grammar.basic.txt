@@ -1,9 +1,127 @@
-{
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
-}
+```json
+[
+  {
+    "id": "grammar-past-conditional-001",
+    "titre": "Les verbes conjugués au passé du conditionnel",
+    "level": "B1",
+    "language": "fr",
+    "definition": "Le passé du conditionnel exprime une action qui aurait pu se produire dans le passé, mais qui ne s’est pas réalisée. Il se forme avec l’auxiliaire être ou avoir au conditionnel présent, suivi du participe passé du verbe.",
+    "examples": [
+      "j’aurais parlé",
+      "tu aurais fini",
+      "il serait venu",
+      "nous aurions pris",
+      "vous seriez partis",
+      "ils auraient réussi"
+    ],
+    "exampleSentences": [
+      "Si j’avais su, je serais venu plus tôt.",
+      "Elle aurait réussi avec un peu plus de temps.",
+      "Ils auraient pu gagner."
+    ],
+    "instruction": "Choisissez la bonne forme du verbe au passé du conditionnel :",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Vous ___ (aimer) venir à la fête si vous aviez pu.",
+        "correct": "auriez aimé",
+        "options": [
+          "auriez aimé",
+          "auriez aimés",
+          "auriez aimer"
+        ]
+      },
+      {
+        "id": "q2",
+        "text": "Elles ___ (attendre) ici jusqu'à ton arrivée.",
+        "correct": "auraient attendu",
+        "options": [
+          "auraient attendues",
+          "auraient attendu",
+          "auraient attendus"
+        ]
+      },
+      {
+        "id": "q3",
+        "text": "Je ___ (savoir) quoi faire dans cette situation.",
+        "correct": "aurais su",
+        "options": [
+          "aurais su",
+          "aurais sus",
+          "aurais sues"
+        ]
+      },
+      {
+        "id": "q4",
+        "text": "Tu ___ (voir) ce film avec moi si tu étais là ?",
+        "correct": "aurais vu",
+        "options": [
+          "aurais vu",
+          "aurais vus",
+          "aurais vue"
+        ]
+      },
+      {
+        "id": "q5",
+        "text": "Il ___ (venir) te chercher à l'aéroport s'il avait su.",
+        "correct": "serait venu",
+        "options": [
+          "serait venu",
+          "aurait venu",
+          "aurais venu"
+        ]
+      },
+      {
+        "id": "q6",
+        "text": "Nous ___ (partir) en vacances si nous avions eu assez d'argent.",
+        "correct": "serions partis",
+        "options": [
+          "serions partis",
+          "aurions partis",
+          "serions partus"
+        ]
+      },
+      {
+        "id": "q7",
+        "text": "Vous ___ (pouvoir) m'appeler si vous aviez eu mon numéro ?",
+        "correct": "auriez pu",
+        "options": [
+          "auriez pu",
+          "auriez pu",
+          "auriez pue"
+        ]
+      },
+      {
+        "id": "q8",
+        "text": "Elles ___ (acheter) une nouvelle maison si elles avaient trouvé un bon prix.",
+        "correct": "auraient acheté",
+        "options": [
+          "auraient acheté",
+          "auraient achetés",
+          "auraient achetée"
+        ]
+      },
+      {
+        "id": "q9",
+        "text": "Je ___ (devoir) étudier plus pour réussir cet examen.",
+        "correct": "aurais dû",
+        "options": [
+          "aurais dû",
+          "aurais du",
+          "aurais dûs"
+        ]
+      },
+      {
+        "id": "q10",
+        "text": "Tu ___ (envoyer) ce colis pour moi si tu avais eu le temps ?",
+        "correct": "aurais envoyé",
+        "options": [
+          "aurais envoyé",
+          "aurais envoyés",
+          "aurais envoyée"
+        ]
+      }
+    ]
+  }
+]
+```
