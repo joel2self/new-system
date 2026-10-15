@@ -1,10 +1,8 @@
-
+```json
 [
   {
-    "id": "grammar-past-conditional-001",
+    "id": "001",
     "titre": "Les verbes conjugués au passé du conditionnel",
-    "level": "B1",
-    "language": "fr",
     "definition": "Le passé du conditionnel exprime une action qui aurait pu se produire dans le passé, mais qui ne s’est pas réalisée. Il se forme avec l’auxiliaire être ou avoir au conditionnel présent, suivi du participe passé du verbe.",
     "examples": [
       "j’aurais parlé",
@@ -122,6 +120,127 @@
         ]
       }
     ]
+  },
+  {
+    "id": "002",
+    "titre": "Les verbes conjugués au passé du conditionnel",
+    "definition": "Le passé du conditionnel exprime une action qui aurait pu se produire dans le passé, mais qui ne s’est pas réalisée. Il se forme avec l’auxiliaire être ou avoir au conditionnel présent, suivi du participe passé du verbe.",
+    "examples": [
+      "j’aurais parlé",
+      "tu aurais fini",
+      "il serait venu",
+      "nous aurions pris",
+      "vous seriez partis",
+      "ils auraient réussi"
+    ],
+    "exampleSentences": [
+      "Si j’avais su, je serais venu plus tôt.",
+      "Elle aurait réussi avec un peu plus de temps.",
+      "Ils auraient pu gagner."
+    ],
+    "instruction": "Choisissez la bonne forme du verbe au passé du conditionnel :",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Si j'avais eu plus de temps, je ___ (voyager) autour du monde.",
+        "correct": "aurais voyagé",
+        "options": [
+          "aurais voyagé",
+          "aurais voyager",
+          "aurais voyage"
+        ]
+      },
+      {
+        "id": "q2",
+        "text": "Tu ___ (pouvoir) m'aider avec ce problème si tu avais été là ?",
+        "correct": "aurais pu",
+        "options": [
+          "aurais pu",
+          "aurais pu",
+          "aurais pu"
+        ]
+      },
+      {
+        "id": "q3",
+        "text": "Il ___ (aimer) apprendre à jouer du piano s'il avait eu l'occasion.",
+        "correct": "aurait aimé",
+        "options": [
+          "aurait aimé",
+          "aurait aimer",
+          "aurait aimai"
+        ]
+      },
+      {
+        "id": "q4",
+        "text": "Nous ___ (aller) à la plage si le temps avait été meilleur.",
+        "correct": "serions allés",
+        "options": [
+          "aurions allé",
+          "serions allé",
+          "serions allés"
+        ]
+      },
+      {
+        "id": "q5",
+        "text": "Vous ___ (devoir) faire plus attention.",
+        "correct": "auriez dû",
+        "options": [
+          "auriez dû",
+          "auriez du",
+          "auriez dûs"
+        ]
+      },
+      {
+        "id": "q6",
+        "text": "Elles ___ (vouloir) venir avec nous si elles avaient su.",
+        "correct": "auraient voulu",
+        "options": [
+          "auraient voulu",
+          "auraient voulues",
+          "auraient voulu"
+        ]
+      },
+      {
+        "id": "q7",
+        "text": "Je ___ (faire) un gâteau si j'avais eu les ingrédients.",
+        "correct": "aurais fait",
+        "options": [
+          "aurais fait",
+          "aurais fais",
+          "aurais faite"
+        ]
+      },
+      {
+        "id": "q8",
+        "text": "Tu ___ (prendre) un café avec moi si tu avais eu le temps ?",
+        "correct": "aurais pris",
+        "options": [
+          "aurais pris",
+          "aurais prendu",
+          "aurais pris"
+        ]
+      },
+      {
+        "id": "q9",
+        "text": "Il ___ (être) heureux de te voir.",
+        "correct": "aurait été",
+        "options": [
+          "aurait été",
+          "aurait été",
+          "aurait été"
+        ]
+      },
+      {
+        "id": "q10",
+        "text": "Nous ___ (finir) ce projet à temps si nous avions commencé plus tôt.",
+        "correct": "aurions fini",
+        "options": [
+          "aurions fini",
+          "aurions finis",
+          "aurions finit"
+        ]
+      }
+    ]
   }
 ]
-
+```
