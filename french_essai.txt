@@ -1,9 +1,69 @@
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+  "connecteurs_logiques": {
+    "addition": [],
+    "opposition": [],
+    "cause": [],
+    "consequence": [],
+    "but": [],
+    "condition": [],
+    "concession": [],
+    "illustration": [],
+    "comparaison": [],
+    "conclusion": []
+  },
+
+  "exercices": [
+    {
+       "id": "001",
+  "niveau": "B2",
+  "titre": "Essai 1",
+  "sujet": "Les réseaux sociaux améliorent-ils réellement la communication entre les personnes ?",
+
+  "correction": {
+    "introduction": {
+      "texte": "Les réseaux sociaux occupent aujourd'hui une place importante dans la communication entre les individus. Ils permettent de maintenir facilement le contact avec des personnes éloignées et de partager rapidement des informations. Cependant, leur utilisation présente également certaines limites. Il convient donc de se demander dans quelle mesure les réseaux sociaux améliorent réellement la communication entre les personnes.",
+      "mots_cles": [
+        "réseaux sociaux",
+        "communication",
+        "individus",
+        "contact",
+        "informations",
+        "limites"
+      ]
+    },
+
+    "corps_du_devoir": {
+      "texte": "Tout d'abord, les réseaux sociaux facilitent considérablement les échanges. Une personne peut communiquer instantanément avec sa famille, ses amis ou ses collègues, même lorsque ceux-ci vivent dans un autre pays. De plus, ces plateformes permettent de diffuser rapidement des informations et de créer des communautés autour de différents centres d'intérêt. Toutefois, cette facilité de communication ne signifie pas toujours que les relations sont de meilleure qualité. En effet, les échanges virtuels peuvent parfois remplacer les conversations directes et créer une certaine distance entre les individus. Par conséquent, les réseaux sociaux constituent un outil efficace de communication, mais leur utilisation doit rester équilibrée.",
+      "mots_cles": [
+        "échanges",
+        "communiquer",
+        "famille",
+        "amis",
+        "collègues",
+        "informations",
+        "communautés",
+        "relations",
+        "conversations",
+        "distance",
+        "outil",
+        "équilibre"
+      ]
+    },
+
+    "conclusion": {
+      "texte": "En conclusion, les réseaux sociaux ont profondément transformé la manière dont les personnes communiquent. Ils offrent de nombreux avantages, notamment la rapidité des échanges et la possibilité de rester en contact malgré la distance. Néanmoins, ils ne doivent pas remplacer complètement les relations humaines directes. Une utilisation équilibrée permet donc de profiter de leurs avantages tout en préservant la qualité des relations personnelles.",
+      "mots_cles": [
+        "conclusion",
+        "transformé",
+        "communication",
+        "avantages",
+        "échanges",
+        "distance",
+        "relations humaines",
+        "équilibre"
+      ]
+        }
+      }
+    }
+  ]
 }
