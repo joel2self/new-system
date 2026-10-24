@@ -1,9 +1,652 @@
-{
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+[
+   {
+    "id": "001",
+    "level": "B2",
+    "title": "مقالة 1",
+    "subject": "Gençler her hafta spor yapmalı mı?",
+    "audio": "",
+    "correction": {
+      "introduction": {
+        "texte": "Modern toplumda, teknolojinin yoğun kullanımı nedeniyle gençler arasında fiziksel hareketsizlik oranları ciddi şekilde artmıştır. Bu nedenle, bu yaş grubu için haftalık spor pratiğinin zorunlu hale getirilip getirilmemesi konusunda sürekli bir tartışma yürütülmektedir. Spor, şüphesiz ki büyüme ve gelişme dönemlerinde hem fiziksel hem de zihinsel sağlığı destekler. Ancak, katı bir zorunluluğun gençleri motive etmek için en iyi strateji olup olmadığı sorusu geçerliliğini korumaktadır.",
+        "mots_cles": [
+          "toplum",
+          "harekesizlik",
+          "gençler",
+          "teknoloji",
+          "pratik",
+          "spor",
+          "sağlık",
+          "gelişme",
+          "strateji",
+          "motivasyon"
+        ]
+      },
+      "corps_du_devoir": {
+        "texte": "Bir yandan, düzenli fiziksel aktivite hayatın baharındaki gençler için sayısız biyolojik ve psikolojik fayda sağlar. Haftalık egzersiz yapıldığında bağışıklık sistemi güçlenir, obezite önlenir ve gelecekte kronik hastalıklara yakalanma riski azalır. Ayrıca spor, akademik stresi azaltmak ve özgüveni yükseltmek için mükemmel bir araçtır. Sosyal açıdan ise spor kulüpleri bireyler arasında arkadaşlık, disiplin ve karşılıklı saygı gibi temel değerleri aşılar. Örneğin, takım sporları ortak hedeflere ulaşmak için iş birliği becerisini geliştirir. Diğer yandan, her gencin farklı ilgi alanlarına ve fiziksel yeteneklere sahip olduğu gerçeği göz ardı edilemez. Bazı ergenler, spor müsabakalarında aşırı rekabet baskısıyla karşılaşmakta, bu da hüsrana veya spordan soğumaya ve içsel motivasyon kaybına yol açabilmektedir. Benzer şekilde, müzik, sanat veya gönüllü çalışmalar gibi kişisel gelişimi aynı derecede teşvik eden mükemmel alternatif eğlence kaynakları mevcuttur. Belirli bir sporu sert bir şekilde zorunlu kılmak, ters etki yaratabilir ve herhangi bir fiziksel çabaya karşı kalıcı bir nefret doğurabilir. Bu nedenle, kurumların tek bir seçeneğe zorlamak yerine çeşitli fiziksel aktivite seçenekleri sunması hayati önem taşır. Sonuç olarak, hareket etmenin getirdiği keyif, sağlıklı ve sürdürülebilir bir yaşam tarzını benimsetmek için her zaman en yüksek öncelik olmalıdır.",
+        "mots_cles": [
+          "aktivite",
+          "fayda",
+          "gençler",
+          "egzersiz",
+          "sistem",
+          "obezite",
+          "risk",
+          "stres",
+          "özgüven",
+          "değerler",
+          "arkadaşlık",
+          "disiplin",
+          "saygı",
+          "iş birliği",
+          "hedefler",
+          "ilgi alanları",
+          "yeteneklere",
+          "baskıyla",
+          "alternatif",
+          "müzik",
+          "gönüllü",
+          "gelişimi",
+          "zorunlu",
+          "nefret",
+          "çabaya",
+          "seçenekleri",
+          "aktivite",
+          "keyif",
+          "öncelik",
+          "tarzını"
+        ]
+      },
+      "conclusion": {
+        "texte": "Sonuç olarak, haftalık sporun gençlerin genel refahını sağlamada temel bir yapı taşı olduğu söylenebilir. Spor bedeni güçlendirir, sosyal becerileri şekillendirir ve ergenlerin kişiliğini inşa eder. Buna rağmen, fiziksel kültürün yaygınlaştırılması, uzun vadeli bağlılığı garanti altına almak için esnekliğe ve seçim özgürlüğüne dayanmalıdır.",
+        "mots_cles": [
+          "Sonuç",
+          "spor",
+          "yapı taşı",
+          "refahını",
+          "bedeni",
+          "becerileri",
+          "kişiliğini",
+          "kültürün",
+          "seçim",
+          "bağlılığı"
+        ]
+      }
+    }
+  },
+  {
+    "id": "002",
+    "level": "B2",
+    "title": "مقالة 2",
+    "subject": "Ekran başında geçirilen süre sınırlandırılmalı mı?",
+    "audio": "",
+    "correction": {
+      "introduction": {
+        "texte": "Dijital çağda, akıllı telefonlar, tabletler ve bilgisayarlar günlük hayatımızın ayrılmaz bir parçası haline gelmiştir. Ancak, özellikle çocuklar ve gençler arasında ekran başında geçirilen sürenin aşırı artması, ciddi sağlık ve sosyal gelişim endişelerini beraberinde getirmektedir. Bu bağlamda, ekran süresine resmi veya ailevi sınırlandırmalar getirilmesi gerektiği savunulmaktadır. Peki, bu sınırlandırma bireysel özgürlükleri kısıtlamadan sağlıklı bir yaşam dengesi kurmak için gerçekten gerekli midir?",
+        "mots_cles": [
+          "Dijital",
+          "ekran",
+          "süre",
+          "sağlık",
+          "gelişim",
+          "endişelerini",
+          "sınırlandırmalar",
+          "özgürlükleri",
+          "yaşam",
+          "dengesi"
+        ]
+      },
+      "corps_du_devoir": {
+        "texte": "Bir taraftan, ekran süresini kısıtlamanın bireylerin hem fiziksel hem de psikolojik sağlığı üzerinde çok sayıda olumlu etkisi vardır. Saatlerce ekrana bakmak obezite, göz bozuklukları ve duruş bozuklukları gibi fiziksel sorunlara yol açar. Ayrıca, yatmadan önce mavi ışığa maruz kalmak uyku kalitesini ciddi şekilde düşürür. Sınırlandırma sayesinde insanlar spora, açık hava aktivitelerine ve yüz yüze iletişime daha fazla zaman ayırabilirler. Örneğin, akşamları ekranı kapatan ailelerde bireyler arası bağların güçlendiği ve çocukların akademik başarılarının arttığı gözlemlenmiştir. Diğer taraftan, günümüzde ekranların sadece bir eğlence aracı değil, aynı zamanda temel bir eğitim ve iş platformu olduğu unutulmamalıdır. Çevrimiçi dersler, araştırma kaynakları ve dijital beceriler modern dünyada hayatta kalmak için zorunludur. Dolayısıyla, katı ve körü körüne yapılan kısıtlamalar gençlerin bilgiye ulaşmasını ve teknolojik yetkinlik kazanmasını engelleyebilir. Önemli olan süreyi tamamen azaltmak değil, ekran başında geçirilen zamanın kalitesini artırmak ve pasif tüketim yerine aktif üretimi teşvik etmektir.",
+        "mots_cles": [
+          "kısıtlamanın",
+          "psikolojik",
+          "sağlığı",
+          "olumlu",
+          "obezite",
+          "göz",
+          "uyku",
+          "kalitesini",
+          "aktivitelerine",
+          "bağların",
+          "başarılarının",
+          "eğitim",
+          "iş",
+          "çevrimiçi",
+          "beceriler",
+          "kısıtlamalar",
+          "bilgiye",
+          "yetkinlik",
+          "aktif",
+          "üretimi"
+        ]
+      },
+      "conclusion": {
+        "texte": "Özetlemek gerekirse, ekran başında geçirilen sürenin tamamen başıboş bırakılması modern toplum için ciddi bir risk teşkil etmektedir. Ancak, çözüm katı yasaklarda değil, teknolojinin bilinçli kullanımındadır. Sürdürülebilir bir gelecek için hem okullarda hem de aile içinde dijital okuryazarlık eğitimi verilerek denge sağlanmalıdır.",
+        "mots_cles": [
+          "Özetlemek",
+          "ekran",
+          "toplum",
+          "risk",
+          "yasaklarda",
+          "bilinçli",
+          "gelecek",
+          "dijital",
+          "okuryazarlık",
+          "denge"
+        ]
+      }
+    }
+  },
+  {
+    "id": "003",
+    "level": "B2",
+    "title": "مقالة 3",
+    "subject": "Uzaktan çalışmanın dezavantajlarından daha fazla avantajı var mı?",
+    "audio": "",
+    "correction": {
+      "introduction": {
+        "texte": "Teknolojinin gelişmesi ve küresel olaylar, geleneksel ofis ortamını değiştirerek uzaktan çalışma modelini iş dünyasının merkezine taşımıştır. Bu yeni çalışma biçimi, hem işverenler hem de çalışanlar için radikal değişiklikler anlamına gelmektedir. Uzaktan çalışmanın sağladığı kolaylıklar övgü toplarken, getirdiği zorluklar da göz ardı edilmemektedir. Bu makalede, evden çalışmanın avantajlarının dezavantajlarından gerçekten daha fazla olup olmadığı tartışılacaktır.",
+        "mots_cles": [
+          "gelişmesi",
+          "ofis",
+          "uzaktan çalışma",
+          "iş dünyasının",
+          "işverenler",
+          "çalışanlar",
+          "kolaylıklar",
+          "zorluklar",
+          "avantajlarının",
+          "dezavantajlarından"
+        ]
+      },
+      "corps_du_devoir": {
+        "texte": "İlk olarak, uzaktan çalışmanın en büyük avantajı çalışanlara sunduğu zaman ve mekan esnekliğidir. Her gün saatlerce süren trafik stresinden kurtulmak, çalışanların motivasyonunu ve genel yaşam kalitesini artırır. Ayrıca, şirketler için ofis kirası, elektrik ve bakım gibi operasyonel maliyetler ciddi oranda azalır. Çalışanlar ev konforunda daha odaklanmış çalışabilir ve iş-özel hayat dengesini daha iyi kurabilirler. Örneğin, çocuklu ebeveynler bu sistem sayesinde ailelerine daha fazla vakit ayırma fırsatı bulurlar. İkinci olarak, bu modelin getirdiği sosyal ve psikolojik dezavantajlar da oldukça derindir. Evden çalışan birçok birey, iş ve özel yaşam arasındaki sınırların kaybolmasından şikayetçidir; bu durum mesai saatlerinin uzamasına ve tükenmişlik sendromuna yol açabilir. Dahası, ofis ortamındaki sosyal etkileşimin ve yüz yüze iletişimin eksikliği, çalışanlarda profesyonel yalnızlık hissi yaratabilir ve şirket kültürüne olan aidiyet duygusunu zayıflatabilir. Takım çalışması gerektiren projelerde zaman zaman koordinasyon sorunları yaşanması da bu sistemin zayıf karınlarından biridir.",
+        "mots_cles": [
+          "esnekliğidir",
+          "trafik",
+          "motivasyonunu",
+          "şirketler",
+          "maliyetler",
+          "konforunda",
+          "dengesini",
+          "ebeveynler",
+          "fırsatı",
+          "psikolojik",
+          "sınırların",
+          "mesai",
+          "tükenmişlik",
+          "etkileşimin",
+          "yalnızlık",
+          "aidiyet",
+          "duygusunu",
+          "takım",
+          "koordinasyon",
+          "sorunları"
+        ]
+      },
+      "conclusion": {
+        "texte": "Netice itibarıyla, uzaktan çalışmanın avantajları esneklik ve maliyet tasarrufu açısından ağır bassa da, sosyal izolasyon gibi riskleri göz ardı etmek imkansızdır. Geleceğin iş dünyasında en sürdürülebilir çözüm, her iki sistemin de güçlü yönlerini birleştiren hibrit çalışma modellerinin benimsenmesidir.",
+        "mots_cles": [
+         "Netice",
+"esneklik",
+"tasarrufu",
+"izolasyon",
+"riskleri",
+"iş dünyasında",
+"çözüm",
+"hibrit",
+"çalışma",
+"modellerinin"
+]
 }
+}
+},
+{
+"id": "004",
+"level": "B2",
+"title": "مقالة 4",
+"subject": "Büyük şehirlerde toplu taşıma ücretsiz olmalı mı?",
+"audio": "",
+"correction": {
+"introduction": {
+"texte": "Büyük şehirlerde nüfus artışı ve ekonomik zorluklar, kentsel hareketlilik konusunu yerel yönetimlerin ana gündem maddesi haline getirmiştir. Ulaşım masrafları, düşük gelirli vatandaşlar için ciddi bir yük oluştururken, özel araç kullanımı da çevre kirliliğini artırmaktadır. Bu durum, metropollerde toplu taşıma hizmetlerinin tamamen ücretsiz yapılması fikrini doğurmuştur. Bu radikal öneri, hem ekonomik hem de çevresel açılardan derin bir tartışma konusudur.",
+"mots_cles": [
+"nüfus",
+"ekonomik",
+"kentsel",
+"yönetimlerin",
+"Ulaşım",
+"vatandaşlar",
+"çevre",
+"toplu taşıma",
+"ücretsiz",
+"tartışma"
+]
+},
+"corps_du_devoir": {
+"texte": "Bir yandan, ücretsiz toplu taşımanın hem sosyal adalet hem de çevre koruma açısından devrim niteliğinde faydaları olabilir. Ulaşımın bedava olması, özellikle işçiler, öğrenciler ve dar gelirli aileler için büyük bir ekonomik rahatlama sağlar ve şehir içi hareketliliği artırır. Çevresel boyutta ise, insanları özel araçlarını evde bırakarak otobüs, metro ve tramvayları kullanmaya teşvik eder; bu da karbon emisyonlarını azaltır ve hava kalitesini iyileştirir. Örneğin, bu uygulamayı başlatan bazı Avrupa şehirlerinde trafik sıkışıklığının gözle görülür oranda azaldığı tespit edilmiştir. Diğer yandan, bu politikanın belediye bütçelerine getireceği devasa finansal yük göz ardı edilemez. Toplu taşıma sistemlerinin işletilmesi, bakımı ve yeni hatların inşası milyarlarca liralık kaynak gerektirir. Bilet gelirleri tamamen ortadan kalktığında, bu harcamaların vergiler yoluyla tüm halktan karşılanması gerekecektir, bu da adaletsiz bir vergi yükü yaratabilir. Ayrıca, ücretsiz hizmetlerin aşırı yoğunluğa, hizmet kalitesinin düşmesine ve araçların daha hızlı yıpranmasına yol açma riski oldukça yüksektir.",
+"mots_cles": [
+"sosyal adalet",
+"çevre",
+"faydaları",
+"ekonomik",
+"rahatlama",
+"hareketliliği",
+"karbon",
+"emisyonlarını",
+"hava",
+"trafik",
+"belediye",
+"bütçelerine",
+"finansal",
+"bakımı",
+"kaynak",
+"gelirleri",
+"vergiler",
+"yoğunluğa",
+"kalitesinin",
+"yıpranmasına"
+]
+},
+"conclusion": {
+"texte": "Son tahlilde, büyük şehirlerde toplu taşımanın tamamen ücretsiz yapılması idealist bir hedef olsa da, finansal gerçekler ve hizmet kalitesi açısından uygulanması zordur. Bunun yerine, tamamen ücretsiz yapmak yerine öğrenciler, yaşlılar ve dar gelirliler için sübvanse edilmiş, çok ucuz tarife modelleri uygulamak daha dengeli bir yaklaşım olacaktır.",
+"mots_cles": [
+"tahlilde",
+"toplu taşımanın",
+"finansal",
+"gerçekler",
+"kalitesi",
+"öğrenciler",
+"dar gelirliler",
+"sübvanse",
+"tarife",
+"yaklaşım"
+]
+}
+}
+},
+{
+"id": "005",
+"level": "B2",
+"title": "مقالة 5",
+"subject": "Şehirde mi yoksa kırsal kesimde mi yaşamak daha iyidir?",
+"audio": "",
+"correction": {
+"introduction": {
+"texte": "İnsanlığın yerleşim tercihleri, endüstrileşme ve modernleşme süreçleriyle birlikte köklü bir değişime uğramıştır. Günümüzde birçok insan iş ve eğitim imkanları için büyük şehirlere akın ederken, bir kesim de doğaya ve huzura dönmeyi arzulamaktadır. Şehir hayatının dinamizmi ile kırsal yaşamın sakinliği arasında seçim yapmak kişisel önceliklere bağlıdır. Bu yazıda, her iki yaşam tarzının sunduğu imkanlar ve zorluklar karşılaştırılacaktır.",
+"mots_cles": [
+"yerleşim",
+"tercihleri",
+"modernleşme",
+"iş",
+"eğitim",
+"doğaya",
+"şehir",
+"kırsal",
+"yaşam",
+"tarzının"
+]
+},
+"corps_du_devoir": {
+"texte": "İlk olarak, şehirde yaşamanın en büyük avantajı, sunduğu geniş iş olanakları, gelişmiş sağlık hizmetleri ve zengin kültürel aktivitelerdir. Büyük şehirler; tiyatrolar, konserler, nitelikli okullar ve kariyer basamakları açısından genç nüfus için bir cazibe merkezidir. Ayrıca, altyapı gelişmiş olduğu için ulaşımdan teknolojiye kadar her türlü hizmete saniyeler içinde erişmek mümkündür. Ancak madalyonun diğer yüzünde trafik sıkışıklığı, hava kirliliği, yüksek yaşam maliyetleri ve gürültü gibi insanı yıpratan faktörler yer alır. İkinci olarak, kırsal kesimde yaşam, doğayla iç içe, stressiz ve organik bir hayatın kapılarını aralar. Temiz hava, sessizlik ve komşuluk ilişkilerinin güçlü olması, bireylerin ruh ve beden sağlığını olumlu yönde etkiler. Kırsal alanlarda yaşam maliyeti şehre kıyasla çok daha düşüktür. Fakat kırsal yaşamın da kendine has zorlukları vardır; özellikle gelişmiş hastanelere, nitelikli eğitim kurumlarına uzak olmak ve sınırlı iş imkanları, acil durumlarda veya kariyer hedefleyenler için büyük bir dezavantaj oluşturabilir.",
+"mots_cles": [
+"iş",
+"sağlık",
+"kültürel",
+"kariyer",
+"cazibe",
+"altyapı",
+"hizmete",
+"trafik",
+"hava",
+"maliyetleri",
+"gürültü",
+"kırsal",
+"doğayla",
+"organik",
+"temiz",
+"sağlığını",
+"maliyeti",
+"hastanelere",
+"eğitim",
+"dezavantaj"
+]
+},
+"conclusion": {
+"texte": "Sonuç olarak, ne şehir hayatı ne de kırsal yaşam mutlak anlamda diğerinden üstündür. En iyi seçim, bireyin hayatının hangi döneminde olduğuna ve önceliklerine bağlıdır. Kariyer odaklı genç bir profesyonel için şehir idealken, huzur ve doğa arayan bir emekli için kırsal kesim en doğru adres olacaktır.",
+"mots_cles": [
+"Sonuç",
+"şehir",
+"kırsal",
+"seçim",
+"hayatının",
+"önceliklerine",
+"Kariyer",
+"profesyonel",
+"huzur",
+"emekli"
+]
+}
+}
+},
+{
+"id": "006",
+"level": "B2",
+"title": "مقالة 6",
+"subject": "Öğrenciler eğitimleri sırasında bir işte çalışmalı mı?",
+"audio": "",
+"correction": {
+"introduction": {
+"texte": "Yükseköğrenim maliyetlerinin artması ve iş piyasasının erken deneyim talep etmesi, öğrencileri eğitim hayatları devam ederken çalışmaya yönlendirmektedir. Birçok genç, cep harçlığını çıkarmak veya özgeçmişini güçlendirmek amacıyla yarı zamanlı işlerde şansını denemektedir. Ancak, ders yükünün yanında bir de iş sorumluluğu taşımak akademik performansı etkileyebilir. Bu durum, eğitim sürecinde çalışmanın mantıklı olup olmadığı sorusunu akıllara getirmektedir.",
+"mots_cles": [
+"maliyetlerinin",
+"deneyim",
+"öğrencileri",
+"eğitim",
+"harçlığını",
+"özgeçmişini",
+"işlerde",
+"sorumluluğu",
+"akademik",
+"performansı"
+]
+},
+"corps_du_devoir": {
+"texte": "Bir taraftan, öğrencilik yıllarında çalışmak, gençlere erken yaşta finansal bağımsızlık ve gerçek dünya deneyimi kazandırır. Bir işte çalışmak; zaman yönetimi, kriz çözme, takım çalışması ve profesyonel iletişim gibi okullarda öğretilmeyen 'yumuşak becerilerin' gelişmesini sağlar. Ayrıca, mezuniyet sonrasında iş bulma sürecinde, iş tecrübesine sahip adaylar her zaman bir adım öndedir. Öğrenci kendi kazandığı parayı yönetmeyi öğrenerek sorumluluk bilinci geliştirir. Diğer taraftan, bir işte çalışmanın getirdiği fiziksel ve zihinsel yorgunluk, öğrencinin asıl görevi olan derslerine odaklanmasını engelleyebilir. Yoğun iş saatleri, sınav dönemlerinde büyük bir strese yol açar ve devamsızlık sorunlarına neden olarak akademik başarıyı düşürebilir. Zaman darlığı yüzünden öğrenciler kulüp faaliyetleri, sosyal etkinlikler ve dinlenme gibi üniversite hayatının tadını çıkarabilecekleri aktivitelerden mahrum kalırlar. Bu da dengesiz bir gençlik dönemi geçirmelerine sebep olabilir.",
+"mots_cles": [
+"öğrencilik",
+"finansal",
+"deneyimi",
+"zaman",
+"takım",
+"iletişim",
+"becerilerin",
+"mezuniyet",
+"tecrübesine",
+"sorumluluk",
+"fiziksel",
+"yorgunluk",
+"derslerine",
+"sınav",
+"strese",
+"başarıyı",
+"sosyal",
+"etkinlikler",
+"aktivitelerden",
+"dengesiz"
+]
+},
+"conclusion": {
+"texte": "Özetle, eğitim sırasında çalışmak doğru bir denge kurulduğunda son derece faydalı bir deneyimdir. Öğrenciler, akademik başarılarını tehlikeye atmayacak şekilde, haftalık saatleri sınırlı olan yarı zamanlı veya kampüs içi işleri tercih etmeli, eğitimlerini her zaman birinci öncelik olarak görmelidirler.",
+"mots_cles": [
+"Özetle",
+"eğitim",
+"denge",
+"faydalı",
+"deneyim",
+"akademik",
+"saatleri",
+"yarı zamanlı",
+"kampüs",
+"öncelik"
+]
+}
+}
+},
+{
+"id": "007",
+"level": "B2",
+"title": "مقالة 7",
+"subject": "Yabancı bir dil öğrenmek için seyahat etmek teşvik edilmeli mi?",
+"audio": "",
+"correction": {
+"introduction": {
+"texte": "Küreselleşen dünyada yabancı dil bilmek, bireyler için bir lüks olmaktan çıkıp zorunluluk haline gelmiştir. Dil öğrenme yöntemleri arasında sınıf içi eğitim, mobil uygulamalar ve kitaplar yer alsa da, en etkili yolun o dilin konuşulduğu ülkeye gitmek olduğu söylenir. Ancak seyahat etmek ciddi maliyetler gerektirdiği için bu yöntemin herkes için erişilebilir olup olmadığı tartışmalıdır. Bu makalede, dil öğrenimi amacıyla yurt dışı seyahatlerinin teşvik edilmesinin boyutu incelenecektir.",
+"mots_cles": [
+"yabancı dil",
+"zorunluluk",
+"eğitim",
+"uygulamalar",
+"dilin",
+"ülkeye",
+"seyahat",
+"maliyetler",
+"dil öğrenimi",
+"yurt dışı"
+]
+},
+"corps_du_devoir": {
+"texte": "Bir yandan, bir dili yerinde, yani o dilin ana vatanında öğrenmek, öğrenme sürecini inanılmaz derecede hızlandırır. Yurt dışına çıkan bir kişi, gün boyunca markette, sokakta ve sosyal hayatta o dili duymak ve konuşmak zorunda kalır; bu duruma 'dil banyosu' (immersion) denir. Seyahat etmek sadece gramer kurallarını değil, aynı zamanda o kültürün jestlerini, günlük konuşma kalıplarını ve aksanını doğal bir şekilde kapmayı sağlar. Ayrıca, yabancı bir ülkede tek başına hayatta kalma mücadelesi bireyin özgüvenini ve kültürel vizyonunu muazzam derecede genişletir. Diğer yandan, dil öğrenmek için tek seçeneğin seyahat etmek olduğunu savunmak, büyük bir ekonomik adaletsizlik yaratabilir. Günümüz döviz kurları ve vize zorlukları göz önüne alındığında, her öğrencinin yurt dışına gitme imkanı yoktur. Üstelik gelişen teknoloji sayesinde, internet üzerinden ana dili İngilizce veya başka bir dil olan eğitmenlerle konuşma pratiği yapmak artık çok kolay ve maliyetsizdir. Doğru motivasyon ve disiplinle, kişi kendi ülkesinden hiç ayrılmadan da ev ortamında ileri düzeyde yabancı dil öğrenebilir.",
+"mots_cles": [
+"ana vatanında",
+"hızlandırır",
+"Yurt dışına",
+"sosyal",
+"dil banyosu",
+"gramer",
+"kültürün",
+"aksanını",
+"özgüvenini",
+"vizyonunu",
+"dil",
+"ekonomik",
+"döviz",
+"vize",
+"teknoloji",
+"eğitmenlerle",
+"pratiği",
+"maliyetsizdir",
+"motivasyon",
+"disiplinle"
+]
+},
+"conclusion": {
+"texte": "Sonuç olarak, yabancı dil öğrenmek için seyahat etmek altın değerinde bir fırsattır ve imkanı olanlar için kesinlikle teşvik edilmelidir. Ancak, yurt dışına gidemeyenler için de yerel imkanların, dijital platformların ve konuşma kulüplerinin geliştirilmesi, dil öğreniminde fırsat eşitliği sağlamak adına hayati önem taşımaktadır.",
+"mots_cles": [
+"Sonuç",
+"yabancı dil",
+"seyahat",
+"fırsattır",
+"yurt dışına",
+"dijital",
+"kulüplerinin",
+"dil öğreniminde",
+"fırsat eşitliği",
+"hayati"
+]
+}
+}
+},
+{
+"id": "008",
+"level": "B2",
+"title": "مقالة 8",
+"subject": "Okullarda daha fazla pratik beceri öğretilmeli mi?",
+"audio": "",
+"correction": {
+"introduction": {
+"texte": "Geleneksel eğitim sistemleri, ağırlıklı olarak teorik bilgi aktarımına ve sınav odaklı ezberciliğe dayanmaktadır. Ancak modern dünya, mezun olan gençlerden sadece formülleri bilmelerini değil, günlük hayatta karşılaştıkları sorunları çözebilmelerini de beklemektedir. Bu durum, okul müfredatlarına yemek pişirme, finans yönetimi ve tamirat gibi pratik becerilerin eklenmesi gerektiği fikrini ortaya çıkarmıştır. Bu makalede, pratik eğitimin okullardaki ağırlığının artırılması gerekliliği savunulacaktır.",
+"mots_cles": [
+"eğitim",
+"teorik",
+"sınav",
+"mezun",
+"günlük",
+"müfredatlarına",
+"finans",
+"pratik becerilerin",
+"pratik eğitimin",
+"gerekliliği"
+]
+},
+"corps_du_devoir": {
+"texte": "İlk olarak, okullarda pratik becerilerin öğretilmesi, gençlerin yetişkinlik hayatına adım attıklarında kendi kendilerine yetebilen bağımsız bireyler olmalarını sağlar. Birçok üniversite mezunu genç, ilk kez tek başına eve çıktığında basit bir yemeği pişirememekte, vergi beyannamesi dolduramamakta veya evdeki küçük bir arızayı tamir edememektedir. Okulda verilecek temel yaşam becerileri, kişisel bütçe yönetimi ve ilk yardım gibi eğitimler, öğrencileri hayata gerçek anlamda hazırlar. Bu sayede gençler, teorik bilginin yanında somut ve hayat kurtaran yetkinlikler kazanırlar. İkinci olarak, tamamen teorik eğitime odaklanmanın yaratıcılığı öldürdüğü ve öğrencileri okuldan soğuttuğu bir gerçektir. Her öğrenci soyut matematik formüllerini veya tarihi tarihleri ezberlemekten keyif almaz. Müfredata dahil edilecek marangozluk, dikiş, kodlama veya tarım gibi pratik dersler, farklı zeka türlerine sahip öğrencilerin kendi yeteneklerini keşfetmelerine olanak tanır. El becerilerini geliştiren öğrenciler, el emeğinin değerini anlar ve okulu sadece bir sınav merkezi olarak değil, hayatın provası olarak görmeye başlarlar.",
+"mots_cles": [
+"pratik",
+"yetişkinlik",
+"bağımsız",
+"mezun",
+"yemeği",
+"vergi",
+"tamir",
+"bütçe",
+"öğrencileri",
+"teorik",
+"teorik",
+"yaratıcılığı",
+"öğrencileri",
+"matematik",
+"ezberlemekten",
+"marangozluk",
+"pratik",
+"yeteneklerini",
+"becerilerini",
+"sınav"
+]
+},
+"conclusion": {
+"texte": "Son tahlilde, eğitim sisteminin asıl amacı insanı sadece sınavlara değil, bizzat hayatın kendisine hazırlamaktır. Teorik bilgi ile pratik beceriler arasında dengeli bir köprü kurulmalı, okullar gençleri hem entelektüel hem de pratik açıdan donanımlı bireyler olarak mezun etmelidir.",
+"mots_cles": [
+"tahlilde",
+"eğitim sisteminin",
+"sınavlara",
+"hayatın",
+"Teorik",
+"pratik",
+"köprü",
+"entelektüel",
+"donanımlı",
+"mezun"
+]
+}
+}
+},
+{
+"id": "009",
+"level": "B2",
+"title": "مقالة 9",
+"subject": "İnternetten alışveriş yapmak günlük hayatı gerçekten kolaylaştırıyor mu?",
+"audio": "",
+"correction": {
+"introduction": {
+"texte": "E-ticaretin patlaması, tüketim alışkanlıklarımızı kökten değiştirerek alışveriş merkezlerine gitme ihtiyacını neredeyse ortadan kaldırmıştır. Günümüzde market alışverişinden kıyafete kadar her şeye tek bir tıkla ulaşmak mümkündür. İnternet alışverişi zaman tasarrufu ve konfor sunması yönüyle övülse de, bazı riskleri ve olumsuz yanları da beraberinde getirmektedir. Bu çalışmada, sanal alışverişin hayatımızı gerçekten kolaylaştırıp kolaylaştırmadığı iki yönüyle ele alınacaktır.",
+"mots_cles": [
+"E-ticaretin",
+"tüketim",
+"alışveriş",
+"market",
+"tıkla",
+"İnternet alışverişi",
+"tasarrufu",
+"riskleri",
+"sanal",
+"alışverişin"
+]
+},
+"corps_du_devoir": {
+"texte": "Bir taraftan, çevrimiçi alışverişin günlük hayata sağladığı pratiklik ve kolaylıklar tartışmasız çok büyüktür. Özellikle yoğun iş temposunda çalışan insanlar için mağaza mağaza gezmek zorunda kalmamak devasa bir zaman tasarrufu sağlar. İnternet, tüketicilere binlerce markayı ve fiyatı saniyeler içinde karşılaştırma imkanı sunarak en ekonomik seçeneği bulmaya yardımcı olur. Ayrıca, fiziksel olarak mağazalarda bulunmayan nadir ürünler bile kapımıza kadar teslim edilir; bu durum engelli veya yaşlı bireyler için hayatı son derece kolaylaştıran bir hizmettir. Diğer taraftan, internetten alışveriş yapmanın getirdiği bazı ciddi dezavantajlar ve güvenlik riskleri de göz ardı edilemez. Fotoğrafta görülen ürün ile eve gelen ürünün kalitesi veya bedeni her zaman uyuşmayabilir, bu da sinir bozucu iade süreçlerine yol açar. Daha da önemlisi, siber dolandırıcılık ve kredi kartı bilgilerinin çalınması riski her zaman mevcuttur. Ayrıca, ekrana bakarak kolayca harcama yapmak, bireyleri çılgınca bir tüketim çılgınlığına ve gereksiz borçlanmaya sürükleyebilir, bu da bütçe yönetimini zorlaştırır.",
+"mots_cles": [
+"çevrimiçi",
+"pratiklik",
+"iş",
+"mağaza",
+"zaman tasarrufu",
+"İnternet",
+"fiyatı",
+"ekonomik",
+"mağazalarda",
+"hizmettir",
+"internetten",
+"dezavantajlar",
+"güvenlik",
+"kalitesi",
+"iade",
+"siber",
+"kredi kartı",
+"harcama",
+"tüketim",
+"bütçe"
+]
+},
+"conclusion": {
+"texte": "Netice itibarıyla, internetten alışveriş yapmak doğru ve güvenli platformlar kullanıldığında hayatı muazzam ölçüde kolaylaştıran modern bir nimettir. Ancak, siber tuzaklara düşmemek ve tüketim çılgınlığının esiri olmamak için bilinçli ve kontrollü bir harcama alışkanlığı edinilmelidir.",
+"mots_cles": [
+"Netice",
+"internetten",
+"platformlar",
+"modern",
+"siber",
+"tüketim",
+"bilinçli",
+"kontrollü",
+"harcama",
+"alışkanlığı"
+]
+}
+}
+},
+{
+"id": "010",
+"level": "B2",
+"title": "مقالة 10",
+"subject": "Günlük hayatta plastik kullanımı azaltılmalı mı?",
+"audio": "",
+"correction": {
+"introduction": {
+"texte": "Plastik malzemeler, ucuz, dayanıklı ve hafif olmaları nedeniyle modern sanayinin ve günlük yaşamın her alanını istila etmiştir. Poşetlerden su şişelerine, paketleme malzemelerinden mutfak gereçlerine kadar her yerde plastik görmek mümkündür. Ancak, doğada yüzyıllarca yok olmayan bu maddenin yarattığı çevre felaketi artık saklanamaz bir boyuta ulaşmıştır. Bu durum, günlük hayatta plastik kullanımının radikal bir şekilde azaltılması zorunluluğunu gündeme getirmektedir.",
+"mots_cles": [
+"Plastik",
+"modern",
+"yaşamın",
+"Poşetlerden",
+"plastik",
+"doğada",
+"çevre",
+"günlük",
+"plastik kullanımının",
+"zorunluluğunu"
+]
+},
+"corps_du_devoir": {
+"texte": "Bir yandan, plastik kullanımını azaltmak, dünyamızın ve gelecek nesillerin hayatta kalması için acil bir ekolojik zorunluluktur. Her yıl milyonlarca ton plastik atık denizlere ve okyanuslara karışarak deniz canlılarının ölümüne neden olmakta ve ekosistemi mahvetmektedir. Daha da tehlikelisi, plastiklerin parçalanmasıyla oluşan mikroplastikler su ve gıdalar yoluyla insan vücuduna girmekte, kanser gibi ciddi sağlık sorunlarına yol açmaktadır. Plastik poşet yerine bez çanta, plastik şişe yerine cam veya metal matara kullanmak gibi basit bireysel adımlar bile çevre kirliliğinin önlenmesinde devasa bir fark yaratabilir. Diğer yandan, plastiğin hayatımızdan tamamen çıkarılmasının önünde ciddi pratik ve ekonomik engeller bulunmaktadır. Plastik, alternatifleri olan cam, metal veya ahşaba kıyasla çok daha ucuz ve üretimi kolay bir malzemedir; bu da endüstride maliyetlerin düşük kalmasını sağlar. Ayrıca, gıda sektöründe plastik ambalajlar ürünlerin bozulmasını önleyerek hijyen sağlar ve gıda israfını azaltır. Tamamen plastik kullanımını yasaklamak, özellikle dar gelirli tüketiciler ve üretim sektörü için ani ekonomik şoklara ve fiyat artışlarına neden olabilir.",
+"mots_cles": [
+"plastik kullanımını",
+"ekolojik",
+"plastik",
+"canlılarının",
+"ekosistemi",
+"plastiklerin",
+"mikroplastikler",
+"sağlık",
+"Plastik",
+"çevre",
+"plastiğin",
+"ekonomik",
+"Plastik",
+"maliyetlerin",
+"gıda",
+"plastik",
+"israfını",
+"plastik",
+"ekonomik",
+"fiyat"
+]
+},
+"conclusion": {
+"texte": "Sonuç olarak, ekonomik kolaylıklarına rağmen plastik kullanımının çevreye ve insan sağlığına verdiği zarar katlanılamaz bir aşamadadır. Devletlerin yasal düzenlemeleri ve bireylerin bilinçli tercihleriyle tek kullanımlık plastikler tamamen hayatımızdan çıkarılmalı, doğa dostu alternatiflere yatırım yapılmalıdır.",
+"mots_cles": [
+"Sonuç",
+"plastik kullanımının",
+"insan sağlığına",
+"yasal",
+"plastikler",
+"doğa",
+"alternatiflere",
+"yatırım",
+"çevreye",
+"bilinçli"
+]
+}
+}
+}
+]
