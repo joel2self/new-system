@@ -1,9 +1,362 @@
-{
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
-}
+[
+   {
+    "id": "001",
+    "title": "你好，我叫保罗",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "你好！我叫保罗。我三十岁。我是法国人。我现在住在巴黎。巴黎是一个非常大、非常美丽的城市。我是学生。我有很多爱好，我喜欢音乐和电影。你呢？你叫什么名字？"
+  },
+  {
+    "id": "002",
+    "title": "我的家人",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我的家有四口人。我爸爸、我妈妈、我姐姐和我。我爸爸叫托马斯，我妈妈叫玛丽。我姐姐比我小，她很可爱。我们家还有一只白色的小猫。我很爱我的家人。"
+  },
+  {
+    "id": "003",
+    "title": "我的一天",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "早上，我七点起床。我洗澡，刷牙。然后，我吃早餐，喝一杯热咖啡。八点，我去学校。下午，我五点半回家。晚上，我和家人一起吃晚饭，十一点睡觉。"
+  },
+  {
+    "id": "004",
+    "title": "我的家",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我住在一个漂亮的大房子里。我的家有一个很大的花园，里面有很多红色的花。房子里有一个客厅、一个现代的厨房和三个卧室。周末，我喜欢和朋友在客厅聊天。"
+  },
+  {
+    "id": "005",
+    "title": "我的房间",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我的房间很小，但是非常安静。房间里有一张舒服的床、一个棕色的衣柜和一张黑色的书桌。书桌上面有我的电脑和一本书。我房间的墙是蓝色的，很好看。"
+  },
+  {
+    "id": "006",
+    "title": "我的学校",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我的学校很大，也很现代。它离我的家很近。学校里有很多学生和老师。我每天早上走路去上学。我喜欢我的学校，因为在这里每天都能学到很多有意思的东西。"
+  },
+  {
+    "id": "007",
+    "title": "我的朋友",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我有三个好朋友。他们叫朱莉、卢卡斯和戴维。星期六下午，我们经常一起骑自行车。朱莉很幽默，卢卡斯很喜欢运动，戴维很安静。他们对我都非常好。"
+  },
+  {
+    "id": "008",
+    "title": "我的老师",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我的汉语老师是马丁老师。他很高，戴着一副眼镜。他讲课非常清楚，对学生也很有耐心。在他的帮助下，我很喜欢在课上说汉语。大家都觉得他是一位好老师。"
+  },
+  {
+    "id": "009",
+    "title": "在教室里",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "教室里有二十张桌子和很多椅子。墙上有一块很大的黑板和一张世界地图。我的桌子上面放着我的笔记本、几支笔和一本汉语书。我们的教室非常干净、明亮。"
+  },
+  {
+    "id": "010",
+    "title": "我的课程表",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我的课程表每天都很满。星期一早上，我有数学课。下午，我们学习历史。星期三是我最喜欢的一天，因为下午没有课，我可以去体育馆做运动，这让我很开心。"
+  },
+  {
+    "id": "011",
+    "title": "颜色",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "世界上有很多美丽的颜色。天空是蓝色的，太阳是黄色的。夏天，公园里的树叶是绿色的。我最喜欢的颜色是红色，就像我爸爸开的那辆漂亮的新汽车一样。"
+  },
+  {
+    "id": "012",
+    "title": "数字",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "在课上，我们学习数数。一、二、三、四、五、六、七、八、九、十。数数非常简单！我今年十岁了，我哥哥十二岁，我的小妹妹今年才三岁。你今年几岁了？"
+  },
+  {
+    "id": "013",
+    "title": "一周的日子",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "一个星期有七天。从星期一到星期五，我去学校上学。星期六和星期日是周末。在周末，我可以在家休息，和朋友一起出去玩，或者和家人一起做晚饭。"
+  },
+  {
+    "id": "014",
+    "title": "一年中的月份",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "一年有十二个月。一月和二月常常下雪，非常冷。七月和八月天气很热，是夏天，学校放长假。我最喜欢的月份是十月，因为十月是我的生日，我可以收到礼物。"
+  },
+  {
+    "id": "015",
+    "title": "天气",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "这里的天气经常变化。有时候天晴，很暖和。有时候天是灰色的，下一整天的雨。冬天常常下雪，外面到处都是白色的。虽然冬天很漂亮，但我更喜欢暖和的天气。"
+  },
+  {
+    "id": "016",
+    "title": "今天天气很好",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "今天天气真的非常好！天空是蓝色的，没有云。太阳很大，天气很暖和。今天是一个完美的日子，非常适合去外面散步，或者和朋友一起在花园里踢足球。"
+  },
+  {
+    "id": "017",
+    "title": "我的衣服",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "今天我穿了一件蓝色的牛仔裤、一件绿色的短袖和一双白色的运动鞋。冬天天冷的时候，我总是穿一件很厚的大衣，脖子上围着红色的围巾，还要戴一顶暖和的帽子。"
+  },
+  {
+    "id": "018",
+    "title": "在我的书包里",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我的书包里有很多上课用的东西。里面有三个笔记本、一本数学书和一个铅笔盒。铅笔盒里有三支蓝色的钢笔、一把尺子、一块橡皮和几支铅笔。书包很重。"
+  },
+  {
+    "id": "019",
+    "title": "在超市",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "星期六早上，我和妈妈一起去超市。我们买了很多东西，有新鲜的牛奶、黄油、面包和奶酪。我们还买了一瓶橙汁和一块巧克力，准备作为下午的零食吃。"
+  },
+  {
+    "id": "020",
+    "title": "在市场",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我喜欢去我们城市的市集。那里有很多颜色，味道也很香。那里的商人卖很多当地的新鲜产品。我经常在那里买甜甜的苹果和新鲜的鸡蛋，用来做早餐。"
+  },
+  {
+    "id": "021",
+    "title": "我的早餐",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "对我和家人来说，早餐是一顿非常重要的饭。我每天早上喝一杯大杯的橙汁和一杯热茶。我吃面包配草莓酱或者甜蜂蜜。这非常好吃，也给我很多能量。"
+  },
+  {
+    "id": "022",
+    "title": "我最喜欢的饭菜",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我最喜欢的饭菜很简单，但是非常好吃。我最喜欢吃番茄酱意面，里面放很多奶酪。我也很喜欢吃烤鸡配热薯条。晚饭后的甜点，我最喜欢吃香草冰淇淋。"
+  },
+  {
+    "id": "023",
+    "title": "水果和蔬菜",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "为了身体健康，我们每天必须吃水果和蔬菜。我喜欢黄色的香蕉、红色的草莓和甜甜的橙子。在蔬菜里，我最喜欢吃胡萝卜、西红柿和新鲜的绿色沙拉。"
+  },
+  {
+    "id": "024",
+    "title": "在餐馆",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "今天晚上，我们全家去一家餐馆吃饭。我们为了庆祝我爸爸的生日。服务员把菜单拿到我们的桌子上。我点了一条新鲜的鱼和一碗米饭。这里的菜很好吃，我们很高兴。"
+  },
+  {
+    "id": "025",
+    "title": "在厨房",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我们公寓的厨房非常干净、明亮。桌子上放着洗干净的盘子和杯子。冰箱里有新鲜的蔬菜、肉和冷牛奶。我经常在厨房里帮助我妈妈一起准备晚饭。"
+  },
+  {
+    "id": "026",
+    "title": "在家里的一天",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "今天，我一整天都待在家里。早上，我收拾我的房间，然后写学校的作业。下午，我在客厅里看了一个非常有意思的电影，或者看一本书。这是很安静的一天。"
+  },
+  {
+    "id": "027",
+    "title": "我的城市",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我的城市历史悠久，而且非常漂亮。中心有一个美丽的广场，一座很大的教堂和很多商店。还有一个好看的公园，孩子们放学后在里面快乐地玩耍。我非常喜欢住在这里。"
+  },
+  {
+    "id": "028",
+    "title": "在街上",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我们这条街上总是非常热闹。汽车开得很慢，行人在人行道上走路。马路转角有一家小面包店，他们每天早上都卖新鲜、暖和的面包和非常好吃的蛋糕。"
+  },
+  {
+    "id": "029",
+    "title": "交通工具",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "去工作或者去学校的时候，我们会坐很多不同的交通工具。在我的城市里有公共汽车、很快的汽车、地铁和很多自行车。如果去很远的地方旅游，我会坐火车或者飞机。"
+  },
+  {
+    "id": "030",
+    "title": "乘坐公共汽车",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "每天早上，我都步行去公交车站坐车上学。我向司机买一张车票。早上的公共汽车里经常坐满了学生。我喜欢坐在靠窗的座位上，这样可以看外面的城市风景。"
+  },
+  {
+    "id": "031",
+    "title": "在公园散步",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "星期日下午，我们全家一起去公园散步。公园里很安静，到处都是绿色的。我爸爸走得很慢，我姐姐在草地上跑步，我听大树上的小鸟唱歌。我们觉得很放松。"
+  },
+  {
+    "id": "032",
+    "title": "我最喜欢的动物",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我最喜欢的动物是狗。我有一只棕色的小狗，它叫马克斯。它非常爱玩，也很聪明。每天晚上，我都会和它在花园里玩游戏，它睡觉的时候总是很忠诚地躺在我的床边。"
+  },
+  {
+    "id": "033",
+    "title": "我的周末",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "在周末的时候，我不用去学校上学。星期六，我做运动，然后去咖啡馆找我的朋友。星期日，我早上睡懒觉，下午和家人一起吃大餐。周末的时间总是过得太快了。"
+  },
+  {
+    "id": "034",
+    "title": "我最喜欢的活动",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "在空闲时间里，我有很多喜欢的活动。我喜欢画风景画，听中文歌曲，或者去游泳馆游泳。这些爱好让我觉得很高兴，能帮助我在放学后彻底放松下来。"
+  },
+  {
+    "id": "035",
+    "title": "做运动",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "做运动对身体健康非常有好处。我加入了一个足球俱乐部，每个星期踢两次足球。星期三下午，我们经常和别的小队进行比赛。我非常喜欢在球场上跑步和进球的感觉。"
+  },
+  {
+    "id": "036",
+    "title": "去朋友家做客",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "今天下午，我去我的朋友卢卡斯家里做客。我带了一个新的游戏机，这样我们就可以一起玩电子游戏。他妈妈给我们做了一个很好吃的巧克力蛋糕。我们在那里玩得很开心。"
+  },
+  {
+    "id": "037",
+    "title": "我的生日",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "今天我生日！我邀请了我的朋友们来家里参加一个小派对。我妈妈做了一个很大的蛋糕，上面有十支蜡烛。我的朋友们一起给我唱生日歌，还送给我很多漂亮的彩色礼物。"
+  },
+  {
+    "id": "038",
+    "title": "假期的一天",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "暑假的时候，我和我的父母一起去海边旅游。大海是蓝色的，水很暖和。我在清澈的水里游泳，还在沙滩上用沙子堆了很大的城堡。晚上，我们一起在小镇散步、吃冰淇淋。"
+  },
+  {
+    "id": "039",
+    "title": "一次家庭小出游",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "今天我们全家进行了一次小小的出游。我们开车去了一个很大的动物园，那个动物园离城市很远。我姐姐很喜欢看那些猴子，而我最喜欢看那些威风的大狮子。"
+  },
+  {
+    "id": "040",
+    "title": "我的日常生活",
+    "language": "中文",
+    "level": "A1",
+    "audio": "https://soundcloud.com",
+    "image": "https://cmsfly.com",
+    "text": "我的日常生活很简单，也很有规律。我的时间主要分给学校、写作业、体育活动和我的家人。每一天都有小小的快乐，我对自己的生活非常满意。"
+  }
+]
