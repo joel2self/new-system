@@ -1,9 +1,782 @@
+[
+  {
+    "id": "001",
+    "titre": "Présent - Passé composé",
+    "definition": "Complétez chaque phrase en conjuguant les verbes entre parenthèses aux temps demandés : le premier au présent de l'indicatif et le second au passé composé, pour exprimer une action actuelle liée à un événement achevé.",
+    "instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+    "questions": [
+      {
+        "text": "1. Aujourd'hui, il {{1}} (savoir) enfin pourquoi ses collègues lui {{2}} (préparer) une fête surprise la veille.",
+        "answers": [
+          "sait",
+          "ont préparé"
+        ]
+      },
+      {
+        "text": "2. Nous {{1}} (comprendre) votre hésitation actuelle puisque vous {{2}} (subir) un lourd préjudice récemment.",
+        "answers": [
+          "comprenons",
+          "avez subi"
+        ]
+      },
+      {
+        "text": "3. Elle {{1}} (constater) que les fleurs qu'on lui {{2}} (offrir) pour son anniversaire s'épanouissent magnifiquement.",
+        "answers": [
+          "constate",
+          "a offertes"
+        ]
+      },
+      {
+        "text": "4. Je {{1}} (lire) le rapport financier ce matin car le comptable l'{{2}} (envoyer) par courriel quelques heures plus tôt.",
+        "answers": [
+          "lis",
+          "a envoyé"
+        ]
+      },
+      {
+        "text": "5. Les enquêteurs {{1": " (détenir) des indices cruciaux que le suspect {{2}} (dissimuler) habilement dans son bureau.",
+        "answers": [
+          "détiennent",
+          "a dissimulés"
+        ]
+      },
+      {
+        "text": "6. Tu {{1}} (remarquer) immédiatement que la serrure de l'entrée {{2}} (céder) sous la force de l'impact.",
+        "answers": [
+          "remarques",
+          "a cédé"
+        ]
+      },
+      {
+        "text": "7. Le directeur {{1}} (valider) le projet maintenant que les ingénieurs {{2}} (résoudre) les derniers problèmes techniques.",
+        "answers": [
+          "valide",
+          "ont résolu"
+        ]
+      },
+      {
+        "text": "8. Vous {{1}} (ignorer) encore les raisons pour lesquelles la direction {{2}} (interrompre) si brutalement les négociations.",
+        "answers": [
+          "ignorez",
+          "a interrompu"
+        ]
+      },
+      {
+        "text": "9. À présent, ils {{1}} (regretter) amèrement les paroles blessantes qu'ils {{2}} (prononcer) lors de cette dispute générale.",
+        "answers": [
+          "regrettent",
+          "ont prononcées"
+        ]
+      },
+      {
+        "text": "10. Le guide {{1}} (conduire) le groupe de touristes vers le monument historique que l'UNESCO {{2}} (classer) l'an dernier.",
+        "answers": [
+          "conduit",
+          "a classé"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Présent - Imparfait",
+    "definition": "Complétez chaque phrase en conjuguant le premier verbe au présent de l'indicatif (action en cours) et le second à l'imparfait (décor, habitude ou action passée non délimitée).",
+    "instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+    "questions": [
+      {
+        "text": "1. Le vent {{1}} (souffler) très fort aujourd'hui alors qu'hier un calme plat {{2}} (régner) sur toute la vallée.",
+        "answers": [
+          "souffle",
+          "régnait"
+        ]
+      },
+      {
+        "text": "2. Nous {{1}} (habiter) maintenant dans un appartement moderne, mais autrefois nous {{2}} (vivre) dans une vieille ferme.",
+        "answers": [
+          "habitons",
+          "vivions"
+        ]
+      },
+      {
+        "text": "3. Je {{1}} (voir) que tu t'entraînes dur, contrairement à l'époque où tu {{2}} (négliger) ta condition physique.",
+        "answers": [
+          "vois",
+          "négligeais"
+        ]
+      },
+      {
+        "text": "4. Mon frère {{1}} (connaître) la réponse exacte car il {{2": " (étudier) ce sujet passionnément pendant son enfance.",
+        "answers": [
+          "connaît",
+          "étudiait"
+        ]
+      },
+      {
+        "text": "5. Les enfants {{1}} (jouer) sagement dans le jardin pendant que leur grand-père {{2}} (peindre) une grande toile.",
+        "answers": [
+          "jouent",
+          "peignait"
+        ]
+      },
+      {
+        "text": "6. Vous {{1}} (paraître) fatigué ce matin parce que le bruit de la rue {{2}} (retentir) sans cesse cette nuit.",
+        "answers": [
+          "paraissez",
+          "retentissait"
+        ]
+      },
+      {
+        "text": "7. Elle {{1}} (cuisiner) un gâteau délicieux dont la recette lui {{2}} (provenir) de sa grand-mère maternelle.",
+        "answers": [
+          "cuisine",
+          "provenait"
+        ]
+      },
+      {
+        "text": "8. Tu {{1}} (croire) tout savoir sur cette affaire alors que l'enquête {{2}} (piétiner) lamentablement le mois dernier.",
+        "answers": [
+          "crois",
+          "piétinait"
+        ]
+      },
+      {
+        "text": "9. Ils {{1}} (acheter) cette voiture neuve car leur ancien véhicule {{2}} (tomber) constamment en panne mécanique.",
+        "answers": [
+          "achètent",
+          "tombait"
+        ]
+      },
+      {
+        "text": "10. Le professeur {{1}} (expliquer) la leçon à des élèves qui, d'habitude, {{2}} (écouter) avec beaucoup de distraction.",
+        "answers": [
+          "explique",
+          "écoutaient"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Présent - Plus-que-parfait",
+    "definition": "Complétez chaque phrase en conjuguant le premier verbe au présent de l'indicatif et le second au plus-que-parfait, pour marquer l'antériorité d'un fait totalement accompli par rapport à une situation présente.",
+    "instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+    "questions": [
+      {
+        "text": "1. Le témoin {{1}} (confirmer) devant le tribunal ce qu'il {{2}} (déclarer) aux policiers lors de son premier interrogatoire.",
+        "answers": [
+          "confirme",
+          "avait déclaré"
+        ]
+      },
+      {
+        "text": "2. Je {{1}} (porter) fièrement cette montre en or que mon grand-père m'{{2}} (léguer) avant de s'éteindre.",
+        "answers": [
+          "porte",
+          "avait léguée"
+        ]
+      },
+      {
+        "text": "3. Nous {{1}} (perdre) l'avantage dans ce match parce que l'entraîneur adverse {{2}} (anticiper) notre stratégie offensive.",
+        "answers": [
+          "perdons",
+          "avait anticipé"
+        ]
+      },
+      {
+        "text": "4. Tu {{1}} (reconnaître) enfin l'erreur stratégique que ton équipe {{2}} (commettre) dès le lancement de la campagne.",
+        "answers": [
+          "reconnais",
+          "avait commise"
+        ]
+      },
+      {
+        "text": "5. Les ouvriers {{1}} (reprendre) le chantier après que l'architecte {{2}} (modifier) entièrement les plans de la structure.",
+        "answers": [
+          "reprennent",
+          "avait modifié"
+        ]
+      },
+      {
+        "text": "6. Le public {{1}} (applaudir) chaleureusement le musicien qui {{2}} (composer) cette symphonie magistrale durant son exil.",
+        "answers": [
+          "applaudit",
+          "avait composée"
+        ]
+      },
+      {
+        "text": "7. Vous {{1}} (apprécier) ce calme olympien car les voisins bruyants {{2}} (déménager) définitivement quelques jours plus tôt.",
+        "answers": [
+          "appréciez",
+          "avaient déménagé"
+        ]
+      },
+      {
+        "text": "8. Elle {{1}} (retrouver) les clés de sa voiture qu'elle {{2}} (égarer) bêtement derrière le canapé du salon.",
+        "answers": [
+          "retrouve",
+          "avait égarées"
+        ]
+      },
+      {
+        "text": "9. Ils {{1}} (refuser) de signer le contrat commercial puisque les clauses {{2}} (changer) à leur insu.",
+        "answers": [
+          "refusent",
+          "avaient changé"
+        ]
+      },
+      {
+        "text": "10. Le paysage {{1}} (offrir) une vue dégagée maintenant que la tempête nocturne {{2}} (balayer) tous les nuages.",
+        "answers": [
+          "offre",
+          "avait balayé"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Présent - Passé simple",
+    "definition": "Conjuguez le premier verbe au présent de l'indicatif et le second au passé simple (action soudaine, brève et achevée du récit historique ou littéraire).",
+    "instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+    "questions": [
+      {
+        "text": "1. Le vieux manuscrit {{1}} (révéler) aujourd'hui le secret que le roi {{2}} (dissimuler) jadis dans son testament scellé.",
+        "answers": [
+          "révèle",
+          "dissimula"
+        ]
+      },
+      {
+        "text": "2. Je {{1}} (contempler) cette statue historique à l'endroit même où l'empereur {{2}} (signer) le traité de paix.",
+        "answers": [
+          "contemple",
+          "signa"
+        ]
+      },
+      {
+        "text": "3. Nous {{1}} (étudier) les lois de la physique que Newton {{2}} (découvrir) grâce à ses travaux révolutionnaires.",
+        "answers": [
+          "étudions",
+          "découvrit"
+        ]
+      },
+      {
+        "text": "4. Tu {{1}} (parcourir) ce sentier forestier où, un soir de tempête, un arbre centenaire {{2}} (s'effondrer) subitement.",
+        "answers": [
+          "parcours",
+          "s'effondra"
+        ]
+      },
+      {
+        "text": "5. Les archéologues {{1}} (analyser) les ossements du pharaon que les pilleurs de tombes {{2}} (respecter) par crainte des malédictions.",
+        "answers": [
+          "analysent",
+          "respectèrent"
+        ]
+      },
+      {
+        "text": "6. L'écrivain {{1}} (dédicacer) cet ouvrage historique à la mémoire de la reine qui {{2}} (bâtir) cette immense forteresse.",
+        "answers": [
+          "dédicace",
+          "bâtit"
+        ]
+      },
+      {
+        "text": "7. Vous {{1}} (visiter) les ruines antiques de la cité fortifiée que les barbares {{2}} (détruire) de fond en comble.",
+"answers": [
+"visitez",
+"détruisirent"
+]
+},
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+"text": "8. Elle {{1}} (admirer) le courage héroïque de ce chevalier qui {{2}} (affronter) le dragon légendaire sans la moindre hésitation.",
+"answers": [
+"admire",
+"affronta"
+]
+},
+{
+"text": "9. Ils {{1}} (enseigner) la philosophie d'Aristote aux étudiants qui {{2}} (accueillir) ces préceptes avec une immense ferveur.",
+"answers": [
+"enseignent",
+"accueillirent"
+]
+},
+{
+"text": "10. Le musée {{1}} (exposer) la couronne sertie de diamants que le monarque {{2}} (perdre) lors de sa fuite précipitée.",
+"answers": [
+"expose",
+"perdit"
+]
 }
+]
+},
+{
+"id": "005",
+"titre": "Présent - Futur simple",
+"definition": "Conjuguez le premier verbe au présent de l'indicatif (fait actuel) et le second au futur simple (action à venir certaine ou programmée).",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "1. Comme il {{1}} (pleuvoir) à verse ce matin, je pense que nous {{2}} (reporter) notre sortie champêtre à demain.",
+"answers": [
+"pleut",
+"reporterons"
+]
+},
+{
+"text": "2. Si vous {{1}} (vouloir) obtenir une promotion rapidement, vous {{2}} (devoir) redoubler d'efforts lors des prochains audits.",
+"answers": [
+"voulez",
+"devrez"
+]
+},
+{
+"text": "3. Je {{1}} (terminer) mes études cette année et j'{{2}} (envoyer) immédiatement mes candidatures aux grandes entreprises.",
+"answers": [
+"termine",
+"enverrai"
+]
+},
+{
+"text": "4. Tu {{1}} (savoir) que le train {{2}} (partir) à l'heure précise indiquée sur ton billet électronique.",
+"answers": [
+"sais",
+"partira"
+]
+},
+{
+"text": "5. Les actions en bourse {{1}} (baisser) aujourd'hui, mais les analystes prédisent qu'elles {{2}} (remonter) dès la semaine prochaine.",
+"answers": [
+"baissent",
+"remonteront"
+]
+},
+{
+"text": "6. Le chef d'orchestre {{1}} (accorder) les instruments avant que le concert ne {{2}} (commencer) devant une salle comble.",
+"answers": [
+"accorde",
+"commencera"
+]
+},
+{
+"text": "7. Nous {{1}} (prendre) la voiture car le mécanicien assure qu'elle {{2}} (fonctionner) sans aucun problème technique.",
+"answers": [
+"prenons",
+"fonctionnera"
+]
+},
+{
+"text": "8. Elle {{1}} (acheter) les billets de cinéma en ligne afin que nous {{2}} (éviter) la longue file d'attente au guichet.",
+"answers": [
+"achète",
+"éviterons"
+]
+},
+{
+"text": "9. Ils {{1}} (attendre) le feu vert des autorités administratives, puis ils {{2}} (entamer) la construction de l'immeuble.",
+"answers": [
+"attendent",
+"entameront"
+]
+},
+{
+"text": "10. Le projet écologique {{1}} (séduire) les investisseurs, ce qui {{2}} (permettre) de nettoyer toute la plage communale.",
+"answers": [
+"séduit",
+"permettra"
+]
+}
+]
+},
+{
+"id": "006",
+"titre": "Présent - Futur antérieur",
+"definition": "Associez le présent de l'indicatif et le futur antérieur pour indiquer qu'une action future sera entièrement accomplie avant une autre ou pour exprimer une supposition présente.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "1. Dès que le directeur {{1}} (signer) l'autorisation écrite, nous {{2}} (commencer) immédiatement les travaux de rénovation.",
+"answers": [
+"aura signé",
+"commençons"
+]
+},
+{
+"text": "2. Je {{1}} (ranger) mon bureau quand j'{{2}} (expédier) ce dossier d'une importance capitale au client.",
+"answers": [
+"range",
+"aurai expédié"
+]
+},
+{
+"text": "3. Tu {{1}} (comprendre) mieux l'exercice de géométrie une fois que tu {{2}} (étudier) attentivement le théorème.",
+"answers": [
+"comprends",
+"auras étudié"
+]
+},
+{
+"text": "4. Les ouvriers {{1}} (quitter) le chantier uniquement lorsqu'ils {{2}} (poser) la dernière tuile de la toiture.",
+"answers": [
+"quittent",
+"auront posé"
+]
+},
+{
+"text": "5. Nous {{1}} (partir) en vacances dès que les enfants {{2}} (passer) tous leurs examens de fin d'année.",
+"answers": [
+"partons",
+"auront passé"
+]
+},
+{
+"text": "6. Vous {{1}} (pouvoir) vous détendre lorsque vous {{2}} (rédiger) l'intégralité de votre thèse de doctorat.",
+"answers": [
+"pouvez",
+"aurez rédigé"
+]
+},
+{
+"text": "7. Elle {{1}} (appeler) les secours car elle suppose qu'un accident grave {{2}} (se produire) sur l'autoroute.",
+"answers": [
+"appelle",
+"aura eu lieu"
+]
+},
+{
+"text": "8. Ils {{1}} (recevoir) les félicitations du jury dès qu'ils {{2}} (battre) le record du monde de course de fond.",
+"answers": [
+"reçoivent",
+"auront battu"
+]
+},
+{
+"text": "9. Le comptable {{1}} (clôturer) les bilans financiers dès que l'audit {{2}} (vérifier) toutes les factures d'achat.",
+"answers": [
+"clôture",
+"aura vérifié"
+]
+},
+{
+"text": "10. Tu {{1}} (savoir) que le colis est arrivé au point relais dès qu'un livreur l'{{2}} (enregistrer) dans le système.",
+"answers": [
+"sais",
+"aura enregistré"
+]
+}
+]
+},
+{
+"id": "007",
+"titre": "Présent - Conditionnel présent",
+"definition": "Complétez avec le présent de l'indicatif et le conditionnel présent (souvent employé pour exprimer un souhait, un conseil poli ou l'irréel dans une structure hypothétique nuancée).",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "1. Je {{1}} (penser) que vous {{2}} (devoir) consulter un avocat spécialisé avant de signer ce document juridique.",
+"answers": [
+"pense",
+"devriez"
+]
+},
+{
+"text": "2. S'il {{1}} (faire) beau aujourd'hui, les enfants {{2}} (aller) volontiers nager à la piscine municipale.",
+"answers": [
+"fait",
+"iraient"
+]
+},
+{
+"text": "3. Nous {{1}} (savoir) qu'une telle décision de justice {{2}} (provoquer) des manifestations majeures dans le pays.",
+"answers": [
+"savons",
+"provoquerait"
+]
+},
+{
+"text": "4. Tu {{1}} (dire) qu'un peu de repos te {{2}} (faire) le plus grand bien après cette longue semaine d'examens.",
+"answers": [
+"dis",
+"ferait"
+]
+},
+{
+"text": "5. Les scientifiques {{1}} (affirmer) qu'une éruption volcanique {{2}} (engendrer) des conséquences climatiques désastreuses à l'échelle mondiale.",
+"answers": [
+"affirment",
+"engendrerait"
+]
+},
+{
+"text": "6. Le ministre {{1}} (déclarer) qu'une nouvelle réforme fiscale {{2}} (permettre) d'alléger considérablement la dette de l'État.",
+"answers": [
+"déclare",
+"permettrait"
+]
+},
+{
+"text": "7. Vous {{1}} (assurer) que ce modèle de smartphone {{2}} (convenir) parfaitement aux exigences techniques de nos ingénieurs.",
+"answers": [
+"assurez",
+"conviendrait"
+]
+},
+{
+"text": "8. Elle {{1}} (prétendre) qu'un voyage d'études au Japon lui {{2}} (offrir) des opportunités de carrière uniques.",
+"answers": [
+"prétend",
+"offrirait"
+]
+},
+{
+"text": "9. Ils {{1}} (estimer) qu'un investissement massif dans l'énergie solaire {{2}} (résoudre) définitivement la crise énergétique du secteur.",
+"answers": [
+"estiment",
+"résoudrait"
+]
+},
+{
+"text": "10. Le gérant {{1}} (croire) qu'un changement de stratégie marketing {{2}} (attirer) une clientèle beaucoup plus jeune et dynamique.",
+"answers": [
+"croit",
+"attirerait"
+]
+}
+]
+},
+{
+"id": "008",
+"titre": "Présent - Conditionnel passé",
+"definition": "Associez le présent de l'indicatif et le conditionnel passé (pour exprimer un regret, un reproche ou une conjecture portant sur un fait passé révolu).",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "1. Aujourd'hui, il {{1}} (regretter) l'attitude impulsive qui lui {{2}} (coûter) sa place au sein du conseil d'administration.",
+"answers": [
+"regrette",
+"aurait coûté"
+]
+},
+{
+"text": "2. Je {{1}} (constater) que vous {{2}} (pouvoir) éviter cet écueil financier en suivant scrupuleusement les conseils de l'expert.",
+"answers": [
+"constate",
+"auriez pu"
+]
+},
+{
+"text": "3. Nous {{1}} (estimer) que cette intervention chirurgicale préventive {{2}} (sauver) la vie de ce patient l'an dernier.",
+"answers": [
+"estimons",
+"aurait sauvé"
+]
+},
+{
+"text": "4. Tu {{1}} (savoir) très bien qu'une telle erreur d'inattention {{2}} (provoquer) l'annulation pure et simple de tout le projet.",
+"answers": [
+"sais",
+"aurait provoqué"
+]
+},
+{
+"text": "5. Les historiens {{1}} (penser) qu'une meilleure entente diplomatique {{2}} (empêché) le déclenchement de cette guerre meurtrière.",
+"answers": [
+"pensent",
+"aurait empêché"
+]
+},
+{
+"text": "6. Le chef d'entreprise {{1}} (admettre) qu'un investissement précoce dans l'intelligence artificielle leur {{2}} (garantir) la première place du marché.",
+"answers": [
+"admet",
+"aurait garanti"
+]
+},
+{
+"text": "7. Vous {{1}} (comprendre) maintenant qu'une explication franche {{2}} (dissipé) tous les malentendus au sein de votre équipe.",
+"answers": [
+"comprenez",
+"aurait dissipé"
+]
+},
+{
+"text": "8. Elle {{1}} (déplorer) l'incident technique qui {{2}} (compromettre) la réussite de sa présentation devant les actionnaires internationaux.",
+"answers": [
+"déplore",
+"aurait compromis"
+]
+},
+{
+"text": "9. Ils {{1}} (affirmer) qu'un dispositif de sécurité renforcé {{2}} (déjoué) la tentative de cambriolage de la banque centrale.",
+"answers": [
+"affirment",
+"aurait déjoué"
+]
+},
+{
+"text": "10. Le public {{1}} (ignorer) que l'acteur principal {{2}} (renoncer) à son rôle si le réalisateur n'avait pas cédé.",
+"answers": [
+"ignore",
+"aurait renoncé"
+]
+}
+]
+},
+{
+"id": "009",
+"titre": "Présent - Subjonctif présent",
+"definition": "Conjuguez le verbe de la proposition principale au présent de l'indicatif et celui de la subordonnée au subjonctif présent (obligation, doute, volonté ou sentiment).",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "1. Le directeur {{1}} (exiger) que tous les employés {{2}} (être) ponctuels lors des réunions hebdomadaires du lundi.",
+"answers": [
+"exige",
+"soient"
+]
+},
+{
+"text": "2. Je {{1}} (douter) fort que cette solution provisoire {{2}} (suffire) à résoudre la crise énergétique actuelle.",
+"answers": [
+"doute",
+"suffise"
+]
+},
+{
+"text": "3. Nous {{1}} (vouloir) absolument que vous {{2}} (prendre) part à cette grande aventure scientifique internationale.",
+"answers": [
+"voulons",
+"preniez"
+]
+},
+{
+"text": "4. Il {{1}} (faut) impérativement que tu {{2}} (faire) valider ton visa de tourisme avant la fin de la semaine.",
+"answers": [
+"faut",
+"fasses"
+]
+},
+{
+"text": "5. Les parents {{1}} (craindre) que la tempête de neige ne {{2}} (bloquer) les transports scolaires cet après-midi.",
+"answers": [
+"craignent",
+"bloque"
+]
+},
+{
+"text": "6. Le professeur {{1}} (ordonner) que l'étudiant {{2}} (rendre) sa copie d'examen sans aucun délai supplémentaire.",
+"answers": [
+"ordonne",
+"rende"
+]
+},
+{
+"text": "7. Vous {{1}} (regretter) que les autorités administratives {{2}} (refuser) d'octroyer cette subvention cruciale pour l'association.",
+"answers": [
+"regrettez",
+"refusent"
+]
+},
+{
+"text": "8. Elle {{1}} (souhaiter) de tout cœur que son frère {{2}} (réussir) son concours d'entrée à la prestigieuse école d'art.",
+"answers": [
+"souhaite",
+"réussisse"
+]
+},
+{
+"text": "9. Ils {{1}} (interdire) formellement que quiconque {{2}} (entrer) dans le laboratoire biologique sans tenue stérile de protection.",
+"answers": [
+"interdisent",
+"entre"
+]
+},
+{
+"text": "10. La loi {{1}} (exiger) que chaque citoyen {{2}} (respecter) scrupuleusement le code de la route pour garantir la sécurité.",
+"answers": [
+"exige",
+"respecte"
+]
+}
+]
+},
+{
+"id": "010",
+"title": "Présent - Subjonctif passé",
+"definition": "Conjuguez le verbe principal au présent de l'indicatif et le verbe subordonné au subjonctif passé pour indiquer qu'une action dépendante s'est déroulée antérieurement à l'action principale.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "1. Le gérant {{1}} (se réjouir) que l'équipe commerciale {{2}} (atteindre) tous ses objectifs annuels avant le mois de décembre.",
+"answers": [
+"se réjouit",
+"ait atteint"
+]
+},
+{
+"text": "2. Je {{1}} (trouver) inadmissible que vous {{2}} (partir) de la conférence avant la fin du discours du ministre.",
+"answers": [
+"trouve",
+"soyez parti"
+]
+},
+{
+"text": "3. Nous {{1}} (douter) que les secouristes {{2}} (découvrir) tous les rescapés du séisme dans une zone aussi isolée.",
+"answers": [
+"doutons",
+"aient découvert"
+]
+},
+{
+"text": "4. Il {{1}} (est) surprenant que tu ne {{2}} (recevoir) aucun message de confirmation après avoir validé ton paiement en ligne.",
+"answers": [
+"est",
+"aies reçu"
+]
+},
+{
+"text": "5. Les investisseurs {{1}} (craindre) que l'inflation {{2}} (anéantir) les bénéfices économiques réalisés durant le premier trimestre.",
+"answers": [
+"craignent",
+"ait anéanti"
+]
+},
+{
+"text": "6. Le chef de projet {{1}} (déplorer) que le développeur informatique {{2}} (commettre) une telle erreur de code informatique.",
+"answers": [
+"déplore",
+"ait commise"
+]
+},
+{
+"text": "7. Vous {{1}} (être) satisfaits que l'architecte {{2}} (achever) la construction de la maison selon les délais impartis.",
+"answers": [
+"êtes",
+"ait achevé"
+]
+},
+{
+"text": "8. Elle {{1}} (contester) le fait que ses collègues de bureau {{2}} (prendre) cette décision stratégique majeure sans la consulter.",
+"answers": [
+"conteste",
+"aient pris"
+]
+},
+{
+"text": "9. Ils {{1}} (se féliciter) que la police {{2}} (arrêter) le suspect principal quelques heures seulement après le vol.",
+"answers": [
+"se félicitent",
+"ait arrêté"
+]
+},
+{
+"text": "10. Le public {{1}} (regretter) que le chanteur vedette {{2}} (annuler) sa tournée internationale pour des motifs de santé.",
+"answers": [
+"regrettez",
+"ait annulé"
+]
+}
+]
+}
+]
