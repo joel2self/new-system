@@ -941,3 +941,725 @@
 ]
 }
 ]
+},
+{
+"id": "011",
+"titre": "Présent-Subjonctif imparfait",
+"definition": "Complétez les phrases en tenant compte du sens et de la concordance des temps dans un registre littéraire.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Le roi exige que chacun {{1}} (respecter) la loi, bien qu’autrefois il souhaitât que personne ne la {{2}} (contester).",
+"answers": ["respecte", "contestât"]
+},
+{
+"text": "Je veux que tu {{1}} (venir) à la réunion, même si le directeur préférerait que tu {{2}} (rester) chez toi.",
+"answers": ["viennes", "restasses"]
+},
+{
+"text": "Elle demande que son fils {{1}} (faire) preuve de prudence, quoique son père désirât qu’il {{2}} (agir) avec audace.",
+"answers": ["fasse", "agît"]
+},
+{
+"text": "Nous souhaitons que le tribunal {{1}} (rendre) sa décision, bien que l’avocat craignît qu’il ne {{2}} (condamner) son client.",
+"answers": ["rende", "condamnât"]
+},
+{
+"text": "Le professeur exige que les étudiants {{1}} (apprendre) la règle, même si certains souhaitaient qu’il {{2}} (simplifier) le cours.",
+"answers": ["apprennent", "simplifiât"]
+},
+{
+"text": "Je tiens à ce que vous {{1}} (dire) la vérité, malgré les pressions qui voudraient que vous {{2}} (vous taire).",
+"answers": ["disiez", "vous tussiez"]
+},
+{
+"text": "Le chef souhaite que son équipe {{1}} (réussir), alors que ses adversaires redoutaient qu’elle {{2}} (gagner).",
+"answers": ["réussisse", "gagnât"]
+},
+{
+"text": "Elle veut que son frère {{1}} (être) présent, bien que leur mère préférât qu’il {{2}} (partir) avant la cérémonie.",
+"answers": ["soit", "partît"]
+},
+{
+"text": "Le magistrat exige que le témoin {{1}} (répondre) clairement, quoiqu’il craignît que celui-ci ne {{2}} (révéler) un secret.",
+"answers": ["réponde", "révélât"]
+},
+{
+"text": "Nous demandons que le gouvernement {{1}} (prendre) des mesures, malgré les opposants qui souhaitaient qu’il {{2}} (renoncer) à cette réforme.",
+"answers": ["prenne", "renonçât"]
+}
+]
+},
+{
+"id": "012",
+"titre": "Présent-Subjonctif plus-que-parfait",
+"definition": "Complétez les phrases en utilisant le présent et le subjonctif plus-que-parfait selon le contexte.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Je doute qu’il {{1}} (être) responsable, bien que les enquêteurs {{2}} (découvrir) son nom dans le dossier.",
+"answers": ["soit", "eussent découvert"]
+},
+{
+"text": "Il faut que nous {{1}} (comprendre) les enjeux, même si nos prédécesseurs {{2}} (commettre) des erreurs.",
+"answers": ["comprenions", "eussent commis"]
+},
+{
+"text": "Elle souhaite que son projet {{1}} (aboutir), malgré les obstacles que ses collègues {{2}} (rencontrer).",
+"answers": ["aboutisse", "eussent rencontrés"]
+},
+{
+"text": "Je ne crois pas que cette décision {{1}} (être) juste, bien que le comité {{2}} (examiner) tous les arguments.",
+"answers": ["soit", "eût examiné"]
+},
+{
+"text": "Il est essentiel que chacun {{1}} (participer), même si certains membres {{2}} (refuser) de coopérer auparavant.",
+"answers": ["participe", "eussent refusé"]
+},
+{
+"text": "Nous craignons que le témoin ne {{1}} (changer) sa version, quoique les policiers {{2}} (recueillir) plusieurs témoignages.",
+"answers": ["change", "eussent recueilli"]
+},
+{
+"text": "Il faut que cette théorie {{1}} (expliquer) les résultats, même si les chercheurs {{2}} (obtenir) des données contradictoires.",
+"answers": ["explique", "eussent obtenu"]
+},
+{
+"text": "Je souhaite que vous {{1}} (réussir), bien que vous {{2}} (rencontrer) de sérieuses difficultés.",
+"answers": ["réussissiez", "eussiez rencontré"]
+},
+{
+"text": "Il est possible que l’entreprise {{1}} (surmonter) la crise, malgré les pertes qu’elle {{2}} (subir).",
+"answers": ["surmonte", "eût subies"]
+},
+{
+"text": "Je ne pense pas que le directeur {{1}} (prendre) cette décision sans que ses conseillers {{2}} (étudier) les conséquences.",
+"answers": ["prenne", "eussent étudié"]
+}
+]
+},
+{
+"id": "013",
+"titre": "Passé composé-Imparfait",
+"definition": "Distinguez les actions achevées des circonstances et des situations en cours dans le passé.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Hier, nous {{1}} (découvrir) une exposition qui {{2}} (présenter) des œuvres contemporaines.",
+"answers": ["avons découvert", "présentait"]
+},
+{
+"text": "Elle {{1}} (perdre) son portefeuille pendant qu’elle {{2}} (attendre) le bus.",
+"answers": ["a perdu", "attendait"]
+},
+{
+"text": "Les chercheurs {{1}} (publier) leurs résultats alors qu’ils {{2}} (travailler) encore sur une seconde étude.",
+"answers": ["ont publié", "travaillaient"]
+},
+{
+"text": "Je {{1}} (rencontrer) mon ancien professeur tandis que je {{2}} (visiter) le musée.",
+"answers": ["ai rencontré", "visitais"]
+},
+{
+"text": "Le directeur {{1}} (annoncer) la nouvelle au moment où les employés {{2}} (préparer) la réunion.",
+"answers": ["a annoncé", "préparaient"]
+},
+{
+"text": "Nous {{1}} (prendre) une décision importante parce que la situation {{2}} (devenir) urgente.",
+"answers": ["avons pris", "devenait"]
+},
+{
+"text": "Tu {{1}} (trouver) la solution alors que tu {{2}} (relire) les notes du cours.",
+"answers": ["as trouvé", "relisais"]
+},
+{
+"text": "Les voyageurs {{1}} (annuler) leur réservation parce qu’une tempête {{2}} (approcher).",
+"answers": ["ont annulé", "approchait"]
+},
+{
+"text": "Elle {{1}} (recevoir) une réponse pendant qu’elle {{2}} (rédiger) un nouveau courrier.",
+"answers": ["a reçu", "rédigeait"]
+},
+{
+"text": "Vous {{1}} (réussir) l’examen alors que vous {{2}} (douter) encore de vos capacités.",
+"answers": ["avez réussi", "doutiez"]
+}
+]
+},
+{
+"id": "014",
+"titre": "Passé composé-Plus-que-parfait",
+"definition": "Distinguez une action passée d’une action déjà accomplie avant celle-ci.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Lorsque nous sommes arrivés à la gare, le train {{1}} (partir) et les voyageurs {{2}} (quitter) le quai.",
+"answers": ["était parti", "avaient quitté"]
+},
+{
+"text": "Elle {{1}} (retrouver) le dossier qu’elle {{2}} (ranger) dans une ancienne armoire.",
+"answers": ["a retrouvé", "avait rangé"]
+},
+{
+"text": "J’{{1}} (comprendre) la situation après que sa collègue m’{{2}} (expliquer) les circonstances.",
+"answers": ["ai compris", "avait expliqué"]
+},
+{
+"text": "Les enquêteurs {{1}} (identifier) le suspect qui {{2}} (laisser) des empreintes sur la porte.",
+"answers": ["ont identifié", "avait laissé"]
+},
+{
+"text": "Nous {{1}} (annuler) la réunion parce que plusieurs participants {{2}} (signaler) leur indisponibilité.",
+"answers": ["avons annulé", "avaient signalé"]
+},
+{
+"text": "Tu {{1}} (reconnaître) l’endroit où tu {{2}} (passer) ton enfance.",
+"answers": ["as reconnu", "avais passé"]
+},
+{
+"text": "Le médecin {{1}} (confirmer) le diagnostic que les premiers examens {{2}} (suggérer).",
+"answers": ["a confirmé", "avaient suggéré"]
+},
+{
+"text": "Elle {{1}} (réussir) l’entretien grâce aux recherches qu’elle {{2}} (effectuer) auparavant.",
+"answers": ["a réussi", "avait effectuées"]
+},
+{
+"text": "Les responsables {{1}} (reprendre) les travaux après que les techniciens {{2}} (réparer) la panne.",
+"answers": ["ont repris", "avaient réparé"]
+},
+{
+"text": "Vous {{1}} (découvrir) l’erreur que le logiciel {{2}} (introduire) lors de la mise à jour précédente.",
+"answers": ["avez découvert", "avait introduite"]
+}
+]
+},
+{
+"id": "015",
+"titre": "Passé composé-Passé simple",
+"definition": "Distinguez le passé composé, courant dans la langue moderne, du passé simple, principalement employé dans les récits littéraires.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "J’{{1}} (terminer) la lecture du roman, puis le héros {{2}} (découvrir) la vérité dans le dernier chapitre.",
+"answers": ["ai terminé", "découvrit"]
+},
+{
+"text": "Nous {{1}} (visiter) le château hier, et le guide {{2}} (raconter) ensuite l’histoire de ses anciens habitants.",
+"answers": ["avons visité", "raconta"]
+},
+{
+"text": "Elle {{1}} (retrouver) une vieille lettre, puis elle {{2}} (comprendre) le secret de sa famille.",
+"answers": ["a retrouvé", "comprit"]
+},
+{
+"text": "Les voyageurs {{1}} (arriver) au village au coucher du soleil, puis le maire les {{2}} (accueillir) sur la place.",
+"answers": ["sont arrivés", "accueillit"]
+},
+{
+"text": "Tu {{1}} (lire) le témoignage du survivant, puis tu {{2}} (découvrir) les détails de cette aventure.",
+"answers": ["as lu", "découvris"]
+},
+{
+"text": "Le chercheur {{1}} (présenter) ses conclusions récemment, tandis que son prédécesseur {{2}} (publier) ses travaux plusieurs décennies auparavant.",
+"answers": ["a présenté", "publia"]
+},
+{
+"text": "J’{{1}} (entendre) cette histoire plusieurs fois, mais le chroniqueur {{2}} (rapporter) une version différente dans son ouvrage.",
+"answers": ["ai entendu", "rapporta"]
+},
+{
+"text": "Les habitants {{1}} (célébrer) la victoire hier, puis le roi {{2}} (prononcer) un discours devant la foule.",
+"answers": ["ont célébré", "prononça"]
+},
+{
+"text": "Nous {{1}} (recevoir) votre message ce matin, et le messager {{2}} (repartir) aussitôt.",
+"answers": ["avons reçu", "repartit"]
+},
+{
+"text": "Elle {{1}} (expliquer) son choix lors de l’entretien, puis le narrateur {{2}} (révéler) les véritables raisons de son départ.",
+"answers": ["a expliqué", "révéla"]
+}
+]
+},
+{
+"id": "016",
+"titre": "Passé composé-Futur simple",
+"definition": "Utilisez le passé composé pour une action achevée et le futur simple pour une action à venir.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Nous {{1}} (terminer) le rapport aujourd’hui et nous le {{2}} (envoyer) demain matin.",
+"answers": ["avons terminé", "enverrons"]
+},
+{
+"text": "Elle {{1}} (réussir) son examen et elle {{2}} (pouvoir) commencer sa formation lundi.",
+"answers": ["a réussi", "pourra"]
+},
+{
+"text": "Tu {{1}} (réserver) les billets ; tu {{2}} (recevoir) la confirmation par courriel.",
+"answers": ["as réservé", "recevras"]
+},
+{
+"text": "Les techniciens {{1}} (réparer) le serveur et le service {{2}} (reprendre) dans quelques minutes.",
+"answers": ["ont réparé", "reprendra"]
+},
+{
+"text": "J’{{1}} (achever) cette étude et je {{2}} (présenter) les résultats vendredi.",
+"answers": ["ai achevé", "présenterai"]
+},
+{
+"text": "Vous {{1}} (confirmer) votre participation ; nous vous {{2}} (communiquer) l’adresse exacte demain.",
+"answers": ["avez confirmé", "communiquerons"]
+},
+{
+"text": "Le conseil {{1}} (adopter) la proposition et l’administration {{2}} (mettre) les mesures en œuvre prochainement.",
+"answers": ["a adopté", "mettra"]
+},
+{
+"text": "Les élèves {{1}} (terminer) leurs exercices et le professeur les {{2}} (corriger) demain.",
+"answers": ["ont terminé", "corrigera"]
+},
+{
+"text": "Elle {{1}} (obtenir) son diplôme et elle {{2}} (postuler) à plusieurs emplois.",
+"answers": ["a obtenu", "postulera"]
+},
+{
+"text": "Nous {{1}} (choisir) un nouveau fournisseur et nous {{2}} (signer) le contrat la semaine prochaine.",
+"answers": ["avons choisi", "signerons"]
+}
+]
+},
+{
+"id": "017",
+"titre": "Passé composé-Futur antérieur",
+"definition": "Associez une action achevée dans le passé à une action qui sera terminée avant une échéance future.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "J’{{1}} (envoyer) les documents et, avant midi, vous les {{2}} (recevoir).",
+"answers": ["ai envoyé", "aurez reçus"]
+},
+{
+"text": "Elle {{1}} (terminer) la première étape ; d’ici vendredi, elle {{2}} (achever) tout le projet.",
+"answers": ["a terminé", "aura achevé"]
+},
+{
+"text": "Nous {{1}} (réserver) la salle et, avant l’arrivée des invités, nous {{2}} (installer) le matériel.",
+"answers": ["avons réservé", "aurons installé"]
+},
+{
+"text": "Les chercheurs {{1}} (publier) une première étude et, d’ici la fin de l’année, ils {{2}} (analyser) toutes les données.",
+"answers": ["ont publié", "auront analysé"]
+},
+{
+"text": "Tu {{1}} (payer) l’acompte et, avant le départ, tu {{2}} (régler) le solde.",
+"answers": ["as payé", "auras réglé"]
+},
+{
+"text": "Le directeur {{1}} (valider) le budget et, au prochain trimestre, l’entreprise {{2}} (financer) les travaux.",
+"answers": ["a validé", "aura financé"]
+},
+{
+"text": "Vous {{1}} (choisir) votre spécialité et, à la fin du semestre, vous {{2}} (suivre) tous les cours obligatoires.",
+"answers": ["avez choisi", "aurez suivi"]
+},
+{
+"text": "Les techniciens {{1}} (remplacer) les pièces défectueuses et, avant la remise en service, ils {{2}} (tester) l’ensemble du système.",
+"answers": ["ont remplacé", "auront testé"]
+},
+{
+"text": "J’{{1}} (lire) votre proposition et, avant notre entretien, j’{{2}} (préparer) mes questions.",
+"answers": ["ai lu", "aurai préparé"]
+},
+{
+"text": "L’équipe {{1}} (définir) ses objectifs et, avant la présentation finale, elle {{2}} (rédiger) le rapport complet.",
+"answers": ["a défini", "aura rédigé"]
+}
+]
+},
+{
+"id": "018",
+"titre": "Passé composé-Conditionnel présent",
+"definition": "Utilisez le passé composé pour une action réalisée et le conditionnel présent pour exprimer un conseil, une possibilité ou une conséquence hypothétique.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Tu {{1}} (oublier) de joindre le document ; tu {{2}} (devoir) l’envoyer immédiatement.",
+"answers": ["as oublié", "devrais"]
+},
+{
+"text": "Nous {{1}} (recevoir) plusieurs plaintes ; nous {{2}} (pouvoir) améliorer le service.",
+"answers": ["avons reçu", "pourrions"]
+},
+{
+"text": "Elle {{1}} (perdre) ses données ; elle {{2}} (préférer) effectuer une sauvegarde régulière.",
+"answers": ["a perdu", "préférerait"]
+},
+{
+"text": "Vous {{1}} (dépasser) le budget prévu ; vous {{2}} (devoir) réduire certaines dépenses.",
+"answers": ["avez dépassé", "devriez"]
+},
+{
+"text": "Le candidat {{1}} (réussir) l’épreuve écrite ; il {{2}} (pouvoir) maintenant se préparer à l’entretien.",
+"answers": ["a réussi", "pourrait"]
+},
+{
+"text": "J’{{1}} (constater) plusieurs erreurs ; je {{2}} (souhaiter) vérifier les calculs une nouvelle fois.",
+"answers": ["ai constaté", "souhaiterais"]
+},
+{
+"text": "Les responsables {{1}} (identifier) les risques ; ils {{2}} (devoir) mettre en place des mesures préventives.",
+"answers": ["ont identifié", "devraient"]
+},
+{
+"text": "Tu {{1}} (obtenir) de bons résultats ; tu {{2}} (pouvoir) envisager une spécialisation.",
+"answers": ["as obtenu", "pourrais"]
+},
+{
+"text": "L’entreprise {{1}} (perdre) un client important ; elle {{2}} (chercher) à diversifier ses activités.",
+"answers": ["a perdu", "chercherait"]
+},
+{
+"text": "Nous {{1}} (examiner) votre dossier ; nous {{2}} (aimer) obtenir quelques précisions supplémentaires.",
+"answers": ["avons examiné", "aimerions"]
+}
+]
+},
+{
+"id": "019",
+"titre": "Passé composé-Conditionnel passé",
+"definition": "Distinguez les actions réalisées des actions hypothétiques ou qui auraient pu se produire dans le passé.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "J’{{1}} (envoyer) le dossier hier ; j’{{2}} (préférer) le transmettre plus tôt.",
+"answers": ["ai envoyé", "aurais préféré"]
+},
+{
+"text": "Elle {{1}} (prendre) une décision difficile ; elle {{2}} (aimer) disposer de davantage de temps.",
+"answers": ["a pris", "aurait aimé"]
+},
+{
+"text": "Nous {{1}} (terminer) le projet à temps ; nous {{2}} (pouvoir) le présenter plus tôt sans cette panne.",
+"answers": ["avons terminé", "aurions pu"]
+},
+{
+"text": "Tu {{1}} (réussir) l’examen ; tu {{2}} (obtenir) une meilleure note avec davantage de préparation.",
+"answers": ["as réussi", "aurais obtenu"]
+},
+{
+"text": "Les équipes {{1}} (respecter) le calendrier ; elles {{2}} (achever) les travaux avant la date prévue sans les intempéries.",
+"answers": ["ont respecté", "auraient achevé"]
+},
+{
+"text": "Il {{1}} (accepter) notre proposition ; il {{2}} (refuser) si les conditions avaient été moins favorables.",
+"answers": ["a accepté", "aurait refusé"]
+},
+{
+"text": "Vous {{1}} (choisir) ce fournisseur ; vous {{2}} (économiser) davantage avec une autre offre.",
+"answers": ["avez choisi", "auriez économisé"]
+},
+{
+"text": "Le comité {{1}} (valider) le budget ; il {{2}} (reporter) la décision si les données avaient été incomplètes.",
+"answers": ["a validé", "aurait reporté"]
+},
+{
+"text": "J’{{1}} (comprendre) votre inquiétude ; j’{{2}} (réagir) de la même manière dans votre situation.",
+"answers": ["ai compris", "aurais réagi"]
+},
+{
+"text": "Les voyageurs {{1}} (arriver) à destination ; ils {{2}} (manquer) leur correspondance si le premier train avait eu du retard.",
+"answers": ["sont arrivés", "auraient manqué"]
+}
+]
+},
+{
+"id": "020",
+"titre": "Passé composé-Subjonctif présent",
+"definition": "Complétez les phrases en distinguant les actions accomplies des formes du subjonctif présent exigées par le contexte.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Nous {{1}} (terminer) le rapport, mais il faut que le directeur le {{2}} (relire).",
+"answers": ["avons terminé", "relise"]
+},
+{
+"text": "Elle {{1}} (obtenir) son diplôme et ses parents souhaitent qu’elle {{2}} (poursuivre) ses études.",
+"answers": ["a obtenu", "poursuive"]
+},
+{
+"text": "J’{{1}} (recevoir) votre demande ; il est nécessaire que vous {{2}} (fournir) les pièces manquantes.",
+"answers": ["ai reçu", "fournissiez"]
+},
+{
+"text": "Les techniciens {{1}} (réparer) le système, bien que certains utilisateurs {{2}} (craindre) une nouvelle panne.",
+"answers": ["ont réparé", "craignent"]
+},
+{
+"text": "Tu {{1}} (réussir) l’épreuve, et je suis heureux que tu {{2}} (pouvoir) poursuivre ta formation.",
+"answers": ["as réussi", "puisses"]
+},
+{
+"text": "Le conseil {{1}} (adopter) la proposition, malgré les réserves que plusieurs membres {{2}} (exprimer).",
+"answers": ["a adopté", "expriment"]
+},
+{
+"text": "Nous {{1}} (choisir) une nouvelle méthode ; il faut que chacun {{2}} (respecter) les consignes.",
+"answers": ["avons choisi", "respecte"]
+},
+{
+"text": "Elle {{1}} (expliquer) les difficultés rencontrées, afin que ses collègues {{2}} (comprendre) les retards.",
+"answers": ["a expliqué", "comprennent"]
+},
+{
+"text": "Vous {{1}} (transmettre) les documents ; il est important que le service juridique les {{2}} (examiner).",
+"answers": ["avez transmis", "examine"]
+},
+{
+"text": "L’entreprise {{1}} (améliorer) ses procédures, bien qu’il {{2}} (rester) encore plusieurs problèmes à résoudre.",
+"answers": ["a amélioré", "reste"]
+}
+]
+},
+{
+"id": "021",
+"titre": "Passé composé-Subjonctif passé",
+"definition": "Complétez les phrases en distinguant une action accomplie et une action antérieure exprimée au subjonctif passé.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Je {{1}} (apprendre) que vous {{2}} (terminer) votre formation avant la date prévue.",
+"answers": ["ai appris", "ayez terminé"]
+},
+{
+"text": "Elle {{1}} (se réjouir) que son équipe {{2}} (remporter) le concours.",
+"answers": ["s’est réjouie", "ait remporté"]
+},
+{
+"text": "Nous {{1}} (constater) qu’il est regrettable que les responsables {{2}} (négliger) certains avertissements.",
+"answers": ["avons constaté", "aient négligé"]
+},
+{
+"text": "Le directeur {{1}} (confirmer) qu’il est possible que les techniciens {{2}} (résoudre) le problème.",
+"answers": ["a confirmé", "aient résolu"]
+},
+{
+"text": "Tu {{1}} (dire) que tu doutais que les experts {{2}} (examiner) toutes les preuves.",
+"answers": ["as dit", "aient examiné"]
+},
+{
+"text": "Les enquêteurs {{1}} (découvrir) qu’il est improbable que le suspect {{2}} (agir) seul.",
+"answers": ["ont découvert", "ait agi"]
+},
+{
+"text": "J’{{1}} (regretter) que nous {{2}} (ne pas pouvoir) participer à cette conférence.",
+"answers": ["ai regretté", "n’ayons pas pu"]
+},
+{
+"text": "Elle {{1}} (reconnaître) qu’il est surprenant que ses collègues {{2}} (ne pas recevoir) la convocation.",
+"answers": ["a reconnu", "n’aient pas reçu"]
+},
+{
+"text": "Nous {{1}} (être) heureux que vous {{2}} (obtenir) cette promotion.",
+"answers": ["avons été", "ayez obtenu"]
+},
+{
+"text": "Le responsable {{1}} (expliquer) qu’il est possible que le fournisseur {{2}} (envoyer) une version incorrecte.",
+"answers": ["a expliqué", "ait envoyé"]
+}
+]
+},
+{
+"id": "022",
+"titre": "Imparfait-Plus-que-parfait",
+"definition": "Distinguez une situation passée d’une action qui avait déjà eu lieu avant cette situation.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Elle {{1}} (être) inquiète parce qu’elle {{2}} (perdre) ses documents.",
+"answers": ["était", "avait perdu"]
+},
+{
+"text": "Nous {{1}} (attendre) devant la salle que le directeur {{2}} (réserver) pour la réunion.",
+"answers": ["attendions", "avait réservée"]
+},
+{
+"text": "Il {{1}} (connaître) déjà la région parce qu’il y {{2}} (vivre) pendant plusieurs années.",
+"answers": ["connaissait", "avait vécu"]
+},
+{
+"text": "Les étudiants {{1}} (être) confiants, car ils {{2}} (réviser) toutes les notions du programme.",
+"answers": ["étaient", "avaient révisé"]
+},
+{
+"text": "Je {{1}} (chercher) le livre que tu me {{2}} (prêter) la semaine précédente.",
+"answers": ["cherchais", "avais prêté"]
+},
+{
+"text": "La route {{1}} (être) impraticable parce que de fortes pluies {{2}} (endommager) la chaussée.",
+"answers": ["était", "avaient endommagé"]
+},
+{
+"text": "Vous {{1}} (sembler) surpris, car personne ne vous {{2}} (annoncer) ce changement.",
+"answers": ["sembliez", "avait annoncé"]
+},
+{
+"text": "L’entreprise {{1}} (traverser) une période difficile après qu’elle {{2}} (perdre) plusieurs clients importants.",
+"answers": ["traversait", "avait perdu"]
+},
+{
+"text": "Les enfants {{1}} (jouer) dans le jardin que leurs parents {{2}} (aménager) l’année précédente.",
+"answers": ["jouaient", "avaient aménagé"]
+},
+{
+"text": "Elle {{1}} (comprendre) pourquoi son collègue {{2}} (refuser) la proposition.",
+"answers": ["comprenait", "avait refusé"]
+}
+]
+},
+{
+"id": "023",
+"titre": "Imparfait-Passé simple",
+"definition": "Employez l’imparfait pour le cadre ou les actions en cours et le passé simple pour les événements principaux du récit littéraire.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "La nuit {{1}} (être) sombre lorsque le voyageur {{2}} (apercevoir) une lumière au loin.",
+"answers": ["était", "aperçut"]
+},
+{
+"text": "Le vent {{1}} (souffler) violemment quand la porte {{2}} (s’ouvrir) brusquement.",
+"answers": ["soufflait", "s’ouvrit"]
+},
+{
+"text": "Les habitants {{1}} (dormir) paisiblement lorsque le clocher {{2}} (sonner) minuit.",
+"answers": ["dormaient", "sonna"]
+},
+{
+"text": "Le roi {{1}} (réfléchir) à la situation lorsqu’un messager {{2}} (entrer) dans la salle.",
+"answers": ["réfléchissait", "entra"]
+},
+{
+"text": "Elle {{1}} (marcher) le long de la rivière quand elle {{2}} (découvrir) une vieille clé.",
+"answers": ["marchait", "découvrit"]
+},
+{
+"text": "La foule {{1}} (attendre) en silence lorsque le président {{2}} (prendre) la parole.",
+"answers": ["attendait", "prit"]
+},
+{
+"text": "Le soleil {{1}} (se coucher) lorsque les soldats {{2}} (atteindre) les remparts.",
+"answers": ["se couchait", "atteignirent"]
+},
+{
+"text": "Le professeur {{1}} (expliquer) la théorie quand un étudiant {{2}} (poser) une question inattendue.",
+"answers": ["expliquait", "posa"]
+},
+{
+"text": "Les voyageurs {{1}} (suivre) un sentier étroit lorsqu’ils {{2}} (entendre) un bruit étrange.",
+"answers": ["suivaient", "entendirent"]
+},
+{
+"text": "Le village {{1}} (sembler) tranquille quand un cavalier {{2}} (arriver) à toute vitesse.",
+"answers": ["semblait", "arriva"]
+}
+]
+},
+{
+"id": "024",
+"titre": "Imparfait-Passé antérieur",
+"definition": "Complétez les phrases en associant une situation passée à une action achevée dans un récit littéraire.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Le roi {{1}} (attendre) dans la salle lorsque le messager, dès qu’il {{2}} (arriver), lui remit la lettre.",
+"answers": ["attendait", "fut arrivé"]
+},
+{
+"text": "La reine {{1}} (rester) silencieuse lorsque, après que le conseiller {{2}} (parler), elle prit la décision.",
+"answers": ["restait", "eut parlé"]
+},
+{
+"text": "Les soldats {{1}} (se tenir) près des portes lorsque, dès que le signal {{2}} (retentir), ils avancèrent.",
+"answers": ["se tenaient", "eut retenti"]
+},
+{
+"text": "Le voyageur {{1}} (chercher) un abri lorsque, après qu’il {{2}} (franchir) la rivière, il aperçut une maison.",
+"answers": ["cherchait", "eut franchi"]
+},
+{
+"text": "Le juge {{1}} (examiner) le dossier lorsque, dès que le témoin {{2}} (terminer) sa déposition, il posa une question.",
+"answers": ["examinait", "eut terminé"]
+},
+{
+"text": "La foule {{1}} (attendre) devant le palais lorsque, après que le roi {{2}} (paraître), les acclamations éclatèrent.",
+"answers": ["attendait", "eut paru"]
+},
+{
+"text": "Le capitaine {{1}} (observer) l’horizon lorsque, dès que la tempête {{2}} (s’éloigner), le navire reprit sa route.",
+"answers": ["observait", "se fut éloignée"]
+},
+{
+"text": "Le savant {{1}} (travailler) dans son laboratoire lorsque, après qu’il {{2}} (achever) son expérience, il nota ses résultats.",
+"answers": ["travaillait", "eut achevé"]
+},
+{
+"text": "Les habitants {{1}} (se cacher) dans leurs maisons lorsque, dès que les combats {{2}} (cesser), ils sortirent dans les rues.",
+"answers": ["se cachaient", "eurent cessé"]
+},
+{
+"text": "Le prince {{1}} (attendre) près du pont lorsque, après que le cortège {{2}} (traverser) la place, il rejoignit le palais.",
+"answers": ["attendait", "eut traversé"]
+}
+]
+},
+{
+"id": "025",
+"titre": "Imparfait-Futur simple",
+"definition": "Distinguez les situations passées des actions futures envisagées depuis le présent ou dans un contexte narratif.",
+"instruction": "Remplissez les blancs en tapant la forme verbale correcte. Une fois terminé, cliquez sur « Soumettre ».",
+"questions": [
+{
+"text": "Autrefois, elle {{1}} (travailler) dans une petite entreprise ; l’année prochaine, elle {{2}} (diriger) sa propre équipe.",
+"answers": ["travaillait", "dirigera"]
+},
+{
+"text": "Nous {{1}} (habiter) près de la gare ; bientôt, nous {{2}} (déménager) dans un quartier plus calme.",
+"answers": ["habitions", "déménagerons"]
+},
+{
+"text": "Le directeur {{1}} (préparer) un nouveau projet ; demain, il {{2}} (présenter) ses conclusions.",
+"answers": ["préparait", "présentera"]
+},
+{
+"text": "Les étudiants {{1}} (étudier) chaque soir ; l’année prochaine, ils {{2}} (passer) leurs examens finaux.",
+"answers": ["étudiaient", "passeront"]
+},
+{
+"text": "Tu {{1}} (souhaiter) devenir médecin ; un jour, tu {{2}} (soigner) des patients dans ton propre cabinet.",
+"answers": ["souhaitais", "soigneras"]
+},
+{
+"text": "L’entreprise {{1}} (chercher) de nouveaux marchés ; bientôt, elle {{2}} (ouvrir) une agence à l’étranger.",
+"answers": ["cherchait", "ouvrira"]
+},
+{
+"text": "Je {{1}} (lire) beaucoup de romans pendant mon adolescence ; demain, je {{2}} (commencer) un nouvel ouvrage.",
+"answers": ["lisais", "commencerai"]
+},
+{
+"text": "Les chercheurs {{1}} (analyser) les données ; dans quelques mois, ils {{2}} (publier) leurs résultats.",
+"answers": ["analysaient", "publieront"]
+},
+{
+"text": "Vous {{1}} (travailler) sur cette question depuis plusieurs semaines ; bientôt, vous {{2}} (obtenir) une réponse définitive.",
+"answers": ["travailliez", "obtiendrez"]
+},
+{
+"text": "Le village {{1}} (dépendre) autrefois de l’agriculture ; demain, il {{2}} (accueillir) de nouvelles entreprises.",
+"answers": ["dépendait", "accueillera"]
+}
+]
+}
+]
