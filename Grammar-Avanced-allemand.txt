@@ -1775,7 +1775,8 @@
 "definition": "Übe verschiedene Verbformen anhand einer zusammenhängenden Handlung.",
 "instruction": "Lies den gesamten Satz, bevor du die Lücken ergänzt.",
 "questions": [
-{"text": "Der Reisende {{1}} sich verirrt, weil er die Karte zu Hause {{2}}. Als es dunkel wurde, {{3}} er nach einem sicheren Ort.", "answers": ["hatte", "vergessen hatte", "suchte"]},
+"text": "Der Reisende {{1}} sich verirrt, weil er die Karte zu Hause {{2}}. Als es dunkel wurde, {{3}} er nach einem sicheren Ort.",
+  "answers": ["hatte", "vergessen hatte", "suchte"]},
 {"text": "Nachdem die Forscher ihre Daten {{1}} hatten, {{2}} sie die Ergebnisse und {{3}} einen Bericht veröffentlichen.", "answers": ["gesammelt", "analysierten", "wollten"]},
 {"text": "Die Lehrerin sagt, die Schüler {{1}} die Aufgabe verstanden. Sie {{2}} bereits mehrere Beispiele gelöst, und morgen {{3}} sie ein ähnliches Problem bearbeiten.", "answers": ["hätten", "hätten", "werden"]},
 {"text": "Wenn der Bus pünktlich {{1}}, {{2}} wir rechtzeitig angekommen, und wir {{3}} nicht so lange warten müssen.", "answers": ["gekommen wäre", "wären", "hätten"]},
@@ -1996,7 +1997,10 @@
 {"text": "Wenn du mir die Wahrheit {{1}}, {{2}} ich dir geglaubt, und wir {{3}} den Streit vermeiden können.", "answers": ["gesagt hättest", "hätte", "hätten"]},
 {"text": "Bis zum Abend {{1}} die Familie alle Vorbereitungen getroffen haben. Danach {{2}} die Gäste eintreffen, und alle {{3}} zusammen essen.", "answers": ["wird", "werden", "werden"]},
 {"text": "Er {{1}} sich entschuldigt, nachdem er den Fehler {{2}}. Seine Freundin {{3}} ihm schließlich.", "answers": ["hatte", "erkannt hatte", "verzieh"]},
-{"text": "Die Mutter erklärte, die Kinder {{1}} bereits schlafen. Sie {{2}} den ganzen Tag gespielt, und morgen {{3}} sie früh aufstehen müssen.", "seien", "hätten", "würden"]},
+{
+  "text": "Die Mutter erklärte, die Kinder {{1}} bereits schlafen. Sie {{2}} den ganzen Tag gespielt, und morgen {{3}} sie früh aufstehen müssen.",
+  "answers": ["seien", "hätten", "würden"]
+},
 {"text": "Wenn wir näher beieinander {{1}}, {{2}} wir uns häufiger treffen, und wir {{3}} mehr Zeit miteinander verbringen.", "answers": ["wohnen würden", "könnten", "würden"]},
 {"text": "Nachdem der Gast angekommen {{1}}, {{2}} die Gastgeber das Essen und {{3}} ihm einen Platz.", "answers": ["war", "servierten", "boten"]},
 {"text": "Er behauptet, er {{1}} die Nachricht nicht erhalten. Er {{2}} sein Telefon überprüft, und später {{3}} er sich bei uns melden.", "answers": ["habe", "habe", "werde"]},
