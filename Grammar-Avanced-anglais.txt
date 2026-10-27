@@ -1,9 +1,1029 @@
-{
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
-}
+```json
+[
+  {
+    "id": "001",
+    "titre": "Present – Present Perfect",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She usually {{1}} (work) from home, and she {{2}} (live) here for five years.", "answers": ["works", "has lived"]},
+      {"text": "My brother {{1}} (teach) English, and he {{2}} (teach) at this school since 2021.", "answers": ["teaches", "has taught"]},
+      {"text": "The company {{1}} (produce) medical equipment and {{2}} (export) its products to twelve countries so far.", "answers": ["produces", "has exported"]},
+      {"text": "He {{1}} (not eat) meat, and he {{2}} (follow) this diet for years.", "answers": ["does not eat", "has followed"]},
+      {"text": "Water {{1}} (boil) at 100 degrees Celsius, and scientists {{2}} (study) its properties for centuries.", "answers": ["boils", "have studied"]},
+      {"text": "Our manager {{1}} (expect) high standards and {{2}} (introduce) several improvements this year.", "answers": ["expects", "has introduced"]},
+      {"text": "This medicine {{1}} (relieve) pain, and doctors {{2}} (use) it for decades.", "answers": ["relieves", "have used"]},
+      {"text": "The museum {{1}} (open) at nine every morning and {{2}} (welcome) thousands of visitors this month.", "answers": ["opens", "has welcomed"]},
+      {"text": "She {{1}} (speak) three languages and {{2}} (learn) Japanese since last summer.", "answers": ["speaks", "has learned"]},
+      {"text": "The Earth {{1}} (orbit) the Sun, and researchers {{2}} (discover) many details about its atmosphere.", "answers": ["orbits", "have discovered"]}
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Present – Imperfect",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She usually {{1}} (walk) to work, but last winter she {{2}} (take) the bus every day.", "answers": ["walks", "was taking"]},
+      {"text": "He {{1}} (live) in London now, although he {{2}} (live) in Paris when he was a child.", "answers": ["lives", "was living"]},
+      {"text": "The shop {{1}} (sell) fresh bread today, while it {{2}} (sell) only packaged food during the renovation.", "answers": ["sells", "was selling"]},
+      {"text": "My sister {{1}} (study) medicine, but she {{2}} (study) economics before changing courses.", "answers": ["studies", "was studying"]},
+      {"text": "This machine {{1}} (operate) automatically, whereas the old model {{2}} (require) constant supervision.", "answers": ["operates", "was requiring"]},
+      {"text": "He {{1}} (prefer) tea now, although he {{2}} (drink) coffee every morning last year.", "answers": ["prefers", "was drinking"]},
+      {"text": "The company {{1}} (employ) two hundred people, while it {{2}} (employ) only fifty during its early years.", "answers": ["employs", "was employing"]},
+      {"text": "She {{1}} (work) in finance, but at university she {{2}} (work) part-time in a restaurant.", "answers": ["works", "was working"]},
+      {"text": "The city {{1}} (attract) many tourists, even when the old airport {{2}} (undergo) major repairs.", "answers": ["attracts", "was undergoing"]},
+      {"text": "He {{1}} (know) the answer now, although he {{2}} (struggle) with the same question yesterday.", "answers": ["knows", "was struggling"]}
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Present – Past Perfect",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She {{1}} (manage) the department now, after she {{2}} (gain) years of experience in the field.", "answers": ["manages", "had gained"]},
+      {"text": "He {{1}} (understand) the problem today because he {{2}} (read) the report before the meeting.", "answers": ["understands", "had read"]},
+      {"text": "The firm {{1}} (operate) internationally after it {{2}} (establish) its first foreign branch.", "answers": ["operates", "had established"]},
+      {"text": "I {{1}} (recognize) her now because we {{2}} (meet) at a conference several years earlier.", "answers": ["recognize", "had met"]},
+      {"text": "The school {{1}} (offer) advanced courses after it {{2}} (hire) several experienced teachers.", "answers": ["offers", "had hired"]},
+      {"text": "He {{1}} (trust) his colleague because she {{2}} (prove) her reliability on earlier projects.", "answers": ["trusts", "had proved"]},
+      {"text": "The hospital {{1}} (provide) specialist care because it {{2}} (invest) in modern equipment.", "answers": ["provides", "had invested"]},
+      {"text": "She {{1}} (know) the rules because she {{2}} (read) the entire handbook before starting.", "answers": ["knows", "had read"]},
+      {"text": "The organization {{1}} (support) rural communities after it {{2}} (identify) their main needs.", "answers": ["supports", "had identified"]},
+      {"text": "He {{1}} (remain) calm because he {{2}} (prepare) for similar emergencies before.", "answers": ["remains", "had prepared"]}
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Present – Simple Past",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She {{1}} (work) in Yaoundé now, but she {{2}} (work) in Douala last year.", "answers": ["works", "worked"]},
+      {"text": "He {{1}} (prefer) online lessons, although he {{2}} (attend) traditional classes at university.", "answers": ["prefers", "attended"]},
+      {"text": "The company {{1}} (export) cocoa today, but it {{2}} (export) coffee exclusively in its early years.", "answers": ["exports", "exported"]},
+      {"text": "My father {{1}} (drive) carefully, but he {{2}} (have) an accident in 2019.", "answers": ["drives", "had"]},
+      {"text": "She {{1}} (speak) English fluently because she {{2}} (study) it for years at school.", "answers": ["speaks", "studied"]},
+      {"text": "The museum {{1}} (close) at six now, but it {{2}} (close) at five last winter.", "answers": ["closes", "closed"]},
+      {"text": "He {{1}} (teach) mathematics, although he {{2}} (study) physics at university.", "answers": ["teaches", "studied"]},
+      {"text": "This road {{1}} (lead) to the airport, but it {{2}} (lead) to the old station before the extension was built.", "answers": ["leads", "led"]},
+      {"text": "She {{1}} (own) a small business now, but she {{2}} (work) for a bank previously.", "answers": ["owns", "worked"]},
+      {"text": "The government {{1}} (invest) in education today, and it {{2}} (launch) a major reform last year.", "answers": ["invests", "launched"]}
+    ]
+  },
+  {
+    "id": "005",
+    "titre": "Present – Simple Future",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "If she {{1}} (finish) early, she {{2}} (join) us for dinner.", "answers": ["finishes", "will join"]},
+      {"text": "The manager {{1}} (announce) the results when the meeting {{2}} (end).", "answers": ["announces", "ends"]},
+      {"text": "Unless the weather {{1}} (improve), we {{2}} (cancel) the outdoor event.", "answers": ["improves", "will cancel"]},
+      {"text": "He {{1}} (call) you as soon as he {{2}} (arrive).", "answers": ["will call", "arrives"]},
+      {"text": "If the company {{1}} (expand), it {{2}} (hire) more employees.", "answers": ["expands", "will hire"]},
+      {"text": "The train {{1}} (leave) when the signal {{2}} (turn) green.", "answers": ["will leave", "turns"]},
+      {"text": "Whenever she {{1}} (need) help, I {{2}} (assist) her.", "answers": ["needs", "will assist"]},
+      {"text": "If you {{1}} (follow) the instructions, the device {{2}} (work) correctly.", "answers": ["follow", "will work"]},
+      {"text": "The school {{1}} (reopen) once the repairs {{2}} (be) complete.", "answers": ["will reopen", "are"]},
+      {"text": "If he {{1}} (accept) the offer, he {{2}} (start) work next month.", "answers": ["accepts", "will start"]}
+    ]
+  },
+  {
+    "id": "006",
+    "titre": "Present – Future Perfect",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "By December, she {{1}} (work) here for ten years, and she {{2}} (complete) several major projects.", "answers": ["will have worked", "will have completed"]},
+      {"text": "The company {{1}} (operate) in five countries, and by next year it {{2}} (open) two more branches.", "answers": ["operates", "will have opened"]},
+      {"text": "He {{1}} (manage) the team now, and by June he {{2}} (lead) it for three years.", "answers": ["manages", "will have led"]},
+      {"text": "The bridge {{1}} (connect) the two towns, and by 2030 engineers {{2}} (reinforce) its structure.", "answers": ["connects", "will have reinforced"]},
+      {"text": "She {{1}} (teach) English, and by the end of this term she {{2}} (teach) more than a thousand students.", "answers": ["teaches", "will have taught"]},
+      {"text": "The project {{1}} (require) careful planning, and by Friday the team {{2}} (finish) the first phase.", "answers": ["requires", "will have finished"]},
+      {"text": "He {{1}} (own) the business, and by next year he {{2}} (repay) the initial loan.", "answers": ["owns", "will have repaid"]},
+      {"text": "The hospital {{1}} (serve) this region, and by 2030 it {{2}} (treat) thousands of additional patients.", "answers": ["serves", "will have treated"]},
+      {"text": "The course {{1}} (cover) advanced grammar, and by the final lesson students {{2}} (master) the main structures.", "answers": ["covers", "will have mastered"]},
+      {"text": "The system {{1}} (process) applications daily, and by tomorrow it {{2}} (review) every file received today.", "answers": ["processes", "will have reviewed"]}
+    ]
+  },
+  {
+    "id": "007",
+    "titre": "Present – Present Conditional",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She {{1}} (prefer) that we {{2}} (arrive) earlier.", "answers": ["would prefer", "arrive"]},
+      {"text": "He {{1}} (believe) the plan {{2}} (work) better with more funding.", "answers": ["believes", "would work"]},
+      {"text": "The director {{1}} (suggest) that the team {{2}} (meet) weekly.", "answers": ["suggests", "meet"]},
+      {"text": "I {{1}} (think) the company {{2}} (benefit) from a new strategy.", "answers": ["think", "would benefit"]},
+      {"text": "She {{1}} (recommend) that every applicant {{2}} (submit) two references.", "answers": ["recommends", "submit"]},
+      {"text": "The manager {{1}} (say) that a flexible schedule {{2}} (improve) productivity.", "answers": ["says", "would improve"]},
+      {"text": "He {{1}} (insist) that everyone {{2}} (be) present at the briefing.", "answers": ["insists", "be"]},
+      {"text": "The report {{1}} (indicate) that the policy {{2}} (reduce) costs.", "answers": ["indicates", "would reduce"]},
+      {"text": "She {{1}} (propose) that the committee {{2}} (review) the rules.", "answers": ["proposes", "review"]},
+      {"text": "I {{1}} (expect) the new software {{2}} (make) the process easier.", "answers": ["expect", "would make"]}
+    ]
+  },
+  {
+    "id": "008",
+    "titre": "Present – Past Conditional",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "I {{1}} (regret) that we {{2}} (not act) sooner.", "answers": ["regret", "did not act"]},
+      {"text": "She {{1}} (believe) the project {{2}} (succeed) if the team had received more support.", "answers": ["believes", "would have succeeded"]},
+      {"text": "The manager {{1}} (admit) that he {{2}} (make) a mistake.", "answers": ["admits", "made"]},
+      {"text": "He {{1}} (wish) he {{2}} (accept) the offer when it was available.", "answers": ["wishes", "had accepted"]},
+      {"text": "I {{1}} (think) they {{2}} (avoid) the delay if they had left earlier.", "answers": ["think", "would have avoided"]},
+      {"text": "She {{1}} (know) that the team {{2}} (finish) on time if everyone had cooperated.", "answers": ["knows", "would have finished"]},
+      {"text": "The director {{1}} (recognize) that the company {{2}} (lose) less money if it had acted earlier.", "answers": ["recognizes", "would have lost"]},
+      {"text": "He {{1}} (understand) now that he {{2}} (should accept) the warning.", "answers": ["understands", "should have accepted"]},
+      {"text": "The report {{1}} (show) that the organization {{2}} (save) more lives if it had intervened sooner.", "answers": ["shows", "would have saved"]},
+      {"text": "I {{1}} (know) that she {{2}} (help) us if we had asked.", "answers": ["know", "would have helped"]}
+    ]
+  },
+  {
+    "id": "009",
+    "titre": "Present – Present Subjunctive",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "The teacher {{1}} (insist) that every student {{2}} (be) punctual.", "answers": ["insists", "be"]},
+      {"text": "The committee {{1}} (recommend) that the proposal {{2}} (receive) further review.", "answers": ["recommends", "receive"]},
+      {"text": "The doctor {{1}} (suggest) that he {{2}} (take) more rest.", "answers": ["suggests", "take"]},
+      {"text": "The law {{1}} (require) that every applicant {{2}} (provide) valid identification.", "answers": ["requires", "provide"]},
+      {"text": "She {{1}} (demand) that the report {{2}} (be) completed today.", "answers": ["demands", "be"]},
+      {"text": "The manager {{1}} (propose) that the meeting {{2}} (begin) earlier.", "answers": ["proposes", "begin"]},
+      {"text": "The board {{1}} (insist) that each department {{2}} (submit) a budget.", "answers": ["insists", "submit"]},
+      {"text": "The judge {{1}} (order) that the witness {{2}} (remain) in the courtroom.", "answers": ["orders", "remain"]},
+      {"text": "The director {{1}} (request) that the staff {{2}} (attend) the training session.", "answers": ["requests", "attend"]},
+      {"text": "The regulation {{1}} (stipulate) that every device {{2}} (meet) safety standards.", "answers": ["stipulates", "meet"]}
+    ]
+  },
+  {
+    "id": "010",
+    "titre": "Present – Past Subjunctive",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "I {{1}} (wish) I {{2}} (be) more confident during interviews.", "answers": ["wish", "were"]},
+      {"text": "She {{1}} (act) as if she {{2}} (know) everything.", "answers": ["acts", "knew"]},
+      {"text": "He {{1}} (speak) as though he {{2}} (own) the entire company.", "answers": ["speaks", "owned"]},
+      {"text": "I {{1}} (prefer) that he {{2}} (stay) at home tonight.", "answers": ["would prefer", "stay"]},
+      {"text": "She {{1}} (look) as if she {{2}} (be) exhausted.", "answers": ["looks", "were"]},
+      {"text": "He {{1}} (wish) his colleagues {{2}} (understand) his concerns.", "answers": ["wishes", "understood"]},
+      {"text": "The director {{1}} (talk) as though he {{2}} (have) complete authority.", "answers": ["talks", "had"]},
+      {"text": "I {{1}} (would rather) you {{2}} (not mention) the incident.", "answers": ["would rather", "did not mention"]},
+      {"text": "She {{1}} (behave) as if she {{2}} (be) the only person responsible.", "answers": ["behaves", "were"]},
+      {"text": "He {{1}} (wish) he {{2}} (know) the answer.", "answers": ["wishes", "knew"]}
+    ]
+  },
+  {
+    "id": "011",
+    "titre": "Present – Imperfect Subjunctive",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "The lawyer {{1}} (insist) that the witness {{2}} (testify) before the hearing ended.", "answers": ["insists", "testify"]},
+      {"text": "The professor {{1}} (recommend) that the students {{2}} (revise) the material before the examination.", "answers": ["recommends", "revise"]},
+      {"text": "The director {{1}} (request) that the team {{2}} (submit) the report before the deadline.", "answers": ["requests", "submit"]},
+      {"text": "The judge {{1}} (demand) that the accused {{2}} (appear) in court.", "answers": ["demands", "appear"]},
+      {"text": "The doctor {{1}} (suggest) that the patient {{2}} (avoid) strenuous activity.", "answers": ["suggests", "avoid"]},
+      {"text": "The committee {{1}} (recommend) that the proposal {{2}} (be) reconsidered.", "answers": ["recommends", "be"]},
+      {"text": "The manager {{1}} (insist) that the employee {{2}} (explain) the discrepancy.", "answers": ["insists", "explain"]},
+      {"text": "The regulation {{1}} (require) that every applicant {{2}} (complete) the form.", "answers": ["requires", "complete"]},
+      {"text": "The board {{1}} (propose) that the company {{2}} (invest) in renewable energy.", "answers": ["proposes", "invest"]},
+      {"text": "The officer {{1}} (order) that the area {{2}} (remain) closed until further notice.", "answers": ["orders", "remain"]}
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "Present – Pluperfect Subjunctive",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "I {{1}} (wish) I {{2}} (accept) the scholarship when I had the chance.", "answers": ["wish", "had accepted"]},
+      {"text": "She {{1}} (regret) that she {{2}} (not prepare) better for the interview.", "answers": ["regrets", "had not prepared"]},
+      {"text": "He {{1}} (wish) he {{2}} (tell) the truth from the beginning.", "answers": ["wishes", "had told"]},
+      {"text": "I {{1}} (feel) as though I {{2}} (make) the wrong decision.", "answers": ["feel", "had made"]},
+      {"text": "She {{1}} (act) as if she {{2}} (never meet) him before.", "answers": ["acts", "had never met"]},
+      {"text": "He {{1}} (regret) that he {{2}} (ignore) the warning.", "answers": ["regrets", "had ignored"]},
+      {"text": "I {{1}} (wish) we {{2}} (leave) earlier yesterday.", "answers": ["wish", "had left"]},
+      {"text": "She {{1}} (look) as though she {{2}} (not sleep) for several nights.", "answers": ["looks", "had not slept"]},
+      {"text": "He {{1}} (wish) he {{2}} (take) the opportunity when it was offered.", "answers": ["wishes", "had taken"]},
+      {"text": "I {{1}} (regret) that we {{2}} (not investigate) the matter sooner.", "answers": ["regret", "had not investigated"]}
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Present Perfect – Imperfect",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "I {{1}} (have) this car for years, and it {{2}} (run) perfectly when I bought it.", "answers": ["have had", "was running"]},
+      {"text": "She {{1}} (know) him for a long time, even when he {{2}} (work) abroad.", "answers": ["has known", "was working"]},
+      {"text": "They {{1}} (own) the house since 2018, when the neighborhood {{2}} (develop) rapidly.", "answers": ["have owned", "was developing"]},
+      {"text": "He {{1}} (feel) more confident since he {{2}} (attend) those training sessions.", "answers": ["has felt", "was attending"]},
+      {"text": "We {{1}} (use) this software for years, even when it {{2}} (lack) several important features.", "answers": ["have used", "was lacking"]},
+      {"text": "The organization {{1}} (support) the village since the area {{2}} (recover) from the floods.", "answers": ["has supported", "was recovering"]},
+      {"text": "She {{1}} (work) here since the company {{2}} (expand) its operations.", "answers": ["has worked", "was expanding"]},
+      {"text": "I {{1}} (believe) in this idea for years, even when others {{2}} (doubt) its value.", "answers": ["have believed", "were doubting"]},
+      {"text": "The team {{1}} (improve) considerably since the coach {{2}} (train) them every morning.", "answers": ["has improved", "was training"]},
+      {"text": "He {{1}} (own) this business for a decade, while the economy {{2}} (change) rapidly.", "answers": ["has owned", "was changing"]}
+    ]
+  },
+  {
+    "id": "014",
+    "titre": "Present Perfect – Past Perfect",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She {{1}} (publish) three books, after she {{2}} (write) for several years without recognition.", "answers": ["has published", "had written"]},
+      {"text": "The company {{1}} (expand) considerably since it {{2}} (establish) its first branch.", "answers": ["has expanded", "had established"]},
+      {"text": "He {{1}} (become) more confident since he {{2}} (overcome) his earlier difficulties.", "answers": ["has become", "had overcome"]},
+      {"text": "The team {{1}} (win) several awards after it {{2}} (develop) an innovative method.", "answers": ["has won", "had developed"]},
+      {"text": "I {{1}} (understand) the issue better since I {{2}} (read) the original report.", "answers": ["have understood", "had read"]},
+      {"text": "The school {{1}} (improve) its results since it {{2}} (introduce) a new teaching approach.", "answers": ["has improved", "had introduced"]},
+      {"text": "She {{1}} (gain) considerable experience after she {{2}} (work) in several international organizations.", "answers": ["has gained", "had worked"]},
+      {"text": "The researchers {{1}} (make) progress since they {{2}} (identify) the main cause of the problem.", "answers": ["have made", "had identified"]},
+      {"text": "He {{1}} (receive) several promotions since he {{2}} (join) the company.", "answers": ["has received", "had joined"]},
+      {"text": "The organization {{1}} (help) thousands of families after it {{2}} (launch) its emergency program.", "answers": ["has helped", "had launched"]}
+    ]
+  },
+  {
+    "id": "015",
+    "titre": "Present Perfect – Simple Past",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "I {{1}} (visit) several countries, but I {{2}} (travel) to Ghana for the first time in 2022.", "answers": ["have visited", "travelled"]},
+      {"text": "She {{1}} (write) many articles, and she {{2}} (publish) her first one in 2018.", "answers": ["has written", "published"]},
+      {"text": "They {{1}} (complete) several projects, including the one they {{2}} (finish) last month.", "answers": ["have completed", "finished"]},
+      {"text": "He {{1}} (meet) many influential people, but he {{2}} (meet) the president in 2020.", "answers": ["has met", "met"]},
+      {"text": "The company {{1}} (open) branches in several cities, and it {{2}} (open) its first branch in 2015.", "answers": ["has opened", "opened"]},
+      {"text": "We {{1}} (see) this film before, but we {{2}} (watch) it again last weekend.", "answers": ["have seen", "watched"]},
+      {"text": "She {{1}} (receive) several awards, and she {{2}} (win) her first prize at university.", "answers": ["has received", "won"]},
+      {"text": "The researchers {{1}} (discover) several new species, and they {{2}} (identify) one in 2023.", "answers": ["have discovered", "identified"]},
+      {"text": "I {{1}} (read) many novels by this author, but I {{2}} (read) her latest book last week.", "answers": ["have read", "read"]},
+      {"text": "He {{1}} (work) in different countries, but he {{2}} (move) to Canada in 2019.", "answers": ["has worked", "moved"]}
+    ]
+  },
+  {
+    "id": "016",
+    "titre": "Present Perfect – Simple Future",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She {{1}} (complete) the first stage, and she {{2}} (begin) the next one tomorrow.", "answers": ["has completed", "will begin"]},
+      {"text": "The team {{1}} (finish) its preparations, and it {{2}} (present) the results next week.", "answers": ["has finished", "will present"]},
+      {"text": "I {{1}} (send) the documents, and I {{2}} (call) you this afternoon.", "answers": ["have sent", "will call"]},
+      {"text": "The company {{1}} (launch) its new website, and it {{2}} (announce) the next update soon.", "answers": ["has launched", "will announce"]},
+      {"text": "He {{1}} (pass) the first examination, and he {{2}} (take) the second one next month.", "answers": ["has passed", "will take"]},
+      {"text": "We {{1}} (book) the tickets, and we {{2}} (leave) on Friday.", "answers": ["have booked", "will leave"]},
+      {"text": "She {{1}} (accept) the invitation, and she {{2}} (attend) the conference next year.", "answers": ["has accepted", "will attend"]},
+      {"text": "The engineers {{1}} (repair) the system, and they {{2}} (test) it tomorrow.", "answers": ["have repaired", "will test"]},
+      {"text": "I {{1}} (finish) my report, and I {{2}} (submit) it before noon tomorrow.", "answers": ["have finished", "will submit"]},
+      {"text": "The school {{1}} (select) the candidates, and it {{2}} (publish) the final list next Monday.", "answers": ["has selected", "will publish"]}
+    ]
+  },
+  {
+    "id": "017",
+    "titre": "Present Perfect – Future Perfect",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She {{1}} (complete) five modules, and by June she {{2}} (complete) the entire course.", "answers": ["has completed", "will have completed"]},
+      {"text": "The company {{1}} (open) three branches, and by next year it {{2}} (open) five more.", "answers": ["has opened", "will have opened"]},
+      {"text": "I {{1}} (save) enough money for the deposit, and by December I {{2}} (pay) the full amount.", "answers": ["have saved", "will have paid"]},
+      {"text": "The researchers {{1}} (publish) several papers, and by the end of the year they {{2}} (publish) their final report.", "answers": ["have published", "will have published"]},
+      {"text": "He {{1}} (learn) two languages, and by the time he retires he {{2}} (learn) a third.", "answers": ["has learned", "will have learned"]},
+      {"text": "The team {{1}} (finish) the first phase, and by Friday it {{2}} (finish) the second one.", "answers": ["has finished", "will have finished"]},
+      {"text": "We {{1}} (reduce) our expenses, and by the end of the year we {{2}} (repay) the loan.", "answers": ["have reduced", "will have repaid"]},
+      {"text": "The hospital {{1}} (treat) hundreds of patients, and by next month it {{2}} (treat) a thousand more.", "answers": ["has treated", "will have treated"]},
+      {"text": "She {{1}} (write) the introduction, and by tomorrow she {{2}} (write) the entire chapter.", "answers": ["has written", "will have written"]},
+      {"text": "The organization {{1}} (raise) half its target, and by December it {{2}} (raise) the full amount.", "answers": ["has raised", "will have raised"]}
+    ]
+  },
+  {
+    "id": "018",
+    "titre": "Present Perfect – Present Conditional",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She {{1}} (gain) considerable experience, so she {{2}} (be) an excellent candidate for the role.", "answers": ["has gained", "would be"]},
+      {"text": "The company {{1}} (improve) its processes, and it {{2}} (perform) better with additional investment.", "answers": ["has improved", "would perform"]},
+      {"text": "He {{1}} (complete) the training, so he {{2}} (be) ready to lead the project.", "answers": ["has completed", "would be"]},
+      {"text": "We {{1}} (identify) the main problem, and a small adjustment {{2}} (solve) it.", "answers": ["have identified", "would solve"]},
+      {"text": "She {{1}} (develop) strong communication skills, and she {{2}} (manage) the team effectively.", "answers": ["has developed", "would manage"]},
+      {"text": "The researchers {{1}} (collect) enough evidence, and their findings {{2}} (support) the hypothesis.", "answers": ["have collected", "would support"]},
+      {"text": "He {{1}} (learn) the essential techniques, and he {{2}} (complete) the task independently.", "answers": ["has learned", "would complete"]},
+      {"text": "The school {{1}} (introduce) a new curriculum, and it {{2}} (benefit) from additional resources.", "answers": ["has introduced", "would benefit"]},
+      {"text": "I {{1}} (read) the proposal, and I {{2}} (recommend) a few changes.", "answers": ["have read", "would recommend"]},
+      {"text": "The team {{1}} (make) significant progress, and it {{2}} (finish) sooner with more support.", "answers": ["has made", "would finish"]}
+    ]
+  },
+  {
+    "id": "019",
+    "titre": "Present Perfect – Past Conditional",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "She {{1}} (realize) the mistake, and she {{2}} (correct) it earlier if she had checked the figures.", "answers": ["has realized", "would have corrected"]},
+      {"text": "The company {{1}} (identify) the risk, and it {{2}} (avoid) the loss if it had acted sooner.", "answers": ["has identified", "would have avoided"]},
+      {"text": "He {{1}} (understand) the instructions, and he {{2}} (finish) the task yesterday if he had started earlier.", "answers": ["has understood", "would have finished"]},
+      {"text": "We {{1}} (discover) the cause, and we {{2}} (prevent) the problem if we had investigated sooner.", "answers": ["have discovered", "would have prevented"]},
+      {"text": "The team {{1}} (recognize) the weakness, and it {{2}} (improve) the design if it had received the feedback earlier.", "answers": ["has recognized", "would have improved"]},
+      {"text": "She {{1}} (learn) the procedure, and she {{2}} (avoid) the error if she had followed it carefully.", "answers": ["has learned", "would have avoided"]},
+      {"text": "The organization {{1}} (identify) the affected families, and it {{2}} (provide) help sooner if the funds had arrived earlier.", "answers": ["has identified", "would have provided"]},
+      {"text": "I {{1}} (understand) the consequences, and I {{2}} (make) a different choice if I had known the facts.", "answers": ["have understood", "would have made"]},
+      {"text": "The engineers {{1}} (find) the defect, and they {{2}} (repair) it before the launch if they had tested the system earlier.", "answers": ["have found", "would have repaired"]},
+      {"text": "He {{1}} (recognize) the opportunity, and he {{2}} (accept) the offer if he had received it in time.", "answers": ["has recognized", "would have accepted"]}
+    ]
+  },
+  {
+    "id": "020",
+    "titre": "Present Perfect – Present Subjunctive",
+    "definition": "Complete each sentence with the correct forms of the two verbs in brackets.",
+    "instruction": "Fill in both blanks with the appropriate verb forms.",
+    "questions": [
+      {"text": "The committee {{1}} (review) the proposal and recommends that it {{2}} (be) revised.", "answers": ["has reviewed", "be"]},
+      {"text": "The doctor {{1}} (examine) the patient and insists that he {{2}} (remain) under observation.", "answers": ["has examined", "remain"]},
+      {"text": "The manager {{1}} (consider) the applications and requests that each candidate {{2}} (provide) references.", "answers": ["has considered", "provide"]},
+      {"text": "The board {{1}} (discuss) the issue and proposes that the policy {{2}} (change).", "answers": ["has discussed", "change"]},
+      {"text": "The teacher {{1}} (correct) the essays and insists that every student {{2}} (rewrite) the introduction.", "answers": ["has corrected", "rewrite"]},
+      {"text": "The judge {{1}} (hear) the evidence and orders that the witness {{2}} (remain) available.", "answers": ["has heard", "remain"]},
+      {"text": "The organization {{1}} (assess) the needs and recommends that the program {{2}} (expand).", "answers": ["has assessed", "expand"]},
+      {"text": "The director {{1}} (inspect) the facilities and demands that the equipment {{2}} (be) replaced.", "answers": ["has inspected", "be"]},
+      {"text": "The researchers {{1}} (analyze) the results and suggest that the experiment {{2}} (be) repeated.", "answers": ["have analyzed", "be"]},
+      {"text": "The government {{1}} (review) the regulations and requires that every company {{2}} (comply) with them.", "answers": ["has reviewed", "comply"]}
+    ]
+  },
+    {
+    "id": "021",
+    "titre": "Present Perfect – Past Subjunctive",
+    "definition": "Advanced practice in English verb forms and hypothetical situations.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (complete) the project, but she wishes she {{2}} (have) more time.", "answers": ["has completed", "had"]},
+      {"text": "He {{1}} (gain) experience, but he acts as if he {{2}} (know) everything already.", "answers": ["has gained", "knew"]},
+      {"text": "The team {{1}} (make) progress, although the manager wishes it {{2}} (be) more efficient.", "answers": ["has made", "were"]},
+      {"text": "I {{1}} (read) the report, but I wish it {{2}} (be) clearer.", "answers": ["have read", "were"]},
+      {"text": "She {{1}} (improve) her English, but she speaks as though she {{2}} (be) a native speaker.", "answers": ["has improved", "were"]},
+      {"text": "They {{1}} (solve) the problem, but he behaves as if nothing {{2}} (change).", "answers": ["have solved", "had changed"]},
+      {"text": "He {{1}} (receive) the invitation, but he wishes the event {{2}} (be) closer to home.", "answers": ["has received", "were"]},
+      {"text": "We {{1}} (finish) the work, but she talks as if we {{2}} (not do) anything.", "answers": ["have finished", "had not done"]},
+      {"text": "The company {{1}} (expand), but the director wishes its costs {{2}} (be) lower.", "answers": ["has expanded", "were"]},
+      {"text": "I {{1}} (understand) the instructions, but I wish they {{2}} (be) less complicated.", "answers": ["have understood", "were"]}
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Imperfect – Past Perfect",
+    "definition": "Practice past continuous actions and events completed before another past event.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "While she {{1}} (work), her colleague {{2}} (already finish) the report.", "answers": ["was working", "had already finished"]},
+      {"text": "They {{1}} (travel) through the country after they {{2}} (book) all their hotels.", "answers": ["were travelling", "had booked"]},
+      {"text": "I {{1}} (sleep) when I realized that I {{2}} (leave) the oven on.", "answers": ["was sleeping", "had left"]},
+      {"text": "The students {{1}} (revise) the material they {{2}} (study) the previous week.", "answers": ["were revising", "had studied"]},
+      {"text": "He {{1}} (drive) along the road that his father {{2}} (describe) to him.", "answers": ["was driving", "had described"]},
+      {"text": "The workers {{1}} (repair) the machine that {{2}} (break) down earlier.", "answers": ["were repairing", "had broken"]},
+      {"text": "She {{1}} (look) for the document that she {{2}} (misplace).", "answers": ["was looking", "had misplaced"]},
+      {"text": "We {{1}} (discuss) a proposal that the board {{2}} (reject) before.", "answers": ["were discussing", "had rejected"]},
+      {"text": "The children {{1}} (play) outside after the rain {{2}} (stop).", "answers": ["were playing", "had stopped"]},
+      {"text": "He {{1}} (explain) the decision that the committee {{2}} (make) earlier.", "answers": ["was explaining", "had made"]}
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Imperfect – Simple Past",
+    "definition": "Practice past continuous and simple past in context.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "While I {{1}} (cook), the electricity {{2}} (go) off.", "answers": ["was cooking", "went"]},
+      {"text": "She {{1}} (walk) home when she {{2}} (see) the accident.", "answers": ["was walking", "saw"]},
+      {"text": "The students {{1}} (take) notes when the lecturer {{2}} (announce) the break.", "answers": ["were taking", "announced"]},
+      {"text": "He {{1}} (drive) to work when his car {{2}} (stop) suddenly.", "answers": ["was driving", "stopped"]},
+      {"text": "While they {{1}} (discuss) the budget, the director {{2}} (enter) the room.", "answers": ["were discussing", "entered"]},
+      {"text": "I {{1}} (read) the newspaper when someone {{2}} (knock) on the door.", "answers": ["was reading", "knocked"]},
+      {"text": "The children {{1}} (play) outside when it {{2}} (begin) to rain.", "answers": ["were playing", "began"]},
+      {"text": "She {{1}} (prepare) dinner when her guests {{2}} (arrive).", "answers": ["was preparing", "arrived"]},
+      {"text": "We {{1}} (wait) for the bus when we {{2}} (hear) the announcement.", "answers": ["were waiting", "heard"]},
+      {"text": "He {{1}} (explain) the problem when the computer {{2}} (crash).", "answers": ["was explaining", "crashed"]}
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "Imperfect – Past Anterior",
+    "definition": "Practice ongoing past actions with literary or formal sequences of completed past events.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "The guards {{1}} (watch) the gate until the messenger {{2}} (deliver) the sealed letter.", "answers": ["were watching", "had delivered"]},
+      {"text": "The audience {{1}} (wait) quietly until the performers {{2}} (take) their places.", "answers": ["was waiting", "had taken"]},
+      {"text": "The workers {{1}} (prepare) the hall before the guests {{2}} (arrive).", "answers": ["were preparing", "had arrived"]},
+      {"text": "The soldiers {{1}} (stand) at attention after the general {{2}} (give) the order.", "answers": ["were standing", "had given"]},
+      {"text": "She {{1}} (write) in her office until the secretary {{2}} (bring) the final documents.", "answers": ["was writing", "had brought"]},
+      {"text": "The villagers {{1}} (wait) for news after the rescue team {{2}} (reach) the mountain.", "answers": ["were waiting", "had reached"]},
+      {"text": "He {{1}} (review) the accounts once the auditors {{2}} (submit) their findings.", "answers": ["was reviewing", "had submitted"]},
+      {"text": "The musicians {{1}} (tune) their instruments after the conductor {{2}} (arrive).", "answers": ["were tuning", "had arrived"]},
+      {"text": "The officials {{1}} (discuss) the matter after the committee {{2}} (publish) its report.", "answers": ["were discussing", "had published"]},
+      {"text": "The captain {{1}} (inspect) the deck after the crew {{2}} (secure) the cargo.", "answers": ["was inspecting", "had secured"]}
+    ]
+  },
+  {
+    "id": "025",
+    "titre": "Imperfect – Simple Future",
+    "definition": "Practice past continuous actions alongside future events or predictions.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (study) when you {{2}} (call) her tomorrow evening.", "answers": ["will be studying", "call"]},
+      {"text": "At this time tomorrow, we {{1}} (travel) while our colleagues {{2}} (prepare) the presentation.", "answers": ["will be travelling", "will prepare"]},
+      {"text": "He {{1}} (work) late tonight, but he {{2}} (join) us afterward.", "answers": ["will be working", "will join"]},
+      {"text": "The team {{1}} (discuss) the proposal when the director {{2}} (arrive) tomorrow.", "answers": ["will be discussing", "arrives"]},
+      {"text": "At eight o'clock, I {{1}} (drive) home and my sister {{2}} (wait) for me.", "answers": ["will be driving", "will wait"]},
+      {"text": "They {{1}} (stay) at the hotel while the organizers {{2}} (prepare) the venue.", "answers": ["will be staying", "will prepare"]},
+      {"text": "She {{1}} (give) her lecture when the new students {{2}} (arrive).", "answers": ["will be giving", "arrive"]},
+      {"text": "We {{1}} (work) on the project while the manager {{2}} (meet) the clients.", "answers": ["will be working", "will meet"]},
+      {"text": "He {{1}} (sleep) when the train {{2}} (reach) the station.", "answers": ["will be sleeping", "reaches"]},
+      {"text": "The engineers {{1}} (test) the equipment while the inspectors {{2}} (observe) the process.", "answers": ["will be testing", "will observe"]}
+    ]
+  },
+  {
+    "id": "026",
+    "titre": "Imperfect – Future Perfect",
+    "definition": "Practice continuous actions and events that will be completed by a future deadline.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "By Friday, the team {{1}} (work) on the project for two weeks and {{2}} (complete) the first phase.", "answers": ["will have been working", "will have completed"]},
+      {"text": "At noon, she {{1}} (travel) for six hours and {{2}} (reach) her destination.", "answers": ["will have been travelling", "will have reached"]},
+      {"text": "By next month, they {{1}} (build) the bridge for a year and {{2}} (finish) the main structure.", "answers": ["will have been building", "will have finished"]},
+      {"text": "By the deadline, he {{1}} (study) all night and {{2}} (revise) every chapter.", "answers": ["will have been studying", "will have revised"]},
+      {"text": "By December, the company {{1}} (expand) for several months and {{2}} (open) three new offices.", "answers": ["will have been expanding", "will have opened"]},
+      {"text": "By six o'clock, the researchers {{1}} (analyse) the samples for hours and {{2}} (record) their results.", "answers": ["will have been analysing", "will have recorded"]},
+      {"text": "By the end of the week, the workers {{1}} (repair) the road for ten days and {{2}} (restore) access.", "answers": ["will have been repairing", "will have restored"]},
+      {"text": "By next summer, she {{1}} (train) for months and {{2}} (complete) the marathon.", "answers": ["will have been training", "will have completed"]},
+      {"text": "By midnight, the crew {{1}} (sail) for twelve hours and {{2}} (cross) the channel.", "answers": ["will have been sailing", "will have crossed"]},
+      {"text": "By the end of the year, we {{1}} (develop) the application for months and {{2}} (launch) it.", "answers": ["will have been developing", "will have launched"]}
+    ]
+  },
+  {
+    "id": "027",
+    "titre": "Imperfect – Present Conditional",
+    "definition": "Practice past continuous forms and hypothetical outcomes.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "If she {{1}} (work) less, she {{2}} (feel) less exhausted.", "answers": ["worked", "would feel"]},
+      {"text": "If they {{1}} (live) closer, they {{2}} (visit) us more often.", "answers": ["lived", "would visit"]},
+      {"text": "If he {{1}} (pay) more attention, he {{2}} (make) fewer mistakes.", "answers": ["paid", "would make"]},
+      {"text": "If I {{1}} (have) more free time, I {{2}} (learn) another language.", "answers": ["had", "would learn"]},
+      {"text": "If the company {{1}} (invest) in training, its employees {{2}} (perform) better.", "answers": ["invested", "would perform"]},
+      {"text": "If she {{1}} (know) the answer, she {{2}} (tell) us.", "answers": ["knew", "would tell"]},
+      {"text": "If we {{1}} (own) a larger office, we {{2}} (accommodate) more staff.", "answers": ["owned", "would accommodate"]},
+      {"text": "If he {{1}} (be) more patient, he {{2}} (handle) the situation better.", "answers": ["were", "would handle"]},
+      {"text": "If they {{1}} (understand) the instructions, they {{2}} (complete) the task correctly.", "answers": ["understood", "would complete"]},
+      {"text": "If I {{1}} (speak) Japanese, I {{2}} (apply) for that position.", "answers": ["spoke", "would apply"]}
+    ]
+  },
+  {
+    "id": "028",
+    "titre": "Imperfect – Past Conditional",
+    "definition": "Practice hypothetical past outcomes and unreal past conditions.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "If she {{1}} (leave) earlier, she {{2}} (catch) the train.", "answers": ["had left", "would have caught"]},
+      {"text": "If they {{1}} (check) the figures, they {{2}} (notice) the error.", "answers": ["had checked", "would have noticed"]},
+      {"text": "If he {{1}} (listen) carefully, he {{2}} (understand) the instructions.", "answers": ["had listened", "would have understood"]},
+      {"text": "If we {{1}} (book) in advance, we {{2}} (pay) less.", "answers": ["had booked", "would have paid"]},
+      {"text": "If the company {{1}} (act) sooner, it {{2}} (avoid) the loss.", "answers": ["had acted", "would have avoided"]},
+      {"text": "If I {{1}} (know) about the meeting, I {{2}} (attend) it.", "answers": ["had known", "would have attended"]},
+      {"text": "If she {{1}} (save) more money, she {{2}} (buy) the house.", "answers": ["had saved", "would have bought"]},
+      {"text": "If the driver {{1}} (slow) down, the accident {{2}} (not happen).", "answers": ["had slowed", "would not have happened"]},
+      {"text": "If they {{1}} (follow) the advice, they {{2}} (avoid) the problem.", "answers": ["had followed", "would have avoided"]},
+      {"text": "If he {{1}} (prepare) properly, he {{2}} (pass) the examination.", "answers": ["had prepared", "would have passed"]}
+    ]
+  },
+  {
+    "id": "029",
+    "titre": "Imperfect – Present Subjunctive",
+    "definition": "Practice past contexts with the English mandative subjunctive.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "The manager {{1}} (review) the file yesterday and insists that it {{2}} (be) corrected today.", "answers": ["reviewed", "be"]},
+      {"text": "She {{1}} (discuss) the issue with us and recommends that he {{2}} (attend) the meeting.", "answers": ["discussed", "attend"]},
+      {"text": "The committee {{1}} (meet) last week and demands that every member {{2}} (submit) a report.", "answers": ["met", "submit"]},
+      {"text": "He {{1}} (explain) the problem and suggests that the system {{2}} (be) tested again.", "answers": ["explained", "be"]},
+      {"text": "The doctor {{1}} (examine) him yesterday and insists that he {{2}} (remain) at home.", "answers": ["examined", "remain"]},
+      {"text": "They {{1}} (inspect) the building and require that the entrance {{2}} (remain) closed.", "answers": ["inspected", "remain"]},
+      {"text": "The director {{1}} (speak) to the staff and requests that everyone {{2}} (arrive) early.", "answers": ["spoke", "arrive"]},
+      {"text": "The board {{1}} (consider) the proposal and recommends that the policy {{2}} (change).", "answers": ["considered", "change"]},
+      {"text": "She {{1}} (write) to the supplier and insists that the goods {{2}} (be) delivered promptly.", "answers": ["wrote", "be"]},
+      {"text": "The judge {{1}} (hear) the case and orders that the documents {{2}} (be) preserved.", "answers": ["heard", "be"]}
+    ]
+  },
+  {
+    "id": "030",
+    "titre": "Imperfect – Past Subjunctive",
+    "definition": "Practice hypothetical situations using the past subjunctive form.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "He {{1}} (speak) as if he {{2}} (be) the owner.", "answers": ["spoke", "were"]},
+      {"text": "She {{1}} (behave) as though she {{2}} (know) the secret.", "answers": ["behaved", "knew"]},
+      {"text": "They {{1}} (act) as if the problem {{2}} (not exist).", "answers": ["acted", "did not exist"]},
+      {"text": "I {{1}} (wish) the weather {{2}} (be) warmer.", "answers": ["wished", "were"]},
+      {"text": "He {{1}} (look) as though he {{2}} (need) some rest.", "answers": ["looked", "needed"]},
+      {"text": "She {{1}} (talk) as if she {{2}} (own) the whole building.", "answers": ["talked", "owned"]},
+      {"text": "We {{1}} (wish) our neighbours {{2}} (be) quieter.", "answers": ["wished", "were"]},
+      {"text": "The child {{1}} (act) as though he {{2}} (understand) every word.", "answers": ["acted", "understood"]},
+      {"text": "He {{1}} (look) as if he {{2}} (be) afraid of something.", "answers": ["looked", "were"]},
+      {"text": "I {{1}} (prefer) that she {{2}} (stay) a little longer.", "answers": ["preferred", "stay"]}
+    ]
+  },
+  {
+    "id": "031",
+    "titre": "Imperfect – Imperfect Subjunctive",
+    "definition": "Practice past narration and hypothetical or unreal situations.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (speak) as though she {{2}} (know) the answer.", "answers": ["spoke", "knew"]},
+      {"text": "He {{1}} (act) as if he {{2}} (be) in charge.", "answers": ["acted", "were"]},
+      {"text": "They {{1}} (behave) as though nothing {{2}} (matter).", "answers": ["behaved", "mattered"]},
+      {"text": "I {{1}} (wish) I {{2}} (have) more time.", "answers": ["wished", "had"]},
+      {"text": "The manager {{1}} (look) as if he {{2}} (understand) the difficulty.", "answers": ["looked", "understood"]},
+      {"text": "She {{1}} (talk) as though she {{2}} (own) the company.", "answers": ["talked", "owned"]},
+      {"text": "He {{1}} (wish) his colleagues {{2}} (be) more cooperative.", "answers": ["wished", "were"]},
+      {"text": "The visitors {{1}} (act) as if they {{2}} (know) the place well.", "answers": ["acted", "knew"]},
+      {"text": "I {{1}} (prefer) that he {{2}} (remain) silent.", "answers": ["preferred", "remain"]},
+      {"text": "She {{1}} (look) as though she {{2}} (need) help.", "answers": ["looked", "needed"]}
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Past Perfect – Simple Past",
+    "definition": "Practice events completed before another past event.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (finish) the report before the manager {{2}} (arrive).", "answers": ["had finished", "arrived"]},
+      {"text": "They {{1}} (leave) the station when the announcement {{2}} (come).", "answers": ["had left", "came"]},
+      {"text": "He {{1}} (lock) the door before he {{2}} (go) to bed.", "answers": ["had locked", "went"]},
+      {"text": "We {{1}} (eat) dinner before the guests {{2}} (arrive).", "answers": ["had eaten", "arrived"]},
+      {"text": "The company {{1}} (launch) the product before its competitors {{2}} (respond).", "answers": ["had launched", "responded"]},
+      {"text": "I {{1}} (read) the instructions before I {{2}} (assemble) the device.", "answers": ["had read", "assembled"]},
+      {"text": "She {{1}} (save) the document before the computer {{2}} (crash).", "answers": ["had saved", "crashed"]},
+      {"text": "The team {{1}} (train) for months before it {{2}} (win) the championship.", "answers": ["had trained", "won"]},
+      {"text": "He {{1}} (forget) her name before she {{2}} (introduce) herself again.", "answers": ["had forgotten", "introduced"]},
+      {"text": "The rain {{1}} (stop) before the children {{2}} (go) outside.", "answers": ["had stopped", "went"]}
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Past Perfect – Past Anterior",
+    "definition": "Practice formal past sequencing with completed actions.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "The messenger {{1}} (arrive) after the king {{2}} (read) the report.", "answers": ["had arrived", "had read"]},
+      {"text": "The guards {{1}} (close) the gates after the visitors {{2}} (leave).", "answers": ["had closed", "had left"]},
+      {"text": "She {{1}} (finish) the letter before the courier {{2}} (depart).", "answers": ["had finished", "had departed"]},
+      {"text": "The soldiers {{1}} (secure) the bridge before the enemy {{2}} (approach).", "answers": ["had secured", "had approached"]},
+      {"text": "The committee {{1}} (review) the evidence before the chairperson {{2}} (announce) the decision.", "answers": ["had reviewed", "had announced"]},
+      {"text": "The guests {{1}} (take) their seats before the orchestra {{2}} (begin) playing.", "answers": ["had taken", "had begun"]},
+      {"text": "The workers {{1}} (complete) the repairs before the inspection {{2}} (start).", "answers": ["had completed", "had started"]},
+      {"text": "He {{1}} (send) the documents before the deadline {{2}} (pass).", "answers": ["had sent", "had passed"]},
+      {"text": "The captain {{1}} (give) the order before the ship {{2}} (leave) the harbour.", "answers": ["had given", "had left"]},
+      {"text": "They {{1}} (prepare) the hall before the ceremony {{2}} (begin).", "answers": ["had prepared", "had begun"]}
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "Past Perfect – Simple Future",
+    "definition": "Practice past perfect events in contexts that refer to later future events.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "By the time she arrives tomorrow, I {{1}} (finish) the work and {{2}} (send) it to the manager.", "answers": ["will have finished", "will send"]},
+      {"text": "After they {{1}} (complete) the training, they {{2}} (start) their new roles next week.", "answers": ["have completed", "will start"]},
+      {"text": "Once he {{1}} (read) the instructions, he {{2}} (operate) the machine tomorrow.", "answers": ["has read", "will operate"]},
+      {"text": "By the time the guests arrive, we {{1}} (prepare) dinner and {{2}} (welcome) them.", "answers": ["will have prepared", "will welcome"]},
+      {"text": "After the company {{1}} (approve) the budget, it {{2}} (begin) construction next month.", "answers": ["has approved", "will begin"]},
+      {"text": "When she {{1}} (complete) her degree, she {{2}} (apply) for a research position.", "answers": ["has completed", "will apply"]},
+      {"text": "By Friday, they {{1}} (review) the applications and {{2}} (announce) the shortlist.", "answers": ["will have reviewed", "will announce"]},
+      {"text": "Once the rain {{1}} (stop), we {{2}} (continue) the journey.", "answers": ["has stopped", "will continue"]},
+      {"text": "After he {{1}} (sign) the contract, he {{2}} (join) the company in January.", "answers": ["has signed", "will join"]},
+      {"text": "By the time the meeting begins, she {{1}} (prepare) the presentation and {{2}} (distribute) the documents.", "answers": ["will have prepared", "will distribute"]}
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "Past Perfect – Present Conditional",
+    "definition": "Practice past conditions and hypothetical present results.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "If he {{1}} (study) medicine, he {{2}} (be) a doctor now.", "answers": ["had studied", "would be"]},
+      {"text": "If they {{1}} (invest) earlier, they {{2}} (own) a larger business today.", "answers": ["had invested", "would own"]},
+      {"text": "If she {{1}} (accept) the offer, she {{2}} (work) abroad now.", "answers": ["had accepted", "would be working"]},
+      {"text": "If we {{1}} (save) more money, we {{2}} (afford) a larger house today.", "answers": ["had saved", "would afford"]},
+      {"text": "If he {{1}} (learn) French, he {{2}} (communicate) with the clients more easily now.", "answers": ["had learned", "would communicate"]},
+      {"text": "If the company {{1}} (modernize) its equipment, it {{2}} (produce) goods more efficiently today.", "answers": ["had modernized", "would produce"]},
+      {"text": "If I {{1}} (take) that course, I {{2}} (understand) the subject better now.", "answers": ["had taken", "would understand"]},
+      {"text": "If she {{1}} (move) to London, she {{2}} (live) near her family now.", "answers": ["had moved", "would live"]},
+      {"text": "If they {{1}} (hire) more staff, the department {{2}} (operate) more efficiently today.", "answers": ["had hired", "would operate"]},
+      {"text": "If he {{1}} (follow) the advice, he {{2}} (feel) more confident now.", "answers": ["had followed", "would feel"]}
+    ]
+  },
+  {
+    "id": "036",
+    "titre": "Past Perfect – Past Conditional",
+    "definition": "Practice unreal past conditions and their hypothetical results.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "If she {{1}} (leave) earlier, she {{2}} (catch) the train.", "answers": ["had left", "would have caught"]},
+      {"text": "If they {{1}} (read) the instructions, they {{2}} (avoid) the mistake.", "answers": ["had read", "would have avoided"]},
+      {"text": "If he {{1}} (save) enough money, he {{2}} (buy) the car.", "answers": ["had saved", "would have bought"]},
+      {"text": "If we {{1}} (know) about the delay, we {{2}} (take) another route.", "answers": ["had known", "would have taken"]},
+      {"text": "If the company {{1}} (invest) in security, it {{2}} (prevent) the breach.", "answers": ["had invested", "would have prevented"]},
+      {"text": "If I {{1}} (bring) my passport, I {{2}} (board) the plane.", "answers": ["had brought", "would have boarded"]},
+      {"text": "If she {{1}} (prepare) better, she {{2}} (pass) the examination.", "answers": ["had prepared", "would have passed"]},
+      {"text": "If they {{1}} (act) quickly, they {{2}} (rescue) the passengers sooner.", "answers": ["had acted", "would have rescued"]},
+      {"text": "If he {{1}} (check) the figures, he {{2}} (notice) the discrepancy.", "answers": ["had checked", "would have noticed"]},
+      {"text": "If we {{1}} (book) a table, we {{2}} (get) a seat by the window.", "answers": ["had booked", "would have got"]}
+    ]
+  },
+  {
+    "id": "037",
+    "titre": "Past Perfect – Past Subjunctive",
+    "definition": "Practice past perfect situations with hypothetical or unreal descriptions.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (prepare) the documents, but she wished the instructions {{2}} (be) clearer.", "answers": ["had prepared", "were"]},
+      {"text": "He {{1}} (complete) the course, but he acted as if he {{2}} (know) nothing about the subject.", "answers": ["had completed", "knew"]},
+      {"text": "They {{1}} (finish) the project, although the manager behaved as if it {{2}} (be) incomplete.", "answers": ["had finished", "were"]},
+      {"text": "I {{1}} (read) the report, but I wished it {{2}} (be) easier to understand.", "answers": ["had read", "were"]},
+      {"text": "She {{1}} (win) the award, but she spoke as if she {{2}} (not deserve) it.", "answers": ["had won", "did not deserve"]},
+      {"text": "He {{1}} (solve) the problem, but he acted as though he {{2}} (need) further assistance.", "answers": ["had solved", "needed"]},
+      {"text": "We {{1}} (arrive) on time, but the host behaved as if we {{2}} (be) late.", "answers": ["had arrived", "were"]},
+      {"text": "The team {{1}} (achieve) its target, but the director spoke as if it {{2}} (fail).", "answers": ["had achieved", "had failed"]},
+      {"text": "She {{1}} (explain) the situation, but he reacted as if he {{2}} (not understand) her.", "answers": ["had explained", "did not understand"]},
+      {"text": "They {{1}} (make) the decision, but they wished the circumstances {{2}} (be) different.", "answers": ["had made", "were"]}
+    ]
+  },
+  {
+    "id": "038",
+    "titre": "Simple Past – Past Anterior",
+    "definition": "Practice narrative sequencing using simple past and earlier completed actions.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "The king {{1}} (enter) the hall after the guests {{2}} (take) their seats.", "answers": ["entered", "had taken"]},
+      {"text": "The messenger {{1}} (deliver) the letter once the guards {{2}} (open) the gates.", "answers": ["delivered", "had opened"]},
+      {"text": "The soldiers {{1}} (advance) after the scouts {{2}} (confirm) the route was safe.", "answers": ["advanced", "had confirmed"]},
+      {"text": "She {{1}} (begin) her speech after the audience {{2}} (become) silent.", "answers": ["began", "had become"]},
+      {"text": "The captain {{1}} (leave) the harbour once the crew {{2}} (secure) the cargo.", "answers": ["left", "had secured"]},
+      {"text": "The judge {{1}} (announce) the verdict after the jury {{2}} (reach) its decision.", "answers": ["announced", "had reached"]},
+      {"text": "The ceremony {{1}} (start) after the musicians {{2}} (take) their places.", "answers": ["started", "had taken"]},
+      {"text": "The rescue team {{1}} (move) forward once the storm {{2}} (weaken).", "answers": ["moved", "had weakened"]},
+      {"text": "The director {{1}} (speak) after the committee {{2}} (finish) its deliberations.", "answers": ["spoke", "had finished"]},
+      {"text": "The travellers {{1}} (continue) their journey after the driver {{2}} (check) the vehicle.", "answers": ["continued", "had checked"]}
+    ]
+  },
+  {
+    "id": "039",
+    "titre": "Simple Past – Simple Future",
+    "definition": "Practice past events alongside future plans and predictions.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (finish) the first stage yesterday and {{2}} (begin) the next stage tomorrow.", "answers": ["finished", "will begin"]},
+      {"text": "He {{1}} (meet) the director last week and {{2}} (call) her again next Monday.", "answers": ["met", "will call"]},
+      {"text": "They {{1}} (launch) the project in May and {{2}} (present) its results next year.", "answers": ["launched", "will present"]},
+      {"text": "I {{1}} (send) the application yesterday and {{2}} (wait) for a response next week.", "answers": ["sent", "will wait"]},
+      {"text": "The company {{1}} (open) its first office in 2020 and {{2}} (open) another one next year.", "answers": ["opened", "will open"]},
+      {"text": "She {{1}} (pass) the examination last month and {{2}} (receive) her certificate tomorrow.", "answers": ["passed", "will receive"]},
+      {"text": "We {{1}} (visit) the museum yesterday and {{2}} (explore) the new exhibition next weekend.", "answers": ["visited", "will explore"]},
+      {"text": "He {{1}} (buy) the equipment last year and {{2}} (install) an upgrade next month.", "answers": ["bought", "will install"]},
+      {"text": "The team {{1}} (win) the match yesterday and {{2}} (play) the final next Saturday.", "answers": ["won", "will play"]},
+      {"text": "They {{1}} (complete) the survey last week and {{2}} (publish) the findings tomorrow.", "answers": ["completed", "will publish"]}
+    ]
+  },
+  {
+    "id": "040",
+    "titre": "Simple Past – Future Perfect",
+    "definition": "Practice completed past events and actions that will be complete by a future point.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (start) the course in January, and by June she {{2}} (complete) all its modules.", "answers": ["started", "will have completed"]},
+      {"text": "They {{1}} (begin) construction last year, and by December they {{2}} (finish) the bridge.", "answers": ["began", "will have finished"]},
+      {"text": "He {{1}} (join) the company in 2020, and by next year he {{2}} (work) there for seven years.", "answers": ["joined", "will have worked"]},
+      {"text": "We {{1}} (launch) the website in March, and by the end of the year it {{2}} (attract) thousands of users.", "answers": ["launched", "will have attracted"]},
+      {"text": "The researchers {{1}} (begin) the study last summer, and by next month they {{2}} (collect) all the data.", "answers": ["began", "will have collected"]},
+      {"text": "She {{1}} (move) abroad in 2022, and by next year she {{2}} (learn) the language fluently.", "answers": ["moved", "will have learned"]},
+      {"text": "The company {{1}} (open) its first branch in 2018, and by 2030 it {{2}} (establish) offices on three continents.", "answers": ["opened", "will have established"]},
+      {"text": "I {{1}} (begin) writing the book last year, and by December I {{2}} (finish) the final chapter.", "answers": ["began", "will have finished"]},
+      {"text": "They {{1}} (start) the campaign in April, and by September they {{2}} (reach) their target.", "answers": ["started", "will have reached"]},
+      {"text": "He {{1}} (enrol) in the programme last month, and by next summer he {{2}} (earn) his qualification.", "answers": ["enrolled", "will have earned"]}
+    ]
+  },
+  {
+    "id": "041",
+    "titre": "Simple Past – Present Conditional",
+    "definition": "Practice past events and hypothetical present results.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "He {{1}} (choose) a different career, and he {{2}} (be) happier now if he had followed his interests.", "answers": ["chose", "would be"]},
+      {"text": "She {{1}} (move) to the city, and she {{2}} (have) more opportunities if she lived there.", "answers": ["moved", "would have"]},
+      {"text": "They {{1}} (buy) the old house, and they {{2}} (own) a valuable property today if they had invested.", "answers": ["bought", "would own"]},
+      {"text": "I {{1}} (study) engineering, and I {{2}} (work) in that field now if I had continued.", "answers": ["studied", "would work"]},
+      {"text": "He {{1}} (accept) the promotion, and he {{2}} (manage) the department today if he had agreed.", "answers": ["accepted", "would manage"]},
+      {"text": "She {{1}} (learn) Spanish, and she {{2}} (communicate) with the clients more easily now.", "answers": ["learned", "would communicate"]},
+      {"text": "We {{1}} (invest) in that company, and we {{2}} (earn) a regular income today.", "answers": ["invested", "would earn"]},
+      {"text": "They {{1}} (build) the factory there, and the town {{2}} (have) more jobs today.", "answers": ["built", "would have"]},
+      {"text": "He {{1}} (take) the course, and he {{2}} (understand) the subject better now.", "answers": ["took", "would understand"]},
+      {"text": "I {{1}} (keep) the old car, and I {{2}} (save) money on transport today.", "answers": ["kept", "would save"]}
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Simple Past – Past Conditional",
+    "definition": "Practice past events and hypothetical alternatives to what happened.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (miss) the bus, but she {{2}} (arrive) on time if she had left earlier.", "answers": ["missed", "would have arrived"]},
+      {"text": "He {{1}} (forget) the documents, but he {{2}} (complete) the registration if he had brought them.", "answers": ["forgot", "would have completed"]},
+      {"text": "They {{1}} (take) the wrong road, but they {{2}} (reach) the village if they had followed the map.", "answers": ["took", "would have reached"]},
+      {"text": "I {{1}} (lose) my keys, but I {{2}} (enter) the house if I had kept a spare set.", "answers": ["lost", "would have entered"]},
+      {"text": "The team {{1}} (lose) the match, but it {{2}} (win) if it had scored earlier.", "answers": ["lost", "would have won"]},
+      {"text": "He {{1}} (reject) the offer, but he {{2}} (accept) it if the salary had been higher.", "answers": ["rejected", "would have accepted"]},
+      {"text": "She {{1}} (fail) the test, but she {{2}} (pass) if she had revised more carefully.", "answers": ["failed", "would have passed"]},
+      {"text": "We {{1}} (arrive) late, but we {{2}} (avoid) the delay if we had taken the earlier train.", "answers": ["arrived", "would have avoided"]},
+      {"text": "They {{1}} (cancel) the event, but they {{2}} (continue) if the weather had improved.", "answers": ["cancelled", "would have continued"]},
+      {"text": "He {{1}} (make) an error, but he {{2}} (avoid) it if he had checked his calculations.", "answers": ["made", "would have avoided"]}
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Simple Past – Imperfect Subjunctive",
+    "definition": "Practice past narration with hypothetical or unreal descriptions.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "He {{1}} (speak) as if he {{2}} (be) the director.", "answers": ["spoke", "were"]},
+      {"text": "She {{1}} (act) as though she {{2}} (know) the answer.", "answers": ["acted", "knew"]},
+      {"text": "They {{1}} (behave) as if nothing {{2}} (matter).", "answers": ["behaved", "mattered"]},
+      {"text": "I {{1}} (wish) I {{2}} (have) more time.", "answers": ["wished", "had"]},
+      {"text": "He {{1}} (look) as though he {{2}} (need) help.", "answers": ["looked", "needed"]},
+      {"text": "She {{1}} (talk) as if she {{2}} (own) the building.", "answers": ["talked", "owned"]},
+      {"text": "The child {{1}} (act) as though he {{2}} (understand) everything.", "answers": ["acted", "understood"]},
+      {"text": "We {{1}} (wish) the neighbours {{2}} (be) quieter.", "answers": ["wished", "were"]},
+      {"text": "He {{1}} (behave) as if he {{2}} (be) above the rules.", "answers": ["behaved", "were"]},
+      {"text": "I {{1}} (prefer) that she {{2}} (stay) a little longer.", "answers": ["preferred", "stay"]}
+    ]
+  },
+  {
+    "id": "044",
+    "titre": "Simple Past – Pluperfect Subjunctive",
+    "definition": "Practice past narration and unreal past conditions.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (leave) early, but she wished she {{2}} (stay) longer.", "answers": ["left", "had stayed"]},
+      {"text": "He {{1}} (miss) the meeting and wished he {{2}} (check) his schedule.", "answers": ["missed", "had checked"]},
+      {"text": "They {{1}} (choose) the wrong route and wished they {{2}} (follow) the map.", "answers": ["chose", "had followed"]},
+      {"text": "I {{1}} (forget) her birthday and wished I {{2}} (remember) it.", "answers": ["forgot", "had remembered"]},
+      {"text": "She {{1}} (reject) the offer and later wished she {{2}} (accept) it.", "answers": ["rejected", "had accepted"]},
+      {"text": "He {{1}} (lose) the opportunity and wished he {{2}} (act) sooner.", "answers": ["lost", "had acted"]},
+      {"text": "We {{1}} (take) the wrong train and wished we {{2}} (read) the timetable carefully.", "answers": ["took", "had read"]},
+      {"text": "They {{1}} (sell) the house and wished they {{2}} (wait) another year.", "answers": ["sold", "had waited"]},
+      {"text": "I {{1}} (say) too much and wished I {{2}} (remain) silent.", "answers": ["said", "had remained"]},
+      {"text": "She {{1}} (ignore) the warning and wished she {{2}} (listen) to the advice.", "answers": ["ignored", "had listened"]}
+    ]
+  },
+  {
+    "id": "045",
+    "titre": "Past Anterior – Past Perfect",
+    "definition": "Practice formal narrative sequencing with completed past actions.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "As soon as the guests {{1}} (depart), the host realized that he {{2}} (forget) to thank them.", "answers": ["had departed", "had forgotten"]},
+      {"text": "When the train {{1}} (leave), we discovered that we {{2}} (board) the wrong carriage.", "answers": ["had left", "had boarded"]},
+      {"text": "After the ceremony {{1}} (end), the organizers noticed that they {{2}} (misplace) the certificates.", "answers": ["had ended", "had misplaced"]},
+      {"text": "Once the storm {{1}} (pass), the villagers saw that the river {{2}} (overflow) its banks.", "answers": ["had passed", "had overflowed"]},
+      {"text": "When the messenger {{1}} (arrive), the king learned that the enemy {{2}} (retreat).", "answers": ["had arrived", "had retreated"]},
+      {"text": "After the committee {{1}} (finish), its members discovered that they {{2}} (omit) an important detail.", "answers": ["had finished", "had omitted"]},
+      {"text": "As soon as the guests {{1}} (leave), she realized that she {{2}} (leave) her bag in the hall.", "answers": ["had left", "had left"]},
+      {"text": "When the ship {{1}} (reach) the harbour, the captain announced that the crew {{2}} (complete) its duties.", "answers": ["had reached", "had completed"]},
+      {"text": "After the meeting {{1}} (conclude), the director remembered that he {{2}} (not mention) the deadline.", "answers": ["had concluded", "had not mentioned"]},
+      {"text": "Once the fire {{1}} (die) down, the firefighters confirmed that everyone {{2}} (escape).", "answers": ["had died", "had escaped"]}
+    ]
+  },
+  {
+    "id": "046",
+    "titre": "Past Anterior – Future Perfect",
+    "definition": "Practice completed past events and future completion deadlines.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "The team {{1}} (finish) the first phase yesterday, and by Friday it {{2}} (complete) the second.", "answers": ["finished", "will have completed"]},
+      {"text": "She {{1}} (submit) the application last week, and by June she {{2}} (receive) a decision.", "answers": ["submitted", "will have received"]},
+      {"text": "The company {{1}} (open) its first branch in 2020, and by next year it {{2}} (open) ten more.", "answers": ["opened", "will have opened"]},
+      {"text": "He {{1}} (begin) the course in January, and by December he {{2}} (complete) every module.", "answers": ["began", "will have completed"]},
+      {"text": "They {{1}} (launch) the campaign in May, and by the end of the year they {{2}} (reach) their target.", "answers": ["launched", "will have reached"]},
+      {"text": "The researchers {{1}} (start) the study last year, and by next month they {{2}} (publish) their findings.", "answers": ["started", "will have published"]},
+      {"text": "We {{1}} (buy) the equipment yesterday, and by Monday we {{2}} (install) it.", "answers": ["bought", "will have installed"]},
+      {"text": "The builders {{1}} (begin) work in March, and by October they {{2}} (finish) the roof.", "answers": ["began", "will have finished"]},
+      {"text": "She {{1}} (move) to the city last year, and by next summer she {{2}} (settle) into her new role.", "answers": ["moved", "will have settled"]},
+      {"text": "The school {{1}} (introduce) the programme in 2022, and by 2030 it {{2}} (trained) thousands of students.", "answers": ["introduced", "will have trained"]}
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Simple Future – Future Perfect",
+    "definition": "Practice future events and actions completed before a future deadline.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (start) the course tomorrow, and by June she {{2}} (complete) all the modules.", "answers": ["will start", "will have completed"]},
+      {"text": "They {{1}} (begin) construction next month, and by December they {{2}} (finish) the foundations.", "answers": ["will begin", "will have finished"]},
+      {"text": "He {{1}} (join) the company in January, and by the end of the year he {{2}} (complete) his training.", "answers": ["will join", "will have completed"]},
+      {"text": "We {{1}} (launch) the website next week, and by the end of the month we {{2}} (attract) our first thousand users.", "answers": ["will launch", "will have attracted"]},
+      {"text": "The researchers {{1}} (begin) the experiment on Monday, and by Friday they {{2}} (collect) all the samples.", "answers": ["will begin", "will have collected"]},
+      {"text": "She {{1}} (move) abroad next year, and by December she {{2}} (learn) the basic language skills.", "answers": ["will move", "will have learned"]},
+      {"text": "The company {{1}} (open) a new office in April, and by September it {{2}} (recruit) the entire team.", "answers": ["will open", "will have recruited"]},
+      {"text": "I {{1}} (begin) writing the report tonight, and by tomorrow morning I {{2}} (finish) the first draft.", "answers": ["will begin", "will have finished"]},
+      {"text": "They {{1}} (start) the campaign next month, and by August they {{2}} (reached) their fundraising goal.", "answers": ["will start", "will have reached"]},
+      {"text": "He {{1}} (enrol) in the programme next week, and by next summer he {{2}} (earn) his qualification.", "answers": ["will enrol", "will have earned"]}
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "Simple Future – Present Conditional",
+    "definition": "Practice future events and hypothetical outcomes.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (travel) tomorrow if she {{2}} (have) enough money.", "answers": ["will travel", "has"]},
+      {"text": "He {{1}} (accept) the position if the salary {{2}} (be) higher.", "answers": ["would accept", "were"]},
+      {"text": "They {{1}} (launch) the product next month if testing {{2}} (go) well.", "answers": ["will launch", "goes"]},
+      {"text": "I {{1}} (buy) the house if I {{2}} (earn) more money.", "answers": ["would buy", "earned"]},
+      {"text": "The company {{1}} (expand) next year if demand {{2}} (increase).", "answers": ["will expand", "increases"]},
+      {"text": "She {{1}} (join) us if she {{2}} (be) free tomorrow.", "answers": ["will join", "is"]},
+      {"text": "We {{1}} (move) to a larger office if we {{2}} (have) the budget.", "answers": ["would move", "had"]},
+      {"text": "He {{1}} (apply) for the scholarship if the deadline {{2}} (be) extended.", "answers": ["would apply", "were"]},
+      {"text": "The team {{1}} (win) the match if it {{2}} (play) more carefully.", "answers": ["would win", "played"]},
+      {"text": "They {{1}} (visit) us next week if their flight {{2}} (arrive) on time.", "answers": ["will visit", "arrives"]}
+    ]
+  },
+  {
+    "id": "049",
+    "titre": "Simple Future – Past Conditional",
+    "definition": "Practice future predictions and hypothetical past outcomes.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (travel) tomorrow, but she {{2}} (leave) yesterday if the ticket had been available.", "answers": ["will travel", "would have left"]},
+      {"text": "The team {{1}} (play) next weekend, but it {{2}} (win) the previous match if it had defended better.", "answers": ["will play", "would have won"]},
+      {"text": "He {{1}} (start) work next month, but he {{2}} (begin) earlier if the documents had arrived.", "answers": ["will start", "would have begun"]},
+      {"text": "They {{1}} (open) the office next year, but they {{2}} (open) it earlier if the funding had been approved.", "answers": ["will open", "would have opened"]},
+      {"text": "I {{1}} (submit) the report tomorrow, but I {{2}} (send) it yesterday if I had finished it.", "answers": ["will submit", "would have sent"]},
+      {"text": "She {{1}} (attend) the conference next month, but she {{2}} (attend) the previous one if she had received an invitation.", "answers": ["will attend", "would have attended"]},
+      {"text": "The company {{1}} (release) the update next week, but it {{2}} (release) it earlier if testing had ended.", "answers": ["will release", "would have released"]},
+      {"text": "We {{1}} (visit) the museum tomorrow, but we {{2}} (visit) it yesterday if it had been open.", "answers": ["will visit", "would have visited"]},
+      {"text": "He {{1}} (take) the examination next Friday, but he {{2}} (take) it last week if he had registered.", "answers": ["will take", "would have taken"]},
+      {"text": "They {{1}} (announce) the results tomorrow, but they {{2}} (announce) them earlier if the review had finished.", "answers": ["will announce", "would have announced"]}
+    ]
+  },
+  {
+    "id": "050",
+    "titre": "Simple Future – Present Subjunctive",
+    "definition": "Practice future events and the mandative subjunctive in English.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "The director {{1}} (announce) the decision tomorrow and insists that every employee {{2}} (be) present.", "answers": ["will announce", "be"]},
+      {"text": "The committee {{1}} (meet) next week and recommends that each member {{2}} (submit) a report.", "answers": ["will meet", "submit"]},
+      {"text": "The doctor {{1}} (review) the results tomorrow and suggests that he {{2}} (remain) at home.", "answers": ["will review", "remain"]},
+      {"text": "The school {{1}} (introduce) the new policy next term and requires that every student {{2}} (follow) it.", "answers": ["will introduce", "follow"]},
+      {"text": "The board {{1}} (consider) the proposal tomorrow and demands that it {{2}} (be) revised.", "answers": ["will consider", "be"]},
+      {"text": "The manager {{1}} (speak) to the team on Monday and requests that everyone {{2}} (arrive) early.", "answers": ["will speak", "arrive"]},
+      {"text": "The judge {{1}} (hear) the case next month and orders that the documents {{2}} (be) preserved.", "answers": ["will hear", "be"]},
+      {"text": "The organization {{1}} (launch) the programme soon and recommends that each applicant {{2}} (complete) the form.", "answers": ["will launch", "complete"]},
+      {"text": "The government {{1}} (review) the regulations next year and insists that every company {{2}} (comply) with them.", "answers": ["will review", "comply"]},
+      {"text": "The professor {{1}} (publish) the guidelines tomorrow and suggests that students {{2}} (read) them carefully.", "answers": ["will publish", "read"]}
+    ]
+  },
+  {
+    "id": "051",
+    "titre": "Future Perfect – Present Conditional",
+    "definition": "Practice future completion and hypothetical results.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "By June, she {{1}} (complete) the course, which {{2}} (make) her eligible for the position.", "answers": ["will have completed", "would make"]},
+      {"text": "By next year, the company {{1}} (expand) abroad, which {{2}} (create) new opportunities.", "answers": ["will have expanded", "would create"]},
+      {"text": "By Friday, the team {{1}} (finish) the prototype, which {{2}} (allow) further testing.", "answers": ["will have finished", "would allow"]},
+      {"text": "By December, he {{1}} (save) enough money, which {{2}} (enable) him to buy a car.", "answers": ["will have saved", "would enable"]},
+      {"text": "By the deadline, we {{1}} (collect) all the evidence, which {{2}} (support) our argument.", "answers": ["will have collected", "would support"]},
+      {"text": "By next month, she {{1}} (gain) enough experience, which {{2}} (qualify) her for promotion.", "answers": ["will have gained", "would qualify"]},
+      {"text": "By the end of the year, the school {{1}} (modernize) its facilities, which {{2}} (benefit) its students.", "answers": ["will have modernized", "would benefit"]},
+      {"text": "By Monday, the engineers {{1}} (repair) the system, which {{2}} (reduce) the delays.", "answers": ["will have repaired", "would reduce"]},
+      {"text": "By next summer, they {{1}} (complete) the bridge, which {{2}} (improve) transport links.", "answers": ["will have completed", "would improve"]},
+      {"text": "By tomorrow, I {{1}} (read) the report, which {{2}} (help) me prepare my response.", "answers": ["will have read", "would help"]}
+    ]
+  },
+  {
+    "id": "052",
+    "titre": "Future Perfect – Past Conditional",
+    "definition": "Practice future completion alongside unreal past outcomes.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "By Friday, she {{1}} (finish) the report, but she {{2}} (finish) it yesterday if she had received the data.", "answers": ["will have finished", "would have finished"]},
+      {"text": "By next month, they {{1}} (complete) the project, but they {{2}} (complete) it sooner if the equipment had arrived.", "answers": ["will have completed", "would have completed"]},
+      {"text": "By June, he {{1}} (earn) his certificate, but he {{2}} (earn) it last year if he had passed the exam.", "answers": ["will have earned", "would have earned"]},
+      {"text": "By tomorrow, we {{1}} (submit) the proposal, but we {{2}} (submit) it earlier if the director had approved it.", "answers": ["will have submitted", "would have submitted"]},
+      {"text": "By the end of the year, the company {{1}} (open) five branches, but it {{2}} (open) them sooner if funding had arrived.", "answers": ["will have opened", "would have opened"]},
+      {"text": "By December, she {{1}} (save) enough money, but she {{2}} (save) more if she had started earlier.", "answers": ["will have saved", "would have saved"]},
+      {"text": "By Monday, the team {{1}} (repair) the system, but it {{2}} (repair) it yesterday if the parts had arrived.", "answers": ["will have repaired", "would have repaired"]},
+      {"text": "By next year, they {{1}} (build) the new school, but they {{2}} (build) it sooner if the land had been available.", "answers": ["will have built", "would have built"]},
+      {"text": "By the deadline, I {{1}} (complete) the application, but I {{2}} (complete) it earlier if I had found my documents.", "answers": ["will have completed", "would have completed"]},
+      {"text": "By summer, the researchers {{1}} (publish) their findings, but they {{2}} (publish) them earlier if the review had ended.", "answers": ["will have published", "would have published"]}
+    ]
+  },
+  {
+    "id": "053",
+    "titre": "Present Conditional – Past Conditional",
+    "definition": "Practice hypothetical present outcomes and hypothetical past results.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "If I had accepted the offer, I {{1}} (live) abroad now, and I {{2}} (avoid) my current difficulties.", "answers": ["would be living", "would have avoided"]},
+      {"text": "If she had studied medicine, she {{1}} (work) in a hospital today, and she {{2}} (qualify) years ago.", "answers": ["would be working", "would have qualified"]},
+      {"text": "If they had invested earlier, they {{1}} (own) a larger business now, and they {{2}} (earn) more last year.", "answers": ["would own", "would have earned"]},
+      {"text": "If he had taken the course, he {{1}} (understand) the subject now, and he {{2}} (pass) the exam last month.", "answers": ["would understand", "would have passed"]},
+      {"text": "If we had moved to the city, we {{1}} (have) more opportunities now, and we {{2}} (find) work sooner.", "answers": ["would have", "would have found"]},
+      {"text": "If she had accepted the promotion, she {{1}} (manage) the team now, and she {{2}} (receive) a higher salary last year.", "answers": ["would be managing", "would have received"]},
+      {"text": "If he had learned French, he {{1}} (communicate) more easily today, and he {{2}} (get) the previous job.", "answers": ["would communicate", "would have got"]},
+      {"text": "If they had built the factory, the town {{1}} (have) more jobs now, and local businesses {{2}} (grow) sooner.", "answers": ["would have", "would have grown"]},
+      {"text": "If I had saved more money, I {{1}} (own) a house now, and I {{2}} (avoid) borrowing last year.", "answers": ["would own", "would have avoided"]},
+      {"text": "If the company had modernized its equipment, it {{1}} (operate) more efficiently today, and it {{2}} (reduce) costs earlier.", "answers": ["would operate", "would have reduced"]}
+    ]
+  },
+  {
+    "id": "054",
+    "titre": "Present Conditional – Present Subjunctive",
+    "definition": "Practice conditional expressions and the mandative subjunctive.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "I {{1}} (recommend) that he {{2}} (be) considered for the position.", "answers": ["would recommend", "be"]},
+      {"text": "The director {{1}} (prefer) that the report {{2}} (be) revised before publication.", "answers": ["would prefer", "be"]},
+      {"text": "We {{1}} (suggest) that the committee {{2}} (meet) again next week.", "answers": ["would suggest", "meet"]},
+      {"text": "She {{1}} (insist) that every applicant {{2}} (provide) valid identification.", "answers": ["would insist", "provide"]},
+      {"text": "The manager {{1}} (request) that the team {{2}} (submit) its findings by Friday.", "answers": ["would request", "submit"]},
+      {"text": "I {{1}} (propose) that the policy {{2}} (be) reviewed annually.", "answers": ["would propose", "be"]},
+      {"text": "They {{1}} (prefer) that each department {{2}} (prepare) its own budget.", "answers": ["would prefer", "prepare"]},
+      {"text": "The board {{1}} (recommend) that the company {{2}} (invest) in staff training.", "answers": ["would recommend", "invest"]},
+      {"text": "He {{1}} (request) that his name {{2}} (remain) confidential.", "answers": ["would request", "remain"]},
+      {"text": "We {{1}} (insist) that every device {{2}} (meet) the safety requirements.", "answers": ["would insist", "meet"]}
+    ]
+  },
+  {
+    "id": "055",
+    "titre": "Past Conditional – Past Subjunctive",
+    "definition": "Practice unreal past outcomes and hypothetical states.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (accept) the offer if she {{2}} (be) more confident at the time.", "answers": ["would have accepted", "had been"]},
+      {"text": "He {{1}} (apply) for the job if he {{2}} (be) eligible.", "answers": ["would have applied", "had been"]},
+      {"text": "They {{1}} (buy) the house if it {{2}} (be) less expensive.", "answers": ["would have bought", "had been"]},
+      {"text": "I {{1}} (attend) the conference if I {{2}} (have) enough money.", "answers": ["would have attended", "had had"]},
+      {"text": "She {{1}} (choose) another course if she {{2}} (know) the workload.", "answers": ["would have chosen", "had known"]},
+      {"text": "We {{1}} (stay) longer if the weather {{2}} (be) better.", "answers": ["would have stayed", "had been"]},
+      {"text": "He {{1}} (help) us if he {{2}} (be) available.", "answers": ["would have helped", "had been"]},
+      {"text": "The team {{1}} (win) if its players {{2}} (be) better prepared.", "answers": ["would have won", "had been"]},
+      {"text": "They {{1}} (finish) the project if the instructions {{2}} (be) clearer.", "answers": ["would have finished", "had been"]},
+      {"text": "I {{1}} (accept) the invitation if I {{2}} (be) free that evening.", "answers": ["would have accepted", "had been"]}
+    ]
+  },
+  {
+    "id": "056",
+    "titre": "Present Subjunctive – Past Subjunctive",
+    "definition": "Practice the English mandative subjunctive and hypothetical past-subjunctive forms.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "The manager insists that he {{1}} (be) present, although he acts as if he {{2}} (be) the only expert.", "answers": ["be", "were"]},
+      {"text": "The committee recommends that the policy {{1}} (change), although the director behaves as if nothing {{2}} (be) wrong.", "answers": ["change", "were"]},
+      {"text": "The doctor insists that she {{1}} (rest), although she acts as if she {{2}} (be) perfectly healthy.", "answers": ["rest", "were"]},
+      {"text": "The teacher requests that every student {{1}} (participate), although one student behaves as if the rules {{2}} (not apply) to him.", "answers": ["participate", "did not apply"]},
+      {"text": "The board demands that the report {{1}} (be) revised, although the author speaks as if it {{2}} (be) flawless.", "answers": ["be", "were"]},
+      {"text": "The judge orders that the witness {{1}} (remain), although the witness acts as if he {{2}} (be) above the law.", "answers": ["remain", "were"]},
+      {"text": "The director suggests that the team {{1}} (meet) again, although the manager acts as if he {{2}} (know) every answer.", "answers": ["meet", "knew"]},
+      {"text": "The regulation requires that each device {{1}} (meet) the standards, although the supplier behaves as if safety {{2}} (not matter).", "answers": ["meet", "did not matter"]},
+      {"text": "The professor insists that the students {{1}} (revise) carefully, although one student behaves as if he {{2}} (need) no preparation.", "answers": ["revise", "needed"]},
+      {"text": "The committee requests that the proposal {{1}} (be) reconsidered, although the sponsor speaks as if it {{2}} (be) beyond criticism.", "answers": ["be", "were"]}
+    ]
+  },
+  {
+    "id": "057",
+    "titre": "Imperfect Subjunctive – Pluperfect Subjunctive",
+    "definition": "Practice hypothetical situations in the present and regrets about unreal past events.",
+    "instruction": "Complete both blanks with the correct forms of the verbs in brackets.",
+    "questions": [
+      {"text": "She {{1}} (wish) she {{2}} (accept) the scholarship when it was offered.", "answers": ["wishes", "had accepted"]},
+      {"text": "He {{1}} (act) as if he {{2}} (never make) a mistake in his career.", "answers": ["acts", "had never made"]},
+      {"text": "They {{1}} (wish) they {{2}} (invest) in the company years ago.", "answers": ["wish", "had invested"]},
+      {"text": "I {{1}} (feel) as though I {{2}} (meet) her before, although I cannot remember where.", "answers": ["feel", "had met"]},
+      {"text": "She {{1}} (speak) as if she {{2}} (know) the answer long before the meeting.", "answers": ["speaks", "had known"]},
+      {"text": "He {{1}} (wish) he {{2}} (take) his father's advice.", "answers": ["wishes", "had taken"]},
+      {"text": "The manager {{1}} (behave) as though the team {{2}} (never fail) him in the past.", "answers": ["behaves", "had never failed"]},
+      {"text": "We {{1}} (wish) we {{2}} (leave) earlier yesterday.", "answers": ["wish", "had left"]},
+      {"text": "She {{1}} (look) as if she {{2}} (not sleep) for several nights.", "answers": ["looks", "had not slept"]},
+      {"text": "He {{1}} (wish) he {{2}} (tell) the truth from the beginning.", "answers": ["wishes", "had told"]}
+    ]
+  }
+]
