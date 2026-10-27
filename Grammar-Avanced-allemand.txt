@@ -1444,7 +1444,296 @@
 {"text": "Sie {{1}} die Feier, nachdem sie sich von allen {{2}} {{3}}. Sie {{4}} länger geblieben, wenn sie mehr Zeit gehabt hätte. (verlassen / verabschieden / haben / sein)", "answers": ["verließ", "verabschiedet", "hatte", "wäre"]},
 {"text": "Wir {{1}} das Spiel, nachdem wir zu viele Fehler {{2}} {{3}}. Wir {{4}} gewonnen, wenn wir besser gespielt hätten. (verlieren / machen / haben / haben)", "answers": ["verloren", "gemacht", "hatten", "hätten"]}
 ]
+},
+ {
+"id": "078",
+"titre": "Präteritum – Futur I – Konjunktiv II Präsens",
+"definition": "Übung zur Verwendung des Präteritums, des Futur I und des Konjunktivs II Präsens.",
+"instruction": "Ergänze jede Lücke mit der richtigen Verbform. Achte auf die drei verschiedenen Zeitformen.",
+"questions": [
+{"text": "Gestern {{1}} ich sehr müde, morgen {{2}} ich früh aufstehen, und an meiner Stelle {{3}} du dich ausruhen. (sein / müssen / können)", "answers": ["war", "werde", "könntest"]},
+{"text": "Er {{1}} früher in Berlin, nächste Woche {{2}} er nach Hamburg fahren, und er {{3}} lieber zu Hause bleiben. (wohnen / werden / wollen)", "answers": ["wohnte", "wird", "würde"]},
+{"text": "Wir {{1}} gestern keine Zeit, morgen {{2}} wir dich besuchen, und wir {{3}} länger bleiben. (haben / werden / können)", "answers": ["hatten", "werden", "könnten"]},
+{"text": "Sie {{1}} den Brief gestern, morgen {{2}} sie die Antwort erhalten, und sie {{3}} sich über eine Nachricht freuen. (schreiben / werden / würden)", "answers": ["schrieb", "wird", "würde"]},
+{"text": "Der Zug {{1}} gestern zu spät, morgen {{2}} er pünktlich ankommen, und er {{3}} schneller fahren. (kommen / werden / können)", "answers": ["kam", "wird", "könnte"]},
+{"text": "Ich {{1}} früher jeden Tag Sport, nächste Woche {{2}} ich wieder trainieren, und ich {{3}} gern an einem Wettbewerb teilnehmen. (treiben / werden / wollen)", "answers": ["trieb", "werde", "würde"]},
+{"text": "Die Kinder {{1}} gestern im Garten, morgen {{2}} sie im Park spielen, und sie {{3}} noch länger draußen bleiben. (spielen / werden / können)", "answers": ["spielten", "werden", "könnten"]},
+{"text": "Du {{1}} mir gestern die Wahrheit, morgen {{2}} du mir alles erklären, und du {{3}} dich entschuldigen. (sagen / werden / sollen)", "answers": ["sagtest", "wirst", "solltest"]},
+{"text": "Er {{1}} seine Prüfung im letzten Jahr, nächstes Jahr {{2}} er eine weitere ablegen, und er {{3}} besser vorbereitet sein. (bestehen / werden / wollen)", "answers": ["bestand", "wird", "würde"]},
+{"text": "Wir {{1}} gestern sehr lange, morgen {{2}} wir früher anfangen, und wir {{3}} die Arbeit gemeinsam erledigen. (arbeiten / werden / können)", "answers": ["arbeiteten", "werden", "könnten"]}
+]
+},
+{
+"id": "079",
+"titre": "Präteritum – Konjunktiv I Präsens – Konjunktiv II Präsens",
+"definition": "Übung zur Unterscheidung von Präteritum, Konjunktiv I Präsens und Konjunktiv II Präsens.",
+"instruction": "Setze die Verben in die jeweils passende Zeitform.",
+"questions": [
+{"text": "Er {{1}} gestern krank. Der Arzt sagt, er {{2}} heute wieder gesund. An seiner Stelle {{3}} ich mich noch schonen. (sein / sein / werden)", "answers": ["war", "sei", "würde"]},
+{"text": "Sie {{1}} früher in München. Sie berichtet, sie {{2}} jetzt in Köln. Sie {{3}} lieber am Meer wohnen. (leben / leben / wollen)", "answers": ["lebte", "lebe", "würde"]},
+{"text": "Der Zeuge {{1}} den Unfall. Er erklärt, er {{2}} nichts Genaues gesehen. Er {{3}} jedoch helfen, wenn er könnte. (beobachten / haben / können)", "answers": ["beobachtete", "habe", "könnte"]},
+{"text": "Paul {{1}} gestern sehr spät. Seine Mutter sagt, er {{2}} heute früher nach Hause. Er {{3}} gern länger ausgehen. (kommen / kommen / wollen)", "answers": ["kam", "komme", "würde"]},
+{"text": "Die Lehrerin {{1}} die Regel. Sie erklärt, die Regel {{2}} für alle Schüler. Die Schüler {{3}} lieber mehr Beispiele bekommen. (erklären / gelten / wollen)", "answers": ["erklärte", "gelte", "würden"]},
+{"text": "Der Chef {{1}} eine Entscheidung. Er sagt, die Firma {{2}} neue Mitarbeiter einstellen. Er {{3}} zuerst die Kosten prüfen. (treffen / wollen / würde)", "answers": ["traf", "wolle", "würde"]},
+{"text": "Anna {{1}} den Schlüssel. Sie behauptet, sie {{2}} ihn nicht verloren. Sie {{3}} ihn sofort suchen, wenn sie mehr Zeit hätte. (verlieren / haben / können)", "answers": ["verlor", "habe", "könnte"]},
+{"text": "Der Arzt {{1}} den Patienten. Er erklärt, der Patient {{2}} mehr Wasser trinken. Der Patient {{3}} gern zu Hause bleiben. (untersuchen / sollen / würde)", "answers": ["untersuchte", "solle", "würde"]},
+{"text": "Die Gäste {{1}} gestern sehr früh. Der Gastgeber sagt, sie {{2}} morgen wiederkommen. Er {{3}} sie gern länger behalten. (abreisen / werden / wollen)", "answers": ["reisten", "würden", "würde"]},
+{"text": "Der Student {{1}} die Prüfung. Er sagt, er {{2}} sich gut vorbereitet haben. Er {{3}} die Prüfung gern wiederholen, wenn es nötig wäre. (bestehen / haben / können)", "answers": ["bestand", "habe", "könnte"]}
+]
+},
+{
+"id": "080",
+"titre": "Plusquamperfekt – literarisches Präteritum – literarisches Plusquamperfekt",
+"definition": "Übung zu Vorvergangenheit und literarischen Vergangenheitsformen.",
+"instruction": "Ergänze die drei Lücken mit den passenden Verbformen.",
+"questions": [
+{"text": "Nachdem er {{1}} hatte, {{2}} der König den Saal und {{3}} sich auf seinen Thron. (abreisen / betreten / setzen)", "answers": ["abgereist", "betrat", "hatte gesetzt"]},
+{"text": "Nachdem die Soldaten {{1}} hatten, {{2}} der Bote die Nachricht und {{3}} das Lager. (sich vorbereiten / überbringen / verlassen)", "answers": ["sich vorbereitet", "überbrachte", "hatte verlassen"]},
+{"text": "Nachdem sie den Brief {{1}} hatte, {{2}} sie die Tür und {{3}} das Haus. (schreiben / öffnen / verlassen)", "answers": ["geschrieben", "öffnete", "hatte verlassen"]},
+{"text": "Nachdem der Händler seine Waren {{1}} hatte, {{2}} er den Markt und {{3}} nach Hause. (verkaufen / verlassen / zurückkehren)", "answers": ["verkauft", "verließ", "war zurückgekehrt"]},
+{"text": "Nachdem die Gäste {{1}} waren, {{2}} der Gastgeber das Licht und {{3}} die Fenster. (gehen / löschen / schließen)", "answers": ["gegangen", "löschte", "hatte geschlossen"]},
+{"text": "Nachdem der Reisende den Weg {{1}} hatte, {{2}} er den Fluss und {{3}} das Dorf. (finden / überqueren / erreichen)", "answers": ["gefunden", "überquerte", "hatte erreicht"]},
+{"text": "Nachdem sie die Wahrheit {{1}} hatte, {{2}} sie den Richter und {{3}} ihre Aussage. (erfahren / informieren / bestätigen)", "answers": ["erfahren", "informierte", "hatte bestätigt"]},
+{"text": "Nachdem der König den Bericht {{1}} hatte, {{2}} er seine Berater und {{3}} eine Entscheidung. (lesen / rufen / treffen)", "answers": ["gelesen", "rief", "hatte getroffen"]},
+{"text": "Nachdem die Mannschaft das Spiel {{1}} hatte, {{2}} sie das Stadion und {{3}} den Sieg. (gewinnen / verlassen / feiern)", "answers": ["gewonnen", "verließ", "hatte gefeiert"]},
+{"text": "Nachdem der Forscher die Daten {{1}} hatte, {{2}} er seine Ergebnisse und {{3}} einen Artikel. (analysieren / präsentieren / veröffentlichen)", "answers": ["analysiert", "präsentierte", "hatte veröffentlicht"]}
+]
+},
+{
+"id": "081",
+"titre": "Plusquamperfekt – literarisches Präteritum – Konjunktiv II Vergangenheit",
+"definition": "Übung zu Vorvergangenheit, literarischem Präteritum und irrealen vergangenen Situationen.",
+"instruction": "Achte auf die Bedeutung und die grammatische Form jedes Satzteils.",
+"questions": [
+{"text": "Nachdem ich die Nachricht {{1}} hatte, {{2}} ich sofort zum Bahnhof, und ich {{3}} früher losgefahren. (erhalten / eilen / sein)", "answers": ["erhalten", "eilte", "wäre"]},
+{"text": "Nachdem sie den Schlüssel {{1}} hatte, {{2}} sie die Tür, und sie {{3}} das Haus früher verlassen. (finden / öffnen / haben)", "answers": ["gefunden", "öffnete", "hätte"]},
+{"text": "Nachdem er das Geld {{1}} hatte, {{2}} er ein Auto, und er {{3}} einen günstigeren Wagen gekauft. (sparen / kaufen / haben)", "answers": ["gespart", "kaufte", "hätte"]},
+{"text": "Nachdem wir den Zug {{1}} hatten, {{2}} wir ein Taxi, und wir {{3}} rechtzeitig angekommen. (verpassen / nehmen / sein)", "answers": ["verpasst", "nahmen", "wären"]},
+{"text": "Nachdem die Gäste {{1}} waren, {{2}} der Gastgeber das Essen, und er {{3}} mehr vorbereitet. (ankommen / servieren / haben)", "answers": ["angekommen", "servierte", "hätte"]},
+{"text": "Nachdem sie den Vertrag {{1}} hatte, {{2}} sie die Unterlagen, und sie {{3}} die Bedingungen genauer geprüft. (lesen / unterschreiben / haben)", "answers": ["gelesen", "unterschrieb", "hätte"]},
+{"text": "Nachdem der Arzt den Patienten {{1}} hatte, {{2}} er eine Behandlung, und er {{3}} früher reagiert. (untersuchen / empfehlen / haben)", "answers": ["untersucht", "empfahl", "hätte"]},
+{"text": "Nachdem wir die Aufgabe {{1}} hatten, {{2}} wir die Lösung, und wir {{3}} weniger Fehler gemacht. (beenden / vergleichen / haben)", "answers": ["beendet", "verglichen", "hätten"]},
+{"text": "Nachdem er den Weg {{1}} hatte, {{2}} er den Wald, und er {{3}} eine Karte mitgenommen. (verlieren / durchqueren / haben)", "answers": ["verloren", "durchquerte", "hätte"]},
+{"text": "Nachdem die Firma den Auftrag {{1}} hatte, {{2}} sie neue Mitarbeiter, und sie {{3}} früher investiert. (erhalten / einstellen / haben)", "answers": ["erhalten", "stellte ein", "hätte"]}
+]
+},
+{
+"id": "082",
+"titre": "Plusquamperfekt – Futur I – Konjunktiv II Präsens",
+"definition": "Übung zur Verbindung von Vorvergangenheit, Zukunft und hypothetischen Situationen.",
+"instruction": "Setze jedes Verb in die verlangte Zeitform.",
+"questions": [
+{"text": "Ich {{1}} die Arbeit bereits beendet, morgen {{2}} ich den Bericht schicken, und ich {{3}} gern noch mehr helfen. (haben / werden / können)", "answers": ["hatte", "werde", "könnte"]},
+{"text": "Sie {{1}} das Essen vorbereitet, später {{2}} sie die Gäste empfangen, und sie {{3}} noch einen Nachtisch anbieten. (haben / werden / würde)", "answers": ["hatte", "wird", "würde"]},
+{"text": "Wir {{1}} die Tickets schon gekauft, nächste Woche {{2}} wir nach Wien reisen, und wir {{3}} länger bleiben. (haben / werden / können)", "answers": ["hatten", "werden", "könnten"]},
+{"text": "Er {{1}} das Buch gelesen, morgen {{2}} er die Prüfung schreiben, und er {{3}} vorher noch einmal lernen. (haben / werden / sollen)", "answers": ["hatte", "wird", "sollte"]},
+{"text": "Die Firma {{1}} den Vertrag vorbereitet, bald {{2}} sie ihn unterschreiben, und sie {{3}} bessere Bedingungen verlangen. (haben / werden / können)", "answers": ["hatte", "wird", "könnte"]},
+{"text": "Du {{1}} deine Aufgaben erledigt, morgen {{2}} du deine Ergebnisse vorstellen, und du {{3}} selbstbewusster auftreten. (haben / werden / können)", "answers": ["hattest", "wirst", "könntest"]},
+{"text": "Die Kinder {{1}} ihre Zimmer aufgeräumt, am Wochenende {{2}} sie Freunde einladen, und sie {{3}} eine größere Feier veranstalten. (haben / werden / können)", "answers": ["hatten", "werden", "könnten"]},
+{"text": "Er {{1}} die Unterlagen gesammelt, morgen {{2}} er sie einreichen, und er {{3}} um eine Verlängerung bitten. (haben / werden / können)", "answers": ["hatte", "wird", "könnte"]},
+{"text": "Wir {{1}} das Problem erkannt, bald {{2}} wir eine Lösung finden, und wir {{3}} externe Hilfe benötigen. (haben / werden / können)", "answers": ["hatten", "werden", "könnten"]},
+{"text": "Sie {{1}} die Reise geplant, nächsten Monat {{2}} sie abreisen, und sie {{3}} noch ein paar Tage bleiben. (haben / werden / können)", "answers": ["hatte", "wird", "könnte"]}
+]
+},
+{
+"id": "083",
+"titre": "Literarisches Präteritum – literarisches Plusquamperfekt – Plusquamperfekt",
+"definition": "Übung zu literarischen Erzählformen und zur Vorvergangenheit.",
+"instruction": "Ergänze jede Lücke mit der passenden Verbform.",
+"questions": [
+{"text": "Nachdem der König den Brief {{1}} hatte, {{2}} er den Boten und {{3}} den Rat versammelt. (lesen / rufen / haben)", "answers": ["gelesen", "rief", "hatte"]},
+{"text": "Nachdem der Ritter sein Pferd {{1}} hatte, {{2}} er durch das Tor und {{3}} seine Rüstung angelegt. (satteln / reiten / haben)", "answers": ["gesattelt", "ritt", "hatte"]},
+{"text": "Nachdem die Königin den Saal {{1}} hatte, {{2}} sie ihre Gäste und {{3}} die Tafel gedeckt. (betreten / begrüßen / haben)", "answers": ["betreten", "begrüßte", "hatte"]},
+{"text": "Nachdem der Händler seine Waren {{1}} hatte, {{2}} er den Markt und {{3}} das Geld gezählt. (ordnen / verließ / haben)", "answers": ["geordnet", "verließ", "hatte"]},
+{"text": "Nachdem der Bote die Nachricht {{1}} hatte, {{2}} er zum Schloss und {{3}} die Antwort überbracht. (erhalten / eilte / haben)", "answers": ["erhalten", "eilte", "hatte"]},
+{"text": "Nachdem der Reisende den Fluss {{1}} hatte, {{2}} er das Dorf und {{3}} eine Herberge gefunden. (überqueren / erreichte / haben)", "answers": ["überquert", "erreichte", "hatte"]},
+{"text": "Nachdem die Wachen das Tor {{1}} hatten, {{2}} der König den Hof und {{3}} seine Gäste empfangen. (öffnen / betrat / hatte)", "answers": ["geöffnet", "betrat", "hatte"]},
+{"text": "Nachdem der Gelehrte das Manuskript {{1}} hatte, {{2}} er seine Notizen und {{3}} den Text übersetzt. (finden / schrieb / hatte)", "answers": ["gefunden", "schrieb", "hatte"]},
+{"text": "Nachdem die Soldaten den Befehl {{1}} hatten, {{2}} sie das Lager und {{3}} ihre Ausrüstung geprüft. (erhalten / verließen / hatten)", "answers": ["erhalten", "verließen", "hatten"]},
+{"text": "Nachdem der Kapitän den Sturm {{1}} hatte, {{2}} er den Hafen und {{3}} die Mannschaft beruhigt. (überstehen / erreichte / hatte)", "answers": ["überstanden", "erreichte", "hatte"]}
+]
+},
+{
+"id": "084",
+"titre": "Literarisches Präteritum – Präteritum – Futur II",
+"definition": "Übung zur Verwendung verschiedener Vergangenheitsformen und des Futur II.",
+"instruction": "Achte besonders auf die Zukunftsperspektive des Futur II.",
+"questions": [
+{"text": "Der König {{1}} den Saal, der Diener {{2}} die Tür, und morgen {{3}} der König die Entscheidung getroffen haben. (betreten / schließen / werden)", "answers": ["betrat", "schloss", "wird"]},
+{"text": "Der Ritter {{1}} den Feind, der Soldat {{2}} den Befehl, und bis morgen {{3}} der Hauptmann den Bericht geschrieben haben. (sehen / erhalten / werden)", "answers": ["sah", "erhielt", "wird"]},
+{"text": "Die Reisenden {{1}} den Fluss, der Führer {{2}} den Weg, und am Abend {{3}} sie das Dorf erreicht haben. (überqueren / zeigen / werden)", "answers": ["überquerten", "zeigte", "werden"]},
+{"text": "Der Händler {{1}} seine Waren, der Kunde {{2}} den Preis, und bis nächste Woche {{3}} der Händler alles verkauft haben. (anbieten / verhandeln / wird)", "answers": ["bot", "verhandelte", "wird"]},
+{"text": "Die Forscher {{1}} eine Entdeckung, die Universität {{2}} ihre Ergebnisse, und bis Freitag {{3}} sie den Artikel veröffentlicht haben. (machen / prüfen / werden)", "answers": ["machten", "prüfte", "werden"]},
+{"text": "Der Arzt {{1}} den Patienten, die Schwester {{2}} die Medikamente, und bis morgen {{3}} der Patient sich erholt haben. (untersuchen / bringen / wird)", "answers": ["untersuchte", "brachte", "wird"]},
+{"text": "Die Mannschaft {{1}} das Spiel, der Trainer {{2}} die Taktik, und bis zum nächsten Monat {{3}} das Team intensiv trainiert haben. (gewinnen / ändern / wird)", "answers": ["gewann", "änderte", "wird"]},
+{"text": "Der Autor {{1}} den Roman, der Verlag {{2}} das Manuskript, und im Sommer {{3}} das Buch veröffentlicht worden sein. (schreiben / prüfen / wird)", "answers": ["schrieb", "prüfte", "wird"]},
+{"text": "Die Gäste {{1}} den Saal, der Gastgeber {{2}} die Fenster, und bis Mitternacht {{3}} alle Gäste abgereist sein. (verlassen / öffnen / werden)", "answers": ["verließen", "öffnete", "werden"]},
+{"text": "Der Student {{1}} die Prüfung, die Professorin {{2}} die Ergebnisse, und nächste Woche {{3}} alle Noten eingetragen worden sein. (bestehen / kontrollieren / werden)", "answers": ["bestand", "kontrollierte", "werden"]}
+]
+},
+{
+"id": "085",
+"titre": "Literarisches Präteritum – Konjunktiv II Präsens – Konjunktiv II Vergangenheit",
+"definition": "Übung zu erzählender Vergangenheit, hypothetischer Gegenwart und irreale Vergangenheit.",
+"instruction": "Wähle für jede Lücke die grammatisch passende Form.",
+"questions": [
+{"text": "Der König {{1}} den Saal. An seiner Stelle {{2}} ich anders entscheiden, und ich {{3}} den Boten früher geschickt. (betreten / würde / haben)", "answers": ["betrat", "würde", "hätte"]},
+{"text": "Die Reisende {{1}} den Zug. An ihrer Stelle {{2}} ich ein Taxi nehmen, und ich {{3}} die Abfahrt besser geplant. (verpassen / würde / haben)", "answers": ["verpasste", "würde", "hätte"]},
+{"text": "Der Arzt {{1}} den Patienten. Ich {{2}} eine zweite Meinung einholen, und ich {{3}} die Symptome früher beschrieben. (untersuchen / würde / haben)", "answers": ["untersuchte", "würde", "hätte"]},
+{"text": "Der Händler {{1}} den Vertrag. Ich {{2}} die Bedingungen prüfen, und ich {{3}} nichts unterschrieben. (unterschreiben / würde / hätte)", "answers": ["unterschrieb", "würde", "hätte"]},
+{"text": "Die Mannschaft {{1}} das Spiel. Ich {{2}} länger trainieren, und ich {{3}} den entscheidenden Fehler vermieden. (verlieren / würde / haben)", "answers": ["verlor", "würde", "hätte"]},
+{"text": "Der Student {{1}} die Prüfung. Ich {{2}} mehr lernen, und ich {{3}} die Aufgaben sorgfältiger gelesen. (nicht bestehen / würde / haben)", "answers": ["bestand nicht", "würde", "hätte"]},
+{"text": "Sie {{1}} die Einladung. Ich {{2}} sofort antworten, und ich {{3}} mich früher gemeldet. (ablehnen / würde / haben)", "answers": ["lehnte ab", "würde", "hätte"]},
+{"text": "Der Fahrer {{1}} die Ausfahrt. Ich {{2}} langsamer fahren, und ich {{3}} die Schilder besser beachtet. (verpassen / würde / haben)", "answers": ["verpasste", "würde", "hätte"]},
+{"text": "Wir {{1}} den Weg. Ich {{2}} eine Karte benutzen, und wir {{3}} früher angekommen. (verlieren / würde / sein)", "answers": ["verloren", "würde", "wären"]},
+{"text": "Der Chef {{1}} die Entscheidung. Ich {{2}} die Mitarbeiter fragen, und ich {{3}} den Vorschlag gründlicher geprüft. (treffen / würde / haben)", "answers": ["traf", "würde", "hätte"]}
+]
+},
+{
+"id": "086",
+"titre": "Literarisches Plusquamperfekt – Futur I – Futur II",
+"definition": "Übung zu abgeschlossenen Handlungen in der Vergangenheit sowie Zukunft und vollendeter Zukunft.",
+"instruction": "Ergänze die Lücken in der richtigen Reihenfolge.",
+"questions": [
+{"text": "Nachdem er die Arbeit {{1}} hatte, {{2}} er nach Hause fahren, und bis morgen {{3}} er sich ausgeruht haben. (beenden / werden / werden)", "answers": ["beendet", "wird", "wird"]},
+{"text": "Nachdem sie die Einladung {{1}} hatte, {{2}} sie antworten, und bis Freitag {{3}} sie ihre Entscheidung getroffen haben. (lesen / werden / wird)", "answers": ["gelesen", "wird", "wird"]},
+{"text": "Nachdem wir die Tickets {{1}} hatten, {{2}} wir abreisen, und bis zum Abend {{3}} wir angekommen sein. (buchen / werden / werden)", "answers": ["gebucht", "werden", "werden"]},
+{"text": "Nachdem er das Projekt {{1}} hatte, {{2}} er es präsentieren, und bis Monatsende {{3}} er den Bericht geschrieben haben. (vorbereiten / werden / wird)", "answers": ["vorbereitet", "wird", "wird"]},
+{"text": "Nachdem die Firma den Vertrag {{1}} hatte, {{2}} sie die Produktion starten, und bis zum Sommer {{3}} sie die ersten Produkte hergestellt haben. (unterzeichnen / werden / wird)", "answers": ["unterzeichnet", "wird", "wird"]},
+{"text": "Nachdem du die Prüfung {{1}} hattest, {{2}} du dich entspannen, und bis morgen {{3}} du dich erholt haben. (beenden / werden / wirst)", "answers": ["beendet", "wirst", "wirst"]},
+{"text": "Nachdem sie das Haus {{1}} hatten, {{2}} sie einziehen, und bis nächste Woche {{3}} sie alle Möbel aufgebaut haben. (renovieren / werden / werden)", "answers": ["renoviert", "werden", "werden"]},
+{"text": "Nachdem der Arzt den Patienten {{1}} hatte, {{2}} er die Ergebnisse erklären, und bis morgen {{3}} der Patient die Behandlung begonnen haben. (untersuchen / werden / wird)", "answers": ["untersucht", "wird", "wird"]},
+{"text": "Nachdem die Schüler die Aufgaben {{1}} hatten, {{2}} sie ihre Antworten vergleichen, und bis zum Ende der Stunde {{3}} sie alles korrigiert haben. (lösen / werden / werden)", "answers": ["gelöst", "werden", "werden"]},
+{"text": "Nachdem der Autor den Roman {{1}} hatte, {{2}} der Verlag ihn veröffentlichen, und bis Jahresende {{3}} viele Leser das Buch gelesen haben. (schreiben / werden / werden)", "answers": ["geschrieben", "wird", "werden"]}
+]
+},
+{
+"id": "087",
+"titre": "Futur I – Futur II – Konjunktiv II Präsens",
+"definition": "Übung zur Zukunft, zur vollendeten Zukunft und zu hypothetischen Situationen.",
+"instruction": "Setze die Verben in Futur I, Futur II oder Konjunktiv II Präsens.",
+"questions": [
+{"text": "Morgen {{1}} ich dich besuchen, bis dahin {{2}} ich die Arbeit beendet haben, und ich {{3}} gern länger bleiben. (werden / werden / würde)", "answers": ["werde", "werde", "würde"]},
+{"text": "Sie {{1}} bald ankommen, bis zum Abend {{2}} sie die Stadt besichtigt haben, und sie {{3}} gern noch einen Tag bleiben. (werden / werden / würde)", "answers": ["wird", "wird", "würde"]},
+{"text": "Wir {{1}} das Projekt vorstellen, bis Freitag {{2}} wir alle Daten gesammelt haben, und wir {{3}} zusätzliche Hilfe brauchen. (werden / werden / könnten)", "answers": ["werden", "werden", "könnten"]},
+{"text": "Er {{1}} die Prüfung schreiben, bis dahin {{2}} er alle Kapitel gelernt haben, und er {{3}} sich noch besser vorbereiten. (werden / werden / könnte)", "answers": ["wird", "wird", "könnte"]},
+{"text": "Du {{1}} die Ergebnisse präsentieren, bis morgen {{2}} du den Bericht fertiggestellt haben, und du {{3}} selbstbewusster auftreten. (werden / werden / könntest)", "answers": ["wirst", "wirst", "könntest"]},
+{"text": "Die Firma {{1}} neue Mitarbeiter einstellen, bis Jahresende {{2}} sie ihre Ziele erreicht haben, und sie {{3}} mehr investieren. (werden / werden / könnte)", "answers": ["wird", "wird", "könnte"]},
+{"text": "Ich {{1}} den Zug nehmen, bis Mittag {{2}} ich mein Ziel erreicht haben, und ich {{3}} auch mit dem Bus fahren. (werden / werden / könnte)", "answers": ["werde", "werde", "könnte"]},
+{"text": "Die Kinder {{1}} nach draußen gehen, bis zum Abend {{2}} sie ihre Hausaufgaben erledigt haben, und sie {{3}} länger spielen. (werden / werden / könnten)", "answers": ["werden", "werden", "könnten"]},
+{"text": "Er {{1}} das Haus verkaufen, bis nächste Woche {{2}} er alle Unterlagen vorbereitet haben, und er {{3}} den Preis senken. (werden / werden / könnte)", "answers": ["wird", "wird", "könnte"]},
+{"text": "Wir {{1}} die Reise buchen, bis morgen {{2}} wir alle Angebote verglichen haben, und wir {{3}} ein anderes Hotel wählen. (werden / werden / könnten)", "answers": ["werden", "werden", "könnten"]}
+]
+},
+{
+"id": "088",
+"titre": "Futur I – Konjunktiv II Präsens – Konjunktiv II Vergangenheit",
+"definition": "Übung zur Zukunft und zu hypothetischen sowie vergangenen irrealen Situationen.",
+"instruction": "Achte darauf, ob eine Möglichkeit die Gegenwart oder die Vergangenheit betrifft.",
+"questions": [
+{"text": "Morgen {{1}} ich dich besuchen. An deiner Stelle {{2}} ich zu Hause bleiben, und ich {{3}} dich gestern angerufen. (werden / würde / haben)", "answers": ["werde", "würde", "hätte"]},
+{"text": "Sie {{1}} bald abreisen. An ihrer Stelle {{2}} ich länger warten, und ich {{3}} die Tickets früher gebucht. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]},
+{"text": "Wir {{1}} das Projekt vorstellen. Ich {{2}} zuerst die Daten prüfen, und ich {{3}} den Bericht früher fertiggestellt. (werden / würde / haben)", "answers": ["werden", "würde", "hätte"]},
+{"text": "Er {{1}} die Prüfung wiederholen. Ich {{2}} mehr üben, und ich {{3}} die Fragen genauer gelesen. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]},
+{"text": "Du {{1}} die Wahrheit erfahren. Ich {{2}} offen mit dir sprechen, und ich {{3}} dir früher Bescheid gesagt. (werden / würde / haben)", "answers": ["wirst", "würde", "hätte"]},
+{"text": "Die Firma {{1}} neue Stellen anbieten. Ich {{2}} mich dort bewerben, und ich {{3}} meine Bewerbung früher abgeschickt. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]},
+{"text": "Die Kinder {{1}} morgen schwimmen gehen. Ich {{2}} sie begleiten, und ich {{3}} die Eintrittskarten gestern gekauft. (werden / würde / haben)", "answers": ["werden", "würde", "hätte"]},
+{"text": "Er {{1}} später zurückkommen. Ich {{2}} auf ihn warten, und ich {{3}} ihn vorher angerufen. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]},
+{"text": "Wir {{1}} das Haus renovieren. Ich {{2}} zuerst einen Fachmann fragen, und ich {{3}} die Kosten genauer berechnet. (werden / würde / haben)", "answers": ["werden", "würde", "hätte"]},
+{"text": "Sie {{1}} die Konferenz besuchen. Ich {{2}} mich anmelden, und ich {{3}} das Hotel früher reserviert. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]}
+]
+},
+{
+"id": "089",
+"titre": "Futur I – Konjunktiv I Präsens – Konjunktiv I Vergangenheit",
+"definition": "Übung zu Zukunftsformen und indirekter Rede in Gegenwart und Vergangenheit.",
+"instruction": "Verwende den Konjunktiv I für die indirekte Rede.",
+"questions": [
+{"text": "Morgen {{1}} der Minister eine Rede halten. Der Sprecher sagt, der Minister {{2}} heute krank. Er erklärt außerdem, der Minister {{3}} gestern untersucht worden. (werden / sein / sein)", "answers": ["wird", "sei", "sei"]},
+{"text": "Die Firma {{1}} neue Mitarbeiter einstellen. Der Direktor erklärt, sie {{2}} erfolgreich. Er sagt, sie {{3}} im letzten Jahr stark gewachsen. (werden / sein / sein)", "answers": ["wird", "sei", "sei"]},
+{"text": "Der Zug {{1}} morgen früher abfahren. Die Durchsage besagt, der Zug {{2}} pünktlich. Sie erklärt, die Verspätung {{3}} bereits behoben worden. (werden / sein / sein)", "answers": ["wird", "sei", "sei"]},
+{"text": "Die Ärztin {{1}} später die Ergebnisse erklären. Sie sagt, der Patient {{2}} stabil. Sie berichtet, er {{3}} bereits behandelt worden. (werden / sein / sein)", "answers": ["wird", "sei", "sei"]},
+{"text": "Die Forscher {{1}} morgen ihre Studie vorstellen. Der Leiter sagt, die Ergebnisse {{2}} eindeutig. Er erklärt, alle Daten {{3}} sorgfältig geprüft worden. (werden / sein / sein)", "answers": ["werden", "seien", "seien"]},
+{"text": "Der Lehrer {{1}} nächste Woche eine Prüfung durchführen. Er sagt, die Schüler {{2}} gut vorbereitet. Er berichtet, sie {{3}} alle Aufgaben erledigt. (werden / sein / haben)", "answers": ["wird", "seien", "hätten"]},
+{"text": "Die Gäste {{1}} morgen anreisen. Der Veranstalter erklärt, sie {{2}} bereits unterwegs. Er sagt, sie {{3}} die Zimmer schon reserviert. (werden / sein / haben)", "answers": ["werden", "seien", "hätten"]},
+{"text": "Der Autor {{1}} bald ein neues Buch veröffentlichen. Er sagt, das Manuskript {{2}} fertig. Er berichtet, er {{3}} es schon vor Monaten abgeschlossen. (werden / sein / haben)", "answers": ["wird", "sei", "habe"]},
+{"text": "Die Polizei {{1}} morgen weitere Informationen veröffentlichen. Der Sprecher sagt, die Ermittlungen {{2}} noch nicht abgeschlossen. Er erklärt, die Beamten {{3}} bereits mehrere Zeugen befragt. (werden / sein / haben)", "answers": ["wird", "seien", "hätten"]},
+{"text": "Die Mannschaft {{1}} morgen trainieren. Der Trainer sagt, die Spieler {{2}} motiviert. Er erklärt, sie {{3}} am Wochenende gut gespielt. (werden / sein / haben)", "answers": ["wird", "seien", "hätten"]}
+]
+},
+{
+"id": "090",
+"titre": "Futur II – Konjunktiv II Präsens – Konjunktiv II Vergangenheit",
+"definition": "Übung zu vollendeten zukünftigen Handlungen und hypothetischen Situationen.",
+"instruction": "Ergänze die Sätze mit Futur II und den passenden Konjunktivformen.",
+"questions": [
+{"text": "Bis morgen {{1}} ich die Arbeit beendet haben. Ich {{2}} gern früher fertig sein, und ich {{3}} gestern länger gearbeitet. (werden / würde / haben)", "answers": ["werde", "würde", "hätte"]},
+{"text": "Bis Freitag {{1}} sie den Bericht geschrieben haben. Sie {{2}} gern mehr Zeit haben, und sie {{3}} früher angefangen. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]},
+{"text": "Bis zum Abend {{1}} wir angekommen sein. Wir {{2}} lieber früher reisen, und wir {{3}} den Zug genommen. (werden / würden / haben)", "answers": ["werden", "würden", "hätten"]},
+{"text": "Bis nächste Woche {{1}} er die Prüfung bestanden haben. Er {{2}} gern sicherer sein, und er {{3}} mehr gelernt. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]},
+{"text": "Bis zum Sommer {{1}} die Firma das Projekt abgeschlossen haben. Sie {{2}} gern schneller arbeiten, und sie {{3}} mehr Mitarbeiter eingestellt. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]},
+{"text": "Bis morgen {{1}} du die Unterlagen eingereicht haben. Du {{2}} gern weniger Stress haben, und du {{3}} früher begonnen. (werden / würdest / haben)", "answers": ["wirst", "würdest", "hättest"]},
+{"text": "Bis zum Wochenende {{1}} die Kinder ihre Aufgaben erledigt haben. Sie {{2}} lieber draußen spielen, und sie {{3}} ihre Hausaufgaben früher gemacht. (werden / würden / haben)", "answers": ["werden", "würden", "hätten"]},
+{"text": "Bis zum Monatsende {{1}} er das Geld gespart haben. Er {{2}} gern mehr verdienen, und er {{3}} unnötige Ausgaben vermieden. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]},
+{"text": "Bis morgen {{1}} wir eine Lösung gefunden haben. Wir {{2}} gern schneller entscheiden, und wir {{3}} früher darüber gesprochen. (werden / würden / haben)", "answers": ["werden", "würden", "hätten"]},
+{"text": "Bis zum Abend {{1}} sie das Haus aufgeräumt haben. Sie {{2}} gern mehr Hilfe bekommen, und sie {{3}} früher um Hilfe gebeten. (werden / würde / haben)", "answers": ["wird", "würde", "hätte"]}
+]
+},
+{
+"id": "091",
+"titre": "Konjunktiv II Präsens – Konjunktiv II Vergangenheit – Konjunktiv I Präsens",
+"definition": "Übung zu hypothetischen Situationen in Gegenwart und Vergangenheit sowie indirekter Rede.",
+"instruction": "Achte auf den Unterschied zwischen Wunsch, Bedingung und berichteter Aussage.",
+"questions": [
+{"text": "Ich {{1}} gern mehr Zeit haben. Ich {{2}} früher begonnen, und er sagt, ich {{3}} sehr fleißig. (würde / haben / sein)", "answers": ["würde", "hätte", "sei"]},
+{"text": "Sie {{1}} gern im Ausland leben. Sie {{2}} früher umgezogen, und ihr Bruder sagt, sie {{3}} dort glücklich. (würde / sein / sein)", "answers": ["würde", "wäre", "sei"]},
+{"text": "Wir {{1}} gern länger bleiben. Wir {{2}} die Reise anders geplant, und der Gastgeber sagt, wir {{3}} willkommen. (würden / haben / sein)", "answers": ["würden", "hätten", "seien"]},
+{"text": "Er {{1}} gern Arzt werden. Er {{2}} mehr gelernt, und seine Lehrerin sagt, er {{3}} sehr begabt. (würde / haben / sein)", "answers": ["würde", "hätte", "sei"]},
+{"text": "Du {{1}} gern ein neues Auto kaufen. Du {{2}} mehr gespart, und dein Vater sagt, du {{3}} verantwortungsbewusst. (würdest / haben / sein)", "answers": ["würdest", "hättest", "seiest"]},
+{"text": "Die Firma {{1}} gern expandieren. Sie {{2}} früher investiert, und der Direktor sagt, sie {{3}} bereit für den nächsten Schritt. (würde / haben / sein)", "answers": ["würde", "hätte", "sei"]},
+{"text": "Ich {{1}} gern besser Deutsch sprechen. Ich {{2}} regelmäßiger geübt, und meine Lehrerin sagt, ich {{3}} auf einem guten Weg. (würde / haben / sein)", "answers": ["würde", "hätte", "sei"]},
+{"text": "Die Kinder {{1}} gern länger draußen spielen. Sie {{2}} ihre Aufgaben früher erledigt, und die Mutter sagt, sie {{3}} sehr müde. (würden / haben / sein)", "answers": ["würden", "hätten", "seien"]},
+{"text": "Er {{1}} gern die Wahrheit sagen. Er {{2}} früher gesprochen, und sein Freund sagt, er {{3}} ehrlich. (würde / haben / sein)", "answers": ["würde", "hätte", "sei"]},
+{"text": "Wir {{1}} gern am Meer wohnen. Wir {{2}} uns früher beworben, und unsere Freunde sagen, wir {{3}} dort zufriedener. (würden / haben / sein)", "answers": ["würden", "hätten", "seien"]}
+]
+},
+{
+"id": "092",
+"titre": "Konjunktiv II Vergangenheit – Konjunktiv I Präsens – Konjunktiv I Vergangenheit",
+"definition": "Übung zu irreale Vergangenheit und indirekter Rede in Gegenwart und Vergangenheit.",
+"instruction": "Ergänze die Lücken mit den passenden Konjunktivformen.",
+"questions": [
+{"text": "Ich {{1}} früher angekommen, und er sagt, ich {{2}} jetzt hier. Er berichtet außerdem, ich {{3}} den Zug verpasst. (sein / sein / haben)", "answers": ["wäre", "sei", "habe"]},
+{"text": "Sie {{1}} die Prüfung bestanden, und die Lehrerin sagt, sie {{2}} sehr fleißig. Die Lehrerin erklärt, sie {{3}} alle Aufgaben gelöst. (haben / sein / haben)", "answers": ["hätte", "sei", "habe"]},
+{"text": "Wir {{1}} rechtzeitig losgefahren, und der Fahrer sagt, wir {{2}} jetzt pünktlich. Er erklärt, wir {{3}} keine Pause gemacht. (sein / sein / haben)", "answers": ["wären", "seien", "hätten"]},
+{"text": "Er {{1}} den Brief abgeschickt, und seine Schwester sagt, er {{2}} sehr nervös. Sie berichtet, er {{3}} lange auf eine Antwort gewartet. (haben / sein / haben)", "answers": ["hätte", "sei", "habe"]},
+{"text": "Du {{1}} früher angerufen, und deine Mutter sagt, du {{2}} jetzt erreichbar. Sie erklärt, du {{3}} dein Telefon ausgeschaltet. (haben / sein / haben)", "answers": ["hättest", "seiest", "habest"]},
+{"text": "Die Gäste {{1}} früher angekommen, und der Gastgeber sagt, sie {{2}} schon im Hotel. Er berichtet, sie {{3}} ihre Zimmer bezogen. (sein / sein / haben)", "answers": ["wären", "seien", "hätten"]},
+{"text": "Der Arzt {{1}} schneller reagiert, und er sagt, der Patient {{2}} jetzt stabil. Er erklärt, der Patient {{3}} die Medikamente regelmäßig genommen. (haben / sein / haben)", "answers": ["hätte", "sei", "habe"]},
+{"text": "Die Schüler {{1}} mehr gelernt, und der Lehrer sagt, sie {{2}} gut vorbereitet. Er berichtet, sie {{3}} die Übungen wiederholt. (haben / sein / haben)", "answers": ["hätten", "seien", "hätten"]},
+{"text": "Sie {{1}} früher abgereist, und der Reiseleiter sagt, sie {{2}} jetzt zu Hause. Er berichtet, sie {{3}} die Rückfahrt gut überstanden. (sein / sein / haben)", "answers": ["wäre", "sei", "habe"]},
+{"text": "Wir {{1}} die Nachricht früher erhalten, und der Sprecher sagt, wir {{2}} nun informiert. Er erklärt, wir {{3}} die Warnung rechtzeitig gelesen. (haben / sein / haben)", "answers": ["hätten", "seien", "hätten"]}
+]
+},
+{
+"id": "093",
+"titre": "Konjunktiv I Präsens – Konjunktiv I Vergangenheit – Irreale Vergangenheit im Konjunktiv",
+"definition": "Übung zur indirekten Rede und zu irrealen Bedingungen in der Vergangenheit.",
+"instruction": "Vervollständige jede Aussage mit der richtigen Konjunktivform.",
+"questions": [
+{"text": "Der Sprecher sagt, der Zug {{1}} pünktlich. Er berichtet, der Zug {{2}} bereits angekommen. Wenn er früher gefahren wäre, {{3}} er den Anschluss nicht verpasst. (sein / sein / haben)", "answers": ["sei", "sei", "hätte"]},
+{"text": "Die Ärztin erklärt, der Patient {{1}} stabil. Sie sagt, er {{2}} die Medikamente genommen. Wenn er früher gekommen wäre, {{3}} er weniger Schmerzen gehabt. (sein / haben / haben)", "answers": ["sei", "habe", "hätte"]},
+{"text": "Der Lehrer sagt, die Schülerin {{1}} sehr fleißig. Er berichtet, sie {{2}} alle Aufgaben erledigt. Wenn sie mehr Zeit gehabt hätte, {{3}} sie noch mehr gelernt. (sein / haben / haben)", "answers": ["sei", "habe", "hätte"]},
+{"text": "Der Direktor erklärt, die Firma {{1}} erfolgreich. Er sagt, sie {{2}} neue Märkte erschlossen. Wenn sie früher investiert hätte, {{3}} sie schneller gewachsen. (sein / haben / sein)", "answers": ["sei", "habe", "wäre"]},
+{"text": "Die Zeugin sagt, der Fahrer {{1}} vorsichtig. Sie berichtet, er {{2}} sofort gebremst. Wenn er langsamer gefahren wäre, {{3}} der Unfall vermieden worden. (sein / haben / sein)", "answers": ["sei", "habe", "wäre"]},
+{"text": "Der Forscher erklärt, die Ergebnisse {{1}} eindeutig. Er sagt, das Team {{2}} die Daten geprüft. Wenn sie mehr Zeit gehabt hätten, {{3}} sie weitere Tests durchgeführt. (sein / haben / haben)", "answers": ["seien", "habe", "hätten"]},
+{"text": "Der Trainer sagt, die Spieler {{1}} motiviert. Er berichtet, sie {{2}} hart trainiert. Wenn sie besser zusammengearbeitet hätten, {{3}} sie das Spiel gewonnen. (sein / haben / haben)", "answers": ["seien", "hätten", "hätten"]},
+{"text": "Die Sprecherin erklärt, die Gäste {{1}} bereits da. Sie sagt, sie {{2}} ihre Plätze gefunden. Wenn sie früher gekommen wären, {{3}} sie bessere Plätze bekommen. (sein / haben / haben)", "answers": ["seien", "hätten", "hätten"]},
+{"text": "Der Autor sagt, das Buch {{1}} fertig. Er berichtet, er {{2}} das Manuskript überarbeitet. Wenn er mehr Zeit gehabt hätte, {{3}} er das Ende verändert. (sein / haben / haben)", "answers": ["sei", "habe", "hätte"]},
+{"text": "Die Polizei erklärt, die Ermittlungen {{1}} abgeschlossen. Sie berichtet, die Beamten {{2}} mehrere Zeugen befragt. Wenn weitere Hinweise eingegangen wären, {{3}} sie länger ermittelt. (sein / haben / haben)", "answers": ["seien", "hätten", "hätten"]}
+]
 }
 ]
+
 
 
