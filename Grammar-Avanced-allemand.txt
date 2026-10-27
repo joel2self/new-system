@@ -10,12 +10,40 @@
         "answers": ["lerne", "geübt habe", "wiederhole"]
       },
       {
-        "text": "Sie {{1}} (wohnen) in Berlin, {{2}} (umziehen) letztes Jahr und {{3}} (arbeiten) jetzt im Zentrum.",
-        "answers": ["wohnt", "ist umgezogen", "arbeitet"]
+        "text": "Sie {{1}} (wohnen) seit drei Jahren in Berlin und {{2}} (machen) bereits mehrere Sprachkurse. Heute {{3}} (arbeiten) sie in einem internationalen Unternehmen.",
+        "answers": ["wohnt", "hat gemacht", "arbeitet"]
       },
       {
-        "text": "Wir {{1}} (kochen) heute zusammen, {{2}} (kaufen) schon alle Zutaten und {{3}} (warten) auf unsere Gäste.",
-        "answers": ["kochen", "haben gekauft", "warten"]
+        "text": "Wir {{1}} (kochen) heute gemeinsam, weil wir gestern alle Zutaten {{2}} (kaufen) haben und nun auf unsere Gäste {{3}} (warten).",
+        "answers": ["kochen", "gekauft", "warten"]
+      },
+      {
+        "text": "Er {{1}} (lesen) jeden Abend deutsche Zeitungen und {{2}} (besuchen) in den letzten Monaten mehrere Sprachseminare. Jetzt {{3}} (sprechen) er viel sicherer Deutsch.",
+        "answers": ["liest", "hat besucht", "spricht"]
+      },
+      {
+        "text": "Ich {{1}} (schreiben) heute einen Bericht, nachdem ich gestern alle notwendigen Informationen {{2}} (sammeln) habe. Jetzt {{3}} (überprüfen) ich die letzten Details.",
+        "answers": ["schreibe", "gesammelt", "überprüfe"]
+      },
+      {
+        "text": "Die Studenten {{1}} (arbeiten) heute an einem Projekt und {{2}} (recherchieren) bereits mehrere Stunden. Nun {{3}} (diskutieren) sie über die Ergebnisse.",
+        "answers": ["arbeiten", "haben recherchiert", "diskutieren"]
+      },
+      {
+        "text": "Meine Schwester {{1}} (leben) jetzt in Hamburg, aber sie {{2}} (besuchen) uns erst vor wenigen Wochen in München. Heute {{3}} (telefonieren) sie mit unseren Eltern.",
+        "answers": ["lebt", "hat besucht", "telefoniert"]
+      },
+      {
+        "text": "Der Arzt {{1}} (untersuchen) heute viele Patienten und {{2}} (behandeln) bereits mehrere Notfälle. Jetzt {{3}} (sprechen) er mit einem Kollegen.",
+        "answers": ["untersucht", "hat behandelt", "spricht"]
+      },
+      {
+        "text": "Wir {{1}} (wohnen) inzwischen auf dem Land, nachdem wir vor zwei Jahren aus der Stadt {{2}} (umziehen) sind. Heute {{3}} (genießen) wir die Ruhe.",
+        "answers": ["wohnen", "umgezogen", "genießen"]
+      },
+      {
+        "text": "Er {{1}} (arbeiten) heute von zu Hause, weil er gestern sehr lange im Büro {{2}} (bleiben) ist. Jetzt {{3}} (beenden) er seinen letzten Bericht.",
+        "answers": ["arbeitet", "geblieben", "beendet"]
       }
     ]
   },
@@ -36,6 +64,34 @@
       {
         "text": "Sie {{1}} (spielen) heute Tennis, gestern {{2}} (spielen) sie Fußball und jetzt {{3}} (lernen) sie Deutsch.",
         "answers": ["spielt", "spielte", "lernt"]
+      },
+      {
+        "text": "Heute {{1}} (fahren) wir mit dem Zug, gestern {{2}} (fahren) wir mit dem Auto und jetzt {{3}} (warten) wir auf den nächsten Zug.",
+        "answers": ["fahren", "fuhren", "warten"]
+      },
+      {
+        "text": "Er {{1}} (lesen) heute einen wissenschaftlichen Artikel, gestern {{2}} (lesen) er einen Roman und jetzt {{3}} (notieren) er wichtige Informationen.",
+        "answers": ["liest", "las", "notiert"]
+      },
+      {
+        "text": "Meine Kollegin {{1}} (arbeiten) heute im Labor, letzte Woche {{2}} (arbeiten) sie in der Bibliothek und jetzt {{3}} (analysieren) sie die Daten.",
+        "answers": ["arbeitet", "arbeitete", "analysiert"]
+      },
+      {
+        "text": "Wir {{1}} (besuchen) heute unsere Großeltern, am vergangenen Wochenende {{2}} (besuchen) wir unsere Freunde und jetzt {{3}} (planen) wir den nächsten Ausflug.",
+        "answers": ["besuchen", "besuchten", "planen"]
+      },
+      {
+        "text": "Heute {{1}} (sprechen) der Professor über Wirtschaft, gestern {{2}} (sprechen) er über Politik und jetzt {{3}} (beantworten) er die Fragen der Studenten.",
+        "answers": ["spricht", "sprach", "beantwortet"]
+      },
+      {
+        "text": "Ich {{1}} (lernen) heute für die Prüfung, gestern {{2}} (lernen) ich für die Präsentation und jetzt {{3}} (wiederholen) ich die wichtigsten Begriffe.",
+        "answers": ["lerne", "lernte", "wiederhole"]
+      },
+      {
+        "text": "Sie {{1}} (leben) heute in Frankfurt, früher {{2}} (leben) sie in Köln und jetzt {{3}} (arbeiten) sie bei einer internationalen Firma.",
+        "answers": ["lebt", "lebte", "arbeitet"]
       }
     ]
   },
@@ -56,6 +112,34 @@
       {
         "text": "Wir {{1}} (besuchen) heute das Museum. Bevor wir ankamen, {{2}} (kaufen) wir die Eintrittskarten bereits, und jetzt {{3}} (warten) wir auf den Führer.",
         "answers": ["besuchen", "hatten gekauft", "warten"]
+      },
+      {
+        "text": "Er {{1}} (leben) heute in München. Bevor er dorthin zog, {{2}} (wohnen) er viele Jahre in Köln, und jetzt {{3}} (genießen) er sein neues Leben.",
+        "answers": ["lebt", "hatte gewohnt", "genießt"]
+      },
+      {
+        "text": "Ich {{1}} (arbeiten) heute in einem internationalen Unternehmen. Bevor ich diese Stelle bekam, {{2}} (sammeln) ich bereits viel Berufserfahrung, und nun {{3}} (leiten) ich ein kleines Team.",
+        "answers": ["arbeite", "hatte gesammelt", "leite"]
+      },
+      {
+        "text": "Sie {{1}} (studieren) heute an der Universität. Bevor sie dort anfing, {{2}} (besuchen) sie eine Fachschule, und jetzt {{3}} (vorbereiten) sie sich auf ihre Prüfungen.",
+        "answers": ["studiert", "hatte besucht", "bereitet vor"]
+      },
+      {
+        "text": "Wir {{1}} (wohnen) jetzt in einem großen Haus. Bevor wir hierherzogen, {{2}} (mieten) wir eine kleine Wohnung, und heute {{3}} (genießen) wir den zusätzlichen Platz.",
+        "answers": ["wohnen", "hatten gemietet", "genießen"]
+      },
+      {
+        "text": "Der Arzt {{1}} (behandeln) heute viele Patienten. Bevor er seine eigene Praxis eröffnete, {{2}} (arbeiten) er in einem Krankenhaus, und jetzt {{3}} (betreuen) er seine Patienten selbstständig.",
+        "answers": ["behandelt", "hatte gearbeitet", "betreut"]
+      },
+      {
+        "text": "Ich {{1}} (kennen) viele Menschen in dieser Stadt. Bevor ich hierherkam, {{2}} (besuchen) ich die Stadt schon mehrmals, und heute {{3}} (fühlen) ich mich hier zu Hause.",
+        "answers": ["kenne", "hatte besucht", "fühle"]
+      },
+      {
+        "text": "Sie {{1}} (führen) heute ein erfolgreiches Unternehmen. Bevor sie die Firma gründete, {{2}} (arbeiten) sie mehrere Jahre als Beraterin, und jetzt {{3}} (beschäftigen) sie zahlreiche Mitarbeiter.",
+        "answers": ["führt", "hatte gearbeitet", "beschäftigt"]
       }
     ]
   },
@@ -76,6 +160,34 @@
       {
         "text": "Er {{1}} (regieren) heute das Land. In der Geschichte {{2}} (gewinnen) er die Wahl, und jetzt {{3}} (führen) er die Regierung.",
         "answers": ["regiert", "gewann", "führt"]
+      },
+      {
+        "text": "Heute {{1}} (besuchen) ich das Museum. In der Erzählung {{2}} (betreten) der Held den Saal, und jetzt {{3}} (stehen) dort eine große Ausstellung.",
+        "answers": ["besuche", "betrat", "steht"]
+      },
+      {
+        "text": "Sie {{1}} (arbeiten) heute in Paris. Im Roman {{2}} (reisen) sie vor vielen Jahren nach Frankreich, und jetzt {{3}} (leiten) sie ein Unternehmen.",
+        "answers": ["arbeitet", "reiste", "leitet"]
+      },
+      {
+        "text": "Wir {{1}} (kennen) heute die Geschichte des Landes. Der König {{2}} (gründen) die Stadt vor Jahrhunderten, und heute {{3}} (besichtigen) wir ihre historischen Gebäude.",
+        "answers": ["kennen", "gründete", "besichtigen"]
+      },
+      {
+        "text": "Ich {{1}} (wohnen) heute in dieser Stadt. Im Roman {{2}} (kommen) der Held hierher, und jetzt {{3}} (verstehen) ich seine Entscheidung besser.",
+        "answers": ["wohne", "kam", "verstehe"]
+      },
+      {
+        "text": "Die Stadt {{1}} (wachsen) heute schnell. Vor vielen Jahren {{2}} (entstehen) hier ein kleines Dorf, und jetzt {{3}} (leben) dort Tausende Menschen.",
+        "answers": ["wächst", "entstand", "leben"]
+      },
+      {
+        "text": "Heute {{1}} (besitzen) sie ein großes Haus. In der Geschichte {{2}} (erben) sie das Grundstück, und jetzt {{3}} (nutzen) sie es als Wohnsitz.",
+        "answers": ["besitzt", "erbte", "nutzt"]
+      },
+      {
+        "text": "Ich {{1}} (studieren) heute Geschichte. In dem Roman {{2}} (kämpfen) der Held für seine Freiheit, und jetzt {{3}} (analysieren) wir seine Entscheidung.",
+        "answers": ["studiere", "kämpfte", "analysieren"]
       }
     ]
   },
@@ -96,6 +208,34 @@
       {
         "text": "Wir {{1}} (fahren) heute nach Hause. Morgen {{2}} (fahren) wir nach Berlin, und nächste Woche {{3}} (besuchen) wir das Museum.",
         "answers": ["fahren", "werden fahren", "werden besuchen"]
+      },
+      {
+        "text": "Ich {{1}} (bereiten) heute die Präsentation vor. Morgen {{2}} (halten) ich den Vortrag, und nächste Woche {{3}} (reisen) ich zu einem Kongress.",
+        "answers": ["bereite", "werde halten", "werde reisen"]
+      },
+      {
+        "text": "Er {{1}} (studieren) heute für die Prüfung. Morgen {{2}} (wiederholen) er die Grammatik, und am Montag {{3}} (schreiben) er den Test.",
+        "answers": ["studiert", "wird wiederholen", "wird schreiben"]
+      },
+      {
+        "text": "Wir {{1}} (planen) heute unsere Reise. Nächsten Monat {{2}} (fliegen) wir nach Deutschland, und dort {{3}} (besuchen) wir mehrere Städte.",
+        "answers": ["planen", "werden fliegen", "werden besuchen"]
+      },
+      {
+        "text": "Sie {{1}} (arbeiten) derzeit an einem Projekt. Nächste Woche {{2}} (präsentieren) sie die Ergebnisse, und danach {{3}} (beginnen) sie ein neues Projekt.",
+        "answers": ["arbeitet", "wird präsentieren", "wird beginnen"]
+      },
+      {
+        "text": "Ich {{1}} (wohnen) momentan in Yaoundé. Im nächsten Jahr {{2}} (ziehen) ich nach Berlin, und dort {{3}} (suchen) ich eine neue Wohnung.",
+        "answers": ["wohne", "werde ziehen", "werde suchen"]
+      },
+      {
+        "text": "Der Kurs {{1}} (beginnen) heute. Morgen {{2}} (lernen) die Teilnehmer neue Grammatik, und am Freitag {{3}} (machen) sie einen Test.",
+        "answers": ["beginnt", "werden lernen", "werden machen"]
+      },
+      {
+        "text": "Meine Kollegen {{1}} (arbeiten) heute an den Daten. Morgen {{2}} (analysieren) sie die Ergebnisse, und nächste Woche {{3}} (präsentieren) sie den Bericht.",
+        "answers": ["arbeiten", "werden analysieren", "werden präsentieren"]
       }
     ]
   },
@@ -114,8 +254,36 @@
         "answers": ["lernt", "wird bestanden haben", "wird suchen"]
       },
       {
-        "text": "Wir {{1}} (bauen) ein Haus. Bis zum Sommer {{2}} (fertigstellen) wir es, und dann {{3}} (ziehen) wir ein.",
+        "text": "Wir {{1}} (bauen) ein Haus. Bis zum Sommer {{2}} (fertigstellen) wir es, und dann {{3}} (einziehen) wir.",
         "answers": ["bauen", "werden fertiggestellt haben", "werden einziehen"]
+      },
+      {
+        "text": "Ich {{1}} (schreiben) derzeit meine Abschlussarbeit. Bis Dezember {{2}} (beenden) ich sie, und danach {{3}} (beginnen) ich ein Praktikum.",
+        "answers": ["schreibe", "werde beendet haben", "werde beginnen"]
+      },
+      {
+        "text": "Er {{1}} (arbeiten) momentan an dem Projekt. Bis Freitag {{2}} (analysieren) er alle Daten, und danach {{3}} (präsentieren) er die Ergebnisse.",
+        "answers": ["arbeitet", "wird analysiert haben", "wird präsentieren"]
+      },
+      {
+        "text": "Wir {{1}} (planen) gerade die Reise. Bis morgen {{2}} (reservieren) wir alle Hotels, und danach {{3}} (kaufen) wir die Zugtickets.",
+        "answers": ["planen", "werden reserviert haben", "werden kaufen"]
+      },
+      {
+        "text": "Sie {{1}} (lernen) für ihre Prüfung. Bis nächste Woche {{2}} (wiederholen) sie alle Kapitel, und danach {{3}} (machen) sie einen Probetest.",
+        "answers": ["lernt", "wird wiederholt haben", "wird machen"]
+      },
+      {
+        "text": "Der Techniker {{1}} (reparieren) heute die Maschine. Bis morgen {{2}} (beheben) er den Fehler, und danach {{3}} (testen) er das Gerät.",
+        "answers": ["repariert", "wird behoben haben", "wird testen"]
+      },
+      {
+        "text": "Ich {{1}} (sammeln) momentan alle Informationen. Bis Montag {{2}} (lesen) ich die wichtigsten Quellen, und dann {{3}} (schreiben) ich den Bericht.",
+        "answers": ["sammle", "werde gelesen haben", "werde schreiben"]
+      },
+      {
+        "text": "Die Studenten {{1}} (arbeiten) heute intensiv. Bis Ende der Woche {{2}} (fertigstellen) sie ihr Projekt, und danach {{3}} (präsentieren) sie es.",
+        "answers": ["arbeiten", "werden fertiggestellt haben", "werden präsentieren"]
       }
     ]
   },
@@ -136,6 +304,34 @@
       {
         "text": "Wir {{1}} (lernen) Deutsch. Wenn wir in Berlin {{2}} (leben), {{3}} (sprechen) wir jeden Tag Deutsch.",
         "answers": ["lernen", "lebten", "würden sprechen"]
+      },
+      {
+        "text": "Ich {{1}} (lernen) jeden Abend. Wenn ich mehr Zeit {{2}} (haben), {{3}} (lesen) ich auch deutsche Literatur.",
+        "answers": ["lerne", "hätte", "würde lesen"]
+      },
+      {
+        "text": "Er {{1}} (arbeiten) viel. Wenn er weniger Stress {{2}} (haben), {{3}} (schlafen) er besser.",
+        "answers": ["arbeitet", "hätte", "würde schlafen"]
+      },
+      {
+        "text": "Sie {{1}} (wohnen) in einer kleinen Wohnung. Wenn sie mehr Geld {{2}} (verdienen), {{3}} (kaufen) sie ein größeres Haus.",
+        "answers": ["wohnt", "verdiente", "würde kaufen"]
+      },
+      {
+        "text": "Wir {{1}} (fahren) jeden Morgen mit dem Bus. Wenn wir ein Auto {{2}} (haben), {{3}} (fahren) wir zur Arbeit.",
+        "answers": ["fahren", "hätten", "würden fahren"]
+      },
+      {
+        "text": "Ich {{1}} (arbeiten) derzeit in einem Büro. Wenn ich die Wahl {{2}} (haben), {{3}} (arbeiten) ich lieber von zu Hause.",
+        "answers": ["arbeite", "hätte", "würde arbeiten"]
+      },
+      {
+        "text": "Der Student {{1}} (studieren) sehr viel. Wenn er mehr Freizeit {{2}} (haben), {{3}} (treiben) er regelmäßig Sport.",
+        "answers": ["studiert", "hätte", "würde treiben"]
+      },
+      {
+        "text": "Wir {{1}} (leben) heute in der Stadt. Wenn wir auf dem Land {{2}} (wohnen), {{3}} (genießen) wir wahrscheinlich mehr Ruhe.",
+        "answers": ["leben", "wohnten", "würden genießen"]
       }
     ]
   },
@@ -156,6 +352,34 @@
       {
         "text": "Wir {{1}} (lernen) Deutsch. Gestern {{2}} (haben) wir keine Zeit; sonst {{3}} (lernen) wir mehr.",
         "answers": ["lernen", "hatten", "hätten"]
+      },
+      {
+        "text": "Ich {{1}} (arbeiten) heute im Büro. Gestern {{2}} (verschlafen) ich; sonst {{3}} (erreichen) ich den Zug.",
+        "answers": ["arbeite", "habe verschlafen", "hätte erreicht"]
+      },
+      {
+        "text": "Er {{1}} (wohnen) heute in München. Gestern {{2}} (verlieren) er seine Fahrkarte; sonst {{3}} (fahren) er mit dem Zug nach Hause.",
+        "answers": ["wohnt", "hat verloren", "wäre gefahren"]
+      },
+      {
+        "text": "Sie {{1}} (studieren) heute an der Universität. Gestern {{2}} (vergessen) sie ihre Unterlagen; sonst {{3}} (können) sie an der Prüfung teilnehmen.",
+        "answers": ["studiert", "hat vergessen", "hätte"]
+      },
+      {
+        "text": "Wir {{1}} (leben) heute in der Stadt. Gestern {{2}} (verpassen) wir die Besichtigung; sonst {{3}} (kaufen) wir vielleicht das Haus.",
+        "answers": ["leben", "haben verpasst", "hätten gekauft"]
+      },
+      {
+        "text": "Ich {{1}} (sprechen) heute Deutsch. Gestern {{2}} (vergessen) ich mein Wörterbuch; sonst {{3}} (verstehen) ich den Text besser.",
+        "answers": ["spreche", "habe vergessen", "hätte verstanden"]
+      },
+      {
+        "text": "Der Student {{1}} (lernen) heute weiter. Gestern {{2}} (sein) er krank; sonst {{3}} (schreiben) er die Prüfung.",
+        "answers": ["lernt", "ist gewesen", "hätte geschrieben"]
+      },
+      {
+        "text": "Wir {{1}} (arbeiten) heute gemeinsam. Gestern {{2}} (haben) wir keine Besprechung; sonst {{3}} (entscheiden) wir bereits über das Projekt.",
+        "answers": ["arbeiten", "hatten", "hätten entschieden"]
       }
     ]
   },
@@ -176,6 +400,34 @@
       {
         "text": "Der Arzt {{1}} (berichten), der Patient {{2}} (fühlen) sich besser, und er {{3}} (brauchen) keine weitere Behandlung.",
         "answers": ["berichtet", "fühle", "brauche"]
+      },
+      {
+        "text": "Der Minister {{1}} (sagen), die Regierung {{2}} (arbeiten) an einer Lösung, und die Maßnahmen {{3}} (beginnen) bald.",
+        "answers": ["sagt", "arbeite", "begännen"]
+      },
+      {
+        "text": "Die Studentin {{1}} (erklären), sie {{2}} (verstehen) die Aufgabe, und sie {{3}} (können) sie selbstständig lösen.",
+        "answers": ["erklärt", "verstehe", "könne"]
+      },
+      {
+        "text": "Der Direktor {{1}} (berichten), das Unternehmen {{2}} (wachsen) weiter, und es {{3}} (schaffen) neue Arbeitsplätze.",
+        "answers": ["berichtet", "wachse", "schaffe"]
+      },
+      {
+        "text": "Der Zeuge {{1}} (sagen), er {{2}} (kennen) den Mann nicht, und er {{3}} (haben) ihn noch nie gesehen.",
+        "answers": ["sagt", "kenne", "habe"]
+      },
+      {
+        "text": "Die Sprecherin {{1}} (erklären), die Verhandlungen {{2}} (laufen) gut, und beide Seiten {{3}} (sein) optimistisch.",
+        "answers": ["erklärt", "liefen", "seien"]
+      },
+      {
+        "text": "Der Professor {{1}} (behaupten), die Ergebnisse {{2}} (bestätigen) seine Theorie, und die Forschung {{3}} (gehen) weiter.",
+        "answers": ["behauptet", "bestätigten", "gehe"]
+      },
+      {
+        "text": "Der Manager {{1}} (mitteilen), das Team {{2}} (haben) den Bericht abgeschlossen, und es {{3}} (warten) auf weitere Anweisungen.",
+        "answers": ["teilt mit", "habe", "warte"]
       }
     ]
   },
@@ -196,6 +448,34 @@
       {
         "text": "Der Direktor {{1}} (sprechen) mit uns. Er sagt, er {{2}} (lesen) den Bericht, und er {{3}} (kennen) jetzt die Ergebnisse.",
         "answers": ["spricht", "habe gelesen", "kenne"]
+      },
+      {
+        "text": "Der Arzt {{1}} (untersuchen) den Patienten. Er erklärt, der Patient {{2}} (nehmen) die Medikamente regelmäßig, und er {{3}} (fühlen) sich besser.",
+        "answers": ["untersucht", "habe genommen", "fühle"]
+      },
+      {
+        "text": "Die Managerin {{1}} (berichten) über das Projekt. Sie sagt, ihr Team {{2}} (erreichen) alle Ziele, und es {{3}} (lösen) die wichtigsten Probleme.",
+        "answers": ["berichtet", "habe erreicht", "habe gelöst"]
+      },
+      {
+        "text": "Der Student {{1}} (erzählen) von seiner Prüfung. Er erklärt, er {{2}} (lernen) intensiv, und er {{3}} (beantworten) alle Fragen.",
+        "answers": ["erzählt", "habe gelernt", "habe beantwortet"]
+      },
+      {
+        "text": "Die Forscherin {{1}} (präsentieren) ihre Ergebnisse. Sie sagt, sie {{2}} (finden) neue Hinweise, und die Untersuchung {{3}} (Fortschritte machen).",
+        "answers": ["präsentiert", "habe gefunden", "mache Fortschritte"]
+      },
+      {
+        "text": "Der Zeuge {{1}} (sprechen) mit der Polizei. Er erklärt, er {{2}} (sehen) den Unfall, und er {{3}} (rufen) sofort Hilfe.",
+        "answers": ["spricht", "habe gesehen", "habe gerufen"]
+      },
+      {
+        "text": "Die Politikerin {{1}} (erklären) ihre Entscheidung. Sie sagt, sie {{2}} (prüfen) alle Möglichkeiten, und sie {{3}} (wählen) die beste Lösung.",
+        "answers": ["erklärt", "habe geprüft", "habe gewählt"]
+      },
+      {
+        "text": "Der Unternehmer {{1}} (berichten) über seine Firma. Er sagt, das Unternehmen {{2}} (erreichen) einen neuen Rekord, und es {{3}} (erhöhen) die Produktion.",
+        "answers": ["berichtet", "habe erreicht", "habe erhöht"]
       }
     ]
   },
@@ -216,6 +496,34 @@
       {
         "text": "Sie {{1}} (lernen) Deutsch. Der Lehrer verlangte, dass sie fleißiger {{2}} (lernen), und heute {{3}} (üben) sie weiter.",
         "answers": ["lernt", "lerne", "übt"]
+      },
+      {
+        "text": "Heute {{1}} (arbeiten) sie im Büro. Der Direktor verlangte, dass sie pünktlich {{2}} (kommen), und jetzt {{3}} (erfüllen) sie ihre Aufgaben.",
+        "answers": ["arbeitet", "komme", "erfüllt"]
+      },
+      {
+        "text": "Ich {{1}} (glauben) an seine Erklärung. Der Richter wollte, dass der Zeuge die Wahrheit {{2}} (sagen), und heute {{3}} (kennen) alle die Fakten.",
+        "answers": ["glaube", "sage", "kennen"]
+      },
+      {
+        "text": "Er {{1}} (wissen), dass das Problem schwierig ist. Der Professor verlangte, dass jeder Student die Lösung {{2}} (finden), und heute {{3}} (diskutieren) alle darüber.",
+        "answers": ["weiß", "finde", "diskutieren"]
+      },
+      {
+        "text": "Sie {{1}} (arbeiten) heute weiter. Der Chef wollte, dass sie sorgfältiger {{2}} (arbeiten), und nun {{3}} (kontrollieren) sie jedes Detail.",
+        "answers": ["arbeitet", "arbeite", "kontrolliert"]
+      },
+      {
+        "text": "Wir {{1}} (wissen), dass die Entscheidung schwierig ist. Der Vorsitzende verlangte, dass jeder seine Meinung {{2}} (äußern), und jetzt {{3}} (diskutieren) wir darüber.",
+        "answers": ["wissen", "äußere", "diskutieren"]
+      },
+      {
+        "text": "Ich {{1}} (hoffen), dass alles gut läuft. Sie wünschte, ich {{2}} (bleiben) länger, und heute {{3}} (arbeiten) wir gemeinsam.",
+        "answers": ["hoffe", "bliebe", "arbeiten"]
+      },
+      {
+        "text": "Der Arzt {{1}} (wissen), dass die Behandlung notwendig ist. Er verlangte, dass der Patient regelmäßig {{2}} (kommen), und heute {{3}} (kontrollieren) er seinen Zustand.",
+        "answers": ["weiß", "komme", "kontrolliert"]
       }
     ]
   },
@@ -236,6 +544,34 @@
       {
         "text": "Wir {{1}} (lernen) Deutsch. Wenn wir früher {{2}} (anfangen), {{3}} (bestehen) wir die Prüfung vielleicht.",
         "answers": ["lernen", "angefangen hätten", "hätten bestanden"]
+      },
+      {
+        "text": "Er {{1}} (arbeiten) heute hier. Wenn er gestern früher {{2}} (gehen), {{3}} (sein) er jetzt weniger müde.",
+        "answers": ["arbeitet", "gegangen wäre", "wäre"]
+      },
+      {
+        "text": "Sie {{1}} (leben) heute in München. Wenn sie vor Jahren nach Berlin {{2}} (ziehen), {{3}} (haben) sie dort vielleicht eine andere Karriere gemacht.",
+        "answers": ["lebt", "gezogen wäre", "hätte"]
+      },
+      {
+        "text": "Ich {{1}} (studieren) heute Wirtschaft. Wenn ich damals Medizin {{2}} (studieren), {{3}} (arbeiten) ich heute vielleicht in einem Krankenhaus.",
+        "answers": ["studiere", "studiert hätte", "würde arbeiten"]
+      },
+      {
+        "text": "Wir {{1}} (wohnen) heute auf dem Land. Wenn wir früher ein Haus {{2}} (kaufen), {{3}} (sparen) wir jetzt viel Geld.",
+        "answers": ["wohnen", "gekauft hätten", "würden sparen"]
+      },
+      {
+        "text": "Er {{1}} (arbeiten) heute selbstständig. Wenn er vor fünf Jahren das Angebot {{2}} (annehmen), {{3}} (leiten) er heute wahrscheinlich eine große Abteilung.",
+        "answers": ["arbeitet", "angenommen hätte", "würde leiten"]
+      },
+      {
+        "text": "Sie {{1}} (lernen) heute weiter. Wenn sie früher mit dem Kurs {{2}} (beginnen), {{3}} (sprechen) sie heute wahrscheinlich fließender Deutsch.",
+        "answers": ["lernt", "begonnen hätte", "würde sprechen"]
+      },
+      {
+        "text": "Ich {{1}} (leben) heute in Kamerun. Wenn ich damals nach Europa {{2}} (auswandern), {{3}} (haben) ich vielleicht eine völlig andere berufliche Laufbahn.",
+        "answers": ["lebe", "ausgewandert wäre", "hätte"]
       }
     ]
   },
@@ -256,10 +592,38 @@
       {
         "text": "Wir {{1}} (essen) schon. Gestern {{2}} (kochen) wir zusammen, und danach {{3}} (sehen) wir einen Film.",
         "answers": ["haben gegessen", "kochten", "sahen"]
+      },
+      {
+        "text": "Er {{1}} (schreiben) den Bericht bereits. Gestern {{2}} (arbeiten) er bis spät, und danach {{3}} (fahren) er nach Hause.",
+        "answers": ["hat geschrieben", "arbeitete", "fuhr"]
+      },
+      {
+        "text": "Ich {{1}} (lesen) das Buch bereits. Gestern {{2}} (beginnen) ich damit, und am Abend {{3}} (beenden) ich das letzte Kapitel.",
+        "answers": ["habe gelesen", "begann", "beendete"]
+      },
+      {
+        "text": "Sie {{1}} (kaufen) ein neues Auto. Letztes Jahr {{2}} (verkaufen) sie ihr altes Fahrzeug, und danach {{3}} (suchen) sie lange nach einem Ersatz.",
+        "answers": ["hat gekauft", "verkaufte", "suchte"]
+      },
+      {
+        "text": "Wir {{1}} (besuchen) gestern das Konzert. Die Band {{2}} (spielen) zwei Stunden, und danach {{3}} (gehen) wir nach Hause.",
+        "answers": ["haben besucht", "spielte", "gingen"]
+      },
+      {
+        "text": "Der Student {{1}} (bestehen) die Prüfung. Im vergangenen Semester {{2}} (lernen) er sehr intensiv, und danach {{3}} (feiern) er mit seinen Freunden.",
+        "answers": ["hat bestanden", "lernte", "feierte"]
+      },
+      {
+        "text": "Ich {{1}} (sprechen) bereits mit dem Direktor. Gestern {{2}} (erklären) ich ihm das Problem, und danach {{3}} (versprechen) er mir Unterstützung.",
+        "answers": ["habe gesprochen", "erklärte", "versprach"]
+      },
+      {
+        "text": "Sie {{1}} (kommen) gerade zurück. Gestern {{2}} (reisen) sie nach Hamburg, und dort {{3}} (treffen) sie mehrere Geschäftspartner.",
+        "answers": ["ist gekommen", "reiste", "traf"]
       }
     ]
   },
-  {
+   {
     "id": "014",
     "titre": "Perfekt – Plusquamperfekt",
     "definition": "Übe abgeschlossene Handlungen und Handlungen, die vor einem anderen vergangenen Ereignis stattgefunden hatten.",
@@ -276,6 +640,34 @@
       {
         "text": "Wir {{1}} (besuchen) das Museum. Bevor wir dort ankamen, {{2}} (kaufen) wir die Tickets, und danach {{3}} (machen) wir Fotos.",
         "answers": ["haben besucht", "hatten gekauft", "haben gemacht"]
+      },
+      {
+        "text": "Er {{1}} (beenden) seine Arbeit. Bevor er nach Hause ging, {{2}} (schreiben) er den Bericht, und danach {{3}} (fahren) er nach Hause.",
+        "answers": ["hat beendet", "hatte geschrieben", "ist gefahren"]
+      },
+      {
+        "text": "Ich {{1}} (lesen) das Buch. Bevor ich den Film sah, {{2}} (lesen) ich den Roman bereits, und danach {{3}} (erzählen) ich meiner Freundin davon.",
+        "answers": ["habe gelesen", "hatte gelesen", "habe erzählt"]
+      },
+      {
+        "text": "Sie {{1}} (besuchen) ihre Eltern. Bevor sie ankamen, {{2}} (vorbereiten) die Eltern das Essen, und danach {{3}} (essen) alle gemeinsam.",
+        "answers": ["hat besucht", "hatten vorbereitet", "haben gegessen"]
+      },
+      {
+        "text": "Wir {{1}} (ankommen) im Hotel. Bevor wir eincheckten, {{2}} (reservieren) wir bereits ein Zimmer, und später {{3}} (gehen) wir ins Restaurant.",
+        "answers": ["sind angekommen", "hatten reserviert", "sind gegangen"]
+      },
+      {
+        "text": "Der Arzt {{1}} (untersuchen) den Patienten. Bevor er die Diagnose stellte, {{2}} (analysieren) er alle Ergebnisse, und anschließend {{3}} (erklären) er die Behandlung.",
+        "answers": ["hat untersucht", "hatte analysiert", "hat erklärt"]
+      },
+      {
+        "text": "Ich {{1}} (kaufen) die Tickets. Bevor der Zug abfuhr, {{2}} (kontrollieren) ich noch einmal die Reisezeiten, und danach {{3}} (steigen) ich ein.",
+        "answers": ["habe gekauft", "hatte kontrolliert", "bin eingestiegen"]
+      },
+      {
+        "text": "Sie {{1}} (schließen) das Geschäft. Bevor sie nach Hause ging, {{2}} (kontrollieren) sie die Kasse, und danach {{3}} (verlassen) sie das Gebäude.",
+        "answers": ["hat geschlossen", "hatte kontrolliert", "hat verlassen"]
       }
     ]
   },
@@ -296,6 +688,34 @@
       {
         "text": "Wir {{1}} (sehen) den Film. In der Erzählung {{2}} (retten) der Held das Kind, und danach {{3}} (verschwinden) er.",
         "answers": ["haben gesehen", "rettete", "verschwand"]
+      },
+      {
+        "text": "Ich {{1}} (lesen) das Buch. In der Geschichte {{2}} (betreten) der Fremde das Dorf, und danach {{3}} (sprechen) er mit dem Bürgermeister.",
+        "answers": ["habe gelesen", "betrat", "sprach"]
+      },
+      {
+        "text": "Sie {{1}} (besuchen) die Ausstellung. Im Roman {{2}} (entdecken) die Heldin ein Geheimnis, und danach {{3}} (verlassen) sie die Stadt.",
+        "answers": ["hat besucht", "entdeckte", "verließ"]
+      },
+      {
+        "text": "Wir {{1}} (sehen) das Theaterstück. In der Erzählung {{2}} (kämpfen) der Ritter gegen den Feind, und danach {{3}} (gewinnen) er den Kampf.",
+        "answers": ["haben gesehen", "kämpfte", "gewann"]
+      },
+      {
+        "text": "Ich {{1}} (hören) die Geschichte. Der König {{2}} (verlieren) seine Krone, und später {{3}} (finden) ein Diener sie im Wald.",
+        "answers": ["habe gehört", "verlor", "fand"]
+      },
+      {
+        "text": "Sie {{1}} (lesen) den historischen Bericht. Der Präsident {{2}} (unterzeichnen) das Abkommen, und anschließend {{3}} (beginnen) eine neue politische Epoche.",
+        "answers": ["hat gelesen", "unterzeichnete", "begann"]
+      },
+      {
+        "text": "Wir {{1}} (besichtigen) die Burg. Der Graf {{2}} (bauen) sie im Mittelalter, und später {{3}} (zerstören) ein Feuer einen Teil des Gebäudes.",
+        "answers": ["haben besichtigt", "baute", "zerstörte"]
+      },
+      {
+        "text": "Ich {{1}} (lernen) viel aus dem Roman. Der Held {{2}} (verlassen) seine Heimat, {{3}} (reisen) durch mehrere Länder und kehrte schließlich zurück.",
+        "answers": ["habe gelernt", "verließ", "reiste"]
       }
     ]
   },
@@ -316,6 +736,34 @@
       {
         "text": "Wir {{1}} (kaufen) die Tickets. Morgen {{2}} (reisen) wir ab, und am Abend {{3}} (ankommen) wir in München.",
         "answers": ["haben gekauft", "werden abreisen", "werden ankommen"]
+      },
+      {
+        "text": "Er {{1}} (schreiben) den Bericht bereits. Morgen {{2}} (präsentieren) er ihn dem Direktor, und danach {{3}} (diskutieren) er die Ergebnisse.",
+        "answers": ["hat geschrieben", "wird präsentieren", "wird diskutieren"]
+      },
+      {
+        "text": "Ich {{1}} (reservieren) das Hotel. Nächste Woche {{2}} (fliegen) ich nach Hamburg, und dort {{3}} (treffen) ich meine Kollegen.",
+        "answers": ["habe reserviert", "werde fliegen", "werde treffen"]
+      },
+      {
+        "text": "Sie {{1}} (vorbereiten) die Präsentation. Morgen {{2}} (halten) sie den Vortrag, und anschließend {{3}} (beantworten) sie die Fragen.",
+        "answers": ["hat vorbereitet", "wird halten", "wird beantworten"]
+      },
+      {
+        "text": "Wir {{1}} (abschließen) das Projekt. Nächsten Monat {{2}} (starten) wir ein neues Projekt, und danach {{3}} (arbeiten) wir mit einem internationalen Team.",
+        "answers": ["haben abgeschlossen", "werden starten", "werden arbeiten"]
+      },
+      {
+        "text": "Ich {{1}} (lernen) die wichtigsten Regeln. Morgen {{2}} (wiederholen) ich sie, und nächste Woche {{3}} (anwenden) ich sie in einem Test.",
+        "answers": ["habe gelernt", "werde wiederholen", "werde anwenden"]
+      },
+      {
+        "text": "Der Arzt {{1}} (untersuchen) den Patienten. Morgen {{2}} (erklären) er ihm die Ergebnisse, und anschließend {{3}} (beginnen) die Behandlung.",
+        "answers": ["hat untersucht", "wird erklären", "wird beginnen"]
+      },
+      {
+        "text": "Sie {{1}} (abschließen) ihre Ausbildung. Nächstes Jahr {{2}} (arbeiten) sie in einem Krankenhaus, und später {{3}} (spezialisieren) sie sich weiter.",
+        "answers": ["hat abgeschlossen", "wird arbeiten", "wird sich spezialisieren"]
       }
     ]
   },
@@ -336,6 +784,34 @@
       {
         "text": "Wir {{1}} (reservieren) das Hotel. Bis morgen {{2}} (planen) wir die ganze Reise, und dann {{3}} (abreisen) wir.",
         "answers": ["haben reserviert", "werden geplant haben", "werden abreisen"]
+      },
+      {
+        "text": "Er {{1}} (beenden) den Kurs bereits. Bis Ende des Monats {{2}} (bestehen) er die Prüfung, und danach {{3}} (beginnen) er ein Praktikum.",
+        "answers": ["hat beendet", "wird bestanden haben", "wird beginnen"]
+      },
+      {
+        "text": "Ich {{1}} (kaufen) die notwendigen Bücher. Bis nächste Woche {{2}} (lesen) ich alle Kapitel, und danach {{3}} (schreiben) ich die Zusammenfassung.",
+        "answers": ["habe gekauft", "werde gelesen haben", "werde schreiben"]
+      },
+      {
+        "text": "Sie {{1}} (abschließen) das Projekt. Bis Freitag {{2}} (analysieren) sie alle Daten, und anschließend {{3}} (präsentieren) sie die Ergebnisse.",
+        "answers": ["hat abgeschlossen", "wird analysiert haben", "wird präsentieren"]
+      },
+      {
+        "text": "Wir {{1}} (vorbereiten) die Reise. Bis Montag {{2}} (reservieren) wir alle Unterkünfte, und danach {{3}} (fahren) wir los.",
+        "answers": ["haben vorbereitet", "werden reserviert haben", "werden losfahren"]
+      },
+      {
+        "text": "Der Student {{1}} (lernen) bereits intensiv. Bis zum Prüfungstermin {{2}} (wiederholen) er alle Themen, und danach {{3}} (machen) er eine Pause.",
+        "answers": ["hat gelernt", "wird wiederholt haben", "wird machen"]
+      },
+      {
+        "text": "Der Techniker {{1}} (reparieren) die Maschine. Bis morgen {{2}} (beheben) er alle Fehler, und anschließend {{3}} (testen) er das Gerät.",
+        "answers": ["hat repariert", "wird behoben haben", "wird testen"]
+      },
+      {
+        "text": "Ich {{1}} (sammeln) bereits alle Informationen. Bis Freitag {{2}} (prüfen) ich die Quellen, und danach {{3}} (verfassen) ich den endgültigen Bericht.",
+        "answers": ["habe gesammelt", "werde geprüft haben", "werde verfassen"]
       }
     ]
   },
@@ -356,6 +832,34 @@
       {
         "text": "Wir {{1}} (besuchen) das Museum. Wenn es näher {{2}} (sein), {{3}} (gehen) wir öfter dorthin.",
         "answers": ["haben besucht", "wäre", "würden gehen"]
+      },
+      {
+        "text": "Er {{1}} (abschließen) seine Ausbildung. Wenn er mehr Zeit {{2}} (haben), {{3}} (lernen) er noch eine weitere Sprache.",
+        "answers": ["hat abgeschlossen", "hätte", "würde lernen"]
+      },
+      {
+        "text": "Ich {{1}} (kaufen) bereits ein Auto. Wenn ich mehr Geld {{2}} (verdienen), {{3}} (fahren) ich ein größeres Modell.",
+        "answers": ["habe gekauft", "verdiente", "würde fahren"]
+      },
+      {
+        "text": "Sie {{1}} (besuchen) mehrere Länder. Wenn sie mehr Urlaub {{2}} (haben), {{3}} (reisen) sie noch häufiger.",
+        "answers": ["hat besucht", "hätte", "würde reisen"]
+      },
+      {
+        "text": "Wir {{1}} (mieten) eine Wohnung. Wenn wir mehr Geld {{2}} (haben), {{3}} (kaufen) wir ein eigenes Haus.",
+        "answers": ["haben gemietet", "hätten", "würden kaufen"]
+      },
+      {
+        "text": "Er {{1}} (lernen) viel. Wenn er weniger arbeiten {{2}} (müssen), {{3}} (lesen) er mehr Fachliteratur.",
+        "answers": ["hat gelernt", "müsste", "würde lesen"]
+      },
+      {
+        "text": "Ich {{1}} (besuchen) den Kurs bereits. Wenn er länger {{2}} (dauern), {{3}} (bleiben) ich noch eine Woche.",
+        "answers": ["habe besucht", "würde dauern", "würde bleiben"]
+      },
+      {
+        "text": "Sie {{1}} (reisen) bereits nach Europa. Wenn sie mehr Geld {{2}} (haben), {{3}} (besuchen) sie noch weitere Länder.",
+        "answers": ["ist gereist", "hätte", "würde besuchen"]
       }
     ]
   },
@@ -376,6 +880,34 @@
       {
         "text": "Wir {{1}} (verlieren) das Spiel. Wenn wir besser trainiert hätten, {{2}} (gewinnen) wir, und wir {{3}} (feiern) danach.",
         "answers": ["haben verloren", "hätten gewonnen", "hätten gefeiert"]
+      },
+      {
+        "text": "Er {{1}} (verpassen) den Flug. Wenn er früher losgefahren wäre, {{2}} (erreichen) er den Flughafen rechtzeitig, und er {{3}} (fliegen) nach Berlin.",
+        "answers": ["hat verpasst", "hätte erreicht", "wäre geflogen"]
+      },
+      {
+        "text": "Ich {{1}} (vergessen) die Unterlagen. Wenn ich meine Tasche kontrolliert hätte, {{2}} (finden) ich sie, und ich {{3}} (können) die Präsentation halten.",
+        "answers": ["habe vergessen", "hätte gefunden", "hätte können"]
+      },
+      {
+        "text": "Sie {{1}} (verlieren) ihre Geldbörse. Wenn sie vorsichtiger gewesen wäre, {{2}} (passieren) das nicht, und sie {{3}} (haben) weniger Probleme.",
+        "answers": ["hat verloren", "wäre passiert", "hätte gehabt"]
+      },
+      {
+        "text": "Wir {{1}} (verpassen) den Zug. Wenn wir früher angekommen wären, {{2}} (steigen) wir rechtzeitig ein, und wir {{3}} (erreichen) unser Ziel früher.",
+        "answers": ["haben verpasst", "wären eingestiegen", "hätten erreicht"]
+      },
+      {
+        "text": "Er {{1}} (vergessen) die Adresse. Wenn er sie notiert hätte, {{2}} (finden) er das Gebäude, und er {{3}} (kommen) pünktlich an.",
+        "answers": ["hat vergessen", "hätte gefunden", "wäre angekommen"]
+      },
+      {
+        "text": "Ich {{1}} (nicht verstehen) die Frage. Wenn der Lehrer sie erklärt hätte, {{2}} (beantworten) ich sie, und ich {{3}} (bekommen) eine bessere Note.",
+        "answers": ["habe nicht verstanden", "hätte beantwortet", "hätte bekommen"]
+      },
+      {
+        "text": "Sie {{1}} (verpassen) die Gelegenheit. Wenn sie schneller reagiert hätte, {{2}} (bekommen) sie den Auftrag, und sie {{3}} (verdienen) mehr Geld.",
+        "answers": ["hat verpasst", "hätte bekommen", "hätte verdient"]
       }
     ]
   },
@@ -396,6 +928,34 @@
       {
         "text": "Der Arzt {{1}} (untersuchen) den Patienten. Er berichtet, der Patient {{2}} (fühlen) sich besser, und er {{3}} (brauchen) keine Medikamente mehr.",
         "answers": ["hat untersucht", "fühle", "brauche"]
+      },
+      {
+        "text": "Der Direktor {{1}} (lesen) den Bericht. Er sagt, er {{2}} (kennen) die wichtigsten Ergebnisse, und er {{3}} (wollen) weitere Informationen.",
+        "answers": ["hat gelesen", "kenne", "wolle"]
+      },
+      {
+        "text": "Die Managerin {{1}} (prüfen) die Zahlen. Sie erklärt, sie {{2}} (finden) keinen Fehler, und sie {{3}} (sein) mit dem Ergebnis zufrieden.",
+        "answers": ["hat geprüft", "finde", "sei"]
+      },
+      {
+        "text": "Der Student {{1}} (bestehen) die Prüfung. Er sagt, er {{2}} (sein) gut vorbereitet, und er {{3}} (wollen) nun weiterstudieren.",
+        "answers": ["hat bestanden", "sei", "wolle"]
+      },
+      {
+        "text": "Der Zeuge {{1}} (sehen) den Unfall. Er erklärt, er {{2}} (kennen) den Fahrer nicht, und er {{3}} (haben) keine weiteren Informationen.",
+        "answers": ["hat gesehen", "kenne", "habe"]
+      },
+      {
+        "text": "Die Forscher {{1}} (entdecken) neue Daten. Sie berichten, die Ergebnisse {{2}} (bestätigen) ihre Theorie, und die Untersuchung {{3}} (gehen) weiter.",
+        "answers": ["haben entdeckt", "bestätigten", "gehe"]
+      },
+      {
+        "text": "Der Minister {{1}} (unterzeichnen) das Abkommen. Er erklärt, die Regierung {{2}} (sein) mit der Vereinbarung zufrieden, und sie {{3}} (wollen) die Zusammenarbeit fortsetzen.",
+        "answers": ["hat unterzeichnet", "sei", "wolle"]
+      },
+      {
+        "text": "Die Ärztin {{1}} (sprechen) mit dem Patienten. Sie sagt, er {{2}} (haben) Fortschritte gemacht, und er {{3}} (können) bald nach Hause gehen.",
+        "answers": ["hat gesprochen", "habe", "könne"]
       }
     ]
   },
@@ -416,10 +976,38 @@
       {
         "text": "Die Gäste {{1}} (ankommen). Der Gastgeber sagt, sie {{2}} (reservieren) ein Zimmer, und sie {{3}} (bleiben) zwei Nächte.",
         "answers": ["sind angekommen", "hätten reserviert", "blieben"]
+      },
+      {
+        "text": "Der Manager {{1}} (prüfen) die Zahlen. Er erklärt, er {{2}} (finden) keine Fehler, und er {{3}} (bestätigen) die Ergebnisse.",
+        "answers": ["hat geprüft", "habe gefunden", "habe bestätigt"]
+      },
+      {
+        "text": "Die Studentin {{1}} (bestehen) die Prüfung. Sie sagt, sie {{2}} (lernen) sehr intensiv, und sie {{3}} (vorbereiten) sich gründlich.",
+        "answers": ["hat bestanden", "habe gelernt", "habe sich vorbereitet"]
+      },
+      {
+        "text": "Der Arzt {{1}} (sprechen) mit dem Patienten. Er erklärt, er {{2}} (untersuchen) ihn bereits, und er {{3}} (feststellen) keine ernsten Probleme.",
+        "answers": ["hat gesprochen", "habe untersucht", "habe festgestellt"]
+      },
+      {
+        "text": "Die Zeugin {{1}} (berichten) über den Unfall. Sie sagt, sie {{2}} (sehen) alles, und sie {{3}} (rufen) sofort die Polizei.",
+        "answers": ["hat berichtet", "habe gesehen", "habe gerufen"]
+      },
+      {
+        "text": "Der Direktor {{1}} (erklären) seine Entscheidung. Er sagt, er {{2}} (prüfen) alle Möglichkeiten, und er {{3}} (wählen) die beste Lösung.",
+        "answers": ["hat erklärt", "habe geprüft", "habe gewählt"]
+      },
+      {
+        "text": "Der Wissenschaftler {{1}} (veröffentlichen) seine Ergebnisse. Er berichtet, er {{2}} (durchführen) mehrere Experimente, und er {{3}} (bestätigen) seine Hypothese.",
+        "answers": ["hat veröffentlicht", "habe durchgeführt", "habe bestätigt"]
+      },
+      {
+        "text": "Die Unternehmerin {{1}} (gründen) die Firma. Sie erklärt, sie {{2}} (investieren) viel Geld, und sie {{3}} (schaffen) mehrere Arbeitsplätze.",
+        "answers": ["hat gegründet", "habe investiert", "habe geschaffen"]
       }
     ]
   },
-  {
+   {
     "id": "022",
     "titre": "Präteritum – Plusquamperfekt",
     "definition": "Übe das Präteritum und das Plusquamperfekt, um die Reihenfolge vergangener Ereignisse auszudrücken.",
@@ -436,6 +1024,34 @@
       {
         "text": "Wir {{1}} (essen) bereits, als unsere Freunde {{2}} (ankommen), weil wir das Essen vorher {{3}} (vorbereiten).",
         "answers": ["hatten gegessen", "ankamen", "vorbereitet hatten"]
+      },
+      {
+        "text": "Er {{1}} (verlassen) das Büro, nachdem er den Bericht {{2}} (beenden), und {{3}} (fahren) direkt nach Hause.",
+        "answers": ["verließ", "beendet hatte", "fuhr"]
+      },
+      {
+        "text": "Als sie {{1}} (eintreffen), {{2}} (beginnen) die Sitzung bereits, weil der Vorsitzende alles {{3}} (vorbereiten).",
+        "answers": ["eintraf", "hatte begonnen", "vorbereitet hatte"]
+      },
+      {
+        "text": "Ich {{1}} (gehen) ins Kino, nachdem ich meine Hausaufgaben {{2}} (machen), und später {{3}} (treffen) ich meine Freunde.",
+        "answers": ["ging", "gemacht hatte", "traf"]
+      },
+      {
+        "text": "Nachdem wir das Hotel {{1}} (erreichen), {{2}} (checken) wir ein, weil wir das Zimmer bereits {{3}} (reservieren).",
+        "answers": ["erreicht hatten", "checkten", "reserviert hatten"]
+      },
+      {
+        "text": "Der Arzt {{1}} (untersuchen) den Patienten, nachdem er die Ergebnisse {{2}} (lesen), und anschließend {{3}} (erklären) er die Diagnose.",
+        "answers": ["untersuchte", "gelesen hatte", "erklärte"]
+      },
+      {
+        "text": "Als ich {{1}} (aufstehen), {{2}} (gehen) meine Familie bereits zur Arbeit, weil sie früh {{3}} (aufbrechen).",
+        "answers": ["aufstand", "war gegangen", "aufgebrochen war"]
+      },
+      {
+        "text": "Nachdem sie den Vertrag {{1}} (prüfen), {{2}} (unterschreiben) sie ihn und {{3}} (beginnen) sofort mit der Arbeit.",
+        "answers": ["geprüft hatte", "unterschrieb", "begann"]
       }
     ]
   },
@@ -456,10 +1072,38 @@
       {
         "text": "Die Prinzessin {{1}} (öffnen) das Fenster, {{2}} (sehen) einen Reiter und {{3}} (rufen) nach ihrer Dienerin.",
         "answers": ["öffnete", "sah", "rief"]
+      },
+      {
+        "text": "Der Händler {{1}} (reisen) durch das Land, {{2}} (besuchen) mehrere Städte und {{3}} (verkaufen) seine Waren.",
+        "answers": ["reiste", "besuchte", "verkaufte"]
+      },
+      {
+        "text": "Der General {{1}} (führen) seine Armee in die Stadt, {{2}} (besiegen) den Feind und {{3}} (sichern) die Grenze.",
+        "answers": ["führte", "besiegte", "sicherte"]
+      },
+      {
+        "text": "Der junge Mann {{1}} (finden) einen alten Brief, {{2}} (lesen) ihn aufmerksam und {{3}} (verstehen) plötzlich die Wahrheit.",
+        "answers": ["fand", "las", "verstand"]
+      },
+      {
+        "text": "Die Forscherin {{1}} (entdecken) eine neue Spur, {{2}} (untersuchen) sie sorgfältig und {{3}} (veröffentlichen) später ihre Ergebnisse.",
+        "answers": ["entdeckte", "untersuchte", "veröffentlichte"]
+      },
+      {
+        "text": "Der König {{1}} (hören) die Nachricht, {{2}} (rufen) seine Berater und {{3}} (treffen) eine wichtige Entscheidung.",
+        "answers": ["hörte", "rief", "traf"]
+      },
+      {
+        "text": "Der Reisende {{1}} (verlassen) das Hotel, {{2}} (gehen) zum Bahnhof und {{3}} (steigen) in den ersten Zug.",
+        "answers": ["verließ", "ging", "stieg"]
+      },
+      {
+        "text": "Die Autorin {{1}} (schreiben) den Roman, {{2}} (überarbeiten) mehrere Kapitel und {{3}} (veröffentlichen) das Buch schließlich.",
+        "answers": ["schrieb", "überarbeitete", "veröffentlichte"]
       }
     ]
   },
-  {
+   {
     "id": "024",
     "titre": "Präteritum – Plusquamperfekt (Annäherung an das Passé antérieur)",
     "definition": "Übe das Präteritum und das Plusquamperfekt, um eine Handlung auszudrücken, die vor einer anderen vergangenen Handlung abgeschlossen war.",
@@ -476,6 +1120,34 @@
       {
         "text": "Nachdem wir die Arbeit {{1}} (beenden), {{2}} (verlassen) wir das Büro und {{3}} (fahren) nach Hause.",
         "answers": ["beendet hatten", "verließen", "fuhren"]
+      },
+      {
+        "text": "Nachdem der Arzt den Patienten {{1}} (untersuchen), {{2}} (erklären) er die Diagnose und {{3}} (verschreiben) die Behandlung.",
+        "answers": ["untersucht hatte", "erklärte", "verschrieb"]
+      },
+      {
+        "text": "Als der Zug {{1}} (abfahren), {{2}} (winken) die Reisenden ihren Freunden und {{3}} (setzen) sich auf ihre Plätze.",
+        "answers": ["abgefahren war", "winkten", "setzten"]
+      },
+      {
+        "text": "Nachdem sie das Essen {{1}} (vorbereiten), {{2}} (rufen) sie ihre Gäste und {{3}} (beginnen) gemeinsam zu essen.",
+        "answers": ["vorbereitet hatte", "rief", "begann"]
+      },
+      {
+        "text": "Nachdem der Direktor den Bericht {{1}} (lesen), {{2}} (treffen) er eine Entscheidung und {{3}} (informieren) sein Team.",
+        "answers": ["gelesen hatte", "traf", "informierte"]
+      },
+      {
+        "text": "Als ich die Prüfung {{1}} (beenden), {{2}} (verlassen) ich den Raum und {{3}} (treffen) meine Freunde.",
+        "answers": ["beendet hatte", "verließ", "traf"]
+      },
+      {
+        "text": "Nachdem die Gäste {{1}} (ankommen), {{2}} (begrüßen) der Gastgeber sie und {{3}} (zeigen) ihnen ihre Zimmer.",
+        "answers": ["angekommen waren", "begrüßte", "zeigte"]
+      },
+      {
+        "text": "Nachdem wir alle Daten {{1}} (analysieren), {{2}} (schreiben) wir den Bericht und {{3}} (präsentieren) die Ergebnisse.",
+        "answers": ["analysiert hatten", "schrieben", "präsentierten"]
       }
     ]
   },
@@ -496,6 +1168,34 @@
       {
         "text": "Wir {{1}} (lernen) gestern zusammen. Morgen {{2}} (wiederholen) wir die Lektion, und nächste Woche {{3}} (schreiben) wir die Prüfung.",
         "answers": ["lernten", "werden wiederholen", "werden schreiben"]
+      },
+      {
+        "text": "Er {{1}} (arbeiten) gestern im Büro. Morgen {{2}} (arbeiten) er von zu Hause, und nächste Woche {{3}} (reisen) er nach Hamburg.",
+        "answers": ["arbeitete", "wird arbeiten", "wird reisen"]
+      },
+      {
+        "text": "Ich {{1}} (besuchen) gestern die Universität. Morgen {{2}} (sprechen) ich mit dem Professor, und nächste Woche {{3}} (beginnen) mein neuer Kurs.",
+        "answers": ["besuchte", "werde sprechen", "wird beginnen"]
+      },
+      {
+        "text": "Sie {{1}} (lernen) gestern für die Prüfung. Morgen {{2}} (schreiben) sie den Test, und danach {{3}} (machen) sie Urlaub.",
+        "answers": ["lernte", "wird schreiben", "wird machen"]
+      },
+      {
+        "text": "Wir {{1}} (kaufen) gestern die Tickets. Morgen {{2}} (reisen) wir ab, und am Abend {{3}} (ankommen) wir in Frankfurt.",
+        "answers": ["kauften", "werden abreisen", "werden ankommen"]
+      },
+      {
+        "text": "Der Student {{1}} (arbeiten) gestern an seiner Arbeit. Morgen {{2}} (beenden) er sie, und nächste Woche {{3}} (präsentieren) er die Ergebnisse.",
+        "answers": ["arbeitete", "wird beenden", "wird präsentieren"]
+      },
+      {
+        "text": "Ich {{1}} (sprechen) gestern mit dem Direktor. Morgen {{2}} (treffen) ich ihn wieder, und nächste Woche {{3}} (diskutieren) wir das Projekt.",
+        "answers": ["sprach", "werde treffen", "werden diskutieren"]
+      },
+      {
+        "text": "Sie {{1}} (wohnen) früher in Köln. Nächstes Jahr {{2}} (ziehen) sie nach Berlin, und dort {{3}} (beginnen) sie eine neue Arbeit.",
+        "answers": ["wohnte", "wird ziehen", "wird beginnen"]
       }
     ]
   },
@@ -516,6 +1216,34 @@
       {
         "text": "Wir {{1}} (kaufen) das Haus im letzten Jahr. Bis zum Sommer {{2}} (renovieren) wir es, und dann {{3}} (einziehen) wir.",
         "answers": ["kauften", "werden renoviert haben", "werden einziehen"]
+      },
+      {
+        "text": "Er {{1}} (beginnen) gestern mit der Arbeit. Bis Freitag {{2}} (fertigstellen) er den Bericht, und danach {{3}} (präsentieren) er ihn.",
+        "answers": ["begann", "wird fertiggestellt haben", "wird präsentieren"]
+      },
+      {
+        "text": "Ich {{1}} (kaufen) letzte Woche die Bücher. Bis Ende des Monats {{2}} (lesen) ich alle Kapitel, und danach {{3}} (schreiben) ich die Zusammenfassung.",
+        "answers": ["kaufte", "werde gelesen haben", "werde schreiben"]
+      },
+      {
+        "text": "Sie {{1}} (beginnen) im Januar mit dem Studium. Bis Dezember {{2}} (bestehen) sie alle Prüfungen, und danach {{3}} (suchen) sie eine Stelle.",
+        "answers": ["begann", "wird bestanden haben", "wird suchen"]
+      },
+      {
+        "text": "Wir {{1}} (starten) gestern das Projekt. Bis Ende der Woche {{2}} (analysieren) wir alle Daten, und danach {{3}} (präsentieren) wir die Ergebnisse.",
+        "answers": ["starteten", "werden analysiert haben", "werden präsentieren"]
+      },
+      {
+        "text": "Der Techniker {{1}} (beginnen) gestern mit der Reparatur. Bis morgen {{2}} (beheben) er den Fehler, und anschließend {{3}} (testen) er die Maschine.",
+        "answers": ["begann", "wird behoben haben", "wird testen"]
+      },
+      {
+        "text": "Ich {{1}} (beginnen) gestern mit dem Schreiben. Bis Freitag {{2}} (verfassen) ich den gesamten Bericht, und danach {{3}} (überprüfen) ich ihn.",
+        "answers": ["begann", "werde verfasst haben", "werde überprüfen"]
+      },
+      {
+        "text": "Sie {{1}} (eröffnen) letztes Jahr ihr Unternehmen. Bis Ende dieses Jahres {{2}} (beschäftigen) sie viele Mitarbeiter, und danach {{3}} (erweitern) sie die Firma.",
+        "answers": ["eröffnete", "wird beschäftigt haben", "wird erweitern"]
       }
     ]
   },
@@ -536,10 +1264,38 @@
       {
         "text": "Wir {{1}} (lernen) gestern Deutsch. Wenn wir mehr Zeit {{2}} (haben), {{3}} (üben) wir jeden Abend.",
         "answers": ["lernten", "hätten", "würden üben"]
+      },
+      {
+        "text": "Er {{1}} (arbeiten) gestern bis spät. Wenn er heute weniger Stress {{2}} (haben), {{3}} (schlafen) er besser.",
+        "answers": ["arbeitete", "hätte", "würde schlafen"]
+      },
+      {
+        "text": "Ich {{1}} (wohnen) früher in Köln. Wenn ich mehr Geld {{2}} (verdienen), {{3}} (reisen) ich häufiger.",
+        "answers": ["wohnte", "verdiente", "würde reisen"]
+      },
+      {
+        "text": "Sie {{1}} (studieren) gestern den ganzen Tag. Wenn sie heute frei {{2}} (sein), {{3}} (treiben) sie Sport.",
+        "answers": ["studierte", "wäre", "würde treiben"]
+      },
+      {
+        "text": "Wir {{1}} (fahren) gestern mit dem Bus. Wenn wir ein Auto {{2}} (haben), {{3}} (fahren) wir heute selbst.",
+        "answers": ["fuhren", "hätten", "würden fahren"]
+      },
+      {
+        "text": "Er {{1}} (leben) früher auf dem Land. Wenn er heute dort {{2}} (wohnen), {{3}} (genießen) er die Ruhe.",
+        "answers": ["lebte", "wohnte", "würde genießen"]
+      },
+      {
+        "text": "Ich {{1}} (arbeiten) gestern im Büro. Wenn ich heute die Wahl {{2}} (haben), {{3}} (arbeiten) ich von zu Hause.",
+        "answers": ["arbeitete", "hätte", "würde arbeiten"]
+      },
+      {
+        "text": "Sie {{1}} (lernen) früher Französisch. Wenn sie heute mehr Zeit {{2}} (haben), {{3}} (lernen) sie auch Italienisch.",
+        "answers": ["lernte", "hätte", "würde lernen"]
       }
     ]
   },
-  {
+ {
     "id": "028",
     "titre": "Präteritum – Konjunktiv II Vergangenheit",
     "definition": "Übe vergangene Ereignisse und irreale Bedingungen in der Vergangenheit.",
@@ -556,6 +1312,34 @@
       {
         "text": "Wir {{1}} (verlieren) das Spiel. Wenn wir besser trainiert hätten, {{2}} (gewinnen) wir, und wir {{3}} (feiern) danach.",
         "answers": ["verloren", "hätten gewonnen", "hätten gefeiert"]
+      },
+      {
+        "text": "Er {{1}} (verpassen) den Flug. Wenn er früher losgefahren wäre, {{2}} (erreichen) er den Flughafen, und er {{3}} (fliegen) nach Berlin.",
+        "answers": ["verpasste", "hätte erreicht", "wäre geflogen"]
+      },
+      {
+        "text": "Ich {{1}} (vergessen) die Unterlagen. Wenn ich meine Tasche kontrolliert hätte, {{2}} (finden) ich sie, und ich {{3}} (können) die Präsentation halten.",
+        "answers": ["vergaß", "hätte gefunden", "hätte können"]
+      },
+      {
+        "text": "Sie {{1}} (verlieren) ihre Geldbörse. Wenn sie vorsichtiger gewesen wäre, {{2}} (passieren) das nicht, und sie {{3}} (haben) weniger Probleme.",
+        "answers": ["verlor", "wäre passiert", "hätte gehabt"]
+      },
+      {
+        "text": "Wir {{1}} (verpassen) den Zug. Wenn wir früher angekommen wären, {{2}} (steigen) wir rechtzeitig ein, und wir {{3}} (erreichen) unser Ziel.",
+        "answers": ["verpassten", "wären eingestiegen", "hätten erreicht"]
+      },
+      {
+        "text": "Er {{1}} (vergessen) die Adresse. Wenn er sie notiert hätte, {{2}} (finden) er das Gebäude, und er {{3}} (ankommen) pünktlich.",
+        "answers": ["vergaß", "hätte gefunden", "wäre angekommen"]
+      },
+      {
+        "text": "Ich {{1}} (nicht verstehen) die Frage. Wenn der Lehrer sie erklärt hätte, {{2}} (beantworten) ich sie, und ich {{3}} (bekommen) eine bessere Note.",
+        "answers": ["verstand nicht", "hätte beantwortet", "hätte bekommen"]
+      },
+      {
+        "text": "Sie {{1}} (verpassen) die Gelegenheit. Wenn sie schneller reagiert hätte, {{2}} (bekommen) sie den Auftrag, und sie {{3}} (verdienen) mehr Geld.",
+        "answers": ["verpasste", "hätte bekommen", "hätte verdient"]
       }
     ]
   },
@@ -576,10 +1360,38 @@
       {
         "text": "Der Zeuge {{1}} (berichten), er {{2}} (sehen) den Unfall, und er {{3}} (kennen) den Fahrer nicht.",
         "answers": ["berichtete", "habe gesehen", "kenne"]
+      },
+      {
+        "text": "Der Direktor {{1}} (sagen), das Unternehmen {{2}} (wachsen), und es {{3}} (schaffen) neue Arbeitsplätze.",
+        "answers": ["sagte", "wachse", "schaffe"]
+      },
+      {
+        "text": "Die Studentin {{1}} (erklären), sie {{2}} (verstehen) die Aufgabe, und sie {{3}} (können) sie lösen.",
+        "answers": ["erklärte", "verstehe", "könne"]
+      },
+      {
+        "text": "Der Arzt {{1}} (berichten), der Patient {{2}} (fühlen) sich besser, und er {{3}} (brauchen) keine Medikamente.",
+        "answers": ["berichtete", "fühle", "brauche"]
+      },
+      {
+        "text": "Der Minister {{1}} (erklären), die Regierung {{2}} (arbeiten) an einer Lösung, und die Maßnahmen {{3}} (beginnen) bald.",
+        "answers": ["erklärte", "arbeite", "begännen"]
+      },
+      {
+        "text": "Die Forscherin {{1}} (sagen), die Ergebnisse {{2}} (bestätigen) ihre Theorie, und die Untersuchung {{3}} (gehen) weiter.",
+        "answers": ["sagte", "bestätigten", "gehe"]
+      },
+      {
+        "text": "Der Manager {{1}} (berichten), sein Team {{2}} (haben) gute Ergebnisse erzielt, und es {{3}} (arbeiten) weiterhin intensiv.",
+        "answers": ["berichtete", "habe", "arbeite"]
+      },
+      {
+        "text": "Die Sprecherin {{1}} (erklären), die Verhandlungen {{2}} (laufen) gut, und beide Seiten {{3}} (sein) optimistisch.",
+        "answers": ["erklärte", "liefen", "seien"]
       }
     ]
   },
-  {
+   {
     "id": "030",
     "titre": "Präteritum – Konjunktiv I Vergangenheit",
     "definition": "Übe das Präteritum und den Konjunktiv I Vergangenheit in der indirekten Rede.",
@@ -596,6 +1408,34 @@
       {
         "text": "Der Zeuge {{1}} (sagen), er {{2}} (sehen) den Täter, und er {{3}} (rufen) sofort die Polizei.",
         "answers": ["sagte", "habe gesehen", "habe gerufen"]
+      },
+      {
+        "text": "Der Direktor {{1}} (berichten), er {{2}} (prüfen) alle Dokumente, und er {{3}} (finden) keine Fehler.",
+        "answers": ["berichtete", "habe geprüft", "habe gefunden"]
+      },
+      {
+        "text": "Die Studentin {{1}} (erklären), sie {{2}} (lernen) intensiv, und sie {{3}} (bestehen) die Prüfung.",
+        "answers": ["erklärte", "habe gelernt", "habe bestanden"]
+      },
+      {
+        "text": "Der Arzt {{1}} (sagen), er {{2}} (untersuchen) den Patienten, und er {{3}} (feststellen) keine ernsten Probleme.",
+        "answers": ["sagte", "habe untersucht", "habe festgestellt"]
+      },
+      {
+        "text": "Die Forscherin {{1}} (berichten), sie {{2}} (durchführen) mehrere Experimente, und sie {{3}} (bestätigen) ihre Hypothese.",
+        "answers": ["berichtete", "habe durchgeführt", "habe bestätigt"]
+      },
+      {
+        "text": "Der Unternehmer {{1}} (erklären), er {{2}} (investieren) viel Geld, und er {{3}} (schaffen) neue Arbeitsplätze.",
+        "answers": ["erklärte", "habe investiert", "habe geschaffen"]
+      },
+      {
+        "text": "Die Politikerin {{1}} (sagen), sie {{2}} (prüfen) alle Möglichkeiten, und sie {{3}} (wählen) die beste Lösung.",
+        "answers": ["sagte", "habe geprüft", "habe gewählt"]
+      },
+      {
+        "text": "Der Zeuge {{1}} (berichten), er {{2}} (beobachten) den Vorfall genau, und er {{3}} (informieren) anschließend die Polizei.",
+        "answers": ["berichtete", "habe beobachtet", "habe informiert"]
       }
     ]
   },
