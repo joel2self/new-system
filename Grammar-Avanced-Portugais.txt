@@ -2560,7 +2560,584 @@
 "reponse": ["soubesse", "tivesse encontrado", "teria escrito"]
 }
 ]
+},
+ {
+    "id": "0089",
+    "titre": "Desafio de Correlação Temporal Avançada I",
+    "definition": "Exercício de integração complexa exigindo a análise do aspeto verbal, da modalidade e da sequência cronológica das ações (factos reais, hipóteses e anterioridade).",
+    "instruction": "Completa as frases conjugando os verbos nos tempos mais adequados. Deves deduzir os tempos corretos a partir dos marcadores temporais e do sentido de subordinação (condição, causa ou tempo).",
+    "questions": [
+      {
+        "question": "No ano passado, nós {{1}} (costumar) fazer caminhadas ao amanhecer, mas é crucial que tu {{2}} (organizar) a tua agenda hoje para que nós {{3}} (conseguir) terminar o roteiro a tempo.",
+        "reponse": ["costumávamos", "organizes", "consigamos"]
+      },
+      {
+        "question": "Mal o júri {{1}} (anunciar) a decisão, o vencedor {{2}} (chorar) de alegria porque nunca {{3}} (receber) um prémio tão importante na sua carreira.",
+        "reponse": ["houve anunciado", "chorou", "tinha recebido"]
+      },
+      {
+        "question": "Amanhã o diretor {{1}} (assinar) o decreto e, até ao final da semana, a secretária {{2}} (enviar) as notificações, embora eu {{3}} (preferir) adiar o processo se dependesse de mim.",
+        "reponse": ["assinará", "terá enviado", "preferiria"]
+      },
+      {
+        "question": "Se tu {{1}} (prestar) atenção às instruções naquela altura e se {{2}} (rever) os cálculos antes da entrega, tu não {{3}} (cometer) este erro no relatório final.",
+        "reponse": ["prestasses", "tivesses revisto", "terias cometido"]
+      },
+      {
+        "question": "Exijo que a comissão {{1}} (avaliar) o caso agora, visto ser improvável que o funcionário {{2}} (cometer) aquela fraude deliberadamente se não {{3}} (estar) sob forte pressão externa.",
+        "reponse": ["avalie", "tenha cometido", "estivesse"]
+      },
+      {
+        "question": "Ontem eu {{1}} (descobrir) que a Ana {{2}} (esconder) um segredo, mas garanto que antes de domingo eu {{3}} (esclarecer) toda esta situação com ela.",
+        "reponse": ["descobri", "escondia", "terei esclarecido"]
+      },
+      {
+        "question": "Se o governo {{1}} (aprovar) a nova lei hoje, a oposição {{2}} (reclamar) imediatamente, a menos que os deputados já {{3}} (chegar) a um consenso na sessão de ontem.",
+        "reponse": ["aprovar", "reclamará", "tenham chegado"]
+      },
+      {
+        "question": "Nós {{1}} (comprar) aquele terreno de bom grado se o preço fosse justo, e já {{2}} (iniciar) a construção no mês passado se a autarquia nos {{3}} (conceder) a licença a tempo.",
+        "reponse": ["compraríamos", "teríamos iniciado", "tivesse concedido"]
+      },
+      {
+        "question": "Assim que os peritos {{1}} (concluir) a vistoria técnica, a empresa {{2}} (retomar) as atividades e, antes do inverno, os operários {{3}} (reparar) toda a estrutura danificada.",
+        "reponse": ["houveram concluído", "retomará", "terão reparado"]
+      },
+      {
+        "question": "Espero que vós {{1}} (compreender) a gravidade do problema atual, mesmo que vós já {{2}} (tomar) uma decisão irreversível caso o cenário {{3}} (piorar) na semana passada.",
+        "reponse": ["compreendais", "tenhais tomado", "piorasse"]
+      }
+    ]
+  },
+  {
+    "id": "0090",
+    "titre": "Desafio de Correlação Temporal Avançada II",
+    "definition": "Análise de enunciados que misturam perspetivas do passado com projeções hipotéticas e condicionantes do modo conjuntivo.",
+    "instruction": "Preenche os espaços em branco deduzindo a flexão verbal correta com base na correlação lógica entre as orações independentes e subordinadas.",
+    "questions": [
+      {
+        "question": "Eu sei que amanhã a equipa {{1}} (viajar) para Paris, pois os atletas {{2}} (treinar) com mais tranquilidade hoje se a federação {{3}} (pagar) os subsídios na semana passada.",
+        "reponse": ["viajará", "treinariam", "tivesse pago"]
+      },
+      {
+        "question": "O João {{1}} (trabalhar) numa oficina mecânica quando era jovem, mas duvido que ele ainda {{2}} (saber) consertar motores antigos, embora {{3}} (aceitar) o desafio se lho pedissem.",
+        "reponse": ["trabalhava", "saiba", "aceitasse"]
+      },
+      {
+        "question": "Mal eu {{1}} (fechar) a porta do escritório, recordei que {{2}} (deixar) as chaves em cima da mesa e, por isso, {{3}} (ficar) trancado do lado de fora se o segurança não estivesse lá.",
+        "reponse": ["houve fechado", "tinha deixado", "teria ficado"]
+      },
+      {
+        "question": "É fundamental que nós {{1}} (manter) o foco no projeto, contanto que a gerência {{2}} (fornecer) as ferramentas e o supervisor já {{3}} (aprovar) o cronograma inicial.",
+        "reponse": ["mantenhas", "forneça", "tenha aprovado"]
+      },
+      {
+        "question": "No próximo mês tu {{1}} (completar) trinta anos, e antes do final do ano tu {{2}} (lançar) o teu primeiro livro, mas tu {{3}} (mudar) de carreira se surgisse uma oportunidade.",
+        "reponse": ["completarás", "terás lançado", "mudarias"]
+      },
+      {
+        "question": "O professor {{1}} (entregar) as notas ontem, e ele {{2}} (esclarecer) as dúvidas dos alunos se eles {{3}} (pedir) uma reunião extraordinária de véspera.",
+        "reponse": ["entregou", "esclareceria", "pedissem"]
+      },
+      {
+        "question": "Se as testemunhas {{1}} (revelar) a verdade em tribunal e se o advogado {{2}} (apresentar) o documento crucial, o juiz {{3}} (absolver) o réu no julgamento passado.",
+        "reponse": ["revelassem", "tivesse apresentado", "teria absolvido"]
+      },
+      {
+        "question": "Até ao anoitecer o cozinheiro {{1}} (preparar) o banquete, e os convidados {{2}} (jantar) mais cedo se o fornecedor não {{3}} (atrasar) a entrega dos ingredientes frescos.",
+        "reponse": ["terá preparado", "jantariam", "tivesse atrasado"]
+      },
+      {
+        "question": "Lamento que tu não {{1}} (conhecer) a nova diretora, embora seja muito provável que ela já {{2}} (ler) o teu currículo caso o chefe lho {{3}} (entregar) de manhã.",
+        "reponse": ["conheças", "tenha lido", "entregasse"]
+      },
+      {
+        "question": "Naquela época o artista {{1}} (viver) isolado no campo, amanhã ele {{2}} (expor) as suas telas na capital e, se estivesse vivo, o seu mentor {{3}} (ficar) orgulhoso.",
+        "reponse": ["vivia", "exporá", "ficaria"]
+      }
+    ]
+  },
+  {
+    "id": "0091",
+    "titre": "Desafio de Correlação Temporal Avançada III",
+    "definition": "Estruturas sintáticas complexas envolvendo alternância entre o indicativo e o conjuntivo para expressar factualidade e hipótese irreal.",
+    "instruction": "Analisa o contexto de cada frase e preenche as lacunas com os tempos verbais adequados, prestando atenção aos conectores e à sequência dos factos.",
+    "questions": [
+      {
+        "question": "Eu {{1}} (escrever) uma carta aberta hoje, e {{2}} (enviar) o texto para o jornal ontem se estivesse concluído, desde que o conselho editorial {{3}} (permitir) a publicação.",
+        "reponse": ["escreveria", "teria enviado", "permita"]
+      },
+      {
+        "question": "Ontem a Marta {{1}} (recusar) a proposta porque ela {{2}} (achar) o ambiente hostil, mas prevejo que ela {{3}} (arrepender-se) antes que o contrato expire.",
+        "reponse": ["recusou", "achava", "terá arrependido"]
+      },
+      {
+        "question": "Se nós {{1}} (viver) num país mais seguro naquela década e se nós {{2}} (investir) em energias renováveis, nós {{3}} (criar) uma empresa líder de mercado.",
+        "reponse": ["vivêssemos", "tivéssemos investido", "teríamos criado"]
+      },
+      {
+        "question": "Quero que vós {{1}} (fazer) as pazes imediatamente, sendo intolerável que vós já {{2}} (discutir) por motivos tão fúteis caso a situação {{3": "fosse", "question": "Quero que vós {{1}} (fazer) as pazes imediatamente, sendo intolerável que vós já {{2}} (discutir) por motivos tão fúteis caso a situação {{3}} (ser) gerida com bom senso ontem.",
+        "reponse": ["façais", "tenhais discutido", "tivesse sido"]
+      },
+      {
+        "question": "Até amanhã o mecânico {{1}} (reparar) o motor, e nós {{2}} (viajar) hoje se ele {{3}} (encontrar) a avaria durante o diagnóstico efetuado na segunda-feira.",
+        "reponse": ["terá reparado", "viajaríamos", "tivesse encontrado"]
+      },
+      {
+        "question": "No próximo domingo eles {{1}} (celebrar) as bodas de ouro, e antes do final do ano eles {{2}} (visitar) a terra natal, mas eles {{3}} (ficar) em casa se tivessem problemas de saúde.",
+        "reponse": ["celebrarão", "terão visitado", "ficariam"]
+      },
+      {
+        "question": "Logo que o presidente {{1}} (dissolver) o parlamento, o país {{2}} (entrar) em campanha eleitoral e, no próximo mês, os cidadãos {{3}} (escolher) um novo governo.",
+        "reponse": ["houve dissolvido", "entrou", "escolherão"]
+      },
+      {
+        "question": "Tu {{1}} (perder) o passaporte ontem de manhã, e tu {{2}} (ficar) retido no aeroporto se o consulado não {{3}} (emitir) um documento de viagem provisório.",
+        "reponse": ["perdeu", "ficaria", "tivesse emitido"]
+      },
+      {
+        "question": "Duvido que eles {{1}} (aceitar) as condições atuais, a menos que o mediador {{2}} (propor) um aumento salarial ou caso o sindicato já {{3}} (assinar) o acordo na véspera.",
+        "reponse": ["aceitem", "proponha", "tenha assinado"]
+      },
+      {
+        "question": "Na infância eu {{1}} (passar) os verões em casa da minha avó, amanhã eu {{2}} (regressar) àquela aldeia e, se ela estivesse viva, nós {{3}} (conversar) durante horas.",
+        "reponse": ["passava", "regressarei", "conversaríamos"]
+      }
+    ]
+  },
+  {
+    "id": "0092",
+    "titre": "Desafio de Correlação Temporal Avançada IV",
+    "definition": "Foco na subordinação temporal e condicional com forte carga de aspeto perfeito e imperfeito no passado e futuro.",
+     "instruction": "Identifica a relação cronológica entre os eventos e conjuga os verbos entre parênteses nos tempos adequados para garantir a coesão do texto.",
+"questions": [
+{
+"question": "Se o investigador {{1}} (analisar) as amostras com rigor no mês passado e se ele {{2}} (descobrir) a contaminação a tempo, ele {{3}} (evitar) o desastre biológico.",
+"reponse": ["analisasse", "tivesse descoberto", "teria evitado"]
+},
+{
+"question": "Antes de deitar eu {{1}} (arrumar) a biblioteca, e eu {{2}} (estudar) muito mais hoje se eu não {{3}} (perder) tanto tempo com jogos digitais ontem à noite.",
+"reponse": ["terei arrumado", "estudaria", "tivesse perdido"]
+},
+{
+"question": "É urgente que a gerência {{1}} (restituir) o valor aos clientes, embora se saiba que o departamento financeiro já {{2}} (bloquear) os fundos caso a auditoria {{3}} (detetar) falhas.",
+"reponse": ["restitua", "tenha bloqueado", "tivesse detetado"]
+},
+{
+"question": "Mal o operário {{1}} (ligar) a máquina, ocorreu um curto-circuito porque o técnico não {{2}} (verificar) os cabos elétricos que {{3}} (estar) danificados há semanas.",
+"reponse": ["houve ligado", "tinha verificado", "estavam"]
+},
+{
+"question": "No próximo ano nós {{1}} (mudar) para o Canadá, e antes do inverno nós {{2}} (comprar) uma casa, mas nós {{3}} (permanecer) aqui se o custo de vida fosse menor.",
+"reponse": ["mudaremos", "teremos comprado", "permaneceríamos"]
+},
+{
+"question": "Tu {{1}} (falar) espanhol fluentemente quando moravas em Madrid, mas prefiro que tu {{2}} (praticar) um pouco hoje, caso contrário tu {{3}} (sentir) dificuldades na reunião de amanhã.",
+"reponse": ["falavas", "pratiques", "sentirás"]
+},
+{
+"question": "O diretor {{1}} (convocar) a reunião geral na passada sexta-feira, e a empresa {{2}} (reestruturar) os setores hoje se o conselho {{3}} (aprovar) a verba no mês anterior.",
+"reponse": ["convocou", "reestruturaria", "tivesse aprovado"]
+},
+{
+"question": "Desejo que vós {{1}} (encontrar) a solução para este enigma, mesmo que seja provável que o vosso rival já {{2}} (decifrar) o código caso ele {{3}} (obter) o mapa secreto.",
+"reponse": ["encontreis", "tenha decifrado", "tivesse obtido"]
+},
+{
+"question": "Às vezes eu {{1}} (pensar) em desistir daquele projeto exaustivo, amanhã eu {{2}} (entregar) o relatório final e, com mais recursos, eu {{3}} (desenvolver) uma pesquisa brilhante.",
+"reponse": ["pensava", "entregarei", "desenvolveria"]
+},
+{
+"question": "O médico {{1}} (atender) o paciente de urgência hoje, e ele {{2}} (evitar) o agravamento da doença ontem se o laboratório {{3}} (enviar) os exames a tempo.",
+"reponse": ["atenderia", "teria evitado", "tivesse enviado"]
 }
 ]
+},
+{
+"id": "0093",
+"titre": "Desafio de Correlação Temporal Avançada V",
+"definition": "Integração de tempos do passado (perfeitos e anteriores) com conjeturas futuras de aspeto concluído.",
+"instruction": "Deduz e aplica as flexões verbais apropriadas, considerando a distinção entre factos consumados, ações concomitantes e projeções hipotéticas.",
+"questions": [
+{
+"question": "Assim que a comissão {{1}} (rever) os estatutos, a associação {{2}} (publicar) o documento e, no próximo trimestre, os sócios {{3}} (votar) as novas alterações.",
+"reponse": ["houve revisto", "publicou", "votarão"]
+},
+{
+"question": "Se o João {{1}} (saber) que a conferência seria tão produtiva na semana passada, ele {{2}} (inscrever-se) sem hesitar e hoje ele {{3}} (estar) a aplicar os novos conceitos.",
+"reponse": ["soubesse", "teria inscrito", "estaria"]
+},
+{
+"question": "É importante que tu {{1}} (explicar) o teu ponto de vista, contanto que o teu interlocutor {{2}} (escutar) com paciência e o mediador não {{3}} (interromper) a conversa.",
+"reponse": ["expliques", "escute", "tenha interrompido"]
+},
+{
+"question": "Até ao final do mês eles {{1}} (vender) todas as ações da empresa, e eles {{2}} (comprar) um imóvel de luxo se eles não {{3}} (perder) tanto capital na crise passada.",
+"reponse": ["terão vendido", "comprariam", "tivessem perdido"]
+},
+{
+"question": "Na minha juventude eu {{1}} (correr) a maratona todos os anos, amanhã eu {{2}} (assistir) à competição na televisão e, se não estivesse lesionado, eu {{3}} (participar) na corrida.",
+"reponse": ["corria", "assistirei", "participaria"]
+},
+{
+"question": "O arquiteto {{1": "entregou", "2": "modificaria", "3": "tivessem solicitado" }, "question": "O arquiteto {{1}} (entregar) o projeto definitivo ontem, visto que ele {{2}} (modificar) a estrutura da vivenda se os donos lho {{3}} (solicitar) formalmente na semana passada.",
+"reponse": ["entregou", "modificaria", "tivessem solicitado"]
+},
+{
+"question": "Oxalá as autoridades {{1}} (encontrar) os documentos extraviados, sem que o suspeito os {{2}} (destruir) caso ele {{3}} (perceber) a aproximação dos agentes ontem.",
+"reponse": ["encontrem", "tenha destruído", "tivesse percebido"]
+},
+{
+"question": "Antes do almoço a secretária {{1}} (escrever) as minutas, e ela {{2}} (enviar) o e-mail aos acionistas se o diretor {{3}} (dar) o aval durante a reunião de ontem.",
+"reponse": ["terá escrito", "enviaria", "tivesse dado"]
+},
+{
+"question": "Ontem nós {{1}} (comprar) os bilhetes quando a bilheteira {{2}} (estar) prestes a fechar, e até sexta-feira nós {{3}} (receber) a confirmação dos assentos por e-mail.",
+"reponse": ["comprámos", "estava", "teremos recebido"]
+},
+{
+"question": "Duvido que vós {{1}} (resolver) este problema sozinhos hoje, a menos que vós {{2}} (consultar) o manual técnico ou caso o engenheiro já vos {{3}} (explicar) o procedimento.",
+"reponse": ["resolvais", "consulteis", "tenha explicado"]
+}
+]
+},
+{
+"id": "0094",
+"titre": "Desafio de Correlação Temporal Avançada VI",
+"definition": "Uso intensivo de condicional composto e pretérito mais-que-perfeito para estruturar mundos contrafactuais.",
+"instruction": "Conjuga os verbos ocultando as designações dos tempos. Concentra-te nas pistas de anterioridade absoluta e nas marcas de irrealidade no passado.",
+"questions": [
+{
+"question": "Se as equipas {{1}} (treinar) com afinco no inverno passado e se elas {{2}} (estudar) a tática do adversário, elas {{3}} (ganhar) o campeonato com facilidade.",
+"reponse": ["treinassem", "tivessem estudado", "teriam ganho"]
+},
+{
+"question": "Mal eu {{1": "houve escutado", "2": "telefonei", "3": "tinha planeado" }, "question": "Mal eu {{1}} (escutar) o estrondo na rua, eu {{2}} (telefonar) para os serviços de emergência porque eu {{3}} (planear) sair de casa naquele exato momento.",
+"reponse": ["houve escutado", "telefonei", "tinha planeado"]
+},
+{
+"question": "Até à próxima semana vós {{1}} (concluir) a leitura do romance, e vós {{2}} (fazer) uma excelente crítica literária se vós {{3}} (compreender) a metáfora central da obra.",
+"reponse": ["tereis concluído", "faríeis", "tivésseis compreendido"]
+},
+{
+"question": "Quero que o aluno {{1}} (refletir) sobre as suas atitudes hoje, sendo provável que ele já {{2}} (compreender) o erro caso o diretor lhe {{3}} (explicar) as regras ontem.",
+"reponse": ["reflita", "tenha compreendido", "tivesse explicado"]
+},
+{
+"question": "No próximo domingo o João {{1}} (correr) a meia maratona, e antes do fim do ano ele {{2}} (ganhar) várias medalhas, embora ele {{3}} (preferir) descansar se pudesse.",
+"reponse": ["correrá", "terá ganho", "preferiria"]
+},
+{
+"question": "A Clara {{1}} (aceitar) o cargo de gerência com entusiasmo, e ela {{2}} (mudar) de residência na semana passada se a empresa lhe {{3}} (oferecer) um alojamento adequado.",
+"reponse": ["aceitou", "mudaria", "tivesse oferecido"]
+},
+{
+"question": "É fundamental que nós {{1}} (proteger) as nossas florestas, embora seja evidente que os incêndios já {{2}} (destruir) hectares valiosos se o clima {{3}} (estar) seco no verão passado.",
+"reponse": ["protejamos", "tenham destruído", "tivesse estado"]
+},
+{
+"question": "Antes do fecho do mercado o comerciante {{1}} (contar) os lucros, e ele {{2}} (fazer) o depósito bancário se o estafeta {{3}} (chegar) antes da hora limite.",
+"reponse": ["terá contado", "faria", "tivesse chegado"]
+},
+{
+"question": "Naquela altura tu {{1}} (morar) perto da universidade, na próxima semana tu {{2}} (mudar) para outra cidade e, se tivesses escolha, tu {{3}} (ficar) aqui mais tempo.",
+"reponse": ["moravas", "mudarás", "ficarias"]
+},
+{
+"question": "Duvido que elas {{1}} (encontrar) as chaves perdidas na praia hoje, a menos que elas {{2}} (procurar) junto às rochas ou caso alguém já as {{3}} (entregar) na receção.",
+"reponse": ["encontrem", "procurem", "tenha entregue"]
+}
+]
+},
+{
+"id": "0095",
+"titre": "Desafio de Correlação Temporal Avançada VII",
+"definition": "Subordinação de ações passadas e futuras através de conjunções concessivas e condicionais exigentes de modo subjuntivo/conjuntivo.",
+"instruction": "Preenche os espaços identificando as nuanças entre intenção futura, facto pretérito contínuo e hipótese contrafactual.",
+"questions": [
+{
+"question": "É importante que vós {{1}} (guardar) os recibos originais, mesmo que vós já {{2}} (digitalizar) todos os documentos caso o auditor vos {{3}} (solicitar) as provas ontem.",
+"reponse": ["guardeis", "tenhais digitalizado", "tivesse solicitado"]
+},
+{
+"question": "O Rui {{1}} (comprar) o automóvel clássico ontem de tarde, e ele {{2}} (viajar) pelo país hoje se o mecânico lhe {{3}} (garantir) que o motor funcionava bem.",
+"reponse": ["comprou", "viajaria", "tivesse garantido"]
+},
+{
+"question": "Até amanhã eu {{1}} (terminar) de redigir a tese, e eu {{2}} (entregar) a cópia ao orientador se ele {{3}} (manifestar) interesse em revê-la na semana passada.",
+"reponse": ["terei terminado", "entregaria", "tivesse manifestado"]
+},
+{
+"question": "Mal o orador {{1}} (subir) ao palanque, gerou-se um grande alvoroço porque o público {{2}} (notar) que ele não {{3}} (preparar) os argumentos com antecedência.",
+"reponse": ["houve subido", "notou", "tinha preparado"]
+},
+{
+"question": "No próximo mês a empresa {{1}} (lançar) um novo software, e antes do fim do ano os técnicos {{2}} (corrigir) os bugs, mas nós {{3}} (esperar) mais se fosse necessário.",
+"reponse": ["lançará", "terão corrigido", "esperaríamos"]
+},
+{
+"question": "Tu {{1}} (costumar) ler o jornal todas as manhãs no café, mas é necessário que tu {{2}} (comprar) a edição de hoje para que nós {{3}} (analisar) os artigos políticos.",
+"reponse": ["costumavas", "compres", "analisemos"]
+},
+{
+"question": "Se o arquiteto {{1}} (desenhar) a fachada com traços modernos e se a construtora {{2}} (utilizar) materiais ecológicos, o edifício {{3}} (ganhar) o prémio de arquitetura.",
+"reponse": ["desenhasse", "tivesse utilizado", "teria ganho"]
+},
+{
+"question": "Duvido que o João {{1}} (aceitar) o cargo em Angola hoje, a menos que a administração {{2}} (oferecer) um bónus substancial ou caso ele já {{3}} (vender) a casa cá.",
+"reponse": ["aceite", "ofereça", "tenha vendido"]
+},
+{
+"question": "Ontem eu {{1": "percebi", "2": "estava", "3": "terei resolvido" }, "question": "Ontem eu {{1}} (percebi) que a situação {{2}} (estar) caótica no armazém, mas asseguro que até sábado eu {{3}} (organizar) todos os produtos nas prateleiras.",
+"reponse": ["percebi", "estava", "terei organizado"]
+},
+{
+"question": "Se as alunas {{1}} (saber) que o teste de filosofia seria antecipado, elas {{2}} (estudar) com afinco e não {{3}} (reclamar) tanto com o corpo docente ontem.",
+"reponse": ["soubessem", "teriam estudado", "teriam reclamado"]
+}
+]
+},
+{
+"id": "0096",
+"titre": "Desafio de Correlação Temporal Avançada VIII",
+"definition": "Análise sintática fina focada em estruturas de probabilidade futura concluída e condicionais passadas.",
+"instruction": "Deduz a intenção comunicativa de cada frase para aplicar correlações temporais perfeitamente coerentes no modo indicativo e conjuntivo.",
+"questions": [
+{
+"question": "Até ao final do dia o diretor {{1}} (analisar) todas as queixas, e ele {{2}} (chamar) os funcionários se a auditoria {{3}} (detetar) irregularidades graves ontem.",
+"reponse": ["terá analisado", "chamaria", "tivesse detetado"]
+},
+{
+"question": "Quero que tu {{1}} (trazer) os relatórios financeiros hoje, sendo provável que o contabilista já os {{2}} (conferir) na véspera caso tu lhos {{3}} (enviar) por e-mail.",
+"reponse": ["trazas", "tenha conferido", "tivesses enviado"]
+},
+{
+"question": "Se o motorista {{1}} (conhecer) bem as estradas da região e se ele {{2}} (rever) o mapa antes de partir, ele não {{3}} (perder-se) no desvio durante a tempestade de ontem.",
+"reponse": ["conhecesse", "tivesse revisto", "teria perdido"]
+},
+{
+"question": "Mal os noivos {{1}} (sair) da igreja, começou a chover torrencialmente, mas felizmente o fotógrafo já {{2}} (recolher) o equipamento que {{3}} (estar) no adro.",
+"reponse": ["houveram saído", "tinha recolhido", "estava"]
+},
+{
+"question": "No próximo sábado nós {{1}} (pintar) as janelas da vivenda, e antes de domingo nós {{2}} (limpar) os pincéis, mas nós {{3}} (contratar) ajuda se tivéssemos orçamento.",
+"reponse": ["pintaremos", "teremos limpado", "contrataríamos"]
+},
+{
+"question": "A Ana {{1}} (escrever) poemas românticos na adolescência, e embora tu não {{2}} (acreditar) nisso hoje, ela {{3}} (publicar) uma antologia se ganhasse um patrocínio.",
+"reponse": ["escrevia", "acredites", "publicaria"]
+},
+{
+"question": "O engenheiro {{1}} (entregar) o relatório técnico na última inspeção, visto que ele {{2}} (condenar) a ponte se as fissuras nos pilares {{3}} (aumentar) no mês passado.",
+"reponse": ["entregou", "condenaria", "tivessem aumentado"]
+},
+{
+"question": "Duvido que os operários {{1}} (terminar) a pavimentação hoje, a menos que o encarregado {{2}} (solicitar) horas extraordinárias ou caso a chuva já {{3}} (estragar) o alcatrão.",
+"reponse": ["terminem", "solicite", "tenha estragado"]
+},
+{
+"question": "Naquela época eu {{1}} (viajar) de comboio todas as semanas, amanhã eu {{2}} (apanhar) o voo internacional e, se tivesse tempo, eu {{3}} (visitar) os meus tios na paragem.",
+"reponse": ["viajava", "apanharei", "visitaria"]
+},
+{
+"question": "Se os acionistas {{1}} (perceber) a instabilidade do mercado financeiro e se eles {{2}} (vender) os ativos na segunda-feira, eles {{3}} (salvar) o capital da falência.",
+"reponse": ["percebessem", "tivessem vendido", "teriam salvo"]
+}
+]
+},
+{
+"id": "0097",
+"titre": "Desafio de Correlação Temporal Avançada IX",
+"definition": "Foco na articulação entre tempos compostos do indicativo e subjuntivo para expressar anterioridade remota e metas cronológicas.",
+"instruction": "Completa as frases encontrando as flexões verbais exatas. Baseia a tua escolha na ordem relativa e na natureza hipotética ou real dos acontecimentos.",
+"questions": [
+{
+"question": "É urgente que a equipa {{1}} (corrigir) os dados estatísticos, embora seja provável que o consultor já {{2}} (notar) a discrepância caso ele {{3}} (rever) o documento ontem.",
+"reponse": ["corrija", "tenha notado", "tivesse revisto"]
+},
+{
+"question": "O negociador {{1}} (assinar) o tratado ontem à noite, e ele {{2}} (exigir) novas cláusulas de salvaguarda hoje se os conselheiros o {{3}} (avisar) sobre os riscos latentes.",
+"reponse": ["assinou", "exigiria", "tivessem avisado"]
+},
+{
+"question": "Até ao final do trimestre os cientistas {{1}} (testar) a nova vacina, e eles {{2}} (divulgar) os resultados hoje se o comité de ética {{3}} (aprovar) o protocolo no ano passado.",
+"reponse": ["terão testado", "divulgariam", "tivesse aprovado"]
+},
+{
+"question": "Mal o juiz {{1}} (bater) o martelo, declarando o encerramento da sessão, o advogado de defesa {{2": "percebeu", "3": "tinha cometido" }, "question": "Mal o juiz {{1}} (bater) o martelo, declarando o encerramento da sessão, o advogado de defesa {{2}} (perceber) que o réu {{3}} (cometer) um perjúrio flagrante minutos antes.",
+"reponse": ["houve batido", "percebeu", "tinha cometido"]
+},
+{
+"question": "No próximo ano tu {{1}} (comprar) a tua própria empresa, e antes de dezembro tu {{2}} (reinvestir) os lucros obtidos, mas tu {{3}} (hesitar) se conhecesses as taxas atuais.",
+"reponse": ["comprarás", "terás reinvestido", "hesitarias"]
+},
+{
+"question": "A Joana {{1}} (treinar) natação diariamente na sua infância, mas duvido que ela ainda {{2}} (conseguir) vencer uma competição oficial, embora {{3}} (aceitar) nadar se a convidassem.",
+"reponse": ["treinava", "consiga", "aceitaria"]
+},
+{
+"question": "Se o professor {{1}} (explicar) o teorema com recurso a exemplos práticos e se os alunos {{2}} (resolver) as fichas na véspera, a média da turma {{3}} (ser) brilhante.",
+"reponse": ["explicasse", "tivessem resolvido", "teria sido"]
+},
+{
+"question": "Duvido que os diretores {{1}} (mudar) a política de privacidade hoje, a menos que a comissão {{2}} (exigir) alterações urgentes ou caso a lei já {{3}} (entrar) em vigor ontem.",
+"reponse": ["mudem", "exija", "tenha entrado"]
+},
+{
+"question": "Antigamente eu {{1}} (estudar) numa biblioteca municipal silenciosa, amanhã eu {{2}} (fazer) a inscrição digital na universidade e, se pudesse, eu {{3}} (escolher) o ensino presencial.",
+"reponse": ["estudava", "farei", "escolheria"]
+},
+{
+"question": "Se os investidores {{1}} (prever) a desvalorização drástica da moeda estrangeira e se eles {{2}} (retirar) os fundos do país, eles não {{3": "teriam sofrido", "question": "Se os investidores {{1}} (prever) a desvalorização drástica da moeda estrangeira e se eles {{2}} (retirar) os fundos do país, eles não {{3}} (sofrer) prejuízos tão avassaladores.",
+"reponse": ["previssem", "tivessem retirado", "teriam sofrido"]
+}
+]
+},
+{
+"id": "0098",
+"titre": "Desafio de Correlação Temporal Avançada X",
+"definition": "Exercício integrador focado na distinção sutil entre factos concomitantes passados e ações imediatamente posteriores.",
+"instruction": "Sem indicações explícitas dos tempos gramaticais, analisa a ordem lógica dos acontecimentos e preenche os espaços corretamente.",
+"questions": [
+{
+"question": "Mal o escritor {{1}} (pôr) o ponto final no manuscrito, enviou-o para a editora porque {{2}} (prometer) entregar a obra completa antes que a feira do livro {{3}} (começar).",
+"reponse": ["houve posto", "tinha prometido", "começasse"]
+},
+{
+"question": "Até à meia-noite eu {{1}} (rever) todas as páginas do relatório, e eu {{2}} (enviar) o e-mail ao conselho se a internet não {{3}} (falhar) de forma intermitente ontem à noite.",
+"reponse": ["terei revisto", "enviaria", "tivesse falhado"]
+},
+{
+"question": "É fundamental que nós {{1}} (denunciar) as injustiças laborais, embora se saiba que o sindicato já {{2}} (intervir) no mês passado caso os trabalhadores o {{3}} (solicitar) a tempo.",
+"reponse": ["denunciemos", "tenha intervindo", "tivessem solicitado"]
+},
+{
+"question": "Se o arquiteto {{1}} (compreender) a topografia do terreno acidentado na semana passada e se ele {{2}} (adaptar) as fundações da casa, a estrutura não {{3}} (ceder) com as chuvas de ontem.",
+"reponse": ["compreendesse", "tivesse adaptado", "teria cedido"]
+},
+{
+"question": "No próximo trimestre a autarquia {{1}} (remodelar) os jardins públicos, e antes das eleições os técnicos {{2}} (concluir) a obra, mas eles {{3}} (adiar) o plano se faltassem fundos.",
+"reponse": ["remodelará", "terão concluído", "adiariam"]
+},
+{
+"question": "Tu {{1}} (trabalhar) como tradutor freelancer quando eras jovem, mas duvido que tu ainda {{2}} (traduzir) textos técnicos complexos hoje, embora tu {{3}} (tentar) se te pagassem bem.",
+"reponse": ["trabalhavas", "traduzas", "tentarias"]
+},
+{
+"question": "O operário {{1}} (detetar) a fuga de gás durante a ronda noturna, e ele {{2}} (evitar) a explosão na fábrica se ele {{3}} (acionar) o alarme de segurança imediatamente.",
+"reponse": ["detetou", "teria evitado", "tivesse acionado"]
+},
+{
+"question": "Desejo que vós {{1}} (encontrar) a paz de espírito necessária, mesmo que seja provável que o vosso amigo já vos {{2}} (perdoar) o deslize caso vós lhe {{3}} (pedir) desculpa ontem.",
+"reponse["encontreis", "tenha perdoado", "tivésseis pedido"]
+},
+{
+"question": "Naquela altura o João {{1}} (viver) num apartamento partilhado, amanhã ele {{2}} (mudar) para uma moradia isolada e, se tivesse condições financeiras, ele {{3}} (comprar) o imóvel à vista.",
+"reponse": ["vivia", "mudará", "compraria"]
+},
+{
+"question": "Duvido que as autoridades {{1}} (esclarecer) o mistério do roubo hoje, a menos que os detetives {{2}} (reunir) novos indícios ou caso o suspeito já {{3}} (confessar) o crime no interrogatório.",
+"reponse": ["esclareçam", "reúnam", "tenha confessado"]
+}
+]
+},
+{
+"id": "0099",
+"titre": "Desafio de Correlação Temporal Avançada XI",
+"definition": "Estruturas sintáticas hipotéticas e factos consumados sob o prisma da dúvida e da certeza temporal.",
+"instruction": "Conclui as frases flexionando os verbos nos tempos exatos que preencham os requisitos semânticos de anterioridade, concomitância e posterioridade.",
+"questions": [
+{
+"question": "Se os cientistas {{1}} (isolar) a molécula responsável pela doença no laboratório e se eles {{2}} (desenvolver) a cura a tempo, eles {{3}} (salvar) milhares de vidas no surto passado.",
+"reponse": ["isolassem", "tivessem desenvolvido", "teriam salvo"]
+},
+{
+"question": "Até ao fim de semana o escultor {{1}} (terminar) a estátua de bronze, e ele {{2}} (entregá-la) ao museu hoje se a galeria lhe {{3}} (pagar) a segunda tranche do contrato ontem.",
+"reponse": ["terá terminado", "entregaria", "tivesse pago"]
+},
+{
+"question": "Quero que a Ana {{1}} (estudar) o regulamento interno da instituição hoje, sendo muito provável que ela já o {{2}} (decorar) na véspera caso o chefe lho {{3}} (exigir) com firmeza.",
+"reponse": ["estude", "tenha decorado", "tivesse exigido"]
+},
+{
+"question": "Mal o navio {{1}} (atracar) no cais do porto, os passageiros desembarcaram apressadamente porque a tripulação {{2}} (notar) que uma tempestade terrível {{3}} (aproximar-se) no horizonte.",
+"reponse": ["houve atracado", "tinha notado", "aproximava-se"]
+},
+{
+"question": "No próximo domingo nós {{1}} (assistir) à final do torneio de ténis, e antes de segunda-feira nós {{2}} (celebrar) a vitória da nossa equipa, mas nós {{3}} (ficar) tristes se perdêssemos.",
+"reponse": ["assistiremos", "teremos celebrado", "ficaríamos"]
+},
+{
+"question": "Tu {{1}} (jogar) xadrez competitivamente durante os teus anos de liceu, mas prefiro que tu {{2}} (rever) as táticas de abertura hoje, caso contrário tu {{3}} (perder) a partida de amanhã.",
+"reponse": ["jogavas", "revejas", "perderás"]
+},
+{
+"question": "O governo {{1}} (lançar) o plano de apoio social na passada quarta-feira, e o ministro {{2}} (explicar) as medidas na televisão hoje se o parlamento as {{3}} (aprovar) por unanimidade.",
+"reponse": ["lançou", "explicaria", "tivesse aprovado"]
+},
+{
+"question": "Duvido que eles {{1}} (comprar) as passagens aéreas hoje, a menos que a companhia {{2}} (fazer) uma promoção relâmpago ou caso eles já {{3}} (encontrar) um alojamento barato online.",
+"reponse": ["comprem", "faça", "tenham encontrado"]
+},
+{
+"question": "Às vezes eu {{1}} (cozinhar) pratos exóticos para os meus amigos ao sábado, amanhã eu {{2}} (preparar) uma receita italiana e, se tivesse os ingredientes, eu {{3}} (fazer) uma lasanha.",
+"reponse": ["cozinhava", "prepararei", "faria"]
+},
+{
+"question": "Se os operários {{1}} (cumprir) as normas de segurança rigorosas dentro da fábrica e se eles {{2}} (usar) os capacetes protetores, eles não {{3}} (sofrer) aquele acidente grave ontem.",
+"reponse": ["cumprissem", "tivessem usado", "teriam sofrido"]
+}
+]
+},
+{
+"id": "0100",
+"titre": "Desafio de Correlação Temporal Avançada XII",
+"definition": "Exercício de consolidação final abrangendo a totalidade das interações verbais complexas sem marcas formais explícitas.",
+"instruction": "Avalia o encadeamento lógico dos factos, os matizes de hipótese, realidade, anterioridade e desejo, e preenche os espaços com as formas verbais precisas.",
+"questions": [
+{
+"question": "Quero que vós {{1}} (ouvir) o depoimento da testemunha com muita atenção, sendo provável que ela já {{2}} (revelar) dados fundamentais caso a polícia a {{3}} (interrogar) na véspera.",
+"reponse": ["ouçais", "tenha revelado", "tivesse interrogado"]
+},
+{
+"question": "O autor {{1}} (publicar) a sua obra-prima no ano passado, e ele {{2}} (fazer) uma sessão de autógrafos hoje se a editora lhe {{3}} (enviar) os exemplares impressos a tempo.",
+"reponse": ["publicou", "faria", "tivesse enviado"]
+},
+{
+"question": "Até ao final do dia eu {{1}} (resolver) este mistério contabilístico, e eu {{2}} (apresentar) as conclusões se o gerente me {{3}} (fornecer) as faturas em falta na reunião de ontem.",
+"reponse": ["terei resolvido", "apresentaria", "tivesse fornecido"]
+},
+{
+"question": "Mal o alarme {{1}} (soar) nas instalações da empresa, os funcionários saíram para o pátio porque o guarda {{2}} (detetar) uma fumaça densa que {{3}} (sair) do arquivo morto.",
+"reponse": ["houve soado", "tinha detetado", "saía"]
+},
+{
+"question": "No próximo mês eles {{1}} (inaugurar) a nova galeria de arte contemporânea, e antes do inverno eles {{2}} (vender) várias obras, mas eles {{3}} (esperar) mais se o mercado estivesse recessivo.",
+"reponse": ["inaugurarão", "terão vendido", "esperariam"]
+},
+{
+"question": "A Joana {{1}} (tocar) piano maravilhosamente quando frequentava o conservatório de música, mas duvido que ela ainda {{2}} (lembrar-se) das partituras complexas hoje, embora {{3}} (ensaiar) se lho pedissem.",
+"reponse": ["tocava", "se lembre", "ensaiasse"]
+},
+{
+"question": "Se o tribunal {{1": "analisasse", "2": "tivesse verificado", "3": "teria revertido" }, "question": "Se o tribunal {{1}} (analisar) o recurso com total imparcialidade na semana passada e se o juiz {{2}} (verificar) os novos depoimentos, ele {{3}} (reverter) a sentença de prisão.",
+"reponse": ["analisasse", "tivesse verificado", "teria revertido"]
+},
+{
+"question": "Duvido que tu {{1}} (obter) o visto de residência para os Estados Unidos hoje, a menos que tu {{2}} (apresentar) toda a documentação legal ou caso a embaixada já {{3}} (aprovar) o teu processo.",
+"reponse": ["obtenhas", "apresentes", "tenha aprovado"]
+},
+{
+"question": "Na minha juventude eu {{1}} (escrever) cartas de amor perfumadas, amanhã eu {{2}} (enviar) um e-mail formal de demissão e, se estivesse noutra situação, eu {{3}} (manter-se) no cargo atual.",
+"reponse": ["escrevia", "enviarei", "manter-me-ia"]
+},
+{
+"question": "Se os cidadãos {{1}} (compreender) o impacto ecológico dos seus hábitos diários no passado e se eles {{2}} (reduzir) o consumo de plástico, nós não {{3}} (poluir) tanto os oceanos hoje.",
+"reponse": ["compreendessem", "tivessem reduzido", "teríamos poluído"]
+}
+]
+}
+]
+
 
 
