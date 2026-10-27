@@ -1824,13 +1824,13 @@
         "reponse": ["escrevia", "peça", "recusaria"]
       },
       {
-        "question": "Vós {{1}} (comer) muitos doces na infância, mas prefiro que vós {{2}} (evitar) os açúcares hoje, caso contrário vós {{3": "teríeis", "question": "Vós {{1}} (comer) muitos doces na infância, mas prefiro que vós {{2}} (evitar) os açúcares hoje, caso contrário vós {{3}} (ter) problemas de saúde no futuro.",
-        "reponse": ["comíeis", "eviteis", "teríeis"]
-      },
-      {
-        "question": "A equipa {{1}} (treinar) arduamente no ano passado, e é importante que eles {{2": "ganhem", "question": "A equipa {{1}} (treinar) arduamente no ano passado, e é importante que eles {{2}} (ganhar) o jogo de hoje, pois isso {{3}} (garantir) a classificação.",
-        "reponse": ["treinava", "ganhem", "garantiria"]
-      },
+  "question": "Vós {{1}} (comer) muitos doces na infância, mas prefiro que vós {{2}} (evitar) os açúcares hoje, caso contrário vós {{3}} (ter) problemas de saúde no futuro.",
+  "reponse": ["comíeis", "eviteis", "teríeis"]
+},
+{
+  "question": "A equipa {{1}} (treinar) arduamente no ano passado, e é importante que eles {{2}} (ganhar) o jogo de hoje, pois isso {{3}} (garantir) a classificação.",
+  "reponse": ["treinava", "ganhem", "garantiria"]
+},
       {
         "question": "O meu pai {{1}} (viajar) muito em negócios, e embora eu {{2}} (compreender) a sua ausência hoje, eu {{3}} (preferir) que ele ficasse em casa.",
         "reponse": ["viajava", "compreenda", "preferiria"]
@@ -1972,8 +1972,8 @@
 "reponse": ["tínheis recebido", "testareis", "pediríeis"]
 },
 {
-"question": "O gato {{1}} (subir) à árvore mais alta, mais logo o bombeiro {{2}} (salvar) o animal e ele {{3": "desceria", "question": "O gato {{1}} (subir) à árvore mais alta, mais logo o bombeiro {{2}} (salvar) o animal e ele {{3}} (descer) sozinho se não estivesse assustado.",
-"reponse": ["tinha subido", "salvará", "desceria"]
+  "question": "O gato {{1}} (subir) à árvore mais alta, mais logo o bombeiro {{2}} (salvar) o animal e ele {{3}} (descer) sozinho se não estivesse assustado.",
+  "reponse": ["tinha subido", "salvará", "desceria"]
 },
 {
 "question": "As equipas {{1}} (assinar) o acordo comercial, no próximo domingo elas {{2}} (anunciar) a fusão e elas {{3}} (celebrar) o contrato se os advogados aprovassem.",
@@ -2140,8 +2140,8 @@
 "reponse": ["houve terminado", "apresentarei", "terei enviado"]
 },
 {
-"question": "Assim que nós {{2": "houvemos saído", "question": "Assim que nós {{1}} (sair) da sala de reuniões, soubemos que na próxima semana nós {{2}} (assinar) o contrato e, antes do fim do mês, nós {{3}} (reunir) todos os fundos.",
-"reponse": ["houvemos saído", "assinaremos", "teremos reunido"]
+  "question": "Assim que nós {{1}} (sair) da sala de reuniões, soubemos que na próxima semana nós {{2}} (assinar) o contrato e, antes do fim do mês, nós {{3}} (reunir) todos os fundos.",
+  "reponse": ["houvemos saído", "assinaremos", "teremos reunido"]
 },
 {
 "question": "Logo que o diretor {{1}} (aprovar) a verba, o engenheiro {{2}} (comprar) os materiais necessários e, no próximo trimestre, a equipa {{3}} (erguer) a estrutura.",
@@ -2236,8 +2236,8 @@
 "reponse": ["comprarei", "gastaria", "teria feito"]
 },
 {
-"question": "No próximo ano nós {{1}} (viajar) para a Ásia, e nós {{2}} (poupar) mais recursos hoje se nós não {{3": "teríamos investido", "question": "No próximo ano nós {{1}} (viajar) para a Ásia, e nós {{2}} (poupar) mais recursos hoje se nós não {{3}} (investir) num negócio arriscado anteriormente.",
-"reponse": ["viajaremos", "pouparíamos", "teríamos investido"]
+  "question": "No próximo ano nós {{1}} (viajar) para a Ásia, e nós {{2}} (poupar) mais recursos hoje se nós não {{3}} (investir) num negócio arriscado anteriormente.",
+  "reponse": ["viajaremos", "pouparíamos", "teríamos investido"]
 },
 {
 "question": "O diretor {{1}} (anunciar) a decisão amanhã de manhã, e a empresa {{2}} (obter) melhores resultados agora se a equipa {{3}} (trabalhar) com mais afinco no projeto anterior.",
@@ -2356,8 +2356,8 @@
 "reponse": ["tereis terminado", "faríeis", "tivésseis estudado"]
 },
 {
-"question": "Antes do fecho da loja o gerente {{1}} (contar) o dinheiro, e ele {{2": "depositaria", "question": "Before store closure, the manager {{1}} (contar) the money, and he {{2}} (depositar) os valores no banco se o segurança {{3}} (chegar) à hora combinada.",
-"reponse": ["terá contado", "depositaria", "tivesse chegado"]
+  "question": "Antes do fecho da loja, o gerente {{1}} (contar) o dinheiro, e ele {{2}} (depositar) os valores no banco se o segurança {{3}} (chegar) à hora combinada.",
+  "reponse": ["terá contado", "depositaria", "tivesse chegado"]
 },
 {
 "question": "Até ao anoitecer os pescadores {{1}} (recolher) as redes, e eles {{2}} (vender) o peixe fresco se o mercado não {{3}} (fechar) as portas mais cedo.",
@@ -2524,8 +2524,8 @@
 "reponse": ["estudasse", "tivesse feito", "teria obtido"]
 },
 {
-"question": "Se nós {{1": "trabalhássemos", "2": "tivéssemos planeado", "3": "teríamos evitado" }, "question": "Se nós {{1}} (trabalhar) com mais organização na empresa e se nós {{2}} (planear) os gastos com antecedência, nós {{3}} (evitar) a crise financeira do ano passado.",
-"reponse": ["trabalhássemos", "tivéssemos planeado", "teríamos evitado"]
+  "question": "Se nós {{1}} (trabalhar) com mais organização na empresa e se nós {{2}} (planear) os gastos com antecedência, nós {{3}} (evitar) a crise financeira do ano passado.",
+  "reponse": ["trabalhássemos", "tivéssemos planeado", "teríamos evitado"]
 },
 {
 "question": "Se o João {{1}} (viver) perto do escritório naquela altura e se ele {{2}} (comprar) um carro moderno, ele {{3}} (chegar) sempre a horas às reuniões importantes.",
@@ -2675,10 +2675,10 @@
         "question": "Se nós {{1}} (viver) num país mais seguro naquela década e se nós {{2}} (investir) em energias renováveis, nós {{3}} (criar) uma empresa líder de mercado.",
         "reponse": ["vivêssemos", "tivéssemos investido", "teríamos criado"]
       },
-      {
-        "question": "Quero que vós {{1}} (fazer) as pazes imediatamente, sendo intolerável que vós já {{2}} (discutir) por motivos tão fúteis caso a situação {{3": "fosse", "question": "Quero que vós {{1}} (fazer) as pazes imediatamente, sendo intolerável que vós já {{2}} (discutir) por motivos tão fúteis caso a situação {{3}} (ser) gerida com bom senso ontem.",
-        "reponse": ["façais", "tenhais discutido", "tivesse sido"]
-      },
+     {
+  "question": "Quero que vós {{1}} (fazer) as pazes imediatamente, sendo intolerável que vós já {{2}} (discutir) por motivos tão fúteis caso a situação {{3}} (ser) gerida com bom senso ontem.",
+  "reponse": ["façais", "tenhais discutido", "tivesse sido"]
+},
       {
         "question": "Até amanhã o mecânico {{1}} (reparar) o motor, e nós {{2}} (viajar) hoje se ele {{3}} (encontrar) a avaria durante o diagnóstico efetuado na segunda-feira.",
         "reponse": ["terá reparado", "viajaríamos", "tivesse encontrado"]
@@ -2776,12 +2776,12 @@
 "reponse": ["terão vendido", "comprariam", "tivessem perdido"]
 },
 {
-"question": "Na minha juventude eu {{1}} (correr) a maratona todos os anos, amanhã eu {{2}} (assistir) à competição na televisão e, se não estivesse lesionado, eu {{3}} (participar) na corrida.",
-"reponse": ["corria", "assistirei", "participaria"]
+  "question": "Na minha juventude eu {{1}} (correr) a maratona todos os anos, amanhã eu {{2}} (assistir) à competição na televisão e, se não estivesse lesionado, eu {{3}} (participar) na corrida.",
+  "reponse": ["corria", "assistirei", "participaria"]
 },
 {
-"question": "O arquiteto {{1": "entregou", "2": "modificaria", "3": "tivessem solicitado" }, "question": "O arquiteto {{1}} (entregar) o projeto definitivo ontem, visto que ele {{2}} (modificar) a estrutura da vivenda se os donos lho {{3}} (solicitar) formalmente na semana passada.",
-"reponse": ["entregou", "modificaria", "tivessem solicitado"]
+  "question": "O arquiteto {{1}} (entregar) o projeto definitivo ontem, visto que ele {{2}} (modificar) a estrutura da vivenda se os donos lho {{3}} (solicitar) formalmente na semana passada.",
+  "reponse": ["entregou", "modificaria", "tivessem solicitado"]
 },
 {
 "question": "Oxalá as autoridades {{1}} (encontrar) os documentos extraviados, sem que o suspeito os {{2}} (destruir) caso ele {{3}} (perceber) a aproximação dos agentes ontem.",
@@ -2812,8 +2812,8 @@
 "reponse": ["treinassem", "tivessem estudado", "teriam ganho"]
 },
 {
-"question": "Mal eu {{1": "houve escutado", "2": "telefonei", "3": "tinha planeado" }, "question": "Mal eu {{1}} (escutar) o estrondo na rua, eu {{2}} (telefonar) para os serviços de emergência porque eu {{3}} (planear) sair de casa naquele exato momento.",
-"reponse": ["houve escutado", "telefonei", "tinha planeado"]
+  "question": "Mal eu {{1}} (escutar) o estrondo na rua, eu {{2}} (telefonar) para os serviços de emergência porque eu {{3}} (planear) sair de casa naquele exato momento.",
+  "reponse": ["tinha escutado", "telefonei", "tinha planeado"]
 },
 {
 "question": "Até à próxima semana vós {{1}} (concluir) a leitura do romance, e vós {{2}} (fazer) uma excelente crítica literária se vós {{3}} (compreender) a metáfora central da obra.",
@@ -2888,8 +2888,8 @@
 "reponse": ["aceite", "ofereça", "tenha vendido"]
 },
 {
-"question": "Ontem eu {{1": "percebi", "2": "estava", "3": "terei resolvido" }, "question": "Ontem eu {{1}} (percebi) que a situação {{2}} (estar) caótica no armazém, mas asseguro que até sábado eu {{3}} (organizar) todos os produtos nas prateleiras.",
-"reponse": ["percebi", "estava", "terei organizado"]
+  "question": "Ontem eu {{1}} (perceber) que a situação {{2}} (estar) caótica no armazém, mas asseguro que até sábado eu {{3}} (organizar) todos os produtos nas prateleiras.",
+  "reponse": ["percebi", "estava", "terei organizado"]
 },
 {
 "question": "Se as alunas {{1}} (saber) que o teste de filosofia seria antecipado, elas {{2}} (estudar) com afinco e não {{3}} (reclamar) tanto com o corpo docente ontem.",
@@ -2964,8 +2964,8 @@
 "reponse": ["terão testado", "divulgariam", "tivesse aprovado"]
 },
 {
-"question": "Mal o juiz {{1}} (bater) o martelo, declarando o encerramento da sessão, o advogado de defesa {{2": "percebeu", "3": "tinha cometido" }, "question": "Mal o juiz {{1}} (bater) o martelo, declarando o encerramento da sessão, o advogado de defesa {{2}} (perceber) que o réu {{3}} (cometer) um perjúrio flagrante minutos antes.",
-"reponse": ["houve batido", "percebeu", "tinha cometido"]
+  "question": "Mal o juiz {{1}} (bater) o martelo, declarando o encerramento da sessão, o advogado de defesa {{2}} (perceber) que o réu {{3}} (cometer) um perjúrio flagrante minutos antes.",
+  "reponse": ["bateu", "percebeu", "tinha cometido"]
 },
 {
 "question": "No próximo ano tu {{1}} (comprar) a tua própria empresa, e antes de dezembro tu {{2}} (reinvestir) os lucros obtidos, mas tu {{3}} (hesitar) se conhecesses as taxas atuais.",
@@ -2988,8 +2988,8 @@
 "reponse": ["estudava", "farei", "escolheria"]
 },
 {
-"question": "Se os investidores {{1}} (prever) a desvalorização drástica da moeda estrangeira e se eles {{2}} (retirar) os fundos do país, eles não {{3": "teriam sofrido", "question": "Se os investidores {{1}} (prever) a desvalorização drástica da moeda estrangeira e se eles {{2}} (retirar) os fundos do país, eles não {{3}} (sofrer) prejuízos tão avassaladores.",
-"reponse": ["previssem", "tivessem retirado", "teriam sofrido"]
+  "question": "Se os investidores {{1}} (prever) a desvalorização drástica da moeda estrangeira e se eles {{2}} (retirar) os fundos do país, eles não {{3}} (sofrer) prejuízos tão avassaladores.",
+  "reponse": ["previssem", "tivessem retirado", "teriam sofrido"]
 }
 ]
 },
@@ -3029,7 +3029,7 @@
 },
 {
 "question": "Desejo que vós {{1}} (encontrar) a paz de espírito necessária, mesmo que seja provável que o vosso amigo já vos {{2}} (perdoar) o deslize caso vós lhe {{3}} (pedir) desculpa ontem.",
-"reponse["encontreis", "tenha perdoado", "tivésseis pedido"]
+"reponse": ["encontreis", "tenha perdoado", "tivésseis pedido"]
 },
 {
 "question": "Naquela altura o João {{1}} (viver) num apartamento partilhado, amanhã ele {{2}} (mudar) para uma moradia isolada e, se tivesse condições financeiras, ele {{3}} (comprar) o imóvel à vista.",
@@ -3120,8 +3120,8 @@
 "reponse": ["tocava", "se lembre", "ensaiasse"]
 },
 {
-"question": "Se o tribunal {{1": "analisasse", "2": "tivesse verificado", "3": "teria revertido" }, "question": "Se o tribunal {{1}} (analisar) o recurso com total imparcialidade na semana passada e se o juiz {{2}} (verificar) os novos depoimentos, ele {{3}} (reverter) a sentença de prisão.",
-"reponse": ["analisasse", "tivesse verificado", "teria revertido"]
+  "question": "Se o tribunal {{1}} (analisar) o recurso com total imparcialidade na semana passada e se o juiz {{2}} (verificar) os novos depoimentos, ele {{3}} (reverter) a sentença de prisão.",
+  "reponse": ["analisasse", "tivesse verificado", "teria revertido"]
 },
 {
 "question": "Duvido que tu {{1}} (obter) o visto de residência para os Estados Unidos hoje, a menos que tu {{2}} (apresentar) toda a documentação legal ou caso a embaixada já {{3}} (aprovar) o teu processo.",
