@@ -5214,7 +5214,864 @@
       {"question": "A equipa {{1}} (identificar) a falha e {{2}} (impedir) a interrupção se tivesse analisado os sinais de alerta.", "reponses": ["tinha identificado", "teria impedido"]},
       {"question": "Nós {{1}} (negociar) outras condições e {{2}} (conseguir) um acordo melhor se tivéssemos conhecido as alternativas.", "reponses": ["tínhamos negociado", "teríamos conseguido"]}
     ]
+  },
+   {
+    "id": "0036",
+    "titre": "Pretérito perfeito simples–Pretérito anterior",
+    "definition": "Complete as frases relacionando ações concluídas no passado com ações imediatamente anteriores a outras ações passadas.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito perfeito simples e no pretérito anterior.",
+    "questions": [
+      {"question": "O diretor {{1}} (entrar) na sala assim que a reunião {{2}} (terminar).", "reponses": ["entrou", "teve terminado"]},
+      {"question": "Os convidados {{1}} (sentar-se) depois de o anfitrião {{2}} (abrir) as portas.", "reponses": ["sentaram-se", "ter aberto"]},
+      {"question": "A equipa {{1}} (retomar) o trabalho logo que o técnico {{2}} (resolver) a falha.", "reponses": ["retomou", "teve resolvido"]},
+      {"question": "O público {{1}} (aplaudir) assim que a cantora {{2}} (concluir) a atuação.", "reponses": ["aplaudiu", "teve concluído"]},
+      {"question": "Nós {{1}} (sair) mal o espetáculo {{2}} (acabar).", "reponses": ["saímos", "teve acabado"]},
+      {"question": "A comissão {{1}} (anunciar) a decisão depois de o presidente {{2}} (assinar) o documento.", "reponses": ["anunciou", "ter assinado"]},
+      {"question": "Os passageiros {{1}} (embarcar) assim que o comboio {{2}} (chegar).", "reponses": ["embarcaram", "teve chegado"]},
+      {"question": "A investigadora {{1}} (publicar) o artigo logo que o laboratório {{2}} (confirmar) os resultados.", "reponses": ["publicou", "teve confirmado"]},
+      {"question": "O tribunal {{1}} (proferir) a sentença depois de o júri {{2}} (deliberar).", "reponses": ["proferiu", "ter deliberado"]},
+      {"question": "Os funcionários {{1}} (abandonar) o edifício mal o alarme {{2}} (soar).", "reponses": ["abandonaram", "teve soado"]}
+    ]
+  },
+  {
+    "id": "0037",
+    "titre": "Pretérito perfeito simples–Futuro do presente",
+    "definition": "Complete as frases combinando ações concluídas no passado com acontecimentos futuros.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito perfeito simples e no futuro do presente.",
+    "questions": [
+      {"question": "Eu {{1}} (concluir) a formação e amanhã {{2}} (receber) o certificado.", "reponses": ["concluí", "receberei"]},
+      {"question": "A empresa {{1}} (aprovar) o projeto e no próximo mês {{2}} (iniciar) a produção.", "reponses": ["aprovou", "iniciará"]},
+      {"question": "Nós {{1}} (reservar) os bilhetes e na próxima semana {{2}} (viajar) para o Porto.", "reponses": ["reservámos", "viajaremos"]},
+      {"question": "Tu {{1}} (enviar) a candidatura e amanhã {{2}} (receber) uma confirmação.", "reponses": ["enviaste", "receberás"]},
+      {"question": "Os investigadores {{1}} (publicar) o estudo e em breve {{2}} (apresentar) novas conclusões.", "reponses": ["publicaram", "apresentarão"]},
+      {"question": "A diretora {{1}} (assinar) o contrato e na segunda-feira {{2}} (comunicar) a decisão.", "reponses": ["assinou", "comunicará"]},
+      {"question": "Eu {{1}} (comprar) o equipamento e amanhã {{2}} (instalar) o programa.", "reponses": ["comprei", "instalarei"]},
+      {"question": "Vocês {{1}} (terminar) o relatório e na próxima reunião {{2}} (apresentar) os resultados.", "reponses": ["terminaram", "apresentarão"]},
+      {"question": "A equipa {{1}} (resolver) o problema e amanhã {{2}} (retomar) o trabalho.", "reponses": ["resolveu", "retomará"]},
+      {"question": "Nós {{1}} (assinar) o acordo e no próximo trimestre {{2}} (iniciar) a colaboração.", "reponses": ["assinámos", "iniciaremos"]}
+    ]
+  },
+  {
+    "id": "0038",
+    "titre": "Pretérito perfeito simples–Futuro do presente composto",
+    "definition": "Complete as frases relacionando ações passadas com ações que estarão concluídas num momento futuro.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito perfeito simples e no futuro do presente composto.",
+    "questions": [
+      {"question": "Eu {{1}} (iniciar) o projeto e, até sexta-feira, {{2}} (concluir) a primeira fase.", "reponses": ["iniciei", "terei concluído"]},
+      {"question": "A empresa {{1}} (contratar) novos funcionários e, até dezembro, {{2}} (formar) toda a equipa.", "reponses": ["contratou", "terá formado"]},
+      {"question": "Nós {{1}} (enviar) os documentos e, até amanhã, {{2}} (receber) uma resposta.", "reponses": ["enviámos", "teremos recebido"]},
+      {"question": "Tu {{1}} (começar) o curso e, até ao verão, {{2}} (terminar) todos os módulos.", "reponses": ["começaste", "terás terminado"]},
+      {"question": "Os investigadores {{1}} (recolher) os dados e, até ao final do ano, {{2}} (publicar) o estudo.", "reponses": ["recolheram", "terão publicado"]},
+      {"question": "A diretora {{1}} (aprovar) o orçamento e, até ao fim do mês, {{2}} (distribuir) os recursos.", "reponses": ["aprovou", "terá distribuído"]},
+      {"question": "Eu {{1}} (reservar) o alojamento e, até à partida, {{2}} (preparar) todo o itinerário.", "reponses": ["reservei", "terei preparado"]},
+      {"question": "Vocês {{1}} (assinar) o contrato e, até à próxima reunião, {{2}} (analisar) as cláusulas restantes.", "reponses": ["assinaram", "terão analisado"]},
+      {"question": "A equipa {{1}} (instalar) o sistema e, até amanhã, {{2}} (testar) todas as funcionalidades.", "reponses": ["instalou", "terá testado"]},
+      {"question": "Nós {{1}} (concluir) as negociações e, até sexta-feira, {{2}} (formalizar) o acordo.", "reponses": ["concluímos", "teremos formalizado"]}
+    ]
+  },
+  {
+    "id": "0039",
+    "titre": "Pretérito perfeito simples–Condicional",
+    "definition": "Complete as frases relacionando acontecimentos passados com consequências hipotéticas ou posteriores.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito perfeito simples e no condicional.",
+    "questions": [
+      {"question": "Eu {{1}} (receber) uma proposta interessante e {{2}} (aceitar) as condições se fossem melhores.", "reponses": ["recebi", "aceitaria"]},
+      {"question": "A empresa {{1}} (perder) um cliente importante e {{2}} (precisar) de rever a estratégia.", "reponses": ["perdeu", "precisaria"]},
+      {"question": "Nós {{1}} (conhecer) o responsável e {{2}} (poder) negociar diretamente com ele.", "reponses": ["conhecemos", "poderíamos"]},
+      {"question": "Tu {{1}} (encontrar) uma solução e {{2}} (conseguir) resolver o problema.", "reponses": ["encontraste", "conseguirias"]},
+      {"question": "Os investigadores {{1}} (descobrir) uma anomalia e {{2}} (necessitar) de realizar novos testes.", "reponses": ["descobriram", "necessitariam"]},
+      {"question": "A diretora {{1}} (rejeitar) a proposta e {{2}} (preferir) outra alternativa.", "reponses": ["rejeitou", "preferiria"]},
+      {"question": "Eu {{1}} (comprar) o equipamento e {{2}} (utilizar) o programa imediatamente.", "reponses": ["comprei", "utilizaria"]},
+      {"question": "Vocês {{1}} (receber) os documentos e {{2}} (poder) iniciar o processo.", "reponses": ["receberam", "poderiam"]},
+      {"question": "A equipa {{1}} (identificar) o erro e {{2}} (corrigir) o sistema sem dificuldade.", "reponses": ["identificou", "corrigiria"]},
+      {"question": "Nós {{1}} (obter) autorização e {{2}} (avançar) com o projeto.", "reponses": ["obtivemos", "avançaríamos"]}
+    ]
+  },
+  {
+    "id": "0040",
+    "titre": "Pretérito perfeito simples–Condicional composto",
+    "definition": "Complete as frases combinando ações concluídas no passado com resultados hipotéticos que poderiam ter ocorrido.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito perfeito simples e no condicional composto.",
+    "questions": [
+      {"question": "Eu {{1}} (receber) a proposta e {{2}} (aceitar) as condições se fossem mais favoráveis.", "reponses": ["recebi", "teria aceitado"]},
+      {"question": "A empresa {{1}} (perder) o contrato e {{2}} (sofrer) prejuízos maiores sem a intervenção da equipa.", "reponses": ["perdeu", "teria sofrido"]},
+      {"question": "Nós {{1}} (conhecer) os riscos e {{2}} (agir) de outra forma se tivéssemos recebido os dados.", "reponses": ["conhecemos", "teríamos agido"]},
+      {"question": "Tu {{1}} (encontrar) uma solução e {{2}} (resolver) o problema se tivesses tido mais tempo.", "reponses": ["encontraste", "terias resolvido"]},
+      {"question": "Os investigadores {{1}} (detetar) a anomalia e {{2}} (evitar) o erro se tivessem analisado os dados.", "reponses": ["detetaram", "teriam evitado"]},
+      {"question": "A diretora {{1}} (rejeitar) a proposta e {{2}} (escolher) outra alternativa se tivesse conhecido os riscos.", "reponses": ["rejeitou", "teria escolhido"]},
+      {"question": "Eu {{1}} (comprar) o equipamento e {{2}} (poupar) dinheiro se tivesse esperado pela promoção.", "reponses": ["comprei", "teria poupado"]},
+      {"question": "Vocês {{1}} (receber) os documentos e {{2}} (iniciar) o processo se a autorização tivesse chegado.", "reponses": ["receberam", "teriam iniciado"]},
+      {"question": "A equipa {{1}} (identificar) o erro e {{2}} (corrigir) o sistema se tivesse realizado os testes.", "reponses": ["identificou", "teria corrigido"]},
+      {"question": "Nós {{1}} (obter) autorização e {{2}} (concluir) o projeto se todos os requisitos tivessem sido cumpridos.", "reponses": ["obtivemos", "teríamos concluído"]}
+    ]
+  },
+  {
+    "id": "0041",
+    "titre": "Pretérito perfeito simples–Pretérito imperfeito do conjuntivo",
+    "definition": "Complete as frases relacionando acontecimentos passados com hipóteses, desejos ou condições expressos no pretérito imperfeito do conjuntivo.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito perfeito simples e no pretérito imperfeito do conjuntivo.",
+    "questions": [
+      {"question": "Eu {{1}} (lamentar) que a decisão {{2}} (ser) tão precipitada.", "reponses": ["lamentei", "fosse"]},
+      {"question": "A diretora {{1}} (exigir) que todos {{2}} (cumprir) os procedimentos.", "reponses": ["exigiu", "cumprissem"]},
+      {"question": "Nós {{1}} (preferir) que o responsável {{2}} (apresentar) outra solução.", "reponses": ["preferimos", "apresentasse"]},
+      {"question": "Tu {{1}} (duvidar) que a equipa {{2}} (conseguir) terminar a tempo.", "reponses": ["duvidaste", "conseguisse"]},
+      {"question": "Os investigadores {{1}} (recomendar) que a comissão {{2}} (analisar) os resultados.", "reponses": ["recomendaram", "analisasse"]},
+      {"question": "A professora {{1}} (pedir) que os alunos {{2}} (rever) o trabalho.", "reponses": ["pediu", "reviessem"]},
+      {"question": "Eu {{1}} (esperar) que tu {{2}} (compreender) a situação.", "reponses": ["esperei", "compreendesses"]},
+      {"question": "Vocês {{1}} (sugerir) que a administração {{2}} (alterar) o regulamento.", "reponses": ["sugeriram", "alterasse"]},
+      {"question": "A comissão {{1}} (recomendar) que o projeto {{2}} (ser) revisto.", "reponses": ["recomendou", "fosse"]},
+      {"question": "Nós {{1}} (pedir) que os responsáveis {{2}} (intervir) imediatamente.", "reponses": ["pedimos", "interviessem"]}
+    ]
+  },
+  {
+    "id": "0042",
+    "titre": "Pretérito perfeito simples–Pretérito mais-que-perfeito do conjuntivo",
+    "definition": "Complete as frases relacionando acontecimentos passados com hipóteses irreais ou condições não realizadas anteriormente.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito perfeito simples e no pretérito mais-que-perfeito do conjuntivo.",
+    "questions": [
+      {"question": "Eu {{1}} (lamentar) que ele não {{2}} (avisar) a equipa mais cedo.", "reponses": ["lamentei", "tivesse avisado"]},
+      {"question": "A diretora {{1}} (criticar) o facto de os técnicos não {{2}} (cumprir) o prazo.", "reponses": ["criticou", "terem cumprido"]},
+      {"question": "Nós {{1}} (estranhar) que a empresa {{2}} (cancelar) o contrato sem aviso.", "reponses": ["estranhámos", "tivesse cancelado"]},
+      {"question": "Tu {{1}} (lamentar) que os teus colegas não {{2}} (participar) na reunião.", "reponses": ["lamentaste", "tivessem participado"]},
+      {"question": "Os investigadores {{1}} (duvidar) que o laboratório {{2}} (registar) todos os resultados.", "reponses": ["duvidaram", "tivesse registado"]},
+      {"question": "A professora {{1}} (lamentar) que alguns alunos não {{2}} (entregar) o trabalho.", "reponses": ["lamentou", "tivessem entregado"]},
+      {"question": "Eu {{1}} (estranhar) que tu não {{2}} (reconhecer) o erro.", "reponses": ["estranhei", "tivesses reconhecido"]},
+      {"question": "Vocês {{1}} (lamentar) que a administração não {{2}} (consultar) os funcionários.", "reponses": ["lamentaram", "tivesse consultado"]},
+      {"question": "A comissão {{1}} (criticar) o facto de os responsáveis não {{2}} (apresentar) provas suficientes.", "reponses": ["criticou", "terem apresentado"]},
+      {"question": "Nós {{1}} (lamentar) que o projeto não {{2}} (receber) o financiamento necessário.", "reponses": ["lamentámos", "tivesse recebido"]}
+    ]
+  },
+  {
+    "id": "0043",
+    "titre": "Pretérito anterior–Pretérito mais-que-perfeito composto",
+    "definition": "Complete as frases distinguindo uma ação imediatamente anterior de uma ação já concluída antes de determinado momento passado.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito anterior e no pretérito mais-que-perfeito composto.",
+    "questions": [
+      {"question": "Assim que o diretor {{1}} (chegar), verificou que a equipa já {{2}} (preparar) os documentos.", "reponses": ["teve chegado", "tinha preparado"]},
+      {"question": "Logo que a reunião {{1}} (terminar), percebemos que o secretário já {{2}} (enviar) a ata.", "reponses": ["teve terminado", "tinha enviado"]},
+      {"question": "Mal o técnico {{1}} (resolver) a falha, confirmou que o sistema já {{2}} (guardar) os dados.", "reponses": ["teve resolvido", "tinha guardado"]},
+      {"question": "Assim que o espetáculo {{1}} (acabar), soubemos que a crítica já {{2}} (publicar) a sua avaliação.", "reponses": ["teve acabado", "tinha publicado"]},
+      {"question": "Logo que o comboio {{1}} (partir), verificámos que alguns passageiros já {{2}} (sair) da estação.", "reponses": ["teve partido", "tinham saído"]},
+      {"question": "Mal o presidente {{1}} (assinar) o documento, descobrimos que a comissão já {{2}} (aprovar) a proposta.", "reponses": ["teve assinado", "tinha aprovado"]},
+      {"question": "Assim que os convidados {{1}} (chegar), percebemos que o anfitrião já {{2}} (preparar) tudo.", "reponses": ["tiveram chegado", "tinha preparado"]},
+      {"question": "Logo que a experiência {{1}} (terminar), os investigadores confirmaram que o laboratório já {{2}} (registar) os resultados.", "reponses": ["teve terminado", "tinha registado"]},
+      {"question": "Mal o júri {{1}} (deliberar), o tribunal anunciou que já {{2}} (receber) todos os documentos.", "reponses": ["teve deliberado", "tinha recebido"]},
+      {"question": "Assim que o alarme {{1}} (soar), os funcionários perceberam que a segurança já {{2}} (evacuar) o edifício.", "reponses": ["teve soado", "tinha evacuado"]}
+    ]
+  },
+  {
+    "id": "0044",
+    "titre": "Pretérito anterior–Futuro do presente composto",
+    "definition": "Complete as frases relacionando uma ação imediatamente anterior no passado com uma ação concluída num momento futuro.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito anterior e no futuro do presente composto.",
+    "questions": [
+      {"question": "Assim que a reunião {{1}} (terminar), amanhã já {{2}} (preparar) a ata.", "reponses": ["tiver terminado", "terei preparado"]},
+      {"question": "Logo que o diretor {{1}} (assinar) o contrato, até sexta-feira a empresa {{2}} (iniciar) os trabalhos.", "reponses": ["tiver assinado", "terá iniciado"]},
+      {"question": "Mal os técnicos {{1}} (resolver) a falha, até ao fim do dia {{2}} (testar) o sistema.", "reponses": ["tiverem resolvido", "terão testado"]},
+      {"question": "Assim que tu {{1}} (concluir) o curso, até ao verão {{2}} (receber) o certificado.", "reponses": ["tiveres concluído", "terás recebido"]},
+      {"question": "Logo que os investigadores {{1}} (recolher) os dados, até dezembro {{2}} (publicar) o estudo.", "reponses": ["tiverem recolhido", "terão publicado"]},
+      {"question": "Mal a diretora {{1}} (aprovar) o orçamento, até à próxima reunião {{2}} (distribuir) os recursos.", "reponses": ["tiver aprovado", "terá distribuído"]},
+      {"question": "Assim que eu {{1}} (reservar) o alojamento, até à partida {{2}} (organizar) o itinerário.", "reponses": ["tiver reservado", "terei organizado"]},
+      {"question": "Logo que vocês {{1}} (assinar) o acordo, até ao final do mês {{2}} (formalizar) a parceria.", "reponses": ["tiverem assinado", "terão formalizado"]},
+      {"question": "Mal a equipa {{1}} (instalar) o programa, até amanhã {{2}} (verificar) todas as funções.", "reponses": ["tiver instalado", "terá verificado"]},
+      {"question": "Assim que nós {{1}} (concluir) as negociações, até sexta-feira {{2}} (redigir) o contrato.", "reponses": ["tivermos concluído", "teremos redigido"]}
+    ]
+  },
+  {
+    "id": "0045",
+    "titre": "Futuro do presente–Futuro do presente composto",
+    "definition": "Complete as frases relacionando acontecimentos futuros com ações que estarão concluídas antes de determinado momento futuro.",
+    "instruction": "Conjugue os verbos entre parênteses no futuro do presente e no futuro do presente composto.",
+    "questions": [
+      {"question": "Amanhã, eu {{1}} (participar) na reunião e já {{2}} (ler) todos os documentos antes de começar.", "reponses": ["participarei", "terei lido"]},
+      {"question": "A empresa {{1}} (lançar) o produto e, até ao final do ano, {{2}} (distribuir) os primeiros exemplares.", "reponses": ["lançará", "terá distribuído"]},
+      {"question": "Nós {{1}} (apresentar) o projeto e, até sexta-feira, {{2}} (concluir) a documentação.", "reponses": ["apresentaremos", "teremos concluído"]},
+      {"question": "Tu {{1}} (viajar) para Lisboa e, antes da partida, {{2}} (reservar) o alojamento.", "reponses": ["viajarás", "terás reservado"]},
+      {"question": "Os investigadores {{1}} (publicar) os resultados e, até dezembro, {{2}} (concluir) a análise.", "reponses": ["publicarão", "terão concluído"]},
+      {"question": "A diretora {{1}} (anunciar) a decisão e, até então, {{2}} (consultar) todos os departamentos.", "reponses": ["anunciará", "terá consultado"]},
+      {"question": "Eu {{1}} (entregar) o relatório e, até ao fim da semana, {{2}} (verificar) todas as referências.", "reponses": ["entregarei", "terei verificado"]},
+      {"question": "Vocês {{1}} (iniciar) o estágio e, até ao primeiro mês, {{2}} (conhecer) os procedimentos principais.", "reponses": ["iniciarão", "terão conhecido"]},
+      {"question": "A equipa {{1}} (instalar) o sistema e, até amanhã, {{2}} (testar) todas as funcionalidades.", "reponses": ["instalará", "terá testado"]},
+      {"question": "Nós {{1}} (assinar) o acordo e, até ao final do trimestre, {{2}} (implementar) as primeiras medidas.", "reponses": ["assinaremos", "teremos implementado"]}
+    ]
+  },
+  {
+    "id": "0046",
+    "titre": "Futuro do presente–Condicional",
+    "definition": "Complete as frases relacionando previsões futuras com consequências hipotéticas ou condicionais.",
+    "instruction": "Conjugue os verbos entre parênteses no futuro do presente e no condicional.",
+    "questions": [
+      {"question": "O diretor {{1}} (anunciar) a decisão e a equipa {{2}} (reagir) de acordo com as novas regras.", "reponses": ["anunciará", "reagiria"]},
+      {"question": "A empresa {{1}} (expandir-se) para novos mercados e {{2}} (necessitar) de mais funcionários.", "reponses": ["expandir-se-á", "necessitaria"]},
+      {"question": "Nós {{1}} (receber) os resultados e {{2}} (poder) rever a estratégia.", "reponses": ["receberemos", "poderíamos"]},
+      {"question": "Tu {{1}} (concluir) o curso e {{2}} (conseguir) candidatar-te a outras funções.", "reponses": ["concluirás", "conseguirias"]},
+      {"question": "Os investigadores {{1}} (publicar) o estudo e {{2}} (obter) reconhecimento internacional.", "reponses": ["publicarão", "obteriam"]},
+      {"question": "A diretora {{1}} (aprovar) o orçamento e {{2}} (permitir) novas contratações.", "reponses": ["aprovará", "permitiria"]},
+      {"question": "Eu {{1}} (aceitar) a proposta e {{2}} (mudar) de cidade.", "reponses": ["aceitarei", "mudaria"]},
+      {"question": "Vocês {{1}} (terminar) o projeto e {{2}} (apresentar) os resultados numa conferência.", "reponses": ["terminarão", "apresentariam"]},
+      {"question": "A equipa {{1}} (resolver) o problema e {{2}} (retomar) a produção normal.", "reponses": ["resolverá", "retomaria"]},
+      {"question": "Nós {{1}} (concluir) as negociações e {{2}} (assinar) o contrato.", "reponses": ["concluiremos", "assinaríamos"]}
+    ]
+  },
+  {
+    "id": "0047",
+    "titre": "Futuro do presente–Condicional composto",
+    "definition": "Complete as frases relacionando previsões futuras com resultados hipotéticos que poderiam ter ocorrido.",
+    "instruction": "Conjugue os verbos entre parênteses no futuro do presente e no condicional composto.",
+    "questions": [
+      {"question": "A empresa {{1}} (expandir-se) no próximo ano e {{2}} (crescer) mais rapidamente se tivesse investido antes.", "reponses": ["expandir-se-á", "teria crescido"]},
+      {"question": "O diretor {{1}} (anunciar) a decisão amanhã e {{2}} (evitar) a controvérsia se tivesse explicado os motivos.", "reponses": ["anunciará", "teria evitado"]},
+      {"question": "Nós {{1}} (receber) os resultados na sexta-feira e {{2}} (concluir) a análise mais cedo se os dados tivessem chegado antes.", "reponses": ["receberemos", "teríamos concluído"]},
+      {"question": "Tu {{1}} (terminar) o curso no próximo mês e {{2}} (conseguir) melhores oportunidades se tivesses começado mais cedo.", "reponses": ["terminarás", "terias conseguido"]},
+      {"question": "Os investigadores {{1}} (publicar) o estudo em breve e {{2}} (detetar) o erro antes se tivessem verificado os dados.", "reponses": ["publicarão", "teriam detetado"]},
+      {"question": "A diretora {{1}} (aprovar) o orçamento amanhã e {{2}} (evitar) os atrasos se tivesse consultado a equipa.", "reponses": ["aprovará", "teria evitado"]},
+      {"question": "Eu {{1}} (aceitar) a proposta na próxima semana e {{2}} (poupar) dinheiro se tivesse negociado melhor.", "reponses": ["aceitarei", "teria poupado"]},
+      {"question": "Vocês {{1}} (terminar) o projeto em dezembro e {{2}} (evitar) as dificuldades se tivessem organizado o trabalho.", "reponses": ["terminarão", "teriam evitado"]},
+      {"question": "A equipa {{1}} (resolver) o problema amanhã e {{2}} (impedir) a interrupção se tivesse identificado a falha antes.", "reponses": ["resolverá", "teria impedido"]},
+      {"question": "Nós {{1}} (assinar) o contrato na próxima semana e {{2}} (obter) melhores condições se tivéssemos negociado mais cedo.", "reponses": ["assinaremos", "teríamos obtido"]}
+    ]
+  },
+  {
+    "id": "0048",
+    "titre": "Condicional–Condicional composto",
+    "definition": "Complete as frases relacionando consequências hipotéticas com resultados que poderiam ter ocorrido anteriormente.",
+    "instruction": "Conjugue os verbos entre parênteses no condicional e no condicional composto.",
+    "questions": [
+      {"question": "Eu {{1}} (aceitar) a proposta e {{2}} (começar) o trabalho mais cedo se tivesse recebido a confirmação.", "reponses": ["aceitaria", "teria começado"]},
+      {"question": "A empresa {{1}} (investir) em tecnologia e {{2}} (reduzir) os custos se tivesse previsto as dificuldades.", "reponses": ["investiria", "teria reduzido"]},
+      {"question": "Nós {{1}} (participar) no congresso e {{2}} (apresentar) os resultados se tivéssemos recebido o convite.", "reponses": ["participaríamos", "teríamos apresentado"]},
+      {"question": "Tu {{1}} (mudar) de emprego e {{2}} (encontrar) melhores condições se tivesses aceitado a proposta.", "reponses": ["mudarias", "terias encontrado"]},
+      {"question": "Os investigadores {{1}} (continuar) a experiência e {{2}} (descobrir) a causa do problema se tivessem obtido financiamento.", "reponses": ["continuariam", "teriam descoberto"]},
+      {"question": "A diretora {{1}} (aprovar) o projeto e {{2}} (evitar) os atrasos se tivesse recebido os documentos.", "reponses": ["aprovaria", "teria evitado"]},
+      {"question": "Eu {{1}} (comprar) o equipamento e {{2}} (poupar) dinheiro se tivesse esperado pela promoção.", "reponses": ["compraria", "teria poupado"]},
+      {"question": "Vocês {{1}} (organizar) melhor a equipa e {{2}} (concluir) o trabalho mais cedo se tivessem definido prioridades.", "reponses": ["organizariam", "teriam concluído"]},
+      {"question": "A comissão {{1}} (rever) a decisão e {{2}} (evitar) o conflito se tivesse considerado todas as objeções.", "reponses": ["reveria", "teria evitado"]},
+      {"question": "Nós {{1}} (negociar) outras condições e {{2}} (conseguir) um acordo melhor se tivéssemos conhecido as alternativas.", "reponses": ["negociaríamos", "teríamos conseguido"]}
+    ]
+  },
+  {
+    "id": "0049",
+    "titre": "Condicional–Presente do conjuntivo",
+    "definition": "Complete as frases relacionando consequências hipotéticas com desejos, recomendações ou necessidades expressos no conjuntivo.",
+    "instruction": "Conjugue os verbos entre parênteses no condicional e no presente do conjuntivo.",
+    "questions": [
+      {"question": "Eu {{1}} (preferir) que a equipa {{2}} (rever) a proposta.", "reponses": ["preferiria", "reveja"]},
+      {"question": "A diretora {{1}} (gostar) que todos {{2}} (participar) na reunião.", "reponses": ["gostaria", "participem"]},
+      {"question": "Nós {{1}} (recomendar) que o responsável {{2}} (analisar) os documentos.", "reponses": ["recomendaríamos", "analise"]},
+      {"question": "Tu {{1}} (desejar) que o professor {{2}} (explicar) novamente o assunto.", "reponses": ["desejarias", "explique"]},
+      {"question": "Os investigadores {{1}} (sugerir) que a comissão {{2}} (considerar) outras hipóteses.", "reponses": ["sugeririam", "considere"]},
+      {"question": "A médica {{1}} (aconselhar) que o paciente {{2}} (seguir) as instruções.", "reponses": ["aconselharia", "siga"]},
+      {"question": "Eu {{1}} (preferir) que vocês {{2}} (entregar) o relatório hoje.", "reponses": ["preferiria", "entreguem"]},
+      {"question": "Vocês {{1}} (propor) que a administração {{2}} (alterar) o regulamento.", "reponses": ["proporiam", "altere"]},
+      {"question": "A comissão {{1}} (exigir) que o projeto {{2}} (cumprir) todos os requisitos.", "reponses": ["exigiria", "cumpra"]},
+      {"question": "Nós {{1}} (querer) que a direção {{2}} (tomar) uma decisão rapidamente.", "reponses": ["quereríamos", "tome"]}
+    ]
+  },
+  {
+    "id": "0050",
+    "titre": "Condicional composto–Pretérito perfeito do conjuntivo",
+    "definition": "Complete as frases relacionando resultados hipotéticos com ações concluídas cuja realização é considerada incerta ou avaliada subjetivamente.",
+    "instruction": "Conjugue os verbos entre parênteses no condicional composto e no pretérito perfeito do conjuntivo.",
+    "questions": [
+      {"question": "Eu {{1}} (ficar) satisfeito se a equipa {{2}} (concluir) o trabalho até agora.", "reponses": ["teria ficado", "tivesse concluído"]},
+      {"question": "A diretora {{1}} (aceitar) a proposta se a comissão {{2}} (aprovar) as alterações.", "reponses": ["teria aceitado", "tivesse aprovado"]},
+      {"question": "Nós {{1}} (participar) no congresso se a organização {{2}} (confirmar) a inscrição.", "reponses": ["teríamos participado", "tivesse confirmado"]},
+      {"question": "Tu {{1}} (obter) melhores resultados se {{2}} (seguir) as recomendações.", "reponses": ["terias obtido", "tivesses seguido"]},
+      {"question": "Os investigadores {{1}} (publicar) o estudo se o laboratório {{2}} (validar) os dados.", "reponses": ["teriam publicado", "tivesse validado"]},
+      {"question": "A empresa {{1}} (evitar) os prejuízos se {{2}} (identificar) os riscos a tempo.", "reponses": ["teria evitado", "tivesse identificado"]},
+      {"question": "Eu {{1}} (comprar) o apartamento se o banco {{2}} (aprovar) o empréstimo.", "reponses": ["teria comprado", "tivesse aprovado"]},
+      {"question": "Vocês {{1}} (concluir) o projeto se os fornecedores {{2}} (entregar) os materiais.", "reponses": ["teriam concluído", "tivessem entregado"]},
+      {"question": "A comissão {{1}} (rever) a decisão se {{2}} (receber) novas provas.", "reponses": ["teria revisto", "tivesse recebido"]},
+      {"question": "Nós {{1}} (conseguir) um acordo melhor se a outra parte {{2}} (aceitar) negociar.", "reponses": ["teríamos conseguido", "tivesse aceitado"]}
+    ]
+  },
+  {
+    "id": "0051",
+    "titre": "Presente do conjuntivo–Pretérito perfeito do conjuntivo",
+    "definition": "Complete as frases distinguindo ações desejadas ou incertas no presente de ações já concluídas que são avaliadas no presente.",
+    "instruction": "Conjugue os verbos entre parênteses no presente do conjuntivo e no pretérito perfeito do conjuntivo.",
+    "questions": [
+      {"question": "Espero que a equipa {{1}} (estar) preparada e que {{2}} (concluir) o trabalho previsto.", "reponses": ["esteja", "tenha concluído"]},
+      {"question": "É importante que tu {{1}} (compreender) as instruções e que {{2}} (ler) o relatório completo.", "reponses": ["compreendas", "tenhas lido"]},
+      {"question": "Duvido que os técnicos {{1}} (conseguir) resolver o problema e que {{2}} (identificar) a causa.", "reponses": ["consigam", "tenham identificado"]},
+      {"question": "É possível que a diretora {{1}} (aprovar) a proposta e que {{2}} (consultar) a equipa.", "reponses": ["aprove", "tenha consultado"]},
+      {"question": "Espero que nós {{1}} (receber) uma resposta e que a comissão {{2}} (analisar) o pedido.", "reponses": ["recebamos", "tenha analisado"]},
+      {"question": "É necessário que os estudantes {{1}} (participar) na discussão e que {{2}} (preparar) os argumentos.", "reponses": ["participem", "tenham preparado"]},
+      {"question": "Não acredito que ele {{1}} (saber) a verdade nem que {{2}} (consultar) os documentos.", "reponses": ["saiba", "tenha consultado"]},
+      {"question": "Convém que vocês {{1}} (rever) o texto e que {{2}} (corrigir) os erros principais.", "reponses": ["revejam", "tenham corrigido"]},
+      {"question": "É provável que a empresa {{1}} (lançar) um novo produto e que {{2}} (concluir) os testes.", "reponses": ["lance", "tenha concluído"]},
+      {"question": "Espero que o médico {{1}} (estar) disponível e que {{2}} (receber) os resultados.", "reponses": ["esteja", "tenha recebido"]}
+    ]
+  },
+  {
+    "id": "0052",
+    "titre": "Pretérito imperfeito do conjuntivo–Pretérito mais-que-perfeito do conjuntivo",
+    "definition": "Complete as frases utilizando hipóteses no passado e ações anteriores não realizadas ou cuja realização é considerada hipotética.",
+    "instruction": "Conjugue os verbos entre parênteses no pretérito imperfeito do conjuntivo e no pretérito mais-que-perfeito do conjuntivo.",
+    "questions": [
+      {"question": "Se eu {{1}} (saber) que o prazo era tão curto, {{2}} (começar) o trabalho mais cedo.", "reponses": ["soubesse", "teria começado"]},
+      {"question": "Se a empresa {{1}} (investir) mais recursos, {{2}} (evitar) os prejuízos.", "reponses": ["investisse", "teria evitado"]},
+      {"question": "Se nós {{1}} (receber) os documentos a tempo, {{2}} (concluir) o processo.", "reponses": ["recebêssemos", "teríamos concluído"]},
+      {"question": "Se tu {{1}} (seguir) as instruções, {{2}} (resolver) o problema mais cedo.", "reponses": ["seguisses", "terias resolvido"]},
+      {"question": "Se os investigadores {{1}} (dispor) de mais dados, {{2}} (formular) uma conclusão mais precisa.", "reponses": ["dispusessem", "teriam formulado"]},
+      {"question": "Se a diretora {{1}} (consultar) a equipa, {{2}} (tomar) uma decisão diferente.", "reponses": ["consultasse", "teria tomado"]},
+      {"question": "Se eu {{1}} (reservar) o bilhete antes, {{2}} (poupar) dinheiro.", "reponses": ["reservasse", "teria poupado"]},
+      {"question": "Se vocês {{1}} (organizar) melhor o trabalho, {{2}} (evitar) os atrasos.", "reponses": ["organizassem", "teriam evitado"]},
+      {"question": "Se a comissão {{1}} (analisar) todas as provas, {{2}} (rever) a decisão.", "reponses": ["analisasse", "teria revisto"]},
+      {"question": "Se nós {{1}} (negociar) outras condições, {{2}} (conseguir) um acordo melhor.", "reponses": ["negociássemos", "teríamos conseguido"]}
+    ]
+  },
+   {
+    "id": "0053",
+    "titre": "Presente–Pretérito perfeito composto–Pretérito imperfeito",
+    "definition": "Complete as frases relacionando situações atuais, ações que se têm prolongado até ao presente e circunstâncias habituais ou em curso no passado.",
+    "instruction": "Conjugue os três verbos entre parênteses no presente do indicativo, no pretérito perfeito composto e no pretérito imperfeito, respeitando a ordem dos tempos indicada no título.",
+    "questions": [
+      {"question": "Atualmente, eu {{1}} (trabalhar) numa universidade, {{2}} (desenvolver) vários projetos de investigação nos últimos meses e, antigamente, {{3}} (ensinar) numa escola secundária.", "reponses": ["trabalho", "tenho desenvolvido", "ensinava"]},
+      {"question": "A Marta {{1}} (viver) em Lisboa, {{2}} (frequentar) cursos de especialização recentemente e, quando era estudante, {{3}} (passar) as férias no Porto.", "reponses": ["vive", "tem frequentado", "passava"]},
+      {"question": "Nós {{1}} (dirigir) uma empresa tecnológica, {{2}} (investir) em soluções inovadoras nos últimos anos e, inicialmente, {{3}} (trabalhar) apenas com clientes nacionais.", "reponses": ["dirigimos", "temos investido", "trabalhávamos"]},
+      {"question": "O investigador {{1}} (coordenar) uma equipa internacional, {{2}} (publicar) vários artigos recentemente e, no início da carreira, {{3}} (dedicar-se) sobretudo à investigação teórica.", "reponses": ["coordena", "tem publicado", "dedicava-se"]},
+      {"question": "Tu {{1}} (frequentar) um curso de tradução, {{2}} (aperfeiçoar) as tuas competências linguísticas ultimamente e, no passado, {{3}} (estudar) principalmente literatura.", "reponses": ["frequentas", "tens aperfeiçoado", "estudavas"]},
+      {"question": "Os médicos {{1}} (trabalhar) neste hospital, {{2}} (acompanhar) numerosos casos complexos nos últimos meses e, antigamente, {{3}} (dispor) de menos recursos tecnológicos.", "reponses": ["trabalham", "têm acompanhado", "dispunham"]},
+      {"question": "A empresa {{1}} (produzir) equipamentos médicos, {{2}} (aumentar) a capacidade de produção recentemente e, há alguns anos, {{3}} (fabricar) apenas componentes básicos.", "reponses": ["produz", "tem aumentado", "fabricava"]},
+      {"question": "Eu {{1}} (ler) regularmente publicações científicas, {{2}} (acompanhar) novas descobertas nos últimos tempos e, durante a licenciatura, {{3}} (consultar) sobretudo manuais académicos.", "reponses": ["leio", "tenho acompanhado", "consultava"]},
+      {"question": "Vocês {{1}} (participar) em conferências internacionais, {{2}} (apresentar) comunicações inovadoras este ano e, anteriormente, {{3}} (intervir) apenas em encontros nacionais.", "reponses": ["participam", "têm apresentado", "intervinham"]},
+      {"question": "A professora {{1}} (lecionar) português avançado, {{2}} (experimentar) novas metodologias de ensino ultimamente e, no início da carreira, {{3}} (utilizar) sobretudo métodos tradicionais.", "reponses": ["leciona", "tem experimentado", "utilizava"]}
+    ]
+  },
+  {
+    "id": "0054",
+    "titre": "Presente–Pretérito perfeito composto–Pretérito mais-que-perfeito composto",
+    "definition": "Complete as frases relacionando situações atuais, ações repetidas ou prolongadas até ao presente e ações anteriores a outras situações passadas.",
+    "instruction": "Conjugue os três verbos entre parênteses no presente do indicativo, no pretérito perfeito composto e no pretérito mais-que-perfeito composto, respeitando a ordem indicada.",
+    "questions": [
+      {"question": "Atualmente, a empresa {{1}} (operar) em vários países, {{2}} (expandir-se) para novos mercados nos últimos anos e já {{3}} (estabelecer) uma rede de distribuição antes da última expansão.", "reponses": ["opera", "tem-se expandido", "tinha estabelecido"]},
+      {"question": "A investigadora {{1}} (coordenar) o laboratório, {{2}} (publicar) vários estudos recentemente e já {{3}} (recolher) os dados essenciais antes de iniciar a análise.", "reponses": ["coordena", "tem publicado", "tinha recolhido"]},
+      {"question": "Nós {{1}} (gerir) este projeto, {{2}} (receber) numerosas propostas ultimamente e já {{3}} (definir) os critérios de seleção antes da primeira reunião.", "reponses": ["gerimos", "temos recebido", "tínhamos definido"]},
+      {"question": "O professor {{1}} (orientar) estudantes de doutoramento, {{2}} (acompanhar) vários projetos nos últimos meses e já {{3}} (aprovar) os planos de investigação antes do início do semestre.", "reponses": ["orienta", "tem acompanhado", "tinha aprovado"]},
+      {"question": "Tu {{1}} (trabalhar) numa empresa internacional, {{2}} (participar) em reuniões estratégicas recentemente e já {{3}} (concluir) a formação necessária antes da tua promoção.", "reponses": ["trabalhas", "tens participado", "tinhas concluído"]},
+      {"question": "Os técnicos {{1}} (assegurar) a manutenção dos equipamentos, {{2}} (identificar) várias anomalias este mês e já {{3}} (substituir) as peças defeituosas antes da última inspeção.", "reponses": ["asseguram", "têm identificado", "tinham substituído"]},
+      {"question": "A universidade {{1}} (promover) a investigação científica, {{2}} (financiar) novos projetos nos últimos anos e já {{3}} (criar) um centro especializado antes da atual reforma.", "reponses": ["promove", "tem financiado", "tinha criado"]},
+      {"question": "Eu {{1}} (acompanhar) a evolução do mercado, {{2}} (analisar) diferentes tendências ultimamente e já {{3}} (identificar) os principais riscos antes da última crise.", "reponses": ["acompanho", "tenho analisado", "tinha identificado"]},
+      {"question": "Vocês {{1}} (desenvolver) soluções digitais, {{2}} (implementar) novas funcionalidades recentemente e já {{3}} (testar) o sistema antes da apresentação oficial.", "reponses": ["desenvolvem", "têm implementado", "tinham testado"]},
+      {"question": "A equipa médica {{1}} (acompanhar) os pacientes, {{2}} (avaliar) novos protocolos nos últimos meses e já {{3}} (rever) os procedimentos antes da última auditoria.", "reponses": ["acompanha", "tem avaliado", "tinha revisto"]}
+    ]
+  },
+  {
+    "id": "0055",
+    "titre": "Presente–Pretérito imperfeito–Pretérito mais-que-perfeito composto",
+    "definition": "Complete as frases relacionando situações atuais com circunstâncias habituais no passado e ações anteriores a outras ações passadas.",
+    "instruction": "Conjugue os três verbos entre parênteses no presente do indicativo, no pretérito imperfeito e no pretérito mais-que-perfeito composto, respeitando a ordem indicada.",
+    "questions": [
+      {"question": "Atualmente, eu {{1}} (trabalhar) numa editora, mas, quando era estudante, {{2}} (colaborar) com uma revista universitária que já {{3}} (publicar) vários números antes da minha primeira colaboração.", "reponses": ["trabalho", "colaborava", "tinha publicado"]},
+      {"question": "A Marta {{1}} (viver) em Coimbra, mas, durante a infância, {{2}} (residir) numa aldeia onde a família já {{3}} (construir) uma casa antes do seu nascimento.", "reponses": ["vive", "residia", "tinha construído"]},
+      {"question": "Nós {{1}} (dirigir) uma empresa de consultoria, mas, no início da carreira, {{2}} (trabalhar) numa organização que já {{3}} (estabelecer) parcerias internacionais antes da nossa chegada.", "reponses": ["dirigimos", "trabalhávamos", "tinha estabelecido"]},
+      {"question": "O investigador {{1}} (coordenar) uma equipa internacional, mas, anteriormente, {{2}} (integrar) um laboratório que já {{3}} (desenvolver) métodos inovadores antes da sua contratação.", "reponses": ["coordena", "integrava", "tinha desenvolvido"]},
+      {"question": "Tu {{1}} (frequentar) um curso de tradução, mas, no ensino secundário, {{2}} (estudar) numa escola que já {{3}} (criar) um programa linguístico antes da tua matrícula.", "reponses": ["frequentas", "estudavas", "tinha criado"]},
+      {"question": "Os médicos {{1}} (trabalhar) neste hospital, mas, há alguns anos, {{2}} (exercer) funções numa unidade que já {{3}} (adotar) novos protocolos antes da sua transferência.", "reponses": ["trabalham", "exerciam", "tinha adotado"]},
+      {"question": "A empresa {{1}} (produzir) equipamentos eletrónicos, mas, inicialmente, {{2}} (fabricar) componentes para uma marca que já {{3}} (conquistar) vários mercados antes do primeiro contrato.", "reponses": ["produz", "fabricava", "tinha conquistado"]},
+      {"question": "Eu {{1}} (investigar) fenómenos linguísticos, mas, durante a licenciatura, {{2}} (estudar) numa faculdade que já {{3}} (criar) um centro de investigação antes da minha entrada.", "reponses": ["investigo", "estudava", "tinha criado"]},
+      {"question": "Vocês {{1}} (participar) em projetos europeus, mas, no início da carreira, {{2}} (colaborar) com uma instituição que já {{3}} (financiar) diversas iniciativas antes da vossa chegada.", "reponses": ["participam", "colaboravam", "tinha financiado"]},
+      {"question": "A professora {{1}} (ensinar) português avançado, mas, anteriormente, {{2}} (lecionar) numa escola onde os alunos já {{3}} (estudar) gramática tradicional antes da introdução do novo programa.", "reponses": ["ensina", "lecionava", "tinham estudado"]}
+    ]
+  },
+  {
+    "id": "0056",
+    "titre": "Presente–Pretérito perfeito simples–Pretérito imperfeito",
+    "definition": "Complete as frases relacionando situações atuais com acontecimentos concluídos e circunstâncias habituais ou em curso no passado.",
+    "instruction": "Conjugue os três verbos entre parênteses no presente do indicativo, no pretérito perfeito simples e no pretérito imperfeito, respeitando a ordem indicada.",
+    "questions": [
+      {"question": "Atualmente, eu {{1}} (trabalhar) numa universidade, ontem {{2}} (participar) numa conferência e, durante os meus primeiros anos de carreira, {{3}} (ensinar) numa escola rural.", "reponses": ["trabalho", "participei", "ensinava"]},
+      {"question": "A Marta {{1}} (viver) em Lisboa, no mês passado {{2}} (visitar) o Porto e, quando era criança, {{3}} (passar) as férias no Alentejo.", "reponses": ["vive", "visitou", "passava"]},
+      {"question": "Nós {{1}} (dirigir) uma empresa tecnológica, na semana passada {{2}} (lançar) um produto e, anteriormente, {{3}} (desenvolver) apenas soluções para pequenas empresas.", "reponses": ["dirigimos", "lançámos", "desenvolvíamos"]},
+      {"question": "O investigador {{1}} (coordenar) um laboratório, ontem {{2}} (apresentar) os resultados e, durante o doutoramento, {{3}} (estudar) os efeitos das alterações climáticas.", "reponses": ["coordena", "apresentou", "estudava"]},
+      {"question": "Tu {{1}} (frequentar) um curso avançado, na semana passada {{2}} (concluir) um módulo e, no semestre anterior, {{3}} (preparar) um projeto de tradução.", "reponses": ["frequentas", "concluíste", "preparavas"]},
+      {"question": "Os médicos {{1}} (trabalhar) neste hospital, ontem {{2}} (realizar) uma intervenção e, antigamente, {{3}} (utilizar) equipamentos menos sofisticados.", "reponses": ["trabalham", "realizaram", "utilizavam"]},
+      {"question": "A empresa {{1}} (produzir) equipamentos médicos, no mês passado {{2}} (aumentar) as exportações e, há alguns anos, {{3}} (vender) sobretudo no mercado nacional.", "reponses": ["produz", "aumentou", "vendia"]},
+      {"question": "Eu {{1}} (acompanhar) as notícias internacionais, ontem {{2}} (publicar) um artigo e, durante a universidade, {{3}} (escrever) regularmente para o jornal académico.", "reponses": ["acompanho", "publiquei", "escrevia"]},
+      {"question": "Vocês {{1}} (participar) em conferências internacionais, na última semana {{2}} (apresentar) uma comunicação e, anteriormente, {{3}} (intervir) sobretudo em reuniões nacionais.", "reponses": ["participam", "apresentaram", "intervinham"]},
+      {"question": "A professora {{1}} (lecionar) português avançado, ontem {{2}} (organizar) uma atividade e, no início da carreira, {{3}} (recorrer) sobretudo a exercícios tradicionais.", "reponses": ["leciona", "organizou", "recorria"]}
+    ]
+  },
+  {
+    "id": "0057",
+    "titre": "Presente–Pretérito perfeito simples–Pretérito mais-que-perfeito composto",
+    "definition": "Combinação do presente do indicativo, do pretérito perfeito simples e do pretérito mais-que-perfeito composto.",
+    "instruction": "Conjuga os verbos entre parênteses nos tempos indicados, respeitando a ordem dos espaços.",
+    "questions": [
+      "Hoje eu {{1}} (trabalhar) aqui, mas ontem {{2}} (chegar) tarde porque já {{3}} (perder) o autocarro.",
+      "Ela {{1}} (morar) em Lisboa, mas no ano passado {{2}} (mudar-se) para o Porto depois de {{3}} (encontrar) um novo emprego.",
+      "Nós {{1}} (conhecer) bem esta cidade, porque {{2}} (visitar) muitos dos seus bairros depois de já {{3}} (estudar) a sua história.",
+      "O Pedro {{1}} (ser) muito organizado, mas ontem {{2}} (esquecer-se) da reunião porque {{3}} (anotar) a hora errada.",
+      "Atualmente, eles {{1}} (trabalhar) juntos, mas só {{2}} (começar) o projeto depois de {{3}} (receber) todas as instruções.",
+      "Eu {{1}} (saber) a resposta agora, mas ontem não a {{2}} (descobrir) porque ainda não {{3}} (ler) o documento.",
+      "A professora {{1}} (explicar) bem a matéria e ontem {{2}} (esclarecer) a dúvida que nós {{3}} (ter) na aula anterior.",
+      "Tu {{1}} (parecer) mais tranquilo hoje, embora ontem {{2}} (ficar) preocupado depois de {{3}} (ouvir) a notícia.",
+      "A empresa {{1}} (ter) bons resultados este ano e, no mês passado, {{2}} (assinar) um contrato depois de {{3}} (negociar) as condições.",
+      "Os alunos {{1}} (conhecer) as regras porque o professor já as {{2}} (explicar) quando eles {{3}} (chegar) à escola."
+    ],
+    "reponses": [
+      ["trabalho", "cheguei", "tinha perdido"],
+      ["mora", "mudou-se", "tinha encontrado"],
+      ["conhecemos", "visitámos", "tínhamos estudado"],
+      ["é", "esqueceu-se", "tinha anotado"],
+      ["trabalham", "começaram", "tinham recebido"],
+      ["sei", "descobri", "tinha lido"],
+      ["explica", "esclareceu", "tínhamos tido"],
+      ["pareces", "ficaste", "tinhas ouvido"],
+      ["tem", "assinou", "tinha negociado"],
+      ["conhecem", "tinha explicado", "chegaram"]
+    ]
+  },
+  {
+    "id": "0058",
+    "titre": "Presente–Futuro do presente–Futuro do presente composto",
+    "definition": "Combinação do presente do indicativo, do futuro simples e do futuro composto do indicativo.",
+    "instruction": "Conjuga os verbos entre parênteses no presente, no futuro simples ou no futuro composto, conforme a ordem dos espaços.",
+    "questions": [
+      "A Rita {{1}} (trabalhar) em casa hoje; amanhã {{2}} (ir) ao escritório e, até sexta-feira, {{3}} (terminar) o relatório.",
+      "Nós {{1}} (estudar) português todos os dias; no próximo mês {{2}} (fazer) o exame e, nessa altura, já {{3}} (rever) toda a matéria.",
+      "O comboio {{1}} (partir) às oito; amanhã {{2}} (chegar) mais cedo e, quando tu entrares, já {{3}} (sair).",
+      "Eu {{1}} (preparar) o jantar habitualmente; amanhã {{2}} (cozinhar) para todos e, quando chegarem, já {{3}} (pôr) a mesa.",
+      "Eles {{1}} (viver) em Coimbra; no próximo ano {{2}} (mudar-se) para Braga e, nessa altura, já {{3}} (vender) a casa.",
+      "A equipa {{1}} (treinar) três vezes por semana; no sábado {{2}} (disputar) a final e, até lá, {{3}} (praticar) todas as jogadas.",
+      "Tu {{1}} (receber) muitos emails; amanhã {{2}} (responder) aos mais urgentes e, ao fim do dia, {{3}} (tratar) dos restantes.",
+      "A empresa {{1}} (desenvolver) novas soluções; no próximo ano {{2}} (lançar) outro produto e, nessa altura, já {{3}} (testar) todas as funcionalidades.",
+      "Nós {{1}} (organizar) eventos culturais; no verão {{2}} (promover) um festival e, antes da abertura, {{3}} (contratar) todos os técnicos.",
+      "O médico {{1}} (atender) os doentes de manhã; amanhã {{2}} (começar) mais cedo e, ao meio-dia, já {{3}} (examinar) todos os pacientes marcados."
+    ],
+    "reponses": [
+      ["trabalha", "irá", "terá terminado"],
+      ["estudamos", "faremos", "teremos revisto"],
+      ["parte", "chegará", "terá saído"],
+      ["preparo", "cozinharei", "terei posto"],
+      ["vivem", "mudar-se-ão", "terão vendido"],
+      ["treina", "disputará", "terá praticado"],
+      ["recebes", "responderás", "terás tratado"],
+      ["desenvolve", "lançará", "terá testado"],
+      ["organizamos", "promoveremos", "teremos contratado"],
+      ["atende", "começará", "terá examinado"]
+    ]
+  },
+  {
+    "id": "0059",
+    "titre": "Presente–Condicional–Condicional composto",
+    "definition": "Combinação do presente do indicativo, do condicional simples e do condicional composto.",
+    "instruction": "Conjuga os verbos entre parênteses nos tempos indicados, tendo em conta as hipóteses e as situações imaginadas.",
+    "questions": [
+      "Eu {{1}} (viver) perto do trabalho; com mais tempo, {{2}} (caminhar) todos os dias e, se tivesse começado antes, {{3}} (melhorar) a minha resistência.",
+      "A Marta {{1}} (gostar) de viajar; com mais férias, {{2}} (visitar) o Japão e, se tivesse poupado dinheiro, {{3}} (reservar) a viagem no ano passado.",
+      "Nós {{1}} (ter) interesse em história; com mais tempo, {{2}} (visitar) os museus e, se tivéssemos organizado melhor o programa, {{3}} (conhecer) também os monumentos.",
+      "O Rui {{1}} (preferir) trabalhar de manhã; se pudesse escolher, {{2}} (começar) às sete e, se tivesse recebido autorização, {{3}} (alterar) o horário no mês passado.",
+      "Eles {{1}} (precisar) de mais espaço; com um orçamento maior, {{2}} (alugar) um escritório novo e, se tivessem encontrado uma boa oportunidade, {{3}} (mudar-se) no verão.",
+      "Eu {{1}} (querer) aprender alemão; com aulas adequadas, {{2}} (progredir) rapidamente e, se tivesse praticado mais, {{3}} (atingir) um nível superior.",
+      "A equipa {{1}} (merecer) reconhecimento; com melhor apoio, {{2}} (alcançar) mais resultados e, se tivesse recebido os recursos necessários, {{3}} (concluir) o projeto mais cedo.",
+      "Tu {{1}} (poder) ajudar-nos; se tivesses disponibilidade, {{2}} (participar) na reunião e, se tivesses recebido o convite a tempo, {{3}} (preparar) uma apresentação.",
+      "A empresa {{1}} (beneficiar) de uma reorganização; com outro plano, {{2}} (reduzir) os custos e, se tivesse previsto a crise, {{3}} (evitar) algumas despesas.",
+      "Nós {{1}} (preferir) ficar em casa; com este tempo, {{2}} (ver) um filme e, se tivéssemos comprado os bilhetes antes, {{3}} (assistir) ao espetáculo ontem."
+    ],
+    "reponses": [
+      ["vivo", "caminharia", "teria melhorado"],
+      ["gosta", "visitaria", "teria reservado"],
+      ["temos", "visitaríamos", "teríamos conhecido"],
+      ["prefere", "começaria", "teria alterado"],
+      ["precisam", "alugariam", "teriam mudado"],
+      ["quero", "progrediria", "teria atingido"],
+      ["merece", "alcançaria", "teria concluído"],
+      ["podes", "participarias", "terias preparado"],
+      ["beneficia", "reduziria", "teria evitado"],
+      ["preferimos", "veríamos", "teríamos assistido"]
+    ]
+  },
+  {
+    "id": "0060",
+    "titre": "Presente–Presente do conjuntivo–Pretérito perfeito do conjuntivo",
+    "definition": "Combinação do presente do indicativo, do presente do conjuntivo e do pretérito perfeito do conjuntivo.",
+    "instruction": "Completa as frases com a forma correta do verbo, distinguindo o presente do conjuntivo do pretérito perfeito do conjuntivo.",
+    "questions": [
+      "A professora {{1}} (esperar) que os alunos {{2}} (estudar) regularmente e que já {{3}} (fazer) os exercícios propostos.",
+      "Eu {{1}} (querer) que tu {{2}} (vir) à reunião e que {{3}} (ler) o relatório antes de chegares.",
+      "É importante que nós {{1}} (compreender) o problema e que {{2}} (encontrar) uma solução que {{3}} (resolver) a situação.",
+      "O diretor {{1}} (exigir) que a equipa {{2}} (cumprir) os prazos e que {{3}} (entregar) os documentos necessários.",
+      "A Ana {{1}} (duvidar) que eles {{2}} (saber) a resposta e que já {{3}} (consultar) todas as fontes.",
+      "Nós {{1}} (desejar) que o projeto {{2}} (avançar) sem dificuldades e que os responsáveis {{3}} (resolver) os problemas iniciais.",
+      "O médico {{1}} (recomendar) que tu {{2}} (descansar) e que {{3}} (tomar) a medicação conforme as indicações.",
+      "É possível que a empresa {{1}} (precisar) de apoio e que já {{2}} (pedir) ajuda aos seus parceiros.",
+      "A minha mãe {{1}} (preferir) que eu {{2}} (ficar) em casa e que {{3}} (terminar) o trabalho antes do jantar.",
+      "O professor {{1}} (insistir) em que todos {{2}} (participar) e que cada grupo {{3}} (preparar) a sua apresentação."
+    ],
+    "reponses": [
+      ["espera", "estudem", "tenham feito"],
+      ["quero", "venhas", "tenhas lido"],
+      ["é", "encontremos", "tenha resolvido"],
+      ["exige", "cumpra", "tenha entregado"],
+      ["duvida", "saibam", "tenham consultado"],
+      ["desejamos", "avance", "tenham resolvido"],
+      ["recomenda", "descanses", "tenhas tomado"],
+      ["é", "precise", "tenha pedido"],
+      ["prefere", "fique", "tenha terminado"],
+      ["insiste", "participe", "tenha preparado"]
+    ]
+  },
+  {
+    "id": "0061",
+    "titre": "Presente–Futuro do presente–Condicional",
+    "definition": "Combinação do presente do indicativo, do futuro simples e do condicional simples.",
+    "instruction": "Conjuga os verbos entre parênteses de acordo com o contexto presente, futuro ou hipotético.",
+    "questions": [
+      "Eu {{1}} (trabalhar) numa escola; no próximo ano {{2}} (ensinar) outra disciplina e, com mais recursos, {{3}} (organizar) atividades adicionais.",
+      "A Sofia {{1}} (viver) no Porto; em setembro {{2}} (mudar-se) para Lisboa e, se pudesse escolher, {{3}} (continuar) na mesma cidade.",
+      "Nós {{1}} (estudar) informática; no próximo semestre {{2}} (desenvolver) uma aplicação e, com mais tempo, {{3}} (testar) mais funcionalidades.",
+      "O João {{1}} (fazer) exercício regularmente; amanhã {{2}} (participar) numa corrida e, com melhor preparação, {{3}} (conseguir) um resultado superior.",
+      "Eles {{1}} (gerir) uma pequena empresa; no próximo ano {{2}} (abrir) uma nova loja e, com mais financiamento, {{3}} (contratar) mais trabalhadores.",
+      "Tu {{1}} (conhecer) bem a região; amanhã {{2}} (acompanhar) os visitantes e, se tivesses um carro, {{3}} (mostrar) também as aldeias mais distantes.",
+      "A equipa {{1}} (precisar) de treinar mais; na próxima semana {{2}} (jogar) a meia-final e, com melhores condições, {{3}} (preparar) melhor a estratégia.",
+      "Eu {{1}} (preferir) os transportes públicos; amanhã {{2}} (apanhar) o comboio e, se houvesse uma ligação direta, {{3}} (chegar) mais cedo.",
+      "A universidade {{1}} (oferecer) vários cursos; no próximo ano {{2}} (criar) um novo programa e, com mais docentes, {{3}} (aumentar) o número de vagas.",
+      "Nós {{1}} (organizar) conferências; em junho {{2}} (realizar) um encontro internacional e, com um orçamento maior, {{3}} (convidar) mais oradores."
+    ],
+    "reponses": [
+      ["trabalho", "ensinarei", "organizaria"],
+      ["vive", "mudar-se-á", "continuaria"],
+      ["estudamos", "desenvolveremos", "testaríamos"],
+      ["faz", "participará", "conseguiria"],
+      ["gerem", "abrirão", "contratariam"],
+      ["conheces", "acompanharás", "mostrarias"],
+      ["precisa", "jogará", "prepararia"],
+      ["prefiro", "apanharei", "chegaria"],
+      ["oferece", "criará", "aumentaria"],
+      ["organizamos", "realizaremos", "convidaríamos"]
+    ]
+  },
+  {
+    "id": "0062",
+    "titre": "Presente–Pretérito perfeito composto–Futuro do presente",
+    "definition": "Combinação do presente do indicativo, do pretérito perfeito composto e do futuro simples.",
+    "instruction": "Completa as frases com o tempo verbal adequado, respeitando a ordem dos espaços.",
+    "questions": [
+      "Eu {{1}} (trabalhar) nesta empresa e {{2}} (participar) em vários projetos este ano; no próximo mês {{3}} (assumir) novas responsabilidades.",
+      "A Rita {{1}} (estudar) português e {{2}} (praticar) a pronúncia diariamente; em breve {{3}} (fazer) o exame oficial.",
+      "Nós {{1}} (viver) em Coimbra e {{2}} (procurar) uma casa maior nos últimos meses; no verão {{3}} (mudar-nos).",
+      "O departamento {{1}} (desenvolver) novos serviços e {{2}} (receber) muitas sugestões; no próximo trimestre {{3}} (lançar) uma nova plataforma.",
+      "Tu {{1}} (treinar) com regularidade e {{2}} (melhorar) o teu desempenho; na próxima competição {{3}} (representar) o clube.",
+      "Eles {{1}} (gerir) o restaurante e {{2}} (experimentar) novas receitas ultimamente; amanhã {{3}} (apresentar) um menu diferente.",
+      "A universidade {{1}} (promover) investigação e {{2}} (estabelecer) novas parcerias; no próximo ano {{3}} (abrir) um laboratório.",
+      "Eu {{1}} (ler) obras portuguesas e {{2}} (descobrir) autores contemporâneos; em breve {{3}} (escrever) uma crítica literária.",
+      "Nós {{1}} (acompanhar) o mercado e {{2}} (analisar) as tendências recentes; na próxima reunião {{3}} (apresentar) as conclusões.",
+      "A equipa {{1}} (trabalhar) em conjunto e {{2}} (resolver) vários problemas; amanhã {{3}} (concluir) a última fase."
+    ],
+    "reponses": [
+      ["trabalho", "tenho participado", "assumirei"],
+      ["estuda", "tem praticado", "fará"],
+      ["vivemos", "temos procurado", "mudar-nos-emos"],
+      ["desenvolve", "tem recebido", "lançará"],
+      ["treinas", "tens melhorado", "representarás"],
+      ["gerem", "têm experimentado", "apresentarão"],
+      ["promove", "tem estabelecido", "abrirá"],
+      ["leio", "tenho descoberto", "escreverei"],
+      ["acompanhamos", "temos analisado", "apresentaremos"],
+      ["trabalha", "tem resolvido", "concluirá"]
+    ]
+  },
+  {
+    "id": "0063",
+    "titre": "Pretérito perfeito composto–Pretérito imperfeito–Pretérito mais-que-perfeito composto",
+    "definition": "Combinação do pretérito perfeito composto, do pretérito imperfeito e do pretérito mais-que-perfeito composto.",
+    "instruction": "Conjuga os verbos de acordo com a continuidade recente, a descrição do passado e a anterioridade de uma ação passada.",
+    "questions": [
+      "Ultimamente, eu {{1}} (visitar) os meus avós, que {{2}} (viver) numa aldeia onde já {{3}} (passar) a minha infância.",
+      "Nós {{1}} (estudar) muito este semestre; quando éramos crianças, {{2}} (aprender) juntos e já {{3}} (frequentar) a mesma escola antes de nos separarmos.",
+      "A equipa {{1}} (trabalhar) intensamente; o ambiente {{2}} (ser) difícil porque a empresa {{3}} (perder) um cliente importante.",
+      "A Ana {{1}} (receber) várias propostas; na altura, {{2}} (procurar) emprego porque {{3}} (terminar) o curso recentemente.",
+      "Eles {{1}} (fazer) muitas perguntas; durante a reunião, o diretor {{2}} (explicar) o plano que a direção {{3}} (aprovar) na semana anterior.",
+      "Eu {{1}} (ler) vários artigos sobre o tema; antes, {{2}} (pensar) de outra forma porque nunca {{3}} (examinar) os dados com atenção.",
+      "Os alunos {{1}} (preparar) trabalhos excelentes; no início do ano, {{2}} (sentir-se) inseguros porque ainda não {{3}} (realizar) projetos semelhantes.",
+      "A empresa {{1}} (investir) em tecnologia; anteriormente, {{2}} (utilizar) sistemas antigos que já {{3}} (deixar) de funcionar corretamente.",
+      "Tu {{1}} (falar) muito sobre a viagem; quando nos conhecemos, {{2}} (sonhar) com destinos que nunca {{3}} (visitar).",
+      "Nós {{1}} (receber) notícias dos antigos colegas; na escola, {{2}} (conviver) diariamente com pessoas que já {{3}} (mudar) de cidade quando terminámos os estudos."
+    ],
+    "reponses": [
+      ["tenho visitado", "viviam", "tinha passado"],
+      ["temos estudado", "aprendíamos", "tínhamos frequentado"],
+      ["tem trabalhado", "era", "tinha perdido"],
+      ["tem recebido", "procurava", "tinha terminado"],
+      ["têm feito", "explicava", "tinha aprovado"],
+      ["tenho lido", "pensava", "tinha examinado"],
+      ["têm preparado", "sentiam-se", "tinham realizado"],
+      ["tem investido", "utilizava", "tinham deixado"],
+      ["tens falado", "sonhava", "tinha visitado"],
+      ["temos recebido", "convivíamos", "tinham mudado"]
+    ]
+  },
+  {
+    "id": "0064",
+    "titre": "Pretérito perfeito composto–Pretérito imperfeito–Pretérito perfeito simples",
+    "definition": "Combinação do pretérito perfeito composto, do pretérito imperfeito e do pretérito perfeito simples.",
+    "instruction": "Completa cada frase com a forma correta dos verbos, distinguindo ações recentes repetidas, situações passadas e acontecimentos concluídos.",
+    "questions": [
+      "Ultimamente, eu {{1}} (trabalhar) muito; antigamente, {{2}} (ter) mais tempo livre e ontem {{3}} (descansar) durante a tarde.",
+      "Nós {{1}} (visitar) várias exposições este mês; quando éramos estudantes, {{2}} (ir) frequentemente a museus e ontem {{3}} (descobrir) uma galeria nova.",
+      "A Marta {{1}} (ler) muitos romances ultimamente; em criança, {{2}} (preferir) os contos e na semana passada {{3}} (comprar) um livro histórico.",
+      "Eles {{1}} (fazer) muitas reuniões este trimestre; antes, {{2}} (comunicar) sobretudo por email e ontem {{3}} (decidir) alterar o calendário.",
+      "Tu {{1}} (treinar) regularmente nas últimas semanas; no passado, {{2}} (praticar) outro desporto e sábado {{3}} (participar) numa competição.",
+      "A empresa {{1}} (receber) muitas encomendas recentemente; há alguns anos, {{2}} (vender) apenas no mercado nacional e ontem {{3}} (assinar) um contrato internacional.",
+      "Eu {{1}} (estudar) bastante para este exame; na escola, {{2}} (gostar) sobretudo de ciências e ontem {{3}} (terminar) a revisão final.",
+      "Os investigadores {{1}} (publicar) vários artigos este ano; anteriormente, {{2}} (trabalhar) em áreas diferentes e no mês passado {{3}} (apresentar) uma nova hipótese.",
+      "Nós {{1}} (receber) visitas com frequência; quando vivíamos no campo, {{2}} (convidar) os vizinhos para jantar e ontem {{3}} (organizar) uma festa.",
+      "A professora {{1}} (propor) várias atividades este período; antigamente, {{2}} (usar) exercícios mais tradicionais e na aula passada {{3}} (introduzir) um método novo."
+    ],
+    "reponses": [
+      ["tenho trabalhado", "tinha", "descansei"],
+      ["temos visitado", "íamos", "descobrimos"],
+      ["tem lido", "preferia", "comprou"],
+      ["têm feito", "comunicavam", "decidiram"],
+      ["tens treinado", "praticavas", "participaste"],
+      ["tem recebido", "vendia", "assinou"],
+      ["tenho estudado", "gostava", "terminei"],
+      ["têm publicado", "trabalhavam", "apresentaram"],
+      ["temos recebido", "convidávamos", "organizámos"],
+      ["tem proposto", "usava", "introduziu"]
+    ]
+  },
+  {
+    "id": "0065",
+    "titre": "Pretérito perfeito composto–Pretérito mais-que-perfeito composto–Futuro do presente",
+    "definition": "Combinação do pretérito perfeito composto, do pretérito mais-que-perfeito composto e do futuro simples.",
+    "instruction": "Conjuga os verbos nos três tempos indicados, relacionando ações recentes, acontecimentos anteriores e previsões futuras.",
+    "questions": [
+      "A equipa {{1}} (trabalhar) intensamente este mês; já {{2}} (concluir) a primeira fase antes da revisão e amanhã {{3}} (apresentar) os resultados.",
+      "Eu {{1}} (estudar) português com regularidade; já {{2}} (aprender) algumas expressões antes de chegar a Lisboa e no próximo ano {{3}} (fazer) um exame avançado.",
+      "A empresa {{1}} (desenvolver) novas ferramentas; já {{2}} (testar) um protótipo antes da última reunião e em breve {{3}} (lançar) o produto.",
+      "Nós {{1}} (procurar) uma casa há vários meses; já {{2}} (visitar) três apartamentos antes de encontrar esta zona e na próxima semana {{3}} (tomar) uma decisão.",
+      "Os investigadores {{1}} (analisar) os dados recentemente; já {{2}} (identificar) um padrão antes de receberem os últimos resultados e amanhã {{3}} (publicar) uma nota preliminar.",
+      "Tu {{1}} (ler) várias obras deste autor; já {{2}} (conhecer) o seu primeiro romance antes de começares o segundo e no próximo mês {{3}} (participar) num debate literário.",
+      "A organização {{1}} (preparar) o congresso durante semanas; já {{2}} (reservar) o espaço antes de confirmar os oradores e amanhã {{3}} (divulgar) o programa.",
+      "Eles {{1}} (negociar) com vários fornecedores; já {{2}} (comparar) os preços antes de receberem a proposta final e na sexta-feira {{3}} (assinar) o contrato.",
+      "A médica {{1}} (acompanhar) muitos pacientes este ano; já {{2}} (avaliar) os sintomas antes de pedir os exames e amanhã {{3}} (discutir) os resultados com a equipa.",
+      "Nós {{1}} (organizar) diversos eventos; já {{2}} (definir) o orçamento antes de escolher o local e no próximo semestre {{3}} (promover) outra conferência."
+    ],
+    "reponses": [
+      ["tem trabalhado", "tinha concluído", "apresentará"],
+      ["tenho estudado", "tinha aprendido", "farei"],
+      ["tem desenvolvido", "tinha testado", "lançará"],
+      ["temos procurado", "tínhamos visitado", "tomaremos"],
+      ["têm analisado", "tinham identificado", "publicarão"],
+      ["tens lido", "tinhas conhecido", "participarás"],
+      ["tem preparado", "tinha reservado", "divulgará"],
+      ["têm negociado", "tinham comparado", "assinarão"],
+      ["tem acompanhado", "tinha avaliado", "discutirá"],
+      ["temos organizado", "tínhamos definido", "promoveremos"]
+    ]
+  },
+  {
+    "id": "0066",
+    "titre": "Pretérito perfeito composto–Futuro do presente–Futuro do presente composto",
+    "definition": "Combinação do pretérito perfeito composto, do futuro simples e do futuro composto do indicativo.",
+    "instruction": "Completa as frases com os tempos indicados, prestando atenção ao que tem acontecido, ao que acontecerá e ao que já estará concluído.",
+    "questions": [
+      "Nós {{1}} (preparar) a conferência há semanas; amanhã {{2}} (receber) os convidados e, ao meio-dia, já {{3}} (iniciar) as sessões.",
+      "A empresa {{1}} (rever) os seus procedimentos; no próximo mês {{2}} (implementar) as mudanças e, até ao final do ano, {{3}} (avaliar) os resultados.",
+      "Eu {{1}} (estudar) para o exame; na próxima sexta-feira {{2}} (realizar) a prova e, nessa altura, já {{3}} (rever) todos os capítulos.",
+      "Eles {{1}} (construir) a nova ponte há vários meses; no verão {{2}} (abrir) a estrada e, nessa data, {{3}} (concluir) os trabalhos principais.",
+      "A equipa {{1}} (treinar) diariamente; amanhã {{2}} (disputar) a final e, antes do apito final, já {{3}} (jogar) os minutos regulamentares.",
+      "Tu {{1}} (tratar) dos documentos necessários; amanhã {{2}} (entregar) o pedido e, até ao fim da semana, {{3}} (receber) uma resposta.",
+      "A universidade {{1}} (organizar) cursos online; no próximo semestre {{2}} (abrir) novas turmas e, até dezembro, {{3}} (formar) centenas de participantes.",
+      "Nós {{1}} (negociar) com os parceiros; na próxima reunião {{2}} (definir) os termos finais e, antes do verão, {{3}} (assinar) o acordo.",
+      "O escritor {{1}} (trabalhar) no novo romance; em novembro {{2}} (entregar) o manuscrito e, até ao fim do ano, {{3}} (rever) as provas.",
+      "Os técnicos {{1}} (instalar) o sistema por etapas; amanhã {{2}} (ativar) a última função e, ao final do dia, {{3}} (testar) todos os componentes."
+    ],
+    "reponses": [
+      ["temos preparado", "receberemos", "terá iniciado"],
+      ["tem revisto", "implementará", "terá avaliado"],
+      ["tenho estudado", "realizarei", "terei revisto"],
+      ["têm construído", "abrirão", "terão concluído"],
+      ["tem treinado", "disputará", "terá jogado"],
+      ["tens tratado", "entregarás", "terás recebido"],
+      ["tem organizado", "abrirá", "terá formado"],
+      ["temos negociado", "definiremos", "teremos assinado"],
+      ["tem trabalhado", "entregará", "terá revisto"],
+      ["têm instalado", "ativarão", "terão testado"]
+    ]
+  },
+  {
+    "id": "0067",
+    "titre": "Pretérito perfeito composto–Condicional–Condicional composto",
+    "definition": "Combinação do pretérito perfeito composto, do condicional simples e do condicional composto.",
+    "instruction": "Conjuga os verbos nos tempos indicados, distinguindo situações recentes, hipóteses e resultados hipotéticos no passado.",
+    "questions": [
+      "Eu {{1}} (trabalhar) muito ultimamente; com mais tempo, {{2}} (descansar) melhor e, se tivesse tirado férias, {{3}} (recuperar) as energias.",
+      "A Marta {{1}} (estudar) bastante este ano; com mais apoio, {{2}} (progredir) ainda mais e, se tivesse recebido orientação antes, {{3}} (evitar) alguns erros.",
+      "Nós {{1}} (procurar) soluções há semanas; com mais recursos, {{2}} (experimentar) outras opções e, se tivéssemos começado mais cedo, {{3}} (resolver) o problema.",
+      "A empresa {{1}} (investir) em formação recentemente; com um orçamento maior, {{2}} (oferecer) mais cursos e, se tivesse previsto a procura, {{3}} (contratar) mais formadores.",
+      "Tu {{1}} (ler) muitos artigos sobre o tema; com mais tempo, {{2}} (investigar) outras fontes e, se tivesses começado antes, {{3}} (escrever) o trabalho mais cedo.",
+      "Os investigadores {{1}} (recolher) dados durante meses; com outro equipamento, {{2}} (medir) mais variáveis e, se tivessem obtido financiamento, {{3}} (alargar) o estudo.",
+      "Nós {{1}} (organizar) várias atividades; com uma equipa maior, {{2}} (aceitar) mais participantes e, se tivéssemos recebido as inscrições antes, {{3}} (preparar) tudo com mais calma.",
+      "A equipa {{1}} (treinar) intensamente; com melhores condições, {{2}} (alcançar) resultados superiores e, se tivesse evitado as lesões, {{3}} (ganhar) mais jogos.",
+      "Eu {{1}} (aprender) novas técnicas; com mais prática, {{2}} (executar) os exercícios com facilidade e, se tivesse tido aulas mais cedo, {{3}} (dominar) o método antes.",
+      "A direção {{1}} (analisar) várias propostas; com mais informação, {{2}} (escolher) outra estratégia e, se tivesse consultado os funcionários, {{3}} (tomar) uma decisão diferente."
+    ],
+    "reponses": [
+      ["tenho trabalhado", "descansaria", "teria recuperado"],
+      ["tem estudado", "progrediria", "teria evitado"],
+      ["temos procurado", "experimentaríamos", "teríamos resolvido"],
+      ["tem investido", "ofereceria", "teria contratado"],
+      ["tens lido", "investigarias", "terias escrito"],
+      ["têm recolhido", "mediriam", "teriam alargado"],
+      ["temos organizado", "aceitaríamos", "teríamos preparado"],
+      ["tem treinado", "alcançaria", "teria ganho"],
+      ["tenho aprendido", "executaria", "teria dominado"],
+      ["tem analisado", "escolheria", "teria tomado"]
+    ]
+  },
+  {
+    "id": "0068",
+    "titre": "Pretérito perfeito composto–Presente do conjuntivo–Pretérito perfeito do conjuntivo",
+    "definition": "Combinação do pretérito perfeito composto, do presente do conjuntivo e do pretérito perfeito do conjuntivo.",
+    "instruction": "Completa as frases usando o presente do conjuntivo ou o pretérito perfeito do conjuntivo, conforme o sentido.",
+    "questions": [
+      "A equipa {{1}} (trabalhar) muito ultimamente; é essencial que todos {{2}} (colaborar) e que já {{3}} (cumprir) as tarefas prioritárias.",
+      "Eu {{1}} (receber) várias propostas; espero que a direção {{2}} (escolher) a melhor e que já {{3}} (analisar) os custos.",
+      "Os alunos {{1}} (estudar) bastante; a professora quer que {{2}} (participar) nas discussões e que {{3}} (entregar) os trabalhos a tempo.",
+      "A empresa {{1}} (procurar) novos parceiros; é importante que os candidatos {{2}} (apresentar) referências e que {{3}} (demonstrar) experiência relevante.",
+      "Nós {{1}} (preparar) a exposição; o diretor deseja que o público {{2}} (compreender) o tema e que os guias {{3}} (receber) formação adequada.",
+      "Tu {{1}} (melhorar) a tua escrita; recomendo que {{2}} (continuar) a praticar e que {{3}} (ler) os comentários do professor.",
+      "Os médicos {{1}} (acompanhar) muitos pacientes; é necessário que cada pessoa {{2}} (seguir) as recomendações e que {{3}} (realizar) os exames pedidos.",
+      "A organização {{1}} (promover) várias iniciativas; esperamos que os voluntários {{2}} (comparecer) e que {{3}} (confirmar) a sua disponibilidade.",
+      "Eu {{1}} (falar) com os responsáveis; é possível que eles {{2}} (aceitar) a proposta e que já {{3}} (consultar) os departamentos envolvidos.",
+      "Nós {{1}} (resolver) vários problemas; é fundamental que todos {{2}} (manter) a calma e que {{3}} (identificar) as causas principais."
+    ],
+    "reponses": [
+      ["tem trabalhado", "colaborem", "tenham cumprido"],
+      ["tenho recebido", "escolha", "tenha analisado"],
+      ["têm estudado", "participem", "tenham entregado"],
+      ["tem procurado", "apresentem", "tenham demonstrado"],
+      ["temos preparado", "compreenda", "tenham recebido"],
+      ["tens melhorado", "continues", "tenhas lido"],
+      ["têm acompanhado", "siga", "tenha realizado"],
+      ["tem promovido", "compareçam", "tenham confirmado"],
+      ["tenho falado", "aceitem", "tenham consultado"],
+      ["temos resolvido", "mantenham", "tenham identificado"]
+    ]
+  },
+  {
+    "id": "0069",
+    "titre": "Pretérito imperfeito–Pretérito mais-que-perfeito composto–Pretérito perfeito simples",
+    "definition": "Combinação do pretérito imperfeito, do pretérito mais-que-perfeito composto e do pretérito perfeito simples.",
+    "instruction": "Conjuga os verbos nos tempos indicados, distinguindo o contexto passado, a ação anterior e o acontecimento concluído.",
+    "questions": [
+      "Eu {{1}} (trabalhar) numa livraria quando {{2}} (terminar) o curso e, nesse mesmo ano, {{3}} (mudar) de cidade.",
+      "A Ana {{1}} (estar) cansada porque {{2}} (dormir) pouco e, por isso, {{3}} (cancelar) o treino.",
+      "Nós {{1}} (esperar) pelo comboio, que {{2}} (partir) antes da hora prevista, e finalmente {{3}} (apanhar) um autocarro.",
+      "Os alunos {{1}} (rever) a matéria que {{2}} (estudar) na semana anterior e depois {{3}} (resolver) o teste.",
+      "O diretor {{1}} (parecer) satisfeito porque a equipa {{2}} (concluir) o projeto e {{3}} (elogiar) os colaboradores.",
+      "Tu {{1}} (procurar) as chaves que {{2}} (deixar) sobre a mesa e finalmente {{3}} (encontrá-las) na entrada.",
+      "A empresa {{1}} (enfrentar) dificuldades porque {{2}} (perder) um cliente importante e, no fim, {{3}} (reorganizar) os seus serviços.",
+      "Nós {{1}} (conhecer) bem o bairro onde {{2}} (viver) durante anos e, no sábado, {{3}} (visitar) os antigos vizinhos.",
+      "O Pedro {{1}} (sentir-se) aliviado porque {{2}} (entregar) o relatório e finalmente {{3}} (poder) descansar.",
+      "Os investigadores {{1}} (analisar) os resultados que {{2}} (obter) no laboratório e depois {{3}} (publicar) as conclusões."
+    ],
+    "reponses": [
+      ["trabalhava", "tinha terminado", "mudou"],
+      ["estava", "tinha dormido", "cancelou"],
+      ["esperávamos", "tinha partido", "apanhámos"],
+      ["reviam", "tinham estudado", "resolveram"],
+      ["parecia", "tinha concluído", "elogiou"],
+      ["procuravas", "tinhas deixado", "encontraste-as"],
+      ["enfrentava", "tinha perdido", "reorganizou"],
+      ["conhecíamos", "tínhamos vivido", "visitámos"],
+      ["sentia-se", "tinha entregado", "pôde"],
+      ["analisavam", "tinham obtido", "publicaram"]
+    ]
+  },
+  {
+    "id": "0070",
+    "titre": "Pretérito imperfeito–Pretérito perfeito simples–Pretérito anterior",
+    "definition": "Combinação do pretérito imperfeito, do pretérito perfeito simples e do pretérito anterior, este último de uso raro e sobretudo literário.",
+    "instruction": "Completa as frases. Para o pretérito anterior, usa ter ou haver no pretérito perfeito simples seguido do particípio passado.",
+    "questions": [
+      "Eu {{1}} (ler) tranquilamente quando o telefone {{2}} (tocar); mal {{3}} (terminar) a chamada, voltei ao livro.",
+      "A equipa {{1}} (esperar) pelo sinal; o árbitro {{2}} (apitar) e, assim que {{3}} (dar) o sinal de partida, os atletas começaram a correr.",
+      "Nós {{1}} (conversar) na sala quando a reunião {{2}} (acabar); logo que {{3}} (arrumar) os documentos, saímos do edifício.",
+      "A Maria {{1}} (preparar) o jantar quando os convidados {{2}} (chegar); assim que {{3}} (servir) a entrada, todos se sentaram à mesa.",
+      "Os alunos {{1}} (fazer) o teste quando o professor {{2}} (anunciar) o fim; mal {{3}} (recolher) as folhas, saiu da sala.",
+      "Eu {{1}} (trabalhar) no relatório quando o computador {{2}} (desligar-se); assim que {{3}} (reiniciar) o sistema, continuei o trabalho.",
+      "O público {{1}} (aguardar) em silêncio quando o espetáculo {{2}} (começar); logo que {{3}} (terminar) a primeira cena, ouviu-se um aplauso.",
+      "Nós {{1}} (caminhar) junto ao rio quando a chuva {{2}} (começar); assim que {{3}} (encontrar) abrigo, esperámos que o tempo melhorasse.",
+      "A secretária {{1}} (organizar) os ficheiros quando o diretor {{2}} (entrar); mal {{3}} (entregar) os documentos, regressou ao seu lugar.",
+      "Os técnicos {{1}} (verificar) o equipamento quando o alarme {{2}} (soar); assim que {{3}} (desligar) o sistema, começaram a inspeção."
+    ],
+    "reponses": [
+      ["lia", "tocou", "tive terminado"],
+      ["esperava", "apitou", "teve dado"],
+      ["conversávamos", "acabou", "tivemos arrumado"],
+      ["preparava", "chegaram", "teve servido"],
+      ["faziam", "anunciou", "teve recolhido"],
+      ["trabalhava", "desligou-se", "tive reiniciado"],
+      ["aguardava", "começou", "teve terminado"],
+      ["caminhávamos", "começou", "tivemos encontrado"],
+      ["organizava", "entrou", "teve entregado"],
+      ["verificavam", "soou", "tiveram desligado"]
+    ]
+  },
+  {
+    "id": "0071",
+    "titre": "Pretérito imperfeito–Pretérito mais-que-perfeito composto–Condicional",
+    "definition": "Combinação do pretérito imperfeito, do pretérito mais-que-perfeito composto e do condicional simples.",
+    "instruction": "Completa as frases com o imperfeito para o contexto passado, o mais-que-perfeito composto para a ação anterior e o condicional para a consequência hipotética.",
+    "questions": [
+      "Eu {{1}} (viver) perto da estação; se {{2}} (comprar) um passe mensal, {{3}} (poupar) dinheiro nas deslocações.",
+      "A Marta {{1}} (estar) mais tranquila porque {{2}} (preparar) tudo com antecedência e, sem essa preparação, {{3}} (sentir-se) mais nervosa.",
+      "Nós {{1}} (querer) visitar o museu; como {{2}} (reservar) os bilhetes, {{3}} (poder) entrar sem esperar.",
+      "O João {{1}} (ter) dificuldades no início porque {{2}} (faltar) às primeiras aulas; com mais acompanhamento, {{3}} (progredir) mais depressa.",
+      "Eles {{1}} (trabalhar) melhor quando {{2}} (definir) claramente as tarefas e, sem esse plano, {{3}} (perder) mais tempo.",
+      "Tu {{1}} (conhecer) a cidade porque {{2}} (estudar) o mapa antes da viagem; sem essa preparação, {{3}} (precisar) de ajuda.",
+      "A empresa {{1}} (enfrentar) menos problemas porque {{2}} (instalar) um sistema de segurança e, sem ele, {{3}} (correr) mais riscos.",
+      "Nós {{1}} (sentir-se) confiantes porque {{2}} (ensaiar) a apresentação várias vezes; sem os ensaios, {{3}} (cometer) mais erros.",
+      "A professora {{1}} (estar) satisfeita porque os alunos {{2}} (entregar) os trabalhos a tempo e, sem essa pontualidade, {{3}} (adiar) a avaliação.",
+      "O projeto {{1}} (avançar) rapidamente porque a equipa {{2}} (resolver) os problemas iniciais; sem essa intervenção, {{3}} (demorar) mais."
+    ],
+    "reponses": [
+      ["vivia", "tivesse comprado", "pouparia"],
+      ["estava", "tinha preparado", "sentir-se-ia"],
+      ["queríamos", "tínhamos reservado", "poderíamos"],
+      ["tinha", "tinha faltado", "progrediria"],
+      ["trabalhavam", "tinham definido", "perderiam"],
+      ["conhecias", "tinhas estudado", "precisarias"],
+      ["enfrentava", "tinha instalado", "correria"],
+      ["sentíamo-nos", "tínhamos ensaiado", "cometeríamos"],
+      ["estava", "tinham entregado", "adiaria"],
+      ["avançava", "tinha resolvido", "demoraria"]
+    ]
+  },
+  {
+    "id": "0072",
+    "titre": "Pretérito imperfeito–Pretérito mais-que-perfeito composto–Condicional composto",
+    "definition": "Combinação do pretérito imperfeito, do pretérito mais-que-perfeito composto e do condicional composto.",
+    "instruction": "Conjuga os verbos nos três tempos indicados, relacionando o contexto passado, a ação anterior e uma consequência hipotética que não se concretizou.",
+    "questions": [
+      "Eu {{1}} (estar) mais descansado se {{2}} (dormir) melhor na noite anterior e, nesse caso, {{3}} (conseguir) trabalhar com mais concentração.",
+      "A Marta {{1}} (ficar) satisfeita se {{2}} (receber) a informação a tempo e, nesse caso, {{3}} (preparar) uma apresentação mais completa.",
+      "Nós {{1}} (chegar) mais cedo se {{2}} (apanhar) o primeiro comboio e, assim, {{3}} (evitar) o trânsito da manhã.",
+      "O João {{1}} (ter) melhores resultados se {{2}} (estudar) com regularidade e, provavelmente, {{3}} (concluir) o curso no prazo previsto.",
+      "Eles {{1}} (participar) na conferência se {{2}} (receber) o convite mais cedo e, nesse caso, {{3}} (apresentar) a investigação.",
+      "Tu {{1}} (sentir-se) mais confiante se {{2}} (praticar) a apresentação antes e {{3}} (responder) às perguntas com maior facilidade.",
+      "A empresa {{1}} (evitar) as perdas se {{2}} (identificar) o problema mais cedo e {{3}} (proteger) melhor os seus recursos.",
+      "Nós {{1}} (organizar) melhor o evento se {{2}} (confirmar) o número de participantes e {{3}} (reservar) uma sala maior.",
+      "A equipa {{1}} (ganhar) o jogo se {{2}} (aproveitar) as oportunidades e {{3}} (marcar) mais golos.",
+      "Eu {{1}} (escrever) um relatório mais claro se {{2}} (receber) todos os dados e {{3}} (incluir) os resultados completos."
+    ],
+    "reponses": [
+      ["estava", "tivesse dormido", "teria conseguido"],
+      ["ficava", "tivesse recebido", "teria preparado"],
+      ["chegávamos", "tivéssemos apanhado", "teríamos evitado"],
+      ["tinha", "tivesse estudado", "teria concluído"],
+      ["participavam", "tivessem recebido", "teriam apresentado"],
+      ["sentias-te", "tivesses praticado", "terias respondido"],
+      ["evitava", "tivesse identificado", "teria protegido"],
+      ["organizávamos", "tivéssemos confirmado", "teríamos reservado"],
+      ["ganhava", "tivesse aproveitado", "teria marcado"],
+      ["escrevia", "tivesse recebido", "teria incluído"]
+    ]
   }
 ]
-
 
