@@ -1,9 +1,602 @@
-{
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
-}
+[
+  {
+    "id": "001",
+    "titre": "Präsens – Perfekt",
+    "definition": "Übe die Verwendung des Präsens und des Perfekts im Deutschen.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (lernen) Deutsch, weil ich gestern viel {{2}} (üben) und heute meine Grammatik {{3}} (wiederholen).",
+        "answers": ["lerne", "geübt habe", "wiederhole"]
+      },
+      {
+        "text": "Sie {{1}} (wohnen) in Berlin, {{2}} (umziehen) letztes Jahr und {{3}} (arbeiten) jetzt im Zentrum.",
+        "answers": ["wohnt", "ist umgezogen", "arbeitet"]
+      },
+      {
+        "text": "Wir {{1}} (kochen) heute zusammen, {{2}} (kaufen) schon alle Zutaten und {{3}} (warten) auf unsere Gäste.",
+        "answers": ["kochen", "haben gekauft", "warten"]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Präsens – Präteritum (Imperfekt)",
+    "definition": "Übe das Präsens und das Präteritum für gegenwärtige und vergangene Handlungen.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Heute {{1}} (arbeiten) er zu Hause, gestern {{2}} (arbeiten) er im Büro und jetzt {{3}} (schreiben) er einen Bericht.",
+        "answers": ["arbeitet", "arbeitete", "schreibt"]
+      },
+      {
+        "text": "Ich {{1}} (wohnen) jetzt in München, früher {{2}} (wohnen) ich in Bonn und heute {{3}} (besuchen) ich meine Eltern.",
+        "answers": ["wohne", "wohnte", "besuche"]
+      },
+      {
+        "text": "Sie {{1}} (spielen) heute Tennis, gestern {{2}} (spielen) sie Fußball und jetzt {{3}} (lernen) sie Deutsch.",
+        "answers": ["spielt", "spielte", "lernt"]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Präsens – Plusquamperfekt",
+    "definition": "Übe gegenwärtige Handlungen und Handlungen, die vor einem anderen vergangenen Ereignis abgeschlossen waren.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (lernen) Deutsch. Bevor ich nach Deutschland zog, {{2}} (lernen) ich bereits Englisch, und heute {{3}} (sprechen) ich beide Sprachen.",
+        "answers": ["lerne", "hatte gelernt", "spreche"]
+      },
+      {
+        "text": "Sie {{1}} (arbeiten) jetzt in Berlin. Bevor sie umzog, {{2}} (arbeiten) sie in Hamburg, und heute {{3}} (wohnen) sie im Zentrum.",
+        "answers": ["arbeitet", "hatte gearbeitet", "wohnt"]
+      },
+      {
+        "text": "Wir {{1}} (besuchen) heute das Museum. Bevor wir ankamen, {{2}} (kaufen) wir die Eintrittskarten bereits, und jetzt {{3}} (warten) wir auf den Führer.",
+        "answers": ["besuchen", "hatten gekauft", "warten"]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Präsens – Passé simple (kein direktes deutsches Äquivalent)",
+    "definition": "Vergleiche gegenwärtige Handlungen mit abgeschlossenen vergangenen Ereignissen. Das französische Passé simple wird im Deutschen normalerweise durch das Präteritum wiedergegeben.",
+    "instruction": "Ergänze die Sätze mit den passenden deutschen Verbformen.",
+    "questions": [
+      {
+        "text": "Heute {{1}} (leben) sie in Berlin. Im Roman {{2}} (verlassen) sie ihre Heimatstadt, und jetzt {{3}} (arbeiten) sie als Ärztin.",
+        "answers": ["lebt", "verließ", "arbeitet"]
+      },
+      {
+        "text": "Ich {{1}} (lesen) gerade einen Roman. Gestern {{2}} (finden) ich das Buch in der Bibliothek, und heute {{3}} (lesen) ich das nächste Kapitel.",
+        "answers": ["lese", "fand", "lese"]
+      },
+      {
+        "text": "Er {{1}} (regieren) heute das Land. In der Geschichte {{2}} (gewinnen) er die Wahl, und jetzt {{3}} (führen) er die Regierung.",
+        "answers": ["regiert", "gewann", "führt"]
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "titre": "Präsens – Futur I",
+    "definition": "Übe das Präsens und das Futur I für gegenwärtige und zukünftige Handlungen.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Heute {{1}} (lernen) ich Deutsch. Morgen {{2}} (lernen) ich mit meiner Freundin, und nächste Woche {{3}} (schreiben) ich eine Prüfung.",
+        "answers": ["lerne", "werde lernen", "werde schreiben"]
+      },
+      {
+        "text": "Sie {{1}} (arbeiten) heute im Büro. Morgen {{2}} (arbeiten) sie von zu Hause, und am Freitag {{3}} (besuchen) sie ihre Kunden.",
+        "answers": ["arbeitet", "wird arbeiten", "wird besuchen"]
+      },
+      {
+        "text": "Wir {{1}} (fahren) heute nach Hause. Morgen {{2}} (fahren) wir nach Berlin, und nächste Woche {{3}} (besuchen) wir das Museum.",
+        "answers": ["fahren", "werden fahren", "werden besuchen"]
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "titre": "Präsens – Futur II",
+    "definition": "Übe das Präsens und das Futur II, um gegenwärtige Tatsachen und bis zu einem zukünftigen Zeitpunkt abgeschlossene Handlungen auszudrücken.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (arbeiten) heute viel. Bis morgen {{2}} (beenden) ich den Bericht, und danach {{3}} (haben) ich mehr Zeit.",
+        "answers": ["arbeite", "werde beendet haben", "werde haben"]
+      },
+      {
+        "text": "Sie {{1}} (lernen) Deutsch. Bis Ende des Jahres {{2}} (bestehen) sie die Prüfung, und danach {{3}} (suchen) sie eine Stelle.",
+        "answers": ["lernt", "wird bestanden haben", "wird suchen"]
+      },
+      {
+        "text": "Wir {{1}} (bauen) ein Haus. Bis zum Sommer {{2}} (fertigstellen) wir es, und dann {{3}} (ziehen) wir ein.",
+        "answers": ["bauen", "werden fertiggestellt haben", "werden einziehen"]
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "titre": "Präsens – Konjunktiv II Präsens",
+    "definition": "Übe Tatsachen im Präsens und hypothetische Situationen mit Konjunktiv II.",
+    "instruction": "Ergänze die Sätze mit der passenden Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (wohnen) in Yaoundé. Wenn ich mehr Geld {{2}} (haben), {{3}} (reisen) ich durch Europa.",
+        "answers": ["wohne", "hätte", "würde reisen"]
+      },
+      {
+        "text": "Sie {{1}} (arbeiten) jeden Tag. Wenn sie weniger Arbeit {{2}} (haben), {{3}} (treiben) sie mehr Sport.",
+        "answers": ["arbeitet", "hätte", "würde treiben"]
+      },
+      {
+        "text": "Wir {{1}} (lernen) Deutsch. Wenn wir in Berlin {{2}} (leben), {{3}} (sprechen) wir jeden Tag Deutsch.",
+        "answers": ["lernen", "lebten", "würden sprechen"]
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "titre": "Präsens – Konjunktiv II Vergangenheit",
+    "definition": "Übe gegenwärtige Tatsachen und irreale Bedingungen in der Vergangenheit.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Heute {{1}} (arbeiten) ich zu Hause. Gestern {{2}} (verpassen) ich den Bus; sonst {{3}} (ankommen) ich pünktlich.",
+        "answers": ["arbeite", "habe verpasst", "wäre angekommen"]
+      },
+      {
+        "text": "Sie {{1}} (wohnen) in Berlin. Gestern {{2}} (vergessen) sie ihren Schlüssel; sonst {{3}} (können) sie sofort ins Haus gehen.",
+        "answers": ["wohnt", "hat vergessen", "hätte"]
+      },
+      {
+        "text": "Wir {{1}} (lernen) Deutsch. Gestern {{2}} (haben) wir keine Zeit; sonst {{3}} (lernen) wir mehr.",
+        "answers": ["lernen", "hatten", "hätten"]
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "titre": "Präsens – Konjunktiv I Präsens",
+    "definition": "Übe das Präsens und den Konjunktiv I zur Wiedergabe indirekter Rede.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Er {{1}} (sagen), er {{2}} (sein) krank, und er {{3}} (bleiben) deshalb zu Hause.",
+        "answers": ["sagt", "sei", "bleibe"]
+      },
+      {
+        "text": "Sie {{1}} (erklären), sie {{2}} (haben) keine Zeit, und sie {{3}} (kommen) morgen.",
+        "answers": ["erklärt", "habe", "komme"]
+      },
+      {
+        "text": "Der Arzt {{1}} (berichten), der Patient {{2}} (fühlen) sich besser, und er {{3}} (brauchen) keine weitere Behandlung.",
+        "answers": ["berichtet", "fühle", "brauche"]
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "titre": "Präsens – Konjunktiv I Vergangenheit",
+    "definition": "Übe das Präsens und den Konjunktiv I Vergangenheit in der indirekten Rede.",
+    "instruction": "Ergänze die Sätze mit der passenden Verbform.",
+    "questions": [
+      {
+        "text": "Er {{1}} (arbeiten) heute hier. Er sagt, er {{2}} (beenden) die Aufgabe bereits, und er {{3}} (sein) jetzt frei.",
+        "answers": ["arbeitet", "habe beendet", "sei"]
+      },
+      {
+        "text": "Sie {{1}} (lernen) Deutsch. Sie erklärt, sie {{2}} (bestehen) die Prüfung, und sie {{3}} (warten) auf das Ergebnis.",
+        "answers": ["lernt", "habe bestanden", "warte"]
+      },
+      {
+        "text": "Der Direktor {{1}} (sprechen) mit uns. Er sagt, er {{2}} (lesen) den Bericht, und er {{3}} (kennen) jetzt die Ergebnisse.",
+        "answers": ["spricht", "habe gelesen", "kenne"]
+      }
+    ]
+  },
+  {
+    "id": "011",
+    "titre": "Präsens – Imperfekt des Subjonctif (kein direktes deutsches Äquivalent)",
+    "definition": "Das französische Imparfait du subjonctif hat kein direktes deutsches Äquivalent. Im Deutschen werden je nach Kontext Konjunktiv I oder II verwendet.",
+    "instruction": "Ergänze die Sätze mit einer passenden deutschen Form.",
+    "questions": [
+      {
+        "text": "Heute {{1}} (arbeiten) er hier. Im Bericht stand, er {{2}} (sein) krank, und heute {{3}} (fühlen) er sich besser.",
+        "answers": ["arbeitet", "sei", "fühlt"]
+      },
+      {
+        "text": "Ich {{1}} (wissen), dass sie heute kommt. Er wünschte, sie {{2}} (sein) hier, und jetzt {{3}} (warten) er auf sie.",
+        "answers": ["weiß", "wäre", "wartet"]
+      },
+      {
+        "text": "Sie {{1}} (lernen) Deutsch. Der Lehrer verlangte, dass sie fleißiger {{2}} (lernen), und heute {{3}} (üben) sie weiter.",
+        "answers": ["lernt", "lerne", "übt"]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "Präsens – Plusquamperfekt des Subjonctif (kein direktes deutsches Äquivalent)",
+    "definition": "Das französische Plus-que-parfait du subjonctif hat kein direktes deutsches Äquivalent. Irreale vergangene Situationen werden oft mit Konjunktiv II Vergangenheit ausgedrückt.",
+    "instruction": "Ergänze die Sätze mit der passenden deutschen Form.",
+    "questions": [
+      {
+        "text": "Heute {{1}} (arbeiten) sie zu Hause. Wenn sie gestern früher {{2}} (aufstehen), {{3}} (erreichen) sie den Zug.",
+        "answers": ["arbeitet", "aufgestanden wäre", "hätte erreicht"]
+      },
+      {
+        "text": "Ich {{1}} (wohnen) in Berlin. Wenn ich früher {{2}} (umziehen), {{3}} (kennenlernen) ich meine Nachbarn schon.",
+        "answers": ["wohne", "umgezogen wäre", "hätte kennengelernt"]
+      },
+      {
+        "text": "Wir {{1}} (lernen) Deutsch. Wenn wir früher {{2}} (anfangen), {{3}} (bestehen) wir die Prüfung vielleicht.",
+        "answers": ["lernen", "angefangen hätten", "hätten bestanden"]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Perfekt – Präteritum",
+    "definition": "Übe das Perfekt und das Präteritum zur Beschreibung vergangener Ereignisse.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (haben) heute viel gearbeitet. Gestern {{2}} (sein) ich müde, und danach {{3}} (gehen) ich früh ins Bett.",
+        "answers": ["habe", "war", "ging"]
+      },
+      {
+        "text": "Sie {{1}} (besuchen) ihre Freundin. Letzte Woche {{2}} (fahren) sie nach Berlin, und dort {{3}} (sehen) sie ein Museum.",
+        "answers": ["hat besucht", "fuhr", "sah"]
+      },
+      {
+        "text": "Wir {{1}} (essen) schon. Gestern {{2}} (kochen) wir zusammen, und danach {{3}} (sehen) wir einen Film.",
+        "answers": ["haben gegessen", "kochten", "sahen"]
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "titre": "Perfekt – Plusquamperfekt",
+    "definition": "Übe abgeschlossene Handlungen und Handlungen, die vor einem anderen vergangenen Ereignis stattgefunden hatten.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (essen) bereits. Bevor meine Freunde ankamen, {{2}} (kochen) ich das Abendessen, und später {{3}} (aufräumen) ich die Küche.",
+        "answers": ["habe gegessen", "hatte gekocht", "habe aufgeräumt"]
+      },
+      {
+        "text": "Sie {{1}} (ankommen) gerade. Vor ihrer Reise {{2}} (buchen) sie ein Hotel, und jetzt {{3}} (suchen) sie ein Taxi.",
+        "answers": ["ist angekommen", "hatte gebucht", "sucht"]
+      },
+      {
+        "text": "Wir {{1}} (besuchen) das Museum. Bevor wir dort ankamen, {{2}} (kaufen) wir die Tickets, und danach {{3}} (machen) wir Fotos.",
+        "answers": ["haben besucht", "hatten gekauft", "haben gemacht"]
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "titre": "Perfekt – Passé simple (kein direktes deutsches Äquivalent)",
+    "definition": "Das französische Passé simple wird im Deutschen meist durch das Präteritum wiedergegeben. Das Perfekt wird besonders häufig in der gesprochenen Sprache verwendet.",
+    "instruction": "Ergänze die Sätze mit den passenden deutschen Verbformen.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (lesen) den Roman. Im Märchen {{2}} (finden) der Held einen Schatz, und danach {{3}} (kehren) er nach Hause zurück.",
+        "answers": ["habe gelesen", "fand", "kehrte"]
+      },
+      {
+        "text": "Sie {{1}} (besuchen) das Schloss. In der Geschichte {{2}} (treffen) sie den König, und danach {{3}} (verlassen) sie den Saal.",
+        "answers": ["hat besucht", "traf", "verließ"]
+      },
+      {
+        "text": "Wir {{1}} (sehen) den Film. In der Erzählung {{2}} (retten) der Held das Kind, und danach {{3}} (verschwinden) er.",
+        "answers": ["haben gesehen", "rettete", "verschwand"]
+      }
+    ]
+  },
+  {
+    "id": "016",
+    "titre": "Perfekt – Futur I",
+    "definition": "Übe vergangene abgeschlossene Handlungen und zukünftige Ereignisse.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (beenden) meine Arbeit. Morgen {{2}} (fahren) ich nach Berlin, und dort {{3}} (besuchen) ich meine Freunde.",
+        "answers": ["habe beendet", "werde fahren", "werde besuchen"]
+      },
+      {
+        "text": "Sie {{1}} (bestehen) die Prüfung. Nächste Woche {{2}} (beginnen) sie ein Praktikum, und danach {{3}} (arbeiten) sie in einer Klinik.",
+        "answers": ["hat bestanden", "wird beginnen", "wird arbeiten"]
+      },
+      {
+        "text": "Wir {{1}} (kaufen) die Tickets. Morgen {{2}} (reisen) wir ab, und am Abend {{3}} (ankommen) wir in München.",
+        "answers": ["haben gekauft", "werden abreisen", "werden ankommen"]
+      }
+    ]
+  },
+  {
+    "id": "017",
+    "titre": "Perfekt – Futur II",
+    "definition": "Übe das Perfekt und das Futur II für abgeschlossene vergangene und bis zu einem zukünftigen Zeitpunkt abgeschlossene Handlungen.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (schreiben) den Bericht bereits. Bis morgen {{2}} (beenden) ich das Projekt, und dann {{3}} (haben) ich mehr Zeit.",
+        "answers": ["habe geschrieben", "werde beendet haben", "werde haben"]
+      },
+      {
+        "text": "Sie {{1}} (lernen) viel. Bis Freitag {{2}} (vorbereiten) sie sich vollständig, und danach {{3}} (machen) sie eine Pause.",
+        "answers": ["hat gelernt", "wird sich vorbereitet haben", "wird machen"]
+      },
+      {
+        "text": "Wir {{1}} (reservieren) das Hotel. Bis morgen {{2}} (planen) wir die ganze Reise, und dann {{3}} (abreisen) wir.",
+        "answers": ["haben reserviert", "werden geplant haben", "werden abreisen"]
+      }
+    ]
+  },
+  {
+    "id": "018",
+    "titre": "Perfekt – Konjunktiv II Präsens",
+    "definition": "Übe das Perfekt und hypothetische Situationen mit Konjunktiv II Präsens.",
+    "instruction": "Ergänze die Sätze mit der passenden Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (kaufen) ein neues Handy. Wenn ich mehr Geld {{2}} (haben), {{3}} (kaufen) ich ein besseres Modell.",
+        "answers": ["habe gekauft", "hätte", "würde kaufen"]
+      },
+      {
+        "text": "Sie {{1}} (lernen) Deutsch. Wenn sie mehr Zeit {{2}} (haben), {{3}} (üben) sie jeden Tag.",
+        "answers": ["hat gelernt", "hätte", "würde üben"]
+      },
+      {
+        "text": "Wir {{1}} (besuchen) das Museum. Wenn es näher {{2}} (sein), {{3}} (gehen) wir öfter dorthin.",
+        "answers": ["haben besucht", "wäre", "würden gehen"]
+      }
+    ]
+  },
+  {
+    "id": "019",
+    "titre": "Perfekt – Konjunktiv II Vergangenheit",
+    "definition": "Übe das Perfekt und irreale vergangene Situationen mit Konjunktiv II Vergangenheit.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Ich {{1}} (verpassen) den Bus. Wenn ich früher aufgestanden wäre, {{2}} (erreichen) ich ihn, und ich {{3}} (ankommen) pünktlich.",
+        "answers": ["habe verpasst", "hätte erreicht", "wäre angekommen"]
+      },
+      {
+        "text": "Sie {{1}} (vergessen) den Termin. Wenn sie den Kalender geprüft hätte, {{2}} (kommen) sie rechtzeitig, und sie {{3}} (sprechen) mit dem Arzt.",
+        "answers": ["hat vergessen", "wäre gekommen", "hätte gesprochen"]
+      },
+      {
+        "text": "Wir {{1}} (verlieren) das Spiel. Wenn wir besser trainiert hätten, {{2}} (gewinnen) wir, und wir {{3}} (feiern) danach.",
+        "answers": ["haben verloren", "hätten gewonnen", "hätten gefeiert"]
+      }
+    ]
+  },
+  {
+    "id": "020",
+    "titre": "Perfekt – Konjunktiv I Präsens",
+    "definition": "Übe das Perfekt und den Konjunktiv I Präsens in der indirekten Rede.",
+    "instruction": "Ergänze die Sätze mit der passenden Verbform.",
+    "questions": [
+      {
+        "text": "Er {{1}} (ankommen) bereits. Der Kollege sagt, er {{2}} (sein) im Büro, und er {{3}} (warten) auf den Direktor.",
+        "answers": ["ist angekommen", "sei", "warte"]
+      },
+      {
+        "text": "Sie {{1}} (beenden) die Arbeit. Sie erklärt, sie {{2}} (haben) keine weiteren Aufgaben, und sie {{3}} (gehen) jetzt nach Hause.",
+        "answers": ["hat beendet", "habe", "gehe"]
+      },
+      {
+        "text": "Der Arzt {{1}} (untersuchen) den Patienten. Er berichtet, der Patient {{2}} (fühlen) sich besser, und er {{3}} (brauchen) keine Medikamente mehr.",
+        "answers": ["hat untersucht", "fühle", "brauche"]
+      }
+    ]
+  },
+  {
+    "id": "021",
+    "titre": "Perfekt – Konjunktiv I Vergangenheit",
+    "definition": "Übe das Perfekt und den Konjunktiv I Vergangenheit zur Wiedergabe abgeschlossener Handlungen in indirekter Rede.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Er {{1}} (kommen) heute ins Büro. Er sagt, er {{2}} (beenden) die Arbeit bereits, und er {{3}} (sein) jetzt frei.",
+        "answers": ["ist gekommen", "habe beendet", "sei"]
+      },
+      {
+        "text": "Sie {{1}} (lesen) den Bericht. Sie erklärt, sie {{2}} (verstehen) alle Einzelheiten, und sie {{3}} (können) jetzt antworten.",
+        "answers": ["hat gelesen", "habe verstanden", "könne"]
+      },
+      {
+        "text": "Die Gäste {{1}} (ankommen). Der Gastgeber sagt, sie {{2}} (reservieren) ein Zimmer, und sie {{3}} (bleiben) zwei Nächte.",
+        "answers": ["sind angekommen", "hätten reserviert", "blieben"]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Präteritum – Plusquamperfekt",
+    "definition": "Übe das Präteritum und das Plusquamperfekt, um die Reihenfolge vergangener Ereignisse auszudrücken.",
+    "instruction": "Ergänze die Sätze mit der passenden Verbform.",
+    "questions": [
+      {
+        "text": "Als ich am Bahnhof {{1}} (ankommen), {{2}} (abfahren) der Zug bereits, weil ich die Abfahrtszeit {{3}} (vergessen).",
+        "answers": ["ankam", "war abgefahren", "hatte vergessen"]
+      },
+      {
+        "text": "Sie {{1}} (öffnen) die Tür, nachdem sie den Schlüssel {{2}} (finden), und sie {{3}} (betreten) das Haus.",
+        "answers": ["öffnete", "gefunden hatte", "betrat"]
+      },
+      {
+        "text": "Wir {{1}} (essen) bereits, als unsere Freunde {{2}} (ankommen), weil wir das Essen vorher {{3}} (vorbereiten).",
+        "answers": ["hatten gegessen", "ankamen", "vorbereitet hatten"]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Präteritum – Passé simple (kein direktes deutsches Äquivalent)",
+    "definition": "Das französische Passé simple entspricht im Deutschen meistens dem Präteritum, besonders in schriftlichen Erzählungen.",
+    "instruction": "Ergänze die Sätze mit den passenden deutschen Verbformen.",
+    "questions": [
+      {
+        "text": "Der König {{1}} (betreten) den Saal, {{2}} (begrüßen) seine Gäste und {{3}} (beginnen) die Zeremonie.",
+        "answers": ["betrat", "begrüßte", "begann"]
+      },
+      {
+        "text": "Der Held {{1}} (verlassen) das Dorf, {{2}} (überqueren) den Fluss und {{3}} (erreichen) die Stadt.",
+        "answers": ["verließ", "überquerte", "erreichte"]
+      },
+      {
+        "text": "Die Prinzessin {{1}} (öffnen) das Fenster, {{2}} (sehen) einen Reiter und {{3}} (rufen) nach ihrer Dienerin.",
+        "answers": ["öffnete", "sah", "rief"]
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "Präteritum – Plusquamperfekt (Annäherung an das Passé antérieur)",
+    "definition": "Übe das Präteritum und das Plusquamperfekt, um eine Handlung auszudrücken, die vor einer anderen vergangenen Handlung abgeschlossen war.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Nachdem er die Tür {{1}} (schließen), {{2}} (gehen) er nach Hause, und dort {{3}} (essen) er zu Abend.",
+        "answers": ["geschlossen hatte", "ging", "aß"]
+      },
+      {
+        "text": "Als sie den Brief {{1}} (lesen), {{2}} (verstehen) sie die Nachricht und {{3}} (rufen) ihre Freundin an.",
+        "answers": ["gelesen hatte", "verstand", "rief"]
+      },
+      {
+        "text": "Nachdem wir die Arbeit {{1}} (beenden), {{2}} (verlassen) wir das Büro und {{3}} (fahren) nach Hause.",
+        "answers": ["beendet hatten", "verließen", "fuhren"]
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "titre": "Präteritum – Futur I",
+    "definition": "Übe vergangene Ereignisse und zukünftige Handlungen.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Gestern {{1}} (arbeiten) ich lange. Morgen {{2}} (arbeiten) ich wieder, und nächste Woche {{3}} (fahren) ich nach Berlin.",
+        "answers": ["arbeitete", "werde arbeiten", "werde fahren"]
+      },
+      {
+        "text": "Sie {{1}} (besuchen) uns gestern. Morgen {{2}} (kommen) sie wieder, und am Freitag {{3}} (bleiben) sie länger.",
+        "answers": ["besuchte", "wird kommen", "wird bleiben"]
+      },
+      {
+        "text": "Wir {{1}} (lernen) gestern zusammen. Morgen {{2}} (wiederholen) wir die Lektion, und nächste Woche {{3}} (schreiben) wir die Prüfung.",
+        "answers": ["lernten", "werden wiederholen", "werden schreiben"]
+      }
+    ]
+  },
+  {
+    "id": "026",
+    "titre": "Präteritum – Futur II",
+    "definition": "Übe vergangene Ereignisse und Handlungen, die bis zu einem zukünftigen Zeitpunkt abgeschlossen sein werden.",
+    "instruction": "Ergänze die Sätze mit der passenden Verbform.",
+    "questions": [
+      {
+        "text": "Gestern {{1}} (beginnen) er das Projekt. Bis Freitag {{2}} (beenden) er es, und danach {{3}} (präsentieren) er die Ergebnisse.",
+        "answers": ["begann", "wird beendet haben", "wird präsentieren"]
+      },
+      {
+        "text": "Sie {{1}} (starten) die Ausbildung im Januar. Bis Juni {{2}} (absolvieren) sie den ersten Teil, und danach {{3}} (beginnen) sie ein Praktikum.",
+        "answers": ["startete", "wird absolviert haben", "wird beginnen"]
+      },
+      {
+        "text": "Wir {{1}} (kaufen) das Haus im letzten Jahr. Bis zum Sommer {{2}} (renovieren) wir es, und dann {{3}} (einziehen) wir.",
+        "answers": ["kauften", "werden renoviert haben", "werden einziehen"]
+      }
+    ]
+  },
+  {
+    "id": "027",
+    "titre": "Präteritum – Konjunktiv II Präsens",
+    "definition": "Übe vergangene Ereignisse und hypothetische Situationen in der Gegenwart.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Gestern {{1}} (arbeiten) er lange. Wenn er heute frei {{2}} (haben), {{3}} (reisen) er ans Meer.",
+        "answers": ["arbeitete", "hätte", "würde reisen"]
+      },
+      {
+        "text": "Sie {{1}} (wohnen) früher in Bonn. Wenn sie mehr Geld {{2}} (haben), {{3}} (kaufen) sie eine Wohnung in Berlin.",
+        "answers": ["wohnte", "hätte", "würde kaufen"]
+      },
+      {
+        "text": "Wir {{1}} (lernen) gestern Deutsch. Wenn wir mehr Zeit {{2}} (haben), {{3}} (üben) wir jeden Abend.",
+        "answers": ["lernten", "hätten", "würden üben"]
+      }
+    ]
+  },
+  {
+    "id": "028",
+    "titre": "Präteritum – Konjunktiv II Vergangenheit",
+    "definition": "Übe vergangene Ereignisse und irreale Bedingungen in der Vergangenheit.",
+    "instruction": "Ergänze die Sätze mit der passenden Verbform.",
+    "questions": [
+      {
+        "text": "Er {{1}} (verpassen) den Zug. Wenn er früher aufgestanden wäre, {{2}} (erreichen) er ihn, und er {{3}} (ankommen) pünktlich.",
+        "answers": ["verpasste", "hätte erreicht", "wäre angekommen"]
+      },
+      {
+        "text": "Sie {{1}} (vergessen) den Termin. Wenn sie den Kalender geprüft hätte, {{2}} (kommen) sie rechtzeitig, und sie {{3}} (sprechen) mit dem Arzt.",
+        "answers": ["vergaß", "wäre gekommen", "hätte gesprochen"]
+      },
+      {
+        "text": "Wir {{1}} (verlieren) das Spiel. Wenn wir besser trainiert hätten, {{2}} (gewinnen) wir, und wir {{3}} (feiern) danach.",
+        "answers": ["verloren", "hätten gewonnen", "hätten gefeiert"]
+      }
+    ]
+  },
+  {
+    "id": "029",
+    "titre": "Präteritum – Konjunktiv I Präsens",
+    "definition": "Übe das Präteritum und den Konjunktiv I Präsens in der indirekten Rede.",
+    "instruction": "Ergänze die Sätze mit der richtigen Verbform.",
+    "questions": [
+      {
+        "text": "Er {{1}} (sagen) gestern, er {{2}} (sein) krank, und er {{3}} (bleiben) zu Hause.",
+        "answers": ["sagte", "sei", "bleibe"]
+      },
+      {
+        "text": "Sie {{1}} (erklären), sie {{2}} (haben) keine Zeit, und sie {{3}} (kommen) später.",
+        "answers": ["erklärte", "habe", "komme"]
+      },
+      {
+        "text": "Der Zeuge {{1}} (berichten), er {{2}} (sehen) den Unfall, und er {{3}} (kennen) den Fahrer nicht.",
+        "answers": ["berichtete", "habe gesehen", "kenne"]
+      }
+    ]
+  },
+  {
+    "id": "030",
+    "titre": "Präteritum – Konjunktiv I Vergangenheit",
+    "definition": "Übe das Präteritum und den Konjunktiv I Vergangenheit in der indirekten Rede.",
+    "instruction": "Ergänze die Sätze mit der passenden Verbform.",
+    "questions": [
+      {
+        "text": "Er {{1}} (berichten), er {{2}} (beenden) die Arbeit bereits, und er {{3}} (sein) danach nach Hause gegangen.",
+        "answers": ["berichtete", "habe beendet", "sei"]
+      },
+      {
+        "text": "Sie {{1}} (erklären), sie {{2}} (lesen) den Bericht, und sie {{3}} (verstehen) alle Einzelheiten.",
+        "answers": ["erklärte", "habe gelesen", "habe verstanden"]
+      },
+      {
+        "text": "Der Zeuge {{1}} (sagen), er {{2}} (sehen) den Täter, und er {{3}} (rufen) sofort die Polizei.",
+        "answers": ["sagte", "habe gesehen", "habe gerufen"]
+      }
+    ]
+  }
+]
