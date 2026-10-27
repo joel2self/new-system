@@ -1,9 +1,380 @@
-{
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
-}
+[
+  {
+    "id": "001",
+    "titre": "Exercício 001",
+    "definition": "Complete as frases de acordo com o contexto, prestando atenção à relação entre as ações.",
+    "instruction": "Conjugue os verbos entre parênteses e complete os dois espaços de cada frase.",
+    "questions": [
+      {"question": "Eu {{1}} (trabalhar) nesta empresa e {{2}} (receber) formação regularmente nos últimos meses.", "reponses": ["trabalho", "tenho recebido"]},
+      {"question": "A Marta {{1}} (estudar) português e {{2}} (praticar) a conversação todas as semanas ultimamente.", "reponses": ["estuda", "tem praticado"]},
+      {"question": "Nós {{1}} (viver) em Lisboa e {{2}} (visitar) vários museus frequentemente este ano.", "reponses": ["vivemos", "temos visitado"]},
+      {"question": "O professor {{1}} (explicar) a matéria e {{2}} (propor) exercícios adicionais ultimamente.", "reponses": ["explica", "tem proposto"]},
+      {"question": "Tu {{1}} (fazer) desporto e {{2}} (melhorar) a tua resistência nos últimos tempos.", "reponses": ["fazes", "tens melhorado"]},
+      {"question": "Os investigadores {{1}} (analisar) os dados e {{2}} (publicar) novos resultados regularmente.", "reponses": ["analisam", "têm publicado"]},
+      {"question": "A empresa {{1}} (produzir) equipamentos médicos e {{2}} (aumentar) a produção nos últimos meses.", "reponses": ["produz", "tem aumentado"]},
+      {"question": "Eu {{1}} (ler) notícias diariamente e {{2}} (acompanhar) a evolução da situação com atenção ultimamente.", "reponses": ["leio", "tenho acompanhado"]},
+      {"question": "Vocês {{1}} (participar) nas reuniões e {{2}} (apresentar) propostas inovadoras com frequência.", "reponses": ["participam", "têm apresentado"]},
+      {"question": "O médico {{1}} (atender) os pacientes e {{2}} (observar) um aumento destes sintomas recentemente.", "reponses": ["atende", "tem observado"]}
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Exercício 002",
+    "definition": "Complete as frases, distinguindo os hábitos atuais das situações que se prolongavam no passado.",
+    "instruction": "Conjugue os verbos entre parênteses de acordo com as pistas de cada frase.",
+    "questions": [
+      {"question": "Hoje, eu {{1}} (trabalhar) em casa, mas antes {{2}} (apanhar) o comboio todas as manhãs.", "reponses": ["trabalho", "apanhava"]},
+      {"question": "A Ana {{1}} (morar) no Porto, mas, quando era estudante, {{2}} (viver) em Coimbra.", "reponses": ["mora", "vivia"]},
+      {"question": "Nós {{1}} (preferir) reuniões curtas, embora antigamente {{2}} (passar) horas a discutir os mesmos assuntos.", "reponses": ["preferimos", "passássemos"]},
+      {"question": "O meu avô {{1}} (contar) histórias aos netos e, na sua juventude, {{2}} (viajar) frequentemente pelo país.", "reponses": ["conta", "viajava"]},
+      {"question": "Atualmente, eles {{1}} (usar) ferramentas digitais, enquanto antes {{2}} (escrever) todos os relatórios à mão.", "reponses": ["usam", "escreviam"]},
+      {"question": "Eu {{1}} (saber) a resposta agora, mas, nessa altura, não {{2}} (compreender) a pergunta.", "reponses": ["sei", "compreendia"]},
+      {"question": "A equipa {{1}} (treinar) três vezes por semana, tal como {{2}} (fazer) quando o treinador anterior estava no clube.", "reponses": ["treina", "fazia"]},
+      {"question": "Tu {{1}} (parecer) mais confiante hoje do que quando {{2}} (começar) este trabalho.", "reponses": ["pareces", "começavas"]},
+      {"question": "Os alunos {{1}} (ter) acesso à biblioteca, mas, no passado, {{2}} (estudar) num espaço muito pequeno.", "reponses": ["têm", "estudavam"]},
+      {"question": "A cidade {{1}} (crescer) rapidamente, embora antes {{2}} (ser) uma localidade tranquila.", "reponses": ["cresce", "fosse"]}
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Exercício 003",
+    "definition": "Relacione a situação atual com uma ação anterior a outra referência passada.",
+    "instruction": "Complete os espaços com as formas adequadas dos verbos indicados.",
+    "questions": [
+      {"question": "Agora, eu {{1}} (conhecer) bem a cidade, porque, antes de me mudar, já {{2}} (visitar) vários bairros.", "reponses": ["conheço", "tinha visitado"]},
+      {"question": "A Sofia {{1}} (trabalhar) no hospital e contou que já {{2}} (concluir) a especialização antes de ser contratada.", "reponses": ["trabalha", "tinha concluído"]},
+      {"question": "Nós {{1}} (saber) o resultado hoje; na reunião anterior, porém, a direção já {{2}} (tomar) uma decisão.", "reponses": ["sabemos", "tinha tomado"]},
+      {"question": "O diretor {{1}} (estar) disponível agora, embora, quando telefonei ontem, já {{2}} (sair) do escritório.", "reponses": ["está", "tivesse saído"]},
+      {"question": "Eu {{1}} (perceber) melhor o problema agora, pois alguém já me {{2}} (explicar) a situação antes da reunião.", "reponses": ["percebo", "tinha explicado"]},
+      {"question": "A empresa {{1}} (manter) esta política atualmente, mas já {{2}} (alterar) as suas regras antes da nossa chegada.", "reponses": ["mantém", "tinha alterado"]},
+      {"question": "Os investigadores {{1}} (conhecer) os resultados, que já {{2}} (ser) divulgados antes da conferência.", "reponses": ["conhecem", "tinham sido"]},
+      {"question": "Tu {{1}} (ter) acesso ao documento agora, porque o administrador já {{2}} (autorizar) a consulta antes de sair.", "reponses": ["tens", "tinha autorizado"]},
+      {"question": "A equipa {{1}} (usar) uma nova plataforma, embora já {{2}} (testar) outra solução antes da mudança.", "reponses": ["usa", "tivesse testado"]},
+      {"question": "Hoje, nós {{1}} (compreender) a decisão, depois de percebermos que a direção já {{2}} (avaliar) todos os riscos.", "reponses": ["compreendemos", "tinha avaliado"]}
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Exercício 004",
+    "definition": "Distinga uma ação concluída no passado de uma situação ou rotina atual.",
+    "instruction": "Complete cada frase sem alterar o sentido indicado pelo contexto.",
+    "questions": [
+      {"question": "Hoje, eu {{1}} (trabalhar) numa escola, mas no ano passado {{2}} (trabalhar) num hospital.", "reponses": ["trabalho", "trabalhei"]},
+      {"question": "A Rita {{1}} (escrever) relatórios todas as semanas e ontem {{2}} (entregar) um documento importante.", "reponses": ["escreve", "entregou"]},
+      {"question": "Nós {{1}} (viver) em Braga e, em 2022, {{2}} (mudar-se) para esta cidade.", "reponses": ["vivemos", "mudámo-nos"]},
+      {"question": "O diretor {{1}} (reunir-se) com a equipa todas as segundas-feiras e ontem {{2}} (anunciar) uma nova medida.", "reponses": ["reúne-se", "anunciou"]},
+      {"question": "Tu {{1}} (fazer) exercício regularmente e na semana passada {{2}} (participar) numa corrida.", "reponses": ["fazes", "participaste"]},
+      {"question": "Os técnicos {{1}} (verificar) os equipamentos diariamente e ontem {{2}} (detetar) uma falha.", "reponses": ["verificam", "detetaram"]},
+      {"question": "A empresa {{1}} (exportar) produtos para vários países e no mês passado {{2}} (assinar) um novo contrato.", "reponses": ["exporta", "assinou"]},
+      {"question": "Eu {{1}} (ler) o jornal todas as manhãs e ontem {{2}} (descobrir) uma notícia surpreendente.", "reponses": ["leio", "descobri"]},
+      {"question": "Vocês {{1}} (frequentar) este curso e, na última sessão, {{2}} (apresentar) os vossos projetos.", "reponses": ["frequentam", "apresentaram"]},
+      {"question": "O médico {{1}} (acompanhar) os pacientes e ontem {{2}} (diagnosticar) um caso raro.", "reponses": ["acompanha", "diagnosticou"]}
+    ]
+  },
+  {
+    "id": "005",
+    "titre": "Exercício 005",
+    "definition": "Relacione os factos atuais com acontecimentos que ainda ocorrerão.",
+    "instruction": "Conjugue os verbos tendo em conta as expressões temporais.",
+    "questions": [
+      {"question": "Eu {{1}} (trabalhar) nesta equipa e amanhã {{2}} (apresentar) os resultados.", "reponses": ["trabalho", "apresentarei"]},
+      {"question": "A empresa {{1}} (procurar) novos parceiros e no próximo mês {{2}} (abrir) um escritório em Lisboa.", "reponses": ["procura", "abrirá"]},
+      {"question": "Nós {{1}} (preparar) o relatório e na sexta-feira {{2}} (enviar) a versão final.", "reponses": ["preparamos", "enviaremos"]},
+      {"question": "A Joana {{1}} (estudar) medicina e, no próximo ano, {{2}} (iniciar) o estágio clínico.", "reponses": ["estuda", "iniciará"]},
+      {"question": "Tu {{1}} (conhecer) bem o projeto e em breve {{2}} (coordenar) uma nova equipa.", "reponses": ["conheces", "coordenarás"]},
+      {"question": "Os cientistas {{1}} (analisar) as amostras e amanhã {{2}} (divulgar) as primeiras conclusões.", "reponses": ["analisam", "divulgarão"]},
+      {"question": "O hospital {{1}} (receber) muitos pacientes e no próximo semestre {{2}} (contratar) mais profissionais.", "reponses": ["recebe", "contratará"]},
+      {"question": "Eu {{1}} (ter) disponibilidade esta semana e na segunda-feira {{2}} (começar) o novo projeto.", "reponses": ["tenho", "começarei"]},
+      {"question": "Vocês {{1}} (participar) no concurso e no próximo mês {{2}} (conhecer) os resultados.", "reponses": ["participam", "conhecerão"]},
+      {"question": "A cidade {{1}} (investir) nos transportes e em breve {{2}} (inaugurar) uma nova linha.", "reponses": ["investe", "inaugurará"]}
+    ]
+  },
+  {
+    "id": "006",
+    "titre": "Exercício 006",
+    "definition": "Associe uma situação presente a uma ação que estará concluída antes de um momento futuro.",
+    "instruction": "Preencha os espaços considerando o prazo mencionado.",
+    "questions": [
+      {"question": "Eu {{1}} (trabalhar) no projeto e, até sexta-feira, {{2}} (concluir) o relatório.", "reponses": ["trabalho", "terei concluído"]},
+      {"question": "A equipa {{1}} (preparar) a conferência e, quando os convidados chegarem, já {{2}} (organizar) a sala.", "reponses": ["prepara", "terá organizado"]},
+      {"question": "Nós {{1}} (estudar) os documentos e, até amanhã, {{2}} (analisar) todas as propostas.", "reponses": ["estudamos", "teremos analisado"]},
+      {"question": "A médica {{1}} (acompanhar) o doente e, quando ele regressar, já {{2}} (receber) os resultados.", "reponses": ["acompanha", "terá recebido"]},
+      {"question": "Tu {{1}} (escrever) a tese e, até ao fim do mês, {{2}} (rever) todos os capítulos.", "reponses": ["escreves", "terás revisto"]},
+      {"question": "Os técnicos {{1}} (instalar) o sistema e, antes da abertura, {{2}} (testar) todas as funcionalidades.", "reponses": ["instalam", "terão testado"]},
+      {"question": "A empresa {{1}} (negociar) o contrato e, até ao fim da semana, {{2}} (assinar) o acordo.", "reponses": ["negocia", "terá assinado"]},
+      {"question": "Eu {{1}} (recolher) os dados e, quando a reunião começar, {{2}} (preparar) os gráficos.", "reponses": ["recolho", "terei preparado"]},
+      {"question": "Vocês {{1}} (organizar) a viagem e, até domingo, {{2}} (reservar) todos os alojamentos.", "reponses": ["organizam", "terão reservado"]},
+      {"question": "O município {{1}} (reparar) a estrada e, antes do inverno, {{2}} (terminar) as obras.", "reponses": ["repara", "terá terminado"]}
+    ]
+  },
+  {
+    "id": "007",
+    "titre": "Exercício 007",
+    "definition": "Complete as frases que expressam hipóteses, pedidos ou situações imaginadas.",
+    "instruction": "Escolha a forma verbal adequada a cada contexto.",
+    "questions": [
+      {"question": "Eu {{1}} (viver) perto do trabalho e {{2}} (ir) a pé todos os dias, se pudesse escolher.", "reponses": ["vivo", "iria"]},
+      {"question": "A Marta {{1}} (aceitar) a proposta e {{2}} (mudar-se) para o Porto, caso recebesse uma oferta melhor.", "reponses": ["aceita", "mudar-se-ia"]},
+      {"question": "Nós {{1}} (precisar) de mais tempo e {{2}} (concluir) o projeto com maior cuidado, se o prazo fosse flexível.", "reponses": ["precisamos", "concluiríamos"]},
+      {"question": "Tu {{1}} (conhecer) a resposta e {{2}} (ajudar) a equipa, se tivesses acesso aos documentos.", "reponses": ["conheces", "ajudarias"]},
+      {"question": "O diretor {{1}} (ouvir) os funcionários e {{2}} (alterar) a decisão, se recebesse novas provas.", "reponses": ["ouve", "alteraria"]},
+      {"question": "Os investigadores {{1}} (procurar) outras soluções e {{2}} (evitar) o problema, se dispusessem de mais recursos.", "reponses": ["procuram", "evitariam"]},
+      {"question": "Eu {{1}} (ter) mais confiança e {{2}} (falar) em público sem receio, se praticasse regularmente.", "reponses": ["tenho", "falaria"]},
+      {"question": "A empresa {{1}} (investir) na formação e {{2}} (melhorar) os resultados, se o orçamento permitisse.", "reponses": ["investe", "melhoraria"]},
+      {"question": "Vocês {{1}} (poder) participar e {{2}} (contribuir) para a discussão, se estivessem disponíveis.", "reponses": ["podem", "contribuiriam"]},
+      {"question": "O médico {{1}} (examinar) o paciente e {{2}} (recomendar) outro tratamento, se fosse necessário.", "reponses": ["examina", "recomendaria"]}
+    ]
+  },
+  {
+    "id": "008",
+    "titre": "Exercício 008",
+    "definition": "Complete as frases que apresentam uma hipótese passada e a sua consequência possível.",
+    "instruction": "Observe as condições e as consequências antes de conjugar os verbos.",
+    "questions": [
+      {"question": "Eu {{1}} (aceitar) o emprego e {{2}} (mudar-se) para o estrangeiro, se me tivessem feito uma proposta.", "reponses": ["aceitaria", "ter-me-ia mudado"]},
+      {"question": "A Ana {{1}} (participar) na conferência e {{2}} (conhecer) os investigadores, se tivesse recebido o convite.", "reponses": ["teria participado", "teria conhecido"]},
+      {"question": "Nós {{1}} (concluir) o projeto e {{2}} (apresentar) os resultados, se os dados tivessem chegado a tempo.", "reponses": ["teríamos concluído", "teríamos apresentado"]},
+      {"question": "Tu {{1}} (perceber) o erro e {{2}} (corrigi-lo), se tivesses lido as instruções com atenção.", "reponses": ["terias percebido", "terias corrigido"]},
+      {"question": "O diretor {{1}} (reconsiderar) a decisão e {{2}} (evitar) o conflito, se tivesse ouvido todas as partes.", "reponses": ["teria reconsiderado", "teria evitado"]},
+      {"question": "Os técnicos {{1}} (detetar) a falha e {{2}} (impedir) a avaria, se tivessem realizado os testes.", "reponses": ["teriam detetado", "teriam impedido"]},
+      {"question": "Eu {{1}} (reservar) o bilhete e {{2}} (chegar) mais cedo, se tivesse confirmado a data.", "reponses": ["teria reservado", "teria chegado"]},
+      {"question": "A equipa {{1}} (ganhar) o concurso e {{2}} (receber) o financiamento, se tivesse apresentado a candidatura completa.", "reponses": ["teria ganho", "teria recebido"]},
+      {"question": "Vocês {{1}} (conseguir) melhores resultados e {{2}} (reduzir) os custos, se tivessem planeado as despesas.", "reponses": ["teriam conseguido", "teriam reduzido"]},
+      {"question": "O hospital {{1}} (evitar) o atraso e {{2}} (atender) os pacientes mais cedo, se tivesse recebido os equipamentos.", "reponses": ["teria evitado", "teria atendido"]}
+    ]
+  },
+  {
+    "id": "009",
+    "titre": "Exercício 009",
+    "definition": "Complete as frases com uma afirmação e uma reação que depende de uma situação.",
+    "instruction": "Use o contexto para determinar a forma adequada de cada verbo.",
+    "questions": [
+      {"question": "Eu {{1}} (estar) disponível amanhã, embora talvez {{2}} (precisar) de sair mais cedo.", "reponses": ["estarei", "precise"]},
+      {"question": "A direção {{1}} (anunciar) a decisão hoje, embora {{2}} (ser) necessário consultar os parceiros.", "reponses": ["anunciará", "seja"]},
+      {"question": "Nós {{1}} (participar) na reunião, desde que todos {{2}} (receber) a documentação.", "reponses": ["participaremos", "recebam"]},
+      {"question": "A equipa {{1}} (entregar) o relatório amanhã, embora ainda {{2}} (haver) algumas dúvidas.", "reponses": ["entregará", "haja"]},
+      {"question": "Tu {{1}} (poder) apresentar o projeto, desde que {{2}} (preparar) os dados necessários.", "reponses": ["poderás", "prepares"]},
+      {"question": "Os especialistas {{1}} (reunir-se) na próxima semana, caso {{2}} (ser) possível conciliar os horários.", "reponses": ["reunir-se-ão", "seja"]},
+      {"question": "O médico {{1}} (telefonar) amanhã, embora não {{2}} (conhecer) ainda os resultados finais.", "reponses": ["telefonará", "conheça"]},
+      {"question": "Eu {{1}} (aceitar) o convite, desde que {{2}} (poder) organizar a minha agenda.", "reponses": ["aceitarei", "possa"]},
+      {"question": "Vocês {{1}} (receber) uma resposta em breve, mesmo que o processo {{2}} (demorar) mais do que o previsto.", "reponses": ["receberão", "demore"]},
+      {"question": "A empresa {{1}} (abrir) novas vagas, desde que {{2}} (dispor) dos recursos necessários.", "reponses": ["abrirá", "disponha"]}
+    ]
+  },
+  {
+    "id": "010",
+    "titre": "Exercício 010",
+    "definition": "Complete as frases que exprimem desejos, dúvidas ou reações a acontecimentos anteriores.",
+    "instruction": "Conjugue os verbos tendo em conta o grau de certeza expresso.",
+    "questions": [
+      {"question": "Eu {{1}} (esperar) que tudo corra bem e que a equipa {{2}} (ter) concluído a tarefa a tempo.", "reponses": ["espero", "tenha"]},
+      {"question": "A professora {{1}} (querer) que os alunos participem e que todos {{2}} (ter) compreendido as instruções.", "reponses": ["quer", "tenham"]},
+      {"question": "Nós {{1}} (duvidar) que ele conheça o assunto e que {{2}} (ler) o relatório completo.", "reponses": ["duvidamos", "tenha lido"]},
+      {"question": "O diretor {{1}} (exigir) que cada funcionário cumpra as regras e que {{2}} (entregar) os documentos necessários.", "reponses": ["exige", "tenha entregue"]},
+      {"question": "Tu {{1}} (desejar) que a reunião seja produtiva e que todos {{2}} (preparar) as suas intervenções.", "reponses": ["desejas", "tenham preparado"]},
+      {"question": "Os médicos {{1}} (esperar) que o tratamento resulte e que o paciente {{2}} (seguir) as recomendações.", "reponses": ["esperam", "tenha seguido"]},
+      {"question": "A empresa {{1}} (pretender) que os candidatos demonstrem experiência e que {{2}} (concluir) a formação exigida.", "reponses": ["pretende", "tenham concluído"]},
+      {"question": "Eu {{1}} (recear) que o cliente não aceite a proposta e que já {{2}} (escolher) outro fornecedor.", "reponses": ["receio", "tenha escolhido"]},
+      {"question": "Vocês {{1}} (preferir) que a direção explique a decisão e que {{2}} (esclarecer) todas as dúvidas.", "reponses": ["preferem", "tenha esclarecido"]},
+      {"question": "A investigadora {{1}} (esperar) que os resultados confirmem a hipótese e que a equipa {{2}} (recolher) dados suficientes.", "reponses": ["espera", "tenha recolhido"]}
+    ]
+  },
+  {
+    "id": "011",
+    "titre": "Exercício 011",
+    "definition": "Complete as frases que expressam desejos, dúvidas ou avaliações sobre ações anteriores.",
+    "instruction": "Considere a relação entre a reação presente e o acontecimento passado.",
+    "questions": [
+      {"question": "Eu {{1}} (lamentar) que ele não venha à reunião e que {{2}} (recusar) o convite ontem.", "reponses": ["lamento", "tenha recusado"]},
+      {"question": "A diretora {{1}} (duvidar) que os dados sejam fiáveis e que a equipa {{2}} (verificar) todas as fontes.", "reponses": ["duvida", "tenha verificado"]},
+      {"question": "Nós {{1}} (ficar) satisfeitos que os candidatos participem e que {{2}} (enviar) os documentos a tempo.", "reponses": ["ficamos", "tenham enviado"]},
+      {"question": "O professor {{1}} (estranhar) que a aluna falte e que não {{2}} (avisar) a secretaria.", "reponses": ["estranha", "tenha avisado"]},
+      {"question": "Tu {{1}} (temer) que o cliente desista e que já {{2}} (assinar) um contrato concorrente.", "reponses": ["temes", "tenha assinado"]},
+      {"question": "Os responsáveis {{1}} (lamentar) que o projeto atrase e que alguns parceiros {{2}} (retirar) o apoio.", "reponses": ["lamentam", "tenham retirado"]},
+      {"question": "A médica {{1}} (duvidar) que o doente esteja melhor e que {{2}} (tomar) a medicação corretamente.", "reponses": ["duvida", "tenha tomado"]},
+      {"question": "Eu {{1}} (ficar) surpreendido que a empresa cresça e que {{2}} (abrir) tantas filiais este ano.", "reponses": ["fico", "tenha aberto"]},
+      {"question": "Vocês {{1}} (lamentar) que a reunião seja cancelada e que ninguém vos {{2}} (informar) previamente.", "reponses": ["lamentam", "tenha informado"]},
+      {"question": "A equipa {{1}} (considerar) importante que todos colaborem e que cada membro {{2}} (cumprir) as suas responsabilidades.", "reponses": ["considera", "tenha cumprido"]}
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "Exercício 012",
+    "definition": "Relacione uma ação que se tem repetido com uma situação que decorria no passado.",
+    "instruction": "Complete as frases usando as pistas temporais e o sentido global.",
+    "questions": [
+      {"question": "Ultimamente, eu {{1}} (receber) muitas mensagens, mas antes {{2}} (responder) apenas às mais urgentes.", "reponses": ["tenho recebido", "respondia"]},
+      {"question": "A equipa {{1}} (organizar) várias sessões de formação e, no início, {{2}} (trabalhar) sem apoio técnico.", "reponses": ["tem organizado", "trabalhava"]},
+      {"question": "Nós {{1}} (visitar) os clientes com frequência, embora antigamente {{2}} (depender) quase sempre de chamadas telefónicas.", "reponses": ["temos visitado", "dependêssemos"]},
+      {"question": "A empresa {{1}} (contratar) novos funcionários nos últimos meses, enquanto antes {{2}} (reduzir) as despesas.", "reponses": ["tem contratado", "reduzia"]},
+      {"question": "Tu {{1}} (estudar) com mais regularidade ultimamente, mas no ano passado {{2}} (adiar) muitas tarefas.", "reponses": ["tens estudado", "adiavas"]},
+      {"question": "Os investigadores {{1}} (publicar) vários artigos recentemente, embora antes {{2}} (partilhar) os resultados apenas em conferências.", "reponses": ["têm publicado", "partilhassem"]},
+      {"question": "A médica {{1}} (acompanhar) mais pacientes este ano, enquanto antes {{2}} (trabalhar) apenas em consultas externas.", "reponses": ["tem acompanhado", "trabalhava"]},
+      {"question": "Eu {{1}} (praticar) português diariamente, ao passo que antes {{2}} (estudar) apenas ao fim de semana.", "reponses": ["tenho praticado", "estudava"]},
+      {"question": "Vocês {{1}} (apresentar) propostas inovadoras ultimamente, mas antes {{2}} (seguir) sempre o mesmo procedimento.", "reponses": ["têm apresentado", "seguiam"]},
+      {"question": "O município {{1}} (investir) mais nos transportes nos últimos anos, embora antes {{2}} (dar) prioridade às estradas.", "reponses": ["tem investido", "desse"]}
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Exercício 013",
+    "definition": "Distinga ações repetidas ao longo do tempo de ações anteriores a outra referência passada.",
+    "instruction": "Preencha os dois espaços de cada frase de forma coerente.",
+    "questions": [
+      {"question": "A equipa {{1}} (realizar) várias reuniões este mês; antes da primeira, já {{2}} (preparar) um plano detalhado.", "reponses": ["tem realizado", "tinha preparado"]},
+      {"question": "Eu {{1}} (receber) várias propostas ultimamente e já {{2}} (analisar) duas delas antes da entrevista.", "reponses": ["tenho recebido", "tinha analisado"]},
+      {"question": "A empresa {{1}} (lançar) novos produtos este ano e já {{2}} (desenvolver) o protótipo antes do anúncio inicial.", "reponses": ["tem lançado", "tinha desenvolvido"]},
+      {"question": "Nós {{1}} (visitar) várias instituições recentemente e já {{2}} (contactar) os diretores antes de iniciar o projeto.", "reponses": ["temos visitado", "tínhamos contactado"]},
+      {"question": "O investigador {{1}} (publicar) artigos com regularidade e já {{2}} (recolher) os dados antes de escrever o primeiro.", "reponses": ["tem publicado", "tinha recolhido"]},
+      {"question": "Tu {{1}} (participar) em muitas reuniões este trimestre e já {{2}} (ler) o relatório antes da sessão inaugural.", "reponses": ["tens participado", "tinhas lido"]},
+      {"question": "Os médicos {{1}} (observar) casos semelhantes ultimamente e já {{2}} (identificar) os sintomas antes da investigação.", "reponses": ["têm observado", "tinham identificado"]},
+      {"question": "A direção {{1}} (receber) reclamações nos últimos dias e já {{2}} (discutir) o assunto antes da reunião de ontem.", "reponses": ["tem recebido", "tinha discutido"]},
+      {"question": "Eu {{1}} (fazer) várias tentativas este mês e já {{2}} (corrigir) o erro antes do último teste.", "reponses": ["tenho feito", "tinha corrigido"]},
+      {"question": "Os estudantes {{1}} (entregar) trabalhos com frequência e já {{2}} (consultar) as fontes antes de começar a redação.", "reponses": ["têm entregado", "tinham consultado"]}
+    ]
+  },
+  {
+    "id": "014",
+    "titre": "Exercício 014",
+    "definition": "Relacione ações repetidas recentemente com acontecimentos concluídos num momento passado.",
+    "instruction": "Use o contexto para completar as frases corretamente.",
+    "questions": [
+      {"question": "Ultimamente, eu {{1}} (ler) mais artigos científicos e ontem {{2}} (descobrir) uma nova investigação.", "reponses": ["tenho lido", "descobri"]},
+      {"question": "A empresa {{1}} (receber) muitas candidaturas este mês e na segunda-feira {{2}} (selecionar) os primeiros candidatos.", "reponses": ["tem recebido", "selecionou"]},
+      {"question": "Nós {{1}} (visitar) várias cidades este ano e no verão passado {{2}} (conhecer) o Porto.", "reponses": ["temos visitado", "conhecemos"]},
+      {"question": "A médica {{1}} (acompanhar) casos semelhantes recentemente e ontem {{2}} (identificar) uma complicação rara.", "reponses": ["tem acompanhado", "identificou"]},
+      {"question": "Tu {{1}} (praticar) bastante ultimamente e na última prova {{2}} (obter) uma excelente classificação.", "reponses": ["tens praticado", "obtiveste"]},
+      {"question": "Os investigadores {{1}} (publicar) vários estudos este ano e em março {{2}} (divulgar) uma descoberta importante.", "reponses": ["têm publicado", "divulgaram"]},
+      {"question": "A equipa {{1}} (treinar) intensamente nas últimas semanas e ontem {{2}} (vencer) o jogo decisivo.", "reponses": ["tem treinado", "venceu"]},
+      {"question": "Eu {{1}} (receber) vários convites recentemente e na semana passada {{2}} (aceitar) o mais interessante.", "reponses": ["tenho recebido", "aceitei"]},
+      {"question": "Vocês {{1}} (trabalhar) muito neste projeto e ontem {{2}} (apresentar) a versão final.", "reponses": ["têm trabalhado", "apresentaram"]},
+      {"question": "O município {{1}} (reparar) várias ruas nos últimos meses e em junho {{2}} (inaugurar) uma nova ponte.", "reponses": ["tem reparado", "inaugurou"]}
+    ]
+  },
+  {
+    "id": "015",
+    "titre": "Exercício 015",
+    "definition": "Associe uma situação que se prolonga até ao presente a uma ação futura.",
+    "instruction": "Complete os espaços de acordo com as indicações temporais.",
+    "questions": [
+      {"question": "Eu {{1}} (estudar) português com regularidade e amanhã {{2}} (fazer) um teste oral.", "reponses": ["tenho estudado", "farei"]},
+      {"question": "A equipa {{1}} (preparar) a candidatura há semanas e na sexta-feira {{2}} (enviar) os documentos.", "reponses": ["tem preparado", "enviará"]},
+      {"question": "Nós {{1}} (negociar) com os fornecedores ultimamente e na próxima semana {{2}} (assinar) o contrato.", "reponses": ["temos negociado", "assinaremos"]},
+      {"question": "A empresa {{1}} (desenvolver) novas soluções e em breve {{2}} (lançar) uma aplicação.", "reponses": ["tem desenvolvido", "lançará"]},
+      {"question": "Tu {{1}} (treinar) intensamente este mês e no domingo {{2}} (participar) na competição.", "reponses": ["tens treinado", "participarás"]},
+      {"question": "Os investigadores {{1}} (recolher) dados há vários meses e amanhã {{2}} (apresentar) os resultados preliminares.", "reponses": ["têm recolhido", "apresentarão"]},
+      {"question": "A médica {{1}} (acompanhar) o paciente desde janeiro e na próxima consulta {{2}} (avaliar) a evolução.", "reponses": ["tem acompanhado", "avaliará"]},
+      {"question": "Eu {{1}} (poupar) dinheiro nos últimos meses e em dezembro {{2}} (comprar) um computador.", "reponses": ["tenho poupado", "comprarei"]},
+      {"question": "Vocês {{1}} (trabalhar) neste plano há algum tempo e amanhã {{2}} (apresentar) a proposta à direção.", "reponses": ["têm trabalhado", "apresentarão"]},
+      {"question": "O município {{1}} (investir) em energias renováveis e no próximo ano {{2}} (construir) uma nova central.", "reponses": ["tem investido", "construirá"]}
+    ]
+  },
+  {
+    "id": "016",
+    "titre": "Exercício 016",
+    "definition": "Complete as frases em que uma atividade recente deverá estar concluída antes de um momento futuro.",
+    "instruction": "Preste atenção aos prazos e às ações que já estarão terminadas.",
+    "questions": [
+      {"question": "Eu {{1}} (trabalhar) muito nos últimos dias e, até sexta-feira, {{2}} (terminar) o relatório.", "reponses": ["tenho trabalhado", "terei terminado"]},
+      {"question": "A equipa {{1}} (testar) o sistema ultimamente e, antes da apresentação, {{2}} (corrigir) as falhas.", "reponses": ["tem testado", "terá corrigido"]},
+      {"question": "Nós {{1}} (preparar) a documentação e, quando o auditor chegar, {{2}} (reunir) todas as provas.", "reponses": ["temos preparado", "teremos reunido"]},
+      {"question": "A médica {{1}} (acompanhar) o caso nas últimas semanas e, na próxima consulta, {{2}} (avaliar) os novos resultados.", "reponses": ["tem acompanhado", "terá avaliado"]},
+      {"question": "Tu {{1}} (estudar) bastante este semestre e, até ao exame, {{2}} (rever) todos os capítulos.", "reponses": ["tens estudado", "terás revisto"]},
+      {"question": "Os técnicos {{1}} (instalar) os equipamentos e, antes da inauguração, {{2}} (verificar) todas as ligações.", "reponses": ["têm instalado", "terão verificado"]},
+      {"question": "A empresa {{1}} (negociar) os termos do acordo e, até ao fim do mês, {{2}} (concluir) as negociações.", "reponses": ["tem negociado", "terá concluído"]},
+      {"question": "Eu {{1}} (recolher) informações durante semanas e, quando a equipa se reunir, {{2}} (organizar) os dados.", "reponses": ["tenho recolhido", "terei organizado"]},
+      {"question": "Vocês {{1}} (preparar) a conferência e, até à chegada dos convidados, {{2}} (distribuir) os materiais.", "reponses": ["têm preparado", "terão distribuído"]},
+      {"question": "O hospital {{1}} (recrutar) profissionais nos últimos meses e, antes do inverno, {{2}} (reforçar) as equipas.", "reponses": ["tem recrutado", "terá reforçado"]}
+    ]
+  },
+  {
+    "id": "017",
+    "titre": "Exercício 017",
+    "definition": "Complete as frases que apresentam uma possibilidade, uma preferência ou uma consequência hipotética.",
+    "instruction": "Conjugue os verbos de acordo com o contexto.",
+    "questions": [
+      {"question": "Eu {{1}} (receber) várias propostas ultimamente e {{2}} (aceitar) uma delas se as condições fossem melhores.", "reponses": ["tenho recebido", "aceitaria"]},
+      {"question": "A equipa {{1}} (trabalhar) intensamente este mês e {{2}} (concluir) o projeto mais cedo se tivesse mais recursos.", "reponses": ["tem trabalhado", "concluiria"]},
+      {"question": "Nós {{1}} (procurar) um novo escritório e {{2}} (escolher) uma localização central se o orçamento permitisse.", "reponses": ["temos procurado", "escolheríamos"]},
+      {"question": "A Marta {{1}} (estudar) bastante recentemente e {{2}} (candidatar-se) a uma bolsa se reunisse todos os requisitos.", "reponses": ["tem estudado", "candidatar-se-ia"]},
+      {"question": "Tu {{1}} (participar) em várias reuniões e {{2}} (assumir) mais responsabilidades se tivesses disponibilidade.", "reponses": ["tens participado", "assumirias"]},
+      {"question": "Os investigadores {{1}} (analisar) os resultados e {{2}} (propor) outra explicação se os dados fossem diferentes.", "reponses": ["têm analisado", "proporiam"]},
+      {"question": "A empresa {{1}} (receber) encomendas regularmente e {{2}} (expandir) a produção se houvesse mais procura.", "reponses": ["tem recebido", "expandiria"]},
+      {"question": "Eu {{1}} (praticar) a apresentação todos os dias e {{2}} (falar) com mais confiança se tivesse mais experiência.", "reponses": ["tenho praticado", "falaria"]},
+      {"question": "Vocês {{1}} (recolher) dados no terreno e {{2}} (alterar) o plano se encontrassem novos obstáculos.", "reponses": ["têm recolhido", "alterariam"]},
+      {"question": "O município {{1}} (investir) em transportes e {{2}} (reduzir) o trânsito se criasse mais corredores de autocarros.", "reponses": ["tem investido", "reduziria"]}
+    ]
+  },
+  {
+    "id": "018",
+    "titre": "Exercício 018",
+    "definition": "Complete as frases que exprimem uma ação anterior que teria produzido determinado resultado.",
+    "instruction": "Analise a hipótese e a consequência antes de preencher os espaços.",
+    "questions": [
+      {"question": "Eu {{1}} (receber) várias propostas ultimamente e {{2}} (aceitar) a melhor se as condições tivessem sido adequadas.", "reponses": ["tenho recebido", "teria aceitado"]},
+      {"question": "A equipa {{1}} (trabalhar) durante semanas e {{2}} (concluir) o projeto se os materiais tivessem chegado a tempo.", "reponses": ["tem trabalhado", "teria concluído"]},
+      {"question": "Nós {{1}} (procurar) um novo escritório e {{2}} (encontrar) uma solução se o proprietário tivesse respondido.", "reponses": ["temos procurado", "teríamos encontrado"]},
+      {"question": "A Marta {{1}} (estudar) bastante e {{2}} (obter) uma classificação melhor se tivesse dormido o suficiente.", "reponses": ["tem estudado", "teria obtido"]},
+      {"question": "Tu {{1}} (participar) em várias reuniões e {{2}} (perceber) o problema se tivesses recebido os documentos.", "reponses": ["tens participado", "terias percebido"]},
+      {"question": "Os investigadores {{1}} (analisar) os dados e {{2}} (detetar) o erro se tivessem usado outro método.", "reponses": ["têm analisado", "teriam detetado"]},
+      {"question": "A empresa {{1}} (receber) muitas encomendas e {{2}} (aumentar) as vendas se tivesse mantido o preço anterior.", "reponses": ["tem recebido", "teria aumentado"]},
+      {"question": "Eu {{1}} (praticar) a apresentação e {{2}} (evitar) os enganos se tivesse ensaiado diante de colegas.", "reponses": ["tenho praticado", "teria evitado"]},
+      {"question": "Vocês {{1}} (recolher) dados suficientes e {{2}} (confirmar) a hipótese se tivessem incluído mais participantes.", "reponses": ["têm recolhido", "teriam confirmado"]},
+      {"question": "O município {{1}} (investir) mais cedo e {{2}} (reduzir) os congestionamentos se tivesse iniciado as obras antes.", "reponses": ["tem investido", "teria reduzido"]}
+    ]
+  },
+  {
+    "id": "019",
+    "titre": "Exercício 019",
+    "definition": "Complete as frases que apresentam uma atividade recente e uma reação, desejo ou exigência.",
+    "instruction": "Observe a expressão que introduz a segunda parte da frase.",
+    "questions": [
+      {"question": "Eu {{1}} (receber) várias propostas ultimamente e espero que a empresa {{2}} (apresentar) uma oferta melhor.", "reponses": ["tenho recebido", "apresente"]},
+      {"question": "A equipa {{1}} (trabalhar) muito este mês e o diretor exige que todos {{2}} (cumprir) o prazo.", "reponses": ["tem trabalhado", "cumpram"]},
+      {"question": "Nós {{1}} (procurar) um novo local e queremos que o proprietário {{2}} (reduzir) a renda.", "reponses": ["temos procurado", "reduza"]},
+      {"question": "A Marta {{1}} (estudar) com regularidade e é importante que {{2}} (continuar) a praticar diariamente.", "reponses": ["tem estudado", "continue"]},
+      {"question": "Tu {{1}} (participar) nas reuniões e espero que {{2}} (partilhar) as tuas ideias na próxima sessão.", "reponses": ["tens participado", "partilhes"]},
+      {"question": "Os investigadores {{1}} (analisar) os dados e a comissão pede que {{2}} (explicar) os resultados com clareza.", "reponses": ["têm analisado", "expliquem"]},
+      {"question": "A empresa {{1}} (receber) reclamações e a direção recomenda que os funcionários {{2}} (responder) rapidamente.", "reponses": ["tem recebido", "respondam"]},
+      {"question": "Eu {{1}} (praticar) a apresentação e prefiro que o meu colega {{2}} (rever) os diapositivos.", "reponses": ["tenho praticado", "reveja"]},
+      {"question": "Vocês {{1}} (recolher) informações e é necessário que {{2}} (verificar) todas as fontes.", "reponses": ["têm recolhido", "verifiquem"]},
+      {"question": "O município {{1}} (investir) em transportes e os moradores esperam que as obras {{2}} (melhorar) a circulação.", "reponses": ["tem investido", "melhorem"]}
+    ]
+  },
+  {
+    "id": "020",
+    "titre": "Exercício 020",
+    "definition": "Complete as frases em que uma atividade recente é acompanhada por uma avaliação de uma ação anterior.",
+    "instruction": "Use as pistas de dúvida, satisfação, receio ou avaliação para escolher a forma correta.",
+    "questions": [
+      {"question": "Eu {{1}} (receber) várias propostas e duvido que todas {{2}} (ser) avaliadas com imparcialidade.", "reponses": ["tenho recebido", "tenham sido"]},
+      {"question": "A equipa {{1}} (trabalhar) intensamente e lamento que alguns membros não {{2}} (receber) o reconhecimento devido.", "reponses": ["tem trabalhado", "tenham recebido"]},
+      {"question": "Nós {{1}} (procurar) uma solução e é estranho que ninguém {{2}} (apresentar) uma alternativa viável.", "reponses": ["temos procurado", "tenha apresentado"]},
+      {"question": "A Marta {{1}} (estudar) bastante e fico satisfeito que {{2}} (conseguir) melhorar os resultados.", "reponses": ["tem estudado", "tenha conseguido"]},
+      {"question": "Tu {{1}} (participar) nas reuniões e receio que não {{2}} (compreender) todas as instruções.", "reponses": ["tens participado", "tenhas compreendido"]},
+      {"question": "Os investigadores {{1}} (analisar) os dados e é possível que {{2}} (identificar) uma falha metodológica.", "reponses": ["têm analisado", "tenham identificado"]},
+      {"question": "A empresa {{1}} (receber) muitas candidaturas e surpreende-me que ainda não {{2}} (selecionar) os candidatos.", "reponses": ["tem recebido", "tenha selecionado"]},
+      {"question": "Eu {{1}} (praticar) a apresentação e lamento que o técnico não {{2}} (guardar) a versão final.", "reponses": ["tenho praticado", "tenha guardado"]},
+      {"question": "Vocês {{1}} (recolher) dados importantes e é provável que {{2}} (encontrar) uma explicação convincente.", "reponses": ["têm recolhido", "tenham encontrado"]},
+      {"question": "O município {{1}} (investir) na rede viária e os cidadãos duvidam que as obras {{2}} (resolver) todos os problemas.", "reponses": ["tem investido", "tenham resolvido"]}
+    ]
+  },
+  {
+    "id": "021",
+    "titre": "Exercício 021",
+    "definition": "Complete as frases com base nas relações temporais e lógicas entre as duas ações.",
+    "instruction": "Leia cada frase integralmente antes de conjugar os verbos.",
+    "questions": [
+      {"question": "Eu {{1}} (trabalhar) nesta área há vários anos e espero que a experiência {{2}} (ajudar) a resolver este problema.", "reponses": ["tenho trabalhado", "ajude"]},
+      {"question": "A equipa {{1}} (desenvolver) novas ferramentas recentemente e é essencial que todos {{2}} (aprender) a utilizá-las.", "reponses": ["tem desenvolvido", "aprendam"]},
+      {"question": "Nós {{1}} (receber) muitas sugestões e queremos que a direção {{2}} (considerar) cada uma delas.", "reponses": ["temos recebido", "considere"]},
+      {"question": "A médica {{1}} (acompanhar) o paciente nas últimas semanas e recomenda que ele {{2}} (manter) os hábitos saudáveis.", "reponses": ["tem acompanhado", "mantenha"]},
+      {"question": "Tu {{1}} (estudar) com empenho ultimamente e é importante que {{2}} (continuar) nesse ritmo.", "reponses": ["tens estudado", "continues"]},
+      {"question": "Os investigadores {{1}} (recolher) novas provas e a comissão exige que {{2}} (documentar) cada etapa.", "reponses": ["têm recolhido", "documentem"]},
+      {"question": "A empresa {{1}} (melhorar) os seus serviços e espera que os clientes {{2}} (notar) a diferença.", "reponses": ["tem melhorado", "notem"]},
+      {"question": "Eu {{1}} (participar) em várias formações e considero importante que todos {{2}} (ter) acesso às mesmas oportunidades.", "reponses": ["tenho participado", "tenham"]},
+      {"question": "Vocês {{1}} (trabalhar) neste projeto há meses e é necessário que {{2}} (entregar) os documentos em falta.", "reponses": ["têm trabalhado", "entreguem"]},
+      {"question": "O município {{1}} (implementar) novas medidas e os residentes desejam que elas {{2}} (produzir) resultados duradouros.", "reponses": ["tem implementado", "produzam"]}
+    ]
+  }
+]
