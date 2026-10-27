@@ -1084,6 +1084,367 @@
 {"text": "Wenn sie mehr Zeit {{1}}, {{2}} sie das Buch lesen; gestern {{3}} sie es beendet, wenn sie mehr Zeit gehabt hätte. (haben / können / haben)", "answers": ["hätte", "könnte", "hätte"]},
 {"text": "Wenn wir mehr Geld {{1}}, {{2}} wir ein größeres Haus kaufen; letztes Jahr {{3}} wir es gekauft, wenn wir genug Geld gehabt hätten. (haben / würden / haben)", "answers": ["hätten", "würden", "hätten"]}
 ]
+},
+ {
+"id": "058",
+"titre": "Präsens – Perfekt – Präteritum",
+"definition": "Das Präsens beschreibt gegenwärtige Handlungen, das Perfekt abgeschlossene Handlungen und das Präteritum vergangene Ereignisse.",
+"instruction": "Setze die Verben in die passende Zeitform.",
+"questions": [
+{"text": "Ich {{1}} jeden Morgen Kaffee. Heute {{2}} ich schon zwei Tassen {{3}}, und gestern {{4}} ich Tee. (trinken / trinken / trinken)", "answers": ["trinke", "habe", "getrunken"]},
+{"text": "Sie {{1}} in Berlin. Letzte Woche {{2}} sie nach Hamburg {{3}}, und früher {{4}} sie in München. (wohnen / fahren / wohnen)", "answers": ["wohnt", "ist", "gefahren"]},
+{"text": "Wir {{1}} Deutsch. Gestern {{2}} wir viel {{3}}, und letztes Jahr {{4}} wir Französisch. (lernen / lernen / lernen)", "answers": ["lernen", "haben", "gelernt"]},
+{"text": "Er {{1}} jeden Tag zur Arbeit. Heute {{2}} er mit dem Bus {{3}}, und gestern {{4}} er zu Fuß. (gehen / fahren / gehen)", "answers": ["geht", "ist", "gefahren"]},
+{"text": "Du {{1}} gern Bücher. Diese Woche {{2}} du einen Roman {{3}}, und früher {{4}} du viele Gedichte. (lesen / lesen / lesen)", "answers": ["liest", "hast", "gelesen"]},
+{"text": "Die Kinder {{1}} im Garten. Sie {{2}} heute lange {{3}}, und gestern {{4}} sie im Park. (spielen / spielen / spielen)", "answers": ["spielen", "haben", "gespielt"]},
+{"text": "Meine Mutter {{1}} jeden Sonntag. Heute {{2}} sie einen Kuchen {{3}}, und gestern {{4}} sie Suppe. (kochen / backen / kochen)", "answers": ["kocht", "hat", "gebacken"]},
+{"text": "Ihr {{1}} sehr schnell. Ihr {{2}} heute zehn Kilometer {{3}}, und gestern {{4}} ihr fünf Kilometer. (laufen / laufen / laufen)", "answers": ["lauft", "seid", "gelaufen"]},
+{"text": "Der Zug {{1}} pünktlich. Er {{2}} heute früh {{3}}, und gestern {{4}} er zehn Minuten Verspätung. (kommen / ankommen / haben)", "answers": ["kommt", "ist", "angekommen"]},
+{"text": "Ich {{1}} meine Freunde oft. Gestern {{2}} ich sie {{3}}, und letzte Woche {{4}} ich sie im Café. (besuchen / besuchen / treffen)", "answers": ["besuche", "habe", "besucht"]}
+]
+},
+{
+"id": "059",
+"titre": "Präsens – Perfekt – Plusquamperfekt",
+"definition": "Das Präsens beschreibt die Gegenwart, das Perfekt abgeschlossene Handlungen und das Plusquamperfekt Handlungen, die vor einem anderen vergangenen Ereignis abgeschlossen waren.",
+"instruction": "Ergänze die Sätze mit den passenden Verbformen.",
+"questions": [
+{"text": "Ich {{1}} jetzt zu Hause. Ich {{2}} heute schon {{3}}, bevor mein Bruder ankam. (sein / aufräumen / aufräumen)", "answers": ["bin", "habe", "aufgeräumt"]},
+{"text": "Sie {{1}} heute sehr früh. Sie {{2}} bereits {{3}}, bevor der Wecker klingelte. (arbeiten / aufstehen / aufstehen)", "answers": ["arbeitet", "war", "aufgestanden"]},
+{"text": "Wir {{1}} jetzt gemeinsam. Wir {{2}} schon {{3}}, bevor die Gäste kamen. (essen / kochen / kochen)", "answers": ["essen", "hatten", "gekocht"]},
+{"text": "Er {{1}} in Frankfurt. Er {{2}} bereits {{3}}, bevor er nach Berlin zog. (wohnen / leben / leben)", "answers": ["wohnt", "hatte", "gelebt"]},
+{"text": "Du {{1}} Deutsch. Du {{2}} schon viel {{3}}, bevor du nach Deutschland kamst. (lernen / lernen / lernen)", "answers": ["lernst", "hattest", "gelernt"]},
+{"text": "Die Kinder {{1}} draußen. Sie {{2}} bereits {{3}}, bevor es anfing zu regnen. (spielen / spielen / spielen)", "answers": ["spielen", "hatten", "gespielt"]},
+{"text": "Meine Schwester {{1}} im Büro. Sie {{2}} den Bericht schon {{3}}, bevor der Chef zurückkam. (arbeiten / schreiben / schreiben)", "answers": ["arbeitet", "hatte", "geschrieben"]},
+{"text": "Ihr {{1}} jetzt hier. Ihr {{2}} bereits {{3}}, bevor ich euch anrief. (sein / ankommen / ankommen)", "answers": ["seid", "wart", "angekommen"]},
+{"text": "Der Lehrer {{1}} die Klasse. Er {{2}} die Aufgabe schon {{3}}, bevor die Stunde begann. (unterrichten / erklären / erklären)", "answers": ["unterrichtet", "hatte", "erklärt"]},
+{"text": "Ich {{1}} gesund. Ich {{2}} mich schon {{3}}, bevor ich wieder zur Arbeit ging. (sein / erholen / erholen)", "answers": ["bin", "hatte", "erholt"]}
+]
+},
+{
+"id": "060",
+"titre": "Präsens – Präteritum – Plusquamperfekt",
+"definition": "Das Präsens beschreibt gegenwärtige Zustände, das Präteritum erzählt vergangene Ereignisse und das Plusquamperfekt bezeichnet eine frühere Handlung.",
+"instruction": "Setze die Verben in die passende Zeitform.",
+"questions": [
+{"text": "Ich {{1}} in Berlin. Früher {{2}} ich in Bonn, nachdem ich mein Studium {{3}}. (wohnen / wohnen / beenden)", "answers": ["wohne", "wohnte", "beendet hatte"]},
+{"text": "Sie {{1}} jeden Tag. Gestern {{2}} sie zu Hause, weil sie ihre Arbeit schon {{3}}. (arbeiten / bleiben / beenden)", "answers": ["arbeitet", "blieb", "beendet hatte"]},
+{"text": "Wir {{1}} gern Bücher. Als Kinder {{2}} wir viel, nachdem wir unsere Hausaufgaben {{3}}. (lesen / lesen / machen)", "answers": ["lesen", "lasen", "gemacht hatten"]},
+{"text": "Er {{1}} heute sehr früh. Gestern {{2}} er spät, weil er lange {{3}}. (aufstehen / aufstehen / arbeiten)", "answers": ["steht auf", "stand auf", "gearbeitet hatte"]},
+{"text": "Du {{1}} gut Deutsch. Früher {{2}} du wenig, weil du die Sprache noch nicht {{3}}. (sprechen / sprechen / lernen)", "answers": ["sprichst", "sprachst", "gelernt hattest"]},
+{"text": "Die Kinder {{1}} im Garten. Gestern {{2}} sie im Haus, nachdem sie draußen {{3}}. (spielen / bleiben / spielen)", "answers": ["spielen", "blieben", "gespielt hatten"]},
+{"text": "Meine Mutter {{1}} gern. Gestern {{2}} sie zu Hause, nachdem sie das Essen {{3}}. (kochen / bleiben / vorbereiten)", "answers": ["kocht", "blieb", "vorbereitet hatte"]},
+{"text": "Ihr {{1}} sehr schnell. Früher {{2}} ihr langsamer, weil ihr euch noch nicht {{3}}. (laufen / laufen / trainieren)", "answers": ["lauft", "lieft", "trainiert hattet"]},
+{"text": "Der Zug {{1}} pünktlich. Gestern {{2}} er spät, weil ein Unfall {{3}}. (kommen / kommen / passieren)", "answers": ["kommt", "kam", "passiert war"]},
+{"text": "Ich {{1}} meine Freunde oft. Gestern {{2}} ich sie, nachdem ich sie lange nicht {{3}}. (besuchen / besuchen / sehen)", "answers": ["besuche", "besuchte", "gesehen hatte"]}
+]
+},
+{
+"id": "061",
+"titre": "Präsens – Präteritum – Plusquamperfekt",
+"definition": "Das Präsens beschreibt die Gegenwart. Das Präteritum und das Plusquamperfekt werden verwendet, um vergangene Ereignisse und deren zeitliche Reihenfolge auszudrücken.",
+"instruction": "Ergänze die Sätze mit den passenden Formen.",
+"questions": [
+{"text": "Ich {{1}} jeden Tag zur Schule. Gestern {{2}} ich zu Fuß, nachdem ich den Bus {{3}}. (gehen / gehen / verpassen)", "answers": ["gehe", "ging", "verpasst hatte"]},
+{"text": "Sie {{1}} in einem Krankenhaus. Früher {{2}} sie in einer Klinik, nachdem sie ihr Studium {{3}}. (arbeiten / arbeiten / abschließen)", "answers": ["arbeitet", "arbeitete", "abgeschlossen hatte"]},
+{"text": "Wir {{1}} heute gemeinsam. Gestern {{2}} wir allein, weil unsere Freunde schon {{3}}. (essen / essen / gehen)", "answers": ["essen", "aßen", "gegangen waren"]},
+{"text": "Er {{1}} gern Musik. Gestern {{2}} er Klavier, nachdem er die Noten {{3}}. (spielen / spielen / lernen)", "answers": ["spielt", "spielte", "gelernt hatte"]},
+{"text": "Du {{1}} in einer großen Stadt. Früher {{2}} du auf dem Land, bevor deine Familie {{3}}. (leben / leben / umziehen)", "answers": ["lebst", "lebtest", "umgezogen war"]},
+{"text": "Die Schüler {{1}} aufmerksam. Gestern {{2}} sie besonders gut, nachdem der Lehrer die Regeln {{3}}. (zuhören / zuhören / erklären)", "answers": ["hören zu", "hörten zu", "erklärt hatte"]},
+{"text": "Meine Schwester {{1}} gern Kuchen. Gestern {{2}} sie einen, nachdem sie alle Zutaten {{3}}. (backen / backen / kaufen)", "answers": ["backt", "backte", "gekauft hatte"]},
+{"text": "Ihr {{1}} im Zentrum. Früher {{2}} ihr am Stadtrand, bevor ihr ein neues Haus {{3}}. (wohnen / wohnen / kaufen)", "answers": ["wohnt", "wohntet", "gekauft hattet"]},
+{"text": "Der Arzt {{1}} viele Patienten. Gestern {{2}} er besonders lange, nachdem mehrere Notfälle {{3}}. (behandeln / arbeiten / eintreffen)", "answers": ["behandelt", "arbeitete", "eingetroffen waren"]},
+{"text": "Ich {{1}} gern am Meer. Letzten Sommer {{2}} ich dort, nachdem ich mein Hotel {{3}}. (reisen / sein / buchen)", "answers": ["reise", "war", "gebucht hatte"]}
+]
+},
+{
+"id": "062",
+"titre": "Präsens – Präteritum – Plusquamperfekt",
+"definition": "Diese Zeitformen dienen dazu, gegenwärtige Tatsachen, vergangene Erzählungen und davor abgeschlossene Handlungen zu unterscheiden.",
+"instruction": "Vervollständige die Sätze.",
+"questions": [
+{"text": "Ich {{1}} in einem Büro. Gestern {{2}} ich zu Hause, weil ich meine Aufgaben schon {{3}}. (arbeiten / bleiben / erledigen)", "answers": ["arbeite", "blieb", "erledigt hatte"]},
+{"text": "Sie {{1}} gern Sport. Letzte Woche {{2}} sie Tennis, nachdem sie ihre Arbeit {{3}}. (treiben / spielen / beenden)", "answers": ["treibt", "spielte", "beendet hatte"]},
+{"text": "Wir {{1}} jeden Morgen früh. Gestern {{2}} wir spät, weil wir lange {{3}}. (aufstehen / aufstehen / feiern)", "answers": ["stehen auf", "standen auf", "gefeiert hatten"]},
+{"text": "Er {{1}} in einer Schule. Früher {{2}} er an einer Universität, nachdem er seine Ausbildung {{3}}. (unterrichten / unterrichten / abschließen)", "answers": ["unterrichtet", "unterrichtete", "abgeschlossen hatte"]},
+{"text": "Du {{1}} sehr gern. Gestern {{2}} du ein Lied, das du schon lange {{3}}. (singen / singen / üben)", "answers": ["singst", "sangst", "geübt hattest"]},
+{"text": "Die Gäste {{1}} oft zu uns. Gestern {{2}} sie früh, nachdem sie das Essen {{3}}. (kommen / gehen / beenden)", "answers": ["kommen", "gingen", "beendet hatten"]},
+{"text": "Meine Eltern {{1}} auf dem Land. Früher {{2}} sie in der Stadt, bevor sie aufs Land {{3}}. (leben / leben / ziehen)", "answers": ["leben", "lebten", "gezogen waren"]},
+{"text": "Ihr {{1}} viel Wasser. Gestern {{2}} ihr wenig, weil ihr schon genug {{3}}. (trinken / trinken / trinken)", "answers": ["trinkt", "trankt", "getrunken hattet"]},
+{"text": "Der Hund {{1}} im Garten. Gestern {{2}} er im Haus, nachdem er draußen {{3}}. (schlafen / schlafen / spielen)", "answers": ["schläft", "schlief", "gespielt hatte"]},
+{"text": "Ich {{1}} meine Arbeit sorgfältig. Gestern {{2}} ich besonders schnell, weil ich den Ablauf schon {{3}}. (machen / arbeiten / lernen)", "answers": ["mache", "arbeitete", "gelernt hatte"]}
+]
+},
+{
+"id": "063",
+"titre": "Präsens – Futur I – Futur II",
+"definition": "Das Präsens beschreibt die Gegenwart, das Futur I zukünftige Handlungen und das Futur II Handlungen, die zu einem zukünftigen Zeitpunkt abgeschlossen sein werden.",
+"instruction": "Setze die Verben in die passenden Zeitformen.",
+"questions": [
+{"text": "Ich {{1}} jeden Tag Deutsch. Morgen {{2}} ich weiterlernen, und bis Freitag {{3}} ich das Kapitel beendet haben. (lernen / werden / werden)", "answers": ["lerne", "werde", "werde"]},
+{"text": "Sie {{1}} in Berlin. Nächstes Jahr {{2}} sie nach Hamburg ziehen, und bis dahin {{3}} sie ihre Wohnung verkauft haben. (wohnen / werden / werden)", "answers": ["wohnt", "wird", "wird"]},
+{"text": "Wir {{1}} heute zu Hause. Morgen {{2}} wir verreisen, und bis Sonntag {{3}} wir unser Ziel erreicht haben. (bleiben / werden / werden)", "answers": ["bleiben", "werden", "werden"]},
+{"text": "Er {{1}} täglich Sport. Morgen {{2}} er trainieren, und bis Ende des Monats {{3}} er zehn Trainingseinheiten absolviert haben. (treiben / werden / werden)", "answers": ["treibt", "wird", "wird"]},
+{"text": "Du {{1}} viel. Nächste Woche {{2}} du eine Prüfung schreiben, und bis Freitag {{3}} du alle Aufgaben erledigt haben. (lernen / werden / werden)", "answers": ["lernst", "wirst", "wirst"]},
+{"text": "Die Kinder {{1}} im Garten. Morgen {{2}} sie wieder spielen, und bis zum Abend {{3}} sie ihre Hausaufgaben erledigt haben. (spielen / werden / werden)", "answers": ["spielen", "werden", "werden"]},
+{"text": "Meine Schwester {{1}} in einem Krankenhaus. Nächstes Jahr {{2}} sie eine Weiterbildung machen, und bis dahin {{3}} sie ihre Prüfung bestanden haben. (arbeiten / werden / werden)", "answers": ["arbeitet", "wird", "wird"]},
+{"text": "Ihr {{1}} jeden Morgen früh auf. Morgen {{2}} ihr wieder früh aufstehen, und bis nächste Woche {{3}} ihr euch daran gewöhnt haben. (stehen / werden / werden)", "answers": ["steht", "werdet", "werdet"]},
+{"text": "Der Zug {{1}} um acht Uhr. Morgen {{2}} er früher fahren, und bis Mittag {{3}} er alle Zwischenstationen passiert haben. (fahren / werden / werden)", "answers": ["fährt", "wird", "wird"]},
+{"text": "Ich {{1}} jeden Sonntag meine Eltern. Nächsten Sonntag {{2}} ich sie besuchen, und bis zum Abend {{3}} ich ihnen alles erzählt haben. (besuchen / werden / werden)", "answers": ["besuche", "werde", "werde"]}
+]
+},
+{
+"id": "064",
+"titre": "Präsens – Konjunktiv II Präsens – Konjunktiv II Vergangenheit",
+"definition": "Das Präsens beschreibt die Gegenwart. Der Konjunktiv II Präsens drückt gegenwärtige Wünsche oder hypothetische Situationen aus, während der Konjunktiv II Vergangenheit nicht verwirklichte Möglichkeiten in der Vergangenheit bezeichnet.",
+"instruction": "Ergänze die Sätze mit den passenden Formen.",
+"questions": [
+{"text": "Ich {{1}} wenig Zeit. Wenn ich mehr Zeit {{2}}, {{3}} ich gestern länger geblieben. (haben / haben / sein)", "answers": ["habe", "hätte", "wäre"]},
+{"text": "Sie {{1}} heute müde. Wenn sie gesund {{2}}, {{3}} sie gestern mitgekommen. (sein / sein / sein)", "answers": ["ist", "wäre", "wäre"]},
+{"text": "Wir {{1}} kein Auto. Wenn wir eines {{2}}, {{3}} wir gestern ans Meer gefahren. (haben / haben / sein)", "answers": ["haben", "hätten", "wären"]},
+{"text": "Er {{1}} heute viel Arbeit. Wenn er weniger Arbeit {{2}}, {{3}} er gestern geholfen. (haben / haben / haben)", "answers": ["hat", "hätte", "hätte"]},
+{"text": "Du {{1}} wenig Erfahrung. Wenn du mehr Erfahrung {{2}}, {{3}} du die Aufgabe gestern besser gelöst. (haben / haben / haben)", "answers": ["hast", "hättest", "hättest"]},
+{"text": "Die Kinder {{1}} jetzt zu Hause. Wenn sie nicht müde {{2}}, {{3}} sie gestern länger gespielt. (sein / sein / haben)", "answers": ["sind", "wären", "hätten"]},
+{"text": "Ich {{1}} deine Nummer nicht. Wenn ich sie {{2}}, {{3}} ich dich gestern angerufen. (kennen / kennen / haben)", "answers": ["kenne", "kennte", "hätte"]},
+{"text": "Ihr {{1}} heute wenig Zeit. Wenn ihr früher frei {{2}}, {{3}} ihr gestern mit uns gegessen. (haben / sein / haben)", "answers": ["habt", "gewesen wärt", "hättet"]},
+{"text": "Sie {{1}} in einer kleinen Wohnung. Wenn sie mehr Geld {{2}}, {{3}} sie letztes Jahr umgezogen. (wohnen / haben / sein)", "answers": ["wohnt", "hätte", "wäre"]},
+{"text": "Wir {{1}} heute müde. Wenn wir früher schlafen gegangen {{2}}, {{3}} wir gestern ausgeruhter gewesen. (sein / sein / sein)", "answers": ["sind", "wären", "wären"]}
+]
+},
+{
+"id": "065",
+"titre": "Präsens – Konjunktiv I Präsens – Konjunktiv I Vergangenheit",
+"definition": "Das Präsens beschreibt gegenwärtige Tatsachen. Der Konjunktiv I Präsens und der Konjunktiv I Vergangenheit werden besonders in der indirekten Rede verwendet.",
+"instruction": "Vervollständige die Sätze mit den passenden Verbformen.",
+"questions": [
+{"text": "Er {{1}} heute zu Hause. Er sagt, er {{2}} krank und {{3}} gestern nicht geschlafen. (sein / sein / haben)", "answers": ["ist", "sei", "habe"]},
+{"text": "Sie {{1}} im Büro. Sie erklärt, sie {{2}} sehr beschäftigt und {{3}} den Bericht bereits geschrieben. (arbeiten / sein / haben)", "answers": ["arbeitet", "sei", "habe"]},
+{"text": "Wir {{1}} in Berlin. Wir sagen, wir {{2}} zufrieden und {{3}} die Stadt schon besucht. (wohnen / sein / haben)", "answers": ["wohnen", "seien", "hätten"]},
+{"text": "Er {{1}} Deutsch. Er behauptet, er {{2}} die Sprache gut und {{3}} viel geübt. (sprechen / beherrschen / haben)", "answers": ["spricht", "beherrsche", "habe"]},
+{"text": "Du {{1}} heute müde. Du sagst, du {{2}} krank und {{3}} die ganze Nacht gearbeitet. (sein / sein / haben)", "answers": ["bist", "seiest", "habest"]},
+{"text": "Die Kinder {{1}} zu Hause. Ihre Mutter sagt, sie {{2}} müde und {{3}} lange gespielt. (sein / sein / haben)", "answers": ["sind", "seien", "hätten"]},
+{"text": "Meine Schwester {{1}} im Krankenhaus. Sie sagt, sie {{2}} sehr beschäftigt und {{3}} viele Patienten behandelt. (arbeiten / sein / haben)", "answers": ["arbeitet", "sei", "habe"]},
+{"text": "Ihr {{1}} heute hier. Ihr erklärt, ihr {{2}} bereit und {{3}} alles vorbereitet. (sein / sein / haben)", "answers": ["seid", "seiet", "habet"]},
+{"text": "Der Lehrer {{1}} die Klasse. Er sagt, die Schüler {{2}} aufmerksam und {{3}} die Aufgabe verstanden. (unterrichten / sein / haben)", "answers": ["unterrichtet", "seien", "hätten"]},
+{"text": "Ich {{1}} zu Hause. Ich sage, ich {{2}} beschäftigt und {{3}} die Nachricht bereits gelesen. (sein / sein / haben)", "answers": ["bin", "sei", "habe"]}
+]
+},
+{
+"id": "066",
+"titre": "Präsens – Futur I – Konjunktiv II Präsens",
+"definition": "Das Präsens bezeichnet gegenwärtige Handlungen, das Futur I zukünftige Ereignisse und der Konjunktiv II Präsens hypothetische Möglichkeiten.",
+"instruction": "Setze die Verben in die richtige Zeitform.",
+"questions": [
+{"text": "Ich {{1}} heute zu Hause. Morgen {{2}} ich arbeiten, aber ich {{3}} lieber verreisen, wenn ich frei hätte. (bleiben / werden / werden)", "answers": ["bleibe", "werde", "würde"]},
+{"text": "Sie {{1}} in Berlin. Nächstes Jahr {{2}} sie umziehen, aber sie {{3}} lieber bleiben, wenn sie eine bessere Wohnung hätte. (wohnen / werden / werden)", "answers": ["wohnt", "wird", "würde"]},
+{"text": "Wir {{1}} Deutsch. Morgen {{2}} wir weiterlernen, aber wir {{3}} lieber eine Pause machen, wenn wir könnten. (lernen / werden / werden)", "answers": ["lernen", "werden", "würden"]},
+{"text": "Er {{1}} heute im Büro. Morgen {{2}} er von zu Hause arbeiten, aber er {{3}} lieber Urlaub machen, wenn er könnte. (arbeiten / werden / werden)", "answers": ["arbeitet", "wird", "würde"]},
+{"text": "Du {{1}} viel Sport. Morgen {{2}} du wieder trainieren, aber du {{3}} lieber schlafen, wenn du müde wärst. (treiben / werden / werden)", "answers": ["treibst", "wirst", "würdest"]},
+{"text": "Die Kinder {{1}} im Garten. Morgen {{2}} sie wieder spielen, aber sie {{3}} lieber ins Kino gehen, wenn sie dürften. (spielen / werden / werden)", "answers": ["spielen", "werden", "würden"]},
+{"text": "Meine Mutter {{1}} heute. Morgen {{2}} sie wieder kochen, aber sie {{3}} lieber essen gehen, wenn sie Zeit hätte. (kochen / werden / werden)", "answers": ["kocht", "wird", "würde"]},
+{"text": "Ihr {{1}} in München. Morgen {{2}} ihr nach Köln fahren, aber ihr {{3}} lieber zu Hause bleiben, wenn ihr könntet. (wohnen / werden / werden)", "answers": ["wohnt", "werdet", "würdet"]},
+{"text": "Der Zug {{1}} um acht Uhr. Morgen {{2}} er früher fahren, aber er {{3}} später fahren, wenn es möglich wäre. (fahren / werden / werden)", "answers": ["fährt", "wird", "würde"]},
+{"text": "Ich {{1}} meine Freunde oft. Morgen {{2}} ich sie besuchen, aber ich {{3}} lieber zu Hause bleiben, wenn ich müde wäre. (besuchen / werden / werden)", "answers": ["besuche", "werde", "würde"]}
+]
+},
+{
+"id": "067",
+"titre": "Präsens – Perfekt – Futur I",
+"definition": "Das Präsens beschreibt gegenwärtige Handlungen, das Perfekt abgeschlossene Ereignisse und das Futur I zukünftige Handlungen.",
+"instruction": "Ergänze die Sätze mit den passenden Verbformen.",
+"questions": [
+{"text": "Ich {{1}} Deutsch. Heute {{2}} ich viel {{3}}, und morgen werde ich weiterlernen. (lernen / lernen / lernen)", "answers": ["lerne", "habe", "gelernt"]},
+{"text": "Sie {{1}} in Berlin. Sie {{2}} vor Kurzem {{3}}, und nächstes Jahr wird sie nach Hamburg ziehen. (wohnen / umziehen / umziehen)", "answers": ["wohnt", "ist", "umgezogen"]},
+{"text": "Wir {{1}} heute zu Hause. Wir {{2}} schon {{3}}, und morgen werden wir verreisen. (bleiben / packen / packen)", "answers": ["bleiben", "haben", "gepackt"]},
+{"text": "Er {{1}} jeden Tag Sport. Er {{2}} heute bereits {{3}}, und morgen wird er wieder trainieren. (treiben / trainieren / trainieren)", "answers": ["treibt", "hat", "trainiert"]},
+{"text": "Du {{1}} viel. Du {{2}} deine Aufgabe schon {{3}}, und morgen wirst du eine neue beginnen. (arbeiten / beenden / beenden)", "answers": ["arbeitest", "hast", "beendet"]},
+{"text": "Die Kinder {{1}} im Garten. Sie {{2}} heute lange {{3}}, und morgen werden sie wieder spielen. (spielen / spielen / spielen)", "answers": ["spielen", "haben", "gespielt"]},
+{"text": "Meine Mutter {{1}} gern Kuchen. Sie {{2}} heute einen {{3}}, und morgen wird sie Kekse backen. (backen / backen / backen)", "answers": ["backt", "hat", "gebacken"]},
+{"text": "Ihr {{1}} jeden Morgen früh auf. Ihr {{2}} heute pünktlich {{3}}, und morgen werdet ihr wieder früh aufstehen. (aufstehen / aufstehen / aufstehen)", "answers": ["steht", "seid", "aufgestanden"]},
+{"text": "Der Zug {{1}} normalerweise pünktlich. Er {{2}} heute früh {{3}}, und morgen wird er wieder um acht Uhr fahren. (kommen / ankommen / ankommen)", "answers": ["kommt", "ist", "angekommen"]},
+{"text": "Ich {{1}} meine Freunde oft. Ich {{2}} sie gestern {{3}}, und nächste Woche werde ich sie wieder besuchen. (besuchen / besuchen / besuchen)", "answers": ["besuche", "habe", "besucht"]}
+]
+},
+{
+"id": "068",
+"titre": "Perfekt – Präteritum – Plusquamperfekt",
+"definition": "Das Perfekt beschreibt abgeschlossene Handlungen, das Präteritum vergangene Ereignisse und das Plusquamperfekt eine noch frühere Handlung.",
+"instruction": "Setze die Verben in die passende Zeitform.",
+"questions": [
+{"text": "Ich {{1}} heute viel {{2}}. Gestern {{3}} ich lange, nachdem ich meine Arbeit beendet hatte. (arbeiten / haben / schlafen)", "answers": ["habe", "gearbeitet", "schlief"]},
+{"text": "Sie {{1}} den Brief {{2}}. Gestern {{3}} sie ihn, nachdem sie die Adresse gefunden hatte. (schreiben / haben / schicken)", "answers": ["hat", "geschrieben", "schickte"]},
+{"text": "Wir {{1}} in Berlin {{2}}. Früher {{3}} wir in Bonn, nachdem wir dort eine Wohnung gefunden hatten. (wohnen / haben / leben)", "answers": ["haben", "gewohnt", "lebten"]},
+{"text": "Er {{1}} das Buch {{2}}. Danach {{3}} er nach Hause, nachdem er die Bibliothek verlassen hatte. (lesen / haben / gehen)", "answers": ["hat", "gelesen", "ging"]},
+{"text": "Du {{1}} die Prüfung {{2}}. Gestern {{3}} du gefeiert, nachdem du das Ergebnis erfahren hattest. (bestehen / haben / feiern)", "answers": ["hast", "bestanden", "feiertest"]},
+{"text": "Die Kinder {{1}} lange {{2}}. Gestern {{3}} sie früh, nachdem sie den ganzen Tag gespielt hatten. (spielen / haben / schlafen)", "answers": ["haben", "gespielt", "schliefen"]},
+{"text": "Meine Schwester {{1}} das Essen {{2}}. Danach {{3}} sie den Tisch, nachdem sie alles vorbereitet hatte. (kochen / haben / decken)", "answers": ["hat", "gekocht", "deckte"]},
+{"text": "Ihr {{1}} pünktlich {{2}}. Gestern {{3}} ihr früh, nachdem ihr die Fahrkarten gekauft hattet. (ankommen / sein / abreisen)", "answers": ["seid", "angekommen", "reistet"]},
+{"text": "Der Arzt {{1}} den Patienten {{2}}. Danach {{3}} er einen Bericht, nachdem er die Untersuchung beendet hatte. (untersuchen / haben / schreiben)", "answers": ["hat", "untersucht", "schrieb"]},
+{"text": "Ich {{1}} meine Freunde {{2}}. Gestern {{3}} ich sie, nachdem ich sie lange nicht gesehen hatte. (besuchen / haben / treffen)", "answers": ["habe", "besucht", "traf"]}
+]
+},
+{
+"id": "069",
+"titre": "Perfekt – Präteritum – Plusquamperfekt",
+"definition": "Diese Zeitformen helfen dabei, abgeschlossene Handlungen, vergangene Erzählungen und zeitlich frühere Ereignisse voneinander zu unterscheiden.",
+"instruction": "Vervollständige die Sätze.",
+"questions": [
+{"text": "Ich {{1}} den Zug {{2}}. Gestern {{3}} ich ein Taxi, nachdem ich den Bus verpasst hatte. (verpassen / haben / nehmen)", "answers": ["habe", "verpasst", "nahm"]},
+{"text": "Sie {{1}} die Aufgabe {{2}}. Danach {{3}} sie nach Hause, nachdem sie alles erledigt hatte. (beenden / haben / gehen)", "answers": ["hat", "beendet", "ging"]},
+{"text": "Wir {{1}} das Museum {{2}}. Gestern {{3}} wir einen Kaffee, nachdem wir die Ausstellung gesehen hatten. (besuchen / haben / trinken)", "answers": ["haben", "besucht", "tranken"]},
+{"text": "Er {{1}} den Schlüssel {{2}}. Danach {{3}} er die Tür, nachdem er ihn gefunden hatte. (finden / haben / öffnen)", "answers": ["hat", "gefunden", "öffnete"]},
+{"text": "Du {{1}} deine Freunde {{2}}. Gestern {{3}} du lange mit ihnen, nachdem du sie getroffen hattest. (besuchen / haben / sprechen)", "answers": ["hast", "besucht", "sprachst"]},
+{"text": "Die Gäste {{1}} {{2}}. Danach {{3}} sie, nachdem sie das Essen beendet hatten. (abreisen / sein / gehen)", "answers": ["sind", "abgereist", "gingen"]},
+{"text": "Meine Eltern {{1}} ein Haus {{2}}. Früher {{3}} sie zur Miete, nachdem sie in die Stadt gezogen waren. (kaufen / haben / wohnen)", "answers": ["haben", "gekauft", "wohnten"]},
+{"text": "Ihr {{1}} die Nachricht {{2}}. Danach {{3}} ihr sofort, nachdem ihr den Inhalt gelesen hattet. (erhalten / haben / antworten)", "answers": ["habt", "erhalten", "antwortetet"]},
+{"text": "Der Lehrer {{1}} die Regel {{2}}. Danach {{3}} er die Übung, nachdem die Schüler alles verstanden hatten. (erklären / haben / beginnen)", "answers": ["hat", "erklärt", "begann"]},
+{"text": "Ich {{1}} das Abendessen {{2}}. Gestern {{3}} ich früh, nachdem ich den ganzen Tag gearbeitet hatte. (essen / haben / schlafen)", "answers": ["habe", "gegessen", "schlief"]}
+]
+},
+{
+"id": "070",
+"titre": "Perfekt – Plusquamperfekt – Futur I",
+"definition": "Das Perfekt bezeichnet abgeschlossene Handlungen, das Plusquamperfekt eine frühere Handlung und das Futur I zukünftige Ereignisse.",
+"instruction": "Setze die Verben in die passenden Zeitformen.",
+"questions": [
+{"text": "Ich {{1}} die Aufgabe {{2}}. Ich hatte sie schon begonnen, bevor der Lehrer sagte, dass ich sie morgen {{3}}. (beenden / haben / abgeben)", "answers": ["habe", "beendet", "abgeben werde"]},
+{"text": "Sie {{1}} den Bericht {{2}}. Sie hatte die Daten gesammelt, bevor sie ankündigte, dass sie ihn morgen {{3}}. (schreiben / haben / präsentieren)", "answers": ["hat", "geschrieben", "präsentieren wird"]},
+{"text": "Wir {{1}} das Haus {{2}}. Wir hatten lange gesucht, bevor wir beschlossen, dass wir bald ein neues {{3}}. (kaufen / haben / kaufen)", "answers": ["haben", "gekauft", "kaufen werden"]},
+{"text": "Er {{1}} die Reise {{2}}. Er hatte die Tickets reserviert, bevor er sagte, dass er nächste Woche {{3}}. (planen / haben / abreisen)", "answers": ["hat", "geplant", "abreisen wird"]},
+{"text": "Du {{1}} die Prüfung {{2}}. Du hattest viel gelernt, bevor du ankündigtest, dass du morgen wieder {{3}}. (bestehen / haben / lernen)", "answers": ["hast", "bestanden", "lernen wirst"]},
+{"text": "Die Kinder {{1}} ihre Aufgaben {{2}}. Sie hatten zuerst gespielt, bevor sie versprachen, dass sie morgen früher {{3}}. (machen / haben / anfangen)", "answers": ["haben", "gemacht", "anfangen werden"]},
+{"text": "Ich {{1}} das Hotel {{2}}. Ich hatte die Preise verglichen, bevor ich sagte, dass ich morgen die Buchung {{3}}. (reservieren / haben / bestätigen)", "answers": ["habe", "reserviert", "bestätigen werde"]},
+{"text": "Ihr {{1}} die Reise {{2}}. Ihr hattet alles vorbereitet, bevor ihr erklärtet, dass ihr nächste Woche {{3}}. (organisieren / haben / fahren)", "answers": ["habt", "organisiert", "fahren werdet"]},
+{"text": "Sie {{1}} den Brief {{2}}. Sie hatte ihn sorgfältig geprüft, bevor sie sagte, dass sie ihn morgen {{3}}. (schreiben / haben / versenden)", "answers": ["hat", "geschrieben", "versenden wird"]},
+{"text": "Wir {{1}} das Projekt {{2}}. Wir hatten alle Aufgaben verteilt, bevor wir ankündigten, dass wir es bald {{3}}. (beginnen / haben / abschließen)", "answers": ["haben", "begonnen", "abschließen werden"]}
+]
+},
+{
+"id": "071",
+"titre": "Perfekt – Futur I – Futur II",
+"definition": "Das Perfekt beschreibt abgeschlossene Handlungen. Das Futur I bezeichnet zukünftige Ereignisse und das Futur II zukünftige abgeschlossene Handlungen.",
+"instruction": "Ergänze die Sätze mit den richtigen Formen.",
+"questions": [
+{"text": "Ich {{1}} die Aufgabe {{2}}. Morgen {{3}} ich weiterarbeiten, und bis Freitag werde ich alles beendet haben. (beginnen / haben / werden)", "answers": ["habe", "begonnen", "werde"]},
+{"text": "Sie {{1}} den Bericht {{2}}. Morgen {{3}} sie ihn präsentieren, und bis dahin wird sie alle Daten geprüft haben. (schreiben / haben / werden)", "answers": ["hat", "geschrieben", "wird"]},
+{"text": "Wir {{1}} das Haus {{2}}. Morgen {{3}} wir umziehen, und bis zum Abend werden wir alles ausgepackt haben. (kaufen / haben / werden)", "answers": ["haben", "gekauft", "werden"]},
+{"text": "Er {{1}} die Reise {{2}}. Morgen {{3}} er abreisen, und bis Sonntag wird er sein Ziel erreicht haben. (planen / haben / werden)", "answers": ["hat", "geplant", "wird"]},
+{"text": "Du {{1}} die Prüfung {{2}}. Morgen {{3}} du weiterlernen, und bis nächste Woche wirst du alle Kapitel wiederholt haben. (bestehen / haben / werden)", "answers": ["hast", "bestanden", "wirst"]},
+{"text": "Die Kinder {{1}} ihre Aufgaben {{2}}. Morgen {{3}} sie wieder lernen, und bis zum Abend werden sie alles erledigt haben. (machen / haben / werden)", "answers": ["haben", "gemacht", "werden"]},
+{"text": "Ich {{1}} das Hotel {{2}}. Morgen {{3}} ich die Reservierung bestätigen, und bis heute Abend werde ich die Reise organisiert haben. (buchen / haben / werden)", "answers": ["habe", "gebucht", "werde"]},
+{"text": "Ihr {{1}} die Reise {{2}}. Morgen {{3}} ihr abreisen, und bis zum Abend werdet ihr euer Ziel erreicht haben. (vorbereiten / haben / werden)", "answers": ["habt", "vorbereitet", "werdet"]},
+{"text": "Sie {{1}} den Brief {{2}}. Morgen {{3}} sie ihn versenden, und bis Freitag wird sie eine Antwort erhalten haben. (schreiben / haben / werden)", "answers": ["hat", "geschrieben", "wird"]},
+{"text": "Wir {{1}} das Projekt {{2}}. Morgen {{3}} wir weiterarbeiten, und bis Monatsende werden wir es abgeschlossen haben. (beginnen / haben / werden)", "answers": ["haben", "begonnen", "werden"]}
+]
+},
+{
+"id": "072",
+"titre": "Perfekt – Konjunktiv II Präsens – Konjunktiv II Vergangenheit",
+"definition": "Das Perfekt beschreibt abgeschlossene Handlungen. Der Konjunktiv II Präsens drückt hypothetische Situationen aus, während der Konjunktiv II Vergangenheit nicht verwirklichte Möglichkeiten in der Vergangenheit bezeichnet.",
+"instruction": "Setze die Verben in die passende Form.",
+"questions": [
+{"text": "Ich {{1}} die Arbeit {{2}}. Wenn ich mehr Zeit hätte, {{3}} ich jetzt länger arbeiten; gestern hätte ich früher begonnen. (beenden / haben / werden)", "answers": ["habe", "beendet", "würde"]},
+{"text": "Sie {{1}} die Prüfung {{2}}. Wenn sie mehr Zeit hätte, {{3}} sie jetzt weiterlernen; sie hätte gestern früher angefangen. (bestehen / haben / werden)", "answers": ["hat", "bestanden", "würde"]},
+{"text": "Wir {{1}} das Haus {{2}}. Wenn wir genug Geld hätten, {{3}} wir ein größeres kaufen; wir hätten letztes Jahr schon umgezogen. (kaufen / haben / werden)", "answers": ["haben", "gekauft", "würden"]},
+{"text": "Er {{1}} die Reise {{2}}. Wenn er Urlaub hätte, {{3}} er jetzt länger bleiben; er wäre gestern früher abgereist. (planen / haben / werden)", "answers": ["hat", "geplant", "würde"]},
+{"text": "Du {{1}} die Aufgabe {{2}}. Wenn du mehr Zeit hättest, {{3}} du sie genauer prüfen; du hättest sie gestern besser erledigt. (machen / haben / werden)", "answers": ["hast", "gemacht", "würdest"]},
+{"text": "Die Kinder {{1}} draußen {{2}}. Wenn das Wetter besser wäre, {{3}} sie jetzt länger spielen; sie hätten gestern auch draußen gespielt. (spielen / haben / werden)", "answers": ["haben", "gespielt", "würden"]},
+{"text": "Ich {{1}} das Hotel {{2}}. Wenn es günstiger wäre, {{3}} ich länger bleiben; ich hätte es früher gebucht. (buchen / haben / werden)", "answers": ["habe", "gebucht", "würde"]},
+{"text": "Ihr {{1}} die Reise {{2}}. Wenn ihr mehr Geld hättet, {{3}} ihr länger reisen; ihr hättet früher reserviert. (organisieren / haben / werden)", "answers": ["habt", "organisiert", "würdet"]},
+{"text": "Sie {{1}} den Brief {{2}}. Wenn sie mehr Zeit hätte, {{3}} sie ihn persönlich übergeben; sie hätte ihn gestern abgeschickt. (schreiben / haben / werden)", "answers": ["hat", "geschrieben", "würde"]},
+{"text": "Wir {{1}} das Projekt {{2}}. Wenn wir mehr Personal hätten, {{3}} wir schneller arbeiten; wir hätten früher begonnen. (beginnen / haben / werden)", "answers": ["haben", "begonnen", "würden"]}
+]
+},
+{
+"id": "073",
+"titre": "Perfekt – Konjunktiv I Präsens – Konjunktiv I Vergangenheit",
+"definition": "Das Perfekt beschreibt abgeschlossene Handlungen. Der Konjunktiv I Präsens und der Konjunktiv I Vergangenheit werden zur Wiedergabe fremder Aussagen verwendet.",
+"instruction": "Ergänze die Sätze in der indirekten Rede.",
+"questions": [
+{"text": "Er {{1}} die Arbeit {{2}}. Er sagt, er {{3}} jetzt fertig und habe gestern viel gearbeitet. (beenden / haben / sein)", "answers": ["hat", "beendet", "sei"]},
+{"text": "Sie {{1}} den Bericht {{2}}. Sie erklärt, sie {{3}} den Bericht fertiggestellt und habe alle Daten geprüft. (schreiben / haben / haben)", "answers": ["hat", "geschrieben", "habe"]},
+{"text": "Wir {{1}} die Reise {{2}}. Wir berichten, wir {{3}} gut angekommen und hätten das Hotel bereits gefunden. (planen / haben / sein)", "answers": ["haben", "geplant", "seien"]},
+{"text": "Er {{1}} das Buch {{2}}. Er sagt, er {{3}} es bereits gelesen und habe viel daraus gelernt. (lesen / haben / haben)", "answers": ["hat", "gelesen", "habe"]},
+{"text": "Du {{1}} die Nachricht {{2}}. Du erklärst, du {{3}} sie erhalten und habest sofort geantwortet. (bekommen / haben / haben)", "answers": ["hast", "bekommen", "habest"]},
+{"text": "Die Gäste {{1}} früh {{2}}. Sie sagen, sie {{3}} bereits abgereist und hätten sich verabschiedet. (abreisen / sein / sein)", "answers": ["sind", "abgereist", "seien"]},
+{"text": "Meine Schwester {{1}} die Prüfung {{2}}. Sie sagt, sie {{3}} bestanden und habe viel gelernt. (bestehen / haben / haben)", "answers": ["hat", "bestanden", "habe"]},
+{"text": "Ihr {{1}} die Aufgabe {{2}}. Ihr erklärt, ihr {{3}} sie erledigt und habet alles kontrolliert. (machen / haben / haben)", "answers": ["habt", "gemacht", "habet"]},
+{"text": "Der Arzt {{1}} den Patienten {{2}}. Er erklärt, er {{3}} ihn untersucht und habe die Ergebnisse notiert. (untersuchen / haben / haben)", "answers": ["hat", "untersucht", "habe"]},
+{"text": "Ich {{1}} die E-Mail {{2}}. Ich sage, ich {{3}} sie abgeschickt und habe eine Antwort erhalten. (schicken / haben / haben)", "answers": ["habe", "geschickt", "habe"]}
+]
+},
+{
+"id": "074",
+"titre": "Präteritum – Plusquamperfekt – Präteritum",
+"definition": "Das Präteritum erzählt vergangene Ereignisse. Das Plusquamperfekt bezeichnet Handlungen, die vor diesen Ereignissen stattgefunden hatten.",
+"instruction": "Setze die Verben in die passende Zeitform.",
+"questions": [
+{"text": "Ich {{1}} nach Hause, nachdem ich meine Arbeit {{2}} {{3}}. (gehen / beenden / haben)", "answers": ["ging", "beendet", "hatte"]},
+{"text": "Sie {{1}} sich, nachdem sie die Nachricht {{2}} {{3}}. (freuen / lesen / haben)", "answers": ["freute", "gelesen", "hatte"]},
+{"text": "Wir {{1}} den Bus, weil wir zu spät {{2}} {{3}}. (verpassen / aufstehen / sein)", "answers": ["verpassten", "aufgestanden", "waren"]},
+{"text": "Er {{1}} das Fenster, nachdem er den Raum {{2}} {{3}}. (schließen / verlassen / haben)", "answers": ["schloss", "verlassen", "hatte"]},
+{"text": "Die Gäste {{1}} schon, als wir {{2}} {{3}}. (gehen / ankommen / sein)", "answers": ["waren gegangen", "ankamen", "waren"]},
+{"text": "Ich {{1}} den Schlüssel, den ich zuvor {{2}} {{3}}. (finden / verlieren / haben)", "answers": ["fand", "verloren", "hatte"]},
+{"text": "Sie {{1}} das Essen, das sie am Morgen {{2}} {{3}}. (servieren / vorbereiten / haben)", "answers": ["servierte", "vorbereitet", "hatte"]},
+{"text": "Wir {{1}} den Film, den wir schon einmal {{2}} {{3}}. (sehen / sehen / haben)", "answers": ["sahen", "gesehen", "hatten"]},
+{"text": "Er {{1}} die Tür, nachdem er den Schlüssel {{2}} {{3}}. (öffnen / finden / haben)", "answers": ["öffnete", "gefunden", "hatte"]},
+{"text": "Die Kinder {{1}} draußen, nachdem sie ihre Hausaufgaben {{2}} {{3}}. (spielen / machen / haben)", "answers": ["spielten", "gemacht", "hatten"]}
+]
+},
+{
+"id": "075",
+"titre": "Präteritum – Plusquamperfekt – Präteritum",
+"definition": "Das Präteritum wird für vergangene Erzählungen verwendet. Das Plusquamperfekt drückt aus, dass eine Handlung bereits vor einem anderen vergangenen Ereignis abgeschlossen war.",
+"instruction": "Ergänze die Sätze mit den passenden Verbformen.",
+"questions": [
+{"text": "Der König {{1}} den Saal, nachdem seine Gäste {{2}} {{3}}. (betreten / eintreffen / sein)", "answers": ["betrat", "eingetroffen", "waren"]},
+{"text": "Die Reisenden {{1}} den Bahnhof, nachdem der Zug {{2}} {{3}}. (verlassen / abfahren / sein)", "answers": ["verließen", "abgefahren", "war"]},
+{"text": "Sie {{1}} die Tür, nachdem sie den Schlüssel {{2}} {{3}}. (öffnen / finden / haben)", "answers": ["öffnete", "gefunden", "hatte"]},
+{"text": "Der Arzt {{1}} den Patienten, nachdem die Krankenschwester ihn {{2}} {{3}}. (untersuchen / vorbereiten / haben)", "answers": ["untersuchte", "vorbereitet", "hatte"]},
+{"text": "Wir {{1}} das Schloss, nachdem wir die Eintrittskarten {{2}} {{3}}. (besichtigen / kaufen / haben)", "answers": ["besichtigten", "gekauft", "hatten"]},
+{"text": "Er {{1}} das Haus, nachdem er seine Sachen {{2}} {{3}}. (verlassen / packen / haben)", "answers": ["verließ", "gepackt", "hatte"]},
+{"text": "Die Gäste {{1}} das Fest, nachdem sie sich {{2}} {{3}}. (verlassen / verabschieden / haben)", "answers": ["verließen", "verabschiedet", "hatten"]},
+{"text": "Sie {{1}} den Brief, nachdem sie ihn sorgfältig {{2}} {{3}}. (abschicken / prüfen / haben)", "answers": ["schickte ab", "geprüft", "hatte"]},
+{"text": "Der Lehrer {{1}} die Prüfung, nachdem alle Schüler ihre Antworten {{2}} {{3}}. (beenden / schreiben / haben)", "answers": ["beendete", "geschrieben", "hatten"]},
+{"text": "Ich {{1}} die Stadt, nachdem ich meine Freunde {{2}} {{3}}. (verlassen / besuchen / haben)", "answers": ["verließ", "besucht", "hatte"]}
+]
+},
+{
+"id": "076",
+"titre": "Präteritum – Plusquamperfekt – Konjunktiv II Präsens",
+"definition": "Das Präteritum erzählt vergangene Ereignisse, das Plusquamperfekt bezeichnet frühere Handlungen und der Konjunktiv II Präsens drückt hypothetische Situationen aus.",
+"instruction": "Setze die Verben in die passenden Zeitformen.",
+"questions": [
+{"text": "Ich {{1}} den Zug, nachdem ich zu spät {{2}} {{3}}. Heute {{4}} ich vorsichtiger sein. (verpassen / aufstehen / sein / werden)", "answers": ["verpasste", "aufgestanden", "war", "würde"]},
+{"text": "Sie {{1}} zu Hause, nachdem sie ihre Arbeit {{2}} {{3}}. Jetzt {{4}} sie gern reisen. (bleiben / beenden / haben / werden)", "answers": ["blieb", "beendet", "hatte", "würde"]},
+{"text": "Wir {{1}} das Spiel, nachdem wir zu wenig {{2}} {{3}}. Mit mehr Training {{4}} wir gewinnen. (verlieren / trainieren / haben / können)", "answers": ["verloren", "trainiert", "hatten", "könnten"]},
+{"text": "Er {{1}} die Tür, nachdem er den Schlüssel {{2}} {{3}}. Heute {{4}} er vorsichtiger sein. (öffnen / finden / haben / werden)", "answers": ["öffnete", "gefunden", "hatte", "würde"]},
+{"text": "Du {{1}} spät, nachdem du den Bus {{2}} {{3}}. Heute {{4}} du früher losfahren. (kommen / verpassen / haben / werden)", "answers": ["kamst", "verpasst", "hattest", "würdest"]},
+{"text": "Die Kinder {{1}} zu Hause, nachdem sie draußen {{2}} {{3}}. Bei gutem Wetter {{4}} sie länger spielen. (bleiben / spielen / haben / werden)", "answers": ["blieben", "gespielt", "hatten", "würden"]},
+{"text": "Ich {{1}} den Brief, nachdem ich die Adresse {{2}} {{3}}. Heute {{4}} ich lieber persönlich sprechen. (schreiben / prüfen / haben / werden)", "answers": ["schrieb", "geprüft", "hatte", "würde"]},
+{"text": "Ihr {{1}} den Bus, nachdem ihr zu spät {{2}} {{3}}. Morgen {{4}} ihr früher aufstehen. (verpassen / aufstehen / sein / werden)", "answers": ["verpasstet", "aufgestanden", "wart", "würdet"]},
+{"text": "Sie {{1}} nach Hause, nachdem sie die Arbeit {{2}} {{3}}. Heute {{4}} sie gern länger bleiben. (gehen / beenden / haben / werden)", "answers": ["ging", "beendet", "hatte", "würde"]},
+{"text": "Wir {{1}} die Aufgabe, nachdem wir einen Fehler {{2}} {{3}}. Mit mehr Zeit {{4}} wir sie besser lösen. (wiederholen / machen / haben / können)", "answers": ["wiederholten", "gemacht", "hatten", "könnten"]}
+]
+},
+{
+"id": "077",
+"titre": "Präteritum – Plusquamperfekt – Konjunktiv II Vergangenheit",
+"definition": "Das Präteritum beschreibt vergangene Ereignisse. Das Plusquamperfekt bezeichnet eine frühere Handlung, während der Konjunktiv II Vergangenheit eine nicht verwirklichte Möglichkeit ausdrückt.",
+"instruction": "Ergänze die Sätze mit den passenden Verbformen.",
+"questions": [
+{"text": "Ich {{1}} den Zug, nachdem ich zu spät {{2}} {{3}}. Ich {{4}} ihn erreicht, wenn ich früher losgefahren wäre. (verpassen / aufstehen / sein / haben)", "answers": ["verpasste", "aufgestanden", "war", "hätte"]},
+{"text": "Sie {{1}} die Prüfung, nachdem sie zu wenig {{2}} {{3}}. Sie {{4}} bestanden, wenn sie mehr gelernt hätte. (nicht bestehen / lernen / haben / haben)", "answers": ["bestand nicht", "gelernt", "hatte", "hätte"]},
+{"text": "Wir {{1}} zu Hause, nachdem wir die Einladung {{2}} {{3}}. Wir {{4}} mitgekommen, wenn wir früher eingeladen worden wären. (bleiben / erhalten / haben / sein)", "answers": ["blieben", "erhalten", "hatten", "wären"]},
+{"text": "Er {{1}} seinen Schlüssel, nachdem er die Tür {{2}} {{3}}. Er {{4}} ihn gefunden, wenn er genauer gesucht hätte. (verlieren / schließen / haben / haben)", "answers": ["verlor", "geschlossen", "hatte", "hätte"]},
+{"text": "Du {{1}} zu spät, nachdem du den Wecker nicht {{2}} {{3}}. Du {{4}} pünktlich angekommen, wenn du früher aufgestanden wärst. (kommen / hören / haben / sein)", "answers": ["kamst", "gehört", "hattest", "wärst"]},
+{"text": "Die Kinder {{1}} drinnen, nachdem es {{2}} {{3}}. Sie {{4}} draußen gespielt, wenn das Wetter besser gewesen wäre. (bleiben / regnen / haben / haben)", "answers": ["blieben", "geregnet", "hatte", "hätten"]},
+{"text": "Ich {{1}} den Brief nicht, nachdem ich die Adresse {{2}} {{3}}. Ich {{4}} ihn geschrieben, wenn ich die richtige Adresse gekannt hätte. (schreiben / verlieren / haben / haben)", "answers": ["schrieb", "verloren", "hatte", "hätte"]},
+{"text": "Ihr {{1}} den Bus, nachdem ihr zu spät {{2}} {{3}}. Ihr {{4}} ihn erreicht, wenn ihr schneller gelaufen wärt. (verpassen / aufstehen / sein / haben)", "answers": ["verpasstet", "aufgestanden", "wart", "hättet"]},
+{"text": "Sie {{1}} die Feier, nachdem sie sich von allen {{2}} {{3}}. Sie {{4}} länger geblieben, wenn sie mehr Zeit gehabt hätte. (verlassen / verabschieden / haben / sein)", "answers": ["verließ", "verabschiedet", "hatte", "wäre"]},
+{"text": "Wir {{1}} das Spiel, nachdem wir zu viele Fehler {{2}} {{3}}. Wir {{4}} gewonnen, wenn wir besser gespielt hätten. (verlieren / machen / haben / haben)", "answers": ["verloren", "gemacht", "hatten", "hätten"]}
+]
 }
 ]
+
 
