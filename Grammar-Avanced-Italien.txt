@@ -358,5 +358,1628 @@
       {"text": "Abbiamo {{1}} il progetto e vogliamo che il responsabile {{2}} i risultati e {{3}} un giudizio obiettivo.", "answers": ["concluso", "valuti", "esprima"]},
       {"text": "Ho {{1}} la decisione, anche se alcuni colleghi non {{2}} d'accordo e preferiscono che io {{3}} ancora.", "answers": ["comunicato", "siano", "aspetti"]}
     ]
-  }
+  },
+  {
+    "id": "021",
+    "titre": "Decisioni e conseguenze",
+    "definition": "Completa le frasi scegliendo le forme verbali più adatte al contesto.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Ho saputo che Maria {{1}} il progetto, che {{2}} tutti i documenti e che {{3}} al direttore.", "answers": ["abbia terminato", "abbia preparato", "abbia scritto"]},
+      {"text": "Siamo felici che voi {{1}} in tempo, che {{2}} una soluzione e che {{3}} il problema.", "answers": ["siate arrivati", "abbiate trovato", "abbiate risolto"]},
+      {"text": "Il professore ha confermato che gli studenti {{1}} bene, che {{2}} tutte le domande e che {{3}} risultati eccellenti.", "answers": ["abbiano lavorato", "abbiano completato", "abbiano ottenuto"]},
+      {"text": "Mi hanno detto che Luca {{1}} il lavoro, che {{2}} una nuova offerta e che {{3}} di città.", "answers": ["abbia lasciato", "abbia ricevuto", "sia partito"]},
+      {"text": "Abbiamo notato che tu {{1}} molto, che {{2}} nuove competenze e che {{3}} più sicuro.", "answers": ["abbia studiato", "abbia acquisito", "sia diventato"]},
+      {"text": "È possibile che il treno {{1}} in ritardo, che i passeggeri {{2}} a lungo e che alcuni {{3}} una lamentela.", "answers": ["sia arrivato", "abbiano aspettato", "abbiano presentato"]},
+      {"text": "Ho letto che l'azienda {{1}} una nuova sede, che {{2}} altri dipendenti e che {{3}} le vendite.", "answers": ["abbia aperto", "abbia assunto", "abbia aumentato"]},
+      {"text": "Sappiamo che Giulia {{1}} la verità, che {{2}} le sue responsabilità e che {{3}} scusa.", "answers": ["abbia detto", "abbia riconosciuto", "abbia chiesto"]},
+      {"text": "Il medico ha spiegato che il paziente {{1}} la terapia, che {{2}} i controlli e che {{3}} meglio.", "answers": ["abbia seguito", "abbia effettuato", "sia stato"]},
+      {"text": "Sono contento che voi {{1}} il museo, che {{2}} le opere e che {{3}} tante fotografie.", "answers": ["abbiate visitato", "abbiate ammirato", "abbiate scattato"]}
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Ricordi del passato",
+    "definition": "Completa le frasi in base alla successione degli eventi.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Mentre {{1}} la cena, mi accorsi che non {{2}} il pane e che {{3}} anche il dessert.", "answers": ["preparavo", "avevo comprato", "avevo dimenticato"]},
+      {"text": "Quando abitavamo in campagna, {{1}} spesso gli amici che {{2}} da lontano e che {{3}} qualche giorno.", "answers": ["ospitavamo", "erano arrivati", "avevano deciso di restare"]},
+      {"text": "Mentre {{1}} la strada, capii che {{2}} l'indirizzo e che {{3}} nella direzione sbagliata.", "answers": ["cercavo", "avevo dimenticato", "avevo preso"]},
+      {"text": "Ogni estate {{1}} al mare, dove {{2}} una casa e {{3}} le vacanze con i cugini.", "answers": ["andavamo", "avevamo affittato", "trascorrevamo"]},
+      {"text": "L'insegnante {{1}} la lezione quando si accorse che alcuni studenti non {{2}} il materiale che lei {{3}}.", "answers": ["spiegava", "avevano portato", "aveva richiesto"]},
+      {"text": "Da bambino {{1}} spesso quel racconto perché mio nonno me lo {{2}} molte volte e io non lo {{3}} mai.", "answers": ["leggevo", "aveva raccontato", "avevo dimenticato"]},
+      {"text": "Mentre {{1}} il computer, notai che qualcuno {{2}} il documento che {{3}} il giorno prima.", "answers": ["usavo", "aveva cancellato", "avevo salvato"]},
+      {"text": "I vicini {{1}} musica quando scoprirono che qualcuno {{2}} la porta e {{3}} nell'appartamento.", "answers": ["ascoltavano", "aveva forzato", "era entrato"]},
+      {"text": "Durante gli studi {{1}} in biblioteca perché {{2}} tutti i libri necessari e non {{3}} comprarli.", "answers": ["lavoravo", "avevo trovato", "avevo potuto"]},
+      {"text": "Mentre {{1}} il rapporto, ricordai che il direttore mi {{2}} alcuni dati che non {{3}} ancora.", "answers": ["scrivevo", "aveva chiesto", "avevo verificato"]}
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Storie e avvenimenti",
+    "definition": "Scegli le forme verbali che rispettano il contesto narrativo.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Mentre il re {{1}} il discorso, un messaggero {{2}} nella sala e {{3}} una notizia urgente.", "answers": ["pronunciava", "entrò", "annunciò"]},
+      {"text": "La città {{1}} tranquilla quando improvvisamente un forte rumore {{2}} e tutti {{3}} verso la piazza.", "answers": ["sembrava", "risuonò", "corsero"]},
+      {"text": "I contadini {{1}} nei campi quando il temporale {{2}} e la pioggia {{3}} senza preavviso.", "answers": ["lavoravano", "arrivò", "cominciò"]},
+      {"text": "La principessa {{1}} alla finestra quando un cavaliere {{2}} nel cortile e {{3}} il suo nome.", "answers": ["guardava", "apparve", "chiamò"]},
+      {"text": "Mentre i soldati {{1}} il ponte, il comandante {{2}} un ordine e tutti {{3}} immediatamente.", "answers": ["sorvegliavano", "diede", "obbedirono"]},
+      {"text": "Il mercante {{1}} le sue merci quando un viaggiatore {{2}} e {{3}} informazioni sulla strada.", "answers": ["vendeva", "arrivò", "chiese"]},
+      {"text": "Gli abitanti {{1}} nelle case quando la campana {{2}} e la gente {{3}} in chiesa.", "answers": ["riposavano", "suonò", "si riunì"]},
+      {"text": "Mentre il poeta {{1}} una lettera, un amico {{2}} alla porta e {{3}} una notizia sorprendente.", "answers": ["scriveva", "bussò", "portò"]},
+      {"text": "Il capitano {{1}} la nave quando vide una luce che {{2}} all'orizzonte e {{3}} la rotta.", "answers": ["guidava", "brillava", "cambiò"]},
+      {"text": "La folla {{1}} in silenzio quando l'oratore {{2}} sul palco e {{3}} il suo intervento.", "answers": ["attendeva", "salì", "iniziò"]}
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "Un viaggio inatteso",
+    "definition": "Ricostruisci la successione degli eventi attraverso il contesto.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Quando il treno {{1}}, i passeggeri {{2}} già i bagagli e il controllore {{3}} i biglietti.", "answers": ["partì", "avevano sistemato", "controllò"]},
+      {"text": "Appena il viaggiatore {{1}} alla stazione, capì che il gruppo {{2}} e che la guida {{3}} senza di lui.", "answers": ["arrivò", "era già partito", "era partita"]},
+      {"text": "Dopo che il capitano {{1}} la rotta, la nave {{2}} il porto e i marinai {{3}} le vele.", "answers": ["ebbe indicato", "lasciò", "issarono"]},
+      {"text": "Quando il sole {{1}}, gli escursionisti {{2}} la cima e finalmente {{3}} il panorama.", "answers": ["sorse", "ebbero raggiunto", "ammirarono"]},
+      {"text": "Il turista {{1}} alla reception dopo che l'albergo {{2}} la sua prenotazione e {{3}} una camera diversa.", "answers": ["si presentò", "ebbe annullato", "richiese"]},
+      {"text": "Dopo che il temporale {{1}}, i pescatori {{2}} in mare e {{3}} le reti.", "answers": ["ebbe smesso", "partirono", "gettarono"]},
+      {"text": "Quando la guida {{1}} le istruzioni, i visitatori {{2}} il percorso e {{3}} il museo.", "answers": ["ebbe terminato", "seguirono", "visitarono"]},
+      {"text": "Il pullman {{1}} appena i passeggeri {{2}} e l'autista {{3}} il motore.", "answers": ["partì", "ebbero preso posto", "avviò"]},
+      {"text": "Dopo che la famiglia {{1}} i documenti, {{2}} l'aeroporto e {{3}} il volo.", "answers": ["ebbe controllato", "raggiunse", "prese"]},
+      {"text": "Quando il viaggiatore {{1}} la mappa, {{2}} il sentiero e {{3}} il villaggio prima del tramonto.", "answers": ["ebbe consultato", "seguì", "raggiunse"]}
+    ]
+  },
+  {
+    "id": "025",
+    "titre": "Progetti e scadenze",
+    "definition": "Completa le frasi usando il contesto temporale.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Da piccolo {{1}} spesso che un giorno {{2}} all'estero e {{3}} una nuova lingua.", "answers": ["sognavo", "viaggerò", "imparerò"]},
+      {"text": "Mentre {{1}} in ufficio, pensavo che il mese prossimo {{2}} un nuovo progetto e {{3}} più responsabilità.", "answers": ["lavoravo", "inizierò", "assumerò"]},
+      {"text": "Ogni volta che {{1}} il futuro, immaginavo che {{2}} una casa e {{3}} una famiglia.", "answers": ["immaginavo", "comprerò", "formerò"]},
+      {"text": "Quando ero studente, credevo che un giorno {{1}} famoso, {{2}} molti libri e {{3}} conferenze in tutto il mondo.", "answers": ["diventerò", "scriverò", "terrò"]},
+      {"text": "Mentre {{1}} il piano, sapevamo che presto {{2}} i risultati e {{3}} le decisioni necessarie.", "answers": ["preparavamo", "conosceremo", "prenderemo"]},
+      {"text": "Da giovane {{1}} spesso che in futuro {{2}} un'impresa e {{3}} molte persone.", "answers": ["pensavo", "aprirò", "assumerò"]},
+      {"text": "Mentre {{1}} la situazione, il direttore assicurò che presto {{2}} una soluzione e {{3}} i dipendenti.", "answers": ["descriveva", "troveremo", "informeremo"]},
+      {"text": "Quando abitavo lì, pensavo che un giorno {{1}} la città, {{2}} altrove e {{3}} una vita diversa.", "answers": ["lascerò", "vivrò", "costruirò"]},
+      {"text": "Da bambino {{1}} spesso che da grande {{2}} medico e {{3}} persone in difficoltà.", "answers": ["immaginavo", "diventerò", "aiuterò"]},
+      {"text": "Mentre {{1}} con i colleghi, dissi che l'anno prossimo {{2}} un corso e {{3}} nuove competenze.", "answers": ["parlavo", "frequenterò", "acquisirò"]}
+    ]
+  },
+  {
+    "id": "026",
+    "titre": "Obiettivi da raggiungere",
+    "definition": "Completa le frasi considerando le azioni previste e quelle da concludere.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Mentre {{1}} il progetto, pensavo che entro giugno {{2}} la ricerca e {{3}} i risultati.", "answers": ["preparavo", "avremo completato", "presenteremo"]},
+      {"text": "Quando ero giovane, speravo che un giorno {{1}} all'estero, {{2}} gli studi e {{3}} un buon lavoro.", "answers": ["vivrò", "avrò terminato", "troverò"]},
+      {"text": "Il direttore {{1}} spesso che entro l'anno {{2}} la nuova sede e {{3}} il personale.", "answers": ["diceva", "avremo inaugurato", "avremo formato"]},
+      {"text": "Mentre {{1}} il calendario, notai che entro venerdì {{2}} tutte le attività e {{3}} il rapporto finale.", "answers": ["controllavo", "avremo concluso", "avremo redatto"]},
+      {"text": "Da studente {{1}} che, una volta laureato, {{2}} un tirocinio e {{3}} la mia carriera.", "answers": ["speravo", "avrò completato", "inizierò"]},
+      {"text": "Mentre {{1}} con il responsabile, capii che entro domani {{2}} i documenti e {{3}} la domanda.", "answers": ["parlavo", "avremo raccolto", "presenteremo"]},
+      {"text": "La squadra {{1}} con impegno perché sapeva che entro sera {{2}} l'allenamento e {{3}} la partita.", "answers": ["si allenava", "avrà terminato", "disputerà"]},
+      {"text": "Mentre {{1}} il viaggio, immaginavo che entro sera {{2}} a Roma e {{3}} il centro storico.", "answers": ["organizzavo", "saremo arrivati", "visiteremo"]},
+      {"text": "Quando lavoravo lì, credevo che entro dicembre {{1}} il contratto, {{2}} il progetto e {{3}} una promozione.", "answers": ["avrò rinnovato", "avrò completato", "otterrò"]},
+      {"text": "Il responsabile {{1}} i progressi mentre noi {{2}} il lavoro e {{3}} la relazione finale.", "answers": ["osservava", "avremo concluso", "consegneremo"]}
+    ]
+  },
+  {
+    "id": "027",
+    "titre": "Scelte personali",
+    "definition": "Scegli le forme verbali più coerenti con le ipotesi e i desideri espressi.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Quando ero studente, {{1}} più tempo per leggere, {{2}} più libri e {{3}} meglio la lingua.", "answers": ["vorrei avere", "leggerei", "imparerei"]},
+      {"text": "Se abitassi vicino al mare, {{1}} ogni mattina, {{2}} più sport e {{3}} meno stress.", "answers": ["camminerei", "farei", "avrei"]},
+      {"text": "Da giovane {{1}} spesso che, con più denaro, {{2}} il mondo e {{3}} nuove culture.", "answers": ["pensavo", "visiterei", "scoprirei"]},
+      {"text": "Se fossi al tuo posto, {{1}} con calma, {{2}} tutte le opzioni e {{3}} una decisione.", "answers": ["rifletterei", "valuterei", "prenderei"]},
+      {"text": "Mentre {{1}} alla mia carriera, immaginavo che un giorno {{2}} un'impresa e {{3}} molti lavoratori.", "answers": ["pensavo", "dirigerei", "assumerei"]},
+      {"text": "Se avessimo più risorse, {{1}} il laboratorio, {{2}} nuovi strumenti e {{3}} la ricerca.", "answers": ["amplieremmo", "acquisteremmo", "svilupperemmo"]},
+      {"text": "Quando ero piccolo, {{1}} che da grande {{2}} un esploratore e {{3}} paesi lontani.", "answers": ["sognavo", "diventerei", "visiterei"]},
+      {"text": "Se lavorassi da casa, {{1}} tempo negli spostamenti, {{2}} con più tranquillità e {{3}} la famiglia.", "answers": ["risparmierei", "lavorerei", "vedrei"]},
+      {"text": "Mentre {{1}} il mio futuro, pensavo che {{2}} all'università e {{3}} una professione utile.", "answers": ["immaginavo", "studerei", "sceglierei"]},
+      {"text": "Se fossi più organizzato, {{1}} meno errori, {{2}} meglio il tempo e {{3}} più risultati.", "answers": ["commetterei", "gestirei", "otterrei"]}
+    ]
+  },
+  {
+    "id": "028",
+    "titre": "Occasioni perdute",
+    "definition": "Completa le frasi distinguendo le situazioni ipotetiche dalle loro possibili conseguenze.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Quando ero giovane, {{1}} più lingue; così {{2}} all'estero e {{3}} più opportunità.", "answers": ["avrei voluto imparare", "avrei lavorato", "avrei avuto"]},
+      {"text": "Se avessi avuto più tempo, {{1}} il corso, {{2}} l'esame e {{3}} il certificato.", "answers": ["avrei seguito", "avrei superato", "avrei ottenuto"]},
+      {"text": "Mentre {{1}} la proposta, pensai che, se avessi accettato, {{2}} di più e {{3}} nuove competenze.", "answers": ["valutavo", "avrei guadagnato", "avrei acquisito"]},
+      {"text": "Se avessimo prenotato prima, {{1}} un tavolo, {{2}} una bella serata e {{3}} meno tempo in attesa.", "answers": ["avremmo trovato", "avremmo trascorso", "avremmo perso"]},
+      {"text": "Da studente {{1}} più attenzione; probabilmente {{2}} meno errori e {{3}} risultati migliori.", "answers": ["avrei dovuto prestare", "avrei commesso", "avrei ottenuto"]},
+      {"text": "Se avessi ascoltato il consiglio, {{1}} l'errore, {{2}} il problema e {{3}} tempo.", "answers": ["avrei evitato", "avrei risolto", "avrei risparmiato"]},
+      {"text": "Mentre {{1}} il progetto, immaginavo che con un finanziamento {{2}} il personale e {{3}} la produzione.", "answers": ["preparavo", "avrei assunto", "avrei aumentato"]},
+      {"text": "Se avessi controllato l'indirizzo, {{1}} la strada giusta, {{2}} prima e {{3}} il ritardo.", "answers": ["avrei preso", "sarei arrivato", "avrei evitato"]},
+      {"text": "Quando lavoravo lì, pensavo che con una promozione {{1}} di più, {{2}} un appartamento e {{3}} più indipendente.", "answers": ["avrei guadagnato", "avrei comprato", "sarei diventato"]},
+      {"text": "Se avessimo saputo del cambiamento, {{1}} i piani, {{2}} una soluzione e {{3}} l'inconveniente.", "answers": ["avremmo modificato", "avremmo trovato", "avremmo evitato"]}
+    ]
+  },
+  {
+    "id": "029",
+    "titre": "Opinioni e incertezze",
+    "definition": "Completa le frasi rispettando le espressioni di dubbio e le relazioni temporali.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Pensavo che Paolo {{1}} disponibile, che {{2}} aiutarci e che {{3}} alla riunione.", "answers": ["sia", "possa", "partecipi"]},
+      {"text": "Credevo che il progetto {{1}} interessante, che {{2}} risultati utili e che {{3}} approvato.", "answers": ["sia", "produca", "venga"]},
+      {"text": "Speravo che tu {{1}} bene, che {{2}} abbastanza tempo e che {{3}} presto.", "answers": ["stia", "abbia", "ritorni"]},
+      {"text": "Mi sembrava che il direttore {{1}} ragione, che {{2}} una soluzione e che {{3}} il problema.", "answers": ["abbia", "trovi", "risolva"]},
+      {"text": "Temevo che i vicini {{1}} rumore, che {{2}} la notte e che {{3}} il riposo.", "answers": ["facciano", "disturbino", "compromettano"]},
+      {"text": "Pensavo che la strada {{1}} sicura, che i lavori {{2}} presto e che il traffico {{3}} regolare.", "answers": ["sia", "finiscano", "torni"]},
+      {"text": "Credevo che Maria {{1}} la verità, che {{2}} un chiarimento e che {{3}} le sue ragioni.", "answers": ["conosca", "cerchi", "spieghi"]},
+      {"text": "Speravo che voi {{1}} il messaggio, che {{2}} la situazione e che {{3}} una risposta.", "answers": ["riceviate", "comprendiate", "mandiate"]},
+      {"text": "Mi pareva che il paziente {{1}} meglio, che {{2}} la terapia e che {{3}} il medico.", "answers": ["stia", "segua", "ascolti"]},
+      {"text": "Temevo che la riunione {{1}} lunga, che alcuni partecipanti {{2}} in ritardo e che il direttore {{3}} contrariato.", "answers": ["sia", "arrivino", "rimanga"]}
+    ]
+  },
+  {
+    "id": "030",
+    "titre": "Notizie da verificare",
+    "definition": "Completa le frasi usando forme che esprimono incertezza su fatti precedenti.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Pensavo che Luca {{1}} già, che {{2}} il treno e che {{3}} a destinazione.", "answers": ["sia partito", "abbia preso", "sia arrivato"]},
+      {"text": "Credevo che loro {{1}} la notizia, che {{2}} i documenti e che {{3}} una risposta.", "answers": ["avessero ricevuto", "avessero letto", "avessero preparato"]},
+      {"text": "Speravo che il pacco {{1}} arrivato, che il corriere {{2}} l'indirizzo e che il destinatario {{3}} la consegna.", "answers": ["fosse", "avesse controllato", "avesse ricevuto"]},
+      {"text": "Mi sembrava che Maria {{1}} il lavoro, che {{2}} tutti i dati e che {{3}} il rapporto.", "answers": ["avesse terminato", "avesse verificato", "avesse consegnato"]},
+      {"text": "Temevo che i turisti {{1}} la strada, che {{2}} il sentiero giusto e che {{3}} aiuto.", "answers": ["avessero perso", "non avessero trovato", "avessero chiesto"]},
+      {"text": "Pensavo che tu {{1}} la porta, che {{2}} le finestre e che {{3}} le luci.", "answers": ["avessi chiuso", "avessi controllato", "avessi spento"]},
+      {"text": "Credevo che la squadra {{1}} la partita, che {{2}} bene e che {{3}} molti gol.", "answers": ["avesse vinto", "avesse giocato", "avesse segnato"]},
+      {"text": "Speravo che gli ospiti {{1}} in tempo, che {{2}} la cena e che {{3}} la serata.", "answers": ["fossero arrivati", "avessero apprezzato", "avessero trascorso"]},
+      {"text": "Mi pareva che il direttore {{1}} la proposta, che {{2}} i costi e che {{3}} una decisione.", "answers": ["avesse esaminato", "avesse confrontato", "avesse preso"]},
+      {"text": "Temevo che il medico {{1}} il risultato, che {{2}} gli esami e che {{3}} il paziente.", "answers": ["avesse ricevuto", "avesse analizzato", "avesse informato"]}
+    ]
+  },
+  {
+    "id": "031",
+    "titre": "Ipotesi e desideri",
+    "definition": "Completa le frasi distinguendo i desideri dalle situazioni immaginate.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Se {{1}} più tempo, {{2}} un corso di fotografia e {{3}} nuove tecniche.", "answers": ["avessi", "seguirei", "imparerei"]},
+      {"text": "Vorrei che tu {{1}} con noi, che {{2}} la città e che {{3}} il museo.", "answers": ["venissi", "visitassi", "vedessi"]},
+      {"text": "Se {{1}} meno lavoro, {{2}} più spesso e {{3}} meglio.", "answers": ["avessi", "viaggerei", "riposerei"]},
+      {"text": "Mi piacerebbe che i miei colleghi {{1}} puntuali, {{2}} con attenzione e {{3}} le scadenze.", "answers": ["fossero", "lavorassero", "rispettassero"]},
+      {"text": "Se {{1}} vicino all'università, {{2}} a piedi e {{3}} tempo.", "answers": ["abitassi", "andrei", "risparmierei"]},
+      {"text": "Desideravo che mio fratello {{1}} la verità, {{2}} il problema e {{3}} scusa.", "answers": ["dicesse", "riconoscesse", "chiedesse"]},
+      {"text": "Se {{1}} più coraggio, {{2}} la proposta e {{3}} una nuova esperienza.", "answers": ["avessi", "accetterei", "vivrei"]},
+      {"text": "Speravo che voi {{1}} disponibili, {{2}} il progetto e {{3}} una soluzione.", "answers": ["foste", "esaminaste", "proponeste"]},
+      {"text": "Se {{1}} il mio consiglio, {{2}} l'errore e {{3}} più tranquillo.", "answers": ["seguissi", "eviteresti", "saresti"]},
+      {"text": "Avrei preferito che loro {{1}} prima, {{2}} il problema e {{3}} con noi.", "answers": ["arrivassero", "discutessero", "parlassero"]}
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Una scelta difficile",
+    "definition": "Completa le frasi con forme che esprimono ipotesi e situazioni non realizzate.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Se {{1}} prima la verità, {{2}} una decisione diversa e {{3}} molti problemi.", "answers": ["avessi saputo", "avrei preso", "avrei evitato"]},
+      {"text": "Avrei preferito che tu {{1}} prima, che {{2}} con me e che {{3}} il rischio.", "answers": ["fossi arrivato", "avessi parlato", "avessi valutato"]},
+      {"text": "Se {{1}} meglio le istruzioni, {{2}} l'errore e {{3}} il lavoro in tempo.", "answers": ["avessi letto", "avrei evitato", "avrei terminato"]},
+      {"text": "Mi sarebbe piaciuto che loro {{1}} alla festa, {{2}} i nostri amici e {{3}} la serata.", "answers": ["fossero venuti", "avessero incontrato", "avessero trascorso"]},
+      {"text": "Se {{1}} il biglietto in anticipo, {{2}} meno e {{3}} un posto migliore.", "answers": ["avessi prenotato", "avrei pagato", "avrei trovato"]},
+      {"text": "Avrei voluto che il responsabile {{1}} i documenti, {{2}} i dati e {{3}} una risposta.", "answers": ["avesse controllato", "avesse verificato", "avesse dato"]},
+      {"text": "Se {{1}} più attenzione, {{2}} il messaggio e {{3}} il malinteso.", "answers": ["avessi prestato", "avrei capito", "avrei evitato"]},
+      {"text": "Mi sarebbe piaciuto che voi {{1}} prima, {{2}} il problema e {{3}} una soluzione.", "answers": ["foste arrivati", "aveste discusso", "aveste trovato"]},
+      {"text": "Se {{1}} il consiglio del medico, {{2}} meglio e {{3}} meno difficoltà.", "answers": ["avessi seguito", "sarei stato", "avrei avuto"]},
+      {"text": "Avrei preferito che Maria {{1}} con noi, {{2}} la situazione e {{3}} una decisione condivisa.", "answers": ["avesse parlato", "avesse compreso", "avesse preso"]}
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Dubbi e possibilità",
+    "definition": "Completa le frasi seguendo il significato delle espressioni di dubbio e necessità.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Era necessario che tu {{1}} più attenzione, che {{2}} le istruzioni e che {{3}} ogni passaggio.", "answers": ["facessi", "leggessi", "controllassi"]},
+      {"text": "Pensavo che il direttore {{1}} ragione, che {{2}} una soluzione e che {{3}} il piano.", "answers": ["avesse", "trovasse", "approvasse"]},
+      {"text": "Era importante che gli studenti {{1}} puntuali, {{2}} i documenti e {{3}} pronti.", "answers": ["fossero", "portassero", "fossero"]},
+      {"text": "Credevo che Maria {{1}} la risposta, che {{2}} un consiglio e che {{3}} la decisione.", "answers": ["sapesse", "chiedesse", "prendesse"]},
+      {"text": "Era possibile che il treno {{1}} in ritardo, che i passeggeri {{2}} a lungo e che alcuni {{3}} una protesta.", "answers": ["fosse", "aspettassero", "presentassero"]},
+      {"text": "Volevo che voi {{1}} la verità, che {{2}} le conseguenze e che {{3}} responsabilità.", "answers": ["diceste", "consideraste", "assumeste"]},
+      {"text": "Sembrava che il progetto {{1}} troppo costoso, che i fondi {{2}} insufficienti e che il consiglio {{3}} contrario.", "answers": ["fosse", "fossero", "fosse"]},
+      {"text": "Era meglio che noi {{1}} presto, che {{2}} il traffico e che {{3}} un percorso alternativo.", "answers": ["partissimo", "evitassimo", "scegliessimo"]},
+      {"text": "Dubito che lui {{1}} il problema, che {{2}} una soluzione e che {{3}} l'errore.", "answers": ["capisca", "trovi", "riconosca"]},
+      {"text": "Preferivo che loro {{1}} in silenzio, {{2}} con attenzione e {{3}} domande alla fine.", "answers": ["ascoltassero", "seguissero", "facessero"]}
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "Racconti di famiglia",
+    "definition": "Completa le frasi collegando gli eventi precedenti a quelli narrati.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Quando il nonno {{1}} in città, suo fratello {{2}} già e la famiglia {{3}} una casa.", "answers": ["arrivò", "era partito", "aveva affittato"]},
+      {"text": "Dopo che il padre {{1}} il lavoro, il figlio {{2}} il paese e la madre {{3}} da sola.", "answers": ["ebbe perso", "lasciò", "rimase"]},
+      {"text": "Il sindaco {{1}} la cerimonia dopo che gli organizzatori {{2}} tutto e i cittadini {{3}} in piazza.", "answers": ["aprì", "ebbero preparato", "si riunirono"]},
+      {"text": "Quando la lettera {{1}}, Maria {{2}} la notizia e {{3}} immediatamente alla famiglia.", "answers": ["arrivò", "lesse", "scrisse"]},
+      {"text": "Dopo che i contadini {{1}} il raccolto, il mercato {{2}} e i commercianti {{3}} i prodotti.", "answers": ["ebbero terminato", "aprì", "esposero"]},
+      {"text": "Il viaggiatore {{1}} il villaggio dopo che la guida {{2}} il percorso e gli abitanti {{3}} la strada.", "answers": ["raggiunse", "ebbe indicato", "mostrarono"]},
+      {"text": "Quando il giudice {{1}} in aula, l'avvocato {{2}} i documenti che il suo assistente {{3}}.", "answers": ["entrò", "presentò", "aveva preparato"]},
+      {"text": "Dopo che il capitano {{1}} l'ordine, i marinai {{2}} le vele e la nave {{3}} il porto.", "answers": ["ebbe dato", "issarono", "lasciò"]},
+      {"text": "Il re {{1}} il messaggero dopo che questi {{2}} il viaggio e {{3}} il documento.", "answers": ["ricevette", "ebbe concluso", "consegnò"]},
+      {"text": "Quando la festa {{1}}, gli ospiti {{2}} e i proprietari {{3}} la sala.", "answers": ["terminò", "partirono", "riordinarono"]}
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "Eventi conclusi",
+    "definition": "Completa le frasi rispettando l'ordine degli avvenimenti passati.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Dopo che il direttore {{1}} il rapporto, {{2}} la riunione e {{3}} una decisione.", "answers": ["ebbe letto", "iniziò", "prese"]},
+      {"text": "Quando il treno {{1}}, i passeggeri {{2}} e il controllore {{3}} le porte.", "answers": ["fu partito", "si rilassarono", "chiuse"]},
+      {"text": "Dopo che gli ospiti {{1}}, la famiglia {{2}} la cena e {{3}} il soggiorno.", "answers": ["furono partiti", "servì", "riordinò"]},
+      {"text": "Quando il capitano {{1}} il porto, la nave {{2}} il mare e i marinai {{3}} le vele.", "answers": ["ebbe lasciato", "attraversò", "controllarono"]},
+      {"text": "Dopo che il giudice {{1}} la sentenza, l'avvocato {{2}} la sala e il pubblico {{3}} in silenzio.", "answers": ["ebbe pronunciato", "lasciò", "rimase"]},
+      {"text": "Quando il sole {{1}}, gli escursionisti {{2}} il campo e {{3}} il cammino.", "answers": ["fu tramontato", "lasciarono", "ripresero"]},
+      {"text": "Dopo che il messaggero {{1}} la notizia, il re {{2}} i consiglieri e {{3}} una risposta.", "answers": ["ebbe consegnato", "convocò", "preparò"]},
+      {"text": "Quando la nave {{1}} la traversata, i marinai {{2}} le attrezzature e il capitano {{3}} il porto.", "answers": ["ebbe terminato", "sistemarono", "raggiunse"]},
+      {"text": "Dopo che la squadra {{1}} la partita, i tifosi {{2}} lo stadio e i giocatori {{3}} negli spogliatoi.", "answers": ["ebbe concluso", "lasciarono", "rientrarono"]},
+      {"text": "Quando il direttore {{1}} il discorso, gli invitati {{2}} e l'orchestra {{3}} a suonare.", "answers": ["ebbe terminato", "applaudirono", "cominciò"]}
+    ]
+  },
+  {
+    "id": "036",
+    "titre": "Piani per il futuro",
+    "definition": "Completa le frasi con forme che collegano esperienze passate e progetti futuri.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Avevo già studiato all'estero, quindi l'anno prossimo {{1}} di nuovo, {{2}} un'altra lingua e {{3}} nuovi amici.", "answers": ["partirò", "imparerò", "conoscerò"]},
+      {"text": "Dopo che {{1}} il progetto, {{2}} i risultati e {{3}} il lavoro al cliente.", "answers": ["avremo completato", "presenteremo", "consegneremo"]},
+      {"text": "Avevo già visitato Roma, ma l'estate prossima {{1}} Firenze, {{2}} i musei e {{3}} nuove opere.", "answers": ["visiterò", "scoprirò", "ammirerò"]},
+      {"text": "Quando {{1}} il corso, {{2}} l'esame finale e {{3}} il certificato.", "answers": ["avrai terminato", "sosterrai", "otterrai"]},
+      {"text": "Avevano già preparato il materiale e domani {{1}} la lezione, {{2}} gli esercizi e {{3}} i risultati.", "answers": ["inizieranno", "assegneranno", "controlleranno"]},
+      {"text": "Dopo che {{1}} il contratto, {{2}} il lavoro e {{3}} il gruppo.", "answers": ["avremo firmato", "inizieremo", "informeremo"]},
+      {"text": "Avevo già raccolto le informazioni; domani {{1}} il rapporto, {{2}} i dati e {{3}} al direttore.", "answers": ["scriverò", "controllerò", "lo consegnerò"]},
+      {"text": "Quando {{1}} la casa, {{2}} i mobili e {{3}} gli amici.", "answers": ["avremo sistemato", "porteremo", "inviteremo"]},
+      {"text": "Avevi già fatto esperienza e presto {{1}} più responsabilità, {{2}} un gruppo e {{3}} nuovi progetti.", "answers": ["assumerai", "dirigerai", "gestirai"]},
+      {"text": "Dopo che {{1}} la ricerca, {{2}} un articolo e {{3}} i risultati al congresso.", "answers": ["avremo concluso", "pubblicheremo", "presenteremo"]}
+    ]
+  },
+  {
+    "id": "037",
+    "titre": "Regole e possibilità",
+    "definition": "Completa le frasi con forme verbali appropriate alle ipotesi.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Avevo già spiegato il problema, ma se avessi avuto più tempo {{1}} meglio, {{2}} un esempio e {{3}} ogni dubbio.", "answers": ["spiegherei", "farei", "chiarirei"]},
+      {"text": "Se {{1}} prima i documenti, {{2}} il modulo e {{3}} la domanda senza difficoltà.", "answers": ["avessi ricevuto", "compilerei", "presenterei"]},
+      {"text": "Avevano già valutato la proposta e, con altri fondi, {{1}} il laboratorio, {{2}} il personale e {{3}} la ricerca.", "answers": ["amplierebbero", "assumerebbero", "svilupperebbero"]},
+      {"text": "Se {{1}} la conferma, {{2}} i biglietti, {{3}} l'albergo e {{3}} il viaggio.", "answers": ["avessi ricevuto", "prenoterei", "organizzerei"]},
+      {"text": "Avevo già studiato la situazione e, al tuo posto, {{1}} un esperto, {{2}} le opzioni e {{3}} con prudenza.", "answers": ["consultarei", "valuterei", "deciderei"]},
+      {"text": "Se {{1}} più tempo, {{2}} il rapporto, {{3}} gli errori e {{3}} una versione migliore.", "answers": ["avessimo", "rivedremmo", "correggeremmo"]},
+      {"text": "Avevi già provato il programma; con una guida, {{1}} più velocemente, {{2}} le funzioni e {{3}} meglio il sistema.", "answers": ["impareresti", "scopriresti", "utilizzeresti"]},
+      {"text": "Se {{1}} il messaggio, {{2}} una risposta, {{3}} il problema e {{3}} il progetto.", "answers": ["avessi letto", "scriverei", "risolverei"]},
+      {"text": "Avevano già raccolto i dati e con un analista {{1}} il rapporto, {{2}} i risultati e {{3}} le conclusioni.", "answers": ["preparerebbero", "confronterebbero", "presenterebbero"]},
+      {"text": "Se {{1}} la strada, {{2}} il percorso, {{3}} prima e {{3}} il ritardo.", "answers": ["avessi conosciuto", "cambierei", "arriverei"]}
+    ]
+  },
+  {
+    "id": "038",
+    "titre": "Decisioni e conseguenze",
+    "definition": "Completa le frasi con forme che esprimono possibilità e conseguenze ipotetiche.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Se avessi seguito il consiglio, {{1}} l'errore, {{2}} il lavoro e {{3}} prima.", "answers": ["eviterei", "finirei", "partirei"]},
+      {"text": "Avevo già preparato il progetto; con più risorse {{1}} il gruppo, {{2}} i tempi e {{3}} i risultati.", "answers": ["amplierei", "ridurrei", "migliorerei"]},
+      {"text": "Se {{1}} il documento, {{2}} la richiesta, {{3}} i dati e {{3}} il modulo.", "answers": ["avessi trovato", "completerei", "verificherei"]},
+      {"text": "Avevano già discusso il problema; con una mediazione {{1}} un accordo, {{2}} il conflitto e {{3}} la collaborazione.", "answers": ["raggiungerebbero", "ridurrebbero", "favorirebbero"]},
+      {"text": "Se {{1}} prima, {{2}} il treno, {{3}} in orario e {{3}} lo stress.", "answers": ["avessi prenotato", "prenderei", "arriverei"]},
+      {"text": "Avevo già esaminato il contratto; con un avvocato {{1}} le clausole, {{2}} i rischi e {{3}} meglio.", "answers": ["controllerei", "valuterei", "deciderei"]},
+      {"text": "Se {{1}} una risposta, {{2}} il cliente, {{3}} il problema e {{3}} la collaborazione.", "answers": ["avessi ricevuto", "contatterei", "risolverei"]},
+      {"text": "Avevi già imparato le basi; con più esercizio {{1}} meglio, {{2}} gli errori e {{3}} sicurezza.", "answers": ["scriveresti", "ridurresti", "acquisteresti"]},
+      {"text": "Se {{1}} più personale, {{2}} gli ordini, {{3}} i tempi e {{3}} il servizio.", "answers": ["avessimo", "gestiremmo", "miglioreremmo"]},
+      {"text": "Avevano già analizzato il mercato; con nuovi dati {{1}} la strategia, {{2}} i prezzi e {{3}} nuovi clienti.", "answers": ["modificherebbero", "rivedrebbero", "attirerebbero"]}
+    ]
+  },
+  {
+    "id": "039",
+    "titre": "Proposte e richieste",
+    "definition": "Completa le frasi usando le forme richieste dal significato della frase.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Vorrei che tu {{1}} il rapporto, {{2}} i dati e {{3}} una conclusione chiara.", "answers": ["leggessi", "controllassi", "scrivessi"]},
+      {"text": "Mi piacerebbe che il direttore {{1}} il progetto, {{2}} i costi e {{3}} una decisione.", "answers": ["esaminasse", "valutasse", "prendesse"]},
+      {"text": "Desideravo che voi {{1}} puntuali, {{2}} il materiale e {{3}} pronti per la riunione.", "answers": ["foste", "portaste", "foste"]},
+      {"text": "Era necessario che Maria {{1}} con il cliente, {{2}} il problema e {{3}} una soluzione.", "answers": ["parlasse", "spiegasse", "proponesse"]},
+      {"text": "Preferivo che i colleghi {{1}} in gruppo, {{2}} le idee e {{3}} il progetto.", "answers": ["lavorassero", "condividessero", "sviluppassero"]},
+      {"text": "Vorrei che voi {{1}} la situazione, {{2}} i rischi e {{3}} una scelta responsabile.", "answers": ["comprendeste", "valutaste", "faceste"]},
+      {"text": "Speravo che mio fratello {{1}} il consiglio, {{2}} l'errore e {{3}} scusa.", "answers": ["ascoltasse", "riconoscesse", "chiedesse"]},
+      {"text": "Era importante che gli studenti {{1}} con attenzione, {{2}} le istruzioni e {{3}} le regole.", "answers": ["ascoltassero", "seguissero", "rispettassero"]},
+      {"text": "Mi piacerebbe che l'azienda {{1}} più persone, {{2}} la formazione e {{3}} le condizioni di lavoro.", "answers": ["assumesse", "migliorasse", "migliorasse"]},
+      {"text": "Volevamo che la guida {{1}} il percorso, {{2}} i monumenti e {{3}} le nostre domande.", "answers": ["spiegasse", "descrivesse", "rispondesse"]}
+    ]
+  },
+  {
+    "id": "040",
+    "titre": "Desideri e rimpianti",
+    "definition": "Completa le frasi con forme che esprimono desideri e situazioni passate.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Avrei voluto che tu {{1}} prima, {{2}} con me e {{3}} il problema.", "answers": ["arrivassi", "parlassi", "discutessi"]},
+      {"text": "Mi sarebbe piaciuto che loro {{1}} alla festa, {{2}} i nostri amici e {{3}} la serata.", "answers": ["venissero", "incontrassero", "trascorressero"]},
+      {"text": "Avrei preferito che Maria {{1}} la verità, {{2}} le conseguenze e {{3}} una decisione.", "answers": ["dicesse", "considerasse", "prendesse"]},
+      {"text": "Mi sarebbe piaciuto che voi {{1}} più tempo, {{2}} il progetto e {{3}} insieme.", "answers": ["aveste", "completaste", "lavoraste"]},
+      {"text": "Avrei voluto che il responsabile {{1}} prima, {{2}} i documenti e {{3}} una soluzione.", "answers": ["intervenisse", "controllasse", "proponesse"]},
+      {"text": "Mi sarebbe piaciuto che i miei amici {{1}} con noi, {{2}} il viaggio e {{3}} nuovi luoghi.", "answers": ["partissero", "condividessero", "scoprissero"]},
+      {"text": "Avrei preferito che tu {{1}} con calma, {{2}} ogni opzione e {{3}} senza fretta.", "answers": ["riflettessi", "valutassi", "decidessi"]},
+      {"text": "Avrei voluto che i colleghi {{1}} il mio punto di vista, {{2}} le difficoltà e {{3}} una soluzione.", "answers": ["comprendessero", "riconoscessero", "cercassero"]},
+      {"text": "Mi sarebbe piaciuto che il medico {{1}} più tempo, {{2}} tutti i sintomi e {{3}} meglio la situazione.", "answers": ["avesse", "esaminasse", "comprendesse"]},
+      {"text": "Avrei preferito che voi {{1}} prima, {{2}} il percorso e {{3}} la riunione.", "answers": ["partiste", "controllaste", "raggiungeste"]}
+    ]
+  },
+  {
+    "id": "041",
+    "titre": "Riflessioni sul passato",
+    "definition": "Completa le frasi distinguendo gli eventi precedenti da quelli successivi.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Dopo che il messaggero {{1}} la lettera, il re {{2}} il consiglio e {{3}} una risposta.", "answers": ["ebbe consegnato", "convocò", "preparò"]},
+      {"text": "Quando il capitano {{1}} la rotta, la nave {{2}} il porto e i marinai {{3}} le vele.", "answers": ["ebbe stabilito", "lasciò", "issarono"]},
+      {"text": "Dopo che il giudice {{1}} le prove, {{2}} la sentenza e {{3}} l'udienza.", "answers": ["ebbe esaminato", "pronunciò", "chiuse"]},
+      {"text": "Quando il re {{1}} il messaggio, {{2}} i consiglieri e {{3}} una decisione.", "answers": ["ebbe letto", "consultò", "prese"]},
+      {"text": "Dopo che gli operai {{1}} il ponte, i cittadini {{2}} il passaggio e il sindaco {{3}} la cerimonia.", "answers": ["ebbero completato", "attraversarono", "inaugurò"]},
+      {"text": "Quando il generale {{1}} l'ordine, i soldati {{2}} le posizioni e la battaglia {{3}}.", "answers": ["ebbe dato", "raggiunsero", "cominciò"]},
+      {"text": "Dopo che il mercante {{1}} le merci, {{2}} il pagamento e {{3}} il mercato.", "answers": ["ebbe venduto", "ricevette", "lasciò"]},
+      {"text": "Quando la nave {{1}} al porto, il capitano {{2}} l'equipaggio e {{3}} le istruzioni.", "answers": ["fu arrivata", "radunò", "diede"]},
+      {"text": "Dopo che la famiglia {{1}} la casa, {{2}} in città e {{3}} una nuova vita.", "answers": ["ebbe venduto", "si trasferì", "iniziò"]},
+      {"text": "Quando il poeta {{1}} il testo, {{2}} il manoscritto all'editore e {{3}} una risposta.", "answers": ["ebbe terminato", "inviò", "attese"]}
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Prima e dopo",
+    "definition": "Ricostruisci l'ordine degli eventi usando le forme verbali appropriate.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Dopo che il viaggiatore {{1}} la strada, {{2}} il villaggio e {{3}} una locanda.", "answers": ["ebbe trovato", "raggiunse", "cercò"]},
+      {"text": "Quando gli ospiti {{1}} tutti, la padrona {{2}} la cena e {{3}} il vino.", "answers": ["furono arrivati", "servì", "versò"]},
+      {"text": "Dopo che il direttore {{1}} i conti, {{2}} il rapporto e {{3}} il consiglio.", "answers": ["ebbe controllato", "preparò", "informò"]},
+      {"text": "Quando il temporale {{1}}, i pescatori {{2}} il porto e {{3}} le reti.", "answers": ["fu terminato", "lasciarono", "ripararono"]},
+      {"text": "Dopo che il cuoco {{1}} il pranzo, {{2}} la tavola e {{3}} gli ospiti.", "answers": ["ebbe preparato", "apparecchiò", "accolse"]},
+      {"text": "Quando il professore {{1}} la lezione, gli studenti {{2}} le domande e lui {{3}} alle richieste.", "answers": ["ebbe concluso", "fecero", "rispose"]},
+      {"text": "Dopo che il pilota {{1}} i controlli, {{2}} il motore e {{3}} la pista.", "answers": ["ebbe completato", "avviò", "raggiunse"]},
+      {"text": "Quando il gruppo {{1}} la cima, {{2}} una pausa e {{3}} il panorama.", "answers": ["fu arrivato", "fece", "ammirò"]},
+      {"text": "Dopo che la segretaria {{1}} la lettera, {{2}} la busta e {{3}} al destinatario.", "answers": ["ebbe scritto", "chiuse", "la spedì"]},
+      {"text": "Quando il pubblico {{1}} in sala, l'orchestra {{2}} a suonare e il direttore {{3}} sul palco.", "answers": ["fu entrato", "cominciò", "salì"]}
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Progetti professionali",
+    "definition": "Completa le frasi con forme appropriate ai piani futuri.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Avevo già concluso il corso e presto {{1}} un lavoro, {{2}} esperienza e {{3}} nuove competenze.", "answers": ["troverò", "acquisirò", "svilupperò"]},
+      {"text": "Dopo che {{1}} il contratto, {{2}} il progetto e {{3}} il gruppo.", "answers": ["avremo firmato", "inizieremo", "informeremo"]},
+      {"text": "Avevano già preparato la proposta; domani {{1}} il cliente, {{2}} i costi e {{3}} il piano.", "answers": ["incontreranno", "discuteranno", "presenteranno"]},
+      {"text": "Quando {{1}} la formazione, {{2}} il test finale e {{3}} il certificato.", "answers": ["avrai completato", "sosterrai", "riceverai"]},
+      {"text": "Avevo già studiato il mercato; il mese prossimo {{1}} l'impresa, {{2}} i dipendenti e {{3}} i servizi.", "answers": ["aprirò", "assumerò", "svilupperò"]},
+      {"text": "Dopo che {{1}} i documenti, {{2}} la domanda e {{3}} una conferma.", "answers": ["avremo raccolto", "presenteremo", "attenderemo"]},
+      {"text": "Avevi già fatto esperienza; presto {{1}} un gruppo, {{2}} nuovi progetti e {{3}} le attività.", "answers": ["dirigerai", "coordinerai", "organizzerai"]},
+      {"text": "Quando {{1}} il rapporto, {{2}} i risultati e {{3}} le conclusioni.", "answers": ["avremo terminato", "condivideremo", "presenteremo"]},
+      {"text": "Avevano già individuato i problemi e domani {{1}} le cause, {{2}} le soluzioni e {{3}} un piano.", "answers": ["analizzeranno", "proporranno", "prepareranno"]},
+      {"text": "Dopo che {{1}} il colloquio, {{2}} una decisione e {{3}} il candidato.", "answers": ["avremo concluso", "prenderemo", "informeremo"]}
+    ]
+  },
+  {
+    "id": "044",
+    "titre": "Scelte e conseguenze",
+    "definition": "Completa le frasi con forme verbali adatte a esprimere ipotesi e risultati.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Avevo già studiato il problema; con più tempo {{1}} altre soluzioni, {{2}} i rischi e {{3}} meglio.", "answers": ["cercherei", "valuterei", "deciderei"]},
+      {"text": "Se {{1}} il rapporto, {{2}} gli errori e {{3}} una versione migliore.", "answers": ["avessi letto", "noterei", "preparerei"]},
+      {"text": "Avevano già analizzato il mercato; con altri fondi {{1}} il negozio, {{2}} personale e {{3}} i servizi.", "answers": ["aprirebbero", "assumerebbero", "amplierebbero"]},
+      {"text": "Se {{1}} la risposta, {{2}} il cliente, {{3}} i dettagli e {{3}} la proposta.", "answers": ["avessi ricevuto", "contatterei", "chiarirei"]},
+      {"text": "Avevo già valutato il contratto; al tuo posto {{1}} un esperto, {{2}} le clausole e {{3}} con attenzione.", "answers": ["consultarei", "esaminerei", "deciderei"]},
+      {"text": "Se {{1}} prima, {{2}} il treno, {{3}} in orario e {{3}} lo stress.", "answers": ["avessimo prenotato", "prenderemmo", "arriveremmo"]},
+      {"text": "Avevi già preparato la presentazione; con più prove {{1}} meglio, {{2}} la sicurezza e {{3}} gli errori.", "answers": ["parleresti", "aumenteresti", "ridurresti"]},
+      {"text": "Se {{1}} il problema, {{2}} una soluzione, {{3}} il gruppo e {{3}} il lavoro.", "answers": ["avessi compreso", "proporrei", "coinvolgerei"]},
+      {"text": "Avevano già discusso il progetto; con più dati {{1}} la strategia, {{2}} i costi e {{3}} il risultato.", "answers": ["cambierebbero", "ridurrebbero", "migliorerebbero"]},
+      {"text": "Se {{1}} più personale, {{2}} gli ordini, {{3}} i tempi e {{3}} il servizio.", "answers": ["avessimo", "gestiremmo", "ridurremmo"]}
+    ]
+  },
+  {
+    "id": "045",
+    "titre": "Rimpianti e alternative",
+    "definition": "Completa le frasi con forme che esprimono conseguenze di situazioni passate.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Se avessi controllato il documento, {{1}} l'errore, {{2}} il modulo e {{3}} la domanda.", "answers": ["avrei evitato", "avrei corretto", "avrei presentato"]},
+      {"text": "Avevo già preparato il viaggio; se avessi prenotato prima, {{1}} meno, {{2}} un posto migliore e {{3}} più tranquillo.", "answers": ["avrei pagato", "avrei trovato", "sarei stato"]},
+      {"text": "Se avessimo ricevuto la conferma, {{1}} i biglietti, {{2}} l'albergo e {{3}} il viaggio.", "answers": ["avremmo comprato", "avremmo prenotato", "avremmo organizzato"]},
+      {"text": "Avevi già studiato molto; se avessi ripassato ancora, {{1}} meglio, {{2}} gli errori e {{3}} un voto più alto.", "answers": ["avresti risposto", "avresti evitato", "avresti ottenuto"]},
+      {"text": "Se avessi ascoltato il consiglio, {{1}} il rischio, {{2}} una soluzione e {{3}} il problema.", "answers": ["avresti valutato", "avresti trovato", "avresti risolto"]},
+      {"text": "Avevano già raccolto i dati; se li avessero verificati, {{1}} gli errori, {{2}} il rapporto e {{3}} risultati affidabili.", "answers": ["avrebbero individuato", "avrebbero corretto", "avrebbero ottenuto"]},
+      {"text": "Se avessimo saputo del cambiamento, {{1}} i piani, {{2}} una soluzione e {{3}} il ritardo.", "answers": ["avremmo modificato", "avremmo trovato", "avremmo evitato"]},
+      {"text": "Avevo già letto il contratto; se avessi chiesto un parere, {{1}} meglio le clausole, {{2}} i rischi e {{3}} una scelta più sicura.", "answers": ["avrei compreso", "avrei valutato", "avrei fatto"]},
+      {"text": "Se avessi preso un taxi, {{1}} prima, {{2}} la riunione e {{3}} l'attesa.", "answers": ["sarei arrivato", "avrei raggiunto", "avrei evitato"]},
+      {"text": "Avevamo già preparato tutto; se avessimo iniziato prima, {{1}} il lavoro, {{2}} meno e {{3}} prima.", "answers": ["avremmo concluso", "avremmo faticato", "avremmo finito"]}
+    ]
+  },
+  {
+    "id": "046",
+    "titre": "Opinioni e decisioni",
+    "definition": "Completa le frasi collegando giudizi e fatti precedenti.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Pensavo che loro {{1}} la verità, che {{2}} le conseguenze e che {{3}} una decisione.", "answers": ["avessero detto", "avessero valutato", "avessero preso"]},
+      {"text": "Credevo che Maria {{1}} il documento, che {{2}} tutti i dati e che {{3}} il rapporto.", "answers": ["avesse letto", "avesse verificato", "avesse completato"]},
+      {"text": "Mi sembrava che il direttore {{1}} la proposta, che {{2}} i costi e che {{3}} il progetto.", "answers": ["avesse esaminato", "avesse confrontato", "avesse approvato"]},
+      {"text": "Speravo che voi {{1}} in tempo, che {{2}} la riunione e che {{3}} una soluzione.", "answers": ["foste arrivati", "aveste seguito", "aveste trovato"]},
+      {"text": "Temevo che il corriere {{1}} il pacco, che {{2}} l'indirizzo e che {{3}} il destinatario.", "answers": ["avesse perso", "avesse sbagliato", "non avesse trovato"]},
+      {"text": "Pensavo che gli studenti {{1}} il testo, che {{2}} le domande e che {{3}} le risposte.", "answers": ["avessero letto", "avessero compreso", "avessero preparato"]},
+      {"text": "Credevo che il medico {{1}} i risultati, che {{2}} gli esami e che {{3}} il paziente.", "answers": ["avesse ricevuto", "avesse analizzato", "avesse informato"]},
+      {"text": "Mi pareva che la squadra {{1}} bene, che {{2}} molti punti e che {{3}} la partita.", "answers": ["avesse giocato", "avesse segnato", "avesse vinto"]},
+      {"text": "Speravo che il responsabile {{1}} il problema, che {{2}} le cause e che {{3}} un rimedio.", "answers": ["avesse capito", "avesse individuato", "avesse trovato"]},
+      {"text": "Temevo che gli ospiti {{1}} già, che {{2}} la cena e che {{3}} senza salutare.", "answers": ["fossero partiti", "avessero terminato", "fossero usciti"]}
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Racconti e cronache",
+    "definition": "Completa le frasi usando forme adatte alla narrazione di eventi conclusi.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Dopo che il re {{1}} il messaggio, {{2}} i consiglieri e {{3}} una risposta.", "answers": ["ebbe letto", "convocò", "preparò"]},
+      {"text": "Quando il generale {{1}} l'ordine, i soldati {{2}} le posizioni e la battaglia {{3}}.", "answers": ["ebbe dato", "raggiunsero", "cominciò"]},
+      {"text": "Dopo che il capitano {{1}} il porto, la nave {{2}} il mare e i marinai {{3}} le vele.", "answers": ["ebbe lasciato", "attraversò", "controllarono"]},
+      {"text": "Quando il messaggero {{1}} alla corte, il sovrano {{2}} la lettera e {{3}} i ministri.", "answers": ["fu arrivato", "lesse", "chiamò"]},
+      {"text": "Dopo che i cittadini {{1}} la piazza, il sindaco {{2}} il discorso e {{3}} la cerimonia.", "answers": ["ebbero riempito", "pronunciò", "aprì"]},
+      {"text": "Quando il mercante {{1}} le merci, {{2}} il pagamento e {{3}} il villaggio.", "answers": ["ebbe venduto", "ricevette", "lasciò"]},
+      {"text": "Dopo che il poeta {{1}} il manoscritto, {{2}} all'editore e {{3}} una risposta.", "answers": ["ebbe terminato", "lo inviò", "attese"]},
+      {"text": "Quando la nave {{1}} al porto, i marinai {{2}} le attrezzature e il capitano {{3}} a terra.", "answers": ["fu arrivata", "sistemarono", "scese"]},
+      {"text": "Dopo che il giudice {{1}} le prove, {{2}} la sentenza e {{3}} l'udienza.", "answers": ["ebbe esaminato", "pronunciò", "chiuse"]},
+      {"text": "Quando la folla {{1}} in silenzio, l'oratore {{2}} il palco e {{3}} il discorso.", "answers": ["fu rimasta", "salì", "iniziò"]}
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "Il giorno successivo",
+    "definition": "Completa le frasi collegando eventi passati a conseguenze future.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Dopo che {{1}} il rapporto, {{2}} i risultati e {{3}} le conclusioni.", "answers": ["avremo completato", "presenteremo", "condivideremo"]},
+      {"text": "Quando {{1}} il corso, {{2}} l'esame e {{3}} il certificato.", "answers": ["avrai terminato", "sosterrai", "riceverai"]},
+      {"text": "Dopo che {{1}} i biglietti, {{2}} l'albergo e {{3}} il viaggio.", "answers": ["avremo comprato", "prenoteremo", "organizzeremo"]},
+      {"text": "Quando {{1}} il lavoro, {{2}} il direttore e {{3}} il prossimo incarico.", "answers": ["avrai finito", "informerai", "discuterai"]},
+      {"text": "Dopo che {{1}} i dati, {{2}} il rapporto e {{3}} le raccomandazioni.", "answers": ["avremo verificato", "prepareremo", "formuleremo"]},
+      {"text": "Quando {{1}} la casa, {{2}} i mobili e {{3}} gli amici.", "answers": ["avremo sistemato", "porteremo", "inviteremo"]},
+      {"text": "Dopo che {{1}} il contratto, {{2}} il progetto e {{3}} il gruppo.", "answers": ["avremo firmato", "inizieremo", "informeremo"]},
+      {"text": "Quando {{1}} la ricerca, {{2}} un articolo e {{3}} il congresso.", "answers": ["avremo concluso", "scriveremo", "organizzeremo"]},
+      {"text": "Dopo che {{1}} i documenti, {{2}} la domanda e {{3}} una conferma.", "answers": ["avremo raccolto", "presenteremo", "attenderemo"]},
+      {"text": "Quando {{1}} la riunione, {{2}} una decisione e {{3}} il personale.", "answers": ["avremo terminato", "prenderemo", "informeremo"]}
+    ]
+  },
+  {
+    "id": "049",
+    "titre": "Progetti ambiziosi",
+    "definition": "Completa le frasi con forme adatte a esprimere previsioni e risultati futuri.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Entro domani {{1}} il rapporto, {{2}} i risultati e {{3}} al direttore.", "answers": ["avremo terminato", "controlleremo", "lo consegneremo"]},
+      {"text": "Quando {{1}} il corso, {{2}} l'esame e {{3}} il certificato.", "answers": ["avrai completato", "sosterrai", "otterrai"]},
+      {"text": "Entro la fine del mese {{1}} il progetto, {{2}} i costi e {{3}} il cliente.", "answers": ["avremo concluso", "calcoleremo", "informeremo"]},
+      {"text": "Dopo che {{1}} la casa, {{2}} i mobili e {{3}} gli ospiti.", "answers": ["avremo pulito", "sistemeremo", "accoglieremo"]},
+      {"text": "Entro venerdì {{1}} i documenti, {{2}} la domanda e {{3}} la conferma.", "answers": ["avremo raccolto", "presenteremo", "attenderemo"]},
+      {"text": "Quando {{1}} il viaggio, {{2}} le fotografie e {{3}} i ricordi con gli amici.", "answers": ["avremo concluso", "condivideremo", "racconteremo"]},
+      {"text": "Entro sera {{1}} la cucina, {{2}} la tavola e {{3}} gli ospiti.", "answers": ["avremo pulito", "apparecchieremo", "accoglieremo"]},
+      {"text": "Quando {{1}} il lavoro, {{2}} una pausa e {{3}} il progetto successivo.", "answers": ["avremo finito", "faremo", "inizieremo"]},
+      {"text": "Entro dicembre {{1}} il personale, {{2}} i servizi e {{3}} nuovi clienti.", "answers": ["avremo formato", "miglioreremo", "acquisiremo"]},
+      {"text": "Quando {{1}} la ricerca, {{2}} i dati e {{3}} le conclusioni.", "answers": ["avremo completato", "pubblicheremo", "presenteremo"]}
+    ]
+  },
+  {
+    "id": "050",
+    "titre": "Ipotesi e risultati",
+    "definition": "Completa le frasi con forme appropriate alle ipotesi e alle loro conseguenze.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Se {{1}} più tempo, {{2}} il progetto, {{3}} i dettagli e {{3}} una soluzione.", "answers": ["avessi", "rivedrei", "controllerei"]},
+      {"text": "Quando {{1}} il corso, {{2}} un lavoro migliore e {{3}} più esperienza.", "answers": ["avrai terminato", "cercherai", "acquisirai"]},
+      {"text": "Se {{1}} il finanziamento, {{2}} il laboratorio e {{3}} nuovi ricercatori.", "answers": ["avessimo ricevuto", "amplieremmo", "assumeremmo"]},
+      {"text": "Dopo che {{1}} il rapporto, {{2}} i risultati e {{3}} una decisione.", "answers": ["avremo letto", "discuteremo", "prenderemo"]},
+      {"text": "Se {{1}} più personale, {{2}} gli ordini, {{3}} i tempi e {{3}} il servizio.", "answers": ["avessimo", "gestiremmo", "miglioreremmo"]},
+      {"text": "Quando {{1}} la conferma, {{2}} i biglietti e {{3}} il viaggio.", "answers": ["avrai ricevuto", "comprerai", "organizzerai"]},
+      {"text": "Se {{1}} il messaggio, {{2}} una risposta, {{3}} il problema e {{3}} la proposta.", "answers": ["avessi letto", "scriverei", "chiarirei"]},
+      {"text": "Dopo che {{1}} i dati, {{2}} il rapporto e {{3}} le raccomandazioni.", "answers": ["avremo analizzato", "prepareremo", "formuleremo"]},
+      {"text": "Se {{1}} il contratto, {{2}} le clausole e {{3}} una decisione più sicura.", "answers": ["avessi letto", "capirei", "prenderei"]},
+      {"text": "Quando {{1}} il progetto, {{2}} i risultati e {{3}} una nuova fase.", "answers": ["avremo concluso", "valuteremo", "inizieremo"]}
+    ]
+  },
+  {
+    "id": "051",
+    "titre": "Conseguenze inattese",
+    "definition": "Completa le frasi collegando previsioni e ipotesi passate.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Se avessi ricevuto la notizia, {{1}} prima, {{2}} i documenti e {{3}} alla riunione.", "answers": ["sarei partito", "avrei preparato", "sarei arrivato"]},
+      {"text": "Quando {{1}} il contratto, {{2}} il lavoro e {{3}} il gruppo.", "answers": ["avremo firmato", "inizieremo", "informeremo"]},
+      {"text": "Se avessi controllato la strada, {{1}} il percorso, {{2}} prima e {{3}} il ritardo.", "answers": ["avrei scelto", "sarei arrivato", "avrei evitato"]},
+      {"text": "Dopo che {{1}} il rapporto, {{2}} il direttore e {{3}} una decisione.", "answers": ["avremo completato", "informeremo", "prenderemo"]},
+      {"text": "Se avessimo prenotato prima, {{1}} meno, {{2}} un posto migliore e {{3}} più tranquilli.", "answers": ["avremmo pagato", "avremmo trovato", "saremmo stati"]},
+      {"text": "Quando {{1}} il corso, {{2}} l'esame finale e {{3}} il certificato.", "answers": ["avrai terminato", "sosterrai", "riceverai"]},
+      {"text": "Se avessi letto le istruzioni, {{1}} il programma, {{2}} gli errori e {{3}} tempo.", "answers": ["avrei capito", "avrei evitato", "avrei risparmiato"]},
+      {"text": "Dopo che {{1}} il progetto, {{2}} i risultati e {{3}} le conclusioni.", "answers": ["avremo concluso", "presenteremo", "condivideremo"]},
+      {"text": "Se avessi ascoltato il consiglio, {{1}} il rischio, {{2}} una soluzione e {{3}} il problema.", "answers": ["avresti valutato", "avresti trovato", "avresti risolto"]},
+      {"text": "Quando {{1}} la casa, {{2}} i mobili e {{3}} gli amici.", "answers": ["avremo sistemato", "porteremo", "inviteremo"]}
+    ]
+  },
+  {
+    "id": "052",
+    "titre": "Possibilità e desideri",
+    "definition": "Completa le frasi con forme adatte a esprimere desideri, possibilità e fatti.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Vorrei che tu {{1}} il progetto, {{2}} le opzioni e {{3}} una soluzione.", "answers": ["esaminassi", "valutassi", "proponessi"]},
+      {"text": "Se {{1}} più tempo, {{2}} il corso e {{3}} nuove competenze.", "answers": ["avessi", "seguirei", "acquisirei"]},
+      {"text": "Mi piacerebbe che loro {{1}} con noi, {{2}} la città e {{3}} il museo.", "answers": ["venissero", "visitassero", "scoprissero"]},
+      {"text": "Se {{1}} il consiglio, {{2}} l'errore e {{3}} una scelta migliore.", "answers": ["avessi seguito", "eviterei", "farei"]},
+      {"text": "Vorrei che il direttore {{1}} i costi, {{2}} il progetto e {{3}} una decisione.", "answers": ["valutasse", "esaminasse", "prendesse"]},
+      {"text": "Se {{1}} più coraggio, {{2}} la proposta e {{3}} una nuova esperienza.", "answers": ["avessi", "accetterei", "vivrei"]},
+      {"text": "Mi piacerebbe che voi {{1}} puntuali, {{2}} il materiale e {{3}} pronti.", "answers": ["foste", "portaste", "foste"]},
+      {"text": "Se {{1}} il messaggio, {{2}} il cliente e {{3}} i dettagli.", "answers": ["avessi ricevuto", "contatterei", "chiarirei"]},
+      {"text": "Vorrei che gli studenti {{1}} con attenzione, {{2}} le istruzioni e {{3}} gli esercizi.", "answers": ["ascoltassero", "seguissero", "completassero"]},
+      {"text": "Se {{1}} più organizzato, {{2}} meno errori e {{3}} risultati migliori.", "answers": ["fossi", "commetterei", "otterrei"]}
+    ]
+  },
+  {
+    "id": "053",
+    "titre": "Decisioni condivise",
+    "definition": "Completa le frasi usando le forme verbali più coerenti con il contesto.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Avrei preferito che tu {{1}} prima, {{2}} il problema e {{3}} una soluzione.", "answers": ["fossi arrivato", "avessi discusso", "avessi proposto"]},
+      {"text": "Vorrei che il responsabile {{1}} la situazione, {{2}} le opzioni e {{3}} una decisione.", "answers": ["esaminasse", "valutasse", "prendesse"]},
+      {"text": "Mi sarebbe piaciuto che voi {{1}} il progetto, {{2}} i risultati e {{3}} una conclusione.", "answers": ["aveste completato", "aveste presentato", "aveste raggiunto"]},
+      {"text": "Se {{1}} più tempo, {{2}} con i colleghi e {{3}} un accordo.", "answers": ["avessi", "parlerei", "cercherei"]},
+      {"text": "Avrei voluto che il direttore {{1}} i documenti, {{2}} i dati e {{3}} il rapporto.", "answers": ["avesse letto", "avesse verificato", "avesse approvato"]},
+      {"text": "Vorrei che i partecipanti {{1}} le idee, {{2}} i problemi e {{3}} una soluzione comune.", "answers": ["condividessero", "discutessero", "trovassero"]},
+      {"text": "Se {{1}} il consiglio, {{2}} l'errore e {{3}} il progetto.", "answers": ["avessi seguito", "eviterei", "salverei"]},
+      {"text": "Mi sarebbe piaciuto che Maria {{1}} con noi, {{2}} il problema e {{3}} una decisione.", "answers": ["avesse parlato", "avesse spiegato", "avesse preso"]},
+      {"text": "Vorrei che voi {{1}} più attenzione, {{2}} ogni dettaglio e {{3}} le scadenze.", "answers": ["prestaste", "controllaste", "rispettaste"]},
+      {"text": "Se {{1}} il rapporto, {{2}} i risultati e {{3}} una scelta migliore.", "answers": ["avessi letto", "capirei", "farei"]}
+    ]
+  },
+  {
+    "id": "054",
+    "titre": "Raccomandazioni e dubbi",
+    "definition": "Completa le frasi con le forme richieste dalle espressioni di dubbio e possibilità.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "È possibile che Maria {{1}} il messaggio, che {{2}} la situazione e che {{3}} una risposta.", "answers": ["abbia ricevuto", "abbia compreso", "abbia preparato"]},
+      {"text": "Dubito che loro {{1}} il problema, che {{2}} le cause e che {{3}} una soluzione.", "answers": ["abbiano capito", "abbiano individuato", "abbiano trovato"]},
+      {"text": "Spero che tu {{1}} bene, che {{2}} la terapia e che {{3}} presto.", "answers": ["stia", "segua", "guarisca"]},
+      {"text": "Temo che il corriere {{1}} il pacco, che {{2}} l'indirizzo e che {{3}} il destinatario.", "answers": ["abbia perso", "abbia sbagliato", "non abbia trovato"]},
+      {"text": "È probabile che gli studenti {{1}} il testo, che {{2}} le domande e che {{3}} le risposte.", "answers": ["abbiano letto", "abbiano compreso", "abbiano preparato"]},
+      {"text": "Non credo che il direttore {{1}} il rapporto, che {{2}} i dati e che {{3}} la decisione.", "answers": ["abbia letto", "abbia verificato", "abbia preso"]},
+      {"text": "Siamo felici che voi {{1}} in tempo, che {{2}} il lavoro e che {{3}} il progetto.", "answers": ["siate arrivati", "abbiate completato", "abbiate consegnato"]},
+      {"text": "È possibile che il treno {{1}} in ritardo, che i passeggeri {{2}} a lungo e che alcuni {{3}} una protesta.", "answers": ["sia arrivato", "abbiano aspettato", "abbiano presentato"]},
+      {"text": "Mi dispiace che tu {{1}} il documento, che {{2}} un errore e che {{3}} tempo.", "answers": ["abbia perso", "abbia commesso", "abbia sprecato"]},
+      {"text": "Spero che i nostri ospiti {{1}} bene, che {{2}} la cena e che {{3}} una bella serata.", "answers": ["siano stati", "abbiano apprezzato", "abbiano trascorso"]}
+    ]
+  },
+  {
+    "id": "055",
+    "titre": "Confronti e valutazioni",
+    "definition": "Completa le frasi con forme verbali appropriate ai giudizi e ai fatti passati.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Pensavo che il candidato {{1}} preparato, che {{2}} tutte le domande e che {{3}} bene.", "answers": ["fosse", "avesse compreso", "avesse risposto"]},
+      {"text": "È positivo che il gruppo {{1}} il progetto, che {{2}} le difficoltà e che {{3}} un risultato concreto.", "answers": ["abbia completato", "abbia superato", "abbia ottenuto"]},
+      {"text": "Credevo che Maria {{1}} disponibile, che {{2}} il lavoro e che {{3}} il gruppo.", "answers": ["fosse", "avesse terminato", "avesse aiutato"]},
+      {"text": "Mi fa piacere che voi {{1}} il museo, che {{2}} le opere e che {{3}} nuove informazioni.", "answers": ["abbiate visitato", "abbiate ammirato", "abbiate scoperto"]},
+      {"text": "Pensavo che gli ospiti {{1}} stanchi, che {{2}} la cena e che {{3}} presto.", "answers": ["fossero", "avessero terminato", "fossero partiti"]},
+      {"text": "È importante che tu {{1}} la verità, che {{2}} le conseguenze e che {{3}} responsabilità.", "answers": ["abbia detto", "abbia compreso", "abbia assunto"]},
+      {"text": "Credevo che il medico {{1}} competente, che {{2}} gli esami e che {{3}} il paziente.", "answers": ["fosse", "avesse controllato", "avesse informato"]},
+      {"text": "Sono contento che loro {{1}} in tempo, che {{2}} la riunione e che {{3}} una soluzione.", "answers": ["siano arrivati", "abbiano seguito", "abbiano trovato"]},
+      {"text": "Mi sembrava che il progetto {{1}} pronto, che il gruppo {{2}} tutto e che il direttore {{3}} l'approvazione.", "answers": ["fosse", "avesse completato", "avesse dato"]},
+      {"text": "È sorprendente che tu {{1}} il problema, che {{2}} le cause e che {{3}} una soluzione.", "answers": ["abbia individuato", "abbia analizzato", "abbia trovato"]}
+    ]
+  },
+  {
+    "id": "056",
+    "titre": "Desideri e condizioni",
+    "definition": "Completa le frasi distinguendo le situazioni ipotetiche da quelle non realizzate.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Se {{1}} più tempo, {{2}} il corso e {{3}} meglio la lingua.", "answers": ["avessi", "seguirei", "imparerei"]},
+      {"text": "Vorrei che tu {{1}} più attenzione, {{2}} le istruzioni e {{3}} gli errori.", "answers": ["prestassi", "leggessi", "evitassi"]},
+      {"text": "Se {{1}} prima la verità, {{2}} una scelta diversa e {{3}} il problema.", "answers": ["avessi saputo", "avrei fatto", "avrei evitato"]},
+      {"text": "Mi piacerebbe che loro {{1}} con noi, {{2}} il progetto e {{3}} le idee.", "answers": ["lavorassero", "sviluppassero", "condividessero"]},
+      {"text": "Se {{1}} il documento, {{2}} gli errori e {{3}} una versione corretta.", "answers": ["avessi controllato", "avrei trovato", "avrei preparato"]},
+      {"text": "Vorrei che il responsabile {{1}} i costi, {{2}} le opzioni e {{3}} una decisione.", "answers": ["valutasse", "esaminasse", "prendesse"]},
+      {"text": "Se {{1}} più organizzato, {{2}} meno errori e {{3}} prima.", "answers": ["fossi", "commetterei", "finirei"]},
+      {"text": "Avrei preferito che voi {{1}} prima, {{2}} il problema e {{3}} una soluzione.", "answers": ["foste arrivati", "aveste discusso", "aveste trovato"]},
+      {"text": "Se {{1}} il consiglio, {{2}} il rischio e {{3}} una scelta più sicura.", "answers": ["avessi seguito", "eviterei", "farei"]},
+      {"text": "Vorrei che gli studenti {{1}} con attenzione, {{2}} le domande e {{3}} le risposte.", "answers": ["leggessero", "comprendessero", "scrivessero"]}
+    ]
+  },
+  {
+    "id": "057",
+    "titre": "Esperienze e possibilità",
+    "definition": "Completa le frasi usando forme verbali adatte a esprimere ipotesi e conseguenze passate.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Se {{1}} il corso, {{2}} nuove competenze e {{3}} un lavoro migliore.", "answers": ["avessi seguito", "avrei acquisito", "avrei trovato"]},
+      {"text": "Mi sarebbe piaciuto che tu {{1}} con noi, {{2}} la città e {{3}} nuove persone.", "answers": ["fossi venuto", "avessi visitato", "avessi conosciuto"]},
+      {"text": "Se {{1}} il contratto, {{2}} le clausole e {{3}} una decisione più sicura.", "answers": ["avessi letto", "avrei compreso", "avrei preso"]},
+      {"text": "Avrei preferito che loro {{1}} prima, {{2}} il problema e {{3}} una soluzione.", "answers": ["fossero intervenuti", "avessero analizzato", "avessero proposto"]},
+      {"text": "Se {{1}} la strada, {{2}} prima, {{3}} la riunione e {{3}} il ritardo.", "answers": ["avessi conosciuto", "sarei arrivato", "avrei raggiunto"]},
+      {"text": "Mi sarebbe piaciuto che voi {{1}} il progetto, {{2}} i risultati e {{3}} le conclusioni.", "answers": ["aveste completato", "aveste presentato", "aveste condiviso"]},
+      {"text": "Se {{1}} il consiglio, {{2}} il rischio, {{3}} una soluzione e {{3}} il problema.", "answers": ["avessi ascoltato", "avrei valutato", "avrei trovato"]},
+      {"text": "Avrei voluto che Maria {{1}} prima, {{2}} con noi e {{3}} le sue ragioni.", "answers": ["fosse arrivata", "avesse parlato", "avesse spiegato"]},
+      {"text": "Se {{1}} più attenzione, {{2}} gli errori, {{3}} tempo e {{3}} il lavoro.", "answers": ["avessi prestato", "avrei evitato", "avrei risparmiato"]},
+      {"text": "Mi sarebbe piaciuto che il gruppo {{1}} meglio, {{2}} le difficoltà e {{3}} un risultato migliore.", "answers": ["avesse collaborato", "avesse superato", "avesse ottenuto"]}
+    ]
+  },
+   {
+    "id": "058",
+    "titre": "Esperienze quotidiane",
+    "definition": "Completa le frasi scegliendo le forme verbali adatte al contesto.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Oggi {{1}} molto, ieri {{2}} poco e da bambino {{3}} sempre presto.", "answers": ["lavoro", "ho dormito", "mi svegliavo"]},
+      {"text": "Maria {{1}} a Roma, la settimana scorsa {{2}} a Milano e da giovane {{3}} spesso all'estero.", "answers": ["vive", "è andata", "viaggiava"]},
+      {"text": "Adesso {{1}} un libro interessante, ieri {{2}} un romanzo e durante le vacanze {{3}} ogni sera.", "answers": ["leggo", "ho comprato", "leggevo"]},
+      {"text": "Mio fratello {{1}} in ospedale, ieri {{2}} il turno di notte e prima {{3}} in una clinica privata.", "answers": ["lavora", "ha fatto", "lavorava"]},
+      {"text": "Oggi {{1}} molto caldo, ieri {{2}} la pioggia e durante l'estate {{3}} quasi sempre il sole.", "answers": ["fa", "è arrivata", "splendeva"]},
+      {"text": "Io {{1}} il francese, l'anno scorso {{2}} un corso e a scuola {{3}} ogni giorno.", "answers": ["parlo", "ho seguito", "studiavo"]},
+      {"text": "I ragazzi {{1}} a calcio, ieri {{2}} una partita e da piccoli {{3}} ogni pomeriggio.", "answers": ["giocano", "hanno disputato", "giocavano"]},
+      {"text": "Mia sorella {{1}} in centro, ieri {{2}} un vestito e da adolescente {{3}} spesso nei mercatini.", "answers": ["fa shopping", "ha comprato", "cercava"]},
+      {"text": "Noi {{1}} in questo quartiere, la settimana scorsa {{2}} nuovi vicini e prima {{3}} in una zona più tranquilla.", "answers": ["abitiamo", "abbiamo conosciuto", "vivevamo"]},
+      {"text": "Il professore {{1}} la lezione, ieri {{2}} un esame e durante il semestre {{3}} spesso esercizi pratici.", "answers": ["spiega", "ha preparato", "proponeva"]}
+    ]
+  },
+  {
+    "id": "059",
+    "titre": "Una giornata impegnativa",
+    "definition": "Completa le frasi collegando le azioni presenti, recenti e anteriori.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Adesso {{1}} in ufficio, stamattina {{2}} in anticipo e prima di uscire {{3}} tutti i documenti.", "answers": ["sono", "sono arrivato", "avevo preparato"]},
+      {"text": "Maria {{1}} molto tranquilla, ieri {{2}} una buona notizia e prima {{3}} per settimane.", "answers": ["sembra", "ha ricevuto", "aveva aspettato"]},
+      {"text": "Noi {{1}} il progetto, ieri {{2}} una riunione e prima {{3}} tutti i dati necessari.", "answers": ["presentiamo", "abbiamo organizzato", "avevamo raccolto"]},
+      {"text": "Il negozio {{1}} aperto, stamattina {{2}} molti clienti e prima {{3}} una nuova promozione.", "answers": ["è", "ha accolto", "aveva annunciato"]},
+      {"text": "Io {{1}} molto meglio, ieri {{2}} il medico e prima {{3}} diversi giorni a casa.", "answers": ["sto", "ho consultato", "avevo trascorso"]},
+      {"text": "Gli studenti {{1}} soddisfatti, ieri {{2}} l'esame e prima {{3}} intensamente.", "answers": ["sono", "hanno superato", "avevano studiato"]},
+      {"text": "La direttrice {{1}} il risultato, ieri {{2}} una verifica e prima {{3}} tutte le relazioni.", "answers": ["conosce", "ha effettuato", "aveva esaminato"]},
+      {"text": "Oggi {{1}} al mercato, stamattina {{2}} la lista della spesa e prima {{3}} il frigorifero.", "answers": ["vado", "ho preparato", "avevo controllato"]},
+      {"text": "I turisti {{1}} il centro storico, ieri {{2}} il museo e prima {{3}} una guida locale.", "answers": ["visitano", "hanno visitato", "avevano prenotato"]},
+      {"text": "Paolo {{1}} finalmente rilassato, ieri {{2}} il progetto e prima {{3}} fino a tardi.", "answers": ["sembra", "ha terminato", "aveva lavorato"]}
+    ]
+  },
+  {
+    "id": "060",
+    "titre": "Ricordi e cambiamenti",
+    "definition": "Completa le frasi usando il contesto per distinguere abitudini passate e azioni concluse.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Oggi {{1}} in città, da bambino {{2}} in campagna e un giorno mio padre {{3}} a vivere qui.", "answers": ["vivo", "abitavo", "si trasferì"]},
+      {"text": "Adesso {{1}} questa storia, da piccolo {{2}} racconti simili e una sera mio nonno {{3}} una leggenda.", "answers": ["conosco", "ascoltavo", "raccontò"]},
+      {"text": "La piazza {{1}} molto diversa, un tempo {{2}} più piccola e il comune {{3}} il vecchio mercato.", "answers": ["sembra", "era", "ristrutturò"]},
+      {"text": "Oggi {{1}} spesso questo parco, da giovane {{2}} qui ogni domenica e un giorno un amico mi {{3}} il posto.", "answers": ["vengo", "passeggiavo", "mostrò"]},
+      {"text": "Mio nonno {{1}} ancora famoso nel paese, da giovane {{2}} racconti divertenti e una volta {{3}} un premio.", "answers": ["è", "narrava", "vinse"]},
+      {"text": "La casa {{1}} ancora in piedi, quando ero piccolo {{2}} molto più grande e mio padre {{3}} il tetto.", "answers": ["è", "sembrava", "riparò"]},
+      {"text": "Oggi {{1}} questo mestiere, da ragazzo {{2}} un'altra professione e poi {{3}} di diventare insegnante.", "answers": ["esercito", "sognavo", "decisi"]},
+      {"text": "Il villaggio {{1}} molti visitatori, un tempo {{2}} quasi deserto e un imprenditore {{3}} un albergo.", "answers": ["accoglie", "era", "costruì"]},
+      {"text": "Adesso {{1}} la verità, per anni {{2}} un'altra versione e alla fine il testimone {{3}} tutto.", "answers": ["so", "sentivo", "confessò"]},
+      {"text": "La biblioteca {{1}} molto frequentata, prima gli studenti {{2}} qui ogni pomeriggio e un nuovo direttore {{3}} l'orario.", "answers": ["è", "studiavano", "modificò"]}
+    ]
+  },
+  {
+    "id": "061",
+    "titre": "Il mistero del villaggio",
+    "definition": "Completa le frasi rispettando l'ordine degli eventi narrati.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Oggi tutti {{1}} la verità, il sindaco {{2}} la notizia ieri e prima qualcuno {{3}} una lettera anonima.", "answers": ["conoscono", "rivelò", "aveva lasciato"]},
+      {"text": "Il museo {{1}} aperto al pubblico, il direttore {{2}} la porta e prima gli operai {{3}} i lavori.", "answers": ["è", "aprì", "avevano completato"]},
+      {"text": "Adesso {{1}} il motivo della fuga, il detective {{2}} una traccia e il sospettato {{3}} già la città.", "answers": ["capisco", "scoprì", "aveva lasciato"]},
+      {"text": "La polizia {{1}} il caso, il giudice {{2}} la sentenza e gli investigatori {{3}} tutte le prove.", "answers": ["considera", "pronunciò", "avevano raccolto"]},
+      {"text": "Il castello {{1}} ancora imponente, un re {{2}} la fortezza e i costruttori {{3}} le mura.", "answers": ["sembra", "fondò", "avevano rinforzato"]},
+      {"text": "Oggi il paese {{1}} molti turisti, un viaggiatore {{2}} il luogo secoli fa e alcuni mercanti {{3}} già la regione.", "answers": ["attira", "scoprì", "avevano attraversato"]},
+      {"text": "Il documento {{1}} nell'archivio, lo storico {{2}} la scatola e un impiegato {{3}} il manoscritto anni prima.", "answers": ["si trova", "aprì", "aveva nascosto"]},
+      {"text": "Adesso tutti {{1}} il colpevole, il testimone {{2}} il suo nome e la polizia {{3}} già le sue impronte.", "answers": ["conoscono", "rivelò", "aveva trovato"]},
+      {"text": "La torre {{1}} ancora in piedi, il principe {{2}} la costruzione e gli architetti {{3}} il progetto.", "answers": ["è", "ordinò", "avevano preparato"]},
+      {"text": "Oggi il villaggio {{1}} la pace, il conflitto {{2}} molti anni fa e i capi {{3}} un accordo prima della battaglia finale.", "answers": ["conosce", "terminò", "avevano firmato"]}
+    ]
+  },
+  {
+    "id": "062",
+    "titre": "Progetti e scadenze",
+    "definition": "Completa le frasi collegando il presente con le azioni future e quelle che saranno già concluse.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Oggi {{1}} al rapporto, domani {{2}} i risultati e venerdì {{3}} tutte le conclusioni.", "answers": ["lavoro", "presenterò", "avrò preparato"]},
+      {"text": "Il mese prossimo {{1}} il corso, entro giugno {{2}} l'esame e poi {{3}} tutte le lezioni.", "answers": ["frequenterò", "sosterrò", "avrò completato"]},
+      {"text": "Adesso {{1}} i documenti, domani {{2}} la domanda e entro la settimana {{3}} ogni allegato.", "answers": ["controllo", "presenterò", "avrò raccolto"]},
+      {"text": "Oggi {{1}} con il cliente, domani {{2}} il contratto e venerdì {{3}} le condizioni.", "answers": ["parlo", "firmeremo", "avremo definito"]},
+      {"text": "Il progetto {{1}} oggi, domani {{2}} la fase successiva e entro sera {{3}} il primo rapporto.", "answers": ["inizia", "avvieremo", "avremo scritto"]},
+      {"text": "Adesso {{1}} italiano, l'anno prossimo {{2}} in Italia e prima della partenza {{3}} il livello B2.", "answers": ["studio", "vivrò", "avrò raggiunto"]},
+      {"text": "La squadra {{1}} oggi, domani {{2}} la finale e prima della partita {{3}} tutti gli allenamenti.", "answers": ["si allena", "giocherà", "avrà completato"]},
+      {"text": "Oggi {{1}} la casa, domani {{2}} i mobili e entro sera {{3}} tutte le stanze.", "answers": ["pulisco", "sistemerò", "avrò arredato"]},
+      {"text": "Adesso {{1}} la ricerca, il mese prossimo {{2}} i dati e a dicembre {{3}} lo studio.", "answers": ["conduco", "analizzerò", "avrò concluso"]},
+      {"text": "Oggi {{1}} con il gruppo, domani {{2}} il piano e entro lunedì {{3}} le responsabilità.", "answers": ["collaboro", "discuteremo", "avremo assegnato"]}
+    ]
+  },
+  {
+    "id": "063",
+    "titre": "Scelte personali",
+    "definition": "Completa le frasi distinguendo le possibilità, i desideri e le conseguenze ipotetiche.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Oggi {{1}} più tempo libero; al tuo posto {{2}} meno impegni e ieri {{3}} una riunione inutile.", "answers": ["desidero", "accetterei", "avrei evitato"]},
+      {"text": "Se {{1}} più denaro, {{2}} una casa più grande e con una migliore pianificazione {{3}} già l'anticipo.", "answers": ["avessi", "comprerei", "avrei pagato"]},
+      {"text": "Io {{1}} volentieri all'estero, {{2}} un lavoro remoto e l'anno scorso {{3}} un'offerta interessante.", "answers": ["vivrei", "cercherei", "ho ricevuto"]},
+      {"text": "Se {{1}} più prudente, {{2}} il contratto con attenzione e probabilmente {{3}} l'errore.", "answers": ["fossi", "leggerei", "avrei evitato"]},
+      {"text": "Oggi {{1}} una decisione difficile; al tuo posto {{2}} un esperto e ieri {{3}} un consiglio importante.", "answers": ["devo prendere", "consultarei", "avrei chiesto"]},
+      {"text": "Se {{1}} più tempo, {{2}} il corso e prima dell'esame {{3}} tutti gli esercizi.", "answers": ["avessi", "seguirei", "avrei completato"]},
+      {"text": "Io {{1}} una nuova opportunità, {{2}} una proposta diversa e ieri {{3}} un colloquio importante.", "answers": ["cerco", "accetterei", "ho sostenuto"]},
+      {"text": "Se {{1}} il rischio, {{2}} una soluzione alternativa e forse {{3}} il problema.", "answers": ["conoscessi", "sceglierei", "avrei risolto"]},
+      {"text": "Oggi {{1}} più autonomia; con un altro lavoro {{2}} da casa e ieri {{3}} una proposta interessante.", "answers": ["vorrei", "lavorerei", "ho ricevuto"]},
+      {"text": "Se {{1}} prima le istruzioni, {{2}} meno errori e {{3}} il compito in tempo.", "answers": ["avessi letto", "commetterei", "avrei terminato"]}
+    ]
+  },
+  {
+    "id": "064",
+    "titre": "Dubbi e convinzioni",
+    "definition": "Completa le frasi usando le forme verbali coerenti con le opinioni e i fatti.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Penso che Maria {{1}} ragione, spero che {{2}} la risposta e sono contento che {{3}} il problema.", "answers": ["abbia", "trovi", "abbia risolto"]},
+      {"text": "Credo che loro {{1}} disponibili, mi sembra che {{2}} bene e so che {{3}} già il lavoro.", "answers": ["siano", "collaborino", "abbiano terminato"]},
+      {"text": "È possibile che il treno {{1}} in ritardo, spero che {{2}} presto e so che {{3}} già la stazione precedente.", "answers": ["sia", "arrivi", "abbia lasciato"]},
+      {"text": "Dubito che Paolo {{1}} la verità, temo che {{2}} un errore e sono certo che {{3}} il documento.", "answers": ["dica", "commetta", "abbia letto"]},
+      {"text": "Voglio che tu {{1}} attento, spero che {{2}} le istruzioni e sono felice che {{3}} tutto.", "answers": ["sia", "segua", "abbia capito"]},
+      {"text": "Crediamo che il progetto {{1}} valido, speriamo che {{2}} risultati e siamo lieti che {{3}} già approvato.", "answers": ["sia", "produca", "sia stato"]},
+      {"text": "È importante che voi {{1}} puntuali, credo che {{2}} il messaggio e so che {{3}} in anticipo.", "answers": ["siate", "abbiate ricevuto", "siete partiti"]},
+      {"text": "Mi auguro che il medico {{1}} disponibile, che {{2}} il paziente e che {{3}} già gli esami.", "answers": ["sia", "visiti", "abbia controllato"]},
+      {"text": "Non credo che il direttore {{1}} contrario, spero che {{2}} la proposta e sono felice che {{3}} il progetto.", "answers": ["sia", "accetti", "abbia sostenuto"]},
+      {"text": "Temo che i ragazzi {{1}} stanchi, spero che {{2}} un po' e sono contento che {{3}} il viaggio.", "answers": ["siano", "riposino", "abbiano concluso"]}
+    ]
+  },
+  {
+    "id": "065",
+    "titre": "Prospettive future",
+    "definition": "Completa le frasi con forme verbali adatte a esprimere fatti, previsioni e possibilità.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Oggi {{1}} molto lavoro, domani {{2}} prima e al tuo posto {{3}} un aiuto.", "answers": ["ho", "partirò", "chiederei"]},
+      {"text": "Il negozio {{1}} oggi, la settimana prossima {{2}} una nuova sede e con più fondi {{3}} anche il personale.", "answers": ["è aperto", "inaugurerà", "amplierebbe"]},
+      {"text": "Adesso {{1}} il progetto, domani {{2}} il cliente e al suo posto {{3}} una soluzione più semplice.", "answers": ["presento", "incontrerò", "sceglierei"]},
+      {"text": "Oggi {{1}} in ufficio, domani {{2}} da casa e con una connessione migliore {{3}} più facilmente.", "answers": ["lavoro", "lavorerò", "collaborerei"]},
+      {"text": "La squadra {{1}} bene, domani {{2}} la finale e con più allenamento {{3}} ancora meglio.", "answers": ["gioca", "disputerà", "giocherebbe"]},
+      {"text": "Io {{1}} italiano, l'anno prossimo {{2}} in Italia e con più pratica {{3}} più fluentemente.", "answers": ["studio", "vivrò", "parlerei"]},
+      {"text": "Il direttore {{1}} la proposta, domani {{2}} la risposta e con altri dati {{3}} la decisione.", "answers": ["esamina", "comunicherà", "cambierebbe"]},
+      {"text": "Oggi {{1}} i documenti, domani {{2}} la domanda e con un aiuto {{3}} il processo.", "answers": ["preparo", "presenterò", "accelererei"]},
+      {"text": "Il corso {{1}} a settembre, gli studenti {{2}} l'esame a dicembre e con più esercizio {{3}} risultati migliori.", "answers": ["inizia", "sosterranno", "otterrebbero"]},
+      {"text": "Noi {{1}} una nuova campagna, la lanceremo domani e con un budget maggiore {{2}} più persone e {{3}} il pubblico.", "answers": ["prepariamo", "raggiungeremmo", "coinvolgeremmo"]}
+    ]
+  },
+  {
+    "id": "066",
+    "titre": "Esperienze recenti",
+    "definition": "Completa le frasi collegando azioni concluse, progetti futuri e risultati attesi.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Oggi {{1}} il rapporto, ieri {{2}} i dati e domani {{3}} le conclusioni.", "answers": ["scrivo", "ho raccolto", "presenterò"]},
+      {"text": "Maria {{1}} molto felice, {{2}} una promozione e il mese prossimo {{3}} un nuovo incarico.", "answers": ["è", "ha ricevuto", "inizierà"]},
+      {"text": "Noi {{1}} il viaggio, {{2}} i biglietti ieri e domani {{3}} le valigie.", "answers": ["organizziamo", "abbiamo comprato", "prepareremo"]},
+      {"text": "Il professore {{1}} la classe, ieri {{2}} i risultati e domani {{3}} gli errori più frequenti.", "answers": ["incontra", "ha comunicato", "spiegherà"]},
+      {"text": "Io {{1}} meglio, {{2}} il medico ieri e domani {{3}} il trattamento.", "answers": ["sto", "ho consultato", "continuerò"]},
+      {"text": "Gli studenti {{1}} il corso, {{2}} il primo test e la prossima settimana {{3}} l'esame finale.", "answers": ["seguono", "hanno superato", "sosterranno"]},
+      {"text": "L'azienda {{1}} nuovi servizi, {{2}} il progetto ieri e domani {{3}} la campagna.", "answers": ["offre", "ha approvato", "lancerà"]},
+      {"text": "Oggi {{1}} al centro, ieri {{2}} il museo e domani {{3}} il quartiere storico.", "answers": ["andiamo", "abbiamo visitato", "esploreremo"]},
+      {"text": "Il direttore {{1}} il contratto, {{2}} le clausole e domani {{3}} la firma.", "answers": ["controlla", "ha modificato", "confermerà"]},
+      {"text": "Noi {{1}} il problema, {{2}} una soluzione ieri e domani {{3}} il nuovo sistema.", "answers": ["affrontiamo", "abbiamo trovato", "installeremo"]}
+    ]
+  },
+  {
+    "id": "067",
+    "titre": "Una storia complessa",
+    "definition": "Completa le frasi rispettando l'ordine cronologico degli eventi.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Il protagonista {{1}} ancora la verità, da giovane {{2}} molte difficoltà e un giorno {{3}} il suo paese.", "answers": ["cerca", "affrontava", "lasciò"]},
+      {"text": "Oggi il castello {{1}} visitabile, un tempo {{2}} una fortezza e il re {{3}} le sue mura.", "answers": ["è", "era", "rafforzò"]},
+      {"text": "La famiglia {{1}} ancora qui, prima {{2}} in un villaggio lontano e poi {{3}} in città.", "answers": ["vive", "abitava", "si trasferì"]},
+      {"text": "Il vecchio archivio {{1}} documenti preziosi, il bibliotecario {{2}} molti anni a catalogarli e un ricercatore {{3}} una lettera rara.", "answers": ["contiene", "trascorse", "scoprì"]},
+      {"text": "La città {{1}} oggi molto diversa, nel passato {{2}} un piccolo porto e un mercante {{3}} il primo magazzino.", "answers": ["è", "era", "costruì"]},
+      {"text": "Il testimone {{1}} ancora la sua storia, da giovane {{2}} in quella casa e un giorno {{3}} un rumore misterioso.", "answers": ["racconta", "abitava", "sentì"]},
+      {"text": "Il museo {{1}} molte opere, il direttore {{2}} per anni una collezione e un donatore {{3}} un quadro prezioso.", "answers": ["espone", "cercava", "donò"]},
+      {"text": "La strada {{1}} molto trafficata, un tempo {{2}} quasi deserta e il comune {{3}} un nuovo ponte.", "answers": ["è", "era", "costruì"]},
+      {"text": "Il villaggio {{1}} una tradizione antica, gli abitanti {{2}} ogni anno una festa e un sindaco {{3}} la celebrazione ufficiale.", "answers": ["conserva", "organizzavano", "istituì"]},
+      {"text": "La famiglia {{1}} il segreto, per anni {{2}} in silenzio e alla fine il nonno {{3}} tutta la verità.", "answers": ["conosce", "rimaneva", "rivelò"]}
+    ]
+  },
+  {
+    "id": "068",
+    "titre": "Prima della partenza",
+    "definition": "Completa le frasi usando forme verbali che esprimono azioni anteriori, passate e future.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Ho già {{1}} i documenti, prima {{2}} il passaporto e domani {{3}} all'aeroporto.", "answers": ["preparato", "avevo rinnovato", "andrò"]},
+      {"text": "Abbiamo {{1}} il viaggio, prima {{2}} gli alberghi e il mese prossimo {{3}} l'Italia.", "answers": ["organizzato", "avevamo prenotato", "visiteremo"]},
+      {"text": "Maria ha {{1}} la valigia, prima {{2}} tutti i vestiti e domani {{3}} per Parigi.", "answers": ["chiuso", "aveva sistemato", "partirà"]},
+      {"text": "Ho {{1}} il biglietto, prima {{2}} l'orario e domani {{3}} il treno delle otto.", "answers": ["comprato", "avevo controllato", "prenderò"]},
+      {"text": "Abbiamo {{1}} le mappe, prima {{2}} il percorso e domani {{3}} l'escursione.", "answers": ["stampato", "avevamo studiato", "inizieremo"]},
+      {"text": "Lui ha {{1}} il visto, prima {{2}} la domanda e il mese prossimo {{3}} all'estero.", "answers": ["ottenuto", "aveva presentato", "lavorerà"]},
+      {"text": "Ho {{1}} il taxi, prima {{2}} l'indirizzo e tra poco {{3}} alla stazione.", "answers": ["prenotato", "avevo verificato", "arriverò"]},
+      {"text": "Abbiamo {{1}} le valigie, prima {{2}} tutto il necessario e domani {{3}} il viaggio.", "answers": ["preparato", "avevamo comprato", "inizieremo"]},
+      {"text": "Mia sorella ha {{1}} il programma, prima {{2}} i musei e domani {{3}} il centro storico.", "answers": ["scaricato", "aveva selezionato", "visiterà"]},
+      {"text": "Ho {{1}} la prenotazione, prima {{2}} l'albergo e domani {{3}} la conferma alla reception.", "answers": ["confermato", "avevo contattato", "mostrerò"]}
+    ]
+  },
+  {
+    "id": "069",
+    "titre": "Risultati e progetti",
+    "definition": "Completa le frasi con forme che collegano risultati passati a obiettivi futuri.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Abbiamo {{1}} il primo progetto, il gruppo {{2}} settimane per prepararlo e domani {{3}} il risultato.", "answers": ["completato", "aveva lavorato", "presenterà"]},
+      {"text": "Ho {{1}} il corso, prima {{2}} ogni sera e il prossimo mese {{3}} l'esame finale.", "answers": ["terminato", "avevo studiato", "sosterrò"]},
+      {"text": "L'azienda ha {{1}} un nuovo prodotto, gli ingegneri {{2}} per mesi e domani {{3}} la campagna.", "answers": ["sviluppato", "avevano lavorato", "lanceranno"]},
+      {"text": "Abbiamo {{1}} i dati, prima {{2}} tutte le fonti e domani {{3}} il rapporto.", "answers": ["raccolto", "avevamo verificato", "pubblicheremo"]},
+      {"text": "Maria ha {{1}} una promozione, prima {{2}} molto e il mese prossimo {{3}} il nuovo incarico.", "answers": ["ottenuto", "aveva lavorato", "inizierà"]},
+      {"text": "Il team ha {{1}} la piattaforma, prima {{2}} il codice e domani {{3}} il servizio.", "answers": ["completato", "aveva testato", "attiverà"]},
+      {"text": "Abbiamo {{1}} il problema, prima {{2}} diverse soluzioni e domani {{3}} il sistema aggiornato.", "answers": ["risolto", "avevamo valutato", "installeremo"]},
+      {"text": "Ho {{1}} la relazione, prima {{2}} le informazioni e domani {{3}} il documento al responsabile.", "answers": ["preparato", "avevo raccolto", "consegnerò"]},
+      {"text": "La squadra ha {{1}} il torneo, prima {{2}} ogni giorno e la prossima settimana {{3}} una nuova competizione.", "answers": ["vinto", "si era allenata", "inizierà"]},
+      {"text": "Abbiamo {{1}} il corso, prima {{2}} tutti gli esercizi e domani {{3}} i certificati.", "answers": ["concluso", "avevamo corretto", "distribuiremo"]}
+    ]
+  },
+  {
+    "id": "070",
+    "titre": "Decisioni e possibilità",
+    "definition": "Completa le frasi distinguendo le azioni concluse, le ipotesi e le conseguenze.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Ho {{1}} la proposta, {{2}} più tempo per valutarla e {{3}} un esperto prima di decidere.", "answers": ["ricevuto", "vorrei", "consultarei"]},
+      {"text": "Abbiamo {{1}} il progetto, {{2}} un'altra strategia e {{3}} un risultato migliore.", "answers": ["presentato", "sceglieremmo", "avremmo ottenuto"]},
+      {"text": "Maria ha {{1}} l'offerta, {{2}} più informazioni e {{3}} una decisione diversa.", "answers": ["accettato", "vorrebbe", "avrebbe preso"]},
+      {"text": "Ho {{1}} il contratto, {{2}} le clausole con attenzione e {{3}} un avvocato prima della firma.", "answers": ["letto", "controllerei", "avrei consultato"]},
+      {"text": "Abbiamo {{1}} il problema, {{2}} una soluzione alternativa e {{3}} i costi prima di procedere.", "answers": ["individuato", "cercheremmo", "avremmo valutato"]},
+      {"text": "Lui ha {{1}} la domanda, {{2}} un chiarimento e {{3}} la richiesta se necessario.", "answers": ["presentato", "vorrebbe", "modificherebbe"]},
+      {"text": "Ho {{1}} la prenotazione, {{2}} un altro orario e {{3}} meno tempo in attesa.", "answers": ["confermato", "preferirei", "avrei perso"]},
+      {"text": "Abbiamo {{1}} i risultati, {{2}} un nuovo test e {{3}} i dati prima della pubblicazione.", "answers": ["ricevuto", "organizzeremmo", "avremmo verificato"]},
+      {"text": "Maria ha {{1}} il progetto, {{2}} un altro metodo e {{3}} gli errori prima della consegna.", "answers": ["iniziato", "utilizzerebbe", "avrebbe corretto"]},
+      {"text": "Ho {{1}} il messaggio, {{2}} una risposta più chiara e {{3}} il malinteso.", "answers": ["letto", "scriverei", "avrei evitato"]}
+    ]
+  },
+  {
+    "id": "071",
+    "titre": "Opinioni e risultati",
+    "definition": "Completa le frasi con forme verbali coerenti con le opinioni e le esperienze.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Ho {{1}} il risultato, credo che {{2}} corretto e sono felice che il gruppo {{3}} il lavoro.", "answers": ["visto", "sia", "abbia terminato"]},
+      {"text": "Abbiamo {{1}} la notizia, speriamo che Maria {{2}} bene e siamo contenti che {{3}} il problema.", "answers": ["ricevuto", "stia", "abbia risolto"]},
+      {"text": "Ho {{1}} la proposta, penso che {{2}} interessante e sono lieto che il direttore {{3}} il progetto.", "answers": ["esaminato", "sia", "abbia approvato"]},
+      {"text": "Gli studenti hanno {{1}} il test, credo che {{2}} preparati e sono contento che {{3}} tutti gli esercizi.", "answers": ["superato", "siano", "abbiano completato"]},
+      {"text": "Abbiamo {{1}} il rapporto, dubito che {{2}} completo e temo che alcuni dati {{3}} mancanti.", "answers": ["ricevuto", "sia", "siano"]},
+      {"text": "Ho {{1}} il paziente, spero che {{2}} meglio e sono felice che {{3}} la terapia.", "answers": ["visitato", "stia", "abbia seguito"]},
+      {"text": "Maria ha {{1}} il messaggio, credo che {{2}} la situazione e sono contento che {{3}} una risposta.", "answers": ["letto", "comprenda", "abbia preparato"]},
+      {"text": "Abbiamo {{1}} il progetto, speriamo che {{2}} successo e siamo felici che i clienti {{3}} soddisfatti.", "answers": ["lanciato", "abbia", "siano"]},
+      {"text": "Ho {{1}} le istruzioni, penso che {{2}} chiare e sono felice che tu {{3}} tutto.", "answers": ["lette", "siano", "abbia capito"]},
+      {"text": "I colleghi hanno {{1}} il piano, credo che {{2}} valido e sono lieto che tutti {{3}} d'accordo.", "answers": ["esaminato", "sia", "siano"]}
+    ]
+  },
+  {
+    "id": "072",
+    "titre": "Ricordi di un'avventura",
+    "definition": "Completa le frasi collegando le abitudini passate agli eventi conclusi.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Da bambino {{1}} spesso in montagna, un giorno {{2}} una grotta e prima di entrare {{3}} una torcia.", "answers": ["camminavo", "scoprii", "avevo preso"]},
+      {"text": "Mentre {{1}} lungo il fiume, {{2}} un ponte antico che gli abitanti {{3}} molti anni prima.", "answers": ["passeggiavo", "vidi", "avevano costruito"]},
+      {"text": "Noi {{1}} spesso quel sentiero, un pomeriggio {{2}} una cascata e prima non {{3}} mai quel luogo.", "answers": ["percorrevamo", "scoprimmo", "avevamo visitato"]},
+      {"text": "Il sole {{1}} dietro le montagne quando {{2}} al villaggio che i nostri amici {{3}} già.", "answers": ["tramontava", "arrivammo", "avevano lasciato"]},
+      {"text": "Mentre {{1}} la tenda, {{2}} che qualcuno {{3}} già il nostro accampamento.", "answers": ["montavamo", "scoprimmo", "aveva raggiunto"]},
+      {"text": "Da giovani {{1}} spesso il lago, una volta {{2}} una barca e prima il proprietario {{3}} le corde.", "answers": ["visitavamo", "noleggiammo", "aveva preparato"]},
+      {"text": "Il vento {{1}} forte quando {{2}} la costa che la tempesta {{3}} durante la notte.", "answers": ["soffiava", "raggiungemmo", "aveva colpito"]},
+      {"text": "Mentre {{1}} nella foresta, {{2}} un animale che non {{3}} mai prima.", "answers": ["camminavamo", "incontrammo", "avevamo visto"]},
+      {"text": "Gli esploratori {{1}} da ore quando {{2}} una sorgente che nessuno {{3}} sulle mappe.", "answers": ["camminavano", "trovarono", "aveva segnato"]},
+      {"text": "Io {{1}} la strada quando {{2}} un cartello che qualcuno {{3}} dietro un albero.", "answers": ["cercavo", "notai", "aveva nascosto"]}
+    ]
+  },
+  {
+    "id": "073",
+    "titre": "Il segreto della casa",
+    "definition": "Completa le frasi rispettando la successione degli eventi e le loro conseguenze.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Mentre {{1}} la casa, {{2}} una chiave che il vecchio proprietario {{3}} sotto il pavimento.", "answers": ["esaminavo", "trovai", "aveva nascosto"]},
+      {"text": "La porta {{1}} chiusa quando {{2}} al piano superiore che qualcuno {{3}} la finestra.", "answers": ["era", "salimmo", "aveva aperto"]},
+      {"text": "Noi {{1}} spesso quella stanza, un giorno {{2}} una lettera e capimmo che qualcuno {{3}} lì anni prima.", "answers": ["evitavamo", "scoprimmo", "aveva vissuto"]},
+      {"text": "Mentre {{1}} il giardino, {{2}} una scatola che il precedente proprietario {{3}} vicino al muro.", "answers": ["pulivo", "trovai", "aveva sepolto"]},
+      {"text": "La casa {{1}} silenziosa, il vento {{2}} le finestre e qualcuno {{3}} una candela sul tavolo.", "answers": ["sembrava", "scosse", "aveva lasciato"]},
+      {"text": "Mentre {{1}} il corridoio, {{2}} un quadro che nessuno {{3}} mai prima.", "answers": ["attraversavo", "notai", "aveva osservato"]},
+      {"text": "La famiglia {{1}} curiosa, il nonno {{2}} un cassetto e la nonna {{3}} già la chiave.", "answers": ["era", "aprì", "aveva trovato"]},
+      {"text": "Mentre {{1}} la soffitta, {{2}} un diario che il proprietario {{3}} molti anni prima.", "answers": ["esploravamo", "scoprimmo", "aveva scritto"]},
+      {"text": "Il gatto {{1}} davanti alla porta quando {{2}} un rumore che proveniva dalla stanza che nessuno {{3}} da tempo.", "answers": ["si fermava", "sentimmo", "aveva aperto"]},
+      {"text": "La casa {{1}} ancora un mistero, il detective {{2}} la verità e i testimoni {{3}} dettagli importanti.", "answers": ["nasconde", "scoprì", "avevano omesso"]}
+    ]
+  },
+  {
+    "id": "074",
+    "titre": "Responsabilità e decisioni",
+    "definition": "Completa le frasi usando forme verbali adatte a esprimere situazioni passate e possibilità.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Quando {{1}} giovane, {{2}} più responsabilità e oggi {{3}} meglio il tempo.", "answers": ["ero", "avrei voluto assumere", "gestirei"]},
+      {"text": "Mentre {{1}} il progetto, scoprii che il gruppo {{2}} alcuni dati e ora {{3}} una verifica completa.", "answers": ["preparavo", "aveva dimenticato", "servirebbe"]},
+      {"text": "Il direttore {{1}} spesso che, se avessimo pianificato meglio, {{2}} meno errori e {{3}} il lavoro prima.", "answers": ["diceva", "avremmo commesso", "avremmo concluso"]},
+      {"text": "Quando {{1}} in quell'azienda, {{2}} un nuovo sistema e oggi {{3}} ancora più efficiente.", "answers": ["lavoravo", "avevamo introdotto", "sarebbe"]},
+      {"text": "Mentre {{1}} la relazione, mi accorsi che {{2}} un allegato e che {{3}} il documento.", "answers": ["scrivevo", "avevo dimenticato", "avrei dovuto controllare"]},
+      {"text": "Il responsabile {{1}} preoccupato perché il team {{2}} la scadenza e ora {{3}} una proroga.", "answers": ["era", "aveva superato", "chiederebbe"]},
+      {"text": "Quando {{1}} il contratto, {{2}} tutte le clausole e oggi {{3}} più tranquillo.", "answers": ["firmavo", "avevo letto", "sarei"]},
+      {"text": "Mentre {{1}} la riunione, il direttore spiegò che l'azienda {{2}} un errore e {{3}} una soluzione.", "answers": ["iniziava", "aveva commesso", "avrebbe cercato"]},
+      {"text": "Quando {{1}} il reparto, {{2}} molti problemi e ora {{3}} un cambiamento importante.", "answers": ["dirigevo", "avevo affrontato", "proporrei"]},
+      {"text": "Il personale {{1}} stanco perché {{2}} fino a tardi e il giorno dopo {{3}} una pausa.", "answers": ["era", "aveva lavorato", "avrebbe chiesto"]}
+    ]
+  },
+  {
+    "id": "075",
+    "titre": "Lezioni del passato",
+    "definition": "Completa le frasi collegando ricordi, azioni anteriori e conseguenze ipotetiche.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Da giovane {{1}} spesso errori perché non {{2}} le istruzioni e oggi {{3}} più prudente.", "answers": ["commettevo", "avevo letto", "sarei"]},
+      {"text": "Mentre {{1}} il progetto, capii che {{2}} una decisione sbagliata e che {{3}} correggerla.", "answers": ["sviluppavo", "avevo preso", "avrei dovuto"]},
+      {"text": "Quando {{1}} in quella città, {{2}} molte difficoltà e oggi {{3}} meglio le esigenze dei nuovi arrivati.", "answers": ["vivevo", "avevo affrontato", "comprenderei"]},
+      {"text": "Il professore {{1}} severo perché alcuni studenti {{2}} poco e {{3}} risultati insufficienti.", "answers": ["era", "avevano studiato", "avevano ottenuto"]},
+      {"text": "Mentre {{1}} il rapporto, ricordai che {{2}} un dato importante e che {{3}} la conclusione.", "answers": ["preparavo", "avevo omesso", "avrei dovuto rivedere"]},
+      {"text": "Quando {{1}} il negozio, {{2}} molti clienti fedeli e oggi {{3}} la loro fiducia.", "answers": ["gestivo", "avevo conquistato", "vorrei mantenere"]},
+      {"text": "La squadra {{1}} fiduciosa perché {{2}} diverse partite e {{3}} la finale.", "answers": ["era", "aveva vinto", "avrebbe raggiunto"]},
+      {"text": "Mentre {{1}} con il cliente, mi resi conto che {{2}} una promessa e che {{3}} mantenerla.", "answers": ["parlavo", "avevo fatto", "avrei dovuto"]},
+      {"text": "Da bambino {{1}} spesso in biblioteca, dove {{2}} molti libri e oggi {{3}} ancora la lettura.", "answers": ["andavo", "avevo scoperto", "amo"]},
+      {"text": "Il direttore {{1}} soddisfatto perché il gruppo {{2}} il progetto e ora {{3}} nuovi obiettivi.", "answers": ["era", "aveva completato", "stabilirebbe"]}
+    ]
+  },
+  {
+    "id": "076",
+    "titre": "Una decisione importante",
+    "definition": "Completa le frasi con forme verbali coerenti con i fatti e le possibilità.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Mentre {{1}} la proposta, pensavo che {{2}} più informazioni e che {{3}} un esperto.", "answers": ["leggevo", "avessi bisogno di", "consultarei"]},
+      {"text": "Quando {{1}} la decisione, {{2}} già tutti i rischi e oggi {{3}} più sicuro.", "answers": ["presi", "avevo valutato", "mi sento"]},
+      {"text": "Il gruppo {{1}} preoccupato perché {{2}} una scadenza e ora {{3}} una proroga.", "answers": ["era", "aveva mancato", "chiederebbe"]},
+      {"text": "Mentre {{1}} il piano, scoprii che {{2}} un dettaglio e che {{3}} rivederlo.", "answers": ["scrivevo", "avevo dimenticato", "avrei dovuto"]},
+      {"text": "Quando {{1}} il nuovo incarico, {{2}} già il progetto e oggi {{3}} con maggiore esperienza.", "answers": ["accettai", "avevo studiato", "lavoro"]},
+      {"text": "Il responsabile {{1}} che, con più risorse, {{2}} il progetto e {{3}} i tempi.", "answers": ["spiegava", "amplierebbe", "ridurrebbe"]},
+      {"text": "Mentre {{1}} la riunione, capii che il direttore {{2}} la proposta e che {{3}} una modifica.", "answers": ["seguivo", "aveva rifiutato", "avrebbe richiesto"]},
+      {"text": "Quando {{1}} il contratto, {{2}} già le condizioni e oggi {{3}} soddisfatto della scelta.", "answers": ["firmammo", "avevamo discusso", "sono"]},
+      {"text": "Il team {{1}} in difficoltà perché {{2}} una parte del lavoro e {{3}} più tempo.", "answers": ["era", "aveva sottovalutato", "avrebbe richiesto"]},
+      {"text": "Mentre {{1}} le opzioni, mi accorsi che {{2}} un'alternativa migliore e che {{3}} cambiare strategia.", "answers": ["valutavo", "avevo trascurato", "avrei potuto"]}
+    ]
+  },
+  {
+    "id": "077",
+    "titre": "Nuove opportunità",
+    "definition": "Completa le frasi collegando le abitudini passate, le azioni anteriori e le conseguenze ipotetiche.",
+    "instruction": "Completa ogni frase con le tre forme verbali corrette.",
+    "questions": [
+      {"text": "Quando {{1}} in quell'azienda, {{2}} già esperienza e oggi {{3}} un ruolo più importante.", "answers": ["lavoravo", "avevo acquisito", "potrei ricoprire"]},
+      {"text": "Mentre {{1}} una nuova opportunità, capii che {{2}} un'offerta simile e che {{3}} confrontarle entrambe.", "answers": ["cercavo", "avevo ricevuto", "avrei dovuto"]},
+      {"text": "Il direttore {{1}} spesso che, se avessimo investito prima, {{2}} più clienti e {{3}} il fatturato.", "answers": ["diceva", "avremmo conquistato", "avremmo aumentato"]},
+      {"text": "Quando {{1}} il corso, {{2}} già molte competenze e oggi {{3}} con maggiore autonomia.", "answers": ["terminai", "avevo sviluppato", "lavoro"]},
+      {"text": "Mentre {{1}} il colloquio, ricordai che {{2}} tutti i documenti e che {{3}} mostrarli al responsabile.", "answers": ["sostenevo", "avevo preparato", "avrei dovuto"]},
+      {"text": "La squadra {{1}} ottimista perché {{2}} le difficoltà e {{3}} un nuovo obiettivo.", "answers": ["era", "aveva superato", "avrebbe raggiunto"]},
+      {"text": "Quando {{1}} il progetto, {{2}} già il mercato e oggi {{3}} meglio le esigenze dei clienti.", "answers": ["lanciai", "avevo studiato", "comprendo"]},
+      {"text": "Mentre {{1}} con i colleghi, scoprii che {{2}} una possibilità e che {{3}} prenderla in considerazione.", "answers": ["parlavo", "avevano individuato", "avremmo dovuto"]},
+      {"text": "Quando {{1}} la nuova sede, l'azienda {{2}} già il personale e oggi {{3}} più servizi.", "answers": ["inaugurammo", "aveva formato", "offre"]},
+      {"text": "Il responsabile {{1}} fiducioso perché il gruppo {{2}} il piano e {{3}} un risultato positivo.", "answers": ["era", "aveva rispettato", "avrebbe ottenuto"]}
+    ]
+  },
+  {
+"id": "078",
+"titre": "Le projet de demain",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Da bambino {{1}} spesso in campagna; domani {{2}} dai miei nonni e, se potessi, {{3}} con loro tutta la settimana.", "reponses": ["andavo", "andrò", "resterei"]},
+{"question": "Mentre {{1}} in biblioteca, domani {{2}} il libro e, se avessi più tempo, {{3}} anche gli appunti.", "reponses": ["studiavo", "prenderò", "rivedrei"]},
+{"question": "Prima {{1}} ogni sera; la prossima settimana {{2}} un corso e, con un programma meno intenso, {{3}} più facilmente.", "reponses": ["mi allenavo", "inizierò", "migliorerei"]},
+{"question": "Quando {{1}} in quell'ufficio, domani {{2}} il direttore e, se ne avessi l'occasione, {{3}} un nuovo progetto.", "reponses": ["lavoravo", "incontrerò", "proporrei"]},
+{"question": "Da giovane {{1}} molte lettere; domani {{2}} una risposta e, se conoscessi il suo indirizzo, {{3}} anche una cartolina.", "reponses": ["scrivevo", "invierò", "manderei"]},
+{"question": "Ogni estate {{1}} al mare; quest'anno {{2}} in montagna e, se facesse meno caldo, {{3}} volentieri al sud.", "reponses": ["andavo", "andrò", "viaggerei"]},
+{"question": "Prima {{1}} sempre il treno; domani {{2}} l'autobus e, se fosse più comodo, {{3}} anche in bicicletta.", "reponses": ["prendevo", "prenderò", "andrei"]},
+{"question": "Quando {{1}} in centro, domani {{2}} il nuovo museo e, se fosse aperto fino a tardi, {{3}} anche la mostra.", "reponses": ["passeggiavo", "visiterò", "vedrei"]},
+{"question": "Da studente {{1}} ogni mattina; domani {{2}} presto e, se non avessi impegni, {{3}} un'ora in più.", "reponses": ["correvo", "partirò", "dormirei"]},
+{"question": "Mentre {{1}} in cucina, domani {{2}} una torta e, se avessi tutti gli ingredienti, {{3}} anche dei biscotti.", "reponses": ["lavoravo", "preparerò", "farei"]}
 ]
+},
+{
+"id": "079",
+"titre": "Una scelta importante",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Pensavo che Maria {{1}} disponibile e speravo che {{2}} alla riunione; al mio posto, tu {{3}} con lei prima di decidere.", "reponses": ["fosse", "partecipi", "parleresti"]},
+{"question": "Credevo che Luca {{1}} ragione e desidero che {{2}} la verità; al tuo posto, {{3}} con lui apertamente.", "reponses": ["avesse", "dica", "discuterei"]},
+{"question": "Speravo che il direttore {{1}} il problema e voglio che {{2}} una soluzione; al posto tuo, {{3}} una proposta concreta.", "reponses": ["capisse", "trovi", "presenterei"]},
+{"question": "Pensavo che voi {{1}} pronti e mi auguro che {{2}} presto; al vostro posto, {{3}} ogni dettaglio.", "reponses": ["foste", "partiate", "controllerei"]},
+{"question": "Credevo che Anna {{1}} il progetto e chiedo che {{2}} il documento; al tuo posto, {{3}} una copia.", "reponses": ["conoscesse", "legga", "preparerei"]},
+{"question": "Speravo che loro {{1}} la situazione e desidero che {{2}} con attenzione; al posto loro, {{3}} prima di agire.", "reponses": ["comprendessero", "riflettano", "aspetterei"]},
+{"question": "Pensavo che tu {{1}} abbastanza e voglio che {{2}} ancora; al tuo posto, {{3}} più regolarmente.", "reponses": ["studiassi", "esercitarti", "mi allenerei"]},
+{"question": "Credevo che il medico {{1}} disponibile e spero che {{2}} mio padre; al tuo posto, {{3}} un appuntamento.", "reponses": ["fosse", "visiti", "prenoterei"]},
+{"question": "Speravo che il treno {{1}} in orario e desidero che {{2}} presto; al posto tuo, {{3}} un taxi come alternativa.", "reponses": ["fosse", "arrivi", "chiamerei"]},
+{"question": "Pensavo che i vicini {{1}} gentili e mi auguro che {{2}} il problema; al tuo posto, {{3}} con loro.", "reponses": ["fossero", "risolvano", "parlerei"]}
+]
+},
+{
+"id": "080",
+"titre": "Gli eventi del passato",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Quando {{1}} la cena, Marco uscì; dopo che {{2}} di casa, il taxi {{3}} già arrivato.", "reponses": ["aveva preparato", "fu uscito", "ebbe"]},
+{"question": "Dopo che {{1}} il rapporto, il direttore lo lesse; quando {{2}} la riunione, tutti {{3}} già lasciato la sala.", "reponses": ["aveva scritto", "ebbe terminato", "avevano"]},
+{"question": "Poiché {{1}} i biglietti, partimmo; dopo che {{2}} alla stazione, il treno {{3}} già partito.", "reponses": ["avevamo comprato", "fummo arrivati", "ebbe"]},
+{"question": "Quando {{1}} la porta, il custode entrò; dopo che {{2}} l'edificio, gli operai {{3}} già finito il lavoro.", "reponses": ["aveva aperto", "fu entrato", "avevano"]},
+{"question": "Dopo che {{1}} la lettera, Anna sorrise; quando {{2}} la risposta, il mittente {{3}} già ricevuto il messaggio.", "reponses": ["aveva letto", "ebbe ricevuto", "aveva"]},
+{"question": "Poiché {{1}} tutto il lavoro, tornammo a casa; dopo che {{2}} l'ufficio, il responsabile {{3}} già chiuso il cancello.", "reponses": ["avevamo completato", "fummo usciti", "aveva"]},
+{"question": "Quando {{1}} il conto, il cliente se ne andò; dopo che {{2}} dal ristorante, il cameriere {{3}} già sparecchiato.", "reponses": ["aveva pagato", "fu uscito", "aveva"]},
+{"question": "Dopo che {{1}} i documenti, l'avvocato partì; quando {{2}} in tribunale, il giudice {{3}} già iniziato l'udienza.", "reponses": ["aveva controllato", "fu arrivato", "aveva"]},
+{"question": "Poiché {{1}} la strada, raggiungemmo il villaggio; dopo che {{2}} il ponte, il gruppo {{3}} già attraversato il fiume.", "reponses": ["avevamo seguito", "fummo passati", "aveva"]},
+{"question": "Quando {{1}} il pacco, il cliente firmò; dopo che {{2}} la consegna, il corriere {{3}} già ripartito.", "reponses": ["aveva ricevuto", "ebbe completato", "era"]}
+]
+},
+{
+"id": "081",
+"titre": "Una vicenda inattesa",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Poiché {{1}} il lavoro in anticipo, Marco uscì; senza quell'aiuto, {{2}} più tardi e {{3}} il treno.", "reponses": ["aveva finito", "sarebbe partito", "avrebbe perso"]},
+{"question": "Dopo che {{1}} la notizia, Anna telefonò; senza quella chiamata, non {{2}} la situazione e {{3}} un errore.", "reponses": ["aveva letto", "avrebbe capito", "avrebbe commesso"]},
+{"question": "Poiché {{1}} i documenti, il direttore firmò; senza quei controlli, {{2}} un problema e {{3}} una decisione sbagliata.", "reponses": ["aveva verificato", "avrebbe evitato", "avrebbe preso"]},
+{"question": "Quando {{1}} la porta, il ladro fuggì; se il custode fosse stato più attento, lo {{2}} e {{3}} la polizia.", "reponses": ["aveva aperto", "avrebbe fermato", "avrebbe chiamato"]},
+{"question": "Poiché {{1}} il biglietto, Luca partì; senza la prenotazione, {{2}} a casa e {{3}} l'incontro.", "reponses": ["aveva comprato", "sarebbe rimasto", "avrebbe perso"]},
+{"question": "Dopo che {{1}} la relazione, la ricercatrice presentò i risultati; senza il suo lavoro, non {{2}} i dati e {{3}} conclusioni affidabili.", "reponses": ["aveva completato", "avrebbe raccolto", "avrebbe tratto"]},
+{"question": "Poiché {{1}} la strada giusta, raggiungemmo il paese; altrimenti, {{2}} e {{3}} molto tempo.", "reponses": ["avevamo scelto", "ci saremmo persi", "avremmo sprecato"]},
+{"question": "Quando {{1}} il conto, il cliente uscì; senza il pagamento, {{2}} il locale e {{3}} una multa.", "reponses": ["aveva saldato", "avrebbe lasciato", "avrebbe rischiato"]},
+{"question": "Poiché {{1}} bene l'esame, Giulia festeggiò; senza quello studio, {{2}} e {{3}} l'anno scolastico.", "reponses": ["aveva superato", "avrebbe fallito", "avrebbe ripetuto"]},
+{"question": "Dopo che {{1}} l'accordo, le parti si salutarono; senza il compromesso, {{2}} la trattativa e {{3}} un conflitto.", "reponses": ["avevano raggiunto", "avrebbero interrotto", "avrebbero provocato"]}
+]
+},
+{
+"id": "082",
+"titre": "Le opportunità future",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Poiché {{1}} tutto il lavoro, domani {{2}} in anticipo e, se potessi, {{3}} anche un collega.", "reponses": ["avevo completato", "partirò", "aiuterei"]},
+{"question": "Dato che {{1}} la domanda, la settimana prossima {{2}} una risposta e, se fosse possibile, {{3}} subito.", "reponses": ["avevo inviato", "riceverò", "comincerei"]},
+{"question": "Poiché {{1}} i biglietti, domani {{2}} il viaggio e, se avessi più giorni, {{3}} anche la città vicina.", "reponses": ["avevo prenotato", "organizzerò", "visiterei"]},
+{"question": "Dato che {{1}} il progetto, domani {{2}} i risultati e, se fossi al tuo posto, {{3}} una copia.", "reponses": ["avevo terminato", "presenterò", "conserverei"]},
+{"question": "Poiché {{1}} la riunione, domani {{2}} il rapporto e, se avessi tempo, {{3}} anche le statistiche.", "reponses": ["avevo preparato", "consegnerò", "aggiornerei"]},
+{"question": "Dato che {{1}} la casa, domani {{2}} il trasloco e, se potessi, {{3}} prima del fine settimana.", "reponses": ["avevo venduto", "organizzerò", "partirei"]},
+{"question": "Poiché {{1}} il corso, il mese prossimo {{2}} un nuovo livello e, se avessi più tempo, {{3}} anche una lingua.", "reponses": ["avevo concluso", "inizierò", "studerei"]},
+{"question": "Dato che {{1}} il contratto, domani {{2}} al lavoro e, se fossi libero, {{3}} una breve vacanza.", "reponses": ["avevo firmato", "tornerò", "prenderei"]},
+{"question": "Poiché {{1}} tutti i documenti, domani {{2}} la pratica e, se fosse necessario, {{3}} un appuntamento.", "reponses": ["avevo raccolto", "completerò", "richiederei"]},
+{"question": "Dato che {{1}} il problema, domani {{2}} il cliente e, se fossi al tuo posto, {{3}} una soluzione alternativa.", "reponses": ["avevo individuato", "contatterò", "proporrei"]}
+]
+},
+{
+"id": "083",
+"titre": "Il racconto di un viaggio",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Marco {{1}} la valigia, dopo che {{2}} il taxi, e quando arrivò in aeroporto gli amici {{3}} già la partenza.", "reponses": ["preparò", "ebbe chiamato", "avevano organizzato"]},
+{"question": "Anna {{1}} la lettera, dopo che {{2}} il messaggio, e quando tornò a casa i genitori {{3}} già la cena.", "reponses": ["scrisse", "ebbe letto", "avevano preparato"]},
+{"question": "Il direttore {{1}} la riunione, dopo che {{2}} tutti i partecipanti, e quando uscì i colleghi {{3}} già il rapporto.", "reponses": ["iniziò", "ebbe salutato", "avevano completato"]},
+{"question": "Luca {{1}} il negozio, dopo che {{2}} il denaro, e quando tornò gli operai {{3}} già il lavoro.", "reponses": ["aprì", "ebbe raccolto", "avevano terminato"]},
+{"question": "La squadra {{1}} la partita, dopo che {{2}} l'allenamento, e quando arrivò a casa i tifosi {{3}} già la vittoria.", "reponses": ["vinse", "ebbe concluso", "avevano festeggiato"]},
+{"question": "Giulia {{1}} il documento, dopo che {{2}} le informazioni, e quando lo consegnò i colleghi {{3}} già la riunione.", "reponses": ["scrisse", "ebbe raccolto", "avevano iniziato"]},
+{"question": "Il medico {{1}} la visita, dopo che {{2}} il paziente, e quando uscì gli infermieri {{3}} già la stanza.", "reponses": ["terminò", "ebbe esaminato", "avevano preparato"]},
+{"question": "Paolo {{1}} la porta, dopo che {{2}} la chiave, e quando entrò gli ospiti {{3}} già la festa.", "reponses": ["aprì", "ebbe trovato", "avevano cominciato"]},
+{"question": "La guida {{1}} il percorso, dopo che {{2}} la mappa, e quando arrivammo i turisti {{3}} già il pranzo.", "reponses": ["scelse", "ebbe consultato", "avevano consumato"]},
+{"question": "Il professore {{1}} i risultati, dopo che {{2}} gli esami, e quando entrò gli studenti {{3}} già l'aula.", "reponses": ["annunciò", "ebbe corretto", "avevano lasciato"]}
+]
+},
+{
+"id": "084",
+"titre": "Il giorno decisivo",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Il direttore {{1}} la riunione mentre tutti {{2}} in silenzio; entro sera avrà {{3}} una decisione.", "reponses": ["aprì", "ascoltavano", "preso"]},
+{"question": "La squadra {{1}} la partita mentre i tifosi {{2}} con entusiasmo; entro domani avrà {{3}} il trofeo.", "reponses": ["vinse", "festeggiavano", "ricevuto"]},
+{"question": "Il sindaco {{1}} il progetto mentre i cittadini {{2}} attentamente; entro il mese avrà {{3}} i lavori.", "reponses": ["presentò", "ascoltavano", "avviato"]},
+{"question": "La ricercatrice {{1}} la scoperta mentre i colleghi {{2}} i risultati; entro venerdì avrà {{3}} il rapporto.", "reponses": ["annunciò", "esaminavano", "completato"]},
+{"question": "Il medico {{1}} la terapia mentre il paziente {{2}} le istruzioni; entro una settimana avrà {{3}} il trattamento.", "reponses": ["spiegò", "ascoltava", "iniziato"]},
+{"question": "L'azienda {{1}} il prodotto mentre i clienti {{2}} la dimostrazione; entro dicembre avrà {{3}} le vendite.", "reponses": ["lanciò", "seguivano", "aumentato"]},
+{"question": "Il professore {{1}} il risultato mentre gli studenti {{2}} in attesa; entro sera avrà {{3}} tutte le prove.", "reponses": ["comunicò", "aspettavano", "corretto"]},
+{"question": "La guida {{1}} il museo mentre i visitatori {{2}} le opere; entro mezzogiorno avrà {{3}} il tour.", "reponses": ["aprì", "ammiravano", "terminato"]},
+{"question": "Il giornalista {{1}} l'intervista mentre il pubblico {{2}} con attenzione; entro sera avrà {{3}} l'articolo.", "reponses": ["iniziò", "ascoltava", "pubblicato"]},
+{"question": "La direttrice {{1}} il nuovo piano mentre i dipendenti {{2}} le indicazioni; entro lunedì avrà {{3}} le modifiche.", "reponses": ["illustrò", "annotavano", "applicato"]}
+]
+},
+{
+"id": "085",
+"titre": "Una decisione difficile",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Il direttore {{1}} la proposta; al suo posto, io {{2}} un compromesso, purché tutti {{3}} d'accordo.", "reponses": ["rifiutò", "cercherei", "fossero"]},
+{"question": "Anna {{1}} la riunione; al suo posto, io {{2}} una spiegazione, se i colleghi {{3}} disponibili.", "reponses": ["abbandonò", "chiederei", "fossero"]},
+{"question": "Il cliente {{1}} il contratto; al suo posto, io {{2}} più tempo, se le condizioni {{3}} poco chiare.", "reponses": ["firmò", "prenderei", "fossero"]},
+{"question": "Luca {{1}} il viaggio; al suo posto, io {{2}} un altro itinerario, se i treni {{3}} in ritardo.", "reponses": ["interruppe", "sceglierei", "fossero"]},
+{"question": "La squadra {{1}} la partita; al suo posto, io {{2}} più spesso, se gli allenamenti {{3}} meglio organizzati.", "reponses": ["perse", "mi allenerei", "fossero"]},
+{"question": "Il responsabile {{1}} il progetto; al suo posto, io {{2}} nuove risorse, se i fondi {{3}} sufficienti.", "reponses": ["sospese", "richiederei", "fossero"]},
+{"question": "Giulia {{1}} l'offerta; al suo posto, io {{2}} ulteriori dettagli, se le condizioni {{3}} più vantaggiose.", "reponses": ["rifiutò", "chiederei", "fossero"]},
+{"question": "Il sindaco {{1}} il piano; al suo posto, io {{2}} un confronto, se i cittadini {{3}} contrari.", "reponses": ["modificò", "proporrei", "fossero"]},
+{"question": "Il professore {{1}} l'esame; al suo posto, io {{2}} un'altra data, se gli studenti {{3}} impreparati.", "reponses": ["rinviò", "sceglierei", "fossero"]},
+{"question": "La direttrice {{1}} la riunione; al suo posto, io {{2}} un nuovo incontro, se tutti {{3}} d'accordo.", "reponses": ["annullò", "organizzerei", "fossero"]}
+]
+},
+{
+"id": "086",
+"titre": "Prima della partenza",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Dopo che {{1}} la relazione, il direttore {{2}} i risultati e, entro sera, {{3}} tutte le copie.", "reponses": ["ebbe completato", "presenterà", "avrà distribuito"]},
+{"question": "Dopo che {{1}} i biglietti, Anna {{2}} il viaggio e, entro domani, {{3}} l'itinerario.", "reponses": ["ebbe comprato", "organizzerà", "avrà definito"]},
+{"question": "Dopo che {{1}} il contratto, il responsabile {{2}} il progetto e, entro venerdì, {{3}} il gruppo.", "reponses": ["ebbe firmato", "avvierà", "avrà informato"]},
+{"question": "Dopo che {{1}} la porta, il custode {{2}} l'edificio e, prima di mezzanotte, {{3}} tutte le finestre.", "reponses": ["ebbe chiuso", "controllerà", "avrà verificato"]},
+{"question": "Dopo che {{1}} il corso, Luca {{2}} un lavoro e, entro l'estate, {{3}} il suo primo stipendio.", "reponses": ["ebbe terminato", "cercherà", "avrà ricevuto"]},
+{"question": "Dopo che {{1}} il rapporto, la ricercatrice {{2}} i dati e, entro la fine del mese, {{3}} lo studio.", "reponses": ["ebbe scritto", "presenterà", "avrà pubblicato"]},
+{"question": "Dopo che {{1}} il paziente, il medico {{2}} la terapia e, entro una settimana, {{3}} i primi risultati.", "reponses": ["ebbe visitato", "prescriverà", "avrà valutato"]},
+{"question": "Dopo che {{1}} il problema, il tecnico {{2}} il sistema e, entro sera, {{3}} tutti i controlli.", "reponses": ["ebbe individuato", "riparerà", "avrà completato"]},
+{"question": "Dopo che {{1}} la casa, la famiglia {{2}} il trasloco e, entro domenica, {{3}} tutti i mobili.", "reponses": ["ebbe venduto", "organizzerà", "avrà sistemato"]},
+{"question": "Dopo che {{1}} la domanda, l'ufficio {{2}} il candidato e, entro il mese, {{3}} la pratica.", "reponses": ["ebbe ricevuto", "contatterà", "avrà esaminato"]}
+]
+},
+{
+"id": "087",
+"titre": "Le previsioni e le possibilità",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Domani {{1}} a Roma; quando {{2}} il viaggio, {{3}} qualche giorno in più per visitare la città.", "reponses": ["partirò", "avrò concluso", "vorrei"]},
+{"question": "La prossima settimana {{1}} il progetto; quando {{2}} la presentazione, {{3}} volentieri i risultati al gruppo.", "reponses": ["presenterò", "avrò terminato", "spiegherei"]},
+{"question": "Domani {{1}} il direttore; quando {{2}} il colloquio, {{3}} anche un incontro con il personale.", "reponses": ["incontrerò", "avrò concluso", "organizzerei"]},
+{"question": "Il mese prossimo {{1}} il corso; quando {{2}} l'esame, {{3}} una breve pausa prima di ricominciare.", "reponses": ["finirò", "avrò superato", "prenderei"]},
+{"question": "Domani {{1}} la relazione; quando {{2}} il documento, {{3}} una copia ai colleghi.", "reponses": ["scriverò", "avrò completato", "manderei"]},
+{"question": "La settimana prossima {{1}} in ufficio; quando {{2}} tutte le pratiche, {{3}} qualche giorno di riposo.", "reponses": ["tornerò", "avrò chiuso", "chiederei"]},
+{"question": "Domani {{1}} il cliente; quando {{2}} i dettagli, {{3}} un'offerta più precisa.", "reponses": ["contatterò", "avrò raccolto", "preparerei"]},
+{"question": "L'anno prossimo {{1}} una nuova lingua; quando {{2}} il livello intermedio, {{3}} un soggiorno all'estero.", "reponses": ["studierò", "avrò raggiunto", "organizzerei"]},
+{"question": "Domani {{1}} il negozio; quando {{2}} l'inventario, {{3}} nuovi prodotti.", "reponses": ["visiterò", "avrò controllato", "ordinerei"]},
+{"question": "La prossima estate {{1}} in montagna; quando {{2}} il viaggio, {{3}} anche una visita al lago.", "reponses": ["andrò", "avrò pianificato", "aggiungerei"]}
+]
+},
+{
+"id": "088",
+"titre": "Il futuro professionale",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Domani {{1}} il direttore; al mio posto, tu {{2}} una proposta e, con più tempo, {{3}} anche un rapporto dettagliato.", "reponses": ["incontrerò", "presenteresti", "avresti preparato"]},
+{"question": "La settimana prossima {{1}} il corso; al tuo posto, io {{2}} una pausa e {{3}} una vacanza più lunga.", "reponses": ["finirò", "prenderei", "avrei organizzato"]},
+{"question": "Domani {{1}} la relazione; al mio posto, tu {{2}} una revisione e {{3}} gli errori principali.", "reponses": ["consegnerò", "chiederesti", "avresti corretto"]},
+{"question": "Il mese prossimo {{1}} il progetto; al tuo posto, io {{2}} un aiuto e {{3}} prima la scadenza.", "reponses": ["avvierò", "cercherei", "avrei rispettato"]},
+{"question": "Domani {{1}} il cliente; al mio posto, tu {{2}} una soluzione e {{3}} il problema prima della riunione.", "reponses": ["contatterò", "proporresti", "avresti risolto"]},
+{"question": "La prossima settimana {{1}} il viaggio; al tuo posto, io {{2}} i biglietti e {{3}} un albergo vicino.", "reponses": ["organizzerò", "prenoterei", "avrei scelto"]},
+{"question": "Domani {{1}} il nuovo sistema; al mio posto, tu {{2}} un test e {{3}} eventuali problemi.", "reponses": ["installerò", "faresti", "avresti individuato"]},
+{"question": "Il mese prossimo {{1}} un corso; al tuo posto, io {{2}} più tempo e {{3}} meglio l'esame.", "reponses": ["inizierò", "dedicherei", "avrei preparato"]},
+{"question": "Domani {{1}} la riunione; al mio posto, tu {{2}} un verbale e {{3}} tutte le decisioni.", "reponses": ["organizzerò", "scriveresti", "avresti registrato"]},
+{"question": "La prossima estate {{1}} all'estero; al tuo posto, io {{2}} prima i documenti e {{3}} ogni dettaglio.", "reponses": ["partirò", "preparerei", "avrei verificato"]}
+]
+},
+{
+"id": "089",
+"titre": "Le decisioni da prendere",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Domani {{1}} il direttore; spero che {{2}} disponibile e credo che {{3}} già il mio messaggio.", "reponses": ["incontrerò", "sia", "abbia letto"]},
+{"question": "La prossima settimana {{1}} il medico; è importante che {{2}} tutti i sintomi e che {{3}} la cartella clinica.", "reponses": ["vedrò", "conosca", "abbia consultato"]},
+{"question": "Domani {{1}} il progetto; voglio che il gruppo {{2}} ogni dettaglio e sono certo che {{3}} il documento.", "reponses": ["presenterò", "esamini", "abbia ricevuto"]},
+{"question": "La settimana prossima {{1}} il cliente; spero che {{2}} la proposta e che {{3}} le condizioni.", "reponses": ["contatterò", "accetti", "abbia compreso"]},
+{"question": "Domani {{1}} la domanda; è necessario che l'ufficio {{2}} i documenti e che {{3}} tutte le informazioni.", "reponses": ["invierò", "verifichi", "abbia controllato"]},
+{"question": "Il mese prossimo {{1}} un corso; desidero che l'insegnante {{2}} con chiarezza e che {{3}} gli esercizi.", "reponses": ["inizierò", "spieghi", "abbia preparato"]},
+{"question": "Domani {{1}} la riunione; mi auguro che tutti {{2}} puntuali e che {{3}} l'ordine del giorno.", "reponses": ["organizzerò", "siano", "abbiano letto"]},
+{"question": "La prossima estate {{1}} in Italia; spero che il tempo {{2}} bello e che non {{3}} troppo.", "reponses": ["viaggerò", "sia", "abbia piovuto"]},
+{"question": "Domani {{1}} la relazione; è importante che tu {{2}} i dati e che {{3}} le fonti.", "reponses": ["consegnerò", "controlli", "abbia citato"]},
+{"question": "La prossima settimana {{1}} la nuova collega; spero che {{2}} gentile e che {{3}} già il regolamento.", "reponses": ["conoscerò", "sia", "abbia letto"]}
+]
+},
+{
+"id": "090",
+"titre": "Le conseguenze delle scelte",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Entro domani {{1}} il progetto; al mio posto, tu {{2}} più tempo e {{3}} un risultato migliore.", "reponses": ["avrò completato", "dedicheresti", "avresti ottenuto"]},
+{"question": "Entro venerdì {{1}} la relazione; al tuo posto, io {{2}} una revisione e {{3}} alcuni errori.", "reponses": ["avrò consegnato", "chiederei", "avrei evitato"]},
+{"question": "Entro sera {{1}} i documenti; al mio posto, tu {{2}} un controllo e {{3}} ogni problema.", "reponses": ["avrò raccolto", "faresti", "avresti individuato"]},
+{"question": "Entro il mese {{1}} il corso; al tuo posto, io {{2}} più esercizi e {{3}} meglio l'esame.", "reponses": ["avrò terminato", "farei", "avrei preparato"]},
+{"question": "Entro domani {{1}} il cliente; al mio posto, tu {{2}} una soluzione e {{3}} il contratto.", "reponses": ["avrò contattato", "proporresti", "avresti concluso"]},
+{"question": "Entro domenica {{1}} il viaggio; al tuo posto, io {{2}} un altro itinerario e {{3}} meno denaro.", "reponses": ["avrò organizzato", "sceglierei", "avrei speso"]},
+{"question": "Entro venerdì {{1}} il sistema; al mio posto, tu {{2}} una prova e {{3}} i difetti.", "reponses": ["avrò installato", "faresti", "avresti scoperto"]},
+{"question": "Entro sera {{1}} tutte le email; al tuo posto, io {{2}} le più urgenti e {{3}} prima.", "reponses": ["avrò letto", "selezionerei", "avrei risposto"]},
+{"question": "Entro il mese {{1}} la casa; al mio posto, tu {{2}} un esperto e {{3}} una scelta più sicura.", "reponses": ["avrò venduto", "consulteresti", "avresti fatto"]},
+{"question": "Entro domani {{1}} la domanda; al tuo posto, io {{2}} un controllo finale e {{3}} gli errori.", "reponses": ["avrò inviato", "farei", "avrei corretto"]}
+]
+},
+{
+"id": "091",
+"titre": "Le intenzioni e i dubbi",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Al tuo posto {{1}} prima con il direttore; avrei {{2}} una risposta ieri e spero che oggi {{3}} una soluzione.", "reponses": ["parlerei", "ottenuto", "trovi"]},
+{"question": "Io {{1}} più tempo al progetto; avrei {{2}} prima i documenti e voglio che il gruppo {{3}} ogni dettaglio.", "reponses": ["dedicherei", "preparato", "controlli"]},
+{"question": "Tu {{1}} un'altra strada; avresti {{2}} il traffico e spero che {{3}} in orario.", "reponses": ["sceglieresti", "evitato", "arrivi"]},
+{"question": "Noi {{1}} un accordo; avremmo {{2}} le condizioni e desidero che tutti {{3}} soddisfatti.", "reponses": ["cercheremmo", "negoziato", "siano"]},
+{"question": "Io {{1}} una seconda opinione; avrei {{2}} il rapporto e mi auguro che il medico {{3}} disponibile.", "reponses": ["chiederei", "letto", "sia"]},
+{"question": "Loro {{1}} un altro metodo; avrebbero {{2}} i dati e voglio che il responsabile {{3}} la proposta.", "reponses": ["adotterebbero", "analizzato", "valuti"]},
+{"question": "Tu {{1}} con più calma; avresti {{2}} il problema e spero che {{3}} una soluzione.", "reponses": ["reagiresti", "compreso", "trovi"]},
+{"question": "Io {{1}} una nuova riunione; avrei {{2}} tutti i partecipanti e desidero che ciascuno {{3}} presente.", "reponses": ["organizzerei", "avvisato", "sia"]},
+{"question": "Noi {{1}} il progetto; avremmo {{2}} le risorse e speriamo che il cliente {{3}} il piano.", "reponses": ["modificheremmo", "calcolato", "approvi"]},
+{"question": "Tu {{1}} più attenzione; avresti {{2}} le istruzioni e voglio che {{3}} ogni passaggio.", "reponses": ["presteresti", "letto", "segua"]}
+]
+},
+{
+"id": "092",
+"titre": "Le richieste e le reazioni",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Avrei {{1}} prima, ma è importante che tu {{2}} la verità e che {{3}} tutte le prove.", "reponses": ["parlato", "conosca", "abbia raccolto"]},
+{"question": "Avremmo {{1}} l'accordo, ma voglio che il direttore {{2}} i dettagli e che {{3}} il contratto.", "reponses": ["firmato", "verifichi", "abbia letto"]},
+{"question": "Avrei {{1}} un altro percorso, ma spero che il conducente {{2}} la strada e che {{3}} la mappa.", "reponses": ["scelto", "conosca", "abbia consultato"]},
+{"question": "Avresti {{1}} una risposta, ma è necessario che tu {{2}} la domanda e che {{3}} i documenti.", "reponses": ["ricevuto", "compili", "abbia allegato"]},
+{"question": "Avrebbero {{1}} il progetto, ma desidero che gli esperti {{2}} i dati e che {{3}} il rapporto.", "reponses": ["presentato", "analizzino", "abbiano completato"]},
+{"question": "Avremmo {{1}} prima, ma è importante che il medico {{2}} il paziente e che {{3}} la cartella clinica.", "reponses": ["telefonato", "visiti", "abbia consultato"]},
+{"question": "Avrei {{1}} la proposta, ma voglio che il cliente {{2}} le condizioni e che {{3}} il documento.", "reponses": ["accettato", "comprenda", "abbia esaminato"]},
+{"question": "Avresti {{1}} il corso, ma spero che l'insegnante {{2}} il programma e che {{3}} gli esercizi.", "reponses": ["iniziato", "spieghi", "abbia preparato"]},
+{"question": "Avrebbero {{1}} la riunione, ma è necessario che tutti {{2}} l'orario e che {{3}} l'invito.", "reponses": ["organizzato", "conoscano", "abbiano ricevuto"]},
+{"question": "Avremmo {{1}} il lavoro, ma desidero che il responsabile {{2}} il piano e che {{3}} i risultati.", "reponses": ["terminato", "approvi", "abbia verificato"]}
+]
+},
+{
+"id": "093",
+"titre": "Le opinioni e i sentimenti",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Credo che Maria {{1}} ragione; sono felice che {{2}} la notizia e pensavo che {{3}} più tranquilla.", "reponses": ["abbia", "abbia ricevuto", "fosse"]},
+{"question": "Spero che Luca {{1}} presto; mi fa piacere che {{2}} il lavoro e temevo che {{3}} in ritardo.", "reponses": ["arrivi", "abbia finito", "fosse"]},
+{"question": "È possibile che loro {{1}} già qui; sono sorpreso che {{2}} così presto e credevo che {{3}} domani.", "reponses": ["siano", "siano arrivati", "partissero"]},
+{"question": "Voglio che tu {{1}} la verità; sono contento che {{2}} tutto e pensavo che {{3}} qualcosa.", "reponses": ["dica", "abbia spiegato", "sapessi"]},
+{"question": "Dubito che il direttore {{1}} disponibile; sono lieto che {{2}} il messaggio e temevo che non {{3}} rispondere.", "reponses": ["sia", "abbia letto", "potesse"]},
+{"question": "È importante che voi {{1}} attenti; sono felice che {{2}} l'esame e pensavo che {{3}} più difficoltà.", "reponses": ["siate", "abbiate superato", "aveste"]},
+{"question": "Credo che il treno {{1}} in orario; mi sorprende che {{2}} così presto e pensavo che {{3}} in ritardo.", "reponses": ["sia", "sia arrivato", "fosse"]},
+{"question": "Spero che Anna {{1}} bene; sono felice che {{2}} il problema e temevo che non {{3}} una soluzione.", "reponses": ["stia", "abbia risolto", "trovasse"]},
+{"question": "È possibile che il progetto {{1}} successo; sono contento che {{2}} i risultati e credevo che {{3}} più tempo.", "reponses": ["abbia", "abbiate presentato", "servisse"]},
+{"question": "Voglio che tutti {{1}} pazienti; sono felice che {{2}} il lavoro e pensavo che {{3}} prima.", "reponses": ["siano", "abbiano terminato", "partissero"]}
+]
+},
+{
+"id": "094",
+"titre": "Le ipotesi e i rimpianti",
+"definition": "Completa le frasi con le forme verbali corrette.",
+"instruction": "Inserisci i tre verbi nella forma corretta, rispettando il contesto della frase.",
+"questions": [
+{"question": "Se {{1}} più tempo, se {{2}} prima il lavoro, {{3}} volentieri con voi.", "reponses": ["avessi", "avessi finito", "sarei venuto"]},
+{"question": "Se {{1}} la verità, se {{2}} tutte le prove, {{3}} una decisione diversa.", "reponses": ["sapessi", "avessi esaminato", "avrei preso"]},
+{"question": "Se {{1}} più vicino, se {{2}} prima la strada, {{3}} alla riunione.", "reponses": ["abitassi", "avessi trovato", "sarei arrivato"]},
+{"question": "Se {{1}} più prudente, se {{2}} il consiglio, {{3}} l'errore.", "reponses": ["fossi", "avessi seguito", "avrei evitato"]},
+{"question": "Se {{1}} più denaro, se {{2}} un biglietto, {{3}} con voi.", "reponses": ["avessi", "avessi comprato", "sarei partito"]},
+{"question": "Se {{1}} il problema, se {{2}} i documenti, {{3}} una soluzione.", "reponses": ["conoscessi", "avessi letto", "avrei trovato"]},
+{"question": "Se {{1}} più paziente, se {{2}} le istruzioni, {{3}} il lavoro in tempo.", "reponses": ["fossi", "avessi seguito", "avrei completato"]},
+{"question": "Se {{1}} in città, se {{2}} l'indirizzo, {{3}} a trovarti.", "reponses": ["abitassi", "avessi saputo", "sarei venuto"]},
+{"question": "Se {{1}} più esperienza, se {{2}} quel corso, {{3}} meglio il progetto.", "reponses": ["avessi", "avessi frequentato", "avrei gestito"]},
+{"question": "Se {{1}} la situazione, se {{2}} con attenzione, {{3}} una scelta migliore.", "reponses": ["comprendessi", "avessi riflettuto", "avrei fatto"]}
+]
+},
+ {
+"id": "095",
+"titre": "Un progetto ambizioso",
+"definition": "Completa le frasi scegliendo la forma verbale corretta in base al contesto.",
+"instruction": "Completa ogni frase con le tre forme verbali appropriate.",
+"questions": [
+{
+"question": "Ogni giorno {{1}} nuove idee, ieri {{2}} una proposta al direttore e domani {{3}} il progetto al gruppo.",
+"reponses": ["sviluppo", "ho presentato", "presenterò"]
+},
+{
+"question": "Mentre {{1}} il rapporto, mi sono accorto che qualcuno {{2}} alcuni dati e che il risultato {{3}} incompleto.",
+"reponses": ["scrivevo", "aveva modificato", "era"]
+},
+{
+"question": "Se {{1}} più tempo, {{2}} meglio il documento e {{3}} una versione definitiva.",
+"reponses": ["avessi", "rivedrei", "preparerei"]
+},
+{
+"question": "Credo che il responsabile {{1}} la situazione e spero che {{2}} una soluzione prima che il problema {{3}} più grave.",
+"reponses": ["conosca", "trovi", "diventi"]
+},
+{
+"question": "Quando {{1}} tutti i documenti, {{2}} la domanda e poi {{3}} una conferma.",
+"reponses": ["avrò raccolto", "invierò", "attenderò"]
+},
+{
+"question": "Se il gruppo {{1}} meglio organizzato, {{2}} il lavoro in anticipo e {{3}} meno errori.",
+"reponses": ["fosse stato", "avrebbe terminato", "avrebbe commesso"]
+},
+{
+"question": "Non pensavo che Laura {{1}} già la relazione, ma sono contento che {{2}} anche le osservazioni che le {{3}} ieri.",
+"reponses": ["avesse preparato", "abbia integrato", "avevo inviato"]
+},
+{
+"question": "Appena il direttore {{1}} la riunione, tutti {{2}} i propri compiti e il gruppo {{3}} il lavoro.",
+"reponses": ["ebbe concluso", "ripresero", "continuò"]
+},
+{
+"question": "Vorrei che tu {{1}} con attenzione la proposta e che {{2}} le modifiche prima che il direttore {{3}} la versione finale.",
+"reponses": ["esaminassi", "apportassi", "approvi"]
+},
+{
+"question": "Da quando {{1}} in questa azienda, {{2}} molte competenze e ora {{3}} assumere nuove responsabilità.",
+"reponses": ["lavoro", "ho acquisito", "posso"]
+}
+]
+},
+{
+"id": "096",
+"titre": "Un viaggio pieno di sorprese",
+"definition": "Completa le frasi scegliendo la forma verbale corretta in base al contesto.",
+"instruction": "Completa ogni frase con le tre forme verbali appropriate.",
+"questions": [
+{
+"question": "Quando ero bambino, {{1}} spesso dai miei nonni; l'estate scorsa {{2}} una settimana con loro e l'anno prossimo {{3}} di nuovo.",
+"reponses": ["andavo", "ho trascorso", "tornerò"]
+},
+{
+"question": "Se {{1}} il biglietto prima, {{2}} meno denaro e {{3}} un posto vicino al finestrino.",
+"reponses": ["avessi prenotato", "avrei speso", "avrei scelto"]
+},
+{
+"question": "Spero che il tempo {{1}} bello, che i voli non {{2}} ritardi e che tutti {{3}} in orario.",
+"reponses": ["sia", "subiscano", "arrivino"]
+},
+{
+"question": "Quando {{1}} in stazione, il treno {{2}} già e noi {{3}} un taxi per raggiungere l'albergo.",
+"reponses": ["siamo arrivati", "era partito", "abbiamo preso"]
+},
+{
+"question": "Entro la prossima settimana {{1}} tutti i preparativi e, se il lavoro lo permette, {{2}} qualche giorno in più e {{3}} la costa.",
+"reponses": ["avrò completato", "prenderei", "visiterò"]
+},
+{
+"question": "Il capitano ordinò che i passeggeri {{1}} calmi, mentre l'equipaggio {{2}} le procedure di sicurezza e il mare {{3}} a diventare agitato.",
+"reponses": ["rimanessero", "controllava", "cominciava"]
+},
+{
+"question": "Dopo che {{1}} i bagagli, uscimmo dall'aeroporto e {{2}} un autobus che {{3}} verso il centro.",
+"reponses": ["ebbi ritirato", "prendemmo", "andava"]
+},
+{
+"question": "È possibile che Marco {{1}} il passaporto, benché ieri {{2}} di averlo messo nella borsa e oggi {{3}} ogni tasca.",
+"reponses": ["abbia perso", "avesse detto", "abbia controllato"]
+},
+{
+"question": "Se il treno {{1}} in orario domani, noi {{2}} a destinazione prima di mezzogiorno e {{3}} il museo nel pomeriggio.",
+"reponses": ["partirà", "arriveremo", "visiteremo"]
+},
+{
+"question": "Non appena {{1}} la frontiera, il conducente ci avvertì che {{2}} un controllo e che tutti {{3}} i documenti.",
+"reponses": ["avemmo attraversato", "ci sarebbe stato", "dovevano mostrare"]
+}
+]
+},
+{
+"id": "097",
+"titre": "Le sfide dell'università",
+"definition": "Completa le frasi scegliendo la forma verbale corretta in base al contesto.",
+"instruction": "Completa ogni frase con le tre forme verbali appropriate.",
+"questions": [
+{
+"question": "Ogni sera {{1}} in biblioteca, ieri {{2}} fino a tardi e domani {{3}} un esame importante.",
+"reponses": ["studio", "ho studiato", "sosterrò"]
+},
+{
+"question": "La professoressa voleva che noi {{1}} più spesso e si aspettava che {{2}} i testi prima che la lezione {{3}}.",
+"reponses": ["partecipassimo", "avessimo letto", "cominciasse"]
+},
+{
+"question": "Se {{1}} meglio le istruzioni, non {{2}} quell'errore e {{3}} il compito in tempo.",
+"reponses": ["avessi seguito", "avrei commesso", "avrei completato"]
+},
+{
+"question": "Credo che Sara {{1}} l'esame, perché {{2}} molto e {{3}} tutte le domande con sicurezza.",
+"reponses": ["abbia superato", "ha studiato", "ha risposto"]
+},
+{
+"question": "Quando {{1}} la tesi, {{2}} una copia alla commissione e {{3}} la discussione finale.",
+"reponses": ["avrò terminato", "consegnerò", "preparerò"]
+},
+{
+"question": "Lo studente assicurò che {{1}} tutto il materiale e promise che {{2}} il lavoro prima che il professore {{3}}.",
+"reponses": ["aveva raccolto", "avrebbe completato", "tornasse"]
+},
+{
+"question": "Benché {{1}} poco tempo, Giulia {{2}} tutti gli esercizi e ora spera che il professore {{3}} il suo impegno.",
+"reponses": ["avesse", "ha completato", "riconosca"]
+},
+{
+"question": "Se domani {{1}} la biblioteca, {{2}} lì tutta la mattina e {{3}} gli appunti per l'esame.",
+"reponses": ["sarà aperta", "studierò", "rivedrò"]
+},
+{
+"question": "Il professore entrò in aula dopo che gli studenti {{1}} e chiese che tutti {{2}} i telefoni prima che la prova {{3}}.",
+"reponses": ["si erano seduti", "spegnessero", "iniziasse"]
+},
+{
+"question": "Mi sarebbe piaciuto che tu {{1}} alla conferenza, perché avresti {{2}} esperti interessanti e {{3}} nuove idee.",
+"reponses": ["fossi venuto", "incontrato", "scoperto"]
+}
+]
+},
+{
+"id": "098",
+"titre": "La vita professionale",
+"definition": "Completa le frasi scegliendo la forma verbale corretta in base al contesto.",
+"instruction": "Completa ogni frase con le tre forme verbali appropriate.",
+"questions": [
+{
+"question": "Da tre anni {{1}} in questa impresa, l'anno scorso {{2}} una promozione e il mese prossimo {{3}} un nuovo incarico.",
+"reponses": ["lavoro", "ho ottenuto", "inizierò"]
+},
+{
+"question": "Il responsabile desidera che tutti {{1}} puntuali e che ciascuno {{2}} il proprio rapporto prima che la riunione {{3}}.",
+"reponses": ["siano", "consegni", "cominci"]
+},
+{
+"question": "Se l'azienda {{1}} più risorse, {{2}} altri dipendenti e {{3}} una nuova sede.",
+"reponses": ["avesse", "assumerebbe", "aprirebbe"]
+},
+{
+"question": "Quando {{1}} in ufficio, ho scoperto che il collega {{2}} già il cliente e {{3}} tutti i documenti necessari.",
+"reponses": ["sono arrivato", "aveva incontrato", "aveva preparato"]
+},
+{
+"question": "Entro la fine dell'anno {{1}} il progetto e, se tutto andrà bene, {{2}} il contratto e {{3}} il gruppo di lavoro.",
+"reponses": ["avremo concluso", "firmeremo", "amplieremo"]
+},
+{
+"question": "Il direttore ordinò che i dipendenti {{1}} la procedura e che nessuno {{2}} l'ufficio prima che lui {{3}}.",
+"reponses": ["seguissero", "lasciasse", "fosse arrivato"]
+},
+{
+"question": "Mi sorprende che il candidato {{1}} già la risposta e che {{2}} anche gli errori che noi {{3}} nella prima versione.",
+"reponses": ["conosca", "abbia corretto", "avevamo commesso"]
+},
+{
+"question": "Se avessi accettato quell'offerta, {{1}} all'estero, {{2}} una nuova lingua e {{3}} un'esperienza preziosa.",
+"reponses": ["avrei lavorato", "avrei imparato", "avrei vissuto"]
+},
+{
+"question": "Mentre il personale {{1}} i dati, il sistema {{2}} improvvisamente e il tecnico {{3}} subito per risolvere il problema.",
+"reponses": ["inseriva", "si è bloccato", "è intervenuto"]
+},
+{
+"question": "Il mese prossimo {{1}} il nuovo collega; spero che {{2}} bene il gruppo e che {{3}} rapidamente le sue responsabilità.",
+"reponses": ["conoscerò", "si integri", "assuma"]
+}
+]
+},
+{
+"id": "099",
+"titre": "Le relazioni e i sentimenti",
+"definition": "Completa le frasi scegliendo la forma verbale corretta in base al contesto.",
+"instruction": "Completa ogni frase con le tre forme verbali appropriate.",
+"questions": [
+{
+"question": "Da piccoli {{1}} spesso insieme, ieri {{2}} dopo molti anni e domani {{3}} di nuovo per parlare del passato.",
+"reponses": ["giocavamo", "ci siamo incontrati", "ci vedremo"]
+},
+{
+"question": "Vorrei che tu {{1}} più pazienza e che {{2}} quello che ti {{3}} ieri.",
+"reponses": ["avessi", "capissi", "ho spiegato"]
+},
+{
+"question": "Sono felice che voi {{1}} alla festa e che {{2}} i miei amici, che non {{3}} da molto tempo.",
+"reponses": ["siate venuti", "abbiate conosciuto", "vedevo"]
+},
+{
+"question": "Se mi {{1}} prima, ti {{2}} e noi {{3}} insieme alla cena.",
+"reponses": ["avessi avvisato", "avrei aspettato", "saremmo andati"]
+},
+{
+"question": "Non credevo che Marco {{1}} così lontano e mi dispiace che non {{2}} ancora a sua sorella, che lo {{3}} da mesi.",
+"reponses": ["fosse partito", "abbia telefonato", "aspetta"]
+},
+{
+"question": "Quando {{1}} la notizia, Anna {{2}} a piangere, benché tutti le {{3}} di restare calma.",
+"reponses": ["ha sentito", "è scoppiata", "avessero chiesto"]
+},
+{
+"question": "Spero che domani {{1}} il tempo e che noi {{2}} fare una passeggiata come {{3}} l'anno scorso.",
+"reponses": ["migliori", "possiamo", "abbiamo fatto"]
+},
+{
+"question": "Se {{1}} più sincero con me, forse {{2}} la fiducia e {{3}} evitare quella discussione.",
+"reponses": ["fossi stato", "avresti mantenuto", "avresti potuto"]
+},
+{
+"question": "Mentre {{1}} con sua madre, Paolo ricordò che da bambino {{2}} spesso quella storia e che un giorno la {{3}} ai suoi figli.",
+"reponses": ["parlava", "ascoltava", "racconterà"]
+},
+{
+"question": "Benché {{1}} molto stanco, Luca {{2}} ad aiutarmi e io spero che domani {{3}} un po' di riposo.",
+"reponses": ["fosse", "ha continuato", "si conceda"]
+}
+]
+},
+{
+"id": "100",
+"titre": "Una nuova prospettiva",
+"definition": "Completa le frasi scegliendo la forma verbale corretta in base al contesto.",
+"instruction": "Completa ogni frase con le tre forme verbali appropriate.",
+"questions": [
+{
+"question": "Se tutti {{1}} più attenzione all'ambiente, {{2}} meno rifiuti e le città {{3}} più vivibili.",
+"reponses": ["prestassero", "produrrebbero", "sarebbero"]
+},
+{
+"question": "È necessario che il governo {{1}} misure concrete, che le imprese {{2}} le emissioni e che i cittadini {{3}} comportamenti responsabili.",
+"reponses": ["adotti", "riducano", "assumano"]
+},
+{
+"question": "Negli ultimi anni la tecnologia {{1}} rapidamente, molte aziende {{2}} nuovi strumenti e in futuro il lavoro {{3}} ancora.",
+"reponses": ["si è sviluppata", "hanno adottato", "cambierà"]
+},
+{
+"question": "Se gli scienziati {{1}} prima quel rischio, le autorità {{2}} misure preventive e molti danni {{3}}.",
+"reponses": ["avessero individuato", "avrebbero adottato", "si sarebbero evitati"]
+},
+{
+"question": "Quando {{1}} il rapporto finale, {{2}} i risultati al pubblico e {{3}} le raccomandazioni principali.",
+"reponses": ["avremo pubblicato", "presenteremo", "illustreremo"]
+},
+{
+"question": "Benché il problema {{1}} complesso, gli esperti {{2}} una soluzione e sperano che tutti {{3}} la proposta.",
+"reponses": ["sia", "hanno elaborato", "accettino"]
+},
+{
+"question": "Il ricercatore spiegò che {{1}} i dati per mesi e che, prima della pubblicazione, {{2}} ogni risultato e {{3}} le conclusioni.",
+"reponses": ["aveva analizzato", "avrebbe verificato", "avrebbe formulato"]
+},
+{
+"question": "Se domani {{1}} la conferenza, {{2}} nuovi esperti e forse {{3}} una collaborazione internazionale.",
+"reponses": ["si terrà", "parteciperanno", "nascerà"]
+},
+{
+"question": "Mi auguro che entro il prossimo anno gli scienziati {{1}} nuove soluzioni, che le istituzioni {{2}} i progetti e che la popolazione {{3}} i benefici.",
+"reponses": ["abbiano trovato", "sostengano", "possa conoscere"]
+},
+{
+"question": "Se la società {{1}} maggiormente nella formazione, i giovani {{2}} più opportunità e il mercato del lavoro {{3}} più inclusivo.",
+"reponses": ["investisse", "avrebbero", "diventerebbe"]
+}
+]
+}
+]
+
+
+
