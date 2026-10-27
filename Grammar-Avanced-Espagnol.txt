@@ -1,9 +1,962 @@
-{
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
-}
+[
+  {
+    "id": "001",
+    "titre": "Construcción de frases — Ejercicio 1",
+    "definition": "Completa cada frase con las formas verbales adecuadas, prestando atención al contexto, a la cronología y al significado.",
+    "instruction": "Escribe la forma correcta de cada verbo entre paréntesis.",
+    "questions": [
+      {
+        "question": "Normalmente, Marta {{1}} (levantarse) temprano, pero hoy {{2}} (dormir) hasta las diez y todavía {{3}} (estar) en casa.",
+        "reponses": ["se levanta", "ha dormido", "está"]
+      },
+      {
+        "question": "Yo siempre {{1}} (hacer) ejercicio por la mañana y esta semana {{2}} (empezar) una nueva rutina que {{3}} (parecer) muy eficaz.",
+        "reponses": ["hago", "he empezado", "parece"]
+      },
+      {
+        "question": "Mis padres {{1}} (vivir) en Sevilla y este mes {{2}} (recibir) tantas visitas que apenas {{3}} (tener) tiempo para descansar.",
+        "reponses": ["viven", "han recibido", "tienen"]
+      },
+      {
+        "question": "Cada vez que {{1}} (tener) un problema, Laura {{2}} (buscar) una solución y últimamente {{3}} (conseguir) resultados excelentes.",
+        "reponses": ["tiene", "busca", "ha conseguido"]
+      },
+      {
+        "question": "Nosotros {{1}} (trabajar) en una empresa internacional y este año {{2}} (participar) en tres proyectos que {{3}} (mejorar) nuestras competencias.",
+        "reponses": ["trabajamos", "hemos participado", "han mejorado"]
+      },
+      {
+        "question": "Carlos nunca {{1}} (beber) café por la noche, pero hoy {{2}} (tomar) dos tazas y ahora {{3}} (tener) dificultades para dormir.",
+        "reponses": ["bebe", "ha tomado", "tiene"]
+      },
+      {
+        "question": "Mis compañeros {{1}} (estudiar) español todos los días y últimamente {{2}} (aprender) muchas expresiones que {{3}} (utilizar) en sus conversaciones.",
+        "reponses": ["estudian", "han aprendido", "utilizan"]
+      },
+      {
+        "question": "Yo {{1}} (conocer) bien esta ciudad y durante los últimos meses {{2}} (descubrir) varios lugares que todavía {{3}} (atraer) a pocos turistas.",
+        "reponses": ["conozco", "he descubierto", "atraen"]
+      },
+      {
+        "question": "La profesora {{1}} (explicar) las reglas con claridad y hoy {{2}} (proponer) actividades que {{3}} (ayudar) a los alumnos a practicar.",
+        "reponses": ["explica", "ha propuesto", "ayudan"]
+      },
+      {
+        "question": "Nosotros normalmente {{1}} (cenar) a las ocho, pero esta semana {{2}} (cambiar) nuestros horarios y ahora {{3}} (comer) más tarde.",
+        "reponses": ["cenamos", "hemos cambiado", "comemos"]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Construcción de frases — Ejercicio 2",
+    "definition": "Completa las frases teniendo en cuenta las costumbres, las situaciones actuales y los acontecimientos relacionados con el presente.",
+    "instruction": "Conjuga los verbos entre paréntesis de manera adecuada.",
+    "questions": [
+      {
+        "question": "Cuando era niño, Pedro {{1}} (jugar) en el parque todos los días, pero ayer {{2}} (visitar) ese lugar y {{3}} (encontrar) un parque completamente renovado.",
+        "reponses": ["jugaba", "visitó", "encontró"]
+      },
+      {
+        "question": "Mientras nosotros {{1}} (preparar) la cena, los niños {{2}} (ver) la televisión y, de repente, alguien {{3}} (llamar) a la puerta.",
+        "reponses": ["preparábamos", "veían", "llamó"]
+      },
+      {
+        "question": "Antes, mi abuela {{1}} (vivir) en el campo y {{2}} (cultivar) verduras; el año pasado {{3}} (mudarse) a la ciudad.",
+        "reponses": ["vivía", "cultivaba", "se mudó"]
+      },
+      {
+        "question": "Ayer, mientras el director {{1}} (hablar), varios empleados {{2}} (tomar) notas y la secretaria {{3}} (entrar) con unos documentos urgentes.",
+        "reponses": ["hablaba", "tomaban", "entró"]
+      },
+      {
+        "question": "Mi hermano normalmente {{1}} (ser) muy tranquilo, pero anoche {{2}} (discutir) con un vecino porque este {{3}} (poner) la música demasiado alta.",
+        "reponses": ["es", "discutió", "puso"]
+      },
+      {
+        "question": "Cuando llegué a la estación, muchas personas {{1}} (esperar) el tren, los vendedores {{2}} (ofrecer) comida y un agente {{3}} (anunciar) una demora.",
+        "reponses": ["esperaban", "ofrecían", "anunció"]
+      },
+      {
+        "question": "Cada verano nosotros {{1}} (pasar) las vacaciones en la costa, pero el verano pasado {{2}} (elegir) la montaña y {{3}} (disfrutar) de unos paisajes magníficos.",
+        "reponses": ["pasábamos", "elegimos", "disfrutamos"]
+      },
+      {
+        "question": "Mientras Ana {{1}} (estudiar) en la biblioteca, su teléfono {{2}} (sonar) varias veces y ella finalmente {{3}} (responder) al mensaje.",
+        "reponses": ["estudiaba", "sonó", "respondió"]
+      },
+      {
+        "question": "De pequeño, Luis {{1}} (tener) miedo a los perros, pero el sábado {{2}} (adoptar) uno y ahora {{3}} (cuidar) de él con mucho cariño.",
+        "reponses": ["tenía", "adoptó", "cuida"]
+      },
+      {
+        "question": "Antes, los habitantes {{1}} (desplazarse) a pie por el pueblo; ayer las autoridades {{2}} (inaugurar) una nueva carretera que {{3}} (facilitar) los desplazamientos.",
+        "reponses": ["se desplazaban", "inauguraron", "facilita"]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Construcción de frases — Ejercicio 3",
+    "definition": "Relaciona correctamente las acciones anteriores con las situaciones presentes y presta atención al orden de los acontecimientos.",
+    "instruction": "Completa los espacios con las formas verbales apropiadas.",
+    "questions": [
+      {
+        "question": "Ahora conozco bien Madrid porque {{1}} (visitar) la ciudad varias veces y antes de mi primer viaje nunca {{2}} (estar) allí. Mañana {{3}} (volver) para asistir a una conferencia.",
+        "reponses": ["he visitado", "había estado", "volveré"]
+      },
+      {
+        "question": "Cuando llegamos al restaurante, nuestros amigos ya {{1}} (pedir) la comida. Mientras nosotros {{2}} (elegir) nuestros platos, el camarero {{3}} (servir) las bebidas.",
+        "reponses": ["habían pedido", "elegíamos", "sirvió"]
+      },
+      {
+        "question": "Esta semana {{1}} (tener) mucho trabajo y todavía no {{2}} (terminar) el informe que el director {{3}} (solicitar) el lunes.",
+        "reponses": ["he tenido", "he terminado", "solicitó"]
+      },
+      {
+        "question": "Cuando era estudiante, {{1}} (soñar) con viajar por el mundo. El año pasado {{2}} (visitar) cinco países y el próximo año {{3}} (conocer) nuevos destinos.",
+        "reponses": ["soñaba", "visité", "conoceré"]
+      },
+      {
+        "question": "Si mañana {{1}} (hacer) buen tiempo, nosotros {{2}} (salir) temprano y {{3}} (recorrer) el sendero que nuestros amigos nos recomendaron.",
+        "reponses": ["hace", "saldremos", "recorreremos"]
+      },
+      {
+        "question": "Cuando llegué a casa, mi hermana ya {{1}} (preparar) la cena. Me dijo que {{2}} (esperarme) desde hacía una hora y que después {{3}} (querer) descansar.",
+        "reponses": ["había preparado", "me esperaba", "quería"]
+      },
+      {
+        "question": "Hoy {{1}} (recibir) una noticia excelente: mañana {{2}} (empezar) un nuevo trabajo y, dentro de un año, probablemente {{3}} (haber adquirido) mucha experiencia.",
+        "reponses": ["he recibido", "empezaré", "habré adquirido"]
+      },
+      {
+        "question": "Ayer descubrimos que el museo {{1}} (cerrar) antes de nuestra llegada. Si lo {{2}} (saber) antes, {{3}} (organizar) otra visita.",
+        "reponses": ["había cerrado", "hubiéramos sabido", "habríamos organizado"]
+      },
+      {
+        "question": "Normalmente {{1}} (ir) al trabajo en autobús, pero esta semana {{2}} (utilizar) la bicicleta y mañana {{3}} (probar) una ruta diferente.",
+        "reponses": ["voy", "he utilizado", "probaré"]
+      },
+      {
+        "question": "Cuando el médico llegó, la enfermera ya {{1}} (preparar) el material. El paciente {{2}} (esperar) tranquilamente y el especialista {{3}} (comenzar) la consulta.",
+        "reponses": ["había preparado", "esperaba", "comenzó"]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Construcción de frases — Ejercicio 4",
+    "definition": "Completa cada oración usando el contexto para expresar hechos, posibilidades, hipótesis y opiniones.",
+    "instruction": "Escribe la forma verbal que mejor corresponda a cada situación.",
+    "questions": [
+      {
+        "question": "Mañana {{1}} (reunirse) con el equipo y para entonces ya {{2}} (leer) todos los documentos que nos {{3}} (enviar) el director.",
+        "reponses": ["me reuniré", "habré leído", "ha enviado"]
+      },
+      {
+        "question": "Si tuviera más tiempo, {{1}} (aprender) japonés y probablemente {{2}} (viajar) a Tokio cuando {{3}} (terminar) mis estudios.",
+        "reponses": ["aprendería", "viajaría", "terminara"]
+      },
+      {
+        "question": "Espero que tú {{1}} (poder) venir mañana y que {{2}} (traer) los documentos que te {{3}} (pedir) ayer.",
+        "reponses": ["puedas", "traigas", "pedí"]
+      },
+      {
+        "question": "Me alegra que vosotros {{1}} (encontrar) una solución y que ahora {{2}} (trabajar) juntos para que el proyecto {{3}} (tener) éxito.",
+        "reponses": ["hayáis encontrado", "trabajéis", "tenga"]
+      },
+      {
+        "question": "Si me lo {{1}} (decir) antes, te {{2}} (ayudar), pero ahora es demasiado tarde y no {{3}} (poder) cambiar la decisión.",
+        "reponses": ["hubieras dicho", "habría ayudado", "puedo"]
+      },
+      {
+        "question": "El profesor nos pidió que {{1}} (entregar) el trabajo el viernes y recomendó que {{2}} (revisar) cuidadosamente las fuentes antes de que {{3}} (publicarse) el documento.",
+        "reponses": ["entregáramos", "revisáramos", "se publicara"]
+      },
+      {
+        "question": "Dudo que ellos {{1}} (haber recibir) el mensaje y no creo que {{2}} (saber) que la reunión {{3}} (ser) esta misma tarde.",
+        "reponses": ["hayan recibido", "sepan", "es"]
+      },
+      {
+        "question": "Para el próximo mes, nosotros {{1}} (completar) la formación y ya {{2}} (adquirir) las competencias que la empresa {{3}} (necesitar).",
+        "reponses": ["completaremos", "habremos adquirido", "necesita"]
+      },
+      {
+        "question": "Aunque {{1}} (estar) cansada, Marta continúa trabajando y espera que sus compañeros {{2}} (terminar) el proyecto antes de que el jefe {{3}} (llegar).",
+        "reponses": ["está", "terminen", "llegue"]
+      },
+      {
+        "question": "Si el equipo {{1}} (haber entrenar) con más regularidad, {{2}} (ganar) el campeonato y sus jugadores {{3}} (celebrar) la victoria con sus familias.",
+        "reponses": ["hubiera entrenado", "habría ganado", "habrían celebrado"]
+      }
+    ]
+  },
+  {
+    "id": "021",
+    "titre": "Construcción de frases — Ejercicio 21",
+    "definition": "Completa las frases teniendo en cuenta la relación entre los acontecimientos y las reacciones de las personas.",
+    "instruction": "Conjuga los verbos entre paréntesis de forma adecuada.",
+    "questions": [
+      {
+        "question": "Hoy {{1}} (recibir) una noticia excelente y me alegra que mis compañeros también {{2}} (recibir) la confirmación.",
+        "reponses": ["he recibido", "hayan recibido"]
+      },
+      {
+        "question": "Esta semana {{1}} (trabajar) mucho y espero que mi esfuerzo {{2}} (dar) buenos resultados.",
+        "reponses": ["he trabajado", "haya dado"]
+      },
+      {
+        "question": "Nunca {{1}} (visitar) ese museo, pero me sorprende que mis amigos ya lo {{2}} (visitar) tres veces.",
+        "reponses": ["he visitado", "hayan visitado"]
+      },
+      {
+        "question": "La directora {{1}} (anunciar) una nueva medida y es posible que los empleados no la {{2}} (comprender) todavía.",
+        "reponses": ["ha anunciado", "hayan comprendido"]
+      },
+      {
+        "question": "Nosotros {{1}} (terminar) el informe y me alegra que vosotros también lo {{2}} (terminar).",
+        "reponses": ["hemos terminado", "hayáis terminado"]
+      },
+      {
+        "question": "Últimamente {{1}} (haber) varios cambios en la empresa y dudo que todos los trabajadores se {{2}} (adaptar) por completo.",
+        "reponses": ["ha habido", "hayan adaptado"]
+      },
+      {
+        "question": "Mi hermana {{1}} (aprobar) todos los exámenes y sus profesores se alegran de que {{2}} (obtener) tan buenos resultados.",
+        "reponses": ["ha aprobado", "haya obtenido"]
+      },
+      {
+        "question": "Este año {{1}} (conocer) a muchas personas interesantes y me alegra que algunas de ellas {{2}} (convertirse) en grandes amigas.",
+        "reponses": ["he conocido", "se hayan convertido"]
+      },
+      {
+        "question": "El equipo {{1}} (mejorar) su rendimiento y el entrenador espera que los jugadores {{2}} (mantener) ese nivel.",
+        "reponses": ["ha mejorado", "hayan mantenido"]
+      },
+      {
+        "question": "Hoy {{1}} (descubrir) un error importante y no creo que los responsables lo {{2}} (corregir) todavía.",
+        "reponses": ["he descubierto", "hayan corregido"]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Construcción de frases — Ejercicio 22",
+    "definition": "Describe situaciones pasadas y explica qué había ocurrido antes de determinados acontecimientos.",
+    "instruction": "Completa cada espacio con la forma verbal adecuada.",
+    "questions": [
+      {
+        "question": "Cuando llegué a la oficina, mis compañeros ya {{1}} (salir) y la secretaria todavía {{2}} (esperar) una llamada.",
+        "reponses": ["habían salido", "esperaba"]
+      },
+      {
+        "question": "Antes de mudarse a Madrid, Laura {{1}} (vivir) diez años en Valencia y {{2}} (trabajar) en una empresa familiar.",
+        "reponses": ["había vivido", "había trabajado"]
+      },
+      {
+        "question": "El tren {{1}} (partir) cuando nosotros llegamos a la estación, así que {{2}} (decidir) tomar un taxi.",
+        "reponses": ["había partido", "decidimos"]
+      },
+      {
+        "question": "Cuando el médico examinó al paciente, este ya {{1}} (tomar) el medicamento, pero todavía {{2}} (sentir) mucho dolor.",
+        "reponses": ["había tomado", "sentía"]
+      },
+      {
+        "question": "Yo nunca {{1}} (ver) aquella película antes de que mis amigos me la {{2}} (recomendar) el año pasado.",
+        "reponses": ["había visto", "recomendaran"]
+      },
+      {
+        "question": "La directora {{1}} (revisar) los documentos antes de la reunión y después {{2}} (presentar) sus conclusiones al equipo.",
+        "reponses": ["había revisado", "presentó"]
+      },
+      {
+        "question": "Cuando empezó la tormenta, los excursionistas ya {{1}} (llegar) al refugio y algunos {{2}} (preparar) la cena.",
+        "reponses": ["habían llegado", "preparaban"]
+      },
+      {
+        "question": "El profesor explicó que varios estudiantes no {{1}} (entregar) el trabajo y que por eso {{2}} (decidir) ampliar el plazo.",
+        "reponses": ["habían entregado", "había decidido"]
+      },
+      {
+        "question": "Cuando conocí a Pedro, él ya {{1}} (fundar) su empresa, aunque todavía {{2}} (buscar) nuevos clientes.",
+        "reponses": ["había fundado", "buscaba"]
+      },
+      {
+        "question": "La policía descubrió que los ladrones {{1}} (entrar) por una ventana y que {{2}} (llevarse) varios objetos de valor.",
+        "reponses": ["habían entrado", "se habían llevado"]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Construcción de frases — Ejercicio 23",
+    "definition": "Distingue entre las situaciones que estaban en desarrollo y los acontecimientos que las interrumpieron o modificaron.",
+    "instruction": "Conjuga los verbos según el sentido de cada frase.",
+    "questions": [
+      {
+        "question": "Mientras Marta {{1}} (preparar) la cena, su hermano {{2}} (llegar) con una noticia inesperada.",
+        "reponses": ["preparaba", "llegó"]
+      },
+      {
+        "question": "Los niños {{1}} (jugar) en el jardín cuando de repente {{2}} (empezar) a llover.",
+        "reponses": ["jugaban", "empezó"]
+      },
+      {
+        "question": "Yo {{1}} (leer) tranquilamente cuando alguien {{2}} (llamar) a la puerta.",
+        "reponses": ["leía", "llamó"]
+      },
+      {
+        "question": "El director {{1}} (explicar) el problema cuando un empleado {{2}} (interrumpir) la reunión.",
+        "reponses": ["explicaba", "interrumpió"]
+      },
+      {
+        "question": "Mientras nosotros {{1}} (caminar) por el centro, {{2}} (encontrar) una antigua compañera de clase.",
+        "reponses": ["caminábamos", "encontramos"]
+      },
+      {
+        "question": "La paciente {{1}} (dormir) cuando la enfermera {{2}} (entrar) para comprobar su temperatura.",
+        "reponses": ["dormía", "entró"]
+      },
+      {
+        "question": "Los investigadores {{1}} (analizar) los datos cuando {{2}} (descubrir) una anomalía importante.",
+        "reponses": ["analizaban", "descubrieron"]
+      },
+      {
+        "question": "Mi abuelo {{1}} (contar) una historia cuando los invitados {{2}} (empezar) a reírse.",
+        "reponses": ["contaba", "empezaron"]
+      },
+      {
+        "question": "Mientras el equipo {{1}} (entrenar), el entrenador {{2}} (recibir) una llamada urgente.",
+        "reponses": ["entrenaba", "recibió"]
+      },
+      {
+        "question": "Nosotros {{1}} (esperar) el autobús cuando un vecino {{2}} (ofrecer) llevarnos en su coche.",
+        "reponses": ["esperábamos", "ofreció"]
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "Construcción de frases — Ejercicio 24",
+    "definition": "Expresa acciones habituales del pasado y acontecimientos que modifican una situación.",
+    "instruction": "Completa las frases con las formas verbales apropiadas.",
+    "questions": [
+      {
+        "question": "Cuando era pequeña, Elena {{1}} (visitar) a sus abuelos cada domingo, pero el año pasado {{2}} (mudarse) a otro país.",
+        "reponses": ["visitaba", "se mudó"]
+      },
+      {
+        "question": "Antes, nosotros {{1}} (ir) al trabajo en bicicleta, pero ayer {{2}} (tomar) el autobús debido a la lluvia.",
+        "reponses": ["íbamos", "tomamos"]
+      },
+      {
+        "question": "Mi padre siempre {{1}} (leer) el periódico por la mañana y un día {{2}} (encontrar) un anuncio que cambió su carrera.",
+        "reponses": ["leía", "encontró"]
+      },
+      {
+        "question": "La ciudad {{1}} (ser) mucho más tranquila antes de que {{2}} (construir) el nuevo centro comercial.",
+        "reponses": ["era", "construyeran"]
+      },
+      {
+        "question": "Mientras los estudiantes {{1}} (preparar) los exámenes, la universidad {{2}} (anunciar) un cambio en el calendario.",
+        "reponses": ["preparaban", "anunció"]
+      },
+      {
+        "question": "Cada verano, mis primos {{1}} (pasar) las vacaciones en el pueblo, hasta que sus padres {{2}} (comprar) una casa junto al mar.",
+        "reponses": ["pasaban", "compraron"]
+      },
+      {
+        "question": "El restaurante {{1}} (ofrecer) platos tradicionales y el mes pasado {{2}} (recibir) un premio gastronómico.",
+        "reponses": ["ofrecía", "recibió"]
+      },
+      {
+        "question": "Yo {{1}} (pensar) que el examen sería fácil, pero cuando {{2}} (leer) las preguntas, cambié de opinión.",
+        "reponses": ["pensaba", "leí"]
+      },
+      {
+        "question": "Los vecinos {{1}} (quejarse) frecuentemente del ruido, hasta que el ayuntamiento {{2}} (instalar) barreras acústicas.",
+        "reponses": ["se quejaban", "instaló"]
+      },
+      {
+        "question": "Mi hermana {{1}} (trabajar) en una librería cuando {{2}} (recibir) una oferta para dirigir una editorial.",
+        "reponses": ["trabajaba", "recibió"]
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "titre": "Construcción de frases — Ejercicio 25",
+    "definition": "Relata hechos pasados respetando el orden temporal y las circunstancias en las que ocurrieron.",
+    "instruction": "Escribe las formas verbales que completan correctamente cada oración.",
+    "questions": [
+      {
+        "question": "Cuando llegué al aeropuerto, el avión ya {{1}} (despegar), así que {{2}} (tener) que cambiar mi billete.",
+        "reponses": ["había despegado", "tuve"]
+      },
+      {
+        "question": "La empresa {{1}} (publicar) los resultados antes de que los periodistas {{2}} (llegar) a la rueda de prensa.",
+        "reponses": ["había publicado", "llegaran"]
+      },
+      {
+        "question": "Después de que el juez {{1}} (escuchar) a los testigos, {{2}} (anunciar) su decisión.",
+        "reponses": ["hubo escuchado", "anunció"]
+      },
+      {
+        "question": "Tan pronto como el equipo {{1}} (terminar) el proyecto, sus responsables {{2}} (enviar) el informe al cliente.",
+        "reponses": ["hubo terminado", "enviaron"]
+      },
+      {
+        "question": "Cuando los invitados {{1}} (salir) de la casa, los anfitriones {{2}} (empezar) a recoger la mesa.",
+        "reponses": ["hubieron salido", "empezaron"]
+      },
+      {
+        "question": "Apenas el director {{1}} (firmar) el contrato, las dos empresas {{2}} (iniciar) la colaboración.",
+        "reponses": ["hubo firmado", "iniciaron"]
+      },
+      {
+        "question": "Después de que la policía {{1}} (examinar) las pruebas, el fiscal {{2}} (presentar) el caso ante el tribunal.",
+        "reponses": ["hubo examinado", "presentó"]
+      },
+      {
+        "question": "En cuanto el tren {{1}} (llegar) a la estación, los pasajeros {{2}} (bajar) rápidamente.",
+        "reponses": ["hubo llegado", "bajaron"]
+      },
+      {
+        "question": "Cuando la tormenta {{1}} (cesar), los pescadores {{2}} (volver) al puerto.",
+        "reponses": ["hubo cesado", "volvieron"]
+      },
+      {
+        "question": "Una vez que el médico {{1}} (examinar) al paciente, {{2}} (recomendar) un tratamiento específico.",
+        "reponses": ["hubo examinado", "recomendó"]
+      }
+    ]
+  },
+  {
+    "id": "026",
+    "titre": "Construcción de frases — Ejercicio 26",
+    "definition": "Combina recuerdos del pasado con previsiones y decisiones futuras.",
+    "instruction": "Completa cada frase utilizando el contexto como guía.",
+    "questions": [
+      {
+        "question": "Antes, mi hermano {{1}} (trabajar) en un banco; el próximo año {{2}} (dirigir) su propia empresa.",
+        "reponses": ["trabajaba", "dirigirá"]
+      },
+      {
+        "question": "Cuando vivíamos en el campo, nosotros {{1}} (cultivar) verduras; algún día {{2}} (volver) a esa vida tranquila.",
+        "reponses": ["cultivábamos", "volveremos"]
+      },
+      {
+        "question": "La profesora {{1}} (explicar) las reglas con ejemplos y mañana {{2}} (organizar) una actividad práctica.",
+        "reponses": ["explicaba", "organizará"]
+      },
+      {
+        "question": "De niño, Luis {{1}} (soñar) con ser piloto y, dentro de unos años, probablemente {{2}} (trabajar) para una compañía internacional.",
+        "reponses": ["soñaba", "trabajará"]
+      },
+      {
+        "question": "Mientras mi madre {{1}} (preparar) la comida, mi padre {{2}} (poner) la mesa y mañana nosotros {{3}} (invitar) a toda la familia.",
+        "reponses": ["preparaba", "ponía", "invitaremos"]
+      },
+      {
+        "question": "La ciudad {{1}} (tener) pocas infraestructuras, pero en el futuro {{2}} (contar) con un nuevo hospital.",
+        "reponses": ["tenía", "contará"]
+      },
+      {
+        "question": "Cuando trabajaba en el extranjero, Ana {{1}} (viajar) cada semana; el mes que viene {{2}} (trasladarse) a otra oficina.",
+        "reponses": ["viajaba", "se trasladará"]
+      },
+      {
+        "question": "Los estudiantes {{1}} (utilizar) libros impresos en aquella época, pero pronto {{2}} (estudiar) con herramientas digitales más avanzadas.",
+        "reponses": ["utilizaban", "estudiarán"]
+      },
+      {
+        "question": "Mi abuelo {{1}} (contar) historias fascinantes y algún día nosotros {{2}} (compartir) esas historias con nuestros hijos.",
+        "reponses": ["contaba", "compartiremos"]
+      },
+      {
+        "question": "Antes, el equipo {{1}} (entrenar) en un campo pequeño; la próxima temporada {{2}} (disponer) de instalaciones modernas.",
+        "reponses": ["entrenaba", "dispondrá"]
+      }
+    ]
+  },
+  {
+    "id": "027",
+    "titre": "Construcción de frases — Ejercicio 27",
+    "definition": "Expresa previsiones futuras y acciones que ya estarán terminadas en un momento determinado.",
+    "instruction": "Conjuga los verbos entre paréntesis según el contexto.",
+    "questions": [
+      {
+        "question": "Mañana {{1}} (presentar) el proyecto y para entonces ya {{2}} (preparar) todos los documentos.",
+        "reponses": ["presentaré", "habré preparado"]
+      },
+      {
+        "question": "El próximo año {{1}} (vivir) en otro país y antes de diciembre {{2}} (aprender) las expresiones más comunes.",
+        "reponses": ["viviré", "habré aprendido"]
+      },
+      {
+        "question": "Cuando llegues, nosotros {{1}} (terminar) la cena y probablemente {{2}} (salir) a dar un paseo.",
+        "reponses": ["habremos terminado", "saldremos"]
+      },
+      {
+        "question": "Dentro de cinco años, la empresa {{1}} (abrir) nuevas sucursales y {{2}} (contratar) a cientos de empleados.",
+        "reponses": ["habrá abierto", "habrá contratado"]
+      },
+      {
+        "question": "Para el viernes, los técnicos {{1}} (reparar) el sistema y el lunes {{2}} (reanudar) las operaciones.",
+        "reponses": ["habrán reparado", "reanudarán"]
+      },
+      {
+        "question": "A esta hora mañana, nosotros {{1}} (llegar) a Barcelona y {{2}} (visitar) el centro histórico.",
+        "reponses": ["habremos llegado", "visitaremos"]
+      },
+      {
+        "question": "Cuando termine el curso, los alumnos {{1}} (adquirir) nuevas competencias y {{2}} (poder) solicitar prácticas profesionales.",
+        "reponses": ["habrán adquirido", "podrán"]
+      },
+      {
+        "question": "Para finales de mes, yo {{1}} (ahorrar) suficiente dinero y {{2}} (comprar) el ordenador que necesito.",
+        "reponses": ["habré ahorrado", "compraré"]
+      },
+      {
+        "question": "En 2030, los investigadores {{1}} (desarrollar) nuevas técnicas y probablemente {{2}} (reducir) los costes de producción.",
+        "reponses": ["habrán desarrollado", "reducirán"]
+      },
+      {
+        "question": "Antes de que empiece la conferencia, los organizadores {{1}} (instalar) los equipos y {{2}} (comprobar) el sonido.",
+        "reponses": ["habrán instalado", "habrán comprobado"]
+      }
+    ]
+  },
+  {
+    "id": "028",
+    "titre": "Construcción de frases — Ejercicio 28",
+    "definition": "Formula hipótesis y situaciones imaginarias relacionadas con las decisiones y los resultados posibles.",
+    "instruction": "Completa las frases con las formas verbales adecuadas.",
+    "questions": [
+      {
+        "question": "Si tuviera más dinero, {{1}} (comprar) una casa y {{2}} (invitar) a mis padres a vivir conmigo.",
+        "reponses": ["compraría", "invitaría"]
+      },
+      {
+        "question": "En tu lugar, {{1}} (aceptar) la oferta y {{2}} (negociar) mejores condiciones laborales.",
+        "reponses": ["aceptaría", "negociaría"]
+      },
+      {
+        "question": "Si el transporte público fuera más fiable, muchas personas {{1}} (dejar) el coche y {{2}} (utilizar) el autobús.",
+        "reponses": ["dejarían", "utilizarían"]
+      },
+      {
+        "question": "Con una mejor planificación, nosotros {{1}} (reducir) los gastos y {{2}} (obtener) resultados más satisfactorios.",
+        "reponses": ["reduciríamos", "obtendríamos"]
+      },
+      {
+        "question": "Si conociera la respuesta, te la {{1}} (decir) inmediatamente y {{2}} (explicar) por qué es correcta.",
+        "reponses": ["diría", "explicaría"]
+      },
+      {
+        "question": "La empresa {{1}} (contratar) a más empleados si {{2}} (tener) un presupuesto mayor.",
+        "reponses": ["contrataría", "tuviera"]
+      },
+      {
+        "question": "Yo {{1}} (viajar) más a menudo si {{2}} (disponer) de más días de vacaciones.",
+        "reponses": ["viajaría", "dispusiera"]
+      },
+      {
+        "question": "Si los estudiantes recibieran más orientación, {{1}} (elegir) mejor sus estudios y {{2}} (cometer) menos errores.",
+        "reponses": ["elegirían", "cometerían"]
+      },
+      {
+        "question": "¿Qué {{1}} (hacer) tú si {{2}} (encontrar) una cartera llena de dinero en la calle?",
+        "reponses": ["harías", "encontraras"]
+      },
+      {
+        "question": "Si el gobierno invirtiera más en investigación, los científicos {{1}} (desarrollar) nuevas soluciones y la sociedad {{2}} (beneficiarse) de ellas.",
+        "reponses": ["desarrollarían", "se beneficiaría"]
+      }
+    ]
+  },
+  {
+    "id": "029",
+    "titre": "Construcción de frases — Ejercicio 29",
+    "definition": "Expresa deseos, recomendaciones, dudas y reacciones ante situaciones reales o posibles.",
+    "instruction": "Completa las frases con la forma verbal que corresponda.",
+    "questions": [
+      {
+        "question": "Espero que mañana {{1}} (hacer) buen tiempo y que todos {{2}} (poder) participar en la excursión.",
+        "reponses": ["haga", "puedan"]
+      },
+      {
+        "question": "La directora quiere que los empleados {{1}} (entregar) el informe y que cada departamento {{2}} (revisar) sus resultados.",
+        "reponses": ["entreguen", "revise"]
+      },
+      {
+        "question": "Cuando {{1}} (llegar) el director, empezaremos la reunión y le explicaremos lo que ha ocurrido.",
+        "reponses": ["llegue"]
+      },
+      {
+        "question": "Es importante que tú {{1}} (leer) las instrucciones antes de que {{2}} (comenzar) el examen.",
+        "reponses": ["leas", "comience"]
+      },
+      {
+        "question": "No creo que ellos {{1}} (conocer) la noticia, aunque es posible que alguien se la {{2}} (contar).",
+        "reponses": ["conozcan", "haya contado"]
+      },
+      {
+        "question": "Mi madre insiste en que yo {{1}} (descansar) más y que no {{2}} (trabajar) hasta tan tarde.",
+        "reponses": ["descanse", "trabaje"]
+      },
+      {
+        "question": "Buscamos un candidato que {{1}} (hablar) varios idiomas y que {{2}} (tener) experiencia internacional.",
+        "reponses": ["hable", "tenga"]
+      },
+      {
+        "question": "Aunque {{1}} (ser) difícil, debemos intentarlo y confiar en que el equipo {{2}} (encontrar) una solución.",
+        "reponses": ["sea", "encuentre"]
+      },
+      {
+        "question": "Te llamaré en cuanto {{1}} (recibir) una respuesta y espero que tú también me {{2}} (informar) de cualquier novedad.",
+        "reponses": ["reciba", "informes"]
+      },
+      {
+        "question": "Ojalá nuestros esfuerzos {{1}} (dar) buenos resultados y que todos {{2}} (sentirse) orgullosos del trabajo realizado.",
+        "reponses": ["den", "se sientan"]
+      }
+    ]
+  },
+  {
+    "id": "030",
+    "titre": "Construcción de frases — Ejercicio 30",
+    "definition": "Imagina distintas consecuencias de acontecimientos anteriores y expresa qué habría sido posible en otras circunstancias.",
+    "instruction": "Conjuga los verbos según la relación entre la condición y su resultado.",
+    "questions": [
+      {
+        "question": "Si hubiera estudiado medicina, ahora {{1}} (trabajar) en un hospital y {{2}} (atender) a muchos pacientes.",
+        "reponses": ["trabajaría", "atendería"]
+      },
+      {
+        "question": "Si hubiéramos reservado antes, {{1}} (conseguir) mejores asientos y {{2}} (pagar) menos por las entradas.",
+        "reponses": ["habríamos conseguido", "habríamos pagado"]
+      },
+      {
+        "question": "Si hubieras aceptado aquella propuesta, ahora {{1}} (dirigir) el departamento y {{2}} (ganar) un salario más alto.",
+        "reponses": ["dirigirías", "ganarías"]
+      },
+      {
+        "question": "Si el equipo hubiera entrenado más, {{1}} (ganar) el partido y {{2}} (clasificarse) para la final.",
+        "reponses": ["habría ganado", "se habría clasificado"]
+      },
+      {
+        "question": "Si no hubiéramos perdido el tren, {{1}} (llegar) a tiempo y no {{2}} (tener) que esperar dos horas.",
+        "reponses": ["habríamos llegado", "habríamos tenido"]
+      },
+      {
+        "question": "Si ella hubiera invertido en aquella empresa, hoy {{1}} (poseer) una parte importante del negocio y {{2}} (recibir) dividendos.",
+        "reponses": ["poseería", "recibiría"]
+      },
+      {
+        "question": "Si me hubieras avisado antes, {{1}} (organizar) una reunión y {{2}} (invitar) a los especialistas necesarios.",
+        "reponses": ["habría organizado", "habría invitado"]
+      },
+      {
+        "question": "Si los investigadores hubieran encontrado una solución, ahora {{1}} (poder) reducir los costes y {{2}} (ofrecer) un servicio más accesible.",
+        "reponses": ["podrían", "ofrecerían"]
+      },
+      {
+        "question": "Si hubieras tomado otro camino, {{1}} (evitar) el tráfico y {{2}} (llegar) mucho antes.",
+        "reponses": ["habrías evitado", "habrías llegado"]
+      },
+      {
+        "question": "Si la empresa hubiera invertido en formación, sus empleados {{1}} (cometer) menos errores y {{2}} (mejorar) su productividad.",
+        "reponses": ["habrían cometido", "habrían mejorado"]
+      }
+    ]
+  },
+  {
+    "id": "031",
+    "titre": "Construcción de frases — Ejercicio 31",
+    "definition": "Relaciona acontecimientos ya terminados con resultados hipotéticos y decisiones alternativas.",
+    "instruction": "Escribe las formas verbales que completan cada frase.",
+    "questions": [
+      {
+        "question": "Para cuando llegues, nosotros {{1}} (terminar) la reunión y probablemente {{2}} (decidir) qué hacer después.",
+        "reponses": ["habremos terminado", "habremos decidido"]
+      },
+      {
+        "question": "Si hubieran recibido la información a tiempo, {{1}} (preparar) una respuesta y {{2}} (evitar) el malentendido.",
+        "reponses": ["habrían preparado", "habrían evitado"]
+      },
+      {
+        "question": "A finales de año, la organización {{1}} (completar) el proyecto y {{2}} (formar) a todos los participantes.",
+        "reponses": ["habrá completado", "habrá formado"]
+      },
+      {
+        "question": "Si hubieras seguido mis consejos, {{1}} (resolver) el problema y no {{2}} (perder) tanto tiempo.",
+        "reponses": ["habrías resuelto", "habrías perdido"]
+      },
+      {
+        "question": "Dentro de una década, los científicos {{1}} (desarrollar) nuevos tratamientos y {{2}} (mejorar) la atención médica.",
+        "reponses": ["habrán desarrollado", "habrán mejorado"]
+      },
+      {
+        "question": "Si el conductor hubiera revisado el vehículo, {{1}} (detectar) el problema y {{2}} (evitar) la avería.",
+        "reponses": ["habría detectado", "habría evitado"]
+      },
+      {
+        "question": "Antes del próximo verano, nosotros {{1}} (ahorrar) suficiente dinero y {{2}} (reservar) el alojamiento.",
+        "reponses": ["habremos ahorrado", "habremos reservado"]
+      },
+      {
+        "question": "Si los organizadores hubieran comunicado el cambio, los invitados {{1}} (llegar) a la hora correcta y {{2}} (evitar) la confusión.",
+        "reponses": ["habrían llegado", "habrían evitado"]
+      },
+      {
+        "question": "Para el año próximo, el equipo {{1}} (analizar) todos los datos y {{2}} (publicar) sus conclusiones.",
+        "reponses": ["habrá analizado", "habrá publicado"]
+      },
+      {
+        "question": "Si hubiéramos conocido las condiciones, {{1}} (elegir) otra opción y {{2}} (gastar) menos dinero.",
+        "reponses": ["habríamos elegido", "habríamos gastado"]
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Construcción de frases — Ejercicio 32",
+    "definition": "Expresa situaciones hipotéticas y explica qué habría ocurrido si las circunstancias hubieran sido diferentes.",
+    "instruction": "Completa cada frase con las formas verbales adecuadas.",
+    "questions": [
+      {
+        "question": "Yo {{1}} (aceptar) el puesto si me {{2}} (ofrecer) mejores condiciones.",
+        "reponses": ["aceptaría", "ofrecieran"]
+      },
+      {
+        "question": "Si hubiéramos salido antes, {{1}} (llegar) a tiempo y {{2}} (asistir) a toda la conferencia.",
+        "reponses": ["habríamos llegado", "habríamos asistido"]
+      },
+      {
+        "question": "En tu situación, {{1}} (consultar) a un especialista y {{2}} (analizar) todas las alternativas.",
+        "reponses": ["consultaría", "analizaría"]
+      },
+      {
+        "question": "Si el proyecto hubiera recibido más financiación, {{1}} (crear) nuevos puestos de trabajo y {{2}} (ampliar) sus actividades.",
+        "reponses": ["habría creado", "habría ampliado"]
+      },
+      {
+        "question": "Nosotros {{1}} (viajar) contigo si {{2}} (tener) suficientes vacaciones.",
+        "reponses": ["viajaríamos", "tuviéramos"]
+      },
+      {
+        "question": "Si hubieras guardado una copia, {{1}} (recuperar) los archivos y no {{2}} (perder) toda la información.",
+        "reponses": ["habrías recuperado", "habrías perdido"]
+      },
+      {
+        "question": "Yo {{1}} (comprar) esa vivienda si el precio {{2}} (ser) más razonable.",
+        "reponses": ["compraría", "fuera"]
+      },
+      {
+        "question": "Si los técnicos hubieran detectado el fallo, {{1}} (reparar) el sistema y {{2}} (evitar) la interrupción.",
+        "reponses": ["habrían reparado", "habrían evitado"]
+      },
+      {
+        "question": "¿Qué {{1}} (decir) tú si alguien te {{2}} (proponer) trabajar en el extranjero?",
+        "reponses": ["dirías", "propusiera"]
+      },
+      {
+        "question": "Si la empresa hubiera mejorado sus servicios, {{1}} (conservar) a sus clientes y {{2}} (aumentar) sus ingresos.",
+        "reponses": ["habría conservado", "habría aumentado"]
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Construcción de frases — Ejercicio 33",
+    "definition": "Expresa deseos, dudas y recomendaciones en situaciones hipotéticas.",
+    "instruction": "Conjuga los verbos entre paréntesis según el sentido de cada frase.",
+    "questions": [
+      {
+        "question": "Me gustaría que tú {{1}} (venir) a la reunión y que {{2}} (compartir) tus ideas con el equipo.",
+        "reponses": ["vinieras", "compartieras"]
+      },
+      {
+        "question": "Si yo {{1}} (tener) más experiencia, {{2}} (solicitar) ese puesto y {{3}} (asumir) mayores responsabilidades.",
+        "reponses": ["tuviera", "solicitaría", "asumiría"]
+      },
+      {
+        "question": "La directora pidió que todos {{1}} (participar) en la formación y que nadie {{2}} (abandonar) la sala antes de tiempo.",
+        "reponses": ["participaran", "abandonara"]
+      },
+      {
+        "question": "Aunque {{1}} (parecer) difícil, sería conveniente que nosotros {{2}} (buscar) una solución antes de que el problema {{3}} (empeorar).",
+        "reponses": ["parezca", "busquemos", "empeore"]
+      },
+      {
+        "question": "Ojalá el equipo {{1}} (poder) terminar el proyecto y que sus responsables {{2}} (reconocer) el esfuerzo de todos.",
+        "reponses": ["pudiera", "reconocieran"]
+      },
+      {
+        "question": "No creía que el candidato {{1}} (tener) tanta experiencia, aunque esperaba que {{2}} (demostrar) sus capacidades durante la entrevista.",
+        "reponses": ["tuviera", "demostrara"]
+      },
+      {
+        "question": "Sería mejor que ustedes {{1}} (revisar) el contrato y que {{2}} (consultar) a un abogado antes de firmarlo.",
+        "reponses": ["revisaran", "consultaran"]
+      },
+      {
+        "question": "Si el gobierno {{1}} (invertir) más en educación, muchos jóvenes {{2}} (tener) mejores oportunidades.",
+        "reponses": ["invirtiera", "tendrían"]
+      },
+      {
+        "question": "El médico recomendó que el paciente {{1}} (descansar) y que no {{2}} (hacer) esfuerzos durante varios días.",
+        "reponses": ["descansara", "hiciera"]
+      },
+      {
+        "question": "Quisiera que vosotros {{1}} (explicar) vuestra propuesta y que {{2}} (responder) a las preguntas del comité.",
+        "reponses": ["explicarais", "respondierais"]
+      }
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "Construcción de frases — Ejercicio 34",
+    "definition": "Expresa hipótesis sobre hechos pasados y reacciones ante acontecimientos que quizá ocurrieron.",
+    "instruction": "Completa las frases prestando atención al contexto y al grado de certeza.",
+    "questions": [
+      {
+        "question": "Me alegra que {{1}} (terminar) el proyecto y que todos {{2}} (quedar) satisfechos con el resultado.",
+        "reponses": ["hayas terminado", "hayáis quedado"]
+      },
+      {
+        "question": "Dudo que ellos {{1}} (recibir) la invitación y me sorprende que nadie les {{2}} (avisar).",
+        "reponses": ["hayan recibido", "haya avisado"]
+      },
+      {
+        "question": "Es posible que la directora {{1}} (cambiar) de opinión, aunque no creo que {{2}} (tomar) todavía una decisión definitiva.",
+        "reponses": ["haya cambiado", "haya tomado"]
+      },
+      {
+        "question": "No estoy seguro de que los técnicos {{1}} (resolver) el problema, pero me alegra que {{2}} (encontrar) su origen.",
+        "reponses": ["hayan resuelto", "hayan encontrado"]
+      },
+      {
+        "question": "El profesor se alegra de que los estudiantes {{1}} (mejorar) sus resultados y de que {{2}} (comprender) las instrucciones.",
+        "reponses": ["hayan mejorado", "hayan comprendido"]
+      },
+      {
+        "question": "Puede que Marta {{1}} (olvidar) la cita, pero es extraño que no nos {{2}} (enviar) ningún mensaje.",
+        "reponses": ["haya olvidado", "haya enviado"]
+      },
+      {
+        "question": "Me preocupa que las autoridades no {{1}} (adoptar) medidas y que la situación {{2}} (empeorar).",
+        "reponses": ["hayan adoptado", "haya empeorado"]
+      },
+      {
+        "question": "Es fantástico que vosotros {{1}} (conseguir) las becas y que {{2}} (poder) continuar vuestros estudios.",
+        "reponses": ["hayáis conseguido", "hayáis podido"]
+      },
+      {
+        "question": "No creo que el testigo {{1}} (decir) toda la verdad, aunque es posible que {{2}} (olvidar) algunos detalles.",
+        "reponses": ["haya dicho", "haya olvidado"]
+      },
+      {
+        "question": "Me sorprende que tú {{1}} (resolver) el ejercicio tan rápido y que {{2}} (explicar) tu método con tanta claridad.",
+        "reponses": ["hayas resuelto", "hayas explicado"]
+      }
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "Construcción de frases — Ejercicio 35",
+    "definition": "Combina deseos, opiniones y reacciones con acontecimientos que ya se han producido o que se consideran posibles.",
+    "instruction": "Completa cada frase con la forma verbal adecuada.",
+    "questions": [
+      {
+        "question": "Espero que tú {{1}} (terminar) el informe y que mañana {{2}} (poder) presentarlo al director.",
+        "reponses": ["hayas terminado", "puedas"]
+      },
+      {
+        "question": "Me alegra que los alumnos {{1}} (aprobar) el examen y que sus familias {{2}} (celebrar) los resultados.",
+        "reponses": ["hayan aprobado", "celebren"]
+      },
+      {
+        "question": "Es posible que el tren {{1}} (salir) ya, aunque espero que todavía {{2}} (haber) tiempo para llegar a la estación.",
+        "reponses": ["haya salido", "haya"]
+      },
+      {
+        "question": "No creo que María {{1}} (leer) el mensaje, pero deseo que {{2}} (responder) pronto.",
+        "reponses": ["haya leído", "responda"]
+      },
+      {
+        "question": "El director quiere que los empleados {{1}} (completar) la formación y se alegra de que ya {{2}} (adquirir) varias competencias.",
+        "reponses": ["completen", "hayan adquirido"]
+      },
+      {
+        "question": "Ojalá nuestros invitados {{1}} (llegar) bien y que {{2}} (disfrutar) de su estancia.",
+        "reponses": ["hayan llegado", "disfruten"]
+      },
+      {
+        "question": "Me preocupa que el paciente no {{1}} (tomar) la medicación y espero que el médico {{2}} (encontrar) una solución.",
+        "reponses": ["haya tomado", "encuentre"]
+      },
+      {
+        "question": "Es importante que vosotros {{1}} (entregar) los documentos hoy y que antes {{2}} (comprobar) que no falta nada.",
+        "reponses": ["entreguéis", "hayáis comprobado"]
+      },
+      {
+        "question": "Dudo que la empresa {{1}} (publicar) los resultados y espero que los responsables {{2}} (aclarar) la situación pronto.",
+        "reponses": ["haya publicado", "aclaren"]
+      },
+      {
+        "question": "Me satisface que el equipo {{1}} (alcanzar) sus objetivos y deseo que {{2}} (mantener) ese nivel durante el próximo año.",
+        "reponses": ["haya alcanzado", "mantenga"]
+      }
+    ]
+  },
+  {
+    "id": "036",
+    "titre": "Construcción de frases — Ejercicio 36",
+    "definition": "Expresa situaciones imaginarias del pasado y sus posibles consecuencias.",
+    "instruction": "Completa las frases utilizando el contexto para elegir las formas verbales correctas.",
+    "questions": [
+      {
+        "question": "Si hubiera estudiado más, {{1}} (aprobar) el examen y {{2}} (conseguir) la beca.",
+        "reponses": ["habría aprobado", "habría conseguido"]
+      },
+      {
+        "question": "Ojalá nosotros {{1}} (reservar) una mesa antes; ahora no tendríamos que esperar tanto.",
+        "reponses": ["hubiéramos reservado"]
+      },
+      {
+        "question": "Si ella {{1}} (aceptar) la oferta, habría trabajado en el extranjero y {{2}} (conocer) nuevas culturas.",
+        "reponses": ["hubiera aceptado", "habría conocido"]
+      },
+      {
+        "question": "Me habría gustado que tú {{1}} (venir) a la ceremonia y que {{2}} (conocer) a mis compañeros.",
+        "reponses": ["hubieras venido", "hubieras conocido"]
+      },
+      {
+        "question": "Si los responsables {{1}} (actuar) antes, habrían evitado la crisis y {{2}} (proteger) a muchas familias.",
+        "reponses": ["hubieran actuado", "habrían protegido"]
+      },
+      {
+        "question": "El entrenador deseaba que los jugadores {{1}} (entrenar) con más constancia y que {{2}} (mejorar) su resistencia.",
+        "reponses": ["hubieran entrenado", "hubieran mejorado"]
+      },
+      {
+        "question": "Si hubieras comprobado la dirección, no {{1}} (perder) tanto tiempo y {{2}} (llegar) antes.",
+        "reponses": ["habrías perdido", "habrías llegado"]
+      },
+      {
+        "question": "Ojalá el equipo {{1}} (prepararse) mejor para la final; quizá habría conseguido la victoria.",
+        "reponses": ["se hubiera preparado"]
+      },
+      {
+        "question": "Si nosotros {{1}} (conocer) las dificultades, habríamos elegido otra estrategia y {{2}} (reducir) los riesgos.",
+        "reponses": ["hubiéramos conocido", "habríamos reducido"]
+      },
+      {
+        "question": "La directora quería que los empleados {{1}} (haber completar) la formación antes de que {{2}} (empezar) el nuevo proyecto.",
+        "reponses": ["hubieran completado", "empezara"]
+      }
+    ]
+  }
+]
