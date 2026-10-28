@@ -2258,6 +2258,946 @@
       {"question":"Haritayı dikkatlice incelersen yolu {{1}} (bulmak). Dün adresi yanlış girdiğim için yolu {{2}} (bulamamak). Daha dikkatli olsaydım zaman kaybetmiş {{3}} (olmamak).","reponses":["bulursun","bulamadım","olmazdım"]},
       {"question":"Otobüsü kaçırmamak için evden erken {{1}} (çıkmak). Dün geç çıktığım için otobüse {{2}} (yetişememek). Yarın alarmımı daha erken {{3}} (kurmak).","reponses":["çıkmalısın","yetişemedim","kuracağım"]}
     ]
+  },
+  {
+    "id": "081",
+    "titre": "Geçmişten Geleceğe Uzanan Kararlar",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Dün bu konuyu uzun uzun {{1}} (konuşmak). Bugün yeniden {{2}} (değerlendirmek). Yarın da kesin bir karar {{3}} (vermek).",
+        "reponses": ["konuştuk", "değerlendiriyoruz", "vereceğiz"]
+      },
+      {
+        "question": "Geçen ay yeni bir işe {{1}} (başlamak). Şimdi farklı görevler {{2}} (üstlenmek). Gelecek yıl daha fazla sorumluluk {{3}} (almak).",
+        "reponses": ["başladım", "üstleniyorum", "alacağım"]
+      },
+      {
+        "question": "Daha önce bu şehirde {{1}} (yaşamak). Şu anda başka bir yerde {{2}} (çalışmak). Birkaç yıl sonra ülkeme {{3}} (dönmek).",
+        "reponses": ["yaşadım", "çalışıyorum", "döneceğim"]
+      },
+      {
+        "question": "Dün bütün belgeleri {{1}} (hazırlamak). Şimdi başvuruyu {{2}} (tamamlamak). Akşama kadar dosyayı teslim {{3}} (etmek).",
+        "reponses": ["hazırladım", "tamamlıyorum", "edeceğim"]
+      },
+      {
+        "question": "Çocukken her yaz köye {{1}} (gitmek). Şimdi tatillerimi evde {{2}} (geçirmek). Gelecek yaz yeniden köye {{3}} (gitmek).",
+        "reponses": ["giderdim", "geçiriyorum", "gideceğim"]
+      },
+      {
+        "question": "Dün hava çok soğuk {{1}} (olmak). Bugün sıcaklık biraz {{2}} (yükselmek). Yarın havanın daha da ısınacağı {{3}} (tahmin edilmek).",
+        "reponses": ["oldu", "yükseliyor", "tahmin ediliyor"]
+      },
+      {
+        "question": "Daha önce bu programı hiç {{1}} (kullanmamak). Son günlerde programı düzenli olarak {{2}} (kullanmak). Yakında bütün özelliklerini {{3}} (öğrenmek).",
+        "reponses": ["kullanmadım", "kullanıyorum", "öğreneceğim"]
+      },
+      {
+        "question": "Geçen hafta önemli bir toplantıya {{1}} (katılmak). Şu anda toplantının sonuçlarını {{2}} (incelemek). Yarın yönetime bir rapor {{3}} (sunmak).",
+        "reponses": ["katıldım", "inceliyorum", "sunacağım"]
+      },
+      {
+        "question": "Eskiden yabancılarla konuşurken {{1}} (çekinmek). Artık kendime daha çok {{2}} (güvenmek). Yakında bir konferansta konuşma {{3}} (yapmak).",
+        "reponses": ["çekinirdim", "güveniyorum", "yapacağım"]
+      },
+      {
+        "question": "Dün yeni bir kitap {{1}} (satın almak). Şimdi ilk bölümü {{2}} (okumak). Hafta sonuna kadar kitabı bitirmiş {{3}} (olmak).",
+        "reponses": ["satın aldım", "okuyorum", "olacağım"]
+      }
+    ]
+  },
+  {
+    "id": "082",
+    "titre": "Deneyimler ve Beklentiler",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Bu müzeyi daha önce hiç {{1}} (ziyaret etmek). Bugün ilk kez {{2}} (gezmek). Bir dahaki gelişimde daha fazla zaman {{3}} (ayırmak).",
+        "reponses": ["ziyaret etmedim", "geziyorum", "ayıracağım"]
+      },
+      {
+        "question": "Küçükken piyano {{1}} (çalmak). Şimdi yeniden dersler {{2}} (almak). Gelecek yıl bir konserde {{3}} (çalmak).",
+        "reponses": ["çalardım", "alıyorum", "çalacağım"]
+      },
+      {
+        "question": "Geçen yıl çok sayıda makale {{1}} (yazmak). Bu ay yeni bir araştırma {{2}} (yürütmek). Çalışmayı yakında yayımlamayı {{3}} (planlamak).",
+        "reponses": ["yazdım", "yürütüyorum", "planlıyorum"]
+      },
+      {
+        "question": "Daha önce bu sorunu tek başıma {{1}} (çözmek). Şimdi arkadaşlarımdan yardım {{2}} (istemek). Birlikte daha iyi bir çözüm {{3}} (bulmak).",
+        "reponses": ["çözdüm", "istiyorum", "bulacağız"]
+      },
+      {
+        "question": "Eskiden sabahları geç {{1}} (uyanmak). Son aylarda erken {{2}} (kalkmak). Bundan sonra bu alışkanlığı {{3}} (sürdürmek).",
+        "reponses": ["uyanırdım", "kalkıyorum", "sürdüreceğim"]
+      },
+      {
+        "question": "Dün sana birkaç mesaj {{1}} (göndermek). Şimdi cevabını {{2}} (beklemek). Akşama kadar haber vermezsen seni {{3}} (aramak).",
+        "reponses": ["gönderdim", "bekliyorum", "arayacağım"]
+      },
+      {
+        "question": "Bu konuda daha önce hiç {{1}} (araştırma yapmak). Son günlerde farklı kaynakları {{2}} (incelemek). Yakında bulgularımı seninle {{3}} (paylaşmak).",
+        "reponses": ["araştırma yapmadım", "inceliyorum", "paylaşacağım"]
+      },
+      {
+        "question": "Geçen kış sık sık hastalanıp işe {{1}} (gidememek). Bu yıl sağlığıma daha çok {{2}} (dikkat etmek). Kış gelmeden gerekli önlemleri {{3}} (almak).",
+        "reponses": ["gidemedim", "dikkat ediyorum", "alacağım"]
+      },
+      {
+        "question": "Önceden bu kadar kalabalık bir yerde {{1}} (çalışamamak). Şimdi yoğun ortamlara {{2}} (alışmak). Yakında büyük bir şirkette {{3}} (çalışmak).",
+        "reponses": ["çalışamazdım", "alışıyorum", "çalışacağım"]
+      },
+      {
+        "question": "Daha önce hiç uluslararası bir projede {{1}} (görev almak). Şimdi böyle bir projede {{2}} (çalışmak). Bu deneyimin kariyerime katkı sağlayacağını {{3}} (düşünmek).",
+        "reponses": ["görev almadım", "çalışıyorum", "düşünüyorum"]
+      }
+    ]
+  },
+  {
+    "id": "083",
+    "titre": "Olasılıklar ve Varsayımlar",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Daha erken yola {{1}} (çıkmak), trafiğe yakalanmazdık. Şimdi alternatif bir güzergâh {{2}} (aramak). Bir dahaki sefere daha dikkatli {{3}} (davranmak).",
+        "reponses": ["çıksaydık", "arıyoruz", "davranacağız"]
+      },
+      {
+        "question": "Bana önceden haber {{1}} (vermek), sana yardım edebilirdim. Şimdi sorunu birlikte {{2}} (çözmek). Bir daha böyle bir durum yaşanırsa beni hemen {{3}} (aramak).",
+        "reponses": ["verseydin", "çözüyoruz", "ara"]
+      },
+      {
+        "question": "Daha fazla param {{1}} (olmak), kendi işimi kurardım. Şu anda birikim {{2}} (yapmak). Gelecek yıl şirketimi açmayı {{3}} (istemek).",
+        "reponses": ["olsaydı", "yapıyorum", "istiyorum"]
+      },
+      {
+        "question": "Hava güzel {{1}} (olmak), hafta sonu pikniğe gideriz. Şimdilik hava durumunu {{2}} (kontrol etmek). Yağmur yağarsa evde {{3}} (kalmak).",
+        "reponses": ["olursa", "kontrol ediyoruz", "kalacağız"]
+      },
+      {
+        "question": "Biraz daha dikkatli {{1}} (dinlemek), bu hatayı yapmazdın. Şimdi konuyu yeniden {{2}} (açıklamak). Bundan sonra not {{3}} (almak).",
+        "reponses": ["dinleseydin", "açıklıyorum", "alacağım"]
+      },
+      {
+        "question": "Yarın vakit {{1}} (bulmak), seni istasyondan alırım. Şu anda programımı {{2}} (düzenlemek). Kesinleşince sana haber {{3}} (vermek).",
+        "reponses": ["bulursam", "düzenliyorum", "vereceğim"]
+      },
+      {
+        "question": "Daha önce başvuru {{1}} (yapmak), belki kabul edilirdin. Şimdi yeni ilanları {{2}} (takip etmek). Uygun bir fırsat çıkarsa yeniden {{3}} (başvurmak).",
+        "reponses": ["yapsaydın", "takip ediyorum", "başvuracağım"]
+      },
+      {
+        "question": "Biraz daha erken {{1}} (uyumak), sabah kendini daha iyi hissedersin. Son zamanlarda uyku düzenimi {{2}} (değiştirmek). Bu gece erken yatmayı {{3}} (planlamak).",
+        "reponses": ["uyursan", "değiştiriyorum", "planlıyorum"]
+      },
+      {
+        "question": "Bütün şartları {{1}} (bilmek), bu kararı daha kolay verirdik. Şimdi seçenekleri dikkatle {{2}} (incelemek). Sonucu yarın {{3}} (açıklamak).",
+        "reponses": ["bilseydik", "inceliyoruz", "açıklayacağız"]
+      },
+      {
+        "question": "Biletleri önceden {{1}} (almak), daha az para öderdik. Şimdi kalan seçenekleri {{2}} (araştırmak). Yer bulursak hemen {{3}} (rezervasyon yapmak).",
+        "reponses": ["alsaydık", "araştırıyoruz", "rezervasyon yapacağız"]
+      }
+    ]
+  },
+  {
+    "id": "084",
+    "titre": "Günlük Hayatta Değişen Durumlar",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Her sabah işe otobüsle {{1}} (gitmek). Bugün otobüs geciktiği için yürüyerek {{2}} (gitmek). Yarın daha erken evden {{3}} (çıkmak).",
+        "reponses": ["giderim", "gidiyorum", "çıkacağım"]
+      },
+      {
+        "question": "Geçen hafta bilgisayarım {{1}} (bozulmak). Şimdi teknik servis cihazı {{2}} (incelemek). Sorun çözülünce bilgisayarımı geri {{3}} (almak).",
+        "reponses": ["bozuldu", "inceliyor", "alacağım"]
+      },
+      {
+        "question": "Eskiden her gün kahve {{1}} (içmek). Şimdi daha az kahve {{2}} (tüketmek). Yakında tamamen bırakmayı {{3}} (denemek).",
+        "reponses": ["içerdim", "tüketiyorum", "deneyeceğim"]
+      },
+      {
+        "question": "Dün marketten sebze {{1}} (almak). Şimdi akşam yemeğini {{2}} (hazırlamak). Birazdan sofrayı {{3}} (kurmak).",
+        "reponses": ["aldım", "hazırlıyorum", "kuracağım"]
+      },
+      {
+        "question": "Geçen ay yeni bir eve {{1}} (taşınmak). Şimdi eşyalarımı {{2}} (yerleştirmek). Hafta sonu arkadaşlarımı davet {{3}} (etmek).",
+        "reponses": ["taşındım", "yerleştiriyorum", "edeceğim"]
+      },
+      {
+        "question": "Eskiden hafta sonları evde {{1}} (oturmak). Son zamanlarda daha çok dışarı {{2}} (çıkmak). Gelecek hafta bir sergiye {{3}} (gitmek).",
+        "reponses": ["otururdum", "çıkıyorum", "gideceğim"]
+      },
+      {
+        "question": "Sabah telefonumun şarjı {{1}} (bitmek). Şimdi cihazı prize {{2}} (takmak). Bir saat sonra yeniden kullanabilir {{3}} (olmak).",
+        "reponses": ["bitti", "takıyorum", "olacağım"]
+      },
+      {
+        "question": "Dün arkadaşlarımla restoranda {{1}} (buluşmak). Şimdi gelecek buluşmayı {{2}} (planlamak). Bir dahaki sefere farklı bir yer {{3}} (seçmek).",
+        "reponses": ["buluştum", "planlıyorum", "seçeceğiz"]
+      },
+      {
+        "question": "Eskiden alışveriş için çok para {{1}} (harcamak). Şimdi bütçemi dikkatle {{2}} (hazırlamak). Bundan sonra gereksiz masraflardan {{3}} (kaçınmak).",
+        "reponses": ["harcardım", "hazırlıyorum", "kaçınacağım"]
+      },
+      {
+        "question": "Dün odanın penceresini {{1}} (açmak). Şimdi temiz hava içeri {{2}} (girmek). Birazdan pencereyi tekrar {{3}} (kapatmak).",
+        "reponses": ["açtım", "giriyor", "kapatacağım"]
+      }
+    ]
+  },
+  {
+    "id": "085",
+    "titre": "Bilgi, Gözlem ve Çıkarım",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Kapı açık, biri içeri {{1}} (girmek). Işıklar yanıyor, evde biri {{2}} (olmak). Birazdan kimin geldiğini {{3}} (öğrenmek).",
+        "reponses": ["girmiş", "olmalı", "öğreneceğim"]
+      },
+      {
+        "question": "Masada bir kahve fincanı var; biri az önce kahve {{1}} (içmek). Pencere açık, içerisi biraz {{2}} (soğumak). Pencereyi şimdi {{3}} (kapatmak).",
+        "reponses": ["içmiş", "soğuyor", "kapatacağım"]
+      },
+      {
+        "question": "Toplantı odası boş, herkes dışarı {{1}} (çıkmak). Koridordan sesler {{2}} (gelmek). Ne olduğunu gidip {{3}} (sormak).",
+        "reponses": ["çıkmış", "geliyor", "soracağım"]
+      },
+      {
+        "question": "Ali bugün işe gelmedi; hasta {{1}} (olmak). Dün de kendini iyi {{2}} (hissetmemek). Yarın doktora {{3}} (gitmek).",
+        "reponses": ["olabilir", "hissetmiyordu", "gidecek"]
+      },
+      {
+        "question": "Yerde ıslak ayak izleri var; biri dışarıdan {{1}} (gelmek). Ayakkabıları kapının yanında {{2}} (durmak). Birazdan kimin geldiğini {{3}} (sormak).",
+        "reponses": ["gelmiş", "duruyor", "soracağım"]
+      },
+      {
+        "question": "Saat çok geç, çocuklar çoktan {{1}} (uyumak). Ev tamamen sessiz {{2}} (olmak). Ben de birazdan yatağa {{3}} (gitmek).",
+        "reponses": ["uyumuş", "olmalı", "gideceğim"]
+      },
+      {
+        "question": "Bilgisayar açık ve belgeler ekranda {{1}} (görünmek). Birisi dosyaları {{2}} (düzenlemek). Değişiklikleri birazdan {{3}} (kaydetmek).",
+        "reponses": ["görünüyor", "düzenliyor", "kaydedeceğim"]
+      },
+      {
+        "question": "Sokaklar ıslak, gece yağmur {{1}} (yağmak). Gökyüzü hâlâ bulutlu {{2}} (görünmek). Bugün şemsiyemi yanıma {{3}} (almak).",
+        "reponses": ["yağmış", "görünüyor", "alacağım"]
+      },
+      {
+        "question": "Ayşe'nin masasında bir davetiye var; bir etkinliğe {{1}} (davet edilmek). Çok heyecanlı {{2}} (görünmek). Ona ayrıntıları {{3}} (sormak).",
+        "reponses": ["davet edilmiş", "görünüyor", "soracağım"]
+      },
+      {
+        "question": "Otobüs durağında kimse yok; otobüs çoktan {{1}} (geçmek). Bir sonraki otobüs yirmi dakika sonra {{2}} (gelmek). Bu sırada yakındaki kafede {{3}} (beklemek).",
+        "reponses": ["geçmiş olabilir", "gelecek", "bekleyeceğim"]
+      }
+    ]
+  },
+  {
+    "id": "086",
+    "titre": "Planlar, Sözler ve Gereklilikler",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Bu raporu bugün {{1}} (bitirmek) zorundayım. Şimdi son bölümü {{2}} (yazmak). Akşam olmadan dosyayı yöneticime {{3}} (göndermek).",
+        "reponses": ["bitirmek", "yazıyorum", "göndereceğim"]
+      },
+      {
+        "question": "Yarın erken {{1}} (kalkmak) gerekiyor. Şimdi alarmımı {{2}} (kurmak). Sabah kahvaltı yapmadan evden {{3}} (çıkmak).",
+        "reponses": ["kalkmak", "kuruyorum", "çıkacağım"]
+      },
+      {
+        "question": "Sana bu konuda yardım {{1}} (etmek) istiyorum. Şimdi gerekli bilgileri {{2}} (toplamak). Yarın sana ayrıntılı bir açıklama {{3}} (yapmak).",
+        "reponses": ["etmek", "topluyorum", "yapacağım"]
+      },
+      {
+        "question": "Başvuru formunu dikkatlice {{1}} (doldurmak) lazım. Şimdi bütün belgeleri {{2}} (kontrol etmek). Eksik bir şey yoksa başvuruyu {{3}} (tamamlamak).",
+        "reponses": ["doldurmak", "kontrol ediyorum", "tamamlayacağım"]
+      },
+      {
+        "question": "Bu hafta daha düzenli {{1}} (çalışmak) niyetindeyim. Şu anda günlük programımı {{2}} (hazırlamak). Önümüzdeki pazartesi yeni düzene {{3}} (başlamak).",
+        "reponses": ["çalışmak", "hazırlıyorum", "başlayacağım"]
+      },
+      {
+        "question": "Toplantıya zamanında {{1}} (katılmak) için erken çıkmalısın. Ben şimdi ulaşımı {{2}} (planlamak). Seninle girişte {{3}} (buluşmak).",
+        "reponses": ["katılmak", "planlıyorum", "buluşacağım"]
+      },
+      {
+        "question": "Bu sorunu çözmek için daha dikkatli {{1}} (düşünmek) gerekirdi. Şimdi farklı seçenekleri {{2}} (karşılaştırmak). En uygun yöntemi birlikte {{3}} (seçmek).",
+        "reponses": ["düşünmek", "karşılaştırıyoruz", "seçeceğiz"]
+      },
+      {
+        "question": "İş sözleşmesini imzalamadan önce bütün maddeleri {{1}} (okumak) gerekir. Şimdi metni dikkatlice {{2}} (incelemek). Emin olduktan sonra imzanı {{3}} (atmak).",
+        "reponses": ["okumak", "inceliyorum", "atabilirsin"]
+      },
+      {
+        "question": "Daha iyi sonuçlar elde etmek için düzenli {{1}} (alıştırma yapmak) gerekiyor. Ben her gün yarım saat {{2}} (çalışmak). Birkaç ay sonra ilerleme {{3}} (kaydetmek).",
+        "reponses": ["alıştırma yapmak", "çalışıyorum", "kaydedeceğim"]
+      },
+      {
+        "question": "Bu bilgileri kimseyle {{1}} (paylaşmamak) konusunda söz verdim. Belgeleri güvenli bir yerde {{2}} (saklamak). İzin almadan hiçbir dosyayı dışarı {{3}} (göndermemek).",
+        "reponses": ["paylaşmamak", "saklıyorum", "göndermeyeceğim"]
+      }
+    ]
+  },
+  {
+    "id": "087",
+    "titre": "İletişim ve İnsan İlişkileri",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Dün arkadaşımla bir yanlış anlaşılma {{1}} (yaşamak). Şimdi onunla sakin bir şekilde {{2}} (konuşmak). Umarım kısa sürede {{3}} (barışmak).",
+        "reponses": ["yaşadım", "konuşuyorum", "barışırız"]
+      },
+      {
+        "question": "Bana daha önce gerçeği {{1}} (söylemek), sana kızmazdım. Şimdi ne olduğunu {{2}} (anlamak). Bundan sonra daha açık {{3}} (konuşmak).",
+        "reponses": ["söyleseydin", "anlıyorum", "konuşacağız"]
+      },
+      {
+        "question": "Toplantıda herkes kendi fikrini {{1}} (açıklamak). Şu anda ortak bir çözüm {{2}} (aramak). Birazdan kararımızı yönetime {{3}} (bildirmek).",
+        "reponses": ["açıkladı", "arıyoruz", "bildireceğiz"]
+      },
+      {
+        "question": "Eskiden yabancılarla konuşmaya {{1}} (çekinmek). Şimdi yeni insanlarla kolayca {{2}} (tanışmak). Yakında uluslararası bir etkinliğe {{3}} (katılmak).",
+        "reponses": ["çekinirdim", "tanışıyorum", "katılacağım"]
+      },
+      {
+        "question": "Sana mesaj attığımda toplantıda {{1}} (olmak). Şimdi mesajını {{2}} (okumak). Birazdan sana ayrıntılı bir cevap {{3}} (yazmak).",
+        "reponses": ["olabilirdim", "okuyorum", "yazacağım"]
+      },
+      {
+        "question": "Komşularımız geçen hafta yeni eve {{1}} (taşınmak). Şimdi onlarla daha sık {{2}} (görüşmek). Hafta sonu onları kahveye {{3}} (davet etmek).",
+        "reponses": ["taşındılar", "görüşüyoruz", "davet edeceğim"]
+      },
+      {
+        "question": "Beni dikkatlice {{1}} (dinlemek), ne demek istediğimi anlardın. Şimdi konuyu yeniden {{2}} (açıklamak). Bu kez birbirimizi daha iyi {{3}} (anlamak).",
+        "reponses": ["dinleseydin", "açıklıyorum", "anlayacağız"]
+      },
+      {
+        "question": "Öğretmenimiz bize yeni bir görev {{1}} (vermek). Şimdi görevleri kendi aramızda {{2}} (paylaşmak). Çalışmayı cuma gününe kadar {{3}} (bitirmek).",
+        "reponses": ["verdi", "paylaşıyoruz", "bitireceğiz"]
+      },
+      {
+        "question": "Dün seni aradım ama telefona {{1}} (bakmamak). Şimdi neden aradığını {{2}} (merak etmek). Müsait olduğumda seni {{3}} (aramak).",
+        "reponses": ["bakmadın", "merak ediyorum", "arayacağım"]
+      },
+      {
+        "question": "İnsanlar birbirlerine daha fazla {{1}} (saygı göstermek), anlaşmazlıklar azalır. Şimdi bu konu hakkında bir kampanya {{2}} (hazırlamak). Kampanyayı gelecek ay {{3}} (başlatmak).",
+        "reponses": ["saygı gösterirse", "hazırlıyoruz", "başlatacağız"]
+      }
+    ]
+  },
+  {
+    "id": "088",
+    "titre": "Eğitim ve Öğrenme Süreci",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Geçen dönem Türkçe dersine {{1}} (başlamak). Şimdi her gün yeni kelimeler {{2}} (öğrenmek). Yaz sonunda daha akıcı {{3}} (konuşmak).",
+        "reponses": ["başladım", "öğreniyorum", "konuşacağım"]
+      },
+      {
+        "question": "Sınava daha erken {{1}} (hazırlanmak), bu kadar stres yaşamazdın. Şimdi her gün düzenli {{2}} (çalışmak). Yarın deneme sınavına {{3}} (girmek).",
+        "reponses": ["hazırlansaydın", "çalışıyorum", "gireceğim"]
+      },
+      {
+        "question": "Öğretmen konuyu tekrar {{1}} (anlatmak). Öğrenciler dikkatle {{2}} (dinlemek). Dersin sonunda herkes sorularını {{3}} (sormak).",
+        "reponses": ["anlattı", "dinliyor", "soracak"]
+      },
+      {
+        "question": "Çocukken yabancı dil öğrenmeye {{1}} (istek duymak). Şimdi üç farklı dil {{2}} (öğrenmek). Gelecekte bu dilleri iş hayatında {{3}} (kullanmak).",
+        "reponses": ["istek duyardım", "öğreniyorum", "kullanacağım"]
+      },
+      {
+        "question": "Ödevini zamanında {{1}} (teslim etmek) gerekiyor. Şimdi son soruları {{2}} (cevaplamak). Bitirince çalışmanı öğretmene {{3}} (göndermek).",
+        "reponses": ["teslim etmek", "cevaplıyorum", "göndereceğim"]
+      },
+      {
+        "question": "Daha fazla kitap {{1}} (okumak), kelime dağarcığın gelişirdi. Şimdi her hafta bir kitap {{2}} (bitirmek). Bu alışkanlığı gelecek yıl da {{3}} (sürdürmek).",
+        "reponses": ["okusaydın", "bitiriyorum", "sürdüreceğim"]
+      },
+      {
+        "question": "Geçen ay çevrim içi bir kursa {{1}} (kaydolmak). Şimdi ders videolarını {{2}} (izlemek). Sertifikayı dönem sonunda {{3}} (almak).",
+        "reponses": ["kaydoldum", "izliyorum", "alacağım"]
+      },
+      {
+        "question": "Soruyu doğru {{1}} (anlamak) için metni dikkatle okumalısın. Şimdi anahtar kelimeleri {{2}} (belirlemek). Sonra cevabını kendi cümlelerinle {{3}} (yazmak).",
+        "reponses": ["anlamak", "belirliyorum", "yazacağım"]
+      },
+      {
+        "question": "Öğrenciler daha çok pratik {{1}} (yapmak), konuşmaları gelişir. Şu anda sınıfta diyaloglar {{2}} (canlandırmak). Gelecek hafta sunumlar {{3}} (hazırlamak).",
+        "reponses": ["yaparsa", "canlandırıyoruz", "hazırlayacağız"]
+      },
+      {
+        "question": "Daha önce bu konuyu hiç {{1}} (duymamak). Şimdi kaynakları araştırarak konuyu {{2}} (öğrenmek). Yarın öğrendiklerimi sınıfta {{3}} (anlatmak).",
+        "reponses": ["duymadım", "öğreniyorum", "anlatacağım"]
+      }
+    ]
+  },
+  {
+    "id": "089",
+    "titre": "İş Hayatı ve Mesleki Hedefler",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Geçen yıl yeni bir şirkette {{1}} (işe başlamak). Şimdi önemli projeler {{2}} (yönetmek). Gelecek yıl ekip lideri {{3}} (olmak).",
+        "reponses": ["işe başladım", "yönetiyorum", "olacağım"]
+      },
+      {
+        "question": "İş görüşmesine daha iyi {{1}} (hazırlanmak), kendini daha rahat ifade ederdin. Şimdi cevaplarını {{2}} (çalışmak). Yarın görüşmede kendime {{3}} (güvenmek).",
+        "reponses": ["hazırlansaydın", "çalışıyorum", "güveneceğim"]
+      },
+      {
+        "question": "Müdürümüz yeni bir proje {{1}} (önermek). Şimdi proje planını {{2}} (hazırlamak). Önümüzdeki hafta çalışmalara {{3}} (başlamak).",
+        "reponses": ["önerdi", "hazırlıyoruz", "başlayacağız"]
+      },
+      {
+        "question": "Eskiden işimi tek başıma {{1}} (yapmak). Şimdi ekip arkadaşlarımla {{2}} (iş birliği yapmak). Gelecekte daha büyük projelerde {{3}} (çalışmak).",
+        "reponses": ["yapardım", "iş birliği yapıyorum", "çalışacağım"]
+      },
+      {
+        "question": "Raporu dün {{1}} (bitirmek) gerekiyordu. Ancak bazı veriler eksik {{2}} (olmak). Bugün eksik bilgileri tamamlayıp raporu {{3}} (göndermek).",
+        "reponses": ["bitirmek", "oldu", "göndereceğim"]
+      },
+      {
+        "question": "Daha fazla deneyim {{1}} (kazanmak), daha iyi fırsatlar bulabilirdim. Şimdi yeni beceriler {{2}} (geliştirmek). Yakında başka bir pozisyona {{3}} (başvurmak).",
+        "reponses": ["kazansaydım", "geliştiriyorum", "başvuracağım"]
+      },
+      {
+        "question": "Şirketimiz geçen ay yeni çalışanlar {{1}} (işe almak). Şimdi onlara eğitim {{2}} (vermek). Eğitim tamamlanınca kendi görevlerine {{3}} (başlamak).",
+        "reponses": ["işe aldı", "veriyoruz", "başlayacaklar"]
+      },
+      {
+        "question": "Toplantıda fikrimi açıkça {{1}} (belirtmek). Şimdi yöneticinin kararını {{2}} (beklemek). Onay gelirse projeyi hemen {{3}} (uygulamak).",
+        "reponses": ["belirttim", "bekliyorum", "uygulayacağım"]
+      },
+      {
+        "question": "İş yerinde daha dikkatli {{1}} (olmak), bu hatayı önleyebilirdik. Şimdi süreci yeniden {{2}} (incelemek). Benzer sorunları önlemek için yeni kurallar {{3}} (belirlemek).",
+        "reponses": ["olsaydık", "inceliyoruz", "belirleyeceğiz"]
+      },
+      {
+        "question": "Yöneticim benden ayrıntılı bir sunum {{1}} (hazırlamak) istedi. Şimdi gerekli verileri {{2}} (toplamak). Sunumu yarın sabah {{3}} (yapmak).",
+        "reponses": ["hazırlamamı", "topluyorum", "yapacağım"]
+      }
+    ]
+  },
+  {
+    "id": "090",
+    "titre": "Sağlık ve Günlük Alışkanlıklar",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Geçen hafta kendimi iyi {{1}} (hissetmemek). Şimdi daha fazla su {{2}} (içmek). Böyle devam edersem kısa sürede iyileşeceğimi {{3}} (ummak).",
+        "reponses": ["hissetmedim", "içiyorum", "umuyorum"]
+      },
+      {
+        "question": "Düzenli egzersiz {{1}} (yapmak), kendini daha enerjik hissedersin. Şu anda her sabah yürüyüş {{2}} (yapmak). Gelecek ay yüzmeye de {{3}} (başlamak).",
+        "reponses": ["yaparsan", "yapıyorum", "başlayacağım"]
+      },
+      {
+        "question": "Doktor geçen ay bazı testler {{1}} (istemek). Şimdi sonuçları dikkatle {{2}} (incelemek). Gerekirse yeni testler {{3}} (yapmak).",
+        "reponses": ["istedi", "inceliyor", "yapılacak"]
+      },
+      {
+        "question": "Eskiden çok geç {{1}} (yatmak). Son zamanlarda daha erken {{2}} (uyumak). Bu alışkanlığı uzun vadede {{3}} (korumak).",
+        "reponses": ["yatardım", "uyuyorum", "koruyacağım"]
+      },
+      {
+        "question": "Belirtiler birkaç gün daha {{1}} (sürmek), yeniden doktora gitmelisin. Şimdi ilaçlarını düzenli {{2}} (kullanmak). Yarın doktorunla tekrar {{3}} (görüşmek).",
+        "reponses": ["sürerse", "kullanıyorsun", "görüşeceksin"]
+      },
+      {
+        "question": "Daha dengeli {{1}} (beslenmek), kendini daha iyi hissederdin. Şimdi sebze ve meyve tüketimini {{2}} (artırmak). Bundan sonra hazır gıdaları azaltmaya {{3}} (çalışmak).",
+        "reponses": ["beslenseydin", "artırıyorum", "çalışacağım"]
+      },
+      {
+        "question": "Dün başım çok {{1}} (ağrımak). Şimdi biraz dinlenip su {{2}} (içmek). Ağrı geçmezse bir sağlık uzmanına {{3}} (başvurmak).",
+        "reponses": ["ağrıdı", "içiyorum", "başvuracağım"]
+      },
+      {
+        "question": "Geçen yıl düzenli kontrole {{1}} (gitmemek). Şimdi sağlık randevularımı {{2}} (planlamak). Bir sonraki kontrolümü gelecek ay {{3}} (yaptırmak).",
+        "reponses": ["gitmedim", "planlıyorum", "yaptıracağım"]
+      },
+      {
+        "question": "Daha önce alerjin olduğunu {{1}} (bilmek), bu yiyeceği tüketmezdin. Şimdi içindekileri dikkatlice {{2}} (okumak). Emin değilsen ürünü {{3}} (almamak).",
+        "reponses": ["bilseydin", "okuyorsun", "almamalısın"]
+      },
+      {
+        "question": "Düzenli dinlenmek vücudun toparlanmasına {{1}} (yardım etmek). Şimdi günlük çalışma saatlerimi {{2}} (azaltmak). Gece daha erken uyumaya {{3}} (çalışmak).",
+        "reponses": ["yardım eder", "azaltıyorum", "çalışacağım"]
+      }
+    ]
+  },
+  {
+    "id": "091",
+    "titre": "Doğa ve Çevresel Değişimler",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Geçen yaz bölgemizde uzun süre yağmur {{1}} (yağmamak). Şimdi çiftçiler yağışları dikkatle {{2}} (beklemek). Yağmur gelirse tarlaları yeniden {{3}} (ekmek).",
+        "reponses": ["yağmadı", "bekliyor", "ekecekler"]
+      },
+      {
+        "question": "İnsanlar daha az plastik {{1}} (kullanmak), çevre daha temiz olur. Şu anda mahallemizde geri dönüşüm kampanyası {{2}} (yürütmek). Gelecek ay yeni kutular {{3}} (yerleştirmek).",
+        "reponses": ["kullanırsa", "yürütüyoruz", "yerleştireceğiz"]
+      },
+      {
+        "question": "Dün gece şiddetli bir fırtına {{1}} (çıkmak). Şimdi ekipler zarar gören yolları {{2}} (onar­mak). Çalışmaların birkaç gün sürmesi {{3}} (beklenmek).",
+        "reponses": ["çıktı", "onarıyor", "bekleniyor"]
+      },
+      {
+        "question": "Eskiden bu nehir çok temiz {{1}} (olmak). Son yıllarda su kirliliği {{2}} (artmak). Önlem alınmazsa durum daha da {{3}} (kötüleşmek).",
+        "reponses": ["olurdu", "artıyor", "kötüleşecek"]
+      },
+      {
+        "question": "Orman yangını daha erken fark {{1}} (edilmek), daha az alan zarar görürdü. Şimdi ekipler bölgeyi {{2}} (incelemek). Yeni güvenlik önlemleri {{3}} (almak).",
+        "reponses": ["edilseydi", "inceliyor", "alınacak"]
+      },
+      {
+        "question": "Geçen hafta sahilde çok sayıda çöp {{1}} (bulunmak). Gönüllüler bugün kıyıyı {{2}} (temizlemek). Yarın da çevre çalışmalarına devam {{3}} (etmek).",
+        "reponses": ["bulundu", "temizliyor", "edecekler"]
+      },
+      {
+        "question": "Ağaçlar daha fazla {{1}} (dikmek), şehirdeki hava kalitesi iyileşir. Şimdi belediye yeni bir proje {{2}} (hazırlamak). Proje tamamlanınca binlerce fidan {{3}} (dikmek).",
+        "reponses": ["dikilirse", "hazırlıyor", "dikilecek"]
+      },
+      {
+        "question": "Bu bölgede kışın sık sık kar {{1}} (yağmak). Bu yıl hava daha ılıman {{2}} (geçmek). Uzmanlar sıcaklıkların artabileceğini {{3}} (söylemek).",
+        "reponses": ["yağardı", "geçiyor", "söylüyor"]
+      },
+      {
+        "question": "Su kaynaklarını dikkatli {{1}} (kullanmak), kuraklığın etkileri azalır. Şimdi köylüler suyu tasarruflu {{2}} (kullanmak). Gelecek yıl yağmur suyu sistemleri {{3}} (kurmak).",
+        "reponses": ["kullanırsak", "kullanıyor", "kuracaklar"]
+      },
+      {
+        "question": "Dün hava kirliliği nedeniyle görüş mesafesi {{1}} (azalmak). Şimdi yetkililer durumu {{2}} (izlemek). Gerekirse halka uyarı {{3}} (yapmak).",
+        "reponses": ["azaldı", "izliyor", "yapacaklar"]
+      }
+    ]
+  },
+  {
+    "id": "092",
+    "titre": "Teknoloji ve Dijital Yaşam",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Geçen ay yeni bir telefon {{1}} (satın almak). Şimdi özelliklerini {{2}} (öğrenmek). Yakında bütün uygulamalarımı bu cihaza {{3}} (yüklemek).",
+        "reponses": ["satın aldım", "öğreniyorum", "yükleyeceğim"]
+      },
+      {
+        "question": "Dosyalarını düzenli olarak {{1}} (yedeklemek), veri kaybını önlersin. Şimdi belgelerimi buluta {{2}} (yüklemek). Bundan sonra otomatik yedeklemeyi {{3}} (etkinleştirmek).",
+        "reponses": ["yedeklersen", "yüklüyorum", "etkinleştireceğim"]
+      },
+      {
+        "question": "Dün internet bağlantısı {{1}} (kesilmek). Şimdi teknik ekip sorunu {{2}} (araştırmak). Bağlantı kısa süre içinde yeniden {{3}} (sağlanmak).",
+        "reponses": ["kesildi", "araştırıyor", "sağlanacak"]
+      },
+      {
+        "question": "Eskiden çevrim içi alışveriş yapmaya {{1}} (güvenmemek). Şimdi güvenilir siteleri {{2}} (kullanmak). Gelecekte de güvenlik önlemlerine dikkat {{3}} (etmek).",
+        "reponses": ["güvenmezdim", "kullanıyorum", "edeceğim"]
+      },
+      {
+        "question": "Şifreni daha önce {{1}} (değiştirmek), hesabın daha güvenli olurdu. Şimdi yeni bir şifre {{2}} (oluşturmak). Bundan sonra şifreni kimseyle {{3}} (paylaşmamak).",
+        "reponses": ["değiştirseydin", "oluşturuyorsun", "paylaşmamalısın"]
+      },
+      {
+        "question": "Uygulama dün yeni bir sürüm {{1}} (yayımlamak). Şimdi kullanıcılar güncellemeyi {{2}} (indirmek). Kurulum tamamlanınca yeni özellikler kullanılabilir {{3}} (olmak).",
+        "reponses": ["yayımladı", "indiriyor", "olacak"]
+      },
+      {
+        "question": "Daha hızlı bir bilgisayarım {{1}} (olmak), video düzenlemeyi daha kolay yapardım. Şimdi yeni modelleri {{2}} (karşılaştırmak). Önümüzdeki ay bir cihaz {{3}} (satın almak).",
+        "reponses": ["olsaydı", "karşılaştırıyorum", "satın alacağım"]
+      },
+      {
+        "question": "Toplantıya bağlanırken mikrofonum {{1}} (çalışmamak). Şimdi ayarları yeniden {{2}} (kontrol etmek). Bir sonraki toplantıdan önce cihazı {{3}} (test etmek).",
+        "reponses": ["çalışmadı", "kontrol ediyorum", "test edeceğim"]
+      },
+      {
+        "question": "Çevrim içi dersler daha etkileşimli {{1}} (olmak), öğrenciler daha fazla katılır. Şimdi öğretmenler yeni araçları {{2}} (denemek). Dönem sonunda sonuçları {{3}} (değerlendirmek).",
+        "reponses": ["olursa", "deniyor", "değerlendirecekler"]
+      },
+      {
+        "question": "Dün önemli bir belgeyi yanlışlıkla {{1}} (silmek). Şimdi yedeklerden dosyayı {{2}} (kurtarmak). Dosyayı bulunca ayrı bir klasöre {{3}} (kaydetmek).",
+        "reponses": ["sildim", "kurtarmaya çalışıyorum", "kaydedeceğim"]
+      }
+    ]
+  },
+  {
+    "id": "093",
+    "titre": "Seyahat ve Beklenmedik Olaylar",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Geçen yaz İstanbul'a {{1}} (gitmek). Şimdi başka bir gezi için hazırlık {{2}} (yapmak). Gelecek yıl Kapadokya'yı {{3}} (ziyaret etmek).",
+        "reponses": ["gittim", "yapıyorum", "ziyaret edeceğim"]
+      },
+      {
+        "question": "Uçağa daha erken {{1}} (gelmek), check-in işlemini rahatça tamamlardın. Şimdi sırada {{2}} (beklemek). İşlem bitince güvenlik kontrolüne {{3}} (geçmek).",
+        "reponses": ["gelseydin", "bekliyoruz", "geçeceğiz"]
+      },
+      {
+        "question": "Geçen gece otel rezervasyonumuz {{1}} (karışmak). Şimdi resepsiyon görevlisi yeni bir oda {{2}} (bulmak). Birazdan eşyalarımızı odaya {{3}} (taşımak).",
+        "reponses": ["karıştı", "buluyor", "taşıyacağız"]
+      },
+      {
+        "question": "Eskiden tek başıma seyahat etmekten {{1}} (çekinmek). Şimdi farklı ülkelere rahatça {{2}} (gitmek). Gelecek yaz Afrika'yı {{3}} (gezmek).",
+        "reponses": ["çekinirdim", "gidiyorum", "gezeceğim"]
+      },
+      {
+        "question": "Tren çoktan {{1}} (kalkmak) olabilir. Perondaki görevliye şimdi {{2}} (sormak). Sonraki trenin saatini öğrenince bilet {{3}} (almak).",
+        "reponses": ["kalkmış", "soruyorum", "alacağım"]
+      },
+      {
+        "question": "Dün valizimi havaalanında {{1}} (unutmak). Şimdi kayıp eşya bürosuyla {{2}} (iletişim kurmak). Valiz bulunursa otelime {{3}} (göndermek).",
+        "reponses": ["unuttum", "iletişim kuruyorum", "gönderilecek"]
+      },
+      {
+        "question": "Hava güzel {{1}} (olmak), bugün tekne turuna çıkabiliriz. Şimdi biletleri {{2}} (araştırmak). Uygun bir tur bulursak hemen {{3}} (rezervasyon yapmak).",
+        "reponses": ["olursa", "araştırıyoruz", "rezervasyon yapacağız"]
+      },
+      {
+        "question": "Geçen yıl pasaportumu yenilemek için başvuru {{1}} (yapmak). Şimdi yeni pasaportumu {{2}} (beklemek). Belge gelince uçak biletimi {{3}} (almak).",
+        "reponses": ["yaptım", "bekliyorum", "alacağım"]
+      },
+      {
+        "question": "Yol kapalı olduğu için otobüs başka bir güzergâhtan {{1}} (gitmek). Şimdi varış saatimizi {{2}} (hesaplamak). Gecikirsek otele haber {{3}} (vermek).",
+        "reponses": ["gidiyor", "hesaplıyoruz", "vereceğiz"]
+      },
+      {
+        "question": "Daha önce bu ülkeye hiç {{1}} (gelmemek). Şimdi şehrin tarihî merkezini {{2}} (keşfetmek). Gezi sonunda fotoğraflarımı arkadaşlarımla {{3}} (paylaşmak).",
+        "reponses": ["gelmedim", "keşfediyorum", "paylaşacağım"]
+      }
+    ]
+  },
+  {
+    "id": "094",
+    "titre": "Toplumsal Yaşam ve Sorumluluk",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Geçen ay mahallemizde bir yardım kampanyası {{1}} (düzenlemek). Şimdi gönüllüler ihtiyaç sahiplerine destek {{2}} (vermek). Kampanya gelecek hafta da devam {{3}} (etmek).",
+        "reponses": ["düzenlendi", "veriyor", "edecek"]
+      },
+      {
+        "question": "İnsanlar kurallara daha çok {{1}} (uymak), trafik kazaları azalır. Şimdi belediye yeni bir bilinçlendirme çalışması {{2}} (yürütmek). Gelecek ay okullarda eğitimler {{3}} (vermek).",
+        "reponses": ["uyarsa", "yürütüyor", "verilecek"]
+      },
+      {
+        "question": "Dün mahalle sakinleri bir toplantı {{1}} (yapmak). Şimdi ortak sorunları {{2}} (tartışmak). Yakında çözüm önerilerini belediyeye {{3}} (sunmak).",
+        "reponses": ["yaptı", "tartışıyoruz", "sunacağız"]
+      },
+      {
+        "question": "Herkes çevresine daha duyarlı {{1}} (davranmak), toplum daha güçlü olur. Şimdi gençler gönüllü faaliyetlere {{2}} (katılmak). Gelecek ay yeni bir proje {{3}} (başlatmak).",
+        "reponses": ["davranırsa", "katılıyor", "başlatacaklar"]
+      },
+      {
+        "question": "Daha önce bu dernekte gönüllü olarak {{1}} (çalışmak). Şimdi yeni üyelere eğitim {{2}} (vermek). Önümüzdeki dönemde daha fazla kişiye ulaşmayı {{3}} (hedeflemek).",
+        "reponses": ["çalıştım", "veriyorum", "hedefliyorum"]
+      },
+      {
+        "question": "Komşular birbirlerine daha çok {{1}} (yardım etmek), sorunlar daha kolay çözülürdü. Şimdi mahallede dayanışma grubu {{2}} (kurmak). Yakında düzenli toplantılar {{3}} (yapmak).",
+        "reponses": ["yardım etseydi", "kuruyoruz", "yapacağız"]
+      },
+      {
+        "question": "Geçen yıl köyümüzde yeni bir sağlık merkezi {{1}} (açmak). Şimdi merkez daha fazla hastaya hizmet {{2}} (vermek). Gelecek yıl yeni bölümler {{3}} (eklemek).",
+        "reponses": ["açıldı", "veriyor", "eklenecek"]
+      },
+      {
+        "question": "Toplumda ayrımcılık {{1}} (azalmak) için herkes eşit fırsatları desteklemeli. Şimdi bu konuda bir bilgilendirme kampanyası {{2}} (hazırlamak). Kampanya yakında {{3}} (başlamak).",
+        "reponses": ["azalması", "hazırlıyoruz", "başlayacak"]
+      },
+      {
+        "question": "Daha önce yerel seçimlere hiç {{1}} (katılmamak). Bu yıl adayları dikkatle {{2}} (araştırmak). Seçim günü oyumu {{3}} (kullanmak).",
+        "reponses": ["katılmadım", "araştırıyorum", "kullanacağım"]
+      },
+      {
+        "question": "İnsanlar kamu kaynaklarını dikkatli {{1}} (kullanmak), hizmetlerin kalitesi artar. Şimdi harcamalar bağımsız uzmanlar tarafından {{2}} (denetlemek). Sonuçlar halka {{3}} (açıklamak).",
+        "reponses": ["kullanırsa", "denetleniyor", "açıklanacak"]
+      }
+    ]
+  },
+  {
+    "id": "095",
+    "titre": "Karar Verme ve Sonuçları",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Dün önemli bir karar {{1}} (almak). Şimdi sonuçlarını dikkatle {{2}} (değerlendirmek). Birkaç gün sonra nihai kararımı {{3}} (açıklamak).",
+        "reponses": ["aldım", "değerlendiriyorum", "açıklayacağım"]
+      },
+      {
+        "question": "Bütün seçenekleri {{1}} (incelemek), daha doğru bir seçim yapabilirdik. Şimdi avantajları ve dezavantajları {{2}} (karşılaştırmak). Yarın kararımızı {{3}} (vermek).",
+        "reponses": ["inceleseydik", "karşılaştırıyoruz", "vereceğiz"]
+      },
+      {
+        "question": "Bu fırsatı değerlendirirsen kariyerin {{1}} (gelişmek). Şimdi başvuru şartlarını {{2}} (öğrenmek). Uygun olduğumu düşünürsem başvurumu {{3}} (yapmak).",
+        "reponses": ["gelişir", "öğreniyorum", "yapacağım"]
+      },
+      {
+        "question": "Geçen yıl başka bir yol {{1}} (seçmek). Şimdi bu deneyimden ders {{2}} (çıkarmak). Gelecekte daha dikkatli kararlar {{3}} (vermek).",
+        "reponses": ["seçtim", "çıkarıyorum", "vereceğim"]
+      },
+      {
+        "question": "Beni önceden uyarsaydın, bu hatayı {{1}} (yapmamak). Şimdi zararı telafi etmek için yollar {{2}} (aramak). En uygun çözümü bulunca hemen harekete {{3}} (geçmek).",
+        "reponses": ["yapmazdım", "arıyoruz", "geçeceğiz"]
+      },
+      {
+        "question": "Bu konuda acele {{1}} (etmemek) daha iyi olur. Şimdi bütün bilgileri {{2}} (toplamak). Sonra daha bilinçli bir karar {{3}} (vermek).",
+        "reponses": ["etmemek", "topluyorum", "vereceğim"]
+      },
+      {
+        "question": "Yöneticiler önerimizi kabul {{1}} (etmek), yeni projeye başlayabiliriz. Şimdi son ayrıntıları {{2}} (düzenlemek). Onay gelir gelmez çalışmalara {{3}} (başlamak).",
+        "reponses": ["ederse", "düzenliyoruz", "başlayacağız"]
+      },
+      {
+        "question": "Daha önce bu kadar riskli bir yatırım {{1}} (yapmak). Şimdi piyasayı dikkatle {{2}} (izlemek). Şartlar uygun olursa yatırım {{3}} (yapmak).",
+        "reponses": ["yapmadım", "izliyorum", "yapacağım"]
+      },
+      {
+        "question": "Karar vermeden önce uzmanlara {{1}} (danışmak) gerekir. Şimdi birkaç uzmandan görüş {{2}} (almak). Bütün görüşleri değerlendirdikten sonra karar {{3}} (vermek).",
+        "reponses": ["danışmak", "alıyorum", "vereceğim"]
+      },
+      {
+        "question": "Daha planlı {{1}} (çalışmak), hedefimize daha erken ulaşırız. Şimdi haftalık görevleri {{2}} (belirlemek). Her hafta sonuçlarımızı {{3}} (ölçmek).",
+        "reponses": ["çalışırsak", "belirliyoruz", "ölçeceğiz"]
+      }
+    ]
+  },
+  {
+    "id": "096",
+    "titre": "Anlatım ve Olayların Sıralanması",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eve geldiğimde herkes çoktan {{1}} (yemek yemek). Ben de mutfağa {{2}} (geçmek). Sonra birlikte film {{3}} (izlemek).",
+        "reponses": ["yemek yemişti", "geçtim", "izledik"]
+      },
+      {
+        "question": "Otobüsten indiğimde yağmur {{1}} (başlamak). Hemen bir dükkâna {{2}} (sığınmak). Yağmur durunca yoluma devam {{3}} (etmek).",
+        "reponses": ["başlamıştı", "sığındım", "ettim"]
+      },
+      {
+        "question": "Toplantı başladığında müdür sunumunu çoktan {{1}} (hazırlamak). Önce verileri {{2}} (açıklamak). Ardından soruları {{3}} (cevaplamak).",
+        "reponses": ["hazırlamıştı", "açıkladı", "cevapladı"]
+      },
+      {
+        "question": "Ben aradığımda Ayşe evden {{1}} (çıkmak). Ona mesaj {{2}} (göndermek). Eve dönünce beni {{3}} (aramak).",
+        "reponses": ["çıkmıştı", "gönderdim", "aradı"]
+      },
+      {
+        "question": "Tren istasyona vardığında yolcular çoktan {{1}} (binmek). Görevliler kapıları {{2}} (kapatmak). Tren birkaç dakika sonra hareket {{3}} (etmek).",
+        "reponses": ["binmişti", "kapattı", "etti"]
+      },
+      {
+        "question": "Dersi kaçırdığım için öğretmen konuyu yeniden {{1}} (anlatmak). Ben dikkatle {{2}} (dinlemek). Sonunda bütün soruları {{3}} (anlamak).",
+        "reponses": ["anlattı", "dinledim", "anladım"]
+      },
+      {
+        "question": "Misafirler geldiğinde annem yemeği çoktan {{1}} (hazırlamak). Hepimiz masaya {{2}} (oturmak). Yemekten sonra kahve {{3}} (içmek).",
+        "reponses": ["hazırlamıştı", "oturduk", "içtik"]
+      },
+      {
+        "question": "Dosyayı açtığımda bazı sayfalar {{1}} (kaybolmak). Yedek kopyayı {{2}} (bulmak). Eksik sayfaları yeniden {{3}} (eklemek).",
+        "reponses": ["kaybolmuştu", "buldum", "ekledim"]
+      },
+      {
+        "question": "Konuşmacı sahneye çıktığında seyirciler çoktan {{1}} (toplanmak). Herkes sessizce {{2}} (beklemek). Konuşma başlayınca dikkatle {{3}} (dinlemek).",
+        "reponses": ["toplanmıştı", "bekliyordu", "dinledi"]
+      },
+      {
+        "question": "Eve döndüğümüzde elektrik {{1}} (kesilmek). Mumları {{2}} (yakmak). Elektrik gelene kadar sohbet {{3}} (etmek).",
+        "reponses": ["kesilmişti", "yaktık", "ettik"]
+      }
+    ]
+  },
+  {
+    "id": "097",
+    "titre": "İleri Düzey İfade ve Anlam",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Bu konuyu daha önce ayrıntılı biçimde {{1}} (incelemek). Şimdi yeni bulguları eski sonuçlarla {{2}} (karşılaştırmak). Araştırmayı gelecek ay {{3}} (yayımlamak).",
+        "reponses": ["inceledim", "karşılaştırıyorum", "yayımlayacağım"]
+      },
+      {
+        "question": "Rapor zamanında {{1}} (hazırlanmak), yönetim kararını daha erken verebilirdi. Şimdi eksik veriler {{2}} (toplanmak). Rapor en kısa sürede {{3}} (tamamlanmak).",
+        "reponses": ["hazırlansaydı", "toplanıyor", "tamamlanacak"]
+      },
+      {
+        "question": "Uzmanlar bu yöntemin daha etkili {{1}} (olmak) düşünüyor. Şimdi yöntemin sonuçları {{2}} (ölçmek). Kesin değerlendirme daha sonra {{3}} (yapmak).",
+        "reponses": ["olduğunu", "ölçülüyor", "yapılacak"]
+      },
+      {
+        "question": "Gerekli önlemler zamanında {{1}} (alınmak), sorun büyümezdi. Şimdi yeni tedbirler {{2}} (uygulamak). Sonuçlar düzenli olarak {{3}} (izlemek).",
+        "reponses": ["alınsaydı", "uygulanıyor", "izlenecek"]
+      },
+      {
+        "question": "Bu iddianın doğru olup olmadığını {{1}} (bilmek) istiyorum. Şimdi ilgili belgeleri {{2}} (araştırmak). Gerçek ortaya çıkınca kamuoyunu {{3}} (bilgilendirmek).",
+        "reponses": ["bilmek", "araştırıyorum", "bilgilendireceğim"]
+      },
+      {
+        "question": "Daha önce benzer bir sorunla {{1}} (karşılaşmak). Şimdi geçmiş deneyimlerimden {{2}} (yararlanmak). Bu kez daha hızlı bir çözüm {{3}} (bulmak).",
+        "reponses": ["karşılaştım", "yararlanıyorum", "bulacağım"]
+      },
+      {
+        "question": "Bütün taraflar ortak bir noktada {{1}} (buluşmak), anlaşma sağlanabilirdi. Şimdi müzakereler {{2}} (devam etmek). Tarafların yakında uzlaşmaya varması {{3}} (beklenmek).",
+        "reponses": ["buluşsaydı", "devam ediyor", "bekleniyor"]
+      },
+      {
+        "question": "Yeni düzenleme yürürlüğe {{1}} (girmek) birçok süreç değişecek. Şimdi kurumlar gerekli hazırlıkları {{2}} (yapmak). Uygulama gelecek yıl {{3}} (başlamak).",
+        "reponses": ["girince", "yapıyor", "başlayacak"]
+      },
+      {
+        "question": "Bu sonuçlar daha önce {{1}} (duyurulmak), kamuoyunda farklı tartışmalar başlayabilirdi. Şimdi araştırmacılar verileri {{2}} (doğrulamak). Sonuçlar onaylandıktan sonra {{3}} (duyurulmak).",
+        "reponses": ["duyurulsaydı", "doğruluyor", "duyurulacak"]
+      },
+      {
+        "question": "Bu kararın uzun vadeli etkilerini {{1}} (anlamak) için daha fazla veriye ihtiyaç var. Şimdi uzmanlar farklı senaryoları {{2}} (incelemek). Nihai rapor yıl sonunda {{3}} (sunulmak).",
+        "reponses": ["anlamak", "inceliyor", "sunulacak"]
+      }
+    ]
+  },
+  {
+    "id": "098",
+    "titre": "Beklenmedik Durumlar ve Çözümler",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Sunum sırasında bilgisayar aniden {{1}} (kapanmak). Yedek dosyayı başka bir cihazda {{2}} (açmak). Birkaç dakika içinde sunuma devam {{3}} (etmek).",
+        "reponses": ["kapandı", "açıyorum", "edeceğim"]
+      },
+      {
+        "question": "Yağmur daha erken {{1}} (başlamak), pikniğimizi iptal ederdik. Şimdi hava durumunu {{2}} (kontrol etmek). Gerekirse etkinliği kapalı bir alana {{3}} (taşımak).",
+        "reponses": ["başlasaydı", "kontrol ediyoruz", "taşıyacağız"]
+      },
+      {
+        "question": "Önemli belgelerimi evde {{1}} (unutmak). Şimdi bir arkadaşım belgeleri bana {{2}} (getirmek). Evrakları alır almaz başvurumu {{3}} (tamamlamak).",
+        "reponses": ["unuttum", "getiriyor", "tamamlayacağım"]
+      },
+      {
+        "question": "Yol çalışması nedeniyle otobüs {{1}} (gecikmek). Şimdi alternatif ulaşım yollarını {{2}} (araştırmak). Uygun bir seçenek bulursak taksi {{3}} (çağırmak).",
+        "reponses": ["gecikti", "araştırıyoruz", "çağıracağız"]
+      },
+      {
+        "question": "Şifreyi doğru {{1}} (girmek), hesabıma erişebilirdim. Şimdi şifre sıfırlama işlemini {{2}} (başlatmak). Yeni şifremi e-posta yoluyla {{3}} (almak).",
+        "reponses": ["girseydim", "başlatıyorum", "alacağım"]
+      },
+      {
+        "question": "Toplantı salonu dolu olduğu için başka bir oda {{1}} (aramak). Şimdi görevliler uygun bir yer {{2}} (hazırlamak). Toplantı on dakika sonra {{3}} (başlamak).",
+        "reponses": ["gerekti", "hazırlıyor", "başlayacak"]
+      },
+      {
+        "question": "Dün cüzdanımı kaybettiğimi {{1}} (fark etmek). Şimdi kayıp eşya birimini {{2}} (aramak). Cüzdan bulunursa gelip {{3}} (almak).",
+        "reponses": ["fark ettim", "arıyorum", "alacağım"]
+      },
+      {
+        "question": "Elektrik kesintisi uzun süre {{1}} (sürmek), üretim durabilirdi. Şimdi jeneratör {{2}} (çalışmak). Elektrik gelince normal düzene {{3}} (dönmek).",
+        "reponses": ["sürseydi", "çalışıyor", "döneceğiz"]
+      },
+      {
+        "question": "Müşteri yanlış ürünü {{1}} (almak). Şimdi mağaza değişim talebini {{2}} (incelemek). Onay verilirse ürün yenisiyle {{3}} (değiştirmek).",
+        "reponses": ["aldı", "inceliyor", "değiştirilecek"]
+      },
+      {
+        "question": "Sunucuya erişim sağlanamayınca ekip teknik destekten yardım {{1}} (istemek). Şimdi uzmanlar hatayı {{2}} (araştırmak). Sorun giderildiğinde hizmet yeniden {{3}} (başlamak).",
+        "reponses": ["istedi", "araştırıyor", "başlayacak"]
+      }
+    ]
+  },
+  {
+    "id": "099",
+    "titre": "Karmaşık Cümleler ve Bağlam",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eğer bütün belgeleri zamanında {{1}} (teslim etmek), başvurum kabul edilebilirdi. Şimdi eksik evrakları {{2}} (tamamlamak). Yeni dosyayı yarın {{3}} (sunmak).",
+        "reponses": ["teslim etseydim", "tamamlıyorum", "sunacağım"]
+      },
+      {
+        "question": "Araştırmacılar sonuçları doğrulamadan önce verileri {{1}} (incelemek). Şimdi yeni örnekler {{2}} (toplamak). Nihai sonuçlar daha sonra {{3}} (açıklamak).",
+        "reponses": ["incelemişti", "topluyor", "açıklanacak"]
+      },
+      {
+        "question": "İnsanlar kaynakları bilinçli {{1}} (kullanmak), gelecek nesiller de bu kaynaklardan yararlanabilir. Şimdi okullarda çevre bilinci {{2}} (geliştirmek). Yeni programlar gelecek dönem {{3}} (başlatmak).",
+        "reponses": ["kullanırsa", "geliştiriliyor", "başlatılacak"]
+      },
+      {
+        "question": "Yönetici raporu okumadan önce toplantı {{1}} (başlamak). Şimdi raporun son bölümünü {{2}} (hazırlamak). Belge tamamlanınca yönetime {{3}} (göndermek).",
+        "reponses": ["başlamıştı", "hazırlıyorum", "göndereceğim"]
+      },
+      {
+        "question": "Daha fazla zamanımız {{1}} (olmak), bütün ayrıntıları kontrol ederdik. Şimdi en önemli noktaları {{2}} (incelemek). Kalan konuları yarın {{3}} (ele almak).",
+        "reponses": ["olsaydı", "inceliyoruz", "ele alacağız"]
+      },
+      {
+        "question": "Bu karar uygulanmadan önce çalışanlara bilgi {{1}} (vermek) gerekiyordu. Şimdi bilgilendirme toplantıları {{2}} (düzenlemek). Yeni uygulama gelecek ay {{3}} (başlamak).",
+        "reponses": ["vermek", "düzenleniyor", "başlayacak"]
+      },
+      {
+        "question": "Konuşmacı sahneye çıkmadan önce bütün konuklar salona {{1}} (yerleşmek). Şimdi herkes dikkatle {{2}} (dinlemek). Konuşma bitince sorular {{3}} (sormak).",
+        "reponses": ["yerleşmişti", "dinliyor", "sorulacak"]
+      },
+      {
+        "question": "Eğer uyarıyı dikkate {{1}} (almak), bu sorun yaşanmayabilirdi. Şimdi gerekli önlemleri {{2}} (uygulamak). Benzer olayların tekrarlanmaması için süreç {{3}} (değiştirmek).",
+        "reponses": ["alsaydın", "uyguluyoruz", "değiştirilecek"]
+      },
+      {
+        "question": "Bu projenin başarılı {{1}} (olmak) için bütün ekiplerin birlikte çalışması gerekir. Şimdi görev dağılımını {{2}} (yapmak). İlerlemeyi her hafta {{3}} (değerlendirmek).",
+        "reponses": ["olması", "yapıyoruz", "değerlendireceğiz"]
+      },
+      {
+        "question": "Yetkililer gerekli açıklamayı zamanında {{1}} (yapmak), yanlış bilgiler yayılmazdı. Şimdi kamuoyunu doğru bilgilerle {{2}} (bilgilendirmek). Yeni açıklama bugün {{3}} (yayımlamak).",
+        "reponses": ["yapsaydı", "bilgilendiriyoruz", "yayımlanacak"]
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "titre": "İleri Düzey Genel Tekrar",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Geçen yıl bu projede {{1}} (çalışmak). Şimdi yeni bir araştırma {{2}} (yürütmek). Gelecek yıl sonuçları uluslararası bir dergide {{3}} (yayımlamak).",
+        "reponses": ["çalıştım", "yürütüyorum", "yayımlayacağım"]
+      },
+      {
+        "question": "Daha dikkatli {{1}} (davranmak), bu hatayı önleyebilirdin. Şimdi bütün adımları yeniden {{2}} (kontrol etmek). Bir dahaki sefere daha özenli {{3}} (olmak).",
+        "reponses": ["davransaydın", "kontrol ediyorum", "olacağım"]
+      },
+      {
+        "question": "Öğrenciler konuyu daha iyi {{1}} (anlamak) için örnekler çözüyor. Öğretmen şimdi yeni bir yöntem {{2}} (göstermek). Yarın öğrenciler öğrendiklerini uygulamada {{3}} (kullanmak).",
+        "reponses": ["anlamak", "gösteriyor", "kullanacak"]
+      },
+      {
+        "question": "Uzmanlar raporu tamamlamış {{1}} (olmak). Şimdi son veriler {{2}} (doğrulamak). Rapor onaylandıktan sonra kamuoyuna {{3}} (sunmak).",
+        "reponses": ["olabilir", "doğrulanıyor", "sunulacak"]
+      },
+      {
+        "question": "Bu fırsatı daha önce {{1}} (değerlendirmek), şimdi daha iyi bir konumda olurdum. Şu anda yeni imkânları {{2}} (araştırmak). Uygun bir fırsat bulursam hemen {{3}} (başvurmak).",
+        "reponses": ["değerlendirseydim", "araştırıyorum", "başvuracağım"]
+      },
+      {
+        "question": "Toplantı başlamadan önce bütün belgeler {{1}} (dağıtılmak). Şimdi katılımcılar belgeleri {{2}} (incelemek). Tartışma bittikten sonra kararlar {{3}} (kaydetmek).",
+        "reponses": ["dağıtılmıştı", "inceliyor", "kaydedilecek"]
+      },
+      {
+        "question": "Herkes sorumluluğunu yerine {{1}} (getirmek), ekip daha verimli çalışır. Şimdi görevler yeniden {{2}} (düzenlemek). Sonuçlar ay sonunda {{3}} (değerlendirmek).",
+        "reponses": ["getirirse", "düzenleniyor", "değerlendirilecek"]
+      },
+      {
+        "question": "Dün gece elektrik {{1}} (kesilmek), çalışmamı tamamlayamadım. Şimdi dosyalarımı yeniden {{2}} (düzenlemek). Yedekleme yaptıktan sonra çalışmaya devam {{3}} (etmek).",
+        "reponses": ["kesildiği için", "düzenliyorum", "edeceğim"]
+      },
+      {
+        "question": "Bu konuyu daha önce hiç {{1}} (duymamak). Şimdi farklı kaynaklardan bilgi {{2}} (edinmek). Araştırmam tamamlanınca öğrendiklerimi arkadaşlarımla {{3}} (paylaşmak).",
+        "reponses": ["duymamıştım", "ediniyorum", "paylaşacağım"]
+      },
+      {
+        "question": "İnsanlar farklı görüşlere saygı {{1}} (göstermek), daha sağlıklı tartışmalar yapılır. Şimdi öğrenciler bu konuda bir münazara {{2}} (hazırlamak). Etkinlik gelecek hafta {{3}} (düzenlemek).",
+        "reponses": ["gösterirse", "hazırlıyor", "düzenlenecek"]
+      }
+    ]
   }
 ]
 
