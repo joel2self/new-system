@@ -649,9 +649,9 @@
   },
    {
     "id": "001",
-    "titre": "Exercice 001",
-    "definition": "Complétez chaque phrase en conjuguant correctement les deux verbes selon le contexte.",
-    "instruction": "Conjuguez les deux verbes entre parenthèses.",
+    "titre": "المضارع والماضي",
+    "definition": "التعبير عن الأفعال الجارية والأحداث التي وقعت في الماضي.",
+    "instruction": "صرّف الفعلين بين القوسين بما يتناسب مع سياق الجملة.",
     "questions": [
       {"question": "أنا {{1}} العربية كل يوم، وقد {{2}} هذه اللغة منذ سنوات. (تعلّم، درس)", "reponses": ["أتعلم", "درست"]},
       {"question": "هي {{1}} في المستشفى الآن، وقد {{2}} هناك منذ الصباح. (يعمل، وصل)", "reponses": ["تعمل", "وصلت"]},
@@ -667,9 +667,9 @@
   },
   {
     "id": "002",
-    "titre": "Exercice 002",
-    "definition": "Choisissez les formes verbales qui correspondent à la chronologie exprimée dans chaque phrase.",
-    "instruction": "Complétez les deux espaces avec les formes correctes.",
+    "titre": "الماضي وترتيب الأحداث",
+    "definition": "التعبير عن الأحداث الماضية مع مراعاة ترتيب وقوعها.",
+    "instruction": "أكمل الفراغين بصيغتي الفعلين المناسبتين للسياق.",
     "questions": [
       {"question": "عندما {{1}} إلى المحطة، كان القطار قد {{2}} بالفعل. (يصل، غادر)", "reponses": ["وصلت", "غادر"]},
       {"question": "بعد أن {{1}} التقرير، {{2}} المديرَ لمناقشته. (ينهي، اتصل)", "reponses": ["أنهيت", "اتصلت"]},
@@ -685,9 +685,10 @@
   },
   {
     "id": "003",
-    "titre": "Exercice 003",
-    "definition": "Complétez les phrases en tenant compte des actions habituelles et des événements déjà accomplis.",
-    "instruction": "Conjuguez les verbes entre parenthèses.",
+    "id": "003",
+    "titre": "الماضي المعتاد والمضارع",
+    "definition": "التعبير عن العادات في الماضي والحاضر والأفعال المستمرة.",
+    "instruction": "صرّف الأفعال بين القوسين وفقًا لمعنى الجملة.",
     "questions": [
       {"question": "كان أبي {{1}} في شركة دولية، لكنه الآن {{2}} في جامعة. (يعمل، يدرّس)", "reponses": ["يعمل", "يدرّس"]},
       {"question": "في طفولتي، {{1}} كثيرًا في هذا الحي، أما الآن فأنا {{2}} بعيدًا عنه. (يلعب، يسكن)", "reponses": ["لعبت", "أسكن"]},
@@ -703,9 +704,9 @@
   },
   {
     "id": "004",
-    "titre": "Exercice 004",
-    "definition": "Utilisez les indices de temps et le sens de la phrase pour choisir la bonne conjugaison.",
-    "instruction": "Complétez chaque phrase sans changer le sens.",
+    "titre": "الماضي والمضارع والمستقبل",
+    "definition": "استخدام القرائن الزمنية لتحديد زمن الفعل المناسب.",
+    "instruction": "أكمل كل جملة مع الحفاظ على معناها.",
     "questions": [
       {"question": "أمس {{1}} إلى المكتبة، واليوم {{2}} كتابًا جديدًا. (ذهب، أقرأ)", "reponses": ["ذهبت", "أقرأ"]},
       {"question": "في الأسبوع الماضي {{1}} رسالة، والآن {{2}} ردًّا عليها. (أرسل، أنتظر)", "reponses": ["أرسلت", "أنتظر"]},
@@ -738,10 +739,10 @@
     ]
   },
   {
-    "id": "006",
-    "titre": "Exercice 006",
-    "definition": "Exprimez des situations possibles en tenant compte de leurs conditions.",
-    "instruction": "Complétez les deux espaces avec les formes appropriées.",
+    "id": "005",
+    "titre": "المستقبل والمستقبل التام",
+    "definition": "التعبير عن الأحداث المستقبلية وما سيكون قد اكتمل قبل وقت محدد.",
+    "instruction": "صرّف الفعلين بما يتناسب مع الترتيب الزمني للأحداث.",
     "questions": [
       {"question": "إذا {{1}} مبكرًا، {{2}} القطار في موعده. (تستيقظ، تدرك)", "reponses": ["استيقظت", "ستدرك"]},
       {"question": "لو {{1}} أكثر، {{2}} نتيجة أفضل. (تدرس، تحقق)", "reponses": ["درست", "لحققت"]},
@@ -756,10 +757,10 @@
     ]
   },
   {
-    "id": "007",
-    "titre": "Exercice 007",
-    "definition": "Complétez les phrases exprimant un souhait, un regret ou une situation imaginée.",
-    "instruction": "Choisissez les formes verbales qui conviennent au contexte.",
+   "id": "006",
+    "titre": "أسلوب الشرط والنتيجة",
+    "definition": "التعبير عن النتائج المحتملة والافتراضية باستخدام أساليب الشرط.",
+    "instruction": "أكمل الفراغين بصيغتي الفعلين الملائمتين لمعنى الشرط.",
     "questions": [
       {"question": "أتمنى أن {{1}} إلى بلدي قريبًا، وليتني {{2}} هناك الآن. (أعود، أكون)", "reponses": ["أعود", "كنت"]},
       {"question": "أرجو أن {{1}} الأمور بخير، وليتني {{2}} مساعدتك أمس. (تكون، أستطيع)", "reponses": ["تكون", "استطعت"]},
@@ -774,10 +775,10 @@
     ]
   },
   {
-    "id": "008",
-    "titre": "Exercice 008",
-    "definition": "Choisissez les formes verbales adaptées aux événements présents, futurs et hypothétiques.",
-    "instruction": "Conjuguez les verbes sans modifier le sens de la phrase.",
+    "id": "007",
+    "titre": "التمني والرجاء والندم",
+    "definition": "التعبير عن الأمنيات والآمال والندم على أحداث ماضية.",
+    "instruction": "اختر صيغ الأفعال المناسبة للتعبير عن المعنى المقصود.",
     "questions": [
       {"question": "أنا {{1}} الآن، وإذا انتهيت مبكرًا {{2}} إليك. (أعمل، سأتصل)", "reponses": ["أعمل", "سأتصل"]},
       {"question": "هي {{1}} اللغة كل يوم، وإذا واصلت التدريب {{2}} بطلاقة. (تتعلّم، ستتحدث)", "reponses": ["تتعلم", "ستتحدث"]},
@@ -792,10 +793,10 @@
     ]
   },
   {
-    "id": "009",
-    "titre": "Exercice 009",
-    "definition": "Tenez compte des liens entre une action passée et une action actuelle ou future.",
-    "instruction": "Complétez les phrases avec les formes verbales appropriées.",
+    "id": "008",
+    "titre": "المضارع والمستقبل والشرط",
+    "definition": "استخدام صيغ الأفعال للتعبير عن الحاضر والمستقبل والافتراضات.",
+    "instruction": "صرّف الأفعال دون تغيير معنى الجملة.",
     "questions": [
       {"question": "لقد {{1}} الرسالة، والآن {{2}} الرد. (أرسل، أنتظر)", "reponses": ["أرسلت", "أنتظر"]},
       {"question": "قد {{1}} الاجتماع، وسنعود إلى العمل عندما {{2}} المدير. (انتهى، يصل)", "reponses": ["انتهى", "يصل"]},
@@ -810,10 +811,10 @@
     ]
   },
   {
-    "id": "010",
-    "titre": "Exercice 010",
-    "definition": "Complétez chaque phrase en respectant la succession des événements et les indices du contexte.",
-    "instruction": "Conjuguez les deux verbes entre parenthèses.",
+    "id": "009",
+    "titre": "العلاقة بين الماضي والحاضر والمستقبل",
+    "definition": "ربط الأحداث الماضية بالأفعال الجارية والنتائج المستقبلية.",
+    "instruction": "أكمل الجمل بصيغ الأفعال المناسبة للسياق.",
     "questions": [
       {"question": "بينما {{1}} في المكتبة، {{2}} صديقي القديم. (أقرأ، قابلت)", "reponses": ["كنت أقرأ", "قابلت"]},
       {"question": "بعد أن {{1}} من العمل، {{2}} العشاء مع عائلتي. (أعود، تناولت)", "reponses": ["عدت", "تناولت"]},
@@ -828,10 +829,10 @@
     ]
   },
    {
-    "id": "011",
-    "titre": "Exercice 011",
-    "definition": "",
-    "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
+    "id": "010",
+    "titre": "تتابع الأزمنة في الجملة",
+    "definition": "تحديد صيغ الأفعال وفق ترتيب الأحداث والقرائن الزمنية.",
+    "instruction": "صرّف الفعلين بين القوسين وفقًا لسياق الجملة.",
     "questions": [
       {"question": "لو {{1}} مبكرًا، لما {{2}} الحافلة. (يستيقظ، يفوّت)", "reponses": ["استيقظت", "فاتتني"]},
       {"question": "أتمنى أن {{1}} قريبًا وأن {{2}} معي. (تعود، تبقى)", "reponses": ["تعود", "تبقى"]},
@@ -847,7 +848,7 @@
   },
   {
     "id": "012",
-    "titre": "Exercice 012",
+    "titre": "الماضي المستمر + الماضي البسيط",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -865,7 +866,7 @@
   },
   {
     "id": "013",
-    "titre": "Exercice 013",
+    "titre": "الماضي البسيط + الماضي التام",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -883,7 +884,7 @@
   },
   {
     "id": "014",
-    "titre": "Exercice 014",
+    "titre": "الماضي البسيط",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -901,7 +902,7 @@
   },
   {
     "id": "015",
-    "titre": "Exercice 015",
+    "titre": "المستقبل البسيط",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -919,7 +920,7 @@
   },
   {
     "id": "016",
-    "titre": "Exercice 016",
+    "titre": "المستقبل التام",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -937,7 +938,7 @@
   },
   {
     "id": "017",
-    "titre": "Exercice 017",
+    "titre": "الشرط في الحاضر والمستقبل",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -955,7 +956,7 @@
   },
   {
     "id": "018",
-    "titre": "Exercice 018",
+    "titre": "الشرط في الماضي والندم على الماضي",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -973,7 +974,7 @@
   },
   {
     "id": "019",
-    "titre": "Exercice 019",
+    "titre": "المضارع بعد أدوات التمني والرجاء",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1009,7 +1010,7 @@
   },
   {
     "id": "021",
-    "titre": "Exercice 021",
+    "titre": "الماضي المستمر + الماضي البسيط",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1027,7 +1028,7 @@
   },
   {
     "id": "022",
-    "titre": "Exercice 022",
+    "titre": "الماضي البسيط",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1045,7 +1046,7 @@
   },
   {
     "id": "023",
-    "titre": "Exercice 023",
+    "titre": "الماضي المستمر + الماضي البسيط لتتابع الأحداث",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1063,7 +1064,7 @@
   },
   {
     "id": "024",
-    "titre": "Exercice 024",
+    "titre": "الماضي المستمر + الماضي البسيط",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1081,7 +1082,7 @@
   },
   {
     "id": "025",
-    "titre": "Exercice 025",
+    "titre": "المستقبل البسيط + المستقبل التام",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1099,7 +1100,7 @@
   },
   {
     "id": "026",
-    "titre": "Exercice 026",
+    "titre": "الشرط في الحاضر والمستقبل",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1117,7 +1118,7 @@
   },
   {
     "id": "027",
-    "titre": "Exercice 027",
+    "titre": "الشرط في الماضي",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1135,7 +1136,7 @@
   },
   {
     "id": "028",
-    "titre": "Exercice 028",
+    "titre": "المضارع بعد أدوات التمني والرجاء",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1153,7 +1154,7 @@
   },
   {
     "id": "029",
-    "titre": "Exercice 029",
+    "titre": "التمني والافتراض والندم",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1171,7 +1172,7 @@
   },
   {
     "id": "030",
-    "titre": "Exercice 030",
+    "titre": "الماضي المستمر + الماضي البسيط لتتابع الأحداث",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1189,7 +1190,7 @@
   },
   {
     "id": "031",
-    "titre": "Exercice 031",
+    "titre": "الماضي البسيط + الماضي التام",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1207,7 +1208,7 @@
   },
   {
     "id": "032",
-    "titre": "Exercice 032",
+    "titre": "الماضي التام",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1225,7 +1226,7 @@
   },
   {
     "id": "033",
-    "titre": "Exercice 033",
+    "titre": "المستقبل البسيط",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1243,7 +1244,7 @@
   },
   {
     "id": "034",
-    "titre": "Exercice 034",
+    "titre": "الشرط في الحاضر والمستقبل",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
@@ -1261,7 +1262,7 @@
   },
   {
     "id": "035",
-    "titre": "Exercice 035",
+    "titre": "الشرط في الماضي",
     "definition": "",
     "instruction": "أكمل الجمل بالصيغة المناسبة للفعلين بين قوسين.",
     "questions": [
