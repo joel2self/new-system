@@ -1108,5 +1108,476 @@
         "reponses": ["düşünürdüm", "karar verseydim"]
       }
     ]
+  },
+  {
+    "id": "031",
+    "titre": "Şimdiki zaman – Yakın geçmiş zaman – Geçmişte süreklilik bildiren zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi kitap {{1}} (okumak). Az önce bir makale {{2}} (bitirmek). Çocukken her akşam kitap {{3}} (okumak).",
+        "reponses": ["okuyorum", "bitirdim", "okurdum"]
+      },
+      {
+        "question": "Ayşe şu anda yemek {{1}} (pişirmek). Biraz önce pazardan {{2}} (dönmek). Eskiden her gün evde yemek {{3}} (pişirmek).",
+        "reponses": ["pişiriyor", "döndü", "pişirirdi"]
+      },
+      {
+        "question": "Biz şimdi Türkçe {{1}} (öğrenmek). Dün yeni kelimeler {{2}} (öğrenmek). Geçen yıl her gün Türkçe {{3}} (çalışmak).",
+        "reponses": ["öğreniyoruz", "öğrendik", "çalışıyorduk"]
+      },
+      {
+        "question": "Çocuklar bahçede {{1}} (oynamak). Az önce dışarı {{2}} (çıkmak). Küçükken burada her akşam {{3}} (oynamak).",
+        "reponses": ["oynuyorlar", "çıktılar", "oynarlardı"]
+      },
+      {
+        "question": "Müdür şu anda bir toplantı {{1}} (yönetmek). Sabah önemli bir karar {{2}} (vermek). Eskiden toplantıları kendisi {{3}} (yönetmek).",
+        "reponses": ["yönetiyor", "verdi", "yönetirdi"]
+      },
+      {
+        "question": "Ben şimdi e-postalarımı {{1}} (kontrol etmek). Biraz önce müşteriye cevap {{2}} (yazmak). Önceden her sabah bütün mesajlarımı {{3}} (okumak).",
+        "reponses": ["kontrol ediyorum", "yazdım", "okurdum"]
+      },
+      {
+        "question": "Öğrenciler şu anda sınava {{1}} (hazırlanmak). Dün bütün konuları {{2}} (tekrar etmek). Geçen dönem her akşam birlikte {{3}} (çalışmak).",
+        "reponses": ["hazırlanıyorlar", "tekrar ettiler", "çalışırlardı"]
+      },
+      {
+        "question": "Babam şimdi arabayı {{1}} (tamir etmek). Sabah yedek parça {{2}} (satın almak). Eskiden bütün arabalarını kendi {{3}} (tamir etmek).",
+        "reponses": ["tamir ediyor", "satın aldı", "tamir ederdi"]
+      },
+      {
+        "question": "Doktor şu anda hastayı {{1}} (muayene etmek). Biraz önce başka bir hastayı {{2}} (muayene etmek). Geçmişte aynı hastanede her gün onlarca hastayı {{3}} (muayene etmek).",
+        "reponses": ["muayene ediyor", "muayene etti", "muayene ederdi"]
+      },
+      {
+        "question": "Biz şu anda yeni bir proje üzerinde {{1}} (çalışmak). Geçen hafta ilk raporu {{2}} (hazırlamak). Eskiden bu tür projelerde birlikte {{3}} (çalışmak).",
+        "reponses": ["çalışıyoruz", "hazırladık", "çalışırdık"]
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Şimdiki zaman – Yakın geçmiş zaman – Uzak geçmiş zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi kahve {{1}} (içmek). Az önce çay {{2}} (içmek). Dedem gençliğinde hiç kahve {{3}} (içmemek).",
+        "reponses": ["içiyorum", "içtim", "içmezmiş"]
+      },
+      {
+        "question": "Ayşe şu anda kitap {{1}} (okumak). Dün yeni bir roman {{2}} (satın almak). Bu yazarın ilk kitabı yıllar önce {{3}} (yayımlanmak).",
+        "reponses": ["okuyor", "satın aldı", "yayımlanmış"]
+      },
+      {
+        "question": "Biz şimdi İstanbul'da {{1}} (yaşamak). Geçen ay Ankara'yı {{2}} (ziyaret etmek). Ailemiz eskiden küçük bir köyde {{3}} (yaşamak).",
+        "reponses": ["yaşıyoruz", "ziyaret ettik", "yaşarmış"]
+      },
+      {
+        "question": "Çocuklar şimdi bahçede {{1}} (koşmak). Biraz önce futbol {{2}} (oynamak). Babaları çocukken çok hızlı {{3}} (koşmak).",
+        "reponses": ["koşuyorlar", "oynadılar", "koşarmış"]
+      },
+      {
+        "question": "Öğretmen şu anda dersi {{1}} (anlatmak). Az önce öğrencilere bir soru {{2}} (sormak). Bu öğretmen eskiden başka bir şehirde {{3}} (çalışmak).",
+        "reponses": ["anlatıyor", "sordu", "çalışmış"]
+      },
+      {
+        "question": "Ben şimdi evi {{1}} (temizlemek). Sabah mutfağı {{2}} (temizlemek). Bu evin önceki sahibi burada uzun yıllar {{3}} (oturmak).",
+        "reponses": ["temizliyorum", "temizledim", "oturmuş"]
+      },
+      {
+        "question": "Mühendisler şu anda köprüyü {{1}} (incelemek). Dün ilk testleri {{2}} (yapmak). Bu köprü yıllar önce başka bir ekip tarafından {{3}} (tasarlanmak).",
+        "reponses": ["inceliyorlar", "yaptılar", "tasarlanmış"]
+      },
+      {
+        "question": "Sen şimdi müzik {{1}} (dinlemek). Biraz önce yeni şarkıyı {{2}} (keşfetmek). Bu şarkı eskiden çok popüler {{3}} (olmak).",
+        "reponses": ["dinliyorsun", "keşfettin", "olmuş"]
+      },
+      {
+        "question": "Doktor şu anda hastayla {{1}} (konuşmak). Sabah tahlil sonuçlarını {{2}} (incelemek). Hastanın daha önce benzer şikâyetleri {{3}} (olmak).",
+        "reponses": ["konuşuyor", "inceledi", "olmuş"]
+      },
+      {
+        "question": "Biz şimdi yeni bir dil {{1}} (öğrenmek). Geçen hafta ilk dersimizi {{2}} (tamamlamak). Bu dilin bölgede yüzyıllardır {{3}} (konuşulmak) olduğu söyleniyor.",
+        "reponses": ["öğreniyoruz", "tamamladık", "konuşulmuş"]
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Şimdiki zaman – Geçmişte süreklilik bildiren zaman – Uzak geçmiş zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi Türkçe {{1}} (öğrenmek). Geçen yıl her gün Türkçe {{2}} (çalışmak). Dedem gençliğinde yabancı dil {{3}} (bilmemek).",
+        "reponses": ["öğreniyorum", "çalışıyordum", "bilmezmiş"]
+      },
+      {
+        "question": "Ayşe şu anda hastanede {{1}} (çalışmak). Geçen yıl aynı bölümde gece gündüz {{2}} (çalışmak). Hastane eskiden küçük bir klinik {{3}} (olmak).",
+        "reponses": ["çalışıyor", "çalışıyordu", "imiş"]
+      },
+      {
+        "question": "Biz şimdi bu konuyu {{1}} (araştırmak). Dün bütün gün kaynakları {{2}} (incelemek). Bu konu eskiden çok az {{3}} (bilinmek).",
+        "reponses": ["araştırıyoruz", "inceliyorduk", "bilinirmiş"]
+      },
+      {
+        "question": "Çocuklar şimdi okulda {{1}} (öğrenmek). Geçen yıl yeni bir öğretmenle {{2}} (çalışmak). Öğretmenlerinin çok sabırlı biri {{3}} (olmak) söyleniyor.",
+        "reponses": ["öğreniyorlar", "çalışıyorlardı", "olduğu"]
+      },
+      {
+        "question": "Ben şu anda eski fotoğraflara {{1}} (bakmak). Dün akşam albümü saatlerce {{2}} (incelemek). Bu fotoğraflar büyükbabam tarafından {{3}} (çekilmek).",
+        "reponses": ["bakıyorum", "inceliyordum", "çekilmiş"]
+      },
+      {
+        "question": "Müdür şimdi çalışanlarla {{1}} (görüşmek). Sabah boyunca yeni planı {{2}} (tartışmak). Şirketin ilk yıllarda çok küçük {{3}} (olmak) anlatılıyor.",
+        "reponses": ["görüşüyor", "tartışıyordu", "olduğu"]
+      },
+      {
+        "question": "Biz şimdi bu şehirde {{1}} (yaşamak). Üniversitedeyken başka bir şehirde {{2}} (oturmak). Bu şehrin adının çok eski bir kelimeden {{3}} (gelmek) söyleniyor.",
+        "reponses": ["yaşıyoruz", "oturuyorduk", "geldiği"]
+      },
+      {
+        "question": "Öğrenci şimdi makalesini {{1}} (yazmak). Dün gece de aynı konu üzerinde {{2}} (çalışmak). Bu fikri ilk kez yıllar önce başka bir araştırmacı {{3}} (ortaya atmak).",
+        "reponses": ["yazıyor", "çalışıyordu", "ortaya atmış"]
+      },
+      {
+        "question": "Doktor şu anda hastaları {{1}} (dinlemek). Sabah boyunca acil serviste {{2}} (çalışmak). Bu hastanenin yüz yıl önce {{3}} (kurulmak) olduğu biliniyor.",
+        "reponses": ["dinliyor", "çalışıyordu", "kurulmuş"]
+      },
+      {
+        "question": "Ben şimdi bir belgesel {{1}} (izlemek). Dün gece de aynı yönetmenin filmlerini {{2}} (izlemek). Yönetmenin ilk filminin yıllar önce ödül {{3}} (kazanmak) olduğu söyleniyor.",
+        "reponses": ["izliyorum", "izliyordum", "kazandığı"]
+      }
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "Şimdiki zaman – Belirli geçmiş zaman – Geçmişte süreklilik bildiren zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi yemek {{1}} (yemek). Öğle yemeğini bir saat önce {{2}} (yemek). Dün bu saatte de yemek {{3}} (yemek).",
+        "reponses": ["yiyorum", "yedim", "yiyordum"]
+      },
+      {
+        "question": "Ayşe şu anda rapor {{1}} (yazmak). Sabah ilk bölümü {{2}} (tamamlamak). Dün akşam da rapor üzerinde {{3}} (çalışmak).",
+        "reponses": ["yazıyor", "tamamladı", "çalışıyordu"]
+      },
+      {
+        "question": "Biz şimdi otobüsü {{1}} (beklemek). Biraz önce biletlerimizi {{2}} (almak). On dakika önce de durakta {{3}} (beklemek).",
+        "reponses": ["bekliyoruz", "aldık", "bekliyorduk"]
+      },
+      {
+        "question": "Çocuklar şimdi resim {{1}} (çizmek). Sabah öğretmenleriyle bir resim {{2}} (çizmek). Dün sınıfta saatlerce resim {{3}} (çizmek).",
+        "reponses": ["çiziyorlar", "çizdiler", "çiziyorlardı"]
+      },
+      {
+        "question": "Ben şimdi kahvaltı {{1}} (hazırlamak). Az önce yumurtaları {{2}} (pişirmek). Sen geldiğinde mutfakta kahvaltı {{3}} (hazırlamak).",
+        "reponses": ["hazırlıyorum", "pişirdim", "hazırlıyordum"]
+      },
+      {
+        "question": "Müdür şimdi çalışanlarla {{1}} (konuşmak). Biraz önce toplantıyı {{2}} (bitirmek). Sen aradığında toplantıda {{3}} (konuşmak).",
+        "reponses": ["konuşuyor", "bitirdi", "konuşuyordu"]
+      },
+      {
+        "question": "Öğrenciler şimdi sınava {{1}} (girmek). Geçen hafta deneme sınavını {{2}} (tamamlamak). Dün bütün akşam sınava {{3}} (hazırlanmak).",
+        "reponses": ["giriyorlar", "tamamladılar", "hazırlanıyorlardı"]
+      },
+      {
+        "question": "Doktor şu anda hastayı {{1}} (muayene etmek). Sabah iki hastayı {{2}} (muayene etmek). Sen geldiğinde başka bir hastayı {{3}} (muayene etmek).",
+        "reponses": ["muayene ediyor", "muayene etti", "muayene ediyordu"]
+      },
+      {
+        "question": "Biz şimdi evi {{1}} (taşımak). Dün bazı kutuları {{2}} (taşımak). Sen bizi gördüğünde ağır mobilyaları {{3}} (taşımak).",
+        "reponses": ["taşıyoruz", "taşıdık", "taşıyorduk"]
+      },
+      {
+        "question": "Sen şimdi müzik {{1}} (dinlemek). Sabah yeni albümü {{2}} (indirmek). Ben seni aradığımda müzik {{3}} (dinlemek).",
+        "reponses": ["dinliyorsun", "indirdin", "dinliyordun"]
+      }
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "Şimdiki zaman – Belirli geçmiş zaman – Uzak geçmiş zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi bu kitabı {{1}} (okumak). Dün ilk bölümünü {{2}} (bitirmek). Yazarın ilk romanı yıllar önce {{3}} (yayımlanmak).",
+        "reponses": ["okuyorum", "bitirdim", "yayımlanmış"]
+      },
+      {
+        "question": "Biz şu anda müzeyi {{1}} (gezmek). Sabah tarihi sergiyi {{2}} (görmek). Müze uzun yıllar önce {{3}} (açılmak).",
+        "reponses": ["geziyoruz", "gördük", "açılmış"]
+      },
+      {
+        "question": "Ayşe şimdi yeni bir dil {{1}} (öğrenmek). Geçen ay ilk kursunu {{2}} (bitirmek). Bu dilin bölgede yüzyıllardır {{3}} (konuşulmak) olduğu biliniyor.",
+        "reponses": ["öğreniyor", "bitirdi", "konuşulmuş"]
+      },
+      {
+        "question": "Mühendisler şu anda binayı {{1}} (incelemek). Dün çatlakları {{2}} (tespit etmek). Binanın yüz yıl önce {{3}} (inşa edilmek) olduğu söyleniyor.",
+        "reponses": ["inceliyorlar", "tespit ettiler", "inşa edilmiş"]
+      },
+      {
+        "question": "Ben şimdi eski belgeleri {{1}} (araştırmak). Geçen hafta önemli bir mektup {{2}} (bulmak). Mektubun yıllar önce kaybolduğu {{3}} (sanılmak).",
+        "reponses": ["araştırıyorum", "buldum", "sanılıyormuş"]
+      },
+      {
+        "question": "Çocuklar şimdi eski bir hikâyeyi {{1}} (dinlemek). Dün aynı hikâyeyi öğretmenlerinden {{2}} (duymak). Hikâyenin çok eski zamanlardan {{3}} (gelmek) olduğu anlatılıyor.",
+        "reponses": ["dinliyorlar", "duydular", "geldiği"]
+      },
+      {
+        "question": "Doktor şimdi hastanın durumunu {{1}} (değerlendirmek). Dün bazı testler {{2}} (yapmak). Hastalığın ilk kez yıllar önce {{3}} (tanımlanmak) olduğu söyleniyor.",
+        "reponses": ["değerlendiriyor", "yaptı", "tanımlanmış"]
+      },
+      {
+        "question": "Biz şu anda yeni bir ürün {{1}} (geliştirmek). Geçen ay ilk prototipi {{2}} (hazırlamak). Bu yöntemin başka bir ülkede daha önce {{3}} (kullanılmak) olduğu ortaya çıktı.",
+        "reponses": ["geliştiriyoruz", "hazırladık", "kullanılmış"]
+      },
+      {
+        "question": "Öğretmen şimdi eski bir şiiri {{1}} (açıklamak). Dün şiirin ilk bölümünü {{2}} (incelemek). Şiirin yüzyıllar önce {{3}} (yazılmak) olduğu biliniyor.",
+        "reponses": ["açıklıyor", "inceledi", "yazılmış"]
+      },
+      {
+        "question": "Ben şimdi aile tarihimi {{1}} (araştırmak). Geçen hafta eski bir fotoğraf {{2}} (bulmak). Fotoğrafın büyükannem tarafından {{3}} (çekilmek) olduğu anlaşıldı.",
+        "reponses": ["araştırıyorum", "buldum", "çekilmiş"]
+      }
+    ]
+  },
+  {
+    "id": "036",
+    "titre": "Şimdiki zaman – Belirli geçmiş zaman – Uzak geçmiş zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi bilgisayarımda {{1}} (çalışmak). Dün yeni bir program {{2}} (kurmak). Bu programın ilk sürümü yıllar önce {{3}} (geliştirilmek).",
+        "reponses": ["çalışıyorum", "kurdum", "geliştirilmiş"]
+      },
+      {
+        "question": "Ayşe şimdi mektup {{1}} (yazmak). Sabah postaneye {{2}} (gitmek). Bu mektubun benzerinin daha önce de {{3}} (gönderilmek) olduğu söyleniyor.",
+        "reponses": ["yazıyor", "gitti", "gönderilmiş"]
+      },
+      {
+        "question": "Biz şimdi yeni bir restoran {{1}} (denemek). Dün başka bir restoranda {{2}} (yemek yemek). Bu restoranın eskiden çok ünlü {{3}} (olmak) olduğu anlatılıyor.",
+        "reponses": ["deniyoruz", "yemek yedik", "olduğu"]
+      },
+      {
+        "question": "Öğrenci şu anda tezini {{1}} (hazırlamak). Geçen hafta danışmanıyla {{2}} (görüşmek). Bu konuda daha önce birçok çalışma {{3}} (yapılmak).",
+        "reponses": ["hazırlıyor", "görüştü", "yapılmış"]
+      },
+      {
+        "question": "Doktor şimdi raporu {{1}} (okumak). Sabah hastanın sonuçlarını {{2}} (incelemek). Benzer bir vaka daha önce de {{3}} (görülmek).",
+        "reponses": ["okuyor", "inceledi", "görülmüş"]
+      },
+      {
+        "question": "Mühendis şu anda sistemi {{1}} (test etmek). Dün önemli bir hata {{2}} (bulmak). Aynı hata önceki sürümde de {{3}} (görülmek).",
+        "reponses": ["test ediyor", "buldu", "görülmüş"]
+      },
+      {
+        "question": "Ben şimdi yeni bir tarif {{1}} (denemek). Dün ilk kez evde ekmek {{2}} (yapmak). Bu tarifin ailemizde uzun zamandır {{3}} (kullanılmak) olduğu söyleniyor.",
+        "reponses": ["deniyorum", "yaptım", "kullanıldığı"]
+      },
+      {
+        "question": "Çocuklar şimdi tarih dersi {{1}} (dinlemek). Dün müzeyi {{2}} (ziyaret etmek). Müzenin eski bir saraydan {{3}} (dönüştürülmek) olduğu anlatılıyor.",
+        "reponses": ["dinliyorlar", "ziyaret ettiler", "dönüştürülmüş"]
+      },
+      {
+        "question": "Biz şu anda bahçeyi {{1}} (düzenlemek). Geçen hafta ağaçları {{2}} (dikmek). Bu bahçenin yıllar önce bir mimar tarafından {{3}} (tasarlanmak) olduğu biliniyor.",
+        "reponses": ["düzenliyoruz", "diktik", "tasarlanmış"]
+      },
+      {
+        "question": "Sen şimdi yeni bir konu {{1}} (öğrenmek). Dün ilk dersini {{2}} (tamamlamak). Bu yöntemin daha önce başka okullarda {{3}} (uygulanmak) olduğu söyleniyor.",
+        "reponses": ["öğreniyorsun", "tamamladın", "uygulanmış"]
+      }
+    ]
+  },
+  {
+    "id": "037",
+    "titre": "Şimdiki zaman – Gelecek zaman – Gelecekte tamamlanmış zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi Türkçe {{1}} (öğrenmek). Gelecek yıl İstanbul'a {{2}} (gitmek). O zamana kadar Türkçemi oldukça {{3}} (geliştirmek).",
+        "reponses": ["öğreniyorum", "gideceğim", "geliştirmiş olacağım"]
+      },
+      {
+        "question": "Biz şu anda bir proje üzerinde {{1}} (çalışmak). Gelecek ay projeyi {{2}} (sunmak). Sunum gününe kadar bütün raporları {{3}} (hazırlamak).",
+        "reponses": ["çalışıyoruz", "sunacağız", "hazırlamış olacağız"]
+      },
+      {
+        "question": "Ayşe şimdi sürüş dersi {{1}} (almak). Yazın ehliyet sınavına {{2}} (girmek). Sınav gününe kadar yeterince pratik {{3}} (yapmak).",
+        "reponses": ["alıyor", "girecek", "yapmış olacak"]
+      },
+      {
+        "question": "Ben şu anda kitabımı {{1}} (yazmak). Gelecek yıl kitabımı {{2}} (yayımlamak). O zamana kadar son bölümü de {{3}} (tamamlamak).",
+        "reponses": ["yazıyorum", "yayımlayacağım", "tamamlamış olacağım"]
+      },
+      {
+        "question": "Öğrenciler şimdi sınava {{1}} (hazırlanmak). Gelecek hafta sınava {{2}} (girmek). O güne kadar bütün konuları {{3}} (tekrar etmek).",
+        "reponses": ["hazırlanıyorlar", "girecekler", "tekrar etmiş olacaklar"]
+      },
+      {
+        "question": "Doktor şu anda yeni bir araştırma {{1}} (yürütmek). Gelecek yıl sonuçları {{2}} (yayımlamak). O zamana kadar verileri tamamen {{3}} (analiz etmek).",
+        "reponses": ["yürütüyor", "yayımlayacak", "analiz etmiş olacak"]
+      },
+      {
+        "question": "Biz şimdi para {{1}} (biriktirmek). Önümüzdeki yıl yeni bir ev {{2}} (satın almak). O zamana kadar gerekli miktarı {{3}} (biriktirmek).",
+        "reponses": ["biriktiriyoruz", "satın alacağız", "biriktirmiş olacağız"]
+      },
+      {
+        "question": "Sen şimdi piyano {{1}} (öğrenmek). Gelecek ay bir konserde {{2}} (çalmak). O zamana kadar bu parçayı ezberlemiş {{3}} (olmak).",
+        "reponses": ["öğreniyorsun", "çalacaksın", "olacaksın"]
+      },
+      {
+        "question": "Şirket şu anda yeni bir ürün {{1}} (geliştirmek). Ürünü gelecek yıl piyasaya {{2}} (sunmak). O tarihe kadar bütün testleri {{3}} (tamamlamak).",
+        "reponses": ["geliştiriyor", "sunacak", "tamamlamış olacak"]
+      },
+      {
+        "question": "Ben şimdi bir dil kursuna {{1}} (katılmak). Yaz sonunda ileri seviyeye {{2}} (ulaşmak). O zamana kadar yüzlerce yeni kelime {{3}} (öğrenmek).",
+        "reponses": ["katılıyorum", "ulaşacağım", "öğrenmiş olacağım"]
+      }
+    ]
+  },
+  {
+    "id": "038",
+    "titre": "Şimdiki zaman – Şart kipinin şimdiki zamanı – Şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi çalışıyorum. Daha fazla zamanım {{1}} (olmak), daha çok kitap {{2}} (okumak). Dün erken başlasaydım, raporu bitirmiş {{3}} (olmak).",
+        "reponses": ["olsa", "okurum", "olurdum"]
+      },
+      {
+        "question": "Ayşe şu anda ders {{1}} (çalışmak). Daha fazla zamanı {{2}} (olmak), bize de yardım eder. Dün erken gelseydi, toplantıya yetişmiş {{3}} (olmak).",
+        "reponses": ["çalışıyor", "olsa", "olurdu"]
+      },
+      {
+        "question": "Biz şimdi otobüsü {{1}} (beklemek). Bir taksimiz {{2}} (olmak), daha hızlı gideriz. Daha erken çıksaydık, otobüsü kaçırmamış {{3}} (olmak).",
+        "reponses": ["bekliyoruz", "olsa", "olurduk"]
+      },
+      {
+        "question": "Ben şu anda yemek {{1}} (hazırlamak). Yardımcım {{2}} (olmak), daha çabuk bitiririm. Sen daha erken gelseydin, yemeği birlikte hazırlamış {{3}} (olmak).",
+        "reponses": ["hazırlıyorum", "olsa", "olurduk"]
+      },
+      {
+        "question": "Öğrenciler şimdi sınava {{1}} (hazırlanmak). Daha çok kaynakları {{2}} (olmak), daha iyi çalışırlar. Düzenli çalışsalardı, daha yüksek not almış {{3}} (olmak).",
+        "reponses": ["hazırlanıyorlar", "olsa", "olurlardı"]
+      },
+      {
+        "question": "Doktor şu anda hastayı {{1}} (muayene etmek). Bir uzman daha {{2}} (olmak), hastayı birlikte değerlendirirler. Uzman daha önce gelseydi, teşhis konmuş {{3}} (olmak).",
+        "reponses": ["muayene ediyor", "olsa", "olurdu"]
+      },
+      {
+        "question": "Ben şimdi Türkçe {{1}} (öğrenmek). Daha fazla fırsatım {{2}} (olmak), her gün konuşurum. Geçen yıl başlamış olsaydım, şimdi daha akıcı konuşuyor {{3}} (olmak).",
+        "reponses": ["öğreniyorum", "olsa", "olurdum"]
+      },
+      {
+        "question": "Şirket şu anda yeni çalışanlar {{1}} (aramak). Bütçesi daha yüksek {{2}} (olmak), daha fazla kişi işe alır. Geçen yıl yatırım alsaydı, yeni şube açmış {{3}} (olmak).",
+        "reponses": ["arıyor", "olsa", "olurdu"]
+      },
+      {
+        "question": "Biz şimdi bir çözüm {{1}} (aramak). Daha fazla bilgimiz {{2}} (olmak), daha hızlı karar veririz. Sorunu daha önce fark etseydik, zararı önlemiş {{3}} (olmak).",
+        "reponses": ["arıyoruz", "olsa", "olurduk"]
+      },
+      {
+        "question": "Sen şimdi dinleniyorsun. Bir gün daha tatilin {{1}} (olmak), daha iyi hissedersin. Dün dinlenseydin, bugün daha enerjik {{2}} (olmak). Keşke daha erken yatmış {{3}} (olmak).",
+        "reponses": ["olsa", "olurdun", "olsaydın"]
+      }
+    ]
+  },
+  {
+    "id": "039",
+    "titre": "Şimdiki zaman – Dilek-şart kipinin şimdiki zamanı – Dilek-şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi çalışıyorum. Keşke bugün biraz daha erken {{1}} (bitirmek). Dün daha erken başlasaydım, işi zamanında {{2}} (bitirmek). Şu anda evde {{3}} (olmak) isterdim.",
+        "reponses": ["bitirsem", "bitirirdim", "olsam"]
+      },
+      {
+        "question": "Ayşe şimdi ders {{1}} (çalışmak). Keşke biraz ara {{2}} (vermek). Dün dinlenseydi, bugün daha iyi hissediyor {{3}} (olmak).",
+        "reponses": ["çalışıyor", "verse", "olurdu"]
+      },
+      {
+        "question": "Biz şimdi yola {{1}} (çıkmak). Keşke daha erken {{2}} (çıkmak). Sabah erken çıksaydık, trafiğe takılmamış {{3}} (olmak).",
+        "reponses": ["çıkıyoruz", "çıksak", "olurduk"]
+      },
+      {
+        "question": "Ben şu anda kitap {{1}} (okumak). Keşke daha sessiz bir yerde {{2}} (olmak). Dün daha fazla zamanım olsaydı, kitabı bitirmiş {{3}} (olmak).",
+        "reponses": ["okuyorum", "olsam", "olurdum"]
+      },
+      {
+        "question": "Çocuklar şimdi dışarıda {{1}} (oynamak). Keşke hava biraz daha sıcak {{2}} (olmak). Dün yağmur yağmasaydı, parka gitmiş {{3}} (olmak).",
+        "reponses": ["oynuyorlar", "olsa", "olurlardı"]
+      },
+      {
+        "question": "Doktor şimdi hastayla {{1}} (konuşmak). Keşke daha fazla zamanı {{2}} (olmak). Dün daha erken gelseydi, hastayı da görmüş {{3}} (olmak).",
+        "reponses": ["konuşuyor", "olsa", "olurdu"]
+      },
+      {
+        "question": "Ben şimdi yeni bir dil {{1}} (öğrenmek). Keşke daha hızlı {{2}} (öğrenmek). Küçükken başlasaydım, şimdi akıcı konuşuyor {{3}} (olmak).",
+        "reponses": ["öğreniyorum", "öğrensem", "olurdum"]
+      },
+      {
+        "question": "Şirket şimdi yeni bir ürün {{1}} (geliştirmek). Keşke daha fazla bütçesi {{2}} (olmak). Yatırım daha önce gelseydi, ürün piyasaya çıkmış {{3}} (olmak).",
+        "reponses": ["geliştiriyor", "olsa", "olurdu"]
+      },
+      {
+        "question": "Biz şimdi bir çözüm {{1}} (aramak). Keşke herkes birlikte {{2}} (çalışmak). Daha erken iş birliği yapsaydık, sorunu çözmüş {{3}} (olmak).",
+        "reponses": ["arıyoruz", "çalışsa", "olurduk"]
+      },
+      {
+        "question": "Sen şimdi dinleniyorsun. Keşke biraz daha uzun {{1}} (uyumak). Dün erken yatsaydın, bugün daha iyi hissediyor {{2}} (olmak). Şimdi tatilde {{3}} (olmak) isterdin.",
+        "reponses": ["uyusan", "olurdun", "olsan"]
+      }
+    ]
+  },
+  {
+    "id": "040",
+    "titre": "Şimdiki zaman – Gelecek zaman – Şart kipinin şimdiki zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Şimdi ders {{1}} (çalışmak). Yarın sınava {{2}} (girmek). Daha fazla zamanım {{3}} (olmak), bütün konuları tekrar ederim.",
+        "reponses": ["çalışıyorum", "gireceğim", "olsa"]
+      },
+      {
+        "question": "Ayşe şu anda yemek {{1}} (pişirmek). Akşam misafirler için pasta {{2}} (hazırlamak). Yardıma ihtiyacı {{3}} (olmak), beni arayabilir.",
+        "reponses": ["pişiriyor", "hazırlayacak", "olursa"]
+      },
+      {
+        "question": "Biz şimdi projeyi {{1}} (hazırlamak). Gelecek hafta sunum {{2}} (yapmak). Daha fazla bilgi {{3}} (bulmak), raporu geliştirebiliriz.",
+        "reponses": ["hazırlıyoruz", "yapacağız", "bulursak"]
+      },
+      {
+        "question": "Öğrenciler şimdi kütüphanede {{1}} (çalışmak). Yarın deneme sınavına {{2}} (katılmak). Soruları anlamakta zorlanırlarsa öğretmene {{3}} (sormak).",
+        "reponses": ["çalışıyorlar", "katılacaklar", "sorarlar"]
+      },
+      {
+        "question": "Ben şu anda yeni bir dil {{1}} (öğrenmek). Gelecek yıl yurt dışında {{2}} (çalışmak). Daha fazla pratik {{3}} (yapmak), daha hızlı ilerlerim.",
+        "reponses": ["öğreniyorum", "çalışacağım", "yaparsam"]
+      },
+      {
+        "question": "Doktor şimdi hastayı {{1}} (muayene etmek). Birazdan test sonuçlarını {{2}} (açıklamak). Yeni belirtiler {{3}} (ortaya çıkmak), ek testler isteyecek.",
+        "reponses": ["muayene ediyor", "açıklayacak", "çıkarsa"]
+      },
+      {
+        "question": "Şirket şu anda yeni bir şube {{1}} (açmak). Gelecek yıl başka bir şehirde de şube {{2}} (açmak). Talep artarsa daha fazla çalışan {{3}} (işe almak).",
+        "reponses": ["açıyor", "açacak", "işe alacak"]
+      },
+      {
+        "question": "Biz şimdi hava durumunu {{1}} (izlemek). Yarın dağlara {{2}} (gitmek). Hava kötü {{3}} (olmak), geziyi erteleyeceğiz.",
+        "reponses": ["izliyoruz", "gideceğiz", "olursa"]
+      },
+      {
+        "question": "Sen şimdi raporunu {{1}} (yazmak). Yarın müdüre {{2}} (sunmak). Daha fazla zamana ihtiyacın {{3}} (olmak), teslim tarihini değiştirmeyi isteyebilirsin.",
+        "reponses": ["yazıyorsun", "sunacaksın", "olursa"]
+      },
+      {
+        "question": "Ben şu anda bavulumu {{1}} (hazırlamak). Yarın sabah erkenden {{2}} (yola çıkmak). Her şey hazır {{3}} (olmak), zamanında havaalanına varırım.",
+        "reponses": ["hazırlıyorum", "yola çıkacağım", "olursa"]
+      }
+    ]
   }
 ]
+
