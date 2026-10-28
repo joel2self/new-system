@@ -1578,6 +1578,465 @@
         "reponses": ["hazırlıyorum", "yola çıkacağım", "olursa"]
       }
     ]
+  },
+   {
+    "id": "041",
+    "titre": "Yakın geçmiş zaman – Geçmişte süreklilik bildiren zaman – Uzak geçmiş zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Az önce eve {{1}} (gelmek). Sen geldiğinde ben yemek {{2}} (pişirmek). Meğer misafirler çoktan {{3}} (gelmek).","reponses":["geldim","pişiriyordum","gelmiş"]},
+      {"question":"Dün seni {{1}} (aramak). Sen o sırada ders {{2}} (çalışmak). Sonradan telefonunun bozuk {{3}} (olmak) olduğunu öğrendim.","reponses":["aradım","çalışıyordun","olduğunu"]},
+      {"question":"Sabah otobüse {{1}} (binmek). Yağmur o sırada {{2}} (yağmak). Gece boyunca da yağmur {{3}} (yağmak).","reponses":["bindim","yağıyordu","yağmış"]},
+      {"question":"Az önce raporu {{1}} (bitirmek). Müdür geldiğinde son bölümü {{2}} (yazmak). Raporun daha önce de birkaç kez {{3}} (değiştirilmek) olduğu ortaya çıktı.","reponses":["bitirdim","yazıyordum","değiştirilmiş"]},
+      {"question":"Geçen hafta müzeyi {{1}} (gezmek). Rehber konuşurken not {{2}} (almak). Müzenin eski bir saraydan {{3}} (dönüştürülmek) olduğu söyleniyor.","reponses":["gezdim","alıyordum","dönüştürülmüş"]},
+      {"question":"Dün akşam eve {{1}} (dönmek). Annem mutfakta yemek {{2}} (hazırlamak). Yemeğin çoktan {{3}} (hazırlanmak) olduğunu sonradan gördüm.","reponses":["döndüm","hazırlıyordu","hazırlanmış"]},
+      {"question":"Biraz önce toplantıdan {{1}} (çıkmak). Müdür hâlâ sunum {{2}} (yapmak). Toplantının iki saat önce {{3}} (başlamak) olduğunu öğrendim.","reponses":["çıktım","yapıyordu","başlamış"]},
+      {"question":"Dün kütüphaneye {{1}} (gitmek). Öğrenciler sessizce {{2}} (çalışmak). Bazılarının sabah erkenden {{3}} (gelmek) olduğu anlaşıldı.","reponses":["gittim","çalışıyordu","gelmiş"]},
+      {"question":"Az önce mesajını {{1}} (okumak). Sen o sırada yolda {{2}} (yürümek). Mesajı aslında daha önce {{3}} (göndermek) olduğunu söyledin.","reponses":["okudum","yürüyordun","göndermiş"]},
+      {"question":"Geçen ay bu evi {{1}} (satın almak). Emlakçı evi bize gösterirken evin geçmişini {{2}} (anlatmak). Evin yüz yıl önce {{3}} (inşa edilmek) olduğunu öğrendik.","reponses":["satın aldık","anlatıyordu","inşa edilmiş"]}
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Yakın geçmiş zaman – Geçmişte süreklilik bildiren zaman – Belirli geçmiş zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Az önce eve {{1}} (varmak). Sen geldiğinde ben televizyon {{2}} (izlemek). Sonra birlikte yemek {{3}} (yemek).","reponses":["vardım","izliyordum","yedik"]},
+      {"question":"Dün seni {{1}} (görmek). Sen o sırada arkadaşınla {{2}} (konuşmak). Bir süre sonra yanınıza {{3}} (gelmek).","reponses":["gördüm","konuşuyordun","geldim"]},
+      {"question":"Sabah kahvaltımı {{1}} (yapmak). Dışarı çıktığımda yağmur {{2}} (yağmak). Sonra taksi {{3}} (çağırmak).","reponses":["yaptım","yağıyordu","çağırdım"]},
+      {"question":"Biraz önce ödevimi {{1}} (bitirmek). Kardeşim o sırada müzik {{2}} (dinlemek). Ardından birlikte dışarı {{3}} (çıkmak).","reponses":["bitirdim","dinliyordu","çıktık"]},
+      {"question":"Geçen hafta doktora {{1}} (gitmek). Bekleme salonunda birçok hasta {{2}} (beklemek). Sonunda doktor beni {{3}} (muayene etmek).","reponses":["gittim","bekliyordu","muayene etti"]},
+      {"question":"Dün marketten ekmek {{1}} (almak). Kasada insanlar sırada {{2}} (beklemek). Ben de sıraya {{3}} (girmek).","reponses":["aldım","bekliyordu","girdim"]},
+      {"question":"Az önce kapıyı {{1}} (açmak). Komşumuz dışarıda {{2}} (beklemek). Bana bir paket {{3}} (vermek).","reponses":["açtım","bekliyordu","verdi"]},
+      {"question":"Dün akşam yemek {{1}} (pişirmek). Misafirler salonda {{2}} (sohbet etmek). Hep birlikte sofraya {{3}} (oturmak).","reponses":["pişirdim","sohbet ediyorlardı","oturduk"]},
+      {"question":"Sabah otobüse {{1}} (binmek). Yolcular sessizce {{2}} (oturmak). Birkaç durak sonra otobüsten {{3}} (inmek).","reponses":["bindim","oturuyordu","indim"]},
+      {"question":"Geçen gece kitap {{1}} (okumak). Dışarıda rüzgâr {{2}} (esmek). Sonra ışığı {{3}} (kapatmak).","reponses":["okudum","esiyordu","kapattım"]}
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Yakın geçmiş zaman – Uzak geçmiş zaman – Gelecek zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Az önce ödevimi {{1}} (bitirmek). Öğretmen ödevin dün teslim edilmiş {{2}} (olmak) gerektiğini söyledi. Yarın yeni bir ödev {{3}} (vermek).","reponses":["bitirdim","olması","verecek"]},
+      {"question":"Geçen hafta müzeyi {{1}} (gezmek). Rehber binanın eskiden saray {{2}} (olmak) olduğunu anlattı. Gelecek ay başka bir müzeyi {{3}} (ziyaret etmek).","reponses":["gezdim","olduğunu","ziyaret edeceğim"]},
+      {"question":"Dün yeni bir bilgisayar {{1}} (satın almak). Satıcının bu modelin daha önce ödül {{2}} (kazanmak) olduğunu söylediğini hatırlıyorum. Gelecek yıl belleğini {{3}} (yükseltmek).","reponses":["satın aldım","kazanmış","yükselteceğim"]},
+      {"question":"Az önce müdürle {{1}} (konuşmak). Şirketin eskiden küçük bir aile işletmesi {{2}} (olmak) olduğunu öğrendim. Gelecek yıl yeni bir şube {{3}} (açmak).","reponses":["konuştum","olduğunu","açacaklar"]},
+      {"question":"Dün yeni bir kursa {{1}} (başlamak). Öğretmen bu yöntemin yıllar önce {{2}} (geliştirilmek) olduğunu anlattı. Gelecek ay ikinci seviyeye {{3}} (geçmek).","reponses":["başladım","geliştirilmiş","geçeceğim"]},
+      {"question":"Geçen gün eski bir mektup {{1}} (bulmak). Mektubun büyükannem tarafından {{2}} (yazılmak) olduğunu öğrendik. Yarın ailemle mektubu yeniden {{3}} (okumak).","reponses":["buldum","yazılmış","okuyacağım"]},
+      {"question":"Sabah raporu {{1}} (göndermek). Müdür raporun daha önce de {{2}} (incelenmek) olduğunu söyledi. Yarın sonuçları {{3}} (açıklamak).","reponses":["gönderdim","incelenmiş","açıklayacak"]},
+      {"question":"Az önce rezervasyon {{1}} (yapmak). Otelin eskiden tarihi bir konak {{2}} (olmak) olduğunu okudum. Hafta sonu orada {{3}} (kalmak).","reponses":["yaptım","olduğu","kalacağım"]},
+      {"question":"Dün yeni bir uygulama {{1}} (indirmek). Uygulamanın daha önce birçok ödül {{2}} (kazanmak) olduğunu gördüm. Yarın özelliklerini daha ayrıntılı {{3}} (incelemek).","reponses":["indirdim","kazanmış","inceleyeceğim"]},
+      {"question":"Geçen hafta Türkçe sınavını {{1}} (geçmek). Öğretmen bu sınavın eskiden daha zor {{2}} (olmak) olduğunu söyledi. Gelecek ay ileri düzey kursa {{3}} (katılmak).","reponses":["geçtim","olduğunu","katılacağım"]}
+    ]
+  },
+  {
+    "id": "044",
+    "titre": "Yakın geçmiş zaman – Gelecek zaman – Gelecekte tamamlanmış zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Bugün kursa {{1}} (başlamak). Gelecek ay sınava {{2}} (girmek). O zamana kadar bütün üniteleri {{3}} (bitirmek).","reponses":["başladım","gireceğim","bitirmiş olacağım"]},
+      {"question":"Dün bir proje {{1}} (başlatmak). Gelecek hafta ekiple toplantı {{2}} (yapmak). Ay sonuna kadar ilk aşamayı {{3}} (tamamlamak).","reponses":["başlattım","yapacağım","tamamlamış olacağız"]},
+      {"question":"Az önce yeni bir kitap {{1}} (satın almak). Bu akşam okumaya {{2}} (başlamak). Hafta sonuna kadar kitabı {{3}} (bitirmek).","reponses":["satın aldım","başlayacağım","bitirmiş olacağım"]},
+      {"question":"Geçen hafta para {{1}} (biriktirmek). Önümüzdeki ay yeni bir bilgisayar {{2}} (almak). O zamana kadar yeterli parayı {{3}} (biriktirmek).","reponses":["biriktirdim","alacağım","biriktirmiş olacağım"]},
+      {"question":"Bugün spor salonuna {{1}} (yazılmak). Yarın antrenmanlara {{2}} (başlamak). Üç ay içinde kondisyonumu {{3}} (geliştirmek).","reponses":["yazıldım","başlayacağım","geliştirmiş olacağım"]},
+      {"question":"Dün makaleyi {{1}} (yazmak). Yarın editöre {{2}} (göndermek). Cuma gününe kadar düzeltmeleri {{3}} (tamamlamak).","reponses":["yazdım","göndereceğim","tamamlamış olacağım"]},
+      {"question":"Geçen ay Türkçe öğrenmeye {{1}} (başlamak). Gelecek yıl Türkiye'ye {{2}} (gitmek). O zamana kadar konuşma becerimi {{3}} (geliştirmek).","reponses":["başladım","gideceğim","geliştirmiş olacağım"]},
+      {"question":"Az önce uçak biletini {{1}} (almak). Gelecek hafta İstanbul'a {{2}} (uçmak). Yolculuk gününe kadar bavulumu {{3}} (hazırlamak).","reponses":["aldım","uçacağım","hazırlamış olacağım"]},
+      {"question":"Dün bir kursa {{1}} (kaydolmak). Önümüzdeki ay derslere {{2}} (katılmak). Dönem sonuna kadar sertifikamı {{3}} (almak).","reponses":["kaydoldum","katılacağım","almış olacağım"]},
+      {"question":"Bugün evimi {{1}} (temizlemek). Yarın mobilyaları {{2}} (yerleştirmek). Akşam olduğunda bütün evi {{3}} (düzenlemek).","reponses":["temizledim","yerleştireceğim","düzenlemiş olacağım"]}
+    ]
+  },
+  {
+    "id": "045",
+    "titre": "Yakın geçmiş zaman – Şart kipinin şimdiki zamanı – Şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dün geç {{1}} (kalmak). Daha erken {{2}} (çıkmak), otobüse yetişirim. Evden erken çıksaydım, otobüsü kaçırmamış {{3}} (olmak).","reponses":["kaldım","çıkarsam","olurdum"]},
+      {"question":"Az önce raporu {{1}} (bitirmek). Biraz daha zamanım {{2}} (olmak), ek ayrıntılar eklerim. Dün erken başlasaydım, raporu daha önce bitirmiş {{3}} (olmak).","reponses":["bitirdim","olursa","olurdum"]},
+      {"question":"Geçen hafta hastalandım ve işe {{1}} (gitmemek). Yarın iyi {{2}} (hissetmek), işe dönerim. Dün dinlenseydim, belki daha çabuk iyileşmiş {{3}} (olmak).","reponses":["gitmedim","hissedersem","olurdum"]},
+      {"question":"Dün arkadaşımı {{1}} (aramak). Vaktin {{2}} (olmak), bugün tekrar ararım. Dün telefonunu açsaydın, uzun uzun konuşmuş {{3}} (olmak).","reponses":["aradım","olursa","olurduk"]},
+      {"question":"Az önce bir hata {{1}} (fark etmek). Daha dikkatli {{2}} (olmak), bu hatayı önleriz. Metni yeniden okusaydım, hatayı daha önce fark etmiş {{3}} (olmak).","reponses":["fark ettim","olursak","olurdum"]},
+      {"question":"Dün alışveriş {{1}} (yapmak). İndirim {{2}} (olmak), birkaç ürün daha alırım. Kampanyayı görseydim, daha fazla tasarruf etmiş {{3}} (olmak).","reponses":["yaptım","olursa","olurdum"]},
+      {"question":"Geçen ay kursa {{1}} (başlamak). Daha fazla boş zamanım {{2}} (olmak), başka bir kursa da katılırım. Daha erken başlasaydım, seviyeyi bitirmiş {{3}} (olmak).","reponses":["başladım","olursa","olurdum"]},
+      {"question":"Dün toplantıya {{1}} (katılmak). Yarın vaktim {{2}} (olmak), yine katılırım. Davet daha erken gelseydi, toplantıya katılmış {{3}} (olmak).","reponses":["katıldım","olursa","olurdum"]},
+      {"question":"Az önce yeni bir fikir {{1}} (bulmak). Ekip kabul {{2}} (etmek), projeyi hemen başlatırız. Daha önce önerseydim, proje çoktan başlamış {{3}} (olmak).","reponses":["buldum","ederse","olurdu"]},
+      {"question":"Dün erken {{1}} (yatmak). Bu gece de erken {{2}} (yatmak), sabah dinç uyanırım. Dün erken yatsaydım, bugün daha dinç {{3}} (olmak).","reponses":["yattım","yatarsam","olurdum"]}
+    ]
+  },
+  {
+    "id": "046",
+    "titre": "Yakın geçmiş zaman – Dilek-şart kipinin şimdiki zamanı – Dilek-şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dün çok {{1}} (çalışmak). Keşke bugün biraz daha az {{2}} (çalışmak). Dün erken dinlenseydim, şimdi daha iyi {{3}} (hissetmek).","reponses":["çalıştım","çalışsam","hissederdim"]},
+      {"question":"Az önce sınav sonucumu {{1}} (öğrenmek). Keşke notum daha yüksek {{2}} (olmak). Daha çok çalışsaydım, daha yüksek not almış {{3}} (olmak).","reponses":["öğrendim","olsa","olurdum"]},
+      {"question":"Geçen hafta yeni bir işe {{1}} (başlamak). Keşke işe daha yakın bir yerde {{2}} (oturmak). Daha erken taşınsaydım, daha az zaman kaybetmiş {{3}} (olmak).","reponses":["başladım","otursam","olurdum"]},
+      {"question":"Dün arkadaşımı {{1}} (kırmak). Keşke ona daha nazik {{2}} (davranmak). Dikkatli konuşsaydım, onu üzmemiş {{3}} (olmak).","reponses":["kırdım","davransam","olurdum"]},
+      {"question":"Az önce bir kitap {{1}} (bitirmek). Keşke şimdi yeni bir kitaba {{2}} (başlamak). Daha erken başlasaydım, iki kitap bitirmiş {{3}} (olmak).","reponses":["bitirdim","başlasam","olurdum"]},
+      {"question":"Geçen ay para {{1}} (harcamak). Keşke biraz daha dikkatli {{2}} (olmak). Bütçe yapsaydım, daha fazla para biriktirmiş {{3}} (olmak).","reponses":["harcadım","olsam","olurdum"]},
+      {"question":"Dün randevumu {{1}} (unutmak). Keşke telefonuma hatırlatıcı {{2}} (kurmak). Hatırlatıcı kursaydım, randevuyu kaçırmamış {{3}} (olmak).","reponses":["unuttum","kursam","olurdum"]},
+      {"question":"Az önce eski bir fotoğraf {{1}} (bulmak). Keşke fotoğrafın arkasına tarihini de {{2}} (yazmak). O zaman kimin çektiğini daha kolay anlamış {{3}} (olmak).","reponses":["buldum","yazsam","olurdum"]},
+      {"question":"Geçen hafta Türkçe sınavına {{1}} (girmek). Keşke daha fazla kelime {{2}} (öğrenmek). Daha çok tekrar yapsaydım, daha iyi cevap vermiş {{3}} (olmak).","reponses":["girdim","öğrensem","olurdum"]},
+      {"question":"Dün yanlış otobüse {{1}} (binmek). Keşke tabelayı dikkatlice {{2}} (okumak). Tabelayı okusaydım, yanlış yöne gitmemiş {{3}} (olmak).","reponses":["bindim","okusam","olurdum"]}
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Geçmişte süreklilik bildiren zaman – Uzak geçmiş zaman – Belirli geçmiş zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Çocukken her yaz köye {{1}} (gitmek). Dedem gençliğinde orada uzun yıllar {{2}} (yaşamak). Geçen yaz köyü yeniden {{3}} (ziyaret etmek).","reponses":["giderdim","yaşamış","ziyaret ettim"]},
+      {"question":"Eskiden bu sokakta küçük dükkânlar {{1}} (bulunmak). Bu dükkânların çoğu yıllar önce {{2}} (açılmak). Geçen ay birini yeniden {{3}} (görmek).","reponses":["bulunurdu","açılmış","gördüm"]},
+      {"question":"Öğrenciyken kütüphanede saatlerce {{1}} (çalışmak). Kütüphanenin eski bir okul binası olduğu {{2}} (söylenmek). Dün orayı tekrar {{3}} (ziyaret etmek).","reponses":["çalışırdım","söylenirmiş","ziyaret ettim"]},
+      {"question":"Babam gençken sık sık balık {{1}} (tutmak). Bu yöntemi dedesinden {{2}} (öğrenmek). Geçen hafta onunla balığa {{3}} (gitmek).","reponses":["tutardı","öğrenmiş","gittim"]},
+      {"question":"Eskiden bu bölgede çok kar {{1}} (yağmak). Kışların daha sert {{2}} (geçmek) olduğu anlatılır. Geçen kış burada ilk kez kar {{3}} (görmek).","reponses":["yağardı","geçmiş","gördüm"]},
+      {"question":"Çocukken annem bize masallar {{1}} (anlatmak). Bu masalları kendi annesinden {{2}} (duymak). Dün aynı masalı çocuklarıma {{3}} (anlatmak).","reponses":["anlatırdı","duymuş","anlattım"]},
+      {"question":"Eskiden insanlar mektupla {{1}} (haberleşmek). İlk posta hizmetinin çok eski zamanlarda {{2}} (kurulmak) olduğu söylenir. Dün eski bir mektup {{3}} (bulmak).","reponses":["haberleşirdi","kurulmuş","buldum"]},
+      {"question":"Gençliğinde her gün yürüyüş {{1}} (yapmak). Bu alışkanlığı babasından {{2}} (öğrenmek). Geçen hafta onunla yürüyüş {{3}} (yapmak).","reponses":["yapardı","öğrenmiş","yaptım"]},
+      {"question":"Eskiden burada bir sinema {{1}} (olmak). Sinemanın yıllar önce kapandığı {{2}} (söylenmek). Dün eski binanın önünden {{3}} (geçmek).","reponses":["olurdu","söylenirmiş","geçtim"]},
+      {"question":"Çocukken hafta sonları pazara {{1}} (gitmek). Pazarın çok uzun zamandır {{2}} (kurulmak) olduğu anlatılır. Dün oradan sebze {{3}} (almak).","reponses":["giderdim","kurulmuş","aldım"]}
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "Geçmişte süreklilik bildiren zaman – Belirli geçmiş zaman – Geçmişte daha önce tamamlanmış zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Eskiden her sabah kahvaltı {{1}} (yapmak). Dün kahvaltımı erken {{2}} (bitirmek). İşe vardığımda toplantı çoktan {{3}} (başlamak).","reponses":["yapardım","bitirdim","başlamıştı"]},
+      {"question":"Çocukken ödevlerimi akşam {{1}} (yapmak). Dün bütün soruları {{2}} (çözmek). Öğretmen sınıfa geldiğinde ödevimi çoktan {{3}} (bitirmek).","reponses":["yapardım","çözdüm","bitirmiştim"]},
+      {"question":"Eskiden her cuma kütüphaneye {{1}} (gitmek). Dün yeni bir kitap {{2}} (ödünç almak). Eve döndüğümde kardeşim yemeği {{3}} (hazırlamak).","reponses":["giderdim","aldım","hazırlamıştı"]},
+      {"question":"Önceden seyahatten önce bavulumu {{1}} (hazırlamak). Dün taksi gelmeden bavulumu {{2}} (hazırlamak). Havaalanına vardığımızda uçak çoktan {{3}} (kalkmak).","reponses":["hazırlardım","hazırladım","kalkmıştı"]},
+      {"question":"Eskiden her akşam haberleri {{1}} (izlemek). Dün önemli haberi televizyonda {{2}} (duymak). Televizyonu açtığımda haber programı çoktan {{3}} (başlamak).","reponses":["izlerdim","duydum","başlamıştı"]},
+      {"question":"Öğrenciyken sınavlardan önce notlarımı {{1}} (tekrar etmek). Dün bütün konuları {{2}} (çalışmak). Sınav başladığında formülleri zaten {{3}} (ezberlemek).","reponses":["tekrar ederdim","çalıştım","ezberlemiştim"]},
+      {"question":"Eskiden misafir gelmeden evi {{1}} (temizlemek). Dün salonu {{2}} (düzenlemek). Misafirler kapıyı çaldığında yemeği çoktan {{3}} (hazırlamak).","reponses":["temizlerdim","düzenledim","hazırlamıştım"]},
+      {"question":"Her sabah işe gitmeden e-postalarımı {{1}} (kontrol etmek). Dün önemli mesajı {{2}} (yanıtlamak). Müdür aradığında raporu çoktan {{3}} (göndermek).","reponses":["kontrol ederdim","yanıtladım","göndermiştim"]},
+      {"question":"Eskiden hafta sonları ailemle yemek {{1}} (pişirmek). Pazar günü yeni bir tarif {{2}} (denemek). Ailem geldiğinde sofrayı çoktan {{3}} (kurmak).","reponses":["pişirirdim","denedim","kurmuştum"]},
+      {"question":"Çocukken okuldan sonra kitap {{1}} (okumak). Dün romanın son bölümünü {{2}} (bitirmek). Arkadaşım aradığında kitabı çoktan {{3}} (bitirmek).","reponses":["okurdum","bitirdim","bitirmiştim"]}
+    ]
+  },
+  {
+    "id": "049",
+    "titre": "Geçmişte süreklilik bildiren zaman – Uzak geçmiş zaman – Şart kipinin şimdiki zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Çocukken her gün dışarıda {{1}} (oynamak). Dedem de küçükken çok {{2}} (oynamak). Hava güzel {{3}} (olmak), şimdi parka gideriz.","reponses":["oynardım","oynarmış","olursa"]},
+      {"question":"Eskiden her hafta kitap {{1}} (okumak). Annem gençliğinde çok roman {{2}} (okumak). Vaktim {{3}} (olmak), bugün de bir bölüm okurum.","reponses":["okurdum","okurmuş","olursa"]},
+      {"question":"Önceden işe yürüyerek {{1}} (gitmek). Babam da yıllarca yürüyerek işe {{2}} (gitmek). Yağmur {{3}} (yağmak), otobüse binerim.","reponses":["giderdim","gidermiş","yağarsa"]},
+      {"question":"Eskiden yazları denizde {{1}} (yüzmek). Dedem gençken çok iyi {{2}} (yüzmek). Deniz sakin {{3}} (olmak), bu sabah yüzeriz.","reponses":["yüzerdim","yüzermiş","olursa"]},
+      {"question":"Çocukken her akşam masal {{1}} (dinlemek). Annem de küçükken masalları çok {{2}} (sevmek). Çocuklar hazır {{3}} (olmak), şimdi bir masal anlatırım.","reponses":["dinlerdim","severmiş","olursa"]},
+      {"question":"Eskiden hafta sonları pazara {{1}} (gitmek). Bu pazarın çok eski olduğu {{2}} (söylenmek). Vaktimiz {{3}} (olmak), yarın oraya gideriz.","reponses":["giderdim","söylenirmiş","olursa"]},
+      {"question":"Öğrenciyken her gün dil {{1}} (çalışmak). Öğretmenimizin de birkaç dil {{2}} (bilmek) olduğu söylenirdi. Daha çok zamanım {{3}} (olmak), yeni bir dil öğrenirim.","reponses":["çalışırdım","bilirmiş","olursa"]},
+      {"question":"Eskiden bahçede sebze {{1}} (yetiştirmek). Büyükannemin çok çeşitli sebzeler {{2}} (yetiştirmek) olduğu anlatılır. Hava ısınır {{3}} (olmak), tohumları ekeriz.","reponses":["yetiştirirdim","yetiştirirmiş","olursa"]},
+      {"question":"Çocukken her yaz köye {{1}} (gitmek). Köyümüzün çok eski bir tarihe sahip {{2}} (olmak) olduğu söylenir. Tatilimiz {{3}} (başlamak), yine oraya gideriz.","reponses":["giderdim","olduğu","başlarsa"]},
+      {"question":"Eskiden akşamları ailemle sohbet {{1}} (etmek). Dedemin çok ilginç hikâyeler {{2}} (anlatmak) olduğu bilinir. Herkes evde {{3}} (olmak), bu akşam da buluşuruz.","reponses":["ederdim","anlatırmış","olursa"]}
+    ]
+  },
+  {
+    "id": "050",
+    "titre": "Geçmişte süreklilik bildiren zaman – Uzak geçmiş zaman – Şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Çocukken her yaz köye {{1}} (gitmek). Dedem gençliğinde orada {{2}} (yaşamak). Daha erken yola çıksaydık, köye gündüz {{3}} (varmak).","reponses":["giderdim","yaşamış","varırdık"]},
+      {"question":"Eskiden her gün kitap {{1}} (okumak). Öğretmenimin gençken çok kitap {{2}} (okumak) olduğu söylenirdi. Daha çok çalışsaydım, sınavı {{3}} (geçmek).","reponses":["okurdum","okurmuş","geçerdim"]},
+      {"question":"Önceden her hafta spor {{1}} (yapmak). Babam gençliğinde maratonlara {{2}} (katılmak). Düzenli çalışsaydım, yarışmayı {{3}} (bitirmek).","reponses":["yapardım","katılmış","bitirirdim"]},
+      {"question":"Çocukken sık sık resim {{1}} (çizmek). Büyükannemin de güzel resimler {{2}} (çizmek) olduğu anlatılır. Daha çok pratik yapsaydım, daha iyi resim {{3}} (çizmek).","reponses":["çizerdim","çizermiş","çizerdim"]},
+      {"question":"Eskiden her sabah erken {{1}} (kalkmak). Dedemin gün doğmadan {{2}} (kalkmak) alışkanlığı varmış. Erken yatsaydım, zamanında {{3}} (kalkmak).","reponses":["kalkardım","kalkarmış","kalkardım"]},
+      {"question":"Öğrenciyken kütüphanede {{1}} (çalışmak). Eski öğrencilerin de orada saatlerce {{2}} (çalışmak) olduğu söylenir. Daha erken başlasaydım, ödevi zamanında {{3}} (bitirmek).","reponses":["çalışırdım","çalışırmış","bitirirdim"]},
+      {"question":"Eskiden hafta sonları yemek {{1}} (pişirmek). Annemin gençliğinde yeni tarifler {{2}} (denemek) alışkanlığı varmış. Tarifi dikkatle izleseydim, yemeği daha iyi {{3}} (yapmak).","reponses":["pişirirdim","denermiş","yapardım"]},
+      {"question":"Çocukken bisiklete çok {{1}} (binmek). Babamın da uzun mesafeler {{2}} (sürmek) olduğu anlatılır. Daha fazla antrenman yapsaydım, yarışı {{3}} (kazanmak).","reponses":["binerdim","sürermiş","kazanırdım"]},
+      {"question":"Eskiden her yaz denizde {{1}} (yüzmek). Dedem gençliğinde profesyonel olarak {{2}} (yüzmek). Daha erken başlasaydım, iyi bir yüzücü {{3}} (olmak).","reponses":["yüzerdim","yüzmüş","olurdum"]},
+      {"question":"Önceden her akşam günlük {{1}} (yazmak). Ünlü yazarın da her gün günlük {{2}} (tutmak) olduğu söylenir. Ben de düzenli yazsaydım, daha çok şey {{3}} (hatırlamak).","reponses":["yazardım","tutarmış","hatırlardım"]}
+    ]
+},
+{
+    "id": "051",
+    "titre": "Geçmişte süreklilik bildiren zaman – Gelecek zaman – Şart kipinin şimdiki zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Eskiden her sabah yürüyüş {{1}} (yapmak). Yarın yine yürüyüş {{2}} (yapmak). Hava güzel {{3}} (olmak), parka gideriz.","reponses":["yapardım","yapacağım","olursa"]},
+      {"question":"Çocukken her yaz köye {{1}} (gitmek). Gelecek yaz yine köye {{2}} (gitmek). İzin alabilirsem daha erken {{3}} (gitmek).","reponses":["giderdim","gideceğim","giderim"]},
+      {"question":"Eskiden akşamları kitap {{1}} (okumak). Bu akşam yeni bir romana {{2}} (başlamak). Vaktim {{3}} (olmak), birkaç bölüm daha okurum.","reponses":["okurdum","başlayacağım","olursa"]},
+      {"question":"Önceden işe otobüsle {{1}} (gitmek). Gelecek ay bisikletle {{2}} (gitmek). Hava yağmurlu {{3}} (olmak), otobüse binerim.","reponses":["giderdim","gideceğim","olursa"]},
+      {"question":"Eskiden her hafta yemek {{1}} (pişirmek). Pazar günü yeni bir tarif {{2}} (denemek). Malzemeleri bulabilirsem yemeği evde {{3}} (hazırlamak).","reponses":["pişirirdim","deneyeceğim","hazırlarım"]},
+      {"question":"Çocukken her gün futbol {{1}} (oynamak). Yarın arkadaşlarımla futbol {{2}} (oynamak). Takım hazır {{3}} (olmak), maça başlarız.","reponses":["oynardım","oynayacağım","olursa"]},
+      {"question":"Eskiden her akşam ailemle sohbet {{1}} (etmek). Bu akşam onları {{2}} (aramak). Evde {{3}} (olmak), uzun uzun konuşuruz.","reponses":["ederdim","arayacağım","olurlarsa"]},
+      {"question":"Önceden her gün yeni kelimeler {{1}} (öğrenmek). Gelecek ay daha fazla kelime {{2}} (öğrenmek). Düzenli çalışırsam daha hızlı {{3}} (ilerlemek).","reponses":["öğrenirdim","öğreneceğim","ilerlerim"]},
+      {"question":"Eskiden hafta sonları müzeye {{1}} (gitmek). Gelecek hafta yeni sergiyi {{2}} (gezmek). Bilet bulabilirsem sergiyi arkadaşlarımla {{3}} (gezmek).","reponses":["giderdim","gezeceğim","gezerim"]},
+      {"question":"Önceden her sabah kahve {{1}} (içmek). Yarın çay {{2}} (içmek). Kendimi yorgun {{3}} (hissetmek), yine kahve içerim.","reponses":["içerdim","içeceğim","hissedersem"]}
+    ]
+  },
+  {
+    "id": "052",
+    "titre": "Geçmişte süreklilik bildiren zaman – Dilek-şart kipinin şimdiki zamanı – Şart kipinin şimdiki zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Eskiden her gün spor {{1}} (yapmak). Keşke şimdi de düzenli spor {{2}} (yapmak). Vaktim {{3}} (olmak), bugün spor salonuna giderim.","reponses":["yapardım","yapsam","olursa"]},
+      {"question":"Çocukken çok kitap {{1}} (okumak). Keşke daha fazla kitap {{2}} (okumak). Yeni bir kitap {{3}} (bulmak), hemen okumaya başlarım.","reponses":["okurdum","okusam","bulursam"]},
+      {"question":"Eskiden erken {{1}} (yatmak). Keşke şimdi de erken {{2}} (yatmak). İşim erken {{3}} (bitmek), bu akşam erkenden uyurum.","reponses":["yatardım","yatsam","biterse"]},
+      {"question":"Önceden ailemle sık sık {{1}} (buluşmak). Keşke bu hafta onlarla {{2}} (buluşmak). Herkesin zamanı {{3}} (olmak), pazar günü görüşürüz.","reponses":["buluşurdum","buluşsam","olursa"]},
+      {"question":"Gençken müzik {{1}} (dinlemek). Keşke bugün de daha çok müzik {{2}} (dinlemek). Yeni bir şarkı {{3}} (keşfetmek), sana gönderirim.","reponses":["dinlerdim","dinlesem","keşfedersem"]},
+      {"question":"Eskiden her hafta sonu yürüyüş {{1}} (yapmak). Keşke yarın da yürüyüş {{2}} (yapmak). Hava güzel {{3}} (olmak), sahile gideriz.","reponses":["yapardım","yapsam","olursa"]},
+      {"question":"Çocukken resim {{1}} (çizmek). Keşke yeniden resim {{2}} (çizmek). Biraz boş zamanım {{3}} (olmak), bugün çizmeye başlarım.","reponses":["çizerdim","çizsem","olursa"]},
+      {"question":"Eskiden yabancı dil {{1}} (öğrenmek). Keşke şimdi de yeni bir dil {{2}} (öğrenmek). İyi bir kurs {{3}} (bulmak), hemen kaydolurum.","reponses":["öğrenirdim","öğrensem","bulursam"]},
+      {"question":"Önceden her akşam günlük {{1}} (yazmak). Keşke bu alışkanlığı yeniden {{2}} (kazanmak). Kendime zaman {{3}} (ayırmak), her gece yazarım.","reponses":["yazardım","kazansam","ayırırsam"]},
+      {"question":"Eskiden bahçede sebze {{1}} (yetiştirmek). Keşke bu yıl da sebze {{2}} (yetiştirmek). Bahçede yeterli yer {{3}} (olmak), domates ekeriz.","reponses":["yetiştirirdim","yetiştirsem","olursa"]}
+    ]
+  },
+  {
+    "id": "053",
+    "titre": "Uzak geçmiş zaman – Belirli geçmiş zaman – Geçmişte daha önce tamamlanmış zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dedem gençliğinde bu şehirde {{1}} (yaşamak). Geçen yıl eski evini {{2}} (ziyaret etmek). Eve vardığımızda dedem çoktan {{3}} (gelmek).","reponses":["yaşamış","ziyaret etti","gelmişti"]},
+      {"question":"Bu binanın eskiden okul {{1}} (olmak) olduğu söylenir. Dün binayı {{2}} (görmek). Biz geldiğimizde kapılar çoktan {{3}} (kapanmak).","reponses":["olduğu","gördük","kapanmıştı"]},
+      {"question":"Bu yazarın çocukken çok kitap {{1}} (okumak) olduğu anlatılır. Dün onun bir romanını {{2}} (bitirmek). Kütüphaneye gittiğimde diğer kitaplarını da çoktan {{3}} (ödünç almak).","reponses":["okuduğu","bitirdim","ödünç almıştım"]},
+      {"question":"Eski köprünün yıllar önce {{1}} (inşa edilmek) olduğu biliniyor. Geçen hafta köprüyü {{2}} (geçmek). Biz oraya vardığımızda yol çoktan {{3}} (kapatılmak).","reponses":["inşa edilmiş","geçtim","kapatılmıştı"]},
+      {"question":"Bu gelenek eski zamanlardan beri {{1}} (sürmek) olduğu söylenir. Geçen yıl törene {{2}} (katılmak). Biz vardığımızda tören çoktan {{3}} (başlamak).","reponses":["sürdüğü","katıldım","başlamıştı"]},
+      {"question":"Büyükannemin gençliğinde burada {{1}} (çalışmak) olduğu anlatılır. Dün eski iş yerini {{2}} (görmek). Biz geldiğimizde bina çoktan {{3}} (yenilenmek).","reponses":["çalıştığı","gördüm","yenilenmişti"]},
+      {"question":"Bu tablonun ünlü bir ressam tarafından {{1}} (yapılmak) olduğu söylenir. Dün tabloyu müzede {{2}} (görmek). Biz salona girdiğimizde rehber açıklamaya çoktan {{3}} (başlamak).","reponses":["yapıldığı","gördüm","başlamıştı"]},
+      {"question":"Köyün çok eski bir tarihe sahip {{1}} (olmak) olduğu biliniyor. Geçen ay köyü {{2}} (ziyaret etmek). Biz ulaştığımızda pazar çoktan {{3}} (kurulmak).","reponses":["olduğu","ziyaret ettik","kurulmuştu"]},
+      {"question":"Bu şarkının yıllar önce çok popüler {{1}} (olmak) olduğu anlatılır. Dün şarkıyı yeniden {{2}} (dinlemek). Radyoyu açtığımda program çoktan {{3}} (başlamak).","reponses":["olduğu","dinledim","başlamıştı"]},
+      {"question":"Eski istasyonun uzun süre kullanılmamış {{1}} (olmak) olduğu söyleniyor. Dün istasyonu {{2}} (fotoğraflamak). Biz vardığımızda tren çoktan {{3}} (hareket etmek).","reponses":["olduğu","fotoğrafladım","hareket etmişti"]}
+    ]
+  },
+  {
+    "id": "054",
+    "titre": "Uzak geçmiş zaman – Belirli geçmiş zaman – Şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dedemin gençliğinde çok seyahat {{1}} (etmek) olduğu anlatılır. Geçen yıl ben de Türkiye'ye {{2}} (gitmek). Daha erken bilet alsaydım, daha ucuza {{3}} (uçmak).","reponses":["ettiği","gittim","uçardım"]},
+      {"question":"Bu eski evin bir zamanlar otel {{1}} (olmak) olduğu söylenir. Dün binayı {{2}} (incelemek). Daha önce gelseydik, rehberi de {{3}} (görmek).","reponses":["olduğu","inceledik","görürdük"]},
+      {"question":"Büyükannemin gençken çok güzel şarkılar {{1}} (söylemek) olduğu anlatılır. Dün onun kayıtlarını {{2}} (dinlemek). Kayıtları daha önce bulsaydım, aileme de {{3}} (dinletmek).","reponses":["söylediği","dinledim","dinletirdim"]},
+      {"question":"Bu bölgede eskiden büyük bir pazar {{1}} (kurulmak) olduğu söylenir. Geçen hafta pazarı {{2}} (ziyaret etmek). Daha erken çıksaydık, bütün tezgâhları {{3}} (görmek).","reponses":["kurulduğu","ziyaret ettik","görürdük"]},
+      {"question":"Eski ustanın çok başarılı saatler {{1}} (yapmak) olduğu anlatılır. Dün atölyesini {{2}} (görmek). Onunla tanışsaydım, daha çok şey {{3}} (öğrenmek).","reponses":["yaptığı","gördüm","öğrenirdim"]},
+      {"question":"Bu köprünün yıllar önce birkaç kez {{1}} (onarılmak) olduğu biliniyor. Dün köprüyü {{2}} (geçmek). Daha dikkatli olsaydık, tehlikeyi önceden {{3}} (fark etmek).","reponses":["onarıldığı","geçtik","fark ederdik"]},
+      {"question":"Dedemin çocukken çok kitap {{1}} (okumak) olduğu söylenir. Geçen hafta onun kütüphanesini {{2}} (görmek). Daha çok zamanım olsaydı, bütün kitapları {{3}} (incelemek).","reponses":["okuduğu","gördüm","incelerdim"]},
+      {"question":"Bu sanatçının genç yaşta ödül {{1}} (kazanmak) olduğu anlatılır. Dün eserlerini {{2}} (incelemek). Sergiye daha erken gitseydim, sanatçıyla da {{3}} (konuşmak).","reponses":["kazandığı","inceledim","konuşurdum"]},
+      {"question":"Bu kasabanın eskiden önemli bir ticaret merkezi {{1}} (olmak) olduğu söylenir. Geçen ay kasabayı {{2}} (gezmek). Daha fazla vaktimiz olsaydı, çevre köyleri de {{3}} (görmek).","reponses":["olduğu","gezdik","görürdük"]},
+      {"question":"Eski öğretmenimizin birçok öğrenciye yardım {{1}} (etmek) olduğu anlatılır. Dün onunla {{2}} (tanışmak). Daha önce karşılaşsaydım, ona teşekkür {{3}} (etmek).","reponses":["ettiği","tanıştım","ederdim"]}
+    ]
+  },
+  {
+    "id": "055",
+    "titre": "Uzak geçmiş zaman – Gelecek zaman – Şart kipinin şimdiki zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dedemin gençliğinde burada {{1}} (yaşamak) olduğu söylenir. Yarın eski mahalleyi {{2}} (ziyaret etmek). Vaktim {{3}} (olmak), dedemin evini de görürüm.","reponses":["yaşadığı","ziyaret edeceğim","olursa"]},
+      {"question":"Bu binanın eskiden okul {{1}} (olmak) olduğu anlatılır. Gelecek hafta binayı {{2}} (incelemek). Kapılar açık {{3}} (olmak), içeri gireriz.","reponses":["olduğu","inceleyeceğiz","olursa"]},
+      {"question":"Bu şarkının yıllar önce çok sevilmekte {{1}} (olmak) olduğu söylenir. Yarın şarkıyı yeniden {{2}} (dinlemek). Kaydı {{3}} (bulmak), sana da gönderirim.","reponses":["olduğu","dinleyeceğim","bulursam"]},
+      {"question":"Bu köyün eski bir geçmişe sahip {{1}} (olmak) olduğu biliniyor. Yazın köyü {{2}} (ziyaret etmek). İzin alabilirsem birkaç gün orada {{3}} (kalmak).","reponses":["olduğu","ziyaret edeceğim","kalırım"]},
+      {"question":"Büyükannemin eskiden dikiş {{1}} (dikmek) olduğu anlatılır. Gelecek hafta onun eski eşyalarını {{2}} (düzenlemek). Bir dikiş makinesi {{3}} (bulmak), onu da saklarım.","reponses":["diktiği","düzenleyeceğim","bulursam"]},
+      {"question":"Bu kalenin çok eski zamanlarda {{1}} (yapılmak) olduğu söylenir. Gelecek ay kaleyi {{2}} (gezmek). Hava güzel {{3}} (olmak), çevresinde yürürüz.","reponses":["yapıldığı","gezeceğim","olursa"]},
+      {"question":"Bu yöntemin daha önce başka ülkelerde {{1}} (kullanılmak) olduğu biliniyor. Yarın yöntemi sınıfta {{2}} (denemek). Sonuçlar başarılı {{3}} (olmak), uygulamaya devam ederiz.","reponses":["kullanıldığı","deneyeceğiz","olursa"]},
+      {"question":"Eski istasyonun bir zamanlar çok yoğun {{1}} (olmak) olduğu anlatılır. Hafta sonu istasyonu {{2}} (fotoğraflamak). Tren gelirse birkaç fotoğraf daha {{3}} (çekmek).","reponses":["olduğu","fotoğraflayacağım","çekerim"]},
+      {"question":"Dedemin gençken çok iyi yüzücü {{1}} (olmak) olduğu söylenir. Yazın yüzme kursuna {{2}} (katılmak). Havuz açık {{3}} (olmak), her gün antrenman yaparım.","reponses":["olduğu","katılacağım","olursa"]},
+      {"question":"Bu eserin yıllar önce bir ödül {{1}} (kazanmak) olduğu söylenir. Yarın eseri müzede {{2}} (görmek). Rehber müsait {{3}} (olmak), ona sorular sorarım.","reponses":["kazandığı","göreceğim","olursa"]}
+    ]
+  },
+  {
+    "id": "056",
+    "titre": "Belirli geçmiş zaman – Geçmişte daha önce tamamlanmış zaman – Uzak geçmiş zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dün müzeye {{1}} (gitmek). Biz vardığımızda rehber çoktan {{2}} (başlamak). Müzenin eskiden saray {{3}} (olmak) olduğu söyleniyor.","reponses":["gittim","başlamıştı","olduğu"]},
+      {"question":"Geçen hafta raporu {{1}} (göndermek). Müdür okuduğunda ben raporu çoktan {{2}} (düzeltmek). Bu yöntemin yıllar önce {{3}} (geliştirilmek) olduğu biliniyor.","reponses":["gönderdim","düzeltmiştim","geliştirildiği"]},
+      {"question":"Dün eski bir fotoğraf {{1}} (bulmak). Ailem geldiğinde fotoğrafın tarihini çoktan {{2}} (araştırmak). Fotoğrafın büyükbabam tarafından {{3}} (çekilmek) olduğu anlaşıldı.","reponses":["buldum","araştırmıştım","çekildiği"]},
+      {"question":"Geçen ay yeni bir ev {{1}} (satın almak). Taşındığımızda eşyaların çoğunu çoktan {{2}} (paketlemek). Evin daha önce birkaç aileye {{3}} (ait olmak) olduğu söylendi.","reponses":["satın aldık","paketlemiştik","ait olduğu"]},
+      {"question":"Dün eski bir mektup {{1}} (okumak). Mektubu bitirdiğimde yazarın kim olduğunu çoktan {{2}} (anlamak). Bu mektubun yıllar önce {{3}} (gönderilmek) olduğu ortaya çıktı.","reponses":["okudum","anlamıştım","gönderildiği"]},
+      {"question":"Geçen hafta sınavı {{1}} (geçmek). Sonuçlar açıklanmadan önce bütün konuları tekrar {{2}} (etmek). Sınavın eskiden daha zor {{3}} (olmak) olduğu anlatıldı.","reponses":["geçtim","etmiştim","olduğu"]},
+      {"question":"Dün restorana {{1}} (gitmek). Biz oturduğumuzda şef yemeği çoktan {{2}} (hazırlamak). Restoranın eskiden küçük bir lokanta {{3}} (olmak) olduğu söylendi.","reponses":["gittik","hazırlamıştı","olduğu"]},
+      {"question":"Geçen yıl eski okulumuzu {{1}} (ziyaret etmek). Öğretmenimiz geldiğinde arkadaşlar çoktan {{2}} (toplanmak). Okulun yüz yıl önce {{3}} (kurulmak) olduğu anlatıldı.","reponses":["ziyaret ettik","toplanmıştı","kurulduğu"]},
+      {"question":"Dün bilgisayarımı {{1}} (tamir ettirmek). Teknisyen gelmeden önce dosyalarımı çoktan {{2}} (yedeklemek). Bu modelin uzun yıllar önce {{3}} (üretilmek) olduğu söylendi.","reponses":["tamir ettirdim","yedeklemiştim","üretildiği"]},
+      {"question":"Geçen ay bu kitabı {{1}} (bitirmek). Arkadaşıma verdiğimde kitabın sonunu çoktan {{2}} (öğrenmek). Romanın ilk baskısının yıllar önce {{3}} (yapılmak) olduğu biliniyor.","reponses":["bitirdim","öğrenmiştim","yapıldığı"]}
+    ]
+  },
+  {
+    "id": "057",
+    "titre": "Belirli geçmiş zaman – Geçmişte süreklilik bildiren zaman – Gelecekte tamamlanmış zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dün iki saat {{1}} (çalışmak). Ben çalışırken kardeşim müzik {{2}} (dinlemek). Yarın akşama kadar bütün işi {{3}} (bitirmek).","reponses":["çalıştım","dinliyordu","bitirmiş olacağım"]},
+      {"question":"Geçen hafta projeyi {{1}} (başlatmak). İlk toplantıda ekip ayrıntıları {{2}} (tartışmak). Ay sonuna kadar projeyi {{3}} (tamamlamak).","reponses":["başlattık","tartışıyordu","tamamlamış olacağız"]},
+      {"question":"Dün Türkçe {{1}} (çalışmak). Ben ders çalışırken arkadaşım alıştırma {{2}} (yapmak). Sınav gününe kadar bütün konuları {{3}} (öğrenmek).","reponses":["çalıştım","yapıyordu","öğrenmiş olacağım"]},
+      {"question":"Geçen ay para {{1}} (biriktirmek). Ben tasarruf yaparken eşim bütçeyi {{2}} (hazırlamak). Yaz sonuna kadar yeterli parayı {{3}} (biriktirmek).","reponses":["biriktirdik","hazırlıyordu","biriktirmiş olacağız"]},
+      {"question":"Dün evi {{1}} (temizlemek). Ben salonu temizlerken çocuklar odalarını {{2}} (düzenlemek). Akşama kadar bütün evi {{3}} (bitirmek).","reponses":["temizledim","düzenliyordu","temizlemiş olacağım"]},
+      {"question":"Geçen hafta makaleyi {{1}} (yazmak). Ben yazarken editör kaynakları {{2}} (incelemek). Cuma gününe kadar son sürümü {{3}} (göndermek).","reponses":["yazdım","inceliyordu","göndermiş olacağım"]},
+      {"question":"Dün bahçeye ağaç {{1}} (dikmek). Ben çalışırken komşum toprağı {{2}} (hazırlamak). İlkbahara kadar bütün fideler kök {{3}} (salmak).","reponses":["diktim","hazırlıyordu","salmış olacak"]},
+      {"question":"Geçen ay kursa {{1}} (başlamak). Öğretmen konuyu anlatırken öğrenciler not {{2}} (almak). Dönem sonuna kadar sertifikayı {{3}} (almak).","reponses":["başladım","alıyordu","almış olacağım"]},
+      {"question":"Dün sunumu {{1}} (hazırlamak). Ben slaytları düzenlerken ekip verileri {{2}} (kontrol etmek). Toplantıdan önce sunumu tamamen {{3}} (bitirmek).","reponses":["hazırladım","kontrol ediyordu","bitirmiş olacağım"]},
+      {"question":"Geçen hafta yeni bir uygulama {{1}} (geliştirmek). Biz kod üzerinde çalışırken tasarımcı arayüzü {{2}} (hazırlamak). Lansman gününe kadar uygulamayı {{3}} (tamamlamak).","reponses":["geliştirdik","hazırlıyordu","tamamlamış olacağız"]}
+    ]
+  },
+  {
+    "id": "058",
+    "titre": "Belirli geçmiş zaman – Şart kipinin şimdiki zamanı – Dilek-şart kipinin geçmişteki hikâyesi",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dün geç {{1}} (kalmak). Bugün erken {{2}} (çıkmak), trafiğe takılmam. Keşke dün daha erken {{3}} (çıkmak).","reponses":["kaldım","çıkarsam","çıksaydım"]},
+      {"question":"Geçen hafta sınavdan düşük not {{1}} (almak). Daha çok {{2}} (çalışmak), daha iyi sonuç alırım. Keşke sınavdan önce daha çok {{3}} (çalışmak).","reponses":["aldım","çalışırsam","çalışsaydım"]},
+      {"question":"Dün arkadaşımı {{1}} (üzmek). Daha dikkatli {{2}} (konuşmak), onu tekrar üzmem. Keşke öyle {{3}} (konuşmamak).","reponses":["üzdüm","konuşursam","konuşmasaydım"]},
+      {"question":"Geçen ay bir fırsatı {{1}} (kaçırmak). Benzer bir fırsat {{2}} (çıkmak), bu kez değerlendiririm. Keşke önceki fırsatı {{3}} (kaçırmamak).","reponses":["kaçırdım","çıkarsa","kaçırmasaydım"]},
+      {"question":"Dün randevuyu {{1}} (unutmak). Telefonuma hatırlatıcı {{2}} (kurmak), bir daha unutmam. Keşke dün hatırlatıcı {{3}} (kurmak).","reponses":["unuttum","kurarsam","kursaydım"]},
+      {"question":"Geçen hafta gereksiz para {{1}} (harcamak). Bütçe {{2}} (yapmak), daha iyi tasarruf ederim. Keşke alışverişten önce bütçe {{3}} (yapmak).","reponses":["harcadım","yaparsam","yapsaydım"]},
+      {"question":"Dün yanlış otobüse {{1}} (binmek). Tabelayı dikkatle {{2}} (okumak), doğru otobüse binerim. Keşke tabelayı {{3}} (okumak).","reponses":["bindim","okursam","okusaydım"]},
+      {"question":"Geçen ay kursa geç {{1}} (başlamak). Erken {{2}} (kaydolmak), daha çok ders alabilirim. Keşke daha önce {{3}} (kaydolmak).","reponses":["başladım","kaydolursam","kaydolsaydım"]},
+      {"question":"Dün raporda hata {{1}} (yapmak). Metni tekrar {{2}} (kontrol etmek), hataları bulurum. Keşke göndermeden önce kontrol {{3}} (etmek).","reponses":["yaptım","kontrol edersem","etseydim"]},
+      {"question":"Geçen hafta arkadaşımı {{1}} (aramamak). Vaktim {{2}} (olmak), bu akşam ararım. Keşke geçen hafta onu {{3}} (aramak).","reponses":["aramadım","olursa","arasaydım"]}
+    ]
+  },
+  {
+    "id": "059",
+    "titre": "Geçmişte daha önce tamamlanmış zaman – Gelecek zaman – Gelecekte tamamlanmış zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dün raporu çoktan {{1}} (bitirmek). Yarın müdüre {{2}} (sunmak). Toplantı gününe kadar ekleri de {{3}} (hazırlamak).","reponses":["bitirmiştim","sunacağım","hazırlamış olacağım"]},
+      {"question":"Geçen hafta biletleri {{1}} (almak). Gelecek ay İstanbul'a {{2}} (gitmek). Yolculuk gününe kadar bavulumu {{3}} (hazırlamak).","reponses":["almıştım","gideceğim","hazırlamış olacağım"]},
+      {"question":"Dün bütün e-postaları {{1}} (yanıtlamak). Yarın yeni mesajları {{2}} (kontrol etmek). Akşam olduğunda gelen bütün mesajları {{3}} (yanıtlamak).","reponses":["yanıtlamıştım","kontrol edeceğim","yanıtlamış olacağım"]},
+      {"question":"Geçen ay kursun ilk seviyesini {{1}} (bitirmek). Gelecek hafta ikinci seviyeye {{2}} (başlamak). Yaz sonuna kadar kursu {{3}} (tamamlamak).","reponses":["bitirmiştim","başlayacağım","tamamlamış olacağım"]},
+      {"question":"Sabah alışveriş listesini {{1}} (hazırlamak). Akşam markete {{2}} (gitmek). Eve dönene kadar bütün ihtiyaçları {{3}} (almak).","reponses":["hazırlamıştım","gideceğim","almış olacağım"]},
+      {"question":"Dün sunumun taslağını {{1}} (hazırlamak). Yarın slaytları {{2}} (tamamlamak). Toplantıdan önce sunumu tamamen {{3}} (bitirmek).","reponses":["hazırlamıştım","tamamlayacağım","bitirmiş olacağım"]},
+      {"question":"Geçen hafta yeni bir bilgisayar {{1}} (satın almak). Gelecek ay gerekli programları {{2}} (kurmak). İşe başlamadan önce sistemi {{3}} (hazırlamak).","reponses":["satın almıştım","kuracağım","hazırlamış olacağım"]},
+      {"question":"Dün belgeleri {{1}} (imzalamak). Yarın başvuru dosyasını {{2}} (göndermek). Son tarihe kadar bütün belgeleri {{3}} (teslim etmek).","reponses":["imzalamıştım","göndereceğim","teslim etmiş olacağım"]},
+      {"question":"Geçen ay para {{1}} (biriktirmek). Gelecek yıl bir araba {{2}} (almak). O zamana kadar gereken parayı {{3}} (biriktirmek).","reponses":["biriktirmiştim","alacağım","biriktirmiş olacağım"]},
+      {"question":"Dün kitabın yarısını {{1}} (okumak). Bu akşam okumaya devam {{2}} (etmek). Hafta sonuna kadar kitabı {{3}} (bitirmek).","reponses":["okumuştum","edeceğim","bitirmiş olacağım"]}
+    ]
+  },
+  {
+    "id": "060",
+    "titre": "Gelecek zaman – Gelecekte tamamlanmış zaman – Şart kipinin şimdiki zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Yarın Türkçe {{1}} (çalışmak). Akşama kadar iki üniteyi {{2}} (bitirmek). Vaktim {{3}} (olmak), daha fazla alıştırma yaparım.","reponses":["çalışacağım","bitirmiş olacağım","olursa"]},
+      {"question":"Gelecek hafta projeyi {{1}} (sunmak). O zamana kadar raporu {{2}} (hazırlamak). Ekip hazır {{3}} (olmak), sunuma başlayacağız.","reponses":["sunacağım","hazırlamış olacağım","olursa"]},
+      {"question":"Yarın doktora {{1}} (gitmek). Akşama kadar test sonuçlarını {{2}} (almak). Doktor gerekli {{3}} (görmek), başka testler yaptırırım.","reponses":["gideceğim","almış olacağım","görürse"]},
+      {"question":"Gelecek ay yeni bir kursa {{1}} (başlamak). İlk haftanın sonunda temel konuları {{2}} (öğrenmek). Kurs iyi {{3}} (gitmek), devam edeceğim.","reponses":["başlayacağım","öğrenmiş olacağım","giderse"]},
+      {"question":"Yarın evimi {{1}} (temizlemek). Akşama kadar bütün odaları {{2}} (düzenlemek). Zamanım {{3}} (kalmak), dolapları da temizlerim.","reponses":["temizleyeceğim","düzenlemiş olacağım","kalırsa"]},
+      {"question":"Gelecek hafta yeni ürünü {{1}} (tanıtmak). Lansmandan önce bütün testleri {{2}} (tamamlamak). Sonuçlar başarılı {{3}} (olmak), ürünü piyasaya çıkarırız.","reponses":["tanıtacağız","tamamlamış olacağız","olursa"]},
+      {"question":"Yarın erken {{1}} (yola çıkmak). Öğlene kadar şehre {{2}} (varmak). Trafik yoğun {{3}} (olmak), alternatif yolu kullanırım.","reponses":["yola çıkacağım","varmış olacağım","olursa"]},
+      {"question":"Gelecek ay makaleyi {{1}} (yayımlamak). O zamana kadar son düzeltmeleri {{2}} (yapmak). Editör onay {{3}} (vermek), yayımlanmasını sağlayacağız.","reponses":["yayımlayacağım","yapmış olacağım","verirse"]},
+      {"question":"Yarın misafirler için yemek {{1}} (hazırlamak). Saat yediye kadar sofrayı {{2}} (kurmak). Misafirler erken {{3}} (gelmek), hazırlıkları hızlandırırım.","reponses":["hazırlayacağım","kurmuş olacağım","gelirse"]},
+      {"question":"Gelecek yıl yeni bir dil {{1}} (öğrenmek). Yıl sonuna kadar yüzlerce kelime {{2}} (ezberlemek). Düzenli çalışırsam daha hızlı {{3}} (ilerlemek).","reponses":["öğreneceğim","ezberlemiş olacağım","ilerlerim"]}
+    ]
+  },
+  {
+    "id": "061",
+    "titre": "Gelecek zaman – Şart kipinin şimdiki zamanı – Şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Yarın erkenden {{1}} (kalkmak). Vaktim {{2}} (olmak), yürüyüş yaparım. Dün erken yatsaydım, bugün daha dinç {{3}} (olmak).","reponses":["kalkacağım","olursa","olurdum"]},
+      {"question":"Gelecek hafta sınava {{1}} (girmek). Daha çok {{2}} (çalışmak), başarılı olurum. Geçen hafta düzenli çalışsaydım, daha hazır {{3}} (olmak).","reponses":["gireceğim","çalışırsam","olurdum"]},
+      {"question":"Yarın arkadaşımı {{1}} (ziyaret etmek). Evde {{2}} (olmak), birlikte yemek yeriz. Dün onu arasaydım, ziyaret saatini öğrenmiş {{3}} (olmak).","reponses":["ziyaret edeceğim","olursa","olurdum"]},
+      {"question":"Gelecek ay yeni bir işe {{1}} (başlamak). İşler iyi {{2}} (gitmek), burada kalırım. Daha önce deneyim kazansaydım, işe daha hazır {{3}} (olmak).","reponses":["başlayacağım","giderse","olurdum"]},
+      {"question":"Yarın raporu {{1}} (göndermek). Müdür onay {{2}} (vermek), projeye devam ederiz. Dün raporu bitirseydim, bugün göndermiş {{3}} (olmak).","reponses":["göndereceğim","verirse","olurdum"]},
+      {"question":"Gelecek yaz Türkiye'ye {{1}} (gitmek). Bütçem yeterli {{2}} (olmak), daha uzun kalırım. Daha erken para biriktirseydim, daha uzun kalmış {{3}} (olmak).","reponses":["gideceğim","olursa","olurdum"]},
+      {"question":"Yarın spor salonuna {{1}} (gitmek). Kendimi iyi {{2}} (hissetmek), antrenman yaparım. Dün dinlenseydim, bugün daha iyi {{3}} (hissetmek).","reponses":["gideceğim","hissedersem","hissederdim"]},
+      {"question":"Gelecek hafta yeni bir bilgisayar {{1}} (almak). İndirim {{2}} (olmak), daha iyi bir model seçerim. Geçen ay bekleseydim, daha ucuzunu {{3}} (almak).","reponses":["alacağım","olursa","alırdım"]},
+      {"question":"Yarın toplantıya {{1}} (katılmak). Zamanında {{2}} (varmak), sunumu dinlerim. Daha erken çıksaydım, geçen toplantıya da yetişmiş {{3}} (olmak).","reponses":["katılacağım","varırsam","olurdum"]},
+      {"question":"Gelecek ay yeni bir projeye {{1}} (başlamak). Ekip hazır {{2}} (olmak), hemen çalışırız. Daha önce plan yapsaydık, projeye çoktan başlamış {{3}} (olmak).","reponses":["başlayacağım","olursa","olurduk"]}
+    ]
+  },
+  {
+    "id": "062",
+    "titre": "Gelecek zaman – Dilek-şart kipinin şimdiki zamanı – Dilek-şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Yarın sınava {{1}} (girmek). Keşke biraz daha fazla {{2}} (çalışmak). Dün düzenli çalışsaydım, şimdi daha hazır {{3}} (olmak).","reponses":["gireceğim","çalışsam","olurdum"]},
+      {"question":"Gelecek ay yeni bir eve {{1}} (taşınmak). Keşke daha geniş bir evde {{2}} (oturmak). Daha erken para biriktirseydim, daha büyük bir ev {{3}} (almak).","reponses":["taşınacağım","otursam","alırdım"]},
+      {"question":"Yarın yeni bir kursa {{1}} (başlamak). Keşke daha hızlı {{2}} (öğrenmek). Geçen yıl başlasaydım, şimdi daha ileri seviyede {{3}} (olmak).","reponses":["başlayacağım","öğrensem","olurdum"]},
+      {"question":"Gelecek hafta sunum {{1}} (yapmak). Keşke daha az {{2}} (heyecanlanmak). Önceden pratik yapsaydım, daha rahat konuşmuş {{3}} (olmak).","reponses":["yapacağım","heyecanlanmasam","olurdum"]},
+      {"question":"Yarın uzun bir yolculuğa {{1}} (çıkmak). Keşke daha erken {{2}} (hazırlanmak). Dün bavulumu hazırlasaydım, sabah acele etmemiş {{3}} (olmak).","reponses":["çıkacağım","hazırlansam","olurdum"]},
+      {"question":"Gelecek yıl yabancı bir ülkede {{1}} (çalışmak). Keşke daha akıcı {{2}} (konuşmak). Daha önce dil öğrenseydim, şimdi daha rahat iletişim kurmuş {{3}} (olmak).","reponses":["çalışacağım","konuşsam","olurdum"]},
+      {"question":"Yarın ailemi {{1}} (aramak). Keşke onlarla daha sık {{2}} (konuşmak). Geçen hafta arasaydım, haberleri öğrenmiş {{3}} (olmak).","reponses":["arayacağım","konuşsam","olurdum"]},
+      {"question":"Gelecek ay bir kitap {{1}} (yayımlamak). Keşke daha çok {{2}} (yazmak). Her gün yazsaydım, kitabı daha önce bitirmiş {{3}} (olmak).","reponses":["yayımlayacağım","yazsam","olurdum"]},
+      {"question":"Yarın yeni bir tarif {{1}} (denemek). Keşke yemek yaparken daha dikkatli {{2}} (olmak). Tarifi doğru izleseydim, yemek daha iyi {{3}} (olmak).","reponses":["deneyeceğim","olsam","olurdu"]},
+      {"question":"Gelecek hafta yarışmaya {{1}} (katılmak). Keşke daha düzenli {{2}} (antrenman yapmak). Daha çok çalışsaydım, yarışa daha hazır {{3}} (olmak).","reponses":["katılacağım","antrenman yapsam","olurdum"]}
+    ]
+  },
+  {
+    "id": "063",
+    "titre": "Gelecekte tamamlanmış zaman – Şart kipinin şimdiki zamanı – Şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Yarın akşama kadar raporu {{1}} (bitirmek). Daha fazla zamanım {{2}} (olmak), ek bilgiler de eklerim. Dün başlasaydım, raporu çoktan bitirmiş {{3}} (olmak).","reponses":["bitirmiş olacağım","olursa","olurdum"]},
+      {"question":"Ay sonuna kadar bütün borçlarımı {{1}} (ödemek). Gelirim artarsa daha fazla para {{2}} (biriktirmek). Daha önce tasarruf yapsaydım, borçlarımı daha önce ödemiş {{3}} (olmak).","reponses":["ödemiş olacağım","biriktiririm","olurdum"]},
+      {"question":"Yıl sonuna kadar kursu {{1}} (tamamlamak). Sonuçlar iyi {{2}} (olmak), ileri seviyeye geçerim. Daha erken başlasaydım, kursu çoktan bitirmiş {{3}} (olmak).","reponses":["tamamlamış olacağım","olursa","olurdum"]},
+      {"question":"Yarın sabaha kadar bütün belgeleri {{1}} (hazırlamak). Bir belge eksik {{2}} (olmak), ilgili kuruma başvururum. Listeyi kontrol etseydim, hiçbir belgeyi unutmamış {{3}} (olmak).","reponses":["hazırlamış olacağım","olursa","olurdum"]},
+      {"question":"Gelecek haftaya kadar sunumu {{1}} (tamamlamak). Ekip hazır {{2}} (olmak), provaya başlarız. Daha erken çalışsaydık, sunumu dün bitirmiş {{3}} (olmak).","reponses":["tamamlamış olacağım","olursa","olurduk"]},
+      {"question":"Üç ay içinde kondisyonumu {{1}} (geliştirmek). Kendimi iyi {{2}} (hissetmek), antrenman süresini artırırım. Düzenli çalışsaydım, şimdi daha güçlü {{3}} (olmak).","reponses":["geliştirmiş olacağım","hissedersem","olurdum"]},
+      {"question":"Yaz sonuna kadar yüz kelime daha {{1}} (öğrenmek). Daha fazla fırsatım {{2}} (olmak), her gün pratik yaparım. Daha önce başlasaydım, daha çok kelime öğrenmiş {{3}} (olmak).","reponses":["öğrenmiş olacağım","olursa","olurdum"]},
+      {"question":"Yarın akşam yemeği {{1}} (hazırlamak). Misafirler erken {{2}} (gelmek), hazırlıkları hızlandırırım. Daha önce alışveriş yapsaydım, yemeği çoktan hazırlamış {{3}} (olmak).","reponses":["hazırlamış olacağım","gelirse","olurdum"]},
+      {"question":"Dönem sonuna kadar bütün ödevleri {{1}} (teslim etmek). Yeni bir ödev {{2}} (verilmek), çalışma planımı değiştiririm. Daha düzenli çalışsaydım, ödevleri daha erken bitirmiş {{3}} (olmak).","reponses":["teslim etmiş olacağım","verilirse","olurdum"]},
+      {"question":"Gelecek yıla kadar yeni bir dil {{1}} (öğrenmek). Konuşma fırsatı {{2}} (bulmak), daha hızlı gelişirim. Daha önce pratik yapsaydım, şimdi daha akıcı konuşmuş {{3}} (olmak).","reponses":["öğrenmiş olacağım","bulursam","olurdum"]}
+    ]
+  },
+  {
+    "id": "064",
+    "titre": "Şart kipinin şimdiki zamanı – Şart kipinin geçmiş zamanı – Dilek-şart kipinin şimdiki zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Vaktim {{1}} (olmak), sana yardım ederim. Dün vaktim olsaydı, sana yardım {{2}} (etmek). Keşke şimdi daha fazla boş zamanım {{3}} (olmak).","reponses":["olursa","ederdim","olsa"]},
+      {"question":"Hava güzel {{1}} (olmak), yürüyüşe çıkarız. Dün hava güzel olsaydı, sahile {{2}} (gitmek). Keşke bugün de hava güzel {{3}} (olmak).","reponses":["olursa","giderdik","olsa"]},
+      {"question":"Otobüs erken {{1}} (gelmek), zamanında varırız. Dün erken gelseydi, toplantıya yetişmiş {{2}} (olmak). Keşke her zaman zamanında {{3}} (gelmek).","reponses":["gelirse","olurduk","gelse"]},
+      {"question":"Daha çok {{1}} (çalışmak), sınavı geçerim. Geçen dönem daha çok çalışsaydım, daha yüksek not {{2}} (almak). Keşke şimdi daha disiplinli {{3}} (olmak).","reponses":["çalışırsam","alırdım","olsam"]},
+      {"question":"İndirim {{1}} (olmak), yeni bir telefon alırım. Dün indirim olsaydı, telefonu daha ucuza {{2}} (almak). Keşke fiyatlar daha düşük {{3}} (olmak).","reponses":["olursa","alırdım","olsa"]},
+      {"question":"Arkadaşım {{1}} (gelmek), birlikte yemek yeriz. Dün gelseydi, ona yeni evimi {{2}} (göstermek). Keşke bu akşam da {{3}} (gelmek).","reponses":["gelirse","gösterirdim","gelse"]},
+      {"question":"Sorunu erken {{1}} (fark etmek), çözebiliriz. Dün fark etseydik, daha büyük bir zararı önlemiş {{2}} (olmak). Keşke herkes daha dikkatli {{3}} (olmak).","reponses":["fark edersek","olurduk","olsa"]},
+      {"question":"Yeterli param {{1}} (olmak), kursa kaydolurum. Geçen yıl param olsaydı, kursa {{2}} (başlamak). Keşke şimdi daha fazla param {{3}} (olmak).","reponses":["olursa","başlardım","olsa"]},
+      {"question":"İş erken {{1}} (bitmek), eve erken giderim. Dün erken bitseydi, arkadaşlarımla buluşmuş {{2}} (olmak). Keşke işler daha hızlı {{3}} (bitmek).","reponses":["biterse","olurdum","bitse"]},
+      {"question":"Bana haber {{1}} (vermek), sana yardım ederim. Dün haber verseydin, yanında {{2}} (olmak). Keşke bana daha erken {{3}} (haber vermek).","reponses":["verirsen","olurdum","versen"]}
+    ]
+  },
+  {
+    "id": "065",
+    "titre": "Şart kipinin geçmiş zamanı – Dilek-şart kipinin şimdiki zamanı – Dilek-şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Dün erken çıksaydım, otobüse yetişirdim. Keşke bugün de erken {{1}} (çıkmak). Daha erken çıksaydım, şimdi evde {{2}} (olmak).","reponses":["çıksam","olurdum"]},
+      {"question":"Daha çok çalışsaydım, sınavı geçerdim. Keşke şimdi daha düzenli {{1}} (çalışmak). Düzenli çalışsaydım, daha yüksek not {{2}} (almak).","reponses":["çalışsam","alırdım"]},
+      {"question":"Dün onu arasaydım, haber alırdım. Keşke şimdi ona {{1}} (telefon etmek). Daha erken arasaydım, sorunu çözmüş {{2}} (olmak).","reponses":["telefon etsem","olurdum"]},
+      {"question":"Daha dikkatli olsaydım, hata yapmazdım. Keşke şimdi de dikkatli {{1}} (olmak). Dikkatli olsaydım, bu hatayı yapmamış {{2}} (olmak).","reponses":["olsam","olurdum"]},
+      {"question":"Daha erken başlasaydık, projeyi bitirirdik. Keşke şimdi hemen {{1}} (başlamak). Zamanında başlasaydık, projeyi çoktan bitirmiş {{2}} (olmak).","reponses":["başlasak","olurduk"]},
+      {"question":"Dün dinlenseydim, bugün daha iyi hissederdim. Keşke şimdi biraz {{1}} (dinlenmek). Daha erken dinlenseydim, bu kadar yorgun {{2}} (olmamak).","reponses":["dinlensem","olmazdım"]},
+      {"question":"Daha fazla para biriktirseydim, bilgisayar alırdım. Keşke şimdi tasarruf {{1}} (yapmak). Düzenli biriktirseydim, bilgisayarı çoktan {{2}} (almak).","reponses":["yapsam","alırdım"]},
+      {"question":"Dün daha nazik konuşsaydım, arkadaşım kırılmazdı. Keşke şimdi ona özür {{1}} (dilemek). Daha dikkatli konuşsaydım, onu üzmemiş {{2}} (olmak).","reponses":["dilesem","olurdum"]},
+      {"question":"Daha erken yola çıksaydık, geç kalmazdık. Keşke şimdi yola {{1}} (çıkmak). Erken çıksaydık, toplantıya zamanında {{2}} (varmak).","reponses":["çıksak","varırdık"]},
+      {"question":"Daha fazla pratik yapsaydım, Türkçeyi daha iyi konuşurdum. Keşke şimdi her gün {{1}} (pratik yapmak). Düzenli çalışsaydım, daha akıcı konuşuyor {{2}} (olmak).","reponses":["pratik yapsam","olurdum"]}
+    ]
+  },
+  {
+    "id": "066",
+    "titre": "Dilek-şart kipinin şimdiki zamanı – Dilek-şart kipinin geçmiş zamanı – Dilek-şart kipinin geçmişteki hikâyesi",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Keşke bugün evde {{1}} (olmak). Dün evde olsaydım, sana yardım {{2}} (etmek). Daha önce haberim olsaydı, yanında {{3}} (olmak).","reponses":["olsam","ederdim","olurdum"]},
+      {"question":"Keşke daha çok kitap {{1}} (okumak). Daha çok okusaydım, sınavı daha kolay {{2}} (geçmek). Çocukken düzenli okusaydım, kelime dağarcığım daha geniş {{3}} (olmak).","reponses":["okusam","geçerdim","olurdu"]},
+      {"question":"Keşke şimdi daha fazla zamanım {{1}} (olmak). Dün vaktim olsaydı, projeyi {{2}} (bitirmek). Daha erken başlasaydım, projeyi çoktan bitirmiş {{3}} (olmak).","reponses":["olsa","bitirirdim","olurdum"]},
+      {"question":"Keşke bugün daha dikkatli {{1}} (olmak). Dün dikkatli olsaydım, hata yapmaz {{2}} (olmak). Talimatları okusaydım, yanlış işlem yapmamış {{3}} (olmak).","reponses":["olsam","olurdum","olurdum"]},
+      {"question":"Keşke daha iyi Türkçe {{1}} (konuşmak). Daha fazla çalışsaydım, toplantıda rahat konuşur {{2}} (olmak). Kursa daha önce başlasaydım, şimdi akıcı konuşuyor {{3}} (olmak).","reponses":["konuşsam","olurdum","olurdum"]},
+      {"question":"Keşke şimdi biraz {{1}} (dinlenmek). Dün dinlenseydim, bugün daha enerjik {{2}} (olmak). Daha erken yatsaydım, sabah yorgun uyanmamış {{3}} (olmak).","reponses":["dinlensem","olurdum","olurdum"]},
+      {"question":"Keşke daha fazla para {{1}} (biriktirmek). Geçen yıl tasarruf yapsaydım, yeni bilgisayar {{2}} (almak). Daha erken biriktirmeye başlasaydım, bilgisayarı çoktan almış {{3}} (olmak).","reponses":["biriktirsem","alırdım","olurdum"]},
+      {"question":"Keşke şimdi ailemle {{1}} (konuşmak). Dün onları arasaydım, haberlerini {{2}} (öğrenmek). Daha sık arasaydım, bu kadar merak etmemiş {{3}} (olmak).","reponses":["konuşsam","öğrenirdim","olurdum"]},
+      {"question":"Keşke daha cesur {{1}} (olmak). O fırsatı kabul etseydim, yeni deneyimler {{2}} (kazanmak). Teklifi değerlendirseydim, kariyerimde ilerlemiş {{3}} (olmak).","reponses":["olsam","kazanırdım","olurdum"]},
+      {"question":"Keşke bugün daha erken {{1}} (başlamak). Dün başlasaydım, işi zamanında {{2}} (bitirmek). Planı önceden yapsaydım, teslim tarihini kaçırmamış {{3}} (olmak).","reponses":["başlasam","bitirirdim","olurdum"]}
+    ]
+  },
+  {
+    "id": "067",
+    "titre": "Dilek-şart kipinin geçmişteki hikâyesi – Dilek-şart kipinin uzak geçmişi – Şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {"question":"Keşke dün daha erken {{1}} (çıkmak). Daha önce yola çıksaydım, otobüse yetişmiş {{2}} (olmak). Vaktinde çıksaydım, geç {{3}} (kalmak).","reponses":["çıksaydım","olurdum","kalmazdım"]},
+      {"question":"Keşke sınava daha iyi {{1}} (hazırlanmak). Daha çok çalışmış olsaydım, daha yüksek not {{2}} (almak). Düzenli çalışsaydım, konuları daha iyi {{3}} (anlamak).","reponses":["hazırlansaydım","alırdım","anlardım"]},
+      {"question":"Keşke arkadaşımı dün {{1}} (aramak). Daha erken arasaydım, onunla konuşmuş {{2}} (olmak). Telefonum çalışsaydı, ona ulaşmış {{3}} (olmak).","reponses":["arasaydım","olurdum","olurdum"]},
+      {"question":"Keşke o fırsatı {{1}} (kaçırmamak). Teklifi kabul etmiş olsaydım, yeni deneyimler {{2}} (kazanmak). Daha cesur davransaydım, bu fırsatı değerlendirmiş {{3}} (olmak).","reponses":["kaçırmasaydım","kazanırdım","olurdum"]},
+      {"question":"Keşke dün daha dikkatli {{1}} (olmak). Talimatları okumuş olsaydım, hata yapmamış {{2}} (olmak). Daha dikkatli çalışsaydım, işi doğru {{3}} (bitirmek).","reponses":["olsaydım","olurdum","bitirirdim"]},
+      {"question":"Keşke daha erken {{1}} (başlamak). Önceden plan yapmış olsaydım, projeyi bitirmiş {{2}} (olmak). Zamanımı iyi kullansaydım, son güne kalmaz {{3}} (olmak).","reponses":["başlasaydım","olurdum","olurdum"]},
+      {"question":"Keşke geçen yıl daha çok para {{1}} (biriktirmek). Düzenli tasarruf etmiş olsaydım, bilgisayar {{2}} (almak). Harcamalarımı kontrol etseydim, daha fazla para biriktirmiş {{3}} (olmak).","reponses":["biriktirseydim","alırdım","olurdum"]},
+      {"question":"Keşke dün daha erken {{1}} (yatmak). Erken yatmış olsaydım, sabah dinç {{2}} (uyanmak). Zamanında uyusaydım, toplantıya geç {{3}} (kalmak).","reponses":["yatsaydım","uyanırdım","kalmazdım"]},
+      {"question":"Keşke o gün gerçeği {{1}} (söylemek). Dürüst davransaydım, yanlış anlaşılmayı önlemiş {{2}} (olmak). Açık konuşsaydım, sorun daha erken {{3}} (çözülmek).","reponses":["söyleseydim","olurdum","çözülürdü"]},
+      {"question":"Keşke daha fazla pratik {{1}} (yapmak). Düzenli çalışmış olsaydım, Türkçeyi daha akıcı {{2}} (konuşmak). Her gün konuşsaydım, kendime daha çok güvenmiş {{3}} (olmak).","reponses":["yapsaydım","konuşurdum","olurdum"]}
+    ]
   }
 ]
 
