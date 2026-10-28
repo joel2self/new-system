@@ -638,5 +638,475 @@
       {"question": "Doktor hastayı {{1}} (muayene etmek). Hastaya biraz su {{2}} (vermek).", "reponses": ["muayene etti", "versem"]},
       {"question": "Sen beni {{1}} (aramak). Şimdi sana her şeyi {{2}} (anlatmak).", "reponses": ["aradın", "anlatsam"]}
     ]
+  },
+   {
+    "id": "021",
+    "titre": "Yakın geçmiş zaman – Dilek-şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Dün seni {{1}} (aramak), ama telefonum çalışmadı. Keşke seni daha önce {{2}} (aramak).",
+        "reponses": ["aradım", "arayıp"]
+      },
+      {
+        "question": "O sabah erkenden {{1}} (gelmek). Keşke biz de onunla birlikte {{2}} (gelmek).",
+        "reponses": ["geldi", "gelseydik"]
+      },
+      {
+        "question": "Geçen hafta bu kitabı {{1}} (okumak). Keşke daha önce {{2}} (okumak).",
+        "reponses": ["okudum", "okusaydım"]
+      },
+      {
+        "question": "Dün toplantıya {{1}} (katılmak). Keşke ben de toplantıya {{2}} (katılmak).",
+        "reponses": ["katıldım", "katılsaydım"]
+      },
+      {
+        "question": "Geçen yıl İstanbul'u {{1}} (gezmek). Keşke daha fazla müze {{2}} (gezmek).",
+        "reponses": ["gezdim", "gezseydim"]
+      },
+      {
+        "question": "Dün ödevini {{1}} (bitirmek). Keşke ben de ödevimi zamanında {{2}} (bitirmek).",
+        "reponses": ["bitirdi", "bitirseydim"]
+      },
+      {
+        "question": "Geçen ay yeni bir bilgisayar {{1}} (almak). Keşke daha ucuz bir model {{2}} (almak).",
+        "reponses": ["aldım", "alsaydım"]
+      },
+      {
+        "question": "Dün otobüsü {{1}} (kaçırmak). Keşke evden daha erken {{2}} (çıkmak).",
+        "reponses": ["kaçırdım", "çıksaydım"]
+      },
+      {
+        "question": "Geçen hafta doktora {{1}} (gitmek). Keşke randevumu daha erken {{2}} (almak).",
+        "reponses": ["gittim", "alsaydım"]
+      },
+      {
+        "question": "Dün sana gerçeği {{1}} (söylemek). Keşke ona da aynı şeyi {{2}} (söylemek).",
+        "reponses": ["söyledim", "söyleseydim"]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Hikâye birleşik olmayan geçmiş zaman – Miş’li geçmişin hikâyesi / uzak geçmiş",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eskiden burada büyük bir fabrika {{1}} (bulunmak). Sonradan fabrikanın yıllar önce {{2}} (kapanmak) olduğunu öğrendik.",
+        "reponses": ["bulunurdu", "kapanmış"]
+      },
+      {
+        "question": "Çocukken dedem bize sık sık masallar {{1}} (anlatmak). Meğer bu masalları kendi dedesinden {{2}} (öğrenmek).",
+        "reponses": ["anlatırdı", "öğrenmiş"]
+      },
+      {
+        "question": "O yıllarda insanlar mektuplarla {{1}} (haberleşmek). İnterneti ise çok daha sonra {{2}} (keşfetmek).",
+        "reponses": ["haberleşirdi", "keşfetmişler"]
+      },
+      {
+        "question": "Eskiden bu sokakta küçük dükkânlar {{1}} (olmak). Birçoğu ekonomik kriz sırasında {{2}} (kapanmak).",
+        "reponses": ["olurdu", "kapanmış"]
+      },
+      {
+        "question": "Gençliğinde her yaz köye {{1}} (gitmek). Ailesinin o köyde uzun yıllar {{2}} (yaşamak) olduğunu sonradan öğrendi.",
+        "reponses": ["giderdi", "yaşamış"]
+      },
+      {
+        "question": "Öğretmenimiz derslerde eski olayları {{1}} (anlatmak). Bu olayların bazılarını bizzat {{2}} (yaşamak).",
+        "reponses": ["anlatırdı", "yaşamış"]
+      },
+      {
+        "question": "Eskiden bu bölgede çok kar {{1}} (yağmak). Yaşlılar, kışların daha da sert {{2}} (geçmek) olduğunu söylüyor.",
+        "reponses": ["yağardı", "geçmiş"]
+      },
+      {
+        "question": "Babam çocukken yürüyerek okula {{1}} (gitmek). Okulun çok uzak bir köyde {{2}} (kurulmak) olduğunu anlattı.",
+        "reponses": ["giderdi", "kurulmuş"]
+      },
+      {
+        "question": "Eskiden komşular birbirlerine sık sık {{1}} (yardım etmek). Bu geleneğin çok eski zamanlardan beri {{2}} (sürmek) olduğu söyleniyor.",
+        "reponses": ["yardım ederdi", "sürmüş"]
+      },
+      {
+        "question": "O dönemde insanlar daha sade bir hayat {{1}} (yaşamak). Şehrin bugünkü hâlinin kısa sürede {{2}} (değişmek) olduğunu öğrendik.",
+        "reponses": ["yaşardı", "değişmiş"]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Hikâye birleşik olmayan geçmiş zaman – Belirli geçmiş zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eskiden her sabah erken {{1}} (kalkmak). Dün ise alarmı duymadım ve geç {{2}} (kalkmak).",
+        "reponses": ["kalkardım", "kalktım"]
+      },
+      {
+        "question": "Çocukken hafta sonları parkta {{1}} (oynamak). Geçen pazar da arkadaşlarımla orada {{2}} (oynamak).",
+        "reponses": ["oynardım", "oynadım"]
+      },
+      {
+        "question": "Her yaz ailemle köye {{1}} (gitmek). Geçen yaz ilk kez tek başıma {{2}} (gitmek).",
+        "reponses": ["giderdim", "gittim"]
+      },
+      {
+        "question": "Önceden kahvemi şekersiz {{1}} (içmek). Bu sabah yanlışlıkla şekerli kahve {{2}} (içmek).",
+        "reponses": ["içerdim", "içtim"]
+      },
+      {
+        "question": "Eskiden her akşam kitap {{1}} (okumak). Dün gece de yeni romanımı {{2}} (bitirmek).",
+        "reponses": ["okurdum", "bitirdim"]
+      },
+      {
+        "question": "Gençken çok sık bisiklete {{1}} (binmek). Dün yıllar sonra yeniden bisiklete {{2}} (binmek).",
+        "reponses": ["binerdim", "bindim"]
+      },
+      {
+        "question": "Önceleri işe otobüsle {{1}} (gitmek). Dün ilk kez işe yürüyerek {{2}} (gitmek).",
+        "reponses": ["giderdim", "gittim"]
+      },
+      {
+        "question": "Her cuma arkadaşlarımla buluşup yemek {{1}} (yemek). Geçen cuma yeni bir restoranda yemek {{2}} (yemek).",
+        "reponses": ["yerdim", "yedim"]
+      },
+      {
+        "question": "Eskiden tatillerde denizde {{1}} (yüzmek). Geçen hafta da saatlerce {{2}} (yüzmek).",
+        "reponses": ["yüzerdim", "yüzdüm"]
+      },
+      {
+        "question": "Çocukken anneme ev işlerinde {{1}} (yardım etmek). Dün de evi temizlemesine {{2}} (yardım etmek).",
+        "reponses": ["yardım ederdim", "yardım ettim"]
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "Hikâye birleşik olmayan geçmiş zaman – Geçmişte daha önce tamamlanmış zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eskiden işe gitmeden önce kahvaltı {{1}} (yapmak). Dün ofise vardığımda kahvaltımı çoktan {{2}} (yapmak).",
+        "reponses": ["yapardım", "yapmıştım"]
+      },
+      {
+        "question": "Çocukken okuldan sonra ödevlerimi {{1}} (bitirmek). Öğretmen geldiğinde ödevimi zaten {{2}} (bitirmek).",
+        "reponses": ["bitirirdim", "bitirmiştim"]
+      },
+      {
+        "question": "Her akşam yatmadan önce dişlerimi {{1}} (fırçalamak). Dün gece uyumadan önce dişlerimi {{2}} (fırçalamak).",
+        "reponses": ["fırçalardım", "fırçalamıştım"]
+      },
+      {
+        "question": "Eskiden seyahatten önce bavulumu erkenden {{1}} (hazırlamak). Geçen gün taksi geldiğinde bavulumu çoktan {{2}} (hazırlamak).",
+        "reponses": ["hazırlardım", "hazırlamıştım"]
+      },
+      {
+        "question": "Her sabah işe gitmeden önce e-postalarımı {{1}} (kontrol etmek). Dün toplantı başladığında önemli mesajları zaten {{2}} (okumak).",
+        "reponses": ["kontrol ederdim", "okumuştum"]
+      },
+      {
+        "question": "Eskiden sınavlardan önce notlarımı tekrar {{1}} (okumak). Sınav başladığında bütün konuları {{2}} (çalışmak).",
+        "reponses": ["okurdum", "çalışmıştım"]
+      },
+      {
+        "question": "Her hafta sonu alışveriş listesini {{1}} (hazırlamak). Dün markete gittiğimde listeyi evde {{2}} (unutmak).",
+        "reponses": ["hazırlardım", "unutmuştum"]
+      },
+      {
+        "question": "Önceden misafir gelmeden evi {{1}} (temizlemek). Misafirler geldiğinde bütün odaları {{2}} (temizlemek).",
+        "reponses": ["temizlerdim", "temizlemiştim"]
+      },
+      {
+        "question": "Eskiden derse başlamadan önce sözlüğümü {{1}} (açmak). Öğretmen yeni kelimeyi sorduğunda anlamını zaten {{2}} (bulmak).",
+        "reponses": ["açardım", "bulmuştum"]
+      },
+      {
+        "question": "Her akşam ertesi günün programını {{1}} (planlamak). Dün sabah ofise vardığımda toplantı saatlerini çoktan {{2}} (belirlemek).",
+        "reponses": ["planlardım", "belirlemiştim"]
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "titre": "Hikâye birleşik olmayan geçmiş zaman – Gelecek zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eskiden her sabah yürüyüş {{1}} (yapmak). Yarın da erkenden yürüyüş {{2}} (yapmak).",
+        "reponses": ["yapardım", "yapacağım"]
+      },
+      {
+        "question": "Çocukken yaz tatillerinde köye {{1}} (gitmek). Bu yaz yine köye {{2}} (gitmek).",
+        "reponses": ["giderdim", "gideceğim"]
+      },
+      {
+        "question": "Eskiden hafta sonları ailemle yemek {{1}} (pişirmek). Pazar günü onlar için özel bir yemek {{2}} (pişirmek).",
+        "reponses": ["pişirirdim", "pişireceğim"]
+      },
+      {
+        "question": "Önceden her akşam Türkçe {{1}} (çalışmak). Bu akşam da iki saat Türkçe {{2}} (çalışmak).",
+        "reponses": ["çalışırdım", "çalışacağım"]
+      },
+      {
+        "question": "Gençken sık sık dağlarda {{1}} (yürümek). Gelecek hafta sonu yine dağlarda {{2}} (yürümek).",
+        "reponses": ["yürürdüm", "yürüyeceğim"]
+      },
+      {
+        "question": "Eskiden her ay yeni bir kitap {{1}} (satın almak). Bu ay da yeni bir roman {{2}} (satın almak).",
+        "reponses": ["satın alırdım", "satın alacağım"]
+      },
+      {
+        "question": "Önceleri işe bisikletle {{1}} (gitmek). Havalar düzelince yeniden bisikletle {{2}} (gitmek).",
+        "reponses": ["giderdim", "gideceğim"]
+      },
+      {
+        "question": "Her kış ailemle kayak {{1}} (yapmak). Bu kış da kayak {{2}} (yapmak).",
+        "reponses": ["yapardım", "yapacağım"]
+      },
+      {
+        "question": "Eskiden her cuma arkadaşlarımla buluşmak için zaman {{1}} (ayırmak). Bu cuma da onlara zaman {{2}} (ayırmak).",
+        "reponses": ["ayırırdım", "ayıracağım"]
+      },
+      {
+        "question": "Çocukken her gece uyumadan önce masal {{1}} (dinlemek). Bu akşam kardeşime bir masal {{2}} (anlatmak).",
+        "reponses": ["dinlerdim", "anlatacağım"]
+      }
+    ]
+  },
+  {
+    "id": "026",
+    "titre": "Hikâye birleşik olmayan geçmiş zaman – Gelecekte tamamlanmış zaman",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eskiden her gün Türkçe {{1}} (çalışmak). Yıl sonuna kadar bin yeni kelime {{2}} (öğrenmek).",
+        "reponses": ["çalışırdım", "öğrenmiş olacağım"]
+      },
+      {
+        "question": "Önceden her hafta bir kitap {{1}} (okumak). Ay sonuna kadar beş kitap {{2}} (bitirmek).",
+        "reponses": ["okurdum", "bitirmiş olacağım"]
+      },
+      {
+        "question": "Eskiden düzenli olarak spor {{1}} (yapmak). Gelecek yaz daha iyi bir kondisyon {{2}} (kazanmak).",
+        "reponses": ["yapardım", "kazanmış olacağım"]
+      },
+      {
+        "question": "Her sabah yeni kelimeler {{1}} (ezberlemek). Bu kurs bittiğinde çok sayıda kelime {{2}} (öğrenmek).",
+        "reponses": ["ezberlerdim", "öğrenmiş olacağım"]
+      },
+      {
+        "question": "Eskiden her ay para {{1}} (biriktirmek). Yıl sonunda yeni bir bilgisayar alacak kadar para {{2}} (biriktirmek).",
+        "reponses": ["biriktirirdim", "biriktirmiş olacağım"]
+      },
+      {
+        "question": "Önceden her gün kısa metinler {{1}} (yazmak). Dönem sonunda yirmi makale {{2}} (yazmak).",
+        "reponses": ["yazardım", "yazmış olacağım"]
+      },
+      {
+        "question": "Eskiden her hafta yeni bir tarif {{1}} (denemek). Yaz tatiline kadar on farklı yemek {{2}} (öğrenmek).",
+        "reponses": ["denerdim", "öğrenmiş olacağım"]
+      },
+      {
+        "question": "Her gün düzenli olarak yürüyüş {{1}} (yapmak). Birkaç ay sonra daha uzun mesafeler {{2}} (yürümek).",
+        "reponses": ["yapardım", "yürümüş olacağım"]
+      },
+      {
+        "question": "Eskiden her akşam ders {{1}} (tekrar etmek). Sınav gününe kadar bütün konuları {{2}} (gözden geçirmek).",
+        "reponses": ["tekrar ederdim", "gözden geçirmiş olacağım"]
+      },
+      {
+        "question": "Önceden her hafta bir proje üzerinde {{1}} (çalışmak). Yıl sonuna kadar üç projeyi {{2}} (tamamlamak).",
+        "reponses": ["çalışırdım", "tamamlamış olacağım"]
+      }
+    ]
+  },
+  {
+    "id": "027",
+    "titre": "Hikâye birleşik olmayan geçmiş zaman – Şart kipinin şimdiki zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eskiden her gün spor {{1}} (yapmak). Daha sağlıklı olmak için düzenli spor {{2}} (yapmak) iyi olur.",
+        "reponses": ["yapardım", "yapsan"]
+      },
+      {
+        "question": "Çocukken çok kitap {{1}} (okumak). Daha fazla kitap {{2}} (okumak), kelime dağarcığını geliştirir.",
+        "reponses": ["okurdum", "okusan"]
+      },
+      {
+        "question": "Eskiden erken {{1}} (yatmak). Sabah daha dinç olmak istiyorsan erken {{2}} (yatmak).",
+        "reponses": ["yatardım", "yatsan"]
+      },
+      {
+        "question": "Önceden işe yürüyerek {{1}} (gitmek). Biraz hareket etmek istiyorsan işe yürüyerek {{2}} (gitmek).",
+        "reponses": ["giderdim", "gitsen"]
+      },
+      {
+        "question": "Gençken sık sık yabancı dil {{1}} (öğrenmek). Yeni fırsatlar bulmak için başka bir dil {{2}} (öğrenmek).",
+        "reponses": ["öğrenirdim", "öğrensen"]
+      },
+      {
+        "question": "Eskiden her hafta ailemi {{1}} (ziyaret etmek). Onları daha sık {{2}} (ziyaret etmek), ilişkilerinizi güçlendirir.",
+        "reponses": ["ziyaret ederdim", "ziyaret etsen"]
+      },
+      {
+        "question": "Çocukken bahçede çok {{1}} (oynamak). Biraz dinlenmek için dışarıda {{2}} (oynamak).",
+        "reponses": ["oynardım", "oynasak"]
+      },
+      {
+        "question": "Önceden her gün not {{1}} (tutmak). Dersleri daha iyi hatırlamak için not {{2}} (tutmak).",
+        "reponses": ["tutardım", "tutsan"]
+      },
+      {
+        "question": "Eskiden hafta sonları yemek {{1}} (pişirmek). Yeni tarifler öğrenmek için birlikte yemek {{2}} (pişirmek).",
+        "reponses": ["pişirirdim", "pişirsek"]
+      },
+      {
+        "question": "Gençken düzenli olarak müzik {{1}} (dinlemek). Daha iyi odaklanmak için sakin müzik {{2}} (dinlemek).",
+        "reponses": ["dinlerdim", "dinlesen"]
+      }
+    ]
+  },
+  {
+    "id": "028",
+    "titre": "Hikâye birleşik olmayan geçmiş zaman – Şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eskiden daha dikkatli {{1}} (çalışmak). Keşke geçen sınav için daha dikkatli {{2}} (çalışmak).",
+        "reponses": ["çalışırdım", "çalışsaydım"]
+      },
+      {
+        "question": "Çocukken daha çok kitap {{1}} (okumak). Keşke okul yıllarında daha fazla kitap {{2}} (okumak).",
+        "reponses": ["okurdum", "okusaydım"]
+      },
+      {
+        "question": "Önceden paramı dikkatli {{1}} (harcamak). Keşke geçen ay daha az para {{2}} (harcamak).",
+        "reponses": ["harcardım", "harcasaydım"]
+      },
+      {
+        "question": "Eskiden fırsatları hemen {{1}} (değerlendirmek). Keşke o iş teklifini {{2}} (kabul etmek).",
+        "reponses": ["değerlendirirdim", "kabul etseydim"]
+      },
+      {
+        "question": "Gençken daha çok seyahat {{1}} (etmek). Keşke geçen yaz başka ülkelere de {{2}} (gitmek).",
+        "reponses": ["ederdim", "gitseydim"]
+      },
+      {
+        "question": "Önceden sağlığıma daha fazla dikkat {{1}} (etmek). Keşke geçen hafta daha erken {{2}} (dinlenmek).",
+        "reponses": ["ederdim", "dinlenseydim"]
+      },
+      {
+        "question": "Eskiden işlerimi son güne {{1}} (bırakmak). Keşke bu projeyi daha erken {{2}} (bitirmek).",
+        "reponses": ["bırakırdım", "bitirseydim"]
+      },
+      {
+        "question": "Çocukken müzik derslerine {{1}} (katılmak). Keşke piyano öğrenmeye devam {{2}} (etmek).",
+        "reponses": ["katılırdım", "etseydim"]
+      },
+      {
+        "question": "Önceden yabancı dil öğrenmeye daha fazla zaman {{1}} (ayırmak). Keşke üniversitedeyken Almanca {{2}} (öğrenmek).",
+        "reponses": ["ayırırdım", "öğrenseydim"]
+      },
+      {
+        "question": "Eskiden düşünmeden karar {{1}} (vermek). Keşke o gün daha dikkatli {{2}} (düşünmek).",
+        "reponses": ["verirdim", "düşünseydim"]
+      }
+    ]
+  },
+  {
+    "id": "029",
+    "titre": "Hikâye birleşik olmayan geçmiş zaman – Dilek-şart kipinin şimdiki zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eskiden daha erken {{1}} (kalkmak). Keşke şimdi de her sabah erken {{2}} (kalkmak).",
+        "reponses": ["kalkardım", "kalksam"]
+      },
+      {
+        "question": "Çocukken daha çok spor {{1}} (yapmak). Keşke bugün de düzenli spor {{2}} (yapmak).",
+        "reponses": ["yapardım", "yapsam"]
+      },
+      {
+        "question": "Önceden her gün Türkçe {{1}} (çalışmak). Keşke şimdi de her gün Türkçe {{2}} (çalışmak).",
+        "reponses": ["çalışırdım", "çalışsam"]
+      },
+      {
+        "question": "Eskiden ailemle daha fazla zaman {{1}} (geçirmek). Keşke bu hafta onlarla daha çok zaman {{2}} (geçirmek).",
+        "reponses": ["geçirirdim", "geçirsem"]
+      },
+      {
+        "question": "Gençken daha cesur {{1}} (olmak). Keşke bugün de kararlarımda daha cesur {{2}} (olmak).",
+        "reponses": ["olurdum", "olsam"]
+      },
+      {
+        "question": "Önceden daha sık kitap {{1}} (okumak). Keşke bu ay daha fazla kitap {{2}} (okumak).",
+        "reponses": ["okurdum", "okusam"]
+      },
+      {
+        "question": "Eskiden daha az endişelenmek için yürüyüş {{1}} (yapmak). Keşke bugün biraz yürüyüş {{2}} (yapmak).",
+        "reponses": ["yapardım", "yapsam"]
+      },
+      {
+        "question": "Çocukken resim {{1}} (çizmek). Keşke şimdi yeniden resim {{2}} (çizmek).",
+        "reponses": ["çizerdim", "çizsem"]
+      },
+      {
+        "question": "Eskiden yeni insanlarla kolayca {{1}} (tanışmak). Keşke bu etkinlikte de daha girişken {{2}} (olmak).",
+        "reponses": ["tanışırdım", "olsam"]
+      },
+      {
+        "question": "Önceden her hafta sonu doğaya {{1}} (çıkmak). Keşke bu hafta sonu da doğaya {{2}} (çıkmak).",
+        "reponses": ["çıkardım", "çıksam"]
+      }
+    ]
+  },
+  {
+    "id": "030",
+    "titre": "Hikâye birleşik olmayan geçmiş zaman – Dilek-şart kipinin geçmiş zamanı",
+    "consigne": "Fiilleri bağlama uygun şekilde tamamlayın.",
+    "questions": [
+      {
+        "question": "Eskiden daha planlı {{1}} (çalışmak). Keşke dün de daha planlı {{2}} (çalışmak).",
+        "reponses": ["çalışırdım", "çalışsaydım"]
+      },
+      {
+        "question": "Çocukken daha çok kitap {{1}} (okumak). Keşke tatilde daha fazla kitap {{2}} (okumak).",
+        "reponses": ["okurdum", "okusaydım"]
+      },
+      {
+        "question": "Önceden fırsatları daha iyi {{1}} (değerlendirmek). Keşke geçen yıl o fırsatı {{2}} (değerlendirmek).",
+        "reponses": ["değerlendirirdim", "değerlendirseydim"]
+      },
+      {
+        "question": "Eskiden aileme daha sık {{1}} (yardım etmek). Keşke dün ev işlerinde onlara {{2}} (yardım etmek).",
+        "reponses": ["yardım ederdim", "yardım etseydim"]
+      },
+      {
+        "question": "Gençken yabancı dillere daha fazla zaman {{1}} (ayırmak). Keşke üniversitede Fransızcaya daha çok zaman {{2}} (ayırmak).",
+        "reponses": ["ayırırdım", "ayırmış olsaydım"]
+      },
+      {
+        "question": "Önceden daha dikkatli {{1}} (dinlemek). Keşke toplantıda bütün açıklamaları dikkatle {{2}} (dinlemek).",
+        "reponses": ["dinlerdim", "dinleseydim"]
+      },
+      {
+        "question": "Eskiden işlerimi son ana {{1}} (bırakmak). Keşke raporu zamanında {{2}} (bitirmek).",
+        "reponses": ["bırakırdım", "bitirseydim"]
+      },
+      {
+        "question": "Çocukken müzikle daha çok {{1}} (ilgilenmek). Keşke piyano derslerine devam {{2}} (etmek).",
+        "reponses": ["ilgilenirdim", "etseydim"]
+      },
+      {
+        "question": "Önceden daha sık seyahat {{1}} (etmek). Keşke geçen yaz Türkiye'ye de {{2}} (gitmek).",
+        "reponses": ["ederdim", "gitseydim"]
+      },
+      {
+        "question": "Eskiden karar vermeden önce daha çok {{1}} (düşünmek). Keşke o gün acele etmeden {{2}} (karar vermek).",
+        "reponses": ["düşünürdüm", "karar verseydim"]
+      }
+    ]
   }
 ]
