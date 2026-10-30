@@ -2,7 +2,7 @@
   {
     "id": "001",
     "titre": "Introducing Myself",
-    "titre2": "Exercice 1",
+    "titre2": "Exercise 1",
     "texte": [
       "Hello! My name is Sarah. I am 25 years old and I am Canadian.",
       "I have been living in Paris for two months for my studies.",
@@ -80,7 +80,7 @@
   {
     "id": "002",
     "titre": "My Family",
-    "titre2": "Exercice 2",
+    "titre2": "Exercise 2",
     "texte": [
       "There are four people in my family: my father, my mother, my brother, and me.",
       "My father's name is Thomas. He is 50 years old and he is an engineer.",
@@ -158,7 +158,7 @@
   {
     "id": "003",
     "titre": "My Best Friend",
-    "titre2": "Exercice 3",
+    "titre2": "Exercise 3",
     "texte": [
       "My best friend's name is Nicolas. We have known each other since primary school.",
       "He is tall, he has short hair, and he wears glasses.",
@@ -236,7 +236,7 @@
   {
     "id": "004",
     "titre": "My Daily Routine",
-    "titre2": "Exercice 4",
+    "titre2": "Exercise 4",
     "texte": [
       "During the week, my daily routine is very regular.",
       "I leave my house at 8:00 AM to go to work at the office.",
@@ -314,7 +314,7 @@
 {
 "id": "005",
 "titre": "Waking Up in the Morning",
-"titre2": "Exercice 5",
+"titre2": "Exercise 5",
 "texte": [
 "Every morning, my alarm clock rings at exactly 6:30 AM.",
 "I stay in my bed for five minutes, then I get up to open the curtains.",
@@ -392,7 +392,7 @@
 {
 "id": "006",
 "titre": "My Breakfast",
-"titre2": "Exercice 6",
+"titre2": "Exercise 6",
 "texte": [
 "Breakfast is my favorite meal of the day.",
 "I always drink a large cup of hot coffee with a little milk.",
@@ -470,7 +470,7 @@
 {
 "id": "007",
 "titre": "My Daily Schedule",
-"titre2": "Exercice 7",
+"titre2": "Exercise 7",
 "texte": [
 "I have a very busy schedule this week.",
 "On Mondays and Wednesdays, I have French classes from 9:00 AM to 12:00 PM.",
@@ -548,7 +548,7 @@
 {
 "id": "008",
 "titre": "My House",
-"titre2": "Exercice 8",
+"titre2": "Exercise 8",
 "texte": [
 "I live in a pretty white house with a large green garden.",
 "On the ground floor, there is a large modern kitchen and a comfortable living room.",
@@ -626,7 +626,7 @@
 {
 "id": "009",
 "titre": "My Bedroom",
-"titre2": "Exercice 9",
+"titre2": "Exercise 9",
 "texte": [
 "My bedroom is my favorite room because it is very quiet.",
 "In the middle of the room, there is a comfortable bed with white pillows.",
@@ -704,7 +704,7 @@
 {
 "id": "010",
 "titre": "My Neighborhood",
-"titre2": "Exercice 10",
+"titre2": "Exercise 10",
 "texte": [
 "I live in a very pleasant and dynamic neighborhood in the city.",
 "Near my house, there is a bakery to buy fresh bread in the morning.",
@@ -782,7 +782,7 @@
 {
     "id": "011",
     "titre": "My First Day at School",
-    "titre2": "Exercice 11",
+    "titre2": "Exercise 11",
     "texte": [
       "Today is a very special day because it is my first day at my new school.",
       "I wake up early in the morning and put on my favorite black shoes.",
@@ -860,7 +860,7 @@
   {
     "id": "012",
     "titre": "In My Classroom",
-    "titre2": "Exercice 12",
+    "titre2": "Exercise 12",
     "texte": [
       "My classroom is very large, clean, and beautifully organized.",
       "At the front of the room, there is a modern interactive whiteboard.",
@@ -1094,7 +1094,7 @@
 {
 "id": "015",
 "titre": "My Classmates",
-"titre2": "Exercice 15",
+"titre2": "Exercise 15",
 "texte": [
 "In my new classroom, there are twenty-five students in total.",
 "My classmates come from many different neighborhoods of the city.",
@@ -3115,6 +3115,2346 @@
 { "id": "b", "texte": "Light and excellent for body health", "correcte": true },
 { "id": "c", "texte": "Too expensive for his weekly shopping budget", "correcte": false },
 { "id": "d", "texte": "Bad for his performance at sports", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "041",
+    "titre": "My Favorite Sport",
+    "titre2": "Exercise 41",
+    "texte": [
+      "I think running is the best physical activity to stay in good shape.",
+      "Every Tuesday evening, I go outside to practice my favorite sport.",
+      "I put on my comfortable black running shoes and a light t-shirt.",
+      "I run for thirty minutes around the beautiful lake in the center park.",
+      "After the long exercise, I drink clear plain water and take a hot shower."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-041-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-041-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-041-01",
+        "question": "What is the author's favorite sport according to the text?",
+        "reponses": [
+          { "id": "a", "texte": "Playing tennis", "correcte": false },
+          { "id": "b", "texte": "Swimming in the sea", "correcte": false },
+          { "id": "c", "texte": "Running", "correcte": true },
+          { "id": "d", "texte": "Riding a bicycle", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-041-02",
+        "question": "On which day does the author practice this sport?",
+        "reponses": [
+          { "id": "a", "texte": "Every Tuesday evening", "correcte": true },
+          { "id": "b", "texte": "Every Saturday morning", "correcte": false },
+          { "id": "c", "texte": "Only on Sundays", "correcte": false },
+          { "id": "d", "texte": "Every Friday afternoon", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-041-03",
+        "question": "What kind of shoes does the author put on?",
+        "reponses": [
+          { "id": "a", "texte": "Old brown leather boots", "correcte": false },
+          { "id": "b", "texte": "Comfortable black running shoes", "correcte": true },
+          { "id": "c", "texte": "Light beach sand sandales", "correcte": false },
+          { "id": "d", "texte": "Heavy winter boots", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-041-04",
+        "question": "Where does the author run for thirty minutes?",
+        "reponses": [
+          { "id": "a", "texte": "Around the schoolyard", "correcte": false },
+          { "id": "b", "texte": "Inside the house garage", "correcte": false },
+          { "id": "c", "texte": "On the mountain routes", "correcte": false },
+          { "id": "d", "texte": "Around the lake in the center park", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-041-05",
+        "question": "What does the author drink after running?",
+        "reponses": [
+          { "id": "a", "texte": "A cup of hot coffee", "correcte": false },
+          { "id": "b", "texte": "A glass of sweet fruit juice", "correcte": false },
+          { "id": "c", "texte": "Clear plain water", "correcte": true },
+          { "id": "d", "texte": "A bowl of fresh milk", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Playing Football",
+    "titre2": "Exercise 42",
+    "texte": [
+      "On Saturday afternoons, I always play football with my classmates.",
+      "We meet at three o'clock at the big green sports field behind the school.",
+      "My friend Nicolas brings a new black and white soccer ball for the game.",
+      "We divide into two teams and try hard to score goals past the keeper.",
+      "It is a fantastic team sport that makes me feel very energetic."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-042-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-042-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-042-01",
+        "question": "With whom does the author play football on Saturdays?",
+        "reponses": [
+          { "id": "a", "texte": "With his grandfather", "correcte": false },
+          { "id": "b", "texte": "With his parents", "correcte": false },
+          { "id": "c", "texte": "With his classmates", "correcte": true },
+          { "id": "d", "texte": "With the school director", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-042-02",
+        "question": "At what time do they meet for the game?",
+        "reponses": [
+          { "id": "a", "texte": "At three o'clock", "correcte": true },
+          { "id": "b", "texte": "At noon pile", "correcte": false },
+          { "id": "c", "texte": "At ten in the morning", "correcte": false },
+          { "id": "d", "texte": "At six in the evening", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-042-03",
+        "question": "What kind of ball does Nicolas bring?",
+        "reponses": [
+          { "id": "a", "texte": "A small green ball", "correcte": false },
+          { "id": "b", "texte": "A blue plastic ball", "correcte": false },
+          { "id": "c", "texte": "A black and white soccer ball", "correcte": true },
+          { "id": "d", "texte": "A yellow rubber ball", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-042-04",
+        "question": "Where is the big sports field located?",
+        "reponses": [
+          { "id": "a", "texte": "In front of the pharmacy", "correcte": false },
+          { "id": "b", "texte": "Near the train station", "correcte": false },
+          { "id": "c", "texte": "At the village square", "correcte": false },
+          { "id": "d", "texte": "Behind the school", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-042-05",
+        "question": "How does the football game make the author feel?",
+        "reponses": [
+          { "id": "a", "texte": "Very energetic", "correcte": true },
+          { "id": "b", "texte": "A bit sick and cold", "correcte": false },
+          { "id": "c", "texte": "Sad and lonely", "correcte": false },
+          { "id": "d", "texte": "Bored and sleepy", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "A Walk in the Park",
+    "titre2": "Exercise 43",
+    "texte": [
+      "When the weather is sunny, I enjoy taking a slow walk in the central park.",
+      "The nature there is so quiet, and the green grass looks very beautiful.",
+      "I follow the long dirt path under the shade of the tall old trees.",
+      "I see a few little kids playing happily near a wooden bench.",
+      "A walk in the fresh air helps me clear my mind and relax completely."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-043-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-043-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-043-01",
+        "question": "What kind of weather makes the author go to the park?",
+        "reponses": [
+          { "id": "a", "texte": "Rainy and wet weather", "correcte": false },
+          { "id": "b", "texte": "A cold winter morning", "correcte": false },
+          { "id": "c", "texte": "Sunny weather", "correcte": true },
+          { "id": "d", "texte": "A very windy day", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-043-02",
+        "question": "What path does the author follow in the park?",
+        "reponses": [
+          { "id": "a", "texte": "The long dirt path", "correcte": true },
+          { "id": "b", "texte": "A modern stone road", "correcte": false },
+          { "id": "c", "texte": "A line near the fence", "correcte": false },
+          { "id": "d", "texte": "The train track path", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-043-03",
+        "question": "Who does the author see playing near a wooden bench?",
+        "reponses": [
+          { "id": "a", "texte": "The school teachers", "correcte": false },
+          { "id": "b", "texte": "A few little kids", "correcte": true },
+          { "id": "c", "texte": "His neighbors from work", "correcte": false },
+          { "id": "d", "texte": "Some old farm animals", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-043-04",
+        "question": "What is giving shade to the dirt path?",
+        "reponses": [
+          { "id": "a", "texte": "A big white house", "correcte": false },
+          { "id": "b", "texte": "The library roof", "correcte": false },
+          { "id": "c", "texte": "A large park tent", "correcte": false },
+          { "id": "d", "texte": "Tall old trees", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-043-05",
+        "question": "How does walking in the fresh air help the author?",
+        "reponses": [
+{ "id": "a", "texte": "It helps him clear his mind", "correcte": true },
+{ "id": "b", "texte": "It makes his arms very sore", "correcte": false },
+{ "id": "c", "texte": "It helps him finish math tasks", "correcte": false },
+{ "id": "d", "texte": "It makes him look for a shop", "correcte": false }
+]
+}
+]
+},
+{
+"id": "044",
+"titre": "Listening to Music",
+"titre2": "Exercise 44",
+"texte": [
+"Listening to soft music is my favorite way to spend the evening at home.",
+"I put on my black headphones so I do not make any loud noise in the room.",
+"I choose some calm acoustic songs on my portable smartphone playlist.",
+"The sweet melody helps me forget about all the difficult school lessons.",
+"I usually close my eyes on the bed and enjoy the beautiful rhythm."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-044-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-044-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-044-01",
+"question": "What kind of music does the author listen to in the evening?",
+"reponses": [
+{ "id": "a", "texte": "Loud rock music", "correcte": false },
+{ "id": "b", "texte": "Fast dance music", "correcte": false },
+{ "id": "c", "texte": "Soft music", "correcte": true },
+{ "id": "d", "texte": "French school songs", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-044-02",
+"question": "Why does the author use black headphones?",
+"reponses": [
+{ "id": "a", "texte": "To hear the waiter better", "correcte": false },
+{ "id": "b", "texte": "To keep his ears warm", "correcte": false },
+{ "id": "c", "texte": "To avoid making loud noise", "correcte": true },
+{ "id": "d", "texte": "To hide his telephone device", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-044-03",
+"question": "On which device is the author's music playlist stored?",
+"reponses": [
+{ "id": "a", "texte": "A large classroom TV", "correcte": false },
+{ "id": "b", "texte": "An old library computer", "correcte": false },
+{ "id": "c", "texte": "A kitchen electronic clock", "correcte": false },
+{ "id": "d", "texte": "A portable smartphone", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-044-04",
+"question": "What does the sweet music melody help the author do?",
+"reponses": [
+{ "id": "a", "texte": "Forget about difficult lessons", "correcte": true },
+{ "id": "b", "texte": "Write a long amical letter", "correcte": false },
+{ "id": "c", "texte": "Count the prices of clothes", "correcte": false },
+{ "id": "d", "texte": "Cook a grandmother recipe", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-044-05",
+"question": "Where does the author usually lie down while listening?",
+"reponses": [
+{ "id": "a", "texte": "On the soft living room rug", "correcte": false },
+{ "id": "b", "texte": "On a hard office chair", "correcte": false },
+{ "id": "c", "texte": "On the bed", "correcte": true },
+{ "id": "d", "texte": "On a bench near the river", "correcte": false }
+]
+}
+]
+},
+{
+"id": "045",
+"titre": "Watching a Movie",
+"titre2": "Exercise 45",
+"texte": [
+"On Friday nights, I like to watch an interesting movie in the living room.",
+"I turn off the bright ceiling lights and sit down on the big blue sofa.",
+"My brother makes a large container of salted popcorn for us to share.",
+"We choose an adventure film with a very brave hero and beautiful graphics.",
+"Watching movies together is a fun way to start the happy weekend."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-045-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-045-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-045-01",
+"question": "On which night does the author like to watch a movie?",
+"reponses": [
+{ "id": "a", "texte": "On Monday morning", "correcte": false },
+{ "id": "b", "texte": "On Wednesday afternoon", "correcte": false },
+{ "id": "c", "texte": "On Friday night", "correcte": true },
+{ "id": "d", "texte": "On Sunday mid-day", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-045-02",
+"question": "Where does the author sit down to watch the film?",
+"reponses": [
+{ "id": "a", "texte": "On the big blue sofa", "correcte": true },
+{ "id": "b", "texte": "On a wooden kitchen stool", "correcte": false },
+{ "id": "c", "texte": "On his study desk chair", "correcte": false },
+{ "id": "d", "texte": "On the floor carpet", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-045-03",
+"question": "What snack does the brother make for them to share?",
+"reponses": [
+{ "id": "a", "texte": "A sweet chocolate cake", "correcte": false },
+{ "id": "b", "texte": "A pack of crispy biscuits", "correcte": false },
+{ "id": "c", "texte": "A large container of salted popcorn", "correcte": true },
+{ "id": "d", "texte": "Two buttered croissants", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-045-04",
+"question": "What type of movie do they choose to watch?",
+"reponses": [
+{ "id": "a", "texte": "A serious school documentary", "correcte": false },
+{ "id": "b", "texte": "A very scary horror movie", "correcte": false },
+{ "id": "c", "texte": "A quiet romantic story", "correcte": false },
+{ "id": "d", "texte": "An adventure film", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-045-05",
+"question": "Why is watching movies considered fun according to the text?",
+"reponses": [
+{ "id": "a", "texte": "It is a fun way to start the weekend", "correcte": true },
+{ "id": "b", "texte": "It helps to clean the living room", "correcte": false },
+{ "id": "c", "texte": "It checks the television price tag", "correcte": false },
+{ "id": "d", "texte": "It replaces a dentist checkup", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "046",
+    "titre": "Reading a Book",
+    "titre2": "Exercise 46",
+    "texte": [
+      "In the evening, my bedroom is a very quiet room perfect for reading.",
+      "I sit on my comfortable bed with soft white pillows behind my back.",
+      "I open a great adventure book and start reading the first page carefully.",
+      "I forget all my school stress while discovering these beautiful stories.",
+      "I read for thirty minutes before turning off my small desk lamp to sleep."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-046-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-046-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-046-01",
+        "question": "Where does the author sit down to read his book?",
+        "reponses": [
+          { "id": "a", "texte": "On his comfortable bed", "correcte": true },
+          { "id": "b", "texte": "In the local cafeteria", "correcte": false },
+          { "id": "c", "texte": "On a wooden kitchen chair", "correcte": false },
+          { "id": "d", "texte": "Inside the train station", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-046-02",
+        "question": "What type of book is the author reading tonight?",
+        "reponses": [
+          { "id": "a", "texte": "A difficult math textbook", "correcte": false },
+          { "id": "b", "texte": "A french grammar guide", "correcte": false },
+          { "id": "c", "texte": "A great adventure book", "correcte": true },
+          { "id": "d", "texte": "A village market price list", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-046-03",
+        "question": "What color are the soft pillows behind his back?",
+        "reponses": [
+          { "id": "a", "texte": "Bright red", "correcte": false },
+          { "id": "b", "texte": "Dark grey", "correcte": false },
+          { "id": "c", "texte": "Soft white", "correcte": true },
+          { "id": "d", "texte": "Light blue", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-046-04",
+        "question": "How long does the author spend reading his story?",
+        "reponses": [
+          { "id": "a", "texte": "For five minutes only", "correcte": false },
+          { "id": "b", "texte": "For one full hour", "correcte": false },
+          { "id": "c", "texte": "For two complete hours", "correcte": false },
+          { "id": "d", "texte": "For thirty minutes", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-046-05",
+        "question": "What does the author turn off just before sleeping?",
+        "reponses": [
+          { "id": "a", "texte": "His small desk lamp", "correcte": true },
+          { "id": "b", "texte": "The living room television", "correcte": false },
+          { "id": "c", "texte": "His portable smartphone", "correcte": false },
+          { "id": "d", "texte": "The big electronic board", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Playing with My Friends",
+    "titre2": "Exercise 47",
+    "texte": [
+      "On Saturday afternoons, I always meet my good classmates at the park.",
+      "We run around the green grass and play different fun outdoor games.",
+      "Paul brings his new soccer ball, and we create two small teams.",
+      "We play happily for two hours while laughing a lot under the sun.",
+      "When we get very tired, we sit together to share some sweet biscuits."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-047-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-047-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-047-01",
+        "question": "When does the author meet his classmates at the park?",
+        "reponses": [
+          { "id": "a", "texte": "On Saturday afternoons", "correcte": true },
+          { "id": "b", "texte": "On Wednesday mornings", "correcte": false },
+          { "id": "c", "texte": "On Friday evenings", "correcte": false },
+          { "id": "d", "texte": "Every Sunday at noon", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-047-02",
+        "question": "Who brings a new soccer ball for the game?",
+        "reponses": [
+          { "id": "a", "texte": "The school director", "correcte": false },
+          { "id": "b", "texte": "The local waiter", "correcte": false },
+          { "id": "c", "texte": "Paul", "correcte": true },
+          { "id": "d", "texte": "Thomas", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-047-03",
+        "question": "How long do the friends play soccer together?",
+        "reponses": [
+          { "id": "a", "texte": "For fifteen minutes", "correcte": false },
+          { "id": "b", "texte": "For one short hour", "correcte": false },
+          { "id": "c", "texte": "For two hours", "correcte": true },
+          { "id": "d", "texte": "For a whole day", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-047-04",
+        "question": "What do they do when they feel very tired?",
+        "reponses": [
+          { "id": "a", "texte": "They walk to the station", "correcte": false },
+          { "id": "b", "texte": "They go back to the classroom", "correcte": false },
+          { "id": "c", "texte": "They buy new shoes", "correcte": false },
+          { "id": "d", "texte": "They sit together to share biscuits", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-047-05",
+        "question": "Where do the friends enjoy running around?",
+        "reponses": [
+          { "id": "a", "texte": "On the green grass", "correcte": true },
+          { "id": "b", "texte": "Inside the house garage", "correcte": false },
+          { "id": "c", "texte": "Near the village market", "correcte": false },
+          { "id": "d", "texte": "In the quiet library room", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "A Trip to the Cinema",
+    "titre2": "Exercise 48",
+    "texte": [
+      "This evening, I am making a nice trip to the cinema with my family.",
+      "The large movie theater is located near the central train station.",
+      "My father walks to the modern ticket booth to buy four entries.",
+      "We purchase a large box of popcorn to eat during the long film.",
+      "We sit down on the soft red chairs as the giant screen turns on."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-048-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-048-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-048-01",
+        "question": "Where is the large movie theater located?",
+        "reponses": [
+          { "id": "a", "texte": "Near the central train station", "correcte": true },
+          { "id": "b", "texte": "Behind the grandfather's garden", "correcte": false },
+          { "id": "c", "texte": "In front of the pharmacy shop", "correcte": false },
+          { "id": "d", "texte": "At the village market square", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-048-02",
+        "question": "Who goes to the booth to buy the entry tickets?",
+        "reponses": [
+          { "id": "a", "texte": "The polite waiter", "correcte": false },
+          { "id": "b", "texte": "The author's friend", "correcte": false },
+          { "id": "c", "texte": "My father", "correcte": true },
+          { "id": "d", "texte": "The French teacher", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-048-03",
+        "question": "How many entry tickets does the father buy?",
+        "reponses": [
+          { "id": "a", "texte": "Two entries", "correcte": false },
+          { "id": "b", "texte": "Three entries", "correcte": false },
+          { "id": "c", "texte": "Four entries", "correcte": true },
+          { "id": "d", "texte": "Five entries", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-048-04",
+        "question": "What food item do they purchase to eat during the film?",
+        "reponses": [
+          { "id": "a", "texte": "A sweet chocolate cake", "correcte": false },
+          { "id": "b", "texte": "A mix of fresh fruits", "correcte": false },
+          { "id": "c", "texte": "A cheese pizza slice", "correcte": false },
+          { "id": "d", "texte": "A large box of popcorn", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-048-05",
+        "question": "What color are the soft chairs inside the theater room?",
+"reponses": [
+{ "id": "a", "texte": "Soft red", "correcte": true },
+{ "id": "b", "texte": "Bright white", "correcte": false },
+{ "id": "c", "texte": "Dark grey", "correcte": false },
+{ "id": "d", "texte": "Light green", "correcte": false }
+]
+}
+]
+},
+{
+"id": "049",
+"titre": "My Birthday",
+"titre2": "Exercise 49",
+"texte": [
+"Today is a very special day because it is my tenth birthday.",
+"My mother decorates the living room with beautiful colorful balloons.",
+"She bakes a massive chocolate cake with ten small candles on top.",
+"My friends sing a happy song together before I blow out the flames.",
+"I feel extremely happy when they give me a beautiful book as a gift."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-049-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-049-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-049-01",
+"question": "How old is the author turning today?",
+"reponses": [
+{ "id": "a", "texte": "Eight years old", "correcte": false },
+{ "id": "b", "texte": "Nine years old", "correcte": false },
+{ "id": "c", "texte": "Tenth birthday", "correcte": true },
+{ "id": "d", "texte": "Twelve years old", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-049-02",
+"question": "What kind of cake does the mother bake for the party?",
+"reponses": [
+{ "id": "a", "texte": "A crispy apple pie", "correcte": false },
+{ "id": "b", "texte": "A fresh strawberry cake", "correcte": false },
+{ "id": "c", "texte": "A massive chocolate cake", "correcte": true },
+{ "id": "d", "texte": "A simple vanilla biscuit", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-049-03",
+"question": "How many small candles are placed on top of the cake?",
+"reponses": [
+{ "id": "a", "texte": "Five candles", "correcte": false },
+{ "id": "b", "texte": "Eight candles", "correcte": false },
+{ "id": "c", "texte": "Ten small candles", "correcte": true },
+{ "id": "d", "texte": "Three candles", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-049-04",
+"question": "What gift do the friends give to the author?",
+"reponses": [
+{ "id": "a", "texte": "A new soccer ball", "correcte": false },
+{ "id": "b", "texte": "A big blue school bag", "correcte": false },
+{ "id": "c", "texte": "A pack of sweet biscuits", "correcte": false },
+{ "id": "d", "texte": "A beautiful book", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-049-05",
+"question": "Who decorates the living room with colorful balloons?",
+"reponses": [
+{ "id": "a", "texte": "My mother", "correcte": true },
+{ "id": "b", "texte": "The school director", "correcte": false },
+{ "id": "c", "texte": "My best friend Paul", "correcte": false },
+{ "id": "d", "texte": "The cinema worker", "correcte": false }
+]
+}
+]
+},
+{
+"id": "050",
+"titre": "A Sunday with My Family",
+"titre2": "Exercise 50",
+"texte": [
+"Sunday is my absolute favorite day because I spend it with my family.",
+"In the morning, we eat a wonderful long breakfast in the modern kitchen.",
+"Then, we take a quiet family walk around the beautiful city lake.",
+"My mother prepares a hot delicious chicken meal for our dinner.",
+"We watch a funny film together in the living room before going to bed."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-050-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-050-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-050-01",
+"question": "Why is Sunday the author's favorite day of the week?",
+"reponses": [
+{ "id": "a", "texte": "Because he spends it with his family", "correcte": true },
+{ "id": "b", "texte": "Because he has a french lesson", "correcte": false },
+{ "id": "c", "texte": "Because he visits the pharmacy shop", "correcte": false },
+{ "id": "d", "texte": "Because he goes shopping for clothes", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-050-02",
+"question": "Where does the family eat their wonderful morning breakfast?",
+"reponses": [
+{ "id": "a", "texte": "In a local Italian restaurant", "correcte": false },
+{ "id": "b", "texte": "Inside the train station cafeteria", "correcte": false },
+{ "id": "c", "texte": "In the modern kitchen", "correcte": true },
+{ "id": "d", "texte": "Under a grand green tree", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-050-03",
+"question": "Where do they go for their quiet morning family walk?",
+"reponses": [
+{ "id": "a", "texte": "Around the beautiful city lake", "correcte": true },
+{ "id": "b", "texte": "Through the grandfather's potager", "correcte": false },
+{ "id": "c", "texte": "Behind the wooden fence line", "correcte": false },
+{ "id": "d", "texte": "To the central supermarket house", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-050-04",
+"question": "What type of meal does the mother cook for dinner?",
+"reponses": [
+{ "id": "a", "texte": "A fresh cucumber salad", "correcte": false },
+{ "id": "b", "texte": "A cheese pizza with olives", "correcte": false },
+{ "id": "c", "texte": "A simple egg omelet dish", "correcte": false },
+{ "id": "d", "texte": "A hot delicious chicken meal", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-050-05",
+"question": "What do they watch together before going to bed?",
+"reponses": [
+{ "id": "a", "texte": "A funny film", "correcte": true },
+{ "id": "b", "texte": "The local evening news show", "correcte": false },
+{ "id": "c", "texte": "A soccer football match", "correcte": false },
+{ "id": "d", "texte": "A geography class video", "correcte": false }
+]
+}
+]
+},
+{
+"id": "051",
+"titre": "My First Trip",
+"titre2": "Exercise 51",
+"texte": [
+"Today is an exciting morning because I am going on my first trip.",
+"I prepare my big blue suitcase with all my favorite summer clothes.",
+"We are going to travel to a new sunny city far away from home.",
+"My father checks our travel tickets twice to be completely sure.",
+"I feel very happy and ready to discover a magnificent new place."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-051-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-051-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-051-01",
+"question": "What color is the big suitcase used by the author?",
+"reponses": [
+{ "id": "a", "texte": "Dark grey", "correcte": false },
+{ "id": "b", "texte": "Bright white", "correcte": false },
+{ "id": "c", "texte": "Big blue suitcase", "correcte": true },
+{ "id": "d", "texte": "Soft red", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-051-02",
+"question": "What items does the author pack inside the big suitcase?",
+"reponses": [
+{ "id": "a", "texte": "His heavy school textbooks", "correcte": false },
+{ "id": "b", "texte": "His favorite summer clothes", "correcte": true },
+{ "id": "c", "texte": "Ten small birthday candles", "correcte": false },
+{ "id": "d", "texte": "A packet of sweet biscuits", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-051-03",
+"question": "Where is the family traveling to for this first trip?",
+"reponses": [
+{ "id": "a", "texte": "To a new sunny city", "correcte": true },
+{ "id": "b", "texte": "To the local pharmacy store", "correcte": false },
+{ "id": "c", "texte": "To a quiet village library", "correcte": false },
+{ "id": "d", "texte": "To the market near the school", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-051-04",
+"question": "Who checks the travel tickets twice before leaving?",
+"reponses": [
+{ "id": "a", "texte": "The train ticket waiter", "correcte": false },
+{ "id": "b", "texte": "The school director worker", "correcte": false },
+{ "id": "c", "texte": "My father", "correcte": true },
+{ "id": "d", "texte": "The friendly bus driver", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-051-05",
+"question": "How does the author feel about going on this journey?",
+"reponses": [
+{ "id": "a", "texte": "Extremely tired and sick", "correcte": false },
+{ "id": "b", "texte": "Slightly angry and sad", "correcte": false },
+{ "id": "c", "texte": "Very happy and ready", "correcte": true },
+{ "id": "d", "texte": "A little bit too cold", "correcte": false }
+]
+}
+]
+},
+{
+"id": "052",
+"titre": "At the Train Station",
+"titre2": "Exercise 52",
+"texte": [
+"The busy train station is full of travelers carrying big suitcases.",
+"We look at the giant electronic board to find our departure track.",
+"Our fast train to the sunny city is scheduled exactly at 09h15.",
+"My mother buys a hot cup of coffee at a small station stand.",
+"We walk carefully to track number four to wait for our train."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-052-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-052-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-052-01",
+"question": "What is full of travelers carrying big suitcases?",
+"reponses": [
+{ "id": "a", "texte": "The busy train station", "correcte": true },
+{ "id": "b", "texte": "The quiet school library", "correcte": false },
+{ "id": "c", "texte": "The modern clothes shop", "correcte": false },
+{ "id": "d", "texte": "The family house garage", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-052-02",
+"question": "What object do they check to find their departure track?",
+"reponses": [
+{ "id": "a", "texte": "A local paper map sheet", "correcte": false },
+{ "id": "b", "texte": "A giant electronic board", "correcte": true },
+{ "id": "c", "texte": "A small room wall mirror", "correcte": false },
+{ "id": "d", "texte": "A modern pocket clock device", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-052-03",
+"question": "At what exact time is the fast train scheduled?",
+"reponses": [
+{ "id": "a", "texte": "Exactly at 09h15", "correcte": true },
+{ "id": "b", "texte": "At half past ten", "correcte": false },
+{ "id": "c", "texte": "At noon pile sharp", "correcte": false },
+{ "id": "d", "texte": "Exactly at 08h00", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-052-04",
+"question": "What does the mother buy at a small station stand?",
+"reponses": [
+{ "id": "a", "texte": "A cold bottle of water", "correcte": false },
+{ "id": "b", "texte": "A sweet chocolate bar", "correcte": false },
+{ "id": "c", "texte": "A hot cup of coffee", "correcte": true },
+{ "id": "d", "texte": "A pack of green apples", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-052-05",
+"question": "To which track number does the family walk carefully?",
+"reponses": [
+{ "id": "a", "texte": "Track number one", "correcte": false },
+{ "id": "b", "texte": "Track number three", "correcte": false },
+{ "id": "c", "texte": "Track number four", "correcte": true },
+{ "id": "d", "texte": "Track number two", "correcte": false }
+]
+}
+]
+},
+{
+"id": "053",
+"titre": "At the Airport",
+"titre2": "Exercise 53",
+"texte": [
+"The modern city airport is extremely large, bright, and beautiful.",
+"We walk directly to the counter to check in our heavy bags.",
+"A friendly worker smiles and gives us our three paper boarding passes.",
+"We look out the clean glass window to watch the giant white planes.",
+"I am very excited because our long flight is starting very soon."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-053-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-053-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-053-01",
+"question": "How is the modern city airport described in the text?",
+"reponses": [
+{ "id": "a", "texte": "Dark, small, and very cold", "correcte": false },
+{ "id": "b", "texte": "Extremely large, bright, and beautiful", "correcte": true },
+{ "id": "c", "texte": "Old, dirty, and fully closed", "correcte": false },
+{ "id": "d", "texte": "Narrow but quiet enough", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-053-02",
+"question": "What does the family check in at the counter booth?",
+"reponses": [
+{ "id": "a", "texte": "Their small red school pouches", "correcte": false },
+{ "id": "b", "texte": "Their heavy bags", "correcte": true },
+{ "id": "c", "texte": "Their modern office computers", "correcte": false },
+{ "id": "d", "texte": "Their plastic fruit baskets", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-053-03",
+"question": "How many paper boarding passes does the worker give them?",
+"reponses": [
+{ "id": "a", "texte": "Two passes", "correcte": false },
+{ "id": "b", "texte": "Four passes", "correcte": false },
+{ "id": "c", "texte": "Three paper boarding passes", "correcte": true },
+{ "id": "d", "texte": "Five passes", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-053-04",
+"question": "What color are the giant planes seen through the window?",
+"reponses": [
+{ "id": "a", "texte": "Giant white planes", "correcte": true },
+{ "id": "b", "texte": "Bright blue", "correcte": false },
+{ "id": "c", "texte": "Dark grey", "correcte": false },
+{ "id": "d", "texte": "Light green", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-053-05",
+"question": "Why is the author feeling so excited at the airport?",
+"reponses": [
+{ "id": "a", "texte": "Because our long flight is starting very soon", "correcte": true },
+{ "id": "b", "texte": "Because he is visiting a small market", "correcte": false },
+{ "id": "c", "texte": "Because he wants a chocolate piece", "correcte": false },
+{ "id": "d", "texte": "Because school lessons are ending", "correcte": false }
+]
+}
+]
+},
+{
+"id": "054",
+"titre": "Taking the Bus",
+"titre2": "Exercise 54",
+"texte": [
+"Every morning at 07h45, I walk to the corner stop to take the bus.",
+"A large yellow bus arrives, and I say hello to the friendly driver.",
+"I show my monthly student transport pass before finding a seat.",
+"I sit near the clean glass window to watch the busy morning streets.",
+"The city bus is very practical and drops me exactly in front of school."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-054-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-054-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-054-01",
+"question": "At what time does the author go to the corner stop?",
+"reponses": [
+{ "id": "a", "texte": "At 07h45", "correcte": true },
+{ "id": "b", "texte": "At eight o'clock sharp", "correcte": false },
+{ "id": "c", "texte": "At half past nine", "correcte": false },
+{ "id": "d", "texte": "At noon pile early", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-054-02",
+"question": "What color is the city bus described in the text?",
+"reponses": [
+{ "id": "a", "texte": "Bright white", "correcte": false },
+{ "id": "b", "texte": "Dark grey", "correcte": false },
+{ "id": "c", "texte": "Large yellow bus", "correcte": true },
+{ "id": "d", "texte": "Soft blue", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-054-03",
+"question": "What item does the student show to the driver?",
+"reponses": [
+{ "id": "a", "texte": "A paper cash billet", "correcte": false },
+{ "id": "b", "texte": "His monthly student transport pass", "correcte": true },
+{ "id": "c", "texte": "A library reading card", "correcte": false },
+{ "id": "d", "texte": "His blue school textbook", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-054-04",
+"question": "Where does the student sit down inside the vehicle?",
+"reponses": [
+{ "id": "a", "texte": "Near the clean glass window", "correcte": true },
+{ "id": "b", "texte": "Right behind the driver's seat", "correcte": false },
+{ "id": "c", "texte": "At the very back door line", "correcte": false },
+{ "id": "d", "texte": "In the central narrow aisle", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-054-05",
+"question": "Where does the practical bus drop the student off?",
+"reponses": [
+{ "id": "a", "texte": "In front of school", "correcte": true },
+{ "id": "b", "texte": "Near the local market square", "correcte": false },
+{ "id": "c", "texte": "Behind the central station booth", "correcte": false },
+{ "id": "d", "texte": "Next to a small pharmacy store", "correcte": false }
+]
+}
+]
+},
+{
+"id": "055",
+"titre": "A Train Journey",
+"titre2": "Exercise 55",
+"texte": [
+"We enter the long silver train and look for our assigned seats.",
+"The passenger cabin is very clean, quiet, and extremely modern.",
+"As the train leaves the station, it moves fast along the steel tracks.",
+"I watch green fields, old farm houses, and deep forests fly past.",
+"A train journey is a peaceful and fantastic way to travel across nature."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-055-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-055-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-055-01",
+"question": "What color is the long train mentioned in the text?",
+"reponses": [
+{ "id": "a", "texte": "Bright yellow", "correcte": false },
+{ "id": "b", "texte": "Dark black", "correcte": false },
+{ "id": "c", "texte": "Long silver train", "correcte": true },
+{ "id": "d", "texte": "Light blue", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-055-02",
+"question": "How is the passenger cabin described by the author?",
+"reponses": [
+{ "id": "a", "texte": "Very clean, quiet, and extremely modern", "correcte": true },
+{ "id": "b", "texte": "Dark, narrow, and completely loud", "correcte": false },
+{ "id": "c", "texte": "Old, dirty, and fully crowded", "correcte": false },
+{ "id": "d", "texte": "Bright but too small for bags", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-055-03",
+"question": "Along what tracks does the train move fast?",
+"reponses": [
+{ "id": "a", "texte": "Along the steel tracks", "correcte": true },
+{ "id": "b", "texte": "Through the garden mud paths", "correcte": false },
+{ "id": "c", "texte": "Across the city asphalt streets", "correcte": false },
+{ "id": "d", "texte": "Over the soft sand beach line", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-055-04",
+"question": "Which view does NOT fly past the window line?",
+"reponses": [
+{ "id": "a", "texte": "Green grass fields", "correcte": false },
+{ "id": "b", "texte": "Old farm houses", "correcte": false },
+{ "id": "c", "texte": "Deep wild forests", "correcte": false },
+{ "id": "d", "texte": "Giant airport planes", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-055-05",
+"question": "What is a train journey according to the text?",
+"reponses": [
+{ "id": "a", "texte": "A peaceful and fantastic way to travel", "correcte": true },
+{ "id": "b", "texte": "A difficult and scary routine", "correcte": false },
+{ "id": "c", "texte": "An expensive way to get items", "correcte": false },
+{ "id": "d", "texte": "A standard school sport activity", "correcte": false }
+]
+}
+]
+},
+{
+"id": "056",
+"titre": "Visiting a New City",
+"titre2": "Exercise 56",
+"texte": [
+"Today, I am visiting a magnificent new city with my parents.",
+"The buildings here are incredibly tall, modern, and made of shiny glass.",
+"We buy a small colorful city map at a local tourism kiosk box.",
+"We walk through large avenues full of yellow cars and active shoppers.",
+"I love exploring this dynamic place because everything feels brand new."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-056-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-056-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-056-01",
+"question": "Who is the author exploring the new city with?",
+"reponses": [
+{ "id": "a", "texte": "With his schoolmates", "correcte": false },
+{ "id": "b", "texte": "With his grandparents", "correcte": false },
+{ "id": "c", "texte": "With his parents", "correcte": true },
+{ "id": "d", "texte": "With his French teacher", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-056-02",
+"question": "What materials are the tall buildings made of?",
+"reponses": [
+{ "id": "a", "texte": "Old red bricks", "correcte": false },
+{ "id": "b", "texte": "Thick forest wood", "correcte": false },
+{ "id": "c", "texte": "Shiny glass", "correcte": true },
+{ "id": "d", "texte": "Grey heavy stone", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-056-03",
+"question": "What helpful item do they buy at the tourism kiosk box?",
+"reponses": [
+{ "id": "a", "texte": "A small colorful city map", "correcte": true },
+{ "id": "b", "texte": "A ticket for a silver train", "correcte": false },
+{ "id": "c", "texte": "An electronic clock device", "correcte": false },
+{ "id": "d", "texte": "A book of adventure stories", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-056-04",
+"question": "What color are the multiple cars driving in the large avenues?",
+"reponses": [
+{ "id": "a", "texte": "Dark black", "correcte": false },
+{ "id": "b", "texte": "Yellow cars", "correcte": true },
+{ "id": "c", "texte": "Bright red", "correcte": false },
+{ "id": "d", "texte": "Light blue", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-056-05",
+"question": "Why does the author love exploring this dynamic place?",
+"reponses": [
+{ "id": "a", "texte": "Because everything feels brand new", "correcte": true },
+{ "id": "b", "texte": "Because it has a green park area", "correcte": false },
+{ "id": "c", "texte": "Because the entries are free", "correcte": false },
+{ "id": "d", "texte": "Because it is completely quiet", "correcte": false }
+]
+}
+]
+},
+{
+"id": "057",
+"titre": "Holidays at the Beach",
+"titre2": "Exercise 57",
+"texte": [
+"Summer is finally here, and we are spending our holidays at the beach.",
+"The yellow sand is warm, and the ocean water looks beautifully blue.",
+"I use a plastic bucket and spade to build a tall sandcastle.",
+"My mother gives me fresh fruit slices to eat under our big umbrella.",
+"I love swimming in the soft waves and playing by the water all day."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-057-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-057-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-057-01",
+"question": "Where is the family spending their summer holidays?",
+"reponses": [
+{ "id": "a", "texte": "At the library room", "correcte": false },
+{ "id": "b", "texte": "Inside a big supermarket", "correcte": false },
+{ "id": "c", "texte": "At the beach", "correcte": true },
+{ "id": "d", "texte": "In a new modern city booth", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-057-02",
+"question": "What color is the warm beach sand according to the text?",
+"reponses": [
+{ "id": "a", "texte": "Dark grey", "correcte": false },
+{ "id": "b", "texte": "Soft white", "correcte": false },
+{ "id": "c", "texte": "Yellow sand", "correcte": true },
+{ "id": "d", "texte": "Light pink", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-057-03",
+"question": "What objects does the author use to build a tall sandcastle?",
+"reponses": [
+{ "id": "a", "texte": "A plastic bucket and spade", "correcte": true },
+{ "id": "b", "texte": "A steel scale and ruler", "correcte": false },
+{ "id": "c", "texte": "A wooden box and counter", "correcte": false },
+{ "id": "d", "texte": "A set of colorful text papers", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-057-04",
+"question": "What does the mother give the author to eat under the umbrella?",
+"reponses": [
+{ "id": "a", "texte": "A warm cheese pizza slice", "correcte": false },
+{ "id": "b", "texte": "Fresh fruit slices", "correcte": true },
+{ "id": "c", "texte": "A large box of hot popcorn", "correcte": false },
+{ "id": "d", "texte": "Some sweet dry biscuits", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-057-05",
+"question": "Where does the author love swimming during the holiday?",
+"reponses": [
+{ "id": "a", "texte": "In the soft waves", "correcte": true },
+{ "id": "b", "texte": "Inside the city lake area", "correcte": false },
+{ "id": "c", "texte": "In the station water stand", "correcte": false },
+{ "id": "d", "texte": "In the garden watering can", "correcte": false }
+]
+}
+]
+},
+{
+"id": "058",
+"titre": "A Walk in the Countryside",
+"titre2": "Exercise 58",
+"texte": [
+"On Sunday mornings, I take a peaceful walk in the quiet countryside.",
+"The air is clean, and there are large fields of green grass everywhere.",
+"I see beautiful brown cows eating slowly near an old wooden barn.",
+"Small wild flowers of yellow and white colors grow along the path.",
+"Walking in nature is highly relaxing and makes my body feel strong."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-058-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-058-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-058-01",
+"question": "When does the author take a walk in the countryside?",
+"reponses": [
+{ "id": "a", "texte": "On Sunday mornings", "correcte": true },
+{ "id": "b", "texte": "On Saturday nights late", "correcte": false },
+{ "id": "c", "texte": "On Wednesday afternoons", "correcte": false },
+{ "id": "d", "texte": "Every Tuesday at noon", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-058-02",
+"question": "What animals are eating slowly near the old wooden barn?",
+"reponses": [
+{ "id": "a", "texte": "Beautiful brown cows", "correcte": true },
+{ "id": "b", "texte": "Small white birds", "correcte": false },
+{ "id": "c", "texte": "Active yellow bees", "correcte": false },
+{ "id": "d", "texte": "Grandfather's gray dogs", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-058-03",
+"question": "What items grow naturally along the walking path?",
+"reponses": [
+{ "id": "a", "texte": "Ripe sweet strawberries", "correcte": false },
+{ "id": "b", "texte": "Small wild flowers", "correcte": true },
+{ "id": "c", "texte": "Green cucumber leaves", "correcte": false },
+{ "id": "d", "texte": "Large shiny glass stones", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-058-04",
+"question": "How is the air in the countryside described?",
+"reponses": [
+{ "id": "a", "texte": "The air is clean", "correcte": true },
+{ "id": "b", "texte": "Too hot for a short walk", "correcte": false },
+{ "id": "c", "texte": "Full of morning smoke", "correcte": false },
+{ "id": "d", "texte": "Extremely cold and windy", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-058-05",
+"question": "What are the benefits of walking in nature according to the text?",
+"reponses": [
+{ "id": "a", "texte": "It helps to finish school homework", "correcte": false },
+{ "id": "b", "texte": "It is relaxing and makes the body feel strong", "correcte": true },
+{ "id": "c", "texte": "It saves money on travel tickets", "correcte": false },
+{ "id": "d", "texte": "It allows meeting new teachers", "correcte": false }
+]
+}
+]
+},
+{
+"id": "059",
+"titre": "Asking for Directions",
+"titre2": "Exercise 59",
+"texte": [
+"I am a little bit lost in this large city, so I need to ask for directions.",
+"I approach a polite woman near the station and say: 'Excuse me, please'.",
+"I ask her for the fastest way to get to the main public library box.",
+"She smiles kindly and tells me to walk straight and turn left at the corner.",
+"I say thank you very much for her help and follow her instructions."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-059-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-059-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-059-01",
+"question": "Why does the author need to ask for directions?",
+"reponses": [
+{ "id": "a", "texte": "Because he is a little bit lost", "correcte": true },
+{ "id": "b", "texte": "Because he wants to buy shoes", "correcte": false },
+{ "id": "c", "texte": "Because he is looking for cash", "correcte": false },
+{ "id": "d", "texte": "Because he missed his silver train", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-059-02",
+"question": "Who does the author approach near the station?",
+"reponses": [
+{ "id": "a", "texte": "A friendly bus driver man", "correcte": false },
+{ "id": "b", "texte": "The local tourism kiosk worker", "correcte": false },
+{ "id": "c", "texte": "A polite woman", "correcte": true },
+{ "id": "d", "texte": "His classmate friend Paul", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-059-03",
+"question": "Which place is the author trying to locate?",
+"reponses": [
+{ "id": "a", "texte": "The main public library box", "correcte": true },
+{ "id": "b", "texte": "A small Italian restaurant", "correcte": false },
+{ "id": "c", "texte": "The grandfather's country barn", "correcte": false },
+{ "id": "d", "texte": "The city beach resort area", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-059-04",
+"question": "What direction does the woman tell the author to follow first?",
+"reponses": [
+{ "id": "a", "texte": "To run back to the counter booth", "correcte": false },
+{ "id": "b", "texte": "To walk straight", "correcte": true },
+{ "id": "c", "texte": "To turn right near the lake", "correcte": false },
+{ "id": "d", "texte": "To wait for bus number four", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-059-05",
+"question": "What action does the author take at the very corner lane?",
+"reponses": [
+{ "id": "a", "texte": "Turn left at the corner", "correcte": true },
+{ "id": "b", "texte": "Stop to eat a biscuit", "correcte": false },
+{ "id": "c", "texte": "Buy a colorful city map", "correcte": false },
+{ "id": "d", "texte": "Sit down on a soft chair", "correcte": false }
+]
+}
+]
+},
+{
+"id": "060",
+"titre": "My Trip to My Grandparents' House",
+"titre2": "Exercise 60",
+"texte": [
+"Today, I am making a fantastic trip to my grandparents' house.",
+"I board a fast silver train with my parents at nine o'clock sharp.",
+"The train trip lasts one hour and passes through beautiful green fields.",
+"My grandfather waits for our arrival on the platform with a big smile.",
+"I am thrilled to arrive at their quiet home near the calm countryside."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-060-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-060-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-060-01",
+"question": "Whose house is the author traveling to today?",
+"reponses": [
+{ "id": "a", "texte": "His grandparents' house", "correcte": true },
+{ "id": "b", "texte": "His classmate Paul's apartment", "correcte": false },
+{ "id": "c", "texte": "Monsieur Robert's central office", "correcte": false },
+{ "id": "d", "texte": "The local doctor's private cabinet", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-060-02",
+"question": "At what exact time does the family board the fast train?",
+"reponses": [
+{ "id": "a", "texte": "At half past seven morning", "correcte": false },
+{ "id": "b", "texte": "At noon pile sharp", "correcte": false },
+{ "id": "c", "texte": "At nine o'clock sharp", "correcte": true },
+{ "id": "d", "texte": "Exactly at ten o'clock", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-060-03",
+"question": "How long does the train journey last until arrival?",
+"reponses": [
+{ "id": "a", "texte": "Thirty short minutes", "correcte": false },
+{ "id": "b", "texte": "Two full hours", "correcte": false },
+{ "id": "c", "texte": "One hour", "correcte": true },
+{ "id": "d", "texte": "A whole travel day", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-060-04",
+"question": "Where does the friendly grandfather wait for the family?",
+"reponses": [
+{ "id": "a", "texte": "Inside the station stand room", "correcte": false },
+{ "id": "b", "texte": "On the platform", "correcte": true },
+{ "id": "c", "texte": "Behind the ticket booth counter", "correcte": false },
+{ "id": "d", "texte": "Next to the yellow bus corner", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-060-05",
+"question": "Where is the grandparents' quiet home located near to?",
+"reponses": [
+{ "id": "a", "texte": "The calm countryside", "correcte": true },
+{ "id": "b", "texte": "The giant glass buildings", "correcte": false },
+{ "id": "c", "texte": "The noisy school cafeteria", "correcte": false },
+{ "id": "d", "texte": "The busy central city avenue", "correcte": false }
+]
+}
+]
+},
+ {
+    "id": "061",
+    "titre": "Farm Animals",
+    "titre2": "Exercise 61",
+    "texte": [
+      "During the holidays, I love visiting my uncle's traditional animal farm.",
+      "In the green fields, there are three white cows eating fresh grass slowly.",
+      "I can also see four funny pink pigs playing happily in the dark mud.",
+      "A proud rooster wakes everyone up early in the beautiful morning.",
+      "It is a magnificent place full of life and friendly farm animals."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-061-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-061-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-061-01",
+        "question": "Whose traditional farm is the author visiting?",
+        "reponses": [
+          { "id": "a", "texte": "His uncle's traditional animal farm", "correcte": true },
+          { "id": "b", "texte": "His grandfather's potager garden", "correcte": false },
+          { "id": "c", "texte": "His school teacher's field", "correcte": false },
+          { "id": "d", "texte": "His neighbor's private stable", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-061-02",
+        "question": "How many white cows are eating grass in the green fields?",
+        "reponses": [
+          { "id": "a", "texte": "Two brown cows", "correcte": false },
+          { "id": "b", "texte": "Five small cows", "correcte": false },
+          { "id": "c", "texte": "Three white cows", "correcte": true },
+          { "id": "d", "texte": "Four large cows", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-061-03",
+        "question": "What animal wakes everyone up early in the morning?",
+        "reponses": [
+          { "id": "a", "texte": "A little dog", "correcte": false },
+          { "id": "b", "texte": "A pink pig", "correcte": false },
+          { "id": "c", "texte": "A white cow", "correcte": false },
+          { "id": "d", "texte": "A proud rooster", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-061-04",
+        "question": "What are the four funny pink pigs doing in the mud?",
+        "reponses": [
+          { "id": "a", "texte": "Playing happily", "correcte": true },
+          { "id": "b", "texte": "Sleeping quietly", "correcte": false },
+          { "id": "c", "texte": "Eating sweet fruit", "correcte": false },
+          { "id": "d", "texte": "Running very fast", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-061-05",
+        "question": "How is the farm described at the end of the text?",
+        "reponses": [
+          { "id": "a", "texte": "A magnificent place full of life", "correcte": true },
+          { "id": "b", "texte": "A very quiet library room", "correcte": false },
+          { "id": "c", "texte": "An old dark car garage", "correcte": false },
+          { "id": "d", "texte": "A noisy city train platform", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "062",
+    "titre": "My Little Dog",
+    "titre2": "Exercise 62",
+    "texte": [
+      "I have a wonderful pet at home, a little dog named Toby.",
+      "He is completely white with soft hair and a short happy tail.",
+      "Every afternoon, we walk around the neighborhood streets together.",
+      "Toby loves running fast to catch a small green ball in the grass.",
+      "He is a loyal friend who stays near my bed while I sleep."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-062-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-062-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-062-01",
+        "question": "What is the name of the author's little dog?",
+        "reponses": [
+          { "id": "a", "texte": "Toby", "correcte": true },
+          { "id": "b", "texte": "Lucas", "correcte": false },
+          { "id": "c", "texte": "Thomas", "correcte": false },
+          { "id": "d", "texte": "Nicolas", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-062-02",
+        "question": "What color is Toby's soft hair?",
+        "reponses": [
+          { "id": "a", "texte": "Dark grey", "correcte": false },
+          { "id": "b", "texte": "Bright red", "correcte": false },
+          { "id": "c", "texte": "Completely white", "correcte": true },
+          { "id": "d", "texte": "Light brown", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-062-03",
+        "question": "When do they go for a walk around the neighborhood?",
+        "reponses": [
+          { "id": "a", "texte": "Every afternoon", "correcte": true },
+          { "id": "b", "texte": "Only on Sunday mornings", "correcte": false },
+          { "id": "c", "texte": "Late at night", "correcte": false },
+          { "id": "d", "texte": "During school breakfast", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-062-04",
+        "question": "What object does Toby love catching in the grass?",
+        "reponses": [
+          { "id": "a", "texte": "A soft white pillow", "correcte": false },
+          { "id": "b", "texte": "A small green ball", "correcte": true },
+          { "id": "c", "texte": "A crispy apple piece", "correcte": false },
+          { "id": "d", "texte": "A blue school bag", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-062-05",
+        "question": "Where does Toby stay while the author is sleeping?",
+        "reponses": [
+          { "id": "a", "texte": "Near my bed", "correcte": true },
+          { "id": "b", "texte": "Inside the kitchen bowl", "correcte": false },
+          { "id": "c", "texte": "Behind the wooden fence", "correcte": false },
+          { "id": "d", "texte": "Under the office desk", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "063",
+    "titre": "My Neighbor's Cat",
+    "titre2": "Exercise 63",
+    "texte": [
+      "My friendly neighbor has a beautiful little pet, a grey cat.",
+      "The cat loves sitting quietly on the wooden garden fence under the sun.",
+      "He has big bright green eyes and walks very slowly in the grass.",
+      "Sometimes, he comes to my house door to ask for a small bowl of milk.",
+      "I love brushing his soft hair because he is extremely calm."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-063-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-063-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-063-01",
+        "question": "What color is the neighbor's cat?",
+        "reponses": [
+          { "id": "a", "texte": "A grey cat", "correcte": true },
+          { "id": "b", "texte": "Completely white", "correcte": false },
+          { "id": "c", "texte": "Bright yellow", "correcte": false },
+          { "id": "d", "texte": "Dark black", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-063-02",
+        "question": "Where does the cat love sitting quietly?",
+        "reponses": [
+          { "id": "a", "texte": "Under the office table", "correcte": false },
+          { "id": "b", "texte": "On the wooden garden fence", "correcte": true },
+          { "id": "c", "texte": "Inside the big blue suitcase", "correcte": false },
+          { "id": "d", "texte": "On the soft white pillow", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-063-03",
+        "question": "What color are the cat's big bright eyes?",
+        "reponses": [
+          { "id": "a", "texte": "Dark marron", "correcte": false },
+          { "id": "b", "texte": "Light blue", "correcte": false },
+          { "id": "c", "texte": "Big bright green eyes", "correcte": true },
+          { "id": "d", "texte": "Soft white", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-063-04",
+        "question": "What food item does the cat ask for at the door?",
+        "reponses": [
+          { "id": "a", "texte": "A piece of sweet cake", "correcte": false },
+          { "id": "b", "texte": "Some roasted chicken meat", "correcte": false },
+          { "id": "c", "texte": "A crispy red tomato", "correcte": false },
+          { "id": "d", "texte": "A small bowl of milk", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-063-05",
+        "question": "Why does the author love brushing the cat's hair?",
+        "reponses": [
+          { "id": "a", "texte": "Because he is extremely calm", "correcte": true },
+          { "id": "b", "texte": "Because he runs very fast", "correcte": false },
+{ "id": "c", "texte": "Because he barks at night", "correcte": false },
+{ "id": "d", "texte": "Because it is a school rule", "correcte": false }
+]
+}
+]
+},
+{
+"id": "064",
+"titre": "A Day in the Countryside",
+"titre2": "Exercise 64",
+"texte": [
+"On Sunday mornings, we escape the busy city for a day in the countryside.",
+"The air is clean, and the landscape is full of green trees and wide fields.",
+"We walk slowly along a small quiet river under the warm sun.",
+"My father brings a blanket to set up a nice picnic on the grass.",
+"We eat fresh fruits and bread while listening to the wind blow softly."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-064-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-064-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-064-01",
+"question": "When does the family go to the quiet countryside?",
+"reponses": [
+{ "id": "a", "texte": "On Sunday mornings", "correcte": true },
+{ "id": "b", "texte": "On Tuesday afternoons", "correcte": false },
+{ "id": "c", "texte": "Late on Friday evenings", "correcte": false },
+{ "id": "d", "texte": "Every Saturday night", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-064-02",
+"question": "What is the landscape full of according to the text?",
+"reponses": [
+{ "id": "a", "texte": "Giant modern city buildings", "correcte": false },
+{ "id": "b", "texte": "Busy tracks and electronic boards", "correcte": false },
+{ "id": "c", "texte": "Green trees and wide fields", "correcte": true },
+{ "id": "d", "texte": "Pharmacies and clothing stores", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-064-03",
+"question": "What does the family walk along slowly?",
+"reponses": [
+{ "id": "a", "texte": "A small quiet river", "correcte": true },
+{ "id": "b", "texte": "The main train station wall", "correcte": false },
+{ "id": "c", "texte": "The school cafeteria line", "correcte": false },
+{ "id": "d", "texte": "A narrow neighborhood street", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-064-04",
+"question": "Who brings a blanket to set up a nice family picnic?",
+"reponses": [
+{ "id": "a", "texte": "The farm uncle", "correcte": false },
+{ "id": "b", "texte": "My father", "correcte": true },
+{ "id": "c", "texte": "The friendly bus driver", "correcte": false },
+{ "id": "d", "texte": "My best friend Paul", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-064-05",
+"question": "What do they listen to while eating fresh fruits and bread?",
+"reponses": [
+{ "id": "a", "texte": "The wind blowing softly", "correcte": true },
+{ "id": "b", "texte": "A loud movie inside the cinema", "correcte": false },
+{ "id": "c", "texte": "The school bell ringing sharp", "correcte": false },
+{ "id": "d", "texte": "A French audio lesson player", "correcte": false }
+]
+}
+]
+},
+{
+"id": "065",
+"titre": "The Flowers in My Garden",
+"titre2": "Exercise 65",
+"texte": [
+"In front of our white house, there are many beautiful spring flowers.",
+"We can see red roses, yellow tulips, and little white flowers.",
+"They open their colorful petals early under the bright morning light.",
+"Many small bees fly gently around them to gather sweet nectar.",
+"I love taking care of our flowers because they make our home beautiful."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-065-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-065-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-065-01",
+"question": "Where are the beautiful spring flowers located?",
+"reponses": [
+{ "id": "a", "texte": "In front of our white house", "correcte": true },
+{ "id": "b", "texte": "Behind the big city airport", "correcte": false },
+{ "id": "c", "texte": "Inside the school library room", "correcte": false },
+{ "id": "d", "texte": "Near the central train track", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-065-02",
+"question": "Which specific flowers are listed in the reading text?",
+"reponses": [
+{ "id": "a", "texte": "Red roses, yellow tulips, and white flowers", "correcte": true },
+{ "id": "b", "texte": "Green trees and brown potatoes", "correcte": false },
+{ "id": "c", "texte": "Orange carrots and ripe tomatoes", "correcte": false },
+{ "id": "d", "texte": "Only wild forest bushes", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-065-03",
+"question": "When do the flowers open their colorful petals?",
+"reponses": [
+{ "id": "a", "texte": "Late on Saturday evenings", "correcte": false },
+{ "id": "b", "texte": "During a strong windy storm", "correcte": false },
+{ "id": "c", "texte": "Under the bright morning light", "correcte": true },
+{ "id": "d", "texte": "Exactly at noon break time", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-065-04",
+"question": "What little insects fly gently around the spring flowers?",
+"reponses": [
+{ "id": "a", "texte": "Pink pigs", "correcte": false },
+{ "id": "b", "texte": "White birds", "correcte": false },
+{ "id": "c", "texte": "Farm roosters", "correcte": false },
+{ "id": "d", "texte": "Many small bees", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-065-05",
+"question": "Why does the author love taking care of the garden flowers?",
+"reponses": [
+{ "id": "a", "texte": "Because they make our home beautiful", "correcte": true },
+{ "id": "b", "texte": "Because they cost many euros", "correcte": false },
+{ "id": "c", "texte": "Because he wants to stay in bed", "correcte": false },
+{ "id": "d", "texte": "Because it helps with math homework", "correcte": false }
+]
+}
+]
+},
+{
+"id": "066",
+"titre": "The Trees in the Park",
+"titre2": "Exercise 66",
+"texte": [
+"The neighborhood public park is famous for its giant old green trees.",
+"Their long branches create nice dark shadows over the wooden benches.",
+"In the autumn, their dry leaves change color from green to beautiful orange.",
+"Little wild squirrels run quickly up and down the rough tree trunks.",
+"These magnificent trees keep the park cool and fresh during hot summer days."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-066-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-066-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-066-01",
+"question": "What is the neighborhood public park famous for?",
+"reponses": [
+{ "id": "a", "texte": "Its giant old green trees", "correcte": true },
+{ "id": "b", "texte": "Its modern ticket booth counters", "correcte": false },
+{ "id": "c", "texte": "Its large clothing stores", "correcte": false },
+{ "id": "d", "texte": "Its fast train departure tracks", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-066-02",
+"question": "What do the long tree branches create over the benches?",
+"reponses": [
+{ "id": "a", "texte": "Heavy white blankets", "correcte": false },
+{ "id": "b", "texte": "Nice dark shadows", "correcte": true },
+{ "id": "c", "texte": "Gros raindrops of water", "correcte": false },
+{ "id": "d", "texte": "Bright light bulbs", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-066-03",
+"question": "What color do the dry leaves turn in the autumn season?",
+"reponses": [
+{ "id": "a", "texte": "Completely black", "correcte": false },
+{ "id": "b", "texte": "Bright white", "correcte": false },
+{ "id": "c", "texte": "Beautiful orange", "correcte": true },
+{ "id": "d", "texte": "Soft blue", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-066-04",
+"question": "Which little wild animals run up and down the trunks?",
+"reponses": [
+{ "id": "a", "texte": "Pink pigs", "correcte": false },
+{ "id": "b", "texte": "Farm roosters", "correcte": false },
+{ "id": "c", "texte": "White cows", "correcte": false },
+{ "id": "d", "texte": "Little wild squirrels", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-066-05",
+"question": "What is the main benefit of these trees during hot summer days?",
+"reponses": [
+{ "id": "a", "texte": "They keep the park cool and fresh", "correcte": true },
+{ "id": "b", "texte": "They close the park doors early", "correcte": false },
+{ "id": "c", "texte": "They provide clean paper sheets", "correcte": false },
+{ "id": "d", "texte": "They check our transport pass", "correcte": false }
+]
+}
+]
+},
+{
+"id": "067",
+"titre": "A Walk in the Forest",
+"titre2": "Exercise 67",
+"texte": [
+"On Saturday morning, I take a long quiet walk inside the grand forest.",
+"The forest is huge, silent, and smells wonderfully like pine wood.",
+"I follow a narrow path covered with dry leaves and small branches.",
+"The sunlight shines softly through the high green tree leaves above me.",
+"It is an ideal adventure to relax my mind and breathe fresh natural air."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-067-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-067-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-067-01",
+"question": "When does the author go for a walk in the grand forest?",
+"reponses": [
+{ "id": "a", "texte": "On Saturday morning", "correcte": true },
+{ "id": "b", "texte": "On Wednesday afternoon", "correcte": false },
+{ "id": "c", "texte": "Late on Monday night", "correcte": false },
+{ "id": "d", "texte": "Every Sunday at noon", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-067-02",
+"question": "How does the grand forest smell according to the text?",
+"reponses": [
+{ "id": "a", "texte": "Like hot cheese pizza", "correcte": false },
+{ "id": "b", "texte": "Like fresh baked bread", "correcte": false },
+{ "id": "c", "texte": "Wonderfully like pine wood", "correcte": true },
+{ "id": "d", "texte": "Like sweet strawberry fruit", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-067-03",
+"question": "What is covering the narrow path inside the forest?",
+"reponses": [
+{ "id": "a", "texte": "Dark muddy puddles", "correcte": false },
+{ "id": "b", "texte": "Soft red theater carpets", "correcte": false },
+{ "id": "c", "texte": "Dry leaves and small branches", "correcte": true },
+{ "id": "d", "texte": "White snow from winter", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-067-04",
+"question": "How does the warm sunlight shine through the high leaves?",
+"reponses": [
+{ "id": "a", "texte": "It shines softly", "correcte": true },
+{ "id": "b", "texte": "It does not shine today", "correcte": false },
+{ "id": "c", "texte": "It burns extremely hot", "correcte": false },
+{ "id": "d", "texte": "It flashes like a lamp", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-067-05",
+"question": "Why is this walk considered a good adventure?",
+"reponses": [
+{ "id": "a", "texte": "To relax my mind and breathe fresh air", "correcte": true },
+{ "id": "b", "texte": "To buy a beautiful book gift", "correcte": false },
+{ "id": "c", "texte": "To find track number four quickly", "correcte": false },
+{ "id": "d", "texte": "To meet my French school teacher", "correcte": false }
+]
+}
+]
+},
+{
+"id": "068",
+"titre": "Birds in the Sky",
+"titre2": "Exercise 68",
+"texte": [
+"I love sitting near my bedroom window to watch the birds in the sky.",
+"There are small blue birds and large white birds flying together.",
+"They fly high above the city buildings and land on the green trees.",
+"In the morning, they sing a beautiful soft song that wakes me up.",
+"The sky looks magnificent when many birds fly freely across the clouds."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-068-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-068-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-068-01",
+"question": "Where does the author sit down to watch the birds?",
+"reponses": [
+{ "id": "a", "texte": "Near my bedroom window", "correcte": true },
+{ "id": "b", "texte": "At the station ticket counter", "correcte": false },
+{ "id": "c", "texte": "Inside the movie theater room", "correcte": false },
+{ "id": "d", "texte": "Behind the boucher shop door", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-068-02",
+"question": "Which birds are described flying in the sky?",
+"reponses": [
+{ "id": "a", "texte": "Pink roosters and brown squirrels", "correcte": false },
+{ "id": "b", "texte": "Small blue birds and large white birds", "correcte": true },
+{ "id": "c", "texte": "Only grey neighborhood cats", "correcte": false },
+{ "id": "d", "texte": "Yellow honey bees together", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-068-03",
+"question": "Where do the flying birds land after crossing the buildings?",
+"reponses": [
+{ "id": "a", "texte": "On the wooden coffee table", "correcte": false },
+{ "id": "b", "texte": "On the kitchen water tap", "correcte": false },
+{ "id": "c", "texte": "On the green trees", "correcte": true },
+{ "id": "d", "texte": "Inside the yellow city bus", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-068-04",
+"question": "What do the birds do in the morning that wakes the author up?",
+"reponses": [
+{ "id": "a", "texte": "They make a loud metallic noise", "correcte": false },
+{ "id": "b", "texte": "They drop dry pine leaves down", "correcte": false },
+{ "id": "c", "texte": "They sing a beautiful soft song", "correcte": true },
+{ "id": "d", "texte": "They bark near the family bed", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-068-05",
+"question": "When does the sky look magnificent according to the text?",
+"reponses": [
+{ "id": "a", "texte": "When many birds fly freely", "correcte": true },
+{ "id": "b", "texte": "When thick dark mud covers fields", "correcte": false },
+{ "id": "c", "texte": "When the school bell rings sharp", "correcte": false },
+{ "id": "d", "texte": "When a hot oven reaches 180 degrees", "correcte": false }
+]
+}
+]
+},
+{
+"id": "069",
+"titre": "The Life of Bees",
+"titre2": "Exercise 69",
+"texte": [
+"In our large garden, there are many little yellow and black bees.",
+"They fly from one flower to another to gather precious sweet nectar.",
+"They work together all day long to make delicious sweet honey.",
+"Their home is called a hive, and it is located near the grand tree.",
+"Bees are very important for nature, and we must protect them carefully."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-069-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-069-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-069-01",
+"question": "What color are the little bees in the garden?",
+"reponses": [
+{ "id": "a", "texte": "Soft red and white", "correcte": false },
+{ "id": "b", "texte": "Bright blue and grey", "correcte": false },
+{ "id": "c", "texte": "Yellow and black", "correcte": true },
+{ "id": "d", "texte": "Completely dark pink", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-069-02",
+"question": "What do the bees gather from one flower to another?",
+"reponses": [
+{ "id": "a", "texte": "Small dry green leaves", "correcte": false },
+{ "id": "b", "texte": "Precious sweet nectar", "correcte": true },
+{ "id": "c", "texte": "Cold water raindrops", "correcte": false },
+{ "id": "d", "texte": "Grains of yellow apples", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-069-03",
+"question": "What do the little insects make together all day long?",
+"reponses": [
+{ "id": "a", "texte": "Delicious sweet honey", "correcte": true },
+{ "id": "b", "texte": "Fluffy baking powder packs", "correcte": false },
+{ "id": "c", "texte": "Syrup for a bad cough", "correcte": false },
+{ "id": "d", "texte": "Butter for breakfast toast", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-069-04",
+"question": "What is the name of the little bees' home?",
+"reponses": [
+{ "id": "a", "texte": "A wooden stable barn", "correcte": false },
+{ "id": "b", "texte": "A soft bird nest", "correcte": false },
+{ "id": "c", "texte": "A hive", "correcte": true },
+{ "id": "d", "texte": "A white car garage", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-069-05",
+"question": "Why are bees considered important according to the text?",
+"reponses": [
+{ "id": "a", "texte": "Because they are important for nature", "correcte": true },
+{ "id": "b", "texte": "Because they fly faster than planes", "correcte": false },
+{ "id": "c", "texte": "Because they clean neighborhood roads", "correcte": false },
+{ "id": "d", "texte": "Because they read adventure books", "correcte": false }
+]
+}
+]
+},
+{
+"id": "070",
+"titre": "Protecting Our Environment",
+"titre2": "Exercise 70",
+"texte": [
+"Every day, I make simple movements to protect our planet Earth.",
+"In my kitchen, I throw plastic and paper into different trash cans.",
+"When I leave my bedroom, I always turn off the light to save energy.",
+"I never throw any waste on the ground in the streets or the park.",
+"These small daily actions are very easy and important for the future."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-070-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-070-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-070-01",
+"question": "Which planet does the author want to protect?",
+"reponses": [
+{ "id": "a", "texte": "The planet Mars", "correcte": false },
+{ "id": "b", "texte": "The planet Earth", "correcte": true },
+{ "id": "c", "texte": "The white moon sphere", "correcte": false },
+{ "id": "d", "texte": "The hot bright sun", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-070-02",
+"question": "What does the author do in the kitchen to manage waste?",
+"reponses": [
+{ "id": "a", "texte": "He leaves everything on the table", "correcte": false },
+{ "id": "b", "texte": "He separates plastic and paper", "correcte": true },
+{ "id": "c", "texte": "He burns the cardboard boxes", "correcte": false },
+{ "id": "d", "texte": "He washes dirty food wrappers", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-070-03",
+"question": "What does he do immediately when leaving his bedroom?",
+"reponses": [
+{ "id": "a", "texte": "He locks the wooden door", "correcte": false },
+{ "id": "b", "texte": "He opens the window glass", "correcte": false },
+{ "id": "c", "texte": "He turns off the light", "correcte": true },
+{ "id": "d", "texte": "He turns on the television screen", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-070-04",
+"question": "Where does the author never throw any waste or litter?",
+"reponses": [
+{ "id": "a", "texte": "On the ground in streets or parks", "correcte": true },
+{ "id": "b", "texte": "Inside different kitchen cans", "correcte": false },
+{ "id": "c", "texte": "Behind the uncle's animal farm", "correcte": false },
+{ "id": "d", "texte": "Near the public ticket booth", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-070-05",
+"question": "How are these small daily actions described?",
+"reponses": [
+{ "id": "a", "texte": "Very easy and important", "correcte": true },
+{ "id": "b", "texte": "Tiring and extremely expensive", "correcte": false },
+{ "id": "c", "texte": "Only meant for farm workers", "correcte": false },
+{ "id": "d", "texte": "Bad for the local village economy", "correcte": false }
 ]
 }
 ]
