@@ -1558,5 +1558,785 @@
 ]
 }
 ]
+},
+{
+    "id": "021",
+    "titre": "Au supermarché",
+    "titre2": "Exercice 21",
+    "texte": [
+      "Le samedi matin, je vais au grand supermarché qui se trouve au centre-ville.",
+      "Je prends un grand chariot métallique à l'entrée pour mettre mes articles.",
+      "Je marche dans les rayons pour chercher du riz, des pâtes et du lait de vache.",
+      "Il y a beaucoup de monde aujourd'hui et les allées sont très animées.",
+      "Après avoir trouvé tous mes produits, je fais la queue devant la caisse numéro trois."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-021-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-021-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-021-01",
+        "question": "Quand l'auteur va-t-il au supermarché ?",
+        "reponses": [
+          { "id": "a", "texte": "Le samedi matin", "correcte": true },
+          { "id": "b", "texte": "Le dimanche soir", "correcte": false },
+          { "id": "c", "texte": "Le lundi après-midi", "correcte": false },
+          { "id": "d", "texte": "Le mercredi midi", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-021-02",
+        "question": "Que prend-il à l'entrée pour mettre ses articles ?",
+        "reponses": [
+          { "id": "a", "texte": "Un petit sac en papier", "correcte": false },
+          { "id": "b", "texte": "Une boîte en plastique", "correcte": false },
+          { "id": "c", "texte": "Un grand chariot métallique", "correcte": true },
+          { "id": "d", "texte": "Une valise noire", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-021-03",
+        "question": "Quel produit laitier l'auteur cherche-t-il dans les rayons ?",
+        "reponses": [
+          { "id": "a", "texte": "Du fromage de chèvre", "correcte": false },
+          { "id": "b", "texte": "Du yaourt nature", "correcte": false },
+          { "id": "c", "texte": "Du beurre doux", "correcte": false },
+          { "id": "d", "texte": "Du lait de vache", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-021-04",
+        "question": "Comment est l'ambiance dans le supermarché aujourd'hui ?",
+        "reponses": [
+          { "id": "a", "texte": "Le magasin est complètement vide", "correcte": false },
+          { "id": "b", "texte": "Les allées sont très animées", "correcte": true },
+          { "id": "c", "texte": "Tout le monde garde le silence", "correcte": false },
+          { "id": "d", "texte": "Le magasin est fermé", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-021-05",
+        "question": "Devant quelle caisse l'auteur fait-il la queue ?",
+        "reponses": [
+          { "id": "a", "texte": "La caisse numéro un", "correcte": false },
+          { "id": "b", "texte": "La caisse numéro deux", "correcte": false },
+          { "id": "c", "texte": "La caisse numéro trois", "correcte": true },
+          { "id": "d", "texte": "La caisse numéro quatre", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Au marché du village",
+    "titre2": "Exercice 22",
+    "texte": [
+      "Chaque dimanche, le marché s'installe sur la grande place du village.",
+      "Les agriculteurs locaux vendent des légumes frais récoltés le matin même.",
+      "On y trouve des tomates bien rouges, des carottes et des pommes de terre.",
+      "L'ambiance est amicale et on entend les marchands crier pour attirer les clients.",
+      "J'aime ce marché car les produits sont naturels et meilleurs pour la santé."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-022-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-022-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-022-01",
+        "question": "Où s'installe le marché le dimanche ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans un grand stade", "correcte": false },
+          { "id": "b", "texte": "Sur la grande place du village", "correcte": true },
+          { "id": "c", "texte": "Derrière l'église", "correcte": false },
+          { "id": "d", "texte": "Près de la gare routière", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-022-02",
+        "question": "Qui vend les légumes frais sur ce marché ?",
+        "reponses": [
+          { "id": "a", "texte": "Les directeurs des supermarchés", "correcte": false },
+          { "id": "b", "texte": "Les enfants du village", "correcte": false },
+          { "id": "c", "texte": "Les boulangers du quartier", "correcte": false },
+          { "id": "d", "texte": "Les agriculteurs locaux", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-022-03",
+        "question": "Quelle est la couleur des tomates vendues sur le marché ?",
+        "reponses": [
+          { "id": "a", "texte": "Bien rouges", "correcte": true },
+          { "id": "b", "texte": "Jaunes", "correcte": false },
+          { "id": "c", "texte": "Vertes", "correcte": false },
+          { "id": "d", "texte": "Violettes", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-022-04",
+        "question": "Que font les marchands pour attirer les clients ?",
+        "reponses": [
+          { "id": "a", "texte": "Ils jouent de la guitare", "correcte": false },
+          { "id": "b", "texte": "Ils distribuent des cadeaux", "correcte": false },
+          { "id": "c", "texte": "Ils crient", "correcte": true },
+          { "id": "d", "texte": "Ils restent silencieux", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-022-05",
+        "question": "Pourquoi l'auteur aime-t-il ce marché ?",
+        "reponses": [
+          { "id": "a", "texte": "Parce qu'il y a des vêtements", "correcte": false },
+          { "id": "b", "texte": "Parce que c'est très moderne", "correcte": false },
+          { "id": "c", "texte": "Parce que c'est gratuit", "correcte": false },
+          { "id": "d", "texte": "Parce que les produits sont naturels", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Acheter des fruits",
+    "titre2": "Exercice 23",
+    "texte": [
+      "Aujourd'hui, je m'arrête chez le marchand de fruits pour faire une salade.",
+      "Je choisis d'abord un kilo de pommes jaunes bien sucrées.",
+      "Ensuite, je prends un régime de bananes mûres et trois oranges juteuses.",
+      "Le vendeur pèse mes fruits sur sa balance électronique devant moi.",
+      "Je paie en espèces et il met délicatement les fruits dans mon sac réutilisable."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-023-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-023-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-023-01",
+        "question": "Pourquoi l'auteur s'arrête-t-il chez le marchand de fruits ?",
+        "reponses": [
+          { "id": "a", "texte": "Pour acheter un jus", "correcte": false },
+          { "id": "b", "texte": "Pour faire une salade", "correcte": true },
+          { "id": "c", "texte": "Pour discuter avec un ami", "correcte": false },
+          { "id": "d", "texte": "Pour cuisiner une soupe", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-023-02",
+        "question": "Quelle quantité de pommes l'auteur choisit-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Deux kilos", "correcte": false },
+          { "id": "b", "texte": "Cinq pommes", "correcte": false },
+          { "id": "c", "texte": "Un kilo", "correcte": true },
+          { "id": "d", "texte": "Trois kilos", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-023-03",
+        "question": "Combien d'oranges juteuses l'auteur prend-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Une seule orange", "correcte": false },
+          { "id": "b", "texte": "Deux oranges", "correcte": false },
+          { "id": "c", "texte": "Quatre oranges", "correcte": false },
+          { "id": "d", "texte": "Trois oranges", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-023-04",
+        "question": "Quel outil le vendeur utilise-t-il pour peser les fruits ?",
+        "reponses": [
+          { "id": "a", "texte": "Une balance électronique", "correcte": true },
+          { "id": "b", "texte": "Une règle en bois", "correcte": false },
+          { "id": "c", "texte": "Un grand panier", "correcte": false },
+          { "id": "d", "texte": "Un ordinateur portable", "correcte": false }
+        ]
+      },
+      {
+      "id": "q-fr-read-a1-023-05",
+"question": "Comment l'auteur paie-t-il ses achats ?",
+"reponses": [
+{ "id": "a", "texte": "Avec son téléphone", "correcte": false },
+{ "id": "b", "texte": "Par carte bancaire", "correcte": false },
+{ "id": "c", "texte": "En espèces", "correcte": true },
+{ "id": "d", "texte": "Avec un chèque", "correcte": false }
+]
+}
+]
+},
+{
+"id": "024",
+"titre": "Dans une boulangerie",
+"titre2": "Exercice 24",
+"texte": [
+"L'odeur du pain chaud m'attire toujours vers la boulangerie du quartier.",
+"Je dis bonjour à la boulangère et je commande une baguette bien cuite.",
+"Je prends aussi deux croissants au beurre pour le goûter de cet après-midi.",
+"La boulangère enveloppe le pain dans un petit sachet en papier blanc.",
+"Je paie rapidement avec ma carte bancaire et je lui souhaite une bonne journée."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-024-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-024-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-024-01",
+"question": "Qu'est-ce qui attire l'auteur vers la boulangerie ?",
+"reponses": [
+{ "id": "a", "texte": "Une affiche colorée", "correcte": false },
+{ "id": "b", "texte": "La musique forte", "correcte": false },
+{ "id": "c", "texte": "L'odeur du pain chaud", "correcte": true },
+{ "id": "d", "texte": "La couleur de la porte", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-024-02",
+"question": "Quelle sorte de baguette l'auteur commande-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Une baguette pas trop cuite", "correcte": false },
+{ "id": "b", "texte": "Une baguette sans sel", "correcte": false },
+{ "id": "c", "texte": "Une baguette géante", "correcte": false },
+{ "id": "d", "texte": "Une baguette bien cuite", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-024-03",
+"question": "Combien de croissants au beurre prend-il pour le goûter ?",
+"reponses": [
+{ "id": "a", "texte": "Deux croissants", "correcte": true },
+{ "id": "b", "texte": "Trois croissants", "correcte": false },
+{ "id": "c", "texte": "Un seul croissant", "correcte": false },
+{ "id": "d", "texte": "Quatre croissants", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-024-04",
+"question": "Dans quoi la boulangère enveloppe-t-elle le pain ?",
+"reponses": [
+{ "id": "a", "texte": "Un sac en plastique vert", "correcte": false },
+{ "id": "b", "texte": "Un petit sachet en papier blanc", "correcte": true },
+{ "id": "c", "texte": "Une boîte en carton", "correcte": false },
+{ "id": "d", "texte": "Un tissu propre", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-024-05",
+"question": "Comment l'auteur paie-t-il la boulangère ?",
+"reponses": [
+{ "id": "a", "texte": "Avec des pièces de monnaie", "correcte": false },
+{ "id": "b", "texte": "Avec un chèque postal", "correcte": false },
+{ "id": "c", "texte": "Par carte bancaire", "correcte": true },
+{ "id": "d", "texte": "Il ne paie pas aujourd'hui", "correcte": false }
+]
+}
+]
+},
+{
+"id": "025",
+"titre": "À la pharmacie",
+"titre2": "Exercice 25",
+"texte": [
+"Aujourd'hui, je vais à la pharmacie car j'ai un peu mal à la tête.",
+"Je donne mon ordonnance médicale au pharmacien qui porte une blouse blanche.",
+"Il va chercher une boîte de médicaments dans un grand tiroir mural.",
+"Il m'explique clairement qu'il faut prendre un comprimé pendant le repas.",
+"J'achète aussi un flacon de sirop pour la toux avant de quitter le magasin."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-025-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-025-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-025-01",
+"question": "Pourquoi l'auteur va-t-il à la pharmacie ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'il a mal aux dents", "correcte": false },
+{ "id": "b", "texte": "Parce qu'il a mal au ventre", "correcte": false },
+{ "id": "c", "texte": "Parce qu'il a mal à la tête", "correcte": true },
+{ "id": "d", "texte": "Parce qu'il a mal au bras", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-025-02",
+"question": "Que porte le pharmacien ?",
+"reponses": [
+{ "id": "a", "texte": "Une blouse blanche", "correcte": true },
+{ "id": "b", "texte": "Un chapeau noir", "correcte": false },
+{ "id": "c", "texte": "Un costume bleu", "correcte": false },
+{ "id": "d", "texte": "Un tablier rouge", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-025-03",
+"question": "Où le pharmacien prend-il la boîte de médicaments ?",
+"reponses": [
+{ "id": "a", "texte": "Sous son bureau", "correcte": false },
+{ "id": "b", "texte": "Dans un grand tiroir mural", "correcte": true },
+{ "id": "c", "texte": "Dans une boîte en carton par terre", "correcte": false },
+{ "id": "d", "texte": "Derrière la porte d'entrée", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-025-04",
+"question": "Quand faut-il prendre le comprimé selon les explications ?",
+"reponses": [
+{ "id": "a", "texte": "Avant de dormir", "correcte": false },
+{ "id": "b", "texte": "Le matin à jeun", "correcte": false },
+{ "id": "c", "texte": "Pendant le repas", "correcte": true },
+{ "id": "d", "texte": "Toutes les deux heures", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-025-05",
+"question": "Quel autre produit l'auteur achète-t-il avant de partir ?",
+"reponses": [
+{ "id": "a", "texte": "Des pansements", "correcte": false },
+{ "id": "b", "texte": "Une brosse à dents", "correcte": false },
+{ "id": "c", "texte": "De la crème solaire", "correcte": false },
+{ "id": "d", "texte": "Un flacon de sirop pour la toux", "correcte": true }
+]
+}
+]
+},
+{
+"id": "026",
+"titre": "Acheter des vêtements",
+"titre2": "Exercice 26",
+"texte": [
+"J'entre dans un magasin de vêtements pour acheter une nouvelle tenue d'été.",
+"Je cherche d'abord un t-shirt blanc en coton simple et confortable.",
+"Ensuite, je choisis un pantalon en jean bleu clair à ma taille.",
+"Je vais dans la cabine d'essayage pour essayer les vêtements devant le miroir.",
+"Tout me va parfaitement bien, alors je décide d'acheter l'ensemble."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-026-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-026-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-026-01",
+"question": "Pourquoi l'auteur entre-t-il dans ce magasin ?",
+"reponses": [
+{ "id": "a", "texte": "Pour acheter une nouvelle tenue d'été", "correcte": true },
+{ "id": "b", "texte": "Pour travailler comme vendeur", "correcte": false },
+{ "id": "c", "texte": "Pour acheter un manteau d'hiver", "correcte": false },
+{ "id": "d", "texte": "Pour retrouver un ami", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-026-02",
+"question": "De quelle couleur est le t-shirt en coton qu'il cherche ?",
+"reponses": [
+{ "id": "a", "texte": "Noir", "correcte": false },
+{ "id": "b", "texte": "Rouge", "correcte": false },
+{ "id": "c", "texte": "Bleu", "correcte": false },
+{ "id": "d", "texte": "Blanc", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-026-03",
+"question": "Quel type de pantalon l'auteur choisit-il ?",
+"reponses": [
+{ "id": "a", "texte": "Un short de sport noir", "correcte": false },
+{ "id": "b", "texte": "Un pantalon en jean bleu clair", "correcte": true },
+{ "id": "c", "texte": "Un pantalon de costume gris", "correcte": false },
+{ "id": "d", "texte": "Un jogging vert", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-026-04",
+"question": "Où va l'auteur pour tester les vêtements ?",
+"reponses": [
+{ "id": "a", "texte": "Derrière la caisse", "correcte": false },
+{ "id": "b", "texte": "Au milieu du magasin", "correcte": false },
+{ "id": "c", "texte": "Dans la cabine d'essayage", "correcte": true },
+{ "id": "d", "texte": "Dehors dans la rue", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-026-05",
+"question": "Quelle est la décision finale de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Il ne prend rien du tout", "correcte": false },
+{ "id": "b", "texte": "Il achète seulement le t-shirt", "correcte": false },
+{ "id": "c", "texte": "Il demande une autre taille", "correcte": false },
+{ "id": "d", "texte": "Il décide d'acheter l'ensemble", "correcte": true }
+]
+}
+]
+},
+{
+"id": "027",
+"titre": "Dans un magasin de chaussures",
+"titre2": "Exercice 27",
+"texte": [
+"Mes vieilles chaussures sont abîmées, je dois en acheter de nouvelles.",
+"Le magasin propose un choix immense de baskets, de bottes et de sandales.",
+"Je repère une jolie paire de baskets noires avec des lacets blancs.",
+"Je demande ma pointure, qui est le numéro trente-huit, au jeune vendeur.",
+"Je marche un peu dans le magasin pour vérifier qu'elles sont confortables."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-027-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-027-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-027-01",
+"question": "Pourquoi l'auteur doit-il acheter de nouvelles chaussures ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'il veut faire un cadeau", "correcte": false },
+{ "id": "b", "texte": "Parce que ses vieilles chaussures sont abîmées", "correcte": true },
+{ "id": "c", "texte": "Parce qu'il commence le football", "correcte": false },
+{ "id": "d", "texte": "Parce que c'est obligatoire à l'école", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-027-02",
+"question": "Quelle paire de chaussures l'auteur repère-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Des bottes en plastique bleues", "correcte": false },
+{ "id": "b", "texte": "Des sandales de plage jaunes", "correcte": false },
+{ "id": "c", "texte": "Des baskets noires avec des lacets blancs", "correcte": true },
+{ "id": "d", "texte": "Des chaussures de sport rouges", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-027-03",
+"question": "Quelle est la pointure de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Le numéro trente-six", "correcte": false },
+{ "id": "b", "texte": "Le numéro quarante", "correcte": false },
+{ "id": "c", "texte": "Le numéro trente-sept", "correcte": false },
+{ "id": "d", "texte": "Le numéro trente-huit", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-027-04",
+"question": "À qui l'auteur demande-t-il sa pointure ?",
+"reponses": [
+{ "id": "a", "texte": "Au jeune vendeur", "correcte": true },
+{ "id": "b", "texte": "À un autre client", "correcte": false },
+{ "id": "c", "texte": "À sa grand-mère", "correcte": false },
+{ "id": "d", "texte": "Au directeur de l'école", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-027-05",
+"question": "Que fait l'auteur pour s'assurer que les chaussures conviennent ?",
+"reponses": [
+{ "id": "a", "texte": "Il court très vite dehors", "correcte": false },
+{ "id": "b", "texte": "Il saute sur place", "correcte": false },
+{ "id": "c", "texte": "Il marche un peu dans le magasin", "correcte": true },
+{ "id": "d", "texte": "Il regarde une vidéo sur internet", "correcte": false }
+]
+}
+]
+},
+{
+"id": "028",
+"titre": "Le prix des produits",
+"titre2": "Exercice 28",
+"texte": [
+"Quand je fais mes courses, je regarde toujours attentivement le prix des produits.",
+"Chaque article possède une petite étiquette blanche avec le prix écrit en euros.",
+"Le paquet de biscuits coûte deux euros et la bouteille de jus de pomme trois euros.",
+"Je calcule la somme totale dans ma tête pour ne pas dépasser mon budget.",
+"C'est une bonne habitude pour économiser de l'argent et être responsable."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-028-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-028-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-028-01",
+"question": "Que regarde toujours l'auteur quand il fait ses courses ?",
+"reponses": [
+{ "id": "a", "texte": "La couleur des emballages", "correcte": false },
+{ "id": "b", "texte": "La taille des cartons", "correcte": false },
+{ "id": "c", "texte": "Le prix des produits", "correcte": true },
+{ "id": "d", "texte": "Le nom du directeur", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-028-02",
+"question": "Dans quelle monnaie les prix sont-ils écrits sur l'étiquette ?",
+"reponses": [
+{ "id": "a", "texte": "En dollars", "correcte": false },
+{ "id": "b", "texte": "En euros", "correcte": true },
+{ "id": "c", "texte": "En francs", "correcte": false },
+{ "id": "d", "texte": "En livres", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-028-03",
+"question": "Combien coûte le paquet de biscuits ?",
+"reponses": [
+{ "id": "a", "texte": "Un euro", "correcte": false },
+{ "id": "b", "texte": "Trois euros", "correcte": false },
+{ "id": "c", "texte": "Quatre euros", "correcte": false },
+{ "id": "d", "texte": "Deux euros", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-028-04",
+"question": "Où l'auteur calcule-t-il la somme totale de ses achats ?",
+"reponses": [
+{ "id": "a", "texte": "Dans sa tête", "correcte": true },
+{ "id": "b", "texte": "Sur un grand cahier", "correcte": false },
+{ "id": "c", "texte": "Avec sa calculatrice solaire", "correcte": false },
+{ "id": "d", "texte": "Sur son téléphone portable", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-028-05",
+"question": "Pourquoi est-ce une bonne habitude selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Pour finir les courses plus vite", "correcte": false },
+{ "id": "b", "texte": "Pour parler avec le caissier", "correcte": false },
+{ "id": "c", "texte": "Pour économiser de l'argent", "correcte": true },
+{ "id": "d", "texte": "Pour faire plaisir aux marchands", "correcte": false }
+]
+}
+]
+},
+{
+"id": "029",
+"titre": "Faire les courses avec maman",
+"titre2": "Exercice 29",
+"texte": [
+"Le mercredi après-midi, j'accompagne maman pour faire les courses de la maison.",
+"Elle prépare toujours une petite liste écrite sur un morceau de papier jaune.",
+"Mon rôle est de lire la liste et de trouver les articles dans les rayons.",
+"Maman choisit la viande chez le boucher et le poisson frais chez le poissonnier.",
+"C'est un moment agréable que nous partageons ensemble chaque semaine."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-029-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-029-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-029-01",
+"question": "Quel jour l'auteur accompagne-t-il sa maman ?",
+"reponses": [
+{ "id": "a", "texte": "Le samedi soir", "correcte": false },
+{ "id": "b", "texte": "Le mercredi après-midi", "correcte": true },
+{ "id": "c", "texte": "Le lundi matin", "correcte": false },
+{ "id": "d", "texte": "Le vendredi midi", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-029-02",
+"question": "De quelle couleur est le morceau de papier de la liste ?",
+"reponses": [
+{ "id": "a", "texte": "Blanc", "correcte": false },
+{ "id": "b", "texte": "Vert", "correcte": false },
+{ "id": "c", "texte": "Bleu", "correcte": false },
+{ "id": "d", "texte": "Jaune", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-029-03",
+"question": "Quel est le rôle de l'auteur pendant les courses ?",
+"reponses": [
+{ "id": "a", "texte": "Pousser le chariot métallique", "correcte": false },
+{ "id": "b", "texte": "Lire la liste et trouver les articles", "correcte": true },
+{ "id": "c", "texte": "Payer la caissière à la fin", "correcte": false },
+{ "id": "d", "texte": "Garder les sacs dans la voiture", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-029-04",
+"question": "Où la maman choisit-elle la viande ?",
+"reponses": [
+{ "id": "a", "texte": "Chez le boucher", "correcte": true },
+{ "id": "b", "texte": "Chez le poissonnier", "correcte": false },
+{ "id": "c", "texte": "À la boulangerie", "correcte": false },
+{ "id": "d", "texte": "À la pharmacie", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-029-05",
+"question": "À quelle fréquence ce moment partagé a-t-il lieu ?",
+"reponses": [
+{ "id": "a", "texte": "Une fois par mois", "correcte": false },
+{ "id": "b", "texte": "Chaque année pendant l'été", "correcte": false },
+{ "id": "c", "texte": "Chaque semaine", "correcte": true },
+{ "id": "d", "texte": "Tous les deux jours", "correcte": false }
+]
+}
+]
+},
+{
+"id": "030",
+"titre": "Mon premier achat",
+"titre2": "Exercice 30",
+"texte": [
+"Aujourd'hui est un jour spécial car je fais mon tout premier achat seul.",
+"Mon père m'a donné un billet de cinq euros pour acheter un joli cahier de dessin.",
+"Je marche sagement vers la petite papeterie située au bout de ma rue.",
+"Je choisis un cahier avec une couverture illustrée d'un petit chat blanc.",
+"La marchande me rend la monnaie avec un sourire encourageant et je rentre fier."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-030-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-030-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-030-01",
+"question": "Pourquoi aujourd'hui est-il un jour spécial ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que c'est le début de l'école", "correcte": false },
+{ "id": "b", "texte": "Parce que l'auteur voyage en train", "correcte": false },
+{ "id": "c", "texte": "Parce que l'auteur fait son tout premier achat seul", "correcte": true },
+{ "id": "d", "texte": "Parce que c'est la fête du village", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-030-02",
+"question": "Quel billet le père a-t-il donné à l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Un billet de dix euros", "correcte": false },
+{ "id": "b", "texte": "Un billet de cinq euros", "correcte": true },
+{ "id": "c", "texte": "Un billet de vingt euros", "correcte": false },
+{ "id": "d", "texte": "Il a donné des pièces", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-030-03",
+"question": "Où se trouve la petite papeterie ?",
+"reponses": [
+{ "id": "a", "texte": "Au centre-ville près du métro", "correcte": false },
+{ "id": "b", "texte": "En face de la grande boulangerie", "correcte": false },
+{ "id": "c", "texte": "Dans un autre village lointain", "correcte": false },
+{ "id": "d", "texte": "Au bout de la rue de l'auteur", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-030-04",
+"question": "Quel animal illustre la couverture du cahier choisi ?",
+"reponses": [
+{ "id": "a", "texte": "Un petit chat blanc", "correcte": true },
+{ "id": "b", "texte": "Un petit chien blanc", "correcte": false },
+{ "id": "c", "texte": "Un oiseau bleu", "correcte": false },
+{ "id": "d", "texte": "Un poisson vert", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-030-05",
+"question": "Comment se sent l'auteur en rentrant chez lui après l'achat ?",
+"reponses": [
+{ "id": "a", "texte": "Fatigué", "correcte": false },
+{ "id": "b", "texte": "Triste", "correcte": false },
+{ "id": "c", "texte": "Fier", "correcte": true },
+{ "id": "d", "texte": "Stressé", "correcte": false }
+]
+}
+]
 }
 ]
