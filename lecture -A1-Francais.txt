@@ -1,9 +1,652 @@
+[
+  {
+    "id": "001",
+    "titre": "Je me présente",
+    "titre2": "Exercice 1",
+    "texte": [
+      "Bonjour ! Je m'appelle Sarah. J'ai 25 ans et je suis canadienne.",
+      "J'habite à Paris depuis deux mois pour mes études.",
+      "Je parle anglais et un peu français.",
+      "Je suis étudiante en pharmacie à l'université.",
+      "Pendant mon temps libre, j'aime lire des livres et faire du vélo dans le parc."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-001-01",
+        "question": "Quel est le prénom de la jeune femme ?",
+        "reponses": [
+          { "id": "a", "texte": "Julie", "correcte": false },
+          { "id": "b", "texte": "Sarah", "correcte": true },
+          { "id": "c", "texte": "Catherine", "correcte": false },
+          { "id": "d", "texte": "Marie", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-001-02",
+        "question": "Quel âge a-t-elle ?",
+        "reponses": [
+          { "id": "a", "texte": "20 ans", "correcte": false },
+          { "id": "b", "texte": "30 ans", "correcte": false },
+          { "id": "c", "texte": "25 ans", "correcte": true },
+          { "id": "d", "texte": "22 ans", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-001-03",
+        "question": "Où habite-t-elle actuellement ?",
+        "reponses": [
+          { "id": "a", "texte": "À Montréal", "correcte": false },
+          { "id": "b", "texte": "À Paris", "correcte": true },
+          { "id": "c", "texte": "À Londres", "correcte": false },
+          { "id": "d", "texte": "À Lyon", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-001-04",
+        "question": "Quelle est sa profession ou occupation ?",
+        "reponses": [
+          { "id": "a", "texte": "Elle est professeure", "correcte": false },
+          { "id": "b", "texte": "Elle est étudiante", "correcte": true },
+          { "id": "c", "texte": "Elle est pharmacienne", "correcte": false },
+          { "id": "d", "texte": "Elle est secrétaire", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-001-05",
+        "question": "Qu'est-ce qu'elle aime faire pendant son temps libre ?",
+        "reponses": [
+          { "id": "a", "texte": "Regarder la télévision", "correcte": false },
+          { "id": "b", "texte": "Faire de la natation", "correcte": false },
+          { "id": "c", "texte": "Lire et faire du vélo", "correcte": true },
+          { "id": "d", "texte": "Cuisiner", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Ma famille",
+    "titre2": "Exercice 2",
+    "texte": [
+      "Dans ma famille, nous sommes quatre personnes : mon père, ma mère, mon frère et moi.",
+      "Mon père s'appelle Thomas et il a 50 ans. Il est ingénieur.",
+      "Ma mère s'appelle Sophie. Elle a 48 ans et elle est dentiste.",
+      "Mon frère s'appelle Lucas. Il a 18 ans et il va au lycée.",
+      "Nous avons aussi un petit chien blanc qui s'appelle Toby et que nous adorons."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-002-01",
+        "question": "Combien de personnes y a-t-il dans cette famille ?",
+        "reponses": [
+          { "id": "a", "texte": "Trois personnes", "correcte": false },
+          { "id": "b", "texte": "Quatre personnes", "correcte": true },
+          { "id": "c", "texte": "Cinq personnes", "correcte": false },
+          { "id": "d", "texte": "Six personnes", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-002-02",
+        "question": "Quel est le métier du père ?",
+        "reponses": [
+          { "id": "a", "texte": "Dentiste", "correcte": false },
+          { "id": "b", "texte": "Professeur", "correcte": false },
+          { "id": "c", "texte": "Ingénieur", "correcte": true },
+          { "id": "d", "texte": "Médecin", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-002-03",
+        "question": "Quel âge a la mère ?",
+        "reponses": [
+          { "id": "a", "texte": "50 ans", "correcte": false },
+          { "id": "b", "texte": "48 ans", "correcte": true },
+          { "id": "c", "texte": "45 ans", "correcte": false },
+          { "id": "d", "texte": "52 ans", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-002-04",
+        "question": "Où va le frère, Lucas ?",
+        "reponses": [
+          { "id": "a", "texte": "À l'université", "correcte": false },
+          { "id": "b", "texte": "Au lycée", "correcte": true },
+          { "id": "c", "texte": "Au travail", "correcte": false },
+          { "id": "d", "texte": "À l'école primaire", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-002-05",
+        "question": "Qui est Toby ?",
+        "reponses": [
+          { "id": "a", "texte": "Le grand-père", "correcte": false },
+          { "id": "b", "texte": "Un voisin", "correcte": false },
+          { "id": "c", "texte": "Le petit chien", "correcte": true },
+          { "id": "d", "texte": "Un chat", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Mon meilleur ami",
+    "titre2": "Exercice 3",
+    "texte": [
+      "Mon meilleur ami s'appelle Nicolas. Nous nous connaissons depuis l'école primaire.",
+      "Il est grand, il a les cheveux courts et il porte des lunettes.",
+      "Nicolas est une personne très gentille, drôle et toujours de bonne humeur.",
+      "Il habite dans la même rue que moi, alors nous marchons souvent ensemble.",
+      "Le week-end, nous aimons jouer aux jeux vidéo et regarder des matchs de football."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-003-01",
+        "question": "Depuis quand les deux amis se connaissent-ils ?",
+        "reponses": [
+          { "id": "a", "texte": "Depuis l'université", "correcte": false },
+          { "id": "b", "texte": "Depuis l'école primaire", "correcte": true },
+          { "id": "c", "texte": "Depuis l'année dernière", "correcte": false },
+          { "id": "d", "texte": "Depuis un mois", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-003-02",
+        "question": "Quel accessoire Nicolas porte-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Une montre", "correcte": false },
+          { "id": "b", "texte": "Un chapeau", "correcte": false },
+          { "id": "c", "texte": "Des lunettes", "correcte": true },
+          { "id": "d", "texte": "Une écharpe", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-003-03",
+        "question": "Comment est le caractère de Nicolas ?",
+        "reponses": [
+          { "id": "a", "texte": "Timide et sérieux", "correcte": false },
+          { "id": "b", "texte": "Gentil et drôle", "correcte": true },
+          { "id": "c", "texte": "Toujours fatigué", "correcte": false },
+          { "id": "d", "texte": "Calme et silencieux", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-003-04",
+        "question": "Où habite Nicolas ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans une autre ville", "correcte": false },
+          { "id": "b", "texte": "Dans la même rue que l'auteur", "correcte": true },
+          { "id": "c", "texte": "Loin du centre-ville", "correcte": false },
+          { "id": "d", "texte": "Près de la gare", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-003-05",
+        "question": "Que font-ils ensemble le week-end ?",
+        "reponses": [
+          { "id": "a", "texte": "Ils font les devoirs", "correcte": false },
+          { "id": "b", "texte": "Ils font les courses", "correcte": false },
+          { "id": "c", "texte": "Ils jouent aux jeux vidéo et regardent le foot", "correcte": true },
+          { "id": "d", "texte": "Ils vont au cinéma", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Ma journée habituelle",
+    "titre2": "Exercice 4",
+    "texte": [
+      "Pendant la semaine, ma routine quotidienne est très régulière.",
+      "Je quitte ma maison à 8h00 pour aller travailler au bureau.",
+      "À midi, je mange une salade ou un sandwich avec mes collègues au restaurant du coin.",
+      "Je termine ma journée de travail à 17h00 et je rentre directement chez moi.",
+      "Le soir, je prépare le dîner, je regarde un peu la télévision et je me couche tôt."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-004-01",
+        "question": "À quelle heure l'auteur quitte-t-il sa maison ?",
+        "reponses": [
+          { "id": "a", "texte": "À 7h00", "correcte": false },
+          { "id": "b", "texte": "À 8h00", "correcte": true },
+          { "id": "c", "texte": "À 9h00", "correcte": false },
+          { "id": "d", "texte": "À 8h30", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-004-02",
+        "question": "Où l'auteur travaille-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "À l'école", "correcte": false },
+          { "id": "b", "texte": "Dans un bureau", "correcte": true },
+          { "id": "c", "texte": "Dans un magasin", "correcte": false },
+          { "id": "d", "texte": "À l'hôpital", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-004-03",
+        "question": "Avec qui mange-t-il à midi ?",
+        "reponses": [
+          { "id": "a", "texte": "Avec sa famille", "correcte": false },
+          { "id": "b", "texte": "Avec ses collègues", "correcte": true },
+          { "id": "c", "texte": "Seul", "correcte": false },
+          { "id": "d", "texte": "Avec ses amis d'enfance", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-004-04",
+        "question": "À quelle heure se termine le travail ?",
+        "reponses": [
+          { "id": "a", "texte": "À 16h00", "correcte": false },
+          { "id": "b", "texte": "À 17h00", "correcte": true },
+          { "id": "c", "texte": "À 18h00", "correcte": false },
+{ "id": "d", "texte": "À 12h00", "correcte": false }
+]
+},
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+"id": "q-fr-read-a1-004-05",
+"question": "Que fait l'auteur le soir ?",
+"reponses": [
+{ "id": "a", "texte": "Il va au sport", "correcte": false },
+{ "id": "b", "texte": "Il sort avec des amis", "correcte": false },
+{ "id": "c", "texte": "Il prépare le dîner et regarde la télé", "correcte": true },
+{ "id": "d", "texte": "Il travaille encore", "correcte": false }
+]
 }
+]
+},
+{
+"id": "005",
+"titre": "Mon réveil le matin",
+"titre2": "Exercice 5",
+"texte": [
+"Chaque matin, mon réveil sonne à 6h30 précises.",
+"Je reste cinq minutes dans mon lit, puis je me lève pour ouvrir les rideaux.",
+"Ensuite, je vais directement dans la salle de bain pour me laver le visage.",
+"Je me brosse les dents et je me coiffe soigneusement devant le miroir.",
+"Après ces étapes, je m'habille avec mes vêtements de travail et je suis prêt."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-fr-read-a1-005-01",
+"question": "À quelle heure sonne le réveil ?",
+"reponses": [
+{ "id": "a", "texte": "À 6h00", "correcte": false },
+{ "id": "b", "texte": "À 6h30", "correcte": true },
+{ "id": "c", "texte": "À 7h00", "correcte": false },
+{ "id": "d", "texte": "À 7h30", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-005-02",
+"question": "Combien de temps l'auteur reste-t-il dans son lit après la sonnerie ?",
+"reponses": [
+{ "id": "a", "texte": "Dix minutes", "correcte": false },
+{ "id": "b", "texte": "Cinq minutes", "correcte": true },
+{ "id": "c", "texte": "Une heure", "correcte": false },
+{ "id": "d", "texte": "Il se lève immédiatement", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-005-03",
+"question": "Que fait-il juste après s'être levé ?",
+"reponses": [
+{ "id": "a", "texte": "Il boit un café", "correcte": false },
+{ "id": "b", "texte": "Il ouvre les rideaux", "correcte": true },
+{ "id": "c", "texte": "Il écoute de la musique", "correcte": false },
+{ "id": "d", "texte": "Il allume la télévision", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-005-04",
+"question": "Où va-t-il pour se laver le visage ?",
+"reponses": [
+{ "id": "a", "texte": "Dans la cuisine", "correcte": false },
+{ "id": "b", "texte": "Dans la salle de bain", "correcte": true },
+{ "id": "c", "texte": "Dans le jardin", "correcte": false },
+{ "id": "d", "texte": "Dans le salon", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-005-05",
+"question": "Quels vêtements choisit-il d'enfiler ?",
+"reponses": [
+{ "id": "a", "texte": "Son pyjama", "correcte": false },
+{ "id": "b", "texte": "Un jogging de sport", "correcte": false },
+{ "id": "c", "texte": "Ses vêtements de travail", "correcte": true },
+{ "id": "d", "texte": "Un costume de fête", "correcte": false }
+]
+}
+]
+},
+{
+"id": "006",
+"titre": "Mon petit-déjeuner",
+"titre2": "Exercice 6",
+"texte": [
+"Le petit-déjeuner est mon repas préféré de la journée.",
+"Je bois toujours une grande tasse de café chaud avec un peu de lait.",
+"Je mange deux tartines de pain avec du beurre et de la confiture de fraise.",
+"Parfois, je mange aussi un yaourt nature ou un fruit, comme une banane.",
+"Je prends mon temps pour manger calmement dans la cuisine en lisant les nouvelles."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-fr-read-a1-006-01",
+"question": "Quel est le repas préféré de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Le déjeuner", "correcte": false },
+{ "id": "b", "texte": "Le petit-déjeuner", "correcte": true },
+{ "id": "c", "texte": "Le dîner", "correcte": false },
+{ "id": "d", "texte": "Le goûter", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-006-02",
+"question": "Que met l'auteur dans son café ?",
+"reponses": [
+{ "id": "a", "texte": "Du sucre", "correcte": false },
+{ "id": "b", "texte": "Un peu de lait", "correcte": true },
+{ "id": "c", "texte": "Du chocolat", "correcte": false },
+{ "id": "d", "texte": "Rien, il le boit noir", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-006-03",
+"question": "Qu'est-ce qu'il met sur ses tartines de pain ?",
+"reponses": [
+{ "id": "a", "texte": "Du fromage", "correcte": false },
+{ "id": "b", "texte": "Du beurre et de la confiture", "correcte": true },
+{ "id": "c", "texte": "Du miel", "correcte": false },
+{ "id": "d", "texte": "Du chocolat à tartiner", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-006-04",
+"question": "Quel fruit mange-t-il parfois ?",
+"reponses": [
+{ "id": "a", "texte": "Une pomme", "correcte": false },
+{ "id": "b", "texte": "Une banane", "correcte": true },
+{ "id": "c", "texte": "Une orange", "correcte": false },
+{ "id": "d", "texte": "Des fraises", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-006-05",
+"question": "Que fait l'auteur en mangeant ?",
+"reponses": [
+{ "id": "a", "texte": "Il écoute la radio", "correcte": false },
+{ "id": "b", "texte": "Il parle au téléphone", "correcte": false },
+{ "id": "c", "texte": "Il lit les nouvelles", "correcte": true },
+{ "id": "d", "texte": "Il regarde une vidéo", "correcte": false }
+]
+}
+]
+},
+{
+"id": "007",
+"titre": "Mon emploi du temps",
+"titre2": "Exercice 7",
+"texte": [
+"J'ai un emploi du temps très chargé cette semaine.",
+"Le lundi et le mercredi, j'ai des cours de français de 9h00 à 12h00.",
+"Le mardi après-midi, je travaille à la bibliothèque de l'école.",
+"Le jeudi, je fais du sport avec un groupe d'amis à 18h00.",
+"Le vendredi est ma journée libre, j'en profite pour me reposer et faire les courses."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-fr-read-a1-007-01",
+"question": "Quels jours l'auteur a-t-il des cours de français ?",
+"reponses": [
+{ "id": "a", "texte": "Le lundi et le mardi", "correcte": false },
+{ "id": "b", "texte": "Le lundi et le mercredi", "correcte": true },
+{ "id": "c", "texte": "Le jeudi et le vendredi", "correcte": false },
+{ "id": "d", "texte": "Tous les jours", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-007-02",
+"question": "À quelle heure commencent les cours de français ?",
+"reponses": [
+{ "id": "a", "texte": "À 10h00", "correcte": false },
+{ "id": "b", "texte": "À 9h00", "correcte": true },
+{ "id": "c", "texte": "À 14h00", "correcte": false },
+{ "id": "d", "texte": "À 8h00", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-007-03",
+"question": "Où l'auteur travaille-t-il le mardi après-midi ?",
+"reponses": [
+{ "id": "a", "texte": "Dans un magasin", "correcte": false },
+{ "id": "b", "texte": "À la bibliothèque", "correcte": true },
+{ "id": "c", "texte": "À la maison", "correcte": false },
+{ "id": "d", "texte": "Dans un café", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-007-04",
+"question": "Que fait-il le jeudi à 18h00 ?",
+"reponses": [
+{ "id": "a", "texte": "Il étudie", "correcte": false },
+{ "id": "b", "texte": "Il fait du sport", "correcte": true },
+{ "id": "c", "texte": "Il dort", "correcte": false },
+{ "id": "d", "texte": "Il regarde un film", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-007-05",
+"question": "Quel est le jour libre de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Le mercredi", "correcte": false },
+{ "id": "b", "texte": "Le vendredi", "correcte": true },
+{ "id": "c", "texte": "Le samedi", "correcte": false },
+{ "id": "d", "texte": "Le lundi", "correcte": false }
+]
+}
+]
+},
+{
+"id": "008",
+"titre": "Ma maison",
+"titre2": "Exercice 8",
+"texte": [
+"J'habite dans une jolie maison blanche avec un grand jardin vert.",
+"Au rez-de-chaussée, il y a une grande cuisine moderne et un salon confortable.",
+"Dans le salon, il y a un canapé bleu, une grande télévision et une table basse.",
+"À l'étage, il y a deux chambres à coucher et une salle de bain avec douche.",
+"Derrière la maison, il y a un garage pour garer notre voiture."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-fr-read-a1-008-01",
+"question": "De quelle couleur est la maison ?",
+"reponses": [
+{ "id": "a", "texte": "Rouge", "correcte": false },
+{ "id": "b", "texte": "Blanche", "correcte": true },
+{ "id": "c", "texte": "Bleue", "correcte": false },
+{ "id": "d", "texte": "Jaune", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-008-02",
+"question": "Quelles pièces se trouvent au rez-de-chaussée ?",
+"reponses": [
+{ "id": "a", "texte": "Les chambres", "correcte": false },
+{ "id": "b", "texte": "La cuisine et le salon", "correcte": true },
+{ "id": "c", "texte": "La salle de bain", "correcte": false },
+{ "id": "d", "texte": "Le garage", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-008-03",
+"question": "De quelle couleur est le canapé du salon ?",
+"reponses": [
+{ "id": "a", "texte": "Vert", "correcte": false },
+{ "id": "b", "texte": "Bleu", "correcte": true },
+{ "id": "c", "texte": "Noir", "correcte": false },
+{ "id": "d", "texte": "Gris", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-008-04",
+"question": "Combien de chambres y a-t-il à l'étage ?",
+"reponses": [
+{ "id": "a", "texte": "Une chambre", "correcte": false },
+{ "id": "b", "texte": "Deux chambres", "correcte": true },
+{ "id": "c", "texte": "Trois chambres", "correcte": false },
+{ "id": "d", "texte": "Quatre chambres", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-008-05",
+"question": "Où se trouve le garage ?",
+"reponses": [
+{ "id": "a", "texte": "Devant la maison", "correcte": false },
+{ "id": "b", "texte": "Derrière la maison", "correcte": true },
+{ "id": "c", "texte": "À côté de la cuisine", "correcte": false },
+{ "id": "d", "texte": "Sous le salon", "correcte": false }
+]
+}
+]
+},
+{
+"id": "009",
+"titre": "Ma chambre",
+"titre2": "Exercice 9",
+"texte": [
+"Ma chambre est ma pièce préférée car elle est très calme.",
+"Au milieu de la pièce, il y a un lit confortable avec des oreillers blancs.",
+"À droite du lit, il y a un grand bureau en bois où je fais mes devoirs.",
+"Sur le bureau, il y a mon ordinateur portable et une petite lampe de bureau.",
+"Contre le mur, il y a une armoire grise pour ranger tous mes vêtements."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-fr-read-a1-009-01",
+"question": "Pourquoi la chambre est-elle la pièce préférée de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'elle est grande", "correcte": false },
+{ "id": "b", "texte": "Parce qu'elle est très calme", "correcte": true },
+{ "id": "c", "texte": "Parce qu'elle est moderne", "correcte": false },
+{ "id": "d", "texte": "Parce qu'elle est colorée", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-009-02",
+"question": "Qu'est-ce qui se trouve au milieu de la pièce ?",
+"reponses": [
+{ "id": "a", "texte": "Le bureau", "correcte": false },
+{ "id": "b", "texte": "Le lit", "correcte": true },
+{ "id": "c", "texte": "L'armoire", "correcte": false },
+{ "id": "d", "texte": "Le tapis", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-009-03",
+"question": "En quelle matière est fait le bureau ?",
+"reponses": [
+{ "id": "a", "texte": "En plastique", "correcte": false },
+{ "id": "b", "texte": "En bois", "correcte": true },
+{ "id": "c", "texte": "En métal", "correcte": false },
+{ "id": "d", "texte": "En verre", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-009-04",
+"question": "Qu'est-ce qui est posé sur le bureau ?",
+"reponses": [
+{ "id": "a", "texte": "Des livres d'histoire", "correcte": false },
+{ "id": "b", "texte": "Un ordinateur portable et une lampe", "correcte": true },
+{ "id": "c", "texte": "Un verre d'eau", "correcte": false },
+{ "id": "d", "texte": "Un cahier de dessin", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-009-05",
+"question": "De quelle couleur est l'armoire pour ranger les vêtements ?",
+"reponses": [
+{ "id": "a", "texte": "Blanche", "correcte": false },
+{ "id": "b", "texte": "Grise", "correcte": true },
+{ "id": "c", "texte": "Noire", "correcte": false },
+{ "id": "d", "texte": "Maron", "correcte": false }
+]
+}
+]
+},
+{
+"id": "010",
+"titre": "Mon quartier",
+"titre2": "Exercice 10",
+"texte": [
+"J'habite dans un quartier très agréable et dynamique en ville.",
+"Près de ma maison, il y a une boulangerie pour acheter du pain frais le matin.",
+"En face de la boulangerie, il y a un petit supermarché pour faire les courses.",
+"Il y a aussi un joli parc avec des arbres et des fleurs où les enfants jouent.",
+"La station de métro est à seulement cinq minutes à pied, ce qui est très pratique."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-fr-read-a1-010-01",
+"question": "Comment est le quartier de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Calme et isolé", "correcte": false },
+{ "id": "b", "texte": "Agréable et dynamique", "correcte": true },
+{ "id": "c", "texte": "Bruyant et dangereux", "correcte": false },
+{ "id": "d", "texte": "Ancien et triste", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-010-02",
+"question": "Pourquoi l'auteur va-t-il à la boulangerie le matin ?",
+"reponses": [
+{ "id": "a", "texte": "Pour acheter des journaux", "correcte": false },
+{ "id": "b", "texte": "Pour acheter du pain frais", "correcte": true },
+{ "id": "c", "texte": "Pour boire un café", "correcte": false },
+{ "id": "d", "texte": "Pour voir un ami", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-010-03",
+"question": "Qu'est-ce qui se trouve en face de la boulangerie ?",
+"reponses": [
+{ "id": "a", "texte": "Une école", "correcte": false },
+{ "id": "b", "texte": "Un petit supermarché", "correcte": true },
+{ "id": "c", "texte": "Une pharmacie", "correcte": false },
+{ "id": "d", "texte": "Une banque", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-010-04",
+"question": "Qui joue dans le parc du quartier ?",
+"reponses": [
+{ "id": "a", "texte": "Les chiens", "correcte": false },
+{ "id": "b", "texte": "Les enfants", "correcte": true },
+{ "id": "c", "texte": "Les étudiants", "correcte": false },
+{ "id": "d", "texte": "Les sportifs", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-010-05",
+"question": "À combien de temps à pied se trouve la station de métro ?",
+"reponses": [
+{ "id": "a", "texte": "Dix minutes", "correcte": false },
+{ "id": "b", "texte": "Cinq minutes", "correcte": true },
+{ "id": "c", "texte": "Quinze minutes", "correcte": false },
+{ "id": "d", "texte": "Vingt minutes", "correcte": false }
+]
+}
+]
+}
+]
