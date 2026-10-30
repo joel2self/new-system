@@ -6238,5 +6238,785 @@
 ]
 }
 ]
+},
+ {
+    "id": "081",
+    "titre": "Une journée ensoleillée",
+    "titre2": "Exercice 81",
+    "texte": [
+      "Aujourd'hui, le ciel est complètement bleu et il y a une journée ensoleillée.",
+      "Le soleil brille fort et il fait une température très agréable dehors.",
+      "Je mets mes lunettes de soleil et je décide de sortir faire une promenade.",
+      "Les oiseaux chantent joyeusement dans les grands arbres verts du quartier.",
+      "C'est un moment parfait pour aller lire un livre sur un banc dans le parc."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-081-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-081-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-081-01",
+        "question": "Comment est le ciel aujourd'hui d'après le texte ?",
+        "reponses": [
+          { "id": "a", "texte": "Il est très sombre", "correcte": false },
+          { "id": "b", "texte": "Il est couvert de nuages grises", "correcte": false },
+          { "id": "c", "texte": "Il est complètement bleu", "correcte": true },
+          { "id": "d", "texte": "Il est blanc de neige", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-081-02",
+        "question": "Quel accessoire l'auteur met-il pour sortir dehors ?",
+        "reponses": [
+          { "id": "a", "texte": "Des lunettes de soleil", "correcte": true },
+          { "id": "b", "texte": "Un gros bonnet en laine", "correcte": false },
+          { "id": "c", "texte": "Une écharpe rouge", "correcte": false },
+          { "id": "d", "texte": "Un grand sac scolaire", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-081-03",
+        "question": "Où les oiseaux chantent-ils joyeusement ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans la salle de classe électronique", "correcte": false },
+          { "id": "b", "texte": "Derrière la porte du garage blanc", "correcte": false },
+          { "id": "c", "texte": "Sur le toit de la maison blanche", "correcte": false },
+          { "id": "d", "texte": "Dans les grands arbres verts du quartier", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-081-04",
+        "question": "Que veut faire l'auteur assis sur un banc dans le parc ?",
+        "reponses": [
+          { "id": "a", "texte": "Manger des lasagnes froides", "correcte": false },
+          { "id": "b", "texte": "Lire un livre", "correcte": true },
+          { "id": "c", "texte": "Faire ses devoirs de mathématiques", "correcte": false },
+          { "id": "d", "texte": "Dormir pendant huit heures", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-081-05",
+        "question": "Quelle activité l'auteur choisit-il de faire au début ?",
+        "reponses": [
+          { "id": "a", "texte": "Une promenade", "correcte": true },
+          { "id": "b", "texte": "Une recette de gâteau", "correcte": false },
+          { "id": "c", "texte": "Un achat de chaussures", "correcte": false },
+          { "id": "d", "texte": "Une visite de cabinet médical", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "082",
+    "titre": "Il pleut aujourd'hui",
+    "titre2": "Exercice 82",
+    "texte": [
+      "Le temps change rapidement et il pleut beaucoup aujourd'hui.",
+      "De grosses gouttes d'eau tombent sur les fenêtres de ma chambre calme.",
+      "Pour sortir de la maison, je prends obligatoirement mon grand parapluie noir.",
+      "Les rues du quartier sont toutes mouillées et il y a de petites flaques d'eau.",
+      "Je préfère rester à l'intérieur pour boire un chocolat chaud et me reposer."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-082-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-082-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-082-01",
+        "question": "Où tombent les grosses gouttes d'eau ?",
+        "reponses": [
+          { "id": "a", "texte": "Sur le grand bureau en bois", "correcte": false },
+          { "id": "b", "texte": "Sur les fenêtres de la chambre", "correcte": true },
+          { "id": "c", "texte": "Sur le tapis bleu du salon", "correcte": false },
+          { "id": "d", "texte": "Directement dans la cuisine moderne", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-082-02",
+        "question": "Quel objet est obligatoire pour sortir de la maison ?",
+        "reponses": [
+          { "id": "a", "texte": "Un grand chariot métallique", "correcte": false },
+          { "id": "b", "texte": "Un sachet en papier blanc", "correcte": false },
+          { "id": "c", "texte": "Un grand parapluie noir", "correcte": true },
+          { "id": "d", "texte": "Une règle de classe en bois", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-082-03",
+        "question": "Comment sont les rues du quartier d'après le texte ?",
+        "reponses": [
+          { "id": "a", "texte": "Elles sont toutes sèches", "correcte": false },
+          { "id": "b", "texte": "Elles sont complètement vides", "correcte": false },
+          { "id": "c", "texte": "Elles sont très bien organisées", "correcte": false },
+          { "id": "d", "texte": "Elles sont toutes mouillées", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-082-04",
+        "question": "Quelle boisson l'auteur préfère-t-il boire à l'intérieur ?",
+        "reponses": [
+          { "id": "a", "texte": "Un chocolat chaud", "correcte": true },
+          { "id": "b", "texte": "Un flacon de sirop rouge", "correcte": false },
+          { "id": "c", "texte": "Une grande tasse de café noir", "correcte": false },
+          { "id": "d", "texte": "Un petit verre d'eau plate", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-082-05",
+        "question": "Que décide finalement de faire l'auteur ?",
+        "reponses": [
+          { "id": "a", "texte": "Rester à l'intérieur et se reposer", "correcte": true },
+          { "id": "b", "texte": "Aller jouer au football sous la pluie", "correcte": false },
+          { "id": "c", "texte": "Voyager en train chez ses grands-parents", "correcte": false },
+          { "id": "d", "texte": "Arroser les légumes verts du potager", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "083",
+    "titre": "L'hiver arrive",
+    "titre2": "Exercice 83",
+    "texte": [
+      "Le mois de décembre commence aujourd'hui et on sent bien que l'hiver arrive.",
+      "Les feuilles des arbres sont toutes tombées et les journées sont courtes.",
+      "Le matin, il y a de la petite glace blanche sur la voiture grise de mon père.",
+      "Pour sortir dans la rue, je mets ma grosse écharpe rouge et mes bottes chaudes.",
+      "J'aime l'hiver car la neige blanche transforme joliment les paysages du village."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-083-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-083-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-083-01",
+        "question": "Quel mois commence au début de ce texte ?",
+        "reponses": [
+          { "id": "a", "texte": "Le mois de juillet", "correcte": false },
+          { "id": "b", "texte": "Le mois de décembre", "correcte": true },
+          { "id": "c", "texte": "Le mois d'avril", "correcte": false },
+          { "id": "d", "texte": "Le mois de septembre", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-083-02",
+        "question": "Où trouve-t-on de la petite glace blanche le matin ?",
+        "reponses": [
+          { "id": "a", "texte": "Sur la voiture grise du père", "correcte": true },
+          { "id": "b", "texte": "Sur les assiettes de la cuisine", "correcte": false },
+          { "id": "c", "texte": "Sur le grand tableau électronique", "correcte": false },
+          { "id": "d", "texte": "Sur le lit confortable de l'auteur", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-083-03",
+        "question": "Quel vêtement chaud l'auteur met-il autour de son cou ?",
+        "reponses": [
+          { "id": "a", "texte": "Un t-shirt blanc en coton", "correcte": false },
+          { "id": "b", "texte": "Un short de sport noir", "correcte": false },
+          { "id": "c", "texte": "Une grosse écharpe rouge", "correcte": true },
+          { "id": "d", "texte": "Une veste légère de printemps", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-083-04",
+       "question": "Comment sont les journées en cette saison ?",
+"reponses": [
+{ "id": "a", "texte": "Elles sont très chaudes", "correcte": false },
+{ "id": "b", "texte": "Elles sont très longues", "correcte": false },
+{ "id": "c", "texte": "Elles sont très calmes", "correcte": false },
+{ "id": "d", "texte": "Elles sont courtes", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-083-05",
+"question": "Pourquoi l'auteur aime-t-il l'hiver d'après la fin du texte ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que l'école ferme ses portes", "correcte": false },
+{ "id": "b", "texte": "Parce que la neige transforme les paysages", "correcte": true },
+{ "id": "c", "texte": "Parce qu'il peut faire une salade froide", "correcte": false },
+{ "id": "d", "texte": "Parce qu'il adore aller à la plage", "correcte": false }
+]
+}
+]
+},
+{
+"id": "084",
+"titre": "Les vacances d'été",
+"titre2": "Exercice 084",
+"texte": [
+"Pendant les vacances d'été, il fait très chaud tous les jours.",
+"Le soleil brille dès le matin et nous mettons des vêtements très légers.",
+"L'après-midi, j'accompagne mes parents pour aller à la grande plage de sable.",
+"J'adore nager dans l'eau de la mer et mettre de la crème sur ma peau.",
+"Le soir, nous mangeons une bonne glace fruitée en marchant au bord de l'eau."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-084-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-084-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-084-01",
+"question": "Quel type de vêtements porte-t-on en été d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Un gros manteau avec un bonnet", "correcte": false },
+{ "id": "b", "texte": "Des vêtements très légers", "correcte": true },
+{ "id": "c", "texte": "Une tenue de bureau stricte", "correcte": false },
+{ "id": "d", "texte": "Une blouse blanche en coton", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-084-02",
+"question": "Où l'auteur va-t-il avec ses parents l'après-midi ?",
+"reponses": [
+{ "id": "a", "texte": "À la bibliothèque de l'école", "correcte": false },
+{ "id": "b", "texte": "À la pharmacie du centre-ville", "correcte": false },
+{ "id": "c", "texte": "À la grande plage de sable", "correcte": true },
+{ "id": "d", "texte": "Dans une petite papeterie de quartier", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-084-03",
+"question": "Dans quel endroit l'auteur aime-t-il nager ?",
+"reponses": [
+{ "id": "a", "texte": "Dans un petit verre d'eau", "correcte": false },
+{ "id": "b", "texte": "Dans une flaque d'eau de pluie", "correcte": false },
+{ "id": "c", "texte": "Dans l'eau de la mer", "correcte": true },
+{ "id": "d", "texte": "Dans un grand arrosoir vert", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-084-04",
+"question": "Que met-il sur sa peau pour se protéger du soleil ?",
+"reponses": [
+{ "id": "a", "texte": "De la crème", "correcte": true },
+{ "id": "b", "texte": "Du savon parfumé", "correcte": false },
+{ "id": "c", "texte": "Du vinaigre de salade", "correcte": false },
+{ "id": "d", "texte": "Du miel sucré d'abeille", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-084-05",
+"question": "Que mange la famille le soir en marchant au bord de l'eau ?",
+"reponses": [
+{ "id": "a", "texte": "Un sandwich au boucher", "correcte": false },
+{ "id": "b", "texte": "Des biscuits croustillants", "correcte": false },
+{ "id": "c", "texte": "Une pizza italienne aux fromages", "correcte": false },
+{ "id": "d", "texte": "Une bonne glace fruitée", "correcte": true }
+]
+}
+]
+},
+{
+"id": "085",
+"titre": "Le printemps dans mon village",
+"titre2": "Exercice 85",
+"texte": [
+"Le printemps est une saison magnifique qui réveille toute la nature.",
+"Dans mon village, les petites fleurs blanches, rouges et jaunes s'ouvrent.",
+"La température devient douce et il ne fait plus froid le matin.",
+"Le grand-père commence à gratter la terre pour planter les carottes.",
+"Les oiseaux reviennent faire leurs nids dans les arbres du grand jardin."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-085-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-085-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-085-01",
+"question": "Quelle saison réveille toute la nature d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "L'hiver", "correcte": false },
+{ "id": "b", "texte": "L'automne", "correcte": false },
+{ "id": "c", "texte": "Le printemps", "correcte": true },
+{ "id": "d", "texte": "L'été", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-085-02",
+"question": "Qu'est-ce qui s'ouvre dans le village de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Les portes des écoles", "correcte": false },
+{ "id": "b", "texte": "Les petites fleurs", "correcte": true },
+{ "id": "c", "texte": "Les cabines d'essayage", "correcte": false },
+{ "id": "d", "texte": "Les grands parapluies noirs", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-085-03",
+"question": "Comment devient la température en cette période ?",
+"reponses": [
+{ "id": "a", "texte": "Elle devient douce", "correcte": true },
+{ "id": "b", "texte": "Elle devient glacée", "correcte": false },
+{ "id": "c", "texte": "Elle devient brûlante", "correcte": false },
+{ "id": "d", "texte": "Elle change toutes les minutes", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-085-04",
+"question": "Que fait le grand-père au potager au printemps ?",
+"reponses": [
+{ "id": "a", "texte": "Il coupe un grand arbre vert", "correcte": false },
+{ "id": "b", "texte": "Il jette les emballages plastiques", "correcte": false },
+{ "id": "c", "texte": "Il commence à gratter la terre", "correcte": true },
+{ "id": "d", "texte": "Il lave sa voiture grise", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-085-05",
+"question": "Où les oiseaux reviennent-ils faire leurs nids ?",
+"reponses": [
+{ "id": "a", "texte": "Dans les arbres du grand jardin", "correcte": true },
+{ "id": "b", "texte": "Sur les fenêtres du bureau", "correcte": false },
+{ "id": "c", "texte": "Sous la couverture du lit", "correcte": false },
+{ "id": "d", "texte": "Près de la ruche des abeilles", "correcte": false }
+]
+}
+]
+},
+{
+"id": "086",
+"titre": "Une journée de vent",
+"titre2": "Exercice 86",
+"texte": [
+"Aujourd'hui, il y a une forte journée de vent dans notre ville.",
+"Le vent souffle fort et fait bouger violemment les branches des arbres.",
+"Les feuilles mortes volent partout en l'air au-dessus des routes.",
+"Je ferme bien toutes les fenêtres de ma maison pour garder le calme.",
+"Ce n'est pas une bonne journée pour aller faire du vélo dans le parc."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-086-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-086-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-086-01",
+"question": "Quel élément météo est très fort aujourd'hui ?",
+"reponses": [
+{ "id": "a", "texte": "La pluie d'eau", "correcte": false },
+{ "id": "b", "texte": "Le vent", "correcte": true },
+{ "id": "c", "texte": "La neige blanche", "correcte": false },
+{ "id": "d", "texte": "Le soleil chaud", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-086-02",
+"question": "Qu'est-ce qui bouge violemment à cause du vent ?",
+"reponses": [
+{ "id": "a", "texte": "Les grands chariots du supermarché", "correcte": false },
+{ "id": "b", "texte": "Les tables de la salle de classe", "correcte": false },
+{ "id": "c", "texte": "Les branches des arbres", "correcte": true },
+{ "id": "d", "texte": "Les fauteuils du dentiste", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-086-03",
+"question": "Où volent les feuilles mortes d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Partout en l'air au-dessus des routes", "correcte": true },
+{ "id": "b", "texte": "Dans le couloir de l'école", "correcte": false },
+{ "id": "c", "texte": "Dans la salle de bain moderne", "correcte": false },
+{ "id": "d", "texte": "Dans la poubelle jaune de tri", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-086-04",
+"question": "Pourquoi l'auteur ferme-t-il les fenêtres de sa maison ?",
+"reponses": [
+{ "id": "a", "texte": "Pour écouter une douce musique", "correcte": false },
+{ "id": "b", "texte": "Pour masquer l'odeur du pain", "correcte": false },
+{ "id": "c", "texte": "Pour économiser la lumière", "correcte": false },
+{ "id": "d", "texte": "Pour garder le calme à l'intérieur", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-086-05",
+"question": "Quelle activité est déconseillée pendant cette journée ?",
+"reponses": [
+{ "id": "a", "texte": "Faire du vélo dans le parc", "correcte": true },
+{ "id": "b", "texte": "Manger une soupe aux carottes", "correcte": false },
+{ "id": "c", "texte": "Prendre une douche tiède", "correcte": false },
+{ "id": "d", "texte": "Écrire une leçon de français", "correcte": false }
+]
+}
+]
+},
+{
+"id": "087",
+"titre": "Quel temps fait-il ?",
+"titre2": "Exercice 87",
+"texte": [
+"Chaque matin, je regarde par la fenêtre et je me demande : quel temps fait-il ?",
+"Parfois, le ciel est couvert de gros nuages gris et menaçants.",
+"D'autres jours, le soleil brille fort et apporte une belle lumière blanche.",
+"Connaître le temps est utile pour bien choisir mes vêtements de la journée.",
+"La météo change souvent mais la nature reste toujours magnifique."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-087-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-087-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-087-01",
+"question": "Que fait l'auteur chaque matin pour voir la météo ?",
+"reponses": [
+{ "id": "a", "texte": "Il appelle son meilleur ami Nicolas", "correcte": false },
+{ "id": "b", "texte": "Il regarde par la fenêtre", "correcte": true },
+{ "id": "c", "texte": "Il allume son ordinateur portable", "correcte": false },
+{ "id": "d", "texte": "Il demande au directeur d'école", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-087-02",
+"question": "De quelle couleur sont les gros nuages parfois ?",
+"reponses": [
+{ "id": "a", "texte": "Gris", "correcte": true },
+{ "id": "b", "texte": "Jaunes", "correcte": false },
+{ "id": "c", "texte": "Rouges", "correcte": false },
+{ "id": "d", "texte": "Blancs", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-087-03",
+"question": "Qu'est-ce qui apporte une belle lumière blanche certains jours ?",
+"reponses": [
+{ "id": "a", "texte": "La petite lampe de bureau", "correcte": false },
+{ "id": "b", "texte": "Le tableau blanc électronique", "correcte": false },
+{ "id": "c", "texte": "Le soleil", "correcte": true },
+{ "id": "d", "texte": "Le miroir de la salle de bain", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-087-04",
+"question": "Pourquoi est-ce utile de connaître le temps qu'il fait ?",
+"reponses": [
+{ "id": "a", "texte": "Pour calculer le prix des articles", "correcte": false },
+{ "id": "b", "texte": "Pour bien choisir ses vêtements", "correcte": true },
+{ "id": "c", "texte": "Pour finir ses devoirs plus vite", "correcte": false },
+{ "id": "d", "texte": "Pour trouver une place de métro", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-087-05",
+"question": "Qu'est-ce qui reste toujours magnifique d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "La nature", "correcte": true },
+{ "id": "b", "texte": "L'armoire grise de la chambre", "correcte": false },
+{ "id": "c", "texte": "La balance du marchand de fruits", "correcte": false },
+{ "id": "d", "texte": "La trousse rouge d'exercices", "correcte": false }
+]
+}
+]
+},
+{
+"id": "088",
+"titre": "Les quatre saisons",
+"titre2": "Exercice 88",
+"texte": [
+"Dans une année complète, il y a exactement les quatre saisons.",
+"Le printemps apporte de jolies fleurs et l'été propose de grandes vacances.",
+"L'automne fait tomber les feuilles mortes des arbres sous le vent.",
+"Enfin, l'hiver arrive avec sa neige blanche et ses matins très froids.",
+"Chaque saison possède ses activités et j'aime ce changement régulier."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-088-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-088-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-088-01",
+"question": "Combien de saisons y a-t-il dans une année d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Deux saisons", "correcte": false },
+{ "id": "b", "texte": "Trois saisons", "correcte": false },
+{ "id": "c", "texte": "Quetres saisons", "correcte": false },
+{ "id": "d", "texte": "Quatre saisons", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-088-02",
+"question": "Quelle saison propose de grandes vacances scolaires ?",
+"reponses": [
+{ "id": "a", "texte": "L'été", "correcte": true },
+{ "id": "b", "texte": "Le printemps", "correcte": false },
+{ "id": "c", "texte": "L'hiver", "correcte": false },
+{ "id": "d", "texte": "L'automne", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-088-03",
+"question": "Que fait l'automne d'après la phrase du texte ?",
+"reponses": [
+{ "id": "a", "texte": "Il apporte de la petite glace", "correcte": false },
+{ "id": "b", "texte": "Il fait tomber les feuilles mortes", "correcte": true },
+{ "id": "c", "texte": "Il ouvre les fleurs du village", "correcte": false },
+{ "id": "d", "texte": "Il remplit la mer d'eau chaude", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-088-04",
+"question": "Avec quoi l'hiver arrive-t-il d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Avec sa neige blanche", "correcte": true },
+{ "id": "b", "texte": "Avec une pizza de restaurant", "correcte": false },
+{ "id": "c", "texte": "Avec des abeilles jaunes", "correcte": false },
+{ "id": "d", "texte": "Avec un grand chariot bleu", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-088-05",
+"question": "Pourquoi l'auteur aime-t-il ces périodes ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'il adore ce changement régulier", "correcte": true },
+{ "id": "b", "texte": "Parce que les produits sont gratuits", "correcte": false },
+{ "id": "c", "texte": "Parce qu'il ne travaille plus au bureau", "correcte": false },
+{ "id": "d", "texte": "Parce qu'il n'y a plus de devoirs", "correcte": false }
+]
+}
+]
+},
+{
+"id": "089",
+"titre": "Un matin très froid",
+"titre2": "Exercice 89",
+"texte": [
+"Je me réveille à 6h30 et je remarque vite qu'il y a un matin très froid.",
+"Le thermomètre de ma fenêtre indique une température proche de zéro degré.",
+"Je prends immédiatement une douche chaude pour réchauffer mon corps.",
+"Ensuite, je bois un grand bol de lait bien chaud dans la cuisine.",
+"Avant de quitter la maison blanche, je mets mes vêtements les plus épais."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-089-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-089-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-089-01",
+"question": "À quelle heure l'auteur se réveille-t-il le matin ?",
+"reponses": [
+{ "id": "a", "texte": "À 7h30", "correcte": false },
+{ "id": "b", "texte": "À 6h30", "correcte": true },
+{ "id": "c", "texte": "À midi pile", "correcte": false },
+{ "id": "d", "texte": "À 8h00", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-089-02",
+"question": "Quelle température indique le thermomètre de la fenêtre ?",
+"reponses": [
+{ "id": "a", "texte": "Trente degrés", "correcte": false },
+{ "id": "b", "texte": "Dix degrés", "correcte": false },
+{ "id": "c", "texte": "Proche de zéro degré", "correcte": true },
+{ "id": "d", "texte": "Vingt-cinq degrés", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-089-03",
+"question": "Pourquoi prend-il une douche chaude ?",
+"reponses": [
+{ "id": "a", "texte": "Pour réchauffer son corps", "correcte": true },
+{ "id": "b", "texte": "Pour utiliser son savon parfumé", "correcte": false },
+{ "id": "c", "texte": "Pour faire passer son mal de tête", "correcte": false },
+{ "id": "d", "texte": "Parce que c'est une règle obligatoire", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-089-04",
+"question": "Quelle boisson chaude l'auteur prend-il dans la cuisine ?",
+"reponses": [
+{ "id": "a", "texte": "Une tasse de café noir", "correcte": false },
+{ "id": "b", "texte": "Un grand bol de lait", "correcte": true },
+{ "id": "c", "texte": "Un sirop à la toux", "correcte": false },
+{ "id": "d", "texte": "Un jus d'orange sucré", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-089-05",
+"question": "Quels vêtements met-il avant de quitter la maison ?",
+"reponses": [
+{ "id": "a", "texte": "Ses vêtements les plus épais", "correcte": true },
+{ "id": "b", "texte": "Un short et un t-shirt blanc", "correcte": false },
+{ "id": "c", "texte": "Sa plus belle tenue d'été", "correcte": false },
+{ "id": "d", "texte": "Son vieux pyjama gris", "correcte": false }
+]
+}
+]
+},
+{
+"id": "090",
+"titre": "Un après-midi chaud",
+"titre2": "Exercice 90",
+"texte": [
+"Il est 14h00 et nous passons un après-midi chaud en plein été.",
+"Le soleil brille intensément et il n'y a pas un seul nuage dans le ciel.",
+"Pour me rafraîchir, je bois une grande bouteille d'eau très fraîche.",
+"Je m'installe tranquillement à l'ombre d'un grand arbre vert dans le jardin.",
+"C'est un moment calme idéal pour faire une petite sieste et se reposer."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-090-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-090-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-090-01",
+"question": "À quelle heure commence cet après-midi chaud ?",
+"reponses": [
+{ "id": "a", "texte": "À 10h00", "correcte": false },
+{ "id": "b", "texte": "À 14h00", "correcte": true },
+{ "id": "c", "texte": "À midi pile", "correcte": false },
+{ "id": "d", "texte": "À 16h30", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-090-02",
+"question": "Comment est le ciel d'après la deuxième phrase ?",
+"reponses": [
+{ "id": "a", "texte": "Il est couvert de gros nuages gris", "correcte": false },
+{ "id": "b", "texte": "Il y a beaucoup de vent fort", "correcte": false },
+{ "id": "c", "texte": "Il n'y a pas un seul nuage", "correcte": true },
+{ "id": "d", "texte": "Il est tout blanc de neige", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-090-03",
+"question": "Que boit l'auteur pour se rafraîchir ?",
+"reponses": [
+{ "id": "a", "texte": "Un chocolat chaud au lait", "correcte": false },
+{ "id": "b", "texte": "Une grande bouteille d'eau très fraîche", "correcte": true },
+{ "id": "c", "texte": "Un jus d'orange tiède", "correcte": false },
+{ "id": "d", "texte": "Une tasse de café sucré", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-090-04",
+"question": "Où l'auteur s'installe-t-il pour éviter le soleil ?",
+"reponses": [
+{ "id": "a", "texte": "À l'ombre d'un grand arbre vert", "correcte": true },
+{ "id": "b", "texte": "Dans le garage derrière la maison", "correcte": false },
+{ "id": "c", "texte": "Devant son grand bureau en bois", "correcte": false },
+{ "id": "d", "texte": "Sur le sable chaud de la plage", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-090-05",
+"question": "Quelle activité l'auteur fait-il à l'ombre de l'arbre ?",
+"reponses": [
+{ "id": "a", "texte": "Une petite sieste pour se reposer", "correcte": true },
+{ "id": "b", "texte": "Ses exercices de mathématiques", "correcte": false },
+{ "id": "c", "texte": "Une recette de tarte aux pommes", "correcte": false },
+{ "id": "d", "texte": "Une partie de football avec Paul", "correcte": false }
+]
+}
+]
 }
 ]
