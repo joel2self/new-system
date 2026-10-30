@@ -1,9 +1,782 @@
+[
+  {
+    "id": "001",
+    "titre": "Introducing Myself",
+    "titre2": "Exercice 1",
+    "texte": [
+      "Hello! My name is Sarah. I am 25 years old and I am Canadian.",
+      "I have been living in Paris for two months for my studies.",
+      "I speak English and a little French.",
+      "I am a pharmacy student at the university.",
+      "In my free time, I like reading books and riding my bike in the park."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-001-1",
+        "personnage": "Amara",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+      },
+      {
+        "id": "audio-en-read-a1-001-2",
+        "personnage": "Rodolph",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-001-01",
+        "question": "What is the young woman's name?",
+        "reponses": [
+          { "id": "a", "texte": "Julie", "correcte": false },
+          { "id": "b", "texte": "Sarah", "correcte": true },
+          { "id": "c", "texte": "Marie", "correcte": false },
+          { "id": "d", "texte": "Emma", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-001-02",
+        "question": "How old is she?",
+        "reponses": [
+          { "id": "a", "texte": "20 years old", "correcte": false },
+          { "id": "b", "texte": "30 years old", "correcte": false },
+          { "id": "c", "texte": "25 years old", "correcte": true },
+          { "id": "d", "texte": "22 years old", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-001-03",
+        "question": "Where does she live right now?",
+        "reponses": [
+          { "id": "a", "texte": "In London", "correcte": false },
+          { "id": "b", "texte": "In Montreal", "correcte": false },
+          { "id": "c", "texte": "In Paris", "correcte": true },
+          { "id": "d", "texte": "In New York", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-001-04",
+        "question": "What does she study at the university?",
+        "reponses": [
+          { "id": "a", "texte": "History", "correcte": false },
+          { "id": "b", "texte": "Pharmacy", "correcte": true },
+          { "id": "c", "texte": "French", "correcte": false },
+          { "id": "d", "texte": "Geography", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-001-05",
+        "question": "What does she like to do in her free time?",
+        "reponses": [
+          { "id": "a", "texte": "Read books and ride a bike", "correcte": true },
+          { "id": "b", "texte": "Watch television", "correcte": false },
+          { "id": "c", "texte": "Cook meals", "correcte": false },
+          { "id": "d", "texte": "Play video games", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "My Family",
+    "titre2": "Exercice 2",
+    "texte": [
+      "There are four people in my family: my father, my mother, my brother, and me.",
+      "My father's name is Thomas. He is 50 years old and he is an engineer.",
+      "My mother's name is Sophie. She is 48 years old and she is a dentist.",
+      "My brother's name is Lucas. He is 18 years old and he goes to high school.",
+      "We also have a small white dog named Toby that we love very much."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-002-1",
+        "personnage": "Amara",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+      },
+      {
+        "id": "audio-en-read-a1-002-2",
+        "personnage": "Rodolph",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-002-01",
+        "question": "How many people are there in this family?",
+        "reponses": [
+          { "id": "a", "texte": "Three people", "correcte": false },
+          { "id": "b", "texte": "Four people", "correcte": true },
+          { "id": "c", "texte": "Five people", "correcte": false },
+          { "id": "d", "texte": "Six people", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-002-02",
+        "question": "What is the father's job?",
+        "reponses": [
+          { "id": "a", "texte": "Dentist", "correcte": false },
+          { "id": "b", "texte": "Teacher", "correcte": false },
+          { "id": "c", "texte": "Engineer", "correcte": true },
+          { "id": "d", "texte": "Doctor", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-002-03",
+        "question": "How old is the mother, Sophie?",
+        "reponses": [
+          { "id": "a", "texte": "50 years old", "correcte": false },
+          { "id": "b", "texte": "45 years old", "correcte": false },
+          { "id": "c", "texte": "48 years old", "correcte": true },
+          { "id": "d", "texte": "52 years old", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-002-04",
+        "question": "Where does the brother, Lucas, go?",
+        "reponses": [
+          { "id": "a", "texte": "To university", "correcte": false },
+          { "id": "b", "texte": "To high school", "correcte": true },
+          { "id": "c", "texte": "To work", "correcte": false },
+          { "id": "d", "texte": "To primary school", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-002-05",
+        "question": "Who is Toby?",
+        "reponses": [
+          { "id": "a", "texte": "The grandfather", "correcte": false },
+          { "id": "b", "texte": "A neighbor", "correcte": false },
+          { "id": "c", "texte": "The small white dog", "correcte": true },
+          { "id": "d", "texte": "A cat", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "My Best Friend",
+    "titre2": "Exercice 3",
+    "texte": [
+      "My best friend's name is Nicolas. We have known each other since primary school.",
+      "He is tall, he has short hair, and he wears glasses.",
+      "Nicolas is a very kind, funny person and always in a good mood.",
+      "He lives on the same street as me, so we often walk together.",
+      "On weekends, we like playing video games and watching football matches."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-003-1",
+        "personnage": "Amara",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+      },
+      {
+        "id": "audio-en-read-a1-003-2",
+        "personnage": "Rodolph",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-003-01",
+        "question": "Since when have the two friends known each other?",
+        "reponses": [
+          { "id": "a", "texte": "Since university", "correcte": false },
+          { "id": "b", "texte": "Since primary school", "correcte": true },
+          { "id": "c", "texte": "Since last year", "correcte": false },
+          { "id": "d", "texte": "Since one month ago", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-003-02",
+        "question": "What accessory does Nicolas wear?",
+        "reponses": [
+          { "id": "a", "texte": "A hat", "correcte": false },
+          { "id": "b", "texte": "A watch", "correcte": false },
+          { "id": "c", "texte": "Glasses", "correcte": true },
+          { "id": "d", "texte": "A scarf", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-003-03",
+        "question": "How is Nicolas's character?",
+        "reponses": [
+          { "id": "a", "texte": "Shy and serious", "correcte": false },
+          { "id": "b", "texte": "Kind and funny", "correcte": true },
+          { "id": "c", "texte": "Always tired", "correcte": false },
+          { "id": "d", "texte": "Quiet and calm", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-003-04",
+        "question": "Where does Nicolas live?",
+        "reponses": [
+          { "id": "a", "texte": "In another town", "correcte": false },
+          { "id": "b", "texte": "On the same street as the author", "correcte": true },
+          { "id": "c", "texte": "Far from the city center", "correcte": false },
+          { "id": "d", "texte": "Near the train station", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-003-05",
+        "question": "What do they do together on weekends?",
+        "reponses": [
+          { "id": "a", "texte": "They do homework", "correcte": false },
+          { "id": "b", "texte": "They go shopping", "correcte": false },
+          { "id": "c", "texte": "They play video games and watch football", "correcte": true },
+          { "id": "d", "texte": "They go to the cinema", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "My Daily Routine",
+    "titre2": "Exercice 4",
+    "texte": [
+      "During the week, my daily routine is very regular.",
+      "I leave my house at 8:00 AM to go to work at the office.",
+      "At noon, I eat a salad or a sandwich with my colleagues at the local restaurant.",
+      "I finish my workday at 5:00 PM and go straight home.",
+      "In the evening, I prepare dinner, watch a little television, and go to bed early."
+],
+"audios": [
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+"id": "audio-en-read-a1-004-1",
+"personnage": "Amara",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-en-read-a1-004-2",
+"personnage": "Rodolph",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
 }
+],
+"questions": [
+{
+"id": "q-en-read-a1-004-01",
+"question": "What time does the author leave the house?",
+"reponses": [
+{ "id": "a", "texte": "At 7:00 AM", "correcte": false },
+{ "id": "b", "texte": "At 8:00 AM", "correcte": true },
+{ "id": "c", "texte": "At 9:00 AM", "correcte": false },
+{ "id": "d", "texte": "At 8:30 AM", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-004-02",
+"question": "Where does the author work?",
+"reponses": [
+{ "id": "a", "texte": "In a school", "correcte": false },
+{ "id": "b", "texte": "In an office", "correcte": true },
+{ "id": "c", "texte": "In a shop", "correcte": false },
+{ "id": "d", "texte": "In a hospital", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-004-03",
+"question": "Who does the author eat with at noon?",
+"reponses": [
+{ "id": "a", "texte": "With family", "correcte": false },
+{ "id": "b", "texte": "With colleagues", "correcte": true },
+{ "id": "c", "texte": "Alone", "correcte": false },
+{ "id": "d", "texte": "With childhood friends", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-004-04",
+"question": "What time does the work end?",
+"reponses": [
+{ "id": "a", "texte": "At 4:00 PM", "correcte": false },
+{ "id": "b", "texte": "At 5:00 PM", "correcte": true },
+{ "id": "c", "texte": "At 6:00 PM", "correcte": false },
+{ "id": "d", "texte": "At 12:00 PM", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-004-05",
+"question": "What does the author do in the evening?",
+"reponses": [
+{ "id": "a", "texte": "Goes to do sports", "correcte": false },
+{ "id": "b", "texte": "Goes out with friends", "correcte": false },
+{ "id": "c", "texte": "Prepares dinner and watches TV", "correcte": true },
+{ "id": "d", "texte": "Works more", "correcte": false }
+]
+}
+]
+},
+{
+"id": "005",
+"titre": "Waking Up in the Morning",
+"titre2": "Exercice 5",
+"texte": [
+"Every morning, my alarm clock rings at exactly 6:30 AM.",
+"I stay in my bed for five minutes, then I get up to open the curtains.",
+"Next, I go straight to the bathroom to wash my face.",
+"I brush my teeth and carefully comb my hair in front of the mirror.",
+"After these steps, I put on my work clothes and I am ready."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-005-1",
+"personnage": "Amara",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-en-read-a1-005-2",
+"personnage": "Rodolph",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-005-01",
+"question": "What time does the alarm clock ring?",
+"reponses": [
+{ "id": "a", "texte": "At 6:00 AM", "correcte": false },
+{ "id": "b", "texte": "At 6:30 AM", "correcte": true },
+{ "id": "c", "texte": "At 7:00 AM", "correcte": false },
+{ "id": "d", "texte": "At 7:30 AM", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-005-02",
+"question": "How long does the author stay in bed after the alarm?",
+"reponses": [
+{ "id": "a", "texte": "Ten minutes", "correcte": false },
+{ "id": "b", "texte": "Five minutes", "correcte": true },
+{ "id": "c", "texte": "One hour", "correcte": false },
+{ "id": "d", "texte": "Gets up immediately", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-005-03",
+"question": "What does the author do right after getting up?",
+"reponses": [
+{ "id": "a", "texte": "Drinks a coffee", "correcte": false },
+{ "id": "b", "texte": "Opens the curtains", "correcte": true },
+{ "id": "c", "texte": "Listens to music", "correcte": false },
+{ "id": "d", "texte": "Turns on the television", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-005-04",
+"question": "Where does the author go to wash the face?",
+"reponses": [
+{ "id": "a", "texte": "To the kitchen", "correcte": false },
+{ "id": "b", "texte": "To the bathroom", "correcte": true },
+{ "id": "c", "texte": "To the garden", "correcte": false },
+{ "id": "d", "texte": "To the living room", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-005-05",
+"question": "What clothes does the author put on?",
+"reponses": [
+{ "id": "a", "texte": "Pajamas", "correcte": false },
+{ "id": "b", "texte": "Sportswear", "correcte": false },
+{ "id": "c", "texte": "Work clothes", "correcte": true },
+{ "id": "d", "texte": "Party clothes", "correcte": false }
+]
+}
+]
+},
+{
+"id": "006",
+"titre": "My Breakfast",
+"titre2": "Exercice 6",
+"texte": [
+"Breakfast is my favorite meal of the day.",
+"I always drink a large cup of hot coffee with a little milk.",
+"I eat two pieces of toast with butter and strawberry jam.",
+"Sometimes, I also eat a plain yogurt or a fruit, like a banana.",
+"I take my time to eat quietly in the kitchen while reading the news."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-006-1",
+"personnage": "Amara",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-en-read-a1-006-2",
+"personnage": "Rodolph",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-006-01",
+"question": "What is the author's favorite meal?",
+"reponses": [
+{ "id": "a", "texte": "Lunch", "correcte": false },
+{ "id": "b", "texte": "Breakfast", "correcte": true },
+{ "id": "c", "texte": "Dinner", "correcte": false },
+{ "id": "d", "texte": "Snack", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-006-02",
+"question": "What does the author put in the coffee?",
+"reponses": [
+{ "id": "a", "texte": "Sugar", "correcte": false },
+{ "id": "b", "texte": "A little milk", "correcte": true },
+{ "id": "c", "texte": "Chocolate", "correcte": false },
+{ "id": "d", "texte": "Nothing, black coffee", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-006-03",
+"question": "What goes on the toast?",
+"reponses": [
+{ "id": "a", "texte": "Cheese", "correcte": false },
+{ "id": "b", "texte": "Butter and jam", "correcte": true },
+{ "id": "c", "texte": "Honey", "correcte": false },
+{ "id": "d", "texte": "Chocolate spread", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-006-04",
+"question": "Which fruit does the author sometimes eat?",
+"reponses": [
+{ "id": "a", "texte": "An apple", "correcte": false },
+{ "id": "b", "texte": "A banana", "correcte": true },
+{ "id": "c", "texte": "An orange", "correcte": false },
+{ "id": "d", "texte": "Strawberries", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-006-05",
+"question": "What does the author do while eating?",
+"reponses": [
+{ "id": "a", "texte": "Listens to the radio", "correcte": false },
+{ "id": "b", "texte": "Talks on the phone", "correcte": false },
+{ "id": "c", "texte": "Reads the news", "correcte": true },
+{ "id": "d", "texte": "Watches a video", "correcte": false }
+]
+}
+]
+},
+{
+"id": "007",
+"titre": "My Daily Schedule",
+"titre2": "Exercice 7",
+"texte": [
+"I have a very busy schedule this week.",
+"On Mondays and Wednesdays, I have French classes from 9:00 AM to 12:00 PM.",
+"On Tuesday afternoons, I work at the school library.",
+"On Thursdays, I play sports with a group of friends at 6:00 PM.",
+"Friday is my free day, I use it to rest and do my grocery shopping."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-007-1",
+"personnage": "Amara",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-en-read-a1-007-2",
+"personnage": "Rodolph",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-007-01",
+"question": "On which days does the author have French classes?",
+"reponses": [
+{ "id": "a", "texte": "Mondays and Tuesdays", "correcte": false },
+{ "id": "b", "texte": "Mondays and Wednesdays", "correcte": true },
+{ "id": "c", "texte": "Thursdays and Fridays", "correcte": false },
+{ "id": "d", "texte": "Every day", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-007-02",
+"question": "What time do the French classes start?",
+"reponses": [
+{ "id": "a", "texte": "At 10:00 AM", "correcte": false },
+{ "id": "b", "texte": "At 9:00 AM", "correcte": true },
+{ "id": "c", "texte": "At 2:00 PM", "correcte": false },
+{ "id": "d", "texte": "At 8:00 AM", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-007-03",
+"question": "Where does the author work on Tuesday afternoons?",
+"reponses": [
+{ "id": "a", "texte": "In a shop", "correcte": false },
+{ "id": "b", "texte": "At the library", "correcte": true },
+{ "id": "c", "texte": "At home", "correcte": false },
+{ "id": "d", "texte": "In a cafe", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-007-04",
+"question": "What does the author do on Thursdays at 6:00 PM?",
+"reponses": [
+{ "id": "a", "texte": "Studies", "correcte": false },
+{ "id": "b", "texte": "Plays sports", "correcte": true },
+{ "id": "c", "texte": "Sleeps", "correcte": false },
+{ "id": "d", "texte": "Watches a movie", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-007-05",
+"question": "Which day is the author's free day?",
+"reponses": [
+{ "id": "a", "texte": "Wednesday", "correcte": false },
+{ "id": "b", "texte": "Friday", "correcte": true },
+{ "id": "c", "texte": "Saturday", "correcte": false },
+{ "id": "d", "texte": "Monday", "correcte": false }
+]
+}
+]
+},
+{
+"id": "008",
+"titre": "My House",
+"titre2": "Exercice 8",
+"texte": [
+"I live in a pretty white house with a large green garden.",
+"On the ground floor, there is a large modern kitchen and a comfortable living room.",
+"In the living room, there is a blue sofa, a big television, and a coffee table.",
+"Upstairs, there are two bedrooms and a bathroom with a shower.",
+"Behind the house, there is a garage to park our car."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-008-1",
+"personnage": "Amara",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-en-read-a1-008-2",
+"personnage": "Rodolph",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-008-01",
+"question": "What color is the house?",
+"reponses": [
+{ "id": "a", "texte": "Red", "correcte": false },
+{ "id": "b", "texte": "White", "correcte": true },
+{ "id": "c", "texte": "Blue", "correcte": false },
+{ "id": "d", "texte": "Yellow", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-008-02",
+"question": "Which rooms are on the ground floor?",
+"reponses": [
+{ "id": "a", "texte": "The bedrooms", "correcte": false },
+{ "id": "b", "texte": "The kitchen and the living room", "correcte": true },
+{ "id": "c", "texte": "The bathroom", "correcte": false },
+{ "id": "d", "texte": "The garage", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-008-03",
+"question": "What color is the sofa in the living room?",
+"reponses": [
+{ "id": "a", "texte": "Green", "correcte": false },
+{ "id": "b", "texte": "Blue", "correcte": true },
+{ "id": "c", "texte": "Black", "correcte": false },
+{ "id": "d", "texte": "Grey", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-008-04",
+"question": "How many bedrooms are upstairs?",
+"reponses": [
+{ "id": "a", "texte": "One bedroom", "correcte": false },
+{ "id": "b", "texte": "Two bedrooms", "correcte": true },
+{ "id": "c", "texte": "Three bedrooms", "correcte": false },
+{ "id": "d", "texte": "Four bedrooms", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-008-05",
+"question": "Where is the garage located?",
+"reponses": [
+{ "id": "a", "texte": "In front of the house", "correcte": false },
+{ "id": "b", "texte": "Behind the house", "correcte": true },
+{ "id": "c", "texte": "Next to the kitchen", "correcte": false },
+{ "id": "d", "texte": "Under the living room", "correcte": false }
+]
+}
+]
+},
+{
+"id": "009",
+"titre": "My Bedroom",
+"titre2": "Exercice 9",
+"texte": [
+"My bedroom is my favorite room because it is very quiet.",
+"In the middle of the room, there is a comfortable bed with white pillows.",
+"To the right of the bed, there is a large wooden desk where I do my homework.",
+"On the desk, there is my laptop and a small desk lamp.",
+"Against the wall, there is a grey wardrobe to store all my clothes."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-009-1",
+"personnage": "Amara",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-en-read-a1-009-2",
+"personnage": "Rodolph",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-009-01",
+"question": "Why is the bedroom the author's favorite room?",
+"reponses": [
+{ "id": "a", "texte": "Because it is big", "correcte": false },
+{ "id": "b", "texte": "Because it is very quiet", "correcte": true },
+{ "id": "c", "texte": "Because it is modern", "correcte": false },
+{ "id": "d", "texte": "Because it is colorful", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-009-02",
+"question": "What is in the middle of the room?",
+"reponses": [
+{ "id": "a", "texte": "The desk", "correcte": false },
+{ "id": "b", "texte": "The bed", "correcte": true },
+{ "id": "c", "texte": "The wardrobe", "correcte": false },
+{ "id": "d", "texte": "The rug", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-009-03",
+"question": "What material is the desk made of?",
+"reponses": [
+{ "id": "a", "texte": "Plastic", "correcte": false },
+{ "id": "b", "texte": "Wood", "correcte": true },
+{ "id": "c", "texte": "Metal", "correcte": false },
+{ "id": "d", "texte": "Glass", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-009-04",
+"question": "What is on the desk?",
+"reponses": [
+{ "id": "a", "texte": "History books", "correcte": false },
+{ "id": "b", "texte": "A laptop and a lamp", "correcte": true },
+{ "id": "c", "texte": "A glass of water", "correcte": false },
+{ "id": "d", "texte": "A drawing notebook", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-009-05",
+"question": "What color is the wardrobe for the clothes?",
+"reponses": [
+{ "id": "a", "texte": "White", "correcte": false },
+{ "id": "b", "texte": "Grey", "correcte": true },
+{ "id": "c", "texte": "Black", "correcte": false },
+{ "id": "d", "texte": "Brown", "correcte": false }
+]
+}
+]
+},
+{
+"id": "010",
+"titre": "My Neighborhood",
+"titre2": "Exercice 10",
+"texte": [
+"I live in a very pleasant and dynamic neighborhood in the city.",
+"Near my house, there is a bakery to buy fresh bread in the morning.",
+"In front of the bakery, there is a small supermarket to do grocery shopping.",
+"There is also a lovely park with trees and flowers where children play.",
+"The metro station is only a five-minute walk away, which is very convenient."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-010-1",
+"personnage": "Amara",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capture-qw5FS.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-en-read-a1-010-2",
+"personnage": "Rodolph",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/Capdeu-IY4eJ.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-010-01",
+"question": "How is the author's neighborhood described?",
+"reponses": [
+{ "id": "a", "texte": "Quiet and isolated", "correcte": false },
+{ "id": "b", "texte": "Pleasant and dynamic", "correcte": true },
+{ "id": "c", "texte": "Noisy and dangerous", "correcte": false },
+{ "id": "d", "texte": "Old and sad", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-010-02",
+"question": "Why does the author go to the bakery in the morning?",
+"reponses": [
+{ "id": "a", "texte": "To buy newspapers", "correcte": false },
+{ "id": "b", "texte": "To buy fresh bread", "correcte": true },
+{ "id": "c", "texte": "To drink a coffee", "correcte": false },
+{ "id": "d", "texte": "To see a friend", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-010-03",
+"question": "What is located in front of the bakery?",
+"reponses": [
+{ "id": "a", "texte": "A school", "correcte": false },
+{ "id": "b", "texte": "A small supermarket", "correcte": true },
+{ "id": "c", "texte": "A pharmacy", "correcte": false },
+{ "id": "d", "texte": "A bank", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-010-04",
+"question": "Who plays in the neighborhood park?",
+"reponses": [
+{ "id": "a", "texte": "Dogs", "correcte": false },
+{ "id": "b", "texte": "Children", "correcte": true },
+{ "id": "c", "texte": "Students", "correcte": false },
+{ "id": "d", "texte": "Athletes", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-010-05",
+"question": "How long does it take to walk to the metro station?",
+"reponses": [
+{ "id": "a", "texte": "Ten minutes", "correcte": false },
+{ "id": "b", "texte": "Five minutes", "correcte": true },
+{ "id": "c", "texte": "Fifteen minutes", "correcte": false },
+{ "id": "d", "texte": "Twenty minutes", "correcte": false }
+]
+}
+]
+}
+]
