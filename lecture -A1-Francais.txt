@@ -778,5 +778,785 @@
 ]
 }
 ]
+},
+{
+    "id": "011",
+    "titre": "Ma première journée à l'école",
+    "titre2": "Exercice 11",
+    "texte": [
+      "Aujourd'hui, c'est ma première journée dans cette nouvelle école.",
+      "Je me lève très tôt et je mets mes plus beaux vêtements pour l'occasion.",
+      "Devant la porte d'entrée, je me sens un peu stressé et intimidé par la foule.",
+      "Heureusement, le directeur m'accueille avec un grand sourire chaleureux.",
+      "Je découvre ma nouvelle classe et je m'installe rapidement à une table."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-011-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-011-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-011-01",
+        "question": "Quel événement particulier a lieu aujourd'hui ?",
+        "reponses": [
+          { "id": "a", "texte": "C'est le jour des vacances", "correcte": false },
+          { "id": "b", "texte": "C'est la première journée à l'école", "correcte": true },
+          { "id": "c", "texte": "C'est l'anniversaire de l'auteur", "correcte": false },
+          { "id": "d", "texte": "C'est une sortie scolaire", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-011-02",
+        "question": "Comment l'auteur se sent-il devant la porte d'entrée ?",
+        "reponses": [
+          { "id": "a", "texte": "En colère", "correcte": false },
+          { "id": "b", "texte": "Un peu stressé", "correcte": true },
+          { "id": "c", "texte": "Très fatigué", "correcte": false },
+          { "id": "d", "texte": "Enthousiaste et joyeux", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-011-03",
+        "question": "Qui accueille l'auteur à l'école ?",
+        "reponses": [
+          { "id": "a", "texte": "Un élève", "correcte": false },
+          { "id": "b", "texte": "Le directeur", "correcte": true },
+          { "id": "c", "texte": "Un surveillant", "correcte": false },
+          { "id": "d", "texte": "Le cuisinier", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-011-04",
+        "question": "Comment le directeur accueille-t-il l'élève ?",
+        "reponses": [
+          { "id": "a", "texte": "Avec sévérité", "correcte": false },
+          { "id": "b", "texte": "Avec un grand sourire", "correcte": true },
+          { "id": "c", "texte": "En lui donnant des livres", "correcte": false },
+          { "id": "d", "texte": "Sans lui parler", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-011-05",
+        "question": "Que fait l'auteur après avoir découvert sa classe ?",
+        "reponses": [
+          { "id": "a", "texte": "Il quitte l'école", "correcte": false },
+          { "id": "b", "texte": "Il s'installe à une table", "correcte": true },
+          { "id": "c", "texte": "Il va jouer au ballon", "correcte": false },
+          { "id": "d", "texte": "Il commence à écrire au tableau", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "Dans ma salle de classe",
+    "titre2": "Exercice 12",
+    "texte": [
+      "Ma salle de classe est grande, lumineuse et très bien organisée.",
+      "Au fond de la pièce, il y a un grand tableau blanc électronique.",
+      "Près de la fenêtre, le professeur a son grand bureau en métal.",
+      "Sur les murs, il y a de jolies cartes géographiques du monde entier.",
+      "Au milieu de la classe, les tables des élèves sont disposées en lignes."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-012-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-012-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-012-01",
+        "question": "Comment est qualifiée la salle de classe au début ?",
+        "reponses": [
+          { "id": "a", "texte": "Sombre et étroite", "correcte": false },
+          { "id": "b", "texte": "Grande et lumineuse", "correcte": true },
+          { "id": "c", "texte": "Ancienne et sale", "correcte": false },
+          { "id": "d", "texte": "Petite mais moderne", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-012-02",
+        "question": "Qu'est-ce qui se trouve au fond de la pièce ?",
+        "reponses": [
+          { "id": "a", "texte": "Une bibliothèque", "correcte": false },
+          { "id": "b", "texte": "Un grand tableau blanc électronique", "correcte": true },
+          { "id": "c", "texte": "Le bureau du professeur", "correcte": false },
+          { "id": "d", "texte": "Une armoire à fournitures", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-012-03",
+        "question": "Où est situé le bureau du professeur ?",
+        "reponses": [
+          { "id": "a", "texte": "Derrière le tableau", "correcte": false },
+          { "id": "b", "texte": "Près de la fenêtre", "correcte": true },
+          { "id": "c", "texte": "Au centre de la pièce", "correcte": false },
+          { "id": "d", "texte": "Près de la porte d'entrée", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-012-04",
+        "question": "Qu'est-ce qui est affiché sur les murs ?",
+        "reponses": [
+          { "id": "a", "texte": "Des photos des élèves", "correcte": false },
+          { "id": "b", "texte": "Des cartes géographiques", "correcte": true },
+          { "id": "c", "texte": "Des dessins d'animaux", "correcte": false },
+          { "id": "d", "texte": "Le règlement de l'école", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-012-05",
+        "question": "Comment sont disposées les tables des élèves ?",
+        "reponses": [
+          { "id": "a", "texte": "En cercle", "correcte": false },
+          { "id": "b", "texte": "En lignes", "correcte": true },
+          { "id": "c", "texte": "En désordre", "correcte": false },
+          { "id": "d", "texte": "En carré", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Mes matières préférées",
+    "titre2": "Exercice 13",
+    "texte": [
+      "À l'école, nous étudions beaucoup de matières différentes chaque jour.",
+      "Ma matière préférée est l'histoire car j'adore découvrir le passé.",
+      "J'aime aussi beaucoup les mathématiques, surtout résoudre les problèmes difficiles.",
+      "Par contre, je n'aime pas trop la géographie car c'est compliqué.",
+      "L'après-midi, nous avons souvent des cours d'art plastique pour dessiner."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-013-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-013-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-013-01",
+        "question": "Quelle est la matière préférée de l'auteur ?",
+        "reponses": [
+          { "id": "a", "texte": "Les sciences", "correcte": false },
+          { "id": "b", "texte": "L'histoire", "correcte": true },
+          { "id": "c", "texte": "La musique", "correcte": false },
+          { "id": "d", "texte": "Le sport", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-013-02",
+        "question": "Pourquoi aime-t-il l'histoire ?",
+        "reponses": [
+          { "id": "a", "texte": "Parce que c'est facile", "correcte": false },
+          { "id": "b", "texte": "Parce qu'il adore découvrir le passé", "correcte": true },
+          { "id": "c", "texte": "Parce que le professeur est drôle", "correcte": false },
+          { "id": "d", "texte": "Parce qu'il n'y a pas de devoirs", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-013-03",
+        "question": "Qu'est-ce que l'auteur aime faire en mathématiques ?",
+        "reponses": [
+          { "id": "a", "texte": "Compter les tables", "correcte": false },
+          { "id": "b", "texte": "Résoudre les problèmes difficiles", "correcte": true },
+          { "id": "c", "texte": "Utiliser la calculatrice", "correcte": false },
+          { "id": "d", "texte": "Dessiner des formes", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-013-04",
+        "question": "Quelle matière l'auteur n'aime-t-il pas trop ?",
+        "reponses": [
+          { "id": "a", "texte": "Le français", "correcte": false },
+          { "id": "b", "texte": "La géographie", "correcte": true },
+          { "id": "c", "texte": "L'anglais", "correcte": false },
+          { "id": "d", "texte": "Le sport", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-013-05",
+        "question": "Que fait-on souvent pendant le cours d'art plastique l'après-midi ?",
+        "reponses": [
+{ "id": "a", "texte": "On chante", "correcte": false },
+{ "id": "b", "texte": "On dessine", "correcte": true },
+{ "id": "c", "texte": "On lit un livre", "correcte": false },
+{ "id": "d", "texte": "On fait des calculs", "correcte": false }
+]
+}
+]
+},
+{
+"id": "014",
+"titre": "Mon professeur de français",
+"titre2": "Exercice 14",
+"texte": [
+"Mon professeur de français s'appelle Monsieur Robert.",
+"Il est toujours très poli, calme et explique très bien les leçons.",
+"Pendant ses cours, nous lisons des histoires et apprenons la grammaire.",
+"Quand un élève ne comprend pas, il répète patiemment avec des exemples.",
+"Grâce à lui, toute la classe progresse rapidement en écriture."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-014-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-014-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-014-01",
+"question": "Comment s'appelle le professeur de français ?",
+"reponses": [
+{ "id": "a", "texte": "Monsieur Thomas", "correcte": false },
+{ "id": "b", "texte": "Monsieur Robert", "correcte": true },
+{ "id": "c", "texte": "Monsieur Lucas", "correcte": false },
+{ "id": "d", "texte": "Monsieur Martin", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-014-02",
+"question": "Quels sont les traits de caractère du professeur ?",
+"reponses": [
+{ "id": "a", "texte": "Sévère et pressé", "correcte": false },
+{ "id": "b", "texte": "Poli et calme", "correcte": true },
+{ "id": "c", "texte": "Timide et silencieux", "correcte": false },
+{ "id": "d", "texte": "Fatigué et distrait", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-014-03",
+"question": "Que fait-on pendant les cours de français ?",
+"reponses": [
+{ "id": "a", "texte": "On fait des dessins d'animaux", "correcte": false },
+{ "id": "b", "texte": "On lit des histoires et apprend la grammaire", "correcte": true },
+{ "id": "c", "texte": "On résout des problèmes de maths", "correcte": false },
+{ "id": "d", "texte": "On regarde un film de sport", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-014-04",
+"question": "Que fait-il quand un élève ne comprend pas ?",
+"reponses": [
+{ "id": "a", "texte": "Il lui donne une mauvaise note", "correcte": false },
+{ "id": "b", "texte": "Il répète patiemment avec des exemples", "correcte": true },
+{ "id": "c", "texte": "Il continue la leçon quand même", "correcte": false },
+{ "id": "d", "texte": "Il demande à un autre élève d'expliquer", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-014-05",
+"question": "Dans quel domaine la classe progresse-t-elle grâce à lui ?",
+"reponses": [
+{ "id": "a", "texte": "En calcul mental", "correcte": false },
+{ "id": "b", "texte": "En écriture", "correcte": true },
+{ "id": "c", "texte": "En dessin", "correcte": false },
+{ "id": "d", "texte": "En course à pied", "correcte": false }
+]
+}
+]
+},
+{
+"id": "015",
+"titre": "Mes camarades de classe",
+"titre2": "Exercice 15",
+"texte": [
+"Dans ma classe, nous sommes vingt-cinq élèves au total.",
+"Mes camarades viennent de différents quartiers de la ville.",
+"Tout le monde est très gentil et s'entend bien pendant les projets.",
+"Mon voisin de table s'appelle Paul, il m'aide souvent quand j'oublie un mot.",
+"Nous formons une super équipe et nous étudions toujours dans la joie."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-015-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-015-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-015-01",
+"question": "Combien d'élèves y a-t-il dans la classe au total ?",
+"reponses": [
+{ "id": "a", "texte": "Quinze élèves", "correcte": false },
+{ "id": "b", "texte": "Vingt-cinq élèves", "correcte": true },
+{ "id": "c", "texte": "Trente élèves", "correcte": false },
+{ "id": "d", "texte": "Vingt élèves", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-015-02",
+"question": "D'où viennent les camarades de classe ?",
+"reponses": [
+{ "id": "a", "texte": "D'un autre pays", "correcte": false },
+{ "id": "b", "texte": "De différents quartiers de la ville", "correcte": true },
+{ "id": "c", "texte": "Tous de la même rue", "correcte": false },
+{ "id": "d", "texte": "D'un village lointain", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-015-03",
+"question": "Comment décririez-vous l'ambiance globale entre les élèves ?",
+"reponses": [
+{ "id": "a", "texte": "Tout le monde se dispute", "correcte": false },
+{ "id": "b", "texte": "Tout le monde est gentil et s'entend bien", "correcte": true },
+{ "id": "c", "texte": "Les élèves ne se parlent jamais", "correcte": false },
+{ "id": "d", "texte": "L'ambiance est très stricte", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-015-04",
+"question": "Comment s'appelle le voisin de table de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Lucas", "correcte": false },
+{ "id": "b", "texte": "Paul", "correcte": true },
+{ "id": "c", "texte": "Thomas", "correcte": false },
+{ "id": "d", "texte": "Nicolas", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-015-05",
+"question": "Que fait Paul pour aider l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Il lui donne son goûter", "correcte": false },
+{ "id": "b", "texte": "Il l'aide quand il oublie un mot", "correcte": true },
+{ "id": "c", "texte": "Il fait ses devoirs à sa place", "correcte": false },
+{ "id": "d", "texte": "Il lui prête son sac", "correcte": false }
+]
+}
+]
+},
+{
+"id": "016",
+"titre": "Mon sac scolaire",
+"titre2": "Exercice 16",
+"texte": [
+"Pour aller à l'école, j'utilise un grand sac à dos bleu.",
+"À l'intérieur, je range mes trois cahiers d'exercices et ma trousse rouge.",
+"Dans ma trousse, il y a des stylos, une règle et une gomme blanche.",
+"J'ai aussi une petite poche devant pour mettre mes clés et mon goûter.",
+"Le soir, je vérifie toujours le contenu de mon sac pour le lendemain."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-016-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-016-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-016-01",
+"question": "De quelle couleur est le sac à dos de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Vert", "correcte": false },
+{ "id": "b", "texte": "Bleu", "correcte": true },
+{ "id": "c", "texte": "Noir", "correcte": false },
+{ "id": "d", "texte": "Rouge", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-016-02",
+"question": "Combien de cahiers d'exercices range-t-il à l'intérieur ?",
+"reponses": [
+{ "id": "a", "texte": "Deux cahiers", "correcte": false },
+{ "id": "b", "texte": "Trois cahiers", "correcte": true },
+{ "id": "c", "texte": "Quatre cahiers", "correcte": false },
+{ "id": "d", "texte": "Cinq cahiers", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-016-03",
+"question": "De quelle couleur est sa trousse ?",
+"reponses": [
+{ "id": "a", "texte": "Jaune", "correcte": false },
+{ "id": "b", "texte": "Rouge", "correcte": true },
+{ "id": "c", "texte": "Bleue", "correcte": false },
+{ "id": "d", "texte": "Verte", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-016-04",
+"question": "Que met l'auteur dans la petite poche de devant ?",
+"reponses": [
+{ "id": "a", "texte": "Ses grands manuels", "correcte": false },
+{ "id": "b", "texte": "Ses clés et mon goûter", "correcte": true },
+{ "id": "c", "texte": "Ses crayons de couleur", "correcte": false },
+{ "id": "d", "texte": "Ses chaussures de sport", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-016-05",
+"question": "Quand l'auteur vérifie-t-il le contenu de son sac ?",
+"reponses": [
+{ "id": "a", "texte": "Le matin en courant", "correcte": false },
+{ "id": "b", "texte": "Le soir", "correcte": true },
+{ "id": "c", "texte": "Pendant la récréation", "correcte": false },
+{ "id": "d", "texte": "Il ne le vérifie jamais", "correcte": false }
+]
+}
+]
+},
+{
+"id": "017",
+"titre": "Une journée à la bibliothèque",
+"titre2": "Exercice 17",
+"texte": [
+"Le jeudi après-midi, nous allons à la bibliothèque de l'école.",
+"C'est un endroit magnifique avec des milliers de livres rangés sur les étagères.",
+"La règle principale ici est de garder le silence pour respecter les autres.",
+"Je m'assois sur une chaise confortable pour lire une bande dessinée amusante.",
+"Avant de partir, j'emprunte deux livres pour les lire à la maison ce week-end."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-017-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-017-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-017-01",
+"question": "Quel jour la classe va-t-elle à la bibliothèque ?",
+"reponses": [
+{ "id": "a", "texte": "Le lundi matin", "correcte": false },
+{ "id": "b", "texte": "Le jeudi après-midi", "correcte": true },
+{ "id": "c", "texte": "Le vendredi soir", "correcte": false },
+{ "id": "d", "texte": "Le mercredi midi", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-017-02",
+"question": "Où sont rangés les milliers de livres ?",
+"reponses": [
+{ "id": "a", "texte": "Par terre", "correcte": false },
+{ "id": "b", "texte": "Sur les étagères", "correcte": true },
+{ "id": "c", "texte": "Dans des boîtes en carton", "correcte": false },
+{ "id": "d", "texte": "Sur les tables des élèves", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-017-03",
+"question": "Quelle est la règle principale dans ce lieu ?",
+"reponses": [
+{ "id": "a", "texte": "Courir vite", "correcte": false },
+{ "id": "b", "texte": "Garder le silence", "correcte": true },
+{ "id": "c", "texte": "Parler fort au téléphone", "correcte": false },
+{ "id": "d", "texte": "Manger son goûter", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-017-04",
+"question": "Qu'est-ce que l'auteur lit sur la chaise confortable ?",
+"reponses": [
+{ "id": "a", "texte": "Un dictionnaire d'anglais", "correcte": false },
+{ "id": "b", "texte": "Une bande dessinée amusante", "correcte": true },
+{ "id": "c", "texte": "Un journal local", "correcte": false },
+{ "id": "d", "texte": "Un cahier de calcul", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-017-05",
+"question": "Combien de livres emprunte-t-il avant de partir ?",
+"reponses": [
+{ "id": "a", "texte": "Un seul livre", "correcte": false },
+{ "id": "b", "texte": "Deux livres", "correcte": true },
+{ "id": "c", "texte": "Trois livres", "correcte": false },
+{ "id": "d", "texte": "Aucun livre", "correcte": false }
+]
+}
+]
+},
+{
+"id": "018",
+"titre": "Mes devoirs à la maison",
+"titre2": "Exercice 18",
+"texte": [
+"Quand je rentre de l'école à 16h30, je prends d'abord un petit goûter.",
+"Ensuite, je m'installe calmement à mon bureau pour faire mes devoirs.",
+"Je commence par relire la leçon de français et apprendre les nouveaux mots.",
+"Après, je fais deux petits exercices de mathématiques sur mon cahier.",
+"Quand j'ai fini, je range mes affaires et je suis libre pour jouer."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-018-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-018-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-018-01",
+"question": "Que fait l'auteur immédiatement en rentrant à 16h30 ?",
+"reponses": [
+{ "id": "a", "texte": "Il commence ses devoirs", "correcte": false },
+{ "id": "b", "texte": "Il prend un petit goûter", "correcte": true },
+{ "id": "c", "texte": "Il va dormir", "correcte": false },
+{ "id": "d", "texte": "Il regarde un film", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-018-02",
+"question": "Où s'installe-t-il pour travailler ?",
+"reponses": [
+{ "id": "a", "texte": "Dans la cuisine", "correcte": false },
+{ "id": "b", "texte": "À mon bureau", "correcte": true },
+{ "id": "c", "texte": "Dans le salon sur le canapé", "correcte": false },
+{ "id": "d", "texte": "Dans le jardin", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-018-03",
+"question": "Par quoi commence-t-il ses devoirs ?",
+"reponses": [
+{ "id": "a", "texte": "Par dessiner un paysage", "correcte": false },
+{ "id": "b", "texte": "Par relire la leçon de français", "correcte": true },
+{ "id": "c", "texte": "Par un problème de géométrie", "correcte": false },
+{ "id": "d", "texte": "Par apprendre une chanson", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-018-04",
+"question": "Combien d'exercices de mathématiques fait-il ?",
+"reponses": [
+{ "id": "a", "texte": "Un seul exercice", "correcte": false },
+{ "id": "b", "texte": "Deux petits exercices", "correcte": true },
+{ "id": "c", "texte": "Trois longs exercices", "correcte": false },
+{ "id": "d", "texte": "Aucun exercice", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-018-05",
+"question": "Que fait l'auteur quand tout est terminé ?",
+"reponses": [
+{ "id": "a", "texte": "Il retourne à l'école", "correcte": false },
+{ "id": "b", "texte": "Il range ses affaires et est libre pour jouer", "correcte": true },
+{ "id": "c", "texte": "Il commence d'autres devoirs", "correcte": false },
+{ "id": "d", "texte": "Il appelle son professeur", "correcte": false }
+]
+}
+]
+},
+{
+"id": "019",
+"titre": "La récréation",
+"titre2": "Exercice 19",
+"texte": [
+"À 10h00, la cloche sonne enfin : c'est l'heure de la récréation !",
+"Tous les élèves courent joyeusement dans la grande cour de l'école.",
+"Certains camarades jouent au football avec un petit ballon vert.",
+"Moi, je préfère discuter tranquillement et rire avec mes meilleurs amis.",
+"Après quinze minutes de pause, nous retournons en classe en rang."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-019-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-019-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-019-01",
+"question": "À quelle heure sonne la cloche pour la récréation ?",
+"reponses": [
+{ "id": "a", "texte": "À 9h00", "correcte": false },
+{ "id": "b", "texte": "À 10h00", "correcte": true },
+{ "id": "c", "texte": "À 11h00", "correcte": false },
+{ "id": "d", "texte": "À midi", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-019-02",
+"question": "Où vont les élèves quand la cloche sonne ?",
+"reponses": [
+{ "id": "a", "texte": "À la cantine", "correcte": false },
+{ "id": "b", "texte": "Dans la grande cour de l'école", "correcte": true },
+{ "id": "c", "texte": "Dans la rue", "correcte": false },
+{ "id": "d", "texte": "À la bibliothèque", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-019-03",
+"question": "De quelle couleur est le ballon des footballeurs ?",
+"reponses": [
+{ "id": "a", "texte": "Rouge", "correcte": false },
+{ "id": "b", "texte": "Vert", "correcte": true },
+{ "id": "c", "texte": "Bleu", "correcte": false },
+{ "id": "d", "texte": "Blanc", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-019-04",
+"question": "Que préfère faire l'auteur pendant la pause ?",
+"reponses": [
+{ "id": "a", "texte": "Manger un grand repas", "correcte": false },
+{ "id": "b", "texte": "Discuter tranquillement et rire avec ses amis", "correcte": true },
+{ "id": "c", "texte": "Faire ses devoirs de maths", "correcte": false },
+{ "id": "d", "texte": "Courir partout tout seul", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-019-05",
+"question": "Combien de temps dure la récréation ?",
+"reponses": [
+{ "id": "a", "texte": "Cinq minutes", "correcte": false },
+{ "id": "b", "texte": "Quinze minutes", "correcte": true },
+{ "id": "c", "texte": "Une heure", "correcte": false },
+{ "id": "d", "texte": "Trente minutes", "correcte": false }
+]
+}
+]
+},
+{
+"id": "020",
+"titre": "Les vacances scolaires",
+"titre2": "Exercice 20",
+"texte": [
+"Le mois de juillet arrive enfin, c'est le début des grandes vacances scolaires.",
+"L'école ferme ses portes pendant deux mois complets pour l'été.",
+"Je vais voyager en train avec mes parents pour aller voir mes grands-parents.",
+"Ils habitent dans une petite maison très calme près de la mer.",
+"J'ai hâte de nager dans l'eau chaude et de faire des châteaux de sable."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-020-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-020-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-020-01",
+"question": "Quel mois marque le début des grandes vacances ?",
+"reponses": [
+{ "id": "a", "texte": "Le mois de janvier", "correcte": false },
+{ "id": "b", "texte": "Le mois de juillet", "correcte": true },
+{ "id": "c", "texte": "Le mois de septembre", "correcte": false },
+{ "id": "d", "texte": "Le mois de mai", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-020-02",
+"question": "Combien de temps l'école ferme-t-elle ses portes ?",
+"reponses": [
+{ "id": "a", "texte": "Une semaine", "correcte": false },
+{ "id": "b", "texte": "Deux mois complets", "correcte": true },
+{ "id": "c", "texte": "Trois semaines", "correcte": false },
+{ "id": "d", "texte": "Un mois seulement", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-020-03",
+"question": "Quel moyen de transport l'auteur utilise-t-il pour voyager ?",
+"reponses": [
+{ "id": "a", "texte": "L'avion", "correcte": false },
+{ "id": "b", "texte": "Le train", "correcte": true },
+{ "id": "c", "texte": "Le vélo", "correcte": false },
+{ "id": "d", "texte": "Le bateau", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-020-04",
+"question": "Où se trouve la petite maison des grands-parents ?",
+"reponses": [
+{ "id": "a", "texte": "À la montagne", "correcte": false },
+{ "id": "b", "texte": "Près de la mer", "correcte": true },
+{ "id": "c", "texte": "En plein centre-ville", "correcte": false },
+{ "id": "d", "texte": "Dans une forêt", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-020-05",
+"question": "Qu'est-ce que l'auteur a hâte de faire là-bas ?",
+"reponses": [
+{ "id": "a", "texte": "Étudier le français", "correcte": false },
+{ "id": "b", "texte": "Nager et faire des châteaux de sable", "correcte": true },
+{ "id": "c", "texte": "Acheter un nouveau sac à dos", "correcte": false },
+{ "id": "d", "texte": "Aller à la bibliothèque", "correcte": false }
+]
+}
+]
 }
 ]
