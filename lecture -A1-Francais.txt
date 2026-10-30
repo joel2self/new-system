@@ -10,7 +10,20 @@
       "Je suis étudiante en pharmacie à l'université.",
       "Pendant mon temps libre, j'aime lire des livres et faire du vélo dans le parc."
     ],
-    "audios": [],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-001-1",
+        "personnage": "Sarah",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+      },
+      {
+        "id": "audio-fr-read-a1-001-2",
+        "personnage": "Nicolas",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+      }
+    ],
     "questions": [
       {
         "id": "q-fr-read-a1-001-01",
@@ -75,11 +88,24 @@
       "Mon frère s'appelle Lucas. Il a 18 ans et il va au lycée.",
       "Nous avons aussi un petit chien blanc qui s'appelle Toby et que nous adorons."
     ],
-    "audios": [],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-002-1",
+        "personnage": "Sophie",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+      },
+      {
+        "id": "audio-fr-read-a1-002-2",
+        "personnage": "Thomas",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+      }
+    ],
     "questions": [
       {
         "id": "q-fr-read-a1-002-01",
-        "question": "Combien de personnes y a-t-il dans cette famille ?",
+        "question": "Combien de personnes y a-t-il dans cette family ?",
         "reponses": [
           { "id": "a", "texte": "Trois personnes", "correcte": false },
           { "id": "b", "texte": "Quatre personnes", "correcte": true },
@@ -140,7 +166,20 @@
       "Il habite dans la même rue que moi, alors nous marchons souvent ensemble.",
       "Le week-end, nous aimons jouer aux jeux vidéo et regarder des matchs de football."
     ],
-    "audios": [],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-003-1",
+        "personnage": "Julie",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+      },
+      {
+        "id": "audio-fr-read-a1-003-2",
+        "personnage": "Nicolas",
+        "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+        "url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+      }
+    ],
     "questions": [
       {
         "id": "q-fr-read-a1-003-01",
@@ -201,49 +240,62 @@
     "texte": [
       "Pendant la semaine, ma routine quotidienne est très régulière.",
       "Je quitte ma maison à 8h00 pour aller travailler au bureau.",
-      "À midi, je mange une salade ou un sandwich avec mes collègues au restaurant du coin.",
-      "Je termine ma journée de travail à 17h00 et je rentre directement chez moi.",
-      "Le soir, je prépare le dîner, je regarde un peu la télévision et je me couche tôt."
-    ],
-    "audios": [],
-    "questions": [
-      {
-        "id": "q-fr-read-a1-004-01",
-        "question": "À quelle heure l'auteur quitte-t-il sa maison ?",
-        "reponses": [
-          { "id": "a", "texte": "À 7h00", "correcte": false },
-          { "id": "b", "texte": "À 8h00", "correcte": true },
-          { "id": "c", "texte": "À 9h00", "correcte": false },
-          { "id": "d", "texte": "À 8h30", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-fr-read-a1-004-02",
-        "question": "Où l'auteur travaille-t-il ?",
-        "reponses": [
-          { "id": "a", "texte": "À l'école", "correcte": false },
-          { "id": "b", "texte": "Dans un bureau", "correcte": true },
-          { "id": "c", "texte": "Dans un magasin", "correcte": false },
-          { "id": "d", "texte": "À l'hôpital", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-fr-read-a1-004-03",
-        "question": "Avec qui mange-t-il à midi ?",
-        "reponses": [
-          { "id": "a", "texte": "Avec sa famille", "correcte": false },
-          { "id": "b", "texte": "Avec ses collègues", "correcte": true },
-          { "id": "c", "texte": "Seul", "correcte": false },
-          { "id": "d", "texte": "Avec ses amis d'enfance", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-fr-read-a1-004-04",
-        "question": "À quelle heure se termine le travail ?",
-        "reponses": [
-          { "id": "a", "texte": "À 16h00", "correcte": false },
-          { "id": "b", "texte": "À 17h00", "correcte": true },
-          { "id": "c", "texte": "À 18h00", "correcte": false },
+       "À midi, je mange une salade ou un sandwich avec mes collègues au restaurant du coin.",
+"Je termine ma journée de travail à 17h00 et je rentre directement chez moi.",
+"Le soir, je prépare le dîner, je regarde un peu la télévision et je me couche tôt."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-004-1",
+"personnage": "Camille",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-fr-read-a1-004-2",
+"personnage": "Pierre",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-004-01",
+"question": "À quelle heure l'auteur quitte-t-il sa maison ?",
+"reponses": [
+{ "id": "a", "texte": "À 7h00", "correcte": false },
+{ "id": "b", "texte": "À 8h00", "correcte": true },
+{ "id": "c", "texte": "À 9h00", "correcte": false },
+{ "id": "d", "texte": "À 8h30", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-004-02",
+"question": "Où l'auteur travaille-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "À l'école", "correcte": false },
+{ "id": "b", "texte": "Dans un bureau", "correcte": true },
+{ "id": "c", "texte": "Dans un magasin", "correcte": false },
+{ "id": "d", "texte": "À l'hôpital", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-004-03",
+"question": "Avec qui mange-t-il à midi ?",
+"reponses": [
+{ "id": "a", "texte": "Avec sa famille", "correcte": false },
+{ "id": "b", "texte": "Avec ses collègues", "correcte": true },
+{ "id": "c", "texte": "Seul", "correcte": false },
+{ "id": "d", "texte": "Avec ses amis d'enfance", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-004-04",
+"question": "À quelle heure se termine le travail ?",
+"reponses": [
+{ "id": "a", "texte": "À 16h00", "correcte": false },
+{ "id": "b", "texte": "À 17h00", "correcte": true },
+{ "id": "c", "texte": "À 18h00", "correcte": false },
 { "id": "d", "texte": "À 12h00", "correcte": false }
 ]
 },
@@ -270,7 +322,20 @@
 "Je me brosse les dents et je me coiffe soigneusement devant le miroir.",
 "Après ces étapes, je m'habille avec mes vêtements de travail et je suis prêt."
 ],
-"audios": [],
+"audios": [
+{
+"id": "audio-fr-read-a1-005-1",
+"personnage": "Manon",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-fr-read-a1-005-2",
+"personnage": "Antoine",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
 "questions": [
 {
 "id": "q-fr-read-a1-005-01",
@@ -335,7 +400,20 @@
 "Parfois, je mange aussi un yaourt nature ou un fruit, comme une banane.",
 "Je prends mon temps pour manger calmement dans la cuisine en lisant les nouvelles."
 ],
-"audios": [],
+"audios": [
+{
+"id": "audio-fr-read-a1-006-1",
+"personnage": "Chloé",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-fr-read-a1-006-2",
+"personnage": "Maxime",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
 "questions": [
 {
 "id": "q-fr-read-a1-006-01",
@@ -400,7 +478,20 @@
 "Le jeudi, je fais du sport avec un groupe d'amis à 18h00.",
 "Le vendredi est ma journée libre, j'en profite pour me reposer et faire les courses."
 ],
-"audios": [],
+"audios": [
+{
+"id": "audio-fr-read-a1-007-1",
+"personnage": "Léa",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-fr-read-a1-007-2",
+"personnage": "Lucas",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
 "questions": [
 {
 "id": "q-fr-read-a1-007-01",
@@ -465,7 +556,20 @@
 "À l'étage, il y a deux chambres à coucher et une salle de bain avec douche.",
 "Derrière la maison, il y a un garage pour garer notre voiture."
 ],
-"audios": [],
+"audios": [
+{
+"id": "audio-fr-read-a1-008-1",
+"personnage": "Emma",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-fr-read-a1-008-2",
+"personnage": "Louis",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
 "questions": [
 {
 "id": "q-fr-read-a1-008-01",
@@ -530,7 +634,20 @@
 "Sur le bureau, il y a mon ordinateur portable et une petite lampe de bureau.",
 "Contre le mur, il y a une armoire grise pour ranger tous mes vêtements."
 ],
-"audios": [],
+"audios": [
+{
+"id": "audio-fr-read-a1-009-1",
+"personnage": "Inès",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-fr-read-a1-009-2",
+"personnage": "Hugo",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
 "questions": [
 {
 "id": "q-fr-read-a1-009-01",
@@ -579,7 +696,7 @@
 { "id": "a", "texte": "Blanche", "correcte": false },
 { "id": "b", "texte": "Grise", "correcte": true },
 { "id": "c", "texte": "Noire", "correcte": false },
-{ "id": "d", "texte": "Maron", "correcte": false }
+{ "id": "d", "texte": "Marron", "correcte": false }
 ]
 }
 ]
@@ -595,7 +712,20 @@
 "Il y a aussi un joli parc avec des arbres et des fleurs où les enfants jouent.",
 "La station de métro est à seulement cinq minutes à pied, ce qui est très pratique."
 ],
-"audios": [],
+"audios": [
+{
+"id": "audio-fr-read-a1-010-1",
+"personnage": "Zoe",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/catherine-Va7gu.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850405670-perinemagne-la-recherche-dun-appartement-a-louer-a2"
+},
+{
+"id": "audio-fr-read-a1-010-2",
+"personnage": "Thomas",
+"image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-FxA8g.PNG",
+"url": "https://feeds.soundcloud.com/stream/1850406363-perinemagne-la-recherche-dun-appartement-a-louer-a2h"
+}
+],
 "questions": [
 {
 "id": "q-fr-read-a1-010-01",
