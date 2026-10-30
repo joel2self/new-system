@@ -2338,5 +2338,3905 @@
 ]
 }
 ]
+},
+{
+    "id": "031",
+    "titre": "Mon repas préféré",
+    "titre2": "Exercice 31",
+    "texte": [
+      "Le vendredi soir, ma mère prépare toujours mon repas préféré de la semaine.",
+      "C'est un grand plat de lasagnes maison avec beaucoup de fromage fondu.",
+      "L'odeur de la sauce tomate remplit toute la maison pendant la cuisson.",
+      "Nous mangeons ce plat chaud avec une petite salade verte bien assaisonnée.",
+      "Pour le dessert, il y a une tarte aux pommes croustillante que j'adore."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-031-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-031-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-031-01",
+        "question": "Quel jour la mère prépare-t-elle ce repas spécial ?",
+        "reponses": [
+          { "id": "a", "texte": "Le lundi midi", "correcte": false },
+          { "id": "b", "texte": "Le mercredi matin", "correcte": false },
+          { "id": "c", "texte": "Le dimanche après-midi", "correcte": false },
+          { "id": "d", "texte": "Le vendredi soir", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-031-02",
+        "question": "Quel est le plat préféré décrit dans le texte ?",
+        "reponses": [
+          { "id": "a", "texte": "Un poulet rôti", "correcte": false },
+          { "id": "b", "texte": "Un plat de lasagnes maison", "correcte": true },
+          { "id": "c", "texte": "Une soupe de légumes", "correcte": false },
+          { "id": "d", "texte": "Des frites croustillantes", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-031-03",
+        "question": "Qu'est-ce qui accompagne le plat principal ?",
+        "reponses": [
+          { "id": "a", "texte": "Une petite salade verte", "correcte": true },
+          { "id": "b", "texte": "Du pain blanc", "correcte": false },
+          { "id": "c", "texte": "Du riz nature", "correcte": false },
+          { "id": "d", "texte": "Des pommes de terre", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-031-04",
+        "question": "Qu'est-ce qui remplit la maison pendant la cuisson ?",
+        "reponses": [
+          { "id": "a", "texte": "De la fumée noire", "correcte": false },
+          { "id": "b", "texte": "Une musique douce", "correcte": false },
+          { "id": "c", "texte": "L'odeur de la sauce tomate", "correcte": true },
+          { "id": "d", "texte": "Le bruit du four", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-031-05",
+        "question": "Quel dessert l'auteur mange-t-il à la fin ?",
+        "reponses": [
+          { "id": "a", "texte": "Un yaourt nature", "correcte": false },
+          { "id": "b", "texte": "Une glace au chocolat", "correcte": false },
+          { "id": "c", "texte": "Une tarte aux pommes", "correcte": true },
+          { "id": "d", "texte": "Une banane mûre", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "À table en famille",
+    "titre2": "Exercice 32",
+    "texte": [
+      "Chez moi, l'heure du dîner est un moment sacré pour toute la famille.",
+      "À 19h30 précises, mon frère et moi mettons le couvert ensemble.",
+      "Je pose les assiettes blanches et les verres, tandis qu'il place les fourchettes.",
+      "Pendant le repas, personne n'utilise son téléphone portable à table.",
+      "Nous parlons de notre journée à l'école et au travail dans la bonne humeur."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-032-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-032-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-032-01",
+        "question": "À quelle heure la famille se réunit-elle pour manger ?",
+        "reponses": [
+          { "id": "a", "texte": "À 19h30", "correcte": true },
+          { "id": "b", "texte": "À 20h00", "correcte": false },
+          { "id": "c", "texte": "À 18h30", "correcte": false },
+          { "id": "d", "texte": "À midi pile", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-032-02",
+        "question": "Que font les deux enfants avant le début du repas ?",
+        "reponses": [
+          { "id": "a", "texte": "Ils font la vaisselle", "correcte": false },
+          { "id": "b", "texte": "Ils font les devoirs de maths", "correcte": false },
+          { "id": "c", "texte": "Ils mettent le couvert ensemble", "correcte": true },
+          { "id": "d", "texte": "Ils regardent la télévision", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-032-03",
+        "question": "Quel objet le frère place-t-il sur la table ?",
+        "reponses": [
+          { "id": "a", "texte": "Les verres d'eau", "correcte": false },
+          { "id": "b", "texte": "Les couteaux", "correcte": false },
+          { "id": "c", "texte": "Les petites cuillères", "correcte": false },
+          { "id": "d", "texte": "Les fourchettes", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-032-04",
+        "question": "Quelle règle importante doit-on respecter pendant le repas ?",
+        "reponses": [
+          { "id": "a", "texte": "Personne n'utilise son téléphone portable", "correcte": true },
+          { "id": "b", "texte": "Il faut manger très vite", "correcte": false },
+          { "id": "c", "texte": "Il faut garder un silence total", "correcte": false },
+          { "id": "d", "texte": "Il faut rester debout", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-032-05",
+        "question": "De quoi parle la famille pendant qu'elle dîne ?",
+        "reponses": [
+          { "id": "a", "texte": "De l'achat d'un appartement", "correcte": false },
+          { "id": "b", "texte": "De leur journée à l'école et au travail", "correcte": true },
+          { "id": "c", "texte": "Du prix des vêtements", "correcte": false },
+          { "id": "d", "texte": "De l'emploi du temps du professeur", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Préparer une salade",
+    "titre2": "Exercice 33",
+    "texte": [
+      "Pour accompagner mon déjeuner, je prépare une salade fraîche et rapide.",
+      "Je lave d'abord trois grandes feuilles de salade verte sous l'eau froide.",
+      "Ensuite, je coupe une tomate rouge et un morceau de concombre sur une planche.",
+      "Dans un petit bol, je mélange de l'huile d'olive, du vinaigre et un peu de sel.",
+      "Je verse cette bonne sauce sur mes légumes juste avant de servir à table."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-033-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-033-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-033-01",
+        "question": "Comment l'eau doit-elle être pour laver la salade ?",
+        "reponses": [
+          { "id": "a", "texte": "Froide", "correcte": true },
+          { "id": "b", "texte": "Très chaude", "correcte": false },
+          { "id": "c", "texte": "Sucrée", "correcte": false },
+          { "id": "d", "texte": "Salée", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-033-02",
+        "question": "Combien de feuilles de salade l'auteur lave-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Une seule feuille", "correcte": false },
+          { "id": "b", "texte": "Cinq feuilles", "correcte": false },
+          { "id": "c", "texte": "Trois feuilles", "correcte": true },
+          { "id": "d", "texte": "Dix feuilles", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-033-03",
+        "question": "Quel légume vert est coupé avec la tomate rouge ?",
+        "reponses": [
+          { "id": "a", "texte": "Une pomme de terre", "correcte": false },
+          { "id": "b", "texte": "Une carotte orange", "correcte": false },
+          { "id": "c", "texte": "Un morceau de concombre", "correcte": true },
+          { "id": "d", "texte": "Un oignon blanc", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-033-04",
+        "question": "Où l'auteur prépare-t-il le mélange pour la sauce ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans une grande casserole", "correcte": false },
+          { "id": "b", "texte": "Dans une assiette plate", "correcte": false },
+          { "id": "c", "texte": "Dans un verre d'eau", "correcte": false },
+          { "id": "d", "texte": "Dans un petit bol", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-033-05",
+       "question": "Quand verse-t-il la sauce sur les légumes ?",
+"reponses": [
+{ "id": "a", "texte": "Juste avant de servir à table", "correcte": true },
+{ "id": "b", "texte": "Le matin très tôt", "correcte": false },
+{ "id": "c", "texte": "Après le dessert", "correcte": false },
+{ "id": "d", "texte": "Pendant la récréation", "correcte": false }
+]
+}
+]
+},
+{
+"id": "034",
+"titre": "Une recette de gâteau",
+"titre2": "Exercice 34",
+"texte": [
+"Aujourd'hui, je cuisine un gâteau simple en suivant une recette de grand-mère.",
+"Dans un grand récipient, je mélange de la farine blanche, du sucre et trois œufs.",
+"J'ajoute un demi-verre de lait et un paquet de levure pour faire gonfler la pâte.",
+"Je verse doucement le mélange liquide dans un moule beurré.",
+"Ensuite, je demande à mon père d'allumer le four à 180 degrés pour la cuisson."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-034-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-034-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-034-01",
+"question": "De qui provient la recette suivie par l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "D'un grand cuisinier de restaurant", "correcte": false },
+{ "id": "b", "texte": "D'un professeur de français", "correcte": false },
+{ "id": "c", "texte": "D'une recette de grand-mère", "correcte": true },
+{ "id": "d", "texte": "D'une annonce sur internet", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-034-02",
+"question": "Combien d'œufs l'auteur met-il dans le mélange ?",
+"reponses": [
+{ "id": "a", "texte": "Trois œufs", "correcte": true },
+{ "id": "b", "texte": "Deux œufs", "correcte": false },
+{ "id": "c", "texte": "Quatre œufs", "correcte": false },
+{ "id": "d", "texte": "Cinq œufs", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-034-03",
+"question": "Pourquoi ajoute-t-il un paquet de levure ?",
+"reponses": [
+{ "id": "a", "texte": "Pour donner une couleur jaune", "correcte": false },
+{ "id": "b", "texte": "Pour faire gonfler la pâte", "correcte": true },
+{ "id": "c", "texte": "Pour sucrer le gâteau", "correcte": false },
+{ "id": "d", "texte": "Pour refroidir le plat", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-034-04",
+"question": "Comment est préparé le moule avant de verser la pâte ?",
+"reponses": [
+{ "id": "a", "texte": "Il est lavé à l'eau chaude", "correcte": false },
+{ "id": "b", "texte": "Il est rempli de farine", "correcte": false },
+{ "id": "c", "texte": "Il est beurré", "correcte": true },
+{ "id": "d", "texte": "Il est mis au congélateur", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-034-05",
+"question": "À quelle température le four doit-il être allumé ?",
+"reponses": [
+{ "id": "a", "texte": "À 100 degrés", "correcte": false },
+{ "id": "b", "texte": "À 150 degrés", "correcte": false },
+{ "id": "c", "texte": "À 220 degrés", "correcte": false },
+{ "id": "d", "texte": "À 180 degrés", "correcte": true }
+]
+}
+]
+},
+{
+"id": "035",
+"titre": "Au restaurant",
+"titre2": "Exercice 35",
+"texte": [
+"Pour mon anniversaire, mon meilleur ami m'invite dans un petit restaurant italien.",
+"Le serveur arrive rapidement et nous donne la carte des menus.",
+"Je commande une pizza aux trois fromages et une bouteille d'eau fraîche.",
+"La table est bien décorée avec une petite bougie allumée au milieu.",
+"À la fin du repas, mon ami paie l'addition avec sa carte bancaire."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-035-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-035-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-035-01",
+"question": "De quelle spécialité est le restaurant choisi ?",
+"reponses": [
+{ "id": "a", "texte": "C'est un restaurant français", "correcte": false },
+{ "id": "b", "texte": "C'est un restaurant italien", "correcte": true },
+{ "id": "c", "texte": "C'est un restaurant japonais", "correcte": false },
+{ "id": "d", "texte": "C'est une boulangerie de quartier", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-035-02",
+"question": "Quelle est l'occasion de cette sortie au restaurant ?",
+"reponses": [
+{ "id": "a", "texte": "C'est pour l'anniversaire de l'auteur", "correcte": true },
+{ "id": "b", "texte": "C'est la fin de l'année scolaire", "correcte": false },
+{ "id": "c", "texte": "C'est le début des grandes vacances", "correcte": false },
+{ "id": "d", "texte": "C'est une réunion de travail", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-035-03",
+"question": "Quel plat principal l'auteur commande-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Une salade verte avec du poulet", "correcte": false },
+{ "id": "b", "texte": "Un plat de pâtes au beurre", "correcte": false },
+{ "id": "c", "texte": "Une pizza aux trois fromages", "correcte": true },
+{ "id": "d", "texte": "Un poisson frais grillé", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-035-04",
+"question": "Qu'est-ce qui décore le milieu de la table ?",
+"reponses": [
+{ "id": "a", "texte": "Une petite bougie allumée", "correcte": true },
+{ "id": "b", "texte": "Un grand vase de fleurs", "correcte": false },
+{ "id": "c", "texte": "Une bouteille de jus jaune", "correcte": false },
+{ "id": "d", "texte": "Un panier de fruits mûrs", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-035-05",
+"question": "Comment l'ami paie-t-il l'addition à la fin ?",
+"reponses": [
+{ "id": "a", "texte": "En espèces avec des pièces", "correcte": false },
+{ "id": "b", "texte": "Avec un chèque en papier", "correcte": false },
+{ "id": "c", "texte": "Avec son ordinateur", "correcte": false },
+{ "id": "d", "texte": "Avec sa carte bancaire", "correcte": true }
+]
+}
+]
+},
+{
+"id": "036",
+"titre": "Les fruits que j'aime",
+"titre2": "Exercice 36",
+"texte": [
+"J'adore manger des fruits car ils sont doux et pleins de vitamines.",
+"En été, mon fruit préféré est la fraise rouge et sucrée.",
+"Pendant l'automne, je préfère manger des pommes vertes ou des raisins.",
+"Chaque matin, je mange aussi une banane pour avoir beaucoup d'énergie.",
+"Les fruits frais sont parfaits pour rester en bonne santé toute l'année."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-036-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-036-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-036-01",
+"question": "Pourquoi l'auteur aime-t-il manger des fruits ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'ils sont compliqués à cuisiner", "correcte": false },
+{ "id": "b", "texte": "Parce qu'ils sont doux et pleins de vitamines", "correcte": true },
+{ "id": "c", "texte": "Parce qu'ils coûtent très cher", "correcte": false },
+{ "id": "d", "texte": "Parce qu'on les achète à la pharmacie", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-036-02",
+"question": "Quel est son fruit préféré pendant la saison d'été ?",
+"reponses": [
+{ "id": "a", "texte": "La pomme verte", "correcte": false },
+{ "id": "b", "texte": "L'orange juteuse", "correcte": false },
+{ "id": "c", "texte": "La fraise rouge", "correcte": true },
+{ "id": "d", "texte": "Le raisin noir", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-036-03",
+"question": "Quels fruits mange-t-il plutôt en automne ?",
+"reponses": [
+{ "id": "a", "texte": "Des pommes vertes ou des raisins", "correcte": true },
+{ "id": "b", "texte": "Des bananes et des oranges", "correcte": false },
+{ "id": "c", "texte": "Des tomates et des salades", "correcte": false },
+{ "id": "d", "texte": "Uniquement des fraises", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-036-04",
+"question": "Quand mange-t-il une banane pour avoir de l'énergie ?",
+"reponses": [
+{ "id": "a", "texte": "Chaque soir avant de dormir", "correcte": false },
+{ "id": "b", "texte": "Pendant le cours de géographie", "correcte": false },
+{ "id": "c", "texte": "Chaque matin", "correcte": true },
+{ "id": "d", "texte": "Seulement le dimanche après-midi", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-036-05",
+"question": "Pourquoi les fruits frais sont-ils recommandés selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Pour rester en bonne santé", "correcte": true },
+{ "id": "b", "texte": "Pour décorer la cuisine moderne", "correcte": false },
+{ "id": "c", "texte": "Pour remplacer le travail de bureau", "correcte": false },
+{ "id": "d", "texte": "Pour faire la queue à la caisse", "correcte": false }
+]
+}
+]
+},
+{
+"id": "037",
+"titre": "Les légumes du jardin",
+"titre2": "Exercice 37",
+"texte": [
+"Derrière notre maison, mon grand-père cultive un magnifique potager.",
+"En grattant la terre, il ramasse des carottes orange et des pommes de terre.",
+"Il y a aussi de grands plants de tomates bien mûres près de la clôture.",
+"Chaque matin, il arrose ses légumes avec un grand arrosoir vert.",
+"Les légumes du jardin ont un goût excellent et ils sont totalement naturels."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-037-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-037-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-037-01",
+"question": "Qui s'occupe du potager derrière la maison ?",
+"reponses": [
+{ "id": "a", "texte": "Le professeur de français", "correcte": false },
+{ "id": "b", "texte": "Le grand-père de l'auteur", "correcte": true },
+{ "id": "c", "texte": "Le jeune vendeur de chaussures", "correcte": false },
+{ "id": "d", "texte": "Le frère de l'auteur", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-037-02",
+"question": "De quelle couleur sont les carottes ramassées dans la terre ?",
+"reponses": [
+{ "id": "a", "texte": "Blanches", "correcte": false },
+{ "id": "b", "texte": "Vertes", "correcte": false },
+{ "id": "c", "texte": "Orange", "correcte": true },
+{ "id": "d", "texte": "Rouges", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-037-03",
+"question": "Où sont situés les plants de tomates bien mûres ?",
+"reponses": [
+{ "id": "a", "texte": "Dans le garage de la maison", "correcte": false },
+{ "id": "b", "texte": "Au milieu de la cuisine", "correcte": false },
+{ "id": "c", "texte": "Dans une boîte sur le bureau", "correcte": false },
+{ "id": "d", "texte": "Près de la clôture", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-037-04",
+"question": "Quel outil utilise-t-il pour arroser chaque matin ?",
+"reponses [": [
+{ "id": "a", "texte": "Un grand arrosoir vert", "correcte": true },
+{ "id": "b", "texte": "Une balance électronique", "correcte": false },
+{ "id": "c", "texte": "Une bouteille en plastique blanc", "correcte": false },
+{ "id": "d", "texte": "Un seau métallique troué", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-037-05",
+"question": "Quelle est la particularité de ces légumes selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Ils sont très chers", "correcte": false },
+{ "id": "b", "texte": "Ils viennent d'un autre pays", "correcte": false },
+{ "id": "c", "texte": "Ils sont totalement naturels", "correcte": true },
+{ "id": "d", "texte": "Ils n'ont aucun goût", "correcte": false }
+]
+}
+]
+},
+{
+"id": "038",
+"titre": "Le déjeuner à midi",
+"titre2": "Exercice 38",
+"texte": [
+"À midi pile, la cloche de l'école sonne : c'est l'heure de la pause déjeuner.",
+"Je vais à la cantine scolaire avec mes camarades pour prendre un repas chaud.",
+"Aujourd'hui, le menu propose du riz blanc avec un morceau de poulet rôti.",
+"Comme boisson, nous avons chacun un petit verre d'eau plate sur la table.",
+"Nous mangeons dans le calme avant de retourner jouer dans la cour de récréation."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-038-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-038-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-038-01",
+"question": "À quelle heure précise sonne la cloche pour la pause déjeuner ?",
+"reponses": [
+{ "id": "a", "texte": "À midi pile", "correcte": true },
+{ "id": "b", "texte": "À 13h00", "correcte": false },
+{ "id": "c", "texte": "À 11h30", "correcte": false },
+{ "id": "d", "texte": "À 10h00", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-038-02",
+"question": "Où l'auteur va-t-il pour prendre son repas ?",
+"reponses": [
+{ "id": "a", "texte": "Au restaurant italien du coin", "correcte": false },
+{ "id": "b", "texte": "À la bibliothèque de l'école", "correcte": false },
+{ "id": "c", "texte": "À la cantine scolaire", "correcte": true },
+{ "id": "d", "texte": "Chez ses grands-parents", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-038-03",
+"question": "Quel est le menu proposé aujourd'hui ?",
+"reponses": [
+{ "id": "a", "texte": "Des lasagnes au fromage", "correcte": false },
+{ "id": "b", "texte": "Une pizza aux olives", "correcte": false },
+{ "id": "c", "texte": "Une salade de tomates", "correcte": false },
+{ "id": "d", "texte": "Du riz blanc avec du poulet rôti", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-038-04",
+"question": "Quelle boisson est servie sur la table ?",
+"reponses": [
+{ "id": "a", "texte": "Un verre de jus d'orange", "correcte": false },
+{ "id": "b", "texte": "Un petit verre d'eau plate", "correcte": true },
+{ "id": "c", "texte": "Une tasse de café chaud", "correcte": false },
+{ "id": "d", "texte": "Du lait de vache frais", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-038-05",
+"question": "Que font les élèves juste après le repas ?",
+"reponses": [
+{ "id": "a", "texte": "Ils vont faire leurs devoirs à la maison", "correcte": false },
+{ "id": "b", "texte": "Ils retournent jouer dans la cour de récréation", "correcte": true },
+{ "id": "c", "texte": "Ils s'endorment dans la classe", "correcte": false },
+{ "id": "d", "texte": "Ils prennent un train", "correcte": false }
+]
+}
+]
+},
+{
+"id": "039",
+"titre": "Un dîner entre amis",
+"titre2": "Exercice 39",
+"texte": [
+"Ce soir, j'organise un petit dîner sympa chez moi avec mes amis de l'école.",
+"Pour l'occasion, je prépare une grande assiette de pâtes à la sauce tomate.",
+"Mes amis apportent une bouteille de jus de fruits et un gâteau au chocolat.",
+"Nous mangeons tous ensemble dans le salon autour de la table basse.",
+"C'est une excellente soirée où nous rions beaucoup en écoutant de la musique."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-039-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-039-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-039-01",
+"question": "Où se passe le dîner entre amis ?",
+"reponses": [
+{ "id": "a", "texte": "À la cantine de l'école", "correcte": false },
+{ "id": "b", "texte": "Dans un restaurant italien", "correcte": false },
+{ "id": "c", "texte": "Chez l'auteur du texte", "correcte": true },
+{ "id": "d", "texte": "Dans le parc du quartier", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-039-02",
+"question": "Quel plat l'auteur cuisine-t-il pour ses invités ?",
+"reponses": [
+{ "id": "a", "texte": "Des pâtes à la sauce tomate", "correcte": true },
+{ "id": "b", "texte": "Une pizza aux trois fromages", "correcte": false },
+{ "id": "c", "texte": "Une soupe de pommes de terre", "correcte": false },
+{ "id": "d", "texte": "Un kilo de carottes cuites", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-039-03",
+"question": "Qu'est-ce que les amis apportent pour le dessert ?",
+"reponses": [
+{ "id": "a", "texte": "Une tarte aux pommes", "correcte": false },
+{ "id": "b", "texte": "Un régime de bananes", "correcte": false },
+{ "id": "c", "texte": "Un yaourt nature", "correcte": false },
+{ "id": "d", "texte": "Un gâteau au chocolat", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-039-04",
+"question": "Autour de quel meuble s'installent-ils pour manger ?",
+"reponses": [
+{ "id": "a", "texte": "Le grand bureau en bois", "correcte": false },
+{ "id": "b", "texte": "La table basse du salon", "correcte": true },
+{ "id": "c", "texte": "Le comptoir de la cuisine", "correcte": false },
+{ "id": "d", "texte": "Par terre sur un grand tapis", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-039-05",
+"question": "Que fait le groupe d'amis en plus de rire et discuter ?",
+"reponses": [
+{ "id": "a", "texte": "Ils écoutent de la musique", "correcte": true },
+{ "id": "b", "texte": "Ils font les devoirs de français", "correcte": false },
+{ "id": "c", "texte": "Ils nettoient le garage", "correcte": false },
+{ "id": "d", "texte": "Ils regardent un match de foot", "correcte": false }
+]
+}
+]
+},
+{
+"id": "040",
+"titre": "Une journée sans viande",
+"titre2": "Exercice 40",
+"texte": [
+"Aujourd'hui, je décide de faire une journée complète sans manger de viande.",
+"Le matin, je prends un bol de céréales avec du lait de vache frais.",
+"À midi, je mange une omelette aux œufs avec des morceaux de fromage fondant.",
+"Le soir, je prépare une bonne soupe chaude avec des carottes et des pommes de terre.",
+"C'est une habitude simple, très légère et excellente pour la santé de mon corps."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-040-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-040-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-040-01",
+"question": "Quelle est la particularité de la journée choisie par l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "C'est une journée sans manger de viande", "correcte": true },
+{ "id": "b", "texte": "C'est une journée passée entièrement au lit", "correcte": false },
+{ "id": "c", "texte": "C'est une journée de vacances à la mer", "correcte": false },
+{ "id": "d", "texte": "C'net une journée sans boire d'eau", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-040-02",
+"question": "Que mange l'auteur le matin au petit-déjeuner ?",
+"reponses": [
+{ "id": "a", "texte": "Deux tartines de pain avec de la confiture", "correcte": false },
+{ "id": "b", "texte": "Un bol de céréales avec du lait", "correcte": true },
+{ "id": "c", "texte": "Un croissant au beurre", "correcte": false },
+{ "id": "d", "texte": "Une banane jaune mûre", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-040-03",
+"question": "Quel plat l'auteur prend-il pour son déjeuner à midi ?",
+"reponses": [
+{ "id": "a", "texte": "Une omelette aux œufs avec du fromage", "correcte": true },
+{ "id": "b", "texte": "Un poulet rôti avec du riz blanc", "correcte": false },
+{ "id": "c", "texte": "Une salade verte nature", "correcte": false },
+{ "id": "d", "texte": "Une pizza de restaurant italien", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-040-04",
+"question": "Quels légumes utilise-t-il dans sa soupe du soir ?",
+"reponses": [
+{ "id": "a", "texte": "Des carottes et des pommes de terre", "correcte": true },
+{ "id": "b", "texte": "Des tomates et du concombre", "correcte": false },
+{ "id": "c", "texte": "De la salade verte uniquement", "correcte": false },
+{ "id": "d", "texte": "Des fruits doux de l'automne", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-040-05",
+"question": "Comment l'auteur qualifie-t-il cette habitude alimentaire ?",
+"reponses": [
+{ "id": "a", "texte": "Très compliquée et fatigante", "correcte": false },
+{ "id": "b", "texte": "Légère et excellente pour la santé", "correcte": true },
+{ "id": "c", "texte": "Très chère pour son budget", "correcte": false },
+{ "id": "d", "texte": "Sévère et mauvaise pour le corps", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "041",
+    "titre": "Mon sport préféré",
+    "titre2": "Exercice 41",
+    "texte": [
+      "Le sport est très important pour rester en bonne santé et avoir de l'énergie.",
+      "Mon sport préféré est la natation car j'adore être dans l'eau.",
+      "Chaque mercredi après-midi, je vais à la piscine municipale du centre-ville.",
+      "Je nage pendant une heure complète avec mes camarades de classe.",
+      "Après l'effort, je me sens toujours très calme, détendu et en pleine forme."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-041-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-041-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-041-01",
+        "question": "Quel est le sport préféré de l'auteur ?",
+        "reponses": [
+          { "id": "a", "texte": "Le football", "correcte": false },
+          { "id": "b", "texte": "Le cyclisme", "correcte": false },
+          { "id": "c", "texte": "La natation", "correcte": true },
+          { "id": "d", "texte": "La course à pied", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-041-02",
+        "question": "Quand l'auteur pratique-t-il ce sport ?",
+        "reponses": [
+          { "id": "a", "texte": "Le mercredi après-midi", "correcte": true },
+          { "id": "b", "texte": "Le samedi matin", "correcte": false },
+          { "id": "c", "texte": "Le dimanche soir", "correcte": false },
+          { "id": "d", "texte": "Tous les jours à midi", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-041-03",
+        "question": "Où se trouve la piscine où il se rend ?",
+        "reponses": [
+          { "id": "a", "texte": "Près de la mer", "correcte": false },
+          { "id": "b", "texte": "Derrière sa maison", "correcte": false },
+          { "id": "c", "texte": "À l'école primaire", "correcte": false },
+          { "id": "d", "texte": "Au centre-ville", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-041-04",
+        "question": "Combien de temps l'auteur nage-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Trente minutes", "correcte": false },
+          { "id": "b", "texte": "Une heure complète", "correcte": true },
+          { "id": "c", "texte": "Deux heures", "correcte": false },
+          { "id": "d", "texte": "Quinze minutes", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-041-05",
+        "question": "Comment se sent-il après avoir nagé ?",
+        "reponses": [
+          { "id": "a", "texte": "Très fatigué et en colère", "correcte": false },
+          { "id": "b", "texte": "Détendu et en pleine forme", "correcte": true },
+          { "id": "c", "texte": "Stressé et inquiet", "correcte": false },
+          { "id": "d", "texte": "Malade et affaibli", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Jouer au football",
+    "titre2": "Exercice 42",
+    "texte": [
+      "Le samedi après-midi, je joue au football avec les jeunes de mon quartier.",
+      "Nous nous réunissons sur le grand terrain de sport derrière la mairie.",
+      "Je mets mes chaussures de sport noires et mon maillot bleu préféré.",
+      "Mon rôle dans l'équipe est de courir vite pour marquer des buts.",
+      "Quand notre équipe gagne le match, nous crions tous ensemble de joie."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-042-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-042-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-042-01",
+        "question": "Avec qui l'auteur joue-t-il au football ?",
+        "reponses": [
+          { "id": "a", "texte": "Avec ses professeurs", "correcte": false },
+          { "id": "b", "texte": "Avec les jeunes de son quartier", "correcte": true },
+          { "id": "c", "texte": "Avec ses grands-parents", "correcte": false },
+          { "id": "d", "texte": "Seul avec son chien", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-042-02",
+        "question": "Où se trouve le terrain de sport ?",
+        "reponses": [
+          { "id": "a", "texte": "Près de la gare routière", "correcte": false },
+          { "id": "b", "texte": "Dans la cour de l'école", "correcte": false },
+          { "id": "c", "texte": "Derrière la mairie", "correcte": true },
+          { "id": "d", "texte": "Au bout de sa rue", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-042-03",
+        "question": "De quelle couleur est le maillot préféré de l'auteur ?",
+        "reponses": [
+          { "id": "a", "texte": "Bleu", "correcte": true },
+          { "id": "b", "texte": "Rouge", "correcte": false },
+          { "id": "c", "texte": "Vert", "correcte": false },
+          { "id": "d", "texte": "Blanc", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-042-04",
+        "question": "Quel est le rôle de l'auteur dans son équipe ?",
+        "reponses": [
+          { "id": "a", "texte": "Être le gardien de but", "correcte": false },
+          { "id": "b", "texte": "Regarder le match sur le banc", "correcte": false },
+          { "id": "c", "texte": "Courir vite pour marquer des buts", "correcte": true },
+          { "id": "d", "texte": "Acheter les ballons", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-042-05",
+        "question": "Que fait l'équipe quand elle gagne le match ?",
+        "reponses": [
+          { "id": "a", "texte": "Elle rentre triste à la maison", "correcte": false },
+          { "id": "b", "texte": "Elle commence à pleurer", "correcte": false },
+          { "id": "c", "texte": "Elle s'endort sur le terrain", "correcte": false },
+          { "id": "d", "texte": "Elle crie de joie ensemble", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Une promenade au parc",
+    "titre2": "Exercice 43",
+    "texte": [
+      "Quand il fait beau, j'aime faire une longue promenade au parc public.",
+      "Le parc est magnifique avec de grands arbres verts et des fleurs colorées.",
+      "Je marche lentement sur les petits chemins en écoutant le chant des oiseaux.",
+      "Parfois, je m'assois sur un banc en bois pour regarder les enfants jouer au ballon.",
+      "C'est un endroit parfait pour respirer de l'air pur et oublier le stress."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-043-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-043-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-043-01",
+        "question": "Quand l'auteur aime-t-il se promener au parc ?",
+        "reponses": [
+          { "id": "a", "texte": "Quand il fait beau", "correcte": true },
+          { "id": "b", "texte": "Quand il pleut beaucoup", "correcte": false },
+          { "id": "c", "texte": "Pendant la nuit", "correcte": false },
+          { "id": "d", "texte": "Uniquement en hiver", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-043-02",
+        "question": "Qu'est-ce que l'auteur écoute en marchant sur les chemins ?",
+        "reponses": [
+          { "id": "a", "texte": "La radio locale", "correcte": false },
+          { "id": "b", "texte": "Le chant des oiseaux", "correcte": true },
+          { "id": "c", "texte": "Le bruit des voitures", "correcte": false },
+          { "id": "d", "texte": "Son professeur de français", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-043-03",
+        "question": "Où l'auteur s'assied-il parfois dans le parc ?",
+        "reponses": [
+          { "id": "a", "texte": "Par terre sur la terre", "correcte": false },
+          { "id": "b", "texte": "Sur un banc en bois", "correcte": true },
+          { "id": "c", "texte": "Dans une cabine d'essayage", "correcte": false },
+          { "id": "d", "texte": "Sous une voiture blanche", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-043-04",
+        "question": "Que font les enfants dans le parc selon le texte ?",
+        "reponses": [
+          { "id": "a", "texte": "Ils font leurs devoirs de classe", "correcte": false },
+          { "id": "b", "texte": "Ils dorment sur les bancs", "correcte": false },
+          { "id": "c", "texte": "Ils jouent au ballon", "correcte": true },
+          { "id": "d", "texte": "Ils coupent les grands arbres", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-043-05",
+        "question": "Pourquoi cet endroit est-il qualifié de parfait ?",
+        "reponses": [
+{ "id": "a", "texte": "Pour respirer de l'air pur et oublier le stress", "correcte": true },
+{ "id": "b", "texte": "Pour acheter des gâteaux au chocolat", "correcte": false },
+{ "id": "c", "texte": "Pour louer un appartement moderne", "correcte": false },
+{ "id": "d", "texte": "Pour courir après un train", "correcte": false }
+]
+}
+]
+},
+{
+"id": "044",
+"titre": "Écouter de la musique",
+"titre2": "Exercice 44",
+"texte": [
+"Écouter de la musique est mon activité préférée pour me relaxer le soir.",
+"J'utilise mon téléphone portable et mes petits écouteurs blancs pour ne pas déranger.",
+"J'aime particulièrement les chansons douces en français car les paroles sont jolies.",
+"La musique m'aide à rêver et à imaginer de belles histoires dans ma tête.",
+"Parfois, je ferme les yeux sur mon canapé et je m'endors tranquillement."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-044-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-044-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-044-01",
+"question": "Quel appareil l'auteur utilise-t-il pour écouter sa musique ?",
+"reponses": [
+{ "id": "a", "texte": "Une grande télévision", "correcte": false },
+{ "id": "b", "texte": "Son téléphone portable", "correcte": true },
+{ "id": "c", "texte": "Un ordinateur de bureau", "correcte": false },
+{ "id": "d", "texte": "Une balance électronique", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-044-02",
+"question": "Pourquoi porte-t-il de petits écouteurs blancs ?",
+"reponses": [
+{ "id": "a", "texte": "Pour ne pas déranger les autres", "correcte": true },
+{ "id": "b", "texte": "Parce que c'est obligatoire", "correcte": false },
+{ "id": "c", "texte": "Pour faire du sport au parc", "correcte": false },
+{ "id": "d", "texte": "Pour avoir chaud aux oreilles", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-044-03",
+"question": "Quel style de chansons l'auteur préfère-t-il écouter ?",
+"reponses": [
+{ "id": "a", "texte": "Des musiques très rapides et bruyantes", "correcte": false },
+{ "id": "b", "texte": "Des chansons pour enfants", "correcte": false },
+{ "id": "c", "texte": "Des chansons douces en français", "correcte": true },
+{ "id": "d", "texte": "Des cours de mathématiques enregistrés", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-044-04",
+"question": "Que fait l'auteur dans sa tête grâce à la musique ?",
+"reponses": [
+{ "id": "a", "texte": "Il calcule le prix des légumes", "correcte": false },
+{ "id": "b", "texte": "Il oublie son prénom", "correcte": false },
+{ "id": "c", "texte": "Il révise sa leçon de géographie", "correcte": false },
+{ "id": "d", "texte": "Il rêve et imagine de belles histoires", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-044-05",
+"question": "Où l'auteur s'endort-il parfois en fermant les yeux ?",
+"reponses": [
+{ "id": "a", "texte": "Sur son canapé", "correcte": true },
+{ "id": "b", "texte": "À son bureau de travail", "correcte": false },
+{ "id": "c", "texte": "Dans le métro de la ville", "correcte": false },
+{ "id": "d", "texte": "Devant la caisse du supermarché", "correcte": false }
+]
+}
+]
+},
+{
+"id": "045",
+"titre": "Regarder un film",
+"titre2": "Exercice 45",
+"texte": [
+"Le dimanche soir, j'aime regarder un bon film comique à la télévision.",
+"Je m'installe confortablement sous une couverture chaude dans le salon.",
+"J'éteins la grande lampe de la pièce pour être dans le noir comme au cinéma.",
+"Le film me fait beaucoup rire et me permet de passer un excellent moment.",
+"Après la fin du film, j'éteins l'écran et je vais directement me coucher."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-045-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-045-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-045-01",
+"question": "Quel genre de film l'auteur regarde-t-il le dimanche soir ?",
+"reponses": [
+{ "id": "a", "texte": "Un film d'action", "correcte": false },
+{ "id": "b", "texte": "Un film historique sur le passé", "correcte": false },
+{ "id": "c", "texte": "Un film comique", "correcte": true },
+{ "id": "d", "texte": "Un documentaire sur les animaux", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-045-02",
+"question": "Où l'auteur s'installe-t-il pour regarder la télévision ?",
+"reponses": [
+{ "id": "a", "texte": "Dans sa cuisine moderne", "correcte": false },
+{ "id": "b", "texte": "Dans le salon", "correcte": true },
+{ "id": "c", "texte": "Dans son grand garage", "correcte": false },
+{ "id": "d", "texte": "À la bibliothèque de l'école", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-045-03",
+"question": "Pourquoi l'auteur éteint-il la grande lampe de la pièce ?",
+"reponses": [
+{ "id": "a", "texte": "Pour économiser de l'argent", "correcte": false },
+{ "id": "b", "texte": "Parce qu'il veut dormir tout de suite", "correcte": false },
+{ "id": "c", "texte": "Pour être dans le noir comme au cinéma", "correcte": true },
+{ "id": "d", "texte": "Parce que la lampe est cassée", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-045-04",
+"question": "Quel effet le film a-t-il sur l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Il le rend très triste", "correcte": false },
+{ "id": "b", "texte": "Il l'aide à faire ses exercices de maths", "correcte": false },
+{ "id": "c", "texte": "Il lui fait beaucoup rire", "correcte": true },
+{ "id": "d", "texte": "Il l'énerve profondément", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-045-05",
+"question": "Que fait l'auteur juste après la fin du film ?",
+"reponses": [
+{ "id": "a", "texte": "Il éteins l'écran et va se coucher", "correcte": true },
+{ "id": "b", "texte": "Il prépare un grand dîner copieux", "correcte": false },
+{ "id": "c", "texte": "Il va courir dehors dans son quartier", "correcte": false },
+{ "id": "d", "texte": "Il appelle son meilleur ami Nicolas", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "046",
+    "titre": "Lire un livre",
+    "titre2": "Exercice 46",
+    "texte": [
+      "Le soir avant de dormir, j'aime ouvrir un bon livre dans mon lit.",
+      "La pièce est très calme et j'allume ma petite lampe de chevet.",
+      "En ce moment, je lis une histoire d'aventure avec un mystère à résoudre.",
+      "Je tourne les pages doucement pour découvrir la suite des événements.",
+      "Cette activité me détend et m'aide à faire de très beaux rêves."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-046-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-046-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-046-01",
+        "question": "Quand l'auteur aime-t-il ouvrir un bon livre ?",
+        "reponses": [
+          { "id": "a", "texte": "Pendant le déjeuner à midi", "correcte": false },
+          { "id": "b", "texte": "Pendant la récréation", "correcte": false },
+          { "id": "c", "texte": "Le samedi matin au marché", "correcte": false },
+          { "id": "d", "texte": "Le soir avant de dormir", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-046-02",
+        "question": "Qu'est-ce que l'auteur allume pour pouvoir lire ?",
+        "reponses": [
+          { "id": "a", "texte": "Une petite lampe de chevet", "correcte": true },
+          { "id": "b", "texte": "Une grande bougie au milieu", "correcte": false },
+          { "id": "c", "texte": "L'ordinateur portable du bureau", "correcte": false },
+          { "id": "d", "texte": "La télévision du salon", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-046-03",
+        "question": "Quel genre d'histoire l'auteur lit-il en ce moment ?",
+        "reponses": [
+          { "id": "a", "texte": "Une leçon de grammaire française", "correcte": false },
+          { "id": "b", "texte": "Une histoire d'aventure", "correcte": true },
+          { "id": "c", "texte": "Une recette de gâteau simple", "correcte": false },
+          { "id": "d", "texte": "Un article sur le supermarché", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-046-04",
+        "question": "Que fait l'auteur doucement pour découvrir la suite ?",
+        "reponses": [
+          { "id": "a", "texte": "Il ferme les rideaux blancs", "correcte": false },
+          { "id": "b", "texte": "Il appelle son meilleur ami", "correcte": false },
+          { "id": "c", "texte": "Il tourne les pages", "correcte": true },
+          { "id": "d", "texte": "Il écrit sur son cahier bleu", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-046-05",
+        "question": "Quel est le bénéfice de cette activité selon le texte ?",
+        "reponses": [
+          { "id": "a", "texte": "Elle fatigue beaucoup les yeux", "correcte": false },
+          { "id": "b", "texte": "Elle aide à faire de très beaux rêves", "correcte": true },
+          { "id": "c", "texte": "Elle permet de finir ses devoirs", "correcte": false },
+          { "id": "d", "texte": "Elle donne beaucoup d'énergie", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Jouer avec mes amis",
+    "titre2": "Exercice 47",
+    "texte": [
+      "Le mercredi après-midi, je retrouve mes camarades pour nous amuser.",
+      "Nous nous rassemblons au milieu du parc de notre quartier habituel.",
+      "Aujourd'hui, nous décidons de jouer à cache-cache derrière les grands arbres.",
+      "Tout le monde court partout et on entend beaucoup de rires joyeux.",
+      "C'est mon activité préférée de la semaine car je passe du temps avec mes amis."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-047-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-047-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-047-01",
+        "question": "Quel jour l'auteur retrouve-t-il ses camarades ?",
+        "reponses": [
+          { "id": "a", "texte": "Le lundi matin tôt", "correcte": false },
+          { "id": "b", "texte": "Le mardi à la bibliothèque", "correcte": false },
+          { "id": "c", "texte": "Le mercredi après-midi", "correcte": true },
+          { "id": "d", "texte": "Le vendredi soir tard", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-047-02",
+        "question": "Où le groupe d'amis se rassemble-t-il pour jouer ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans la salle de classe de Paul", "correcte": false },
+          { "id": "b", "texte": "Au milieu du parc", "correcte": true },
+          { "id": "c", "texte": "Devant la boulangerie blanche", "correcte": false },
+          { "id": "d", "texte": "Dans le garage de la maison", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-047-03",
+        "question": "À quel jeu décident-ils de jouer aujourd'hui ?",
+        "reponses": [
+          { "id": "a", "texte": "Au football avec un petit ballon", "correcte": false },
+          { "id": "b", "texte": "Aux jeux vidéo de football", "correcte": false },
+          { "id": "c", "texte": "À cache-cache", "correcte": true },
+          { "id": "d", "texte": "À dessiner un petit chat", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-047-04",
+        "question": "Où se cachent les enfants pendant le jeu ?",
+        "reponses": [
+          { "id": "a", "texte": "Derrière les grands arbres", "correcte": true },
+          { "id": "b", "texte": "Dans la cabine d'essayage", "correcte": false },
+          { "id": "c", "texte": "Sous le grand bureau en bois", "correcte": false },
+          { "id": "d", "texte": "Dans le placard de la cuisine", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-047-05",
+        "question": "Pourquoi est-ce l'activité préférée de l'auteur ?",
+        "reponses": [
+          { "id": "a", "texte": "Parce qu'il n'y a pas de professeur", "correcte": false },
+          { "id": "b", "texte": "Parce qu'il gagne de la monnaie", "correcte": false },
+          { "id": "c", "texte": "Parce qu'il déteste faire ses devoirs", "correcte": false },
+          { "id": "d", "texte": "Parce qu'il passe du temps avec ses amis", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "Une sortie au cinéma",
+    "titre2": "Exercice 48",
+    "texte": [
+      "Le samedi soir, je vais au grand cinéma du centre-ville pour voir un film.",
+      "J'achète mon billet d'entrée à la caisse et un grand paquet de pop-corn sucré.",
+      "La salle de projection est immense, sombre et possède des sièges rouges très confortables.",
+      "Les lumières s'éteignent doucement et le film commence sur le très grand écran.",
+      "Je passe un excellent moment et je reste jusqu'à la fin de l'histoire."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-048-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-048-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-048-01",
+        "question": "Où se trouve le cinéma où se rend l'auteur ?",
+        "reponses": [
+          { "id": "a", "texte": "Près de la gare routière", "correcte": false },
+          { "id": "b", "texte": "Derrière l'école primaire", "correcte": false },
+          { "id": "c", "texte": "Au centre-ville", "correcte": true },
+          { "id": "d", "texte": "À côté de la boulangerie", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-048-02",
+        "question": "Qu'est-ce que l'auteur achète à manger ?",
+        "reponses": [
+          { "id": "a", "texte": "Un sandwich au fromage", "correcte": false },
+          { "id": "b", "texte": "Un grand paquet de pop-corn sucré", "correcte": true },
+          { "id": "c", "texte": "Deux croissants au beurre", "correcte": false },
+          { "id": "d", "texte": "Une salade verte fraîche", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-048-03",
+        "question": "De quelle couleur sont les sièges de la salle ?",
+        "reponses": [
+          { "id": "a", "texte": "Bleus", "correcte": false },
+          { "id": "b", "texte": "Blancs", "correcte": false },
+          { "id": "c", "texte": "Noirs", "correcte": false },
+          { "id": "d", "texte": "Rouges", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-048-04",
+        "question": "Que se passe-t-il juste avant le début du film ?",
+        "reponses": [
+          { "id": "a", "texte": "Les lumières s'éteignent doucement", "correcte": true },
+          { "id": "b", "texte": "Le serveur apporte l'addition", "correcte": false },
+          { "id": "c", "texte": "Les enfants courent dans la cour", "correcte": false },
+          { "id": "d", "texte": "Le directeur fait un discours", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-048-05",
+        "question": "Combien de temps l'auteur reste-t-il dans la salle ?",
+        "reponses": [
+          { "id": "a", "texte": "Seulement dix minutes", "correcte": false },
+          { "id": "b", "texte": "Il part au milieu du film", "correcte": false },
+          { "id": "c", "texte": "Il reste jusqu'à la fin", "correcte": true },
+          { "id": "d", "texte": "Il y passe toute la nuit", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "049",
+    "titre": "Mon anniversaire",
+    "titre2": "Exercice 49",
+    "texte": [
+      "Aujourd'hui est un jour magnifique car c'est la fête de mon anniversaire.",
+      "Mes parents préparent un très grand gâteau au chocolat avec dix bougies jaunes.",
+      "Mes amis arrivent l'après-midi à la maison avec de jolis paquets cadeaux.",
+      "Nous chantons tous ensemble et je souffle mes bougies en faisant un vœu.",
+      "Je me sens très heureux et reconnaissant d'être entouré par les gens que j'aime."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-049-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-049-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-049-01",
+        "question": "Quel parfum a le gâteau préparé par les parents ?",
+        "reponses": [
+          { "id": "a", "texte": "À la fraise rouge", "correcte": false },
+          { "id": "b", "texte": "Au chocolat", "correcte": true },
+          { "id": "c", "texte": "Aux pommes vertes", "correcte": false },
+          { "id": "d", "texte": "À la banane mûre", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-049-02",
+        "question": "Combien de bougies y a-t-il sur le gâteau ?",
+        "reponses": [
+          { "id": "a", "texte": "Cinq bougies", "correcte": false },
+          { "id": "b", "texte": "Dix bougies", "correcte": true },
+          { "id": "c", "texte": "Huit bougies", "correcte": false },
+          { "id": "d", "texte": "Vingt bougies", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-049-03",
+        "question": "Quand les amis de l'auteur arrivent-ils à la maison ?",
+        "reponses": [
+          { "id": "a", "texte": "Tôt le matin", "correcte": false },
+          { "id": "b", "texte": "Le soir très tard", "correcte": false },
+          { "id": "c", "texte": "L'après-midi", "correcte": true },
+          { "id": "d", "texte": "Le lendemain midi", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-049-04",
+        "question": "Que fait l'auteur en soufflant ses bougies ?",
+        "reponses": [
+          { "id": "a", "texte": "Il fait un vœu", "correcte": true },
+          { "id": "b", "texte": "Il ouvre les rideaux", "correcte": false },
+          { "id": "c", "texte": "Il prend son sac à dos", "correcte": false },
+          { "id": "d", "texte": "Il regarde la télévision", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-049-05",
+        "question": "Comment l'auteur se sent-il à la fin de sa fête ?",
+        "reponses": [
+          { "id": "a", "texte": "Très heureux", "correcte": true },
+          { "id": "b", "texte": "Un peu stressé", "correcte": false },
+          { "id": "c", "texte": "Fatigué et triste", "correcte": false },
+          { "id": "d", "texte": "En colère contre ses amis", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "050",
+    "titre": "Un dimanche en famille",
+    "titre2": "Exercice 50",
+    "texte": [
+      "Le dimanche est ma journée préférée car nous restons tous ensemble à la maison.",
+      "Le matin, mon père prépare un grand petit-déjeuner avec du café chaud et du pain.",
+      "L'après-midi, nous faisons une longue promenade dans la forêt derrière la maison.",
+      "Notre petit chien blanc Toby court joyeusement et ramasse des morceaux de bois.",
+      "Le soir, nous cuisinons une bonne soupe chaude avant de nous coucher tôt."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-050-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-050-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-050-01",
+        "question": "Pourquoi le dimanche est-il la journée préférée de l'auteur ?",
+        "reponses": [
+          { "id": "a", "texte": "Parce qu'il y a école", "correcte": false },
+          { "id": "b", "texte": "Parce qu'il va au supermarché", "correcte": false },
+          { "id": "c", "texte": "Parce que la famille reste ensemble", "correcte": true },
+          { "id": "d", "texte": "Parce qu'il fait son premier achat", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-050-02",
+        "question": "Qui s'occupe de préparer le petit-déjeuner le matin ?",
+        "reponses": [
+          { "id": "a", "texte": "Le frère de l'auteur", "correcte": false },
+          { "id": "b", "texte": "La grand-mère", "correcte": false },
+          { "id": "c", "texte": "Le grand-père", "correcte": false },
+          { "id": "d", "texte": "Le père", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-050-03",
+        "question": "Où la famille fait-elle une promenade l'après-midi ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans un magasin de chaussures", "correcte": false },
+          { "id": "b", "texte": "Dans la forêt derrière la maison", "correcte": true },
+          { "id": "c", "texte": "Au centre-ville près du métro", "correcte": false },
+          { "id": "d", "texte": "À la bibliothèque municipale", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-050-04",
+        "question": "Que fait le petit chien blanc nommé Toby ?",
+        "reponses": [
+          { "id": "a", "texte": "Il dort sous le canapé bleu", "correcte": false },
+          { "id": "b", "texte": "Il court et ramasse du bois", "correcte": true },
+          { "id": "c", "texte": "Il mange une banane jaune", "correcte": false },
+           { "id": "d", "texte": "Il ouvre les grands rideaux", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-050-05",
+"question": "Quel plat la famille cuisine-t-elle le soir ?",
+"reponses": [
+{ "id": "a", "texte": "Un gâteau de grand-mère", "correcte": false },
+{ "id": "b", "texte": "Une pizza aux olives", "correcte": false },
+{ "id": "c", "texte": "Une bonne soupe chaude", "correcte": true },
+{ "id": "d", "texte": "Des lasagnes maison", "correcte": false }
+]
+}
+]
+},
+{
+"id": "051",
+"titre": "Mon premier voyage",
+"titre2": "Exercice 51",
+"texte": [
+"Demain, je pars pour mon tout premier grand voyage loin de ma maison.",
+"Je prépare ma valise rouge avec mes vêtements, mes chaussures et ma trousse.",
+"Je vérifie plusieurs fois que mon billet de transport est bien dans ma poche.",
+"Je me sens très impatient et un peu stressé par cette nouvelle aventure.",
+"C'est une opportunité magnifique pour découvrir le monde et apprendre."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-051-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-051-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-051-01",
+"question": "Quand a lieu le grand voyage décrit par l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Aujourd'hui même", "correcte": false },
+{ "id": "b", "texte": "La semaine prochaine", "correcte": false },
+{ "id": "c", "texte": "Demain", "correcte": true },
+{ "id": "d", "texte": "L'année dernière", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-051-02",
+"question": "De quelle couleur est la valise de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Bleue", "correcte": false },
+{ "id": "b", "texte": "Blanche", "correcte": false },
+{ "id": "c", "texte": "Rouge", "correcte": true },
+{ "id": "d", "texte": "Grise", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-051-03",
+"question": "Où l'auteur range-t-il son billet de transport ?",
+"reponses": [
+{ "id": "a", "texte": "Dans son grand bureau", "correcte": false },
+{ "id": "b", "texte": "Dans sa poche", "correcte": true },
+{ "id": "c", "texte": "Au fond de sa trousse", "correcte": false },
+{ "id": "d", "texte": "Dans sa boîte à médicaments", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-051-04",
+"question": "Comment se sent l'auteur avant de partir ?",
+"reponses": [
+{ "id": "a", "texte": "Impatient et un peu stressé", "correcte": true },
+{ "id": "b", "texte": "En colère et triste", "correcte": false },
+{ "id": "c", "texte": "Fatigué et endormi", "correcte": false },
+{ "id": "d", "texte": "Parfaitement calme", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-051-05",
+"question": "Pourquoi ce voyage est-il une opportunité selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Pour acheter des vêtements chers", "correcte": false },
+{ "id": "b", "texte": "Pour éviter de faire ses devoirs", "correcte": false },
+{ "id": "c", "texte": "Pour découvrir le monde et apprendre", "correcte": true },
+{ "id": "d", "texte": "Pour travailler au bureau", "correcte": false }
+]
+}
+]
+},
+{
+"id": "052",
+"titre": "À la gare",
+"titre2": "Exercice 52",
+"texte": [
+"J'arrive à la gare ferroviaire avec une heure d'avance pour ne pas rater mon train.",
+"Le hall d'entrée est très grand et rempli de voyageurs avec des valises.",
+"Je regarde le grand panneau d'affichage électronique pour trouver ma voie.",
+"Mon train pour Paris est annoncé sur la voie numéro cinq à 10h30.",
+"Je marche sagement sur le quai en tenant fermement mon sac à dos."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-052-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-052-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-052-01",
+"question": "Combien de temps à l'avance l'auteur arrive-t-il à la gare ?",
+"reponses": [
+{ "id": "a", "texte": "Cinq minutes", "correcte": false },
+{ "id": "b", "texte": "Deux heures", "correcte": false },
+{ "id": "c", "texte": "Une heure d'avance", "correcte": true },
+{ "id": "d", "texte": "Il arrive en retard", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-052-02",
+"question": "Quel outil l'auteur consulte-t-il pour trouver sa voie ?",
+"reponses": [
+{ "id": "a", "texte": "Un grand panneau d'affichage électronique", "correcte": true },
+{ "id": "b", "texte": "Un livre d'histoire de l'école", "correcte": false },
+{ "id": "c", "texte": "Une carte géographique papier", "correcte": false },
+{ "id": "d", "texte": "Sa liste de courses jaune", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-052-03",
+"question": "Quelle est la destination du train de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Montréal", "correcte": false },
+{ "id": "b", "texte": "Lyon", "correcte": false },
+{ "id": "c", "texte": "Londres", "correcte": false },
+{ "id": "d", "texte": "Paris", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-052-04",
+"question": "Sur quelle voie le train est-il annoncé ?",
+"reponses": [
+{ "id": "a", "texte": "La voie numéro trois", "correcte": false },
+{ "id": "b", "texte": "La voie numéro cinq", "correcte": true },
+{ "id": "c", "texte": "La voie numéro un", "correcte": false },
+{ "id": "d", "texte": "La voie numéro dix", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-052-05",
+"question": "À quelle heure le train doit-il partir ?",
+"reponses": [
+{ "id": "a", "texte": "À 10h30", "correcte": true },
+{ "id": "b", "texte": "À midi pile", "correcte": false },
+{ "id": "c", "texte": "À 6h30 précises", "correcte": false },
+{ "id": "d", "texte": "À 17h00", "correcte": false }
+]
+}
+]
+},
+{
+"id": "053",
+"titre": "À l'aéroport",
+"titre2": "Exercice 53",
+"texte": [
+"L'aéroport est un endroit immense avec beaucoup de contrôles de sécurité.",
+"Je commence par donner ma valise et mon passeport au comptoir d'enregistrement.",
+"La dame me remet ma carte d'embarquement avec mon numéro de siège.",
+"Ensuite, je marche vers la grande porte de sortie numéro douze dans le hall.",
+"Par la grande fenêtre, je regarde les avions décoller dans le ciel bleu."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-053-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-053-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-053-01",
+"question": "Quels documents et affaires l'auteur donne-t-il au comptoir ?",
+"reponses": [
+{ "id": "a", "texte": "Son cahier d'exercices", "correcte": false },
+{ "id": "b", "texte": "Sa valise et mon passeport", "correcte": true },
+{ "id": "c", "texte": "Son ordonnance médicale", "correcte": false },
+{ "id": "d", "texte": "Sa liste de courses jaune", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-053-02",
+"question": "Que remet la dame de l'enregistrement à l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Une carte d'embarquement", "correcte": true },
+{ "id": "b", "texte": "Un billet de cinq euros", "correcte": false },
+{ "id": "c", "texte": "Un paquet de pop-corn", "correcte": false },
+{ "id": "d", "texte": "Un grand arrosoir vert", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-053-03",
+"question": "Quelle information figure sur la carte reçue ?",
+"reponses": [
+{ "id": "a", "texte": "Le prix des vêtements", "correcte": false },
+{ "id": "b", "texte": "La recette du gâteau", "correcte": false },
+{ "id": "c", "texte": "Le numéro de siège", "correcte": true },
+{ "id": "d", "texte": "L'âge du grand-père", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-053-04",
+"question": "Vers quelle porte de sortie l'auteur se dirige-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "La porte numéro un", "correcte": false },
+{ "id": "b", "texte": "La porte numéro cinq", "correcte": false },
+{ "id": "c", "texte": "La porte numéro douze", "correcte": true },
+{ "id": "d", "texte": "La porte numéro trois", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-053-05",
+"question": "Qu'observe l'auteur par la grande fenêtre ?",
+"reponses": [
+{ "id": "a", "texte": "Des trains sur le quai", "correcte": false },
+{ "id": "b", "texte": "Les enfants qui jouent", "correcte": false },
+{ "id": "c", "texte": "Les avions décoller", "correcte": true },
+{ "id": "d", "texte": "Des voitures dans le garage", "correcte": false }
+]
+}
+]
+},
+{
+"id": "054",
+"titre": "Prendre le bus",
+"titre2": "Exercice 54",
+"texte": [
+"Chaque matin, j'attends le bus rouge à l'arrêt qui est près de ma maison.",
+"Le bus arrive à 7h45 et je monte sagement par la porte de devant.",
+"Je valide mon ticket de transport sur la petite machine électronique grise.",
+"Je trouve une place libre à côté de la fenêtre pour regarder les rues.",
+"Le bus est très pratique et économique pour se déplacer en ville."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-054-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-054-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-054-01",
+"question": "De quelle couleur est le bus mentionné dans le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Vert", "correcte": false },
+{ "id": "b", "texte": "Bleu", "correcte": false },
+{ "id": "c", "texte": "Rouge", "correcte": true },
+{ "id": "d", "texte": "Blanc", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-054-02",
+"question": "À quelle heure précise le bus arrive-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "À 7h45", "correcte": true },
+{ "id": "b", "texte": "À 8h00", "correcte": false },
+{ "id": "c", "texte": "À 6h30", "correcte": false },
+{ "id": "d", "texte": "À midi pile", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-054-03",
+"question": "Par quelle porte l'auteur monte-t-il dans le véhicule ?",
+"reponses": [
+{ "id": "a", "texte": "La porte de derrière", "correcte": false },
+{ "id": "b", "texte": "La porte du milieu", "correcte": false },
+{ "id": "c", "texte": "La porte de devant", "correcte": true },
+{ "id": "d", "texte": "Il monte par la fenêtre", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-054-04",
+"question": "Où l'auteur valide-t-il son ticket de transport ?",
+"reponses": [
+{ "id": "a", "texte": "Sur la petite machine électronique", "correcte": true },
+{ "id": "b", "texte": "Chez le boucher du coin", "correcte": false },
+{ "id": "c", "texte": "Sur le grand tableau blanc", "correcte": false },
+{ "id": "d", "texte": "Dans son grand cahier bleu", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-054-05",
+"question": "Pourquoi le bus est-il recommandé selon l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'il ferme pendant l'été", "correcte": false },
+{ "id": "b", "texte": "Parce qu'il est pratique et économique", "correcte": true },
+{ "id": "c", "texte": "Parce qu'il a des sièges en bois", "correcte": false },
+{ "id": "d", "texte": "Parce qu'il va à l'aéroport", "correcte": false }
+]
+}
+]
+},
+{
+"id": "055",
+"titre": "Un voyage en train",
+"titre2": "Exercice 55",
+"texte": [
+"Le train avance rapidement à travers la campagne et les petits villages.",
+"Je suis assis confortablement sur mon siège près de la grande vitre.",
+"Un contrôleur poli arrive dans le couloir pour vérifier mon billet papier.",
+"J'écoute le bruit régulier des roues du train sur les rails métalliques.",
+"Le voyage est très calme et j'en profite pour lire mon livre d'histoire."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-055-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-055-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-055-01",
+"question": "À travers quoi le train avance-t-il rapidement ?",
+"reponses": [
+{ "id": "a", "texte": "Uniquement dans un long tunnel", "correcte": false },
+{ "id": "b", "texte": "À travers la campagne et les villages", "correcte": true },
+{ "id": "c", "texte": "Au milieu de la mer chaude", "correcte": false },
+{ "id": "d", "texte": "Dans la cour de récréation", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-055-02",
+"question": "Qui arrive dans le couloir pour vérifier le billet ?",
+"reponses": [
+{ "id": "a", "texte": "Le directeur de l'école", "correcte": false },
+{ "id": "b", "texte": "Un contrôleur poli", "correcte": true },
+{ "id": "c", "texte": "Le pharmacien en blouse", "correcte": false },
+{ "id": "d", "texte": "Le boucher du marché", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-055-03",
+"question": "Qu'est-ce que l'auteur écoute pendant le trajet ?",
+"reponses": [
+{ "id": "a", "texte": "Le bruit régulier des roues du train", "correcte": true },
+{ "id": "b", "texte": "Une chanson à la radio", "correcte": false },
+{ "id": "c", "texte": "Les cris des marchands", "correcte": false },
+{ "id": "d", "texte": "La sonnerie de son réveil", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-055-04",
+"question": "Que fait l'auteur pour s'occuper pendant ce voyage calme ?",
+"reponses": [
+{ "id": "a", "texte": "Il prépare une salade verte", "correcte": false },
+{ "id": "b", "texte": "Il fait du vélo dans le parc", "correcte": false },
+{ "id": "c", "texte": "Il lit son livre d'histoire", "correcte": true },
+{ "id": "d", "texte": "Il nettoie sa trousse rouge", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-055-05",
+"question": "Où l'auteur est-il assis dans le train ?",
+"reponses": [
+{ "id": "a", "texte": "Près de la grande vitre", "correcte": true },
+{ "id": "b", "texte": "Au milieu du couloir", "correcte": false },
+{ "id": "c", "texte": "Sur une valise rouge", "correcte": false },
+{ "id": "d", "texte": "Derrière le contrôleur", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "056",
+    "titre": "Visiter une nouvelle ville",
+    "titre2": "Exercice 56",
+    "texte": [
+      "Aujourd'hui, j'arrive à Lyon pour visiter cette magnifique ville.",
+      "Je prends un petit plan de la ville à l'office de tourisme à la gare.",
+      "Je marche dans les rues anciennes pour admirer la belle architecture des maisons.",
+      "Le midi, je m'arrête sur une grande place pour manger un plat local.",
+      "C'est une journée fatigante mais je suis ravi de découvrir cet endroit."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-056-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-056-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-056-01",
+        "question": "Quelle ville l'auteur visite-t-il aujourd'hui ?",
+        "reponses": [
+          { "id": "a", "texte": "Paris", "correcte": false },
+          { "id": "b", "texte": "Marseille", "correcte": false },
+          { "id": "c", "texte": "Lyon", "correcte": true },
+          { "id": "d", "texte": "Montréal", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-056-02",
+        "question": "Où l'auteur prend-il un petit plan de la ville ?",
+        "reponses": [
+          { "id": "a", "texte": "À l'office de tourisme", "correcte": true },
+          { "id": "b", "texte": "Dans une bibliothèque", "correcte": false },
+          { "id": "c", "texte": "Chez la boulangère", "correcte": false },
+          { "id": "d", "texte": "Au restaurant de la place", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-056-03",
+        "question": "Pourquoi marche-t-il dans les rues anciennes ?",
+        "reponses": [
+          { "id": "a", "texte": "Pour chercher un grand hôtel", "correcte": false },
+          { "id": "b", "texte": "Pour admirer la belle architecture", "correcte": true },
+          { "id": "c", "texte": "Pour courir après un bus rouge", "correcte": false },
+          { "id": "d", "texte": "Pour acheter des chaussures de sport", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-056-04",
+        "question": "Où s'arrête-t-il le midi pour manger ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans le métro de la ville", "correcte": false },
+          { "id": "b", "texte": "Derrière le grand garage", "correcte": false },
+          { "id": "c", "texte": "Sur une grande place", "correcte": true },
+          { "id": "d", "texte": "Dans la cour de l'école", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-056-05",
+        "question": "Comment l'auteur se sent-il à la fin de cette journée ?",
+        "reponses": [
+          { "id": "a", "texte": "En colère", "correcte": false },
+          { "id": "b", "texte": "Triste", "correcte": false },
+          { "id": "c", "texte": "Calme", "correcte": false },
+          { "id": "d", "texte": "Fatigué", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "057",
+    "titre": "Les vacances à la plage",
+    "titre2": "Exercice 57",
+    "texte": [
+      "Pendant l'été, j'adore passer mes vacances au bord de la mer.",
+      "Le matin, je pose ma grande serviette bleue sur le sable chaud.",
+      "Je mets de la crème solaire sur tout mon corps pour protéger ma peau.",
+      "Ensuite, je nage dans l'eau claire avec mes amis de vacances.",
+      "L'après-midi, nous faisons des châteaux de sable géants près de l'eau."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-057-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-057-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-057-01",
+        "question": "Où l'auteur aime-t-il passer ses vacances en été ?",
+        "reponses": [
+          { "id": "a", "texte": "À la montagne", "correcte": false },
+          { "id": "b", "texte": "Au bord de la mer", "correcte": true },
+          { "id": "c", "texte": "Dans une grande bibliothèque", "correcte": false },
+          { "id": "d", "texte": "Au bureau de maman", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-057-02",
+        "question": "De quelle couleur est la grande serviette de l'auteur ?",
+        "reponses": [
+          { "id": "a", "texte": "Verte", "correcte": false },
+          { "id": "b", "texte": "Blanche", "correcte": false },
+          { "id": "c", "texte": "Rouge", "correcte": false },
+          { "id": "d", "texte": "Bleue", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-057-03",
+        "question": "Pourquoi met-il de la crème solaire sur son corps ?",
+        "reponses": [
+          { "id": "a", "texte": "Pour laver son visage", "correcte": false },
+          { "id": "b", "texte": "Pour protéger ma peau", "correcte": true },
+          { "id": "c", "texte": "Pour nager plus vite", "correcte": false },
+          { "id": "d", "texte": "Pour avoir chaud", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-057-04",
+        "question": "Que fait l'auteur juste après avoir mis la crème ?",
+        "reponses": [
+          { "id": "a", "texte": "Il prend un train", "correcte": false },
+          { "id": "b", "texte": "Il nage dans l'eau claire", "correcte": true },
+          { "id": "c", "texte": "Il fait ses devoirs de français", "correcte": false },
+          { "id": "d", "texte": "Il va au supermarché", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-057-05",
+        "question": "Que font-ils l'après-midi près de l'eau ?",
+        "reponses": [
+          { "id": "a", "texte": "Des châteaux de sable géants", "correcte": true },
+          { "id": "b", "texte": "Une grande soupe chaude", "correcte": false },
+          { "id": "c", "texte": "Des courses avec maman", "correcte": false },
+          { "id": "d", "texte": "Un gâteau au chocolat", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "058",
+    "titre": "Une promenade à la campagne",
+    "titre2": "Exercice 58",
+    "texte": [
+      "Le dimanche matin, je quitte la ville pour aller me promener à la campagne.",
+      "L'air est frais, pur et les paysages sont très calmes autour de moi.",
+      "Je marche sur un petit chemin en terre entre de grands champs verts.",
+      "Au loin, je vois une jolie maison ancienne avec des vaches dans le pré.",
+      "Cette marche tranquille fait beaucoup de bien à mon corps et à mon esprit."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-058-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-058-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-058-01",
+        "question": "Quand l'auteur quitte-t-il la ville pour se promener ?",
+        "reponses": [
+          { "id": "a", "texte": "Le samedi soir", "correcte": false },
+          { "id": "b", "texte": "Le lundi après-midi", "correcte": false },
+          { "id": "c", "texte": "Le dimanche matin", "correcte": true },
+          { "id": "d", "texte": "Le mercredi midi", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-058-02",
+        "question": "Comment sont qualifiés l'air et les paysages de la campagne ?",
+        "reponses": [
+          { "id": "a", "texte": "Frais, pur et très calmes", "correcte": true },
+          { "id": "b", "texte": "Bruyants et pollués", "correcte": false },
+          { "id": "c", "texte": "Sombres et étroits", "correcte": false },
+          { "id": "d", "texte": "Dynamiques et animés", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-058-03",
+        "question": "Sur quel type de chemin l'auteur marche-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Une grande avenue en pierre", "correcte": false },
+          { "id": "b", "texte": "Un petit chemin en terre", "correcte": true },
+          { "id": "c", "texte": "Une piste de métro", "correcte": false },
+          { "id": "d", "texte": "Une allée de supermarché", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-058-04",
+        "question": "Quels animaux l'auteur voit-il dans le pré au loin ?",
+        "reponses": [
+          { "id": "a", "texte": "Des petits chiens blancs", "correcte": false },
+          { "id": "b", "texte": "Des poissons verts", "correcte": false },
+          { "id": "c", "texte": "Des abeilles modernes", "correcte": false },
+          { "id": "d", "texte": "Des vaches", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-058-05",
+        "question": "Quel est l'effet de cette marche tranquille selon l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Elle fait beaucoup de bien", "correcte": true },
+{ "id": "b", "texte": "Elle rend l'auteur en colère", "correcte": false },
+{ "id": "c", "texte": "Elle vide le budget de la semaine", "correcte": false },
+{ "id": "d", "texte": "Elle donne mal aux dents", "correcte": false }
+]
+}
+]
+},
+{
+"id": "059",
+"titre": "Demander son chemin",
+"titre2": "Exercice 59",
+"texte": [
+"Je suis un peu perdu dans cette nouvelle ville car je ne trouve pas ma rue.",
+"Je m'approche poliment d'un passant qui marche sur le trottoir.",
+"Je dis : 'Bonjour Monsieur, s'il vous plaît, où est la station de métro ?'",
+"L'homme sourit et m'explique qu'il faut aller tout droit puis tourner à gauche.",
+"Je le remercie chaleureusement pour son aide et je poursuis ma marche."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-059-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-059-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-059-01",
+"question": "Pourquoi l'auteur s'approche-t-il d'un passant ?",
+"reponses": [
+{ "id": "a", "texte": "Pour lui vendre un journal local", "correcte": false },
+{ "id": "b", "texte": "Parce qu'il est un peu perdu", "correcte": true },
+{ "id": "c", "texte": "Pour lui demander de l'argent", "correcte": false },
+{ "id": "d", "texte": "Pour aller manger une pizza", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-059-02",
+"question": "Quel endroit l'auteur cherche-t-il précisément ?",
+"reponses": [
+{ "id": "a", "texte": "La boulangerie centrale", "correcte": false },
+{ "id": "b", "texte": "La bibliothèque de l'école", "correcte": false },
+{ "id": "c", "texte": "La station de métro", "correcte": true },
+{ "id": "d", "texte": "Le grand garage blanc", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-059-03",
+"question": "Comment l'auteur s'adresse-t-il au monsieur ?",
+"reponses": [
+{ "id": "a", "texte": "Poliment", "correcte": true },
+{ "id": "b", "texte": "En criant très fort", "correcte": false },
+{ "id": "c", "texte": "Sans lui dire bonjour", "correcte": false },
+{ "id": "d", "texte": "En courant derrière lui", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-059-04",
+"question": "Quelle direction l'homme indique-t-il en premier ?",
+"reponses": [
+{ "id": "a", "texte": "Il dit de faire demi-tour", "correcte": false },
+{ "id": "b", "texte": "Il dit de tourner à droite immédiatement", "correcte": false },
+{ "id": "c", "texte": "Il dit de prendre un train", "correcte": false },
+{ "id": "d", "texte": "Il dit d'aller tout droit", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-059-05",
+"question": "Que fait l'auteur juste après les explications du passant ?",
+"reponses": [
+{ "id": "a", "texte": "Il s'assied par terre pour dormir", "correcte": false },
+{ "id": "b", "texte": "Il le remercie chaleureusement", "correcte": true },
+{ "id": "c", "texte": "Il lui donne une mauvaise note", "correcte": false },
+{ "id": "d", "texte": "Il appelle son professeur de français", "correcte": false }
+]
+}
+]
+},
+{
+"id": "060",
+"titre": "Mon voyage chez mes grands-parents",
+"titre2": "Exercice 60",
+"texte": [
+"Aujourd'hui, je fais un long voyage en train pour visiter mes grands-parents.",
+"Ils habitent dans un petit village très calme loin de la grande ville.",
+"Dans mon sac, j'ai apporté des petits cadeaux et un cahier de dessin.",
+"Quand le train s'arrête à la gare, je les vois sur le quai avec un grand sourire.",
+"Je suis tellement heureux de passer les vacances de cette semaine avec eux."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-060-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-060-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-060-01",
+"question": "Quel moyen de transport l'auteur utilise-t-il pour ce voyage ?",
+"reponses": [
+{ "id": "a", "texte": "Le bus rouge", "correcte": false },
+{ "id": "b", "texte": "Le train", "correcte": true },
+{ "id": "c", "texte": "L'ordinateur portable", "correcte": false },
+{ "id": "d", "texte": "Le vélo de course", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-060-02",
+"question": "Où habitent les grands-parents de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Près de l'aéroport international", "correcte": false },
+{ "id": "b", "texte": "Dans une cabine d'essayage", "correcte": false },
+{ "id": "c", "texte": "Dans un petit village très calme", "correcte": true },
+{ "id": "d", "texte": "Au centre-ville de Lyon", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-060-03",
+"question": "Qu'est-ce que l'auteur a mis dans son sac pour ses grands-parents ?",
+"reponses": [
+{ "id": "a", "texte": "Une salade verte et du vinaigre", "correcte": false },
+{ "id": "b", "texte": "Une règle en bois et une gomme", "correcte": false },
+{ "id": "c", "texte": "Des petits cadeaux et un cahier de dessin", "correcte": true },
+{ "id": "d", "texte": "Trois bouteilles de sirop pour la toux", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-060-04",
+"question": "Où l'auteur voit-il ses grands-parents à la fin du voyage ?",
+"reponses": [
+{ "id": "a", "texte": "Sur le quai de la gare", "correcte": true },
+{ "id": "b", "texte": "Dans les rayons du supermarché", "correcte": false },
+{ "id": "c", "texte": "Devant la caisse numéro trois", "correcte": false },
+{ "id": "d", "texte": "À la bibliothèque de l'école", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-060-05",
+"question": "Comment l'auteur qualifie-t-il son état d'esprit ?",
+"reponses": [
+{ "id": "a", "texte": "Il est tellement heureux", "correcte": true },
+{ "id": "b", "texte": "Il est un peu stressé", "correcte": false },
+{ "id": "c", "texte": "Il est en colère", "correcte": false },
+{ "id": "d", "texte": "Il est désespéré", "correcte": false }
+]
+}
+]
+},
+{
+"id": "061",
+"titre": "Les animaux de la ferme",
+"titre2": "Exercice 61",
+"texte": [
+"Dans la ferme de mon oncle, il y a beaucoup d'animaux différents.",
+"Près de la grande barrière en bois, je vois trois gros cochons roses.",
+"Dans le pré vert, les moutons mangent tranquillement de l'herbe fraîche.",
+"Il y a aussi des poules rousses qui courent partout pour chercher des graines.",
+"J'aime observer ces animaux car la vie à la ferme est très naturelle."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-061-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-061-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-061-01",
+"question": "À qui appartient la ferme décrite par l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Au professeur de français", "correcte": false },
+{ "id": "b", "texte": "À l'oncle de l'auteur", "correcte": true },
+{ "id": "c", "texte": "Au directeur de l'école", "correcte": false },
+{ "id": "d", "texte": "Au pharmacien du village", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-061-02",
+"question": "De quelle couleur sont les trois gros cochons ?",
+"reponses": [
+{ "id": "a", "texte": "Blancs", "correcte": false },
+{ "id": "b", "texte": "Noirs", "correcte": false },
+{ "id": "c", "texte": "Roses", "correcte": true },
+{ "id": "d", "texte": "Verts", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-061-03",
+"question": "Que font les moutons dans le pré vert ?",
+"reponses": [
+{ "id": "a", "texte": "Ils courent après le train", "correcte": false },
+{ "id": "b", "texte": "Ils dorment sur une serviette", "correcte": false },
+{ "id": "c", "texte": "Ils mangent de l'herbe fraîche", "correcte": true },
+{ "id": "d", "texte": "Ils boivent du sirop de fraise", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-061-04",
+"question": "Pourquoi les poules rousses courent-elles partout ?",
+"reponses": [
+{ "id": "a", "texte": "Pour chercher des graines", "correcte": true },
+{ "id": "b", "texte": "Pour fuir le petit chien blanc", "correcte": false },
+{ "id": "c", "texte": "Pour entrer dans la cuisine moderne", "correcte": false },
+{ "id": "d", "texte": "Pour faire la queue à la caisse", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-061-05",
+"question": "Pourquoi l'auteur aime-t-il observer ces animaux ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que c'est une règle stricte", "correcte": false },
+{ "id": "b", "texte": "Parce que les animaux portent des lunettes", "correcte": false },
+{ "id": "c", "texte": "Parce que la vie à la ferme est très naturelle", "correcte": true },
+{ "id": "d", "texte": "Parce qu'il veut acheter un sac bleu", "correcte": false }
+]
+}
+]
+},
+{
+"id": "062",
+"titre": "Mon petit chien",
+"titre2": "Exercice 62",
+"texte": [
+"J'ai un petit chien qui s'appelle Toby et que j'adore énormément.",
+"Il a les poils blancs, de longues oreilles douces et une petite queue noire.",
+"Chaque soir après l'école, je lui donne des croquettes dans un bol rouge.",
+"Ensuite, nous allons dans le jardin pour jouer ensemble avec une balle jaune.",
+"Toby est un animal très joueur, gentil et il dort toujours près de mon lit."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-062-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-062-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-062-01",
+"question": "Comment s'appelle le petit chien de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Lucas", "correcte": false },
+{ "id": "b", "texte": "Nicolas", "correcte": false },
+{ "id": "c", "texte": "Toby", "correcte": true },
+{ "id": "d", "texte": "Robert", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-062-02",
+"question": "De quelle couleur est sa petite queue ?",
+"reponses": [
+{ "id": "a", "texte": "Blanche", "correcte": false },
+{ "id": "b", "texte": "Noire", "correcte": true },
+{ "id": "c", "texte": "Rose", "correcte": false },
+{ "id": "d", "texte": "Orange", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-062-03",
+"question": "Où l'auteur met-il les croquettes de son chien ?",
+"reponses": [
+{ "id": "a", "texte": "Dans une casserole en métal", "correcte": false },
+{ "id": "b", "texte": "Par terre dans le garage", "correcte": false },
+{ "id": "c", "texte": "Dans un bol rouge", "correcte": true },
+{ "id": "d", "texte": "Dans sa trousse d'école", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-062-04",
+"question": "Avec quel objet jouent-ils ensemble dans le jardin ?",
+"reponses": [
+{ "id": "a", "texte": "Une règle en bois", "correcte": false },
+{ "id": "b", "texte": "Une petite lampe blanche", "correcte": false },
+{ "id": "c", "texte": "Une bouteille d'eau plate", "correcte": false },
+{ "id": "d", "texte": "Une balle jaune", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-062-05",
+"question": "Où le petit chien dort-il la nuit ?",
+"reponses": [
+{ "id": "a", "texte": "Près du lit de l'auteur", "correcte": true },
+{ "id": "b", "texte": "Dans l'armoire de la chambre", "correcte": false },
+{ "id": "c", "texte": "Sur la table de la cuisine", "correcte": false },
+{ "id": "d", "texte": "Dehors sous la pluie", "correcte": false }
+]
+}
+]
+},
+{
+"id": "063",
+"titre": "Le chat de ma voisine",
+"titre2": "Exercice 63",
+"texte": [
+"Ma voisine de palier possède un magnifique chat gris très calme.",
+"Il passe de longues heures assis sur le bord de la fenêtre au soleil.",
+"Parfois, il descend doucement dans la cour pour marcher le long du mur.",
+"Je m'approche doucement pour caresser ses poils doux et fins.",
+"Le chat fait un petit bruit joyeux car il adore ce moment de tendresse."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-063-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-063-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-063-01",
+"question": "De quelle couleur est le chat de la voisine ?",
+"reponses": [
+{ "id": "a", "texte": "Blanc", "correcte": false },
+{ "id": "b", "texte": "Gris", "correcte": true },
+{ "id": "c", "texte": "Noir", "correcte": false },
+{ "id": "d", "texte": "Roux", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-063-02",
+"question": "Où le chat passe-t-il de longues heures assis ?",
+"reponses": [
+{ "id": "a", "texte": "Dans un tiroir mural", "correcte": false },
+{ "id": "b", "texte": "Sur le bord de la fenêtre", "correcte": true },
+{ "id": "c", "texte": "Sous le grand canapé bleu", "correcte": false },
+{ "id": "d", "texte": "Sur le chariot métallique", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-063-03",
+"question": "Où le chat descend-il parfois doucement ?",
+"reponses": [
+{ "id": "a", "texte": "Dans la cour", "correcte": true },
+{ "id": "b", "texte": "À la pharmacie du centre", "correcte": false },
+{ "id": "c", "texte": "Dans la station de métro", "correcte": false },
+{ "id": "d", "texte": "À la bibliothèque de l'école", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-063-04",
+"question": "Pourquoi l'auteur s'approche-t-il doucement du chat ?",
+"reponses": [
+{ "id": "a", "texte": "Pour lui donner un médicament", "correcte": false },
+{ "id": "b", "texte": "Pour lui faire peur en criant", "correcte": false },
+{ "id": "c", "texte": "Pour caresser ses poils doux", "correcte": true },
+{ "id": "d", "texte": "Pour peser l'animal sur une balance", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-063-05",
+"question": "Quel effet la caresse a-t-elle sur le chat ?",
+"reponses": [
+{ "id": "a", "texte": "Il s'enfuit en courant", "correcte": false },
+{ "id": "b", "texte": "Il fait un petit bruit joyeux", "correcte": true },
+{ "id": "c", "texte": "Il mord la main de l'auteur", "correcte": false },
+{ "id": "d", "texte": "Il s'endort immédiatement", "correcte": false }
+]
+}
+]
+},
+{
+"id": "064",
+"titre": "Une journée à la campagne",
+"titre2": "Exercice 64",
+"texte": [
+"Aujourd'hui, je passe une journée complète à la campagne chez mon parrain.",
+"Le matin, nous marchons près d'un grand lac calme avec de l'eau claire.",
+"Au bord du lac, il y a de jolis canards qui nagent en ligne derrière leur mère.",
+"À midi, nous mangeons un sandwich simple assis sur l'herbe verte du pré.",
+"Cette journée dans la nature est parfaite pour oublier le bruit de la ville."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-064-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-064-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-064-01",
+"question": "Chez qui l'auteur passe-t-il sa journée à la campagne ?",
+"reponses": [
+{ "id": "a", "texte": "Chez sa maman", "correcte": false },
+{ "id": "b", "texte": "Chez son parrain", "correcte": true },
+{ "id": "c", "texte": "Chez le jeune vendeur de jeans", "correcte": false },
+{ "id": "d", "texte": "Chez son professeur d'histoire", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-064-02",
+"question": "Près de quel endroit marchent-ils le matin ?",
+"reponses": [
+{ "id": "a", "texte": "Près d'une station de bus", "correcte": false },
+{ "id": "b", "texte": "Près d'un grand lac calme", "correcte": true },
+{ "id": "c", "texte": "Près d'un grand supermarché moderne", "correcte": false },
+{ "id": "d", "texte": "Près d'un garage blanc", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-064-03",
+"question": "Quels animaux nagent en ligne sur le lac ?",
+"reponses": [
+{ "id": "a", "texte": "De jolis canards", "correcte": true },
+{ "id": "b", "texte": "Des poissons rouges et fins", "correcte": false },
+{ "id": "c", "texte": "Des gros cochons roses", "correcte": false },
+{ "id": "d", "texte": "Des vaches laitières", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-064-04",
+"question": "Que mangent-ils à midi assis sur l'herbe ?",
+"reponses": [
+{ "id": "a", "texte": "Des lasagnes maison au fromage", "correcte": false },
+{ "id": "b", "texte": "Un gâteau à la levure", "correcte": false },
+{ "id": "c", "texte": "Une pizza aux trois fromages", "correcte": false },
+{ "id": "d", "texte": "Un sandwich simple", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-064-05",
+"question": "Pourquoi cette journée est-elle parfaite selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Pour oublier le bruit de la ville", "correcte": true },
+{ "id": "b", "texte": "Pour économiser de l'argent écrit en euros", "correcte": false },
+{ "id": "c", "texte": "Pour finir les devoirs de français", "correcte": false },
+{ "id": "d", "texte": "Pour acheter une nouvelle tenue d'été", "correcte": false }
+]
+}
+]
+},
+{
+"id": "065",
+"titre": "Les fleurs de mon jardin",
+"titre2": "Exercice 65",
+"texte": [
+"Dans le jardin de ma maison, il y a de magnifiques fleurs colorées.",
+"Le long de l'allée en pierre, je regarde de jolies roses bien rouges.",
+"Il y a aussi de petites fleurs jaunes qui s'ouvrent chaque matin au soleil.",
+"L'odeur des fleurs est douce et attire souvent de petits papillons.",
+"J'aime prendre soin de ce jardin car les plantes sont naturelles et vivantes."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-065-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-065-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-065-01",
+"question": "Où se trouvent les magnifiques fleurs colorées ?",
+"reponses": [
+{ "id": "a", "texte": "Dans la salle de classe du lycée", "correcte": false },
+{ "id": "b", "texte": "Dans le jardin de la maison", "correcte": true },
+{ "id": "c", "texte": "Sur le bureau de Monsieur Robert", "correcte": false },
+{ "id": "d", "texte": "À côté de la caisse numéro trois", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-065-02",
+"question": "Quelles fleurs poussent le long de l'allée en pierre ?",
+"reponses": [
+{ "id": "a", "texte": "Des roses bien rouges", "correcte": true },
+{ "id": "b", "texte": "Des arbres fruitiers", "correcte": false },
+{ "id": "c", "texte": "Des carottes orange", "correcte": false },
+{ "id": "d", "texte": "Des plants de riz blanc", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-065-03",
+"question": "Quand les petites fleurs jaunes s'ouvrent-elles ?",
+"reponses": [
+{ "id": "a", "texte": "Chaque soir avant le dîner", "correcte": false },
+{ "id": "b", "texte": "Chaque matin au soleil", "correcte": true },
+{ "id": "c", "texte": "Seulement le dimanche après-midi", "correcte": false },
+{ "id": "d", "texte": "Pendant les grandes vacances scolaires", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-065-04",
+"question": "Quels petits insectes sont attirés par l'odeur douce des fleurs ?",
+"reponses": [
+{ "id": "a", "texte": "Des moutons blancs", "correcte": false },
+{ "id": "b", "texte": "Des petits canards", "correcte": false },
+{ "id": "c", "texte": "Des papillons", "correcte": true },
+{ "id": "d", "texte": "Des chiens de garde", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-065-05",
+"question": "Pourquoi l'auteur aime-t-il prendre soin de ce jardin ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que les plantes sont naturelles et vivantes", "correcte": true },
+{ "id": "b", "texte": "Parce que c'est le travail de son oncle", "correcte": false },
+{ "id": "c", "texte": "Parce qu'il veut utiliser sa balance électronique", "correcte": false },
+{ "id": "d", "texte": "Parce qu'il déteste la ville de Lyon", "correcte": false }
+]
+}
+]
+},
+{
+"id": "066",
+"titre": "Les arbres du parc",
+"titre2": "Exercice 66",
+"texte": [
+"Le parc de mon quartier possède de très grands arbres anciens.",
+"Leurs branches feuillues forment une zone d'ombre fraîche très agréable.",
+"Sous un grand chêne, il y a un banc en bois peint en vert.",
+"Je m'assois souvent sur ce banc pour lire tranquillement mes livres.",
+"Les arbres protègent du soleil et rendent l'air plus pur en ville."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-066-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-066-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-066-01",
+"question": "Comment sont les arbres du parc du quartier ?",
+"reponses": [
+{ "id": "a", "texte": "Petits et secs", "correcte": false },
+{ "id": "b", "texte": "Très grands et anciens", "correcte": true },
+{ "id": "c", "texte": "Récemment coupés par les voisins", "correcte": false },
+{ "id": "d", "texte": "Disposés en cercle dans le salon", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-066-02",
+"question": "Que forment les branches feuillues des arbres ?",
+"reponses": [
+{ "id": "a", "texte": "Une zone d'ombre fraîche", "correcte": true },
+{ "id": "b", "texte": "Une grande barrière métallique", "correcte": false },
+{ "id": "c", "texte": "Un grand sac bleu clair", "correcte": false },
+{ "id": "d", "texte": "Une nappe jaune pour la table", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-066-03",
+"question": "De quelle couleur est peint le banc en bois sous le chêne ?",
+"reponses": [
+{ "id": "a", "texte": "Bleu", "correcte": false },
+{ "id": "b", "texte": "Blanc", "correcte": false },
+{ "id": "c", "texte": "Vert", "correcte": true },
+{ "id": "d", "texte": "Rouge", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-066-04",
+"question": "Que fait l'auteur assis sur ce banc vert ?",
+"reponses": [
+{ "id": "a", "texte": "Il fait ses exercices de mathématiques", "correcte": false },
+{ "id": "b", "texte": "Il lit tranquillement ses livres", "correcte": true },
+{ "id": "c", "texte": "Il mange une pizza de restaurant", "correcte": false },
+{ "id": "d", "texte": "Il attend l'arrivée du train de Lyon", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-066-05",
+"question": "Quel est l'avantage des arbres selon la fin du texte ?",
+"reponses": [
+{ "id": "a", "texte": "Ils ferment les portes de la cantine", "correcte": false },
+{ "id": "b", "texte": "Ils écrivent des listes de courses", "correcte": false },
+{ "id": "c", "texte": "Ils protègent du soleil et rendent l'air plus pur", "correcte": true },
+{ "id": "d", "texte": "Ils coûtent deux euros seulement", "correcte": false }
+]
+}
+]
+},
+{
+"id": "067",
+"titre": "Une promenade en forêt",
+"titre2": "Exercice 67",
+"texte": [
+"Le samedi après-midi, je pars faire une longue promenade en forêt.",
+"Je marche calmement en écoutant les bruits de la nature sauvage.",
+"Le sol sous mes pieds est couvert de feuilles mortes marron et de terre.",
+"Je regarde de petits champignons qui poussent cachés au pied d'un arbre.",
+"C'est un endroit magnifique pour respirer l'air pur et se reposer l'esprit."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-067-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-067-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-067-01",
+"question": "Quand l'auteur fait-il sa promenade en forêt ?",
+"reponses": [
+{ "id": "a", "texte": "Le samedi après-midi", "correcte": true },
+{ "id": "b", "texte": "Le lundi matin très tôt", "correcte": false },
+{ "id": "c", "texte": "Le mercredi soir tard", "correcte": false },
+{ "id": "d", "texte": "Pendant la récréation de dix heures", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-067-02",
+"question": "Qu'est-ce que l'auteur écoute pendant sa marche ?",
+"reponses": [
+{ "id": "a", "texte": "Une chanson douce sur son téléphone", "correcte": false },
+{ "id": "b", "texte": "Les explications du jeune passant", "correcte": false },
+{ "id": "c", "texte": "Les bruits de la nature sauvage", "correcte": true },
+{ "id": "d", "texte": "Le cri des marchands du village", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-067-03",
+"question": "De quoi le sol de la forêt est-il couvert ?",
+"reponses": [
+{ "id": "a", "texte": "De sable chaud et jaune", "correcte": false },
+{ "id": "b", "texte": "De feuilles mortes marron et de terre", "correcte": true },
+{ "id": "c", "texte": "De morceaux de papier jaune", "correcte": false },
+{ "id": "d", "texte": "De chariots métalliques", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-067-04",
+"question": "Qu'est-ce qui pousse caché au pied d'un grand arbre ?",
+"reponses": [
+{ "id": "a", "texte": "Des petits champignons", "correcte": true },
+{ "id": "b", "texte": "Des tomates bien rouges", "correcte": false },
+{ "id": "c", "texte": "Des roses blanches parfumées", "correcte": false },
+{ "id": "d", "texte": "Des bananes douces et mûres", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-067-05",
+"question": "Pourquoi la forêt est-elle qualifiée d'endroit magnifique ?",
+"reponses": [
+{ "id": "a", "texte": "Pour respirer l'air pur et se reposer l'esprit", "correcte": true },
+{ "id": "b", "texte": "Pour trouver une station de métro", "correcte": false },
+{ "id": "c", "texte": "Pour acheter une paire de baskets noires", "correcte": false },
+{ "id": "d", "texte": "Pour préparer une sauce à l'huile d'olive", "correcte": false }
+]
+}
+]
+},
+{
+"id": "068",
+"titre": "Les oiseaux dans le ciel",
+"titre2": "Exercice 68",
+"texte": [
+"Depuis la fenêtre de ma chambre, j'aime regarder le ciel bleu le matin.",
+"Il y a souvent de petits oiseaux qui volent joyeusement au-dessus des arbres.",
+"Certains oiseaux noirs s'arrêtent un moment sur la clôture du jardin.",
+"On entend leur chant doux qui annonce le début d'une belle journée.",
+"Je trouve ce spectacle de la nature très apaisant et agréable à observer."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-068-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-068-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-068-01",
+"question": "Depuis quel endroit de la maison l'auteur regarde-t-il le ciel ?",
+"reponses": [
+{ "id": "a", "texte": "Depuis le garage derrière la maison", "correcte": false },
+{ "id": "b", "texte": "Depuis la fenêtre de sa chambre", "correcte": true },
+{ "id": "c", "texte": "Depuis le grand canapé bleu du salon", "correcte": false },
+{ "id": "d", "texte": "Depuis la table de la cuisine moderne", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-068-02",
+"question": "Où volent joyeusement les petits oiseaux le matin ?",
+"reponses": [
+{ "id": "a", "texte": "Au-dessus des arbres", "correcte": true },
+{ "id": "b", "texte": "Dans la salle de bain", "correcte": false },
+{ "id": "c", "texte": "À l'intérieur du grand supermarché", "correcte": false },
+{ "id": "d", "texte": "Entre les lignes du tableau électronique", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-068-03",
+"question": "De quelle couleur sont les oiseaux qui s'arrêtent sur la clôture ?",
+"reponses": [
+{ "id": "a", "texte": "Verts", "correcte": false },
+{ "id": "b", "texte": "Blancs", "correcte": false },
+{ "id": "c", "texte": "Noirs", "correcte": true },
+{ "id": "d", "texte": "Roses", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-068-04",
+"question": "Qu'annonce le chant doux de ces petits oiseaux ?",
+"reponses": [
+{ "id": "a", "texte": "L'ouverture de la boulangerie", "correcte": false },
+{ "id": "b", "texte": "Le début d'une belle journée", "correcte": true },
+{ "id": "c", "texte": "La fermeture complète de l'école", "correcte": false },
+{ "id": "d", "texte": "L'arrivée du train en gare de Lyon", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-068-05",
+"question": "Comment l'auteur trouve-t-il ce spectacle de la nature ?",
+"reponses": [
+{ "id": "a", "texte": "Très stressant et bruyant", "correcte": false },
+{ "id": "b", "texte": "Compliqué à comprendre au réveil", "correcte": false },
+{ "id": "c", "texte": "Très apaisant et agréable", "correcte": true },
+{ "id": "d", "texte": "Mauvais pour la santé de sa peau", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "069",
+    "titre": "La vie des abeilles",
+    "titre2": "Exercice 69",
+    "texte": [
+      "Dans notre grand jardin, il y a beaucoup de petites abeilles jaunes et noires.",
+      "Elles volent d'une fleur à l'autre pour récolter le précieux nectar.",
+      "Elles travaillent ensemble toute la journée pour fabriquer du bon miel sucré.",
+      "Leur maison s'appelle une ruche et elle est située près du grand arbre.",
+      "Les abeilles sont très importantes pour la nature et il faut les protéger."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-069-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-069-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-069-01",
+        "question": "De quelle couleur sont les abeilles dans le jardin ?",
+        "reponses": [
+          { "id": "a", "texte": "Bleues et blanches", "correcte": false },
+          { "id": "b", "texte": "Jaunes et noires", "correcte": true },
+          { "id": "c", "texte": "Vertes et rouges", "correcte": false },
+          { "id": "d", "texte": "Entièrement grises", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-069-02",
+        "question": "Que récoltent les abeilles sur les fleurs ?",
+        "reponses": [
+          { "id": "a", "texte": "Des petites feuilles", "correcte": false },
+          { "id": "b", "texte": "De l'eau froide", "correcte": false },
+          { "id": "c", "texte": "Des graines de pommes", "correcte": false },
+          { "id": "d", "texte": "Le précieux nectar", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-069-03",
+        "question": "Qu'est-ce que les abeilles fabriquent ensemble ?",
+        "reponses": [
+          { "id": "a", "texte": "Du bon miel sucré", "correcte": true },
+          { "id": "b", "texte": "Du sirop pour la toux", "correcte": false },
+          { "id": "c", "texte": "De la confiture de fraise", "correcte": false },
+          { "id": "d", "texte": "Des bonbons acidulés", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-069-04",
+        "question": "Comment s'appelle la maison des abeilles ?",
+        "reponses": [
+          { "id": "a", "texte": "Une écurie", "correcte": false },
+          { "id": "b", "texte": "Un nid de paille", "correcte": false },
+          { "id": "c", "texte": "Une ruche", "correcte": true },
+          { "id": "d", "texte": "Un garage blanc", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-069-05",
+        "question": "Pourquoi les abeilles sont-elles importantes selon le texte ?",
+        "reponses": [
+          { "id": "a", "texte": "Parce qu'elles font du bruit", "correcte": false },
+          { "id": "b", "texte": "Parce qu'elles courent vite", "correcte": false },
+          { "id": "c", "texte": "Parce qu'elles nettoient les routes", "correcte": false },
+          { "id": "d", "texte": "Parce qu'elles sont importantes pour la nature", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "070",
+    "titre": "Protéger notre environnement",
+    "titre2": "Exercice 70",
+    "texte": [
+      "Chaque jour, je fais des gestes simples pour protéger la planète Terre.",
+      "Dans ma cuisine, je jette le plastique et le papier dans des poubelles différentes.",
+      "Quand je quitte ma chambre, j'éteins toujours la lumière pour économiser l'énergie.",
+      "Je ne jette jamais de déchets par terre dans la rue ou dans le parc du quartier.",
+      "Ces petites actions quotidiennes sont très faciles et importantes pour l'avenir."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-070-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-070-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-070-01",
+        "question": "Quelle planète l'auteur veut-il protéger ?",
+        "reponses": [
+          { "id": "a", "texte": "La planète Mars", "correcte": false },
+          { "id": "b", "texte": "La planète Terre", "correcte": true },
+          { "id": "c", "texte": "La Lune blanche", "correcte": false },
+          { "id": "d", "texte": "Le Soleil chaud", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-070-02",
+        "question": "Que fait l'auteur dans sa cuisine pour les déchets ?",
+        "reponses": [
+          { "id": "a", "texte": "Il jette tout par terre", "correcte": false },
+          { "id": "b", "texte": "Il brûle le carton", "correcte": false },
+          { "id": "c", "texte": "Il trie le plastique et le papier", "correcte": true },
+          { "id": "d", "texte": "Il lave les emballages salis", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-070-03",
+        "question": "Que fait-il quand il quitte sa chambre ?",
+        "reponses": [
+          { "id": "a", "texte": "Il ferme la porte à clé", "correcte": false },
+          { "id": "b", "texte": "Il allume la télévision", "correcte": false },
+          { "id": "c", "texte": "Il ouvre les rideaux blancs", "correcte": false },
+          { "id": "d", "texte": "Il éteins la lumière", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-070-04",
+        "question": "Où l'auteur ne jette-t-il jamais de déchets ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans la rue ou dans le parc", "correcte": true },
+          { "id": "b", "texte": "Dans les poubelles jaunes", "correcte": false },
+          { "id": "c", "texte": "Derrière le garage en bois", "correcte": false },
+          { "id": "d", "texte": "À la déchetterie du village", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-070-05",
+        "question": "Comment sont qualifiées ces petites actions ?",
+        "reponses": [
+          { "id": "a", "texte": "Très faciles et importantes", "correcte": true },
+          { "id": "b", "texte": "Compliquées et fatigantes", "correcte": false },
+          { "id": "c", "texte": "Uniquement pour les enfants", "correcte": false },
+          { "id": "d", "texte": "Mauvaises pour l'économie", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "071",
+    "titre": "Chez le médecin",
+    "titre2": "Exercice 71",
+    "texte": [
+      "Ce matin, j'ai rendez-vous chez le médecin de famille dans son cabinet.",
+      "Le docteur m'accueille gentiment et me demande d'entrer dans la pièce.",
+      "Il utilise un stéthoscope froid pour écouter attentivement mon cœur.",
+      "Ensuite, il regarde le fond de ma gorge avec une petite lampe de poche.",
+      "Il me dit que tout va bien et me donne une ordonnance pour des vitamines."
+    ],
+    "audios": [
+      {
+        "id": "audio-fr-read-a1-071-1",
+        "personnage": "Julie",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-fr-read-a1-071-2",
+        "personnage": "Potin",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a1-071-01",
+        "question": "Quand l'auteur a-t-il rendez-vous chez le médecin ?",
+        "reponses": [
+          { "id": "a", "texte": "Le soir tard", "correcte": false },
+          { "id": "b", "texte": "Le dimanche après-midi", "correcte": false },
+          { "id": "c", "texte": "Ce matin", "correcte": true },
+          { "id": "d", "texte": "Pendant la récréation", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-071-02",
+        "question": "Quel outil le docteur utilise-t-il pour écouter le cœur ?",
+        "reponses": [
+          { "id": "a", "texte": "Une balance électronique", "correcte": false },
+          { "id": "b", "texte": "Un stéthoscope froid", "correcte": true },
+          { "id": "c", "texte": "Une grande règle en bois", "correcte": false },
+          { "id": "d", "texte": "Un thermomètre médical", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-071-03",
+        "question": "Quelle partie du corps le médecin regarde-t-il avec une petite lampe ?",
+        "reponses": [
+          { "id": "a", "texte": "Le fond de la gorge", "correcte": true },
+          { "id": "b", "texte": "Les doigts de la main", "correcte": false },
+          { "id": "c", "texte": "Le pied droit", "correcte": false },
+          { "id": "d", "texte": "Le bras gauche", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a1-071-04",
+        "question": "Quelle est la conclusion du médecin après l'examen ?",
+        "reponses": [
+          { "id": "a", "texte": "Il dit que l'auteur est gravement malade", "correcte": false },
+          { "id": "b", "texte": "Il demande de faire une prise de sang", "correcte": false },
+          { "id": "c", "texte": "Il dit que tout va bien", "correcte": true },
+{ "id": "d", "texte": "Il ne dit absolument rien", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-071-05",
+"question": "Que donne le médecin à la fin de la visite ?",
+"reponses": [
+{ "id": "a", "texte": "Une ordonnance pour des vitamines", "correcte": true },
+{ "id": "b", "texte": "Un grand sac à dos bleu", "correcte": false },
+{ "id": "c", "texte": "Un billet de cinq euros", "correcte": false },
+{ "id": "d", "texte": "Un sachet de bonbons", "correcte": false }
+]
+}
+]
+},
+{
+"id": "072",
+"titre": "Une visite chez le dentiste",
+"titre2": "Exercice 72",
+"texte": [
+"Une fois par an, je vais chez le dentiste pour vérifier mes dents.",
+"Je m'assois sur un très grand fauteuil confortable au milieu de la pièce.",
+"Le dentiste regarde mes dents une par une avec un petit miroir rond.",
+"Il me dit que je n'ai pas de carie car je me brosse bien les dents.",
+"Il me conseille de continuer à utiliser ma brosse à dents après chaque repas."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-072-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-072-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-072-01",
+"question": "À quelle fréquence l'auteur va-t-il chez le dentiste ?",
+"reponses": [
+{ "id": "a", "texte": "Chaque semaine", "correcte": false },
+{ "id": "b", "texte": "Une fois par an", "correcte": true },
+{ "id": "c", "texte": "Tous les deux mois", "correcte": false },
+{ "id": "d", "texte": "Seulement en été", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-072-02",
+"question": "Où s'assied l'auteur dans le cabinet du dentiste ?",
+"reponses": [
+{ "id": "a", "texte": "Sur une petite chaise en bois", "correcte": false },
+{ "id": "b", "texte": "Par terre sur un tapis vert", "correcte": false },
+{ "id": "c", "texte": "Sur un très grand fauteuil confortable", "correcte": true },
+{ "id": "d", "texte": "Derrière le bureau du médecin", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-072-03",
+"question": "Quel outil le dentiste utilise-t-il pour regarder les dents ?",
+"reponses": [
+{ "id": "a", "texte": "Un petit miroir rond", "correcte": true },
+{ "id": "b", "texte": "Une grande lampe de bureau", "correcte": false },
+{ "id": "c", "texte": "Une loupe électronique", "correcte": false },
+{ "id": "d", "texte": "Un stéthoscope en métal", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-072-04",
+"question": "Pourquoi l'auteur n'a-t-il pas de carie ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'il mange beaucoup de sucre", "correcte": false },
+{ "id": "b", "texte": "Parce qu'il ne va pas à l'école", "correcte": false },
+{ "id": "c", "texte": "Parce qu'il se brosse bien les dents", "correcte": true },
+{ "id": "d", "texte": "Parce qu'il boit uniquement du lait", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-072-05",
+"question": "Quand le dentiste conseille-t-il de se brosser les dents ?",
+"reponses": [
+{ "id": "a", "texte": "Uniquement le dimanche matin", "correcte": false },
+{ "id": "b", "texte": "Après chaque repas", "correcte": true },
+{ "id": "c", "texte": "Avant de faire du sport au parc", "correcte": false },
+{ "id": "d", "texte": "Pendant la récréation de 10h00", "correcte": false }
+]
+}
+]
+},
+{
+"id": "073",
+"titre": "Mon corps",
+"titre2": "Exercice 73",
+"texte": [
+"Mon corps est fort et il me permet de faire beaucoup de mouvements.",
+"J'ai deux bras pour porter mon sac à dos et attraper des objets.",
+"Mes deux jambes et mes pieds sont parfaits pour courir et jouer au football.",
+"Au bout de mes mains, j'ai dix doigts pour écrire mes leçons de français.",
+"Pour garder mon corps en bonne santé, je mange bien et je fais du sport."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-073-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-073-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-073-01",
+"question": "À quoi servent les deux bras selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "À courir très vite", "correcte": false },
+{ "id": "b", "texte": "À porter le sac à dos et attraper des objets", "correcte": true },
+{ "id": "c", "texte": "À écouter de la musique", "correcte": false },
+{ "id": "d", "texte": "À regarder les cartes du monde", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-073-02",
+"question": "Quelles parties sont parfaites pour jouer au football ?",
+"reponses": [
+{ "id": "a", "texte": "Les bras et les mains", "correcte": false },
+{ "id": "b", "texte": "Les oreilles et le nez", "correcte": false },
+{ "id": "c", "texte": "Les deux jambes et les pieds", "correcte": true },
+{ "id": "d", "texte": "Les dix doigts uniquement", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-073-03",
+"question": "Combien de doigts l'auteur a-t-il au bout de ses mains ?",
+"reponses": [
+{ "id": "a", "texte": "Cinq doigts", "correcte": false },
+{ "id": "b", "texte": "Huit doigts", "correcte": false },
+{ "id": "c", "texte": "Dix doigts", "correcte": true },
+{ "id": "d", "texte": "Vingt doigts", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-073-04",
+"question": "À quoi servent les dix doigts de la main ?",
+"reponses": [
+{ "id": "a", "texte": "À courir au parc", "correcte": false },
+{ "id": "b", "texte": "À écrire les leçons de français", "correcte": true },
+{ "id": "c", "texte": "À sauter sur le lit", "correcte": false },
+{ "id": "d", "texte": "À manger de la soupe", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-073-05",
+"question": "Que fait l'auteur pour garder son corps en bonne santé ?",
+"reponses": [
+{ "id": "a", "texte": "Il mange bien et fait du sport", "correcte": true },
+{ "id": "b", "texte": "Il reste couché toute la journée", "correcte": false },
+{ "id": "c", "texte": "Il refuse d'aller chez le médecin", "correcte": false },
+{ "id": "d", "texte": "Il jette ses médicaments", "correcte": false }
+]
+}
+]
+},
+{
+"id": "074",
+"titre": "Les parties du visage",
+"titre2": "Exercice 74",
+"texte": [
+"Quand je me regarde dans le miroir de la salle de bain, je vois mon visage.",
+"J'ai deux grands yeux marron pour voir le monde et lire mes livres.",
+"Au milieu, il y a mon petit nez pour sentir l'odeur du pain chaud.",
+"J'ai une bouche pour parler en français, rire avec mes amis et manger.",
+"De chaque côté de ma tête, mes deux oreilles me permettent d'entendre la musique."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-074-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-074-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-074-01",
+"question": "Où l'auteur regarde-t-il son visage ?",
+"reponses": [
+{ "id": "a", "texte": "Dans un livre de classe", "correcte": false },
+{ "id": "b", "texte": "Dans le miroir de la salle de bain", "correcte": true },
+{ "id": "c", "texte": "Sur l'ordinateur portable", "correcte": false },
+{ "id": "d", "texte": "Sur une carte géographique", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-074-02",
+"question": "De quelle couleur sont les yeux de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Bleus", "correcte": false },
+{ "id": "b", "texte": "Verts", "correcte": false },
+{ "id": "c", "texte": "Marron", "correcte": true },
+{ "id": "d", "texte": "Noirs", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-074-03",
+"question": "À quoi sert le petit nez situé au milieu du visage ?",
+"reponses": [
+{ "id": "a", "texte": "À sentir l'odeur du pain chaud", "correcte": true },
+{ "id": "b", "texte": "À regarder les images", "correcte": false },
+{ "id": "c", "texte": "À écouter le professeur", "correcte": false },
+{ "id": "d", "texte": "À croquer une pomme jaune", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-074-04",
+"question": "Quelle action l'auteur ne fait-il PAS avec sa bouche dans le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Parler en français", "correcte": false },
+{ "id": "b", "texte": "Rire avec ses amis", "correcte": false },
+{ "id": "c", "texte": "Manger", "correcte": false },
+{ "id": "d", "texte": "Entendre la musique", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-074-05",
+"question": "Où sont situées les deux oreilles ?",
+"reponses": [
+{ "id": "a", "texte": "Au-dessus des yeux", "correcte": false },
+{ "id": "b", "texte": "De chaque côté de la tête", "correcte": true },
+{ "id": "c", "texte": "Sous le menton", "correcte": false },
+{ "id": "d", "texte": "Au milieu du front", "correcte": false }
+]
+}
+]
+},
+{
+"id": "075",
+"titre": "Je suis malade",
+"titre2": "Exercice 75",
+"texte": [
+"Aujourd'hui, je ne vais pas à l'école car je suis un peu malade.",
+"J'ai de la fièvre, j'ai très chaud et ma tête est lourde et douloureuse.",
+"Maman m'apporte un grand verre d'eau fraîche et me dit de rester au lit.",
+"Le médecin va venir à la maison cet après-midi pour m'examiner.",
+"Je me repose calmement sous ma couverture en attendant sa visite."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-075-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-075-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-075-01",
+"question": "Pourquoi l'auteur ne va-t-il pas à l'école aujourd'hui ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que c'est le week-end", "correcte": false },
+{ "id": "b", "texte": "Parce qu'il est en vacances à la mer", "correcte": false },
+{ "id": "c", "texte": "Parce qu'il est un peu malade", "correcte": true },
+{ "id": "d", "texte": "Parce qu'il a oublié son sac", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-075-02",
+"question": "Quels sont les symptômes décrits par l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Il a de la fièvre, très chaud et mal à la tête", "correcte": true },
+{ "id": "b", "texte": "Il a mal aux dents et aux pieds", "correcte": false },
+{ "id": "c", "texte": "Il a faim et veut un gâteau", "correcte": false },
+{ "id": "d", "texte": "Il a froid aux mains uniquement", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-075-03",
+"question": "Que lui apporte sa maman dans sa chambre ?",
+"reponses": [
+{ "id": "a", "texte": "Un flacon de sirop rouge", "correcte": false },
+{ "id": "b", "texte": "Un grand verre d'eau fraîche", "correcte": true },
+{ "id": "c", "texte": "Une assiette de lasagnes chaud", "correcte": false },
+{ "id": "d", "texte": "Un cahier de dessin illustré", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-075-04",
+"question": "Où le médecin va-t-il examiner l'auteur cet après-midi ?",
+"reponses": [
+{ "id": "a", "texte": "À l'hôpital de la ville", "correcte": false },
+{ "id": "b", "texte": "Dans son cabinet médical", "correcte": false },
+{ "id": "c", "texte": "Directement à la maison", "correcte": true },
+{ "id": "d", "texte": "Dans la cour de l'école", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-075-05",
+"question": "Que fait l'auteur en attendant le médecin ?",
+"reponses": [
+{ "id": "a", "texte": "Il fait ses devoirs de mathématiques", "correcte": false },
+{ "id": "b", "texte": "Il se repose sous sa couverture", "correcte": true },
+{ "id": "c", "texte": "Il joue aux jeux vidéo avec Paul", "correcte": false },
+{ "id": "d", "texte": "Il prépare une salade verte", "correcte": false }
+]
+}
+]
+},
+{
+"id": "076",
+"titre": "Les vêtements pour chaque saison",
+"titre2": "Exercice 76",
+"texte": [
+"J'adapte toujours mes vêtements en fonction du temps et des saisons.",
+"En été, quand il fait très chaud, je mets un t-shirt blanc et un short.",
+"En hiver, lorsqu'il neige, je porte un gros manteau, un bonnet et des bottes.",
+"Au printemps, s'il y a un peu de vent, je choisis une veste légère.",
+"C'est important d'avoir la bonne tenue pour ne pas tomber malade."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-076-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-076-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-076-01",
+"question": "En fonction de quoi l'auteur adapte-t-il ses vêtements ?",
+"reponses": [
+{ "id": "a", "texte": "Du prix des étiquettes", "correcte": false },
+{ "id": "b", "texte": "De l'avis de ses camarades", "correcte": false },
+{ "id": "c", "texte": "Du temps et des saisons", "correcte": true },
+{ "id": "d", "texte": "De la taille de son sac", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-076-02",
+"question": "Que porte l'auteur en été lorsqu'il fait très chaud ?",
+"reponses": [
+{ "id": "a", "texte": "Un t-shirt blanc et un short", "correcte": true },
+{ "id": "b", "texte": "Un gros manteau en laine", "correcte": false },
+{ "id": "c", "texte": "Un pantalon en jean noir", "correcte": false },
+{ "id": "d", "texte": "Un pyjama de nuit gris", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-076-03",
+"question": "Quels vêtements l'auteur met-il en hiver quand il neige ?",
+"reponses": [
+{ "id": "a", "texte": "Une veste légère uniquement", "correcte": false },
+{ "id": "b", "texte": "Une robe de fête colorée", "correcte": false },
+{ "id": "c", "texte": "Un gros manteau, un bonnet et des bottes", "correcte": true },
+{ "id": "d", "texte": "Son maillot de natation bleu", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-076-04",
+"question": "Que choisit-il au printemps s'il y a du vent ?",
+"reponses": [
+{ "id": "a", "texte": "Une veste légère", "correcte": true },
+{ "id": "b", "texte": "Des chaussures abîmées", "correcte": false },
+{ "id": "c", "texte": "Un grand chapeau de soleil", "correcte": false },
+{ "id": "d", "texte": "Rien de particulier", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-076-05",
+"question": "Pourquoi est-ce important de bien choisir sa tenue ?",
+"reponses": [
+{ "id": "a", "texte": "Pour courir plus vite dans la cour", "correcte": false },
+{ "id": "b", "texte": "Pour ne pas tomber malade", "correcte": true },
+{ "id": "c", "texte": "Pour faire plaisir au marchand", "correcte": false },
+{ "id": "d", "texte": "Pour économiser ses billets", "correcte": false }
+]
+}
+]
+},
+{
+"id": "077",
+"titre": "Faire du sport pour rester en forme",
+"titre2": "Exercice 77",
+"texte": [
+"Faire du sport régulièrement est une excellente habitude pour ma santé.",
+"Le mardi soir, je cours pendant trente minutes dans les allées du parc.",
+"Le samedi après-midi, je joue souvent au football avec mes camarades.",
+"Le sport donne beaucoup de force à mes jambes et me vide la tête.",
+"Après chaque séance, je me sens très fatigué mais vraiment heureux."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-077-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-077-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-077-01",
+"question": "Pourquoi le sport est-il une excellente habitude ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que c'est obligatoire à l'école", "correcte": false },
+{ "id": "b", "texte": "Pour la santé de l'auteur", "correcte": true },
+{ "id": "c", "texte": "Pour dépenser tout son argent", "correcte": false },
+{ "id": "d", "texte": "Pour acheter des biscuits", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-077-02",
+"question": "Quand et où l'auteur court-il pendant trente minutes ?",
+"reponses": [
+{ "id": "a", "texte": "Le lundi matin à la gare", "correcte": false },
+{ "id": "b", "texte": "Le dimanche midi dans sa chambre", "correcte": false },
+{ "id": "c", "texte": "Le mardi soir dans les allées du parc", "correcte": true },
+{ "id": "d", "texte": "Le vendredi soir au bureau", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-077-03",
+"question": "Quel sport l'auteur pratique-t-il le samedi après-midi ?",
+"reponses": [
+{ "id": "a", "texte": "Il joue au football", "correcte": true },
+{ "id": "b", "texte": "Il fait de la natation à la plage", "correcte": false },
+{ "id": "c", "texte": "Il fait du vélo en forêt", "correcte": false },
+{ "id": "d", "texte": "Il joue aux jeux vidéo", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-077-04",
+"question": "Quelle partie du corps gagne de la force grâce au sport ?",
+"reponses": [
+{ "id": "a", "texte": "Les bras", "correcte": false },
+{ "id": "b", "texte": "Les dix doigts", "correcte": false },
+{ "id": "c", "texte": "Le nez", "correcte": false },
+{ "id": "d", "texte": "Les jambes", "correcte": true }
+]
+},
+{
+"id": "q-fr-read-a1-077-05",
+"question": "Comment l'auteur se feeling-t-il après sa séance de sport ?",
+"reponses": [
+{ "id": "a", "texte": "Fatigué mais vraiment heureux", "correcte": true },
+{ "id": "b", "texte": "En colère et stressé", "correcte": false },
+{ "id": "c", "texte": "Complètement malade avec de la fièvre", "correcte": false },
+{ "id": "d", "texte": "Prêt à manger des lasagnes", "correcte": false }
+]
+}
+]
+},
+{
+"id": "078",
+"titre": "Mes habitudes d'hygiène",
+"titre2": "Exercice 78",
+"texte": [
+"Pour rester propre et en bonne santé, j'ai une routine d'hygiène stricte.",
+"Chaque matin, je prends une douche tiède avec du savon parfumé.",
+"Je me lave soigneusement les mains avec du savon avant chaque repas.",
+"Le soir, après le dîner, je brosse mes dents pendant deux minutes.",
+"Ces gestes simples protègent mon corps des petites maladies quotidiennes."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-078-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-078-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-078-01",
+"question": "Comment est la douche que l'auteur prend chaque matin ?",
+"reponses": [
+{ "id": "a", "texte": "Glacée", "correcte": false },
+{ "id": "b", "texte": "Tiède", "correcte": true },
+{ "id": "c", "texte": "Très brûlante", "correcte": false },
+{ "id": "d", "texte": "Salée", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-078-02",
+"question": "Quand l'auteur se lave-t-il les mains avec du savon ?",
+"reponses": [
+{ "id": "a", "texte": "Après avoir dormi", "correcte": false },
+{ "id": "b", "texte": "Pendant le cours d'histoire", "correcte": false },
+{ "id": "c", "texte": "Avant chaque repas", "correcte": true },
+{ "id": "d", "texte": "Uniquement le samedi soir", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-078-03",
+"question": "Quand l'auteur se brosse-t-il les dents le soir ?",
+"reponses": [
+{ "id": "a", "texte": "Avant de préparer la soupe", "correcte": false },
+{ "id": "b", "texte": "Après le dîner", "correcte": true },
+{ "id": "c", "texte": "Pendant qu'il regarde un film", "correcte": false },
+{ "id": "d", "texte": "Juste avant de manger le gâteau", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-078-04",
+"question": "Combien de temps dure le brossage des dents le soir ?",
+"reponses": [
+{ "id": "a", "texte": "Cinq minutes", "correcte": false },
+{ "id": "b", "texte": "Une minute seulement", "correcte": false },
+{ "id": "c", "texte": "Deux minutes", "correcte": true },
+{ "id": "d", "texte": "Dix minutes complètes", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-078-05",
+"question": "Quel est le but principal de ces petits gestes d'hygiène ?",
+"reponses": [
+{ "id": "a", "texte": "Protéger le corps des petites maladies", "correcte": true },
+{ "id": "b", "texte": "Économiser les billets d'euros", "correcte": false },
+{ "id": "c", "texte": "Finir les devoirs plus rapidement", "correcte": false },
+{ "id": "d", "texte": "Faire plaisir au pharmacien", "correcte": false }
+]
+}
+]
+},
+{
+"id": "079",
+"titre": "Une bonne nuit de sommeil",
+"titre2": "Exercice 79",
+"texte": [
+"Le sommeil est indispensable pour donner de l'énergie à mon corps.",
+"Chaque soir, je me couche dans mon lit confortable à 21h30 précises.",
+"J'éteins ma petite lampe de bureau et je ferme les yeux dans le calme.",
+"Je dors environ huit heures par nuit sans me réveiller.",
+"Le lendemain matin, je me lève en pleine forme pour aller à l'école."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-079-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-079-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-079-01",
+"question": "Pourquoi le sommeil est-il indispensable selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Pour grandir les pieds", "correcte": false },
+{ "id": "b", "texte": "Pour donner de l'énergie au corps", "correcte": true },
+{ "id": "c", "texte": "Pour apprendre la grammaire française", "correcte": false },
+{ "id": "d", "texte": "Pour faire plaisir aux parents", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-079-02",
+"question": "À quelle heure précise l'auteur se couche-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "À 21h30", "correcte": true },
+{ "id": "b", "texte": "À 22h00", "correcte": false },
+{ "id": "c", "texte": "À 20h30", "correcte": false },
+{ "id": "d", "texte": "À minuit pile", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-079-03",
+"question": "Quelle lampe l'auteur éteint-il avant de fermer les yeux ?",
+"reponses": [
+{ "id": "a", "texte": "La grande lumière de la cuisine", "correcte": false },
+{ "id": "b", "texte": "Une lampe torche en métal", "correcte": false },
+{ "id": "c", "texte": "La petite lampe de bureau", "correcte": true },
+{ "id": "d", "texte": "La veilleuse du couloir", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-079-04",
+"question": "Combien d'heures l'auteur dort-il environ chaque nuit ?",
+"reponses": [
+{ "id": "a", "texte": "Cinq heures", "correcte": false },
+{ "id": "b", "texte": "Huit heures", "correcte": true },
+{ "id": "c", "texte": "Dix heures", "correcte": false },
+{ "id": "d", "texte": "Six heures seulement", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-079-05",
+"question": "Comment se lève-t-il le lendemain matin ?",
+"reponses": [
+{ "id": "a", "texte": "Très fatigué et en colère", "correcte": false },
+{ "id": "b", "texte": "Un peu malade avec de la fièvre", "correcte": false },
+{ "id": "c", "texte": "En pleine forme", "correcte": true },
+{ "id": "d", "texte": "Triste de quitter son lit", "correcte": false }
+]
+}
+]
+},
+{
+"id": "080",
+"titre": "Prendre soin de sa santé",
+"titre2": "Exercice 80",
+"texte": [
+"Prendre soin de sa santé demande de faire de bons choix au quotidien.",
+"Je bois beaucoup d'eau plate et j'évite les boissons trop sucrées.",
+"Je mange des fruits et des légumes frais provenant du marché ou du potager.",
+"Je marche au moins trente minutes par jour pour aller à l'école ou au bureau.",
+"Une bonne santé permet de vivre heureux et de profiter de la vie."
+],
+"audios": [
+{
+"id": "audio-fr-read-a1-080-1",
+"personnage": "Julie",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-fr-read-a1-080-2",
+"personnage": "Potin",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-fr-read-a1-080-01",
+"question": "Quelle boisson l'auteur boit-il en grande quantité ?",
+"reponses": [
+{ "id": "a", "texte": "Du jus d'orange industriel", "correcte": false },
+{ "id": "b", "texte": "De l'eau plate", "correcte": true },
+{ "id": "c", "texte": "Du lait de chèvre chaud", "correcte": false },
+{ "id": "d", "texte": "Du café avec beaucoup de sucre", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-080-02",
+"question": "Quelles boissons l'auteur évite-t-il dans sa routine ?",
+"reponses": [
+{ "id": "a", "texte": "Les boissons trop sucrées", "correcte": true },
+{ "id": "b", "texte": "L'eau fraîche de la cuisine", "correcte": false },
+{ "id": "c", "texte": "Le thé tiède du matin", "correcte": false },
+{ "id": "d", "texte": "Le lait de vache frais", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-080-03",
+"question": "D'où proviennent les fruits et légumes mangés par l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "D'un autre pays lointain", "correcte": false },
+{ "id": "b", "texte": "De la pharmacie du centre-ville", "correcte": false },
+{ "id": "c", "texte": "Du marché ou du potager", "correcte": true },
+{ "id": "d", "texte": "De la réserve du restaurant", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-080-04",
+"question": "Combien de temps l'auteur marche-t-il au moins chaque jour ?",
+"reponses": [
+{ "id": "a", "texte": "Dix minutes seulement", "correcte": false },
+{ "id": "b", "texte": "Une heure complète", "correcte": false },
+{ "id": "c", "texte": "Trente minutes", "correcte": true },
+{ "id": "d", "texte": "Il ne marche jamais", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a1-080-05",
+"question": "Que permet une bonne santé selon la phrase finale du texte ?",
+"reponses": [
+{ "id": "a", "texte": "D'acheter une grande armoire blanche", "correcte": false },
+{ "id": "b", "texte": "De vivre heureux et de profiter de la vie", "correcte": true },
+{ "id": "c", "texte": "De terminer l'école plus rapidement", "correcte": false },
+{ "id": "d", "texte": "De voyager gratuitement en train", "correcte": false }
+]
+}
+]
 }
 ]
