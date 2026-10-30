@@ -6968,5 +6968,735 @@
 ]
 }
 ]
+},
+{
+    "id": "091",
+    "titre": "My New Friend",
+    "titre2": "Exercise 091",
+    "texte": [
+      "Today, a new boy arrives in our English language classroom.",
+      "His name is Thomas, he is ten years old, and he comes from another city.",
+      "During the ten o'clock school break, I walk to him to talk and say hello.",
+      "He is very kind, polite, and he also enjoys playing football a lot.",
+      "I am happy because we decide to become good friends from this day on."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-091-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-091-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-091-01",
+        "question": "What is the name of the new boy in the classroom?",
+        "reponses": [
+          { "id": "a", "texte": "Lucas", "correcte": false },
+          { "id": "c", "texte": "Thomas", "correcte": true },
+          { "id": "d", "texte": "Nicolas", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-091-02",
+        "question": "How old is the new student according to the text?",
+        "reponses": [
+          { "id": "a", "texte": "Ten years old", "correcte": true },
+          { "id": "c", "texte": "Eight years old", "correcte": false },
+          { "id": "d", "texte": "Twelve years old", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-091-03",
+        "question": "When does the author walk over to talk to the new boy?",
+        "reponses": [
+          { "id": "a", "texte": "During the evening after school", "correcte": false },
+          { "id": "c", "texte": "During the ten o'clock school break", "correcte": true },
+          { "id": "d", "texte": "On Saturday afternoon at the park", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-091-04",
+        "question": "What specific game or activity does Thomas enjoy a lot?",
+        "reponses": [
+          { "id": "a", "texte": "Swimming at the sandy beach", "correcte": false },
+          { "id": "c", "texte": "Playing football", "correcte": true },
+          { "id": "d", "texte": "Riding his bicycle in the forest", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-091-05",
+        "question": "Why is the author feeling happy at the end of the text?",
+        "reponses": [
+          { "id": "a", "texte": "Because they decide to become good friends", "correcte": true },
+          { "id": "c", "texte": "Because he finished his math textbook", "correcte": false },
+          { "id": "d", "texte": "Because the school doors are fully closed", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "092",
+    "titre": "An Invitation to a Party",
+    "titre2": "Exercise 092",
+    "texte": [
+      "This morning, I receive a beautiful paper invitation card from Amara.",
+      "She is organizing a large party for her birthday on Saturday afternoon.",
+      "The fun party starts exactly at 14h30 in the green garden of her house.",
+      "I immediately search for a nice original gift idea inside my bedroom.",
+      "I am going to write a friendly note on a small card to make her happy."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-092-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-092-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-092-01",
+        "question": "Who sends the beautiful paper invitation card this morning?",
+        "reponses": [
+          { "id": "a", "texte": "Monsieur Robert", "correcte": false },
+          { "id": "c", "texte": "Amara", "correcte": true },
+          { "id": "d", "texte": "The friendly bus driver", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-092-02",
+        "question": "What is the main occasion for this large garden party?",
+        "reponses": [
+          { "id": "a", "texte": "The start of the winter season", "correcte": false },
+          { "id": "c", "texte": "Amara's birthday party", "correcte": true },
+          { "id": "d", "texte": "A celebration for the village festival", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-092-03",
+        "question": "At what exact time is the party scheduled to start?",
+        "reponses": [
+          { "id": "a", "texte": "Exactly at 14h30", "correcte": true },
+          { "id": "c", "texte": "At noon pile sharp", "correcte": false },
+          { "id": "d", "texte": "Exactly at 16h00", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-092-04",
+        "question": "Where does the author look for a gift idea?",
+        "reponses": [
+          { "id": "a", "texte": "Inside the neighborhood supermarket", "correcte": false },
+          { "id": "c", "texte": "Inside his bedroom", "correcte": true },
+          { "id": "d", "texte": "At the local village market stalls", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-092-05",
+        "question": "What will the author write on a small card to please her?",
+        "reponses": [
+          { "id": "a", "texte": "A friendly note", "correcte": true },
+          { "id": "c", "texte": "A complex French grammar rule", "correcte": false },
+          { "id": "d", "texte": "A list of fruit and product prices", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "093",
+    "titre": "At My Grandparents' House",
+    "titre2": "Exercise 093",
+    "texte": [
+      "On weekends, I love going to my grandparents' small quiet home.",
+      "My grandfather always waits for me by the door with a great smile.",
+      "My grandmother prepares a delicious hot apple cake in the kitchen.",
+      "We eat all together in the comfortable living room near the glass window.",
+      "It is a very calm and relaxing place that I enjoy visiting often."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-a1-093-1",
+        "personnage": "Amara",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-a1-093-2",
+        "personnage": "Rodolph",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a1-093-01",
+        "question": "When does the author usually visit his grandparents' home?",
+        "reponses": [
+          { "id": "a", "texte": "On weekends", "correcte": true },
+          { "id": "c", "texte": "On Monday mornings early", "correcte": false },
+          { "id": "d", "texte": "Every single Thursday afternoon", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-093-02",
+        "question": "Where does the grandfather stand to wait for the author?",
+        "reponses": [
+          { "id": "a", "texte": "Inside the closed car garage", "correcte": false },
+          { "id": "c", "texte": "By the door", "correcte": true },
+          { "id": "d", "texte": "In the middle of the dark fields", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-093-03",
+        "question": "What sweet treat is the grandmother preparing in the kitchen?",
+        "reponses": [
+          { "id": "a", "texte": "A chocolate biscuit pack", "correcte": false },
+          { "id": "c", "texte": "A delicious hot apple cake", "correcte": true },
+          { "id": "d", "texte": "A fresh sweet strawberry pie", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-093-04",
+        "question": "Where does the family sit together to enjoy the cake?",
+        "reponses": [
+          { "id": "a", "texte": "In the comfortable living room", "correcte": true },
+          { "id": "c", "texte": "On a wooden bench in the park", "correcte": false },
+          { "id": "d", "texte": "Behind the main ticket counter", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a1-093-05",
+        "question": "How is the grandparents' house described at the end?",
+        "reponses": [
+          { "id": "a", "texte": "A very calm and relaxing place", "correcte": true },
+          { "id": "c", "texte": "Extremely noisy, dark, and narrow", "correcte": false },
+          { "id": "d", "texte": "Too expensive for the family budget", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "094",
+    "titre": "A Letter to My Friend",
+    "titre2": "Exercise 094",
+    "texte": [
+      "Today, I decide to write a long friendly letter to my friend Nicolas.",
+      "I sit down at my wooden study desk and take a clean sheet of white paper.",
+      "Using my blue ink pen, I tell him about my routine and English lessons.",
+      "I ask for his news and how he is spending his sunny summer holidays.",
+      "I put the sheet inside a square envelope and glue a red stamp on it."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-094-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-094-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-094-01",
+"question": "To which friend is the author writing a letter today?",
+"reponses": [
+{ "id": "a", "texte": "To Thomas the new student", "correcte": false },
+{ "id": "c", "texte": "To his friend Nicolas", "correcte": true },
+{ "id": "d", "texte": "To Paul his classroom classmate", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-094-02",
+"question": "What color is the clean sheet of paper chosen by the author?",
+"reponses": [
+{ "id": "a", "texte": "Bright yellow", "correcte": false },
+{ "id": "c", "texte": "Light green", "correcte": false },
+{ "id": "d", "texte": "White", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-094-03",
+"question": "What type of pen does the author use to write his text?",
+"reponses": [
+{ "id": "a", "texte": "A blue ink pen", "correcte": true },
+{ "id": "c", "texte": "A dark grey pencil", "correcte": false },
+{ "id": "d", "texte": "A bright red marker", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-094-04",
+"question": "What specific topic does the author ask Nicolas about?",
+"reponses": [
+{ "id": "a", "texte": "His sunny summer holidays", "correcte": true },
+{ "id": "c", "texte": "His appointment with the dentist", "correcte": false },
+{ "id": "d", "texte": "His experience at the clothing store", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-094-05",
+"question": "What color is the postage stamp glued onto the envelope?",
+"reponses": [
+{ "id": "a", "texte": "Soft white", "correcte": false },
+{ "id": "c", "texte": "Red", "correcte": true },
+{ "id": "d", "texte": "Dark grey", "correcte": false }
+]
+}
+]
+},
+{
+"id": "095",
+"titre": "A Phone Call",
+"titre2": "Exercise 095",
+"texte": [
+"In the evening at 18h00, my portable phone rings in my quiet bedroom.",
+"It is Rodolph calling me to chat about our interesting school day.",
+"We talk happily for ten minutes about the difficult math exercises.",
+"He kindly explains a complex problem that I did not fully understand.",
+"Before hanging up, I say thank you and wish him a very good evening."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-095-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-095-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-095-01",
+"question": "At what exact time does the author's portable phone ring?",
+"reponses": [
+{ "id": "a", "texte": "Exactly at noon sharp", "correcte": false },
+{ "id": "c", "texte": "At 18h00", "correcte": true },
+{ "id": "d", "texte": "Exactly at 21h30", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-095-02",
+"question": "Who calls the author on his phone this evening?",
+"reponses": [
+{ "id": "a", "texte": "The family doctor", "correcte": false },
+{ "id": "c", "texte": "Rodolph", "correcte": true },
+{ "id": "d", "texte": "The local market merchant", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-095-03",
+"question": "How long does the phone conversation last between the friends?",
+"reponses": [
+{ "id": "a", "texte": "Ten minutes", "correcte": true },
+{ "id": "c", "texte": "One full hour straight", "correcte": false },
+{ "id": "d", "texte": "Five short minutes only", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-095-04",
+"question": "Which school subject do they talk about during the call?",
+"reponses": [
+{ "id": "a", "texte": "Art and drawing class", "correcte": false },
+{ "id": "c", "texte": "Complex geography world maps", "correcte": false },
+{ "id": "d", "texte": "Math", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-095-05",
+"question": "What does the author wish his friend before ending the call?",
+"reponses": [
+{ "id": "a", "texte": "A very good evening", "correcte": true },
+{ "id": "c", "texte": "A safe fast train trip", "correcte": false },
+{ "id": "d", "texte": "A happy tenth birthday celebration", "correcte": false }
+]
+}
+]
+},
+{
+"id": "096",
+"titre": "My Village Festival",
+"titre2": "Exercise 096",
+"texte": [
+"Every year in summer, there is a large festival on our village square.",
+"Local merchants set up colorful stands to sell sweet cakes and fresh fruits.",
+"There is joyful music playing, and all the neighbors talk happily together.",
+"Little children play fun games with green and red balloons in the open area.",
+"I love this festive day because the atmosphere is friendly and very active."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-096-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-096-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-096-01",
+"question": "During which season does the village festival take place?",
+"reponses": [
+{ "id": "a", "texte": "In the cold winter", "correcte": false },
+{ "id": "c", "texte": "In summer", "correcte": true },
+{ "id": "d", "texte": "During the mild spring", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-096-02",
+"question": "Where do the merchants set up their colorful stands?",
+"reponses": [
+{ "id": "a", "texte": "Behind the local train track line", "correcte": false },
+{ "id": "c", "texte": "On our village square", "correcte": true },
+{ "id": "d", "texte": "Inside the quiet school library", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-096-03",
+"question": "What items do the merchants sell on their festive stands?",
+"reponses": [
+{ "id": "a", "texte": "Summer clothing items", "correcte": false },
+{ "id": "c", "texte": "White paper drawing sketchbooks", "correcte": false },
+{ "id": "d", "texte": "Sweet cakes and fresh fruits", "correcte": true }
+]
+},
+{
+"id": "q-en-read-a1-096-04",
+"question": "What do the little children play with during the festival?",
+"reponses": [
+{ "id": "a", "texte": "Green and red balloons", "correcte": true },
+{ "id": "c", "texte": "Cold metallic medical tools", "correcte": false },
+{ "id": "d", "texte": "Heavy wooden garden objects", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-096-05",
+"question": "How is the atmosphere of this village festival described?",
+"reponses": [
+{ "id": "a", "texte": "Silent, dark, and very sad", "correcte": false },
+{ "id": "c", "texte": "Friendly and very active", "correcte": true },
+{ "id": "d", "texte": "Too complicated and strict", "correcte": false }
+]
+}
+]
+},
+{
+"id": "097",
+"titre": "Helping a Neighbor",
+"titre2": "Exercise 097",
+"texte": [
+"This afternoon, I decide to help my old neighbor named Monsieur Martin.",
+"He has a very heavy grocery bag to carry all the way to his white house.",
+"I gently take the large bag in my strong arms to relieve his tired hands.",
+"He thanks me warmly with a kind smile at the end of our street block.",
+"Helping other people is a simple action that makes you happy and responsible."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-097-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-097-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-097-01",
+"question": "What is the name of the author's old neighbor?",
+"reponses": [
+{ "id": "a", "texte": "Monsieur Robert", "correcte": false },
+{ "id": "c", "texte": "Monsieur Martin", "correcte": true },
+{ "id": "d", "texte": "Monsieur Lucas", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-097-02",
+"question": "What item is too heavy for the old neighbor to carry alone?",
+"reponses": [
+{ "id": "a", "texte": "A very heavy grocery bag", "correcte": true },
+{ "id": "c", "texte": "A grey bedroom wardrobe chest", "correcte": false },
+{ "id": "d", "texte": "A large electronic display board", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-097-03",
+"question": "What color is the house of the old neighbor?",
+"reponses": [
+{ "id": "a", "texte": "White", "correcte": true },
+{ "id": "c", "texte": "Light blue", "correcte": false },
+{ "id": "d", "texte": "Bright red", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-097-04",
+"question": "How does Monsieur Martin thank the author at the end of the street?",
+"reponses": [
+{ "id": "a", "texte": "By offering a crisp five euro bill", "correcte": false },
+{ "id": "c", "texte": "Warmly with a kind smile", "correcte": true },
+{ "id": "d", "texte": "By giving him a slice of apple cake", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-097-05",
+"question": "What positive feelings does helping others bring to the author?",
+"reponses": [
+{ "id": "a", "texte": "It makes you feel tired and sick", "correcte": false },
+{ "id": "c", "texte": "It makes you happy and responsible", "correcte": true },
+{ "id": "d", "texte": "It creates a lot of school stress", "correcte": false }
+]
+}
+]
+},
+{
+"id": "098",
+"titre": "A Visit to a Friend's House",
+"titre2": "Exercise 098",
+"texte": [
+"On Saturday afternoon, I am making a nice visit to my friend Amara's house.",
+"I live very close to her home, so I walk safely for five short minutes.",
+"She opens the front entry door with joy and invites me into her living room.",
+"We play a very fun board game together on the low coffee table.",
+"Before I leave, her mother brings us some bread with butter and juice."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-098-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-098-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-098-01",
+"question": "Which friend's home is the author visiting on Saturday afternoon?",
+"reponses": [
+{ "id": "a", "texte": "Sophie's house", "correcte": false },
+{ "id": "c", "texte": "Amara's house", "correcte": true },
+{ "id": "d", "texte": "Julie's apartment", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-098-02",
+"question": "How long does it take the author to walk to her home?",
+"reponses": [
+{ "id": "a", "texte": "Ten full minutes straight", "correcte": false },
+{ "id": "c", "texte": "Five short minutes", "correcte": true },
+{ "id": "d", "texte": "An entire hour of walking", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-098-03",
+"question": "In which room does Amara invite the author to sit down?",
+"reponses": [
+{ "id": "a", "texte": "In the living room", "correcte": true },
+{ "id": "c", "texte": "Inside her modern kitchen", "correcte": false },
+{ "id": "d", "texte": "Inside her quiet bedroom space", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-098-04",
+"question": "What type of game do the two friends play on the table?",
+"reponses": [
+{ "id": "a", "texte": "A soccer game with a ball", "correcte": false },
+{ "id": "c", "texte": "A very fun board game", "correcte": true },
+{ "id": "d", "texte": "They do not play any fun games", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-098-05",
+"question": "What snack does Amara's mother serve them before the author leaves?",
+"reponses": [
+{ "id": "a", "texte": "Some bread with butter and juice", "correcte": true },
+{ "id": "c", "texte": "A prescription box of vitamins", "correcte": false },
+{ "id": "d", "texte": "An illustrated book about birds", "correcte": false }
+]
+}
+]
+},
+{
+"id": "099",
+"titre": "Saying Hello and Goodbye",
+"titre2": "Exercise 099",
+"texte": [
+"Being polite to people is a very important rule inside my family.",
+"In the morning, when I arrive at school, I always say hello to my teacher.",
+"I also greet my classroom classmates with a large friendly smile.",
+"In the evening, before leaving the desk room, I say goodbye to everyone.",
+"These simple words show real respect and allow us to live well together."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-099-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-099-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-099-01",
+"question": "Where is being polite considered an important rule for the author?",
+"reponses": [
+{ "id": "a", "texte": "Only at the modern clothes store", "correcte": false },
+{ "id": "c", "texte": "Inside the author's family", "correcte": true },
+{ "id": "d", "texte": "At the city bus corner stop", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-099-02",
+"question": "Who does the author say hello to when arriving at school?",
+"reponses": [
+{ "id": "a", "texte": "The shoe store merchant worker", "correcte": false },
+{ "id": "c", "texte": "His teacher", "correcte": true },
+{ "id": "d", "texte": "His old neighbor Monsieur Martin", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-099-03",
+"question": "How does the author greet his classmates in the morning?",
+"reponses": [
+{ "id": "a", "texte": "With a large friendly smile", "correcte": true },
+{ "id": "c", "texte": "By making a loud sound in the air", "correcte": false },
+{ "id": "d", "texte": "By giving them sweet fruit pieces", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-099-04",
+"question": "What word does the author use in the evening before leaving?",
+"reponses": [
+{ "id": "a", "texte": "He says thank you", "correcte": false },
+{ "id": "c", "texte": "He says goodbye", "correcte": true },
+{ "id": "d", "texte": "He says good night", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-099-05",
+"question": "What do these simple polite words show according to the text?",
+"reponses": [
+{ "id": "a", "texte": "They show real respect", "correcte": true },
+{ "id": "c", "texte": "They show schoolroom fatigue", "correcte": false },
+{ "id": "d", "texte": "They show a very bad mood", "correcte": false }
+]
+}
+]
+},
+{
+"id": "100",
+"titre": "My First Day in a New City",
+"titre2": "Exercise 100",
+"texte": [
+"Today, I am spending my very first day inside this large exciting city.",
+"I step out of the central metro station and look at the grand modern buildings.",
+"The streets are fully active with many grey cars and walking passants.",
+"I walk calmly toward the wide central park to sit down in the shade.",
+"It is a fascinating new step that begins here for my university studies."
+],
+"audios": [
+{
+"id": "audio-en-read-a1-100-1",
+"personnage": "Amara",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-a1-100-2",
+"personnage": "Rodolph",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-a1-100-01",
+"question": "What type of place is the author discovering today?",
+"reponses": [
+{ "id": "a", "texte": "A calm sandy beach by the sea", "correcte": false },
+{ "id": "c", "texte": "A large exciting city", "correcte": true },
+{ "id": "d", "texte": "A quiet little forest village", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-100-02",
+"question": "Where does the author step out from at the start of his day?",
+"reponses": [
+{ "id": "a", "texte": "The local village bus stop", "correcte": false },
+{ "id": "c", "texte": "The central metro station", "correcte": true },
+{ "id": "d", "texte": "The international airport gate", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-100-03",
+"question": "How are the buildings described by the author in the street?",
+"reponses": [
+{ "id": "a", "texte": "They are grand and modern", "correcte": true },
+{ "id": "c", "texte": "They are small old wooden huts", "correcte": false },
+{ "id": "d", "texte": "They are fully closed and empty", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-100-04",
+"question": "Where does the author walk calmly to sit down in the shade?",
+"reponses": [
+{ "id": "a", "texte": "To the local pharmacy store", "correcte": false },
+{ "id": "c", "texte": "Toward the wide central park", "correcte": true },
+{ "id": "d", "texte": "To his grandparents' kitchen", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a1-100-05",
+"question": "What is the primary reason the author is starting this new step here?",
+"reponses": [
+{ "id": "a", "texte": "For his university studies", "correcte": true },
+{ "id": "c", "texte": "To find a job as a boucher", "correcte": false },
+{ "id": "d", "texte": "To treat a bad fever symptom", "correcte": false }
+]
+}
+]
 }
 ]
