@@ -1,9 +1,434 @@
-{
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
-}
+[
+    {
+        "id": "001",
+        "titre": "Adjectifs",
+        "definition": "Complétez les phrases avec l’adjectif approprié en tenant compte du sens et du contexte.",
+        "instruction": "Remplissez les blancs en tapant l’adjectif correct. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "La décision du comité a été particulièrement {{1}}, car elle a permis de résoudre rapidement le problème.", "answers": ["pertinente"]},
+            {"text": "Malgré les difficultés rencontrées, l’équipe est restée {{1}} et a poursuivi son travail.", "answers": ["déterminée"]},
+            {"text": "Cette analyse présente une vision très {{1}} des conséquences économiques de la réforme.", "answers": ["nuancée"]},
+            {"text": "Le directeur a adopté une attitude {{1}} face aux critiques formulées par les employés.", "answers": ["constructive"]},
+            {"text": "Les résultats obtenus sont particulièrement {{1}} compte tenu des ressources disponibles.", "answers": ["satisfaisants"]},
+            {"text": "Cette question est trop {{1}} pour être traitée dans le cadre de cette courte réunion.", "answers": ["complexe"]},
+            {"text": "Le chercheur a présenté une explication {{1}} fondée sur plusieurs années d’observation.", "answers": ["rigoureuse"]},
+            {"text": "La situation demeure {{1}}, malgré les mesures prises par les autorités.", "answers": ["préoccupante"]},
+            {"text": "Son intervention a été particulièrement {{1}} et a permis de convaincre plusieurs participants.", "answers": ["convaincante"]},
+            {"text": "Il faut adopter une approche {{1}} afin de prendre en compte l’ensemble des conséquences du projet.", "answers": ["globale"]}
+        ]
+    },
+    {
+        "id": "002",
+        "titre": "Prépositions",
+        "definition": "Complétez les phrases avec la préposition appropriée selon la construction grammaticale et le contexte.",
+        "instruction": "Remplissez les blancs en tapant la préposition correcte. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Cette mesure contribue {{1}} améliorer l’efficacité du dispositif.", "answers": ["à"]},
+            {"text": "Le directeur est favorable {{1}} une réforme progressive du système.", "answers": ["à"]},
+            {"text": "La réussite du projet dépend largement {{1}} la qualité de sa mise en œuvre.", "answers": ["de"]},
+            {"text": "Les chercheurs ont procédé {{1}} une analyse détaillée des résultats.", "answers": ["à"]},
+            {"text": "Cette décision a été prise {{1}} raison des contraintes budgétaires.", "answers": ["en"]},
+            {"text": "L’entreprise cherche {{1}} réduire ses dépenses sans diminuer la qualité du service.", "answers": ["à"]},
+            {"text": "Il faut distinguer les faits {{1}} simples hypothèses.", "answers": ["des"]},
+            {"text": "Le rapport insiste {{1}} la nécessité d’une coopération internationale.", "answers": ["sur"]},
+            {"text": "Cette politique vise {{1}} renforcer l’accès aux services essentiels.", "answers": ["à"]},
+            {"text": "Le responsable s’est engagé {{1}} respecter les nouvelles procédures.", "answers": ["à"]}
+        ]
+    },
+    {
+        "id": "003",
+        "titre": "Adverbes",
+        "definition": "Complétez les phrases avec l’adverbe qui exprime le sens recherché.",
+        "instruction": "Remplissez les blancs en tapant l’adverbe approprié. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Les autorités ont {{1}} renforcé les contrôles aux frontières.", "answers": ["considérablement"]},
+            {"text": "La situation s’est {{1}} améliorée au cours des derniers mois.", "answers": ["progressivement"]},
+            {"text": "Cette solution est {{1}} applicable dans les petites entreprises.", "answers": ["également"]},
+            {"text": "Le rapport présente {{1}} les principaux risques liés au projet.", "answers": ["clairement"]},
+            {"text": "Les deux phénomènes sont {{1}} liés l’un à l’autre.", "answers": ["étroitement"]},
+            {"text": "Cette mesure pourrait {{1}} avoir des conséquences importantes sur l’emploi.", "answers": ["potentiellement"]},
+            {"text": "Le candidat a répondu {{1}} aux objections du jury.", "answers": ["pertinemment"]},
+            {"text": "Les ressources disponibles sont {{1}} insuffisantes pour financer l’ensemble du programme.", "answers": ["largement"]},
+            {"text": "La réforme a été {{1}} acceptée par les différents partenaires.", "answers": ["globalement"]},
+            {"text": "Il faut examiner cette question {{1}} avant de prendre une décision définitive.", "answers": ["attentivement"]}
+        ]
+    },
+    {
+        "id": "004",
+        "titre": "Synonymes",
+        "definition": "Remplacez le mot indiqué par un synonyme adapté au contexte.",
+        "instruction": "Écrivez le synonyme qui convient le mieux au sens de la phrase. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Le gouvernement souhaite {{1}} les conséquences de la crise. (atténuer)", "answers": ["réduire"]},
+            {"text": "Cette décision pourrait {{1}} de nombreuses difficultés. (engendrer)", "answers": ["provoquer"]},
+            {"text": "Le rapport {{1}} plusieurs problèmes dans le système actuel. (souligne)", "answers": ["met en évidence"]},
+            {"text": "Les deux parties ont finalement {{1}} un accord. (conclu)", "answers": ["établi"]},
+            {"text": "Cette mesure vise à {{1}} les inégalités sociales. (réduire)", "answers": ["diminuer"]},
+            {"text": "Le chercheur a {{1}} une hypothèse intéressante. (formulé)", "answers": ["proposé"]},
+            {"text": "L’entreprise doit {{1}} sa stratégie face aux nouvelles contraintes. (adapter)", "answers": ["modifier"]},
+            {"text": "Cette information a été {{1}} par plusieurs sources. (confirmée)", "answers": ["validée"]},
+            {"text": "Les autorités ont {{1}} une enquête approfondie. (lancé)", "answers": ["ouvert"]},
+            {"text": "Il faut {{1}} les différents éléments avant de conclure. (examiner)", "answers": ["analyser"]}
+        ]
+    },
+    {
+        "id": "005",
+        "titre": "Mots",
+        "definition": "Complétez les phrases avec le mot qui correspond précisément au contexte.",
+        "instruction": "Remplissez les blancs avec le mot approprié. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "La nouvelle réglementation impose davantage de {{1}} aux entreprises.", "answers": ["contraintes"]},
+            {"text": "Le projet nécessite un important {{1}} financier avant de pouvoir démarrer.", "answers": ["investissement"]},
+            {"text": "Les autorités ont annoncé plusieurs {{1}} destinées à soutenir les ménages modestes.", "answers": ["mesures"]},
+            {"text": "Cette décision a suscité de nombreuses {{1}} parmi les salariés.", "answers": ["inquiétudes"]},
+            {"text": "L’entreprise cherche à améliorer sa {{1}} sur le marché international.", "answers": ["compétitivité"]},
+            {"text": "Le rapport fournit une {{1}} détaillée de la situation économique.", "answers": ["analyse"]},
+            {"text": "La formation constitue un facteur essentiel de l’{{1}} professionnelle.", "answers": ["insertion"]},
+            {"text": "Cette initiative pourrait avoir un impact {{1}} sur les populations vulnérables.", "answers": ["durable"]},
+            {"text": "Le projet repose sur une étroite {{1}} entre les différentes institutions.", "answers": ["collaboration"]},
+            {"text": "Les négociations ont permis de trouver un {{1}} acceptable pour les deux parties.", "answers": ["compromis"]}
+        ]
+    },
+    {
+        "id": "006",
+        "titre": "Conjonctions",
+        "definition": "Complétez les phrases avec la conjonction ou locution conjonctive appropriée.",
+        "instruction": "Remplissez les blancs avec la conjonction correcte. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "{{1}} les résultats soient encourageants, plusieurs difficultés persistent.", "answers": ["Bien que"]},
+            {"text": "Le projet a été maintenu {{1}} son coût élevé.", "answers": ["bien que"]},
+            {"text": "Les autorités ont renforcé les contrôles {{1}} prévenir de nouveaux incidents.", "answers": ["afin de"]},
+            {"text": "La réforme sera efficace {{1}} elle soit correctement appliquée.", "answers": ["à condition qu’"]},
+            {"text": "Il a accepté la proposition {{1}} il avait initialement exprimé des réserves.", "answers": ["bien qu’"]},
+            {"text": "Les dépenses ont augmenté {{1}} les prix de l’énergie ont fortement progressé.", "answers": ["parce que"]},
+            {"text": "Le dispositif a été modifié {{1}} répondre aux nouvelles exigences.", "answers": ["afin de"]},
+            {"text": "Nous devons agir rapidement {{1}} la situation ne se détériore davantage.", "answers": ["avant que"]},
+            {"text": "Le programme sera prolongé {{1}} les financements nécessaires soient disponibles.", "answers": ["à condition que"]},
+            {"text": "Elle a poursuivi ses recherches {{1}} les résultats initiaux n’étaient pas concluants.", "answers": ["même si"]}
+        ]
+    },
+    {
+        "id": "007",
+        "titre": "Ordonner les mots",
+        "definition": "Reconstituez une phrase correcte en remettant les mots dans le bon ordre.",
+        "instruction": "Remettez les mots dans le bon ordre afin de former une phrase grammaticalement correcte. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "progressivement / la situation / s’est / améliorée", "answers": ["La situation s’est progressivement améliorée."]},
+            {"text": "une réforme / le gouvernement / ambitieuse / envisage", "answers": ["Le gouvernement envisage une réforme ambitieuse."]},
+            {"text": "malgré / le projet / les difficultés / a été maintenu", "answers": ["Malgré les difficultés, le projet a été maintenu."]},
+            {"text": "les autorités / renforcer / souhaitent / la coopération", "answers": ["Les autorités souhaitent renforcer la coopération."]},
+            {"text": "cette décision / pourrait / importantes / avoir / conséquences", "answers": ["Cette décision pourrait avoir des conséquences importantes."]},
+            {"text": "les chercheurs / une analyse / ont / approfondie / réalisée", "answers": ["Les chercheurs ont réalisé une analyse approfondie."]},
+            {"text": "il faut / avant toute décision / examiner / attentivement / les données", "answers": ["Il faut examiner attentivement les données avant toute décision."]},
+            {"text": "l’entreprise / face aux changements / doit / adapter / sa stratégie", "answers": ["L’entreprise doit adapter sa stratégie face aux changements."]},
+            {"text": "la coopération internationale / demeure / essentielle / pour résoudre / cette crise", "answers": ["La coopération internationale demeure essentielle pour résoudre cette crise."]},
+            {"text": "les résultats / ne permettent pas / de tirer / une conclusion définitive", "answers": ["Les résultats ne permettent pas de tirer une conclusion définitive."]}
+        ]
+    },
+    {
+        "id": "008",
+        "titre": "Articles",
+        "definition": "Complétez les phrases avec l’article approprié selon le sens et le contexte.",
+        "instruction": "Remplissez les blancs avec l’article correct : le, la, l’, les, un, une, des, du, de la, de l’ ou des formes appropriées. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "La protection de {{1}} environnement est devenue une priorité internationale.", "answers": ["l’"]},
+            {"text": "Le gouvernement a annoncé {{1}} nouvelles mesures économiques.", "answers": ["de"]},
+            {"text": "Cette entreprise joue {{1}} rôle important dans le secteur technologique.", "answers": ["un"]},
+            {"text": "Nous avons besoin de {{1}} informations supplémentaires avant de décider.", "answers": ["des"]},
+            {"text": "La réforme nécessite {{1}} financement important.", "answers": ["un"]},
+            {"text": "Il faut consacrer davantage de ressources à {{1}} formation professionnelle.", "answers": ["la"]},
+            {"text": "Le rapport présente {{1}} analyse détaillée des résultats.", "answers": ["une"]},
+            {"text": "Cette région manque {{1}} infrastructures adaptées.", "answers": ["d’"]},
+            {"text": "Les chercheurs ont observé {{1}} amélioration significative des résultats.", "answers": ["une"]},
+            {"text": "L’accès à {{1}} information fiable est essentiel dans une démocratie.", "answers": ["l’"]}
+        ]
+    },
+    {
+        "id": "009",
+        "titre": "Antonymes",
+        "definition": "Trouvez le mot de sens contraire qui convient au contexte.",
+        "instruction": "Écrivez l’antonyme approprié du mot indiqué. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Le contraire de « complexe » est {{1}}.", "answers": ["simple"]},
+            {"text": "Le contraire de « temporaire » est {{1}}.", "answers": ["permanent"]},
+            {"text": "Le contraire de « bénéfique » est {{1}}.", "answers": ["nuisible"]},
+            {"text": "Le contraire de « explicite » est {{1}}.", "answers": ["implicite"]},
+            {"text": "Le contraire de « pertinent » est {{1}}.", "answers": ["inapproprié"]},
+            {"text": "Le contraire de « renforcer » est {{1}}.", "answers": ["affaiblir"]},
+            {"text": "Le contraire de « augmenter » est {{1}}.", "answers": ["diminuer"]},
+            {"text": "Le contraire de « volontaire » est {{1}}.", "answers": ["involontaire"]},
+            {"text": "Le contraire de « inclusif » est {{1}}.", "answers": ["exclusif"]},
+            {"text": "Le contraire de « stable » est {{1}}.", "answers": ["instable"]}
+        ]
+    },
+    {
+        "id": "010",
+        "titre": "Pronoms",
+        "definition": "Complétez les phrases avec le pronom approprié.",
+        "instruction": "Remplissez les blancs avec le pronom correct en tenant compte de sa fonction dans la phrase. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Les documents sont importants ; il faut {{1}} consulter attentivement.", "answers": ["les"]},
+            {"text": "Cette décision est contestée, mais le directeur {{1}} assume pleinement.", "answers": ["l’"]},
+            {"text": "Nous avons parlé de cette question et nous {{1}} reviendrons demain.", "answers": ["y"]},
+            {"text": "Il a reçu plusieurs propositions, mais il n’{{1}} a accepté aucune.", "answers": ["en"]},
+            {"text": "Les candidates ont présenté leurs projets ; le jury {{1}} a félicitées.", "answers": ["les"]},
+            {"text": "Ce problème est complexe, mais nous devons {{1}} résoudre rapidement.", "answers": ["le"]},
+            {"text": "Voici les documents {{1}} nous avons besoin pour poursuivre l’analyse.", "answers": ["dont"]},
+            {"text": "La chercheuse a présenté une théorie {{1}} a suscité de nombreuses réactions.", "answers": ["qui"]},
+            {"text": "Ce sont les objectifs pour {{1}} nous avons été recrutés.", "answers": ["lesquels"]},
+            {"text": "Je ne comprends pas {{1}} vous voulez démontrer dans cette étude.", "answers": ["ce que"]}
+        ]
+    },
+    {
+        "id": "011",
+        "titre": "Verbes",
+        "definition": "Complétez les phrases avec le verbe qui convient le mieux au contexte.",
+        "instruction": "Remplissez les blancs avec le verbe approprié. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Cette mesure devrait {{1}} les entreprises à investir davantage.", "answers": ["inciter"]},
+            {"text": "Le rapport permet de {{1}} les principales causes du problème.", "answers": ["identifier"]},
+            {"text": "Cette réforme pourrait {{1}} de profondes transformations sociales.", "answers": ["entraîner"]},
+            {"text": "Le directeur souhaite {{1}} les responsabilités entre les différents services.", "answers": ["répartir"]},
+            {"text": "Les autorités doivent {{1}} les conséquences de cette décision.", "answers": ["évaluer"]},
+            {"text": "L’entreprise cherche à {{1}} sa présence sur les marchés étrangers.", "answers": ["accroître"]},
+            {"text": "Cette politique vise à {{1}} les populations les plus vulnérables.", "answers": ["protéger"]},
+            {"text": "Il faut {{1}} les données avant de présenter les résultats.", "answers": ["vérifier"]},
+            {"text": "La nouvelle stratégie pourrait {{1}} la compétitivité de l’entreprise.", "answers": ["renforcer"]},
+            {"text": "Le projet doit {{1}} aux besoins réels de la population.", "answers": ["répondre"]}
+        ]
+    },
+    {
+        "id": "012",
+        "titre": "Noms",
+        "definition": "Complétez les phrases avec le nom approprié.",
+        "instruction": "Remplissez les blancs avec le nom qui correspond au sens de la phrase. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "La {{1}} des ressources doit être effectuée de manière équitable.", "answers": ["répartition"]},
+            {"text": "Cette réforme nécessite une importante {{1}} institutionnelle.", "answers": ["transformation"]},
+            {"text": "Le projet a obtenu l’{{1}} de plusieurs partenaires internationaux.", "answers": ["approbation"]},
+            {"text": "La {{1}} des données permet de mieux comprendre le phénomène.", "answers": ["collecte"]},
+            {"text": "L’entreprise doit améliorer sa {{1}} pour rester compétitive.", "answers": ["productivité"]},
+            {"text": "Cette décision a provoqué une forte {{1}} parmi les employés.", "answers": ["contestation"]},
+            {"text": "La {{1}} entre les deux parties a finalement permis de résoudre le conflit.", "answers": ["médiation"]},
+            {"text": "Le développement durable exige une meilleure {{1}} des ressources naturelles.", "answers": ["gestion"]},
+            {"text": "L’étude met en évidence une profonde {{1}} entre les différentes régions.", "answers": ["disparité"]},
+            {"text": "La formation favorise l’{{1}} des jeunes sur le marché du travail.", "answers": ["insertion"]}
+        ]
+    },
+    {
+        "id": "013",
+        "titre": "Préfixes et suffixes",
+        "definition": "Formez le mot approprié en utilisant le préfixe ou le suffixe nécessaire.",
+        "instruction": "Transformez le mot entre parenthèses pour compléter correctement la phrase. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "La {{1}} de cette information pourrait avoir de graves conséquences. (diffuser)", "answers": ["diffusion"]},
+            {"text": "Cette décision est difficilement {{1}} dans le contexte actuel. (justifier)", "answers": ["justifiable"]},
+            {"text": "Le projet nécessite une {{1}} approfondie avant sa mise en œuvre. (évaluer)", "answers": ["évaluation"]},
+            {"text": "La {{1}} des procédures permettra de réduire les erreurs. (simplifier)", "answers": ["simplification"]},
+            {"text": "Cette mesure pourrait favoriser la {{1}} sociale des populations défavorisées. (intégrer)", "answers": ["intégration"]},
+            {"text": "L’{{1}} de cette politique dépendra de sa mise en œuvre. (efficace)", "answers": ["efficacité"]},
+            {"text": "La situation reste {{1}} malgré les efforts entrepris. (stable)", "answers": ["instable"]},
+            {"text": "Cette décision pourrait entraîner une {{1}} des inégalités. (aggraver)", "answers": ["aggravation"]},
+            {"text": "La {{1}} des données facilite leur comparaison. (centraliser)", "answers": ["centralisation"]},
+            {"text": "Le rapport souligne la nécessité d’une approche {{1}}. (discipline)", "answers": ["interdisciplinaire"]}
+        ]
+    },
+    {
+        "id": "014",
+        "titre": "Négation",
+        "definition": "Complétez les phrases avec la construction négative appropriée.",
+        "instruction": "Transformez ou complétez les phrases en utilisant la forme négative correcte. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Cette mesure ne résout {{1}} le problème.", "answers": ["pas"]},
+            {"text": "Nous n’avons {{1}} reçu de réponse officielle.", "answers": ["aucune"]},
+            {"text": "Il ne travaille {{1}} dans cette entreprise.", "answers": ["plus"]},
+            {"text": "Elle ne connaît {{1}} dans cette ville.", "answers": ["personne"]},
+            {"text": "Le responsable n’a {{1}} compris les raisons de cette décision.", "answers": ["rien"]},
+            {"text": "Ils ne vont {{1}} participer aux négociations.", "answers": ["pas"]},
+            {"text": "Cette information n’est {{1}} disponible sur le site officiel.", "answers": ["plus"]},
+            {"text": "Il ne s’est rendu {{1}} compte de son erreur.", "answers": ["nulle part"]},
+            {"text": "Nous n’avons {{1}} ni le temps ni les ressources nécessaires.", "answers": ["ni"]},
+            {"text": "Aucun candidat n’a proposé {{1}} solution véritablement innovante.", "answers": ["de"]}
+        ]
+    },
+    {
+        "id": "015",
+        "titre": "Paronymes",
+        "definition": "Choisissez le paronyme qui convient exactement au contexte.",
+        "instruction": "Remplissez les blancs avec le mot correct parmi les paronymes proposés. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Le directeur a demandé une {{1}} précise des résultats. (évaluation / évocation)", "answers": ["évaluation"]},
+            {"text": "Cette décision pourrait avoir une {{1}} importante sur le marché. (incidence / incidence)", "answers": ["incidence"]},
+            {"text": "Le rapport contient une {{1}} détaillée du phénomène. (description / prescription)", "answers": ["description"]},
+            {"text": "L’entreprise doit respecter les {{1}} légales en vigueur. (prescriptions / descriptions)", "answers": ["prescriptions"]},
+            {"text": "Le chercheur a formulé une {{1}} plausible. (hypothèse / hypothétique)", "answers": ["hypothèse"]},
+            {"text": "Cette mesure vise à {{1}} les risques liés au projet. (prévenir / provenir)", "answers": ["prévenir"]},
+            {"text": "Les résultats permettent de {{1}} l’efficacité du dispositif. (apprécier / apprécier)", "answers": ["apprécier"]},
+            {"text": "Le candidat doit {{1}} son dossier avant la date limite. (compléter / compiler)", "answers": ["compléter"]},
+            {"text": "L’équipe a réussi à {{1}} les informations provenant de plusieurs sources. (compiler / compléter)", "answers": ["compiler"]},
+            {"text": "Cette décision pourrait {{1}} les relations entre les deux pays. (affecter / effectuer)", "answers": ["affecter"]}
+        ]
+    },
+    {
+        "id": "016",
+        "titre": "Connecteurs logiques",
+        "definition": "Complétez les phrases avec le connecteur logique qui exprime correctement la relation entre les idées.",
+        "instruction": "Remplissez les blancs avec le connecteur logique approprié. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Les résultats sont encourageants ; {{1}}, plusieurs problèmes persistent.", "answers": ["cependant"]},
+            {"text": "Le projet est coûteux ; {{1}}, il pourrait générer des bénéfices importants.", "answers": ["néanmoins"]},
+            {"text": "Les ressources sont limitées ; {{1}}, il faut établir des priorités.", "answers": ["par conséquent"]},
+            {"text": "La demande a augmenté ; {{1}}, l’entreprise a recruté de nouveaux employés.", "answers": ["en conséquence"]},
+            {"text": "Cette solution est peu coûteuse ; {{1}}, elle est facile à mettre en œuvre.", "answers": ["de plus"]},
+            {"text": "Les données sont insuffisantes ; {{1}}, il est difficile de tirer une conclusion définitive.", "answers": ["par conséquent"]},
+            {"text": "Le projet présente certains risques ; {{1}}, ses avantages restent importants.", "answers": ["toutefois"]},
+            {"text": "Il faut réduire les dépenses ; {{1}}, certaines activités doivent être réorganisées.", "answers": ["à cette fin"]},
+            {"text": "La mesure est efficace ; {{1}}, elle nécessite un financement supplémentaire.", "answers": ["en revanche"]},
+            {"text": "Les deux études aboutissent à des résultats similaires ; {{1}}, leurs méthodes diffèrent.", "answers": ["en revanche"]}
+        ]
+    },
+    {
+        "id": "017",
+        "titre": "Déterminants",
+        "definition": "Complétez les phrases avec le déterminant approprié.",
+        "instruction": "Remplissez les blancs avec le déterminant correct. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "{{1}} décision doit être prise après une analyse approfondie. (chaque / quelques)", "answers": ["Chaque"]},
+            {"text": "{{1}} plusieurs solutions ont été envisagées avant le choix final. (plusieurs / chaque)", "answers": ["Plusieurs"]},
+            {"text": "Nous devons examiner {{1}} les conséquences possibles de cette réforme. (toutes / aucune)", "answers": ["toutes"]},
+            {"text": "{{1}} candidat doit présenter une pièce d’identité valide. (chaque / certains)", "answers": ["Chaque"]},
+            {"text": "{{1}} entreprises ont déjà adopté cette technologie. (certaines / aucune)", "answers": ["Certaines"]},
+            {"text": "Il reste {{1}} difficultés à résoudre avant le lancement du projet. (quelques / chaque)", "answers": ["quelques"]},
+            {"text": "{{1}} ces informations doivent être vérifiées avant publication. (toutes / aucune)", "answers": ["Toutes"]},
+            {"text": "Nous avons analysé {{1}} document séparément. (chaque / plusieurs)", "answers": ["chaque"]},
+            {"text": "{{1}} autre approche pourrait être envisagée dans ce cas. (une / tous)", "answers": ["une"]},
+            {"text": "Il n’existe {{1}} solution simple à ce problème. (aucune / plusieurs)", "answers": ["aucune"]}
+        ]
+    },
+    {
+        "id": "018",
+        "titre": "Comparatif",
+        "definition": "Complétez les phrases avec la forme comparative appropriée.",
+        "instruction": "Utilisez la structure comparative correcte pour compléter chaque phrase. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Cette solution est {{1}} efficace que la précédente.", "answers": ["plus"]},
+            {"text": "Le nouveau dispositif est {{1}} coûteux que l’ancien.", "answers": ["moins"]},
+            {"text": "Cette méthode est {{1}} précise que celle utilisée auparavant.", "answers": ["plus"]},
+            {"text": "La situation est {{1}} complexe qu’on ne l’avait imaginé.", "answers": ["plus"]},
+            {"text": "Cette entreprise produit {{1}} que ses principaux concurrents.", "answers": ["davantage"]},
+            {"text": "Le projet nécessite {{1}} ressources que prévu initialement.", "answers": ["moins de"]},
+            {"text": "Cette approche est {{1}} adaptée aux besoins des utilisateurs.", "answers": ["mieux"]},
+            {"text": "La deuxième proposition est {{1}} pertinente que la première.", "answers": ["beaucoup plus"]},
+            {"text": "Les résultats sont aussi satisfaisants {{1}} ceux de l’année précédente.", "answers": ["que"]},
+            {"text": "Cette solution offre {{1}} avantages que les autres options.", "answers": ["davantage d’"]}
+        ]
+    },
+    {
+        "id": "019",
+        "titre": "Les compléments",
+        "definition": "Identifiez ou complétez la phrase avec le complément grammatical approprié.",
+        "instruction": "Complétez les phrases avec la construction qui correspond à la fonction demandée. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Dans « Le directeur présente le rapport aux partenaires », « le rapport » est le {{1}}.", "answers": ["COD"]},
+            {"text": "Dans « Elle parle à son collègue », « à son collègue » est le {{1}}.", "answers": ["COI"]},
+            {"text": "Dans « Nous travaillons dans cette région », « dans cette région » est un complément circonstanciel de {{1}}.", "answers": ["lieu"]},
+            {"text": "Dans « Il est parti à cause de la pluie », « à cause de la pluie » exprime la {{1}}.", "answers": ["cause"]},
+            {"text": "Dans « Elle travaille pour réussir », « pour réussir » exprime le {{1}}.", "answers": ["but"]},
+            {"text": "Dans « Il répond rapidement aux questions », « rapidement » est un complément circonstanciel de {{1}}.", "answers": ["manière"]},
+            {"text": "Dans « La voiture de mon frère est neuve », « de mon frère » est un complément du {{1}}.", "answers": ["nom"]},
+            {"text": "Dans « Nous dépendons de cette décision », « de cette décision » est un complément d’objet {{1}}.", "answers": ["indirect"]},
+            {"text": "Dans « Elle est fière de son résultat », « de son résultat » est un complément de l’{{1}}.", "answers": ["adjectif"]},
+            {"text": "Dans « Il a parlé pendant deux heures », « pendant deux heures » exprime le {{1}}.", "answers": ["temps"]}
+        ]
+    },
+    {
+        "id": "020",
+        "titre": "Interrogation",
+        "definition": "Complétez ou transformez les phrases en utilisant une forme d’interrogation correcte.",
+        "instruction": "Formulez la question appropriée en respectant la structure interrogative demandée. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Vous participez à la réunion. → {{1}} participez-vous à la réunion ?", "answers": ["Quand"]},
+            {"text": "Il a refusé la proposition. → {{1}} a-t-il refusé la proposition ?", "answers": ["Pourquoi"]},
+            {"text": "Elle travaille dans cette entreprise. → {{1}} travaille-t-elle ?", "answers": ["Où"]},
+            {"text": "Le projet coûte deux millions d’euros. → {{1}} coûte le projet ?", "answers": ["Combien"]},
+            {"text": "Cette personne a proposé la solution. → {{1}} a proposé la solution ?", "answers": ["Qui"]},
+            {"text": "Vous avez choisi cette option. → {{1}} option avez-vous choisie ?", "answers": ["Quelle"]},
+            {"text": "Ils ont terminé le rapport. → {{1}} ont-ils terminé le rapport ?", "answers": ["Quand"]},
+            {"text": "Le directeur a rencontré les partenaires. → {{1}} le directeur a-t-il rencontrés ?", "answers": ["Qui"]},
+            {"text": "Elle a besoin de ces documents. → De {{1}} a-t-elle besoin ?", "answers": ["quels documents"]},
+            {"text": "Vous proposez une nouvelle stratégie. → {{1}} proposez-vous ?", "answers": ["Que"]}
+        ]
+    },
+    {
+        "id": "021",
+        "titre": "Propositions",
+        "definition": "Identifiez ou complétez les propositions selon leur relation grammaticale.",
+        "instruction": "Complétez chaque phrase avec la proposition ou le terme grammatical approprié. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "Dans « Je pense que cette solution est efficace », « que cette solution est efficace » est une proposition {{1}}.", "answers": ["subordonnée complétive"]},
+            {"text": "Dans « Le livre que tu m’as recommandé est intéressant », « que tu m’as recommandé » est une proposition {{1}}.", "answers": ["subordonnée relative"]},
+            {"text": "Dans « Bien qu’il soit tard, nous continuons », la proposition introduite par « bien que » exprime la {{1}}.", "answers": ["concession"]},
+            {"text": "Dans « Il travaille afin qu’il puisse financer ses études », la proposition exprime le {{1}}.", "answers": ["but"]},
+            {"text": "Dans « Nous partirons lorsque la réunion sera terminée », la proposition exprime le {{1}}.", "answers": ["temps"]},
+            {"text": "Dans « Puisqu’il pleut, nous resterons ici », la proposition exprime la {{1}}.", "answers": ["cause"]},
+            {"text": "Dans « Si les conditions changent, nous modifierons le projet », la proposition introduite par « si » exprime la {{1}}.", "answers": ["condition"]},
+            {"text": "Dans « Il est plus difficile que prévu », la proposition introduite par « que » établit une {{1}}.", "answers": ["comparaison"]},
+            {"text": "Dans « Je me demande pourquoi il est parti », la proposition est une interrogative {{1}}.", "answers": ["indirecte"]},
+            {"text": "Dans « Il travaille parce qu’il aime son métier », la proposition introduite par « parce que » exprime la {{1}}.", "answers": ["cause"]}
+        ]
+    },
+    {
+        "id": "022",
+        "titre": "Le discours et la phrase",
+        "definition": "Identifiez ou complétez les notions relatives à la construction et au type de phrase.",
+        "instruction": "Indiquez le terme grammatical approprié pour chaque phrase. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "« Fermez la porte immédiatement ! » est une phrase de type {{1}}.", "answers": ["impératif"]},
+            {"text": "« Quelle excellente nouvelle ! » est une phrase {{1}}.", "answers": ["exclamative"]},
+            {"text": "« Le projet sera présenté demain. » est une phrase {{1}}.", "answers": ["déclarative"]},
+            {"text": "« Pourquoi avez-vous refusé cette proposition ? » est une phrase {{1}}.", "answers": ["interrogative"]},
+            {"text": "« Je ne comprends pas cette décision. » est une phrase {{1}}.", "answers": ["négative"]},
+            {"text": "Dans « Il affirme : “Je reviendrai demain” », les paroles sont au discours {{1}}.", "answers": ["direct"]},
+            {"text": "Dans « Il affirme qu’il reviendra demain », les paroles sont rapportées au discours {{1}}.", "answers": ["indirect"]},
+            {"text": "Une phrase qui contient plusieurs propositions est une phrase {{1}}.", "answers": ["complexe"]},
+            {"text": "« Malgré les difficultés, le projet avance. » contient une construction avec un groupe {{1}}.", "answers": ["prépositionnel"]},
+            {"text": "La mise en relation de deux propositions indépendantes avec « mais » relève de la {{1}}.", "answers": ["coordination"]}
+        ]
+    },
+    {
+        "id": "023",
+        "titre": "La voix et la construction",
+        "definition": "Complétez les phrases en identifiant la voix ou la construction grammaticale appropriée.",
+        "instruction": "Indiquez la construction ou la voix correcte. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "« Le comité a approuvé le projet. » est à la voix {{1}}.", "answers": ["active"]},
+            {"text": "« Le projet a été approuvé par le comité. » est à la voix {{1}}.", "answers": ["passive"]},
+            {"text": "Dans « Elle se prépare pour la réunion », le verbe est {{1}}.", "answers": ["pronominal"]},
+            {"text": "« Il faut respecter les règles. » est une construction {{1}}.", "answers": ["impersonnelle"]},
+            {"text": "« Il y a plusieurs solutions possibles. » contient une tournure de {{1}}.", "answers": ["présentation"]},
+            {"text": "« C’est le directeur qui prendra la décision. » est une construction de mise en {{1}}.", "answers": ["relief"]},
+            {"text": "« Le rapport a été rédigé par une équipe indépendante. » contient un complément d’{{1}}.", "answers": ["agent"]},
+            {"text": "« Ils se sont rencontrés après la réunion. » contient un verbe {{1}}.", "answers": ["pronominal"]},
+            {"text": "« C’est cette solution que nous avons retenue. » utilise une construction {{1}}.", "answers": ["emphatique"]},
+            {"text": "Pour transformer « Les experts analysent les données » à la voix passive : « Les données {{1}} par les experts. »", "answers": ["sont analysées"]}
+        ]
+    },
+    {
+        "id": "024",
+        "titre": "Mots dérivés",
+        "definition": "Formez un mot dérivé approprié à partir du mot donné afin de compléter la phrase.",
+        "instruction": "Transformez le mot entre parenthèses pour obtenir le mot dérivé correct. Une fois terminé, cliquez sur « Soumettre ».",
+        "questions": [
+            {"text": "La {{1}} de cette mesure doit être évaluée avant sa généralisation. (efficace)", "answers": ["efficacité"]},
+            {"text": "Cette réforme vise à favoriser l’{{1}} des jeunes sur le marché du travail. (insérer)", "answers": ["insertion"]},
+            {"text": "Le rapport présente une {{1}} détaillée de la situation. (analyser)", "answers": ["analyse"]},
+            {"text": "La {{1}} des procédures permettra de réduire les délais. (simplifier)", "answers": ["simplification"]},
+            {"text": "Cette initiative contribue à la {{1}} économique de la région. (développer)", "answers": ["développement"]},
+            {"text": "L’{{1}} des services publics constitue un enjeu majeur. (moderniser)", "answers": ["modernisation"]},
+            {"text": "La {{1}} des ressources doit être améliorée. (répartir)", "answers": ["répartition"]},
+            {"text": "Cette décision a provoqué une forte {{1}} de la population. (contester)", "answers": ["contestation"]},
+            {"text": "Le projet repose sur une approche {{1}} qui associe plusieurs disciplines. (interdiscipline)", "answers": ["interdisciplinaire"]},
+            {"text": "La {{1}} des données personnelles est devenue une priorité pour les entreprises. (protéger)", "answers": ["protection"]}
+        ]
+    }
+]
