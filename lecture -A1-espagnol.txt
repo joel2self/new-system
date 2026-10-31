@@ -678,5 +678,686 @@
 ]
 }
 ]
+},
+{
+"id": "011",
+"titre": "Mi primer día de clase",
+"titre2": "Ejercicio 011",
+"texte": [
+"Hoy es mi primer día de clase y estoy muy emocionado.",
+"Camino hacia el edificio con mi mochila nueva en los hombros.",
+"In el patio veo a muchos chicos que ríen y hablan en voz alta.",
+"La campana suena a las ocho en punto y todos entran.",
+"Busco mi clase con calma y encuentro un asiento libre."
+],
+"audios": [
+{ "id": "audio-es-read-a1-011-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-011-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-011-01",
+"question": "¿Cómo se siente el protagonista hoy?",
+"reponses": [
+{ "id": "a", "texte": "Muy aburrido", "correcte": false },
+{ "id": "b", "texte": "Muy emocionado", "correcte": true },
+{ "id": "c", "texte": "Triste y enfermo", "correcte": false },
+{ "id": "d", "texte": "Enfadado", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-011-02",
+"question": "¿Qué tiene el protagonista en los hombros?",
+"reponses": [
+{ "id": "a", "texte": "Una chaqueta pesada", "correcte": false },
+{ "id": "b", "texte": "Su mochila nueva", "correcte": true },
+{ "id": "c", "texte": "Un ordenador grande", "correcte": false },
+{ "id": "d", "texte": "Un mapa de la ciudad", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-011-03",
+"question": "¿Qué hacen los chicos en el patio?",
+"reponses": [
+{ "id": "a", "texte": "Duermen en la hierba", "correcte": false },
+{ "id": "b", "texte": "Ríen y hablan en voz alta", "correcte": true },
+{ "id": "c", "texte": "Comen una pizza", "correcte": false },
+{ "id": "d", "texte": "Corren detrás de un gato", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-011-04",
+"question": "¿A qué hora suena la campana?",
+"reponses": [
+{ "id": "a", "texte": "A las nueve precisas", "correcte": false },
+{ "id": "b", "texte": "A las ocho en punto", "correcte": true },
+{ "id": "c", "texte": "A las siete y media", "correcte": false },
+{ "id": "d", "texte": "Al mediodía", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-011-05",
+"question": "¿Qué busca el protagonista dentro de la escuela?",
+"reponses": [
+{ "id": "a", "texte": "Su clase", "correcte": true },
+{ "id": "b", "texte": "Una farmacia útil", "correcte": false },
+{ "id": "c", "texte": "La biblioteca de la ciudad", "correcte": false },
+{ "id": "d", "texte": "El quiosco de los dulces", "correcte": false }
+]
 }
 ]
+},
+{
+"id": "012",
+"titre": "En mi aula",
+"titre2": "Ejercicio 012",
+"texte": [
+"Mi aula está en el primer piso y es grande y luminosa.",
+"Hay veinte pupitres de madera verde y muchas sillas.",
+"En la pared principal hay una gran pizarra negra.",
+"Al lado de la ventana hay algunas plantas y un armario.",
+"Desde la ventana puedo ver el jardín de la escuela."
+],
+"audios": [
+{ "id": "audio-es-read-a1-012-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-012-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-012-01",
+"question": "¿Dónde se encuentra el aula?",
+"reponses": [
+{ "id": "a", "texte": "En el segundo piso", "correcte": false },
+{ "id": "b", "texte": "En el primer piso", "correcte": true },
+{ "id": "c", "texte": "En el sótano oscuro", "correcte": false },
+{ "id": "d", "texte": "En el tejado", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-012-02",
+"question": "¿Cuántos pupitres hay en el aula?",
+"reponses": [
+{ "id": "a", "texte": "Diez pupitres", "correcte": false },
+{ "id": "b", "texte": "Veinte pupitres", "correcte": true },
+{ "id": "c", "texte": "Treinta pupitres", "correcte": false },
+{ "id": "d", "texte": "Quince pupitres", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-012-03",
+"question": "¿Qué hay en la pared principal?",
+"reponses": [
+{ "id": "a", "texte": "Una gran pizarra negra", "correcte": true },
+{ "id": "b", "texte": "Un gran espejo moderno", "correcte": false },
+{ "id": "c", "texte": "Una foto de Carlos", "correcte": false },
+{ "id": "d", "texte": "Un reloj de cocina", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-012-04",
+"question": "¿Qué se encuentra al lado de la ventana?",
+"reponses": [
+{ "id": "a", "texte": "Algunas plantas y un armario", "correcte": true },
+{ "id": "b", "texte": "La mesa del director", "correcte": false },
+{ "id": "c", "texte": "Un sofá cómodo marrón", "correcte": false },
+{ "id": "d", "texte": "El baño de los estudiantes", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-012-05",
+"question": "¿Qué se ve al mirar por la ventana?",
+"reponses": [
+{ "id": "a", "texte": "El jardín de la escuela", "correcte": true },
+{ "id": "b", "texte": "La estación de trenes", "correcte": false },
+{ "id": "c", "texte": "Una calle con mucho tráfico", "correcte": false },
+{ "id": "d", "texte": "La casa de los abuelos", "correcte": false }
+]
+}
+]
+},
+{
+"id": "013",
+"titre": "Mis asignaturas favoritas",
+"titre2": "Ejercicio 013",
+"texte": [
+"En la escuela estudiamos muchas asignaturas diferentes cada semana.",
+"Mis asignaturas favoritas son la historia y la geografía.",
+"Me gusta mucho viajar con la mente y descubrir nuevos países.",
+"Las matemáticas son un poco difíciles para mí y prefiero el arte.",
+"Durante la clase de arte puedo dibujar y usar los colores."
+],
+"audios": [
+{ "id": "audio-es-read-a1-013-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-013-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-013-01",
+"question": "¿Cuáles son las asignaturas favoritas del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Las matemáticas y las ciencias", "correcte": false },
+{ "id": "b", "texte": "La historia y la geografía", "correcte": true },
+{ "id": "c", "texte": "El francés y el italiano", "correcte": false },
+{ "id": "d", "texte": "La música y el deporte", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-013-02",
+"question": "¿Por qué le gusta la geografía?",
+"reponses": [
+{ "id": "a", "texte": "Porque aprende a cocinar pizza", "correcte": false },
+{ "id": "b", "texte": "Porque viaja con la mente y descubre nuevos países", "correcte": true },
+{ "id": "c", "texte": "Porque cuenta números grandes", "correcte": false },
+{ "id": "d", "texte": "Porque habla con Lucas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-013-03",
+"question": "¿Qué piensa de las matemáticas?",
+"reponses": [
+{ "id": "a", "texte": "Que son muy fáciles", "correcte": false },
+{ "id": "b", "texte": "Que son un poco difíciles", "correcte": true },
+{ "id": "c", "texte": "Que son la mejor asignatura", "correcte": false },
+{ "id": "d", "texte": "No las estudia en la escuela", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-013-04",
+"question": "¿Qué asignatura prefiere antes que las matemáticas?",
+"reponses": [
+{ "id": "a", "texte": "El arte", "correcte": true },
+{ "id": "b", "texte": "La gimnasia", "correcte": false },
+{ "id": "c", "texte": "La historia antigua", "correcte": false },
+{ "id": "d", "texte": "El dibujo técnico", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-013-05",
+"question": "¿Qué puede hacer durante la clase de arte?",
+"reponses": [
+{ "id": "a", "texte": "Dibujar y usar los colores", "correcte": true },
+{ "id": "b", "texte": "Escribir una carta en alemán", "correcte": false },
+{ "id": "c", "texte": "Dormir en la silla", "correcte": false },
+{ "id": "d", "texte": "Escuchar la radio fuerte", "correcte": false }
+]
+}
+]
+},
+{
+"id": "014",
+"titre": "Mi profesor de francés",
+"titre2": "Ejercicio 014",
+"texte": [
+"Mi profesor de francés se llama Señor Rossi.",
+"Él es un hombre amable, paciente y explica muy bien.",
+"Habla siempre en francés durante la clase para ayudarnos.",
+"Nos enseña muchas palabras útiles, canciones y reglas de gramática.",
+"A todos los estudiantes les encanta su clase porque es divertida."
+],
+"audios": [
+{ "id": "audio-es-read-a1-014-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-014-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-014-01",
+"question": "¿Cómo se llama el profesor de francés?",
+"reponses": [
+{ "id": "a", "texte": "Señor Roberto", "correcte": false },
+{ "id": "b", "texte": "Señor Rossi", "correcte": true },
+{ "id": "c", "texte": "Señor Carlos", "correcte": false },
+{ "id": "d", "texte": "Señor Lucas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-014-02",
+"question": "¿Cómo es el carácter del Señor Rossi?",
+"reponses": [
+{ "id": "a", "texte": "Estricto y siempre enfadado", "correcte": false },
+{ "id": "b", "texte": "Amable y paciente", "correcte": true },
+{ "id": "c", "texte": "Muy tímido y silencioso", "correcte": false },
+{ "id": "d", "texte": "Nervioso", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-014-03",
+"question": "¿En qué idioma habla el profesor durante la clase?",
+"reponses": [
+{ "id": "a", "texte": "En español", "correcte": false },
+{ "id": "b", "texte": "En francés", "correcte": true },
+{ "id": "c", "texte": "En alemán", "correcte": false },
+{ "id": "d", "texte": "En italiano", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-014-04",
+"question": "¿Qué enseña el Señor Rossi además de la gramática?",
+"reponses": [
+{ "id": "a", "texte": "Palabras útiles y canciones", "correcte": true },
+{ "id": "b", "texte": "A conducir el autobús", "correcte": false },
+{ "id": "c", "texte": "A jugar al fútbol", "correcte": false },
+{ "id": "d", "texte": "A limpiar la pizarra", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-014-05",
+"question": "¿Por qué a los estudiantes les encanta su clase?",
+"reponses": [
+{ "id": "a", "texte": "Porque es divertida", "correcte": true },
+{ "id": "b", "texte": "Porque pueden dormir", "correcte": false },
+{ "id": "c", "texte": "Porque dura solo dos minutos", "correcte": false },
+{ "id": "d", "texte": "Porque comen helado", "correcte": false }
+]
+}
+]
+},
+{
+"id": "015",
+"titre": "Mis compañeros de clase",
+"titre2": "Ejercicio 015",
+"texte": [
+"In mi clase hay veinticinco estudiantes en total.",
+"Mis compañeros de clase vienen de países diferentes.",
+"Somos un grupo muy unido y nos ayudamos siempre con los deberes.",
+"Durante el recreo hablamos de nuestro tiempo libre.",
+"Estoy feliz de tener unos compañeros tan simpáticos y amables."
+],
+"audios": [
+{ "id": "audio-es-read-a1-015-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-015-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-015-01",
+"question": "¿Cuántos estudiantes hay en la clase?",
+"reponses": [
+{ "id": "a", "texte": "Veinte estudiantes", "correcte": false },
+{ "id": "b", "texte": "Veinticinco estudiantes", "correcte": true },
+{ "id": "c", "texte": "Treinta estudiantes", "correcte": false },
+{ "id": "d", "texte": "Diez estudiantes", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-015-02",
+"question": "¿De dónde vienen los compañeros de clase?",
+"reponses": [
+{ "id": "a", "texte": "Todos del mismo pueblo", "correcte": false },
+{ "id": "b", "texte": "De países diferentes", "correcte": true },
+{ "id": "c", "texte": "Solo de Madrid", "correcte": false },
+{ "id": "d", "texte": "De Italia", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-015-03",
+"question": "¿Qué hacen los chicos cuando hay una dificultad?",
+"reponses": [
+{ "id": "a", "texte": "Se ayudan siempre con los deberes", "correcte": true },
+{ "id": "b", "texte": "Llaman a la policía", "correcte": false },
+{ "id": "c", "texte": "Escapan de la escuela", "correcte": false },
+{ "id": "d", "texte": "Gritan fuerte", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-015-04",
+"question": "¿De qué hablan durante el recreo?",
+"reponses": [
+{ "id": "a", "texte": "De las reglas de gramática", "correcte": false },
+{ "id": "b", "texte": "De su tiempo libre", "correcte": true },
+{ "id": "c", "texte": "De los precios del supermercado", "correcte": false },
+{ "id": "d", "texte": "De la salud de los abuelos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-015-05",
+"question": "¿Cómo define el protagonista a sus compañeros?",
+"reponses": [
+{ "id": "a", "texte": "Simpáticos y amables", "correcte": true },
+{ "id": "b", "texte": "Aburridos y muy perezosos", "correcte": false },
+{ "id": "c", "texte": "Siempre cansados", "correcte": false },
+{ "id": "d", "texte": "Nerviosos", "correcte": false }
+]
+}
+]
+},
+{
+"id": "016",
+"titre": "Mi mochila escolar",
+"titre2": "Ejercicio 016",
+"texte": [
+"Mi mochila escolar es grande, fuerte y de color azul.",
+"Dentro de la mochila pongo tres libros pesados y dos cuadernos.",
+"En el pequeño estuche hay tres bolígrafos, un lápiz y la goma.",
+"También hay un bolsillo especial para poner mi botella de agua.",
+"Preparo la mochila cada noche antes de ir a dormir."
+],
+"audios": [
+{ "id": "audio-es-read-a1-016-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-016-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-016-01",
+"question": "¿De qué color es la mochila escolar?",
+"reponses": [
+{ "id": "a", "texte": "Roja", "correcte": false },
+{ "id": "b", "texte": "Azul", "correcte": true },
+{ "id": "c", "texte": "Verde", "correcte": false },
+{ "id": "d", "texte": "Negra", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-016-02",
+"question": "¿Cuántos libros hay dentro de la mochila?",
+"reponses": [
+{ "id": "a", "texte": "Un libro solo", "correcte": false },
+{ "id": "b", "texte": "Tres libros pesados", "correcte": true },
+{ "id": "c", "texte": "Cinco libros de arte", "correcte": false },
+{ "id": "d", "texte": "Ningún libro", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-016-03",
+"question": "¿Qué hay dentro del pequeño estuche?",
+"reponses": [
+{ "id": "a", "texte": "Bolígrafos, un lápiz y la goma", "correcte": true },
+{ "id": "b", "texte": "Un cruasán fresco", "correcte": false },
+{ "id": "c", "texte": "Miel dulce", "correcte": false },
+{ "id": "d", "texte": "El dinero para el tren", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-016-04",
+"question": "¿Qué pone el protagonista en el bolsillo especial?",
+"reponses": [
+{ "id": "a", "texte": "Su botella de agua", "correcte": true },
+{ "id": "b", "texte": "Un teléfono móvil", "correcte": false },
+{ "id": "c", "texte": "Un llavero", "correcte": false },
+{ "id": "d", "texte": "Una manzana roja", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-016-05",
+"question": "¿Cuándo prepara la mochila el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Cada noche antes de ir a dormir", "correcte": true },
+{ "id": "b", "texte": "Por la mañana a las seis y media con prisa", "correcte": false },
+{ "id": "c", "texte": "Durante la clase de geografía", "correcte": false },
+{ "id": "d", "texte": "El domingo por la tarde", "correcte": false }
+]
+}
+]
+},
+{
+"id": "017",
+"titre": "Un día en la biblioteca",
+"titre2": "Ejercicio 017",
+"texte": [
+"Los jueves por la tarde voy siempre a la biblioteca de la escuela.",
+"Es un lugar muy silencioso, limpio y perfecto para concentrarse.",
+"Hay grandes estanterías de madera llenas de libros de todo tipo.",
+"Tomo un libro de historia antigua y me siento en una mesa.",
+"Estudio durante de dos horas y luego devuelvo el libro a la bibliotecaria."
+],
+"audios": [
+{ "id": "audio-es-read-a1-017-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-017-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-017-01",
+"question": "¿En qué día de la semana va el protagonista a la biblioteca?",
+"reponses": [
+{ "id": "a", "texte": "El lunes por la mañana", "correcte": false },
+{ "id": "b", "texte": "El jueves por la tarde", "correcte": true },
+{ "id": "c", "texte": "El domingo por la noche", "correcte": false },
+{ "id": "d", "texte": "El viernes por la noche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-017-02",
+"question": "¿Cómo es el ambiente de la biblioteca?",
+"reponses": [
+{ "id": "a", "texte": "Muy ruidoso y caótico", "correcte": false },
+{ "id": "b", "texte": "Silencioso, limpio y perfecto para concentrarse", "correcte": true },
+{ "id": "c", "texte": "Oscuro y muy frío", "correcte": false },
+{ "id": "d", "texte": "Lleno de niños que gritan", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-017-03",
+"question": "¿De qué están llenas las estanterías de madera?",
+"reponses": [
+{ "id": "a", "texte": "De libros de todo tipo", "correcte": true },
+{ "id": "b", "texte": "De cuadernos verdes viejos", "correcte": false },
+{ "id": "c", "texte": "De botellas de agua fría", "correcte": false },
+{ "id": "d", "texte": "De plantas verdes", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-017-04",
+"question": "¿Qué libro elige para leer?",
+"reponses": [
+{ "id": "a", "texte": "Un libro de geografía española", "correcte": false },
+{ "id": "b", "texte": "Un libro de historia antigua", "correcte": true },
+{ "id": "c", "texte": "Un diccionario de francés", "correcte": false },
+{ "id": "d", "texte": "Una novela de arte", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-017-05",
+"question": "¿A quién devuelve el libro al final?",
+"reponses": [
+{ "id": "a", "texte": "A la bibliotecaria", "correcte": true },
+{ "id": "b", "texte": "Al profesor de matemáticas", "correcte": false },
+{ "id": "c", "texte": "A su amigo Lucas", "correcte": false },
+{ "id": "d", "texte": "A su madre Elena", "correcte": false }
+]
+}
+]
+},
+{
+"id": "018",
+"titre": "Mis deberes en casa",
+"titre2": "Ejercicio 018",
+"texte": [
+"Cuando vuelvo de la escuela, hago una pequeña pausa y luego empiezo los deberes.",
+"Me siento en mi escritorio y abro el cuaderno de español.",
+"Escribo tres frases largas y leo una página del libro.",
+"A veces los deberes de matemáticas son difíciles y pido ayuda.",
+"Termino todo en una hora y luego puedo jugar feliz en el parque."
+],
+"audios": [
+{ "id": "audio-es-read-a1-018-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-018-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-018-01",
+"question": "¿Qué hace el protagonista justo antes de empezar los deberes?",
+"reponses": [
+{ "id": "a", "texte": "Duerme durante cuatro horas", "correcte": false },
+{ "id": "b", "texte": "Hace una pequeña pausa", "correcte": true },
+{ "id": "c", "texte": "Cocina la cena caliente", "correcte": false },
+{ "id": "d", "texte": "Va enseguida al supermercado", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-018-02",
+"question": "¿Qué cuaderno abre primero en el escritorio?",
+"reponses": [
+{ "id": "a", "texte": "El cuaderno de matemáticas", "correcte": false },
+{ "id": "b", "texte": "El cuaderno de español", "correcte": true },
+{ "id": "c", "texte": "El cuaderno de arte", "correcte": false },
+{ "id": "d", "texte": "El estuche azul", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-018-03",
+"question": "¿Cuántas frases escribe en el cuaderno?",
+"reponses": [
+{ "id": "a", "texte": "Una sola frase corta", "correcte": false },
+{ "id": "b", "texte": "Tres frases largas", "correcte": true },
+{ "id": "c", "texte": "Veinte palabras difíciles", "correcte": false },
+{ "id": "d", "texte": "Ninguna frase", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-018-04",
+"question": "¿Qué deberes son difíciles a veces?",
+"reponses": [
+{ "id": "a", "texte": "Los deberes de arte", "correcte": false },
+{ "id": "b", "texte": "Los deberes de matemáticas", "correcte": true },
+{ "id": "c", "texte": "La lectura en francés", "correcte": false },
+{ "id": "d", "texte": "La clase de historia", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-018-05",
+"question": "¿Cuánto tiempo necesita para terminar todos los deberes?",
+"reponses": [
+{ "id": "a", "texte": "Una hora", "correcte": true },
+{ "id": "b", "texte": "Cinco minutos", "correcte": false },
+{ "id": "c", "texte": "Toda la noche", "correcte": false },
+{ "id": "d", "texte": "Tres días", "correcte": false }
+]
+}
+]
+},
+{
+"id": "019",
+"titre": "El recreo",
+"titre2": "Ejercicio 019",
+"texte": [
+"A las once en punto es el recreo y la clase termina.",
+"Todos los estudiantes salen rápidamente del aula para ir al patio.",
+"Como una manzana roja o un pequeño bocadillo que tengo en la mochila.",
+"Hablo con mis amigos sobre nuestro nuevo programa de historia.",
+"El recreo dura solo quince minutos, pero es muy bonito."
+],
+"audios": [
+{ "id": "audio-es-read-a1-019-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-019-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-019-01",
+"question": "¿A qué hora empieza el recreo?",
+"reponses": [
+{ "id": "a", "texte": "A las Base de la mañana", "correcte": false },
+{ "id": "b", "texte": "A las once en punto", "correcte": true },
+{ "id": "c", "texte": "Al mediodía y medio", "correcte": false },
+{ "id": "d", "texte": "A las catorce horas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-019-02",
+"question": "¿A dónde van los estudiantes durante la pausa?",
+"reponses": [
+{ "id": "a", "texte": "A casa de los padres", "correcte": false },
+{ "id": "b", "texte": "Al patio", "correcte": true },
+{ "id": "c", "texte": "A la farmacia", "correcte": false },
+{ "id": "d", "texte": "A la estación de trenes", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-019-03",
+"question": "¿Qué come el protagonista en el patio?",
+"reponses": [
+{ "id": "a", "texte": "Una manzana roja o un pequeño bocadillo", "correcte": true },
+{ "id": "b", "texte": "Un helado de chocolate frío", "correcte": false },
+{ "id": "c", "texte": "Una sopa de pollo caliente", "correcte": false },
+{ "id": "d", "texte": "Galletas con miel", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-019-04",
+"question": "¿De qué habla el protagonista durante la pausa?",
+"reponses": [
+{ "id": "a", "texte": "De las reglas de gramática", "correcte": false },
+{ "id": "b", "texte": "De nuestro nuevo programa de historia", "correcte": true },
+{ "id": "c", "texte": "De la bibliotecaria", "correcte": false },
+{ "id": "d", "texte": "Del viejo contadino", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-019-05",
+"question": "¿Cuánto tiempo dura el recreo?",
+"reponses": [
+{ "id": "a", "texte": "Quince minutos", "correcte": true },
+{ "id": "b", "texte": "Una hora entera", "correcte": false },
+{ "id": "c", "texte": "Cinco minutos apenas", "correcte": false },
+{ "id": "d", "texte": "Toda la tarde", "correcte": false }
+]
+}
+]
+},
+{
+"id": "020",
+"titre": "Las vacaciones escolares",
+"titre2": "Ejercicio 020",
+"texte": [
+"En verano la escuela cierra por tres meses y empiezan las vacaciones.",
+"No tengo que despertarme temprano por la mañana y no tengo deberes en casa.",
+"Puedo ir al mar con mi familia o quedarme en el jardín.",
+"Voy a menudo a visitar a mis queridos abuelos que viven en el campo.",
+"Las vacaciones son el periodo perfecto para descansar y divertirse."
+],
+"audios": [
+{ "id": "audio-es-read-a1-020-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-020-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-020-01",
+"question": "¿En qué estación del año empieza la larga pausa de la escuela?",
+"reponses": [
+{ "id": "a", "texte": "En invierno cuando nieva", "correcte": false },
+{ "id": "b", "texte": "En verano", "correcte": true },
+{ "id": "c", "texte": "En otoño con el viento", "correcte": false },
+{ "id": "d", "texte": "En diciembre", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-020-02",
+"question": "¿Por cuántos meses se queda cerrada la escuela?",
+"reponses": [
+{ "id": "a", "texte": "Un mes solo", "correcte": false },
+{ "id": "b", "texte": "Tres meses", "correcte": true },
+{ "id": "c", "texte": "Seis meses enteros", "correcte": false },
+{ "id": "d", "texte": "Dos semanas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-020-03",
+"question": "¿Qué NO tiene que hacer el protagonista durante las vacaciones?",
+"reponses": [
+{ "id": "a", "texte": "Despertarse temprano y hacer deberes", "correcte": true },
+{ "id": "b", "texte": "Comer helado en el bar", "correcte": false },
+{ "id": "c", "texte": "Ir a visitar a los abuelos", "correcte": false },
+{ "id": "d", "texte": "Descansar en la cama individual", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-020-04",
+"question": "¿Dónde viven los abuelos del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "En el centro de Madrid", "correcte": false },
+{ "id": "b", "texte": "En el campo", "correcte": true },
+{ "id": "c", "texte": "En Berlín cerca de la estación", "correcte": false },
+{ "id": "d", "texte": "En el mar azul", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-020-05",
+"question": "¿Cómo se define el periodo de las vacaciones?",
+"reponses": [
+{ "id": "a", "texte": "Perfecto para descansar y divertirse", "correcte": true },
+{ "id": "b", "texte": "Muy aburrido y difícil", "correcte": false },
+{ "id": "c", "texte": "Demasiado corto para viajar", "correcte": false },
+{ "id": "d", "texte": "Lleno de estrés y trabajo", "correcte": false }
+]
+}
+]
+}
+]
+
