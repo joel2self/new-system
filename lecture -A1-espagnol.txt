@@ -2038,6 +2038,688 @@
 ]
 }
 ]
+},
+{
+"id": "031",
+"titre": "Mi plato favorito",
+"titre2": "Ejercicio 031",
+"texte": [
+"Mi plato favorito en todo el mundo es la pasta con tomate.",
+"Mi mamá la cocina con tomates frescos y albahaca aromática.",
+"Como un gran plato de pasta cada martes en el almuerzo.",
+"El sabor es maravilloso y siempre me da mucha alegría.",
+"A veces añado también un poco de queso rallado por encima."
+],
+"audios": [
+{ "id": "audio-es-read-a1-031-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-031-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-031-01",
+"question": "¿Cuál es el plato favorito del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "La pizza con aceitunas", "correcte": false },
+{ "id": "b", "texte": "La pasta con tomate", "correcte": true },
+{ "id": "c", "texte": "La sopa de pollo caliente", "correcte": false },
+{ "id": "d", "texte": "Una ensalada mixta", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-031-02",
+"question": "¿Con qué ingredientes cocina la pasta la mamá?",
+"reponses": [
+{ "id": "a", "texte": "Tomates frescos y albahaca aromática", "correcte": true },
+{ "id": "b", "texte": "Patatas y queso marrón", "correcte": false },
+{ "id": "c", "texte": "Naranjas amarillas y miel dulce", "correcte": false },
+{ "id": "d", "texte": "Huevos y pan duro", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-031-03",
+"question": "¿Qué día de la semana come este plato?",
+"reponses": [
+{ "id": "a", "texte": "El sábado por la noche tarde", "correcte": false },
+{ "id": "b", "texte": "El martes en el almuerzo", "correcte": true },
+{ "id": "c", "texte": "El domingo por la mañana temprano", "correcte": false },
+{ "id": "d", "texte": "El viernes en la cena", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-031-04",
+"question": "¿Qué le da este plato al protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Mucha alegría", "correcte": true },
+{ "id": "b", "texte": "Un fuerte dolor de cabeza", "correcte": false },
+{ "id": "c", "texte": "Mucho cansancio", "correcte": false },
+{ "id": "d", "texte": "Miedo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-031-05",
+"question": "A veces, ¿qué añade por encima de la pasta?",
+"reponses": [
+{ "id": "a", "texte": "Un poco de queso rallado", "correcte": true },
+{ "id": "b", "texte": "Un trozo de chocolate frío", "correcte": false },
+{ "id": "c", "texte": "Jarabe dulce", "correcte": false },
+{ "id": "d", "texte": "Fruta fresca", "correcte": false }
+]
 }
 ]
+},
+{
+"id": "032",
+"titre": "Comer en familia",
+"titre2": "Ejercicio 032",
+"texte": [
+"Cada noche a las veinte horas en punto mi familia se sienta a la mesa.",
+"Yo ayudo a mi padre a poner los platos, los vasos y los cubiertos.",
+"Mi madre trae la cena caliente desde la cocina luminosa.",
+"Apagamos la televisión y el teléfono para hablar con calma.",
+"Contamos cómo fue nuestro día y comemos todos juntos felices."
+],
+"audios": [
+{ "id": "audio-es-read-a1-032-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-032-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-032-01",
+"question": "¿A qué hora se sienta a la mesa la familia?",
+"reponses": [
+{ "id": "a", "texte": "A las doce precisas", "correcte": false },
+{ "id": "b", "texte": "A las veinte horas en punto", "correcte": true },
+{ "id": "c", "texte": "A las seis de la mañana", "correcte": false },
+{ "id": "d", "texte": "A medianoche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-032-02",
+"question": "¿A quién ayuda el protagonista a poner la mesa?",
+"reponses": [
+{ "id": "a", "texte": "A su hermana menor", "correcte": false },
+{ "id": "b", "texte": "A su padre", "correcte": true },
+{ "id": "c", "texte": "Al vecino Schmidt", "correcte": false },
+{ "id": "d", "texte": "A la bibliotecaria", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-032-03",
+"question": "¿Qué trae la madre desde la cocina?",
+"reponses": [
+{ "id": "a", "texte": "La cena caliente", "correcte": true },
+{ "id": "b", "texte": "Un cuaderno de la escuela", "correcte": false },
+{ "id": "c", "texte": "Una hucha de cerámica", "correcte": false },
+{ "id": "d", "texte": "Un ramo de flores", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-032-04",
+"question": "¿Qué objetos se apagan en la mesa?",
+"reponses": [
+{ "id": "a", "texte": "La televisión y el teléfono", "correcte": true },
+{ "id": "b", "texte": "Las luces del salón", "correcte": false },
+{ "id": "c", "texte": "La cocina y el horno", "correcte": false },
+{ "id": "d", "texte": "La radio del coche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-032-05",
+"question": "¿Qué hace la familia junta durante la cena?",
+"reponses": [
+{ "id": "a", "texte": "Cuenta su día y come feliz", "correcte": true },
+{ "id": "b", "texte": "Ve una película muy larga", "correcte": false },
+{ "id": "c", "texte": "Estudia la gramática francesa", "correcte": false },
+{ "id": "d", "texte": "Duerme en la silla", "correcte": false }
+]
+}
+]
+},
+{
+"id": "033",
+"titre": "Preparar una ensalada",
+"titre2": "Ejercicio 033",
+"texte": [
+"Hoy en el almuerzo quiero preparar una buena ensalada fresca.",
+"Tomo un bol grande y lavo bien la lechuga verde.",
+"Corto dos tomates rojos y un pepino pequeño en trozos.",
+"Añado un poco de sal, una cucharada de aceite y vinagre.",
+"Mezclo todo con cuidado y ya está: un acompañamiento sano y delicioso."
+],
+"audios": [
+{ "id": "audio-es-read-a1-033-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-033-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-033-01",
+"question": "¿Qué quiere preparar el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Un trozo de focaccia caliente", "correcte": false },
+{ "id": "b", "texte": "Una buena ensalada fresca", "correcte": true },
+{ "id": "c", "texte": "Un pastel de manzana dulce", "correcte": false },
+{ "id": "d", "texte": "Un café con leche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-033-02",
+"question": "¿Qué lava bien dentro del bol grande?",
+"reponses": [
+{ "id": "a", "texte": "Las tazas del desayuno", "correcte": false },
+{ "id": "b", "texte": "La lechuga verde", "correcte": true },
+{ "id": "c", "texte": "Manzanas rojas", "correcte": false },
+{ "id": "d", "texte": "La camisa blanca", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-033-03",
+"question": "¿Qué verdura corta en trozos junto con los tomates?",
+"reponses": [
+{ "id": "a", "texte": "Un pepino pequeño", "correcte": true },
+{ "id": "b", "texte": "Patatas grandes", "correcte": false },
+{ "id": "c", "texte": "Un trozo de pan", "correcte": false },
+{ "id": "d", "texte": "Naranjas amarillas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-033-04",
+"question": "¿Qué condimento usa además de la sal y el aceite?",
+"reponses": [
+{ "id": "a", "texte": "Vinagre", "correcte": true },
+{ "id": "b", "texte": "Miel dulce", "correcte": false },
+{ "id": "c", "texte": "Chocolate", "correcte": false },
+{ "id": "d", "texte": "Jarabe", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-033-05",
+"question": "¿Cómo se define la ensalada al final?",
+"reponses": [
+{ "id": "a", "texte": "Un acompañamiento sano y delicioso", "correcte": true },
+{ "id": "b", "texte": "Un plato muy pesado y caliente", "correcte": false },
+{ "id": "c", "texte": "Una comida demasiado cara", "correcte": false },
+{ "id": "d", "texte": "Mala", "correcte": false }
+]
+}
+]
+},
+{
+"id": "034",
+"titre": "Una receta de pastel",
+"titre2": "Ejercicio 034",
+"texte": [
+"Hoy sigo una receta simple para hacer un pastel de manzana.",
+"En un bol mezclo la harina, el azúcar y dos huevos.",
+"Añado un vaso de leche y muevo bien con una cuchara.",
+"Corto las manzanas en rodajas finas y las pongo sobre la masa.",
+"Cocino todo en el horno caliente durante cuarenta minutos en total."
+],
+"audios": [
+{ "id": "audio-es-read-a1-034-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-034-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-034-01",
+"question": "¿Qué tipo de pastel prepara el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Un pastel de chocolate", "correcte": false },
+{ "id": "b", "texte": "Un pastel de manzana", "correcte": true },
+{ "id": "c", "texte": "Una tarta con miel", "correcte": false },
+{ "id": "d", "texte": "Una focaccia salada", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-034-02",
+"question": "¿Cuántos huevos mezcla en el bol?",
+"reponses": [
+{ "id": "a", "texte": "Un huevo solamente", "correcte": false },
+{ "id": "b", "texte": "Dos huevos", "correcte": true },
+{ "id": "c", "texte": "Cuatro huevos grandes", "correcte": false },
+{ "id": "d", "texte": "Ningún huevo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-034-03",
+"question": "¿Qué líquido añade a la masa?",
+"reponses": [
+{ "id": "a", "texte": "Un vaso de leche", "correcte": true },
+{ "id": "b", "texte": "Una botella de vinagre", "correcte": false },
+{ "id": "c", "texte": "Zumo de naranja frío", "correcte": false },
+{ "id": "d", "texte": "Un café negro dulce", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-034-04",
+"question": "¿Cómo corta las manzanas?",
+"reponses": [
+{ "id": "a", "texte": "En rodajas finas", "correcte": true },
+{ "id": "b", "texte": "En trozos grandes y cuadrados", "correcte": false },
+{ "id": "c", "texte": "No las corta, están enteras", "correcte": false },
+{ "id": "d", "texte": "Las ralla finamente", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-034-05",
+"question": "¿Por cuánto tiempo debe cocer el pastel en el horno?",
+"reponses": [
+{ "id": "a", "texte": "Por cuarenta minutos", "correcte": true },
+{ "id": "b", "texte": "Por cinco minutos solamente", "correcte": false },
+{ "id": "c", "texte": "Por de dos horas enteras", "correcte": false },
+{ "id": "d", "texte": "Toda la noche", "correcte": false }
+]
+}
+]
+},
+{
+"id": "035",
+"titre": "En el restaurante",
+"titre2": "Ejercicio 035",
+"texte": [
+"El sábado por la noche voy a un restaurante típico en el centro.",
+"Un camarero muy educado me trae el menú a la mesa.",
+"Pido una lasaña caliente y una botella de agua mineral.",
+"La comida llega en diez minutos y está realmente deliciosa.",
+"Pido la cuenta, pago en la caja y dejo una pequeña propina."
+],
+"audios": [
+{ "id": "audio-es-read-a1-035-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-035-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-035-01",
+"question": "¿Cuándo va al restaurante el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "El lunes por la mañana temprano", "correcte": false },
+{ "id": "b", "texte": "El sábado por la noche", "correcte": true },
+{ "id": "c", "texte": "El miércoles por la tarde", "correcte": false },
+{ "id": "d", "texte": "El domingo en el desayuno", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-035-02",
+"question": "¿Quién trae el menú a la mesa?",
+"reponses": [
+{ "id": "a", "texte": "Un camarero muy educado", "correcte": true },
+{ "id": "b", "texte": "El profesor Rossi", "correcte": false },
+{ "id": "c", "texte": "La mamá Elena", "correcte": false },
+{ "id": "d", "texte": "Un amigo español", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-035-03",
+"question": "¿Qué plato pide el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Una ensalada de pepino", "correcte": false },
+{ "id": "b", "texte": "Una lasaña caliente", "correcte": true },
+{ "id": "c", "texte": "Un bocadillo con focaccia", "correcte": false },
+{ "id": "d", "texte": "Un pastel de manzana", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-035-04",
+"question": "¿En cuánto tiempo llega la comida?",
+"reponses": [
+{ "id": "a", "texte": "En diez minutos", "correcte": true },
+{ "id": "b", "texte": "Después de una hora larga", "correcte": false },
+{ "id": "c", "texte": "Enseguida, en un segundo", "correcte": false },
+{ "id": "d", "texte": "Al día siguiente", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-035-05",
+"question": "¿Qué deja al final además de pagar la cuenta?",
+"reponses": [
+{ "id": "a", "texte": "Una pequeña propina", "correcte": true },
+{ "id": "b", "texte": "Su mochila azul", "correcte": false },
+{ "id": "c", "texte": "Un libro de historia antigua", "correcte": false },
+{ "id": "d", "texte": "Una receta secreta", "correcte": false }
+]
+}
+]
+},
+{
+"id": "036",
+"titre": "Las frutas que me gustan",
+"titre2": "Ejercicio 036",
+"texte": [
+"Comer fruta hace muy bien para la salud del cuerpo.",
+"Las frutas que más me gustan son las fresas rojas.",
+"En verano compro siempre un gran trozo de sandía fría.",
+"En otoño prefiero comer manzanas dulces o peras.",
+"Cada tarde preparo una macedonia de colores con limón."
+],
+"audios": [
+{ "id": "audio-es-read-a1-036-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-036-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-036-01",
+"question": "¿Por qué es bueno comer fruta según el texto?",
+"reponses": [
+{ "id": "a", "texte": "Para la salud del cuerpo", "correcte": true },
+{ "id": "b", "texte": "Para ahorrar muchos euros", "correcte": false },
+{ "id": "c", "texte": "Para viajar por los países", "correcte": false },
+{ "id": "d", "texte": "Porque está muy de moda", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-036-02",
+"question": "¿Cuáles son sus frutas favoritas en absoluto?",
+"reponses": [
+{ "id": "a", "texte": "Los plátanos amarillos", "correcte": false },
+{ "id": "b", "texte": "Las fresas rojas", "correcte": true },
+{ "id": "c", "texte": "Los limones agrios", "correcte": false },
+{ "id": "d", "texte": "Los pepinos pequeños", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-036-03",
+"question": "¿Qué compra siempre en verano?",
+"reponses": [
+{ "id": "a", "texte": "Un trozo de sandía fría", "correcte": true },
+{ "id": "b", "texte": "Una sopa caliente de pollo", "correcte": false },
+{ "id": "c", "texte": "Una camisa blanca mediana", "correcte": false },
+{ "id": "d", "texte": "Pastillas para la tos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-036-04",
+"question": "¿Qué frutas prefiere comer en otoño?",
+"reponses": [
+{ "id": "a", "texte": "Manzanas dulces o peras", "correcte": true },
+{ "id": "b", "texte": "La sandía grande", "correcte": false },
+{ "id": "c", "texte": "Las fresas del bosque", "correcte": false },
+{ "id": "d", "texte": "Tomates frescos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-036-05",
+"question": "¿Qué prepara cada tarde el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Una macedonia de colores con limón", "correcte": true },
+{ "id": "b", "texte": "Un café negro muy dulce", "correcte": false },
+{ "id": "c", "texte": "Los deberes de matemáticas", "correcte": false },
+{ "id": "d", "texte": "La mochila escolar azul", "correcte": false }
+]
+}
+]
+},
+{
+"id": "037",
+"titre": "Las verduras del huerto",
+"titre2": "Ejercicio 037",
+"texte": [
+"Mi abuelo tiene un huerto precioso detrás de su casa de campo.",
+"Allí crecen muchas verduras ecológicas y muy sanas.",
+"Recogemos juntos zanahorias naranjas y pimientos.",
+"Las verduras del huerto tienen mejor sabor que las del supermercado.",
+"Por la noche la abuela prepara un gran puré de verduras caliente."
+],
+"audios": [
+{ "id": "audio-es-read-a1-037-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-037-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-037-01",
+"question": "¿Dónde se encuentra el huerto del abuelo?",
+"reponses": [
+{ "id": "a", "texte": "En el centro de Madrid", "correcte": false },
+{ "id": "b", "texte": "Detrás de su casa de campo", "correcte": true },
+{ "id": "c", "texte": "Cerca de la gran estación", "correcte": false },
+{ "id": "d", "texte": "En el tejado de la universidad", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-037-02",
+"question": "¿Qué tipo de verduras crecen en el huerto?",
+"reponses": [
+{ "id": "a", "texte": "Verduras ecológicas y sanas", "correcte": true },
+{ "id": "b", "texte": "Verduras falsas de plástico", "correcte": false },
+{ "id": "c", "texte": "Verduras muy caras", "correcte": false },
+{ "id": "d", "texte": "No crece nada", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-037-03",
+"question": "¿De qué color son las zanahorias que recogen?",
+"reponses": [
+{ "id": "a", "texte": "Rojas", "correcte": false },
+{ "id": "b", "texte": "Naranjas", "correcte": true },
+{ "id": "c", "texte": "Amarillas", "correcte": false },
+{ "id": "d", "texte": "Negras", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-037-04",
+"question": "¿En comparación con qué tienen mejor sabor las verduras del huerto?",
+"reponses": [
+{ "id": "a", "texte": "Con las del supermercado", "correcte": true },
+{ "id": "b", "texte": "Con el pastel de manzana", "correcte": false },
+{ "id": "c", "texte": "Con la farmacia", "correcte": false },
+{ "id": "d", "texte": "Con el desayuno", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-037-05",
+"question": "¿Qué prepara la abuela por la noche?",
+"reponses": [
+{ "id": "a", "texte": "Un gran puré de verduras caliente", "correcte": true },
+{ "id": "b", "texte": "Una lasaña pesada con carne", "correcte": false },
+{ "id": "c", "texte": "Un bocadillo rápido con queso", "correcte": false },
+{ "id": "d", "texte": "Un helado de limón", "correcte": false }
+]
+}
+]
+},
+{
+"id": "038",
+"titre": "El almuerzo al mediodía",
+"titre2": "Ejercicio 038",
+"texte": [
+"Al mediodía en punto tengo siempre mucha hambre y hago una pausa.",
+"Normalmente como un almuerzo ligero para no estar cansado después.",
+"Preparo un plato de arroz blanco o una pequeña tortilla.",
+"Bebo un vaso de agua fresca de la fuente del jardín.",
+"Este momento me ayuda a recargar la energía para la tarde."
+],
+"audios": [
+{ "id": "audio-es-read-a1-038-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-038-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-038-01",
+"question": "¿Cómo se siente el protagonista al mediodía?",
+"reponses": [
+{ "id": "a", "texte": "Tiene siempre mucha hambre", "correcte": true },
+{ "id": "b", "texte": "Quiere dormir enseguida en la cama", "correcte": false },
+{ "id": "c", "texte": "Está muy aburrido de la clase", "correcte": false },
+{ "id": "d", "texte": "Se siente mal", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-038-02",
+"question": "¿Por qué come un almuerzo ligero normalmente?",
+"reponses": [
+{ "id": "a", "texte": "Para no estar cansado después", "correcte": true },
+{ "id": "b", "texte": "Porque no tiene dinero en la hucha", "correcte": false },
+{ "id": "c", "texte": "Porque la comida es mala", "correcte": false },
+{ "id": "d", "texte": "Para correr más rápido en el parque", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-038-03",
+"question": "¿Qué platos prepara habitualmente para el almuerzo?",
+"reponses": [
+{ "id": "a", "texte": "Arroz blanco o una pequeña tortilla", "correcte": true },
+{ "id": "b", "texte": "Una lasaña en el restaurante grande", "correcte": false },
+{ "id": "c", "texte": "Un pastel de manzana entero con azúcar", "correcte": false },
+{ "id": "d", "texte": "Un bocadillo con focaccia dulce", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-038-04",
+"question": "¿De dónde viene el agua fresca que bebe?",
+"reponses": [
+{ "id": "a", "texte": "De la fuente del jardín", "correcte": true },
+{ "id": "b", "texte": "Del gran supermercado del centro", "correcte": false },
+{ "id": "c", "texte": "De la farmacia útil", "correcte": false },
+{ "id": "d", "texte": "Del frigorífico de la escuela", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-038-05",
+"question": "¿Para qué sirve este momento de pausa?",
+"reponses": [
+{ "id": "a", "texte": "Para recargar la energía para la tarde", "correcte": true },
+{ "id": "b", "texte": "Para olvidar los deberes de arte", "correcte": false },
+{ "id": "c", "texte": "Para llamar a su amigo español Thomas", "correcte": false },
+{ "id": "d", "texte": "Para limpiar la cocina de madera", "correcte": false }
+]
+}
+]
+},
+{
+"id": "039",
+"titre": "Una cena con amigos",
+"titre2": "Ejercicio 039",
+"texte": [
+"Este viernes por la noche organizo una cena especial con mi amigos.",
+"Lucas y Elena vienen a mi casa hacia las diecinueve y treinta.",
+"Pedimos tres grandes pizzas para llevar con champiñones y aceitunas.",
+"Nos sentamos en el cómodo sofá del salón a comer y hablar.",
+"Pasamos una noche hermosa riendo juntos hasta tarde."
+],
+"audios": [
+{ "id": "audio-es-read-a1-039-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-039-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-039-01",
+"question": "¿En qué noche de la semana es la cena especial?",
+"reponses": [
+{ "id": "a", "texte": "El lunes por la mañana temprano", "correcte": false },
+{ "id": "b", "texte": "Este viernes por la noche", "correcte": true },
+{ "id": "c", "texte": "El sábado en el almuerzo", "correcte": false },
+{ "id": "d", "texte": "El domingo por la noche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-039-02",
+"question": "¿Qué amigos vienen a casa del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Carlos y Roberto", "correcte": false },
+{ "id": "b", "texte": "Lucas y Elena", "correcte": true },
+{ "id": "c", "texte": "El profesor Rossi", "correcte": false },
+{ "id": "d", "texte": "Chiara y Lorenzo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-039-03",
+"question": "¿Qué piden para comer los amigos?",
+"reponses": [
+{ "id": "a", "texte": "Un puré de verduras del huerto", "correcte": false },
+{ "id": "b", "texte": "Tres grandes pizzas para llevar", "correcte": true },
+{ "id": "c", "texte": "Una lasaña caliente con tomate", "correcte": false },
+{ "id": "d", "texte": "Bocadillos con focaccia dulce", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-039-04",
+"question": "¿Dónde se sientan a comer las pizzas?",
+"reponses": [
+{ "id": "a", "texte": "En el cómodo sofá del salón", "correcte": true },
+{ "id": "b", "texte": "Alrededor de la mesa de madera de la cocina", "correcte": false },
+{ "id": "c", "texte": "En el suelo del dormitorio", "correcte": false },
+{ "id": "d", "texte": "En el patio de la escuela cerrada", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-039-05",
+"question": "¿Hasta cuándo dura la hermosa noche juntos?",
+"reponses": [
+{ "id": "a", "texte": "Hasta tarde", "correcte": true },
+{ "id": "b", "texte": "Solo por cinco minutos rápidos", "correcte": false },
+{ "id": "c", "texte": "Hasta el mediodía del sábado", "correcte": false },
+{ "id": "d", "texte": "Termina justo antes de comer", "correcte": false }
+]
+}
+]
+},
+{
+"id": "040",
+"titre": "Un día sin carne",
+"titre2": "Ejercicio 040",
+"texte": [
+"El lunes es mi día especial sin carne de la semana.",
+"Elijo comer alimentos vegetarianos para ayudar a mi salud.",
+"En el almuerzo como una buena sopa de lentejas con pan.",
+"Por la noche cocino unos calabacines y tomates al horno.",
+"Me siento muy ligero, feliz y lleno de energía vital."
+],
+"audios": [
+{ "id": "audio-es-read-a1-040-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-040-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-040-01",
+"question": "¿Qué día está dedicado a la comida sin carne?",
+"reponses": [
+{ "id": "a", "texte": "El sábado por la noche", "correcte": false },
+{ "id": "b", "texte": "El lunes", "correcte": true },
+{ "id": "c", "texte": "El domingo por la mañana", "correcte": false },
+{ "id": "d", "texte": "Cada día del mes", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-040-02",
+"question": "¿Por qué elige comer alimentos vegetarianos?",
+"reponses": [
+{ "id": "a", "texte": "Para ayudar a su salud", "correcte": true },
+{ "id": "b", "texte": "Porque la carne cuesta demasiado dinero", "correcte": false },
+{ "id": "c", "texte": "Porque el supermercado está cerrado", "correcte": false },
+{ "id": "d", "texte": "Para hacer una foto de colores", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-040-03",
+"question": "¿Qué come el protagonista para el almuerzo el lunes?",
+"reponses": [
+{ "id": "a", "texte": "Una lasaña caliente en el restaurante", "correcte": false },
+{ "id": "b", "texte": "Una buena sopa de lentejas con pan", "correcte": true },
+{ "id": "c", "texte": "Una ensalada verde con tomates y pepinos", "correcte": false },
+{ "id": "d", "texte": "Tres rodajas de pastel de manzana dulce", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-040-04",
+"question": "¿Qué verduras cocina al horno por la noche?",
+"reponses": [
+{ "id": "a", "texte": "Calabacines y tomates", "correcte": true },
+{ "id": "b", "texte": "Zanahorias naranjas grandes del huerto", "correcte": false },
+{ "id": "c", "texte": "Patatas fritas pesadas", "correcte": false },
+{ "id": "d", "texte": "Ninguna verdura, solo come fruta", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-040-05",
+"question": "¿Cómo se siente al final de este día?",
+"reponses": [
+{ "id": "a", "texte": "Muy ligero, feliz y lleno de energía", "correcte": true },
+{ "id": "b", "texte": "Extremadamente cansado, enfermo y triste", "correcte": false },
+{ "id": "c", "texte": "Enfadado con sus amigos más queridos", "correcte": false },
+{ "id": "d", "texte": "Nervioso por el programa de historia", "correcte": false }
+]
+}
+]
+}
+]
+
+
 
