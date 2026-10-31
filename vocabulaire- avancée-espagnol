@@ -538,5 +538,366 @@
       {"text": "La comisión debe {{1}} las solicitudes, {{2}} los documentos y {{3}} las decisiones adoptadas.", "answers": ["tramitar", "archivar", "registrar"]},
       {"text": "El análisis permitió {{1}} los factores determinantes y {{2}} las variables que habían sido {{3}}.", "answers": ["identificar", "precisar", "omitidas"]}
     ]
+  },
+ {
+    "id": "031",
+    "titre": "Preposiciones y régimen preposicional",
+    "definition": "Las preposiciones establecen relaciones de dependencia entre los elementos de una oración. Algunas palabras exigen preposiciones específicas, cuyo uso correcto depende de su régimen gramatical y de su significado.",
+    "instruction": "Completa cada frase con las preposiciones adecuadas.",
+    "questions": [
+      {"text": "La directora insistió {{1}} la necesidad de actuar {{2}} prudencia y respetar los plazos {{3}} establecidos.", "answers": ["en", "con", "previamente"]},
+      {"text": "El investigador se mostró convencido {{1}} que los resultados dependían {{2}} las condiciones {{3}} experimentación.", "answers": ["de", "de", "de"]},
+      {"text": "La empresa aspira {{1}} consolidar su presencia {{2}} mercados internacionales y competir {{3}} las grandes compañías.", "answers": ["a", "en", "con"]},
+      {"text": "El acuerdo fue alcanzado {{1}} pesar de las diferencias existentes {{2}} ambas delegaciones y las dificultades {{3}} negociación.", "answers": ["a", "entre", "de"]},
+      {"text": "Los responsables deberán responder {{1}} las irregularidades y justificar sus decisiones {{2}} los organismos {{3}} control.", "answers": ["por", "ante", "de"]},
+      {"text": "La propuesta se basa {{1}} criterios objetivos y pretende contribuir {{2}} la mejora {{3}} los servicios públicos.", "answers": ["en", "a", "de"]},
+      {"text": "El informe hace referencia {{1}} los cambios introducidos y advierte {{2}} los riesgos asociados {{3}} su aplicación.", "answers": ["a", "de", "con"]},
+      {"text": "La organización cuenta {{1}} especialistas capaces {{2}} intervenir {{3}} situaciones complejas.", "answers": ["con", "de", "en"]},
+      {"text": "El ministro se pronunció {{1}} favor {{2}} la reforma, aunque manifestó reservas {{3}} algunos aspectos.", "answers": ["a", "de", "sobre"]},
+      {"text": "La investigación se centra {{1}} las causas del fenómeno y establece una relación {{2}} las variables estudiadas {{3}} el contexto social.", "answers": ["en", "entre", "y"]}
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Adverbios y modificación del enunciado",
+    "definition": "Los adverbios modifican verbos, adjetivos, otros adverbios o enunciados completos. Pueden expresar tiempo, lugar, modo, cantidad, afirmación, negación, duda y valoración del hablante.",
+    "instruction": "Completa cada frase con los adverbios adecuados.",
+    "questions": [
+      {"text": "La comisión examinó {{1}} las propuestas y decidió {{2}} aplazar la votación debido a las circunstancias {{3}}.", "answers": ["detenidamente", "provisionalmente", "actuales"]},
+      {"text": "El investigador había advertido {{1}} sobre los riesgos, pero sus recomendaciones fueron {{2}} consideradas y el proyecto avanzó {{3}}.", "answers": ["reiteradamente", "escasamente", "precipitadamente"]},
+      {"text": "La situación económica evoluciona {{1}}, aunque todavía resulta {{2}} difícil prever sus consecuencias {{3}}.", "answers": ["favorablemente", "relativamente", "exactamente"]},
+      {"text": "El portavoz respondió {{1}} a las preguntas y explicó {{2}} por qué la decisión debía aplicarse {{3}}.", "answers": ["serenamente", "detalladamente", "inmediatamente"]},
+      {"text": "La organización había trabajado {{1}} para alcanzar sus objetivos y finalmente consiguió resultados {{2}} satisfactorios, {{3}} superiores a las expectativas.", "answers": ["intensamente", "considerablemente", "incluso"]},
+      {"text": "El documento no fue {{1}} revisado y contenía errores que podrían haberse evitado {{2}} mediante una comprobación {{3}}.", "answers": ["suficientemente", "fácilmente", "previa"]},
+      {"text": "La empresa opera {{1}} en varios países y pretende ampliar sus actividades {{2}} hacia mercados {{3}}.", "answers": ["actualmente", "progresivamente", "emergentes"]},
+      {"text": "Los resultados fueron {{1}} positivos, pero el equipo consideró {{2}} necesario realizar nuevas pruebas antes de concluir {{3}}.", "answers": ["relativamente", "especialmente", "definitivamente"]},
+      {"text": "La reforma se aplicó {{1}} y sus efectos comenzaron a observarse {{2}}, aunque no se distribuyeron {{3}} entre todos los sectores.", "answers": ["gradualmente", "inmediatamente", "uniformemente"]},
+      {"text": "El tribunal actuó {{1}} conforme a la legislación y rechazó una interpretación {{2}} restrictiva que habría limitado {{3}} los derechos fundamentales.", "answers": ["estrictamente", "excesivamente", "innecesariamente"]}
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Conjunciones y relaciones sintácticas",
+    "definition": "Las conjunciones permiten coordinar o subordinar palabras, grupos sintácticos y oraciones. Expresan relaciones de adición, oposición, causa, consecuencia, condición, finalidad y concesión.",
+    "instruction": "Completa cada frase con las conjunciones adecuadas.",
+    "questions": [
+      {"text": "La propuesta fue aceptada, {{1}} algunos miembros manifestaron reservas {{2}} consideraban insuficientes las garantías ofrecidas.", "answers": ["aunque", "porque"]},
+      {"text": "La empresa ampliará su plantilla {{1}} aumente la demanda {{2}} disponga de los recursos necesarios.", "answers": ["siempre que", "y"]},
+      {"text": "No se aprobará la reforma {{1}} se hayan evaluado sus consecuencias {{2}} se hayan consultado los sectores afectados.", "answers": ["hasta que", "y"]},
+      {"text": "El investigador no solo identificó las causas del problema, {{1}} también propuso soluciones {{2}} pudieran aplicarse a corto plazo.", "answers": ["sino que", "que"]},
+      {"text": "La negociación continuará {{1}} las partes mantengan una actitud constructiva {{2}} exista voluntad de alcanzar un acuerdo.", "answers": ["mientras", "y"]},
+      {"text": "La medida será efectiva {{1}} se aplique correctamente, {{2}} su diseño inicial sea adecuado.", "answers": ["si", "aunque"]},
+      {"text": "El comité rechazó la solicitud {{1}} no cumplía los requisitos establecidos {{2}} carecía de documentación suficiente.", "answers": ["porque", "y"]},
+      {"text": "La institución mantendrá el programa {{1}} disminuya el presupuesto, {{2}} buscará fuentes alternativas de financiación.", "answers": ["aunque", "pero"]},
+      {"text": "Los responsables deberán justificar la decisión, {{1}} esta haya sido adoptada por unanimidad {{2}} cuente con respaldo institucional.", "answers": ["aunque", "y"]},
+      {"text": "El proyecto podrá ejecutarse {{1}} se resuelvan los problemas técnicos {{2}} se garantice la financiación necesaria.", "answers": ["siempre que", "y"]}
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "Artículos y determinación nominal",
+    "definition": "Los artículos determinados e indeterminados acompañan a los sustantivos y permiten identificar, introducir o generalizar referentes. Su elección depende del contexto, de la especificidad y de las características gramaticales del nombre.",
+    "instruction": "Completa cada frase con los artículos adecuados.",
+    "questions": [
+      {"text": "{{1}} investigación publicada recientemente cuestiona {{2}} interpretación tradicional de {{3}} fenómeno.", "answers": ["La", "la", "el"]},
+      {"text": "La organización presentó {{1}} informe sobre {{2}} consecuencias económicas de {{3}} nueva normativa.", "answers": ["un", "las", "la"]},
+      {"text": "{{1}} agua almacenada en {{2}} depósitos debe someterse a {{3}} controles periódicos.", "answers": ["El", "los", "unos"]},
+      {"text": "La directora convocó {{1}} reunión para analizar {{2}} resultados y definir {{3}} estrategia futura.", "answers": ["una", "los", "la"]},
+      {"text": "{{1}} autoridades anunciaron {{2}} medidas destinadas a proteger {{3}} población vulnerable.", "answers": ["Las", "unas", "la"]},
+      {"text": "El estudio examina {{1}} influencia de {{2}} tecnología en {{3}} transformación del mercado laboral.", "answers": ["la", "la", "la"]},
+      {"text": "La empresa adquirió {{1}} maquinaria especializada y contrató {{2}} técnicos con experiencia en {{3}} sector.", "answers": ["una", "a unos", "el"]},
+      {"text": "{{1}} mayoría de los participantes consideró que {{2}} decisión había sido {{3}} error estratégico.", "answers": ["La", "la", "un"]},
+      {"text": "El informe señala que {{1}} desempleo juvenil constituye {{2}} de los principales desafíos de {{3}} economía nacional.", "answers": ["el", "uno", "la"]},
+      {"text": "Durante {{1}} negociación, ambas partes alcanzaron {{2}} acuerdo que podría modificar {{3}} relaciones comerciales.", "answers": ["la", "un", "las"]}
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "Pronombres y referencias anafóricas",
+    "definition": "Los pronombres sustituyen o representan elementos nominales y permiten evitar repeticiones. Su interpretación depende de la concordancia, de la función sintáctica y de las relaciones de referencia dentro del discurso.",
+    "instruction": "Completa cada frase con los pronombres adecuados.",
+    "questions": [
+      {"text": "La directora presentó las conclusiones al consejo y {{1}} explicó detalladamente antes de que {{2}} fueran sometidas a votación.", "answers": ["se las", "estas"]},
+      {"text": "Los documentos estaban incompletos, por lo que el secretario {{1}} devolvió a los responsables para que {{2}} corrigieran.", "answers": ["se los", "los"]},
+      {"text": "La propuesta interesaba a los inversores, pero ninguno de {{1}} quiso comprometerse hasta conocer {{2}} condiciones definitivas.", "answers": ["ellos", "sus"]},
+      {"text": "El investigador descubrió varias irregularidades y decidió informar {{1}} a las autoridades antes de que {{2}} se agravaran.", "answers": ["de ellas", "estas"]},
+      {"text": "La empresa ofreció nuevas condiciones a sus empleados y {{1}} comunicó mediante una reunión en la que {{2}} pudieron plantear sus dudas.", "answers": ["se las", "estos"]},
+      {"text": "No todos los candidatos superaron la evaluación; únicamente {{1}} que habían obtenido una puntuación elevada fueron seleccionados.", "answers": ["aquellos"]},
+      {"text": "El comité examinó las solicitudes y rechazó {{1}} que no cumplían los requisitos, aunque concedió un plazo adicional a {{2}} que podían subsanar sus errores.", "answers": ["aquellas", "quienes"]},
+      {"text": "La investigadora compartió sus resultados con sus colegas, quienes {{1}} analizaron y posteriormente {{2}} publicaron en una revista especializada.", "answers": ["los", "los"]},
+      {"text": "Los responsables no encontraron una solución inmediata, pero {{1}} prometieron continuar trabajando hasta conseguir {{2}}.", "answers": ["se", "la"]},
+      {"text": "El director habló con los representantes y {{1}} pidió que transmitieran la decisión a sus respectivos equipos, para que {{2}} pudieran organizarse.", "answers": ["les", "estos"]}
+    ]
+  },
+  {
+    "id": "036",
+    "titre": "Sustantivos y formación nominal",
+    "definition": "Los sustantivos designan entidades, conceptos, procesos, cualidades y estados. Pueden formarse mediante derivación, composición o conversión, y presentan variaciones de género, número y significado.",
+    "instruction": "Completa cada frase con los sustantivos adecuados.",
+    "questions": [
+      {"text": "La {{1}} de los recursos y la {{2}} de los procedimientos permitieron mejorar la {{3}} institucional.", "answers": ["optimización", "reorganización", "eficiencia"]},
+      {"text": "La {{1}} demográfica y la {{2}} territorial plantean nuevos desafíos para la {{3}} pública.", "answers": ["transición", "desigualdad", "planificación"]},
+      {"text": "El {{1}} de las inversiones depende de la {{2}} económica y de la {{3}} del mercado.", "answers": ["volumen", "estabilidad", "evolución"]},
+      {"text": "La {{1}} de los resultados exige una metodología rigurosa y una correcta {{2}} de los datos obtenidos durante la {{3}}.", "answers": ["interpretación", "clasificación", "investigación"]},
+      {"text": "La {{1}} institucional y la {{2}} administrativa son condiciones esenciales para garantizar la {{3}} de los servicios.", "answers": ["transparencia", "responsabilidad", "continuidad"]},
+      {"text": "El {{1}} tecnológico ha transformado la {{2}} empresarial y ha favorecido la {{3}} de nuevos modelos de negocio.", "answers": ["desarrollo", "organización", "aparición"]},
+      {"text": "La {{1}} de los conflictos requiere diálogo, {{2}} mutua y voluntad de {{3}}.", "answers": ["resolución", "comprensión", "cooperación"]},
+      {"text": "La {{1}} del conocimiento y la {{2}} de la información favorecen la {{3}} científica.", "answers": ["producción", "difusión", "innovación"]},
+      {"text": "La {{1}} de los recursos naturales y la {{2}} de los ecosistemas son prioridades de la {{3}} ambiental.", "answers": ["conservación", "restauración", "política"]},
+      {"text": "La {{1}} de oportunidades y la {{2}} de las condiciones laborales contribuyen a la {{3}} social.", "answers": ["igualdad", "mejora", "cohesión"]}
+    ]
+  },
+  {
+    "id": "037",
+    "titre": "Verbos y construcciones verbales",
+    "definition": "Los verbos expresan acciones, procesos, estados y cambios. Su selección y combinación con auxiliares, perífrasis y complementos determinan el significado y la estructura de los enunciados.",
+    "instruction": "Completa cada frase con las formas verbales y las construcciones adecuadas.",
+    "questions": [
+      {"text": "Los responsables {{1}} revisar el procedimiento antes de que la nueva normativa {{2}} en vigor.", "answers": ["deberán", "entre"]},
+      {"text": "La comisión {{1}} estudiando las propuestas cuando recibió una solicitud que {{2}} modificar el calendario previsto.", "answers": ["estaba", "podría"]},
+      {"text": "El director {{1}} que los resultados {{2}} publicados una vez que los expertos {{3}} su análisis.", "answers": ["anunció", "serían", "hubieran concluido"]},
+      {"text": "La empresa {{1}} invertir en tecnología si {{2}} garantizar una rentabilidad suficiente.", "answers": ["podría", "pudiera"]},
+      {"text": "Los investigadores {{1}} demostrar que las variables {{2}} relacionadas con el fenómeno observado.", "answers": ["lograron", "estaban"]},
+      {"text": "La organización {{1}} de ampliar sus actividades, pero todavía no {{2}} los recursos necesarios.", "answers": ["pretende", "dispone de"]},
+      {"text": "El tribunal {{1}} que las pruebas {{2}} obtenidas conforme a la legislación vigente.", "answers": ["determinó", "habían sido"]},
+      {"text": "Cuando los técnicos {{1}} las reparaciones, el sistema {{2}} funcionar con normalidad.", "answers": ["hayan terminado", "volverá a"]},
+      {"text": "La directora {{1}} a los empleados que {{2}} cualquier irregularidad de inmediato.", "answers": ["pidió", "comunicaran"]},
+      {"text": "Si las autoridades {{1}} las recomendaciones, los efectos negativos {{2}} considerablemente.", "answers": ["hubieran aplicado", "se habrían reducido"]}
+    ]
+  },
+  {
+    "id": "038",
+    "titre": "Prefijos y sufijos",
+    "definition": "Los prefijos se añaden antes de una raíz léxica y los sufijos después de ella. Ambos procedimientos modifican el significado o la categoría gramatical de las palabras y permiten crear nuevas unidades léxicas.",
+    "instruction": "Completa cada frase con las palabras formadas mediante prefijos o sufijos adecuados.",
+    "questions": [
+      {"text": "La {{1}} de los datos provocó una interpretación {{2}} y una conclusión completamente {{3}}.", "answers": ["tergiversación", "errónea", "infundada"]},
+      {"text": "El acuerdo fue considerado {{1}} porque algunas cláusulas resultaban {{2}} y jurídicamente {{3}}.", "answers": ["inviable", "incomprensibles", "cuestionables"]},
+      {"text": "La empresa busca {{1}} sus operaciones y evitar una excesiva {{2}} de sus actividades en un único mercado.", "answers": ["internacionalizar", "concentración"]},
+      {"text": "La {{1}} de los procedimientos y la {{2}} de los recursos permitieron una gestión más {{3}}.", "answers": ["simplificación", "redistribución", "eficiente"]},
+      {"text": "El informe contiene afirmaciones {{1}} y presenta una argumentación poco {{2}}, lo que reduce su {{3}}.", "answers": ["contradictorias", "convincente", "credibilidad"]},
+      {"text": "La {{1}} del sistema permitió corregir errores y mejorar su {{2}} y su {{3}}.", "answers": ["reestructuración", "funcionalidad", "estabilidad"]},
+      {"text": "La propuesta fue {{1}} por falta de financiación y por la {{2}} de sus objetivos estratégicos.", "answers": ["desestimada", "indefinición"]},
+      {"text": "La {{1}} de los recursos naturales requiere una política {{2}} y una vigilancia {{3}}.", "answers": ["sobreexplotación", "medioambiental", "permanente"]},
+      {"text": "La {{1}} de los servicios y la {{2}} de los procesos administrativos favorecen una mayor {{3}}.", "answers": ["digitalización", "automatización", "productividad"]},
+      {"text": "La falta de {{1}} puede provocar una {{2}} de los conflictos y una creciente {{3}} institucional.", "answers": ["previsión", "intensificación", "inestabilidad"]}
+    ]
+  },
+  {
+    "id": "039",
+    "titre": "Negación y estructuras negativas",
+    "definition": "La negación permite expresar la inexistencia, la imposibilidad, el rechazo o la ausencia de una acción o situación. En español se construye mediante adverbios, pronombres, determinantes y expresiones negativas.",
+    "instruction": "Completa cada frase con las estructuras negativas adecuadas.",
+    "questions": [
+      {"text": "La comisión {{1}} encontró {{2}} pruebas que permitieran demostrar la responsabilidad de los acusados.", "answers": ["no", "ninguna"]},
+      {"text": "{{1}} los responsables aceptaron la propuesta, {{2}} se opusieron a ella de manera explícita.", "answers": ["No todos", "ni"]},
+      {"text": "El director afirmó que {{1}} había recibido {{2}} comunicación oficial sobre el cambio de calendario.", "answers": ["no", "ninguna"]},
+      {"text": "La organización no dispone de recursos {{1}} para financiar el proyecto, {{2}} puede garantizar su continuidad.", "answers": ["suficientes", "ni"]},
+      {"text": "{{1}} se habían publicado los resultados cuando comenzaron a circular informaciones contradictorias.", "answers": ["Aún no"]},
+      {"text": "El investigador no encontró {{1}} irregularidad en el procedimiento ni {{2}} evidencia de manipulación.", "answers": ["ninguna", "ninguna"]},
+      {"text": "La reforma no solo no resolvió el problema, {{1}} también generó nuevas dificultades que {{2}} habían sido previstas.", "answers": ["sino que", "no"]},
+      {"text": "No existe {{1}} razón convincente para aplazar la decisión, ni {{2}} justificación jurídica que lo permita.", "answers": ["ninguna", "ninguna"]},
+      {"text": "La dirección aseguró que {{1}} modificaría las condiciones sin consultar previamente a los trabajadores.", "answers": ["jamás"]},
+      {"text": "{{1}} los documentos estaban disponibles ni los responsables podían confirmar que la información fuera completa.", "answers": ["Ni"]}
+    ]
+  },
+  {
+    "id": "040",
+    "titre": "Comparativos y estructuras de comparación",
+    "definition": "Las estructuras comparativas permiten establecer relaciones de igualdad, superioridad o inferioridad entre cualidades, cantidades, acciones y situaciones. También pueden expresar proporcionalidad y diferencias de grado.",
+    "instruction": "Completa cada frase con las estructuras comparativas adecuadas.",
+    "questions": [
+      {"text": "La nueva metodología resultó {{1}} eficaz {{2}} la anterior y considerablemente {{3}} costosa.", "answers": ["tan", "como", "menos"]},
+      {"text": "Cuanto {{1}} se invierte en investigación, {{2}} posibilidades existen de obtener resultados {{3}} innovadores.", "answers": ["más", "mayores", "más"]},
+      {"text": "La situación económica es {{1}} compleja {{2}} se había previsto, pero no tan {{3}} como la de años anteriores.", "answers": ["más", "de lo que", "inestable"]},
+      {"text": "El segundo informe contiene {{1}} información relevante {{2}} el primero, aunque presenta {{3}} detalles metodológicos.", "answers": ["menos", "que", "más"]},
+      {"text": "La reforma fue {{1}} ambiciosa {{2}} necesaria, dado que el sistema necesitaba cambios {{3}} profundos.", "answers": ["tan", "como", "más"]},
+      {"text": "Los resultados obtenidos fueron {{1}} satisfactorios {{2}} los esperados y mucho {{3}} significativos que los anteriores.", "answers": ["más", "que", "más"]},
+      {"text": "Ninguna de las alternativas parece {{1}} viable {{2}} la propuesta inicial, que sigue siendo la {{3}} conveniente.", "answers": ["tan", "como", "más"]},
+      {"text": "El coste de la operación fue {{1}} elevado {{2}} se había calculado, mientras que los beneficios resultaron {{3}} importantes.", "answers": ["más", "de lo que", "menos"]},
+      {"text": "Cuanto {{1}} transparente sea el procedimiento, {{2}} confianza generará entre los ciudadanos y {{3}} objeciones recibirá.", "answers": ["más", "mayor", "menos"]},
+      {"text": "La productividad de este departamento es {{1}} alta {{2}} la del año pasado, pero todavía {{3}} elevada que la de sus competidores.", "answers": ["tan", "como", "menos"]}
+    ]
+  },
+  {
+    "id": "041",
+    "titre": "Complementos verbales y funciones sintácticas",
+    "definition": "Los complementos verbales amplían o precisan el significado del verbo. Entre ellos se encuentran el complemento directo, indirecto, de régimen, circunstancial, atributo y complemento predicativo.",
+    "instruction": "Completa cada frase con los elementos adecuados para construir correctamente las relaciones sintácticas.",
+    "questions": [
+      {"text": "La directora entregó {{1}} el informe definitivo {{2}} después de revisar {{3}} cuidadosamente.", "answers": ["al consejo", "ayer", "los datos"]},
+      {"text": "El investigador confía {{1}} y considera imprescindible {{2}} antes de publicar sus conclusiones {{3}}.", "answers": ["en sus colaboradores", "verificar los resultados", "definitivas"]},
+      {"text": "La empresa ofreció {{1}} nuevas condiciones laborales {{2}} para mejorar {{3}}.", "answers": ["a sus empleados", "durante la negociación", "su productividad"]},
+      {"text": "El tribunal declaró {{1}} al acusado y ordenó {{2}} inmediatamente después de escuchar {{3}}.", "answers": ["inocente", "su liberación", "a los testigos"]},
+      {"text": "Los técnicos instalaron {{1}} en el edificio principal y explicaron {{2}} a los responsables {{3}}.", "answers": ["un sistema de seguridad", "su funcionamiento", "del mantenimiento"]},
+      {"text": "La investigadora dedicó {{1}} a analizar {{2}} y presentó {{3}} ante el comité científico.", "answers": ["varios meses", "las muestras", "sus conclusiones"]},
+      {"text": "El portavoz informó {{1}} sobre {{2}} y respondió {{3}} durante la conferencia.", "answers": ["a los periodistas", "las nuevas medidas", "a sus preguntas"]},
+      {"text": "La organización considera {{1}} la transparencia institucional y trabaja {{2}} para garantizar {{3}}.", "answers": ["fundamental", "activamente", "su cumplimiento"]},
+      {"text": "El responsable acusó {{1}} de haber ocultado {{2}} y presentó {{3}} ante la comisión.", "answers": ["al proveedor", "información relevante", "las pruebas"]},
+      {"text": "La dirección nombró {{1}} coordinadora del proyecto y le encargó {{2}} de las actividades {{3}}.", "answers": ["a Marta", "la supervisión", "internacionales"]}
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Oraciones interrogativas y preguntas indirectas",
+    "definition": "Las oraciones interrogativas pueden ser directas o indirectas, totales o parciales. Las preguntas indirectas se integran en estructuras subordinadas y conservan los interrogativos tónicos cuando expresan una incógnita.",
+    "instruction": "Completa cada frase con los interrogativos y las estructuras adecuadas.",
+    "questions": [
+      {"text": "La comisión todavía no sabe {{1}} se produjo el error ni {{2}} fueron los responsables de autorizarlo.", "answers": ["cómo", "quiénes"]},
+      {"text": "El investigador preguntó {{1}} muestras se habían analizado y {{2}} tiempo había durado el experimento.", "answers": ["cuántas", "cuánto"]},
+      {"text": "Nadie pudo explicar {{1}} había desaparecido la documentación ni {{2}} había tenido acceso a ella.", "answers": ["por qué", "quién"]},
+      {"text": "La dirección necesita determinar {{1}} recursos serán necesarios y {{2}} podrán obtenerse.", "answers": ["cuántos", "cómo"]},
+      {"text": "El periodista quiso saber {{1}} se había tomado la decisión y {{2}} consecuencias tendría para la población.", "answers": ["cuándo", "qué"]},
+      {"text": "Los técnicos investigan {{1}} falló el sistema y {{2}} medidas deben adoptarse para evitar nuevos incidentes.", "answers": ["por qué", "qué"]},
+      {"text": "El tribunal preguntó {{1}} había presenciado los hechos y {{2}} había ocurrido exactamente.", "answers": ["quién", "qué"]},
+      {"text": "Todavía no se ha determinado {{1}} será el coste total ni {{2}} se financiará la operación.", "answers": ["cuál", "cómo"]},
+      {"text": "La investigadora quiso averiguar {{1}} variables influían en los resultados y {{2}} era su importancia relativa.", "answers": ["qué", "cuál"]},
+      {"text": "El consejo debatió {{1}} convenía aplazar la votación y {{2}} era el momento más adecuado para retomarla.", "answers": ["si", "cuándo"]}
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Oraciones subordinadas sustantivas",
+    "definition": "Las subordinadas sustantivas desempeñan funciones propias de un sustantivo, como sujeto, complemento directo, término de preposición o complemento de un nombre o adjetivo. Pueden introducirse mediante conjunciones, infinitivos o interrogativos.",
+    "instruction": "Completa cada frase con las estructuras subordinadas sustantivas adecuadas.",
+    "questions": [
+      {"text": "La dirección considera imprescindible {{1}} antes de que el proyecto {{2}} definitivamente.", "answers": ["que se revisen los presupuestos", "comience"]},
+      {"text": "Es fundamental {{1}} que todos los departamentos {{2}} sus respectivos informes.", "answers": ["que se garantice", "presenten"]},
+      {"text": "Los investigadores dudan de {{1}} y solicitan {{2}} antes de formular una conclusión.", "answers": ["que los datos sean concluyentes", "que se realicen nuevas pruebas"]},
+      {"text": "El portavoz confirmó {{1}}, aunque evitó precisar {{2}}.", "answers": ["que las negociaciones continuarían", "cuándo se alcanzaría un acuerdo"]},
+      {"text": "La comisión recomendó {{1}} y propuso {{2}} para garantizar la transparencia.", "answers": ["que se modificara el procedimiento", "que se publicaran los resultados"]},
+      {"text": "Me preocupa {{1}} y considero necesario {{2}} cuanto antes.", "answers": ["que no se hayan evaluado los riesgos", "que se adopten medidas"]},
+      {"text": "El responsable insistió en {{1}} y recordó {{2}}.", "answers": ["que todos debían cumplir las normas", "que el plazo finalizaba ese día"]},
+      {"text": "No está claro {{1}}, pero sí parece evidente {{2}}.", "answers": ["si la medida será suficiente", "que se necesitan nuevas soluciones"]},
+      {"text": "La empresa anunció {{1}} y aseguró {{2}} durante los próximos meses.", "answers": ["que ampliaría sus instalaciones", "que mantendría sus inversiones"]},
+      {"text": "El comité valoró positivamente {{1}} y exigió {{2}} antes de aprobar la propuesta definitiva.", "answers": ["que se hubieran consultado los especialistas", "que se justificaran los gastos"]}
+    ]
+  },
+  {
+    "id": "044",
+    "titre": "Oraciones subordinadas adjetivas",
+    "definition": "Las subordinadas adjetivas o de relativo complementan a un sustantivo antecedente. Pueden ser especificativas o explicativas y se introducen mediante pronombres, determinantes o adverbios relativos.",
+    "instruction": "Completa cada frase con los relativos y las estructuras subordinadas adecuados.",
+    "questions": [
+      {"text": "Los documentos {{1}} fueron presentados ante el tribunal contenían información {{2}} podía modificar el desarrollo del proceso.", "answers": ["que", "que"]},
+      {"text": "La investigadora, {{1}} había dirigido el estudio durante varios años, publicó los resultados {{2}} había obtenido.", "answers": ["quien", "que"]},
+      {"text": "El edificio {{1}} se celebró la conferencia pertenece a una institución {{2}} desarrolla proyectos educativos.", "answers": ["donde", "que"]},
+      {"text": "Los candidatos {{1}} solicitudes fueron aceptadas deberán acudir al centro {{2}} se realizará la evaluación.", "answers": ["cuyas", "donde"]},
+      {"text": "La propuesta {{1}} aprobaron los miembros del consejo incluye medidas {{2}} aplicación será progresiva.", "answers": ["que", "cuya"]},
+      {"text": "El especialista con {{1}} consultamos explicó las razones {{2}} habían provocado el cambio de estrategia.", "answers": ["quien", "que"]},
+      {"text": "La empresa, {{1}} instalaciones fueron modernizadas recientemente, contrató técnicos {{2}} experiencia resultaba imprescindible.", "answers": ["cuyas", "cuya"]},
+      {"text": "Los países {{1}} participaron en la negociación firmaron un acuerdo {{2}} condiciones deberán revisarse anualmente.", "answers": ["que", "cuyas"]},
+      {"text": "El informe contiene datos {{1}} procedencia no ha podido verificarse y conclusiones {{2}} validez sigue siendo discutida.", "answers": ["cuya", "cuya"]},
+      {"text": "La organización colaborará con las instituciones {{1}} compartan sus objetivos y {{2}} dispongan de recursos suficientes.", "answers": ["que", "que"]}
+    ]
+  },
+  {
+    "id": "045",
+    "titre": "Discurso directo e indirecto",
+    "definition": "El discurso directo reproduce literalmente las palabras de un hablante, mientras que el discurso indirecto transmite su contenido mediante una estructura subordinada. La transformación puede exigir cambios en los tiempos verbales, pronombres y referencias temporales o espaciales.",
+    "instruction": "Completa cada frase con las formas y referencias adecuadas del discurso indirecto.",
+    "questions": [
+      {"text": "La directora afirmó: «Presentaremos el informe mañana». Posteriormente comunicó que {{1}} el informe {{2}}.", "answers": ["presentarían", "al día siguiente"]},
+      {"text": "El investigador declaró: «He terminado el análisis». Más tarde explicó que {{1}} el análisis {{2}}.", "answers": ["había terminado", "anteriormente"]},
+      {"text": "El portavoz anunció: «Estamos negociando nuevas condiciones». Después confirmó que {{1}} nuevas condiciones.", "answers": ["estaban negociando"]},
+      {"text": "La ministra aseguró: «No modificaremos esta decisión». Finalmente declaró que {{1}} aquella decisión.", "answers": ["no modificarían"]},
+      {"text": "El responsable preguntó: «¿Cuándo recibirán los resultados?». Después quiso saber {{1}} los resultados.", "answers": ["cuándo recibirían"]},
+      {"text": "El técnico advirtió: «Si no se revisa el sistema, se producirán nuevos errores». Explicó que, si no se revisaba el sistema, {{1}} nuevos errores.", "answers": ["se producirían"]},
+      {"text": "La investigadora afirmó: «Estos datos demuestran nuestra hipótesis». En su informe sostuvo que {{1}} demostraban {{2}} hipótesis.", "answers": ["aquellos datos", "su"]},
+      {"text": "El director ordenó: «Entreguen los documentos antes del viernes». Posteriormente exigió que {{1}} los documentos antes del viernes {{2}}.", "answers": ["entregaran", "siguiente"]},
+      {"text": "El portavoz explicó: «No podemos confirmar todavía la información». Más tarde reconoció que {{1}} todavía la información.", "answers": ["no podían confirmar"]},
+      {"text": "La presidenta preguntó: «¿Han consultado a los especialistas?». Después quiso saber si {{1}} a los especialistas.", "answers": ["habían consultado"]}
+    ]
+  },
+  {
+    "id": "046",
+    "titre": "Determinantes y cuantificadores",
+    "definition": "Los determinantes acompañan al sustantivo y delimitan su referencia. Los cuantificadores expresan cantidad, intensidad o distribución, mientras que los posesivos, demostrativos e indefinidos aportan información adicional sobre el referente.",
+    "instruction": "Completa cada frase con los determinantes y cuantificadores adecuados.",
+    "questions": [
+      {"text": "{{1}} investigadores consideran que {{2}} resultados deben interpretarse con {{3}} cautela.", "answers": ["Algunos", "estos", "cierta"]},
+      {"text": "La empresa revisó {{1}} sus contratos y modificó {{2}} cláusulas que presentaban {{3}} ambigüedad.", "answers": ["todos", "aquellas", "alguna"]},
+      {"text": "No {{1}} departamentos disponen de {{2}} recursos suficientes para ejecutar {{3}} proyectos.", "answers": ["todos los", "los", "sus"]},
+      {"text": "Cada participante deberá presentar {{1}} identificación y completar {{2}} formularios antes de finalizar {{3}} inscripción.", "answers": ["su", "ambos", "la"]},
+      {"text": "{{1}} decisiones adoptadas durante la reunión tendrán consecuencias sobre {{2}} sectores de la economía y {{3}} actividades productivas.", "answers": ["Varias", "diversos", "numerosas"]},
+      {"text": "La organización ha recibido {{1}} solicitudes, pero solamente {{2}} candidatos cumplen {{3}} requisitos establecidos.", "answers": ["muchas", "algunos", "los"]},
+      {"text": "Ninguna de {{1}} propuestas contempla {{2}} alternativas para resolver {{3}} dificultades.", "answers": ["las", "otras", "estas"]},
+      {"text": "{{1}} proyecto requiere {{2}} inversión considerable y {{3}} planificación rigurosa.", "answers": ["Este", "una", "una"]},
+      {"text": "Los responsables analizaron {{1}} posibilidad y descartaron {{2}} opciones que no ofrecían {{3}} garantía de éxito.", "answers": ["cada", "aquellas", "ninguna"]},
+      {"text": "Ambas instituciones aportarán {{1}} experiencia y pondrán a disposición del proyecto {{2}} recursos técnicos y {{3}} personal especializado.", "answers": ["su", "sus", "su"]}
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Concordancia gramatical",
+    "definition": "La concordancia establece la correspondencia formal entre los elementos de una oración. En español afecta principalmente al género y número entre sustantivos, determinantes y adjetivos, así como al número y persona entre el sujeto y el verbo.",
+    "instruction": "Completa cada frase con las formas que respeten las reglas de concordancia gramatical.",
+    "questions": [
+      {"text": "La mayoría de los especialistas {{1}} que las medidas propuestas son {{2}} y suficientemente {{3}}.", "answers": ["considera", "necesarias", "eficaces"]},
+      {"text": "Tanto la directora como los responsables técnicos {{1}} de acuerdo con las nuevas condiciones {{2}} durante la reunión {{3}}.", "answers": ["estuvieron", "establecidas", "celebrada"]},
+      {"text": "El conjunto de medidas {{1}} por los expertos resulta {{2}} para alcanzar los objetivos {{3}}.", "answers": ["propuestas", "fundamental", "previstos"]},
+      {"text": "Ni el presidente ni los miembros del consejo {{1}} dispuestos a aceptar las condiciones {{2}} por la comisión {{3}}.", "answers": ["estaban", "impuestas", "negociadora"]},
+      {"text": "La entrada y salida de mercancías {{1}} reguladas por unas normas {{2}} y estrictamente {{3}}.", "answers": ["están", "específicas", "definidas"]},
+      {"text": "Cada una de las propuestas {{1}} presentadas contiene medidas {{2}} y objetivos claramente {{3}}.", "answers": ["fue", "innovadoras", "delimitados"]},
+      {"text": "Los resultados de la investigación, así como la metodología utilizada, {{1}} considerados {{2}} por el comité {{3}}.", "answers": ["fueron", "satisfactorios", "científico"]},
+      {"text": "La información y los documentos {{1}} durante la auditoría fueron {{2}} y posteriormente {{3}}.", "answers": ["recopilados", "analizados", "archivados"]},
+      {"text": "Una serie de acontecimientos {{1}} provocaron consecuencias {{2}} para las comunidades {{3}}.", "answers": ["inesperados", "considerables", "afectadas"]},
+      {"text": "El personal de las diferentes unidades {{1}} preparado para asumir las responsabilidades {{2}} por la dirección {{3}}.", "answers": ["está", "asignadas", "general"]}
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "Oraciones condicionales",
+    "definition": "Las oraciones condicionales expresan una condición necesaria o hipotética para que se produzca una consecuencia. En español se construyen mediante distintas combinaciones de tiempos y modos verbales, según el grado de posibilidad o irrealidad.",
+    "instruction": "Completa cada frase con las formas verbales adecuadas para expresar la condición y su consecuencia.",
+    "questions": [
+      {"text": "Si las autoridades {{1}} las recomendaciones, los resultados {{2}} considerablemente.", "answers": ["aplican", "mejorarán"]},
+      {"text": "Si la empresa {{1}} más recursos, {{2}} ampliar sus instalaciones el próximo año.", "answers": ["obtuviera", "podría"]},
+      {"text": "Si los investigadores {{1}} los datos correctamente, no {{2}} a una conclusión equivocada.", "answers": ["hubieran interpretado", "habrían llegado"]},
+      {"text": "En caso de que la situación {{1}}, será necesario que los responsables {{2}} nuevas medidas.", "answers": ["empeore", "adopten"]},
+      {"text": "Si el acuerdo {{1}} aprobado ayer, las negociaciones {{2}} una nueva dirección.", "answers": ["hubiera sido", "habrían tomado"]},
+      {"text": "Siempre que los participantes {{1}} los requisitos, {{2}} acceder al programa.", "answers": ["cumplan", "podrán"]},
+      {"text": "Si no {{1}} las medidas preventivas, el problema {{2}} mucho más grave.", "answers": ["se hubieran adoptado", "habría sido"]},
+      {"text": "A menos que la comisión {{1}} nuevas pruebas, no {{2}} modificar su decisión.", "answers": ["encuentre", "podrá"]},
+      {"text": "Si los responsables {{1}} con mayor antelación, los errores {{2}} evitado.", "answers": ["hubieran intervenido", "se habrían"]},
+      {"text": "De {{1}} suficientes garantías, los inversores {{2}} participar en el proyecto.", "answers": ["existir", "aceptarían"]}
+    ]
+  },
+  {
+    "id": "049",
+    "titre": "Oraciones concesivas y adversativas",
+    "definition": "Las estructuras concesivas presentan una dificultad u obstáculo que no impide el cumplimiento de una acción. Las adversativas, por su parte, expresan oposición o contraste entre dos ideas.",
+    "instruction": "Completa cada frase con los conectores y las formas verbales adecuados.",
+    "questions": [
+      {"text": "Aunque la propuesta {{1}} numerosas ventajas, algunos expertos consideran que todavía {{2}} modificaciones.", "answers": ["presenta", "necesita"]},
+      {"text": "A pesar de que los resultados {{1}} inicialmente desfavorables, el equipo decidió continuar con la investigación {{2}} las dificultades.", "answers": ["eran", "pese a"]},
+      {"text": "Por más que la dirección {{1}} justificar la decisión, sus argumentos no {{2}} convencer a los trabajadores.", "answers": ["intente", "logran"]},
+      {"text": "Si bien el acuerdo {{1}} aprobado por unanimidad, su aplicación {{2}} algunos problemas administrativos.", "answers": ["fue", "generó"]},
+      {"text": "Aunque los recursos {{1}} limitados, la organización consiguió alcanzar sus objetivos {{2}} las restricciones presupuestarias.", "answers": ["eran", "a pesar de"]},
+      {"text": "La reforma no produjo los resultados esperados, {{1}} permitió identificar deficiencias que antes {{2}} inadvertidas.", "answers": ["pero", "pasaban"]},
+      {"text": "Aun cuando las negociaciones {{1}} difíciles, ambas delegaciones mantuvieron el diálogo {{2}} las diferencias.", "answers": ["fueron", "pese a"]},
+      {"text": "Por mucho que los responsables {{1}} reducir los costes, no podrán conseguirlo {{2}} modifican el sistema de producción.", "answers": ["intenten", "si no"]},
+      {"text": "La medida fue cuestionada por diversos sectores; {{1}}, terminó siendo aceptada {{2}} sus ventajas demostradas.", "answers": ["sin embargo", "debido a"]},
+      {"text": "Aunque el proyecto {{1}} complejo y exigente, podrá ejecutarse {{2}} se mantenga el compromiso de todas las partes.", "answers": ["sea", "siempre que"]}
+    ]
+  },
+  {
+    "id": "050",
+    "titre": "Precisión léxica y complejidad sintáctica",
+    "definition": "La precisión léxica y la complejidad sintáctica permiten construir enunciados rigurosos, matizados y coherentes. Su dominio exige seleccionar vocabulario específico y combinar estructuras gramaticales de manera adecuada.",
+    "instruction": "Completa cada frase con las palabras y estructuras gramaticales adecuadas.",
+    "questions": [
+      {"text": "La investigación permitió {{1}} una relación entre los factores económicos y sociales, cuya influencia había sido {{2}} durante los análisis {{3}}.", "answers": ["establecer", "subestimada", "preliminares"]},
+      {"text": "El comité consideró {{1}} la propuesta, siempre que se incorporaran mecanismos de {{2}} y procedimientos de evaluación {{3}}.", "answers": ["viable", "supervisión", "independientes"]},
+      {"text": "La decisión fue adoptada {{1}} las advertencias formuladas por los especialistas, lo que generó una considerable {{2}} institucional y una creciente {{3}} pública.", "answers": ["pese a", "controversia", "preocupación"]},
+      {"text": "Los resultados, lejos de {{1}} las hipótesis iniciales, pusieron de manifiesto una realidad mucho más {{2}} y difícil de {{3}}.", "answers": ["confirmar", "compleja", "interpretar"]},
+      {"text": "La organización pretende {{1}} sus mecanismos de gobernanza para garantizar que las decisiones {{2}} de manera transparente y {{3}}.", "answers": ["fortalecer", "se adopten", "responsable"]},
+      {"text": "A menos que se {{1}} las causas estructurales del problema, cualquier intervención corre el riesgo de resultar {{2}} y escasamente {{3}}.", "answers": ["identifiquen", "superficial", "eficaz"]},
+      {"text": "La argumentación presentada resulta {{1}}, no tanto por la cantidad de datos disponibles como por la {{2}} de las pruebas y la {{3}} de las fuentes.", "answers": ["convincente", "solidez", "fiabilidad"]},
+      {"text": "El informe recomienda que las autoridades {{1}} medidas cuya aplicación permita {{2}} las desigualdades y {{3}} la cohesión social.", "answers": ["adopten", "reducir", "fortalecer"]},
+      {"text": "La transformación digital no debe entenderse únicamente como una cuestión tecnológica, {{1}} como un proceso organizativo que requiere una profunda {{2}} institucional y una adecuada {{3}} del personal.", "answers": ["sino", "reorganización", "capacitación"]},
+      {"text": "Por más que los indicadores {{1}} una evolución favorable, será necesario {{2}} los resultados a largo plazo antes de {{3}} la eficacia de la política aplicada.", "answers": ["reflejen", "examinar", "confirmar"]}
+    ]
   }
 ]
+
