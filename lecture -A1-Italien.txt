@@ -678,5 +678,685 @@
 ]
 }
 ]
+},
+{
+"id": "111",
+"titre": "Il mio primo giorno di scuola",
+"titre2": "Esercizio 111",
+"texte": [
+"Oggi è il mio primo giorno di scuola e sono molto emozionato.",
+"Cammino verso l'edificio con il mio nuovo zaino sulle spalle.",
+"Nel cortile vedo tanti ragazzi che ridono e parlano a voce alta.",
+"La campanella suona alle otto in punto e tutti entrano.",
+"Cerco la mia classe con calma e trovo un posto libero."
+],
+"audios": [
+{ "id": "audio-it-read-a1-111-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-111-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-111-01",
+"question": "Come si sente il protagonista oggi?",
+"reponses": [
+{ "id": "a", "texte": "Molto annoiato", "correcte": false },
+{ "id": "b", "texte": "Molto emozionato", "correcte": true },
+{ "id": "c", "texte": "Triste e malato", "correcte": false },
+{ "id": "d", "texte": "Arrabbiato", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-111-02",
+"question": "Cosa ha il protagonista sulle spalle?",
+"reponses": [
+{ "id": "a", "texte": "Una giacca pesante", "correcte": false },
+{ "id": "b", "texte": "Il suo nuovo zaino", "correcte": true },
+{ "id": "c", "texte": "Un grande computer", "correcte": false },
+{ "id": "d", "texte": "Una mappa della città", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-111-03",
+"question": "Cosa fanno i ragazzi nel cortile?",
+"reponses": [
+{ "id": "a", "texte": "Dormono sull'erba", "correcte": false },
+{ "id": "b", "texte": "Ridono e parlano a voce alta", "correcte": true },
+{ "id": "c", "texte": "Mangiano una pizza", "correcte": false },
+{ "id": "d", "texte": "Corrono dietro a un gatto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-111-04",
+"question": "A che ora suona la campanella?",
+"reponses": [
+{ "id": "a", "texte": "Alle nove precise", "correcte": false },
+{ "id": "b", "texte": "Alle otto in punto", "correcte": true },
+{ "id": "c", "texte": "Alle sette e mezza", "correcte": false },
+{ "id": "d", "texte": "A mezzogiorno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-111-05",
+"question": "Cosa cerca il protagonista dentro la scuola?",
+"reponses": [
+{ "id": "a", "texte": "La sua classe", "correcte": true },
+{ "id": "b", "texte": "Una farmacia utile", "correcte": false },
+{ "id": "c", "texte": "La biblioteca della città", "correcte": false },
+{ "id": "d", "texte": "Il chiosco dei dolci", "correcte": false }
+]
+}
+]
+},
+{
+"id": "112",
+"titre": "Nella mia aula",
+"titre2": "Esercizio 112",
+"texte": [
+"La mia aula è al primo piano ed è grande e luminosa.",
+"Ci sono venti banchi di legno verde e molte sedie.",
+"Sulla parete principale c'è una grande lavagna nera.",
+"Accanto alla finestra ci sono alcune piante e un armadio.",
+"Dalla finestra posso vedere il giardino della scuola."
+],
+"audios": [
+{ "id": "audio-it-read-a1-112-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-112-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-112-01",
+"question": "Dove si trova l'aula?",
+"reponses": [
+{ "id": "a", "texte": "Al secondo piano", "correcte": false },
+{ "id": "b", "texte": "Al primo piano", "correcte": true },
+{ "id": "c", "texte": "Nel seminterrato buio", "correcte": false },
+{ "id": "d", "texte": "Sul tetto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-112-02",
+"question": "Quanti banchi ci sono nell'aula?",
+"reponses": [
+{ "id": "a", "texte": "Dieci banchi", "correcte": false },
+{ "id": "b", "texte": "Venti banchi", "correcte": true },
+{ "id": "c", "texte": "Trenta banchi", "correcte": false },
+{ "id": "d", "texte": "Quindici banchi", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-112-03",
+"question": "Cosa c'è sulla parete principale?",
+"reponses": [
+{ "id": "a", "texte": "Una grande lavagna nera", "correcte": true },
+{ "id": "b", "texte": "Un grande specchio moderno", "correcte": false },
+{ "id": "c", "texte": "Una foto di Marco", "correcte": false },
+{ "id": "d", "texte": "Un orologio da cucina", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-112-04",
+"question": "Cosa si trova accanto alla finestra?",
+"reponses": [
+{ "id": "a", "texte": "Alcune piante e un armadio", "correcte": true },
+{ "id": "b", "texte": "La cattedra del direttore", "correcte": false },
+{ "id": "c", "texte": "Un divano comodo marrone", "correcte": false },
+{ "id": "d", "texte": "Il bagno degli studenti", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-112-05",
+"question": "Cosa si vede guardando fuori dalla finestra?",
+"reponses": [
+{ "id": "a", "texte": "Il giardino della scuola", "correcte": true },
+{ "id": "b", "texte": "La stazione dei treni", "correcte": false },
+{ "id": "c", "texte": "Una strada molto trafficata", "correcte": false },
+{ "id": "d", "texte": "La casa dei nonni", "correcte": false }
+]
+}
+]
+},
+{
+"id": "113",
+"titre": "Le mie materie preferite",
+"titre2": "Esercizio 113",
+"texte": [
+"A scuola studiamo molte materie diverse ogni settimana.",
+"Le mie materie preferite sono la storia e la geografia.",
+"Mi piace molto viaggiare con la mente e scoprire nuovi paesi.",
+"La matematica è un po' difficile per me e preferisco l'arte.",
+"Durante la lezione di arte posso disegnare e usare i colori."
+],
+"audios": [
+{ "id": "audio-it-read-a1-113-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-113-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-113-01",
+"question": "Quali sono le materie preferite del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "La matematica e le scienze", "correcte": false },
+{ "id": "b", "texte": "La storia e la geografia", "correcte": true },
+{ "id": "c", "texte": "Il francese e lo spagnolo", "correcte": false },
+{ "id": "d", "texte": "La musica e lo sport", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-113-02",
+"question": "Perché gli piace la geografia?",
+"reponses": [
+{ "id": "a", "texte": "Perché impara a cucinare la pizza", "correcte": false },
+{ "id": "b", "texte": "Perché viaggia con la mente e scopre nuovi paesi", "correcte": true },
+{ "id": "c", "texte": "Perché conta i numeri grandi", "correcte": false },
+{ "id": "d", "texte": "Perché parla con Thomas", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-113-03",
+"question": "Cosa pensa della matematica?",
+"reponses": [
+{ "id": "a", "texte": "Che è molto facile", "correcte": false },
+{ "id": "b", "texte": "Che è un po' difficile", "correcte": true },
+{ "id": "c", "texte": "Che è la materia migliore", "correcte": false },
+{ "id": "d", "texte": "Non la studia a scuola", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-113-04",
+"question": "Quale materia preferisce alla matematica?",
+"reponses": [
+{ "id": "a", "texte": "L'arte", "correcte": true },
+{ "id": "b", "texte": "La ginnastica", "correcte": false },
+{ "id": "c", "texte": "La storia antica", "correcte": false },
+{ "id": "d", "texte": "Il disegno tecnico", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-113-05",
+"question": "Cosa può fare durante la lezione di arte?",
+"reponses": [
+{ "id": "a", "texte": "Disegnare e usare i colori", "correcte": true },
+{ "id": "b", "texte": "Scrivere una lettera in tedesco", "correcte": false },
+{ "id": "c", "texte": "Dormire sulla sedia", "correcte": false },
+{ "id": "d", "texte": "Ascoltare la radio forte", "correcte": false }
+]
+}
+]
+},
+{
+"id": "114",
+"titre": "Il mio insegnante di francese",
+"titre2": "Esercizio 114",
+"texte": [
+"Il mio insegnante di francese si chiama Signor Rossi.",
+"Lui è un uomo gentile, paziente e spiega molto bene.",
+"Parla sempre in francese durante la lezione per aiutarci.",
+"Ci insegna molte parole utili, canzoni e regole di grammatica.",
+"Tutti gli studenti amano la sua lezione perché è divertente."
+],
+"audios": [
+{ "id": "audio-it-read-a1-114-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-114-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-114-01",
+"question": "Come si chiama l'insegnante di francese?",
+"reponses": [
+{ "id": "a", "texte": "Signor Roberto", "correcte": false },
+{ "id": "b", "texte": "Signor Rossi", "correcte": true },
+{ "id": "c", "texte": "Signor Marco", "correcte": false },
+{ "id": "d", "texte": "Signor Luca", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-114-02",
+"question": "Com'è il carattere del Signor Rossi?",
+"reponses": [
+{ "id": "a", "texte": "Severo e sempre arrabbiato", "correcte": false },
+{ "id": "b", "texte": "Gentile e paziente", "correcte": true },
+{ "id": "c", "texte": "Molto timido e silenzioso", "correcte": false },
+{ "id": "d", "texte": "Nervoso", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-114-03",
+"question": "In quale lingua parla il professore durante la lezione?",
+"reponses": [
+{ "id": "a", "texte": "In italiano", "correcte": false },
+{ "id": "b", "texte": "In francese", "correcte": true },
+{ "id": "c", "texte": "In tedesco", "correcte": false },
+{ "id": "d", "texte": "In spagnolo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-114-04",
+"question": "Cosa insegna il Signor Rossi oltre alla grammatica?",
+"reponses": [
+{ "id": "a", "texte": "Parole utili e canzoni", "correcte": true },
+{ "id": "b", "texte": "A guidare l'autobus", "correcte": false },
+{ "id": "c", "texte": "A giocare a calcio", "correcte": false },
+{ "id": "d", "texte": "A pulire la lavagna", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-114-05",
+"question": "Perché gli studenti amano la sua lezione?",
+"reponses": [
+{ "id": "a", "texte": "Perché è divertente", "correcte": true },
+{ "id": "b", "texte": "Perché possono dormire", "correcte": false },
+{ "id": "c", "texte": "Perché dura solo due minuti", "correcte": false },
+{ "id": "d", "texte": "Perché mangiano il gelato", "correcte": false }
+]
+}
+]
+},
+{
+"id": "115",
+"titre": "I miei compagni di classe",
+"titre2": "Esercizio 115",
+"texte": [
+"Nella mia classe ci sono venticinque studenti in totale.",
+"I miei compagni di classe vengono da paesi diversi.",
+"Siamo un gruppo molto unito e ci aiutiamo sempre nei compiti.",
+"Durante la ricreazione parliamo del nostro tempo libero.",
+"Sono felice di avere dei compagni così simpatici e gentili."
+],
+"audios": [
+{ "id": "audio-it-read-a1-115-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-115-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-115-01",
+"question": "Quanti studenti ci sono nella classe?",
+"reponses": [
+{ "id": "a", "texte": "Venti studenti", "correcte": false },
+{ "id": "b", "texte": "Venticinque studenti", "correcte": true },
+{ "id": "c", "texte": "Trenta studenti", "correcte": false },
+{ "id": "d", "texte": "Dieci studenti", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-115-02",
+"question": "Da dove vengono i compagni di classe?",
+"reponses": [
+{ "id": "a", "texte": "Tutti dallo stesso villaggio", "correcte": false },
+{ "id": "b", "texte": "Da paesi diversi", "correcte": true },
+{ "id": "c", "texte": "Solo da Roma", "correcte": false },
+{ "id": "d", "texte": "Dalla Spagna", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-115-03",
+"question": "Cosa fanno i ragazzi quando c'è una difficoltà?",
+"reponses": [
+{ "id": "a", "texte": "Si aiutano sempre nei compiti", "correcte": true },
+{ "id": "b", "texte": "Chiamano la polizia", "correcte": false },
+{ "id": "c", "texte": "Scappano dalla scuola", "correcte": false },
+{ "id": "d", "texte": "Gridano forte", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-115-04",
+"question": "Di cosa parlano durante la ricreazione?",
+"reponses": [
+{ "id": "a", "texte": "Delle regole di grammatica", "correcte": false },
+{ "id": "b", "texte": "Del loro tempo libero", "correcte": true },
+{ "id": "c", "texte": "Dei prezzi del supermercato", "correcte": false },
+{ "id": "d", "texte": "Della salute dei nonni", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-115-05",
+"question": "Come definisce il protagonista i suoi compagni?",
+"reponses": [
+{ "id": "a", "texte": "Simpatici e gentili", "correcte": true },
+{ "id": "b", "texte": "Noiosi e molto pigri", "correcte": false },
+{ "id": "c", "texte": "Sempre stanchi", "correcte": false },
+{ "id": "d", "texte": "Nervosi", "correcte": false }
+]
+}
+]
+},
+{
+"id": "116",
+"titre": "Il mio zaino scolastico",
+"titre2": "Esercizio 116",
+"texte": [
+"Il mio zaino scolastico è grande, forte e di colore blu.",
+"Dentro lo zaino metto tre libri pesanti e due quaderni.",
+"Nel piccolo astuccio ci sono tre penne, una matita e la gomma.",
+"C'è anche una tasca speciale per mettere la mia bottiglia d'acqua.",
+"Preparo lo zaino ogni sera prima di andare a dormire."
+],
+"audios": [
+{ "id": "audio-it-read-a1-116-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-116-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-116-01",
+"question": "Di quale colore è lo zaino scolastico?",
+"reponses": [
+{ "id": "a", "texte": "Rosso", "correcte": false },
+{ "id": "b", "texte": "Blu", "correcte": true },
+{ "id": "c", "texte": "Verde", "correcte": false },
+{ "id": "d", "texte": "Nero", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-116-02",
+"question": "Quanti libri ci sono dentro lo zaino?",
+"reponses": [
+{ "id": "a", "texte": "Un libro solo", "correcte": false },
+{ "id": "b", "texte": "Tre libri pesanti", "correcte": true },
+{ "id": "c", "texte": "Cinque libri d'arte", "correcte": false },
+{ "id": "d", "texte": "Nessun libro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-116-03",
+"question": "Cosa c'è dentro il piccolo astuccio?",
+"reponses": [
+{ "id": "a", "texte": "Penne, una matita e la gomma", "correcte": true },
+{ "id": "b", "texte": "Un cornetto fresco", "correcte": false },
+{ "id": "c", "texte": "Il miele dolce", "correcte": false },
+{ "id": "d", "texte": "I soldi per il treno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-116-04",
+"question": "Cosa mette il protagonista nella tasca speciale?",
+"reponses": [
+{ "id": "a", "texte": "La sua bottiglia d'acqua", "correcte": true },
+{ "id": "b", "texte": "Un telefono cellulare", "correcte": false },
+{ "id": "c", "texte": "Un mazzo di chiavi", "correcte": false },
+{ "id": "d", "texte": "Una mela rossa", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-116-05",
+"question": "Quando prepara lo zaino il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Ogni sera prima di andare a dormire", "correcte": true },
+{ "id": "b", "texte": "La mattina alle sei e mezza di fretta", "correcte": false },
+{ "id": "c", "texte": "Durante la lezione di geografia", "correcte": false },
+{ "id": "d", "texte": "La domenica pomeriggio", "correcte": false }
+]
+}
+]
+},
+{
+"id": "117",
+"titre": "Una giornata in biblioteca",
+"titre2": "Esercizio 117",
+"texte": [
+"Il giovedì pomeriggio vado sempre nella biblioteca della scuola.",
+"È un luogo molto silenzioso, pulito e perfetto per concentrarsi.",
+"Ci sono grandi scaffali di legno pieni di libri di ogni tipo.",
+"Prendo un libro di storia antica e mi siedo a un tavolo.",
+"Studio per due ore e poi restituisco il libro alla bibliotecaria."
+],
+"audios": [
+{ "id": "audio-it-read-a1-117-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-117-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-117-01",
+"question": "In quale giorno della settimana il protagonista va in biblioteca?",
+"reponses": [
+{ "id": "a", "texte": "Il lunedì mattina", "correcte": false },
+{ "id": "b", "texte": "Il giovedì pomeriggio", "correcte": true },
+{ "id": "c", "texte": "La domenica sera", "correcte": false },
+{ "id": "d", "texte": "Il venerdì notte", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-117-02",
+"question": "Com'è l'ambiente della biblioteca?",
+"reponses": [
+{ "id": "a", "texte": "Molto rumoroso e caotico", "correcte": false },
+{ "id": "b", "texte": "Silenzioso, pulito e perfetto per concentrarsi", "correcte": true },
+{ "id": "c", "texte": "Buio e molto freddo", "correcte": false },
+{ "id": "d", "texte": "Pieno di bambini che gridano", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-117-03",
+"question": "Di cosa sono pieni gli scaffali di legno?",
+"reponses": [
+{ "id": "a", "texte": "Di libri di ogni tipo", "correcte": true },
+{ "id": "b", "texte": "Di quaderni verdi vecchi", "correcte": false },
+{ "id": "c", "texte": "Di bottiglie d'acqua fredda", "correcte": false },
+{ "id": "d", "texte": "Di piante verdi", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-117-04",
+"question": "Quale libro sceglie di leggere?",
+"reponses": [
+{ "id": "a", "texte": "Un libro di geografia spagnola", "correcte": false },
+{ "id": "b", "texte": "Un libro di storia antica", "correcte": true },
+{ "id": "c", "texte": "Un dizionario di francese", "correcte": false },
+{ "id": "d", "texte": "Un romanzo d'arte", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-117-05",
+"question": "A chi restituisce il libro alla fine?",
+"reponses": [
+{ "id": "a", "texte": "Alla bibliotecaria", "correcte": true },
+{ "id": "b", "texte": "Al professore di matematica", "correcte": false },
+{ "id": "c", "texte": "Al suo amico Luca", "correcte": false },
+{ "id": "d", "texte": "Alla madre Elena", "correcte": false }
+]
+}
+]
+},
+{
+"id": "118",
+"titre": "I miei compiti a casa",
+"titre2": "Esercizio 118",
+"texte": [
+"Quando torno da scuola, faccio una piccola pausa e poi inizio i compiti.",
+"Mi siedo alla mia scrivania e apro il quaderno di italiano.",
+"Scrivo tre frasi lunghe e leggo una pagina del libro.",
+"A volte i compiti di matematica sono difficili e chiedo aiuto.",
+"Finisco tutto in un'ora e poi posso giocare felice nel parco."
+],
+"audios": [
+{ "id": "audio-it-read-a1-118-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-118-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-118-01",
+"question": "Cosa fa il protagonista subito prima di iniziare i compiti?",
+"reponses": [
+{ "id": "a", "texte": "Dorme per quattro ore", "correcte": false },
+{ "id": "b", "texte": "Faccia una piccola pausa", "correcte": true },
+{ "id": "c", "texte": "Cucina la cena calda", "correcte": false },
+{ "id": "d", "texte": "Va subito al supermercato", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-118-02",
+"question": "Quale quaderno apre per primo sulla scrivania?",
+"reponses": [
+{ "id": "a", "texte": "Il quaderno di matematica", "correcte": false },
+{ "id": "b", "texte": "Il quaderno di italiano", "correcte": true },
+{ "id": "c", "texte": "Il quaderno d'arte", "correcte": false },
+{ "id": "d", "texte": "L'astuccio blu", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-118-03",
+"question": "Quante frasi scrive sul quaderno?",
+"reponses": [
+{ "id": "a", "texte": "Una sola frase corta", "correcte": false },
+{ "id": "b", "texte": "Tre frasi lunghe", "correcte": true },
+{ "id": "c", "texte": "Venti parole difficili", "correcte": false },
+{ "id": "d", "texte": "Nessuna frase", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-118-04",
+"question": "Quali compiti sono a volte difficili?",
+"reponses": [
+{ "id": "a", "texte": "I compiti di arte", "correcte": false },
+{ "id": "b", "texte": "I compiti di matematica", "correcte": true },
+{ "id": "c", "texte": "La lettura in francese", "correcte": false },
+{ "id": "d", "texte": "La lezione di storia", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-118-05",
+"question": "Quanto tempo ci vuole per finire tutti i compiti?",
+"reponses": [
+{ "id": "a", "texte": "Un'ora", "correcte": true },
+{ "id": "b", "texte": "Cinque minuti", "correcte": false },
+{ "id": "c", "texte": "Tutta la notte", "correcte": false },
+{ "id": "d", "texte": "Tre giorni", "correcte": false }
+]
+}
+]
+},
+{
+"id": "119",
+"titre": "La ricreazione",
+"titre2": "Esercizio 119",
+"texte": [
+"Alle undici in punto c'è la ricreazione e la lezione finisce.",
+"Tutti gli studenti escono velocemente dall'aula per andare in cortile.",
+"Mangio una mela rossa o un piccolo panino che ho nello zaino.",
+"Parlo con Chiara e Lorenzo del nostro nuovo programma di storia.",
+"La ricreazione dura solo quindici minuti ma è molto bella."
+],
+"audios": [
+{ "id": "audio-it-read-a1-119-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-119-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-119-01",
+"question": "A che ora inizia la ricreazione?",
+"reponses": [
+{ "id": "a", "texte": "Alle otto di mattina", "correcte": false },
+{ "id": "b", "texte": "Alle undici in punto", "correcte": true },
+{ "id": "c", "texte": "A mezzogiorno e mezzo", "correcte": false },
+{ "id": "d", "texte": "Alle quattordici", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-119-02",
+"question": "Dove vanno gli studenti durante la pausa?",
+"reponses": [
+{ "id": "a", "texte": "A casa dei genitori", "correcte": false },
+{ "id": "b", "texte": "In cortile", "correcte": true },
+{ "id": "c", "texte": "In farmacia", "correcte": false },
+{ "id": "d", "texte": "Alla stazione dei treni", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-119-03",
+"question": "Cosa mangia il protagonista in cortile?",
+"reponses": [
+{ "id": "a", "texte": "Una mela rossa o un piccolo panino", "correcte": true },
+{ "id": "b", "texte": "Un gelato al cioccolato freddo", "correcte": false },
+{ "id": "c", "texte": "Una zuppa di pollo calda", "correcte": false },
+{ "id": "d", "texte": "Dei biscotti con il miele", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-119-04",
+"question": "Con chi parla il protagonista durante la pausa?",
+"reponses": [
+{ "id": "a", "texte": "Con il Signor Rossi", "correcte": false },
+{ "id": "b", "texte": "Con Chiara e Lorenzo", "correcte": true },
+{ "id": "c", "texte": "Con la bibliotecaria", "correcte": false },
+{ "id": "d", "texte": "Con il vecchio contadino", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-119-05",
+"question": "Quanto tempo dura la ricreazione?",
+"reponses": [
+{ "id": "a", "texte": "Quindici minuti", "correcte": true },
+{ "id": "b", "texte": "Un'ora intera", "correcte": false },
+{ "id": "c", "texte": "Cinque minuti appena", "correcte": false },
+{ "id": "d", "texte": "Tutto il pomeriggio", "correcte": false }
+]
+}
+]
+},
+{
+"id": "120",
+"titre": "Le vacanze scolastiche",
+"titre2": "Esercizio 120",
+"texte": [
+"In estate la scuola chiude per tre mesi e iniziano le vacanze.",
+"Non devo svegliarmi presto al mattino e non ho compiti a casa.",
+"Posso andare al mare con la mia famiglia o restare in giardino.",
+"Vado spesso a trovare i miei cari nonni che abitano in campagna.",
+"Le vacanze sono il periodo perfetto per riposare e divertirsi."
+],
+"audios": [
+{ "id": "audio-it-read-a1-120-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-120-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-120-01",
+"question": "In quale stagione dell'anno inizia la lunga pausa della scuola?",
+"reponses": [
+{ "id": "a", "texte": "In inverno quando nevica", "correcte": false },
+{ "id": "b", "texte": "In estate", "correcte": true },
+{ "id": "c", "texte": "In autunno con il vento", "correcte": false },
+{ "id": "d", "texte": "A dicembre", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-120-02",
+"question": "Per quanti mesi rimane chiusa la scuola?",
+"reponses": [
+{ "id": "a", "texte": "Un mese solo", "correcte": false },
+{ "id": "b", "texte": "Tre mesi", "correcte": true },
+{ "id": "c", "texte": "Sei mesi interi", "correcte": false },
+{ "id": "d", "texte": "Due settimane", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-120-03",
+"question": "Cosa NON deve fare il protagonista durante le vacanze?",
+"reponses": [
+{ "id": "a", "texte": "Svegliarsi presto e fare i compiti", "correcte": true },
+{ "id": "b", "texte": "Mangiare il gelato al bar", "correcte": false },
+{ "id": "c", "texte": "Andare a trovare i nonni", "correcte": false },
+{ "id": "d", "texte": "Riposare nel letto singolo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-120-04",
+"question": "Dove abitano i nonni del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Nel centro di Roma", "correcte": false },
+{ "id": "b", "texte": "In campagna", "correcte": true },
+{ "id": "c", "texte": "A Berlino vicino alla stazione", "correcte": false },
+{ "id": "d", "texte": "Al mare azzurro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-120-05",
+"question": "Com'è definito il periodo delle vacanze?",
+"reponses": [
+{ "id": "a", "texte": "Perfetto per riposare e divertirsi", "correcte": true },
+{ "id": "b", "texte": "Molto noioso e difficile", "correcte": false },
+{ "id": "c", "texte": "Troppo corto per viaggiare", "correcte": false },
+{ "id": "d", "texte": "Pieno di stress e lavoro", "correcte": false }
+]
+}
+]
 }
 ]
