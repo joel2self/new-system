@@ -1,9 +1,681 @@
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+"id": "001",
+"titre": "Me presento",
+"titre2": "Ejercicio 001",
+"texte": [
+"¡Hola! Me llamo Carlos y tengo veinticinco años.",
+"Vivo en Madrid, una ciudad muy hermosa en España.",
+"Estudio español todos los días y hablo un poco de francés.",
+"En mi tiempo libre me gusta leer libros y caminar por el parque.",
+"Hoy estoy muy feliz de conocer a nuevos amigos aquí."
+],
+"audios": [
+{ "id": "audio-es-read-a1-001-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-001-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-001-01",
+"question": "¿Cómo se llama el protagonista del texto?",
+"reponses": [
+{ "id": "a", "texte": "Lorenzo", "correcte": false },
+{ "id": "b", "texte": "Carlos", "correcte": true },
+{ "id": "c", "texte": "Thomas", "correcte": false },
+{ "id": "d", "texte": "Marco", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-001-02",
+"question": "¿Cuántos años tiene Carlos?",
+"reponses": [
+{ "id": "a", "texte": "Veinte años", "correcte": false },
+{ "id": "b", "texte": "Treinta años", "correcte": false },
+{ "id": "c", "texte": "Campañas de veinticinco años", "correcte": true },
+{ "id": "d", "texte": "Quince años", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-001-03",
+"question": "¿En qué ciudad vive Carlos?",
+"reponses": [
+{ "id": "a", "texte": "En Barcelona", "correcte": false },
+{ "id": "b", "texte": "En París", "correcte": false },
+{ "id": "c", "texte": "En Madrid", "correcte": true },
+{ "id": "d", "texte": "En Berlín", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-001-04",
+"question": "¿Qué idioma estudia Carlos?",
+"reponses": [
+{ "id": "a", "texte": "El español", "correcte": true },
+{ "id": "b", "texte": "El alemán", "correcte": false },
+{ "id": "c", "texte": "El italiano", "correcte": false },
+{ "id": "d", "texte": "El inglés", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-001-05",
+"question": "¿Qué le gusta hacer a Carlos en su tiempo libre?",
+"reponses": [
+{ "id": "a", "texte": "Leer libros y caminar por el parque", "correcte": true },
+{ "id": "b", "texte": "Cocinar pizza con aceitunas", "correcte": false },
+{ "id": "c", "texte": "Dormir todo el día en la cama", "correcte": false },
+{ "id": "d", "texte": "Comprar un coche nuevo", "correcte": false }
+]
 }
+]
+},
+{
+"id": "002",
+"titre": "Mi familia",
+"titre2": "Ejercicio 002",
+"texte": [
+"Mi familia no es muy grande, somos cuatro personas.",
+"Mi padre se llama Roberto y trabaja en una oficina moderna.",
+"Mi madre se llama Elena y es una excelente profesora.",
+"También tengo un hermano menor que va a la escuela.",
+"Los domingos siempre comemos juntos un almuerzo delicioso."
+],
+"audios": [
+{ "id": "audio-es-read-a1-002-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-002-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-002-01",
+"question": "¿Cuántas personas hay en la familia?",
+"reponses": [
+{ "id": "a", "texte": "Dos personas", "correcte": false },
+{ "id": "b", "texte": "Cuatro personas", "correcte": true },
+{ "id": "c", "texte": "Seis personas", "correcte": false },
+{ "id": "d", "texte": "Tres personas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-002-02",
+"question": "¿Cómo se llama el padre?",
+"reponses": [
+{ "id": "a", "texte": "Carlos", "correcte": false },
+{ "id": "b", "texte": "Roberto", "correcte": true },
+{ "id": "c", "texte": "Lorenzo", "correcte": false },
+{ "id": "d", "texte": "Juan", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-002-03",
+"question": "¿Cuál es el trabajo de la madre?",
+"reponses": [
+{ "id": "a", "texte": "Es una profesora", "correcte": true },
+{ "id": "b", "texte": "Trabaja en una farmacia", "correcte": false },
+{ "id": "c", "texte": "Es doctora", "correcte": false },
+{ "id": "d", "texte": "Conduce un autobús rojo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-002-04",
+"question": "¿Quién es el otro miembro de la familia mencionado?",
+"reponses": [
+{ "id": "a", "texte": "Una hermana mayor", "correcte": false },
+{ "id": "b", "texte": "Un hermano menor", "correcte": true },
+{ "id": "c", "texte": "Un perro pequeño", "correcte": false },
+{ "id": "d", "texte": "La abuela paterna", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-002-05",
+"question": "¿Qué hace la familia junta los domingos?",
+"reponses": [
+{ "id": "a", "texte": "Comen un almuerzo delicioso", "correcte": true },
+{ "id": "b", "texte": "Toman el tren para Berlín", "correcte": false },
+{ "id": "c", "texte": "Ven una película de terror", "correcte": false },
+{ "id": "d", "texte": "Limpian toda la casa", "correcte": false }
+]
+}
+]
+},
+{
+"id": "003",
+"titre": "Mi mejor amigo",
+"titre2": "Ejercicio 003",
+"texte": [
+"Mi mejor amigo se llama Lucas y nos conocemos desde hace años.",
+"Él es muy alto, tiene el pelo negro y los ojos verdes.",
+"Nos encanta hacer muchas actividades divertidas juntos el fin de semana.",
+"Jugamos al fútbol en el campo deportivo cerca de la estación.",
+"Lucas es una persona muy amable y siempre puedo hablar con él."
+],
+"audios": [
+{ "id": "audio-es-read-a1-003-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-003-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-003-01",
+"question": "¿Cómo se llama el mejor amigo?",
+"reponses": [
+{ "id": "a", "texte": "Roberto", "correcte": false },
+{ "id": "b", "texte": "Lucas", "correcte": true },
+{ "id": "c", "texte": "Carlos", "correcte": false },
+{ "id": "d", "texte": "Thomas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-003-02",
+"question": "¿De qué color son los ojos de Lucas?",
+"reponses": [
+{ "id": "a", "texte": "Azules", "correcte": false },
+{ "id": "b", "texte": "Negros", "correcte": false },
+{ "id": "c", "texte": "Verdes", "correcte": true },
+{ "id": "d", "texte": "Marrones", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-003-03",
+"question": "¿Cuándo hacen actividades juntos los dos amigos?",
+"reponses": [
+{ "id": "a", "texte": "El fin de semana", "correcte": true },
+{ "id": "b", "texte": "Cada mañana a las cuatro", "correcte": false },
+{ "id": "c", "texte": "Solo en diciembre cuando nieva", "correcte": false },
+{ "id": "d", "texte": "Nunca, están muy ocupados", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-003-04",
+"question": "¿Qué deporte juegan juntos?",
+"reponses": [
+{ "id": "a", "texte": "Tenis", "correcte": false },
+{ "id": "b", "texte": "Fútbol", "correcte": true },
+{ "id": "c", "texte": "Baloncesto", "correcte": false },
+{ "id": "d", "texte": "Natación en el lago", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-003-05",
+"question": "¿Cómo es el carácter de Lucas?",
+"reponses": [
+{ "id": "a", "texte": "Amable", "correcte": true },
+{ "id": "b", "texte": "Malo y siempre enfadado", "correcte": false },
+{ "id": "c", "texte": "Muy tímido y silencioso", "correcte": false },
+{ "id": "d", "texte": "Nervoso", "correcte": false }
+]
+}
+]
+},
+{
+"id": "004",
+"titre": "Mi rutina diaria",
+"titre2": "Ejercicio 004",
+"texte": [
+"Mi rutina diaria es simple de lunes a viernes.",
+"Me despierto temprano, me doy una ducha rápida y me visto.",
+"Voy al trabajo tomando el autobús de las ocho en punto.",
+"Vuelvo a casa cansado por la tarde para descansar.",
+"Cocino una cena caliente y veo un poco la televisión."
+],
+"audios": [
+{ "id": "audio-es-read-a1-004-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-004-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-004-01",
+"question": "¿En qué días la rutina es siempre igual?",
+"reponses": [
+{ "id": "a", "texte": "Solo el sábado y el domingo", "correcte": false },
+{ "id": "b", "texte": "De lunes a viernes", "correcte": true },
+{ "id": "c", "texte": "Todos los días del mes", "correcte": false },
+{ "id": "d", "texte": "Solo el domingo por la mañana", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-004-02",
+"question": "¿Qué hace el protagonista justo después de la ducha?",
+"reponses": [
+{ "id": "a", "texte": "Duerme otra vez", "correcte": false },
+{ "id": "b", "texte": "Se viste", "correcte": true },
+{ "id": "c", "texte": "Compra un helado", "correcte": false },
+{ "id": "d", "texte": "Va al banco", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-004-03",
+"question": "¿A qué hora pasa el autobús para el trabajo?",
+"reponses": [
+{ "id": "a", "texte": "A las ocho en punto", "correcte": true },
+{ "id": "b", "texte": "A las diez y media", "correcte": false },
+{ "id": "c", "texte": "A las seis de la mañana", "correcte": false },
+{ "id": "d", "texte": "A medianoche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-004-04",
+"question": "¿Cómo vuelve a casa el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Feliz y descansado", "correcte": false },
+{ "id": "b", "texte": "Cansado", "correcte": true },
+{ "id": "c", "texte": "A pie por el bosque", "correcte": false },
+{ "id": "d", "texte": "En bicicleta por el río", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-004-05",
+"question": "¿Qué hace por la noche antes de dormir?",
+"reponses": [
+{ "id": "a", "texte": "Cocina la cena y ve la televisión", "correcte": true },
+{ "id": "b", "texte": "Escribe una larga carta a Berlín", "correcte": false },
+{ "id": "c", "texte": "Va al dentista para una revisión", "correcte": false },
+{ "id": "d", "texte": "Limpia el jardín grande", "correcte": false }
+]
+}
+]
+},
+{
+"id": "005",
+"titre": "Despertarse por la mañana",
+"titre2": "Ejercicio 005",
+"texte": [
+"Cada mañana mi despertador suena fuerte a las seis y media.",
+"Abro los ojos lentamente, pero la habitación está todavía un poco oscura.",
+"Me quedo en mi cama caliente por cinco minutos antes de levantarme.",
+"Enciendo la luz y voy enseguida al baño para lavarme la cara.",
+"Empieza un nuevo día y me siento listo y lleno de energía."
+],
+"audios": [
+{ "id": "audio-es-read-a1-005-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-005-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-005-01",
+"question": "¿A qué hora suena el despertador por la mañana?",
+"reponses": [
+{ "id": "a", "texte": "A las seis y media", "correcte": true },
+{ "id": "b", "texte": "A las ocho precisas", "correcte": false },
+{ "id": "c", "texte": "A las diez de la mañana", "correcte": false },
+{ "id": "d", "texte": "A las diez de la noche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-005-02",
+"question": "¿Cómo está la habitación cuando el protagonista abre los ojos?",
+"reponses": [
+{ "id": "a", "texte": "Muy luminosa y cálida", "correcte": false },
+{ "id": "b", "texte": "Todavía un poco oscura", "correcte": true },
+{ "id": "c", "texte": "Llena de sol", "correcte": false },
+{ "id": "d", "texte": "Verde y sucia", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-005-03",
+"question": "¿Por cuánto tiempo se queda en la cama caliente?",
+"reponses": [
+{ "id": "a", "texte": "Por una hora entera", "correcte": false },
+{ "id": "b", "texte": "Por cinco minutos", "correcte": true },
+{ "id": "c", "texte": "Por veinte minutos", "correcte": false },
+{ "id": "d", "texte": "Ni un segundo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-005-04",
+"question": "¿Por qué el protagonista va enseguida al baño?",
+"reponses": [
+{ "id": "a", "texte": "Para lavarse la cara", "correcte": true },
+{ "id": "b", "texte": "Para buscar los zapatos", "correcte": false },
+{ "id": "c", "texte": "Para cocinar galletas", "correcte": false },
+{ "id": "d", "texte": "Para dormir más", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-005-05",
+"question": "¿Cómo se siente al final del texto?",
+"reponses": [
+{ "id": "a", "texte": "Listo y lleno de energía", "correcte": true },
+{ "id": "b", "texte": "Triste, cansado y muy enfermo", "correcte": false },
+{ "id": "c", "texte": "Enfadado con su madre", "correcte": false },
+{ "id": "d", "texte": "Nervioso por el tren", "correcte": false }
+]
+}
+]
+},
+{
+"id": "006",
+"titre": "Mi desayuno",
+"titre2": "Ejercicio 006",
+"texte": [
+"El desayuno es mi momento preferido de toda la mañana.",
+"Voy a la cocina y preparo un café caliente y muy dulce.",
+"Como un cruasán fresco o unas galletas con miel.",
+"A veces bebo también un vaso de zumo de naranja frío.",
+"Comer bien me da la fuerza para empezar a estudiar."
+],
+"audios": [
+{ "id": "audio-es-read-a1-006-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-006-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-006-01",
+"question": "¿Cuál es el momento preferido de la mañana?",
+"reponses": [
+{ "id": "a", "texte": "El trabajo en la oficina", "correcte": false },
+{ "id": "b", "texte": "El desayuno", "correcte": true },
+{ "id": "c", "texte": "Tomar el autobús de las ocho", "correcte": false },
+{ "id": "d", "texte": "Darse una ducha fría", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-006-02",
+"question": "¿A dónde va el protagonista a preparar el café?",
+"reponses": [
+{ "id": "a", "texte": "Al dormitorio", "correcte": false },
+{ "id": "b", "texte": "A la cocina", "correcte": true },
+{ "id": "c", "texte": "Al jardín del vecino", "correcte": false },
+{ "id": "d", "texte": "Al quiosco de la estación", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-006-03",
+"question": "¿Qué come junto con el cruasán o las galletas?",
+"reponses": [
+{ "id": "a", "texte": "Miel dulce", "correcte": true },
+{ "id": "b", "texte": "Una ensalada de pepino", "correcte": false },
+{ "id": "c", "texte": "Una sopa caliente", "correcte": false },
+{ "id": "d", "texte": "Carne de pollo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-006-04",
+"question": "¿Qué zumo bebe a veces?",
+"reponses": [
+{ "id": "a", "texte": "Zumo de manzana caliente", "correcte": false },
+{ "id": "b", "texte": "Zumo de naranja frío", "correcte": true },
+{ "id": "c", "texte": "Leche de oveja", "correcte": false },
+{ "id": "d", "texte": "Agua de la fuente", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-006-05",
+"question": "¿Por qué es importante comer bien según el texto?",
+"reponses": [
+{ "id": "a", "texte": "Le da la fuerza para empezar a estudiar", "correcte": true },
+{ "id": "b", "texte": "Porque cuesta muy poco", "correcte": false },
+{ "id": "c", "texte": "Para hacer una foto bonita", "correcte": false },
+{ "id": "d", "texte": "Para dormir mejor por la noche", "correcte": false }
+]
+}
+]
+},
+{
+"id": "007",
+"titre": "Mi horario diario",
+"titre2": "Ejercicio 007",
+"texte": [
+"Mi horario diario está siempre muy organizado.",
+"De las nueve a las trece horas sigo las clases en la universidad.",
+"En el almuerzo como un bocadillo rápido con un amigo en el bar.",
+"Por la tarde estudio tres horas en la biblioteca para el examen.",
+"Por la noche estoy libre para descansar o salir a dar un paseo."
+],
+"audios": [
+{ "id": "audio-es-read-a1-007-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-007-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-007-01",
+"question": "¿Cómo es el horario diario del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Muy desorganizado y caótico", "correcte": false },
+{ "id": "b", "texte": "Siempre muy organizado", "correcte": true },
+{ "id": "c", "texte": "Aburrido y sin actividades", "correcte": false },
+{ "id": "d", "texte": "Secreto", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-007-02",
+"question": "¿Qué hace de las nueve a las trece horas?",
+"reponses": [
+{ "id": "a", "texte": "Duerme en su habitación", "correcte": false },
+{ "id": "b", "texte": "Sigue las clases en la universidad", "correcte": true },
+{ "id": "c", "texte": "Trabaja en un gran restaurante", "correcte": false },
+{ "id": "d", "texte": "Nada en el mar azul", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-007-03",
+"question": "¿Qué come en el almuerzo en el bar?",
+"reponses": [
+{ "id": "a", "texte": "Un bocadillo rápido", "correcte": true },
+{ "id": "b", "texte": "Un plato de pollo caliente", "correcte": false },
+{ "id": "c", "texte": "Una tarta de manzana entera", "correcte": false },
+{ "id": "d", "texte": "Solo un helado de chocolate", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-007-04",
+"question": "¿A dónde va a estudiar por la tarde?",
+"reponses": [
+{ "id": "a", "texte": "A la biblioteca", "correcte": true },
+{ "id": "b", "texte": "Al parque bajo los árboles", "correcte": false },
+{ "id": "c", "texte": "A casa de los abuelos", "correcte": false },
+{ "id": "d", "texte": "A la estación", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-007-05",
+"question": "¿Qué está libre de hacer por la noche?",
+"reponses": [
+{ "id": "a", "texte": "Descansar o salir a dar un paseo", "correcte": true },
+{ "id": "b", "texte": "Trabajar todavía cuatro horas más", "correcte": false },
+{ "id": "c", "texte": "Tomar un avión para España", "correcte": false },
+{ "id": "d", "texte": "Llamar al médico", "correcte": false }
+]
+}
+]
+},
+{
+"id": "008",
+"titre": "Mi casa",
+"titre2": "Ejercicio 008",
+"texte": [
+"Mi casa se encuentra en una calle tranquila cerca del centro.",
+"Es un piso pequeño, luminoso y muy acogedor.",
+"Tiene un bonito salón con un sofá cómodo para ver películas.",
+"La cocina es moderna y tiene una mesa de madera para comer.",
+"Me gusta mucho vivir aquí porque me siento seguro y feliz."
+],
+"audios": [
+{ "id": "audio-es-read-a1-008-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-008-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-008-01",
+"question": "¿Dónde se encuentra la casa del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "En una calle tranquila cerca del centro", "correcte": true },
+{ "id": "b", "texte": "En medio de un bosque oscuro", "correcte": false },
+{ "id": "c", "texte": "Frente a la gran estación", "correcte": false },
+{ "id": "d", "texte": "En el aeropuerto", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-008-02",
+"question": "¿Cómo es el piso?",
+"reponses": [
+{ "id": "a", "texte": "Grande, oscuro y muy frío", "correcte": false },
+{ "id": "b", "texte": "Pequeño, luminoso y acogedor", "correcte": true },
+{ "id": "c", "texte": "Cerrado por vacaciones", "correcte": false },
+{ "id": "d", "texte": "Viejo y sucio", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-008-03",
+"question": "¿Qué hay en el salón para ver películas?",
+"reponses": [
+{ "id": "a", "texte": "Un sofá cómodo", "correcte": true },
+{ "id": "b", "texte": "Una silla de plástico duro", "correcte": false },
+{ "id": "c", "texte": "Una cama grande para invitados", "correcte": false },
+{ "id": "d", "texte": "Una mesa", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-008-04",
+"question": "Ofrezca el material de la mesa de la cocina:",
+"reponses": [
+{ "id": "a", "texte": "De plástico rojo", "correcte": false },
+{ "id": "b", "texte": "De metal frío", "correcte": false },
+{ "id": "c", "texte": "De madera", "correcte": true },
+{ "id": "d", "texte": "De cristal transparente", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-008-05",
+"question": "¿Por qué le gusta al protagonista vivir allí?",
+"reponses": [
+{ "id": "a", "texte": "Porque se siente seguro y feliz", "correcte": true },
+{ "id": "b", "texte": "Porque la casa cuesta mucho dinero", "correcte": false },
+{ "id": "c", "texte": "Porque hay caballos marrones", "correcte": false },
+{ "id": "d", "texte": "Porque está cerca de una farmacia", "correcte": false }
+]
+}
+]
+},
+{
+"id": "009",
+"titre": "Mi dormitorio",
+"titre2": "Ejercicio 009",
+"texte": [
+"Mi dormitorio es el lugar perfecto para descansar.",
+"En el centro de la habitación hay una cama individual muy cómoda.",
+"Al lado de la cama tengo un escritorio blanco con una lámpara moderna.",
+"También hay un gran armario marrón para toda mi ropa.",
+"En las paredes hay fotos de mis amigos más queridos."
+],
+"audios": [
+{ "id": "audio-es-read-a1-009-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-009-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-009-01",
+"question": "¿Cuál es el lugar perfecto para descansar?",
+"reponses": [
+{ "id": "a", "texte": "La cocina moderna", "correcte": false },
+{ "id": "b", "texte": "El dormitorio", "correcte": true },
+{ "id": "c", "texte": "El baño pequeño", "correcte": false },
+{ "id": "d", "texte": "El autobús de las ocho", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-009-02",
+"question": "¿Qué tipo de cama hay en la habitación?",
+"reponses": [
+{ "id": "a", "texte": "Una cama de matrimonio grande", "correcte": false },
+{ "id": "b", "texte": "Una cama individual muy cómoda", "correcte": true },
+{ "id": "c", "texte": "Un viejo sofá cama", "correcte": false },
+{ "id": "d", "texte": "No hay una cama", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-009-03",
+"question": "¿Qué hay al lado de la cama?",
+"reponses": [
+{ "id": "a", "texte": "Un escritorio blanco con una lámpara", "correcte": true },
+{ "id": "b", "texte": "Un gran frigorífico lleno de zumos", "correcte": false },
+{ "id": "c", "texte": "Una vieja bicicleta azul", "correcte": false },
+{ "id": "d", "texte": "La cama del perro Bello", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-009-04",
+"question": "¿De qué color es el armario de la ropa?",
+"reponses": [
+{ "id": "a", "texte": "Blanco", "correcte": false },
+{ "id": "b", "texte": "Marrón", "correcte": true },
+{ "id": "c", "texte": "Negro", "correcte": false },
+{ "id": "d", "texte": "Verde", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-009-05",
+"question": "¿Qué hay colgado en las paredes de la habitación?",
+"reponses": [
+{ "id": "a", "texte": "Fotos de los amigos más queridos", "correcte": true },
+{ "id": "b", "texte": "Un gran reloj de estación", "correcte": false },
+{ "id": "c", "texte": "Un mapa de la ciudad de Berlín", "correcte": false },
+{ "id": "d", "texte": "Abrigos de invierno gruesos", "correcte": false }
+]
+}
+]
+},
+{
+"id": "010",
+"titre": "Mi barrio",
+"titre2": "Ejercicio 010",
+"texte": [
+"Mi barrio es muy bonito y está lleno de vida todos los días.",
+"Hay muchas tiendas, un supermercado y una farmacia útil.",
+"Cerca de mi casa hay un gran parque público con árboles antiguos.",
+"La gente del barrio es muy simpática y educada con todos.",
+"Siempre tomo el café en el bar de la esquina de la calle principal."
+],
+"audios": [
+{ "id": "audio-es-read-a1-010-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-010-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-010-01",
+"question": "¿Cómo es el barrio del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Muy feo, aburrido y vacío", "correcte": false },
+{ "id": "b", "texte": "Muy bonito y lleno de vida", "correcte": true },
+{ "id": "c", "texte": "Cerrado debido al mal tiempo", "correcte": false },
+{ "id": "d", "texte": "Peligroso por la noche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-010-02",
+"question": "¿Qué servicios útiles hay en el barrio?",
+"reponses": [
+{ "id": "a", "texte": "Tiendas, un supermercado y una farmacia", "correcte": true },
+{ "id": "b", "texte": "Solo una gran estación de trenes", "correcte": false },
+{ "id": "c", "texte": "Un aeropuerto internacional moderno", "correcte": false },
+{ "id": "d", "texte": "Un museo de cuadros antiguos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-010-03",
+"question": "¿Qué hay cerca de la casa del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Un gran parque público con árboles antiguos", "correcte": true },
+{ "id": "b", "texte": "Un cercado de madera con tres ovejas blancas", "correcte": false },
+{ "id": "c", "texte": "Una escuela de francés", "correcte": false },
+{ "id": "d", "texte": "Un gran hotel de lujo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-010-04",
+"question": "¿Cómo es la gente que vive en el barrio?",
+"reponses": [
+{ "id": "a", "texte": "Muy enfadada, estresada y ruidosa", "correcte": false },
+{ "id": "b", "texte": "Muy simpática y educada con todos", "correcte": true },
+{ "id": "c", "texte": "No habla nunca con nadie por la calle", "correcte": false },
+{ "id": "d", "texte": "Tímida", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-010-05",
+"question": "¿Dónde toma siempre el café el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "En el bar de la esquina de la calle principal", "correcte": true },
+{ "id": "b", "texte": "En casa de su madre Elena en la cocina", "correcte": false },
+{ "id": "c", "texte": "En la biblioteca durante la pausa de estudio", "correcte": false },
+{ "id": "d", "texte": "En el relojero cerca de la plaza", "correcte": false }
+]
+}
+]
+}
+]
