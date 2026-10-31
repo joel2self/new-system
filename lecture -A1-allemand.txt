@@ -3898,5 +3898,685 @@
 ]
 }
 ]
+},
+{
+"id": "051",
+"titre": "Meine erste Reise",
+"titre2": "Übung 51",
+"texte": [
+"Ich mache heute meine erste große Reise nach Berlin.",
+"Ich packe meinen kleinen Koffer mit Kleidung und Büchern.",
+"Meine Familie bringt mich am Vormittag zum großen Bahnhof.",
+"Ich bin sehr glücklich und auch ein bisschen nervös.",
+"Im Zug trinke ich einen warmen Tee und lese."
+],
+"audios": [
+{ "id": "audio-de-read-a1-051-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-051-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-051-01",
+"question": "Wohin reist der Autor heute?",
+"reponses": [
+{ "id": "a", "texte": "Nach Berlin", "correcte": true },
+{ "id": "b", "texte": "Nach Paris", "correcte": false },
+{ "id": "c", "texte": "Nach London", "correcte": false },
+{ "id": "d", "texte": "Nach Wien", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-051-02",
+"question": "Was packt der Autor in seinen Koffer?",
+"reponses": [
+{ "id": "a", "texte": "Nur neue Schuhe", "correcte": false },
+{ "id": "b", "texte": "Kleidung und Bücher", "correcte": true },
+{ "id": "c", "texte": "Obst und Gemüse", "correcte": false },
+{ "id": "d", "texte": "Eine große Lampe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-051-03",
+"question": "Wer bringt den Autor zum Bahnhof?",
+"reponses": [
+{ "id": "a", "texte": "Sein Deutschlehrer", "correcte": false },
+{ "id": "b", "texte": "Ein Taxifahrer", "correcte": false },
+{ "id": "c", "texte": "Seine Familie", "correcte": true },
+{ "id": "d", "texte": "Sein bester Freund", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-051-04",
+"question": "Wie fühlt sich der Autor vor der Reise?",
+"reponses": [
+{ "id": "a", "texte": "Traurig und müde", "correcte": false },
+{ "id": "b", "texte": "Glücklich und ein bisschen nervös", "correcte": true },
+{ "id": "c", "texte": "Sehr schlecht und krank", "correcte": false },
+{ "id": "d", "texte": "Wütend und unzufrieden", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-051-05",
+"question": "Was macht der Autor im Zug?",
+"reponses": [
+{ "id": "a", "texte": "Er trinkt Tee und liest", "correcte": true },
+{ "id": "b", "texte": "Er schläft den ganzen Tag", "correcte": false },
+{ "id": "c", "texte": "Er spielt laute Musik", "correcte": false },
+{ "id": "d", "texte": "Er kocht ein Abendessen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "052",
+"titre": "Am Bahnhof",
+"titre2": "Übung 52",
+"texte": [
+"Der Bahnhof ist sehr groß und viele Menschen warten hier.",
+"Ich suche den richtigen Bahnsteig für meinen schnellen Zug.",
+"Am Kiosk kaufe ich mir eine Flasche Wasser.",
+"Die große Anzeigetafel zeigt die Abfahrtszeiten aller Züge an.",
+"Mein Zug kommt pünktlich an und ich steige ein."
+],
+"audios": [
+{ "id": "audio-de-read-a1-052-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-052-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-052-01",
+"question": "Wie ist der Bahnhof?",
+"reponses": [
+{ "id": "a", "texte": "Sehr klein und ruhig", "correcte": false },
+{ "id": "b", "texte": "Er ist geschlossen", "correcte": false },
+{ "id": "c", "texte": "Sehr groß mit vielen Menschen", "correcte": true },
+{ "id": "d", "texte": "Er liegt im Wald", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-052-02",
+"question": "Was sucht der Autor am Bahnhof?",
+"reponses": [
+{ "id": "a", "texte": "Den richtigen Bahnsteig", "correcte": true },
+{ "id": "b", "texte": "Sein neues Fahrrad", "correcte": false },
+{ "id": "c", "texte": "Eine Apotheke", "correcte": false },
+{ "id": "d", "texte": "Seine alte Brille", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-052-03",
+"question": "Was kauft der Autor am Kiosk?",
+"reponses": [
+{ "id": "a", "texte": "Ein warmes Brötchen", "correcte": false },
+{ "id": "b", "texte": "Eine Flasche Wasser", "correcte": true },
+{ "id": "c", "texte": "Ein deutsches Buch", "correcte": false },
+{ "id": "d", "texte": "Einen blauen Stift", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-052-04",
+"question": "Was zeigt die große Anzeigetafel an?",
+"reponses": [
+{ "id": "a", "texte": "Die Abfahrtszeiten der Züge", "correcte": true },
+{ "id": "b", "texte": "Das aktuelle Kinoprogramm", "correcte": false },
+{ "id": "c", "texte": "Den Preis für ein Ticket", "correcte": false },
+{ "id": "d", "texte": "Das Wetter in Spanien", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-052-05",
+"question": "Wie kommt der Zug an?",
+"reponses": [
+{ "id": "a", "texte": "Mit großer Verspätung", "correcte": false },
+{ "id": "b", "texte": "Er kommt gar nicht", "correcte": false },
+{ "id": "c", "texte": "Er hat einen Unfall", "correcte": false },
+{ "id": "d", "texte": "Er kommt pünktlich an", "correcte": true }
+]
+}
+]
+},
+{
+"id": "053",
+"titre": "Am Flughafen",
+"titre2": "Übung 53",
+"texte": [
+"Heute fliege ich in den Urlaub und bin am Flughafen.",
+"Zuerst gehe ich zum Check-in und gebe mein Gepäck ab.",
+"Danach zeigt der freundliche Polizist mir den Weg zur Sicherheitskontrolle.",
+"Mein Gate ist Nummer zwölf und liegt am Ende des Flurs.",
+"Das große Flugzeug steht schon bereit für den Abflug."
+],
+"audios": [
+{ "id": "audio-de-read-a1-053-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-053-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-053-01",
+"question": "Warum ist der Autor am Flughafen?",
+"reponses": [
+{ "id": "a", "texte": "Weil er dort arbeitet", "correcte": false },
+{ "id": "b", "texte": "Weil er in den Urlaub fliegt", "correcte": true },
+{ "id": "c", "texte": "Weil er jemanden sucht", "correcte": false },
+{ "id": "d", "texte": "Weil er ein Auto kauft", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-053-02",
+"question": "Was macht der Autor beim Check-in?",
+"reponses": [
+{ "id": "a", "texte": "Er gibt sein Gepäck ab", "correcte": true },
+{ "id": "b", "texte": "Er isst ein warmes Mittagessen", "correcte": false },
+{ "id": "c", "texte": "Er kauft ein neues Ticket", "correcte": false },
+{ "id": "d", "texte": "Er schläft auf dem Stuhl", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-053-03",
+"question": "Wer zeigt dem Autor den Weg?",
+"reponses": [
+{ "id": "a", "texte": "Ein Taxifahrer", "correcte": false },
+{ "id": "b", "texte": "Sein kleiner Bruder", "correcte": false },
+{ "id": "c", "texte": "Ein freundlicher Polizist", "correcte": true },
+{ "id": "d", "texte": "Eine alte Frau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-053-04",
+"question": "Welche Nummer hat das Gate?",
+"reponses": [
+{ "id": "a", "texte": "Nummer fünf", "correcte": false },
+{ "id": "b", "texte": "Nummer zwanzig", "correcte": false },
+{ "id": "c", "texte": "Nummer zwei", "correcte": false },
+{ "id": "d", "texte": "Nummer zwölf", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-053-05",
+"question": "Was steht bereit für den Abflug?",
+"reponses": [
+{ "id": "a", "texte": "Das große Flugzeug", "correcte": true },
+{ "id": "b", "texte": "Ein gelber Bus", "correcte": false },
+{ "id": "c", "texte": "Ein kleines Taxi", "correcte": false },
+{ "id": "d", "texte": "Ein schöner Zug", "correcte": false }
+]
+}
+]
+},
+{
+"id": "054",
+"titre": "Mit dem Bus fahren",
+"titre2": "Übung 54",
+"texte": [
+"Jeden Morgen fahre ich mit dem roten Bus zur Arbeit.",
+"Ich warte fünf Minuten an der Haltestelle neben der Post.",
+"Der Busfahrer grüßt mich immer sehr nett beim Einsteigen.",
+"Ich zeige ihm meine gültige Fahrkarte für diese Zone.",
+"Die Fahrt dauert zwanzig Minuten und ist sehr entspannt."
+],
+"audios": [
+{ "id": "audio-de-read-a1-054-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-054-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-054-01",
+"question": "Wohin fährt der Autor mit dem Bus?",
+"reponses": [
+{ "id": "a", "texte": "Zur Schule", "correcte": false },
+{ "id": "b", "texte": "Zur Arbeit", "correcte": true },
+{ "id": "c", "texte": "In den Park", "correcte": false },
+{ "id": "d", "texte": "Ins Kino", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-054-02",
+"question": "Wo wartet der Autor auf den Bus?",
+"reponses": [
+{ "id": "a", "texte": "An der Haltestelle neben der Post", "correcte": true },
+{ "id": "b", "texte": "Vor seinem Haus", "correcte": false },
+{ "id": "c", "texte": "Auf dem Marktplatz", "correcte": false },
+{ "id": "d", "texte": "Im Supermarkt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-054-03",
+"question": "Wer grüßt den Autor nett?",
+"reponses": [
+{ "id": "a", "texte": "Der Busfahrer", "correcte": true },
+{ "id": "b", "texte": "Ein Passant", "correcte": false },
+{ "id": "c", "texte": "Sein Chef", "correcte": false },
+{ "id": "d", "texte": "Ein Polizist", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-054-04",
+"question": "Was zeigt der Autor dem Busfahrer?",
+"reponses": [
+{ "id": "a", "texte": "Seinen Ausweis", "correcte": false },
+{ "id": "b", "texte": "Sein Smartphone", "correcte": false },
+{ "id": "c", "texte": "Seine gültige Fahrkarte", "correcte": true },
+{ "id": "d", "texte": "Ein altes Foto", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-054-05",
+"question": "Wie lange dauert die Busfahrt?",
+"reponses": [
+{ "id": "a", "texte": "Fünf Minuten", "correcte": false },
+{ "id": "b", "texte": "Eine Stunde", "correcte": false },
+{ "id": "c", "texte": "Zwei Stunden", "correcte": false },
+{ "id": "d", "texte": "Zwanzig Minuten", "correcte": true }
+]
+}
+]
+},
+{
+"id": "055",
+"titre": "Eine Zugreise",
+"titre2": "Übung 55",
+"texte": [
+"Eine Zugreise ist für mich die schönste Art zu reisen.",
+"Ich sitze am Fenster und beobachte die grüne Landschaft.",
+"Der Zug fährt schnell an kleinen Dörfern und Wäldern vorbei.",
+"Ein netter Mann kontrolliert die Fahrkarten im Waggon.",
+"Nach zwei Stunden komme ich entspannt an meinem Ziel an."
+],
+"audios": [
+{ "id": "audio-de-read-a1-055-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-055-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-055-01",
+"question": "Was ist für den Autor die schönste Art zu reisen?",
+"reponses": [
+{ "id": "a", "texte": "Mit dem Flugzeug", "correcte": false },
+{ "id": "b", "texte": "Mit dem Auto", "correcte": false },
+{ "id": "c", "texte": "Eine Zugreise", "correcte": true },
+{ "id": "d", "texte": "Mit dem Fahrrad", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-055-02",
+"question": "Wo sitzt der Autor im Zug?",
+"reponses": [
+{ "id": "a", "texte": "In der Küche", "correcte": false },
+{ "id": "b", "texte": "Am Fenster", "correcte": true },
+{ "id": "c", "texte": "Beim Busfahrer", "correcte": false },
+{ "id": "d", "texte": "Auf dem Dach", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-055-03",
+"question": "Was beobachtet der Autor?",
+"reponses": [
+{ "id": "a", "texte": "Die grüne Landschaft", "correcte": true },
+{ "id": "b", "texte": "Einen spannenden Film", "correcte": false },
+{ "id": "c", "texte": "Seine neuen Schuhe", "correcte": false },
+{ "id": "d", "texte": "Ein kleines Buch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-055-04",
+"question": "Wer kontrolliert die Fahrkarten?",
+"reponses": [
+{ "id": "a", "texte": "Ein netter Mann", "correcte": true },
+{ "id": "b", "texte": "Die Mutter des Autors", "correcte": false },
+{ "id": "c", "texte": "Ein kleiner Junge", "correcte": false },
+{ "id": "d", "texte": "Niemand", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-055-05",
+"question": "Wann kommt der Autor an seinem Ziel an?",
+"reponses": [
+{ "id": "a", "texte": "Nach zehn Minuten", "correcte": false },
+{ "id": "b", "texte": "Nach fünf Stunden", "correcte": false },
+{ "id": "c", "texte": "Nach zwei Stunden", "correcte": true },
+{ "id": "d", "texte": "Am nächsten Morgen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "056",
+"titre": "Eine neue Stadt besuchen",
+"titre2": "Übung 56",
+"texte": [
+"München ist eine wunderschöne Stadt im Süden von Deutschland.",
+"Ich besuche heute das berühmte Rathaus auf dem großen Marktplatz.",
+"In einem gemütlichen Café trinke ich einen leckeren Kaffee.",
+"Ich kaufe auch ein paar schöne Postkarten für meine Freunde.",
+"Am Abend mache ich ein Foto von der alten Kirche."
+],
+"audios": [
+{ "id": "audio-de-read-a1-056-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-056-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-056-01",
+"question": "Wo liegt die Stadt München?",
+"reponses": [
+{ "id": "a", "texte": "Im Norden von Deutschland", "correcte": false },
+{ "id": "b", "texte": "In Frankreich", "correcte": false },
+{ "id": "c", "texte": "Im Süden von Deutschland", "correcte": true },
+{ "id": "d", "texte": "Neben Berlin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-056-02",
+"question": "Was besucht der Autor auf dem Marktplatz?",
+"reponses": [
+{ "id": "a", "texte": "Das berühmte Rathaus", "correcte": true },
+{ "id": "b", "texte": "Einen großen Supermarkt", "correcte": false },
+{ "id": "c", "texte": "Eine moderne Schule", "correcte": false },
+{ "id": "d", "texte": "Ein kleines Schwimmbad", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-056-03",
+"question": "Was macht der Autor im gemütlichen Café?",
+"reponses": [
+{ "id": "a", "texte": "Er kauft Kleidung", "correcte": false },
+{ "id": "b", "texte": "Er trinke einen leckeren Kaffee", "correcte": true },
+{ "id": "c", "texte": "Er schläft im Bett", "correcte": false },
+{ "id": "d", "texte": "Er lernt Französisch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-056-04",
+"question": "Für wen kauft der Autor Postkarten?",
+"reponses": [
+{ "id": "a", "texte": "Für seine Freunde", "correcte": true },
+{ "id": "b", "texte": "Für seinen Lehrer", "correcte": false },
+{ "id": "c", "texte": "Für die Polizei", "correcte": false },
+{ "id": "d", "texte": "Für den Busfahrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-056-05",
+"question": "Wovon macht der Autor am Abend ein Foto?",
+"reponses": [
+{ "id": "a", "texte": "Vom Rathaus", "correcte": false },
+{ "id": "b", "texte": "Von seinem Kaffee", "correcte": false },
+{ "id": "c", "texte": "Von den Postkarten", "correcte": false },
+{ "id": "d", "texte": "Von der alten Kirche", "correcte": true }
+]
+}
+]
+},
+{
+"id": "057",
+"titre": "Ferien am Strand",
+"titre2": "Übung 57",
+"texte": [
+"Ich verbringe meine Sommerferien an einem wunderschönen, weißen Strand.",
+"Das Meer ist heute sehr blau, ruhig und angenehm warm.",
+"Ich liege in der Sonne und lese ein spannendes Buch.",
+"Am Nachmittag esse ich ein kaltes Schokoladeneis am Kiosk.",
+"Am Abend gehe ich am Wasser spazieren und genieße die Natur."
+],
+"audios": [
+{ "id": "audio-de-read-a1-057-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-057-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-057-01",
+"question": "Wo verbringt der Autor seine Sommerferien?",
+"reponses": [
+{ "id": "a", "texte": "In den Bergen", "correcte": false },
+{ "id": "b", "texte": "An einem weißen Strand", "correcte": true },
+{ "id": "c", "texte": "In der großen Stadt", "correcte": false },
+{ "id": "d", "texte": "Zu Hause in der Küche", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-057-02",
+"question": "Wie ist das Meer heute?",
+"reponses": [
+{ "id": "a", "texte": "Sehr kalt und windig", "correcte": false },
+{ "id": "b", "texte": "Grün und schmutzig", "correcte": false },
+{ "id": "c", "texte": "Blau, ruhig und angenehm warm", "correcte": true },
+{ "id": "d", "texte": "Es gibt kein Wasser", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-057-03",
+"question": "Was macht der Autor in der Sonne?",
+"reponses": [
+{ "id": "a", "texte": "Er liest ein spannendes Buch", "correcte": true },
+{ "id": "b", "texte": "Er kocht ein Hähnchengericht", "correcte": false },
+{ "id": "c", "texte": "Er macht Sport", "correcte": false },
+{ "id": "d", "texte": "Er sucht eine Apotheke", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-057-04",
+"question": "Was isst der Autor am Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Einen großen Apfel", "correcte": false },
+{ "id": "b", "texte": "Eine heiße Suppe", "correcte": false },
+{ "id": "c", "texte": "Ein kaltes Schokoladeneis", "correcte": true },
+{ "id": "d", "texte": "Ein Stück Pizza", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-057-05",
+"question": "Was macht der Autor am Abend?",
+"reponses": [
+{ "id": "a", "texte": "Er geht am Wasser spazieren", "correcte": true },
+{ "id": "b", "texte": "Er fliegt nach Berlin", "correcte": false },
+{ "id": "c", "texte": "Er schaut einen Film im Wohnzimmer", "correcte": false },
+{ "id": "d", "texte": "Er geht ins Bett", "correcte": false }
+]
+}
+]
+},
+{
+"id": "058",
+"titre": "Ein Spaziergang auf dem Land",
+"titre2": "Übung 58",
+"texte": [
+"Heute mache ich einen langen Spaziergang auf dem Land.",
+"Die Luft hier ist sehr frisch und es gibt viele Bäume.",
+"Auf einer grünen Wiese sehe ich drei weiße Schafe.",
+"Die Sonne scheint warm und die Vögel singen fröhlich.",
+"Nach dem Spaziergang fühle ich mich sehr glücklich."
+],
+"audios": [
+{ "id": "audio-de-read-a1-058-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-058-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-058-01",
+"question": "Wo macht der Autor heute einen Spaziergang?",
+"reponses": [
+{ "id": "a", "texte": "Auf dem Land", "correcte": true },
+{ "id": "b", "texte": "Im großen Bahnhof", "correcte": false },
+{ "id": "c", "texte": "In der modernen Küche", "correcte": false },
+{ "id": "d", "texte": "Auf dem Flughafen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-058-02",
+"question": "Wie ist die Luft auf dem Land?",
+"reponses": [
+{ "id": "a", "texte": "Schlecht und warm", "correcte": false },
+{ "id": "b", "texte": "Sehr frisch", "correcte": true },
+{ "id": "c", "texte": "Kalt und windig", "correcte": false },
+{ "id": "d", "texte": "Es gibt keine Luft", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-058-03",
+"question": "Was sieht der Autor auf der grünen Wiese?",
+"reponses": [
+{ "id": "a", "texte": "Ein großes Auto", "correcte": false },
+{ "id": "b", "texte": "Zwei kleine Katzen", "correcte": false },
+{ "id": "c", "texte": "Drei weiße Schafe", "correcte": true },
+{ "id": "d", "texte": "Einen roten Bus", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-058-04",
+"question": "Wer singt fröhlich?",
+"reponses": [
+{ "id": "a", "texte": "Die Vögel", "correcte": true },
+{ "id": "b", "texte": "Der Busfahrer", "correcte": false },
+{ "id": "c", "texte": "Die Schafe", "correcte": false },
+{ "id": "d", "texte": "Die Mutter", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-058-05",
+"question": "Wie fühlt sich der Autor nach dem Spaziergang?",
+"reponses": [
+{ "id": "a", "texte": "Sehr müde", "correcte": false },
+{ "id": "b", "texte": "Sehr traurig", "correcte": false },
+{ "id": "c", "texte": "Sehr glücklich", "correcte": true },
+{ "id": "d", "texte": "Nervös und unzufrieden", "correcte": false }
+]
+}
+]
+},
+{
+"id": "059",
+"titre": "Nach dem Weg fragen",
+"titre2": "Übung 59",
+"texte": [
+"Ich bin neu in der Stadt und suche das große Museum.",
+"Ich frage eine nette Frau auf der Straße nach dem Weg.",
+"Sie erklärt mir den Weg sehr ruhig und freundlich.",
+"Ich muss zuerst geradeaus gehen und dann rechts abbiegen.",
+"Ich danke der Frau höflich und wünsche ihr einen schönen Tag."
+],
+"audios": [
+{ "id": "audio-de-read-a1-059-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-059-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-059-01",
+"question": "Was sucht der Autor in der Stadt?",
+"reponses": [
+{ "id": "a", "texte": "Einen Supermarkt", "correcte": false },
+{ "id": "b", "texte": "Das große Museum", "correcte": true },
+{ "id": "c", "texte": "Eine alte Kirche", "correcte": false },
+{ "id": "d", "texte": "Einen Bahnhof", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-059-02",
+"question": "Wen fragt der Autor nach dem Weg?",
+"reponses": [
+{ "id": "a", "texte": "Einen Polizisten", "correcte": false },
+{ "id": "b", "texte": "Einen Busfahrer", "correcte": false },
+{ "id": "c", "texte": "Eine nette Frau auf der Straße", "correcte": true },
+{ "id": "d", "texte": "Seinen Freund", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-059-03",
+"question": "Wie erklärt die Frau den Weg?",
+"reponses": [
+{ "id": "a", "texte": "Sehr ruhig und freundlich", "correcte": true },
+{ "id": "b", "texte": "Sehr schnell und laut", "correcte": false },
+{ "id": "c", "texte": "Gar nicht, sie geht weg", "correcte": false },
+{ "id": "d", "texte": "Sie versteht kein Deutsch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-059-04",
+"question": "Wohin muss der Autor abbiegen?",
+"reponses": [
+{ "id": "a", "texte": "Nach links", "correcte": false },
+{ "id": "b", "texte": "Nach rechts", "correcte": true },
+{ "id": "c", "texte": "Gar nicht", "correcte": false },
+{ "id": "d", "texte": "Zurück zum Bahnhof", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-059-05",
+"question": "Was macht der Autor am Ende?",
+"reponses": [
+{ "id": "a", "texte": "Er dankt der Frau höflich", "correcte": true },
+{ "id": "b", "texte": "Er kauft ein Eis", "correcte": false },
+{ "id": "c", "texte": "Er läuft schnell weg", "correcte": false },
+{ "id": "d", "texte": "Er ruft seine Mutter an", "correcte": false }
+]
+}
+]
+},
+{
+"id": "060",
+"titre": "Meine Reise zu meinen Großeltern",
+"titre2": "Übung 60",
+"texte": [
+"Am Wochenende besuche ich meine lieben Großeltern auf dem Dorf.",
+"Sie wohnen in einem kleinen, gemütlichen Haus mit einem großen Garten.",
+"Mein Großvater wartet schon an der Tür und lächelt.",
+"Meine Großmutter backt einen leckeren Apfelkuchen für uns.",
+"Wir sitzen im Wohnzimmer und sprechen über mein Leben."
+],
+"audios": [
+{ "id": "audio-de-read-a1-060-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-060-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-060-01",
+"question": "Wen besucht der Autor am Wochenende?",
+"reponses": [
+{ "id": "a", "texte": "Seine Freunde", "correcte": false },
+{ "id": "b", "texte": "Seine lieben Großeltern", "correcte": true },
+{ "id": "c", "texte": "Seinen Deutschlehrer", "correcte": false },
+{ "id": "d", "texte": "Den Busfahrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-060-02",
+"question": "Wo wohnen die Großeltern?",
+"reponses": [
+{ "id": "a", "texte": "In einem kleinen Haus auf dem Dorf", "correcte": true },
+{ "id": "b", "texte": "In einer großen Wohnung in Berlin", "correcte": false },
+{ "id": "c", "texte": "Im großen Museum", "correcte": false },
+{ "id": "d", "texte": "Am weißen Strand", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-060-03",
+"question": "Wer wartet an der Tür und lächelt?",
+"reponses": [
+{ "id": "a", "texte": "Der Großvater", "correcte": true },
+{ "id": "b", "texte": "Die Großmutter", "correcte": false },
+{ "id": "c", "texte": "Eine nette Frau", "correcte": false },
+{ "id": "d", "texte": "Ein Hund", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-060-04",
+"question": "Was backt die Großmutter?",
+"reponses": [
+{ "id": "a", "texte": "Eine Pizza mit Oliven", "correcte": false },
+{ "id": "b", "texte": "Ein Hähnchengericht", "correcte": false },
+{ "id": "c", "texte": "Einen leckeren Apfelkuchen", "correcte": true },
+{ "id": "d", "texte": "Ein einfaches Brot", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-060-05",
+"question": "Worüber sprechen sie im Wohnzimmer?",
+"reponses": [
+{ "id": "a", "texte": "Über das Wetter in München", "correcte": false },
+{ "id": "b", "texte": "Über das Leben des Autors", "correcte": true },
+{ "id": "c", "texte": "Über die Abfahrtszeiten der Züge", "correcte": false },
+{ "id": "d", "texte": "Über einen neuen Film", "correcte": false }
+]
+}
+]
 }
 ]
