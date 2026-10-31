@@ -1358,5 +1358,685 @@
 ]
 }
 ]
+},
+{
+    "id": "021",
+    "titre": "在超市",
+    "titre2": "练习 021",
+    "texte": [
+      "今天我去车站附近的大超市。",
+      "我在门口推了一辆金属购物车，开始往里走。",
+      "我寻找意面、西红柿和一瓶油。",
+      "货架高处摆放着许多商品。",
+      "最后我在收银台用信用卡付了钱。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-021-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-021-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-021-01",
+        "question": "超市在哪里？",
+        "reponses": [
+          { "id": "a", "texte": "车站附近", "correcte": true },
+          { "id": "b", "texte": "森林中间", "correcte": false },
+          { "id": "c", "texte": "学校里面", "correcte": false },
+          { "id": "d", "texte": "机场里面", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-021-02",
+        "question": "主角在门口拿了什么？",
+        "reponses": [
+          { "id": "a", "texte": "一本大书", "correcte": false },
+          { "id": "b", "texte": "一辆金属购物车", "correcte": true },
+          { "id": "c", "texte": "一个冷冰激凌", "correcte": false },
+          { "id": "d", "texte": "一个蓝色书包", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-021-03",
+        "question": "主角寻找什么商品？",
+        "reponses": [
+          { "id": "a", "texte": "意面、西红柿和油", "correcte": true },
+          { "id": "b", "texte": "跑步鞋", "correcte": false },
+          { "id": "c", "texte": "治头痛的药", "correcte": false },
+          { "id": "d", "texte": "儿童玩具", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-021-04",
+        "question": "商品摆放在哪里？",
+        "reponses": [
+          { "id": "a", "texte": "收银台下面", "correcte": false },
+          { "id": "b", "texte": "高处的货架上", "correcte": true },
+          { "id": "c", "texte": "邻居的车里", "correcte": false },
+          { "id": "d", "texte": "地板上", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-021-05",
+        "question": "最后他是怎么付款的？",
+        "reponses": [
+          { "id": "a", "texte": "用他的信用卡", "correcte": true },
+          { "id": "b", "texte": "用一本古书", "correcte": false },
+          { "id": "c", "texte": "用一个红苹果", "correcte": false },
+          { "id": "d", "texte": "他没有付钱就逃跑了", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "在村里的集市",
+    "titre2": "练习 022",
+    "texte": [
+      "每个星期六早上，我们村里总是有集市。",
+      "主广场上摆满了五颜六色的摊位。",
+      "农民们在售卖新鲜的蔬菜和美味的奶酪。",
+      "我喜欢和人们聊天，闻着各种香气。",
+      "在回去之前，我买了一块柴火烘烤的面包。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-022-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-022-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-022-01",
+        "question": "村里哪一天有集市？",
+        "reponses": [
+          { "id": "a", "texte": "星期一晚上", "correcte": false },
+          { "id": "b", "texte": "星期六早上", "correcte": true },
+          { "id": "c", "texte": "星期日晚上", "correcte": false },
+          { "id": "d", "texte": "星期三下午", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-022-02",
+        "question": "主广场上有什么？",
+        "reponses": [
+          { "id": "a", "texte": "许多快车", "correcte": false },
+          { "id": "b", "texte": "五颜六色的摊位", "correcte": true },
+          { "id": "c", "texte": "一家大医院", "correcte": false },
+          { "id": "d", "texte": "一所关闭的学校", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-022-03",
+        "question": "集市上是谁在售卖商品？",
+        "reponses": [
+          { "id": "a", "texte": "农民们", "correcte": true },
+          { "id": "b", "texte": "罗西先生", "correcte": false },
+          { "id": "c", "texte": "图书管理员", "correcte": false },
+          { "id": "d", "texte": "医生们", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-022-04",
+        "question": "农民们售卖什么？",
+        "reponses": [
+          { "id": "a", "texte": "练习本和蓝色圆珠笔", "correcte": false },
+          { "id": "b", "texte": "新鲜的蔬菜和美味的奶酪", "correcte": true },
+          { "id": "c", "texte": "厚重的冬衣", "correcte": false },
+          { "id": "d", "texte": "药品", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-022-05",
+        "question": "主角在回去之前买了什么？",
+        "reponses": [
+          { "id": "a", "texte": "一块柴火烘烤的面包", "correcte": true },
+          { "id": "b", "texte": "一公斤橙子", "correcte": false },
+          { "id": "c", "texte": "一瓶红酒", "correcte": false },
+          { "id": "d", "texte": "一双靴子", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "买水果",
+    "titre2": "练习 023",
+    "texte": [
+      "我去转角的水果店买新鲜的水果。",
+      "今天的红苹果和黄香蕉非常漂亮。",
+      "我也买了一公斤多汁的橙子来榨汁。",
+      "店员在一个大秤上称了我所有的水果。",
+      "我把袋子放进书包里，一共付了三欧元。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-023-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-023-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-023-01",
+        "question": "主角去了什么店？",
+        "reponses": [
+          { "id": "a", "texte": "面包店", "correcte": false },
+          { "id": "b", "texte": "水果店", "correcte": true },
+          { "id": "c", "texte": "药店", "correcte": false },
+          { "id": "d", "texte": "图书馆", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-023-02",
+        "question": "今天的香蕉是什么颜色的？",
+        "reponses": [
+          { "id": "a", "texte": "红色的", "correcte": false },
+          { "id": "b", "texte": "黄色的", "correcte": true },
+          { "id": "c", "texte": "绿色的", "correcte": false },
+          { "id": "d", "texte": "蓝色的", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-023-03",
+        "question": "主角买了多少橙子？",
+        "reponses": [
+          { "id": "a", "texte": "只有两个橙子", "correcte": false },
+          { "id": "b", "texte": "一公斤橙子", "correcte": true },
+          { "id": "c", "texte": "五公斤", "correcte": false },
+          { "id": "d", "texte": "一个橙子也没买", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-023-04",
+        "question": "店员用什么来称水果？",
+        "reponses": [
+          { "id": "a", "texte": "一个大秤", "correcte": true },
+          { "id": "b", "texte": "一张木桌", "correcte": false },
+          { "id": "c", "texte": "一辆金属购物车", "correcte": false },
+          { "id": "d", "texte": "一个塑料袋", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-023-05",
+        "question": "他一共为水果付了多少钱？",
+        "reponses": [
+          { "id": "a", "texte": "三欧元", "correcte": true },
+          { "id": "b", "texte": "十欧元", "correcte": false },
+          { "id": "c", "texte": "二十欧元", "correcte": false },
+          { "id": "d", "texte": "一欧元", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "在面包店",
+    "titre2": "练习 024",
+    "texte": [
+      "早上七点，我走进老城区的一家面包店。",
+      "店里弥漫着刚出炉的热面包的绝妙香气。",
+      "我向女店员要了三个小面包和两块佛卡夏面包。",
+      "我在柜台里还看到了一些非常甜的热可颂。",
+      "我拿过纸袋并道了谢，祝对方有美好的一天。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-024-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-024-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-024-01",
+        "question": "主角几点走进面包店？",
+        "reponses": [
+          { "id": "a", "texte": "早上七点", "correcte": true },
+          { "id": "b", "texte": "十一点整", "correcte": false },
+          { "id": "c", "texte": "下午", "correcte": false },
+          { "id": "d", "texte": "午夜", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-024-02",
+        "question": "店里能闻到什么味道？",
+        "reponses": [
+          { "id": "a", "texte": "红玫瑰的香气", "correcte": false },
+          { "id": "b", "texte": "刚出炉的热面包的香气", "correcte": true },
+          { "id": "c", "texte": "甜咖啡的味道", "correcte": false },
+          { "id": "d", "texte": "没有任何味道", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-024-03",
+        "question": "他向女店员要了几块佛卡夏面包？",
+        "reponses": [
+          { "id": "a", "texte": "只有一块", "correcte": false },
+          { "id": "b", "texte": "两块", "correcte": true },
+          { "id": "c", "texte": "三块大的", "correcte": false },
+          { "id": "d", "texte": "四块小的", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-024-04",
+        "question": "除了面包和佛卡夏，柜台里还有什么？",
+        "reponses": [
+          { "id": "a", "texte": "非常甜的热可颂", "correcte": true },
+          { "id": "b", "texte": "新鲜多汁的橙子", "correcte": false },
+          { "id": "c", "texte": "圆珠笔和练习本", "correcte": false },
+          { "id": "d", "texte": "水瓶", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-024-05",
+        "question": "面包是用什么袋子装的？",
+        "reponses": [
+          { "id": "a", "texte": "一个纸袋", "correcte": true },
+          { "id": "b", "texte": "一个蓝色塑料袋", "correcte": false },
+          { "id": "c", "texte": "直接放进学校书包", "correcte": false },
+          { "id": "d", "texte": "一个棕色木盒", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "titre": "在药店",
+    "titre2": "练习 025",
+    "texte": [
+      "今天我感觉不太舒服，所以去了药店。",
+      "我向和蔼的药剂师出示了我医生的处方。",
+      "他从白色的柜子里拿出一盒药片。",
+      "他平静地向我解释如何在饭后服药。",
+      "我还买了一瓶治疗严重咳嗽的甜止咳糖浆。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-025-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-025-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-025-01",
+        "question": "主角为什么去药店？",
+        "reponses": [
+          { "id": "a", "texte": "去买一块热佛卡夏", "correcte": false },
+          { "id": "b", "texte": "因为他感觉不太舒服", "correcte": true },
+          { "id": "c", "texte": "去学习古代历史", "correcte": false },
+          { "id": "d", "texte": "去和罗西先生见面", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-025-02",
+        "question": "他向药剂师出示了什么？",
+        "reponses": [
+          { "id": "a", "texte": "他医生的处方", "correcte": true },
+          { "id": "b", "texte": "金信用卡", "correcte": false },
+          { "id": "c", "texte": "他的新蓝色书包", "correcte": false },
+{ "id": "d", "texte": "一张朋友们的彩色照片", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-025-03",
+"question": "药剂师从哪里拿出的药片盒？",
+"reponses": [
+{ "id": "a", "texte": "白色的柜子里", "correcte": true },
+{ "id": "b", "texte": "大秤下面", "correcte": false },
+{ "id": "c", "texte": "外套口袋里", "correcte": false },
+{ "id": "d", "texte": "木质柜台上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-025-04",
+"question": "主角应该什么时候服药？",
+"reponses": [
+{ "id": "a", "texte": "饭后", "correcte": true },
+{ "id": "b", "texte": "洗澡之前", "correcte": false },
+{ "id": "c", "texte": "学校课间休息期间", "correcte": false },
+{ "id": "d", "texte": "只有在晚上六点", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-025-05",
+"question": "除了药片，他还买了什么商品？",
+"reponses": [
+{ "id": "a", "texte": "一瓶治疗严重咳嗽的甜止咳糖浆", "correcte": true },
+{ "id": "b", "texte": "一瓶矿泉水", "correcte": false },
+{ "id": "c", "texte": "一包配蜂蜜的饼干", "correcte": false },
+{ "id": "d", "texte": "一块橡皮擦", "correcte": false }
+]
+}
+]
+},
+{
+"id": "026",
+"titre": "买衣服",
+"titre2": "练习 026",
+"texte": [
+"今天我去一家服装店买衣服。",
+"我在寻找一件优雅的白衬衫，准备在星期六的生日派穿。",
+"我走进小试衣间，试穿了中码。",
+"这件衬衫很完美、很舒服，我很喜欢。",
+"我走到收银台，用现金支付了费用。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-026-1", "url": "" },
+{ "id": "audio-zh-read-a1-026-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-026-01",
+"question": "主角去了什么类型的店？",
+"reponses": [
+{ "id": "a", "texte": "鞋店", "correcte": false },
+{ "id": "b", "texte": "服装店", "correcte": true },
+{ "id": "c", "texte": "市中心的药店", "correcte": false },
+{ "id": "d", "texte": "大超市", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-026-02",
+"question": "主角为生日派对寻找什么？",
+"reponses": [
+{ "id": "a", "texte": "一件优雅的白衬衫", "correcte": true },
+{ "id": "b", "texte": "一件黑色厚夹克", "correcte": false },
+{ "id": "c", "texte": "一条短裤", "correcte": false },
+{ "id": "d", "texte": "一顶黄色遮阳帽", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-026-03",
+"question": "他走进哪里试穿衣服？",
+"reponses": [
+{ "id": "a", "texte": "小试衣间", "correcte": true },
+{ "id": "b", "texte": "商店后方", "correcte": false },
+{ "id": "c", "texte": "洗手间", "correcte": false },
+{ "id": "d", "texte": "外面主街上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-026-04",
+"question": "主角试穿了什么尺码？",
+"reponses": [
+{ "id": "a", "texte": "小码", "correcte": false },
+{ "id": "b", "texte": "中码", "correcte": true },
+{ "id": "c", "texte": "大码", "correcte": false },
+{ "id": "d", "texte": "没有尺码", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-026-05",
+"question": "他在收银台是怎么付衬衫钱的？",
+"reponses": [
+{ "id": "a", "texte": "用现金", "correcte": true },
+{ "id": "b", "texte": "用信用卡", "correcte": false },
+{ "id": "c", "texte": "用银行支票", "correcte": false },
+{ "id": "d", "texte": "用一件旧衬衫", "correcte": false }
+]
+}
+]
+},
+{
+"id": "027",
+"titre": "在鞋店",
+"titre2": "练习 027",
+"texte": [
+"我陪我最好的朋友去一家大鞋店。",
+"他想要一双黑色的运动鞋来做体操。",
+"我朋友的鞋码是四十二码。",
+"他在店里的地板上走了几步，测试一下舒适度。",
+"鞋子的价格很好，他决定立刻买下来。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-027-1", "url": "" },
+{ "id": "audio-zh-read-a1-027-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-027-01",
+"question": "主角陪谁去商店？",
+"reponses": [
+{ "id": "a", "texte": "他的母亲埃琳娜", "correcte": false },
+{ "id": "b", "texte": "我最好的朋友", "correcte": true },
+{ "id": "c", "texte": "法语老师", "correcte": false },
+{ "id": "d", "texte": "邻居施密特先生", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-027-02",
+"question": "他的朋友想要什么类型的鞋子？",
+"reponses": [
+{ "id": "a", "texte": "一双做体操用的黑色运动鞋", "correcte": true },
+{ "id": "b", "texte": "雪地用的厚重冬靴", "correcte": false },
+{ "id": "c", "texte": "优雅的白色鞋子", "correcte": false },
+{ "id": "d", "texte": "海边用的轻便凉鞋", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-027-03",
+"question": "朋友的鞋码是多少？",
+"reponses": [
+{ "id": "a", "texte": "四十码", "correcte": false },
+{ "id": "b", "texte": "四十二码", "correcte": true },
+{ "id": "c", "texte": "三十八码", "correcte": false },
+{ "id": "d", "texte": "四十四码", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-027-04",
+"question": "朋友在店里的地板上做什么？",
+"reponses": [
+{ "id": "a", "texte": "走了一小会儿来测试舒适度", "correcte": true },
+{ "id": "b", "texte": "跑得非常快然后摔倒了", "correcte": false },
+{ "id": "c", "texte": "在软椅子上睡觉", "correcte": false },
+{ "id": "d", "texte": "用水打扫卫生", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-027-05",
+"question": "是什么说服了朋友买下这双鞋？",
+"reponses": [
+{ "id": "a", "texte": "鞋子的价格很好", "correcte": true },
+{ "id": "b", "texte": "店员送了他一个苹果", "correcte": false },
+{ "id": "c", "texte": "明亮的蓝色", "correcte": false },
+{ "id": "d", "texte": "他母亲的意见", "correcte": false }
+]
+}
+]
+},
+{
+"id": "028",
+"titre": "商品的价格",
+"titre2": "练习 028",
+"texte": [
+"当我买东西时，总是看价格标签。",
+"一些著名的商品在市中心非常贵。",
+"我总是试着留意并寻找特别的优惠活动。",
+"我询问和蔼的店员：“打扰一下，这个练习本多少钱？”",
+"价格只要两 my 欧元，对我来说很完美。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-028-1", "url": "" },
+{ "id": "audio-zh-read-a1-028-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-028-01",
+"question": "主角买东西时总是看什么？",
+"reponses": [
+{ "id": "a", "texte": "墙上的时钟", "correcte": false },
+{ "id": "b", "texte": "价格标签", "correcte": true },
+{ "id": "c", "texte": "袋子的颜色", "correcte": false },
+{ "id": "d", "texte": "商店的名字", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-028-02",
+"question": "市中心的一些著名商品是怎么被定义的？",
+"reponses": [
+{ "id": "a", "texte": "非常便宜且破旧", "correcte": false },
+{ "id": "b", "texte": "非常贵", "correcte": true },
+{ "id": "c", "texte": "对学生免费", "correcte": false },
+{ "id": "d", "texte": "很难看", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-028-03",
+"question": "主角试图在商店里寻找什么？",
+"reponses": [
+{ "id": "a", "texte": "特别的优惠活动", "correcte": true },
+{ "id": "b", "texte": "一个舒服的沙发", "correcte": false },
+{ "id": "c", "texte": "治咳嗽的药", "correcte": false },
+{ "id": "d", "texte": "家里的钥匙", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-028-04",
+"question": "主角向店员提了什么问题？",
+"reponses": [
+{ "id": "a", "texte": "“打扰一下，这个练习本多少钱？”", "correcte": true },
+{ "id": "b", "texte": "“今天学校几点放学？”", "correcte": false },
+{ "id": "c", "texte": "“最近的公共洗手间在哪里？”", "correcte": false },
+{ "id": "d", "texte": "“你妈妈叫什么名字？”", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-028-05",
+"question": "练习本的最终价格是多少？",
+"reponses": [
+{ "id": "a", "texte": "两欧元", "correcte": true },
+{ "id": "b", "texte": "五欧元", "correcte": false },
+{ "id": "c", "texte": "十欧元", "correcte": false },
+{ "id": "d", "texte": "五十欧分", "correcte": false }
+]
+}
+]
+},
+{
+"id": "029",
+"titre": "和妈妈一起购物",
+"titre2": "练习 029",
+"texte": [
+"每个星期三下午，我总是和妈妈一起去购物。",
+"她在厨房的一张白纸上写下一份详细的清单。",
+"我帮她拿牛奶和水等重物。",
+"我们一起挑选了一些甜饼干作为我们的早餐。",
+"我们拎着三个装满好食物的大袋子开心地回家了。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-029-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-029-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-029-01",
+"question": "他们在一周中的什么时候去购物？",
+"reponses": [
+{ "id": "a", "texte": "星期六大清早", "correcte": false },
+{ "id": "b", "texte": "星期三下午", "correcte": true },
+{ "id": "c", "texte": "星期日深夜", "correcte": false },
+{ "id": "d", "texte": "星期四晚上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-029-02",
+"question": "妈妈在哪里写购物清单？",
+"reponses": [
+{ "id": "a", "texte": "在厨房的一张白纸上", "correcte": true },
+{ "id": "b", "texte": "在卧室的墙上", "correcte": false },
+{ "id": "c", "texte": "在学校的数学笔记本上", "correcte": false },
+{ "id": "d", "texte": "在电脑屏幕上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-029-03",
+"question": "主角帮妈妈拿了什么重物？",
+"reponses": [
+{ "id": "a", "texte": "古老图书馆里的书", "correcte": false },
+{ "id": "b", "texte": "牛奶 and 水", "correcte": true },
+{ "id": "c", "texte": "卧室里的家具", "correcte": false },
+{ "id": "d", "texte": "运动鞋", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-029-04",
+"question": "他们为早上的早餐共同挑选了什么？",
+"reponses": [
+{ "id": "a", "texte": "咸糖果", "correcte": false },
+{ "id": "b", "texte": "一些甜饼干", "correcte": true },
+{ "id": "c", "texte": "一公斤新鲜西红柿", "correcte": false },
+{ "id": "d", "texte": "一瓶治咳嗽的药", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-029-05",
+"question": "他们拎着几个装满食物的大袋子回家？",
+"reponses": [
+{ "id": "a", "texte": "一个纸袋小", "correcte": false },
+{ "id": "b", "texte": "三个大袋子", "correcte": true },
+{ "id": "c", "texte": "十个塑料袋", "correcte": false },
+{ "id": "d", "texte": "没有袋子，直接装车", "correcte": false }
+]
+}
+]
+},
+{
+"id": "030",
+"titre": "我的第一次购物",
+"titre2": "练习 030",
+"texte": [
+"我至今仍十分幸福地记得我的第一次真正购物。",
+"我用自己的钱买了一本小故事书。",
+"我把五 crack 欧元攒在一个陶瓷储蓄罐里。",
+"书店老板找了我零钱，并对我亲切地微笑。",
+"那天，我明白了金钱的重要价值。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-030-1", "url": "" },
+{ "id": "audio-zh-read-a1-030-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-030-01",
+"question": "主角非常幸福地记得什么？",
+"reponses": [
+{ "id": "a", "texte": "我的第一次真正购物", "correcte": true },
+{ "id": "b", "texte": "坐火车去柏林旅行", "correcte": false },
+{ "id": "c", "texte": "第一节困难的数学课", "correcte": false },
+{ "id": "d", "texte": "在大公园里的那一天", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-030-02",
+"question": "他用自己的钱买了什么？",
+"reponses": [
+{ "id": "a", "texte": "一本小故事书", "correcte": true },
+{ "id": "b", "texte": "一双黑色运动鞋", "correcte": false },
+{ "id": "c", "texte": "一个购物用的铁手推车", "correcte": false },
+{ "id": "d", "texte": "一个甜奶油可颂", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-030-03",
+"question": "主角存了多少钱？",
+"reponses": [
+{ "id": "a", "texte": "仅两欧元", "correcte": false },
+{ "id": "b", "texte": "五欧元", "correcte": true },
+{ "text": "二十大欧元", "id": "c", "correcte": false },
+{ "id": "d", "texte": "一百欧元", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-030-04",
+"question": "他把存下来的钱放在哪里？",
+"reponses": [
+{ "id": "a", "texte": "在一个陶瓷储蓄罐里", "correcte": true },
+{ "id": "b", "texte": "在书包后面的口袋里", "correcte": false },
+{ "id": "c", "texte": "在单人床的枕头下面", "correcte": false },
+{ "id": "d", "texte": "在厨房的一个杯子里", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-030-05",
+"question": "主角那天明白了什么？",
+"reponses": [
+{ "id": "a", "texte": "金钱的重要价值", "correcte": true },
+{ "id": "b", "texte": "古代历史很无聊", "correcte": false },
+{ "id": "c", "texte": "一块面包是怎么做出来的", "correcte": false },
+{ "id": "d", "texte": "商店总是关门", "correcte": false }
+]
+}
+]
 }
 ]
