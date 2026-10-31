@@ -780,6 +780,4418 @@
 ]
 },
 {
+    "id": "011",
+    "titre": "Mein erster Schultag",
+    "titre2": "Übung 11",
+    "texte": [
+      "Heute ist mein allererster Schultag in dieser neuen Schule.",
+      "Ich stehe sehr früh auf und ziehe meine schönsten Kleider für diesen Tag an.",
+      "Vor der Eingangstür fühle ich mich ein bisschen gestresst und von der Menge eingeschüchtert.",
+      "Glücklicherweise begrüßt mich der Direktor mit einem großen, herzlichen Lächeln.",
+      "Ich entdecke mein neues Klassenzimmer und setze mich schnell an einen Tisch."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-011-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-011-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-011-01",
+        "question": "Welches besondere Ereignis findet heute statt?",
+        "reponses": [
+          { "id": "a", "texte": "Es ist der erste Schultag", "correcte": true },
+          { "id": "b", "texte": "Es ist mein Geburtstag", "correcte": false },
+          { "id": "c", "texte": "Es ist der Tag der Schulferien", "correcte": false },
+          { "id": "d", "texte": "Es ist eine Schulreise", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-011-02",
+        "question": "Wie fühlt sich der Autor vor der Eingangstür?",
+        "reponses": [
+          { "id": "a", "texte": "Sehr wütend und müde", "correcte": false },
+          { "id": "b", "texte": "Glücklich und entspannt", "correcte": false },
+          { "id": "c", "texte": "Ein bisschen gestresst", "correcte": true },
+          { "id": "d", "texte": "Vollkommen ruhig", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-011-03",
+        "question": "Wer begrüßt den Autor an der neuen Schule?",
+        "reponses": [
+          { "id": "a", "texte": "Ein anderer Schüler", "correcte": false },
+          { "id": "b", "texte": "Der Koch der Mensa", "correcte": false },
+          { "id": "c", "texte": "Der Direktor", "correcte": true },
+          { "id": "d", "texte": "Der Französischlehrer", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-011-04",
+        "question": "Wie begrüßt diese Person den neuen Schüler?",
+        "reponses": [
+          { "id": "a", "texte": "Mit großer Strenge", "correcte": false },
+          { "id": "b", "texte": "Ohne ein Wort zu sagen", "correcte": false },
+          { "id": "c", "texte": "Mit einer Tasse Kaffee", "correcte": false },
+          { "id": "d", "texte": "Mit einem großen Lächeln", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-011-05",
+        "question": "Was macht der Autor, nachdem er sein Klassenzimmer entdeckt hat?",
+        "reponses": [
+          { "id": "a", "texte": "Er setzt sich schnell an einen Tisch", "correcte": true },
+          { "id": "b", "texte": "Er verlässt die Schule sofort", "correcte": false },
+          { "id": "c", "texte": "Er geht im Park Fahrrad fahren", "correcte": false },
+          { "id": "d", "texte": "Er liest ein großes Comicbuch", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "In meinem Klassenzimmer",
+    "titre2": "Übung 12",
+    "texte": [
+      "Mein Klassenzimmer ist groß, hell und sehr gut organisiert.",
+      "An der Stirnseite des Raumes befindet sich eine große elektronische Weißwandtafel.",
+      "In der Nähe des Fensters hat der Lehrer seinen großen Schreibtisch aus Metall.",
+      "An den Wänden hängen schöne Landkarten von der ganzen Welt.",
+      "In der Mitte des Zimmers sind die Tische der Schüler in Reihen aufgestellt."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-012-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-012-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-012-01",
+        "question": "Wie wird das Klassenzimmer am Anfang beschrieben?",
+        "reponses": [
+          { "id": "a", "texte": "Dunkel und schmutzig", "correcte": false },
+          { "id": "b", "texte": "Klein und unordentlich", "correcte": false },
+          { "id": "c", "texte": "Groß und hell", "correcte": true },
+          { "id": "d", "texte": "Alt aber sehr ruhig", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-012-02",
+        "question": "Was befindet sich an der Stirnseite des Raumes?",
+        "reponses": [
+          { "id": "a", "texte": "Eine große elektronische Tafel", "correcte": true },
+          { "id": "b", "texte": "Ein Schrank für Kleider", "correcte": false },
+          { "id": "c", "texte": "Ein gemütliches blaues Sofa", "correcte": false },
+          { "id": "d", "texte": "Ein Schreibtisch aus Holz", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-012-03",
+        "question": "Wo steht der Schreibtisch des Lehrers?",
+        "reponses": [
+          { "id": "a", "texte": "Hinter der Eingangstür", "correcte": false },
+          { "id": "b", "texte": "Genau in der Mitte des Raumes", "correcte": false },
+          { "id": "c", "texte": "In der Nähe des Fensters", "correcte": true },
+          { "id": "d", "texte": "Hinter der elektronischen Tafel", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-012-04",
+        "question": "Was hängt an den Wänden des Klassenzimmers?",
+        "reponses": [
+          { "id": "a", "texte": "Fotos von kleinen Hunden", "correcte": false },
+          { "id": "b", "texte": "Bilder aus dem Kunstunterricht", "correcte": false },
+          { "id": "c", "texte": "Schöne Landkarten", "correcte": true },
+          { "id": "d", "texte": "Die Hausordnung der Schule", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-012-05",
+        "question": "Wie sind die Tische der Schüler angeordnet?",
+        "reponses": [
+          { "id": "a", "texte": "In einem großen Kreis", "correcte": false },
+          { "id": "b", "texte": "In einem unordentlichen Durcheinander", "correcte": false },
+          { "id": "c", "texte": "In Form eines Quadrats", "correcte": false },
+          { "id": "d", "texte": "In Reihen aufgestellt", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Meine Lieblingsfächer",
+    "titre2": "Übung 13",
+    "texte": [
+      "In der Schule lernen wir jeden Tag viele verschiedene Fächer.",
+      "Mein absolutes Lieblingsfach ist Geschichte, weil ich gerne die Vergangenheit entdecke.",
+      "Ich mag auch Mathematik sehr, besonders das Lösen von schwierigen Aufgaben.",
+      "Erdkunde mag ich dagegen nicht so sehr, weil es mir zu kompliziert ist.",
+      "Am Nachmittag haben wir oft Kunstunterricht, um kreative Bilder zu zeichnen."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-013-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-013-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-013-01",
+        "question": "Was ist das Lieblingsfach des Autors?",
+        "reponses": [
+          { "id": "a", "texte": "Geschichte", "correcte": true },
+          { "id": "b", "texte": "Erdkunde", "correcte": false },
+          { "id": "c", "texte": "Sport im Park", "correcte": false },
+          { "id": "d", "texte": "Kunstunterricht", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-013-02",
+        "question": "Warum mag der Autor dieses Fach so gerne?",
+        "reponses": [
+          { "id": "a", "texte": "Weil es keine Hausaufgaben gibt", "correcte": false },
+          { "id": "b", "texte": "Weil der Lehrer Witze erzählt", "correcte": false },
+          { "id": "c", "texte": "Weil er gerne die Vergangenheit entdeckt", "correcte": true },
+          { "id": "d", "texte": "Weil es sehr einfach ist", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-013-03",
+        "question": "Was macht der Autor gerne in Mathematik?",
+        "reponses": [
+          { "id": "a", "texte": "Den Laptop putzen", "correcte": false },
+          { "id": "b", "texte": "Formen aus Holz bauen", "correcte": false },
+          { "id": "c", "texte": "Schwierige Aufgaben lösen", "correcte": true },
+          { "id": "d", "texte": "Im Internet surfen", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-013-04",
+        "question": "Welches Fach mag der Autor nicht besonders?",
+        "reponses": [
+          { "id": "a", "texte": "Deutsch", "correcte": false },
+          { "id": "b", "texte": "Kunst", "correcte": false },
+          { "id": "c", "texte": "Mathematik", "correcte": false },
+          { "id": "d", "texte": "Erdkunde", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-013-05",
+"question": "Was macht man oft im Kunstunterricht am Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Kreative Bilder zeichnen", "correcte": true },
+{ "id": "b", "texte": "Lieder laut singen", "correcte": false },
+{ "id": "c", "texte": "Nachrichten in der Küche lesen", "correcte": false },
+{ "id": "d", "texte": "Sportliche Übungen machen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "014",
+"titre": "Mein Französischlehrer",
+"titre2": "Übung 14",
+"texte": [
+"Mein Französischlehrer heißt Herr Robert.",
+"Er ist immer sehr höflich, ruhig und erklärt die Lektionen sehr gut.",
+"In seinem Unterricht lesen wir Geschichten und lernen die Grammatik.",
+"Wenn ein Schüler etwas nicht versteht, wiederholt er es geduldig mit Beispielen.",
+"Dank ihm macht die ganze Klasse schnelle Fortschritte beim Schreiben."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-014-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-014-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-014-01",
+"question": "Wie heißt der Französischlehrer?",
+"reponses": [
+{ "id": "a", "texte": "Herr Thomas", "correcte": false },
+{ "id": "b", "texte": "Herr Lucas", "correcte": false },
+{ "id": "c", "texte": "Herr Robert", "correcte": true },
+{ "id": "d", "texte": "Herr Martin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-014-02",
+"question": "Wie wird der Charakter des Lehrers beschrieben?",
+"reponses": [
+{ "id": "a", "texte": "Höflich und ruhig", "correcte": true },
+{ "id": "b", "texte": "Streng und ungeduldig", "correcte": false },
+{ "id": "c", "texte": "Müde und traurig", "correcte": false },
+{ "id": "d", "texte": "Lustig aber sehr unpünktlich", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-014-03",
+"question": "Was macht man im Französischunterricht?",
+"reponses": [
+{ "id": "a", "texte": "Mathematische Aufgaben lösen", "correcte": false },
+{ "id": "b", "texte": "Bilder von Flugzeugen zeichnen", "correcte": false },
+{ "id": "c", "texte": "Geschichten lesen und Grammatik lernen", "correcte": true },
+{ "id": "d", "texte": "Sportübungen auf dem Hof machen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-014-04",
+"question": "Was macht der Lehrer, wenn ein Schüler eine Sache nicht versteht?",
+"reponses": [
+{ "id": "a", "texte": "Er gibt sofort eine schlechte Note", "correcte": false },
+{ "id": "b", "texte": "Er ignoriert den Schüler völlig", "correcte": false },
+{ "id": "c", "texte": "Er macht einfach mit der Lektion weiter", "correcte": false },
+{ "id": "d", "texte": "Er wiederholt es geduldig mit Beispielen", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-014-05",
+"question": "In welchem Bereich macht die Klasse dank ihm Fortschritte?",
+"reponses": [
+{ "id": "a", "texte": "Beim Schreiben", "correcte": true },
+{ "id": "b", "texte": "Beim Kopfrechnen", "correcte": false },
+{ "id": "c", "texte": "Beim Fahrradfahren", "correcte": false },
+{ "id": "d", "texte": "Beim Schwimmen im Meer", "correcte": false }
+]
+}
+]
+},
+{
+"id": "015",
+"titre": "Meine Klassenkameraden",
+"titre2": "Übung 15",
+"texte": [
+"In meiner Klasse sind wir insgesamt fünfundzwanzig Schüler.",
+"Meine Klassenkameraden kommen aus verschiedenen Vierteln der Stadt.",
+"Alle sind sehr nett und verstehen sich bei Gruppenprojekten gut.",
+"Mein Tischnachbar heißt Paul, er hilft mir oft, wenn ich ein deutsches Wort vergesse.",
+"Wir sind ein tolles Team und lernen immer mit viel Freude."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-015-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-015-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-015-01",
+"question": "Wie viele Schüler sind insgesamt in der Klasse?",
+"reponses": [
+{ "id": "a", "texte": "Fünfzehn Schüler", "correcte": false },
+{ "id": "b", "texte": "Dreißig Schüler", "correcte": false },
+{ "id": "c", "texte": "Fünfundzwanzig Schüler", "correcte": true },
+{ "id": "d", "texte": "Zwanzig Schüler total", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-015-02",
+"question": "Woher kommen die Klassenkameraden des Autors?",
+"reponses": [
+{ "id": "a", "texte": "Aus verschiedenen Vierteln der Stadt", "correcte": true },
+{ "id": "b", "texte": "Alle aus derselben kleinen Straße", "correcte": false },
+{ "id": "c", "texte": "Aus einem weit entfernten Land", "correcte": false },
+{ "id": "d", "texte": "Vom Dorfmarkt an der Ecke", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-015-03",
+"question": "Wie ist das Verhältnis der Schüler untereinander?",
+"reponses": [
+{ "id": "a", "texte": "Alle streiten sich täglich", "correcte": false },
+{ "id": "b", "texte": "Niemand spricht mit den anderen", "correcte": false },
+{ "id": "c", "texte": "Alle sind nett und verstehen sich gut", "correcte": true },
+{ "id": "d", "texte": "Es ist sehr unhöflich und laut", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-015-04",
+"question": "Wie heißt der Tischnachbar des Autors?",
+"reponses": [
+{ "id": "a", "texte": "Nicolas", "correcte": false },
+{ "id": "b", "texte": "Thomas", "correcte": false },
+{ "id": "c", "texte": "Lucas", "correcte": false },
+{ "id": "d", "texte": "Paul", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-015-05",
+"question": "Wie hilft der Tischnachbar dem Autor?",
+"reponses": [
+{ "id": "a", "texte": "Er hilft, wenn der Autor ein Wort vergisst", "correcte": true },
+{ "id": "b", "texte": "Er gibt ihm seine Schultasche", "correcte": false },
+{ "id": "c", "texte": "Er bezahlt das Mittagessen", "correcte": false },
+{ "id": "d", "texte": "Er macht alle Matheaufgaben", "correcte": false }
+]
+}
+]
+},
+{
+"id": "016",
+"titre": "Meine Schultasche",
+"titre2": "Übung 16",
+"texte": [
+"Um zur Schule zu gehen, benutze ich einen großen blauen Rucksack.",
+"Im Inneren bewahre ich meine drei Übungshefte und mein rotes Mäppchen auf.",
+"In meinem Mäppchen sind Stifte, ein Lineal und ein weißer Radiergummi.",
+"Ich habe auch eine kleine Vordertasche für meine Schlüssel und meinen Snack.",
+"Am Abend kontrolliere ich immer den Inhalt meiner Tasche für den nächsten Tag."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-016-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-016-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-016-01",
+"question": "Welche Farbe hat der Rucksack des Autors?",
+"reponses": [
+{ "id": "a", "texte": "Er ist grün", "correcte": false },
+{ "id": "b", "texte": "Er ist schwarz", "correcte": false },
+{ "id": "c", "texte": "Er ist blau", "correcte": true },
+{ "id": "d", "texte": "Er ist rot", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-016-02",
+"question": "Wie viele Übungshefte bewahrt er im Inneren auf?",
+"reponses": [
+{ "id": "a", "texte": "Zwei Hefte", "correcte": false },
+{ "id": "b", "texte": "Vier Hefte", "correcte": false },
+{ "id": "c", "texte": "Drei Übungshefte", "correcte": true },
+{ "id": "d", "texte": "Fünf Hefte total", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-016-03",
+"question": "Welche Farbe hat das Mäppchen für die Stifte?",
+"reponses": [
+{ "id": "a", "texte": "Es ist gelb", "correcte": false },
+{ "id": "b", "texte": "Es ist blau", "correcte": false },
+{ "id": "c", "texte": "Es ist weiß", "correcte": false },
+{ "id": "d", "texte": "Es ist rot", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-016-04",
+"question": "Was legt der Autor in die kleine Vordertasche?",
+"reponses": [
+{ "id": "a", "texte": "Seine Schlüssel und seinen Snack", "correcte": true },
+{ "id": "b", "texte": "Die großen Landkarten", "correcte": false },
+{ "id": "c", "texte": "Seinen Laptop und die Lampe", "correcte": false },
+{ "id": "d", "texte": "Einen großen Radiergummi", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-016-05",
+"question": "Wann kontrolliert der Autor den Inhalt der Schultasche?",
+"reponses": [
+{ "id": "a", "texte": "Am Abend", "correcte": true },
+{ "id": "b", "texte": "Morgens beim Rennen", "correcte": false },
+{ "id": "c", "texte": "In der großen Pause", "correcte": false },
+{ "id": "d", "texte": "Er kontrolliert ihn nie", "correcte": false }
+]
+}
+]
+},
+{
+"id": "017",
+"titre": "Ein Tag in der Bibliothek",
+"titre2": "Übung 17",
+"texte": [
+"Am Donnerstagnachmittag gehen wir in die Schulbibliothek.",
+"Es ist ein wunderschöner Ort mit Tausenden von Büchern in den Regalen.",
+"Die wichtigste Regel hier ist, leise zu sein, um die anderen zu respektieren.",
+"Ich setze mich auf einen bequemen Stuhl, um einen lustigen Comic zu lesen.",
+"Bevor ich gehe, leihe ich mir zwei Bücher für das Wochenende aus."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-017-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-017-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-017-01",
+"question": "An welchem Tag geht die Klasse in die Bibliothek?",
+"reponses": [
+{ "id": "a", "texte": "Am Montagmorgen", "correcte": false },
+{ "id": "b", "texte": "Am Freitagabend", "correcte": false },
+{ "id": "c", "texte": "Am Donnerstagnachmittag", "correcte": true },
+{ "id": "d", "texte": "Am Mittwochmittag", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-017-02",
+"question": "Wo befinden sich die Tausenden von Büchern?",
+"reponses": [
+{ "id": "a", "texte": "Auf dem Fußboden im Gang", "correcte": false },
+{ "id": "b", "texte": "In großen Pappkartons", "correcte": false },
+{ "id": "c", "texte": "In den Regalen", "correcte": true },
+{ "id": "d", "texte": "Auf den Tischen der Lehrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-017-03",
+"question": "Was ist die wichtigste Regel an diesem Ort?",
+"reponses": [
+{ "id": "a", "texte": "Sehr laut Musik hören", "correcte": false },
+{ "id": "b", "texte": "Einen Snack teilen", "correcte": false },
+{ "id": "c", "texte": "Schnell durch den Raum rennen", "correcte": false },
+{ "id": "d", "texte": "Leise zu sein", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-017-04",
+"question": "Was liest der Autor auf dem bequemen Stuhl?",
+"reponses": [
+{ "id": "a", "texte": "Einen lustigen Comic", "correcte": true },
+{ "id": "b", "texte": "Ein Wörterbuch für Deutsch", "correcte": false },
+{ "id": "c", "texte": "Ein schwieriges Mathebuch", "correcte": false },
+{ "id": "d", "texte": "Die aktuellen Nachrichten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-017-05",
+"question": "Wie viele Bücher leiht er sich vor dem Gehen aus?",
+"reponses": [
+{ "id": "a", "texte": "Ein einziges Buch", "correcte": false },
+{ "id": "b", "texte": "Drei Bücher total", "correcte": false },
+{ "id": "c", "texte": "Zwei Bücher", "correcte": true },
+{ "id": "d", "texte": "Gar kein Buch", "correcte": false }
+]
+}
+]
+},
+{
+"id": "018",
+"titre": "Meine Hausaufgaben zu Hause",
+"titre2": "Übung 18",
+"texte": [
+"Wenn ich um 16:30 Uhr von der Schule nach Hause komme, esse ich zuerst einen kleinen Snack.",
+"Danach setze ich mich ruhig an meinen Schreibtisch, um meine Hausaufgaben zu machen.",
+"Ich beginne damit, die Französischlektion noch einmal zu lesen und die neuen Wörter zu lernen.",
+"Danach mache ich zwei kleine Mathematikübungen in meinem Heft.",
+"Wenn ich fertig bin, räume ich meine Sachen weg und kann frei spielen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-018-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-018-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-018-01",
+"question": "Was macht der Autor direkt nach der Ankunft zu Hause?",
+"reponses": [
+{ "id": "a", "texte": "Er macht sofort Hausaufgaben", "correcte": false },
+{ "id": "b", "texte": "Er geht sofort schlafen", "correcte": false },
+{ "id": "c", "texte": "Er isst einen kleinen Snack", "correcte": true },
+{ "id": "d", "texte": "Er räumt die Garage auf", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-018-02",
+"question": "Wo arbeitet er für seine täglichen Hausaufgaben?",
+"reponses": [
+{ "id": "a", "texte": "In der Küche am Tisch", "correcte": false },
+{ "id": "b", "texte": "Im Wohnzimmer auf dem Sofa", "correcte": false },
+{ "id": "c", "texte": "An seinem Schreibtisch", "correcte": true },
+{ "id": "d", "texte": "Im großen grünen Garten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-018-03",
+"question": "Womit beginnt der Autor seine Aufgaben?",
+"reponses": [
+{ "id": "a", "texte": "Er liest die Französischlektion noch einmal", "correcte": true },
+{ "id": "b", "texte": "Er zeichnet ein schönes Bild", "correcte": false },
+{ "id": "c", "texte": "Er löst schwierige Matheaufgaben", "correcte": false },
+{ "id": "d", "texte": "Er räumt seinen Kleiderschrank auf", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-018-04",
+"question": "Wie viele Mathematikübungen macht er in seinem Heft?",
+"reponses": [
+{ "id": "a", "texte": "Eine einzige Übung", "correcte": false },
+{ "id": "b", "texte": "Drei lange Übungen", "correcte": false },
+{ "id": "c", "texte": "Gar keine Übung heute", "correcte": false },
+{ "id": "d", "texte": "Zwei kleine Übungen", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-018-05",
+"question": "Was macht der Autor, wenn alle Aufgaben fertig sind?",
+"reponses": [
+{ "id": "a", "texte": "Er räumt seine Sachen weg und kann frei spielen", "correcte": true },
+{ "id": "b", "texte": "Er geht sofort zurück zur Schule", "correcte": false },
+{ "id": "c", "texte": "Er ruft den Direktor an", "correcte": false },
+{ "id": "d", "texte": "Er kocht das Abendessen für alle", "correcte": false }
+]
+}
+]
+},
+{
+"id": "019",
+"titre": "Die Pause",
+"titre2": "Übung 19",
+"texte": [
+"Um 10:00 Uhr klingelt endlich die Glocke: Es ist Zeit für die Pause!",
+"Alle Schüler rennen fröhlich auf den großen Schulhof.",
+"Einige Klassenkameraden spielen Fußball mit einem kleinen grünen Ball.",
+"Ich unterhalte mich lieber ruhig und lache mit meinen besten Freunden.",
+"Nach fünfzehn Minuten Pause gehen wir alle wieder in einer Reihe in die Klasse."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-019-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-019-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-019-01",
+"question": "Um wie viel Uhr klingelt die Glocke für die Pause?",
+"reponses": [
+{ "id": "a", "texte": "Um 9:00 Uhr am Morgen", "correcte": false },
+{ "id": "b", "texte": "Um elf Uhr vormittags", "correcte": false },
+{ "id": "c", "texte": "Um 10:00 Uhr", "correcte": true },
+{ "id": "d", "texte": "Genau um zwölf Uhr mittags", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-019-02",
+"question": "Wohin rennen alle Schüler, wenn die Glocke klingelt?",
+"reponses": [
+{ "id": "a", "texte": "In die ruhige Schulbibliothek", "correcte": false },
+{ "id": "b", "texte": "Direkt nach Hause ins Bett", "correcte": false },
+{ "id": "c", "texte": "Auf den großen Schulhof", "correcte": true },
+{ "id": "d", "texte": "In das Restaurant an der Ecke", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-019-03",
+"question": "Welche Farbe hat der Ball, mit dem die Schüler Fußball spielen?",
+"reponses": [
+{ "id": "a", "texte": "Er ist rot", "correcte": false },
+{ "id": "b", "texte": "Er ist blau", "correcte": false },
+{ "id": "c", "texte": "Er ist weiß", "correcte": false },
+{ "id": "d", "texte": "Er ist grün", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-019-04",
+"question": "Was macht der Autor lieber während der Pause?",
+"reponses": [
+{ "id": "a", "texte": "Sich ruhig unterhalten und mit Freunden lachen", "correcte": true },
+{ "id": "b", "texte": "Hausaufgaben für Mathematik schreiben", "correcte": false },
+{ "id": "c", "texte": "Ganz allein im Klassenzimmer sitzen", "correcte": false },
+{ "id": "d", "texte": "Frisches Brot in der Bäckerei kaufen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-019-05",
+"question": "Wie lange dauert die Pause auf dem Hof?",
+"reponses": [
+{ "id": "a", "texte": "Fünf kurze Minuten", "correcte": false },
+{ "id": "b", "texte": "Eine ganze Stunde lang", "correcte": false },
+{ "id": "c", "texte": "Fünfzehn Minuten", "correcte": true },
+{ "id": "d", "texte": "Zwanzig Minuten total", "correcte": false }
+]
+}
+]
+},
+{
+"id": "020",
+"titre": "Die Schulferien",
+"titre2": "Übung 20",
+"texte": [
+"Der Monat Juli ist endlich da, es ist der Beginn der großen Schulferien.",
+"Die Schule schließt ihre Türen für zwei komplette Monate im Sommer.",
+"Ich werde mit meinen Eltern im Zug reisen, um meine Großeltern zu besuchen.",
+"Sie wohnen in einem kleinen, sehr ruhigen Haus in der Nähe des Meeres.",
+"Ich kann es kaum erwarten, im warmen Wasser zu schwimmen und Sandburgen zu bauen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-020-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-020-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-020-01",
+"question": "Welcher Monat markiert den Beginn der großen Ferien?",
+"reponses": [
+{ "id": "a", "texte": "Der Monat Januar", "correcte": false },
+{ "id": "b", "texte": "Der Monat September", "correcte": false },
+{ "id": "c", "texte": "Der Monat Juli", "correcte": true },
+{ "id": "d", "texte": "Der Monat Mai", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-020-02",
+"question": "Wie lange schließt die Schule im Sommer ihre Türen?",
+"reponses": [
+{ "id": "a", "texte": "Eine kurze Woche", "correcte": false },
+{ "id": "b", "texte": "Drei lange Wochen", "correcte": false },
+{ "id": "c", "texte": "Zwei komplette Monate", "correcte": true },
+{ "id": "d", "texte": "Einen einzigen Monat", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-020-03",
+"question": "Mit welchem Verkehrsmittel reist der Autor zu den Großeltern?",
+"reponses": [
+{ "id": "a", "texte": "Mit dem Zug", "correcte": true },
+{ "id": "b", "texte": "Mit dem Flugzeug", "correcte": false },
+{ "id": "c", "texte": "Mit dem Fahrrad im Park", "correcte": false },
+{ "id": "d", "texte": "Mit einem großen Boot", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-020-04",
+"question": "Wo befindet sich das kleine, sehr ruhige Haus der Großeltern?",
+"reponses": [
+{ "id": "a", "texte": "In den kalten Bergen", "correcte": false },
+{ "id": "b", "texte": "Mitten im Stadtzentrum", "correcte": false },
+{ "id": "c", "texte": "In einem dichten Wald", "correcte": false },
+{ "id": "d", "texte": "In der Nähe des Meeres", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-020-05",
+"question": "Worauf freut sich der Autor am meisten während der Ferien?",
+"reponses": [
+{ "id": "a", "texte": "Im Wasser schwimmen und Sandburgen bauen", "correcte": true },
+{ "id": "b", "texte": "Deutschlektionen am Schreibtisch lernen", "correcte": false },
+{ "id": "c", "texte": "In der Schulbibliothek arbeiten", "correcte": false },
+{ "id": "d", "texte": "Lebensmittel im Supermarkt einkaufen", "correcte": false }
+]
+}
+]
+},
+ {
+  "id": "021",
+    "titre": "Im Supermarkt",
+    "titre2": "Übung 21",
+    "texte": [
+      "Am Samstagmorgen gehe ich in den großen Supermarkt, der sich im Stadtzentrum befindet.",
+      "Ich nehme am Eingang einen großen Einkaufswagen aus Metall, um meine Sachen hineinzulegen.",
+      "Ich gehe durch die Regale, um Reis, Nudeln und frische Kuhmilch zu suchen.",
+      "Es sind heute sehr viele Leute da und die Gänge sind wirklich sehr belebt.",
+      "Nachdem ich alle meine Produkte gefunden habe, stelle ich mich an der Kasse Nummer drei an."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-021-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-021-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-021-01",
+        "question": "Wann geht der Autor in den großen Supermarkt einkaufen?",
+        "reponses": [
+          { "id": "a", "texte": "Am Samstagmorgen", "correcte": true },
+          { "id": "b", "texte": "Am Sonntagabend", "correcte": false },
+          { "id": "c", "texte": "Am Montagmittag", "correcte": false },
+          { "id": "d", "texte": "Am Mittwochabend", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-021-02",
+        "question": "Was nimmt er am Eingang für seine Produkte?",
+        "reponses": [
+          { "id": "a", "texte": "Einen kleinen Korb aus Plastik", "correcte": false },
+          { "id": "b", "texte": "Eine braune Papiertüte", "correcte": false },
+          { "id": "c", "texte": "Einen großen Einkaufswagen aus Metall", "correcte": true },
+          { "id": "d", "texte": "Einen grauen Rucksack", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-021-03",
+        "question": "Welches Milchprodukt sucht der Autor in den Regalen?",
+        "reponses": [
+          { "id": "a", "texte": "Einen Becher Naturjoghurt", "correcte": false },
+          { "id": "b", "texte": "Ein Stück harten Käse", "correcte": false },
+          { "id": "c", "texte": "Ein Paket süße Butter", "correcte": false },
+          { "id": "d", "texte": "Frische Kuhmilch", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-021-04",
+        "question": "Wie ist die Atmosphäre im Supermarkt am Samstag?",
+        "reponses": [
+          { "id": "a", "texte": "Die Gänge sind sehr belebt", "correcte": true },
+          { "id": "b", "texte": "Der Laden ist komplett leer", "correcte": false },
+          { "id": "c", "texte": "Alle Leute müssen ganz leise sein", "correcte": false },
+          { "id": "d", "texte": "Der Supermarkt ist geschlossen", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-021-05",
+        "question": "An welcher Kasse stellt sich der Autor am Ende an?",
+        "reponses": [
+          { "id": "a", "texte": "An Kasse Nummer eins", "correcte": false },
+          { "id": "b", "texte": "An Kasse Nummer zwei", "correcte": false },
+          { "id": "c", "texte": "An Kasse Nummer drei", "correcte": true },
+          { "id": "d", "texte": "An Kasse Nummer vier", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Auf dem Dorfmarkt",
+    "titre2": "Übung 22",
+    "texte": [
+      "Jeden Sonntag baut sich der Markt auf dem großen Platz des Dorfes auf.",
+      "Die lokalen Bauern verkaufen dort frisches Gemüse, das am selben Morgen geerntet wurde.",
+      "Man findet dort knackige rote Tomaten, Karotten und viele Kartoffeln.",
+      "Die Stimmung ist sehr freundlich und man hört die Händler rufen, um Kunden anzulocken.",
+      "Ich mag diesen Markt, weil die Produkte natürlich und besser für die Gesundheit sind."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-022-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-022-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-022-01",
+        "question": "Wo befindet sich der Dorfmarkt am Sonntag?",
+        "reponses": [
+          { "id": "a", "texte": "In einem großen Sportstadion", "correcte": false },
+          { "id": "b", "texte": "In einer engen U-Bahn-Station", "correcte": false },
+          { "id": "c", "texte": "Auf dem großen Platz des Dorfes", "correcte": true },
+          { "id": "d", "texte": "Hinter der alten Bibliothek", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-022-02",
+        "question": "Wer verkauft das frische Gemüse auf dem Markt?",
+        "reponses": [
+          { "id": "a", "texte": "Die Schulkinder des Viertels", "correcte": false },
+          { "id": "b", "texte": "Die Apotheker in weißen Kitteln", "correcte": false },
+          { "id": "c", "texte": "Die Lehrer der Universität", "correcte": false },
+          { "id": "d", "texte": "Die lokalen Bauern", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-022-03",
+        "question": "Welche Farbe haben die Tomaten auf dem Dorfmarkt?",
+        "reponses": [
+          { "id": "a", "texte": "Sie sind rot", "correcte": true },
+          { "id": "b", "texte": "Sie sind gelb", "correcte": false },
+          { "id": "c", "texte": "Sie sind grün", "correcte": false },
+          { "id": "d", "texte": "Sie sind grau", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-022-04",
+        "question": "Was machen die Händler, um die Kunden anzulocken?",
+        "reponses": [
+          { "id": "a", "texte": "Sie spielen laut Gitarre", "correcte": false },
+          { "id": "b", "texte": "Sie verteilen kostenlose Hüte", "correcte": false },
+          { "id": "c", "texte": "Sie rufen laut", "correcte": true },
+          { "id": "d", "texte": "Sie bleiben völlig leise", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-022-05",
+        "question": "Warum kauft der Autor gerne auf diesem Markt ein?",
+        "reponses": [
+          { "id": "a", "texte": "Weil alle Produkte gratis sind", "correcte": false },
+          { "id": "b", "texte": "Weil es ein modernes Einkaufszentrum ist", "correcte": false },
+          { "id": "c", "texte": "Weil die Produkte natürlich sind", "correcte": true },
+          { "id": "d", "texte": "Weil er dort Kleidung probieren kann", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Obst kaufen",
+    "titre2": "Übung 23",
+    "texte": [
+      "Heute halte ich beim Obststand an, um Zutaten für einen Obstsalat zu kaufen.",
+      "Ich wähle zuerst ein Kilo süße gelbe Äpfel aus.",
+      "Danach nehme ich eine Staude reife Bananen und drei saftige Orangen.",
+      "Der Verkäufer wiegt mein Obst auf seiner elektronischen Waage vor meinen Augen.",
+      "Ich bezahle bar und er legt die Früchte vorsichtig in meine Stofftasche."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-023-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-023-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-023-01",
+        "question": "Warum möchte der Autor heute frisches Obst kaufen?",
+        "reponses": [
+          { "id": "a", "texte": "Um eine Gemüsesuppe zu kochen", "correcte": false },
+          { "id": "b", "texte": "Um einen Obstsalat zu machen", "correcte": true },
+          { "id": "c", "texte": "Um einen Apfelkuchen zu backen", "correcte": false },
+          { "id": "d", "texte": "Um Saft für das Büro zu pressen", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-023-02",
+        "question": "Wie viele gelbe Äpfel kauft der Autor am Stand?",
+        "reponses": [
+          { "id": "a", "texte": "Zwei Kilo Äpfel", "correcte": false },
+          { "id": "b", "texte": "Genau fünf Stück", "correcte": false },
+          { "id": "c", "texte": "Ein Kilo Äpfel", "correcte": true },
+          { "id": "d", "texte": "Drei Kilo Äpfel", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-023-03",
+        "question": "Wie viele saftige Orangen nimmt er mit?",
+        "reponses": [
+          { "id": "a", "texte": "Eine einzige Orange", "correcte": false },
+          { "id": "b", "texte": "Zwei Orangen", "correcte": false },
+          { "id": "c", "texte": "Vier Orangen", "correcte": false },
+          { "id": "d", "texte": "Drei Orangen", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-023-04",
+        "question": "Womit wiegt der Verkäufer das ausgewählte Obst?",
+        "reponses": [
+          { "id": "a", "texte": "Mit einer elektronischen Waage", "correcte": true },
+          { "id": "b", "texte": "Mit einem langen Holzlineal", "correcte": false },
+         { "id": "c", "texte": "Mit einem großen Korb", "correcte": false },
+{ "id": "d", "texte": "Mit einem Computergerät", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-023-05",
+"question": "Wie bezahlt der Autor seine Früchte?",
+"reponses": [
+{ "id": "a", "texte": "Mit einer App auf dem Handy", "correcte": false },
+{ "id": "b", "texte": "Mit einer Bankkarte aus Plastik", "correcte": false },
+{ "id": "c", "texte": "Er bezahlt bar", "correcte": true },
+{ "id": "d", "texte": "Mit einem Papierscheck", "correcte": false }
+]
+}
+]
+},
+{
+"id": "024",
+"titre": "In einer Bäckerei",
+"titre2": "Übung 24",
+"texte": [
+"Der Duft von warmem Brot zieht mich immer in die Bäckerei des Viertels.",
+"Ich grüße die nette Bäckerin und bestelle ein gut gebackenes Baguette.",
+"Ich nehme auch zwei Croissants mit Butter für den Snack am Nachmittag mit.",
+"Die Verkäuferin wickelt das Brot in eine kleine weiße Papiertüte.",
+"Ich bezahle schnell mit meiner Bankkarte und wünsche ihr einen schönen Tag."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-024-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-024-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-024-01",
+"question": "Was zieht den Autor in die Bäckerei des Viertels?",
+"reponses": [
+{ "id": "a", "texte": "Ein buntes Werbeplakat an der Wand", "correcte": false },
+{ "id": "b", "texte": "Laute Musik aus dem Geschäft", "correcte": false },
+{ "id": "c", "texte": "Der Duft von warmem Brot", "correcte": true },
+{ "id": "d", "texte": "Die schöne grüne Farbe der Tür", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-024-02",
+"question": "Was für ein Baguette bestellt der Autor?",
+"reponses": [
+{ "id": "a", "texte": "Ein Baguette ohne Salz", "correcte": false },
+{ "id": "b", "texte": "Ein sehr langes Baguette", "correcte": false },
+{ "id": "c", "texte": "Ein süßes Baguette mit Honig", "correcte": false },
+{ "id": "d", "texte": "Ein gut gebackenes Baguette", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-024-03",
+"question": "Wie viele Buttercroissants kauft er für den Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Zwei Croissants", "correcte": true },
+{ "id": "b", "texte": "Drei große Croissants", "correcte": false },
+{ "id": "c", "texte": "Ein einziges Croissant", "correcte": false },
+{ "id": "d", "texte": "Vier kleine Croissants", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-024-04",
+"question": "Worin verpackt die Bäckerin das gekaufte Brot?",
+"reponses": [
+{ "id": "a", "texte": "In eine grüne Plastiktüte", "correcte": false },
+{ "id": "b", "texte": "In eine kleine weiße Papiertüte", "correcte": true },
+{ "id": "c", "texte": "In einen Pappkarton für Kuchen", "correcte": false },
+{ "id": "d", "texte": "In ein sauberes Tuch aus Baumwolle", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-024-05",
+"question": "Wie bezahlt der Autor an der Bäckereikasse?",
+"reponses": [
+{ "id": "a", "texte": "Mit Kupfermünzen", "correcte": false },
+{ "id": "b", "texte": "Mit einem Postcheck", "correcte": false },
+{ "id": "c", "texte": "Mit seiner Bankkarte", "correcte": true },
+{ "id": "d", "texte": "Er bezahlt heute gar nicht", "correcte": false }
+]
+}
+]
+},
+{
+"id": "025",
+"titre": "In der Apotheke",
+"titre2": "Übung 25",
+"texte": [
+"Heute gehe ich in die Apotheke, weil ich leichte Kopfschmerzen habe.",
+"Ich gebe mein ärztliches Rezept dem Apotheker, der einen weißen Kittel trägt.",
+"Er holt eine Schachtel mit Medikamenten aus einer großen Wandsschublade.",
+"Er erklärt mir ganz deutlich, dass ich eine Tablette während der Mahlzeit nehmen muss.",
+"Ich kaufe auch eine Flasche Hustensaft, bevor ich das Geschäft verlasse."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-025-1",
+"personnage": "Lukas",
+"image": "",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-025-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-025-01",
+"question": "Warum geht der Autor heute in die Apotheke?",
+"reponses": [
+{ "id": "a", "texte": "Weil er starke Zahnschmerzen hat", "correcte": false },
+{ "id": "b", "texte": "Weil er Bauchschmerzen hat", "correcte": false },
+{ "id": "c", "texte": "Weil er leichte Kopfschmerzen habe", "correcte": true },
+{ "id": "d", "texte": "Weil sein rechter Arm wehtut", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-025-02",
+"question": "Was trägt der Apotheker bei der Arbeit?",
+"reponses": [
+{ "id": "a", "texte": "Einen weißen Kittel", "correcte": true },
+{ "id": "b", "texte": "Einen schwarzen Hut", "correcte": false },
+{ "id": "c", "texte": "Einen blauen Anzug", "correcte": false },
+{ "id": "d", "texte": "Eine rote Schürze", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-025-03",
+"question": "Woher holt der Apotheker die Medikamentenschachtel?",
+"reponses": [
+{ "id": "a", "texte": "Unter seinem Schreibtisch", "correcte": false },
+{ "id": "b", "texte": "Aus einer großen Wandsschublade", "correcte": true },
+{ "id": "c", "texte": "Aus einer Kiste auf dem Boden", "correcte": false },
+{ "id": "d", "texte": "Hinter der Eingangstür", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-025-04",
+"question": "Wann soll der Autor die Tablette einnehmen?",
+"reponses": [
+{ "id": "a", "texte": "Vor dem Schlafengehen", "correcte": false },
+{ "id": "b", "texte": "Morgens vor dem Frühstück", "correcte": false },
+{ "id": "c", "texte": "Während der Mahlzeit", "correcte": true },
+{ "id": "d", "texte": "Alle zwei Stunden pünktlich", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-025-05",
+"question": "Welches zusätzliche Produkt kauft er vor dem Gehen?",
+"reponses": [
+{ "id": "a", "texte": "Eine Packung Pflaster", "correcte": false },
+{ "id": "b", "texte": "Eine neue Zahnbürste", "correcte": false },
+{ "id": "c", "texte": "Eine Flasche Hustensaft", "correcte": true },
+{ "id": "d", "texte": "Eine Tube Sonnencreme", "correcte": false }
+]
+}
+]
+},
+{
+"id": "026",
+"titre": "Kleidung kaufen",
+"titre2": "Übung 26",
+"texte": [
+"Ich gehe in ein Bekleidungsgeschäft, um ein neues Outfit für den Sommer zu kaufen.",
+"Ich suche zuerst ein weißes T-Shirt aus Baumwolle, das einfach und bequem ist.",
+"Danach wähle ich eine hellblaue Jeanshose aus, die genau meine Größe hat.",
+"Ich gehe in die Umkleidekabine, um die Sachen vor dem Spiegel anzuprobieren.",
+"Alles passt mir absolut perfekt, deshalb entscheide ich mich, das Set zu kaufen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-026-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-026-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-026-01",
+"question": "Warum betritt der Autor dieses Bekleidungsgeschäft?",
+"reponses": [
+{ "id": "a", "texte": "Um ein neues Outfit für den Sommer zu kaufen", "correcte": true },
+{ "id": "b", "texte": "Um dort als Verkäufer zu arbeiten", "correcte": false },
+{ "id": "c", "texte": "Um einen dicken Wintermantel zu suchen", "correcte": false },
+{ "id": "d", "texte": "Um einen Schulfreund dort zu treffen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-026-02",
+"question": "Welche Farbe hat das T-Shirt aus Baumwolle, das er sucht?",
+"reponses": [
+{ "id": "a", "texte": "Es ist schwarz", "correcte": false },
+{ "id": "b", "texte": "Es ist rot", "correcte": false },
+{ "id": "c", "texte": "Es ist blau", "correcte": false },
+{ "id": "d", "texte": "Es ist weiß", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-026-03",
+"question": "Was für eine Hose wählt der Autor aus?",
+"reponses": [
+{ "id": "a", "texte": "Eine schwarze Sportshort", "correcte": false },
+{ "id": "b", "texte": "Eine hellblaue Jeanshose", "correcte": true },
+{ "id": "c", "texte": "Eine graue Anzughose", "correcte": false },
+{ "id": "d", "texte": "Eine grüne Jogginghose", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-026-04",
+"question": "Wohin geht der Autor, um die Kleidung anzuprobieren?",
+"reponses": [
+{ "id": "a", "texte": "Hinter den Kassentresen", "correcte": false },
+{ "id": "b", "texte": "Mitten in den Verkaufsraum", "correcte": false },
+{ "id": "c", "texte": "In die Umkleidekabine", "correcte": true },
+{ "id": "d", "texte": "Draußen auf die Straße", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-026-05",
+"question": "Wie lautet die endgültige Entscheidung des Autors?",
+"reponses": [
+{ "id": "a", "texte": "Er nimmt überhaupt nichts mit", "correcte": false },
+{ "id": "b", "texte": "Er kauft nur das T-Shirt", "correcte": false },
+{ "id": "c", "texte": "Er fragt nach einer anderen Größe", "correcte": false },
+{ "id": "d", "texte": "Er entscheidet sich, das Set zu kaufen", "correcte": true }
+]
+}
+]
+},
+{
+"id": "027",
+"titre": "In einem Schuhgeschäft",
+"titre2": "Übung 27",
+"texte": [
+"Meine alten Schuhe sind kaputt, ich muss mir unbedingt neue kaufen.",
+"Das Geschäft bietet eine riesige Auswahl an Sneakern, Stiefeln und Sandalen.",
+"Ich entdecke ein schönes Paar schwarze Sneaker mit weißen Schnürsenkeln.",
+"Ich frage den jungen Verkäufer nach meiner Schuhgröße, dem Wert achtunddreißig.",
+"Ich gehe ein bisschen im Laden herum, um zu prüfen, ob sie bequem sind."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-027-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-027-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-027-01",
+"question": "Warum muss der Autor neue Schuhe kaufen?",
+"reponses": [
+{ "id": "a", "texte": "Weil er ein Geschenk machen will", "correcte": false },
+{ "id": "b", "texte": "Weil seine alten Schuhe kaputt sind", "correcte": true },
+{ "id": "c", "texte": "Weil er mit dem Fußballspielen beginnt", "correcte": false },
+{ "id": "d", "texte": "Weil es eine Schulregel ist", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-027-02",
+"question": "Welches Paar Schuhe bemerkt der Autor im Laden?",
+"reponses": [
+{ "id": "a", "texte": "Blaue Gummistiefel", "correcte": false },
+{ "id": "b", "texte": "Gelbe Strandsandalen", "correcte": false },
+{ "id": "c", "texte": "Schwarze Sneaker mit weißen Schnürsenkeln", "correcte": true },
+{ "id": "d", "texte": "Rote Sportschuhe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-027-03",
+"question": "Welche Schuhgröße hat der Autor?",
+"reponses": [
+{ "id": "a", "texte": "Größe sechsunddreißig", "correcte": false },
+{ "id": "b", "texte": "Größe vierzig", "correcte": false },
+{ "id": "c", "texte": "Größe siebenunddreißig", "correcte": false },
+{ "id": "d", "texte": "Größe achtunddreißig", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-027-04",
+"question": "Wen bittet der Autor um die richtige Schuhgröße?",
+"reponses": [
+{ "id": "a", "texte": "Den jungen Verkäufer", "correcte": true },
+{ "id": "b", "texte": "Einen anderen Kunden", "correcte": false },
+{ "id": "c", "texte": "Seine Großmutter", "correcte": false },
+{ "id": "d", "texte": "Den Direktor der Schule", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-027-05",
+"question": "Was macht der Autor, um sicher zu sein, dass sie gut passen?",
+"reponses": [
+{ "id": "a", "texte": "Er rennt ganz schnell auf der Straße", "correcte": false },
+{ "id": "b", "texte": "Er springt mehrmals in die Luft", "correcte": false },
+{ "id": "c", "texte": "Er geht ein bisschen im Laden herum", "correcte": true },
+{ "id": "d", "texte": "Er schaut ein Video im Internet an", "correcte": false }
+]
+}
+]
+},
+{
+"id": "028",
+"titre": "Die Preise der Produkte",
+"titre2": "Übung 28",
+"texte": [
+"Wenn ich einkaufen gehe, schaue ich immer sehr aufmerksam auf den Preis der Produkte.",
+"Jeder Artikel hat ein kleines weißes Etikett, auf dem der Preis in Euro steht.",
+"Die Kekspackung kostet zwei Euro und die Flasche Apfelsaft drei Euro.",
+"Ich berechne die Gesamtsumme in meinem Kopf, um mein Budget nicht zu überschreiten.",
+"Das ist eine gute Gewohnheit, um Geld zu sparen und verantwortungsvoll zu sein."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-028-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-028-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-028-01",
+"question": Worauf achtet der Autor beim Einkaufen immer sehr aufmerksam?",
+"reponses": [
+{ "id": "a", "texte": "Auf die Farbe der Verpackungen", "correcte": false },
+{ "id": "b", "texte": "Auf die Größe der Kartons", "correcte": false },
+{ "id": "c", "texte": "Auf den Preis der Produkte", "correcte": true },
+{ "id": "d", "texte": "Auf den Namen des Fabrikanten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-028-02",
+"question": "In welcher Währung stehen die Preise auf dem weißen Etikett?",
+"reponses": [
+{ "id": "a", "texte": "In Dollar", "correcte": false },
+{ "id": "b", "texte": "In Euro", "correcte": true },
+{ "id": "c", "texte": "In Pfund", "correcte": false },
+{ "id": "d", "texte": "In Franken", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-028-03",
+"question": "Wie viel kostet die Packung Kekse im Laden?",
+"reponses": [
+{ "id": "a", "texte": "Ein Euro", "correcte": false },
+{ "id": "b", "texte": "Drei Euro", "correcte": false },
+{ "id": "c", "texte": "Vier Euro", "correcte": false },
+{ "id": "d", "texte": "Zwei Euro", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-028-04",
+"question": "Wo berechnet der Autor die Gesamtsumme seiner Einkäufe?",
+"reponses": [
+{ "id": "a", "texte": "In seinem Kopf", "correcte": true },
+{ "id": "b", "texte": "Auf einem großen Heft", "correcte": false },
+{ "id": "c", "texte": "Mit einer Solartaschenrechner", "correcte": false },
+{ "id": "d", "texte": "Auf seinem Smartphone", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-028-05",
+"question": "Warum ist das laut Text eine sehr gute Gewohnheit?",
+"reponses": [
+{ "id": "a", "texte": "Um die Einkäufe schneller zu beenden", "correcte": false },
+{ "id": "b", "texte": "Um mit dem Kassierer zu plaudern", "correcte": false },
+{ "id": "c", "texte": "Um Geld zu sparen", "correcte": true },
+{ "id": "d", "texte": "Um den Verkäufern eine Freude zu machen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "029",
+"titre": "Mit Mama einkaufen",
+"titre2": "Übung 29",
+"texte": [
+"Am Mittwochnachmittag begleite ich Mama, um die Einkäufe für das Haus zu machen.",
+"Sie bereitet immer eine kleine Liste vor, die auf ein Stück gelbes Papier geschrieben ist.",
+"Meine Rolle ist es, die Liste vorzulesen und die Artikel in den Regalen zu finden.",
+"Mama wählt das Fleisch beim Metzger und den frischen Fisch beim Fischhändler aus.",
+"Es ist eine schöne Zeit, die wir jede Woche zusammen verbringen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-029-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-029-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-029-01",
+"question": "An welchem Tag begleitet der Autor seine Mutter?",
+"reponses": [
+{ "id": "a", "texte": "Am Samstagabend", "correcte": false },
+{ "id": "b", "texte": "Am Mittwochnachmittag", "correcte": true },
+{ "id": "c", "texte": "Am Montagmorgen", "correcte": false },
+{ "id": "d", "texte": "Am Freitagmittag", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-029-02",
+"question": "Welche Farbe hat das Papier der Einkaufsliste?",
+"reponses": [
+{ "id": "a", "texte": "Es ist weiß", "correcte": false },
+{ "id": "b", "texte": "Es ist grün", "correcte": false },
+{ "id": "c", "texte": "Es ist blau", "correcte": false },
+{ "id": "d", "texte": "Es ist gelb", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-029-03",
+"question": "Was ist die Aufgabe des Autors beim Einkaufen?",
+"reponses": [
+{ "id": "a", "texte": "Den schweren Einkaufswagen schieben", "correcte": false },
+{ "id": "b", "texte": "Die Liste vorlesen und die Artikel finden", "correcte": true },
+{ "id": "c", "texte": "Am Ende die Kassiererin bezahlen", "correcte": false },
+{ "id": "d", "texte": "Die Türen für die Leute öffnen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-029-04",
+"question": "Wo wählt die Mutter das Fleisch aus?",
+"reponses": [
+{ "id": "a", "texte": "Beim Metzger", "correcte": true },
+{ "id": "b", "texte": "Beim Fischhändler", "correcte": false },
+{ "id": "c", "texte": "In der Bäckerei", "correcte": false },
+{ "id": "d", "texte": "In der Apotheke", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-029-05",
+"question": "Wie oft verbringen sie diese gemeinsame Zeit?",
+"reponses": [
+{ "id": "a", "texte": "Einmal im Monat", "correcte": false },
+{ "id": "b", "texte": "Nur einmal im Jahr im Sommer", "correcte": false },
+{ "id": "c", "texte": "Jede Woche", "correcte": true },
+{ "id": "d", "texte": "Alle zwei Tage", "correcte": false }
+]
+}
+]
+},
+{
+"id": "030",
+"titre": "Mein erster Einkauf",
+"titre2": "Übung 30",
+"texte": [
+"Heute ist ein ganz besonderer Tag, weil ich meinen allerersten Einkauf alleine mache.",
+"Mein Vater hat mir einen Fünf-Euro-Schein gegeben, um ein schönes Zeichenheft zu kaufen.",
+"Ich gehe ganz brav zu dem kleinen Schreibwarenladen, der am Ende meiner Straße liegt.",
+"Ich wähle ein Heft mit einem kleinen weißen Katzenmotiv auf dem Umschlag aus.",
+"Die Verkäuferin gibt mir das Wechselgeld mit einem netten Lächeln und ich gehe stolz nach Hause."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-030-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-030-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-030-01",
+"question": "Warum ist heute ein ganz besonderer Tag für den Autor?",
+"reponses": [
+{ "id": "a", "texte": "Weil es der Beginn der großen Schulferien ist", "correcte": false },
+{ "id": "b", "texte": "Weil der Autor eine weite Reise im Zug macht", "correcte": false },
+{ "id": "c", "texte": "Weil er seinen allerersten Einkauf alleine macht", "correcte": true },
+{ "id": "d", "texte": "Weil heute das große Dorffest stattfindet", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-030-02",
+"question": "Was für einen Geldschein hat der Vater dem Autor gegeben?",
+"reponses": [
+{ "id": "a", "texte": "Einen Zehn-Euro-Schein", "correcte": false },
+{ "id": "b", "texte": "Einen Fünf-Euro-Schein", "correcte": true },
+{ "id": "c", "texte": "Einen Zwanzig-Euro-Schein", "correcte": false },
+{ "id": "d", "texte": "Er hat ihm nur Münzen gegeben", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-030-03",
+"question": "Wo befindet sich der kleine Schreibwarenladen?",
+"reponses": [
+{ "id": "a", "texte": "Im Stadtzentrum in der Nähe der U-Bahn", "correcte": false },
+{ "id": "b", "texte": "Gegenüber der großen Bäckerei des Viertels", "correcte": false },
+{ "id": "c", "texte": "In einem anderen, weit entfernten Dorf", "correcte": false },
+{ "id": "d", "texte": "Am Ende der Straße des Autors", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-030-04",
+"question": "Welches Tier ist auf dem Umschlag des gewählten Heftes abgebildet?",
+"reponses": [
+{ "id": "a", "texte": "Eine kleine weiße Katze", "correcte": true },
+{ "id": "b", "texte": "Ein kleiner weißer Hund", "correcte": false },
+{ "id": "c", "texte": "Ein schöner blauer Vogel", "correcte": false },
+{ "id": "d", "texte": "Ein kleiner grüner Fisch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-030-05",
+"question": "Wie fühlt sich der Autor, als er nach dem Einkauf nach Hause geht?",
+"reponses": [
+{ "id": "a", "texte": "Er ist sehr müde", "correcte": false },
+{ "id": "b", "texte": "Er ist sehr traurig", "correcte": false },
+{ "id": "c", "texte": "Er ist stolz", "correcte": true },
+{ "id": "d", "texte": "Er ist sehr gestresst", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "031",
+    "titre": "Mein Lieblingsessen",
+    "titre2": "Übung 31",
+    "texte": [
+      "Am Freitagabend bereitet meine Mutter immer mein absolutes Lieblingsessen der Woche zu.",
+      "Es ist ein großer Teller mit hausgemachter Lasagne und viel geschmolzenem Käse.",
+      "Der Duft der Tomatensoße füllt während des Backens das ganze Haus.",
+      "Wir essen dieses heiße Gericht zusammen mit einem kleinen, gut gewürzten grünen Salat.",
+      "Als Nachtisch gibt es einen knusprigen Apfelkuchen, den ich sehr liebe."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-031-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-031-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-031-01",
+        "question": "An welchem Tag bereitet die Mutter dieses besondere Essen zu?",
+        "reponses": [
+          { "id": "a", "texte": "Am Montagmittag", "correcte": false },
+          { "id": "b", "texte": "Am Mittwochmorgen", "correcte": false },
+          { "id": "c", "texte": "Am Sonntagabend", "correcte": false },
+          { "id": "d", "texte": "Am Freitagabend", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-031-02",
+        "question": "Was ist das Lieblingsessen des Autors?",
+        "reponses": [
+          { "id": "a", "texte": "Hausgemachte Lasagne", "correcte": true },
+          { "id": "b", "texte": "Ein gebratenes Hähnchen", "correcte": false },
+          { "id": "c", "texte": "Eine Gemüsesuppe", "correcte": false },
+          { "id": "d", "texte": "Ein Teller mit Pommes", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-031-03",
+        "question": "Was wird zusammen mit dem Hauptgericht gegessen?",
+        "reponses": [
+          { "id": "a", "texte": "Ein kleines Stück Käse", "correcte": false },
+          { "id": "b", "texte": "Ein weißes Baguette", "correcte": false },
+          { "id": "c", "texte": "Ein kleiner grüner Salat", "correcte": true },
+          { "id": "d", "texte": "Ein Teller mit Reis", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-031-04",
+        "question": "Was füllt das ganze Haus während des Backens?",
+        "reponses": [
+          { "id": "a", "texte": "Dunkler Rauch aus der Küche", "correcte": false },
+          { "id": "b", "texte": "Laute Musik aus dem Zimmer", "correcte": false },
+          { "id": "c", "texte": "Der Duft der Tomatensoße", "correcte": true },
+          { "id": "d", "texte": "Das Geräusch des Ofens", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-031-05",
+        "question": "Welchen Nachtisch isst der Autor am Ende?",
+        "reponses": [
+          { "id": "a", "texte": "Einen süßen Naturjoghurt", "correcte": false },
+          { "id": "b", "texte": "Eine Schüssel mit Obst", "correcte": false },
+          { "id": "c", "texte": "Einen knusprigen Apfelkuchen", "correcte": true },
+          { "id": "d", "texte": "Einen Schokoladenkuchen", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Gemeinsames Essen mit der Familie",
+    "titre2": "Übung 32",
+    "texte": [
+      "Bei mir zu Hause ist das Abendessen eine sehr wichtige Zeit für die ganze Familie.",
+      "Um punkt 19:30 Uhr decken mein Bruder und ich gemeinsam den Tisch.",
+      "Ich stelle die weißen teller und Gläser auf, während er die Gabeln hinlegt.",
+      "Kas während der Mahlzeit benutzt niemand sein Mobiltelefon am Tisch.",
+      "Wir sprechen gut gelaunt über unseren Tag in der Schule und bei der Arbeit."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-032-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-032-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-032-01",
+        "question": "Um wie viel Uhr kommt die Familie zum Essen zusammen?",
+        "reponses": [
+          { "id": "a", "texte": "Um 18:30 Uhr", "correcte": false },
+          { "id": "b", "texte": "Um 20:00 Uhr", "correcte": false },
+          { "id": "c", "texte": "Um 19:30 Uhr", "correcte": true },
+          { "id": "d", "texte": "Genau um zwölf Uhr", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-032-02",
+        "question": "Was machen die beiden Kinder vor dem Essen?",
+        "reponses": [
+          { "id": "a", "texte": "Sie waschen das Geschirr ab", "correcte": false },
+          { "id": "b", "texte": "Sie machen Hausaufgaben", "correcte": false },
+          { "id": "c", "texte": "Sie decken gemeinsam den Tisch", "correcte": true },
+          { "id": "d", "texte": "Sie spielen ein Videospiel", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-032-03",
+        "question": "Welche Sachen legt der Bruder auf den Tisch?",
+        "reponses": [
+          { "id": "a", "texte": "Die Gläser für Wasser", "correcte": false },
+          { "id": "b", "texte": "Die großen Löffel", "correcte": false },
+          { "id": "c", "texte": "Die weißen Teller", "correcte": false },
+          { "id": "d", "texte": "Die Gabeln", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-032-04",
+        "question": "Welche wichtige Regel muss man am Tisch beachten?",
+        "reponses": [
+          { "id": "a", "texte": "Niemand benutzt sein Mobiltelefon", "correcte": true },
+          { "id": "b", "texte": "Man muss sehr schnell essen", "correcte": false },
+          { "id": "c", "texte": "Man muss absolut leise sein", "correcte": false },
+          { "id": "d", "texte": "Alle müssen im Raum stehen", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-032-05",
+        "question": "Worüber spricht die Familie während des Abendessens?",
+        "reponses": [
+          { "id": "a", "texte": "Über den Kauf eines Schrankes", "correcte": false },
+          { "id": "b", "texte": "Über die Preise im Geschäft", "correcte": false },
+          { "id": "c", "texte": "Über ihren Tag in Schule und Arbeit", "correcte": true },
+          { "id": "d", "texte": "Über die Reparatur des Autos", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Einen Salat zubereiten",
+    "titre2": "Übung 33",
+    "texte": [
+      "Als Beilage zu meinem Mittagessen bereite ich einen frischen und schnellen Salat zu.",
+      "Zuerst wasche ich drei große grüne Salatblätter unter kaltem Wasser ab.",
+      "Danach schneide ich eine rote Tomate und ein Stück Gurke auf einem Holzbrett.",
+      "In einer kleinen Schüssel mische ich Olivenöl, Essig und ein bisschen Salz.",
+      "Ich gieße diese leckere Soße kurz vor dem Servieren über mein Gemüse."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-033-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-033-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-033-01",
+        "question": "Wie muss das Wasser sein, um den Salat zu waschen?",
+        "reponses": [
+          { "id": "a", "texte": "Es muss kalt sein", "correcte": true },
+          { "id": "b", "texte": "Es muss kochend heiß sein", "correcte": false },
+          { "id": "c", "texte": "Es muss sehr süß sein", "correcte": false },
+          { "id": "d", "texte": "Es muss salzig sein", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-033-02",
+        "question": "Wie viele Salatblätter wäscht der Autor unter dem Wasser?",
+        "reponses": [
+          { "id": "a", "texte": "Ein einziges Blatt", "correcte": false },
+          { "id": "b", "texte": "Fünf Salatblätter", "correcte": false },
+          { "id": "c", "texte": "Drei grüne Salatblätter", "correcte": true },
+          { "id": "d", "texte": "Zehn Blätter total", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-033-03",
+        "question": "Welches grüne Gemüse wird zusammen mit der Tomate geschnitten?",
+        "reponses": [
+          { "id": "a", "texte": "Eine große Kartoffel", "correcte": false },
+          { "id": "b", "texte": "Eine süße Banane", "correcte": false },
+          { "id": "c", "texte": "Ein Stück Gurke", "correcte": true },
+          { "id": "d", "texte": "Eine orange Karotte", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-033-04",
+        "question": "Wo mischt der Autor die Zutaten für die Salatsoße?",
+        "reponses": [
+          { "id": "a", "texte": "In einem Kochtopf", "correcte": false },
+          { "id": "b", "texte": "In einem flachen Teller", "correcte": false },
+           { "id": "c", "texte": "In einem Glas Milch", "correcte": false },
+{ "id": "d", "texte": "In einer kleinen Schüssel", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-033-05",
+"question": "Wann gießt er die Soße über das geschnittene Gemüse?",
+"reponses": [
+{ "id": "a", "texte": "Kurz vor dem Servieren", "correcte": true },
+{ "id": "b", "texte": "Am frühen Morgen", "correcte": false },
+{ "id": "c", "texte": "Nach dem Essen des Kuchens", "correcte": false },
+{ "id": "d", "texte": "Während der Schulpause", "correcte": false }
+]
+}
+]
+},
+{
+"id": "034",
+"titre": "Ein Kuchenrezept",
+"titre2": "Übung 34",
+"texte": [
+"Heute backe ich einen einfachen Kuchen nach einem Rezept meiner Großmutter.",
+"In einer großen Schüssel mische ich weißes Mehl, Zucker und drei frische Eier.",
+"Ich gebe ein halbes Glas Milch und ein Päckchen Backpulver dazu, damit der Teig aufgeht.",
+"Ich gieße die flüssige Mischung vorsichtig in eine mit Butter gefettete Backform.",
+"Danach bitte ich meinen Vater, den Ofen auf 180 Grad zum Backen einzuschalten."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-034-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-034-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-034-01",
+"question": "Von wem stammt das Kuchenrezept, dem der Autor folgt?",
+"reponses": [
+{ "id": "a", "texte": "Von einem Koch im Restaurant", "correcte": false },
+{ "id": "b", "texte": "Von einem Schulfreund", "correcte": false },
+{ "id": "c", "texte": "Nach einem Rezept meiner Großmutter", "correcte": true },
+{ "id": "d", "texte": "Aus einer Zeitung im Büro", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-034-02",
+"question": "Wie viele Eier gibt der Autor in die große Schüssel?",
+"reponses": [
+{ "id": "a", "texte": "Drei frische Eier", "correcte": true },
+{ "id": "b", "texte": "Zwei kleine Eier", "correcte": false },
+{ "id": "c", "texte": "Vier große Eier", "correcte": false },
+{ "id": "d", "texte": "Fünf weiße Eier", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-034-03",
+"question": "Warum fügt er ein Päckchen Backpulver hinzu?",
+"reponses": [
+{ "id": "a", "texte": "Um dem Kuchen Geschmack zu geben", "correcte": false },
+{ "id": "b", "texte": "Um die Schüssel zu färben", "correcte": false },
+{ "id": "c", "texte": "Damit der Teig aufgeht", "correcte": true },
+{ "id": "d", "texte": "Um die Milch abzukühlen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-034-04",
+"question": "Wie wird die Backform vorbereitet, bevor der Teig hineingegossen wird?",
+"reponses": [
+{ "id": "a", "texte": "Sie wird mit heißem Wasser gewaschen", "correcte": false },
+{ "id": "b", "texte": "Sie wird ganz mit Zucker gefüllt", "correcte": false },
+{ "id": "c", "texte": "Sie bleibt völlig trocken", "correcte": false },
+{ "id": "d", "texte": "Sie wird mit Butter gefettet", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-034-05",
+"question": "Auf welche Temperatur muss der Ofen eingestellt werden?",
+"reponses": [
+{ "id": "a", "texte": "Auf 180 Grad", "correcte": true },
+{ "id": "b", "texte": "Auf 100 Grad", "correcte": false },
+{ "id": "c", "texte": "Auf 150 Grad", "correcte": false },
+{ "id": "d", "texte": "Auf 220 Grad", "correcte": false }
+]
+}
+]
+},
+{
+"id": "035",
+"titre": "Im Restaurant",
+"titre2": "Übung 35",
+"texte": [
+"Zu meinem Geburtstag lädt mich mein bester Freund in ein kleines italienisches Restaurant ein.",
+"Der höfliche Kellner kommt schnell zu uns und gibt uns die Speisekarte.",
+"Ich bestelle eine Pizza mit drei Käsesorten und eine Flasche kaltes Wasser.",
+"Der Tisch ist schön dekoriert mit einer kleinen brennenden Kerze in der Mitte.",
+"Am Ende der Mahlzeit bezahlt mein Freund die Rechnung mit seiner Karte."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-035-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-035-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-035-01",
+"question": "Welche Spezialität bietet das ausgewählte Restaurant an?",
+"reponses": [
+{ "id": "a", "texte": "Es ist ein französisches Geschäft", "correcte": false },
+{ "id": "b", "texte": "Es ist eine deutsche Bäckerei", "correcte": false },
+{ "id": "c", "texte": "Es ist ein italienisches Restaurant", "correcte": true },
+{ "id": "d", "texte": "Es ist ein japanischer Laden", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-035-02",
+"question": "Was ist der Anlass für diesen Restaurantbesuch?",
+"reponses": [
+{ "id": "a", "texte": "Der Beginn der Schulferien", "correcte": false },
+{ "id": "b", "texte": "Ein Treffen nach dem Sport", "correcte": false },
+{ "id": "c", "texte": "Der Geburtstag des Autors", "correcte": true },
+{ "id": "d", "texte": "Ein Ausflug mit dem Lehrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-035-03",
+"question": "Welches Hauptgericht bestellt der Autor?",
+"reponses": [
+{ "id": "a", "texte": "Einen Salat mit Gemüse", "correcte": false },
+{ "id": "b", "texte": "Einen Teller Nudeln mit Butter", "correcte": false },
+{ "id": "c", "texte": "Ein gebratenes Stück Hähnchen", "correcte": false },
+{ "id": "d", "texte": "Eine Pizza mit drei Käsesorten", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-035-04",
+"question": "Was schmückt die Mitte des Tisches im Restaurant?",
+"reponses": [
+{ "id": "a", "texte": "Eine kleine brennende Kerze", "correcte": true },
+{ "id": "b", "texte": "Eine große Vase mit Blumen", "correcte": false },
+{ "id": "c", "texte": "Eine Flasche Orangensaft", "correcte": false },
+{ "id": "d", "texte": "Ein Korb mit gelben Äpfeln", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-035-05",
+"question": "Wie bezahlt der beste Freund am Ende die Rechnung?",
+"reponses": [
+{ "id": "a", "texte": "Mit Bargeld und Münzen", "correcte": false },
+{ "id": "b", "texte": "Mit einem Postcheck aus Papier", "correcte": false },
+{ "id": "c", "texte": "Mit seiner Bankkarte", "correcte": true },
+{ "id": "d", "texte": "Mit seinem Smartphone im Gang", "correcte": false }
+]
+}
+]
+},
+{
+"id": "036",
+"titre": "Die Früchte, die ich mag",
+"titre2": "Übung 36",
+"texte": [
+"Ich liebe es, frische Früchte zu essen, weil sie süß und voller Vitamine sind.",
+"Im Sommer ist meine absolute Lieblingsfrucht die rote, süße Erdbeere.",
+"Im Herbst esse ich lieber grüne Äpfel oder saftige Weintrauben.",
+"Jeden Morgen esse ich auch eine Banane, um viel Energie für den Tag zu haben.",
+"Frische Früchte sind perfekt, um das ganze Jahr über gesund und stark zu bleiben."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-036-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-036-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-036-01",
+"question": "Warum isst der Autor so gerne frische Früchte?",
+"reponses": [
+{ "id": "a", "texte": "Weil sie schwer zuzubereiten sind", "correcte": false },
+{ "id": "b", "texte": "Weil sie warm und salzig schmecken", "correcte": false },
+{ "id": "c", "texte": "Weil sie süß und voller Vitamine sind", "correcte": true },
+{ "id": "d", "texte": "Weil man sie in der Apotheke kauft", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-036-02",
+"question": "Was ist seine Lieblingsfrucht während der Sommersaison?",
+"reponses": [
+{ "id": "a", "texte": "Der grüne Apfel aus dem Garten", "correcte": false },
+{ "id": "b", "texte": "Die gelbe Banane vom Markt", "correcte": false },
+{ "id": "c", "texte": "Die rote, süße Erdbeere", "correcte": true },
+{ "id": "d", "texte": "Die saftige Orange aus der Kiste", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-036-03",
+"question": "Welche Früchte isst er eher im Herbst?",
+"reponses": [
+{ "id": "a", "texte": "Grüne Äpfel oder saftige Weintrauben", "correcte": true },
+{ "id": "b", "texte": "Bananen und süße Erdbeeren", "correcte": false },
+{ "id": "c", "texte": "Tomaten und Gurkenstücke", "correcte": false },
+{ "id": "d", "texte": "Nur exotische Südfrüchte", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-036-04",
+"question": "Wann isst der Autor eine Banane für mehr Energie?",
+"reponses": [
+{ "id": "a", "texte": "Jeden Abend vor dem Schlafen", "correcte": false },
+{ "id": "b", "texte": "Während des Erdkundeunterrichts", "correcte": false },
+{ "id": "c", "texte": "Jeden Morgen", "correcte": true },
+{ "id": "d", "texte": "Nur am Sonntagnachmittag im Park", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-036-05",
+"question": "Warum wird laut Text empfohlen, frisches Obst zu essen?",
+"reponses": [
+{ "id": "a", "texte": "Um das ganze Jahr über gesund zu bleiben", "correcte": true },
+{ "id": "b", "texte": "Um die Küche modern zu dekorieren", "correcte": false },
+{ "id": "c", "texte": "Um bei der Büroarbeit zu helfen", "correcte": false },
+{ "id": "d", "texte": "Um den Einkauf im Laden zu sparen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "037",
+"titre": "Gemüse aus dem Garten",
+"titre2": "Übung 37",
+"texte": [
+"Hinter unserem Haus baut mein Großvater einen wunderschönen Gemüsegarten an.",
+"Wenn er die dunkle Erde umgräbt, erntet er orange Karotten und Kartoffeln.",
+"Es gibt auch große Pflanzen mit reifen roten Tomaten in der Nähe des Zauns.",
+"Jeden Morgen gießt er sein Gemüse mit einer großen grünen Gießkanne.",
+"Das Gemüse aus unserem Garten schmeckt hervorragend und ist völlig natürlich."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-037-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-037-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-037-01",
+"question": "Wer kümmert sich um den Gemüsegarten hinter dem Haus?",
+"reponses": [
+{ "id": "a", "texte": "Der Französischlehrer der Schule", "correcte": false },
+{ "id": "b", "texte": "Der kleine Bruder des Autors", "correcte": false },
+{ "id": "c", "texte": "Der Großvater des Autors", "correcte": true },
+{ "id": "d", "texte": "Der junge Schuhverkäufer im Laden", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-037-02",
+"question": "Welche Farbe haben die Karotten, die geerntet werden?",
+"reponses": [
+{ "id": "a", "texte": "Sie sind weiß", "correcte": false },
+{ "id": "b", "texte": "Sie sind grün", "correcte": false },
+{ "id": "c", "texte": "Sie sind orange", "correcte": true },
+{ "id": "d", "texte": "Sie sind grau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-037-03",
+"question": "Wo befinden sich die Pflanzen mit den reifen roten Tomaten?",
+"reponses": [
+{ "id": "a", "texte": "In der Autogarage des Hauses", "correcte": false },
+{ "id": "b", "texte": "In der Mitte der modernen Küche", "correcte": false },
+{ "id": "c", "texte": "In der Nähe des Zauns", "correcte": true },
+{ "id": "d", "texte": "Auf dem Schreibtisch aus Holz", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-037-04",
+"question": "Welchen Gegenstand benutzt er jeden Morgen zum Gießen?",
+"reponses": [
+{ "id": "a", "texte": "Eine große grüne Gießkanne", "correcte": true },
+{ "id": "b", "texte": "Eine elektronische Waage", "correcte": false },
+{ "id": "c", "texte": "Eine weiße Plastikflasche", "correcte": false },
+{ "id": "d", "texte": "Einen Eimer aus Metall", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-037-05",
+"question": "Was ist das Besondere an diesem Gemüse laut Text?",
+"reponses": [
+{ "id": "a", "texte": "Es ist völlig natürlich", "correcte": true },
+{ "id": "b", "texte": "Es kommt aus einem fernen Land", "correcte": false },
+{ "id": "c", "texte": "Es kostet sehr viele Euro", "correcte": false },
+{ "id": "d", "texte": "Es hat absolut keinen Geschmack", "correcte": false }
+]
+}
+]
+},
+{
+"id": "038",
+"titre": "Das Mittagessen um zwölf Uhr",
+"titre2": "Übung 38",
+"texte": [
+"Genau um zwölf Uhr mittags läutet die Schulglocke: Es ist Zeit für die Mittagspause.",
+"Ich gehe mit meinen Klassenkameraden in die Schulmensa, um eine warme Mahlzeit zu essen.",
+"Heute bietet das Menü weißen Reis mit einem Stück gebratenem Hähnchen an.",
+"Als Getränk hat jeder von uns ein kleines Glas stilles Wasser auf dem Tisch stehen.",
+"Wir essen in aller Ruhe zusammen, bevor wir wieder auf dem Schulhof spielen gehen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-038-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-038-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-038-01",
+"question": "Um wie viel Uhr genau läutet die Schulglocke für das Mittagessen?",
+"reponses": [
+{ "id": "a", "texte": "Genau um zwölf Uhr", "correcte": true },
+{ "id": "b", "texte": "Um 13:00 Uhr am Nachmittag", "correcte": false },
+{ "id": "c", "texte": "Um halb elf am Vormittag", "correcte": false },
+{ "id": "d", "texte": "Um zehn Uhr morgens", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-038-02",
+"question": "Wohin geht der Autor, um seine warme Mahlzeit zu essen?",
+"reponses": [
+{ "id": "a", "texte": "In ein italienisches Restaurant", "correcte": false },
+{ "id": "b", "texte": "In die Hausküche der Großeltern", "correcte": false },
+{ "id": "c", "texte": "In die Schulmensa", "correcte": true },
+{ "id": "d", "texte": "In die ruhige Schulbibliothek", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-038-03",
+"question": "Was steht heute auf dem Menüplan der Schulmensa?",
+"reponses": [
+{ "id": "a", "texte": "Hausgemachte Lasagne mit Käse", "correcte": false },
+{ "id": "b", "texte": "Eine Pizza mit Oliven", "correcte": false },
+{ "id": "c", "texte": "Weißer Reis mit gebratenem Hähnchen", "correcte": true },
+{ "id": "d", "texte": "Ein einfacher Teller Tomatensalat", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-038-04",
+"question": "Welches Getränk steht für jeden Schüler auf dem Tisch bereit?",
+"reponses": [
+{ "id": "a", "texte": "Ein kleines Glas stilles Wasser", "correcte": true },
+{ "id": "b", "texte": "Ein Glas süßer Orangensaft", "correcte": false },
+{ "id": "c", "texte": "Eine Tasse heiße Milch", "correcte": false },
+{ "id": "d", "texte": "Eine Kanne warmen Tee", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-038-05",
+"question": "Was machen die Schüler direkt nach dem gemeinsamen Essen?",
+"reponses": [
+{ "id": "a", "texte": "Sie gehen auf dem Schulhof spielen", "correcte": true },
+{ "id": "b", "texte": "Sie machen sofort ihre Hausaufgaben", "correcte": false },
+{ "id": "c", "texte": "Sie legen sich sofort ins Bett", "correcte": false },
+{ "id": "d", "texte": "Sie fahren mit dem Zug weg", "correcte": false }
+]
+}
+]
+},
+{
+"id": "039",
+"titre": "Abendessen mit Freunden",
+"titre2": "Übung 39",
+"texte": [
+"Heute Abend organisiere ich ein nettes kleines Abendessen bei mir zu Hause mit meinen Schulfreunden.",
+"Für diesen besonderen Anlass bereite ich einen großen teller Nudeln mit einer leckeren Tomatensoße zu.",
+"Meine Freunde bringen eine Flasche süßen Fruchtsaft und einen Schokoladenkuchen für den Nachtisch mit.",
+"Wir essen alle zusammen im Wohnzimmer und sitzen gemütlich um den niedrigen Kaffeetisch herum.",
+"Es ist ein toller Abend, an dem wir viel lachen und schöne Musik im Hintergrund hören."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-039-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-039-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-039-01",
+"question": "Wo findet das gemeinsame Abendessen mit den Freunden statt?",
+"reponses": [
+{ "id": "a", "texte": "In der Schulmensa der Universität", "correcte": false },
+{ "id": "b", "texte": "In einem italienischen Restaurant", "correcte": false },
+{ "id": "c", "texte": "Beim Autor zu Hause", "correcte": true },
+{ "id": "d", "texte": "Draußen im großen Stadtpark", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-039-02",
+"question": "Welches Hauptgericht kocht der Autor für seine Gäste?",
+"reponses": [
+{ "id": "a", "texte": "Einen Teller Nudeln mit Tomatensoße", "correcte": true },
+{ "id": "b", "texte": "Eine Pizza mit viel geschmolzenem Käse", "correcte": false },
+{ "id": "c", "texte": "Eine warme Kartoffelsuppe im Topf", "correcte": false },
+{ "id": "d", "texte": "Ein Kilo gekochte süße Karotten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-039-03",
+"question": "Was bringen die Schulfreunde für den Nachtisch mit?",
+"reponses": [
+{ "id": "a", "texte": "Einen knusprigen Apfelkuchen", "correcte": false },
+{ "id": "b", "texte": "Eine große Staude Bananen", "correcte": false },
+{ "id": "c", "texte": "Einen Schokoladenkuchen", "correcte": true },
+{ "id": "d", "texte": "Einen Becher sauren Naturjoghurt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-039-04",
+"question": "Um welches Möbelstück sitzen sie herum, um zu essen?",
+"reponses": [
+{ "id": "a", "texte": "Um den großen Schreibtisch aus Holz", "correcte": false },
+{ "id": "b", "texte": "Auf dem Teppich im Flur", "correcte": false },
+{ "id": "c", "texte": "Um den niedrigen Kaffeetisch", "correcte": true },
+{ "id": "d", "texte": "An dem Küchentresen oben", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-039-05",
+"question": "Was machen die Freunde während des Abends neben dem Lachen?",
+"reponses": [
+{ "id": "a", "texte": "Sie hören schöne Musik", "correcte": true },
+{ "id": "b", "texte": "Sie machen Hausaufgaben für Französisch", "correcte": false },
+{ "id": "c", "texte": "Sie putzen die Autogarage draußen", "correcte": false },
+{ "id": "d", "texte": "Sie schauen ein Fußballspiel", "correcte": false }
+]
+}
+]
+},
+{
+"id": "040",
+"titre": "Ein Tag ohne Fleisch",
+"titre2": "Übung 40",
+"texte": [
+"Heute entscheide ich mich dafür, einen ganzen Tag lang kein Fleisch zu essen.",
+"Am Morgen genieße ich eine Schüssel Müsli mit frischer Kuhmilch.",
+"Mittags esse ich ein warmes Ei-Omelett, das mit geschmolzenem Käse gefüllt ist.",
+"Am Abend bereite ich eine gute, heiße Suppe mit Karotten und Kartoffeln zu.",
+"Diese einfache Gewohnheit ist sehr leicht und ausgezeichnet für die Gesundheit meines Körpers."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-040-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-040-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-040-01",
+"question": "Was ist das Besondere an dem Tag, den der Autor gewählt hat?",
+"reponses": [
+{ "id": "a", "texte": "Er isst den ganzen Tag kein Fleisch", "correcte": true },
+{ "id": "b", "texte": "Er bleibt vierundzwanzig Stunden im Bett", "correcte": false },
+{ "id": "c", "texte": "Er macht Urlaub am Strand", "correcte": false },
+{ "id": "d", "texte": "Er trinkt überhaupt kein stilles Wasser", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-040-02",
+"question": "Was isst der Autor am Morgen zum Frühstück?",
+"reponses": [
+{ "id": "a", "texte": "Zwei Brote mit Erdbeermarmelade", "correcte": false },
+{ "id": "b", "texte": "Ein warmes Croissant aus der Bäckerei", "correcte": false },
+{ "id": "c", "texte": "Eine Schüssel Müsli mit Milch", "correcte": true },
+{ "id": "d", "texte": "Eine reife Banane aus dem Korb", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-040-03",
+"question": "Welches Gericht wählt der Autor für sein Mittagessen?",
+"reponses": [
+{ "id": "a", "texte": "Ein Ei-Omelett mit Käse", "correcte": true },
+{ "id": "b", "texte": "Gebratenes Hähnchenfleisch mit Reis", "correcte": false },
+{ "id": "c", "texte": "Einen einfachen Teller grünen Salat", "correcte": false },
+{ "id": "d", "texte": "Eine Pizza aus dem italienischen Restaurant", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-040-04",
+"question": "Welches Gemüse gibt er in seine heiße Suppe am Abend?",
+"reponses": [
+{ "id": "a", "texte": "Karotten und Kartoffeln", "correcte": true },
+{ "id": "b", "texte": "Rote Tomaten und frische Gurken", "correcte": false },
+{ "id": "c", "texte": "Ausschließlich grüne Salatblätter", "correcte": false },
+{ "id": "d", "texte": "Süße Früchte aus dem großen Garten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-040-05",
+"question": "Wie beschreibt der Autor diese Ernährungsgewohnheit am Ende?",
+"reponses": [
+{ "id": "a", "texte": "Sehr kompliziert und anstrengend", "correcte": false },
+{ "id": "b", "texte": "Viel zu teuer für sein Einkaufsbudget", "correcte": false },
+{ "id": "c", "texte": "Leicht und ausgezeichnet für die Gesundheit", "correcte": true },
+{ "id": "d", "texte": "Schlecht für das Fußballspielen am Samstag", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "041",
+    "titre": "Mein Lieblingssport",
+    "titre2": "Übung 41",
+    "texte": [
+      "Sport ist eine fantastische Aktivität, um gesund und voller Energie zu bleiben.",
+      "Mein absoluter Lieblingssport ist Schwimmen, weil ich das kühle Wasser liebe.",
+      "Jeden Mittwochnachmittag gehe ich mit meinem Bruder in das große Hallenbad.",
+      "Dort schwimme ich eine Stunde lang im tiefen Becken hin und her.",
+      "Nach dem Training fühle ich mich zwar müde, aber sehr glücklich und fit."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-041-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-041-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-041-01",
+        "question": "Was ist der Lieblingssport des Autors?",
+        "reponses": [
+          { "id": "a", "texte": "Fahrrad fahren", "correcte": false },
+          { "id": "b", "texte": "Fußball spielen", "correcte": false },
+          { "id": "c", "texte": "Schwimmen", "correcte": true },
+          { "id": "d", "texte": "Laufen im Wald", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-041-02",
+        "question": "Mit wem geht der Autor ins große Hallenbad?",
+        "reponses": [
+          { "id": "a", "texte": "Mit seinem Bruder", "correcte": true },
+          { "id": "b", "texte": "Mit seinem Lehrer", "correcte": false },
+          { "id": "c", "texte": "Mit seinen Kollegen", "correcte": false },
+          { "id": "d", "texte": "Er geht ganz allein", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-041-03",
+        "question": "An welchem Tag findet das Schwimmtraining statt?",
+        "reponses": [
+          { "id": "a", "texte": "Am Samstagmorgen", "correcte": false },
+          { "id": "b", "texte": "Am Freitagabend", "correcte": false },
+          { "id": "c", "texte": "Am Mittwochnachmittag", "correcte": true },
+          { "id": "d", "texte": "Jeden Sonntag", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-041-04",
+        "question": "Wie lange schwimmt der Autor im tiefen Becken?",
+        "reponses": [
+          { "id": "a", "texte": "Dreißig Minuten", "correcte": false },
+          { "id": "b", "texte": "Zwei ganze Stunden", "correcte": false },
+          { "id": "c", "texte": "Eine Stunde lang", "correcte": true },
+          { "id": "d", "texte": "Fünfzehn Minuten", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-041-05",
+        "question": "Wie fühlt sich der Autor direkt nach dem Training?",
+        "reponses": [
+          { "id": "a", "texte": "Sehr wütend und traurig", "correcte": false },
+          { "id": "b", "texte": "Müde, aber glücklich und fit", "correcte": true },
+          { "id": "c", "texte": "Krank mit Kopfschmerzen", "correcte": false },
+          { "id": "d", "texte": "Ganz entspannt und hungrig", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Fußball spielen",
+    "titre2": "Übung 42",
+    "texte": [
+      "Jeden Samstagnachmittag treffe ich meine Schulfreunde, um Fußball zu spielen.",
+      "Wir gehen auf den großen Sportplatz, der hinter der Schule liegt.",
+      "Paul bringt immer seinen neuen schwarz-weißen Fußball mit.",
+      "Wir bilden zwei Mannschaften und spielen zwei Stunden lang mit viel Freude.",
+      "Am Ende des Spiels trinken wir frisches Wasser und essen ein paar Kekse."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-042-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-042-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-042-01",
+        "question": "Wann spielt der Autor mit seinen Schulfreunden Fußball?",
+        "reponses": [
+          { "id": "a", "texte": "Am Samstagnachmittag", "correcte": true },
+          { "id": "b", "texte": "Am Montagvormittag", "correcte": false },
+          { "id": "c", "texte": "Am Donnerstagabend", "correcte": false },
+          { "id": "d", "texte": "Jeden Freitagmittag", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-042-02",
+        "question": "Wo befindet sich der große Sportplatz?",
+        "reponses": [
+          { "id": "a", "texte": "Neben dem U-Bahnhof", "correcte": false },
+          { "id": "b", "texte": "Hinter der Schule", "correcte": true },
+          { "id": "c", "texte": "Vor der Apotheke", "correcte": false },
+          { "id": "d", "texte": "In der Nähe des Flusses", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-042-03",
+        "question": "Welche Farbe hat der Fußball, den Paul mitbringt?",
+        "reponses": [
+          { "id": "a", "texte": "Er ist ganz grün", "correcte": false },
+          { "id": "b", "texte": "Er ist blau und rot", "correcte": false },
+          { "id": "c", "texte": "Er ist schwarz-weiß", "correcte": true },
+          { "id": "d", "texte": "Er ist gelb", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-042-04",
+        "question": "Wie lange spielen die Freunde zusammen Fußball?",
+        "reponses": [
+          { "id": "a", "texte": "Eine Stunde lang", "correcte": false },
+          { "id": "b", "texte": "Dreißig Minuten", "correcte": false },
+          { "id": "c", "texte": "Zwei Stunden lang", "correcte": true },
+          { "id": "d", "texte": "Den ganzen Tag", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-042-05",
+        "question": "Was trinken die Kinder nach dem Fußballspiel?",
+        "reponses": [
+          { "id": "a", "texte": "Süßen Fruchtsaft", "correcte": false },
+          { "id": "b", "texte": "Frisches Wasser", "correcte": true },
+          { "id": "c", "texte": "Heißen Kakao", "correcte": false },
+          { "id": "d", "texte": "Kalte Milch", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Ein Spaziergang im Park",
+    "titre2": "Übung 43",
+    "texte": [
+      "Wenn das Wetter schön und sonnig ist, mache ich einen Spaziergang im Park.",
+      "Ich gehe langsam auf den kleinen Wegen unter den großen, alten Bäumen.",
+      "Ich setze mich auf eine Holzbank, um den Vögeln zuzuhören, die Lieder singen.",
+      "Im Park spielen viele kleine Kinder fröhlich mit bunten Bällen.",
+      "Dieser Spaziergang ist sehr ruhig und ideal, um frische Luft zu atmen."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-043-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-043-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-043-01",
+        "question": "Wann macht der Autor einen Spaziergang im Park?",
+        "reponses": [
+          { "id": "a", "texte": "Wenn es regnet", "correcte": false },
+          { "id": "b", "texte": "Wenn das Wetter schön und sonnig ist", "correcte": true },
+          { "id": "c", "texte": "Nur mitten in der Nacht", "correcte": false },
+          { "id": "d", "texte": "Wenn es im Winter schneit", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-043-02",
+        "question": "Worauf setzt sich der Autor im Park?",
+        "reponses": [
+          { "id": "a", "texte": "Auf eine Holzbank", "correcte": true },
+          { "id": "b", "texte": "Direkt auf das grüne Gras", "correcte": false },
+          { "id": "c", "texte": "Auf einen blauen Stuhl", "correcte": false },
+          { "id": "d", "texte": "Auf einen großen Stein", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-043-03",
+        "question": "Wem hört der Autor zu, während er auf der Bank sitzt?",
+        "reponses": [
+          { "id": "a", "texte": "Den spielenden Kindern", "correcte": false },
+          { "id": "b", "texte": "Seinem Bruder Lucas", "correcte": false },
+          { "id": "c", "texte": "Den Händlern vom Markt", "correcte": false },
+          { "id": "d", "texte": "Den Vögeln, die Lieder singen", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-043-04",
+        "question": "Womit spielen die vielen kleinen Kinder im Park?",
+        "reponses": [
+          { "id": "a", "texte": "Mit bunten Bällen", "correcte": true },
+          { "id": "b", "texte": "Mit kleinen Holzstiften", "correcte": false },
+          { "id": "c", "texte": "Mit großen Einkaufswagen", "correcte": false },
+          { "id": "d", "texte": "Mit Büchern aus der Bibliothek", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-043-05",
+        "question": "Warum ist dieser Spaziergang so gut für den Autor?",
+        "reponses": [
+        { "id": "a", "texte": "Weil er Geld sparen kann", "correcte": false },
+{ "id": "b", "texte": "Weil er dort Kleidung findet", "correcte": false },
+{ "id": "c", "texte": "Weil er ruhig ist und man frische Luft atmet", "correcte": true },
+{ "id": "d", "texte": "Weil er Französisch lernt", "correcte": false }
+]
+}
+]
+},
+{
+"id": "044",
+"titre": "Musik hören",
+"titre2": "Übung 44",
+"texte": [
+"Musik zu hören ist meine liebste Art, mich nach der Schule zu entspannen.",
+"Ich setze meine großen schwarzen Kopfhörer auf und schließe die Augen.",
+"Ich höre gerne ruhige Lektionen oder sanfte Melodien in meinem Zimmer.",
+"Die Musik gibt meinem Körper neue Energie und macht mich sehr froh.",
+"Manchmal singe ich die einfachen Texte leise mit, um mein Deutsch zu üben."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-044-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-044-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-044-01",
+"question": "Wann hört der Autor am liebsten Musik?",
+"reponses": [
+{ "id": "a", "texte": "Nach der Schule, um sich zu entspannen", "correcte": true },
+{ "id": "b", "texte": "Während der Prüfung im Klassenzimmer", "correcte": false },
+{ "id": "c", "texte": "Beim Einkaufen im Supermarkt", "correcte": false },
+{ "id": "d", "texte": "Wenn er beim Zahnarzt wartet", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-044-02",
+"question": "Welchen Gegenstand benutzt er, um Musik zu hören?",
+"reponses": [
+{ "id": "a", "texte": "Einen großen Fernseher", "correcte": false },
+{ "id": "b", "texte": "Große schwarze Kopfhörer", "correcte": true },
+{ "id": "c", "texte": "Eine kleine Schreibtischlampe", "correcte": false },
+{ "id": "d", "texte": "Ein Radio in der Küche", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-044-03",
+"question": "Welche Art von Musik hört er gerne in seinem Zimmer?",
+"reponses": [
+{ "id": "a", "texte": "Sehr laute und schnelle Musik", "correcte": false },
+{ "id": "b", "texte": "Ruhige Lektionen oder sanfte Melodien", "correcte": true },
+{ "id": "c", "texte": "Naturgeräusche aus dem Wald", "correcte": false },
+{ "id": "d", "texte": "Gar keine, er mag nur Stille", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-044-04",
+"question": "Was gibt die Musik dem Körper des Autors?",
+"reponses": [
+{ "id": "a", "texte": "Neue Energie", "correcte": true },
+{ "id": "b", "texte": "Große Müdigkeit", "correcte": false },
+{ "id": "c", "texte": "Kopfschmerzen", "correcte": false },
+{ "id": "d", "texte": "Hunger auf Lasagne", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-044-05",
+"question": "Warum singt der Autor die einfachen Texte manchmal leise mit?",
+"reponses": [
+{ "id": "a", "texte": "Um sein Deutsch zu üben", "correcte": true },
+{ "id": "b", "texte": "Weil die Vögel im Garten singen", "correcte": false },
+{ "id": "c", "texte": "Um seinen Bruder Lucas zu wecken", "correcte": false },
+{ "id": "d", "texte": "Weil es eine Hausregel ist", "correcte": false }
+]
+}
+]
+},
+{
+"id": "045",
+"titre": "Einen Film anschauen",
+"titre2": "Übung 45",
+"texte": [
+"Am Freitagabend schauen wir oft gemeinsam einen lustigen Film im Wohnzimmer an.",
+"Mein Vater schaltet den großen Fernseher ein und macht das Licht aus.",
+"Wir setzen uns alle zusammen auf das gemütliche blaue Sofa.",
+"Meine Mutter bringt eine große Schüssel mit warmem Popcorn aus der Küche mit.",
+"Wir verbringen einen tollen und entspannten Abend mit der ganzen Familie."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-045-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-045-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-045-01",
+"question": "Wann schaut die Familie normalerweise einen Film an?",
+"reponses": [
+{ "id": "a", "texte": "Am Montagmorgen früh", "correcte": false },
+{ "id": "b", "texte": "Am Freitagnachmittag im Büro", "correcte": false },
+{ "id": "c", "texte": "Am Freitagabend", "correcte": true },
+{ "id": "d", "texte": "Jeden Mittwochnachmittag", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-045-02",
+"question": "Welches elektronische Gerät schaltet der Vater ein?",
+"reponses": [
+{ "id": "a", "texte": "Den Laptop auf dem Holztisch", "correcte": false },
+{ "id": "b", "texte": "Den großen Fernseher", "correcte": true },
+{ "id": "c", "texte": "Die kleine Schreibtischlampe", "correcte": false },
+{ "id": "d", "texte": "Das Küchengerät für Suppe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-045-03",
+"question": "Wo setzt sich die Familie hin, um den Film zu sehen?",
+"reponses": [
+{ "id": "a", "texte": "Auf die Stühle in der Küche", "correcte": false },
+{ "id": "b", "texte": "Parter auf den grünen Teppich", "correcte": false },
+{ "id": "c", "texte": "Auf das gemütliche blaue Sofa", "correcte": true },
+{ "id": "d", "texte": "Auf das Bett im Schlafzimmer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-045-04",
+"question": "Was bringt die Mutter aus der Küche für alle mit?",
+"reponses": [
+{ "id": "a", "texte": "Eine Schüssel mit warmem Popcorn", "correcte": true },
+{ "id": "b", "texte": "Einen großen Teller Nudeln", "correcte": false },
+{ "id": "c", "texte": "Eine Flasche kalte Milch", "correcte": false },
+{ "id": "d", "texte": "Zwei Brote mit Erdbeermarmelade", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-045-05",
+"question": "Wie wird dieser Abend mit der Familie beschrieben?",
+"reponses": [
+{ "id": "a", "texte": "Ein toller und entspannter Abend", "correcte": true },
+{ "id": "b", "texte": "Sehr langweilig und anstrengend", "correcte": false },
+{ "id": "c", "texte": "Ein bisschen laut und stressig", "correcte": false },
+{ "id": "d", "texte": "Zu teuer für das Budget", "correcte": false }
+]
+}
+]
+},
+{
+"id": "046",
+"titre": "Ein Buch lesen",
+"titre2": "Übung 46",
+"texte": [
+"Am Abend ist mein Schlafzimmer ein sehr ruhiger Ort, ideal zum Lesen.",
+"Ich setze mich auf mein gemütliches Bett und lege weiße Kissen hinter meinen Rücken.",
+"Ich öffne ein spannendes Abenteuerbuch und beginne die erste Seite aufmerksam zu lesen.",
+"Ich vergesse den ganzen Stress der Schule, während ich diese schönen Geschichten entdecke.",
+"Ich lese dreißig Minuten lang, bevor ich meine kleine Schreibtischlampe ausschalte, um zu schlafen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-046-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-046-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-046-01",
+"question": "Wo sitzt der Autor, wenn er am Abend sein Buch liest?",
+"reponses": [
+{ "id": "a", "texte": "In der Küche am Holztisch", "correcte": false },
+{ "id": "b", "texte": "In der Schulbibliothek", "correcte": false },
+{ "id": "c", "texte": "Auf seinem gemütlichen Bett", "correcte": true },
+{ "id": "d", "texte": "Auf einer Bank im Park", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-046-02",
+"question": "Welche Art von Buch liest der Autor heute Abend?",
+"reponses": [
+{ "id": "a", "texte": "Ein schwieriges Buch für Mathematik", "correcte": false },
+{ "id": "b", "texte": "Ein deutsches Grammatikheft", "correcte": false },
+{ "id": "c", "texte": "Ein spannendes Abenteuerbuch", "correcte": true },
+{ "id": "d", "texte": "Ein Kochbuch seiner Großmutter", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-046-03",
+"question": "Welche Farbe haben die Kissen hinter seinem Rücken?",
+"reponses": [
+{ "id": "a", "texte": "Sie sind leuchtend rot", "correcte": false },
+{ "id": "b", "texte": "Sie sind dunkelgrau", "correcte": false },
+{ "id": "c", "texte": "Sie sind weiß", "correcte": true },
+{ "id": "d", "texte": "Sie sind hellblau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-046-04",
+"question": "Wie lange liest der Autor in seinem Abenteuerbuch?",
+"reponses": [
+{ "id": "a", "texte": "Fünf Minuten lang", "correcte": false },
+{ "id": "b", "texte": "Eine ganze Stunde", "correcte": false },
+{ "id": "c", "texte": "Dreißig Minuten lang", "correcte": true },
+{ "id": "d", "texte": "Zwei Stunden komplett", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-046-05",
+"question": "Was schaltet der Autor direkt vor dem Schlafen aus?",
+"reponses": [
+{ "id": "a", "texte": "Seine kleine Schreibtischlampe", "correcte": true },
+{ "id": "b", "texte": "Den großen Fernseher im Wohnzimmer", "correcte": false },
+{ "id": "c", "texte": "Seinen tragbaren Laptop", "correcte": false },
+{ "id": "d", "texte": "Die Hauptlampe im Badezimmer", "correcte": false }
+]
+}
+]
+},
+{
+"id": "047",
+"titre": "Mit meinen Freunden spielen",
+"titre2": "Übung 47",
+"texte": [
+"Am Samstagnachmittag treffe ich mich immer mit meinen netten Klassenkameraden im Park.",
+"Wir rennen fröhlich auf dem grünen Rasen und spielen verschiedene Spiele an der frischen Luft.",
+"Paul bringt seinen neuen Fußball mit und wir bilden zwei kleine Teams.",
+"Wir spielen zwei Stunden lang glücklich zusammen und lachen viel unter der Sonne.",
+"Wenn wir sehr müde sind, setzen wir uns hin, um süße Kekse miteinander zu teilen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-047-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-047-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-047-01",
+"question": "Wann trifft sich der Autor mit seinen Klassenkameraden im Park?",
+"reponses": [
+{ "id": "a", "texte": "Am Samstagnachmittag", "correcte": true },
+{ "id": "b", "texte": "Am Mittwochmorgen früh", "correcte": false },
+{ "id": "c", "texte": "Am Freitagabend spät", "correcte": false },
+{ "id": "d", "texte": "Jeden Sonntag um zwölf Uhr", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-047-02",
+"question": "Wer bringt einen neuen Fußball für das gemeinsame Spiel mit?",
+"reponses": [
+{ "id": "a", "texte": "Der Schuldirektor", "correcte": false },
+{ "id": "b", "texte": "Der Kellner des Restaurants", "correcte": false },
+{ "id": "c", "texte": "Paul", "correcte": true },
+{ "id": "d", "texte": "Thomas der neue Schüler", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-047-03",
+"question": "Wie lange spielen die Freunde auf dem Sportplatz zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Fünfzehn Minuten nur", "correcte": false },
+{ "id": "b", "texte": "Eine kurze Stunde", "correcte": false },
+{ "id": "c", "texte": "Zwei Stunden lang", "correcte": true },
+{ "id": "d", "texte": "Den ganzen Tag lang", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-047-04",
+"question": "Was machen die Kinder, wenn sie sich sehr müde fühlen?",
+"reponses": [
+{ "id": "a", "texte": "Sie gehen zur Poststation", "correcte": false },
+{ "id": "b", "texte": "Sie gehen zurück in die Klasse", "correcte": false },
+{ "id": "c", "texte": "Sie kaufen Kleidung im Laden", "correcte": false },
+{ "id": "d", "texte": "Sie setzen sich hin und teilen Kekse", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-047-05",
+"question": "Wo lieben es die Freunde, fröhlich herumzurennen?",
+"reponses": [
+{ "id": "a", "texte": "Auf dem grünen Rasen", "correcte": true },
+{ "id": "b", "texte": "In der kleinen Autogarage", "correcte": false },
+{ "id": "c", "texte": "In der Nähe des Dorfmarktes", "correcte": false },
+{ "id": "d", "texte": "In dem Badezimmer des Hauses", "correcte": false }
+]
+}
+]
+},
+{
+"id": "048",
+"titre": "Ein Kinobesuch",
+"titre2": "Übung 48",
+"texte": [
+"Heute Abend mache ich mit meiner Familie einen schönen Kinobesuch.",
+"Das große Kinogebäude befindet sich ganz in der Nähe des zentralen Bahnhofs.",
+"Mein Vater geht zu dem modernen Schalter, um vier Eintrittskarten zu kaufen.",
+"Wir kaufen auch eine große Schachtel Popcorn, um es während des langen Films zu essen.",
+"Wir setzen uns auf die roten Sessel, als die riesige Leinwand angeht."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-048-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-048-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-048-01",
+"question": "Wo befindet sich das große Kinogebäude laut Text?",
+"reponses": [
+{ "id": "a", "texte": "In der Nähe des zentralen Bahnhofs", "correcte": true },
+{ "id": "b", "texte": "Hinter dem Gemüsegarten", "correcte": false },
+{ "id": "c", "texte": "Vor der kleinen Apotheke", "correcte": false },
+{ "id": "d", "texte": "Auf dem großen Platz des Dorfes", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-048-02",
+"question": "Wer geht zum Schalter, um die Eintrittskarten zu besorgen?",
+"reponses": [
+{ "id": "a", "texte": "Der höfliche Kellner", "correcte": false },
+{ "id": "b", "texte": "Ein Kollege aus dem Büro", "correcte": false },
+{ "id": "c", "texte": "Mein Vater", "correcte": true },
+{ "id": "d", "texte": "Der Französischlehrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-048-03",
+"question": "Wie viele Eintrittskarten kauft der Vater am Schalter?",
+"reponses": [
+{ "id": "a", "texte": "Zwei Karten", "correcte": false },
+{ "id": "b", "texte": "Drei Karten", "correcte": false },
+{ "id": "c", "texte": "Vier Eintrittskarten", "correcte": true },
+{ "id": "d", "texte": "Fünf Karten insgesamt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-048-04",
+"question": "Welche Leckerei kauft die Familie für den langen Film?",
+"reponses": [
+{ "id": "a", "texte": "Einen süßen Schokoladenkuchen", "correcte": false },
+{ "id": "b", "texte": "Einen Korb mit frischen Früchten", "correcte": false },
+{ "id": "c", "texte": "Ein Stück Pizza mit Käse", "correcte": false },
+{ "id": "d", "texte": "Eine große Schachtel Popcorn", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-048-05",
+"question": "Welche Farbe haben die Sessel im Kinosaal?",
+"reponses": [
+{ "id": "a", "texte": "Sie sind rot", "correcte": true },
+{ "id": "b", "texte": "Sie sind weiß", "correcte": false },
+{ "id": "c", "texte": "Sie sind dunkelgrau", "correcte": false },
+{ "id": "d", "texte": "Sie sind hellgrün", "correcte": false }
+]
+}
+]
+},
+{
+"id": "049",
+"titre": "Mein Geburtstag",
+"titre2": "Übung 49",
+"texte": [
+"Heute ist ein ganz besonderer Tag, weil es mein zehnter Geburtstag ist.",
+"Meine Mutter dekoriert das Wohnzimmer mit schönen, bunten Luftballons.",
+"Sie backt einen riesigen Schokoladenkuchen mit zehn kleinen Kerzen darauf.",
+"Meine Freunde singen gemeinsam ein glückliches Lied, bevor ich die Flammen ausblase.",
+"Ich fühle mich sehr glücklich, als sie mir ein schönes Buch als Geschenk geben."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-049-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-049-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-049-01",
+"question": "Wie alt wird der Autor am heutigen Tag?",
+"reponses": [
+{ "id": "a", "texte": "Acht Jahre alt", "correcte": false },
+{ "id": "b", "texte": "Neun Jahre alt", "correcte": false },
+{ "id": "c", "texte": "Zehn Jahre alt", "correcte": true },
+{ "id": "d", "texte": "Zwölf Jahre alt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-049-02",
+"question": "Welche Art von Kuchen backt die Mutter für die Party?",
+"reponses": [
+{ "id": "a", "texte": "Einen knusprigen Apfelkuchen", "correcte": false },
+{ "id": "b", "texte": "Einen frischen Erdbeerkuchen", "correcte": false },
+{ "id": "c", "texte": "Einen riesigen Schokoladenkuchen", "correcte": true },
+{ "id": "d", "texte": "Einen einfachen Vanillekeks", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-049-03",
+"question": "Wie viele kleine Kerzen stehen auf dem Geburtstagskuchen?",
+"reponses": [
+{ "id": "a", "texte": "Fünf Kerzen", "correcte": false },
+{ "id": "b", "texte": "Acht Kerzen", "correcte": false },
+{ "id": "c", "texte": "Zehn kleine Kerzen", "correcte": true },
+{ "id": "d", "texte": "Drei Kerzen total", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-049-04",
+"question": "Welches Geschenk bekommt der Autor von seinen Freunden?",
+"reponses": [
+{ "id": "a", "texte": "Einen neuen Fußball", "correcte": false },
+{ "id": "b", "texte": "Einen großen blauen Rucksack", "correcte": false },
+{ "id": "c", "texte": "Eine Packung süße Kekse", "correcte": false },
+{ "id": "d", "texte": "Ein schönes Buch", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-049-05",
+"question": "Wer dekoriert das Wohnzimmer mit bunten Luftballons?",
+"reponses": [
+{ "id": "a", "texte": "Meine Mutter", "correcte": true },
+{ "id": "b", "texte": "Der Schuldirektor", "correcte": false },
+{ "id": "c", "texte": "Mein bester Freund Nicolas", "correcte": false },
+{ "id": "d", "texte": "Der Kinomitarbeiter", "correcte": false }
+]
+}
+]
+},
+{
+"id": "050",
+"titre": "Ein Sonntag mit meiner Familie",
+"titre2": "Übung 50",
+"texte": [
+"Der Sonntag ist mein absoluter Lieblingstag, weil ich ihn mit meiner Familie verbringe.",
+"Am Morgen essen wir ein wunderbares, langes Frühstück in der modernen Küche.",
+"Danach machen wir einen ruhigen Familienspaziergang um den schönen Stadtsee.",
+"Meine Mutter bereitet ein köstliches, heißes Hähnchengericht für unser Abendessen zu.",
+"Wir schauen zusammen einen lustigen Film im Wohnzimmer, bevor wir ins Bett gehen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-050-1",
+"personnage": "Lukas",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-050-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-050-01",
+"question": "Warum ist der Sonntag der Lieblingstag des Autors?",
+"reponses": [
+{ "id": "a", "texte": "Weil er ihn mit seiner Familie verbringt", "correcte": true },
+{ "id": "b", "texte": "Weil er einen Französischkurs hat", "correcte": false },
+{ "id": "c", "texte": "Weil er in die Apotheke geht", "correcte": false },
+{ "id": "d", "texte": "Weil er neue Schuhe einkauft", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-050-02",
+"question": "Wo isst die Familie ihr wunderbares langes Frühstück?",
+"reponses": [
+{ "id": "a", "texte": "In einem kleinen Restaurant", "correcte": false },
+{ "id": "b", "texte": "In der Schulmensa", "correcte": false },
+{ "id": "c", "texte": "In der modernen Küche", "correcte": true },
+{ "id": "d", "texte": "Unter einem großen Baum", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-050-03",
+"question": "Wohin geht die Familie für ihren ruhigen Familienspaziergang?",
+"reponses": [
+{ "id": "a", "texte": "Um den schönen Stadtsee", "correcte": true },
+{ "id": "b", "texte": "Durch den Gemüsegarten", "correcte": false },
+{ "id": "c", "texte": "Hinter den hölzernen Zaun", "correcte": false },
+{ "id": "d", "texte": "Zum zentralen Supermarkt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-050-04",
+"question": "Welches Gericht bereitet die Mutter für das Abendessen zu?",
+"reponses": [
+{ "id": "a", "texte": "Einen frischen Gurkensalat", "correcte": false },
+{ "id": "b", "texte": "Eine Käsepizza mit Oliven", "correcte": false },
+{ "id": "c", "texte": "Ein einfaches Ei-Omelett", "correcte": false },
+{ "id": "d", "texte": "Ein köstliches heißes Hähnchengericht", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-050-05",
+"question": "Was schaut die Familie gemeinsam vor dem Schlafengehen an?",
+"reponses": [
+{ "id": "a", "texte": "Einen lustigen Film", "correcte": true },
+{ "id": "b", "texte": "Die Abendnachrichten", "correcte": false },
+{ "id": "c", "texte": "Ein wichtiges Fußballspiel", "correcte": false },
+{ "id": "d", "texte": "Ein Video für den Erdkundeunterricht", "correcte": false }
+]
+}
+]
+},
+{
+"id": "051",
+"titre": "Meine erste Reise",
+"titre2": "Übung 51",
+"texte": [
+"Ich mache heute meine erste große Reise nach Berlin.",
+"Ich packe meinen kleinen Koffer mit Kleidung und Büchern.",
+"Meine Familie bringt mich am Vormittag zum großen Bahnhof.",
+"Ich bin sehr glücklich und auch ein bisschen nervös.",
+"Im Zug trinke ich einen warmen Tee und lese."
+],
+"audios": [
+{ "id": "audio-de-read-a1-051-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-051-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-051-01",
+"question": "Wohin reist der Autor heute?",
+"reponses": [
+{ "id": "a", "texte": "Nach Berlin", "correcte": true },
+{ "id": "b", "texte": "Nach Paris", "correcte": false },
+{ "id": "c", "texte": "Nach London", "correcte": false },
+{ "id": "d", "texte": "Nach Wien", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-051-02",
+"question": "Was packt der Autor in seinen Koffer?",
+"reponses": [
+{ "id": "a", "texte": "Nur neue Schuhe", "correcte": false },
+{ "id": "b", "texte": "Kleidung und Bücher", "correcte": true },
+{ "id": "c", "texte": "Obst und Gemüse", "correcte": false },
+{ "id": "d", "texte": "Eine große Lampe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-051-03",
+"question": "Wer bringt den Autor zum Bahnhof?",
+"reponses": [
+{ "id": "a", "texte": "Sein Deutschlehrer", "correcte": false },
+{ "id": "b", "texte": "Ein Taxifahrer", "correcte": false },
+{ "id": "c", "texte": "Seine Familie", "correcte": true },
+{ "id": "d", "texte": "Sein bester Freund", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-051-04",
+"question": "Wie fühlt sich der Autor vor der Reise?",
+"reponses": [
+{ "id": "a", "texte": "Traurig und müde", "correcte": false },
+{ "id": "b", "texte": "Glücklich und ein bisschen nervös", "correcte": true },
+{ "id": "c", "texte": "Sehr schlecht und krank", "correcte": false },
+{ "id": "d", "texte": "Wütend und unzufrieden", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-051-05",
+"question": "Was macht der Autor im Zug?",
+"reponses": [
+{ "id": "a", "texte": "Er trinkt Tee und liest", "correcte": true },
+{ "id": "b", "texte": "Er schläft den ganzen Tag", "correcte": false },
+{ "id": "c", "texte": "Er spielt laute Musik", "correcte": false },
+{ "id": "d", "texte": "Er kocht ein Abendessen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "052",
+"titre": "Am Bahnhof",
+"titre2": "Übung 52",
+"texte": [
+"Der Bahnhof ist sehr groß und viele Menschen warten hier.",
+"Ich suche den richtigen Bahnsteig für meinen schnellen Zug.",
+"Am Kiosk kaufe ich mir eine Flasche Wasser.",
+"Die große Anzeigetafel zeigt die Abfahrtszeiten aller Züge an.",
+"Mein Zug kommt pünktlich an und ich steige ein."
+],
+"audios": [
+{ "id": "audio-de-read-a1-052-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-052-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-052-01",
+"question": "Wie ist der Bahnhof?",
+"reponses": [
+{ "id": "a", "texte": "Sehr klein und ruhig", "correcte": false },
+{ "id": "b", "texte": "Er ist geschlossen", "correcte": false },
+{ "id": "c", "texte": "Sehr groß mit vielen Menschen", "correcte": true },
+{ "id": "d", "texte": "Er liegt im Wald", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-052-02",
+"question": "Was sucht der Autor am Bahnhof?",
+"reponses": [
+{ "id": "a", "texte": "Den richtigen Bahnsteig", "correcte": true },
+{ "id": "b", "texte": "Sein neues Fahrrad", "correcte": false },
+{ "id": "c", "texte": "Eine Apotheke", "correcte": false },
+{ "id": "d", "texte": "Seine alte Brille", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-052-03",
+"question": "Was kauft der Autor am Kiosk?",
+"reponses": [
+{ "id": "a", "texte": "Ein warmes Brötchen", "correcte": false },
+{ "id": "b", "texte": "Eine Flasche Wasser", "correcte": true },
+{ "id": "c", "texte": "Ein deutsches Buch", "correcte": false },
+{ "id": "d", "texte": "Einen blauen Stift", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-052-04",
+"question": "Was zeigt die große Anzeigetafel an?",
+"reponses": [
+{ "id": "a", "texte": "Die Abfahrtszeiten der Züge", "correcte": true },
+{ "id": "b", "texte": "Das aktuelle Kinoprogramm", "correcte": false },
+{ "id": "c", "texte": "Den Preis für ein Ticket", "correcte": false },
+{ "id": "d", "texte": "Das Wetter in Spanien", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-052-05",
+"question": "Wie kommt der Zug an?",
+"reponses": [
+{ "id": "a", "texte": "Mit großer Verspätung", "correcte": false },
+{ "id": "b", "texte": "Er kommt gar nicht", "correcte": false },
+{ "id": "c", "texte": "Er hat einen Unfall", "correcte": false },
+{ "id": "d", "texte": "Er kommt pünktlich an", "correcte": true }
+]
+}
+]
+},
+{
+"id": "053",
+"titre": "Am Flughafen",
+"titre2": "Übung 53",
+"texte": [
+"Heute fliege ich in den Urlaub und bin am Flughafen.",
+"Zuerst gehe ich zum Check-in und gebe mein Gepäck ab.",
+"Danach zeigt der freundliche Polizist mir den Weg zur Sicherheitskontrolle.",
+"Mein Gate ist Nummer zwölf und liegt am Ende des Flurs.",
+"Das große Flugzeug steht schon bereit für den Abflug."
+],
+"audios": [
+{ "id": "audio-de-read-a1-053-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-053-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-053-01",
+"question": "Warum ist der Autor am Flughafen?",
+"reponses": [
+{ "id": "a", "texte": "Weil er dort arbeitet", "correcte": false },
+{ "id": "b", "texte": "Weil er in den Urlaub fliegt", "correcte": true },
+{ "id": "c", "texte": "Weil er jemanden sucht", "correcte": false },
+{ "id": "d", "texte": "Weil er ein Auto kauft", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-053-02",
+"question": "Was macht der Autor beim Check-in?",
+"reponses": [
+{ "id": "a", "texte": "Er gibt sein Gepäck ab", "correcte": true },
+{ "id": "b", "texte": "Er isst ein warmes Mittagessen", "correcte": false },
+{ "id": "c", "texte": "Er kauft ein neues Ticket", "correcte": false },
+{ "id": "d", "texte": "Er schläft auf dem Stuhl", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-053-03",
+"question": "Wer zeigt dem Autor den Weg?",
+"reponses": [
+{ "id": "a", "texte": "Ein Taxifahrer", "correcte": false },
+{ "id": "b", "texte": "Sein kleiner Bruder", "correcte": false },
+{ "id": "c", "texte": "Ein freundlicher Polizist", "correcte": true },
+{ "id": "d", "texte": "Eine alte Frau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-053-04",
+"question": "Welche Nummer hat das Gate?",
+"reponses": [
+{ "id": "a", "texte": "Nummer fünf", "correcte": false },
+{ "id": "b", "texte": "Nummer zwanzig", "correcte": false },
+{ "id": "c", "texte": "Nummer zwei", "correcte": false },
+{ "id": "d", "texte": "Nummer zwölf", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-053-05",
+"question": "Was steht bereit für den Abflug?",
+"reponses": [
+{ "id": "a", "texte": "Das große Flugzeug", "correcte": true },
+{ "id": "b", "texte": "Ein gelber Bus", "correcte": false },
+{ "id": "c", "texte": "Ein kleines Taxi", "correcte": false },
+{ "id": "d", "texte": "Ein schöner Zug", "correcte": false }
+]
+}
+]
+},
+{
+"id": "054",
+"titre": "Mit dem Bus fahren",
+"titre2": "Übung 54",
+"texte": [
+"Jeden Morgen fahre ich mit dem roten Bus zur Arbeit.",
+"Ich warte fünf Minuten an der Haltestelle neben der Post.",
+"Der Busfahrer grüßt mich immer sehr nett beim Einsteigen.",
+"Ich zeige ihm meine gültige Fahrkarte für diese Zone.",
+"Die Fahrt dauert zwanzig Minuten und ist sehr entspannt."
+],
+"audios": [
+{ "id": "audio-de-read-a1-054-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-054-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-054-01",
+"question": "Wohin fährt der Autor mit dem Bus?",
+"reponses": [
+{ "id": "a", "texte": "Zur Schule", "correcte": false },
+{ "id": "b", "texte": "Zur Arbeit", "correcte": true },
+{ "id": "c", "texte": "In den Park", "correcte": false },
+{ "id": "d", "texte": "Ins Kino", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-054-02",
+"question": "Wo wartet der Autor auf den Bus?",
+"reponses": [
+{ "id": "a", "texte": "An der Haltestelle neben der Post", "correcte": true },
+{ "id": "b", "texte": "Vor seinem Haus", "correcte": false },
+{ "id": "c", "texte": "Auf dem Marktplatz", "correcte": false },
+{ "id": "d", "texte": "Im Supermarkt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-054-03",
+"question": "Wer grüßt den Autor nett?",
+"reponses": [
+{ "id": "a", "texte": "Der Busfahrer", "correcte": true },
+{ "id": "b", "texte": "Ein Passant", "correcte": false },
+{ "id": "c", "texte": "Sein Chef", "correcte": false },
+{ "id": "d", "texte": "Ein Polizist", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-054-04",
+"question": "Was zeigt der Autor dem Busfahrer?",
+"reponses": [
+{ "id": "a", "texte": "Seinen Ausweis", "correcte": false },
+{ "id": "b", "texte": "Sein Smartphone", "correcte": false },
+{ "id": "c", "texte": "Seine gültige Fahrkarte", "correcte": true },
+{ "id": "d", "texte": "Ein altes Foto", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-054-05",
+"question": "Wie lange dauert die Busfahrt?",
+"reponses": [
+{ "id": "a", "texte": "Fünf Minuten", "correcte": false },
+{ "id": "b", "texte": "Eine Stunde", "correcte": false },
+{ "id": "c", "texte": "Zwei Stunden", "correcte": false },
+{ "id": "d", "texte": "Zwanzig Minuten", "correcte": true }
+]
+}
+]
+},
+{
+"id": "055",
+"titre": "Eine Zugreise",
+"titre2": "Übung 55",
+"texte": [
+"Eine Zugreise ist für mich die schönste Art zu reisen.",
+"Ich sitze am Fenster und beobachte die grüne Landschaft.",
+"Der Zug fährt schnell an kleinen Dörfern und Wäldern vorbei.",
+"Ein netter Mann kontrolliert die Fahrkarten im Waggon.",
+"Nach zwei Stunden komme ich entspannt an meinem Ziel an."
+],
+"audios": [
+{ "id": "audio-de-read-a1-055-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-055-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-055-01",
+"question": "Was ist für den Autor die schönste Art zu reisen?",
+"reponses": [
+{ "id": "a", "texte": "Mit dem Flugzeug", "correcte": false },
+{ "id": "b", "texte": "Mit dem Auto", "correcte": false },
+{ "id": "c", "texte": "Eine Zugreise", "correcte": true },
+{ "id": "d", "texte": "Mit dem Fahrrad", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-055-02",
+"question": "Wo sitzt der Autor im Zug?",
+"reponses": [
+{ "id": "a", "texte": "In der Küche", "correcte": false },
+{ "id": "b", "texte": "Am Fenster", "correcte": true },
+{ "id": "c", "texte": "Beim Busfahrer", "correcte": false },
+{ "id": "d", "texte": "Auf dem Dach", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-055-03",
+"question": "Was beobachtet der Autor?",
+"reponses": [
+{ "id": "a", "texte": "Die grüne Landschaft", "correcte": true },
+{ "id": "b", "texte": "Einen spannenden Film", "correcte": false },
+{ "id": "c", "texte": "Seine neuen Schuhe", "correcte": false },
+{ "id": "d", "texte": "Ein kleines Buch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-055-04",
+"question": "Wer kontrolliert die Fahrkarten?",
+"reponses": [
+{ "id": "a", "texte": "Ein netter Mann", "correcte": true },
+{ "id": "b", "texte": "Die Mutter des Autors", "correcte": false },
+{ "id": "c", "texte": "Ein kleiner Junge", "correcte": false },
+{ "id": "d", "texte": "Niemand", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-055-05",
+"question": "Wann kommt der Autor an seinem Ziel an?",
+"reponses": [
+{ "id": "a", "texte": "Nach zehn Minuten", "correcte": false },
+{ "id": "b", "texte": "Nach fünf Stunden", "correcte": false },
+{ "id": "c", "texte": "Nach zwei Stunden", "correcte": true },
+{ "id": "d", "texte": "Am nächsten Morgen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "056",
+"titre": "Eine neue Stadt besuchen",
+"titre2": "Übung 56",
+"texte": [
+"München ist eine wunderschöne Stadt im Süden von Deutschland.",
+"Ich besuche heute das berühmte Rathaus auf dem großen Marktplatz.",
+"In einem gemütlichen Café trinke ich einen leckeren Kaffee.",
+"Ich kaufe auch ein paar schöne Postkarten für meine Freunde.",
+"Am Abend mache ich ein Foto von der alten Kirche."
+],
+"audios": [
+{ "id": "audio-de-read-a1-056-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-056-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-056-01",
+"question": "Wo liegt die Stadt München?",
+"reponses": [
+{ "id": "a", "texte": "Im Norden von Deutschland", "correcte": false },
+{ "id": "b", "texte": "In Frankreich", "correcte": false },
+{ "id": "c", "texte": "Im Süden von Deutschland", "correcte": true },
+{ "id": "d", "texte": "Neben Berlin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-056-02",
+"question": "Was besucht der Autor auf dem Marktplatz?",
+"reponses": [
+{ "id": "a", "texte": "Das berühmte Rathaus", "correcte": true },
+{ "id": "b", "texte": "Einen großen Supermarkt", "correcte": false },
+{ "id": "c", "texte": "Eine moderne Schule", "correcte": false },
+{ "id": "d", "texte": "Ein kleines Schwimmbad", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-056-03",
+"question": "Was macht der Autor im gemütlichen Café?",
+"reponses": [
+{ "id": "a", "texte": "Er kauft Kleidung", "correcte": false },
+{ "id": "b", "texte": "Er trinke einen leckeren Kaffee", "correcte": true },
+{ "id": "c", "texte": "Er schläft im Bett", "correcte": false },
+{ "id": "d", "texte": "Er lernt Französisch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-056-04",
+"question": "Für wen kauft der Autor Postkarten?",
+"reponses": [
+{ "id": "a", "texte": "Für seine Freunde", "correcte": true },
+{ "id": "b", "texte": "Für seinen Lehrer", "correcte": false },
+{ "id": "c", "texte": "Für die Polizei", "correcte": false },
+{ "id": "d", "texte": "Für den Busfahrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-056-05",
+"question": "Wovon macht der Autor am Abend ein Foto?",
+"reponses": [
+{ "id": "a", "texte": "Vom Rathaus", "correcte": false },
+{ "id": "b", "texte": "Von seinem Kaffee", "correcte": false },
+{ "id": "c", "texte": "Von den Postkarten", "correcte": false },
+{ "id": "d", "texte": "Von der alten Kirche", "correcte": true }
+]
+}
+]
+},
+{
+"id": "057",
+"titre": "Ferien am Strand",
+"titre2": "Übung 57",
+"texte": [
+"Ich verbringe meine Sommerferien an einem wunderschönen, weißen Strand.",
+"Das Meer ist heute sehr blau, ruhig und angenehm warm.",
+"Ich liege in der Sonne und lese ein spannendes Buch.",
+"Am Nachmittag esse ich ein kaltes Schokoladeneis am Kiosk.",
+"Am Abend gehe ich am Wasser spazieren und genieße die Natur."
+],
+"audios": [
+{ "id": "audio-de-read-a1-057-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-057-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-057-01",
+"question": "Wo verbringt der Autor seine Sommerferien?",
+"reponses": [
+{ "id": "a", "texte": "In den Bergen", "correcte": false },
+{ "id": "b", "texte": "An einem weißen Strand", "correcte": true },
+{ "id": "c", "texte": "In der großen Stadt", "correcte": false },
+{ "id": "d", "texte": "Zu Hause in der Küche", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-057-02",
+"question": "Wie ist das Meer heute?",
+"reponses": [
+{ "id": "a", "texte": "Sehr kalt und windig", "correcte": false },
+{ "id": "b", "texte": "Grün und schmutzig", "correcte": false },
+{ "id": "c", "texte": "Blau, ruhig und angenehm warm", "correcte": true },
+{ "id": "d", "texte": "Es gibt kein Wasser", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-057-03",
+"question": "Was macht der Autor in der Sonne?",
+"reponses": [
+{ "id": "a", "texte": "Er liest ein spannendes Buch", "correcte": true },
+{ "id": "b", "texte": "Er kocht ein Hähnchengericht", "correcte": false },
+{ "id": "c", "texte": "Er macht Sport", "correcte": false },
+{ "id": "d", "texte": "Er sucht eine Apotheke", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-057-04",
+"question": "Was isst der Autor am Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Einen großen Apfel", "correcte": false },
+{ "id": "b", "texte": "Eine heiße Suppe", "correcte": false },
+{ "id": "c", "texte": "Ein kaltes Schokoladeneis", "correcte": true },
+{ "id": "d", "texte": "Ein Stück Pizza", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-057-05",
+"question": "Was macht der Autor am Abend?",
+"reponses": [
+{ "id": "a", "texte": "Er geht am Wasser spazieren", "correcte": true },
+{ "id": "b", "texte": "Er fliegt nach Berlin", "correcte": false },
+{ "id": "c", "texte": "Er schaut einen Film im Wohnzimmer", "correcte": false },
+{ "id": "d", "texte": "Er geht ins Bett", "correcte": false }
+]
+}
+]
+},
+{
+"id": "058",
+"titre": "Ein Spaziergang auf dem Land",
+"titre2": "Übung 58",
+"texte": [
+"Heute mache ich einen langen Spaziergang auf dem Land.",
+"Die Luft hier ist sehr frisch und es gibt viele Bäume.",
+"Auf einer grünen Wiese sehe ich drei weiße Schafe.",
+"Die Sonne scheint warm und die Vögel singen fröhlich.",
+"Nach dem Spaziergang fühle ich mich sehr glücklich."
+],
+"audios": [
+{ "id": "audio-de-read-a1-058-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-058-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-058-01",
+"question": "Wo macht der Autor heute einen Spaziergang?",
+"reponses": [
+{ "id": "a", "texte": "Auf dem Land", "correcte": true },
+{ "id": "b", "texte": "Im großen Bahnhof", "correcte": false },
+{ "id": "c", "texte": "In der modernen Küche", "correcte": false },
+{ "id": "d", "texte": "Auf dem Flughafen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-058-02",
+"question": "Wie ist die Luft auf dem Land?",
+"reponses": [
+{ "id": "a", "texte": "Schlecht und warm", "correcte": false },
+{ "id": "b", "texte": "Sehr frisch", "correcte": true },
+{ "id": "c", "texte": "Kalt und windig", "correcte": false },
+{ "id": "d", "texte": "Es gibt keine Luft", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-058-03",
+"question": "Was sieht der Autor auf der grünen Wiese?",
+"reponses": [
+{ "id": "a", "texte": "Ein großes Auto", "correcte": false },
+{ "id": "b", "texte": "Zwei kleine Katzen", "correcte": false },
+{ "id": "c", "texte": "Drei weiße Schafe", "correcte": true },
+{ "id": "d", "texte": "Einen roten Bus", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-058-04",
+"question": "Wer singt fröhlich?",
+"reponses": [
+{ "id": "a", "texte": "Die Vögel", "correcte": true },
+{ "id": "b", "texte": "Der Busfahrer", "correcte": false },
+{ "id": "c", "texte": "Die Schafe", "correcte": false },
+{ "id": "d", "texte": "Die Mutter", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-058-05",
+"question": "Wie fühlt sich der Autor nach dem Spaziergang?",
+"reponses": [
+{ "id": "a", "texte": "Sehr müde", "correcte": false },
+{ "id": "b", "texte": "Sehr traurig", "correcte": false },
+{ "id": "c", "texte": "Sehr glücklich", "correcte": true },
+{ "id": "d", "texte": "Nervös und unzufrieden", "correcte": false }
+]
+}
+]
+},
+{
+"id": "059",
+"titre": "Nach dem Weg fragen",
+"titre2": "Übung 59",
+"texte": [
+"Ich bin neu in der Stadt und suche das große Museum.",
+"Ich frage eine nette Frau auf der Straße nach dem Weg.",
+"Sie erklärt mir den Weg sehr ruhig und freundlich.",
+"Ich muss zuerst geradeaus gehen und dann rechts abbiegen.",
+"Ich danke der Frau höflich und wünsche ihr einen schönen Tag."
+],
+"audios": [
+{ "id": "audio-de-read-a1-059-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-059-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-059-01",
+"question": "Was sucht der Autor in der Stadt?",
+"reponses": [
+{ "id": "a", "texte": "Einen Supermarkt", "correcte": false },
+{ "id": "b", "texte": "Das große Museum", "correcte": true },
+{ "id": "c", "texte": "Eine alte Kirche", "correcte": false },
+{ "id": "d", "texte": "Einen Bahnhof", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-059-02",
+"question": "Wen fragt der Autor nach dem Weg?",
+"reponses": [
+{ "id": "a", "texte": "Einen Polizisten", "correcte": false },
+{ "id": "b", "texte": "Einen Busfahrer", "correcte": false },
+{ "id": "c", "texte": "Eine nette Frau auf der Straße", "correcte": true },
+{ "id": "d", "texte": "Seinen Freund", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-059-03",
+"question": "Wie erklärt die Frau den Weg?",
+"reponses": [
+{ "id": "a", "texte": "Sehr ruhig und freundlich", "correcte": true },
+{ "id": "b", "texte": "Sehr schnell und laut", "correcte": false },
+{ "id": "c", "texte": "Gar nicht, sie geht weg", "correcte": false },
+{ "id": "d", "texte": "Sie versteht kein Deutsch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-059-04",
+"question": "Wohin muss der Autor abbiegen?",
+"reponses": [
+{ "id": "a", "texte": "Nach links", "correcte": false },
+{ "id": "b", "texte": "Nach rechts", "correcte": true },
+{ "id": "c", "texte": "Gar nicht", "correcte": false },
+{ "id": "d", "texte": "Zurück zum Bahnhof", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-059-05",
+"question": "Was macht der Autor am Ende?",
+"reponses": [
+{ "id": "a", "texte": "Er dankt der Frau höflich", "correcte": true },
+{ "id": "b", "texte": "Er kauft ein Eis", "correcte": false },
+{ "id": "c", "texte": "Er läuft schnell weg", "correcte": false },
+{ "id": "d", "texte": "Er ruft seine Mutter an", "correcte": false }
+]
+}
+]
+},
+{
+"id": "060",
+"titre": "Meine Reise zu meinen Großeltern",
+"titre2": "Übung 60",
+"texte": [
+"Am Wochenende besuche ich meine lieben Großeltern auf dem Dorf.",
+"Sie wohnen in einem kleinen, gemütlichen Haus mit einem großen Garten.",
+"Mein Großvater wartet schon an der Tür und lächelt.",
+"Meine Großmutter backt einen leckeren Apfelkuchen für uns.",
+"Wir sitzen im Wohnzimmer und sprechen über mein Leben."
+],
+"audios": [
+{ "id": "audio-de-read-a1-060-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-060-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-060-01",
+"question": "Wen besucht der Autor am Wochenende?",
+"reponses": [
+{ "id": "a", "texte": "Seine Freunde", "correcte": false },
+{ "id": "b", "texte": "Seine lieben Großeltern", "correcte": true },
+{ "id": "c", "texte": "Seinen Deutschlehrer", "correcte": false },
+{ "id": "d", "texte": "Den Busfahrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-060-02",
+"question": "Wo wohnen die Großeltern?",
+"reponses": [
+{ "id": "a", "texte": "In einem kleinen Haus auf dem Dorf", "correcte": true },
+{ "id": "b", "texte": "In einer großen Wohnung in Berlin", "correcte": false },
+{ "id": "c", "texte": "Im großen Museum", "correcte": false },
+{ "id": "d", "texte": "Am weißen Strand", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-060-03",
+"question": "Wer wartet an der Tür und lächelt?",
+"reponses": [
+{ "id": "a", "texte": "Der Großvater", "correcte": true },
+{ "id": "b", "texte": "Die Großmutter", "correcte": false },
+{ "id": "c", "texte": "Eine nette Frau", "correcte": false },
+{ "id": "d", "texte": "Ein Hund", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-060-04",
+"question": "Was backt die Großmutter?",
+"reponses": [
+{ "id": "a", "texte": "Eine Pizza mit Oliven", "correcte": false },
+{ "id": "b", "texte": "Ein Hähnchengericht", "correcte": false },
+{ "id": "c", "texte": "Einen leckeren Apfelkuchen", "correcte": true },
+{ "id": "d", "texte": "Ein einfaches Brot", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-060-05",
+"question": "Worüber sprechen sie im Wohnzimmer?",
+"reponses": [
+{ "id": "a", "texte": "Über das Wetter in München", "correcte": false },
+{ "id": "b", "texte": "Über das Leben des Autors", "correcte": true },
+{ "id": "c", "texte": "Über die Abfahrtszeiten der Züge", "correcte": false },
+{ "id": "d", "texte": "Über einen neuen Film", "correcte": false }
+]
+}
+]
+},
+{
+"id": "061",
+"titre": "Tiere auf dem Bauernhof",
+"titre2": "Übung 61",
+"texte": [
+"Auf dem großen Bauernhof leben viele verschiedene Tiere.",
+"Die weißen Schafe fressen den ganzen Tag grünes Gras.",
+"Zwei braune Pferde stehen im Stall und trinken Wasser.",
+"Die Hühner laufen schnell herum und suchen Futter.",
+"Der Bauer bringt am Abend allen Tieren frisches Heu."
+],
+"audios": [
+{ "id": "audio-de-read-a1-061-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-061-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-061-01",
+"question": "Welche Tiere fressen den ganzen Tag Gras?",
+"reponses": [
+{ "id": "a", "texte": "Die weißen Schafe", "correcte": true },
+{ "id": "b", "texte": "Die braunen Pferde", "correcte": false },
+{ "id": "c", "texte": "Die kleinen Hühner", "correcte": false },
+{ "id": "d", "texte": "Die Katzen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-061-02",
+"question": "Welche Farbe haben die Pferde?",
+"reponses": [
+{ "id": "a", "texte": "Schwarz", "correcte": false },
+{ "id": "b", "texte": "Weiß", "correcte": false },
+{ "id": "c", "texte": "Braun", "correcte": true },
+{ "id": "d", "texte": "Grau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-061-03",
+"question": "Wo stehen die Pferde?",
+"reponses": [
+{ "id": "a", "texte": "Im großen Stall", "correcte": true },
+{ "id": "b", "texte": "Auf der Straße", "correcte": false },
+{ "id": "c", "texte": "Im Wohnzimmer", "correcte": false },
+{ "id": "d", "texte": "Am Bahnhof", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-061-04",
+"question": "Was machen die Hühner?",
+"reponses": [
+{ "id": "a", "texte": "Sie schlafen im Baum", "correcte": false },
+{ "id": "b", "texte": "Sie laufen herum und suchen Futter", "correcte": true },
+{ "id": "c", "texte": "Sie trinken warmen Tee", "correcte": false },
+{ "id": "d", "texte": "Sie fliegen nach Berlin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-061-05",
+"question": "Was bringt der Bauer den Tieren am Abend?",
+"reponses": [
+{ "id": "a", "texte": "Einen Apfelkuchen", "correcte": false },
+{ "id": "b", "texte": "Ein kaltes Eis", "correcte": false },
+{ "id": "c", "texte": "Frisches Heu", "correcte": true },
+{ "id": "d", "texte": "Eine Flasche Wasser", "correcte": false }
+]
+}
+]
+},
+{
+"id": "062",
+"titre": "Mein kleiner Hund",
+"titre2": "Übung 62",
+"texte": [
+"Ich habe einen kleinen Hund, sein Name ist Bello.",
+"Er hat weiches, braunes Fell und zwei große Augen.",
+"Am Nachmittag spielen wir zusammen im grünen Park.",
+"Bello läuft sehr schnell und holt einen roten Ball.",
+"Nach dem Spielen schläft er glücklich in seinem Körbchen."
+],
+"audios": [
+{ "id": "audio-de-read-a1-062-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-062-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-062-01",
+"question": "Wie heißt der kleine Hund?",
+"reponses": [
+{ "id": "a", "texte": "Bello", "correcte": true },
+{ "id": "b", "texte": "Lukas", "correcte": false },
+{ "id": "c", "texte": "München", "correcte": false },
+{ "id": "d", "texte": "Johann", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-062-02",
+"question": "Welche Farbe hat Bellos Fell?",
+"reponses": [
+{ "id": "a", "texte": "Weiß", "correcte": false },
+{ "id": "b", "texte": "Schwarz", "correcte": false },
+{ "id": "c", "texte": "Braun", "correcte": true },
+{ "id": "d", "texte": "Blau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-062-03",
+"question": "Wo spielen der Autor und Bello?",
+"reponses": [
+{ "id": "a", "texte": "In der Küche", "correcte": false },
+{ "id": "b", "texte": "Im grünen Park", "correcte": true },
+{ "id": "c", "texte": "Im großen Museum", "correcte": false },
+{ "id": "d", "texte": "Am Flughafen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-062-04",
+"question": "Was für einen Gegenstand holt Bello?",
+"reponses": [
+{ "id": "a", "texte": "Einen roten Ball", "correcte": true },
+{ "id": "b", "texte": "Ein deutsches Buch", "correcte": false },
+{ "id": "c", "texte": "Einen alten Schuh", "correcte": false },
+{ "id": "d", "texte": "Eine große Flasche", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-062-05",
+"question": "Wo schläft Bello nach dem Spielen?",
+"reponses": [
+{ "id": "a", "texte": "Im Bett des Autors", "correcte": false },
+{ "id": "b", "texte": "In seinem Körbchen", "correcte": true },
+{ "id": "c", "texte": "Unter dem Baum", "correcte": false },
+{ "id": "d", "texte": "In der Küche", "correcte": false }
+]
+}
+]
+},
+{
+"id": "063",
+"titre": "Die Katze meiner Nachbarin",
+"titre2": "Übung 63",
+"texte": [
+"Die Katze meiner Nachbarin heißt Mimi und ist schwarz.",
+"Sie sitzt oft auf dem hölzernen Zaun im Garten.",
+"Mimi ist sehr ruhig und beobachtet die kleinen Vögel.",
+"Manchmal bekommt sie ein bisschen Milch von mir.",
+"Am Abend geht sie zurück in die warme Wohnung."
+],
+"audios": [
+{ "id": "audio-de-read-a1-063-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-063-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-063-01",
+"question": "Wem gehört die Katze Mimi?",
+"reponses": [
+{ "id": "a", "texte": "Der Nachbarin", "correcte": true },
+{ "id": "b", "texte": "Dem Busfahrer", "correcte": false },
+{ "id": "c", "texte": "Dem Großvater", "correcte": false },
+{ "id": "d", "texte": "Dem Bauern", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-063-02",
+"question": "Welche Farbe hat die Katze?",
+"reponses": [
+{ "id": "a", "texte": "Weiß", "correcte": false },
+{ "id": "b", "texte": "Schwarz", "correcte": true },
+{ "id": "c", "texte": "Braun", "correcte": false },
+{ "id": "d", "texte": "Grau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-063-03",
+"question": "Wo sitzt Mimi oft?",
+"reponses": [
+{ "id": "a", "texte": "Auf dem hölzernen Zaun", "correcte": true },
+{ "id": "b", "texte": "Im roten Auto", "correcte": false },
+{ "id": "c", "texte": "Auf dem Kiosk", "correcte": false },
+{ "id": "d", "texte": "Im großen Stall", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-063-04",
+"question": "Was bekommt Mimi manchmal vom Autor?",
+"reponses": [
+{ "id": "a", "texte": "Ein Stück Pizza", "correcte": false },
+{ "id": "b", "texte": "Ein bisschen Milch", "correcte": true },
+{ "id": "c", "texte": "Einen Apfelkuchen", "correcte": false },
+{ "id": "d", "texte": "Einen Kaffee", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-063-05",
+"question": "Wohin geht Mimi am Abend?",
+"reponses": [
+{ "id": "a", "texte": "In den Park", "correcte": false },
+{ "id": "b", "texte": "Zurück in die warme Wohnung", "correcte": true },
+{ "id": "c", "texte": "Auf den Bauernhof", "correcte": false },
+{ "id": "d", "texte": "Zum Bahnhof", "correcte": false }
+]
+}
+]
+},
+{
+"id": "064",
+"titre": "Ein Tag auf dem Land",
+"titre2": "Übung 64",
+"texte": [
+"Ein Tag auf dem Land ist immer sehr ruhig und schön.",
+"Es gibt keine lauten Autos und keinen Stress.",
+"Ich gehe einen schmalen Weg entlang und genieße das Wetter.",
+"Überall sieht man grüne Felder und alte Bäume.",
+"Am Nachmittag mache ich ein Picknick mit frischem Brot."
+],
+"audios": [
+{ "id": "audio-de-read-a1-064-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-064-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-064-01",
+"question": "Wie ist ein Tag auf dem Land?",
+"reponses": [
+{ "id": "a", "texte": "Sehr laut und stressig", "correcte": false },
+{ "id": "b", "texte": "Ruhig und schön", "correcte": true },
+{ "id": "c", "texte": "Langweilig und kalt", "correcte": false },
+{ "id": "d", "texte": "Gefährlich", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-064-02",
+"question": "Was gibt es auf dem Land nicht?",
+"reponses": [
+{ "id": "a", "texte": "Bäume", "correcte": false },
+{ "id": "b", "texte": "Grünes Gras", "correcte": false },
+{ "id": "c", "texte": "Laute Autos und Stress", "correcte": true },
+{ "id": "d", "texte": "Frische Luft", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-064-03",
+"question": "Welchen Weg geht der Autor entlang?",
+"reponses": [
+{ "id": "a", "texte": "Einen schmalen Weg", "correcte": true },
+{ "id": "b", "texte": "Eine große Autobahn", "correcte": false },
+{ "id": "c", "texte": "Einen Weg im Bahnhof", "correcte": false },
+{ "id": "d", "texte": "Einen nassen Weg", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-064-04",
+"question": "Was sieht man überall?",
+"reponses": [
+{ "id": "a", "texte": "Große Einkaufszentren", "correcte": false },
+{ "id": "b", "texte": "Grüne Felder und alte Bäume", "correcte": true },
+{ "id": "c", "texte": "Flugzeuge am Boden", "correcte": false },
+{ "id": "d", "texte": "Viele neue Bahnhöfe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-064-05",
+"question": "Was macht der Autor am Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Er macht ein Picknick mit frischem Brot", "correcte": true },
+{ "id": "b", "texte": "Er kauft Postkarten", "correcte": false },
+{ "id": "c", "texte": "Er fliegt nach Hause", "correcte": false },
+{ "id": "d", "texte": "Er lernt Vokabeln", "correcte": false }
+]
+}
+]
+},
+{
+"id": "065",
+"titre": "Die Blumen in meinem Garten",
+"titre2": "Übung 065",
+"texte": [
+"In meinem kleinen Garten blühen jetzt viele schöne Blumen.",
+"Es gibt rote Rosen, gelbe Tulpen und weiße Gänseblümchen.",
+"Jeden Morgen gieße ich die Blumen mit frischem Wasser.",
+"Die bunten Blumen riechen sehr gut und sehen wunderbar aus.",
+"Ich sitze gerne auf der Bank und schaue sie an."
+],
+"audios": [
+{ "id": "audio-de-read-a1-065-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-065-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-065-01",
+"question": "Was blüht im kleinen Garten?",
+"reponses": [
+{ "id": "a", "texte": "Große Bäume", "correcte": false },
+{ "id": "b", "texte": "Viele schöne Blumen", "correcte": true },
+{ "id": "c", "texte": "Frisches Heu", "correcte": false },
+{ "id": "d", "texte": "Grüner Salat", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-065-02",
+"question": "Welche Farbe haben die Rosen?",
+"reponses": [
+{ "id": "a", "texte": "Gelb", "correcte": false },
+{ "id": "b", "texte": "Blau", "correcte": false },
+{ "id": "c", "texte": "Rot", "correcte": true },
+{ "id": "d", "texte": "Schwarz", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-065-03",
+"question": "Wann gießt der Autor die Blumen?",
+"reponses": [
+{ "id": "a", "texte": "Jeden Morgen", "correcte": true },
+{ "id": "b", "texte": "Nur am Sonntag", "correcte": false },
+{ "id": "c", "texte": "Spät in der Nacht", "correcte": false },
+{ "id": "d", "texte": "Niemals", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-065-04",
+"question": "Wie riechen die bunten Blumen?",
+"reponses": [
+{ "id": "a", "texte": "Sehr schlecht", "correcte": false },
+{ "id": "b", "texte": "Nach Schokolade", "correcte": false },
+{ "id": "c", "texte": "Überhaupt nicht", "correcte": false },
+{ "id": "d", "texte": "Sehr gut", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-065-05",
+"question": "Wo sitzt der Autor gerne?",
+"reponses": [
+{ "id": "a", "texte": "Auf der Bank", "correcte": true },
+{ "id": "b", "texte": "Im Koffer", "correcte": false },
+{ "id": "c", "texte": "Auf dem Dach", "correcte": false },
+{ "id": "d", "texte": "Im Stall", "correcte": false }
+]
+}
+]
+},
+{
+"id": "066",
+"titre": "Die Bäume im Park",
+"titre2": "Übung 66",
+"texte": [
+"Der Stadtpark hat viele alte und sehr große Bäume.",
+"Im Sommer spenden die grünen Blätter angenehmen Schatten.",
+"Viele Menschen sitzen unter den Bäumen und lesen Bücher.",
+"Kleine Eichhörnchen klettern schnell an den Stämmen hoch.",
+"Die Bäume sind wichtig für die saubere Luft in der Stadt."
+],
+"audios": [
+{ "id": "audio-de-read-a1-066-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-066-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-066-01",
+"question": "Wie sind die Bäume im Stadtpark?",
+"reponses": [
+{ "id": "a", "texte": "Alt und sehr groß", "correcte": true },
+{ "id": "b", "texte": "Neu und ganz klein", "correcte": false },
+{ "id": "c", "texte": "Krank und trocken", "correcte": false },
+{ "id": "d", "texte": "Blau und künstlich", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-066-02",
+"question": "Was spenden die grünen Blätter im Sommer?",
+"reponses": [
+{ "id": "a", "texte": "Regen", "correcte": false },
+{ "id": "b", "texte": "Licht", "correcte": false },
+{ "id": "c", "texte": "Angenehmen Schatten", "correcte": true },
+{ "id": "d", "texte": "Obst", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-066-03",
+"question": "Was machen viele Menschen unter den Bäumen?",
+"reponses": [
+{ "id": "a", "texte": "Sie lesen Bücher", "correcte": true },
+{ "id": "b", "texte": "Sie kochen ein Abendessen", "correcte": false },
+{ "id": "c", "texte": "Sie fahren mit dem Bus", "correcte": false },
+{ "id": "d", "texte": "Sie waschen ihre Kleidung", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-066-04",
+"question": "Welche Tiere klettern an den Stämmen hoch?",
+"reponses": [
+{ "id": "a", "texte": "Kleine Eichhörnchen", "correcte": true },
+{ "id": "b", "texte": "Weiße Schafe", "correcte": false },
+{ "id": "c", "texte": "Große Hunde", "correcte": false },
+{ "id": "d", "texte": "Braune Pferde", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-066-05",
+"question": "Warum sind die Bäume wichtig für die Stadt?",
+"reponses": [
+{ "id": "a", "texte": "Für die saubere Luft", "correcte": true },
+{ "id": "b", "texte": "Weil sie Geld kosten", "correcte": false },
+{ "id": "c", "texte": "Für den Bahnhof", "correcte": false },
+{ "id": "d", "texte": "Für die Autos", "correcte": false }
+]
+}
+]
+},
+{
+"id": "067",
+"titre": "Ein Spaziergang im Wald",
+"titre2": "Übung 67",
+"texte": [
+"Am Sonntag mache ich einen ruhigen Spaziergang im Wald.",
+"Der Wald ist sehr groß, dunkel und angenehm kühl.",
+"Ich höre das leise Rauschen der Blätter im Wind.",
+"Auf dem Boden liegen viele braune Blätter und kleine Stöcke.",
+"Ein Spaziergang im Wald hilft mir, mich zu entspannen."
+],
+"audios": [
+{ "id": "audio-de-read-a1-067-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-067-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-067-01",
+"question": "Wann macht der Autor einen Spaziergang im Wald?",
+"reponses": [
+{ "id": "a", "texte": "Am Montag", "correcte": false },
+{ "id": "b", "texte": "Am Sonntag", "correcte": true },
+{ "id": "c", "texte": "Jeden Morgen", "correcte": false },
+{ "id": "d", "texte": "Am Donnerstag", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-067-02",
+"question": "Wie ist der Wald?",
+"reponses": [
+{ "id": "a", "texte": "Sehr klein und heiß", "correcte": false },
+{ "id": "b", "texte": "Groß, dunkel und angenehm kühl", "correcte": true },
+{ "id": "c", "texte": "Ein schöner weißer Strand", "correcte": false },
+{ "id": "d", "texte": "Voll mit lauten Autos", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-067-03",
+"question": "Was hört der Autor im Wald?",
+"reponses": [
+{ "id": "a", "texte": "Das leise Rauschen der Blätter", "correcte": true },
+{ "id": "b", "texte": "Laute Musik aus dem Radio", "correcte": false },
+{ "id": "c", "texte": "Einen Hund, der bellt", "correcte": false },
+{ "id": "d", "texte": "Den Busfahrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-067-04",
+"question": "Was liegt auf dem Boden?",
+"reponses": [
+{ "id": "a", "texte": "Viele neue Bücher", "correcte": false },
+{ "id": "b", "texte": "Braune Blätter und kleine Stöcke", "correcte": true },
+{ "id": "c", "texte": "Buntes Spielzeug", "correcte": false },
+{ "id": "d", "texte": "Leckere Pizza", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-067-05",
+"question": "Wobei hilft der Spaziergang im Wald dem Autor?",
+"reponses": [
+{ "id": "a", "texte": "Sich zu entspannen", "correcte": true },
+{ "id": "b", "texte": "Schneller zu laufen", "correcte": false },
+{ "id": "c", "texte": "Geld zu sparen", "correcte": false },
+{ "id": "d", "texte": "Deutsch zu lernen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "068",
+"titre": "Vögel am Himmel",
+"titre2": "Übung 68",
+"texte": [
+"Der Himmel ist heute ganz blau und die Sonne scheint.",
+"Ich sehe viele kleine Vögel weit oben am Himmel fliegen.",
+"Sie fliegen zusammen in einer großen Gruppe nach Süden.",
+"Manchmal landen sie auf einem Baum und singen ein Lied.",
+"Es ist sehr schön, den freien Vögeln zuzusehen."
+],
+"audios": [
+{ "id": "audio-de-read-a1-068-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-068-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-068-01",
+"question": "Wie ist der Himmel heute?",
+"reponses": [
+{ "id": "a", "texte": "Dunkel und grau", "correcte": false },
+{ "id": "b", "texte": "Ganz blau", "correcte": true },
+{ "id": "c", "texte": "Es regnet stark", "correcte": false },
+{ "id": "d", "texte": "Grün", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-068-02",
+"question": "Was sieht der Autor am Himmel fliegen?",
+"reponses": [
+{ "id": "a", "texte": "Ein großes Flugzeug", "correcte": false },
+{ "id": "b", "texte": "Viele kleine Vögel", "correcte": true },
+{ "id": "c", "texte": "Einen roten Ball", "correcte": false },
+{ "id": "d", "texte": "Bunte Postkarten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-068-03",
+"question": "Wohin fliegen die Vögel zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Nach Süden", "correcte": true },
+{ "id": "b", "texte": "In die moderne Küche", "correcte": false },
+{ "id": "c", "texte": "Zum Kiosk", "correcte": false },
+{ "id": "d", "texte": "Nach Berlin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-068-04",
+"question": "Was machen die Vögel, wenn sie auf einem Baum landen?",
+"reponses": [
+{ "id": "a", "texte": "Sie schlafen sofort", "correcte": false },
+{ "id": "b", "texte": "Sie singen ein Lied", "correcte": true },
+{ "id": "c", "texte": "Sie essen Schokoladeneis", "correcte": false },
+{ "id": "d", "texte": "Sie rufen den Bauern", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-068-05",
+"question": "Wie findet der Autor es, den Vögeln zuzusehen?",
+"reponses": [
+{ "id": "a", "texte": "Sehr schön", "correcte": true },
+{ "id": "b", "texte": "Langweilig", "correcte": false },
+{ "id": "c", "texte": "Anstrengend", "correcte": false },
+{ "id": "d", "texte": "Schlecht", "correcte": false }
+]
+}
+]
+},
+{
+"id": "069",
+"titre": "Das Leben der Bienen",
+"titre2": "Übung 69",
+"texte": [
+"Bienen sind sehr kleine, aber sehr fleißige Insekten.",
+"Sie fliegen von Blume zu Blume und suchen süßen Nektar.",
+"Aus dem Nektar machen die Bienen im Bienenstock leckeren Honig.",
+"Honig schmeckt wunderbar auf einem frischen Brötchen zum Frühstück.",
+"Wir müssen die Bienen schützen, weil sie wichtig für die Natur sind."
+],
+"audios": [
+{ "id": "audio-de-read-a1-069-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-069-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-069-01",
+"question": "Was für Insekten sind Bienen?",
+"reponses": [
+{ "id": "a", "texte": "Sehr große Tiere", "correcte": false },
+{ "id": "b", "texte": "Kleine, aber sehr fleißige Insekten", "correcte": true },
+{ "id": "c", "texte": "Gefährliche Vögel", "correcte": false },
+{ "id": "d", "texte": "Fische im Meer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-069-02",
+"question": "Was suchen die Bienen auf den Blumen?",
+"reponses": [
+{ "id": "a", "texte": "Süßen Nektar", "correcte": true },
+{ "id": "b", "texte": "Kaltes Wasser", "correcte": false },
+{ "id": "c", "texte": "Kleine Stöcke", "correcte": false },
+{ "id": "d", "texte": "Braune Blätter", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-069-03",
+"question": "Was machen die Bienen aus dem Nektar?",
+"reponses": [
+{ "id": "a", "texte": "Milch", "correcte": false },
+{ "id": "b", "texte": "Kaffee", "correcte": false },
+{ "id": "c", "texte": "Leckeren Honig", "correcte": true },
+{ "id": "d", "texte": "Salat", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-069-04",
+"question": "Wann schmeckt Honig laut Text besonders gut?",
+"reponses": [
+{ "id": "a", "texte": "Auf einem frischen Brötchen zum Frühstück", "correcte": true },
+{ "id": "b", "texte": "In einem Hähnchengericht", "correcte": false },
+{ "id": "c", "texte": "Auf einer Pizza", "correcte": false },
+{ "id": "d", "texte": "Im Tee am Abend", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-069-05",
+"question": "Warum müssen wir die Bienen schützen?",
+"reponses": [
+{ "id": "a", "texte": "Weil sie wichtig für die Natur sind", "correcte": true },
+{ "id": "b", "texte": "Weil sie sehr teuer sind", "correcte": false },
+{ "id": "c", "texte": "Weil sie im Stall wohnen", "correcte": false },
+{ "id": "d", "texte": "Weil sie fliegen können", "correcte": false }
+]
+}
+]
+},
+{
 "id": "070",
 "titre": "Unsere Umwelt schützen",
 "titre2": "Übung 70",
@@ -2203,6 +6615,686 @@
 { "id": "b", "texte": "Sofort am Morgen", "correcte": false },
 { "id": "c", "texte": "Nächstes Jahr im Dezember", "correcte": false },
 { "id": "d", "texte": "Gar nicht mehr", "correcte": false }
+]
+}
+]
+},
+{
+"id": "091",
+"titre": "Mein neuer Freund",
+"titre2": "Übung 91",
+"texte": [
+"In meinem Deutschkurs habe ich einen neuen Freund gefunden.",
+"Sein Name ist Thomas und er kommt aus einer kleinen Stadt in Spanien.",
+"Er ist sehr sympathisch, lustig und spricht schon gut Deutsch.",
+"Am Nachmittag trinken wir oft zusammen einen heißen Kaffee.",
+"Wir lernen die neuen Vokabeln gemeinsam und machen Hausaufgaben."
+],
+"audios": [
+{ "id": "audio-de-read-a1-091-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-091-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-091-01",
+"question": "Wo hat der Autor seinen neuen Freund gefunden?",
+"reponses": [
+{ "id": "a", "texte": "Im großen Zug nach Berlin", "correcte": false },
+{ "id": "b", "texte": "In seinem Deutschkurs", "correcte": true },
+{ "id": "c", "texte": "Am weißen Sandstrand", "correcte": false },
+{ "id": "d", "texte": "In einer Apotheke", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-091-02",
+"question": "Wie heißt der neue Freund?",
+"reponses": [
+{ "id": "a", "texte": "Thomas", "correcte": true },
+{ "id": "b", "texte": "Bello", "correcte": false },
+{ "id": "c", "texte": "Lukas", "correcte": false },
+{ "id": "d", "texte": "Mimi", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-091-03",
+"question": "Woher kommt Thomas?",
+"reponses": [
+{ "id": "a", "texte": "Aus Deutschland", "correcte": false },
+{ "id": "b", "texte": "Aus Frankreich", "correcte": false },
+{ "id": "c", "texte": "Aus Spanien", "correcte": true },
+{ "id": "d", "texte": "Aus England", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-091-04",
+"question": "Was machen die beiden Freunde am Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Sie trinken zusammen Kaffee", "correcte": true },
+{ "id": "b", "texte": "Sie schlafen im weichen Bett", "correcte": false },
+{ "id": "c", "texte": "Sie kaufen ein neues Auto", "correcte": false },
+{ "id": "d", "texte": "Sie fliegen mit dem Flugzeug", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-091-05",
+"question": "Was lernen sie gemeinsam?",
+"reponses": [
+{ "id": "a", "texte": "Die neuen Vokabeln", "correcte": true },
+{ "id": "b", "texte": "Das Kochen von Hähnchen", "correcte": false },
+{ "id": "c", "texte": "Das Fußballspielen", "correcte": false },
+{ "id": "d", "texte": "Die Abfahrtszeiten", "correcte": false }
+]
+}
+]
+},
+{
+"id": "092",
+"titre": "Eine Einladung zur Party",
+"titre2": "Übung 92",
+"texte": [
+"Gestern habe ich eine liebe Einladung von Sarah bekommen.",
+"Sie feiert am nächsten Samstag ihren Geburtstag in einer großen Wohnung.",
+"Die Party beginnt um achtzehn Uhr und alle Freunde kommen.",
+"Ich muss noch ein schönes Geschenk für sie im Einkaufszentrum kaufen.",
+"Ich backe auch einen leckeren Kuchen und bringe ihn mit."
+],
+"audios": [
+{ "id": "audio-de-read-a1-092-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-092-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-092-01",
+"question": "Von wem hat der Autor eine Einladung bekommen?",
+"reponses": [
+{ "id": "a", "texte": "Von der Nachbarin", "correcte": false },
+{ "id": "b", "texte": "Von Sarah", "correcte": true },
+{ "id": "c", "texte": "Vom alten Bauern", "correcte": false },
+{ "id": "d", "texte": "Vom Arzt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-092-02",
+"question": "Was feiert Sarah am nächsten Samstag?",
+"reponses": [
+{ "id": "a", "texte": "Ihren Geburtstag", "correcte": true },
+{ "id": "b", "texte": "Ihre erste Zugreise", "correcte": false },
+{ "id": "c", "texte": "Ihre neuen Schuhe", "correcte": false },
+{ "id": "d", "texte": "Das Ende des Winters", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-092-03",
+"question": "Um wie viel Uhr beginnt die Party?",
+"reponses": [
+{ "id": "a", "texte": "Um sechs Uhr morgens", "correcte": false },
+{ "id": "b", "texte": "Um achtzehn Uhr", "correcte": true },
+{ "id": "c", "texte": "Um zweiundzwanzig Uhr", "correcte": false },
+{ "id": "d", "texte": "Mittags um zwölf Uhr", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-092-04",
+"question": "Wo kauft der Autor das Geschenk?",
+"reponses": [
+{ "id": "a", "texte": "Am Kiosk im Bahnhof", "correcte": false },
+{ "id": "b", "texte": "Im Einkaufszentrum", "correcte": true },
+{ "id": "c", "texte": "In der Apotheke", "correcte": false },
+{ "id": "d", "texte": "Auf dem Bauernhof", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-092-05",
+"question": "Was bringt der Autor zusätzlich mit?",
+"reponses": [
+{ "id": "a", "texte": "Einen leckeren Kuchen", "correcte": true },
+{ "id": "b", "texte": "Eine Flasche Milch", "correcte": false },
+{ "id": "c", "texte": "Einen roten Ball", "correcte": false },
+{ "id": "d", "texte": "Einen neuen Schal", "correcte": false }
+]
+}
+]
+},
+{
+"id": "093",
+"titre": "Bei meinen Großeltern",
+"titre2": "Übung 93",
+"texte": [
+"Ich bin sehr gerne bei meinen Großeltern im kleinen Haus.",
+"Sie erzählen mir immer viele spannende Geschichten aus der alten Zeit.",
+"Mein Großvater arbeitet im Garten und zeigt mir das frische Gemüse.",
+"Meine Großmutter kocht eine köstliche, heiße Hühnersuppe für uns alle.",
+"Am Abend trinken wir zusammen warmen Tee im gemütlichen Wohnzimmer."
+],
+"audios": [
+{ "id": "audio-de-read-a1-093-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-093-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-093-01",
+"question": "Was erzählen die Großeltern dem Autor?",
+"reponses": [
+{ "id": "a", "texte": "Die Abfahrtszeiten der Züge", "correcte": false },
+{ "id": "b", "texte": "Viele spannende Geschichten", "correcte": true },
+{ "id": "c", "texte": "Das aktuelle Wetter in Berlin", "correcte": false },
+{ "id": "d", "texte": "Nichts, sie schlafen sofort", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-093-02",
+"question": "Wo arbeitet der Großvater?",
+"reponses": [
+{ "id": "a", "texte": "In einer großen Fabrik", "correcte": false },
+{ "id": "b", "texte": "Im Garten", "correcte": true },
+{ "id": "c", "texte": "Im Wartezimmer", "correcte": false },
+{ "id": "d", "texte": "Auf dem Flughafen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-093-03",
+"question": "Was zeigt der Großvater dem Autor?",
+"reponses": [
+{ "id": "a", "texte": "Seinen alten Koffer", "correcte": false },
+{ "id": "b", "texte": "Das frische Gemüse", "correcte": true },
+{ "id": "c", "texte": "Sein neues Fahrrad", "correcte": false },
+{ "id": "d", "texte": "Ein Foto von Thomas", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-093-04",
+"question": "Was kocht die Großmutter für die Familie?",
+"reponses": [
+{ "id": "a", "texte": "Eine Käsepizza mit Oliven", "correcte": false },
+{ "id": "b", "texte": "Eine köstliche Hühnersuppe", "correcte": true },
+{ "id": "c", "texte": "Einen Gurkensalat", "correcte": false },
+{ "id": "d", "texte": "Ein einfaches Ei-Omelett", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-093-05",
+"question": "Wo trinken sie am Abend den warmen Tee?",
+"reponses": [
+{ "id": "a", "texte": "Im gemütlichen Wohnzimmer", "correcte": true },
+{ "id": "b", "texte": "Unter einem großen Baum", "correcte": false },
+{ "id": "c", "texte": "In der modernen Küche", "correcte": false },
+{ "id": "d", "texte": "Auf der Straße vor dem Haus", "correcte": false }
+]
+}
+]
+},
+{
+"id": "094",
+"titre": "Ein Brief an meinen Freund",
+"titre2": "Übung 94",
+"texte": [
+"Heute schreibe ich einen langen Brief an meinen besten Freund.",
+"Er wohnt jetzt in Berlin und ich vermisse ihn sehr.",
+"Ich schreibe mit einem blauen Stift auf ein weißes Papier.",
+"Ich erzähle ihm von meiner Arbeit und meinem kleinen Hund.",
+"Am Ende stecke ich den Brief in einen Umschlag mit einer Briefmarke."
+],
+"audios": [
+{ "id": "audio-de-read-a1-094-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-094-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-094-01",
+"question": "An wen schreibt der Autor einen Brief?",
+"reponses": [
+{ "id": "a", "texte": "An seine Großmutter", "correcte": false },
+{ "id": "b", "texte": "An seinen besten Freund", "correcte": true },
+{ "id": "c", "texte": "An die Polizei", "correcte": false },
+{ "id": "d", "texte": "An die Sprechstundenhilfe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-094-02",
+"question": "Wo wohnt der Freund jetzt?",
+"reponses": [
+{ "id": "a", "texte": "In München", "correcte": false },
+{ "id": "b", "texte": "In Berlin", "correcte": true },
+{ "id": "c", "texte": "In Spanien", "correcte": false },
+{ "id": "d", "texte": "Auf dem Dorf", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-094-03",
+"question": "Womit schreibt der Autor den Brief?",
+"reponses": [
+{ "id": "a", "texte": "Mit einem Computer im Büro", "correcte": false },
+{ "id": "b", "texte": "Mit einem blauen Stift", "correcte": true },
+{ "id": "c", "texte": "Mit einer Zahnbürste", "correcte": false },
+{ "id": "d", "texte": "Mit einem Stück Holz", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-094-04",
+"question": "Worüber erzählt der Autor im Brief?",
+"reponses": [
+{ "id": "a", "texte": "Von der Arbeit und dem Hund", "correcte": true },
+{ "id": "b", "texte": "Vom Rezept für Tabletten", "correcte": false },
+{ "id": "c", "texte": "Vom Wetter im Dezember", "correcte": false },
+{ "id": "d", "texte": "Von den Bienen im Garten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-094-05",
+"question": "Was kommt auf den Umschlag am Ende?",
+"reponses": [
+{ "id": "a", "texte": "Eine Briefmarke", "correcte": true },
+{ "id": "b", "texte": "Ein kleines Schokoladeneis", "correcte": false },
+{ "id": "c", "texte": "Ein Foto von der Kirche", "correcte": false },
+{ "id": "d", "texte": "Ein roter Ball", "correcte": false }
+]
+}
+]
+},
+{
+"id": "095",
+"titre": "Ein Telefongespräch",
+"titre2": "Übung 95",
+"texte": [
+"Mein Smartphone klingelt am Nachmittag laut im Wohnzimmer.",
+"Ich nehme das Telefon und höre die Stimme meiner Mutter.",
+"Sie fragt mich: Hallo, wie geht es dir heute in der Stadt?",
+"Ich antworte: Danke, mir geht es sehr gut, ich lerne viel Deutsch.",
+"Wir sprechen zehn Minuten lang und sagen am Ende Auf Wiedersehen."
+],
+"audios": [
+{ "id": "audio-de-read-a1-095-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-095-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-095-01",
+"question": "Was klingelt am Nachmittag laut?",
+"reponses": [
+{ "id": "a", "texte": "Der Wecker im Schlafzimmer", "correcte": false },
+{ "id": "b", "texte": "Mein Smartphone", "correcte": true },
+{ "id": "c", "texte": "Die alte Kirche", "correcte": false },
+{ "id": "d", "texte": "Der rote Bus", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-095-02",
+"question": "Wessen Stimme hört der Autor?",
+"reponses": [
+{ "id": "a", "texte": "Die Stimme des Lehrers", "correcte": false },
+{ "id": "b", "texte": "Die Stimme seiner Mutter", "correcte": true },
+{ "id": "c", "texte": "Die Stimme der Zahnärztin", "correcte": false },
+{ "id": "d", "texte": "Die Stimme von Sarah", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-095-03",
+"question": "Was möchte die Mutter wissen?",
+"reponses": [
+{ "id": "a", "texte": "Wie es dem Autor geht", "correcte": true },
+{ "id": "b", "texte": "Wann der nächste Zug kommt", "correcte": false },
+{ "id": "c", "texte": "Wo die Apotheke liegt", "correcte": false },
+{ "id": "d", "texte": "Wie viel Uhr es ist", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-095-04",
+"question": "Welche Sprache lernt der Autor viel?",
+"reponses": [
+{ "id": "a", "texte": "Spanisch", "correcte": false },
+{ "id": "b", "texte": "Deutsch", "correcte": true },
+{ "id": "c", "texte": "Französisch", "correcte": false },
+{ "id": "d", "texte": "Englisch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-095-05",
+"question": "Wie lange sprechen sie am Telefon?",
+"reponses": [
+{ "id": "a", "texte": "Zwei Stunden lang", "correcte": false },
+{ "id": "b", "texte": "Zehn Minuten lang", "correcte": true },
+{ "id": "c", "texte": "Nur eine Sekunde", "correcte": false },
+{ "id": "d", "texte": "Den ganzen Abend", "correcte": false }
+]
+}
+]
+},
+{
+"id": "096",
+"titre": "Das Dorffest",
+"titre2": "Übung 96",
+"texte": [
+"Einmal im Jahr feiern alle Menschen zusammen ein großes Dorffest.",
+"Auf dem Marktplatz gibt es laute Musik, Tische und Bänke.",
+"Die Leute sprechen fröhlich miteinander, lachen und tanzen.",
+"Es gibt leckeres Essen vom Grill und kalte Getränke.",
+"Das Fest dauert bis in die Nacht und ist sehr schön."
+],
+"audios": [
+{ "id": "audio-de-read-a1-096-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-096-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-096-01",
+"question": "Wie oft wird das Dorffest gefeiert?",
+"reponses": [
+{ "id": "a", "texte": "Jeden Sonntag", "correcte": false },
+{ "id": "b", "texte": "Einmal im Jahr", "correcte": true },
+{ "id": "c", "texte": "Zweimal in der Woche", "correcte": false },
+{ "id": "d", "texte": "Nur im kalten Winter", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-096-02",
+"question": "Wo stehen die Tische und Bänke?",
+"reponses": [
+{ "id": "a", "texte": "Im dunklen Wald", "correcte": false },
+{ "id": "b", "texte": "Auf dem Marktplatz", "correcte": true },
+{ "id": "c", "texte": "Im großen Museum", "correcte": false },
+{ "id": "d", "texte": "In der Küche des Autors", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-096-03",
+"question": "Was machen die Leute auf dem Fest?",
+"reponses": [
+{ "id": "a", "texte": "Sie schlafen unter den Bäumen", "correcte": false },
+{ "id": "b", "texte": "Sie sprechen, lachen und tanzen", "correcte": true },
+{ "id": "c", "texte": "Sie arbeiten im Büro", "correcte": false },
+{ "id": "d", "texte": "Sie suchen eine Zahnärztin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-096-04",
+"question": "Was für ein Essen gibt es laut Text?",
+"reponses": [
+{ "id": "a", "texte": "Leckeres Essen vom Grill", "correcte": true },
+{ "id": "b", "texte": "Nur Schokoladeneis vom Kiosk", "correcte": false },
+{ "id": "c", "texte": "Eine kalte Suppe mit Obst", "correcte": false },
+{ "id": "d", "texte": "Gras für die Schafe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-096-05",
+"question": "Bis wann dauert das Dorffest?",
+"reponses": [
+{ "id": "a", "texte": "Bis mittags um zwölf Uhr", "correcte": false },
+{ "id": "b", "texte": "Bis in die Nacht", "correcte": true },
+{ "id": "c", "texte": "Nur fünf Minuten lang", "correcte": false },
+{ "id": "d", "texte": "Bis zum nächsten Winter", "correcte": false }
+]
+}
+]
+},
+{
+"id": "097",
+"titre": "Einem Nachbarn helfen",
+"titre2": "Übung 97",
+"texte": [
+"Mein Nachbar ist ein sehr alter Mann und heißt Herr Schmidt.",
+"Er kann heute seine schweren Einkaufstüten nicht gut tragen.",
+"Ich treffe ihn an der Haustür und helfe ihm gerne.",
+"Ich trage die großen Taschen die Treppe hoch in seine Wohnung.",
+"Er dankt mir freundlich und gibt mir einen roten Apfel."
+],
+"audios": [
+{ "id": "audio-de-read-a1-097-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-097-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-097-01",
+"question": "Wie heißt der alte Nachbar?",
+"reponses": [
+{ "id": "a", "texte": "Thomas", "correcte": false },
+{ "id": "b", "texte": "Herr Schmidt", "correcte": true },
+{ "id": "c", "texte": "Bello", "correcte": false },
+{ "id": "d", "texte": "Lukas", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-097-02",
+"question": "Was kann der Nachbar heute nicht gut tragen?",
+"reponses": [
+{ "id": "a", "texte": "Seinen großen Koffer", "correcte": false },
+{ "id": "b", "texte": "Seine schweren Einkaufstüten", "correcte": true },
+{ "id": "c", "texte": "Sein neues Fahrrad", "correcte": false },
+{ "id": "d", "texte": "Einen hölzernen Zaun", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-097-03",
+"question": "Wo trifft der Autor den alten Mann?",
+"reponses": [
+{ "id": "a", "texte": "An der Haustür", "correcte": true },
+{ "id": "b", "texte": "Am Kiosk im Bahnhof", "correcte": false },
+{ "id": "c", "texte": "Mitten im Wald", "correcte": false },
+{ "id": "d", "texte": "An einem weißen Strand", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-097-04",
+"question": "Wohin trägt der Autor die großen Taschen?",
+"reponses": [
+{ "id": "a", "texte": "Die Treppe hoch in seine Wohnung", "correcte": true },
+{ "id": "b", "texte": "In den grünen Stadtpark", "correcte": false },
+{ "id": "c", "texte": "Zurück in den Supermarkt", "correcte": false },
+{ "id": "d", "texte": "In das Wartezimmer beim Arzt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-097-05",
+"question": "Was gibt Herr Schmidt dem Autor am Ende?",
+"reponses": [
+{ "id": "a", "texte": "Einen roten Apfel", "correcte": true },
+{ "id": "b", "texte": "Ein Rezept für Tabletten", "correcte": false },
+{ "id": "c", "texte": "Eine Fahrkarte für die Zone", "correcte": false },
+{ "id": "d", "texte": "Ein bisschen Milch", "correcte": false }
+]
+}
+]
+},
+{
+"id": "098",
+"titre": "Ein Besuch bei einer Freundin",
+"titre2": "Übung 98",
+"texte": [
+"Heute Nachmittag besuche ich meine gute Freundin Anna.",
+"Sie wohnt in einer gemütlichen Wohnung im Zentrum der Stadt.",
+"Wir sitzen zusammen am großen Tisch in der hellen Küche.",
+"Anna zeigt mir ihre neuen Urlaubsfotos aus Frankreich.",
+"Wir sprechen über unsere Freunde und lachen sehr viel."
+],
+"audios": [
+{ "id": "audio-de-read-a1-098-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-098-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-098-01",
+"question": "Welche Freundin besucht der Autor heute Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Sarah", "correcte": false },
+{ "id": "b", "texte": "Anna", "correcte": true },
+{ "id": "c", "texte": "Mimi", "correcte": false },
+{ "id": "d", "texte": "Die Nachbarin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-098-02",
+"question": "Wo liegt die gemütliche Wohnung von Anna?",
+"reponses": [
+{ "id": "a", "texte": "Auf dem Land weit weg", "correcte": false },
+{ "id": "b", "texte": "Im Zentrum der Stadt", "correcte": true },
+{ "id": "c", "texte": "Neben dem großen Bauernhof", "correcte": false },
+{ "id": "d", "texte": "Am großen Flughafen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-098-03",
+"question": "In welchem Raum sitzen die beiden Freunde am Tisch?",
+"reponses": [
+{ "id": "a", "texte": "In der hellen Küche", "correcte": true },
+{ "id": "b", "texte": "Im dunklen Keller", "correcte": false },
+{ "id": "c", "texte": "Im Schlafzimmer", "correcte": false },
+{ "id": "d", "texte": "Im Badezimmer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-098-04",
+"question": "Aus welchem Land stammen die Urlaubsfotos?",
+"reponses": [
+{ "id": "a", "texte": "Aus Deutschland", "correcte": false },
+{ "id": "b", "texte": "Aus Frankreich", "correcte": true },
+{ "id": "c", "texte": "Aus Spanien", "correcte": false },
+{ "id": "d", "texte": "Aus England", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-098-05",
+"question": "Was machen der Autor und Anna zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Sie sprechen und lachen sehr viel", "correcte": true },
+{ "id": "b", "texte": "Sie putzen die Zähne mit Seife", "correcte": false },
+{ "id": "c", "texte": "Sie schlafen den ganzen Tag", "correcte": false },
+{ "id": "d", "texte": "Sie machen ein schweres Picknick", "correcte": false }
+]
+}
+]
+},
+{
+"id": "099",
+"titre": "Hallo und Auf Wiedersehen sagen",
+"titre2": "Übung 99",
+"texte": [
+"In Deutschland ist die richtige Begrüßung im Alltag wichtig.",
+"Wenn ich meine Freunde treffe, sage ich immer freundlich Hallo.",
+"Bei älteren Personen oder im Büro sagt man besser Guten Tag.",
+"Wenn man ein Geschäft oder eine Praxis verlässt, sagt man Auf Wiedersehen.",
+"Diese einfachen Wörter zeigen Respekt und machen das Leben nett."
+],
+"audios": [
+{ "id": "audio-de-read-a1-099-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-099-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-099-01",
+"question": "Was sagt der Autor, wenn er seine Freunde trifft?",
+"reponses": [
+{ "id": "a", "texte": "Auf Wiedersehen", "correcte": false },
+{ "id": "b", "texte": "Hallo", "correcte": true },
+{ "id": "c", "texte": "Guten Tag", "correcte": false },
+{ "id": "d", "texte": "Nichts, er geht weiter", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-099-02",
+"question": "Was sagt man besser zu älteren Personen oder im Büro?",
+"reponses": [
+{ "id": "a", "texte": "Tschüss", "correcte": false },
+{ "id": "b", "texte": "Guten Tag", "correcte": true },
+{ "id": "c", "texte": "Hallo, mein Freund", "correcte": false },
+{ "id": "d", "texte": "Gute Nacht", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-099-03",
+"question": "Wann sagt man laut Text Auf Wiedersehen?",
+"reponses": [
+{ "id": "a", "texte": "Wenn man ein Geschäft verlässt", "correcte": true },
+{ "id": "b", "texte": "Wenn man am Morgen aufwacht", "correcte": false },
+{ "id": "c", "texte": "Wenn das Smartphone klingelt", "correcte": false },
+{ "id": "d", "texte": "Beim Essen in der Küche", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-099-04",
+"question": "Was zeigen diese einfachen Wörter laut Text?",
+"reponses": [
+{ "id": "a", "texte": "Dass man kein Deutsch kann", "correcte": false },
+{ "id": "b", "texte": "Respekt", "correcte": true },
+{ "id": "c", "texte": "Dass das Ticket teuer ist", "correcte": false },
+{ "id": "d", "texte": "Dass man krank im Bett liegt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-099-05",
+"question": "In welchem Land ist diese Begrüßung wichtig laut Text?",
+"reponses": [
+{ "id": "a", "texte": "In Spanien", "correcte": false },
+{ "id": "b", "texte": "In Deutschland", "correcte": true },
+{ "id": "c", "texte": "In Frankreich", "correcte": false },
+{ "id": "d", "texte": "In England", "correcte": false }
+]
+}
+]
+},
+{
+"id": "100",
+"titre": "Mein erster Tag in einer neuen Stadt",
+"titre2": "Übung 100",
+"texte": [
+"Heute ist mein absolut erster Tag in der großen Stadt Hamburg.",
+"Alles ist völlig neu für mich und die Straßen sind sehr breit.",
+"Ich nehme eine Stadtkarte aus meiner Tasche und suche den Weg.",
+"Die Menschen hier sind glücklicherweise sehr freundlich und helfen mir.",
+"Ich bin sehr froh und freue mich auf mein neues Leben hier."
+],
+"audios": [
+{ "id": "audio-de-read-a1-100-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-100-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-100-01",
+"question": "In welcher neuen Stadt befindet sich der Autor heute?",
+"reponses": [
+{ "id": "a", "texte": "In Berlin", "correcte": false },
+{ "id": "b", "texte": "In Hamburg", "correcte": true },
+{ "id": "c", "texte": "In München", "correcte": false },
+{ "id": "d", "texte": "In Spanien auf dem Dorf", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-100-02",
+"question": "Wie sind die Straßen in dieser Stadt?",
+"reponses": [
+{ "id": "a", "texte": "Sehr schmal und dunkel", "correcte": false },
+{ "id": "b", "texte": "Sehr breit", "correcte": true },
+{ "id": "c", "texte": "Voll mit nassen Blättern", "correcte": false },
+{ "id": "d", "texte": "Es gibt gar keine Straßen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-100-03",
+"question": "Was nimmt der Autor aus seiner Tasche?",
+"reponses": [
+{ "id": "a", "texte": "Einen großen, gelben Regenschirm", "correcte": false },
+{ "id": "b", "texte": "Eine Stadtkarte", "correcte": true },
+{ "id": "c", "texte": "Ein Stück Apfelkuchen", "correcte": false },
+{ "id": "d", "texte": "Seinen blauen Stift", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-100-04",
+"question": "Wie sind die Menschen in Hamburg zum Autor?",
+"reponses": [
+{ "id": "a", "texte": "Sehr unfreundlich und laut", "correcte": false },
+{ "id": "b", "texte": "Sehr freundlich und helfen ihm", "correcte": true },
+{ "id": "c", "texte": "Sie sprechen kein Wort Deutsch", "correcte": false },
+{ "id": "d", "texte": "Sie haben alle Angst", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-100-05",
+"question": "Wie fühlt sich der Autor am Ende dieses Tages?",
+"reponses": [
+{ "id": "a", "texte": "Sehr froh und freut sich auf das neue Leben", "correcte": true },
+{ "id": "b", "texte": "Krank mit hohem Fieber im Bett", "correcte": false },
+{ "id": "c", "texte": "Extrem traurig, müde und wütend", "correcte": false },
+{ "id": "d", "texte": "Nervös wegen des schmalen Weges", "correcte": false }
 ]
 }
 ]
