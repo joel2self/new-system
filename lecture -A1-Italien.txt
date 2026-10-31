@@ -1358,5 +1358,686 @@
 ]
 }
 ]
+},
+{
+"id": "121",
+"titre": "Al supermercato",
+"titre2": "Esercizio 121",
+"texte": [
+"Oggi vado al grande supermercato vicino alla stazione.",
+"Prendo un carrello metallico all'ingresso e inizio a camminare.",
+"Cerco la pasta, il pomodoro e una bottiglia di olio.",
+"Ci sono molti prodotti sugli scaffali alti della corsia.",
+"Pago tutto alla cassa con la mia carta di credito."
+],
+"audios": [
+{ "id": "audio-it-read-a1-121-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-121-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-121-01",
+"question": "Dove si trova il supermercato?",
+"reponses": [
+{ "id": "a", "texte": "Vicino alla stazione", "correcte": true },
+{ "id": "b", "texte": "In mezzo al bosco", "correcte": false },
+{ "id": "c", "texte": "Dentro la scuola", "correcte": false },
+{ "id": "d", "texte": "All'aeroporto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-121-02",
+"question": "Cosa prende il protagonista all'ingresso?",
+"reponses": [
+{ "id": "a", "texte": "Un grande libro", "correcte": false },
+{ "id": "b", "texte": "Un carrello metallico", "correcte": true },
+{ "id": "c", "texte": "Un gelato freddo", "correcte": false },
+{ "id": "d", "texte": "Uno zaino blu", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-121-03",
+"question": "Quali prodotti cerca il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "La pasta, il pomodoro e l'olio", "correcte": true },
+{ "id": "b", "texte": "Delle scarpe da corsa", "correcte": false },
+{ "id": "c", "texte": "Le medicine per il mal di testa", "correcte": false },
+{ "id": "d", "texte": "I giocattoli per i bambini", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-121-04",
+"question": "Dove si trovano i prodotti?",
+"reponses": [
+{ "id": "a", "texte": "Sotto la cassa", "correcte": false },
+{ "id": "b", "texte": "Sugli scaffali alti", "correcte": true },
+{ "id": "c", "texte": "Nel carrello del vicino", "correcte": false },
+{ "id": "d", "texte": "Per terra", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-121-04",
+"question": "Come paga la spesa alla fine?",
+"reponses": [
+{ "id": "a", "texte": "Con la carta di credito", "correcte": true },
+{ "id": "b", "texte": "Con un libro antico", "correcte": false },
+{ "id": "c", "texte": "Con una mela rossa", "correcte": false },
+{ "id": "d", "texte": "Non paga e scappa", "correcte": false }
+]
+}
+]
+},
+{
+"id": "122",
+"titre": "Al mercato del villaggio",
+"titre2": "Esercizio 122",
+"texte": [
+"Il sabato mattina c'è sempre il mercato nel mio villaggio.",
+"La piazza principale si riempie di bancarelle colorate.",
+"I contadini vendono verdura fresca e formaggio delizioso.",
+"Mi piace parlare con le persone e sentire i profumi.",
+"Compro un pezzo di pane cotto a legna prima di tornare."
+],
+"audios": [
+{ "id": "audio-it-read-a1-122-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-122-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-122-01",
+"question": "In quale giorno c'è il mercato nel villaggio?",
+"reponses": [
+{ "id": "a", "texte": "Il lunedì sera", "correcte": false },
+{ "id": "b", "texte": "Il sabato mattina", "correcte": true },
+{ "id": "c", "texte": "La domenica notte", "correcte": false },
+{ "id": "d", "texte": "Il mercoledì pomeriggio", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-122-02",
+"question": "Cosa si trova nella piazza principale?",
+"reponses": [
+{ "id": "a", "texte": "Molte automobili veloci", "correcte": false },
+{ "id": "b", "texte": "Delle bancarelle colorate", "correcte": true },
+{ "id": "c", "texte": "Un grande ospedale", "correcte": false },
+{ "id": "d", "texte": "Una scuola chiusa", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-122-03",
+"question": "Chi vende i prodotti al mercato?",
+"reponses": [
+{ "id": "a", "texte": "I contadini", "correcte": true },
+{ "id": "b", "texte": "Il professore Rossi", "correcte": false },
+{ "id": "c", "texte": "La bibliotecaria", "correcte": false },
+{ "id": "d", "texte": "I medici della mutua", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-122-04",
+"question": "Cosa vendono i contadini?",
+"reponses": [
+{ "id": "a", "texte": "Quaderni e penne blu", "correcte": false },
+{ "id": "b", "texte": "Verdura fresca e formaggio delizioso", "correcte": true },
+{ "id": "c", "texte": "Vestiti invernali pesanti", "correcte": false },
+{ "id": "d", "texte": "Medicine", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-122-05",
+"question": "Cosa compra il protagonista prima di tornare?",
+"reponses": [
+{ "id": "a", "texte": "Un pezzo di pane cotto a legna", "correcte": true },
+{ "id": "b", "texte": "Un chilo di arance", "correcte": false },
+{ "id": "c", "texte": "Una bottiglia di vino rosso", "correcte": false },
+{ "id": "d", "texte": "Un paio di stivali", "correcte": false }
+]
+}
+]
+},
+{
+"id": "123",
+"titre": "Comprare la frutta",
+"titre2": "Esercizio 123",
+"texte": [
+"Vado dal fruttivendolo d'angolo per comprare la frutta fresca.",
+"Oggi le mele rosse e le banane gialle sono molto belle.",
+"Prendo anche un chilo di arance succose per fare la spremuta.",
+"Il commesso pesa tutta la mia frutta su una grande bilancia.",
+"Metto il sacchetto nello zaino e pago tre euro in totale."
+],
+"audios": [
+{ "id": "audio-it-read-a1-123-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-123-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-123-01",
+"question": "Da quale negozio va il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Dal panettiere", "correcte": false },
+{ "id": "b", "texte": "Dal fruttivendolo", "correcte": true },
+{ "id": "c", "texte": "In farmacia", "correcte": false },
+{ "id": "d", "texte": "In biblioteca", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-123-02",
+"question": "Di quale colore sono le banane oggi?",
+"reponses": [
+{ "id": "a", "texte": "Rosse", "correcte": false },
+{ "id": "b", "texte": "Gialle", "correcte": true },
+{ "id": "c", "texte": "Verdi", "correcte": false },
+{ "id": "d", "texte": "Blu", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-123-03",
+"question": "Quante arance compra il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Due arance soltanto", "correcte": false },
+{ "id": "b", "texte": "Un chilo di arance", "correcte": true },
+{ "id": "c", "texte": "Cinque chili", "correcte": false },
+{ "id": "d", "texte": "Nessuna arancia", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-123-04",
+"question": "Cosa usa il commesso per pesare la frutta?",
+"reponses": [
+{ "id": "a", "texte": "Una grande bilancia", "correcte": true },
+{ "id": "b", "texte": "Un tavolo di legno", "correcte": false },
+{ "id": "c", "texte": "Un carrello metallico", "correcte": false },
+{ "id": "d", "texte": "Una borsa di plastica", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-123-05",
+"question": "Quanto paga in totale per la frutta?",
+"reponses": [
+{ "id": "a", "texte": "Tre euro", "correcte": true },
+{ "id": "b", "texte": "Dieci euro", "correcte": false },
+{ "id": "c", "texte": "Venti euro", "correcte": false },
+{ "id": "d", "texte": "Un euro", "correcte": false }
+]
+}
+]
+},
+{
+"id": "124",
+"titre": "In una panetteria",
+"titre2": "Esercizio 124",
+"texte": [
+"Entro nella panetteria del centro storico alle sette di mattina.",
+"C'è un profumo meraviglioso di pane caldo appena sfornato.",
+"Chiedo alla commessa tre panini piccoli e due pezzi di focaccia.",
+"Vedo sul bancone anche dei cornetti caldi molto dolci.",
+"Prendo la busta di carta e ringrazio augurando buona giornata."
+],
+"audios": [
+{ "id": "audio-it-read-a1-124-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-124-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-124-01",
+"question": "A che ora entra nella panetteria il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Alle sette di mattina", "correcte": true },
+{ "id": "b", "texte": "Alle undici in punto", "correcte": false },
+{ "id": "c", "texte": "Nel tardo pomeriggio", "correcte": false },
+{ "id": "d", "texte": "A mezzanotte", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-124-02",
+"question": "Quale profumo si sente nel negozio?",
+"reponses": [
+{ "id": "a", "texte": "Profumo di rose rosse", "correcte": false },
+{ "id": "b", "texte": "Profumo di pane caldo appena sfornato", "correcte": true },
+{ "id": "c", "texte": "Profumo di caffè dolce", "correcte": false },
+{ "id": "d", "texte": "Nessun profumo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-124-03",
+"question": "Quanti pezzi di focaccia chiede alla commessa?",
+"reponses": [
+{ "id": "a", "texte": "Un pezzo solo", "correcte": false },
+{ "id": "b", "texte": "Due pezzi", "correcte": true },
+{ "id": "c", "texte": "Tre pezzi grandi", "correcte": false },
+{ "id": "d", "texte": "Quattro pezzi piccoli", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-124-04",
+"question": "Cosa c'è sul bancone oltre al pane e alla focaccia?",
+"reponses": [
+{ "id": "a", "texte": "Dei cornetti caldi molto dolci", "correcte": true },
+{ "id": "b", "texte": "Delle arance succose fresche", "correcte": false },
+{ "id": "c", "texte": "Delle penne e dei quaderni", "correcte": false },
+{ "id": "d", "texte": "Le bottiglie d'acqua", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-124-05",
+"question": "In quale busta viene messo il pane?",
+"reponses": [
+{ "id": "a", "texte": "In una busta di carta", "correcte": true },
+{ "id": "b", "texte": "In una busta di plastica blu", "correcte": false },
+{ "id": "c", "texte": "Nello zaino scolastico direttamente", "correcte": false },
+{ "id": "d", "texte": "In una scatola di legno marrone", "correcte": false }
+]
+}
+]
+},
+{
+"id": "125",
+"titre": "In farmacia",
+"titre2": "Esercizio 125",
+"texte": [
+"Oggi non mi sento molto bene e vado in farmacia.",
+"Mostro al farmacista gentile la ricetta del mio medico.",
+"Lui prende una scatola di compresse dall'armadio bianco.",
+"Mi spiega con calma come prendere la medicina dopo i pasti.",
+"Compro anche uno sciroppo dolce per la tosse forte."
+],
+"audios": [
+{ "id": "audio-it-read-a1-125-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-125-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-125-01",
+"question": "Perché il protagonista va in farmacia?",
+"reponses": [
+{ "id": "a", "texte": "Per comprare un panino alla focaccia", "correcte": false },
+{ "id": "b", "texte": "Perché non si sente molto bene", "correcte": true },
+{ "id": "c", "texte": "Per studiare la storia antica", "correcte": false },
+{ "id": "d", "texte": "Per incontrare il professor Rossi", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-125-02",
+"question": "Cosa mostra al farmacista?",
+"reponses": [
+{ "id": "a", "texte": "La ricetta del suo medico", "correcte": true },
+{ "id": "b", "texte": "La carta di credito d'oro", "correcte": false },
+{ "id": "c", "texte": "Il suo nuovo zaino blu", "correcte": false },
+{ "id": "d", "texte": "Una foto colorata degli amici", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-125-03",
+"question": "Da dove prende la scatola di compresse il farmacista?",
+"reponses": [
+{ "id": "a", "texte": "Dall'armadio bianco", "correcte": true },
+{ "id": "b", "texte": "Sotto la grande bilancia", "correcte": false },
+{ "id": "c", "texte": "Dalla tasca della giacca", "correcte": false },
+{ "id": "d", "texte": "Dal bancone di legno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-125-04",
+"question": "Quando deve prendere la medicina il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Dopo i pasti", "correcte": true },
+{ "id": "b", "texte": "Prima di fare la doccia", "correcte": false },
+{ "id": "c", "texte": "Durante la ricreazione a scuola", "correcte": false },
+{ "id": "d", "texte": "Solo di notte alle sei", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-125-05",
+"question": "Quale altro prodotto compra oltre alle compresse?",
+"reponses": [
+{ "id": "a", "texte": "Uno sciroppo dolce per la tosse forte", "correcte": true },
+{ "id": "b", "texte": "Una bottiglia d'acqua minerale", "correcte": false },
+{ "id": "c", "texte": "Un pacchetto di biscotti al miele", "correcte": false },
+{ "id": "d", "texte": "Una gomma da cancellare", "correcte": false }
+]
+}
+]
+},
+{
+"id": "126",
+"titre": "Comprare vestiti",
+"titre2": "Esercizio 126",
+"texte": [
+"Oggi vado in un negozio di abbigliamento per comprare vestiti.",
+"Cerco una camicia bianca elegante per un compleanno sabato.",
+"Entro nel piccolo camerino per provare la taglia media.",
+"La camicia è perfetta, comoda e mi piace molto.",
+"Vado alla cassa e pago il prezzo con i contanti."
+],
+"audios": [
+{ "id": "audio-it-read-a1-126-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-126-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-126-01",
+"question": "Per quale tipo di negozio esce il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Un negozio di calzature", "correcte": false },
+{ "id": "b", "texte": "Un negozio di abbigliamento", "correcte": true },
+{ "id": "c", "texte": "La farmacia del centro", "correcte": false },
+{ "id": "d", "texte": "Il supermercato grande", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-126-02",
+"question": "Cosa cerca il protagonista per il compleanno?",
+"reponses": [
+{ "id": "a", "texte": "Una camicia bianca elegante", "correcte": true },
+{ "id": "b", "texte": "Una giacca pesante nera", "correcte": false },
+{ "id": "c", "texte": "Un paio di pantaloni corti", "correcte": false },
+{ "id": "d", "texte": "Un cappello da sole giallo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-126-03",
+"question": "Dove entra per provare l'abito?",
+"reponses": [
+{ "id": "a", "texte": "Nel piccolo camerino", "correcte": true },
+{ "id": "b", "texte": "Nel retro del negozio", "correcte": false },
+{ "id": "c", "texte": "In bagno", "correcte": false },
+{ "id": "d", "texte": "Fuori sulla strada principale", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-126-04",
+"question": "Quale taglia prova il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "La taglia piccola", "correcte": false },
+{ "id": "b", "texte": "La taglia media", "correcte": true },
+{ "id": "c", "texte": "La taglia grande", "correcte": false },
+{ "id": "d", "texte": "Non c'è la taglia", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-126-05",
+"question": "Come paga la camicia alla cassa?",
+"reponses": [
+{ "id": "a", "texte": "Con i contanti", "correcte": true },
+{ "id": "b", "texte": "Con la carta di credito", "correcte": false },
+{ "id": "c", "texte": "Con un assegno bancario", "correcte": false },
+{ "id": "d", "texte": "Con una camicia vecchia", "correcte": false }
+]
+}
+]
+},
+{
+"id": "127",
+"titre": "In un negozio di scarpe",
+"titre2": "Esercizio 127",
+"texte": [
+"Accompagno il mio migliore amico in un grande negozio di scarpe.",
+"Lui desidera un paio di scarpe sportive nere per fare ginnastica.",
+"Il numero di piede del mio amico è il quarantadue.",
+"Cammina un po' sul pavimento del negozio per provare la comodità.",
+"Il prezzo delle scarpe è buono e decide di comprarle subito."
+],
+"audios": [
+{ "id": "audio-it-read-a1-127-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-127-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-127-01",
+"question": "Chi accompagna il protagonista nel negozio?",
+"reponses": [
+{ "id": "a", "texte": "Sua madre Elena", "correcte": false },
+{ "id": "b", "texte": "Il suo migliore amico", "correcte": true },
+{ "id": "c", "texte": "Il professore di francese", "correcte": false },
+{ "id": "d", "texte": "Il vicino Signor Schmidt", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-127-02",
+"question": "Quale tipo di scarpe desidera l'amico?",
+"reponses": [
+{ "id": "a", "texte": "Scarpe sportive nere per fare ginnastica", "correcte": true },
+{ "id": "b", "texte": "Stivali invernali pesanti per la neve", "correcte": false },
+{ "id": "c", "texte": "Scarpe eleganti bianche", "correcte": false },
+{ "id": "d", "texte": "Sandali leggeri per il mare", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-127-03",
+"question": "Qual è il numero di scarpe dell'amico?",
+"reponses": [
+{ "id": "a", "texte": "Il numero quaranta", "correcte": false },
+{ "id": "b", "texte": "Il numero quarantadue", "correcte": true },
+{ "id": "c", "texte": "Il numero trentotto", "correcte": false },
+{ "id": "d", "texte": "Il numero quarantaquattro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-127-04",
+"question": "Cosa fa l'amico sul pavimento del negozio?",
+"reponses": [
+{ "id": "a", "texte": "Cammina un po' per provare la comodità", "correcte": true },
+{ "id": "b", "texte": "Corre velocissimo e cade", "correcte": false },
+{ "id": "c", "texte": "Dorme sulla sedia morbida", "correcte": false },
+{ "id": "d", "texte": "Pulisce con l'acqua", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-127-05",
+"question": "Cosa convince l'amico a comprare le scarpe?",
+"reponses": [
+{ "id": "a", "texte": "Il prezzo delle scarpe è buono", "correcte": true },
+{ "id": "b", "texte": "Il commesso gli regala una mela", "correcte": false },
+{ "id": "c", "texte": "Il colore azzurro brillante", "correcte": false },
+{ "id": "d", "texte": "Il parere della madre", "correcte": false }
+]
+}
+]
+},
+{
+"id": "128",
+"titre": "Il prezzo dei prodotti",
+"titre2": "Esercizio 128",
+"texte": [
+"Quando compro qualcosa, guardo sempre l'etichetta del prezzo.",
+"Alcuni prodotti famosi sono molto cari nel centro della città.",
+"Cerco sempre di fare attenzione e trovare le offerte speciali.",
+"Chiedo al commesso gentile: Scusi, quanto costa questo quaderno?",
+"Il prezzo è solo di due euro ed è perfetto per me."
+],
+"audios": [
+{ "id": "audio-it-read-a1-128-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-128-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-128-01",
+"question": "Cosa guarda sempre il protagonista quando compra qualcosa?",
+"reponses": [
+{ "id": "a", "texte": "L'orologio della parete", "correcte": false },
+{ "id": "b", "texte": "L'etichetta del prezzo", "correcte": true },
+{ "id": "c", "texte": "Il colore delle borse", "correcte": false },
+{ "id": "d", "texte": "Il nome del negozio", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-128-02",
+"question": "Come sono definiti alcuni prodotti famosi in centro?",
+"reponses": [
+{ "id": "a", "texte": "Molto economici e vecchi", "correcte": false },
+{ "id": "b", "texte": "Molto cari", "correcte": true },
+{ "id": "c", "texte": "Gratuiti per gli studenti", "correcte": false },
+{ "id": "d", "texte": "Brutti", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-128-03",
+"question": "Cosa cerca di trovare il protagonista nel negozio?",
+"reponses": [
+{ "id": "a", "texte": "Le offerte speciali", "correcte": true },
+{ "id": "b", "texte": "Un divano comodo", "correcte": false },
+{ "id": "c", "texte": "Il farmaco per la tosse", "correcte": false },
+{ "id": "d", "texte": "Le chiavi di casa", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-128-04",
+"question": "Quale domanda fa il protagonista al commesso?",
+"reponses": [
+{ "id": "a", "texte": "Scusi, quanto costa questo quaderno?", "correcte": true },
+{ "id": "b", "texte": "A che ora chiude la scuola oggi?", "correcte": false },
+{ "id": "c", "texte": "Dov'è il bagno pubblico più vicino?", "correcte": false },
+{ "id": "d", "texte": "Come si chiama tua madre?",
+"correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-128-05",
+"question": "Qual è il prezzo finale del quaderno?",
+"reponses": [
+{ "id": "a", "texte": "Due euro", "correcte": true },
+{ "id": "b", "texte": "Cinque euro", "correcte": false },
+{ "id": "c", "texte": "Dieci euro", "correcte": false },
+{ "id": "d", "texte": "Cinquanta centesimi", "correcte": false }
+]
+}
+]
+},
+{
+"id": "129",
+"titre": "Fare la spesa con la mamma",
+"titre2": "Esercizio 129",
+"texte": [
+"Il mercoledì pomeriggio faccio sempre la spesa insieme alla mamma.",
+"Lei scrive una lista dettagliata su un foglio bianco in cucina.",
+"Io la aiuto a prendere le cose pesanti come il latte e l'acqua.",
+"Scegliamo insieme dei biscotti dolci per la nostra colazione.",
+"Torniamo a casa felici con tre grandi borse piene di cibo buono."
+],
+"audios": [
+{ "id": "audio-it-read-a1-129-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-129-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-129-01",
+"question": "In quale momento della settimana fanno la spesa?",
+"reponses": [
+{ "id": "a", "texte": "Il sabato mattina presto", "correcte": false },
+{ "id": "b", "texte": "Il mercoledì pomeriggio", "correcte": true },
+{ "id": "c", "texte": "La domenica sera tardi", "correcte": false },
+{ "id": "d", "texte": "Il giovedì notte", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-129-02",
+"question": "Dove scrive la lista della spesa la mamma?",
+"reponses": [
+{ "id": "a", "texte": "Su un foglio bianco in cucina", "correcte": true },
+{ "id": "b", "texte": "Sul muro della stanza da letto", "correcte": false },
+{ "id": "c", "texte": "Nel quaderno di matematica di scuola", "correcte": false },
+{ "id": "d", "texte": "Sul display del computer", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-129-03",
+"question": "Quali cose pesanti aiuta a prendere il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "I libri della biblioteca antica", "correcte": false },
+{ "id": "b", "texte": "Il latte e l'acqua", "correcte": true },
+{ "id": "c", "texte": "I mobili della camera da letto", "correcte": false },
+{ "id": "d", "texte": "Le scarpe sportive", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-129-04",
+"question": "Cosa scelgono insieme per la colazione della mattina?",
+"reponses": [
+{ "id": "a", "texte": "Delle caramelle salate", "correcte": false },
+{ "id": "b", "texte": "Dei biscotti dolci", "correcte": true },
+{ "id": "c", "texte": "Un chilo di pomodori freschi", "correcte": false },
+{ "id": "d", "texte": "Una medicina per la tosse", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-129-05",
+"question": "Con quante borse piene di cibo tornano a casa?",
+"reponses": [
+{ "id": "a", "texte": "Con una borsa di carta piccola", "correcte": false },
+{ "id": "b", "texte": "Con tre grandi borse", "correcte": true },
+{ "id": "c", "texte": "Con dieci sacchetti di plastica", "correcte": false },
+{ "id": "d", "texte": "Senza borse, caricano la macchina", "correcte": false }
+]
+}
+]
+},
+{
+"id": "130",
+"titre": "Il mio primo acquisto",
+"titre2": "Esercizio 130",
+"texte": [
+"Ricordo ancora con molta felicità il mio primo vero acquisto.",
+"Ho comprato un piccolo libro di storie con i miei soldi.",
+"Ho risparmiato cinque euro dentro un salvadanaio di ceramica.",
+"Il libraio mi ha dato il resto e mi ha sorriso con gentilezza.",
+"Quel giorno ho capito il valore importante del denaro."
+],
+"audios": [
+{ "id": "audio-it-read-a1-130-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-130-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-130-01",
+"question": "Cosa ricorda con molta felicità il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Il suo primo vero acquisto", "correcte": true },
+{ "id": "b", "texte": "Il viaggio a Berlino in treno", "correcte": false },
+{ "id": "c", "texte": "La prima lezione di matematica difficile", "correcte": false },
+{ "id": "d", "texte": "La giornata nel parco grande", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-130-02",
+"question": "Cosa ha comprato con i suoi soldi?",
+"reponses": [
+{ "id": "a", "texte": "Un piccolo libro di storie", "correcte": true },
+{ "id": "b", "texte": "Un paio di scarpe nere sportive", "correcte": false },
+{ "id": "c", "texte": "Un carrello di ferro per la spesa", "correcte": false },
+{ "id": "d", "texte": "Un cornetto alla crema dolce", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-130-03",
+"question": "Quanti soldi ha risparmiato il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Due euro soltanto", "correcte": false },
+{ "id": "b", "texte": "Cinque euro", "correcte": true },
+{ "id": "c", "texte": "Venti euro grandi", "correcte": false },
+{ "id": "d", "texte": "Cento euro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-130-04",
+"question": "Dove teneva i soldi risparmiati?",
+"reponses": [
+{ "id": "a", "texte": "Dentro un salvadanaio di ceramica", "correcte": true },
+{ "id": "b", "texte": "Nella tasca posteriore dello zaino", "correcte": false },
+{ "id": "c", "texte": "Sotto il cuscino del letto singolo", "correcte": false },
+{ "id": "d", "texte": "In cucina dentro una tazza", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-130-05",
+"question": "Cosa ha capito il protagonista quel giorno?",
+"reponses": [
+{ "id": "a", "texte": "Il valore importante del denaro", "correcte": true },
+{ "id": "b", "texte": "Che la storia antica è noiosa", "correcte": false },
+{ "id": "c", "texte": "Come si cucina un pezzo di pane", "correcte": false },
+{ "id": "d", "texte": "Che i negozi sono sempre chiusi", "correcte": false }
+]
+}
+]
 }
 ]
