@@ -5498,625 +5498,613 @@
 ]
 },
 {
-"id": "q-it-read-a1-181-05",
-"question": "Chi gioca all'aperto sulla strada?",
+"id": "191",
+"titre": "Il mio nuovo amico",
+"titre2": "Esercizio 191",
+"texte": [
+"Nel mio corso di lingua italiana ho conosciuto un nuovo amico.",
+"Il suo nome è Thomas e viene da una piccola città in Spagna.",
+"Lui è molto simpatico, divertente e parla già bene l'italiano.",
+"Nel pomeriggio prendiamo spesso insieme un caffè bollente al bar.",
+"Studiamo le nuove parole della lezione e facciamo i compiti."
+],
+"audios": [
+{ "id": "audio-it-read-a1-191-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-191-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-191-01",
+"question": "Dove ha conosciuto il suo nuovo amico il protagonista?",
 "reponses": [
-{ "id": "a", "texte": "Molti bambini", "correcte": true },
-{ "id": "b", "texte": "Il vecchio contadino", "correcte": false },
-{ "id": "c", "texte": "Due cavalli marroni", "correcte": false },
-{ "id": "d", "texte": "I nonni della campagna", "correcte": false }
+{ "id": "a", "texte": "Sul treno veloce per Milano", "correcte": false },
+{ "id": "b", "texte": "Nel suo corso di lingua italiana", "correcte": true },
+{ "id": "c", "texte": "Sulla spiaggia bianca", "correcte": false },
+{ "id": "d", "texte": "In una farmacia del centro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-191-02",
+"question": "Come si chiama il nuovo amico?",
+"reponses": [
+{ "id": "a", "texte": "Thomas", "correcte": true },
+{ "id": "b", "texte": "Bello", "correcte": false },
+{ "id": "c", "texte": "Marco", "correcte": false },
+{ "id": "d", "texte": "Luca", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-191-03",
+"question": "Da quale paese viene Thomas?",
+"reponses": [
+{ "id": "a", "texte": "Dall'Italia", "correcte": false },
+{ "id": "b", "texte": "Dalla Francia", "correcte": false },
+{ "id": "c", "texte": "Dalla Spagna", "correcte": true },
+{ "id": "d", "texte": "Dall'Inghilterra", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-191-04",
+"question": "Cosa fanno i due amici nel pomeriggio?",
+"reponses": [
+{ "id": "a", "texte": "Prendono spesso un caffè al bar", "correcte": true },
+{ "id": "b", "texte": "Dormono nel letto comodo", "correcte": false },
+{ "id": "c", "texte": "Comprano una macchina arancione", "correcte": false },
+{ "id": "d", "texte": "Prendono l'aereo sulla pista", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-191-05",
+"question": "Cosa studiano insieme?",
+"reponses": [
+{ "id": "a", "texte": "Le nuove parole della lezione", "correcte": true },
+{ "id": "b", "texte": "La ricetta della torta di mele", "correcte": false },
+{ "id": "c", "texte": "Le regole del gioco del calcio", "correcte": false },
+{ "id": "d", "texte": "Gli orari del tabellone luminoso", "correcte": false }
 ]
 }
 ]
 },
 {
-"id": "182",
-"titre": "Oggi piove",
-"titre2": "Esercizio 182",
+"id": "192",
+"titre": "Un invito a una festa",
+"titre2": "Esercizio 192",
 "texte": [
-"Oggi il tempo è brutto perché piove da molte ore.",
-"Il cielo è grigio scuro e ci sono grandi pozzanghere per terra.",
-"Prendo il mio grande ombrello giallo dall'armadio in corridoio.",
-"Sulla strada per andare a scuola indosso le mie scarpe impermeabili.",
-"Non mi piace molto la pioggia perché tutto diventa bagnato."
+"Ieri ho ricevuto un bellissimo invito cartaceo da Sarah.",
+"Sabato prossimo festeggia il suo compleanno in un appartamento grande.",
+"La festa inizia alle diciotto in punto e vengono tutti i compagni.",
+"Devo comprare un regalo colorato per lei al centro commerciale.",
+"Cucino anche una torta dolce e la porto con molta gioia."
 ],
 "audios": [
-{ "id": "audio-it-read-a1-182-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a1-182-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+{ "id": "audio-it-read-a1-192-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-192-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
 ],
 "questions": [
 {
-"id": "q-it-read-a1-182-01",
-"question": "Com'è il tempo oggi nel testo?",
+"id": "q-it-read-a1-192-01",
+"question": "Da chi ha ricevuto l'invito il protagonista?",
 "reponses": [
-{ "id": "a", "texte": "Molto caldo e soleggiato", "correcte": false },
-{ "id": "b", "texte": "Brutto perché piove", "correcte": true },
-{ "id": "c", "texte": "C'è un vento forte", "correcte": false },
-{ "id": "d", "texte": "C'è la neve bianca sui tetti", "correcte": false }
+{ "id": "a", "texte": "Dalla sua vicina di casa", "correcte": false },
+{ "id": "b", "texte": "Da Sarah", "correcte": true },
+{ "id": "c", "texte": "Dal nonno in campagna", "correcte": false },
+{ "id": "d", "texte": "Dal medico dello studio", "correcte": false }
 ]
 },
 {
-"id": "q-it-read-a1-182-02",
-"question": "Di quale colore è il cielo oggi?",
+"id": "q-it-read-a1-192-02",
+"question": "Cosa festeggia Sarah sabato prossimo?",
 "reponses": [
-{ "id": "a", "texte": "Azzurro chiaro", "correcte": false },
-{ "id": "b", "texte": "Grigio scuro", "correcte": true },
-{ "id": "c", "texte": "Verde brillante", "correcte": false },
-{ "id": "d", "texte": "Giallo limone", "correcte": false }
+{ "id": "a", "texte": "Il suo compleanno", "correcte": true },
+{ "id": "b", "texte": "Il suo primo viaggio da sola", "correcte": false },
+{ "id": "c", "texte": "Le sue scarpe sportive nere", "correcte": false },
+{ "id": "d", "texte": "La fine della stagione fredda", "correcte": false }
 ]
 },
 {
-"id": "q-it-read-a1-182-03",
-"question": "Quale oggetto prende il protagonista dall'armadio?",
-"reponses": [
-{ "id": "a", "texte": "Un ombrello giallo", "correcte": true },
-{ "id": "b", "texte": "Un paio di occhiali da sole", "correcte": false },
-{ "id": "c", "texte": "Una palla rossa grande", "correcte": false },
-{ "id": "d", "texte": "Un libro d'arte antica", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-182-04",
-"question": "Cosa indossa il protagonista sulla strada?",
-"reponses": [
-{ "id": "a", "texte": "Sandali leggeri da mare", "correcte": false },
-{ "id": "b", "texte": "Scarpe impermeabili", "correcte": true },
-{ "id": "c", "texte": "Nessuna scarpa", "correcte": false },
-{ "id": "d", "texte": "Ciabatte da bagno", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-182-05",
-"question": "Perché al protagonista non piace la pioggia?",
-"reponses": [
-{ "id": "a", "texte": "Perché tutto diventa bagnato", "correcte": true },
-{ "id": "b", "texte": "Perché fa troppo caldo fuori", "correcte": false },
-{ "id": "c", "texte": "Perché gli uccelli cantano", "correcte": false },
-{ "id": "d", "texte": "Perché deve restare in piscina", "correcte": false }
-]
-}
-]
-},
-{
-"id": "183",
-"titre": "L'inverno sta arrivando",
-"titre2": "Esercizio 183",
-"texte": [
-"Il mese di dicembre è arrivato e il freddo inverno sta arrivando.",
-"Nevica spesso in questa zona e le case hanno i tetti bianchi.",
-"Le giornate in questa stagione sono molto corte e scure.",
-"Metto ogni giorno i guanti di lana, gli stivali e la giacca spessa.",
-"La sera bevo una tazza di cioccolata calda nel mio soggiorno."
-],
-"audios": [
-{ "id": "audio-it-read-a1-183-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a1-183-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a1-183-01",
-"question": "Quale mese dell'anno viene citato nel testo?",
-"reponses": [
-{ "id": "a", "texte": "Il mese di luglio", "correcte": false },
-{ "id": "b", "texte": "Il mese di dicembre", "correcte": true },
-{ "id": "c", "texte": "Il mese di maggio", "correcte": false },
-{ "id": "d", "texte": "Il mese di aprile", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-183-02",
-"question": "Di quale colore sono i tetti delle case?",
-"reponses": [
-{ "id": "a", "texte": "Rossi", "correcte": false },
-{ "id": "b", "texte": "Bianchi", "correcte": true },
-{ "id": "c", "texte": "Marroni scuri", "correcte": false },
-{ "id": "d", "texte": "Verdi", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-183-03",
-"question": "Come sono le giornate durante l'inverno?",
-"reponses": [
-{ "id": "a", "texte": "Molto lunghe e piene di sole", "correcte": false },
-{ "id": "b", "texte": "Corte e scure", "correcte": true },
-{ "id": "c", "texte": "Perfette per andare in spiaggia", "correcte": false },
-{ "id": "d", "texte": "Sempre calde", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-183-04",
-"question": "Quali indumenti indossa il protagonista ogni giorno?",
-"reponses": [
-{ "id": "a", "texte": "Guanti di lana, stivali e giacca spessa", "correcte": true },
-{ "id": "b", "texte": "Una maglietta leggera corta e pantaloncini", "correcte": false },
-{ "id": "c", "texte": "Un costume da bagno azzurro", "correcte": false },
-{ "id": "d", "texte": "Una camicia bianca elegante", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-183-05",
-"question": "Cosa beve il protagonista la sera?",
-"reponses": [
-{ "id": "a", "texte": "Un succo d'arancia freddo", "correcte": false },
-{ "id": "b", "texte": "Un bicchiere di latte di pecora", "correcte": false },
-{ "id": "c", "texte": "Una tazza di cioccolata calda", "correcte": true },
-{ "id": "d", "texte": "Acqua della fontana del vicino", "correcte": false }
-]
-}
-]
-},
-{
-"id": "184",
-"titre": "Le vacanze estive",
-"titre2": "Esercizio 184",
-"texte": [
-"Nei mesi di luglio e agosto ho finalmente le mie vacanze estive.",
-"Il tempo è quasi sempre caldissimo e il sole bussa forte.",
-"Vado con i miei amici più cari vicino a un lago bellissimo.",
-"Nuotiamo nell'acqua fresca della vasca e mangiamo molto gelato.",
-"Le vacanze estive sono il periodo più bello di tutto l'anno."
-],
-"audios": [
-{ "id": "audio-it-read-a1-184-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a1-184-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a1-184-01",
-"question": "In quali mesi ci sono le vacanze estive?",
-"reponses": [
-{ "id": "a", "texte": "A gennaio e febbraio", "correcte": false },
-{ "id": "b", "texte": "A luglio e agosto", "correcte": true },
-{ "id": "c", "texte": "A settembre e ottobre", "correcte": false },
-{ "id": "d", "texte": "A dicembre per Natale", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-184-02",
-"question": "Com'è il tempo di solito in estate?",
-"reponses": [
-{ "id": "a", "texte": "Molto freddo e ventoso", "correcte": false },
-{ "id": "b", "texte": "Nevica tutti i giorni sulle strade", "correcte": false },
-{ "id": "c", "texte": "Quasi sempre caldissimo", "correcte": true },
-{ "id": "d", "texte": "Dunkel e pieno di pioggia", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-184-03",
-"question": "Dove va il protagonista con i suoi amici?",
-"reponses": [
-{ "id": "a", "texte": "In un grande ufficio in centro", "correcte": false },
-{ "id": "b", "texte": "Vicino a un lago bellissimo", "correcte": true },
-{ "id": "c", "texte": "Nel bosco fitto e scuro", "correcte": false },
-{ "id": "d", "texte": "Alla stazione ferroviaria", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-184-04",
-"question": "Cosa fanno i ragazzi nell'acqua fresca?",
-"reponses": [
-{ "id": "a", "texte": "Lavano la biancheria sporca", "correcte": false },
-{ "id": "b", "texte": "Nuotano", "correcte": true },
-{ "id": "c", "texte": "Cucinano una zuppa di lenticchie", "correcte": false },
-{ "id": "d", "texte": "Dormono sulle poltrone", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-184-05",
-"question": "Quale cibo mangiano in quantità durante le vacanze?",
-"reponses": [
-{ "id": "a", "texte": "Carne di pollo calda", "correcte": false },
-{ "id": "b", "texte": "Molto gelato", "correcte": true },
-{ "id": "c", "texte": "Insalata verde fresca", "correcte": false },
-{ "id": "d", "texte": "Pane secco del mercato", "correcte": false }
-]
-}
-]
-},
-{
-"id": "185",
-"titre": "La primavera nel mio villaggio",
-"titre2": "Esercizio 185",
-"texte": [
-"Dopo il lungo inverno arriva finalmente la bella primavera nel villaggio.",
-"La natura si sveglia lentamente e l'erba dei campi diventa verde.",
-"Sugli alberi crescono molte nuove e piccole foglie tenere.",
-"I fiori colorati fioriscono in quasi ogni piccolo giardino privato.",
-"Gli uccelli ritornano dal sud e cantano allegri tutto il giorno."
-],
-"audios": [
-{ "id": "audio-it-read-a1-185-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a1-185-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a1-185-01",
-"question": "Quale stagione arriva subito dopo l'inverno?",
-"reponses": [
-{ "id": "a", "texte": "L'autunno ventoso", "correcte": false },
-{ "id": "b", "texte": "L'estate calda", "correcte": false },
-{ "id": "c", "texte": "La primavera", "correcte": true },
-{ "id": "d", "texte": "Il mese di dicembre", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-185-02",
-"question": "Di quale colore diventa l'erba dei campi?",
-"reponses": [
-{ "id": "a", "texte": "Gialla", "correcte": false },
-{ "id": "b", "texte": "Verde", "correcte": true },
-{ "id": "c", "texte": "Bianca come la neve", "correcte": false },
-{ "id": "d", "texte": "Marrone secca", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-185-03",
-"question": "Cosa cresce sui rami degli alberi?",
-"reponses": [
-{ "id": "a", "texte": "Nuove e piccole foglie", "correcte": true },
-{ "id": "b", "texte": "Gelato freddo al cioccolato", "correcte": false },
-{ "id": "c", "texte": "Guanti di lana spessi", "correcte": false },
-{ "id": "d", "texte": "Valigie grandi da viaggio", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-185-04",
-"question": "Dove fioriscono i fiori colorati?",
-"reponses": [
-{ "id": "a", "texte": "Nell'alveare delle api", "correcte": false },
-{ "id": "b", "texte": "In quasi ogni piccolo giardino", "correcte": true },
-{ "id": "c", "texte": "Alla stazione dei treni", "correcte": false },
-{ "id": "d", "texte": "Nella sala d'attesa del medico", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-185-05",
-"question": "Cosa fanno gli uccelli in primavera?",
-"reponses": [
-{ "id": "a", "texte": "Dormono tutto il giorno nella stalla", "correcte": false },
-{ "id": "b", "texte": "Ritornano dal sud e cantano allegri", "correcte": true },
-{ "id": "c", "texte": "Volano via lontano verso il freddo", "correcte": false },
-{ "id": "d", "texte": "Bevono il tè caldo nel letto", "correcte": false }
-]
-}
-]
-},
-{
-"id": "186",
-"titre": "Una giornata ventosa",
-"titre2": "Esercizio 186",
-"texte": [
-"Oggi fuori nel parco pubblico è una giornata molto ventosa.",
-"Il vento forte muove le foglie marroni cadute dagli alberi.",
-"Alcuni bambini piccoli fanno volare i loro aquiloni colorati.",
-"Devo chiudere bene la mia giacca perché sento molto freddo.",
-"Nel pomeriggio torno velocemente dentro la mia casa calda."
-],
-"audios": [
-{ "id": "audio-it-read-a1-186-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a1-186-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a1-186-01",
-"question": "Com'è il tempo oggi fuori nel parco?",
-"reponses": [
-{ "id": "a", "texte": "Molto soleggiato e caldo", "correcte": false },
-{ "id": "b", "texte": "Una giornata molto ventosa", "correcte": true },
-{ "id": "c", "texte": "Piove e ci sono pozzanghere", "correcte": false },
-{ "id": "d", "texte": "C'è un temporale con tuoni", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-186-02",
-"question": "Cosa fa il vento forte con le foglie?",
-"reponses": [
-{ "id": "a", "texte": "Muove le foglie marroni", "correcte": true },
-{ "id": "b", "texte": "Le fa diventare verdi e fresche", "correcte": false },
-{ "id": "c", "texte": "Le lava accuratamente con sapone", "correcte": false },
-{ "id": "d", "texte": "Nulla, restano ferme per terra", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-186-03",
-"question": "Cosa fanno volare i bambini piccoli?",
-"reponses": [
-{ "id": "a", "texte": "I loro aquiloni colorati", "correcte": true },
-{ "id": "b", "texte": "Piccoli uccelli liberi", "correcte": false },
-{ "id": "c", "texte": "Una palla rossa grande", "correcte": false },
-{ "id": "d", "texte": "Cartoline prese a Firenze", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-186-04",
-"question": "Perché il protagonista deve chiudere bene la giacca?",
-"reponses": [
-{ "id": "a", "texte": "Perché l'abito è nuovo di zecca", "correcte": false },
-{ "id": "b", "texte": "Perché sente molto freddo", "correcte": true },
-{ "id": "c", "texte": "Perché fa ginnastica al campo", "correcte": false },
-{ "id": "d", "texte": "Perché si trova in ufficio", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-186-05",
-"question": "Dove va il protagonista nel pomeriggio?",
-"reponses": [
-{ "id": "a", "texte": "In spiaggia a leggere un romanzo", "correcte": false },
-{ "id": "b", "texte": "Velocemente dentro la casa calda", "correcte": true },
-{ "id": "c", "texte": "In farmacia a comprare compresse", "correcte": false },
-{ "id": "d", "texte": "All'aeroporto internazionale", "correcte": false }
-]
-}
-]
-},
-{
-"id": "187",
-"titre": "Che tempo fa?",
-"titre2": "Esercizio 187",
-"texte": [
-"In Italia il tempo cambia molto spesso durante tutto l'anno.",
-"A volte le persone chiedono per strada: Che tempo fa oggi?",
-"In primavera il clima è mite, in estate è caldissimo.",
-"L'autunno porta molto vento forte e l'inverno porta la neve.",
-"Guardo ogni mattina fuori dalla finestra per vedere il meteo."
-],
-"audios": [
-{ "id": "audio-it-read-a1-187-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a1-187-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a1-187-01",
-"question": "In quale paese il tempo cambia molto spesso?",
-"reponses": [
-{ "id": "a", "texte": "In Francia", "correcte": false },
-{ "id": "b", "texte": "In Italia", "correcte": true },
-{ "id": "c", "texte": "In Spagna", "correcte": false },
-{ "id": "d", "texte": "In Inghilterra", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-187-02",
-"question": "Com'è il clima di solito durante la primavera?",
-"reponses": [
-{ "id": "a", "texte": "Il clima è mite", "correcte": true },
-{ "id": "b", "texte": "È estremamente freddo", "correcte": false },
-{ "id": "c", "texte": "C'è molta neve bianca", "correcte": false },
-{ "id": "d", "texte": "Il sole bussa troppo forte", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-187-03",
-"question": "Cosa porta l'autunno secondo la lettura?",
-"reponses": [
-{ "id": "a", "texte": "Molto gelato freddo al chiosco", "correcte": false },
-{ "id": "b", "texte": "Molto vento forte", "correcte": true },
-{ "id": "c", "texte": "Giornate caldissime in spiaggia", "correcte": false },
-{ "id": "d", "texte": "Un grande orto biologico", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-187-04",
-"question": "Cosa porta la stagione dell'inverno?",
-"reponses": [
-{ "id": "a", "texte": "La neve", "correcte": true },
-{ "id": "b", "texte": "Il nettare delle api", "correcte": false },
-{ "id": "c", "texte": "L'erba verde fresca", "correcte": false },
-{ "id": "d", "texte": "Il caldo estivo", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-187-05",
-"question": "Perché il protagonista guarda fuori dalla finestra ogni mattina?",
-"reponses": [
-{ "id": "a", "texte": "Per vedere il meteo", "correcte": true },
-{ "id": "b", "texte": "Per chiamare la vicina di casa", "correcte": false },
-{ "id": "c", "texte": "Per fare una foto della chiesa", "correcte": false },
-{ "id": "d", "texte": "Per contare le macchine della strada", "correcte": false }
-]
-}
-]
-},
-{
-"id": "188",
-"titre": "Le quattro stagioni",
-"titre2": "Esercizio 188",
-"texte": [
-"L'anno intero è diviso esattamente in quattro stagioni diverse.",
-"Si chiamano la primavera, l'estate, l'autunno e l'inverno.",
-"Ogni stagione dura tre mesi precisi nel nostro calendario.",
-"A me piacciono tutte le stagioni perché cambiano la natura.",
-"In autunno gli alberi del parco perdono le foglie colorate."
-],
-"audios": [
-{ "id": "audio-it-read-a1-188-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a1-188-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a1-188-01",
-"question": "In quante stagioni è diviso un anno intero?",
-"reponses": [
-{ "id": "a", "texte": "Due stagioni lunghe", "correcte": false },
-{ "id": "b", "texte": "Quattro stagioni diverse", "correcte": true },
-{ "id": "c", "texte": "Dodici periodi corti", "correcte": false },
-{ "id": "d", "texte": "Cinque stagioni", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-188-02",
-"question": "Quale nome NON è una stagione secondo il testo?",
-"reponses": [
-{ "id": "a", "texte": "L'estate", "correcte": false },
-{ "id": "b", "texte": "L'autunno", "correcte": false },
-{ "id": "c", "texte": "Il mese bagnato", "correcte": true },
-{ "id": "d", "texte": "La primavera", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-188-03",
-"question": "Quanto tempo dura ogni singola stagione?",
-"reponses": [
-{ "id": "a", "texte": "Un mese soltanto", "correcte": false },
-{ "id": "b", "texte": "Tre mesi precisi", "correcte": true },
-{ "id": "c", "texte": "Un anno intero", "correcte": false },
-{ "id": "d", "texte": "Cinque settimane corte", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-188-04",
-"question": "Perché al protagonista piacciono tutte le stagioni?",
-"reponses": [
-{ "id": "a", "texte": "Perché cambiano la natura", "correcte": true },
-{ "id": "b", "texte": "Perché non deve studiare arte", "correcte": false },
-{ "id": "c", "texte": "Perché viaggia sempre sul treno", "correcte": false },
-{ "id": "d", "texte": "Perché i negozi fanno sconti", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-188-05",
-"question": "Cosa succede agli alberi durante l'autunno?",
-"reponses": [
-{ "id": "a", "texte": "Perdono le foglie colorate", "correcte": true },
-{ "id": "b", "texte": "Crescono in altezza velocemente", "correcte": false },
-{ "id": "c", "texte": "Fanno fiori bianchi teneri", "correcte": false },
-{ "id": "d", "texte": "Muoiono tutti quanti", "correcte": false }
-]
-}
-]
-},
-{
-"id": "189",
-"titre": "Una mattina molto fredda",
-"titre2": "Esercizio 189",
-"texte": [
-"Oggi alle sei in punto è una mattina molto fredda fuori.",
-"Il termometro nel giardino segna meno cinque gradi centigradi.",
-"L'acqua dentro la piccola pozzanghera davanti alla porta è ghiaccio.",
-"Accendo subito il riscaldamento al massimo nella mia cucina.",
-"Bevo una grande tazza di caffè bollente per fare colazione."
-],
-"audios": [
-{ "id": "audio-it-read-a1-189-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a1-189-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a1-189-01",
-"question": "A che ora inizia questa mattina molto fredda?",
-"reponses": [
-{ "id": "a", "texte": "Alle dieci del mattino", "correcte": false },
-{ "id": "b", "texte": "Alle sei in punto", "correcte": true },
-{ "id": "c", "texte": "A mezzogiorno preciso", "correcte": false },
-{ "id": "d", "texte": "Alle ventidue di sera", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-189-02",
-"question": "Cosa indica il termometro nel giardino?",
-"reponses": [
-{ "id": "a", "texte": "Più trenta gradi caldi", "correcte": false },
-{ "id": "b", "texte": "Meno i cinque gradi", "correcte": true },
-{ "id": "c", "texte": "Zero gradi esatti", "correcte": false },
-{ "id": "d", "texte": "Non funziona lo schermo", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-189-03",
-"question": "In cosa si è trasformata l'acqua della pozzanghera?",
-"reponses": [
-{ "id": "a", "texte": "In ghiaccio solido", "correcte": true },
-{ "id": "b", "texte": "In succo d'arancia dolce", "correcte": false },
-{ "id": "c", "texte": "In una zuppa calda", "correcte": false },
-{ "id": "d", "texte": "È sparita del tutto", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-189-04",
-"question": "Cosa accende il protagonista nella sua cucina?",
-"reponses": [
-{ "id": "a", "texte": "La luce principale grande", "correcte": false },
-{ "id": "b", "texte": "Il riscaldamento", "correcte": true },
-{ "id": "c", "texte": "La radio delle canzoni", "correcte": false },
-{ "id": "d", "texte": "Il forno per la pizza", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a1-189-05",
-"question": "Quale bevanda consuma il protagonista a colazione?",
-"reponses": [
-{ "id": "a", "texte": "Una grande tazza di caffè bollente", "correcte": true },
-{ "id": "b", "texte": "Un bicchiere di latte freddo", "correcte": false },
-{ "id": "c", "texte": "Due litri di acqua minerale", "correcte": false },
-{ "id": "d", "texte": "Della cioccolata dolce", "correcte": false }
-]
-}
-]
-},
-{
-"id": "190",
-"titre": "Un pomeriggio caldo",
-"titre2": "Esercizio 190",
-"texte": [
-"Sono le quattordici in punto ed è un pomeriggio caldissimo.",
-"Il sole bussa forte nel cielo e non c'è vento per rinfrescare.",
-"Siedo all'ombra sotto un grande albero antico nel parco.",
-"Bevo molta acqua limpida per non avere sete durante l'ora.",
-"In tarda serata farà speriamo un po' più fresco fuori."
-],
-"audios": [
-{ "id": "audio-it-read-a1-189-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a1-189-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a1-190-01",
-"question": "A che ora l'ambiente diventa caldissimo nel testo?",
+"id": "q-it-read-a1-192-03",
+"question": "A che ora inizia la festa di compleanno?",
 "reponses": [
 { "id": "a", "texte": "Alle sei di mattina presto", "correcte": false },
-{ "id": "b", "texte": "Alle quattordici in punto", "correcte": true },
+{ "id": "b", "texte": "Alle diciotto in punto", "correcte": true },
 { "id": "c", "texte": "Alle ventidue di sera tardi", "correcte": false },
-{ "id": "d", "texte": "A mezzanotte in punto", "correcte": false }
+{ "id": "d", "texte": "A mezzogiorno preciso", "correcte": false }
 ]
 },
 {
-"id": "q-it-read-a1-190-02",
-"question": "Casa manca completamente in questo pomeriggio?",
+"id": "q-it-read-a1-192-04",
+"question": "Dove compra il regalo il protagonista?",
 "reponses": [
-{ "id": "a", "texte": "Il sole nel cielo azzurro", "correcte": false },
-{ "id": "b", "texte": "Il vento per rinfrescare", "correcte": true },
-{ "id": "c", "texte": "Gli alberi antichi nel parco", "correcte": false },
-{ "id": "d", "texte": "L'acqua da bere", "correcte": false }
+{ "id": "a", "texte": "Al chiosco della stazione", "correcte": false },
+{ "id": "b", "texte": "Al centro commerciale", "correcte": true },
+{ "id": "c", "texte": "Nella farmacia comunale", "correcte": false },
+{ "id": "d", "texte": "Nella stalla della fattoria", "correcte": false }
 ]
 },
 {
-"id": "q-it-read-a1-190-03",
-"question": "Dove siede esattamente il protagonista nel parco pubblico?",
+"id": "q-it-read-a1-192-05",
+"question": "Cosa porta il protagonista alla festa oltre al regalo?",
 "reponses": [
-{ "id": "a", "texte": "Sotto il sole forte sulla strada", "correcte": false },
-{ "id": "b", "texte": "All'ombra sotto un grande albero", "correcte": true },
-{ "id": "c", "texte": "Sulla staccionata del vicino", "correcte": false },
-{ "id": "d", "texte": "Dentro la macchina di Luca", "correcte": false }
+{ "id": "a", "texte": "Una torta dolce", "correcte": true },
+{ "id": "b", "texte": "Una bottiglia di latte fresco", "correcte": false },
+{ "id": "c", "texte": "Una palla rossa da calcio", "correcte": false },
+{ "id": "d", "texte": "Un ombrello giallo grande", "correcte": false }
+]
+}
 ]
 },
 {
-"id": "q-it-read-a1-190-04",
-"question": "Cosa beve il protagonista contro la sete?",
+"id": "193",
+"titre": "A casa dei miei nonni",
+"titre2": "Esercizio 193",
+"texte": [
+"Mi piace moltissimo stare a casa dei miei nonni in campagna.",
+"Loro mi raccontano sempre storie molto interessanti del passato.",
+"Mio nonno lavora nell'orto e mi fa vedere le carote fresche.",
+"Mia nonna cucina una deliziosa zuppa calda per tutta la famiglia.",
+"La sera beviamo del tè tiepido nel soggiorno accogliente."
+],
+"audios": [
+{ "id": "audio-it-read-a1-193-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-193-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-193-01",
+"question": "Cosa raccontano i nonni al protagonista?",
 "reponses": [
-{ "id": "a", "texte": "Molta acqua limpida", "correcte": true },
-{ "id": "b", "texte": "Della cioccolata calda", "correcte": false },
-{ "id": "c", "texte": "Un cappuccino molto dolce", "correcte": false },
-{ "id": "d", "texte": "Un bicchiere di latte fresco", "correcte": false }
+{ "id": "a", "texte": "Gli orari di partenza dei treni", "correcte": false },
+{ "id": "b", "texte": "Storie interessanti del passato", "correcte": true },
+{ "id": "c", "texte": "Il meteo della città di Firenze", "correcte": false },
+{ "id": "d", "texte": "Nulla, guardano solo la tv", "correcte": false }
 ]
 },
 {
-"id": "q-it-read-a1-190-05",
-"question": "Quando farà speriamo un po' più fresco?",
+"id": "q-it-read-a1-193-02",
+"question": "Dove lavora il nonno del protagonista?",
 "reponses": [
-{ "id": "a", "texte": "In tarda serata", "correcte": true },
-{ "id": "b", "texte": "Subito la mattina dopo presto", "correcte": false },
-{ "id": "c", "texte": "Il prossimo dicembre a Natale", "correcte": false },
-{ "id": "d", "texte": "Mai più in questo paese", "correcte": false }
+{ "id": "a", "texte": "In una grande fabbrica moderna", "correcte": false },
+{ "id": "b", "texte": "Nell'orto", "correcte": true },
+{ "id": "c", "texte": "Nella sala d'attesa medica", "correcte": false },
+{ "id": "d", "texte": "Al banco del check-in", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-193-03",
+"question": "Quale verdura mostra il nonno al protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Delle patate vecchie", "correcte": false },
+{ "id": "b", "texte": "Le carote fresche", "correcte": true },
+{ "id": "c", "texte": "Un cetriolo piccolo", "correcte": false },
+{ "id": "d", "texte": "Delle mele rosse grandi", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-193-04",
+"question": "Cosa cucina la nonna per i parenti?",
+"reponses": [
+{ "id": "a", "texte": "Una pizza margherita grassa", "correcte": false },
+{ "id": "b", "texte": "Una deliziosa zuppa calda", "correcte": true },
+{ "id": "c", "texte": "Un'insalata verde semplice", "correcte": false },
+{ "id": "d", "texte": "Una frittata in bianco leggera", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-193-05",
+"question": "Dove bevono il tè tiepido la sera?",
+"reponses": [
+{ "id": "a", "texte": "Nel soggiorno accogliente", "correcte": true },
+{ "id": "b", "texte": "Sotto un albero del parco pubblico", "correcte": false },
+{ "id": "c", "texte": "Nessun luogo, vanno subito a letto", "correcte": false },
+{ "id": "d", "texte": "Fuori sulla staccionata", "correcte": false }
+]
+}
+]
+},
+{
+"id": "194",
+"titre": "Una letter al mio amico",
+"titre2": "Esercizio 194",
+"texte": [
+"Oggi scrivo una lunga lettera cartacea al mio migliore amico.",
+"Lui abita adesso a Milano e mi manca molto la sua compagnia.",
+"Uso una penna blu per scrivere sopra un foglio bianco.",
+"Racconto a lui del mio lavoro d'ufficio e del cane Bello.",
+"Alla fine metto il foglio in una busta con un francobollo."
+],
+"audios": [
+{ "id": "audio-it-read-a1-194-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-194-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-194-01",
+"question": "A chi scrive una lettera il protagonista oggi?",
+"reponses": [
+{ "id": "a", "texte": "A sua nonna paterna", "correcte": false },
+{ "id": "b", "texte": "Al mio migliore amico", "correcte": true },
+{ "id": "c", "texte": "Al poliziotto dell'aeroporto", "correcte": false },
+{ "id": "d", "texte": "Alla segretaria dello studio", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-194-02",
+"question": "In quale città vive l'amico adesso?",
+"reponses": [
+{ "id": "a", "texte": "A Roma vicino al centro", "correcte": false },
+{ "id": "b", "texte": "A Milano", "correcte": true },
+{ "id": "c", "texte": "In un piccolo villaggio spagnolo", "correcte": false },
+{ "id": "d", "texte": "A Firenze sul fiume", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-194-03",
+"question": "Cosa usa il protagonista per redigere il testo?",
+"reponses": [
+{ "id": "a", "texte": "Un computer moderno", "correcte": false },
+{ "id": "b", "texte": "Una penna blu", "correcte": true },
+{ "id": "c", "texte": "Uno spazzolino da denti", "correcte": false },
+{ "id": "d", "texte": "Un pezzo di gesso nero", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-194-04",
+"question": "Di cosa parla il protagonista nella lettera?",
+"reponses": [
+{ "id": "a", "texte": "Del lavoro d'ufficio e del cane Bello", "correcte": true },
+{ "id": "b", "texte": "Della ricetta delle compresse", "correcte": false },
+{ "id": "c", "texte": "Del freddo nel mese di dicembre", "correcte": false },
+{ "id": "d", "texte": "Delle api operose nell'alveare", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-194-05",
+"question": "Cosa applica sulla busta alla fine?",
+"reponses": [
+{ "id": "a", "texte": "Un francobollo", "correcte": true },
+{ "id": "b", "texte": "Un gelato freddo al cioccolato", "correcte": false },
+{ "id": "c", "texte": "Una bella foto della chiesa", "correcte": false },
+{ "id": "d", "texte": "Una candelina rossa", "correcte": false }
+]
+}
+]
+},
+{
+"id": "195",
+"titre": "Una telefonata",
+"titre2": "Esercizio 195",
+"texte": [
+"Il mio smartphone squilla forte nel pomeriggio in soggiorno.",
+"Prendo subito l'apparecchio e ascolto la voce di mia madre.",
+"Lei mi domanda: Ciao, come stai oggi in città?",
+"Rispondo subito: Grazie, sto molto bene e studio molto l'italiano.",
+"Parliamo per dieci minuti interi e poi diciamo Arrivederci."
+],
+"audios": [
+{ "id": "audio-it-read-a1-195-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-195-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-195-01",
+"question": "Cosa squilla forte nel pomeriggio?",
+"reponses": [
+{ "id": "a", "texte": "La sveglia sul tavolino", "correcte": false },
+{ "id": "b", "texte": "Il mio smartphone", "correcte": true },
+{ "id": "c", "texte": "La campanella della scuola", "correcte": false },
+{ "id": "d", "texte": "L'autobus arancione", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-195-02",
+"question": "Di chi è la voce che sente il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "La voce dell'insegnante Rossi", "correcte": false },
+{ "id": "b", "texte": "La voce di mia madre", "correcte": true },
+{ "id": "c", "texte": "La voce della dentista dolce", "correcte": false },
+{ "id": "d", "texte": "La voce di Anna della città", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-195-03",
+"question": "Cosa desidera sapere la madre?",
+"reponses": [
+{ "id": "a", "texte": "Come sta il protagonista oggi", "correcte": true },
+{ "id": "b", "texte": "A che ora passa il treno veloce", "correcte": false },
+{ "id": "c", "texte": "Qual è la direzione del museo", "correcte": false },
+{ "id": "d", "texte": "Il prezzo del quaderno d'arte", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-195-04",
+"question": "Quale lingua studia intensamente il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Lo spagnolo urbano", "correcte": false },
+{ "id": "b", "texte": "L'italiano", "correcte": true },
+{ "id": "c", "texte": "Il francese a scuola", "correcte": false },
+{ "id": "d", "texte": "L'inglese moderno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-195-05",
+"question": "Per quanto tempo parlano al telefono?",
+"reponses": [
+{ "id": "a", "texte": "Per due ore pesanti", "correcte": false },
+{ "id": "b", "texte": "Per dieci minuti interi", "correcte": true },
+{ "id": "c", "texte": "Soltanto per un secondo veloce", "correcte": false },
+{ "id": "d", "texte": "Tutta la sera sul divano", "correcte": false }
+]
+}
+]
+},
+{
+"id": "196",
+"titre": "La festa del mio villaggio",
+"titre2": "Esercizio 196",
+"texte": [
+"Una volta all'anno gli abitanti organizzano una festa del villaggio.",
+"Sulla piazza principale mettono musica forte, tavoli e panchine.",
+"Le persone parlano allegramente tra di loro, ridono e danzano.",
+"Ci sono cibi deliziosi cotti alla griglia e bevande fresche.",
+"La festa continua fino alla notte fonda ed è bellissima."
+],
+"audios": [
+{ "id": "audio-it-read-a1-196-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-196-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-196-01",
+"question": "Ogni quanto tempo si celebra la festa del villaggio?",
+"reponses": [
+{ "id": "a", "texte": "Ogni domenica mattina", "correcte": false },
+{ "id": "b", "texte": "Una volta all'anno", "correcte": true },
+{ "id": "c", "texte": "Due volte alla settimana", "correcte": false },
+{ "id": "d", "texte": "Solo nella stagione dell'inverno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-196-02",
+"question": "Dove vengono posizionati i tavoli e le panchine?",
+"reponses": [
+{ "id": "a", "texte": "Nel bosco fitto e scuro", "correcte": false },
+{ "id": "b", "texte": "Sulla piazza principale", "correcte": true },
+{ "id": "c", "texte": "Dentro il museo d'arte antica", "correcte": false },
+{ "id": "d", "texte": "Nella cucina del protagonista", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-196-03",
+"question": "Cosa fanno i paesani durante la celebrazione?",
+"reponses": [
+{ "id": "a", "texte": "Dormono sotto l'ombrellone", "correcte": false },
+{ "id": "b", "texte": "Parlano allegramente, ridono e danzano", "correcte": true },
+{ "id": "c", "texte": "Lavorano sodo in ufficio", "correcte": false },
+{ "id": "d", "texte": "Cercano la segretaria medica", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-196-04",
+"question": "Quale cibo viene consumato secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "Cibi deliziosi cotti alla griglia", "correcte": true },
+{ "id": "b", "texte": "Solo gelato freddo preso al chiosco", "correcte": false },
+{ "id": "c", "texte": "Un passato freddo con frutta", "correcte": false },
+{ "id": "d", "texte": "Erba fresca della fattoria", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-196-05",
+"question": "Fino a quando prosegue la festa del villaggio?",
+"reponses": [
+{ "id": "a", "texte": "Fino a mezzogiorno preciso", "correcte": false },
+{ "id": "b", "texte": "Fino alla notte fonda", "correcte": true },
+{ "id": "c", "texte": "Dura solo cinque minuti veloci", "correcte": false },
+{ "id": "d", "texte": "Fino al prossimo mese di dicembre", "correcte": false }
+]
+}
+]
+},
+{
+"id": "197",
+"titre": "Aiutare un vicino",
+"titre2": "Esercizio 197",
+"texte": [
+"Il mio vicino è un uomo molto anziano e si chiama Signor Schmidt.",
+"Oggi non riesce a trasportare bene le sue borse della spesa pesanti.",
+"Lo incontro davanti alla porta d'ingresso e lo aiuto volentieri.",
+"Porto i grandi sacchetti su per le scale fino al suo appartamento.",
+"Lui mi ringrazia cordialmente e mi regala una mela rossa."
+],
+"audios": [
+{ "id": "audio-it-read-a1-197-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-197-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-197-01",
+"question": "Come si chiama il vicino anziano?",
+"reponses": [
+{ "id": "a", "texte": "Thomas", "correcte": false },
+{ "id": "b", "texte": "Signor Schmidt", "correcte": true },
+{ "id": "c", "texte": "Bello", "correcte": false },
+{ "id": "d", "texte": "Signor Rossi", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-197-02",
+"question": "Cosa non riesce a sollevare bene il vicino oggi?",
+"reponses": [
+{ "id": "a", "texte": "La sua grande valigia di pelle", "correcte": false },
+{ "id": "b", "texte": "Le sue borse della spesa pesanti", "correcte": true },
+{ "id": "c", "texte": "La sua bicicletta nuova arancione", "correcte": false },
+{ "id": "d", "texte": "La staccionata di legno del giardino", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-197-03",
+"question": "Dove incontra il protagonista il vecchio uomo?",
+"reponses": [
+{ "id": "a", "texte": "Davanti alla porta d'ingresso", "correcte": true },
+{ "id": "b", "texte": "Al banco del chiosco ferroviario", "correcte": false },
+{ "id": "c", "texte": "In mezzo al bosco di rami secchi", "correcte": false },
+{ "id": "d", "texte": "Sulla spiaggia del mare azzurro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-197-04",
+"question": "Dove trasporta i grandi sacchetti il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Su per le scale fino al suo appartamento", "correcte": true },
+{ "id": "b", "texte": "Nel grande parco pubblico cittadino", "correcte": false },
+{ "id": "c", "texte": "Di nuovo dentro il supermercato", "correcte": false },
+{ "id": "d", "texte": "Nella sala d'attesa medica tranquilla", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-197-05",
+"question": "Cosa riceve il protagonista dal Signor Schmidt per il suo aiuto?",
+"reponses": [
+{ "id": "a", "texte": "Una mela rossa", "correcte": true },
+{ "id": "b", "texte": "Una ricetta scritta per compresse", "correcte": false },
+{ "id": "c", "texte": "Un abbonamento mensile di zona", "correcte": false },
+{ "id": "d", "texte": "Un bicchiere di latte tiepido", "correcte": false }
+]
+}
+]
+},
+{
+"id": "198",
+"titre": "Una visita a casa di un'amica",
+"titre2": "Esercizio 198",
+"texte": [
+"Questo pomeriggio faccio una visita alla mia buona amica Anna.",
+"Lei abita in un appartamento accogliente nel centro della città.",
+"Ci sediamo insieme intorno al grande tavolo nella cucina luminosa.",
+"Anna mi mostra le sue nuove foto delle vacanze scattate in Francia.",
+"Parliamo molto dei nostri conoscenti e ridiamo di cuore."
+],
+"audios": [
+{ "id": "audio-it-read-a1-198-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-198-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-198-01",
+"question": "Quale amica va a trovare il protagonista oggi?",
+"reponses": [
+{ "id": "a", "texte": "Sarah del compleanno", "correcte": false },
+{ "id": "b", "texte": "Anna", "correcte": true },
+{ "id": "c", "texte": "Mimi la gatta", "correcte": false },
+{ "id": "d", "texte": "La segretaria dello studio", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-198-02",
+"question": "Dove è situata la casa accogliente di Anna?",
+"reponses": [
+{ "id": "a", "texte": "In campagna lontana", "correcte": false },
+{ "id": "b", "texte": "Nel centro della città", "correcte": true },
+{ "id": "c", "texte": "Accanto alla fattoria delle pecore", "correcte": false },
+{ "id": "d", "texte": "Vicino all'aeroporto internazionale", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-198-03",
+"question": "In quale stanza della casa si accomodano i due giovani?",
+"reponses": [
+{ "id": "a", "texte": "Nella cucina luminosa", "correcte": true },
+{ "id": "b", "texte": "Nel garage scuro", "correcte": false },
+{ "id": "c", "texte": "In camera da letto sul letto", "correcte": false },
+{ "id": "d", "texte": "Nel bagno davanti allo specchio", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-198-04",
+"question": "In quale paese sono state scattate le foto delle vacanze?",
+"reponses": [
+{ "id": "a", "texte": "In Italia sul fiume", "correcte": false },
+{ "id": "b", "texte": "In Francia", "correcte": true },
+{ "id": "c", "texte": "In Spagna da Thomas", "correcte": false },
+{ "id": "d", "texte": "In Inghilterra sotto la pioggia", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-198-05",
+"question": "Cosa fanno principalmente il protagonista e Anna?",
+"reponses": [
+{ "id": "a", "texte": "Parlano e ridono di cuore", "correcte": true },
+{ "id": "b", "texte": "Lavano i denti sani con sapone", "correcte": false },
+{ "id": "c", "texte": "Dormono sulla sedia tutto il pomeriggio", "correcte": false },
+{ "id": "d", "texte": "Preparano una torta di mele difficile", "correcte": false }
+]
+}
+]
+},
+{
+"id": "199",
+"titre": "Dire ciao e arrivederci",
+"titre2": "Esercizio 199",
+"texte": [
+"In Italia il saluto corretto nella vita di ogni giorno è importante.",
+"Quando incontro i miei compagni cari, dico sempre cordialmente Ciao.",
+"Con le persone anziane o in ufficio si usa dire meglio Buon giorno.",
+"Quando si esce da un negozio o da uno studio, si dice Arrivederci.",
+"Queste semplici espressioni indicano rispetto e rendono i contatti piacevoli."
+],
+"audios": [
+{ "id": "audio-it-read-a1-199-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-199-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-199-01",
+"question": "Cosa dice il protagonista quando incontra i suoi compagni?",
+"reponses": [
+{ "id": "a", "texte": "Arrivederci a tutti", "correcte": false },
+{ "id": "b", "texte": "Ciao", "correcte": true },
+{ "id": "c", "texte": "Buon giorno, signore", "correcte": false },
+{ "id": "d", "texte": "Nulla, cammina dritto sul sentiero", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-199-02",
+"question": "Quale espressione si usa con i soggetti anziani o al lavoro?",
+"reponses": [
+{ "id": "a", "texte": "Tschüss", "correcte": false },
+{ "id": "b", "texte": "Buon giorno", "correcte": true },
+{ "id": "c", "texte": "Ciao, mio caro", "correcte": false },
+{ "id": "d", "texte": "Buona notte a letto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-199-03",
+"question": "Quando si pronuncia la parola Arrivederci?",
+"reponses": [
+{ "id": "a", "texte": "Quando si esce da un negozio", "correcte": true },
+{ "id": "b", "texte": "Quando la sveglia suona la mattina", "correcte": false },
+{ "id": "c", "texte": "Quando lo smartphone squilla forte", "correcte": false },
+{ "id": "d", "texte": "Mentre si mangia la lasagna a tavola", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-199-04",
+"question": "Cosa dimostrano queste semplici formule di saluto?",
+"reponses": [
+{ "id": "a", "texte": "Che l'alunno non conosce la grammatica", "correcte": false },
+{ "id": "b", "texte": "Rispetto", "correcte": true },
+{ "id": "c", "texte": "Che il biglietto del treno è molto caro", "correcte": false },
+{ "id": "d", "texte": "Che si è malati nel letto con febbre", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-199-05",
+"question": "In quale paese queste regole sono importanti secondo la lettura?",
+"reponses": [
+{ "id": "a", "texte": "In Spagna da Thomas", "correcte": false },
+{ "id": "b", "texte": "In Italia", "correcte": true },
+{ "id": "c", "texte": "In Francia sulle spiagge", "correcte": false },
+{ "id": "d", "texte": "In Inghilterra con il vento", "correcte": false }
 ]
 }
 ]
