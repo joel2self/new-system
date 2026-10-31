@@ -1558,5 +1558,785 @@
 ]
 }
 ]
+},
+{
+    "id": "021",
+    "titre": "Im Supermarkt",
+    "titre2": "Übung 21",
+    "texte": [
+      "Am Samstagmorgen gehe ich in den großen Supermarkt, der sich im Stadtzentrum befindet.",
+      "Ich nehme am Eingang einen großen Einkaufswagen aus Metall, um meine Sachen hineinzulegen.",
+      "Ich gehe durch die Regale, um Reis, Nudeln und frische Kuhmilch zu suchen.",
+      "Es sind heute sehr viele Leute da und die Gänge sind wirklich sehr belebt.",
+      "Nachdem ich alle meine Produkte gefunden habe, stelle ich mich an der Kasse Nummer drei an."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-021-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-021-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-021-01",
+        "question": "Wann geht der Autor in den großen Supermarkt einkaufen?",
+        "reponses": [
+          { "id": "a", "texte": "Am Samstagmorgen", "correcte": true },
+          { "id": "b", "texte": "Am Sonntagabend", "correcte": false },
+          { "id": "c", "texte": "Am Montagmittag", "correcte": false },
+          { "id": "d", "texte": "Am Mittwochabend", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-021-02",
+        "question": "Was nimmt er am Eingang für seine Produkte?",
+        "reponses": [
+          { "id": "a", "texte": "Einen kleinen Korb aus Plastik", "correcte": false },
+          { "id": "b", "texte": "Eine braune Papiertüte", "correcte": false },
+          { "id": "c", "texte": "Einen großen Einkaufswagen aus Metall", "correcte": true },
+          { "id": "d", "texte": "Einen grauen Rucksack", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-021-03",
+        "question": "Welches Milchprodukt sucht der Autor in den Regalen?",
+        "reponses": [
+          { "id": "a", "texte": "Einen Becher Naturjoghurt", "correcte": false },
+          { "id": "b", "texte": "Ein Stück harten Käse", "correcte": false },
+          { "id": "c", "texte": "Ein Paket süße Butter", "correcte": false },
+          { "id": "d", "texte": "Frische Kuhmilch", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-021-04",
+        "question": "Wie ist die Atmosphäre im Supermarkt am Samstag?",
+        "reponses": [
+          { "id": "a", "texte": "Die Gänge sind sehr belebt", "correcte": true },
+          { "id": "b", "texte": "Der Laden ist komplett leer", "correcte": false },
+          { "id": "c", "texte": "Alle Leute müssen ganz leise sein", "correcte": false },
+          { "id": "d", "texte": "Der Supermarkt ist geschlossen", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-021-05",
+        "question": "An welcher Kasse stellt sich der Autor am Ende an?",
+        "reponses": [
+          { "id": "a", "texte": "An Kasse Nummer eins", "correcte": false },
+          { "id": "b", "texte": "An Kasse Nummer zwei", "correcte": false },
+          { "id": "c", "texte": "An Kasse Nummer drei", "correcte": true },
+          { "id": "d", "texte": "An Kasse Nummer vier", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Auf dem Dorfmarkt",
+    "titre2": "Übung 22",
+    "texte": [
+      "Jeden Sonntag baut sich der Markt auf dem großen Platz des Dorfes auf.",
+      "Die lokalen Bauern verkaufen dort frisches Gemüse, das am selben Morgen geerntet wurde.",
+      "Man findet dort knackige rote Tomaten, Karotten und viele Kartoffeln.",
+      "Die Stimmung ist sehr freundlich und man hört die Händler rufen, um Kunden anzulocken.",
+      "Ich mag diesen Markt, weil die Produkte natürlich und besser für die Gesundheit sind."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-022-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-022-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-022-01",
+        "question": "Wo befindet sich der Dorfmarkt am Sonntag?",
+        "reponses": [
+          { "id": "a", "texte": "In einem großen Sportstadion", "correcte": false },
+          { "id": "b", "texte": "In einer engen U-Bahn-Station", "correcte": false },
+          { "id": "c", "texte": "Auf dem großen Platz des Dorfes", "correcte": true },
+          { "id": "d", "texte": "Hinter der alten Bibliothek", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-022-02",
+        "question": "Wer verkauft das frische Gemüse auf dem Markt?",
+        "reponses": [
+          { "id": "a", "texte": "Die Schulkinder des Viertels", "correcte": false },
+          { "id": "b", "texte": "Die Apotheker in weißen Kitteln", "correcte": false },
+          { "id": "c", "texte": "Die Lehrer der Universität", "correcte": false },
+          { "id": "d", "texte": "Die lokalen Bauern", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-022-03",
+        "question": "Welche Farbe haben die Tomaten auf dem Dorfmarkt?",
+        "reponses": [
+          { "id": "a", "texte": "Sie sind rot", "correcte": true },
+          { "id": "b", "texte": "Sie sind gelb", "correcte": false },
+          { "id": "c", "texte": "Sie sind grün", "correcte": false },
+          { "id": "d", "texte": "Sie sind grau", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-022-04",
+        "question": "Was machen die Händler, um die Kunden anzulocken?",
+        "reponses": [
+          { "id": "a", "texte": "Sie spielen laut Gitarre", "correcte": false },
+          { "id": "b", "texte": "Sie verteilen kostenlose Hüte", "correcte": false },
+          { "id": "c", "texte": "Sie rufen laut", "correcte": true },
+          { "id": "d", "texte": "Sie bleiben völlig leise", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-022-05",
+        "question": "Warum kauft der Autor gerne auf diesem Markt ein?",
+        "reponses": [
+          { "id": "a", "texte": "Weil alle Produkte gratis sind", "correcte": false },
+          { "id": "b", "texte": "Weil es ein modernes Einkaufszentrum ist", "correcte": false },
+          { "id": "c", "texte": "Weil die Produkte natürlich sind", "correcte": true },
+          { "id": "d", "texte": "Weil er dort Kleidung probieren kann", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Obst kaufen",
+    "titre2": "Übung 23",
+    "texte": [
+      "Heute halte ich beim Obststand an, um Zutaten für einen Obstsalat zu kaufen.",
+      "Ich wähle zuerst ein Kilo süße gelbe Äpfel aus.",
+      "Danach nehme ich eine Staude reife Bananen und drei saftige Orangen.",
+      "Der Verkäufer wiegt mein Obst auf seiner elektronischen Waage vor meinen Augen.",
+      "Ich bezahle bar und er legt die Früchte vorsichtig in meine Stofftasche."
+    ],
+    "audios": [
+      {
+        "id": "audio-de-read-a1-023-1",
+        "personnage": "Lukas",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      },
+      {
+        "id": "audio-de-read-a1-023-2",
+        "personnage": "Johann",
+        "image": "https://cmsfly.com",
+        "url": "https://soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a1-023-01",
+        "question": "Warum möchte der Autor heute frisches Obst kaufen?",
+        "reponses": [
+          { "id": "a", "texte": "Um eine Gemüsesuppe zu kochen", "correcte": false },
+          { "id": "b", "texte": "Um einen Obstsalat zu machen", "correcte": true },
+          { "id": "c", "texte": "Um einen Apfelkuchen zu backen", "correcte": false },
+          { "id": "d", "texte": "Um Saft für das Büro zu pressen", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-023-02",
+        "question": "Wie viele gelbe Äpfel kauft der Autor am Stand?",
+        "reponses": [
+          { "id": "a", "texte": "Zwei Kilo Äpfel", "correcte": false },
+          { "id": "b", "texte": "Genau fünf Stück", "correcte": false },
+          { "id": "c", "texte": "Ein Kilo Äpfel", "correcte": true },
+          { "id": "d", "texte": "Drei Kilo Äpfel", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-023-03",
+        "question": "Wie viele saftige Orangen nimmt er mit?",
+        "reponses": [
+          { "id": "a", "texte": "Eine einzige Orange", "correcte": false },
+          { "id": "b", "texte": "Zwei Orangen", "correcte": false },
+          { "id": "c", "texte": "Vier Orangen", "correcte": false },
+          { "id": "d", "texte": "Drei Orangen", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a1-023-04",
+        "question": "Womit wiegt der Verkäufer das ausgewählte Obst?",
+        "reponses": [
+          { "id": "a", "texte": "Mit einer elektronischen Waage", "correcte": true },
+          { "id": "b", "texte": "Mit einem langen Holzlineal", "correcte": false },
+         { "id": "c", "texte": "Mit einem großen Korb", "correcte": false },
+{ "id": "d", "texte": "Mit einem Computergerät", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-023-05",
+"question": "Wie bezahlt der Autor seine Früchte?",
+"reponses": [
+{ "id": "a", "texte": "Mit einer App auf dem Handy", "correcte": false },
+{ "id": "b", "texte": "Mit einer Bankkarte aus Plastik", "correcte": false },
+{ "id": "c", "texte": "Er bezahlt bar", "correcte": true },
+{ "id": "d", "texte": "Mit einem Papierscheck", "correcte": false }
+]
+}
+]
+},
+{
+"id": "024",
+"titre": "In einer Bäckerei",
+"titre2": "Übung 24",
+"texte": [
+"Der Duft von warmem Brot zieht mich immer in die Bäckerei des Viertels.",
+"Ich grüße die nette Bäckerin und bestelle ein gut gebackenes Baguette.",
+"Ich nehme auch zwei Croissants mit Butter für den Snack am Nachmittag mit.",
+"Die Verkäuferin wickelt das Brot in eine kleine weiße Papiertüte.",
+"Ich bezahle schnell mit meiner Bankkarte und wünsche ihr einen schönen Tag."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-024-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-024-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-024-01",
+"question": "Was zieht den Autor in die Bäckerei des Viertels?",
+"reponses": [
+{ "id": "a", "texte": "Ein buntes Werbeplakat an der Wand", "correcte": false },
+{ "id": "b", "texte": "Laute Musik aus dem Geschäft", "correcte": false },
+{ "id": "c", "texte": "Der Duft von warmem Brot", "correcte": true },
+{ "id": "d", "texte": "Die schöne grüne Farbe der Tür", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-024-02",
+"question": "Was für ein Baguette bestellt der Autor?",
+"reponses": [
+{ "id": "a", "texte": "Ein Baguette ohne Salz", "correcte": false },
+{ "id": "b", "texte": "Ein sehr langes Baguette", "correcte": false },
+{ "id": "c", "texte": "Ein süßes Baguette mit Honig", "correcte": false },
+{ "id": "d", "texte": "Ein gut gebackenes Baguette", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-024-03",
+"question": "Wie viele Buttercroissants kauft er für den Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Zwei Croissants", "correcte": true },
+{ "id": "b", "texte": "Drei große Croissants", "correcte": false },
+{ "id": "c", "texte": "Ein einziges Croissant", "correcte": false },
+{ "id": "d", "texte": "Vier kleine Croissants", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-024-04",
+"question": "Worin verpackt die Bäckerin das gekaufte Brot?",
+"reponses": [
+{ "id": "a", "texte": "In eine grüne Plastiktüte", "correcte": false },
+{ "id": "b", "texte": "In eine kleine weiße Papiertüte", "correcte": true },
+{ "id": "c", "texte": "In einen Pappkarton für Kuchen", "correcte": false },
+{ "id": "d", "texte": "In ein sauberes Tuch aus Baumwolle", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-024-05",
+"question": "Wie bezahlt der Autor an der Bäckereikasse?",
+"reponses": [
+{ "id": "a", "texte": "Mit Kupfermünzen", "correcte": false },
+{ "id": "b", "texte": "Mit einem Postcheck", "correcte": false },
+{ "id": "c", "texte": "Mit seiner Bankkarte", "correcte": true },
+{ "id": "d", "texte": "Er bezahlt heute gar nicht", "correcte": false }
+]
+}
+]
+},
+{
+"id": "025",
+"titre": "In der Apotheke",
+"titre2": "Übung 25",
+"texte": [
+"Heute gehe ich in die Apotheke, weil ich leichte Kopfschmerzen habe.",
+"Ich gebe mein ärztliches Rezept dem Apotheker, der einen weißen Kittel trägt.",
+"Er holt eine Schachtel mit Medikamenten aus einer großen Wandsschublade.",
+"Er erklärt mir ganz deutlich, dass ich eine Tablette während der Mahlzeit nehmen muss.",
+"Ich kaufe auch eine Flasche Hustensaft, bevor ich das Geschäft verlasse."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-025-1",
+"personnage": "Lukas",
+"image": "",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-de-read-a1-025-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-025-01",
+"question": "Warum geht der Autor heute in die Apotheke?",
+"reponses": [
+{ "id": "a", "texte": "Weil er starke Zahnschmerzen hat", "correcte": false },
+{ "id": "b", "texte": "Weil er Bauchschmerzen hat", "correcte": false },
+{ "id": "c", "texte": "Weil er leichte Kopfschmerzen habe", "correcte": true },
+{ "id": "d", "texte": "Weil sein rechter Arm wehtut", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-025-02",
+"question": "Was trägt der Apotheker bei der Arbeit?",
+"reponses": [
+{ "id": "a", "texte": "Einen weißen Kittel", "correcte": true },
+{ "id": "b", "texte": "Einen schwarzen Hut", "correcte": false },
+{ "id": "c", "texte": "Einen blauen Anzug", "correcte": false },
+{ "id": "d", "texte": "Eine rote Schürze", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-025-03",
+"question": "Woher holt der Apotheker die Medikamentenschachtel?",
+"reponses": [
+{ "id": "a", "texte": "Unter seinem Schreibtisch", "correcte": false },
+{ "id": "b", "texte": "Aus einer großen Wandsschublade", "correcte": true },
+{ "id": "c", "texte": "Aus einer Kiste auf dem Boden", "correcte": false },
+{ "id": "d", "texte": "Hinter der Eingangstür", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-025-04",
+"question": "Wann soll der Autor die Tablette einnehmen?",
+"reponses": [
+{ "id": "a", "texte": "Vor dem Schlafengehen", "correcte": false },
+{ "id": "b", "texte": "Morgens vor dem Frühstück", "correcte": false },
+{ "id": "c", "texte": "Während der Mahlzeit", "correcte": true },
+{ "id": "d", "texte": "Alle zwei Stunden pünktlich", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-025-05",
+"question": "Welches zusätzliche Produkt kauft er vor dem Gehen?",
+"reponses": [
+{ "id": "a", "texte": "Eine Packung Pflaster", "correcte": false },
+{ "id": "b", "texte": "Eine neue Zahnbürste", "correcte": false },
+{ "id": "c", "texte": "Eine Flasche Hustensaft", "correcte": true },
+{ "id": "d", "texte": "Eine Tube Sonnencreme", "correcte": false }
+]
+}
+]
+},
+{
+"id": "026",
+"titre": "Kleidung kaufen",
+"titre2": "Übung 26",
+"texte": [
+"Ich gehe in ein Bekleidungsgeschäft, um ein neues Outfit für den Sommer zu kaufen.",
+"Ich suche zuerst ein weißes T-Shirt aus Baumwolle, das einfach und bequem ist.",
+"Danach wähle ich eine hellblaue Jeanshose aus, die genau meine Größe hat.",
+"Ich gehe in die Umkleidekabine, um die Sachen vor dem Spiegel anzuprobieren.",
+"Alles passt mir absolut perfekt, deshalb entscheide ich mich, das Set zu kaufen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-026-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-026-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-026-01",
+"question": "Warum betritt der Autor dieses Bekleidungsgeschäft?",
+"reponses": [
+{ "id": "a", "texte": "Um ein neues Outfit für den Sommer zu kaufen", "correcte": true },
+{ "id": "b", "texte": "Um dort als Verkäufer zu arbeiten", "correcte": false },
+{ "id": "c", "texte": "Um einen dicken Wintermantel zu suchen", "correcte": false },
+{ "id": "d", "texte": "Um einen Schulfreund dort zu treffen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-026-02",
+"question": "Welche Farbe hat das T-Shirt aus Baumwolle, das er sucht?",
+"reponses": [
+{ "id": "a", "texte": "Es ist schwarz", "correcte": false },
+{ "id": "b", "texte": "Es ist rot", "correcte": false },
+{ "id": "c", "texte": "Es ist blau", "correcte": false },
+{ "id": "d", "texte": "Es ist weiß", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-026-03",
+"question": "Was für eine Hose wählt der Autor aus?",
+"reponses": [
+{ "id": "a", "texte": "Eine schwarze Sportshort", "correcte": false },
+{ "id": "b", "texte": "Eine hellblaue Jeanshose", "correcte": true },
+{ "id": "c", "texte": "Eine graue Anzughose", "correcte": false },
+{ "id": "d", "texte": "Eine grüne Jogginghose", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-026-04",
+"question": "Wohin geht der Autor, um die Kleidung anzuprobieren?",
+"reponses": [
+{ "id": "a", "texte": "Hinter den Kassentresen", "correcte": false },
+{ "id": "b", "texte": "Mitten in den Verkaufsraum", "correcte": false },
+{ "id": "c", "texte": "In die Umkleidekabine", "correcte": true },
+{ "id": "d", "texte": "Draußen auf die Straße", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-026-05",
+"question": "Wie lautet die endgültige Entscheidung des Autors?",
+"reponses": [
+{ "id": "a", "texte": "Er nimmt überhaupt nichts mit", "correcte": false },
+{ "id": "b", "texte": "Er kauft nur das T-Shirt", "correcte": false },
+{ "id": "c", "texte": "Er fragt nach einer anderen Größe", "correcte": false },
+{ "id": "d", "texte": "Er entscheidet sich, das Set zu kaufen", "correcte": true }
+]
+}
+]
+},
+{
+"id": "027",
+"titre": "In einem Schuhgeschäft",
+"titre2": "Übung 27",
+"texte": [
+"Meine alten Schuhe sind kaputt, ich muss mir unbedingt neue kaufen.",
+"Das Geschäft bietet eine riesige Auswahl an Sneakern, Stiefeln und Sandalen.",
+"Ich entdecke ein schönes Paar schwarze Sneaker mit weißen Schnürsenkeln.",
+"Ich frage den jungen Verkäufer nach meiner Schuhgröße, dem Wert achtunddreißig.",
+"Ich gehe ein bisschen im Laden herum, um zu prüfen, ob sie bequem sind."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-027-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-027-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-027-01",
+"question": "Warum muss der Autor neue Schuhe kaufen?",
+"reponses": [
+{ "id": "a", "texte": "Weil er ein Geschenk machen will", "correcte": false },
+{ "id": "b", "texte": "Weil seine alten Schuhe kaputt sind", "correcte": true },
+{ "id": "c", "texte": "Weil er mit dem Fußballspielen beginnt", "correcte": false },
+{ "id": "d", "texte": "Weil es eine Schulregel ist", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-027-02",
+"question": "Welches Paar Schuhe bemerkt der Autor im Laden?",
+"reponses": [
+{ "id": "a", "texte": "Blaue Gummistiefel", "correcte": false },
+{ "id": "b", "texte": "Gelbe Strandsandalen", "correcte": false },
+{ "id": "c", "texte": "Schwarze Sneaker mit weißen Schnürsenkeln", "correcte": true },
+{ "id": "d", "texte": "Rote Sportschuhe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-027-03",
+"question": "Welche Schuhgröße hat der Autor?",
+"reponses": [
+{ "id": "a", "texte": "Größe sechsunddreißig", "correcte": false },
+{ "id": "b", "texte": "Größe vierzig", "correcte": false },
+{ "id": "c", "texte": "Größe siebenunddreißig", "correcte": false },
+{ "id": "d", "texte": "Größe achtunddreißig", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-027-04",
+"question": "Wen bittet der Autor um die richtige Schuhgröße?",
+"reponses": [
+{ "id": "a", "texte": "Den jungen Verkäufer", "correcte": true },
+{ "id": "b", "texte": "Einen anderen Kunden", "correcte": false },
+{ "id": "c", "texte": "Seine Großmutter", "correcte": false },
+{ "id": "d", "texte": "Den Direktor der Schule", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-027-05",
+"question": "Was macht der Autor, um sicher zu sein, dass sie gut passen?",
+"reponses": [
+{ "id": "a", "texte": "Er rennt ganz schnell auf der Straße", "correcte": false },
+{ "id": "b", "texte": "Er springt mehrmals in die Luft", "correcte": false },
+{ "id": "c", "texte": "Er geht ein bisschen im Laden herum", "correcte": true },
+{ "id": "d", "texte": "Er schaut ein Video im Internet an", "correcte": false }
+]
+}
+]
+},
+{
+"id": "028",
+"titre": "Die Preise der Produkte",
+"titre2": "Übung 28",
+"texte": [
+"Wenn ich einkaufen gehe, schaue ich immer sehr aufmerksam auf den Preis der Produkte.",
+"Jeder Artikel hat ein kleines weißes Etikett, auf dem der Preis in Euro steht.",
+"Die Kekspackung kostet zwei Euro und die Flasche Apfelsaft drei Euro.",
+"Ich berechne die Gesamtsumme in meinem Kopf, um mein Budget nicht zu überschreiten.",
+"Das ist eine gute Gewohnheit, um Geld zu sparen und verantwortungsvoll zu sein."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-028-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-028-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-028-01",
+"question": Worauf achtet der Autor beim Einkaufen immer sehr aufmerksam?",
+"reponses": [
+{ "id": "a", "texte": "Auf die Farbe der Verpackungen", "correcte": false },
+{ "id": "b", "texte": "Auf die Größe der Kartons", "correcte": false },
+{ "id": "c", "texte": "Auf den Preis der Produkte", "correcte": true },
+{ "id": "d", "texte": "Auf den Namen des Fabrikanten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-028-02",
+"question": "In welcher Währung stehen die Preise auf dem weißen Etikett?",
+"reponses": [
+{ "id": "a", "texte": "In Dollar", "correcte": false },
+{ "id": "b", "texte": "In Euro", "correcte": true },
+{ "id": "c", "texte": "In Pfund", "correcte": false },
+{ "id": "d", "texte": "In Franken", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-028-03",
+"question": "Wie viel kostet die Packung Kekse im Laden?",
+"reponses": [
+{ "id": "a", "texte": "Ein Euro", "correcte": false },
+{ "id": "b", "texte": "Drei Euro", "correcte": false },
+{ "id": "c", "texte": "Vier Euro", "correcte": false },
+{ "id": "d", "texte": "Zwei Euro", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-028-04",
+"question": "Wo berechnet der Autor die Gesamtsumme seiner Einkäufe?",
+"reponses": [
+{ "id": "a", "texte": "In seinem Kopf", "correcte": true },
+{ "id": "b", "texte": "Auf einem großen Heft", "correcte": false },
+{ "id": "c", "texte": "Mit einer Solartaschenrechner", "correcte": false },
+{ "id": "d", "texte": "Auf seinem Smartphone", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-028-05",
+"question": "Warum ist das laut Text eine sehr gute Gewohnheit?",
+"reponses": [
+{ "id": "a", "texte": "Um die Einkäufe schneller zu beenden", "correcte": false },
+{ "id": "b", "texte": "Um mit dem Kassierer zu plaudern", "correcte": false },
+{ "id": "c", "texte": "Um Geld zu sparen", "correcte": true },
+{ "id": "d", "texte": "Um den Verkäufern eine Freude zu machen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "029",
+"titre": "Mit Mama einkaufen",
+"titre2": "Übung 29",
+"texte": [
+"Am Mittwochnachmittag begleite ich Mama, um die Einkäufe für das Haus zu machen.",
+"Sie bereitet immer eine kleine Liste vor, die auf ein Stück gelbes Papier geschrieben ist.",
+"Meine Rolle ist es, die Liste vorzulesen und die Artikel in den Regalen zu finden.",
+"Mama wählt das Fleisch beim Metzger und den frischen Fisch beim Fischhändler aus.",
+"Es ist eine schöne Zeit, die wir jede Woche zusammen verbringen."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-029-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-029-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-029-01",
+"question": "An welchem Tag begleitet der Autor seine Mutter?",
+"reponses": [
+{ "id": "a", "texte": "Am Samstagabend", "correcte": false },
+{ "id": "b", "texte": "Am Mittwochnachmittag", "correcte": true },
+{ "id": "c", "texte": "Am Montagmorgen", "correcte": false },
+{ "id": "d", "texte": "Am Freitagmittag", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-029-02",
+"question": "Welche Farbe hat das Papier der Einkaufsliste?",
+"reponses": [
+{ "id": "a", "texte": "Es ist weiß", "correcte": false },
+{ "id": "b", "texte": "Es ist grün", "correcte": false },
+{ "id": "c", "texte": "Es ist blau", "correcte": false },
+{ "id": "d", "texte": "Es ist gelb", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-029-03",
+"question": "Was ist die Aufgabe des Autors beim Einkaufen?",
+"reponses": [
+{ "id": "a", "texte": "Den schweren Einkaufswagen schieben", "correcte": false },
+{ "id": "b", "texte": "Die Liste vorlesen und die Artikel finden", "correcte": true },
+{ "id": "c", "texte": "Am Ende die Kassiererin bezahlen", "correcte": false },
+{ "id": "d", "texte": "Die Türen für die Leute öffnen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-029-04",
+"question": "Wo wählt die Mutter das Fleisch aus?",
+"reponses": [
+{ "id": "a", "texte": "Beim Metzger", "correcte": true },
+{ "id": "b", "texte": "Beim Fischhändler", "correcte": false },
+{ "id": "c", "texte": "In der Bäckerei", "correcte": false },
+{ "id": "d", "texte": "In der Apotheke", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-029-05",
+"question": "Wie oft verbringen sie diese gemeinsame Zeit?",
+"reponses": [
+{ "id": "a", "texte": "Einmal im Monat", "correcte": false },
+{ "id": "b", "texte": "Nur einmal im Jahr im Sommer", "correcte": false },
+{ "id": "c", "texte": "Jede Woche", "correcte": true },
+{ "id": "d", "texte": "Alle zwei Tage", "correcte": false }
+]
+}
+]
+},
+{
+"id": "030",
+"titre": "Mein erster Einkauf",
+"titre2": "Übung 30",
+"texte": [
+"Heute ist ein ganz besonderer Tag, weil ich meinen allerersten Einkauf alleine mache.",
+"Mein Vater hat mir einen Fünf-Euro-Schein gegeben, um ein schönes Zeichenheft zu kaufen.",
+"Ich gehe ganz brav zu dem kleinen Schreibwarenladen, der am Ende meiner Straße liegt.",
+"Ich wähle ein Heft mit einem kleinen weißen Katzenmotiv auf dem Umschlag aus.",
+"Die Verkäuferin gibt mir das Wechselgeld mit einem netten Lächeln und ich gehe stolz nach Hause."
+],
+"audios": [
+{
+"id": "audio-de-read-a1-030-1",
+"personnage": "Lukas",
+"image": "",
+"url": ""
+},
+{
+"id": "audio-de-read-a1-030-2",
+"personnage": "Johann",
+"image": "cmsfly.com",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-de-read-a1-030-01",
+"question": "Warum ist heute ein ganz besonderer Tag für den Autor?",
+"reponses": [
+{ "id": "a", "texte": "Weil es der Beginn der großen Schulferien ist", "correcte": false },
+{ "id": "b", "texte": "Weil der Autor eine weite Reise im Zug macht", "correcte": false },
+{ "id": "c", "texte": "Weil er seinen allerersten Einkauf alleine macht", "correcte": true },
+{ "id": "d", "texte": "Weil heute das große Dorffest stattfindet", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-030-02",
+"question": "Was für einen Geldschein hat der Vater dem Autor gegeben?",
+"reponses": [
+{ "id": "a", "texte": "Einen Zehn-Euro-Schein", "correcte": false },
+{ "id": "b", "texte": "Einen Fünf-Euro-Schein", "correcte": true },
+{ "id": "c", "texte": "Einen Zwanzig-Euro-Schein", "correcte": false },
+{ "id": "d", "texte": "Er hat ihm nur Münzen gegeben", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-030-03",
+"question": "Wo befindet sich der kleine Schreibwarenladen?",
+"reponses": [
+{ "id": "a", "texte": "Im Stadtzentrum in der Nähe der U-Bahn", "correcte": false },
+{ "id": "b", "texte": "Gegenüber der großen Bäckerei des Viertels", "correcte": false },
+{ "id": "c", "texte": "In einem anderen, weit entfernten Dorf", "correcte": false },
+{ "id": "d", "texte": "Am Ende der Straße des Autors", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-030-04",
+"question": "Welches Tier ist auf dem Umschlag des gewählten Heftes abgebildet?",
+"reponses": [
+{ "id": "a", "texte": "Eine kleine weiße Katze", "correcte": true },
+{ "id": "b", "texte": "Ein kleiner weißer Hund", "correcte": false },
+{ "id": "c", "texte": "Ein schöner blauer Vogel", "correcte": false },
+{ "id": "d", "texte": "Ein kleiner grüner Fisch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-030-05",
+"question": "Wie fühlt sich der Autor, als er nach dem Einkauf nach Hause geht?",
+"reponses": [
+{ "id": "a", "texte": "Er ist sehr müde", "correcte": false },
+{ "id": "b", "texte": "Er ist sehr traurig", "correcte": false },
+{ "id": "c", "texte": "Er ist stolz", "correcte": true },
+{ "id": "d", "texte": "Er ist sehr gestresst", "correcte": false }
+]
+}
+]
 }
 ]
