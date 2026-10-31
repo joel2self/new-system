@@ -1,9 +1,681 @@
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+"id": "101",
+"titre": "Mi presento",
+"titre2": "Esercizio 101",
+"texte": [
+"Ciao! Mi chiamo Marco e ho venticinque anni.",
+"Abito a Roma, una bellissima città in Italia.",
+"Studio l'italiano e parlo anche un po' di francese.",
+"Nel tempo libero mi piace leggere libri e camminare nel parco.",
+"Oggi sono molto felice di incontrare nuovi amici qui."
+],
+"audios": [
+{ "id": "audio-it-read-a1-101-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-101-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-101-01",
+"question": "Come si chiama il protagonista del testo?",
+"reponses": [
+{ "id": "a", "texte": "Lorenzo", "correcte": false },
+{ "id": "b", "texte": "Marco", "correcte": true },
+{ "id": "c", "texte": "Chiara", "correcte": false },
+{ "id": "d", "texte": "Thomas", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-101-02",
+"question": "Quanti anni ha Marco?",
+"reponses": [
+{ "id": "a", "texte": "Venti anni", "correcte": false },
+{ "id": "b", "texte": "Trenta anni", "correcte": false },
+{ "id": "c", "texte": "Ventinfive anni", "correcte": true },
+{ "id": "d", "texte": "Quindici anni", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-101-03",
+"question": "In quale città abita Marco?",
+"reponses": [
+{ "id": "a", "texte": "A Milano", "correcte": false },
+{ "id": "b", "texte": "A Parigi", "correcte": false },
+{ "id": "c", "texte": "A Roma", "correcte": true },
+{ "id": "d", "texte": "A Berlino", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-101-04",
+"question": "Quale lingua studia Marco?",
+"reponses": [
+{ "id": "a", "texte": "L'italiano", "correcte": true },
+{ "id": "b", "texte": "Il tedesco", "correcte": false },
+{ "id": "c", "texte": "Lo spagnolo", "correcte": false },
+{ "id": "d", "texte": "L'inglese", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-101-05",
+"question": "Cosa piace fare a Marco nel tempo libero?",
+"reponses": [
+{ "id": "a", "texte": "Leggere libri e camminare nel parco", "correcte": true },
+{ "id": "b", "texte": "Cucinare la pizza con le olive", "correcte": false },
+{ "id": "c", "texte": "Dormire tutto il giorno nel letto", "correcte": false },
+{ "id": "d", "texte": "Comprare una nuova macchina", "correcte": false }
+]
 }
+]
+},
+{
+"id": "102",
+"titre": "La mia famiglia",
+"titre2": "Esercizio 102",
+"texte": [
+"La mia famiglia non è molto grande, siamo in quattro.",
+"Mio padre si chiama Roberto e lavora in un ufficio moderno.",
+"Mia madre si chiama Elena ed è una brava insegnante.",
+"Ho anche un fratello minore che va ancora alla scuola.",
+"La domenica mangiamo sempre insieme un pranzo delizioso."
+],
+"audios": [
+{ "id": "audio-it-read-a1-102-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-102-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-102-01",
+"question": "Quante persone ci sono nella famiglia?",
+"reponses": [
+{ "id": "a", "texte": "Due persone", "correcte": false },
+{ "id": "b", "texte": "Quattro persone", "correcte": true },
+{ "id": "c", "texte": "Sei persone", "correcte": false },
+{ "id": "d", "texte": "Tre persone", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-102-02",
+"question": "Come si chiama il padre?",
+"reponses": [
+{ "id": "a", "texte": "Marco", "correcte": false },
+{ "id": "b", "texte": "Roberto", "correcte": true },
+{ "id": "c", "texte": "Lorenzo", "correcte": false },
+{ "id": "d", "texte": "Paolo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-102-03",
+"question": "Qual è il lavoro della madre?",
+"reponses": [
+{ "id": "a", "texte": "È un'insegnante", "correcte": true },
+{ "id": "b", "texte": "Lavora in farmacia", "correcte": false },
+{ "id": "c", "texte": "È una dottoressa", "correcte": false },
+{ "id": "d", "texte": "Guida l'autobus rosso", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-102-04",
+"question": "Chi è l'altro membro della famiglia citato?",
+"reponses": [
+{ "id": "a", "texte": "Una sorella maggiore", "correcte": false },
+{ "id": "b", "texte": "Un fratello minore", "correcte": true },
+{ "id": "c", "texte": "Un cane piccolo", "correcte": false },
+{ "id": "d", "texte": "La nonna paterna", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-102-05",
+"question": "Cosa fa la famiglia insieme la domenica?",
+"reponses": [
+{ "id": "a", "texte": "Mangia un pranzo delizioso", "correcte": true },
+{ "id": "b", "texte": "Prende il treno per Berlino", "correcte": false },
+{ "id": "c", "texte": "Guarda un film horror al cinema", "correcte": false },
+{ "id": "d", "texte": "Pulisce tutta la casa", "correcte": false }
+]
+}
+]
+},
+{
+"id": "103",
+"titre": "Il mio migliore amico",
+"titre2": "Esercizio 103",
+"texte": [
+"Il mio migliore amico si chiama Luca e ci conosciamo da anni.",
+"Lui è molto alto, ha i capelli neri e gli occhi verdi.",
+"Amiamo fare molte attività divertenti insieme nel fine settimana.",
+"Giochiamo a calcio al campo sportivo vicino alla stazione.",
+"Luca è una persona gentile e posso sempre parlare con lui."
+],
+"audios": [
+{ "id": "audio-it-read-a1-103-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-103-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-103-01",
+"question": "Come si chiama il migliore amico?",
+"reponses": [
+{ "id": "a", "texte": "Roberto", "correcte": false },
+{ "id": "b", "texte": "Luca", "correcte": true },
+{ "id": "c", "texte": "Marco", "correcte": false },
+{ "id": "d", "texte": "Thomas", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-103-02",
+"question": "Di quale colore sono gli occhi di Luca?",
+"reponses": [
+{ "id": "a", "texte": "Azzurri", "correcte": false },
+{ "id": "b", "texte": "Neri", "correcte": false },
+{ "id": "c", "texte": "Verdi", "correcte": true },
+{ "id": "d", "texte": "Marroni", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-103-03",
+"question": "Quando fanno attività insieme i due amici?",
+"reponses": [
+{ "id": "a", "texte": "Nel fine settimana", "correcte": true },
+{ "id": "b", "texte": "Ogni mattina alle quattro", "correcte": false },
+{ "id": "c", "texte": "Solo a dicembre quando nevica", "correcte": false },
+{ "id": "d", "texte": "Mai, sono troppo occupati", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-103-04",
+"question": "Quale sport giocano insieme?",
+"reponses": [
+{ "id": "a", "texte": "Tennis", "correcte": false },
+{ "id": "b", "texte": "Calcio", "correcte": true },
+{ "id": "c", "texte": "Pallacanestro", "correcte": false },
+{ "id": "d", "texte": "Nuoto nel lago", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-103-05",
+"question": "Com'è il carattere di Luca?",
+"reponses": [
+{ "id": "a", "texte": "Gentile", "correcte": true },
+{ "id": "b", "texte": "Cattivo e sempre arrabbiato", "correcte": false },
+{ "id": "c", "texte": "Molto timido e silenzioso", "correcte": false },
+{ "id": "d", "texte": "Nervoso", "correcte": false }
+]
+}
+]
+},
+{
+"id": "104",
+"titre": "La mia routine quotidiana",
+"titre2": "Esercizio 104",
+"texte": [
+"La mia routine quotidiana è semplice dal lunedì al venerdì.",
+"Mi sveglio presto, faccio una doccia veloce e mi vesto.",
+"Vado al lavoro prendendo l'autobus delle otto in punto.",
+"Torno a casa stanco nel tardo pomeriggio per riposare.",
+"Cucino una cena calda e guardo un po' la televisione."
+],
+"audios": [
+{ "id": "audio-it-read-a1-104-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-104-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-104-01",
+"question": "In quali giorni la routine è sempre uguale?",
+"reponses": [
+{ "id": "a", "texte": "Solo il sabato e la domenica", "correcte": false },
+{ "id": "b", "texte": "Dal lunedì al venerdì", "correcte": true },
+{ "id": "c", "texte": "Ogni giorno del mese", "correcte": false },
+{ "id": "d", "texte": "Solo la domenica mattina", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-104-02",
+"question": "Cosa fa il protagonista subito dopo la doccia?",
+"reponses": [
+{ "id": "a", "texte": "Dorme di nuovo", "correcte": false },
+{ "id": "b", "texte": "Si veste", "correcte": true },
+{ "id": "c", "texte": "Compra un gelato", "correcte": false },
+{ "id": "d", "texte": "Va in banca", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-104-03",
+"question": "A che ora passa l'autobus per il lavoro?",
+"reponses": [
+{ "id": "a", "texte": "Alle otto in punto", "correcte": true },
+{ "id": "b", "texte": "Alle dieci e mezza", "correcte": false },
+{ "id": "c", "texte": "Alle sei di mattina", "correcte": false },
+{ "id": "d", "texte": "A mezzanotte", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-104-04",
+"question": "Come torna a casa il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Felice e riposato", "correcte": false },
+{ "id": "b", "texte": "Stanco", "correcte": true },
+{ "id": "c", "texte": "A piedi nel bosco", "correcte": false },
+{ "id": "d", "texte": "In bicicletta sul fiume", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-104-05",
+"question": "Cosa fa la sera prima di dormire?",
+"reponses": [
+{ "id": "a", "texte": "Cucina la cena e guarda la televisione", "correcte": true },
+{ "id": "b", "texte": "Scrive una lunga lettera a Berlino", "correcte": false },
+{ "id": "c", "texte": "Va dal dentista per un controllo", "correcte": false },
+{ "id": "d", "texte": "Pulisce il giardino grande", "correcte": false }
+]
+}
+]
+},
+{
+"id": "105",
+"titre": "Svegliarsi al mattino",
+"titre2": "Esercizio 105",
+"texte": [
+"Ogni mattina la mia sveglia suona forte alle sei e mezza.",
+"Apro gli occhi lentamente ma la stanza è ancora un po' buia.",
+"Rimango nel mio letto caldo per cinque minuti prima di alzarmi.",
+"Accendo la luce e vado subito in bagno per lavare il viso.",
+"Inizia un nuovo giorno e mi sento pronto e pieno di energia."
+],
+"audios": [
+{ "id": "audio-it-read-a1-105-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-105-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-105-01",
+"question": "A che ora suona la sveglia al mattino?",
+"reponses": [
+{ "id": "a", "texte": "Alle sei e mezza", "correcte": true },
+{ "id": "b", "texte": "Alle otto precise", "correcte": false },
+{ "id": "c", "texte": "Alle nove del mattino", "correcte": false },
+{ "id": "d", "texte": "Alle dieci di sera", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-105-02",
+"question": "Com'è la stanza quando il protagonista apre gli occhi?",
+"reponses": [
+{ "id": "a", "texte": "Molto luminosa e calda", "correcte": false },
+{ "id": "b", "texte": "Ancore un po' buia", "correcte": true },
+{ "id": "c", "texte": "Piena di sole", "correcte": false },
+{ "id": "d", "texte": "Verde e sporca", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-105-03",
+"question": "Per quanto tempo rimane nel letto caldo?",
+"reponses": [
+{ "id": "a", "texte": "Per un'ora intera", "correcte": false },
+{ "id": "b", "texte": "Per cinque minuti", "correcte": true },
+{ "id": "c", "texte": "Per venti minuti", "correcte": false },
+{ "id": "d", "texte": "Nemmeno un secondo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-105-04",
+"question": "Perché il protagonista va subito in bagno?",
+"reponses": [
+{ "id": "a", "texte": "Per lavare il viso", "correcte": true },
+{ "id": "b", "texte": "Per cercare le scarpe", "correcte": false },
+{ "id": "c", "texte": "Per cucinare i biscotti", "correcte": false },
+{ "id": "d", "texte": "Per dormire ancora", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-105-05",
+"question": "Come si sente alla fine del testo?",
+"reponses": [
+{ "id": "a", "texte": "Pronto e pieno di energia", "correcte": true },
+{ "id": "b", "texte": "Triste, stanco e molto malato", "correcte": false },
+{ "id": "c", "texte": "Arrabbiato con la madre", "correcte": false },
+{ "id": "d", "texte": "Nervoso per il treno", "correcte": false }
+]
+}
+]
+},
+{
+"id": "106",
+"titre": "La mia colazione",
+"titre2": "Esercizio 106",
+"texte": [
+"La colazione è il mio momento preferito di tutta la mattina.",
+"Vado in cucina e preparo un caffè caldo e molto dolce.",
+"Mangio un cornetto fresco o dei biscotti con il miele.",
+"A volte bevo anche un bicchiere di succo d'arancia freddo.",
+"Mangiare bene mi dà la forza per iniziare a studiare."
+],
+"audios": [
+{ "id": "audio-it-read-a1-106-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-106-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-106-01",
+"question": "Qual è il momento preferito della mattina?",
+"reponses": [
+{ "id": "a", "texte": "Il lavoro in ufficio", "correcte": false },
+{ "id": "b", "texte": "La colazione", "correcte": true },
+{ "id": "c", "texte": "Prendere l'autobus delle otto", "correcte": false },
+{ "id": "d", "texte": "Fare la doccia fredda", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-106-02",
+"question": "Dove va il protagonista a preparare il caffè?",
+"reponses": [
+{ "id": "a", "texte": "In camera da letto", "correcte": false },
+{ "id": "b", "texte": "In cucina", "correcte": true },
+{ "id": "c", "texte": "Nel giardino del vicino", "correcte": false },
+{ "id": "d", "texte": "Al chiosco della stazione", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-106-03",
+"question": "Cosa mangia insieme al cornetto o ai biscotti?",
+"reponses": [
+{ "id": "a", "texte": "Del miele dolce", "correcte": true },
+{ "id": "b", "texte": "Un'insalata di cetrioli", "correcte": false },
+{ "id": "c", "texte": "Una zuppa calda", "correcte": false },
+{ "id": "d", "texte": "Della carne di pollo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-106-04",
+"question": "Quale succo beve a volte?",
+"reponses": [
+{ "id": "a", "texte": "Succo di mela caldo", "correcte": false },
+{ "id": "b", "texte": "Succo d'arancia freddo", "correcte": true },
+{ "id": "c", "texte": "Latte di pecora", "correcte": false },
+{ "id": "d", "texte": "Acqua della fontana", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-106-05",
+"question": "Perché è importante mangiare bene secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "Dà la forza per iniziare a studiare", "correcte": true },
+{ "id": "b", "texte": "Perché costa molto poco", "correcte": false },
+{ "id": "c", "texte": "Per fare una foto bella", "correcte": false },
+{ "id": "d", "texte": "Per dormire meglio la notte", "correcte": false }
+]
+}
+]
+},
+{
+"id": "107",
+"titre": "Il mio programma giornaliero",
+"titre2": "Esercizio 107",
+"texte": [
+"Il mio programma giornaliero è sempre molto organizzato.",
+"Dalle nove alle tredici seguo le lezioni all'università.",
+"A pranzo mangio un panino veloce con un amico al bar.",
+"Nel pomeriggio studio tre ore in biblioteca per l'esame.",
+"La sera sono libero di riposare o uscire a fare una passeggiata."
+],
+"audios": [
+{ "id": "audio-it-read-a1-107-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-107-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-107-01",
+"question": "Com'è il programma giornaliero del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Molto disorganizzato e caotico", "correcte": false },
+{ "id": "b", "texte": "Sempre molto organizzato", "correcte": true },
+{ "id": "c", "texte": "Noioso e senza attività", "correcte": false },
+{ "id": "d", "texte": "Segreto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-107-02",
+"question": "Cosa fa dalle nove alle tredici?",
+"reponses": [
+{ "id": "a", "texte": "Dorme nella sua stanza", "correcte": false },
+{ "id": "b", "texte": "Segue le lezioni all'università", "correcte": true },
+{ "id": "c", "texte": "Lavora in un grande ristorante", "correcte": false },
+{ "id": "d", "texte": "Nuota nel mare azzurro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-107-03",
+"question": "Cosa mangia a pranzo al bar?",
+"reponses": [
+{ "id": "a", "texte": "Un panino veloce", "correcte": true },
+{ "id": "b", "texte": "Un piatto di pollo caldo", "correcte": false },
+{ "id": "c", "texte": "Una torta di mele intera", "correcte": false },
+{ "id": "d", "texte": "Solo un gelato al cioccolato", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-107-04",
+"question": "Dove va a studiare nel pomeriggio?",
+"reponses": [
+{ "id": "a", "texte": "In biblioteca", "correcte": true },
+{ "id": "b", "texte": "Al parco sotto gli alberi", "correcte": false },
+{ "id": "c", "texte": "A casa dei nonni nel villaggio", "correcte": false },
+{ "id": "d", "texte": "In stazione", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-107-05",
+"question": "Cosa è libero di fare la sera?",
+"reponses": [
+{ "id": "a", "texte": "Riposare o uscire a fare una passeggiata", "correcte": true },
+{ "id": "b", "texte": "Lavorare ancora per quattro ore", "correcte": false },
+{ "id": "c", "texte": "Prendere un aereo per la Spagna", "correcte": false },
+{ "id": "d", "texte": "Chiamare il medico", "correcte": false }
+]
+}
+]
+},
+{
+"id": "108",
+"titre": "La mia casa",
+"titre2": "Esercizio 108",
+"texte": [
+"La mia casa si trova in una strada tranquilla vicino al centro.",
+"È un appartamento piccolo, luminoso e molto accogliente.",
+"C'è un bel soggiorno con un divano comodo per guardare i film.",
+"La cucina è moderna e ha un tavolo di legno per mangiare.",
+"Mi piace molto vivere qui perché mi sento sicuro e felice."
+],
+"audios": [
+{ "id": "audio-it-read-a1-108-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-108-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-108-01",
+"question": "Dove si trova la casa del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "In una strada tranquilla vicino al centro", "correcte": true },
+{ "id": "b", "texte": "In mezzo ad un bosco scuro", "correcte": false },
+{ "id": "c", "texte": "Davanti alla grande stazione", "correcte": false },
+{ "id": "d", "texte": "All'aeroporto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-108-02",
+"question": "Com'è l'appartamento?",
+"reponses": [
+{ "id": "a", "texte": "Grande, scuro e molto freddo", "correcte": false },
+{ "id": "b", "texte": "Piccolo, luminoso e accogliente", "correcte": true },
+{ "id": "c", "texte": "Chiuso per le vacanze", "correcte": false },
+{ "id": "d", "texte": "Vecchio e sporco", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-108-03",
+"question": "Cosa c'è nel soggiorno per guardare i film?",
+"reponses": [
+{ "id": "a", "texte": "Un divano comodo", "correcte": true },
+{ "id": "b", "texte": "Una sedia di plastica dura", "correcte": false },
+{ "id": "c", "texte": "Un letto grande per gli ospiti", "correcte": false },
+{ "id": "d", "texte": "Un tavolo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-108-04",
+"question": "Di quale materiale è il tavolo della cucina?",
+"reponses": [
+{ "id": "a", "texte": "Di plastica rossa", "correcte": false },
+{ "id": "b", "texte": "Di metallo freddo", "correcte": false },
+{ "id": "c", "texte": "Di legno", "correcte": true },
+{ "id": "d", "texte": "Di vetro trasparente", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-108-05",
+"question": "Perché al protagonista piace vivere lì?",
+"reponses": [
+{ "id": "a", "texte": "Perché si sente sicuro e felice", "correcte": true },
+{ "id": "b", "texte": "Perché la casa costa molti soldi", "correcte": false },
+{ "id": "c", "texte": "Perché ci sono i cavalli marroni", "correcte": false },
+{ "id": "d", "texte": "Perché è vicino ad una farmacia", "correcte": false }
+]
+}
+]
+},
+{
+"id": "109",
+"titre": "La mia camera da letto",
+"titre2": "Esercizio 109",
+"texte": [
+"La mia camera da letto è il posto perfetto per riposare.",
+"Al centro della stanza c'è un letto singolo molto comodo.",
+"Accanto al letto ho una scrivania bianca con una lampada moderna.",
+"C'è anche un grande armadio marrone per tutti i miei vestiti.",
+"Sulle pareti ci sono delle foto colorate dei miei amici più cari."
+],
+"audios": [
+{ "id": "audio-it-read-a1-109-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-109-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-109-01",
+"question": "Qual è il posto perfetto per riposare?",
+"reponses": [
+{ "id": "a", "texte": "La cucina moderna", "correcte": false },
+{ "id": "b", "texte": "La camera da letto", "correcte": true },
+{ "id": "c", "texte": "Il bagno piccolo", "correcte": false },
+{ "id": "d", "texte": "L'autobus delle otto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-109-02",
+"question": "Che tipo di letto c'è nella stanza?",
+"reponses": [
+{ "id": "a", "texte": "Un letto matrimoniale grande", "correcte": false },
+{ "id": "b", "texte": "Un letto singolo molto comodo", "correcte": true },
+{ "id": "c", "texte": "Un vecchio divano letto", "correcte": false },
+{ "id": "d", "texte": "Non c'è un letto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-109-03",
+"question": "Cosa c'è accanto al letto?",
+"reponses": [
+{ "id": "a", "texte": "Una scrivania bianca con una lampada", "correcte": true },
+{ "id": "b", "texte": "Un grande frigorifero pieno di succhi", "correcte": false },
+{ "id": "c", "texte": "Una vecchia bicicletta blu", "correcte": false },
+{ "id": "d", "texte": "La cuccia del cane Bello", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-109-04",
+"question": "Di quale colore è l'armadio dei vestiti?",
+"reponses": [
+{ "id": "a", "texte": "Bianco", "correcte": false },
+{ "id": "b", "texte": "Marrone", "correcte": true },
+{ "id": "c", "texte": "Nero", "correcte": false },
+{ "id": "d", "texte": "Verde", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-109-05",
+"question": "Cosa è appeso sulle pareti della camera?",
+"reponses": [
+{ "id": "a", "texte": "Delle foto colorate degli amici più cari", "correcte": true },
+{ "id": "b", "texte": "Un grande orologio da stazione", "correcte": false },
+{ "id": "c", "texte": "Una mappa della città di Berlino", "correcte": false },
+{ "id": "d", "texte": "Dei cappotti invernali spessi", "correcte": false }
+]
+}
+]
+},
+{
+"id": "110",
+"titre": "Il mio quartiere",
+"titre2": "Esercizio 110",
+"texte": [
+"Il mio quartiere è molto bello ed è pieno di vita ogni giorno.",
+"Ci sono molti negozi, un supermercato e una farmacia utile.",
+"Vicino a casa mia c'è un grande parco pubblico con alberi antichi.",
+"La gente del quartiere è molto simpatica ed educata con tutti.",
+"Prendo sempre il caffè al bar all'angolo della strada principale."
+],
+"audios": [
+{ "id": "audio-it-read-a1-110-1", "personnage": "Chiara", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/1-J_SrT.PNG", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-110-2", "personnage": "Lorenzo", "image": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/2-sGR66.PNG", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-110-01",
+"question": "Com'è il quartiere del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Molto brutto, noioso e vuoto", "correcte": false },
+{ "id": "b", "texte": "Molto bello e pieno di vita", "correcte": true },
+{ "id": "c", "texte": "Chiuso a causa del brutto tempo", "correcte": false },
+{ "id": "d", "texte": "Pericoloso la sera", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-110-02",
+"question": "Quali servizi utili ci sono nel quartiere?",
+"reponses": [
+{ "id": "a", "texte": "Negozi, un supermercato e una farmacia", "correcte": true },
+{ "id": "b", "texte": "Solo una grande stazione dei treni", "correcte": false },
+{ "id": "c", "texte": "Un aeroporto internazionale moderno", "correcte": false },
+{ "id": "d", "texte": "Un museo di quadri antichi", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-110-03",
+"question": "Cosa c'è vicino alla casa del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Un grande parco pubblico con alberi antichi", "correcte": true },
+{ "id": "b", "texte": "Un recinto di legno con tre pecore bianche", "correcte": false },
+{ "id": "c", "texte": "Una scuola di lingua francese", "correcte": false },
+{ "id": "d", "texte": "Un grande albergo di lusso", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-110-04",
+"question": "Com'è la gente che vive nel quartiere?",
+"reponses": [
+{ "id": "a", "texte": "Molto arrabbiata, stressata e rumorosa", "correcte": false },
+{ "id": "b", "texte": "Molto simpatica ed educata con tutti", "correcte": true },
+{ "id": "c", "texte": "Non parla mai con nessuno per strada", "correcte": false },
+{ "id": "d", "texte": "Timida", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-110-05",
+"question": "Dove prende sempre il caffè il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Al bar all'angolo della strada principale", "correcte": true },
+{ "id": "b", "texte": "A casa di sua madre Elena in cucina", "correcte": false },
+{ "id": "c", "texte": "In biblioteca durante la pausa studio", "correcte": false },
+{ "id": "d", "texte": "Dall'orologiaio vicino alla piazza", "correcte": false }
+]
+}
+]
+}
+]
