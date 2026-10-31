@@ -296,7 +296,7 @@
 { "id": "a", "texte": "Um 16:00 Uhr", "correcte": false },
 { "id": "b", "texte": "Um 18:00 Uhr", "correcte": false },
 { "id": "c", "texte": "Um 17:00 Uhr", "correcte": true },
-{ "id": "d", "texte": "Um midi", "correcte": false }
+{ "id": "d", "texte": "Um 12:00 Uhr", "correcte": false }
 ]
 },
 {
@@ -3565,7 +3565,7 @@
 "questions": [
 {
 "id": "q-de-read-a1-037-01",
-"question": "Who kümmert sich um den Gemüsegarten hinter dem Haus?",
+"question": "Wer kümmert sich um den Gemüsegarten hinter dem Haus?",
 "reponses": [
 { "id": "a", "texte": "Der Französischlehrer der Schule", "correcte": false },
 { "id": "b", "texte": "Der kleine Bruder des Autors", "correcte": false },
