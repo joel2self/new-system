@@ -2038,5 +2038,685 @@
 ]
 }
 ]
+},
+{
+    "id": "031",
+    "titre": "我最喜欢的一道菜",
+    "titre2": "练习 031",
+    "texte": [
+      "在全世界我最喜欢的一道菜就是西红柿意面。",
+      "我妈妈用新鲜的西红柿和芳香的罗勒来烹饪它。",
+      "每个星期二的中午，我都会吃一大盘意面。",
+      "它的味道太棒了，总能给我带来很多快乐。",
+      "有时候，我也会在上面撒上一点儿奶酪碎。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-031-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-031-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-031-01",
+        "question": "主角最喜欢的一道菜是什么？",
+        "reponses": [
+          { "id": "a", "texte": "橄榄比萨", "correcte": false },
+          { "id": "b", "texte": "西红柿意面", "correcte": true },
+          { "id": "c", "texte": "热鸡汤", "correcte": false },
+          { "id": "d", "texte": "一份什锦沙拉", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-031-02",
+        "question": "妈妈用什么原料来做这道意面？",
+        "reponses": [
+          { "id": "a", "texte": "新鲜的西红柿和芳香的罗勒", "correcte": true },
+          { "id": "b", "texte": "土豆和棕色奶酪", "correcte": false },
+          { "id": "c", "texte": "黄香蕉和甜蜂蜜", "correcte": false },
+          { "id": "d", "texte": "鸡蛋和硬面包", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-031-03",
+        "question": "他在一周中的哪一天吃这道菜？",
+        "reponses": [
+          { "id": "a", "texte": "星期六深夜", "correcte": false },
+          { "id": "b", "texte": "星期二中午", "correcte": true },
+          { "id": "c", "texte": "星期日大清早", "correcte": false },
+          { "id": "d", "texte": "星期五晚餐时", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-031-04",
+        "question": "这道菜给主角带来了什么？",
+        "reponses": [
+          { "id": "a", "texte": "很多快乐", "correcte": true },
+          { "id": "b", "texte": "严重的头痛", "correcte": false },
+          { "id": "c", "texte": "很多疲劳感", "correcte": false },
+          { "id": "d", "texte": "恐惧", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-031-05",
+        "question": "有时候，他在意面上撒了什么？",
+        "reponses": [
+          { "id": "a", "texte": "一点儿奶酪碎", "correcte": true },
+          { "id": "b", "texte": "一块冰巧克力", "correcte": false },
+          { "id": "c", "texte": "甜糖浆", "correcte": false },
+          { "id": "d", "texte": "新鲜水果", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "和家人一起吃饭",
+    "titre2": "练习 032",
+    "texte": [
+      "每天晚上二十点整，我们全家人都会围坐在餐桌旁。",
+      "我帮父亲摆放盘子、杯子和餐具。",
+      "母亲把热气腾腾的晚餐从明亮的厨房里端出来。",
+      "我们关掉电视和手机，以便从容地聊天。",
+      "我们分享各自这一天是怎么过的，全家人一起开心地吃饭。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-032-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-032-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-032-01",
+        "question": "全家人几点围坐在餐桌旁？",
+        "reponses": [
+          { "id": "a", "texte": "正中午", "correcte": false },
+          { "id": "b", "texte": "二十点整", "correcte": true },
+          { "id": "c", "texte": "早上六点", "correcte": false },
+          { "id": "d", "texte": "午夜", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-032-02",
+        "question": "主角帮谁摆放餐桌？",
+        "reponses": [
+          { "id": "a", "texte": "他的弟弟", "correcte": false },
+          { "id": "b", "texte": "他的父亲", "correcte": true },
+          { "id": "c", "texte": "邻居施密特先生", "correcte": false },
+          { "id": "d", "texte": "图书管理员", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-032-03",
+        "question": "母亲从厨房里端出了什么？",
+        "reponses": [
+          { "id": "a", "texte": "热气腾腾的晚餐", "correcte": true },
+          { "id": "b", "texte": "一所学校的笔记本", "correcte": false },
+          { "id": "c", "texte": "一个陶瓷储蓄罐", "correcte": false },
+          { "id": "d", "texte": "一束鲜花", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-032-04",
+        "question": "在餐桌旁他们关掉了哪些物品？",
+        "reponses": [
+          { "id": "a", "texte": "电视和手机", "correcte": true },
+          { "id": "b", "texte": "大厅的灯", "correcte": false },
+          { "id": "c", "texte": "灶台和烤箱", "correcte": false },
+          { "id": "d", "texte": "汽车的收音机", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-032-05",
+        "question": "全家人在晚餐期间一起做什么？",
+        "reponses": [
+          { "id": "a", "texte": "分享这一天并开心吃饭", "correcte": true },
+          { "id": "b", "texte": "看一部很长的电影", "correcte": false },
+          { "id": "c", "texte": "学习法语语法", "correcte": false },
+          { "id": "d", "texte": "在椅子上睡觉", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "准备一份沙拉",
+    "titre2": "练习 033",
+    "texte": [
+      "今天午餐我想准备一份美味的新鲜沙拉。",
+      "我拿了一个大碗，把绿油油的生菜彻底洗干净。",
+      "我把两个红西红柿和一根小黄瓜切成块。",
+      "我加入一点儿盐、一勺油和醋。",
+      "我小心地把所有材料拌匀，这就做好了：一份健康又美味的配菜。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-033-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-033-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-033-01",
+        "question": "主角想准备什么？",
+        "reponses": [
+          { "id": "a", "texte": "一块热佛卡夏面包", "correcte": false },
+          { "id": "b", "texte": "一份美味的新鲜沙拉", "correcte": true },
+          { "id": "c", "texte": "一个甜苹果蛋糕", "correcte": false },
+          { "id": "d", "texte": "一杯牛奶咖啡", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-033-02",
+        "question": "他在大碗里把什么洗得很干净？",
+        "reponses": [
+          { "id": "a", "texte": "早餐的杯子", "correcte": false },
+          { "id": "b", "texte": "绿油油的生菜", "correcte": true },
+          { "id": "c", "texte": "红苹果", "correcte": false },
+          { "id": "d", "texte": "白衬衫", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-033-03",
+        "question": "除了西红柿，他还把什么蔬菜切成了块？",
+        "reponses": [
+          { "id": "a", "texte": "一根小黄瓜", "correcte": true },
+          { "id": "b", "texte": "大土豆", "correcte": false },
+          { "id": "c", "texte": "一块面包", "correcte": false },
+          { "id": "d", "texte": "黄橙子", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-033-04",
+        "question": "除了盐和油，他还使用了什么调明料？",
+        "reponses": [
+          { "id": "a", "texte": "醋", "correcte": true },
+          { "id": "b", "texte": "甜蜂蜜", "correcte": false },
+          { "id": "c", "texte": "巧克力", "correcte": false },
+          { "id": "d", "texte": "糖浆", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-033-05",
+        "question": "文章最后这份沙拉是如何被形容的？",
+        "reponses": [
+          { "id": "a", "texte": "一份健康又美味的配菜", "correcte": true },
+          { "id": "b", "texte": "一顿非常油腻且滚烫的饭", "correcte": false },
+          { "id": "c", "texte": "一顿过于昂贵的食物", "correcte": false },
+          { "id": "d", "texte": "很难吃", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "蛋糕食谱",
+    "titre2": "练习 034",
+    "texte": [
+      "今天我按照一个简单的食谱来制作苹果蛋糕。",
+      "在一个大碗里，我把面粉、糖和两个鸡蛋混合在一起。",
+      "我倒入一杯牛奶，用勺子用力搅拌均匀。",
+      "我把苹果切成薄片，然后摆在面糊上面。",
+      "我把所有的材料放入热烤箱里，一共烘烤四十分钟。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-034-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-034-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-034-01",
+        "question": "主角在制作什么类型的蛋糕？",
+        "reponses": [
+          { "id": "a", "texte": "巧克力蛋糕", "correcte": false },
+          { "id": "b", "texte": "苹果蛋糕", "correcte": true },
+          { "id": "c", "texte": "蜂蜜甜糕", "correcte": false },
+          { "id": "d", "texte": "咸佛卡夏面包", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-034-02",
+        "question": "他在碗里混合了几个鸡蛋？",
+        "reponses": [
+          { "id": "a", "texte": "仅仅一个鸡蛋", "correcte": false },
+          { "id": "b", "texte": "两个鸡蛋", "correcte": true },
+          { "id": "c", "texte": "四个大鸡蛋", "correcte": false },
+          { "id": "d", "texte": "一个鸡蛋也没有", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-034-03",
+        "question": "他在面糊里添加了什么液体？",
+        "reponses": [
+          { "id": "a", "texte": "一杯牛奶", "correcte": true },
+          { "id": "b", "texte": "一瓶醋", "correcte": false },
+          { "id": "c", "texte": "冰橙汁", "correcte": false },
+          { "id": "d", "texte": "甜黑咖啡", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-034-04",
+        "question": "他把苹果切成了什么样？",
+        "reponses": [
+          { "id": "a", "texte": "切成薄片", "correcte": true },
+          { "id": "b", "texte": "切成大而方正的块", "correcte": false },
+          { "id": "c", "texte": "没有切，是整颗的", "correcte": false },
+          { "id": "d", "texte": "擦成了细丝", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-034-05",
+        "question": "蛋糕需要在烤箱里烘烤多长时间？",
+        "reponses": [
+          { "id": "a", "texte": "四十分钟", "correcte": true },
+          { "id": "b", "texte": "仅仅五分钟", "correcte": false },
+          { "id": "c", "texte": "整整两个小时", "correcte": false },
+          { "id": "d", "texte": "一整晚", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "在餐馆",
+    "titre2": "练习 035",
+    "texte": [
+      "星期六晚上，我去了市中心一家很有特色的餐馆。",
+      "一位非常有礼貌的服务员把菜单拿到我的桌旁。",
+      "我点了一份热气腾腾的千层面和一瓶矿泉水。",
+      "食物在十分钟内就端上来了，真的非常美味。",
+      "我索要了账单，在收银台结了账，并留下了少许小费。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-035-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-035-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-035-01",
+        "question": "主角什么时候去餐馆？",
+        "reponses": [
+          { "id": "a", "texte": "星期一清早", "correcte": false },
+          { "id": "b", "texte": "星期六晚上", "correcte": true },
+          { "id": "c", "texte": "星期三下午", "correcte": false },
+          { "id": "d", "texte": "星期日早餐时", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-035-02",
+        "question": "是谁把菜单送到桌旁的？",
+        "reponses": [
+{ "id": "a", "texte": "一位非常有礼貌的服务员", "correcte": true },
+{ "id": "b", "texte": "罗西先生", "correcte": false },
+{ "id": "c", "texte": "埃琳娜妈妈", "correcte": false },
+{ "id": "d", "texte": "一位西班牙朋友", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-035-03",
+"question": "主角点了什么菜？",
+"reponses": [
+{ "id": "a", "texte": "一份黄瓜沙拉", "correcte": false },
+{ "id": "b", "texte": "一份热气腾腾的千层面", "correcte": true },
+{ "id": "c", "texte": "一个佛卡夏三明治", "correcte": false },
+{ "id": "d", "texte": "一个苹果蛋糕", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-035-04",
+"question": "食物花了多长时间端上来？",
+"reponses": [
+{ "id": "a", "texte": "十分钟内", "correcte": true },
+{ "id": "b", "texte": "经历了漫长的一小时后", "correcte": false },
+{ "id": "c", "texte": "立刻，在一秒钟之内", "correcte": false },
+{ "id": "d", "texte": "在第二天", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-035-05",
+"question": "除了支付账单，他最后还留下了什么？",
+"reponses": [
+{ "id": "a", "texte": "少许小费", "correcte": true },
+{ "id": "b", "texte": "他的蓝色书包", "correcte": false },
+{ "id": "c", "texte": "一本古代历史书", "correcte": false },
+{ "id": "d", "texte": "一个秘密食谱", "correcte": false }
+]
+}
+]
+},
+{
+"id": "036",
+"titre": "我喜欢的水果",
+"titre2": "练习 036",
+"texte": [
+"吃水果对身体健康非常有益。",
+"我最喜欢的水果绝对是红色的草莓。",
+"夏天的时候，我总是买一大块冰凉的西瓜。",
+"秋天的时候，我更喜欢吃甜苹果或者梨。",
+"每天下午，我都会用柠檬调制一份色彩斑斓的水果沙拉。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-036-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-036-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-036-01",
+"question": "根据文章，为什么吃水果很好？",
+"reponses": [
+{ "id": "a", "texte": "对身体健康有益", "correcte": true },
+{ "id": "b", "texte": "可以省下很多欧元", "correcte": false },
+{ "id": "c", "texte": "可以在各个国家旅行", "correcte": false },
+{ "id": "d", "texte": "因为这非常时髦", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-036-02",
+"question": "他绝对最喜欢的水果是什么？",
+"reponses": [
+{ "id": "a", "texte": "黄色香蕉", "correcte": false },
+{ "id": "b", "texte": "红色的草莓", "correcte": true },
+{ "id": "c", "texte": "酸柠檬", "correcte": false },
+{ "id": "d", "texte": "小黄瓜", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-036-03",
+"question": "他在夏天总是买什么？",
+"reponses": [
+{ "id": "a", "texte": "一大块冰凉的西瓜", "correcte": true },
+{ "id": "b", "texte": "一碗热鸡汤", "correcte": false },
+{ "id": "c", "texte": "一件中码的白衬衫", "correcte": false },
+{ "id": "d", "texte": "咳嗽药片", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-036-04",
+"question": "他在秋天更喜欢吃什么水果？",
+"reponses": [
+{ "id": "a", "texte": "甜苹果或者梨", "correcte": true },
+{ "id": "b", "texte": "大西瓜", "correcte": false },
+{ "id": "c", "texte": "森林里的草莓", "correcte": false },
+{ "id": "d", "texte": "新鲜的西红柿", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-036-05",
+"question": "主角每天下午准备什么？",
+"reponses": [
+{ "id": "a", "texte": "一份色彩斑斓的水果沙拉", "correcte": true },
+{ "id": "b", "texte": "一杯很甜的黑咖啡", "correcte": false },
+{ "id": "c", "texte": "数学家庭作业", "correcte": false },
+{ "id": "d", "texte": "蓝色的学校书包", "correcte": false }
+]
+}
+]
+},
+{
+"id": "037",
+"titre": "菜园里的蔬菜",
+"titre2": "练习 037",
+"texte": [
+"我爷爷在他乡下的房子后面有一个非常漂亮的菜园。",
+"那里生长着许多纯天然且非常健康的蔬菜。",
+"我们一起采摘橙色的胡萝卜和灯笼椒。",
+"菜园里的蔬菜比超市里的味道更好。",
+"到了晚上，奶奶会准备一大碗热腾腾的蔬菜泥。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-037-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-037-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-037-01",
+"question": "爷爷的菜园在哪里？",
+"reponses": [
+{ "id": "a", "texte": "在马德里市中心", "correcte": false },
+{ "id": "b", "texte": "在他乡下房子的后面", "correcte": true },
+{ "id": "c", "texte": "在大车站附近", "correcte": false },
+{ "id": "d", "texte": "在大学的屋顶上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-037-02",
+"question": "菜园里生长着什么类型的蔬菜？",
+"reponses": [
+{ "id": "a", "texte": "纯天然且健康的蔬菜", "correcte": true },
+{ "id": "b", "texte": "塑料做的假蔬菜", "correcte": false },
+{ "id": "c", "texte": "非常昂贵的蔬菜", "correcte": false },
+{ "id": "d", "texte": "什么也没生长", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-037-03",
+"question": "他们采摘的胡萝卜是什么颜色的？",
+"reponses": [
+{ "id": "a", "texte": "红色的", "correcte": false },
+{ "id": "b", "texte": "橙色的", "correcte": true },
+{ "id": "c", "texte": "黄色的", "correcte": false },
+{ "id": "d", "texte": "黑色的", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-037-04",
+"question": "菜园里的蔬菜和什么相比味道更好？",
+"reponses": [
+{ "id": "a", "texte": "和超市里的相比", "correcte": true },
+{ "id": "b", "texte": "和苹果蛋糕相比", "correcte": false },
+{ "id": "c", "texte": "和药店相比", "correcte": false },
+{ "id": "d", "texte": "和早餐相比", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-037-05",
+"question": "奶奶晚上准备了什么？",
+"reponses": [
+{ "id": "a", "texte": "一大碗热腾腾的蔬菜泥", "correcte": true },
+{ "id": "b", "texte": "一份油腻的肉千层面", "correcte": false },
+{ "id": "c", "texte": "一个配奶酪的快捷汉堡", "correcte": false },
+{ "id": "d", "texte": "一个柠檬冰激凌", "correcte": false }
+]
+}
+]
+},
+{
+"id": "038",
+"titre": "午餐时间",
+"titre2": "练习 038",
+"texte": [
+"一到正中午，我总是感到非常饿，于是就休息一下。",
+"通常我吃一顿清淡的午餐，以免之后感到困倦。",
+"我准备一盘白米饭或者一份小蛋饼。",
+"我喝一杯来自花园喷泉的清凉泉水。",
+"这段时光能帮助我为下午重新充沛精力。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-038-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-038-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-038-01",
+"question": "主角在正中午感觉如何？",
+"reponses": [
+{ "id": "a", "texte": "总是感到非常饿", "correcte": true },
+{ "id": "b", "texte": "想立刻在床上睡觉", "correcte": false },
+{ "id": "c", "texte": "对课堂感到非常无聊", "correcte": false },
+{ "id": "d", "texte": "感觉不舒服", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-038-02",
+"question": "为什么他通常吃一顿清淡的午餐？",
+"reponses": [
+{ "id": "a", "texte": "以免之后感到困倦", "correcte": true },
+{ "id": "b", "texte": "因为储蓄罐里没有钱", "correcte": false },
+{ "id": "c", "texte": "因为食物很难吃", "correcte": false },
+{ "id": "d", "texte": "为了在公园里跑得更快", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-038-03",
+"question": "他午餐习惯准备什么菜肴？",
+"reponses": [
+{ "id": "a", "texte": "白米饭或者一份小蛋饼", "correcte": true },
+{ "id": "b", "texte": "在大餐厅里吃一份热千层面", "correcte": false },
+{ "id": "c", "texte": "一整个加了糖的苹果蛋糕", "correcte": false },
+{ "id": "d", "texte": "一个配甜佛卡夏面包的汉堡", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-038-04",
+"question": "他喝的清凉泉水来自哪里？",
+"reponses": [
+{ "id": "a", "texte": "来自花园的喷泉", "correcte": true },
+{ "id": "b", "texte": "来自市中心的大超市", "correcte": false },
+{ "id": "c", "texte": "来自实用的药店", "correcte": false },
+{ "id": "d", "texte": "来自学校的冰箱", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-038-05",
+"question": "这段休息时间有什么作用？",
+"reponses": [
+{ "id": "a", "texte": "为下午重新充沛精力", "correcte": true },
+{ "id": "b", "texte": "为了忘掉美术作业", "correcte": false },
+{ "id": "c", "texte": "为了给他那西班牙朋友托马斯打电话", "correcte": false },
+{ "id": "d", "texte": "为了打扫木质厨房", "correcte": false }
+]
+}
+]
+},
+{
+"id": "039",
+"titre": "和朋友共进晚餐",
+"titre2": "练习 039",
+"texte": [
+"这个星期五晚上，我和朋友们组织了一顿特别的晚餐。",
+"卢卡斯和埃琳娜在十九点三十分左右来到了我家。",
+"我们点了三个加了蘑菇和橄榄的大外卖比萨。",
+"我们坐在大厅舒适的沙发上，边吃边聊。",
+"我们一起欢笑着，度过了一个愉快而漫长的夜晚。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-039-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-039-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-039-01",
+"question": "这顿特别的晚餐在一周中的哪一个晚上举行？",
+"reponses": [
+{ "id": "a", "texte": "星期一清早", "correcte": false },
+{ "id": "b", "texte": "这个星期五晚上", "correcte": true },
+{ "id": "c", "texte": "星期六午餐时", "correcte": false },
+{ "id": "d", "texte": "星期日晚上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-039-02",
+"question": "哪些朋友来到了主角的家里？",
+"reponses": [
+{ "id": "a", "texte": "卡洛斯和罗伯托", "correcte": false },
+{ "id": "b", "texte": "卢卡斯 and 埃琳娜", "correcte": true },
+{ "id": "c", "texte": "罗西先生", "correcte": false },
+{ "id": "d", "texte": "基亚拉和洛伦佐", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-039-03",
+"question": "朋友们点了什么食物来吃？",
+"reponses": [
+{ "id": "a", "texte": "菜园里采摘的蔬菜泥", "correcte": false },
+{ "id": "b", "texte": "三个大外卖比萨", "correcte": true },
+{ "id": "c", "texte": "一份配西红柿的热千层面", "correcte": false },
+{ "id": "d", "texte": "配甜佛卡夏面包的汉堡", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-039-04",
+"question": "他们坐在哪里吃比萨？",
+"reponses": [
+{ "id": "a", "texte": "在大厅舒适的沙发上", "correcte": true },
+{ "id": "b", "texte": "围绕着厨房的木桌旁", "correcte": false },
+{ "id": "c", "texte": "在卧室的地板上", "correcte": false },
+{ "id": "d", "texte": "在关闭的学校操场上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-039-05",
+"question": "这段美好的共处时光持续到了什么时候？",
+"reponses": [
+{ "id": "a", "texte": "直到很晚", "correcte": true },
+{ "id": "b", "texte": "只持续了快速的五分钟", "correcte": false },
+{ "id": "c", "texte": "直到星期六的中午", "correcte": false },
+{ "id": "d", "texte": "在开饭前刚刚好结束", "correcte": false }
+]
+}
+]
+},
+{
+"id": "040",
+"titre": "没有肉的一天",
+"titre2": "练习 040",
+"texte": [
+"星期一是我一周中不吃肉的特殊日子。",
+"我选择吃素食食品，以此来帮助我的健康。",
+"在午餐时，我喝了一碗配上面包的美味扁豆汤。",
+"到了晚上，我用烤箱烤了一些西葫芦和西红柿。",
+"我感到身体非常轻盈、快乐，且充满了生命的活力。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-040-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-040-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-040-01",
+"question": "哪一天是专门不吃肉的日子？",
+"reponses": [
+{ "id": "a", "texte": "星期六晚上", "correcte": false },
+{ "id": "b", "texte": "星期一", "correcte": true },
+{ "id": "c", "texte": "星期日早上", "correcte": false },
+{ "id": "d", "texte": "这个月的每一天", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-040-02",
+"question": "他为什么选择吃素食食品？",
+"reponses": [
+{ "id": "a", "texte": "为了帮助他的健康", "correcte": true },
+{ "id": "b", "texte": "因为肉花了很多钱", "correcte": false },
+{ "id": "c", "texte": "因为超级市场关门了", "correcte": false },
+{ "id": "d", "texte": "为了拍一张色彩斑斓的照片", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-040-03",
+"question": "主角在星期一午餐吃什么？",
+"reponses": [
+{ "id": "a", "texte": "在餐馆吃一份热千层面", "correcte": false },
+{ "id": "b", "texte": "一碗配上面包的美味扁豆汤", "correcte": true },
+{ "id": "c", "texte": "一份加了西红柿和黄瓜的绿沙拉", "correcte": false },
+{ "id": "d", "texte": "三块甜苹果蛋糕", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-040-04",
+"question": "他晚上用烤箱烤了什么蔬菜？",
+"reponses": [
+{ "id": "a", "texte": "西葫芦和西红柿", "correcte": true },
+{ "id": "b", "texte": "菜园里的大橙胡萝卜", "correcte": false },
+{ "id": "c", "texte": "油腻的炸土豆", "correcte": false },
+{ "id": "d", "texte": "没有蔬菜，只吃水果", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-040-05",
+"question": "在这一天结束时他感觉如何？",
+"reponses": [
+{ "id": "a", "texte": "非常轻盈、快乐且充满活力", "correcte": true },
+{ "id": "b", "texte": "极其疲惫、生病而且伤心", "correcte": false },
+{ "id": "c", "texte": "在生他最亲密朋友们的气", "correcte": false },
+{ "id": "d", "texte": "对历史科目的内容感到焦虑", "correcte": false }
+]
+}
+]
 }
 ]
