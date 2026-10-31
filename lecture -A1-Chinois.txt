@@ -1,9 +1,1362 @@
+[
+  {
+    "id": "001",
+    "titre": "自我介绍",
+    "titre2": "练习 001",
+    "texte": [
+      "你好！我叫卡洛斯，我今年二十五岁。",
+      "我住在马德里，这是西班牙一座非常美丽的城市。",
+      "我每天都学习西班牙语，也会说一点儿法语。",
+      "在我的空闲时间里，我喜欢看书和在公园里散步。",
+      "今天能在这里结识新朋友，我感到非常高兴。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-001-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-001-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-001-01",
+        "question": "文章的主角叫什么名字？",
+        "reponses": [
+          { "id": "a", "texte": "洛伦佐", "correcte": false },
+          { "id": "b", "texte": "卡洛斯", "correcte": true },
+          { "id": "c", "texte": "托马斯", "correcte": false },
+          { "id": "d", "texte": "马可", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-001-02",
+        "question": "卡洛斯今年多大了？",
+        "reponses": [
+          { "id": "a", "texte": "二十岁", "correcte": false },
+          { "id": "b", "texte": "三十岁", "correcte": false },
+          { "id": "c", "texte": "二十五岁", "correcte": true },
+          { "id": "d", "texte": "十五岁", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-001-03",
+        "question": "卡洛斯住在哪个城市？",
+        "reponses": [
+          { "id": "a", "texte": "巴塞罗那", "correcte": false },
+          { "id": "b", "texte": "巴黎", "correcte": false },
+          { "id": "c", "texte": "马德里", "correcte": true },
+          { "id": "d", "texte": "柏林", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-001-04",
+        "question": "卡洛斯每天学习哪种语言？",
+        "reponses": [
+          { "id": "a", "texte": "西班牙语", "correcte": true },
+          { "id": "b", "texte": "德语", "correcte": false },
+          { "id": "c", "texte": "意大利语", "correcte": false },
+          { "id": "d", "texte": "英语", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-001-05",
+        "question": "卡洛斯在空闲时间喜欢做什么？",
+        "reponses": [
+          { "id": "a", "texte": "看书和在公园散步", "correcte": true },
+          { "id": "b", "texte": "做橄榄比萨", "correcte": false },
+          { "id": "c", "texte": "整天在床上睡觉", "correcte": false },
+          { "id": "d", "texte": "买一辆新车", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "我的家庭",
+    "titre2": "练习 002",
+    "texte": [
+      "我的家庭不是很大，我们一共有四口人。",
+      "我的父亲叫罗伯托，他在一家现代化的办公室里工作。",
+      "我的母亲叫埃琳娜，她是一位非常优秀的老师。",
+      "我还有一个正在上学的弟弟。",
+      "每逢星期日，我们总是一起吃一顿丰盛的午餐。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-002-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-002-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-002-01",
+        "question": "这个家庭一共有几口人？",
+        "reponses": [
+          { "id": "a", "texte": "两个人", "correcte": false },
+          { "id": "b", "texte": "四个人", "correcte": true },
+          { "id": "c", "texte": "六个人", "correcte": false },
+          { "id": "d", "texte": "三个人", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-002-02",
+        "question": "父亲叫什么名字？",
+        "reponses": [
+          { "id": "a", "texte": "卡洛斯", "correcte": false },
+          { "id": "b", "texte": "罗伯托", "correcte": true },
+          { "id": "c", "texte": "洛伦佐", "correcte": false },
+          { "id": "d", "texte": "胡安", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-002-03",
+        "question": "母亲的工作是什么？",
+        "reponses": [
+          { "id": "a", "texte": "她是一位老师", "correcte": true },
+          { "id": "b", "texte": "她在药店工作", "correcte": false },
+          { "id": "c", "texte": "她是一位医生", "correcte": false },
+          { "id": "d", "texte": "她开一辆红色的公交车", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-002-04",
+        "question": "文中还提到了哪位家庭成员？",
+        "reponses": [
+          { "id": "a", "texte": "一个姐姐", "correcte": false },
+          { "id": "b", "texte": "一个弟弟", "correcte": true },
+          { "id": "c", "texte": "一只小狗", "correcte": false },
+          { "id": "d", "texte": "奶奶", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-002-05",
+        "question": "星期日全家人会一起做什么？",
+        "reponses": [
+          { "id": "a", "texte": "一起吃一顿丰盛的午餐", "correcte": true },
+          { "id": "b", "texte": "坐火车去柏林", "correcte": false },
+          { "id": "c", "texte": "看一部恐怖电影", "correcte": false },
+          { "id": "d", "texte": "打扫整个房子", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "我最好的朋友",
+    "titre2": "练习 003",
+    "texte": [
+      "我最好的朋友叫卢卡斯，我们已经认识很多年了。",
+      "他长得很高，有着黑色的头发和绿色的眼睛。",
+      "周末的时候，我们非常喜欢一起做很多有趣的活动。",
+      "我们会在车站附近的绿茵球场上踢足球。",
+      "卢卡斯是一个非常和善的人，我总能和他倾心长谈。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-003-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-003-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-003-01",
+        "question": "最好的朋友叫什么名字？",
+        "reponses": [
+          { "id": "a", "texte": "罗伯托", "correcte": false },
+          { "id": "b", "texte": "卢卡斯", "correcte": true },
+          { "id": "c", "texte": "卡洛斯", "correcte": false },
+          { "id": "d", "texte": "托马斯", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-003-02",
+        "question": "卢卡斯的眼睛是什么颜色的？",
+        "reponses": [
+          { "id": "a", "texte": "蓝色的", "correcte": false },
+          { "id": "b", "texte": "黑色的", "correcte": false },
+          { "id": "c", "texte": "绿色的", "correcte": true },
+          { "id": "d", "texte": "棕色的", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-003-03",
+        "question": "这两位朋友什么时候一起做活动？",
+        "reponses": [
+          { "id": "a", "texte": "周末", "correcte": true },
+          { "id": "b", "texte": "每天早上四点", "correcte": false },
+          { "id": "c", "texte": "只有在十二月下雪的时候", "correcte": false },
+          { "id": "d", "texte": "从不，他们非常忙", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-003-04",
+        "question": "他们一起进行什么体育运动？",
+        "reponses": [
+          { "id": "a", "texte": "网球", "correcte": false },
+          { "id": "b", "texte": "足球", "correcte": true },
+          { "id": "c", "texte": "篮球", "correcte": false },
+          { "id": "d", "texte": "在湖里游泳", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-003-05",
+        "question": "卢卡斯的性格怎么样？",
+        "reponses": [
+          { "id": "a", "texte": "和善", "correcte": true },
+          { "id": "b", "texte": "坏脾气且总是生气", "correcte": false },
+          { "id": "c", "texte": "非常害羞和安静", "correcte": false },
+          { "id": "d", "texte": "容易焦虑", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "我的日常生活",
+    "titre2": "练习 004",
+    "texte": [
+      "我的日常生活在星期一到星期五之间非常简单。",
+      "我起得很早，洗个快当的澡，然后穿好衣服。",
+      "我乘坐八点整的公交车去上班。",
+      "傍晚回到家时会感到很累，然后开始休息。",
+      "我会做一顿热腾腾的晚餐，再看一会儿电视。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-004-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-004-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-004-01",
+        "question": "日常作息在哪些日子里是一样的？",
+        "reponses": [
+          { "id": "a", "texte": "只有星期六和星期日", "correcte": false },
+          { "id": "b", "texte": "星期一到星期五", "correcte": true },
+          { "id": "c", "texte": "这个月的每一天", "correcte": false },
+          { "id": "d", "texte": "只有星期日早上", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-004-02",
+        "question": "主角洗完澡后紧接着做什么？",
+        "reponses": [
+          { "id": "a", "texte": "接着睡觉", "correcte": false },
+          { "id": "b", "texte": "穿衣服", "correcte": true },
+          { "id": "c", "texte": "买冰激凌", "correcte": false },
+          { "id": "d", "texte": "去银行", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-004-03",
+        "question": "上班的公交车几点开？",
+        "reponses": [
+          { "id": "a", "texte": "八点整", "correcte": true },
+          { "id": "b", "texte": "十点半", "correcte": false },
+          { "id": "c", "texte": "早上六点", "correcte": false },
+          { "id": "d", "texte": "午夜", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-004-04",
+        "question": "主角回到家时状态如何？",
+        "reponses": [
+          { "id": "a", "texte": "开心且轻松", "correcte": false },
+          { "id": "b", "texte": "疲惫", "correcte": true },
+          { "id": "c", "texte": "步行穿过森林", "correcte": false },
+          { "id": "d", "texte": "骑自行车穿过河流", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-004-05",
+        "question": "晚上睡觉前他会做什么？",
+        "reponses": [
+          { "id": "a", "texte": "做晚餐和看电视", "correcte": true },
+          { "id": "b", "texte": "给柏林写一封长信", "correcte": false },
+          { "id": "c", "texte": "去牙医那里做检查", "correcte": false },
+          { "id": "d", "texte": "打扫大花园", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "titre": "早上起床",
+    "titre2": "练习 005",
+    "texte": [
+      "每天早上，我的闹钟都会在六点半大声响起。",
+      "我缓缓睁开眼睛，但房间里还是有点儿暗。",
+      "在起床之前，我会在温暖的被窝里多躺五分钟。",
+      "我打开灯，然后立刻去洗手间洗脸。",
+      "新的一天开始了，我感到自己准备就绪，充满活力。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-005-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-005-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-005-01",
+        "question": "早上闹钟几点响起？",
+        "reponses": [
+          { "id": "a", "texte": "六点半", "correcte": true },
+          { "id": "b", "texte": "八点整", "correcte": false },
+          { "id": "c", "texte": "上午十点", "correcte": false },
+          { "id": "d", "texte": "晚上十点", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-005-02",
+        "question": "主角睁开眼时房间里怎么样？",
+        "reponses": [
+          { "id": "a", "texte": "非常明亮和温暖", "correcte": false },
+          { "id": "b", "texte": "仍然有点儿暗", "correcte": true },
+{ "id": "c", "texte": "洒满阳光", "correcte": false },
+{ "id": "d", "texte": "一片绿色而且很乱", "correcte": false }
+]
+},
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+"id": "q-zh-read-a1-005-03",
+"question": "他在温暖的床上待了多长时间？",
+"reponses": [
+{ "id": "a", "texte": "一整小时", "correcte": false },
+{ "id": "b", "texte": "五分钟", "correcte": true },
+{ "id": "c", "texte": "二十分钟", "correcte": false },
+{ "id": "d", "texte": "一秒也没有", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-005-04",
+"question": "为什么主角立刻去了洗手间？",
+"reponses": [
+{ "id": "a", "texte": "为了洗脸", "correcte": true },
+{ "id": "b", "texte": "为了找鞋子", "correcte": false },
+{ "id": "c", "texte": "为了烤饼干", "correcte": false },
+{ "id": "d", "texte": "为了多睡一会儿", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-005-05",
+"question": "文章最后他的心情或状态如何？",
+"reponses": [
+{ "id": "a", "texte": "准备就绪且充满活力", "correcte": true },
+{ "id": "b", "texte": "伤心、疲惫且病得很重", "correcte": false },
+{ "id": "c", "texte": "在生妈妈的气", "correcte": false },
+{ "id": "d", "texte": "为火车的事感到焦虑", "correcte": false }
+]
 }
+]
+},
+{
+"id": "006",
+"titre": "我的早餐",
+"titre2": "练习 006",
+"texte": [
+"早餐是整个上午我最喜欢的时光。",
+"我来到厨房，泡一杯热腾腾而且很甜的咖啡。",
+"我吃一个新鲜的可颂面包或者一些配蜂蜜的饼干。",
+"有时，我也会喝一杯冰凉的橙汁。",
+"吃得好让我有了开始学习的力量。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-006-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-006-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-006-01",
+"question": "上午最喜欢的时光是哪个？",
+"reponses": [
+{ "id": "a", "texte": "在办公室工作", "correcte": false },
+{ "id": "b", "texte": "吃早餐", "correcte": true },
+{ "id": "c", "texte": "坐八点钟的公交车", "correcte": false },
+{ "id": "d", "texte": "洗个冷水澡", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-006-02",
+"question": "主角去哪里冲咖啡？",
+"reponses": [
+{ "id": "a", "texte": "卧室", "correcte": false },
+{ "id": "b", "texte": "厨房", "correcte": true },
+{ "id": "c", "texte": "邻居的花园", "correcte": false },
+{ "id": "d", "texte": "车站的小卖部", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-006-03",
+"question": "他吃可颂或饼干时搭配什么？",
+"reponses": [
+{ "id": "a", "texte": "甜甜的蜂蜜", "correcte": true },
+{ "id": "b", "texte": "黄瓜沙拉", "correcte": false },
+{ "id": "c", "texte": "热汤", "correcte": false },
+{ "id": "d", "texte": "鸡肉", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-006-04",
+"question": "他有时喝什么果汁？",
+"reponses": [
+{ "id": "a", "texte": "热苹果汁", "correcte": false },
+{ "id": "b", "texte": "冰凉的橙汁", "correcte": true },
+{ "id": "c", "texte": "羊奶", "correcte": false },
+{ "id": "d", "texte": "泉水", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-006-05",
+"question": "根据文章，为什么吃得好很重要？",
+"reponses": [
+{ "id": "a", "texte": "能给他开始学习的力量", "correcte": true },
+{ "id": "b", "texte": "因为花钱很少", "correcte": false },
+{ "id": "c", "texte": "为了拍一张好看的照片", "correcte": false },
+{ "id": "d", "texte": "为了晚上睡得更好", "correcte": false }
+]
+}
+]
+},
+{
+"id": "007",
+"titre": "我的每日作息时间",
+"titre2": "练习 007",
+"texte": [
+"我的每日作息时间总是非常有条理。",
+"九点到十三点，我在大学里听课。",
+"午餐时，我和一位朋友在酒吧吃一个快捷的汉堡。",
+"下午，我在图书馆里为考试复习三个小时。",
+"晚上我很有空，可以休息或者出去散散步。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-007-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-007-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-007-01",
+"question": "主角的每日作息怎么样？",
+"reponses": [
+{ "id": "a", "texte": "非常无序和混乱", "correcte": false },
+{ "id": "b", "texte": "总是非常有条理", "correcte": true },
+{ "id": "c", "texte": "无聊且没有活动", "correcte": false },
+{ "id": "d", "texte": "很神秘", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-007-02",
+"question": "他从九点到十三点在做什么？",
+"reponses": [
+{ "id": "a", "texte": "在房间里睡觉", "correcte": false },
+{ "id": "b", "texte": "在大学里听课", "correcte": true },
+{ "id": "c", "texte": "在一家大餐厅工作", "correcte": false },
+{ "id": "d", "texte": "在蓝色的海里游泳", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-007-03",
+"question": "他在酒吧的午餐吃什么？",
+"reponses": [
+{ "id": "a", "texte": "一个快捷的汉堡", "correcte": true },
+{ "id": "b", "texte": "一盘热鸡肉", "correcte": false },
+{ "id": "c", "texte": "一整块苹果蛋糕", "correcte": false },
+{ "id": "d", "texte": "只吃一个巧克力冰激凌", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-007-04",
+"question": "下午他去哪里学习？",
+"reponses": [
+{ "id": "a", "texte": "图书馆", "correcte": true },
+{ "id": "b", "texte": "树荫下的公园", "correcte": false },
+{ "id": "c", "texte": "爷爷奶奶家", "correcte": false },
+{ "id": "d", "texte": "车站", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-007-05",
+"question": "他晚上有空可以做什么？",
+"reponses": [
+{ "id": "a", "texte": "休息或者出去散散步", "correcte": true },
+{ "id": "b", "texte": "再工作四个小时", "correcte": false },
+{ "id": "c", "texte": "坐飞机去西班牙", "correcte": false },
+{ "id": "d", "texte": "给医生打电话", "correcte": false }
+]
+}
+]
+},
+{
+"id": "008",
+"titre": "我的家",
+"titre2": "练习 008",
+"texte": [
+"我的家位于市中心附近一条安静 my 街道上。",
+"那是一个小巧、明亮且非常温馨的公寓。",
+"家里有一个漂亮的大厅，配有看电影很舒服的沙发。",
+"厨房很现代化，有一张吃饭用的木桌。",
+"我很喜欢住在这里，因为让我感到安全和幸福。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-008-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-008-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-008-01",
+"question": "主角的家在哪里？",
+"reponses": [
+{ "id": "a", "texte": "在市中心附近一条安静的街道上", "correcte": true },
+{ "id": "b", "texte": "在黑暗的森林中间", "correcte": false },
+{ "id": "c", "texte": "在大车站对面", "correcte": false },
+{ "id": "d", "texte": "在机场里", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-008-02",
+"question": "这间公寓怎么样？",
+"reponses": [
+{ "id": "a", "texte": "宽敞、黑暗且非常寒冷", "correcte": false },
+{ "id": "b", "texte": "小巧、明亮且温馨", "correcte": true },
+{ "id": "c", "texte": "因度假而关闭", "correcte": false },
+{ "id": "d", "texte": "破旧且肮脏", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-008-03",
+"question": "大厅里有什么可以用来舒舒服服地看电影？",
+"reponses": [
+{ "id": "a", "texte": "一个舒服的沙发", "correcte": true },
+{ "id": "b", "texte": "一把硬塑料椅子", "correcte": false },
+{ "id": "c", "texte": "一张给客人的大床", "correcte": false },
+{ "id": "d", "texte": "一张桌子", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-008-04",
+"question": "厨房的桌子是什么材质的？",
+"reponses": [
+{ "id": "a", "texte": "红塑料的", "correcte": false },
+{ "id": "b", "texte": "冰冷金属的", "correcte": false },
+{ "id": "c", "texte": "木头的", "correcte": true },
+{ "id": "d", "texte": "透明玻璃的", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-008-05",
+"question": "为什么主角喜欢住在那儿？",
+"reponses": [
+{ "id": "a", "texte": "因为让他感到安全和幸福", "correcte": true },
+{ "id": "b", "texte": "因为这个房子花了很多钱", "correcte": false },
+{ "id": "c", "texte": "因为有棕色的马", "correcte": false },
+{ "id": "d", "texte": "因为靠近一家药店", "correcte": false }
+]
+}
+]
+},
+{
+"id": "009",
+"titre": "我的卧室",
+"titre2": "练习 009",
+"texte": [
+"我的卧室是休息的完美场所。",
+"房间中央有一张非常舒适的单人床。",
+"床边我有一张白色的书桌，上面配有现代风格的台灯。",
+"还有一个用来放我所有衣服的棕色大衣柜。",
+"墙上挂着我最亲爱朋友们 grim 的照片。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-009-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-009-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-009-01",
+"question": "哪里是休息的完美场所？",
+"reponses": [
+{ "id": "a", "texte": "现代化的厨房", "correcte": false },
+{ "id": "b", "texte": "卧室", "correcte": true },
+{ "id": "c", "texte": "小洗手间", "correcte": false },
+{ "id": "d", "texte": "八点钟的公交车", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-009-02",
+"question": "房间里有什么类型的床？",
+"reponses": [
+{ "id": "a", "texte": "一张双人国大床", "correcte": false },
+{ "id": "b", "texte": "一张非常舒适的单人床", "correcte": true },
+{ "id": "c", "texte": "一个旧的沙发床", "correcte": false },
+{ "id": "d", "texte": "没有床", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-009-03",
+"question": "床旁边有什么？",
+"reponses": [
+{ "id": "a", "texte": "一张带台灯的白色书桌", "correcte": true },
+{ "id": "b", "texte": "一个装满果汁的大冰箱", "correcte": false },
+{ "id": "c", "texte": "一辆旧的蓝色自行车", "correcte": false },
+{ "id": "d", "texte": "小狗贝洛的床", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-009-04",
+"question": "放衣服的衣柜是什么颜色的？",
+"reponses": [
+{ "id": "a", "texte": "白色的", "correcte": false },
+{ "id": "b", "texte": "棕色的", "correcte": true },
+{ "id": "c", "texte": "黑色的", "correcte": false },
+{ "id": "d", "texte": "绿色的", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-009-05",
+"question": "房间墙上挂着什么？",
+"reponses": [
+{ "id": "a", "texte": "最亲爱朋友们的照片", "correcte": true },
+{ "id": "b", "texte": "一个大车站的时钟", "correcte": false },
+{ "id": "c", "texte": "一张柏林城市的地图", "correcte": false },
+{ "id": "d", "texte": "厚厚的冬衣", "correcte": false }
+]
+}
+]
+},
+{
+"id": "010",
+"titre": "我的社区",
+"titre2": "练习 010",
+"texte": [
+"我的社区非常漂亮，每天都充满了活力。",
+"这里有很多商店、一家超市和一家很实用的药店。",
+"我家附近有一个很大的公共公园，里面有古老的树木。",
+"社区里的人们都非常友善，对每个人都很有礼貌。",
+"我总是去主街拐角处的酒吧喝咖啡。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-010-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-010-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-010-01",
+"question": "主角的社区怎么样？",
+"reponses": [
+{ "id": "a", "texte": "非常难看、无聊且空旷", "correcte": false },
+{ "id": "b", "texte": "非常漂亮且充满活力", "correcte": true },
+{ "id": "c", "texte": "由于天气恶劣而关闭", "correcte": false },
+{ "id": "d", "texte": "晚上很危险", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-010-02",
+"question": "社区里有哪些实用的设施？",
+"reponses": [
+{ "id": "a", "texte": "商店、一家超市和一家药店", "correcte": true },
+{ "id": "b", "texte": "只有一个大火车站", "correcte": false },
+{ "id": "c", "texte": "一个现代化的国际机场", "correcte": false },
+{ "id": "d", "texte": "一个收藏古老画作的博物馆", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-010-03",
+"question": "主角家附近有什么？",
+"reponses": [
+{ "id": "a", "texte": "一个有古老树木的大公共公园", "correcte": true },
+{ "id": "b", "texte": "一个关着三只白绵羊的木栅栏", "correcte": false },
+{ "id": "c", "texte": "一所法语学校", "correcte": false },
+{ "id": "d", "texte": "一家大型豪华酒店", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-010-04",
+"question": "住在社区里的人们怎么样？",
+"reponses": [
+{ "id": "a", "texte": "非常愤怒、焦虑且吵闹", "correcte": false },
+{ "id": "b", "texte": "非常友善且对所有人都有礼貌", "correcte": true },
+{ "id": "c", "texte": "在街上从不和任何人说话", "correcte": false },
+{ "id": "d", "texte": "害羞", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-010-05",
+"question": "主角总是在哪里喝咖啡？",
+"reponses": [
+{ "id": "a", "texte": "在主街拐角处的酒吧", "correcte": true },
+{ "id": "b", "texte": "在母亲埃琳娜家的厨房里", "correcte": false },
+{ "id": "c", "texte": "在图书馆学习休息期间", "correcte": false },
+{ "id": "d", "texte": "在广场钟表匠附近", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "011",
+    "titre": "我的第一天上课",
+    "titre2": "练习 011",
+    "texte": [
+      "今天是我上课的第一天，我感到非常兴奋。",
+      "我背着新书包，大步向教学楼走去。",
+      "在操场上，我看到许多大声说笑的学生。",
+      "八点整，上课铃声响起，大家都走了进去。",
+      "我从容地找到了自己的教室，并找到了一个空座位。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-011-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-011-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-011-01",
+        "question": "主角今天感觉如何？",
+        "reponses": [
+          { "id": "a", "texte": "非常无聊", "correcte": false },
+          { "id": "b", "texte": "非常兴奋", "correcte": true },
+          { "id": "c", "texte": "伤心且生病", "correcte": false },
+          { "id": "d", "texte": "很生气", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-011-02",
+        "question": "主角背着什么？",
+        "reponses": [
+          { "id": "a", "texte": "一件厚夹克", "correcte": false },
+          { "id": "b", "texte": "他的新书包", "correcte": true },
+          { "id": "c", "texte": "一台大电脑", "correcte": false },
+          { "id": "d", "texte": "一张城市地图", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-011-03",
+        "question": "学生们在操场上做什么？",
+        "reponses": [
+          { "id": "a", "texte": "在草地上睡觉", "correcte": false },
+          { "id": "b", "texte": "大声说笑", "correcte": true },
+          { "id": "c", "texte": "吃比萨", "correcte": false },
+          { "id": "d", "texte": "追一只猫", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-011-04",
+        "question": "上课铃声几点响起？",
+        "reponses": [
+          { "id": "a", "texte": "九点整", "correcte": false },
+          { "id": "b", "texte": "八点整", "correcte": true },
+          { "id": "c", "texte": "七点半", "correcte": false },
+          { "id": "d", "texte": "中午", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-011-05",
+        "question": "主角在学校里寻找什么？",
+        "reponses": [
+          { "id": "a", "texte": "他的教室", "correcte": true },
+          { "id": "b", "texte": "一家实用的药店", "correcte": false },
+          { "id": "c", "texte": "城市图书馆", "correcte": false },
+          { "id": "d", "texte": "卖糖果的小卖部", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "在我的教室里",
+    "titre2": "练习 012",
+    "texte": [
+      "我的教室在二楼，这里既宽敞又明亮。",
+      "里面有二十张绿色的木制课桌和许多椅子。",
+      "主墙上挂着一块大黑板。",
+      "窗户旁边有一些植物和一个柜子。",
+      "从窗户往外看，我能看到学校的花园。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-012-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-012-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-012-01",
+        "question": "教室在哪里？",
+        "reponses": [
+          { "id": "a", "texte": "在三楼", "correcte": false },
+          { "id": "b", "texte": "在二楼", "correcte": true },
+          { "id": "c", "texte": "在黑暗的地地下室", "correcte": false },
+          { "id": "d", "texte": "在屋顶", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-012-02",
+        "question": "教室里有多少张课桌？",
+        "reponses": [
+          { "id": "a", "texte": "十张课桌", "correcte": false },
+          { "id": "b", "texte": "二十张课桌", "correcte": true },
+          { "id": "c", "texte": "三十张课桌", "correcte": false },
+          { "id": "d", "texte": "十五张课桌", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-012-03",
+        "question": "主墙上挂着什么？",
+        "reponses": [
+          { "id": "a", "texte": "一块大黑板", "correcte": true },
+          { "id": "b", "texte": "一面现代大镜子", "correcte": false },
+          { "id": "c", "texte": "卡洛斯的照片", "correcte": false },
+          { "id": "d", "texte": "一个厨房时钟", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-012-04",
+        "question": "窗户旁边有什么？",
+        "reponses": [
+          { "id": "a", "texte": "一些植物和一个柜子", "correcte": true },
+          { "id": "b", "texte": "校长的办公桌", "correcte": false },
+          { "id": "c", "texte": "一张舒服的棕色沙发", "correcte": false },
+          { "id": "d", "texte": "学生洗手间", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-012-05",
+        "question": "从窗户看出去能看到什么？",
+        "reponses": [
+          { "id": "a", "texte": "学校的花园", "correcte": true },
+          { "id": "b", "texte": "火车站", "correcte": false },
+          { "id": "c", "texte": "一条交通繁忙的街道", "correcte": false },
+          { "id": "d", "texte": "爷爷奶奶的家", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "我最喜欢的科目",
+    "titre2": "练习 013",
+    "texte": [
+      "在学校里，我们每周都要学习许多不同的科目。",
+      "我最喜欢的科目是历史和地理。",
+      "我非常喜欢在脑海中旅行，探索新的国家。",
+      "数学对我来说有点儿难，我更喜欢美术。",
+      "在美术课上，我可以画画并使用各种颜色。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-013-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-013-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-013-01",
+        "question": "主角最喜欢的科目是什么？",
+        "reponses": [
+          { "id": "a", "texte": "数学和科学", "correcte": false },
+          { "id": "b", "texte": "历史和地理", "correcte": true },
+          { "id": "c", "texte": "法语和意大利语", "correcte": false },
+          { "id": "d", "texte": "音乐和体育", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-013-02",
+        "question": "他为什么喜欢地理？",
+        "reponses": [
+          { "id": "a", "texte": "因为能学会做比萨", "correcte": false },
+          { "id": "b", "texte": "因为可以在脑海中旅行并探索新国家", "correcte": true },
+          { "id": "c", "texte": "因为可以数很大的数字", "correcte": false },
+          { "id": "d", "texte": "因为可以和卢卡斯聊天", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-013-03",
+        "question": "他觉得数学怎么样？",
+        "reponses": [
+          { "id": "a", "texte": "非常简单", "correcte": false },
+          { "id": "b", "texte": "有点儿难", "correcte": true },
+          { "id": "c", "texte": "是最好的科目", "correcte": false },
+          { "id": "d", "texte": "他在学校不学数学", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-013-04",
+        "question": "相比数学，他更喜欢哪个科目？",
+        "reponses": [
+          { "id": "a", "texte": "美术", "correcte": true },
+          { "id": "b", "texte": "体操", "correcte": false },
+          { "id": "c", "texte": "古代历史", "correcte": false },
+          { "id": "d", "texte": "机械制图", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-013-05",
+        "question": "在美术课上他可以做什么？",
+        "reponses": [
+          { "id": "a", "texte": "画画并使用颜色", "correcte": true },
+          { "id": "b", "texte": "用德语写一封信", "correcte": false },
+          { "id": "c", "texte": "在椅子上睡觉", "correcte": false },
+          { "id": "d", "texte": "大声听广播", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "titre": "我的法语老师",
+    "titre2": "练习 014",
+    "texte": [
+      "我的法语老师叫罗西先生。",
+      "他是一位和善、有耐心的男老师，讲解得非常好。",
+      "课上他总是用法语和我们说话，以此来帮助我们。",
+      "他教会了我们许多实用的单词、歌曲和语法规则。",
+      "所有的学生都很喜欢他的课，因为非常有意思。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-014-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-014-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-014-01",
+        "question": "法语老师叫什么名字？",
+        "reponses": [
+          { "id": "a", "texte": "罗伯托先生", "correcte": false },
+          { "id": "b", "texte": "罗西先生", "correcte": true },
+          { "id": "c", "texte": "卡洛斯先生", "correcte": false },
+          { "id": "d", "texte": "卢卡斯先生", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-014-02",
+        "question": "罗西先生的性格怎么样？",
+        "reponses": [
+          { "id": "a", "texte": "严厉且总是生气", "correcte": false },
+          { "id": "b", "texte": "和善且有耐心", "correcte": true },
+          { "id": "c", "texte": "非常害羞和安静", "correcte": false },
+          { "id": "d", "texte": "容易焦虑", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-014-03",
+        "question": "老师在课上用哪种语言说话？",
+        "reponses": [
+          { "id": "a", "texte": "西班牙语", "correcte": false },
+          { "id": "b", "texte": "法语", "correcte": true },
+          { "id": "c", "texte": "德语", "correcte": false },
+          { "id": "d", "texte": "意大利语", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-014-04",
+        "question": "除了语法，罗西先生还教了什么？",
+        "reponses": [
+          { "id": "a", "texte": "实用的单词和歌曲", "correcte": true },
+          { "id": "b", "texte": "开公交车", "correcte": false },
+          { "id": "c", "texte": "踢足球", "correcte": false },
+          { "id": "d", "texte": "擦黑板", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-014-05",
+        "question": "为什么学生们喜欢他的课？",
+        "reponses": [
+          { "id": "a", "texte": "因为非常有意思", "correcte": true },
+          { "id": "b", "texte": "因为可以睡觉", "correcte": false },
+          { "id": "c", "texte": "因为课程只持续两分钟", "correcte": false },
+          { "id": "d", "texte": "因为可以吃冰激凌", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "titre": "我的同班同学",
+    "titre2": "练习 015",
+    "texte": [
+      "我们班一共有二十五名学生。",
+      "我的同班同学来自不同的国家。",
+      "我们是一个非常团结的集体，总是互相帮助做功课。",
+      "课间休息时，我们会聊聊各自的空闲时间。",
+      "能有这么友善、和善的同学，我感到很高兴。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-015-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-015-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-015-01",
+        "question": "班里有多少名学生？",
+        "reponses": [
+          { "id": "a", "texte": "二十名学生", "correcte": false },
+          { "id": "b", "texte": "二十五名学生", "correcte": true },
+          { "id": "c", "texte": "三十名学生", "correcte": false },
+          { "id": "d", "texte": "十名学生", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-015-02",
+        "question": "同学们来自哪里？",
+        "reponses": [
+          { "id": "a", "texte": "都来自同一个村子", "correcte": false },
+           { "id": "b", "texte": "来自不同的国家", "correcte": true },
+{ "id": "c", "texte": "只来自马德里", "correcte": false },
+{ "id": "d", "texte": "来自意大利", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-015-03",
+"question": "当遇到困难时，大家会怎么做？",
+"reponses": [
+{ "id": "a", "texte": "总是互相帮助做功课", "correcte": true },
+{ "id": "b", "texte": "叫警察", "correcte": false },
+{ "id": "c", "texte": "逃离学校", "correcte": false },
+{ "id": "d", "texte": "大声喊叫", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-015-04",
+"question": "课间休息时他们聊什么？",
+"reponses": [
+{ "id": "a", "texte": "语法规则", "correcte": false },
+{ "id": "b", "texte": "各自的空闲时间", "correcte": true },
+{ "id": "c", "texte": "超市的价格", "correcte": false },
+{ "id": "d", "texte": "爷爷奶奶的身体状况", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-015-05",
+"question": "主角怎么评价他的同学们？",
+"reponses": [
+{ "id": "a", "texte": "友善且和善", "correcte": true },
+{ "id": "b", "texte": "无聊且非常懒惰", "correcte": false },
+{ "id": "c", "texte": "总是很累", "correcte": false },
+{ "id": "d", "texte": "容易焦虑", "correcte": false }
+]
+}
+]
+},
+{
+"id": "016",
+"titre": "我的书包",
+"titre2": "练习 016",
+"texte": [
+"我的书包很大、很结实，是蓝色的。",
+"在书包里面，我放了三本厚书和两个练习本。",
+"在小文具盒里有三支圆珠笔、一支铅笔和一块橡皮。",
+"书包还有一个专门用来放我水瓶的侧兜。",
+"我每天晚上睡觉前都会把书包整理好。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-016-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-016-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-016-01",
+"question": "书包是什么颜色的？",
+"reponses": [
+{ "id": "a", "texte": "红色的", "correcte": false },
+{ "id": "b", "texte": "蓝色的", "correcte": true },
+{ "id": "c", "texte": "绿色的", "correcte": false },
+{ "id": "d", "texte": "黑色的", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-016-02",
+"question": "书包里面有多少本书？",
+"reponses": [
+{ "id": "a", "texte": "只有一本书", "correcte": false },
+{ "id": "b", "texte": "三本厚书", "correcte": true },
+{ "id": "c", "texte": "五本美术书", "correcte": false },
+{ "id": "d", "texte": "一本书也没有", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-016-03",
+"question": "小文具盒里面有什么？",
+"reponses": [
+{ "id": "a", "texte": "圆珠笔、一支铅笔和橡皮", "correcte": true },
+{ "id": "b", "texte": "一个新鲜的可颂", "correcte": false },
+{ "id": "c", "texte": "甜甜的蜂蜜", "correcte": false },
+{ "id": "d", "texte": "乘火车的钱", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-016-04",
+"question": "主角在专门的侧兜里放了什么？",
+"reponses": [
+{ "id": "a", "texte": "他的水瓶", "correcte": true },
+{ "id": "b", "texte": "一部移动电话", "correcte": false },
+{ "id": "c", "texte": "一个钥匙扣", "correcte": false },
+{ "id": "d", "texte": "一个红苹果", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-016-05",
+"question": "主角什么时候整理书包？",
+"reponses": [
+{ "id": "a", "texte": "每天晚上睡觉前", "correcte": true },
+{ "id": "b", "texte": "早上六点半匆忙整理", "correcte": false },
+{ "id": "c", "texte": "在上地理课的时候", "correcte": false },
+{ "id": "d", "texte": "星期日下午", "correcte": false }
+]
+}
+]
+},
+{
+"id": "017",
+"titre": "在图书馆的一天",
+"titre2": "练习 017",
+"texte": [
+"每周四下午，我总是去学校的图书馆。",
+"那是一个非常安静、干净且完美适合集中注意力的地方。",
+"那里有大型木质书架，上面摆满了各种各样的书。",
+"我拿了一本关于古代历史的书，在桌子旁坐了下来。",
+"我学习了两个小时，然后把书还给了图书管理员。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-017-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-017-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-017-01",
+"question": "主角在一周的哪一天去图书馆？",
+"reponses": [
+{ "id": "a", "texte": "星期一上午", "correcte": false },
+{ "id": "b", "texte": "星期四下午", "correcte": true },
+{ "id": "c", "texte": "星期日晚上", "correcte": false },
+{ "id": "d", "texte": "星期五晚上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-017-02",
+"question": "图书馆的环境怎么样？",
+"reponses": [
+{ "id": "a", "texte": "非常吵闹和混乱", "correcte": false },
+{ "id": "b", "texte": "安静、干净且完美适合集中注意力", "correcte": true },
+{ "id": "c", "texte": "黑暗且非常寒冷", "correcte": false },
+{ "id": "d", "texte": "到处是喊叫的孩子", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-017-03",
+"question": "木质书架上摆满了什么？",
+"reponses": [
+{ "id": "a", "texte": "各种各样的书", "correcte": true },
+{ "id": "b", "texte": "旧的绿练习本", "correcte": false },
+{ "id": "c", "texte": "冷水瓶", "correcte": false },
+{ "id": "d", "texte": "绿色植物", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-017-04",
+"question": "他选择读什么书？",
+"reponses": [
+{ "id": "a", "texte": "一本关于西班牙地理的书", "correcte": false },
+{ "id": "b", "texte": "一本关于古代历史的书", "correcte": true },
+{ "id": "c", "texte": "一本法语词典", "correcte": false },
+{ "id": "d", "texte": "一本美术小说", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-017-05",
+"question": "他最后把书还给了谁？",
+"reponses": [
+{ "id": "a", "texte": "图书管理员", "correcte": true },
+{ "id": "b", "texte": "数学老师", "correcte": false },
+{ "id": "c", "texte": "他的朋友卢卡斯", "correcte": false },
+{ "id": "d", "texte": "他的母亲埃琳娜", "correcte": false }
+]
+}
+]
+},
+{
+"id": "018",
+"titre": "我的家庭作业",
+"titre2": "练习 018",
+"texte": [
+"放学回到家，我先休息一会儿，然后开始做功课。",
+"我坐在书桌旁，打开西班牙语笔记本。",
+"我写了三个长句子，并读了书里的一页内容。",
+"有时候，数学作业很难，我会寻求帮助。",
+"我坐一个小时就能把所有作业写完，然后就可以开心地去公园玩了。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-018-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-018-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-018-01",
+"question": "主角在开始做家庭作业前先做什么？",
+"reponses": [
+{ "id": "a", "texte": "睡觉四个小时", "correcte": false },
+{ "id": "b", "texte": "稍微休息一会儿", "correcte": true },
+{ "id": "c", "texte": "做热腾腾的晚餐", "correcte": false },
+{ "id": "d", "texte": "立刻去超市", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-018-02",
+"question": "他首先在书桌上打开哪个笔记本？",
+"reponses": [
+{ "id": "a", "texte": "数学笔记本", "correcte": false },
+{ "id": "b", "texte": "西班牙语笔记本", "correcte": true },
+{ "id": "c", "texte": "美术笔记本", "correcte": false },
+{ "id": "d", "texte": "蓝色文具盒", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-018-03",
+"question": "他在笔记本上写了几个句子？",
+"reponses": [
+{ "id": "a", "texte": "只有一个短句子", "correcte": false },
+{ "id": "b", "texte": "三个长句子", "correcte": true },
+{ "id": "c", "texte": "二十个困难的单词", "correcte": false },
+{ "id": "d", "texte": "一个句子也没写", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-018-04",
+"question": "有时候什么科目的功课比较难？",
+"reponses": [
+{ "id": "a", "texte": "美术功课", "correcte": false },
+{ "id": "b", "texte": "数学功课", "correcte": true },
+{ "id": "c", "texte": "法语阅读", "correcte": false },
+{ "id": "d", "texte": "历史课", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-018-05",
+"question": "他需要多少时间来完成所有的功课？",
+"reponses": [
+{ "id": "a", "texte": "一个小时", "correcte": true },
+{ "id": "b", "texte": "仅仅五分钟", "correcte": false },
+{ "id": "c", "texte": "一整晚", "correcte": false },
+{ "id": "d", "texte": "三天", "correcte": false }
+]
+}
+]
+},
+{
+"id": "019",
+"titre": "课间休息",
+"titre2": "练习 019",
+"texte": [
+"十一点整是课间休息时间，这节课结束了。",
+"所有的学生都迅速离开教室，前往操场。",
+"我吃了一个红苹果或者我书包里备着的小三明治。",
+"我和朋友们聊起了我们历史科目的新内容。",
+"课间休息虽然只有十五分钟，但非常美好。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-019-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-019-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-019-01",
+"question": "课间休息几点开始？",
+"reponses": [
+{ "id": "a", "texte": "早上十点", "correcte": false },
+{ "id": "b", "texte": "十一点整", "correcte": true },
+{ "id": "c", "texte": "中午十二点半", "correcte": false },
+{ "id": "d", "texte": "十四点", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-019-02",
+"question": "休息期间学生们去哪里？",
+"reponses": [
+{ "id": "a", "texte": "去父母家", "correcte": false },
+{ "id": "b", "texte": "去操场", "correcte": true },
+{ "id": "c", "texte": "去药店", "correcte": false },
+{ "id": "d", "texte": "去火车站", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-019-03",
+"question": "主角在操场上吃什么？",
+"reponses": [
+{ "id": "a", "texte": "一个红苹果或者一个小三明治", "correcte": true },
+{ "id": "b", "texte": "冰凉的巧克力冰激凌", "correcte": false },
+{ "id": "c", "texte": "热鸡汤", "correcte": false },
+{ "id": "d", "texte": "配蜂蜜的饼干", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-019-04",
+"question": "主角在休息期间聊些什么？",
+"reponses": [
+{ "id": "a", "texte": "语法规则", "correcte": false },
+{ "id": "b", "texte": "我们历史科目的新内容", "correcte": true },
+{ "id": "c", "texte": "图书管理员", "correcte": false },
+{ "id": "d", "texte": "年迈的农民", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-019-05",
+"question": "课间休息持续多长时间？",
+"reponses": [
+{ "id": "a", "texte": "十五分钟", "correcte": true },
+{ "id": "b", "texte": "一整小时", "correcte": false },
+{ "id": "c", "texte": "仅仅五分钟", "correcte": false },
+{ "id": "d", "texte": "整个下午", "correcte": false }
+]
+}
+]
+},
+{
+"id": "020",
+"titre": "学校假期",
+"titre2": "练习 020",
+"texte": [
+"夏天的时候，学校会关闭三个月，假期开始了。",
+"我不需要在早上起得很早，在家里也没有功课。",
+"我可以和家人一起去海边，或者待在花园里。",
+"我经常去探望住在乡下的亲爱的爷爷奶奶。",
+"假期是休息和享受乐趣的完美时光。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-020-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-020-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-020-01",
+"question": "学校的长假在一年中的哪个季节开始？",
+"reponses": [
+{ "id": "a", "texte": "下雪的冬天", "correcte": false },
+{ "id": "b", "texte": "夏天", "correcte": true },
+{ "id": "c", "texte": "刮风的秋天", "correcte": false },
+{ "id": "d", "texte": "十二月", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-020-02",
+"question": "学校会关闭几个月？",
+"reponses": [
+{ "id": "a", "texte": "仅一个月", "correcte": false },
+{ "id": "b", "texte": "三个月", "correcte": true },
+{ "id": "c", "texte": "整整六个月", "correcte": false },
+{ "id": "d", "texte": "两周", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-020-03",
+"question": "主角在假期期间不需要做什么？",
+"reponses": [
+{ "id": "a", "texte": "早起和做功课", "correcte": true },
+{ "id": "b", "texte": "在酒吧吃冰激凌", "correcte": false },
+{ "id": "c", "texte": "去探望爷爷奶奶", "correcte": false },
+{ "id": "d", "texte": "在单人床上休息", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-020-04",
+"question": "主角的爷爷奶奶住在哪里？",
+"reponses": [
+{ "id": "a", "texte": "在马德里市中心", "correcte": false },
+{ "id": "b", "texte": "在乡下", "correcte": true },
+{ "id": "c", "texte": "在柏林车站附近", "correcte": false },
+{ "id": "d", "texte": "在蓝色的海边", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-020-05",
+"question": "假期这段时光是如何被定义的？",
+"reponses": [
+{ "id": "a", "texte": "休息和享受乐趣的完美时光", "correcte": true },
+{ "id": "b", "texte": "非常无聊且困难", "correcte": false },
+{ "id": "c", "texte": "太短了无法去旅行", "correcte": false },
+{ "id": "d", "texte": "充满了焦虑和工作", "correcte": false }
+]
+}
+]
+}
+]
