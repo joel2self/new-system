@@ -1,278 +1,1154 @@
 [
+ {
+    "id": "001",
+    "titre": "Advanced Adjectives",
+    "definition": "Advanced adjectives describe people, objects, situations and ideas with precision. They can express subtle differences in meaning, intensity and evaluation.",
+    "instruction": "Complete each sentence with the two appropriate adjectives.",
+    "questions": [
+      {
+        "text": "Despite the company's {{1}} financial situation, its management remained remarkably {{2}} about future growth.",
+        "answers": ["precarious", "optimistic"]
+      },
+      {
+        "text": "The researcher presented a {{1}} argument supported by {{2}} empirical evidence.",
+        "answers": ["compelling", "substantial"]
+      },
+      {
+        "text": "Her explanation was so {{1}} and {{2}} that even the most inexperienced participants understood the concept.",
+        "answers": ["lucid", "accessible"]
+      },
+      {
+        "text": "The committee rejected the proposal because its objectives were {{1}} and its financial projections were {{2}}.",
+        "answers": ["ambiguous", "unrealistic"]
+      },
+      {
+        "text": "The architect designed a {{1}} building that remained both {{2}} and environmentally sustainable.",
+        "answers": ["innovative", "functional"]
+      },
+      {
+        "text": "His {{1}} criticism was considered unnecessarily {{2}} by several members of the board.",
+        "answers": ["harsh", "offensive"]
+      },
+      {
+        "text": "The documentary offers a {{1}} account of a {{2}} historical period.",
+        "answers": ["comprehensive", "turbulent"]
+      },
+      {
+        "text": "Although the negotiations were {{1}}, both parties remained {{2}} throughout the discussions.",
+        "answers": ["complex", "cooperative"]
+      },
+      {
+        "text": "The organization introduced {{1}} measures to address the {{2}} shortage of qualified professionals.",
+        "answers": ["immediate", "acute"]
+      },
+      {
+        "text": "Her research revealed a {{1}} relationship between economic inequality and {{2}} social instability.",
+        "answers": ["significant", "widespread"]
+      }
+    ]
+  },
   {
-  "exercises": [
-    {
-      "title": "Routine Quotidienne dans un Village de Montagne",
-      "slug": "routine-village-montagne",
-      "content": "Même si la plupart des gens ne le réalisent pas, chaque journée suit une routine, ou un ensemble établi de procédures et de pratiques générales. Les routines rendent les horaires quotidiens plus faciles à gérer, permettent de libérer du temps supplémentaire et assurent que les individus accomplissent autant de leurs tâches et objectifs que possible.\nJetons un coup d'œil à une routine typique dans un village de montagne!\nLe réveil sonne, et Émilie se lève en bâillant de son lit. Elle n'a pas beaucoup dormi la nuit précédente, il lui faut donc quelques minutes pour se lever et se préparer à commencer la journée.\nÉmilie entre dans la salle de bain et se lave le visage dans le lavabo, utilisant du savon et de l'eau chaude pour le faire. Elle se regarde dans le miroir et se sèche le visage avec une serviette. Ensuite, elle prend une douche et se nettoie.\nSous la douche, Émilie applique du shampoing sur ses cheveux et du savon sur le reste de son corps, avant de rincer et de sortir. Elle se sèche avec une plus grande serviette et s'habille avec ses vêtements. Enfin, elle se brosse les cheveux et sort.\nEnsuite, Émilie prend son petit déjeuner, comprenant du pain frais et du fromage local. Elle retourne ensuite dans la salle de bain pour se brosser les dents. Avant de quitter sa maison, Émilie fait son lit et vérifie que le feu de bois est bien éteint. Elle se rend à l'école à pied, un petit bâtiment en bois situé au cœur du village.\nÀ l'école, Émilie assiste aux cours, déjeune avec ses camarades de classe et socialise avec eux. Ensuite, elle rentre chez elle en fin d'après-midi.\nChez elle, Émilie termine ses devoirs et les place dans son sac à dos pour le lendemain. Une fois ses devoirs terminés, Émilie joue avec ses frères et sœurs dans les champs voisins avant de rentrer pour le dîner.\nÉmilie dîne avec sa famille, partageant un repas de soupe chaude et de pain frais. Pour clore cette journée bien remplie, Émilie se brosse les dents et se met au lit, prête à commencer une nouvelle journée dans les montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850964873-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1",
-        "https://feeds.soundcloud.com/stream/1850965542-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1h"
-      ],
-      "localStorage": "score_routine-village-montagne",
-      "questions": [
-        {
-          "question": "Quelle est la première activité quotidienne d'Émilie décrite dans le texte ?",
-          "choices": [
-            "Prendre son petit déjeuner",
-            "Se laver le visage",
-            "Allumer le feu de bois",
-            "Faire son lit"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie après s'être lavé le visage dans la salle de bain ?",
-          "choices": [
-            "Elle prend une douche",
-            "Elle s'habille",
-            "Elle se brosse les cheveux",
-            "Elle se brosse les dents"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quel aliment compose le petit déjeuner d'Émilie ?",
-          "choices": [
-            "Des œufs brouillés",
-            "Du pain frais et du fromage local",
-            "Des céréales avec du lait",
-            "Des fruits et du yaourt"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Où se rend Émilie après avoir pris son petit déjeuner ?",
-          "choices": [
-            "À l'école",
-            "Au travail",
-            "Chez sa grand-mère",
-            "Au marché"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Comment se rend Émilie à l'école ?",
-          "choices": [
-            "En voiture",
-            "En bus scolaire",
-            "À pied",
-            "À vélo"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'activité d'Émilie après l'école ?",
-          "choices": [
-            "Elle fait ses devoirs",
-            "Elle joue avec ses frères et sœurs",
-            "Elle va chez le voisin",
-            "Elle prend une douche"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le repas du soir d'Émilie avec sa famille ?",
-          "choices": [
-            "Des pâtes avec de la sauce tomate",
-            "De la soupe chaude et du pain frais",
-            "Des pizzas maison",
-            "Des légumes grillés avec du riz"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie juste avant de se coucher ?",
-          "choices": [
-            "Elle lit un livre",
-            "Elle regarde la télévision",
-            "Elle se brosse les dents",
-            "Elle écrit dans son journal intime"
-          ],
-          "answer": "c"
-        }
-      ]
-    },
-    {
-      "title": "Observation des Baleines Bleues dans l'Océan Indien",
-      "slug": "observation-baleines-ocean-indien",
-      "content": "Avez-vous déjà rêvé d'observer une baleine de près? Les baleines bleues sont les plus grands mammifères de la planète, pesant jusqu'à 200 tonnes. Elles peuvent atteindre jusqu'à 88 pieds de long, soit plus grand qu'un avion de ligne! Leurs migrations sont parmi les plus fascinantes au monde, avec les baleines bleues parcourant de nombreuses miles pour se nourrir et mettre bas. Les petits de baleines, appelés veaux, naissent au large des côtes de l'île Maurice, puis ensemble, ils parcourent plus de 10 000 kilomètres jusqu'aux eaux riches en krill de l'océan Antarctique. Le voyage dure de 4 à 5 mois et traverse l'océan Indien, avec des arrêts pour se reposer dans les eaux chaudes des Maldives. Vous pouvez observer ces baleines majestueuses le long des côtes de Madagascar et de l'Afrique du Sud, où elles viennent parfois près des rivages lors de leurs migrations saisonnières. Assurez-vous de garder un œil sur l'eau pour repérer les jets d'eau caractéristiques, annonçant l'émergence imminente de ces créatures géantes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850961696-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1",
-        "https://feeds.soundcloud.com/stream/1850963328-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1h"
-      ],
-      "localStorage": "score_observation-baleines-ocean-indien",
-      "questions": [
-        {
-          "question": "Quel est le sujet principal du texte ?",
-          "choices": [
-            "Les oiseaux migrateurs",
-            "Les baleines bleues dans l'océan Indien",
-            "Les baleines grises dans le Pacifique",
-            "Les requins dans l'Atlantique"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la caractéristique principale des baleines bleues ?",
-          "choices": [
-            "Leur taille immense",
-            "Leur vitesse de nage",
-            "Leur couleur bleue vive",
-            "Leur migration annuelle"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Où naissent les petits de baleines, selon le texte ?",
-          "choices": [
-            "Au large des côtes de l'île Maurice",
-            "Dans les eaux riches en krill de l'océan Antarctique",
-            "Dans les eaux chaudes des Maldives",
-            "Dans les eaux froides du Groenland"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelle est la durée approximative du voyage des baleines bleues depuis leur naissance jusqu'aux eaux de l'océan Antarctique ?",
-          "choices": [
-            "1 à 2 semaines",
-            "1 à 2 mois",
-            "4 à 5 mois",
-            "1 à 2 ans"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Où peut-on observer les baleines bleues le long de leurs migrations saisonnières ?",
-          "choices": [
-            "Les côtes du Brésil",
-            "Les côtes de l'Afrique du Sud et de Madagascar",
-            "Les côtes de l'Australie",
-            "Les côtes de la Californie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le comportement caractéristique des baleines bleues lorsqu'elles émergent de l'eau ?",
-          "choices": [
-            "Elles bondissent hors de l'eau.",
-            "Elles crachent de l'eau par leur évent.",
-            "Elles nagent en formation serrée.",
-            "Elles nagent rapidement vers la côte."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'intérêt de garder un œil sur l'eau lors de l'observation des baleines bleues ?",
-          "choices": [
-            "Pour éviter les collisions avec d'autres bateaux.",
-            "Pour repérer les jets d'eau annonçant leur émergence.",
-            "Pour observer les nageoires dorsales des baleines.",
-            "Pour surveiller les mouvements des poissons."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme qualifie le mieux les baleines bleues dans le texte ?",
-          "choices": [
-            "Gigantesques",
-            "Agiles",
-            "Timides",
-            "Chantantes"
-          ],
-          "answer": "a"
-        }
-      ]
-    },
-    {
-      "title": "Parc National de l'Himalaya",
-      "slug": "parc-national-himalaya",
-      "content": "Le plus grand parc national d'Asie, le parc national de l'Himalaya, s'étend sur 5 000 kilomètres carrés et s'étire à travers les contreforts de l'Himalaya en Inde, au Népal et au Bhoutan. Cela rend ce parc plus grand que plusieurs petits pays combinés. Il abrite une biodiversité incroyable avec plus de 500 espèces de plantes endémiques et plus de 100 espèces d'animaux, y compris le majestueux léopard des neiges et le rare panda rouge. De plus, le parc regorge de sanctuaires d'oiseaux qui attirent les ornithologues du monde entier. Dans ses vastes terres, le parc de l'Himalaya présente près de 200 lacs, 400 kilomètres de sentiers de randonnée et des cascades spectaculaires alimentées par les rivières de fonte des glaciers. En outre, le parc dispose de centres de recherche dédiés à l'étude de la biodiversité himalayenne et à la conservation des espèces menacées telles que le tigre du Bengale et le rhinocéros indien. Le parc repose sur une activité tectonique élevée en raison de sa situation près de la ceinture de feu de l'Himalaya, ce qui entraîne des séismes fréquents mais offre également des sources chaudes thermales appréciées des visiteurs. Des équipes de surveillance veillent à la sécurité des visiteurs et à la préservation de l'écosystème fragile du parc. Le parc national de l'Himalaya est un trésor naturel à découvrir pour quiconque cherche à explorer les merveilles de cette majestueuse chaîne de montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850957421-perinemagne-parc-national-de-lhimalaya-c1"
-      ],
-      "localStorage": "score_parc-national-himalaya",
-      "questions": [
-        {
-          "question": "Où se situe le parc national de l'Himalaya ?",
-          "choices": [
-            "En Chine",
-            "En Inde, au Népal et au Bhoutan",
-            "Au Japon",
-            "En Russie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la superficie approximative du parc national de l'Himalaya ?",
-          "choices": [
-            "500 kilomètres carrés",
-            "5 000 kilomètres carrés",
-            "50 000 kilomètres carrés",
-            "500 000 kilomètres carrés"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Combien d'espèces d'animaux sont présentes dans le parc national de l'Himalaya ?",
-          "choices": [
-            "Moins de 50 espèces",
-            "Environ 100 espèces",
-            "Plus de 100 espèces",
-            "Plus de 500 espèces"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'une des espèces animales emblématiques du parc national de l'Himalaya mentionnée dans le texte ?",
-          "choices": [
-            "Le tigre du Bengale",
-            "Le lion",
-            "Le kangourou",
-            "L'éléphant africain"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelles sont les caractéristiques géographiques du parc de l'Himalaya selon le texte ?",
-          "choices": [
-            "Des montagnes uniquement",
-            "Des lacs, des sentiers de randonnée et des cascades",
-            "Des déserts et des canyons",
-            "Des forêts uniquement"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'impact de l'activité tectonique près du parc national de l'Himalaya ?",
-          "choices": [
-            "Aucun impact",
-            "Des tremblements de terre fréquents et des sources chaudes thermales",
-            "Un climat très stable",
-            "Une faune et une flore très variées"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quels sont les efforts mentionnés dans le texte pour préserver le parc national de l'Himalaya ?",
-          "choices": [
-            "Des programmes de chasse",
-            "Des équipes de surveillance pour la sécurité des visiteurs et la préservation de l'écosystème",
-            "Des activités industrielles",
-            "L'urbanisation du parc"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme décrit le mieux le parc national de l'Himalaya selon le texte ?",
-          "choices": [
-            "Un trésor naturel",
-            "Un désert aride",
-            "Une zone industrielle",
-            "Un terrain vague"
-          ],
-          "answer": "a"
-        }
-      ]
-    
+    "id": "002",
+    "titre": "Advanced Prepositions",
+    "definition": "Prepositions establish relationships of place, time, cause, purpose, manner and reference between different elements of a sentence.",
+    "instruction": "Complete each sentence with the two appropriate prepositions.",
+    "questions": [
+      {
+        "text": "The minister was held responsible {{1}} the decision, despite having acted {{2}} the instructions of the president.",
+        "answers": ["for", "under"]
+      },
+      {
+        "text": "The company invested heavily {{1}} research in order to gain an advantage {{2}} its competitors.",
+        "answers": ["in", "over"]
+      },
+      {
+        "text": "The agreement was reached {{1}} the condition that both parties would comply {{2}} the new regulations.",
+        "answers": ["on", "with"]
+      },
+      {
+        "text": "The report focuses {{1}} the consequences of unemployment rather than {{2}} its immediate causes.",
+        "answers": ["on", "on"]
+      },
+      {
+        "text": "The charity operates {{1}} the supervision of local authorities and provides assistance {{2}} vulnerable families.",
+        "answers": ["under", "to"]
+      },
+      {
+        "text": "The researchers were unable to account {{1}} the discrepancy between the results obtained {{2}} different laboratories.",
+        "answers": ["for", "in"]
+      },
+      {
+        "text": "The new policy is aimed {{1}} reducing inequality and improving access {{2}} education.",
+        "answers": ["at", "to"]
+      },
+      {
+        "text": "The witness insisted {{1}} telling the truth, regardless {{2}} the possible consequences.",
+        "answers": ["on", "of"]
+      },
+      {
+        "text": "The negotiations collapsed {{1}} disagreements concerning the distribution of resources {{2}} the participating countries.",
+        "answers": ["because of", "among"]
+      },
+      {
+        "text": "The findings are consistent {{1}} previous studies and provide further insight {{2}} the problem.",
+        "answers": ["with", "into"]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Advanced Adverbs",
+    "definition": "Adverbs modify verbs, adjectives, other adverbs and entire clauses. They provide information about manner, frequency, degree, certainty and viewpoint.",
+    "instruction": "Complete each sentence with the two appropriate adverbs.",
+    "questions": [
+      {
+        "text": "The government responded {{1}} to the crisis, but its measures were implemented {{2}} across the country.",
+        "answers": ["promptly", "unevenly"]
+      },
+      {
+        "text": "The proposal was {{1}} rejected because it was {{2}} incompatible with existing legislation.",
+        "answers": ["initially", "fundamentally"]
+      },
+      {
+        "text": "The witness spoke {{1}} during the hearing and described the events {{2}}.",
+        "answers": ["confidently", "accurately"]
+      },
+      {
+        "text": "The company had {{1}} underestimated the risks and was {{2}} prepared for the financial consequences.",
+        "answers": ["seriously", "poorly"]
+      },
+      {
+        "text": "The new system operates {{1}} and processes information {{2}}.",
+        "answers": ["efficiently", "automatically"]
+      },
+      {
+        "text": "The manager {{1}} acknowledged the problem but {{2}} underestimated its long-term consequences.",
+        "answers": ["reluctantly", "clearly"]
+      },
+      {
+        "text": "The results were {{1}} different from the initial predictions, although they were {{2}} consistent with the latest research.",
+        "answers": ["considerably", "largely"]
+      },
+      {
+        "text": "The organization has {{1}} expanded its activities and now operates {{2}} in several regions.",
+        "answers": ["successfully", "internationally"]
+      },
+      {
+        "text": "The instructions were {{1}} written, but they were {{2}} understood by the participants.",
+        "answers": ["poorly", "widely"]
+      },
+      {
+        "text": "The committee {{1}} postponed its decision and {{2}} requested additional information.",
+        "answers": ["temporarily", "subsequently"]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Advanced Synonyms",
+    "definition": "Synonyms are words or expressions with similar meanings. Their appropriate use depends on context, register and subtle differences in meaning.",
+    "instruction": "Complete each sentence with two appropriate synonyms of the meanings suggested by the context.",
+    "questions": [
+      {
+        "text": "The journalist decided to {{1}} the allegations and {{2}} the evidence before publishing the investigation.",
+        "answers": ["investigate", "examine"]
+      },
+      {
+        "text": "The new regulations aim to {{1}} pollution and {{2}} the environmental damage caused by industrial activities.",
+        "answers": ["reduce", "minimize"]
+      },
+      {
+        "text": "The committee decided to {{1}} the proposal and {{2}} its potential consequences.",
+        "answers": ["evaluate", "assess"]
+      },
+      {
+        "text": "The director tried to {{1}} the employees and {{2}} their confidence during the restructuring process.",
+        "answers": ["encourage", "strengthen"]
+      },
+      {
+        "text": "The researcher sought to {{1}} the phenomenon and {{2}} the mechanisms behind it.",
+        "answers": ["understand", "comprehend"]
+      },
+      {
+        "text": "The organization intends to {{1}} its services and {{2}} its activities in underserved communities.",
+        "answers": ["expand", "extend"]
+      },
+      {
+        "text": "The witness was asked to {{1}} the incident and {{2}} what had happened before the accident.",
+        "answers": ["describe", "explain"]
+      },
+      {
+        "text": "The government must {{1}} public spending and {{2}} unnecessary administrative costs.",
+        "answers": ["control", "limit"]
+      },
+      {
+        "text": "The professor encouraged students to {{1}} the argument and {{2}} its underlying assumptions.",
+        "answers": ["question", "challenge"]
+      },
+      {
+        "text": "The organization hopes to {{1}} international cooperation and {{2}} stronger diplomatic relations.",
+        "answers": ["promote", "foster"]
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "titre": "Advanced Word Choice",
+    "definition": "Precise word choice involves selecting vocabulary that conveys the intended meaning accurately and appropriately in a particular context.",
+    "instruction": "Complete each sentence with the two words that best fit the context.",
+    "questions": [
+      {
+        "text": "The government introduced a new {{1}} to encourage private investment and stimulate economic {{2}}.",
+        "answers": ["policy", "growth"]
+      },
+      {
+        "text": "The investigation revealed serious {{1}} in the company's accounting system and raised concerns about financial {{2}}.",
+        "answers": ["irregularities", "transparency"]
+      },
+      {
+        "text": "The institution provides financial {{1}} to students who demonstrate academic {{2}}.",
+        "answers": ["assistance", "excellence"]
+      },
+      {
+        "text": "The agreement establishes a clear {{1}} of responsibilities and a mechanism for resolving future {{2}}.",
+        "answers": ["distribution", "disputes"]
+      },
+      {
+        "text": "The organization launched an awareness {{1}} to address the growing {{2}} of cybercrime.",
+        "answers": ["campaign", "threat"]
+      },
+      {
+        "text": "The company experienced a significant {{1}} in productivity following the introduction of new manufacturing {{2}}.",
+        "answers": ["increase", "techniques"]
+      },
+      {
+        "text": "The report highlights the {{1}} of affordable housing and the consequences of urban {{2}}.",
+        "answers": ["shortage", "expansion"]
+      },
+      {
+        "text": "The institution established strict {{1}} to ensure the financial {{2}} of its operations.",
+        "answers": ["procedures", "accountability"]
+      },
+      {
+        "text": "The research provides valuable {{1}} into consumer behaviour and offers practical {{2}} for businesses.",
+        "answers": ["insights", "recommendations"]
+      },
+      {
+        "text": "The authorities introduced emergency {{1}} to prevent further economic {{2}}.",
+        "answers": ["measures", "deterioration"]
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "titre": "Advanced Conjunctions",
+    "definition": "Conjunctions connect words, phrases and clauses. They express relationships such as contrast, condition, concession, cause and consequence.",
+    "instruction": "Complete each sentence with the two appropriate conjunctions or conjunctional expressions.",
+    "questions": [
+      {
+        "text": "{{1}} the project was expensive, the authorities decided to proceed {{2}} its long-term benefits justified the investment.",
+        "answers": ["Although", "because"]
+      },
+      {
+        "text": "The company will expand its operations {{1}} demand continues to increase, {{2}} economic conditions remain favourable.",
+        "answers": ["provided that", "and"]
+      },
+      {
+        "text": "The candidate was appointed {{1}} she lacked extensive experience, {{2}} her exceptional analytical skills impressed the committee.",
+        "answers": ["even though", "because"]
+      },
+      {
+        "text": "The policy will succeed {{1}} sufficient resources are allocated, {{2}} its implementation is carefully monitored.",
+        "answers": ["only if", "and"]
+      },
+      {
+        "text": "The negotiations continued {{1}} several disagreements emerged, {{2}} neither party wanted to abandon the agreement.",
+        "answers": ["although", "since"]
+      },
+      {
+        "text": "The researcher collected additional data {{1}} the initial findings were inconclusive, {{2}} the final analysis would be more reliable.",
+        "answers": ["because", "so that"]
+      },
+      {
+        "text": "{{1}} the government introduces further reforms, unemployment may remain high {{2}} private investment increases.",
+        "answers": ["Unless", "and"]
+      },
+      {
+        "text": "The institution revised its admission criteria {{1}} ensure greater fairness, {{2}} some applicants disagreed with the changes.",
+        "answers": ["in order to", "although"]
+      },
+      {
+        "text": "{{1}} the evidence was incomplete, the court accepted the testimony {{2}} it was supported by independent witnesses.",
+        "answers": ["Although", "because"]
+      },
+      {
+        "text": "The organization will maintain its current strategy {{1}} new evidence emerges, {{2}} the board decides otherwise.",
+        "answers": ["unless", "or"]
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "titre": "Advanced Word Order",
+    "definition": "English word order determines how subjects, verbs, objects, complements and modifiers are arranged to convey precise grammatical and logical relationships.",
+    "instruction": "Complete each sentence with the two missing expressions in the correct grammatical order.",
+    "questions": [
+      {
+        "text": "Rarely {{1}} such a comprehensive investigation, and never before {{2}} such extensive evidence.",
+        "answers": ["has the committee conducted", "has it presented"]
+      },
+      {
+        "text": "Not only {{1}} the financial implications, but she also {{2}} the ethical consequences of the decision.",
+        "answers": ["did she consider", "examined"]
+      },
+      {
+        "text": "Under no circumstances {{1}} confidential information, nor {{2}} without prior authorization.",
+        "answers": ["should employees disclose", "should it be shared"]
+      },
+      {
+        "text": "Only after the audit {{1}} the extent of the financial losses, and only then {{2}} corrective measures.",
+        "answers": ["did the directors understand", "were introduced"]
+      },
+      {
+        "text": "The manager asked the employees {{1}} the report before the deadline and {{2}} any discrepancies immediately.",
+        "answers": ["to submit", "to report"]
+      },
+      {
+        "text": "The professor explained that the results {{1}} the original hypothesis and {{2}} further investigation.",
+        "answers": ["did not support", "required"]
+      },
+      {
+        "text": "So complex {{1}} that several experts struggled {{2}} its underlying principles.",
+        "answers": ["was the problem", "to understand"]
+      },
+      {
+        "text": "The proposal, which {{1}} by several independent experts, was eventually {{2}} by the committee.",
+        "answers": ["had been reviewed", "approved"]
+      },
+      {
+        "text": "No sooner {{1}} the agreement than the parties {{2}} implementing its provisions.",
+        "answers": ["had they signed", "began"]
+      },
+      {
+        "text": "The report clearly indicates that {{1}} the available resources efficiently and that {{2}} without unnecessary delays.",
+        "answers": ["the institution must allocate", "the reforms should be implemented"]
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "titre": "Advanced Articles",
+    "definition": "English articles include the definite article 'the', the indefinite articles 'a' and 'an', and the zero article. Their use depends on specificity, countability and context.",
+    "instruction": "Complete each sentence with the appropriate articles. Use an empty string when no article is required.",
+    "questions": [
+      {
+        "text": "{{1}} economic development depends partly on {{2}} quality of public institutions.",
+        "answers": ["", "the"]
+      },
+      {
+        "text": "She was appointed {{1}} director of {{2}} international research centre.",
+        "answers": ["", "an"]
+      },
+      {
+        "text": "{{1}} information provided by the witness contradicted {{2}} earlier statement.",
+        "answers": ["The", "an"]
+      },
+      {
+        "text": "He has been working as {{1}} economist for {{2}} international development organization.",
+        "answers": ["an", "an"]
+      },
+      {
+        "text": "{{1}} education plays {{2}} essential role in reducing social inequality.",
+        "answers": ["", "an"]
+      },
+      {
+        "text": "The company opened {{1}} new office near {{2}} university where its founder studied.",
+        "answers": ["a", "the"]
+      },
+      {
+        "text": "She travelled to {{1}} United Kingdom to conduct research on {{2}} public health systems.",
+        "answers": ["the", ""]
+      },
+      {
+        "text": "{{1}} honesty is considered {{2}} important quality in professional relationships.",
+        "answers": ["", "an"]
+      },
+      {
+        "text": "After completing {{1}} investigation, the journalist published {{2}} article exposing the corruption scandal.",
+        "answers": ["the", "an"]
+      },
+      {
+        "text": "{{1}} knowledge acquired through experience can be as valuable as {{2}} formal education.",
+        "answers": ["The", ""]
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "titre": "Advanced Antonyms",
+    "definition": "Antonyms are words with opposite meanings. Recognizing them helps learners express contrast, disagreement and differences with precision.",
+    "instruction": "Complete each sentence with two words that express the appropriate opposite meanings.",
+    "questions": [
+      {
+        "text": "The government replaced its {{1}} economic policy with a more {{2}} approach to public spending.",
+        "answers": ["restrictive", "flexible"]
+      },
+      {
+        "text": "While the first proposal was financially {{1}}, the alternative proved economically {{2}}.",
+        "answers": ["viable", "unsustainable"]
+      },
+      {
+        "text": "The investigation uncovered {{1}} practices in an institution previously considered completely {{2}}.",
+        "answers": ["corrupt", "honest"]
+      },
+      {
+        "text": "The manager encouraged {{1}} communication rather than maintaining a culture of {{2}}.",
+        "answers": ["transparent", "secrecy"]
+      },
+      {
+        "text": "The new system replaced a highly {{1}} procedure with a more {{2}} administrative process.",
+        "answers": ["complicated", "straightforward"]
+      },
+      {
+        "text": "The committee rejected the {{1}} recommendation and adopted a more {{2}} alternative.",
+        "answers": ["conventional", "innovative"]
+      },
+      {
+        "text": "The region moved from severe economic {{1}} towards gradual financial {{2}}.",
+        "answers": ["decline", "recovery"]
+      },
+      {
+        "text": "The policy was initially {{1}}, but subsequent evidence demonstrated that its effects were largely {{2}}.",
+        "answers": ["effective", "ineffective"]
+      },
+      {
+        "text": "The organization replaced its {{1}} recruitment practices with a more {{2}} selection process.",
+        "answers": ["discriminatory", "inclusive"]
+      },
+      {
+        "text": "The report contrasts {{1}} economic conditions with the relative {{2}} experienced by neighbouring countries.",
+        "answers": ["unstable", "stability"]
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "titre": "Advanced Pronouns",
+    "definition": "Pronouns replace nouns or noun phrases and maintain cohesion. Their forms and references depend on grammatical function, number, gender and context.",
+    "instruction": "Complete each sentence with the two appropriate pronouns.",
+    "questions": [
+      {
+        "text": "The director spoke to the employees {{1}} had completed the project and thanked {{2}} personally.",
+        "answers": ["who", "them"]
+      },
+      {
+        "text": "The researcher presented a theory {{1}} findings challenged several assumptions previously accepted by {{2}}.",
+        "answers": ["whose", "them"]
+      },
+      {
+        "text": "The committee appointed two representatives, both of {{1}} had previously worked with {{2}}.",
+        "answers": ["whom", "us"]
+      },
+      {
+        "text": "The institution introduced a new policy, {{1}} was intended to protect students and provide {{2}} with additional support.",
+        "answers": ["which", "them"]
+      },
+      {
+        "text": "The manager asked the employees to express {{1}} concerns and assured {{2}} that their opinions would be considered.",
+        "answers": ["their", "them"]
+      },
+      {
+        "text": "The applicants were asked to submit {{1}} documents before the deadline, after {{2}} the selection process would begin.",
+        "answers": ["their", "which"]
+      },
+      {
+        "text": "The professor invited several students, some of {{1}} had already published research of {{2}} own.",
+        "answers": ["whom", "their"]
+      },
+      {
+        "text": "The organization must decide {{1}} will lead the project and {{2}} responsibilities will be assigned to each member.",
+        "answers": ["who", "what"]
+      },
+      {
+        "text": "The two departments blamed {{1}} for the delay, although neither of {{2}} had provided the required documents.",
+        "answers": ["each other", "them"]
+      },
+      {
+        "text": "The company introduced a digital platform through {{1}} employees could access information and manage {{2}} schedules.",
+        "answers": ["which", "their"]
+      }
+    ]
+  },
+  {
+    "id": "011",
+    "titre": "Advanced Verbs",
+    "definition": "Verbs express actions, events and states. Advanced verb usage requires accurate tense selection, aspect, voice, mood and complementation.",
+    "instruction": "Complete each sentence with the two appropriate verb forms.",
+    "questions": [
+      {
+        "text": "By the time the auditors arrived, the company {{1}} already {{2}} its financial records.",
+        "answers": ["had", "revised"]
+      },
+      {
+        "text": "If the government {{1}} earlier, the economic crisis {{2}} less severe.",
+        "answers": ["had intervened", "might have been"]
+      },
+      {
+        "text": "The researchers {{1}} the data for several months before they {{2}} their conclusions.",
+        "answers": ["had been analysing", "published"]
+      },
+      {
+        "text": "The manager insisted that every employee {{1}} the new regulations and {{2}} the required training.",
+        "answers": ["follow", "complete"]
+      },
+      {
+        "text": "By next December, the institution {{1}} the programme and {{2}} its first evaluation.",
+        "answers": ["will have completed", "will have conducted"]
+      },
+      {
+        "text": "The witness denied {{1}} the documents and admitted {{2}} the confidential information.",
+        "answers": ["having stolen", "disclosing"]
+      },
+      {
+        "text": "The new regulations require companies {{1}} their environmental impact and {{2}} annual reports.",
+        "answers": ["to assess", "to submit"]
+      },
+      {
+        "text": "The board would rather the director {{1}} the decision until the experts {{2}} their investigation.",
+        "answers": ["postponed", "had completed"]
+      },
+      {
+        "text": "The company {{1}} its international operations since it {{2}} its new investment strategy.",
+        "answers": ["has expanded", "introduced"]
+      },
+      {
+        "text": "Had the authorities {{1}} the warning signs, they {{2}} the accident.",
+        "answers": ["recognized", "could have prevented"]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "Advanced Nouns",
+    "definition": "Nouns name people, objects, concepts, events and qualities. Advanced noun usage involves countability, compound structures, nominalization and collocations.",
+    "instruction": "Complete each sentence with the two appropriate nouns.",
+    "questions": [
+      {
+        "text": "The government introduced a comprehensive {{1}} to improve financial {{2}} within public institutions.",
+        "answers": ["framework", "accountability"]
+      },
+      {
+        "text": "The report identifies institutional {{1}} as a major obstacle to economic {{2}}.",
+        "answers": ["weaknesses", "development"]
+      },
+      {
+        "text": "The organization conducted an extensive {{1}} into allegations of financial {{2}}.",
+        "answers": ["investigation", "misconduct"]
+      },
+      {
+        "text": "The company experienced a substantial {{1}} in customer {{2}} following the launch of its new product.",
+        "answers": ["increase", "satisfaction"]
+      },
+      {
+        "text": "The committee emphasized the importance of public {{1}} and administrative {{2}}.",
+        "answers": ["participation", "efficiency"]
+      },
+      {
+        "text": "The researchers identified a strong {{1}} between educational {{2}} and future employment opportunities.",
+        "answers": ["relationship", "attainment"]
+      },
+      {
+        "text": "The institution developed a new {{1}} for assessing employee {{2}}.",
+        "answers": ["methodology", "performance"]
+      },
+      {
+        "text": "The crisis exposed serious {{1}} in the country's healthcare {{2}}.",
+        "answers": ["deficiencies", "infrastructure"]
+      },
+      {
+        "text": "The agreement establishes a clear {{1}} of responsibilities and a mechanism for conflict {{2}}.",
+        "answers": ["allocation", "resolution"]
+      },
+      {
+        "text": "The initiative seeks to promote financial {{1}} and reduce economic {{2}} among vulnerable households.",
+        "answers": ["inclusion", "vulnerability"]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Advanced Prefixes and Suffixes",
+    "definition": "Prefixes and suffixes are word-building elements added to base words to modify their meanings or grammatical categories.",
+    "instruction": "Complete each sentence with the correctly derived words.",
+    "questions": [
+      {
+        "text": "The committee considered the proposal {{1}} because its financial assumptions were fundamentally {{2}}.",
+        "answers": ["unrealistic", "inaccurate"]
+      },
+      {
+        "text": "The manager emphasized the importance of professional {{1}} and effective employee {{2}}.",
+        "answers": ["development", "engagement"]
+      },
+      {
+        "text": "The government introduced measures to promote economic {{1}} and reduce regional {{2}}.",
+        "answers": ["stability", "inequality"]
+      },
+      {
+        "text": "The report criticized the administration for its {{1}} approach and its lack of financial {{2}}.",
+        "answers": ["irresponsible", "transparency"]
+      },
+      {
+        "text": "The researcher questioned the {{1}} of the findings and recommended further {{2}}.",
+        "answers": ["reliability", "investigation"]
+      },
+      {
+        "text": "The company aims to improve workplace {{1}} through better communication and greater managerial {{2}}.",
+        "answers": ["productivity", "accountability"]
+      },
+      {
+        "text": "The institution adopted an {{1}} strategy to address the growing {{2}} of qualified teachers.",
+        "answers": ["innovative", "shortage"]
+      },
+      {
+        "text": "The new legislation seeks to prevent financial {{1}} and strengthen institutional {{2}}.",
+        "answers": ["misconduct", "effectiveness"]
+      },
+      {
+        "text": "The organization considered the existing procedure {{1}} and proposed a more {{2}} alternative.",
+        "answers": ["inefficient", "practical"]
+      },
+      {
+        "text": "The report highlighted the {{1}} of public services and the urgent need for their {{2}}.",
+        "answers": ["inadequacy", "modernization"]
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "titre": "Advanced Negation",
+    "definition": "Negation expresses the absence, denial or impossibility of an action or situation. English uses negative adverbs, auxiliaries, determiners and negative constructions.",
+    "instruction": "Complete each sentence with the two appropriate negative expressions.",
+    "questions": [
+      {
+        "text": "{{1}} had the investigation begun when {{2}} evidence of financial misconduct emerged.",
+        "answers": ["Hardly", "further"]
+      },
+      {
+        "text": "The committee found {{1}} convincing evidence and could therefore reach {{2}} definitive conclusion.",
+        "answers": ["no", "no"]
+      },
+      {
+        "text": "The manager {{1}} approved the proposal, nor did she provide {{2}} explanation for her decision.",
+        "answers": ["never", "any"]
+      },
+      {
+        "text": "{{1}} the employees nor the management had received {{2}} official notification of the changes.",
+        "answers": ["Neither", "any"]
+      },
+      {
+        "text": "The organization has {{1}} intention of abandoning the project and has made {{2}} commitment to continue its activities.",
+        "answers": ["no", "no"]
+      },
+      {
+        "text": "The witness was {{1}} able to identify the suspect and could {{2}} remember the exact time of the incident.",
+        "answers": ["not", "not"]
+      },
+      {
+        "text": "The authorities have {{1}} confirmed the allegations, and there is {{2}} reliable evidence supporting them.",
+        "answers": ["not", "no"]
+      },
+      {
+        "text": "{{1}} sooner had the negotiations started than the representatives encountered {{2}} unexpected difficulties.",
+        "answers": ["No", "several"]
+      },
+      {
+        "text": "The report contains {{1}} references to the incident, and it provides {{2}} explanation of its consequences.",
+        "answers": ["no", "no"]
+      },
+      {
+        "text": "At {{1}} point did the director admit responsibility, and {{2}} did she apologize to the affected employees.",
+        "answers": ["no", "neither"]
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "titre": "Advanced Paronyms",
+    "definition": "Paronyms are words that resemble one another in spelling or pronunciation but have different meanings. Their distinction is essential for accurate communication.",
+    "instruction": "Complete each sentence with the two words that are correctly distinguished by their meanings.",
+    "questions": [
+      {
+        "text": "The new regulation will {{1}} all financial institutions, while its practical {{2}} will be assessed next year.",
+        "answers": ["affect", "effect"]
+      },
+      {
+        "text": "The manager decided to {{1}} the proposed changes and asked the team to examine their possible {{2}}.",
+        "answers": ["adopt", "adoption"]
+      },
+      {
+        "text": "The organization must {{1}} its resources carefully to ensure the efficient {{2}} of its budget.",
+        "answers": ["allocate", "allocation"]
+      },
+      {
+        "text": "The journalist tried to {{1}} the allegations, but the available evidence remained {{2}}.",
+        "answers": ["verify", "verifiable"]
+      },
+      {
+        "text": "The committee reached a unanimous {{1}} after examining the {{2}} of the proposal.",
+        "answers": ["decision", "details"]
+      },
+      {
+        "text": "The professor asked students to {{1}} the historical events and identify their most significant {{2}}.",
+        "answers": ["describe", "characteristics"]
+      },
+      {
+        "text": "The government introduced a new {{1}} to address unemployment and announced its official {{2}}.",
+        "answers": ["policy", "publication"]
+      },
+      {
+        "text": "The director provided a detailed {{1}} of the problem and offered an appropriate {{2}}.",
+        "answers": ["description", "solution"]
+      },
+      {
+        "text": "The researcher attempted to {{1}} the results and establish their scientific {{2}}.",
+        "answers": ["interpret", "validity"]
+      },
+      {
+        "text": "The company must {{1}} its contractual obligations and ensure the proper {{2}} of its agreements.",
+        "answers": ["fulfil", "implementation"]
+      }
+    ]
+  },
+  {
+    "id": "016",
+    "titre": "Advanced Logical Connectors",
+    "definition": "Logical connectors link ideas and organize arguments by expressing contrast, addition, consequence, illustration, reformulation and conclusion.",
+    "instruction": "Complete each sentence with the two appropriate logical connectors.",
+    "questions": [
+      {
+        "text": "The project was initially considered too expensive. {{1}}, its long-term benefits eventually justified the investment. {{2}}, the authorities approved its implementation.",
+        "answers": ["Nevertheless", "Consequently"]
+      },
+      {
+        "text": "The report identifies several weaknesses in the education system. {{1}}, it recommends substantial investment in teacher training. {{2}}, it emphasizes the need for improved infrastructure.",
+        "answers": ["Furthermore", "Moreover"]
+      },
+      {
+        "text": "The company experienced declining sales. {{1}}, it decided to revise its marketing strategy. {{2}}, customer demand gradually increased.",
+        "answers": ["Therefore", "As a result"]
+      },
+      {
+        "text": "The policy may reduce administrative costs. {{1}}, its implementation could create temporary difficulties. {{2}}, careful planning is essential.",
+        "answers": ["However", "Therefore"]
+      },
+      {
+        "text": "Several factors contributed to the crisis. {{1}}, inadequate supervision played a significant role. {{2}}, financial mismanagement weakened the institution.",
+        "answers": ["In particular", "Additionally"]
+      },
+      {
+        "text": "The first proposal was rejected because of its high cost. {{1}}, the alternative offered better value. {{2}}, it was eventually selected.",
+        "answers": ["By contrast", "Consequently"]
+      },
+      {
+        "text": "Economic growth has improved in recent years. {{1}}, unemployment remains relatively high. {{2}}, the benefits of recovery are not equally distributed.",
+        "answers": ["Nevertheless", "Furthermore"]
+      },
+      {
+        "text": "The institution introduced stricter procedures. {{1}}, financial transparency improved. {{2}}, public confidence gradually increased.",
+        "answers": ["As a result", "Consequently"]
+      },
+      {
+        "text": "The research findings were significant. {{1}}, they challenged several established theories. {{2}}, they opened new directions for future investigation.",
+        "answers": ["Indeed", "Furthermore"]
+      },
+      {
+        "text": "The programme requires substantial investment. {{1}}, its expected social benefits are considerable. {{2}}, the government decided to support it.",
+        "answers": ["Even so", "Accordingly"]
+      }
+    ]
+  },
+  {
+    "id": "017",
+    "titre": "Advanced Determiners",
+    "definition": "Determiners introduce and specify nouns. They include quantifiers, demonstratives, possessives, distributives and expressions of quantity.",
+    "instruction": "Complete each sentence with the two appropriate determiners.",
+    "questions": [
+      {
+        "text": "{{1}} applicants were rejected because they had failed to provide {{2}} required documents.",
+        "answers": ["Several", "the"]
+      },
+      {
+        "text": "The organization allocated {{1}} of its resources to education, while {{2}} were directed towards healthcare.",
+        "answers": ["half", "the remainder"]
+      },
+      {
+        "text": "{{1}} department must submit {{2}} annual report before the end of the financial year.",
+        "answers": ["Each", "its"]
+      },
+      {
+        "text": "The committee examined {{1}} proposals before selecting {{2}} most promising candidate.",
+        "answers": ["numerous", "the"]
+      },
+      {
+        "text": "{{1}} information available to the public was insufficient to answer {{2}} of the questions raised.",
+        "answers": ["The", "all"]
+      },
+      {
+        "text": "The company revised {{1}} recruitment policy after receiving complaints from {{2}} employees.",
+        "answers": ["its", "several"]
+      },
+      {
+        "text": "{{1}} of the two candidates demonstrated the qualifications required for {{2}} position.",
+        "answers": ["Neither", "the"]
+      },
+      {
+        "text": "The institution received {{1}} applications, but only {{2}} applicants were invited for an interview.",
+        "answers": ["hundreds of", "a few"]
+      },
+      {
+        "text": "{{1}} evidence must be examined carefully before {{2}} conclusions can be drawn.",
+        "answers": ["All", "any"]
+      },
+      {
+        "text": "The researchers compared {{1}} results with {{2}} obtained in previous studies.",
+        "answers": ["their", "those"]
+      }
+    ]
+  },
+  {
+    "id": "018",
+    "titre": "Advanced Comparatives",
+    "definition": "Comparative structures express differences in degree, quantity, quality and intensity. They include regular and irregular comparisons as well as complex comparative constructions.",
+    "instruction": "Complete each sentence with the two appropriate comparative expressions.",
+    "questions": [
+      {
+        "text": "The new system is {{1}} efficient than the previous one and considerably {{2}} to maintain.",
+        "answers": ["more", "easier"]
+      },
+      {
+        "text": "The economic situation is becoming {{1}} stable, while unemployment is growing {{2}} rapidly than expected.",
+        "answers": ["less", "more"]
+      },
+      {
+        "text": "The {{1}} the investment, the {{2}} the potential financial risk.",
+        "answers": ["larger", "greater"]
+      },
+      {
+        "text": "This year's results are {{1}} encouraging than last year's, although the improvement is {{2}} significant than anticipated.",
+        "answers": ["more", "less"]
+      },
+      {
+        "text": "The organization has become {{1}} internationally recognized and {{2}} influential in public policy debates.",
+        "answers": ["increasingly", "more"]
+      },
+      {
+        "text": "The project proved {{1}} expensive than initially estimated but {{2}} successful than expected.",
+        "answers": ["less", "more"]
+      },
+      {
+        "text": "The {{1}} carefully the evidence is examined, the {{2}} reliable the conclusions become.",
+        "answers": ["more", "more"]
+      },
+      {
+        "text": "The revised procedure is {{1}} complicated than the original one and substantially {{2}} to implement.",
+        "answers": ["less", "easier"]
+      },
+      {
+        "text": "The company performed {{1}} well than its competitors and achieved a {{2}} market position.",
+        "answers": ["better", "stronger"]
+      },
+      {
+        "text": "The consequences of the decision were {{1}} serious than anticipated and far {{2}} difficult to manage.",
+        "answers": ["more", "more"]
+      }
+    ]
+  },
+  {
+    "id": "019",
+    "titre": "Advanced Complements",
+    "definition": "Complements complete the meaning of verbs, adjectives and nouns. They may take the form of noun phrases, infinitive clauses, gerund clauses or prepositional phrases.",
+    "instruction": "Complete each sentence with the two appropriate complements.",
+    "questions": [
+      {
+        "text": "The committee considered the proposal {{1}} and recommended {{2}} before implementation.",
+        "answers": ["unacceptable", "revising it"]
+      },
+      {
+        "text": "The director persuaded the employees {{1}} the new system and encouraged them {{2}} additional training.",
+        "answers": ["to adopt", "to undertake"]
+      },
+      {
+        "text": "The researcher is interested {{1}} the causes of inequality and committed {{2}} sustainable solutions.",
+        "answers": ["in investigating", "to developing"]
+      },
+      {
+        "text": "The manager found it difficult {{1}} the conflict and essential {{2}} the employees' concerns.",
+        "answers": ["to resolve", "to address"]
+      },
+      {
+        "text": "The company succeeded {{1}} its international operations and is now capable {{2}} larger projects.",
+        "answers": ["in expanding", "of managing"]
+      },
+      {
+        "text": "The institution made a commitment {{1}} educational access and expressed its determination {{2}} regional inequalities.",
+        "answers": ["to improving", "to reduce"]
+      },
+      {
+        "text": "The professor encouraged students {{1}} the assumptions and warned them against {{2}} unsupported conclusions.",
+        "answers": ["to question", "drawing"]
+      },
+      {
+        "text": "The government is responsible {{1}} public services and committed {{2}} administrative efficiency.",
+        "answers": ["for providing", "to improving"]
+      },
+      {
+        "text": "The board regarded the decision {{1}} and insisted {{2}} before the contract was signed.",
+        "answers": ["as necessary", "on reviewing it"]
+      },
+      {
+        "text": "The organization aims {{1}} vulnerable communities and hopes {{2}} its services internationally.",
+        "answers": ["to support", "to expand"]
+      }
+    ]
+  },
+  {
+    "id": "020",
+    "titre": "Advanced Questions",
+    "definition": "English questions include direct, indirect, embedded, negative and subject questions. Their structure depends on the auxiliary verb, tense and intended emphasis.",
+    "instruction": "Complete each question with the two appropriate expressions.",
+    "questions": [
+      {
+        "text": "{{1}} the government introduced the reforms, and {{2}} they have achieved their intended objectives?",
+        "answers": ["When did", "whether"]
+      },
+      {
+        "text": "Could you explain {{1}} the negotiations failed and {{2}} was responsible for the final decision?",
+        "answers": ["why", "who"]
+      },
+      {
+        "text": "{{1}} the company respond to the allegations, and {{2}} its directors resign afterwards?",
+        "answers": ["How did", "did"]
+      },
+      {
+        "text": "Do you know {{1}} the report will be published and {{2}} will be allowed to access it?",
+        "answers": ["when", "who"]
+      },
+      {
+        "text": "{{1}} the researchers identify the problem, and {{2}} solutions did they recommend?",
+        "answers": ["How did", "what"]
+      },
+      {
+        "text": "Could you tell me {{1}} the application deadline is and {{2}} documents are required?",
+        "answers": ["when", "which"]
+      },
+      {
+        "text": "{{1}} the institution failed to meet its targets, and {{2}} could have been done differently?",
+        "answers": ["Why did", "what"]
+      },
+      {
+        "text": "Would you mind explaining {{1}} the decision was made and {{2}} the consequences might be?",
+        "answers": ["how", "what"]
+      },
+      {
+        "text": "{{1}} the minister announce the new policy, and {{2}} will be responsible for implementing it?",
+        "answers": ["When did", "who"]
+      },
+      {
+        "text": "Do you have any idea {{1}} the negotiations are taking so long and {{2}} agreement can still be reached?",
+        "answers": ["why", "whether"]
+      }
+    ]
+  },
+  {
+    "id": "021",
+    "titre": "Advanced Clauses",
+    "definition": "Clauses are groups of words containing a subject and a verb. They may be independent or dependent and can function as noun, adjective or adverbial clauses.",
+    "instruction": "Complete each sentence with the two appropriate clause structures or expressions.",
+    "questions": [
+      {
+        "text": "The committee rejected the proposal {{1}} its financial implications had not been fully examined and {{2}} the projected costs exceeded the available budget.",
+        "answers": ["because", "because"]
+      },
+      {
+        "text": "The researcher, {{1}} had previously worked abroad, presented findings {{2}} challenged established assumptions.",
+        "answers": ["who", "that"]
+      },
+      {
+        "text": "{{1}} the negotiations had been completed, the parties discovered {{2}} several contractual issues remained unresolved.",
+        "answers": ["After", "that"]
+      },
+      {
+        "text": "The organization will continue its activities {{1}} additional funding becomes available and {{2}} local authorities approve the programme.",
+        "answers": ["provided that", "provided that"]
+      },
+      {
+        "text": "The report explains {{1}} economic inequality has increased and identifies the factors {{2}} have contributed to this development.",
+        "answers": ["why", "that"]
+      },
+      {
+        "text": "The manager asked the employees {{1}} they had encountered difficulties and {{2}} additional assistance was required.",
+        "answers": ["whether", "whether"]
+      },
+      {
+        "text": "{{1}} the evidence was incomplete, the court decided {{2}} further investigation was necessary.",
+        "answers": ["Although", "that"]
+      },
+      {
+        "text": "The policy will be effective only if {{1}} sufficient resources are allocated and {{2}} its implementation is monitored.",
+        "answers": ["", ""]
+      },
+      {
+        "text": "The institution established a programme {{1}} aims to improve literacy and supports students {{2}} face economic difficulties.",
+        "answers": ["that", "who"]
+      },
+      {
+        "text": "The director postponed the meeting {{1}} several participants were unavailable and announced {{2}} a new date would be selected.",
+        "answers": ["because", "that"]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Advanced Discourse and Sentences",
+    "definition": "Discourse organization involves connecting sentences, maintaining coherence, managing information flow and developing arguments through appropriate linguistic structures.",
+    "instruction": "Complete each sentence with the two expressions that best maintain coherence and meaning.",
+    "questions": [
+      {
+        "text": "The report initially focuses on the causes of unemployment. {{1}}, it examines the social consequences of joblessness. {{2}}, it proposes several policy recommendations.",
+        "answers": ["Subsequently", "Finally"]
+      },
+      {
+        "text": "The organization has expanded its activities considerably. {{1}}, its financial resources remain limited. {{2}}, careful budget management is essential.",
+        "answers": ["Nevertheless", "Therefore"]
+      },
+      {
+        "text": "The first section introduces the research problem. {{1}}, the second explains the methodology. {{2}}, the final section discusses the findings.",
+        "answers": ["Next", "Finally"]
+      },
+      {
+        "text": "Economic growth alone does not guarantee social progress. {{1}}, its benefits may be distributed unequally. {{2}}, complementary social policies are necessary.",
+        "answers": ["Indeed", "Consequently"]
+      },
+      {
+        "text": "The institution introduced a new recruitment procedure. {{1}}, the selection process became more transparent. {{2}}, public confidence improved.",
+        "answers": ["As a result", "Furthermore"]
+      },
+      {
+        "text": "The proposal contains several advantages. {{1}}, it is relatively inexpensive to implement. {{2}}, it requires little additional infrastructure.",
+        "answers": ["For example", "Moreover"]
+      },
+      {
+        "text": "The investigation revealed serious administrative failures. {{1}}, several officials had ignored established procedures. {{2}}, the institution lacked effective supervision.",
+        "answers": ["Specifically", "Additionally"]
+      },
+      {
+        "text": "The government promised to improve public services. {{1}}, implementation has been slower than expected. {{2}}, citizens remain dissatisfied.",
+        "answers": ["However", "As a consequence"]
+      },
+      {
+        "text": "The research findings are consistent with earlier studies. {{1}}, they provide additional evidence supporting the theory. {{2}}, they strengthen the existing body of knowledge.",
+        "answers": ["In other words", "Therefore"]
+      },
+      {
+        "text": "The company faced considerable financial difficulties. {{1}}, it restructured its operations. {{2}}, it gradually returned to profitability.",
+        "answers": ["To address this situation", "Eventually"]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Advanced Voice and Sentence Structure",
+    "definition": "English sentence structure includes active, passive, causative and impersonal constructions. Voice determines whether the subject performs or receives an action.",
+    "instruction": "Complete each sentence with the two appropriate expressions in the required sentence structure.",
+    "questions": [
+      {
+        "text": "The financial records {{1}} by independent auditors before the final report {{2}}.",
+        "answers": ["were examined", "was published"]
+      },
+      {
+        "text": "The manager had the new software {{1}} and asked the technicians {{2}} the system immediately.",
+        "answers": ["installed", "to test"]
+      },
+      {
+        "text": "The proposal {{1}} by the committee, and several amendments {{2}} before its approval.",
+        "answers": ["was reviewed", "were introduced"]
+      },
+      {
+        "text": "The company is believed {{1}} its international operations and {{2}} several new markets.",
+        "answers": ["to be expanding", "to be entering"]
+      },
+      {
+        "text": "The employees were made {{1}} the new regulations and were instructed {{2}} them carefully.",
+        "answers": ["to understand", "to follow"]
+      },
+      {
+        "text": "The director had the report {{1}} before the findings {{2}} to the shareholders.",
+        "answers": ["revised", "were presented"]
+      },
+      {
+        "text": "The new policy {{1}} to improve transparency, while its implementation {{2}} by independent observers.",
+        "answers": ["was designed", "was monitored"]
+      },
+      {
+        "text": "The authorities are expected {{1}} additional measures and {{2}} the existing regulations.",
+        "answers": ["to introduce", "to strengthen"]
+      },
+      {
+        "text": "The building {{1}} last year, and its interior {{2}} by a team of local architects.",
+        "answers": ["was renovated", "was redesigned"]
+      },
+      {
+        "text": "The witnesses were reported {{1}} the incident and {{2}} their statements to the police.",
+        "answers": ["to have observed", "to have given"]
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "Advanced Derived Words",
+    "definition": "Derived words are formed by adding prefixes or suffixes to existing words or by changing their grammatical category. Word derivation expands vocabulary and improves linguistic precision.",
+    "instruction": "Complete each sentence with the two correctly derived words.",
+    "questions": [
+      {
+        "text": "The government emphasized the need for greater economic {{1}} and institutional {{2}}.",
+        "answers": ["stability", "accountability"]
+      },
+      {
+        "text": "The report questioned the {{1}} of the financial forecasts and highlighted their potential {{2}}.",
+        "answers": ["reliability", "inaccuracy"]
+      },
+      {
+        "text": "The organization introduced a new programme to improve professional {{1}} and encourage employee {{2}}.",
+        "answers": ["development", "participation"]
+      },
+      {
+        "text": "The committee criticized the administration's {{1}} and called for greater managerial {{2}}.",
+        "answers": ["inefficiency", "responsibility"]
+      },
+      {
+        "text": "The researchers examined the social {{1}} of unemployment and proposed several practical {{2}}.",
+        "answers": ["consequences", "interventions"]
+      },
+      {
+        "text": "The institution seeks to improve educational {{1}} and reduce regional {{2}}.",
+        "answers": ["accessibility", "disparities"]
+      },
+      {
+        "text": "The company introduced a comprehensive {{1}} programme to improve workplace {{2}}.",
+        "answers": ["modernization", "productivity"]
+      },
+      {
+        "text": "The journalist questioned the official {{1}} and demanded greater political {{2}}.",
+        "answers": ["explanation", "transparency"]
+      },
+      {
+        "text": "The policy aims to strengthen social {{1}} and promote economic {{2}} among disadvantaged populations.",
+        "answers": ["inclusion", "empowerment"]
+      },
+      {
+        "text": "The researchers highlighted the {{1}} of international cooperation and the urgent need for environmental {{2}}.",
+        "answers": ["importance", "protection"]
+      }
+    ]
+  }
+]
