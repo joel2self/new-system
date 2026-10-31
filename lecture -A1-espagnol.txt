@@ -1358,6 +1358,686 @@
 ]
 }
 ]
+},
+{
+"id": "021",
+"titre": "En el supermercado",
+"titre2": "Ejercicio 021",
+"texte": [
+"Hoy voy al gran supermercado cerca de la estación.",
+"Tomo un carrito metálico en la entrada y empiezo a caminar.",
+"Busco la pasta, el tomate y una botella de aceite.",
+"Hay muchos productos en los estantes altos del pasillo.",
+"Pago todo en la caja con mi tarjeta de crédito."
+],
+"audios": [
+{ "id": "audio-es-read-a1-021-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-021-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-021-01",
+"question": "¿Dónde se encuentra el supermercado?",
+"reponses": [
+{ "id": "a", "texte": "Cerca de la estación", "correcte": true },
+{ "id": "b", "texte": "En medio del bosque", "correcte": false },
+{ "id": "c", "texte": "Dentro de la escuela", "correcte": false },
+{ "id": "d", "texte": "En el aeropuerto", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-021-02",
+"question": "¿Qué toma el protagonista en la entrada?",
+"reponses": [
+{ "id": "a", "texte": "Un gran libro", "correcte": false },
+{ "id": "b", "texte": "Un carrito metálico", "correcte": true },
+{ "id": "c", "texte": "Un helado frío", "correcte": false },
+{ "id": "d", "texte": "Una mochila azul", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-021-03",
+"question": "¿Qué productos busca el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "La pasta, el tomate y el aceite", "correcte": true },
+{ "id": "b", "texte": "Zapatos para correr", "correcte": false },
+{ "id": "c", "texte": "Medicinas para el dolor de cabeza", "correcte": false },
+{ "id": "d", "texte": "Juguetes para los niños", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-021-04",
+"question": "¿Dónde se encuentran los productos?",
+"reponses": [
+{ "id": "a", "texte": "Debajo de la caja", "correcte": false },
+{ "id": "b", "texte": "En los estantes altos", "correcte": true },
+{ "id": "c", "texte": "En el carrito del vecino", "correcte": false },
+{ "id": "d", "texte": "En el suelo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-021-05",
+"question": "¿Cómo paga la compra al final?",
+"reponses": [
+{ "id": "a", "texte": "Con su tarjeta de crédito", "correcte": true },
+{ "id": "b", "texte": "Con un libro antiguo", "correcte": false },
+{ "id": "c", "texte": "Con una manzana roja", "correcte": false },
+{ "id": "d", "texte": "No paga y escapa", "correcte": false }
+]
+}
+]
+},
+{
+"id": "022",
+"titre": "En el mercado del pueblo",
+"titre2": "Ejercicio 022",
+"texte": [
+"Los sábados por la mañana siempre hay mercado en mi pueblo.",
+"La plaza principal se llena de puestos de colores.",
+"Los campesinos venden verdura fresca y queso delicioso.",
+"Me gusta hablar con la gente y oler los aromas.",
+"Compro un trozo de pan hecho a leña antes de volver."
+],
+"audios": [
+{ "id": "audio-es-read-a1-022-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-022-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-022-01",
+"question": "¿En qué día hay mercado en el pueblo?",
+"reponses": [
+{ "id": "a", "texte": "El lunes por la noche", "correcte": false },
+{ "id": "b", "texte": "El sábado por la mañana", "correcte": true },
+{ "id": "c", "texte": "El domingo por la noche", "correcte": false },
+{ "id": "d", "texte": "El miércoles por la tarde", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-022-02",
+"question": "¿Qué hay en la plaza principal?",
+"reponses": [
+{ "id": "a", "texte": "Muchos coches rápidos", "correcte": false },
+{ "id": "b", "texte": "Puestos de colores", "correcte": true },
+{ "id": "c", "texte": "Un gran hospital", "correcte": false },
+{ "id": "d", "texte": "Una escuela cerrada", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-022-03",
+"question": "¿Quién vende los productos en el mercado?",
+"reponses": [
+{ "id": "a", "texte": "Los campesinos", "correcte": true },
+{ "id": "b", "texte": "El profesor Rossi", "correcte": false },
+{ "id": "c", "texte": "La bibliotecaria", "correcte": false },
+{ "id": "d", "texte": "Los médicos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-022-04",
+"question": "¿Qué venden los campesinos?",
+"reponses": [
+{ "id": "a", "texte": "Cuadernos y bolígrafos azules", "correcte": false },
+{ "id": "b", "texte": "Verdura fresca y queso delizioso", "correcte": true },
+{ "id": "c", "texte": "Ropa de invierno pesada", "correcte": false },
+{ "id": "d", "texte": "Medicinas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-022-05",
+"question": "¿Qué compra el protagonista antes de volver?",
+"reponses": [
+{ "id": "a", "texte": "Un trozo de pan hecho a leña", "correcte": true },
+{ "id": "b", "texte": "Un kilo de naranjas", "correcte": false },
+{ "id": "c", "texte": "Una botella de vino rojo", "correcte": false },
+{ "id": "d", "texte": "Un par de botas", "correcte": false }
+]
+}
+]
+},
+{
+"id": "023",
+"titre": "Comprar fruta",
+"titre2": "Ejercicio 023",
+"texte": [
+"Voy a la frutería de la esquina para comprar fruta fresca.",
+"Hoy las manzanas rojas y los plátanos amarillos son muy bonitos.",
+"Tomo también un kilo de naranjas jugosas para hacer zumo.",
+"El dependiente pesa toda mi fruta en una gran báscula.",
+"Pongo la bolsa en la mochila y pago tres euros en total."
+],
+"audios": [
+{ "id": "audio-es-read-a1-023-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-023-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-023-01",
+"question": "¿A qué tienda va el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "A la panadería", "correcte": false },
+{ "id": "b", "texte": "A la frutería", "correcte": true },
+{ "id": "c", "texte": "A la farmacia", "correcte": false },
+{ "id": "d", "texte": "A la biblioteca", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-023-02",
+"question": "¿De qué color son los plátanos hoy?",
+"reponses": [
+{ "id": "a", "texte": "Rojos", "correcte": false },
+{ "id": "b", "texte": "Amarillos", "correcte": true },
+{ "id": "c", "texte": "Verdes", "correcte": false },
+{ "id": "d", "texte": "Azules", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-023-03",
+"question": "¿Cuántas naranjas compra el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Dos naranjas solamente", "correcte": false },
+{ "id": "b", "texte": "Un kilo de naranjas", "correcte": true },
+{ "id": "c", "texte": "Cinco kilos", "correcte": false },
+{ "id": "d", "texte": "Ninguna naranja", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-023-04",
+"question": "¿Qué usa el dependiente para pesar la fruta?",
+"reponses": [
+{ "id": "a", "texte": "Una gran báscula", "correcte": true },
+{ "id": "b", "texte": "Una mesa de madera", "correcte": false },
+{ "id": "c", "texte": "Un carrito metálico", "correcte": false },
+{ "id": "d", "texte": "Una bolsa de plástico", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-023-05",
+"question": "¿Cuánto paga en total por la fruta?",
+"reponses": [
+{ "id": "a", "texte": "Tres euros", "correcte": true },
+{ "id": "b", "texte": "Diez euros", "correcte": false },
+{ "id": "c", "texte": "Veinte euros", "correcte": false },
+{ "id": "d", "texte": "Un euro", "correcte": false }
+]
+}
+]
+},
+{
+"id": "024",
+"titre": "En una panadería",
+"titre2": "Ejercicio 024",
+"texte": [
+"Entro en la panadería del centro histórico a las siete de la mañana.",
+"Hay un olor maravilloso a pan caliente recién horneado.",
+"Pido a la dependienta tres panecillos pequeños y dos trozos de focaccia.",
+"Veo en el mostrador también unos cruasanes calientes muy dulces.",
+"Tomo la bolsa de papel y doy las gracias deseando un buen día."
+],
+"audios": [
+{ "id": "audio-es-read-a1-024-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-024-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-024-01",
+"question": "¿A qué hora entra en la panadería el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "A las siete de la mañana", "correcte": true },
+{ "id": "b", "texte": "A las once en punto", "correcte": false },
+{ "id": "c", "texte": "Por la tarde", "correcte": false },
+{ "id": "d", "texte": "A medianoche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-024-02",
+"question": "¿Qué olor se siente en la tienda?",
+"reponses": [
+{ "id": "a", "texte": "Olor a rosas rojas", "correcte": false },
+{ "id": "b", "texte": "Olor a pan caliente recién horneado", "correcte": true },
+{ "id": "c", "texte": "Olor a café dulce", "correcte": false },
+{ "id": "d", "texte": "Ningún olor", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-024-03",
+"question": "¿Cuántos trozos de focaccia pide a la dependienta?",
+"reponses": [
+{ "id": "a", "texte": "Un trozo solo", "correcte": false },
+{ "id": "b", "texte": "Dos trozos", "correcte": true },
+{ "id": "c", "texte": "Tres trozos grandes", "correcte": false },
+{ "id": "d", "texte": "Cuatro trozos pequeños", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-024-04",
+"question": "¿Qué hay en el mostrador además del pan y de la focaccia?",
+"reponses": [
+{ "id": "a", "texte": "Cruasanes calientes muy dulces", "correcte": true },
+{ "id": "b", "texte": "Naranjas jugosas frescas", "correcte": false },
+{ "id": "c", "texte": "Bolígrafos y cuadernos", "correcte": false },
+{ "id": "d", "texte": "Botellas de agua", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-024-05",
+"question": "¿En qué bolsa se pone el pan?",
+"reponses": [
+{ "id": "a", "texte": "En una bolsa de papel", "correcte": true },
+{ "id": "b", "texte": "En una bolsa de plástico azul", "correcte": false },
+{ "id": "c", "texte": "En la mochila escolar directamente", "correcte": false },
+{ "id": "d", "texte": "En una caja de madera marrón", "correcte": false }
+]
+}
+]
+},
+{
+"id": "025",
+"titre": "En la farmacia",
+"titre2": "Ejercicio 025",
+"texte": [
+"Hoy no me siento muy bien y voy a la farmacia.",
+"Muestro al farmacéutico amable la receta de mi médico.",
+"Él toma una caja de pastillas del armario blanco.",
+"Me explica con calma cómo tomar la medicina después de las comidas.",
+"Compro también un jarabe dulce para la tos fuerte."
+],
+"audios": [
+{ "id": "audio-es-read-a1-025-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-025-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-025-01",
+"question": "¿Por qué el protagonista va a la farmacia?",
+"reponses": [
+{ "id": "a", "texte": "Para comprar un trozo de focaccia", "correcte": false },
+{ "id": "b", "texte": "Porque no se siente muy bien", "correcte": true },
+{ "id": "c", "texte": "Para estudiar historia antigua", "correcte": false },
+{ "id": "d", "texte": "Para encontrarse con el profesor Rossi", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-025-02",
+"question": "¿Qué muestra al farmacéutico?",
+"reponses": [
+{ "id": "a", "texte": "La receta de su médico", "correcte": true },
+{ "id": "b", "texte": "La tarjeta de crédito de oro", "correcte": false },
+{ "id": "c", "texte": "Su mochila azul nueva", "correcte": false },
+{ "id": "d", "texte": "Una foto en color de sus amigos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-025-03",
+"question": "¿De dónde toma la caja de pastillas el farmacéutico?",
+"reponses": [
+{ "id": "a", "texte": "Del armario blanco", "correcte": true },
+{ "id": "b", "texte": "Debajo de la gran báscula", "correcte": false },
+{ "id": "c", "texte": "Del bolsillo de la chaqueta", "correcte": false },
+{ "id": "d", "texte": "Del mostrador de madera", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-025-04",
+"question": "¿Cuándo debe tomar la medicina el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Después de las comidas", "correcte": true },
+{ "id": "b", "texte": "Antes de darse una ducha", "correcte": false },
+{ "id": "c", "texte": "Durante el recreo en la escuela", "correcte": false },
+{ "id": "d", "texte": "Solo por la noche a las seis", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-025-05",
+"question": "¿Qué otro producto compra además de las pastillas?",
+"reponses": [
+{ "id": "a", "texte": "Un jarabe dulce para la tos fuerte", "correcte": true },
+{ "id": "b", "texte": "Una botella de agua mineral", "correcte": false },
+{ "id": "c", "texte": "Un paquete de galletas con miel", "correcte": false },
+{ "id": "d", "texte": "Una goma de borrar", "correcte": false }
+]
+}
+]
+},
+{
+"id": "026",
+"titre": "Comprar ropa",
+"titre2": "Ejercicio 026",
+"texte": [
+"Hoy voy a una tienda de ropa para comprar ropa.",
+"Busco una camisa blanca elegante para un cumpleaños el sábado.",
+"Entro en el probador pequeño para probarme la talla mediana.",
+"La camisa es perfecta, cómoda y mi gusta mucho.",
+"Voy a la caja y pago el precio en efectivo."
+],
+"audios": [
+{ "id": "audio-es-read-a1-026-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-026-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-026-01",
+"question": "¿A qué tipo de tienda va el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Una zapatería", "correcte": false },
+{ "id": "b", "texte": "Una tienda de ropa", "correcte": true },
+{ "id": "c", "texte": "La farmacia del centro", "correcte": false },
+{ "id": "d", "texte": "El supermercado grande", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-026-02",
+"question": "Qué busca el protagonista para el cumpleaños?",
+"reponses": [
+{ "id": "a", "texte": "Una camisa blanca elegante", "correcte": true },
+{ "id": "b", "texte": "Una chaqueta pesada negra", "correcte": false },
+{ "id": "c", "texte": "Un par de pantalones cortos", "correcte": false },
+{ "id": "d", "texte": "Un sombrero de sol amarillo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-026-03",
+"question": "¿Dónde entra para probarse la prenda?",
+"reponses": [
+{ "id": "a", "texte": "En el probador pequeño", "correcte": true },
+{ "id": "b", "texte": "En la parte trasera de la tienda", "correcte": false },
+{ "id": "c", "texte": "En el baño", "correcte": false },
+{ "id": "d", "texte": "Fuera, en la calle principal", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-026-04",
+"question": "¿Qué talla se prueba el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "La talla pequeña", "correcte": false },
+{ "id": "b", "texte": "La talla mediana", "correcte": true },
+{ "id": "c", "texte": "La talla grande", "correcte": false },
+{ "id": "d", "texte": "No hay talla", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-026-05",
+"question": "¿Cómo paga la camisa en la caja?",
+"reponses": [
+{ "id": "a", "texte": "En efectivo", "correcte": true },
+{ "id": "b", "texte": "Con tarjeta de crédito", "correcte": false },
+{ "id": "c", "texte": "Con un cheque bancario", "correcte": false },
+{ "id": "d", "texte": "Con una camisa vieja", "correcte": false }
+]
+}
+]
+},
+{
+"id": "027",
+"titre": "En una zapatería",
+"titre2": "Ejercicio 027",
+"texte": [
+"Acompaño a mi mejor amigo a una gran zapatería.",
+"Él quiere un par de zapatillas deportivas negras para hacer gimnasia.",
+"El número de pie de mi amigo es el cuarenta y dos.",
+"Camina un poco por el suelo de la tienda para probar la comodidad.",
+"El precio de los zapatos es bueno y decide comprarlos enseguida."
+],
+"audios": [
+{ "id": "audio-es-read-a1-027-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-027-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-027-01",
+"question": "¿A quién acompaña el protagonista a la tienda?",
+"reponses": [
+{ "id": "a", "texte": "A su madre Elena", "correcte": false },
+{ "id": "b", "texte": "A mi mejor amigo", "correcte": true },
+{ "id": "c", "texte": "Al profesor de francés", "correcte": false },
+{ "id": "d", "texte": "Al vecino Señor Schmidt", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-027-02",
+"question": "¿Qué tipo de zapatos quiere el amigo?",
+"reponses": [
+{ "id": "a", "texte": "Zapatillas deportivas negras para hacer gimnasia", "correcte": true },
+{ "id": "b", "texte": "Botas de invierno pesadas para la nieve", "correcte": false },
+{ "id": "c", "texte": "Zapatos elegantes blancos", "correcte": false },
+{ "id": "d", "texte": "Sandalias ligeras para el mar", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-027-03",
+"question": "¿Cuál es el número de zapatos del amigo?",
+"reponses": [
+{ "id": "a", "texte": "El número cuarenta", "correcte": false },
+{ "id": "b", "texte": "El número cuarenta y dos", "correcte": true },
+{ "id": "c", "texte": "El número treinta y ocho", "correcte": false },
+{ "id": "d", "texte": "El número cuarenta y cuatro", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-027-04",
+"question": "¿Qué hace el amigo en el suelo de la tienda?",
+"reponses": [
+{ "id": "a", "texte": "Camina un poco para probar la comodidad", "correcte": true },
+{ "id": "b", "texte": "Corre muy rápido y se cae", "correcte": false },
+{ "id": "c", "texte": "Duerme en la silla blanda", "correcte": false },
+{ "id": "d", "texte": "Limpia con agua", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-027-05",
+"question": "¿Qué convence al amigo de comprar los zapatos?",
+"reponses": [
+{ "id": "a", "texte": "El precio de los zapatos es bueno", "correcte": true },
+{ "id": "b", "texte": "El dependiente le regala una manzana", "correcte": false },
+{ "id": "c", "texte": "El color azul brillante", "correcte": false },
+{ "id": "d", "texte": "La opinión de su madre", "correcte": false }
+]
+}
+]
+},
+{
+"id": "028",
+"titre": "El precio de los productos",
+"titre2": "Ejercicio 028",
+"texte": [
+"Cuando compro algo, miro siempre la etiqueta del precio.",
+"Algunos productos famosos son muy caros en el centro de la ciudad.",
+"Intento siempre prestar atención y encontrar las ofertas especiales.",
+"Le pregunto al dependiente amable: Disculpe, ¿cuánto cuesta este cuaderno?",
+"El precio es de solo dos euros y es perfecto para mí."
+],
+"audios": [
+{ "id": "audio-es-read-a1-028-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-028-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-028-01",
+"question": "¿Qué mira siempre el protagonista cuando compra algo?",
+"reponses": [
+{ "id": "a", "texte": "El reloj de la pared", "correcte": false },
+{ "id": "b", "texte": "La etiqueta del precio", "correcte": true },
+{ "id": "c", "texte": "El color de las bolsas", "correcte": false },
+{ "id": "d", "texte": "El nombre de la tienda", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-028-02",
+"question": "¿Cómo se definen algunos productos famosos en el centro?",
+"reponses": [
+{ "id": "a", "texte": "Muy baratos y viejos", "correcte": false },
+{ "id": "b", "texte": "Muy caros", "correcte": true },
+{ "id": "c", "texte": "Gratis para los estudiantes", "correcte": false },
+{ "id": "d", "texte": "Feos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-028-03",
+"question": "¿Qué intenta encontrar el protagonista en la tienda?",
+"reponses": [
+{ "id": "a", "texte": "Las ofertas especiales", "correcte": true },
+{ "id": "b", "texte": "Un sofá cómodo", "correcte": false },
+{ "id": "c", "texte": "El fármaco para la tos", "correcte": false },
+{ "id": "d", "texte": "Las llaves de casa", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-028-04",
+"question": "¿Qué pregunta le hace el protagonista al dependiente?",
+"reponses": [
+{ "id": "a", "texte": "Disculpe, ¿cuánto cuesta este cuaderno?", "correcte": true },
+{ "id": "b", "texte": "¿A qué hora cierra la escuela hoy?", "correcte": false },
+{ "id": "c", "texte": "¿Dónde está el baño público más cercano?", "correcte": false },
+{ "id": "d", "texte": "¿Cómo se llama tu madre?", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-028-05",
+"question": "¿Cuál es el precio final del cuaderno?",
+"reponses": [
+{ "id": "a", "texte": "Dos euros", "correcte": true },
+{ "id": "b", "texte": "Cinco euros", "correcte": false },
+{ "id": "c", "texte": "Diez euros", "correcte": false },
+{ "id": "d", "texte": "Cincuenta céntimos", "correcte": false }
+]
+}
+]
+},
+{
+"id": "029",
+"titre": "Hacer la compra con mamá",
+"titre2": "Ejercicio 029",
+"texte": [
+"Los miércoles por la tarde hago siempre la compra junto a mamá.",
+"Ella escribe una lista detallada en un papel blanco en la cocina.",
+"Yo la ayudo a tomar las cosas pesadas como la leche y el agua.",
+"Elegimos juntos unas galletas dulces para nuestro desayuno.",
+"Volvemos a casa felices con tres grandes bolsas llenas de comida buena."
+],
+"audios": [
+{ "id": "audio-es-read-a1-029-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-029-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-029-01",
+"question": "¿En qué momento de la semana hacen la compra?",
+"reponses": [
+{ "id": "a", "texte": "El sábado por la mañana temprano", "correcte": false },
+{ "id": "b", "texte": "El miércoles por la tarde", "correcte": true },
+{ "id": "c", "texte": "El domingo por la noche tarde", "correcte": false },
+{ "id": "d", "texte": "El jueves por la noche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-029-02",
+"question": "Dónde escribe la lista de la compra la mamá?",
+"reponses": [
+{ "id": "a", "texte": "En un papel blanco en la cocina", "correcte": true },
+{ "id": "b", "texte": "En la pared del dormitorio", "correcte": false },
+{ "id": "c", "texte": "En el cuaderno de matemáticas de la escuela", "correcte": false },
+{ "id": "d", "texte": "En la pantalla del ordenador", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-029-03",
+"question": "¿Qué cosas pesadas ayuda a tomar el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Los libros de la biblioteca antigua", "correcte": false },
+{ "id": "b", "texte": "La leche y el agua", "correcte": true },
+{ "id": "c", "texte": "Los muebles del dormitorio", "correcte": false },
+{ "id": "d", "texte": "Las zapatillas deportivas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-029-04",
+"question": "¿Qué eligen juntos para el desayuno de la mañana?",
+"reponses": [
+{ "id": "a", "texte": "Caramelos salados", "correcte": false },
+{ "id": "b", "texte": "Unas galletas dulces", "correcte": true },
+{ "id": "c", "texte": "Un kilo de tomates frescos", "correcte": false },
+{ "id": "d", "texte": "Una medicina para la tos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-029-05",
+"question": "¿Con cuántas bolsas llenas de comida vuelven a casa?",
+"reponses": [
+{ "id": "a", "texte": "Con una bolsa de papel pequeña", "correcte": false },
+{ "id": "b", "texte": "Con tres grandes bolsas", "correcte": true },
+{ "id": "c", "texte": "Con diez bolsas de plástico", "correcte": false },
+{ "id": "d", "texte": "Sin bolsas, cargan el coche", "correcte": false }
+]
+}
+]
+},
+{
+"id": "030",
+"titre": "Mi primera compra",
+"titre2": "Ejercicio 030",
+"texte": [
+"Recuerdo todavía con mucha felicidad mi primera compra real.",
+"Compré un pequeño libro de historias con mi propio dinero.",
+"Ahorré cinco euros dentro de una hucha de cerámica.",
+"El librero me dio el cambio y me sonrió con amabilidad.",
+"Aquel día entendí el valor importante del dinero."
+],
+"audios": [
+{ "id": "audio-es-read-a1-030-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a1-030-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a1-030-01",
+"question": "¿Qué recuerda con mucha felicidad el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Mi primera compra real", "correcte": true },
+{ "id": "b", "texte": "El viaje a Berlín en tren", "correcte": false },
+{ "id": "c", "texte": "La primera clase de matemáticas difícil", "correcte": false },
+{ "id": "d", "texte": "El día en el parque grande", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-030-02",
+"question": "¿Qué compró con su propio dinero?",
+"reponses": [
+{ "id": "a", "texte": "Un pequeño libro de historias", "correcte": true },
+{ "id": "b", "texte": "Un par de zapatillas deportivas negras", "correcte": false },
+{ "id": "c", "texte": "Un carrito de hierro para la compra", "correcte": false },
+{ "id": "d", "texte": "Un cruasán de crema dulce", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-030-03",
+"question": "¿Cuánto dinero ahorró el protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Dos euros solamente", "correcte": false },
+{ "id": "b", "texte": "Cinco euros", "correcte": true },
+{ "id": "c", "texte": "Veinte euros grandes", "correcte": false },
+{ "id": "d", "texte": "Cien euros", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-030-04",
+"question": "¿Dónde guardaba el dinero ahorrado?",
+"reponses": [
+{ "id": "a", "texte": "Dentro de una hucha de cerámica", "correcte": true },
+{ "id": "b", "texte": "En el bolsillo trasero de la mochila", "correcte": false },
+{ "id": "c", "texte": "Debajo de la almohada de la cama individual", "correcte": false },
+{ "id": "d", "texte": "En la cocina dentro de una taza", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a1-030-05",
+"question": "¿Qué entendió el protagonista aquel día?",
+"reponses": [
+{ "id": "a", "texte": "El valor importante del dinero", "correcte": true },
+{ "id": "b", "texte": "Que la historia antigua es aburrida", "correcte": false },
+{ "id": "c", "texte": "Cómo se cocina un trozo de pan", "correcte": false },
+{ "id": "d", "texte": "Que las tiendas están siempre cerradas", "correcte": false }
+]
+}
+]
 }
 ]
 
