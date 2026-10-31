@@ -2719,5 +2719,685 @@
 ]
 }
 ]
+},
+{
+"id": "141",
+"titre": "Il mio sport preferito",
+"titre2": "Esercizio 141",
+"texte": [
+"Il mio sport preferito in assoluto è il nuoto.",
+"Vado alla piscina comunale due volte alla settimana.",
+"L'acqua della vasca è azzurra, pulita e molto piacevole.",
+"Nuotare fa bene alla salute e rilassa molto la mente.",
+"Dopo lo sport mi sento sempre stanco ma molto felice."
+],
+"audios": [
+{ "id": "audio-it-read-a1-141-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-141-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-141-01",
+"question": "Qual è lo sport preferito del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Il calcio al campo", "correcte": false },
+{ "id": "b", "texte": "Il nuoto", "correcte": true },
+{ "id": "c", "texte": "Il tennis in centro", "correcte": false },
+{ "id": "d", "texte": "La ginnastica a scuola", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-141-02",
+"question": "Quante volte va in piscina alla settimana?",
+"reponses": [
+{ "id": "a", "texte": "Ogni giorno della settimana", "correcte": false },
+{ "id": "b", "texte": "Due volte alla settimana", "correcte": true },
+{ "id": "c", "texte": "Solo la domenica sera", "correcte": false },
+{ "id": "d", "texte": "Una volta al mese", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-141-03",
+"question": "Com'è l'acqua della vasca?",
+"reponses": [
+{ "id": "a", "texte": "Molto fredda e sporca", "correcte": false },
+{ "id": "b", "texte": "Azzurra, pulita e piacevole", "correcte": true },
+{ "id": "c", "texte": "Verde e piena di foglie", "correcte": false },
+{ "id": "d", "texte": "Calda come una zuppa", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-141-04",
+"question": "Quale beneficio dà nuotare secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "Rilassa molto la mente", "correcte": true },
+{ "id": "b", "texte": "Fa guadagnare molti euro", "correcte": false },
+{ "id": "c", "texte": "Fa dimenticare l'italiano", "correcte": false },
+{ "id": "d", "texte": "Crea stress e stanchezza", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-141-05",
+"question": "Come si sente il protagonista dopo lo sport?",
+"reponses": [
+{ "id": "a", "texte": "Stanco ma molto felice", "correcte": true },
+{ "id": "b", "texte": "Malato e pieno di tosse", "correcte": false },
+{ "id": "c", "texte": "Arrabbiato con gli amici", "correcte": false },
+{ "id": "d", "texte": "Pronto per correre", "correcte": false }
+]
+}
+]
+},
+{
+"id": "142",
+"titre": "Giocare a calcio",
+"titre2": "Esercizio 142",
+"texte": [
+"Ogni sabato pomeriggio gioco a calcio con i miei compagni.",
+"Andiamo al campo sportivo verde vicino alla stazione.",
+"Indosso le mie scarpe sportive nere e una maglietta comoda.",
+"Corriamo molto dietro al pallone per fare un gol speciale.",
+"L'importante per noi non è vincere ma divertirsi insieme."
+],
+"audios": [
+{ "id": "audio-it-read-a1-142-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-142-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-142-01",
+"question": "In quale momento della settimana gioca a calcio?",
+"reponses": [
+{ "id": "a", "texte": "Il lunedì mattina presto", "correcte": false },
+{ "id": "b", "texte": "Il sabato pomeriggio", "correcte": true },
+{ "id": "c", "texte": "Il mercoledì notte tardi", "correcte": false },
+{ "id": "d", "texte": "Tutti i giorni di scuola", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-142-02",
+"question": "Dove si trova il campo sportivo?",
+"reponses": [
+{ "id": "a", "texte": "Dietro il supermercato", "correcte": false },
+{ "id": "b", "texte": "Vicino alla stazione", "correcte": true },
+{ "id": "c", "texte": "In campagna dai nonni", "correcte": false },
+{ "id": "d", "texte": "Nel centro storico", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-142-03",
+"question": "Quale abbigliamento indossa il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Scarpe sportive nere e una maglietta comoda", "correcte": true },
+{ "id": "b", "texte": "Una camicia bianca elegante e stivali", "correcte": false },
+{ "id": "c", "texte": "Una giacca pesante con lo scharpa", "correcte": false },
+{ "id": "d", "texte": "Il costume da bagno azzurro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-142-04",
+"question": "Cosa fanno i ragazzi sul campo?",
+"reponses": [
+{ "id": "a", "texte": "Corrono dietro al pallone per fare gol", "correcte": true },
+{ "id": "b", "texte": "Dormono sull'erba per riposare", "correcte": false },
+{ "id": "c", "texte": "Mangiano la pizza con le olive", "correcte": false },
+{ "id": "d", "texte": "Cercano un uovo nascosto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-142-05",
+"question": "Qual è la cosa più importante per la squadra?",
+"reponses": [
+{ "id": "a", "texte": "Divertirsi insieme", "correcte": true },
+{ "id": "b", "texte": "Vincere tutte le partite a scuola", "correcte": false },
+{ "id": "c", "texte": "Comprare scarpe nuove costose", "correcte": false },
+{ "id": "d", "texte": "Tornare a casa presto", "correcte": false }
+]
+}
+]
+},
+{
+"id": "143",
+"titre": "Una passeggiata al parco",
+"titre2": "Esercizio 143",
+"texte": [
+"La domenica mattina faccio sempre una bella passeggiata al parco.",
+"L'aria è pulita, fresca e si sente il canto degli uccelli.",
+"Cammino con calma sotto i grandi alberi antichi del giardino.",
+"Vedo molte famiglie che giocano sull'erba con i bambini piccoli.",
+"Questo posto tranquillo mi aiuta a iniziare bene la settimana."
+],
+"audios": [
+{ "id": "audio-it-read-a1-143-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-143-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-143-01",
+"question": "Quando va al parco il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Il venerdì sera tardi", "correcte": false },
+{ "id": "b", "texte": "La domenica mattina", "correcte": true },
+{ "id": "c", "texte": "Il martedì dopo la scuola", "correcte": false },
+{ "id": "d", "texte": "Solo nel mese di dicembre", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-143-02",
+"question": "Cosa si sente nell'aria al parco?",
+"reponses": [
+{ "id": "a", "texte": "La musica forte di una festa", "correcte": false },
+{ "id": "b", "texte": "Il canto degli uccelli", "correcte": true },
+{ "id": "c", "texte": "Il rumore delle macchine del centro", "correcte": false },
+{ "id": "d", "texte": "Nessun suono", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-143-03",
+"question": "Dove cammina il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Sotto i grandi alberi antichi", "correcte": true },
+{ "id": "b", "texte": "Sulla strada principale asfaltata", "correcte": false },
+{ "id": "c", "texte": "Nel cortile della biblioteca chiusa", "correcte": false },
+{ "id": "d", "texte": "Dentro il supermercato", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-143-04",
+"question": "Chi vede sull'erba del parco?",
+"reponses": [
+{ "id": "a", "texte": "Il farmacista del centro", "correcte": false },
+{ "id": "b", "texte": "Molte famiglie con i bambini piccoli", "correcte": true },
+{ "id": "c", "texte": "Il signor Rossi che spiega l'arte", "correcte": false },
+{ "id": "d", "texte": "Tre cavalli marroni grandi", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-143-05",
+"question": "A cosa serve questa passeggiata domenicale?",
+"reponses": [
+{ "id": "a", "texte": "Ad iniziare bene la settimana", "correcte": true },
+{ "id": "b", "texte": "A comprare frutta fresca biologica", "correcte": false },
+{ "id": "c", "texte": "A fare i compiti di matematica", "correcte": false },
+{ "id": "d", "texte": "A spendere euro dal salvadanaio", "correcte": false }
+]
+}
+]
+},
+{
+"id": "144",
+"titre": "Ascoltare la musica",
+"titre2": "Esercizio 144",
+"texte": [
+"Ascoltare la musica è la mia attività preferita per rilassarmi.",
+"Uso le mie cuffie bianche collegate al mio telefono intelligente.",
+"Mi piace la musica leggera italiana e anche alcune canzoni straniere.",
+"Ascolto la musica nella mia camera da letto o sull'autobus.",
+"Le belle melodie mi danno molta energia e mi fanno sognare."
+],
+"audios": [
+{ "id": "audio-it-read-a1-144-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-144-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-144-01",
+"question": "Perché il protagonista ascolta la musica?",
+"reponses": [
+{ "id": "a", "texte": "Per fare ginnastica pesante", "correcte": false },
+{ "id": "b", "texte": "È la sua attività preferita per rilassarmi", "correcte": true },
+{ "id": "c", "texte": "Per imparare la geografia antica", "correcte": false },
+{ "id": "d", "texte": "Per non sentire il telefono", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-144-02",
+"question": "Quale oggetto usa per ascoltare i suoni?",
+"reponses": [
+{ "id": "a", "texte": "Una grande lavagna nera", "correcte": false },
+{ "id": "b", "texte": "Le sue cuffie bianche", "correcte": true },
+{ "id": "c", "texte": "Una radio di legno vecchia", "correcte": false },
+{ "id": "d", "texte": "La bilancia del fruttivendolo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-144-03",
+"question": "Quale tipo di musica preferisce il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "La musica leggera italiana e canzoni straniere", "correcte": true },
+{ "id": "b", "texte": "La musica rock molto forte", "correcte": false },
+{ "id": "c", "texte": "Solo i canti degli uccelli", "correcte": false },
+{ "id": "d", "texte": "Le lezioni registrate a scuola", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-144-04",
+"question": "In quali luoghi ascolta la musica di solito?",
+"reponses": [
+{ "id": "a", "texte": "In camera da letto o sull'autobus", "correcte": true },
+{ "id": "b", "texte": "Dentro la farmacia o dal medico", "correcte": false },
+{ "id": "c", "texte": "In cucina davanti al forno caldo", "correcte": false },
+{ "id": "d", "texte": "In biblioteca al tavolo grande", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-144-05",
+"question": "Cosa danno le belle melodie al protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Molta energia e lo fanno sognare", "correcte": true },
+{ "id": "b", "texte": "Un forte dolore alle orecchie", "correcte": false },
+{ "id": "c", "texte": "Noia e sonno profondo", "correcte": false },
+{ "id": "d", "texte": "Fame di pasta al pomodoro", "correcte": false }
+]
+}
+]
+},
+{
+"id": "145",
+"titre": "Guardare un film",
+"titre2": "Esercizio 145",
+"texte": [
+"La sera mi piace rilassarmi sul divano comodo del soggiorno.",
+"Accendo la televisione grande per guardare un film divertente.",
+"Spengo la luce principale per avere un'atmosfera da cinema.",
+"Mangio dei biscotti caldi o una mela durante la visione.",
+"A mezzanotte spengo tutto e vado felice a letto a dormire."
+],
+"audios": [
+{ "id": "audio-it-read-a1-145-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-145-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-145-01",
+"question": "Dove si siede il protagonista per guardare lo schermo?",
+"reponses": [
+{ "id": "a", "texte": "Su una sedia di legno verde", "correcte": false },
+{ "id": "b", "texte": "Sul divano comodo del soggiorno", "correcte": true },
+{ "id": "c", "texte": "Nel letto singolo in camera", "correcte": false },
+{ "id": "d", "texte": "Sul pavimento della cucina", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-145-02",
+"question": "Che tipo di film sceglie di vedere la sera?",
+"reponses": [
+{ "id": "a", "texte": "Un documentario di storia antica", "correcte": false },
+{ "id": "b", "texte": "Un film divertente", "correcte": true },
+{ "id": "c", "texte": "Un film horror molto pauroso", "correcte": false },
+{ "id": "d", "texte": "Le notizie della città", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-145-03",
+"question": "Cosa fa con la luce per creare l'atmosfera giusta?",
+"reponses": [
+{ "id": "a", "texte": "Spegne la luce principale", "correcte": true },
+{ "id": "b", "texte": "Accende tutte le lampade grandi", "correcte": false },
+{ "id": "c", "texte": "Apre le finestre sul giardino", "correcte": false },
+{ "id": "d", "texte": "Usa una torcia elettrica blu", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-145-04",
+"question": "Cosa mangia il protagonista durante il film?",
+"reponses": [
+{ "id": "a", "texte": "Una lasagna calda fatta dalla mamma", "correcte": false },
+{ "id": "b", "texte": "Dei biscotti caldi o una mela", "correcte": true },
+{ "id": "c", "texte": "Della pizza da asporto fredda", "correcte": false },
+{ "id": "d", "texte": "Un gelato al cioccolato del chiosco", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-145-05",
+"question": "A che ora finisce l'attività e va a letto?",
+"reponses": [
+{ "id": "a", "texte": "Alle venti in punto", "correcte": false },
+{ "id": "b", "texte": "A mezzanotte", "correcte": true },
+{ "id": "c", "texte": "Alle undici di sera", "correcte": false },
+{ "id": "d": "Alle sei di mattina presto", "correcte": false }
+]
+}
+]
+},
+{
+"id": "146",
+"titre": "Leggere un libro",
+"titre2": "Esercizio 146",
+"texte": [
+"Prima di dormire ho la buona abitudine di leggere un libro.",
+"Accendo la piccola lampada moderna sul tavolino vicino al letto.",
+"Leggo un romanzo interessante scritto da un autore italiano.",
+"Giro le pagine di carta lentamente e con molta attenzione.",
+"Leggere tre pagine mi aiuta ad avere una buona notte di sonno."
+],
+"audios": [
+{ "id": "audio-it-read-a1-146-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-146-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-146-01",
+"question": "Quando legge il libro il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Durante il pranzo a mezzogiorno", "correcte": false },
+{ "id": "b", "texte": "Prima di dormire", "correcte": true },
+{ "id": "c", "texte": "Durante la lezione d'arte", "correcte": false },
+{ "id": "d", "texte": "Il sabato mattina al mercato", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-146-02",
+"question": "Quale oggetto accende per avere la luce?",
+"reponses": [
+{ "id": "a", "texte": "La televisione grande del soggiorno", "correcte": false },
+{ "id": "b", "texte": "La piccola lampada moderna sul tavolino", "correcte": true },
+{ "id": "c", "texte": "Il fuoco del forno in cucina", "correcte": false },
+{ "id": "d", "texte": "Il display dello smartphone", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-146-03",
+"question": "Che tipo di opera sta leggendo?",
+"reponses": [
+{ "id": "a", "texte": "Un quaderno di esercizi difficile", "correcte": false },
+{ "id": "b", "texte": "Un romanzo interessante di un autore italiano", "correcte": true },
+{ "id": "c", "texte": "Un dizionario di lingua francese", "correcte": false },
+{ "id": "d", "texte": "La lista della spesa bianca", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-146-04",
+"question": "Come gira le pagine di carta il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Lentamente e con molta attenzione", "correcte": true },
+{ "id": "b", "texte": "Velocemente facendo molto rumore", "correcte": false },
+{ "id": "c", "texte": "Con l'aiuto del suo amico Luca", "correcte": false },
+{ "id": "d", "texte": "Non le gira, guarda solo le foto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-146-05",
+"question": "Quante pagine legge per avere un buon sonno?",
+"reponses": [
+{ "id": "a", "texte": "Un libro intero ogni sera", "correcte": false },
+{ "id": "b", "texte": "Tre pagine", "correcte": true },
+{ "id": "c", "texte": "Cento capitoli difficili", "correcte": false },
+{ "id": "d", "texte": "Nessuna, si addormenta subito", "correcte": false }
+]
+}
+]
+},
+{
+"id": "147",
+"titre": "Giocare con i miei amici",
+"titre2": "Esercizio 147",
+"texte": [
+"Nel tempo libero mi piace molto giocare con i miei cari amici.",
+"Ci incontriamo nel grande cortile condominiale o sulla piazza.",
+"A volte giochiamo a nascondino dietro i muretti di pietra.",
+"Ridiamo forte insieme e inventiamo storie divertenti ed emozionanti.",
+"Passare il tempo con gli amici mi rende sempre felice."
+],
+"audios": [
+{ "id": "audio-it-read-a1-147-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-147-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-147-01",
+"question": "Con chi gioca il protagonista nel tempo libero?",
+"reponses": [
+{ "id": "a", "texte": "Con il vecchio cane Bello", "correcte": false },
+{ "id": "b", "texte": "Con i suoi cari amici", "correcte": true },
+{ "id": "c", "texte": "Da solo nella sua camera", "correcte": false },
+{ "id": "d", "texte": "Con il farmacista educato", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-147-02",
+"question": "Dove si incontrano i ragazzi per giocare?",
+"reponses": [
+{ "id": "a", "texte": "In biblioteca al tavolo della storia", "correcte": false },
+{ "id": "b", "texte": "Nel grande cortile condominiale o sulla piazza", "correcte": true },
+{ "id": "c", "texte": "Dentro il supermercato vicino alla stazione", "correcte": false },
+{ "id": "d", "texte": "Nel bagno della scuola", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-147-03",
+"question": "A quale gioco giocano a volte i ragazzi?",
+"reponses": [
+{ "id": "a", "texte": "A scacchi sulla tavola di legno", "correcte": false },
+{ "id": "b", "texte": "A nascondino", "correcte": true },
+{ "id": "c", "texte": "A cucinare la cena vegetariana", "correcte": false },
+{ "id": "d", "texte": "Nessun gioco, parlano solo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-147-04",
+"question": "Cose inventano insieme durante il gioco?",
+"reponses": [
+{ "id": "a", "texte": "Storie divertenti ed emozionanti", "correcte": true },
+{ "id": "b", "texte": "Nuove regole di matematica difficile", "correcte": false },
+{ "id": "c", "texte": "Un nuovo modello di auto rossa", "correcte": false },
+{ "id": "d", "texte": "Delle ricette per torte di mele", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-147-05",
+"question": "Come si sente il protagonista alla fine della giornata?",
+"reponses": [
+{ "id": "a", "texte": "Sempre felice", "correcte": true },
+{ "id": "b", "texte": "Molto annoiato e triste", "correcte": false },
+{ "id": "c", "texte": "Nervoso e pronto a piangere", "correcte": false },
+{ "id": "d", "texte": "Malato con il mal di testa", "correcte": false }
+]
+}
+]
+},
+{
+"id": "148",
+"titre": "Una serata al cinema",
+"titre2": "Esercizio 148",
+"texte": [
+"Questo sabato sera vado al cinema grande del centro commerciale.",
+"Compro un biglietto alla cassa e anche un pacchetto di pop-corn.",
+"La sala è buia, ordinata e ha molte poltrone rosse comode.",
+"Il film sul grande schermo è una commedia italiana bellissima.",
+"Mi diverto molto con Chiara e Lorenzo che sono venuti con me."
+],
+"audios": [
+{ "id": "audio-it-read-a1-148-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-148-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-148-01",
+"question": "Dove si trova il cinema citato nel testo?",
+"reponses": [
+{ "id": "a", "texte": "Nel centro storico del villaggio", "correcte": false },
+{ "id": "b", "texte": "Nel centro commerciale", "correcte": true },
+{ "id": "c", "texte": "Vicino alla scuola di francese", "correcte": false },
+{ "id": "d", "texte": "Accanto alla farmacia utile", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-148-02",
+"question": "Cosa compra alla cassa insieme al biglietto?",
+"reponses": [
+{ "id": "a", "texte": "Un pacchetto di pop-corn", "correcte": true },
+{ "id": "b", "texte": "Un gelato al cioccolato freddo", "correcte": false },
+{ "id": "c", "texte": "Un libro di storie per amici", "correcte": false },
+{ "id": "d", "texte": "Una bottiglia d'aceto bianca", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-148-03",
+"question": "Di quale colore sono le poltrone della sala?",
+"reponses": [
+{ "id": "a", "texte": "Verdi come la lattuga", "correcte": false },
+{ "id": "b", "texte": "Rosse", "correcte": true },
+{ "id": "c", "texte": "Nere e molto vecchie", "correcte": false },
+{ "id": "d", "texte": "Bianche e moderne", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-148-04",
+"question": "Quale genere di film viene proiettato sullo schermo?",
+"reponses": [
+{ "id": "a", "texte": "Una commedia italiana bellissima", "correcte": true },
+{ "id": "b", "texte": "Un film horror molto pesante", "correcte": false },
+{ "id": "c", "texte": "Un cartone animato per bambini", "correcte": false },
+{ "id": "d", "texte": "Un documentario sulle api", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-148-05",
+"question": "Con quali amici si diverte il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Con Chiara e Lorenzo", "correcte": true },
+{ "id": "b", "texte": "Con Luca ed Elena della scuola", "correcte": false },
+{ "id": "c", "texte": "Con l'amico spagnolo Thomas", "correcte": false },
+{ "id": "d", "texte": "È andato da solo senza amici", "correcte": false }
+]
+}
+]
+},
+{
+"id": "149",
+"titre": "Il mio compleanno",
+"titre2": "Esercizio 149",
+"texte": [
+"Oggi è un giorno molto speciale perché è il mio compleanno.",
+"I miei amici vengono a casa mia per fare una bella festa feste.",
+"Portano molti regali colorati e li mettono sul grande tavolo.",
+"Sulla mia torta di mele dolce ci sono venti candeline rosse.",
+"Soffio forte, esprimo un desiderio segreto e tutti ridono felici."
+],
+"audios": [
+{ "id": "audio-it-read-a1-149-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-149-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-149-01",
+"question": "Perché oggi è un giorno speciale per il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Perché è il primo giorno di scuola", "correcte": false },
+{ "id": "b", "texte": "Perché è il mio compleanno", "correcte": true },
+{ "id": "c", "texte": "Perché prende il treno veloce", "correcte": false },
+{ "id": "d", "texte": "Perché c'è il mercato del villaggio", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-149-02",
+"question": "Dove vanno gli amici del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Al ristorante in centro città", "correcte": false },
+{ "id": "b", "texte": "A casa mia", "correcte": true },
+{ "id": "c", "texte": "Al parco pubblico grande", "correcte": false },
+{ "id": "d", "texte": "Al cinema del centro commerciale", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-149-03",
+"question": "Dove vengono messi i regali colorati?",
+"reponses": [
+{ "id": "a", "texte": "Sul grande tavolo", "correcte": true },
+{ "id": "b", "texte": "Sotto l'armadio marrone dei vestiti", "correcte": false },
+{ "id": "c", "texte": "Dentro lo zaino blu scolastico", "correcte": false },
+{ "id": "d", "texte": "In cucina nel frigorifero", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-149-04",
+"question": "Quante candeline ci sono sulla torta?",
+"reponses": [
+{ "id": "a", "texte": "Dieci candeline gialle", "correcte": false },
+{ "id": "b", "texte": "Venti candeline rosse", "correcte": true },
+{ "id": "c", "texte": "Cinque candeline grandi", "correcte": false },
+{ "id": "d", "texte": "Non ci sono candeline", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-149-05",
+"question": "Cosa fa il protagonista dopo aver soffiato?",
+"reponses": [
+{ "id": "a", "texte": "Esprime un desiderio segreto", "correcte": true },
+{ "id": "b", "texte": "Mangia tutta l'insalata verde", "correcte": false },
+{ "id": "c", "texte": "Va a fare la doccia veloce", "correcte": false },
+{ "id": "d", "texte": "Scrive una lettera a Luca", "correcte": false }
+]
+}
+]
+},
+{
+"id": "150",
+"titre": "Una domenica in famiglia",
+"titre2": "Esercizio 150",
+"texte": [
+"La domenica è il giorno perfetto da passare con tutta la famiglia.",
+"Al mattino facciamo una colazione molto lunga in cucina.",
+"Mio padre prepara un buon caffè dolce e mia madre porta i dolci.",
+"Nel pomeriggio guardiamo insieme un film divertente in soggiorno.",
+"Siamo molto uniti e amiamo passare questo tempo sereno insieme."
+],
+"audios": [
+{ "id": "audio-it-read-a1-150-1", "personnage": "Chiara", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a1-150-2", "personnage": "Lorenzo", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a1-150-01",
+"question": "Qual è il giorno perfetto per stare in famiglia secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "Il sabato del mercato", "correcte": false },
+{ "id": "b", "texte": "La domenica", "correcte": true },
+{ "id": "c", "texte": "Il lunedì senza carne", "correcte": false },
+{ "id": "d", "texte": "Il giovedì pomeriggio", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-150-02",
+"question": "Dove fa la colazione la famiglia la mattina?",
+"reponses": [
+{ "id": "a", "texte": "Nel soggiorno sul divano", "correcte": false },
+{ "id": "b", "texte": "In cucina", "correcte": true },
+{ "id": "c", "texte": "Al bar d'angolo della strada", "correcte": false },
+{ "id": "d", "texte": "Nel cortile condominiale", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-150-03",
+"question": "Chi prepara il buon caffè dolce al mattino?",
+"reponses": [
+{ "id": "a", "texte": "Il protagonista stesso", "correcte": false },
+{ "id": "b", "texte": "Mio padre", "correcte": true },
+{ "id": "c", "texte": "La nonna Elena", "correcte": false },
+{ "id": "d", "texte": "L'amico Luca", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-150-04",
+"question": "Cosa fa la famiglia insieme nel pomeriggio?",
+"reponses": [
+{ "id": "a", "texte": "Guarda insieme un film divertente in soggiorno", "correcte": true },
+{ "id": "b", "texte": "Va al grande supermercato in centro", "correcte": false },
+{ "id": "c", "texte": "Raccoglie le carote arancioni nell'orto", "correcte": false },
+{ "id": "d", "texte": "Pulisce l'aula della scuola", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a1-150-05",
+"question": "Come viene definito il tempo passato insieme?",
+"reponses": [
+{ "id": "a", "texte": "Tempo sereno", "correcte": true },
+{ "id": "b", "texte": "Molto noioso e pieno di compiti", "correcte": false },
+{ "id": "c", "texte": "Troppo rumoroso e caotico", "correcte": false },
+{ "id": "d", "texte": "Nervoso", "correcte": false }
+]
+}
+]
 }
 ]
