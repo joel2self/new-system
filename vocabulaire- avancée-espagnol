@@ -412,5 +412,491 @@
       {"text": "Una vez {{1}} el acuerdo, las partes {{2}} sus obligaciones y {{3}} los mecanismos de seguimiento.", "answers": ["firmado", "asumirán", "establecerán"]},
       {"text": "Aunque el proyecto {{1}} inicialmente inviable, los cambios introducidos {{2}} que pudiera ejecutarse con éxito.", "answers": ["parecía", "permitieron"]}
     ]
+  },
+ {
+    "id": "024",
+    "titre": "Adjetivos y matices de significado",
+    "definition": "Los adjetivos permiten expresar cualidades y establecer distinciones semánticas precisas. Su elección depende del contexto y de los matices que se desean transmitir.",
+    "instruction": "Completa cada frase seleccionando las palabras adecuadas entre las opciones propuestas.",
+    "questions": [
+      {"text": "La decisión fue considerada (precipitada / perpetua) debido a sus consecuencias (imprevisibles / insignificantes) para la economía.", "answers": ["precipitada", "imprevisibles"]},
+      {"text": "El investigador presentó argumentos (contundentes / efímeros) y pruebas (fehacientes / hipotéticas) para respaldar su hipótesis.", "answers": ["contundentes", "fehacientes"]},
+      {"text": "La organización adoptó una postura (intransigente / fortuita) ante las propuestas (conciliadoras / clandestinas) de sus adversarios.", "answers": ["intransigente", "conciliadoras"]},
+      {"text": "El informe contiene observaciones (pertinentes / superfluas) y conclusiones (fundamentadas / arbitrarias) que merecen consideración.", "answers": ["pertinentes", "fundamentadas"]},
+      {"text": "La reforma pretende establecer un sistema (equitativo / volátil) y garantizar una distribución (proporcional / aleatoria) de los recursos.", "answers": ["equitativo", "proporcional"]},
+      {"text": "Su comportamiento (errático / meticuloso) y sus decisiones (incoherentes / predecibles) generaron desconfianza.", "answers": ["errático", "incoherentes"]},
+      {"text": "El acuerdo establece condiciones (vinculantes / ornamentales) y obligaciones (recíprocas / fortuitas) para ambas partes.", "answers": ["vinculantes", "recíprocas"]},
+      {"text": "La investigación ofrece una perspectiva (innovadora / redundante) y un análisis (exhaustivo / superficial) del fenómeno.", "answers": ["innovadora", "exhaustivo"]},
+      {"text": "El discurso parecía (conciliador / beligerante), pero contenía expresiones (provocadoras / apaciguadoras) que reavivaron el conflicto.", "answers": ["conciliador", "provocadoras"]},
+      {"text": "La solución propuesta resulta (factible / quimérica) y presenta ventajas (sustanciales / irrelevantes) a largo plazo.", "answers": ["factible", "sustanciales"]}
+    ]
+  },
+  {
+    "id": "025",
+    "titre": "Preposiciones y locuciones prepositivas",
+    "definition": "Las preposiciones y locuciones prepositivas establecen relaciones sintácticas y semánticas entre los elementos de una oración.",
+    "instruction": "Selecciona las preposiciones o locuciones prepositivas correctas.",
+    "questions": [
+      {"text": "La decisión se tomó (a raíz de / en vez de) las investigaciones y (en virtud de / a pesar de) las pruebas presentadas.", "answers": ["a raíz de", "en virtud de"]},
+      {"text": "El proyecto fue diseñado (con vistas a / en contra de) mejorar los servicios y (en función de / a diferencia de) las necesidades locales.", "answers": ["con vistas a", "en función de"]},
+      {"text": "La empresa actuó (de acuerdo con / a pesar de) las disposiciones y procedió (en cumplimiento de / en detrimento de) sus obligaciones.", "answers": ["de acuerdo con", "en cumplimiento de"]},
+      {"text": "El investigador elaboró el informe (a partir de / en lugar de) datos verificables y lo presentó (ante / bajo) el comité científico.", "answers": ["a partir de", "ante"]},
+      {"text": "La reforma se aprobó (con independencia de / en beneficio de) las objeciones y (en atención a / por debajo de) las recomendaciones técnicas.", "answers": ["con independencia de", "en atención a"]},
+      {"text": "El acuerdo se estableció (entre / hacia) las instituciones y se mantendrá vigente (hasta / desde) finales de año.", "answers": ["entre", "hasta"]},
+      {"text": "La organización trabaja (en colaboración con / a diferencia de) varias universidades y actúa (en favor de / en contra de) la investigación.", "answers": ["en colaboración con", "en favor de"]},
+      {"text": "El tribunal resolvió el conflicto (con arreglo a / al margen de) la legislación y (en función de / a través de) las pruebas disponibles.", "answers": ["con arreglo a", "en función de"]},
+      {"text": "La empresa renunció (a / de) determinadas inversiones y se comprometió (a / con) mejorar sus procedimientos.", "answers": ["a", "a"]},
+      {"text": "El informe fue elaborado (por medio de / en contra de) entrevistas y contrastado (con / hacia) fuentes independientes.", "answers": ["por medio de", "con"]}
+    ]
+  },
+  {
+    "id": "026",
+    "titre": "Adverbios y expresiones adverbiales",
+    "definition": "Los adverbios modifican el significado de verbos, adjetivos y otros adverbios. Expresan circunstancias de tiempo, modo, cantidad, lugar y valoración.",
+    "instruction": "Elige los adverbios adecuados para completar las oraciones.",
+    "questions": [
+      {"text": "La comisión examinó (detenidamente / fortuitamente) el expediente y respondió (categóricamente / ocasionalmente) a las acusaciones.", "answers": ["detenidamente", "categóricamente"]},
+      {"text": "Los resultados fueron (considerablemente / escasamente) superiores a las previsiones y mejoraron (progresivamente / repentinamente) durante el trimestre.", "answers": ["considerablemente", "progresivamente"]},
+      {"text": "El portavoz rechazó (tajantemente / tímidamente) las acusaciones y explicó (detalladamente / superficialmente) los acontecimientos.", "answers": ["tajantemente", "detalladamente"]},
+      {"text": "La información se difundió (masivamente / secretamente) y fue posteriormente verificada (independientemente / arbitrariamente).", "answers": ["masivamente", "independientemente"]},
+      {"text": "La propuesta fue (unánimemente / parcialmente) aceptada y (posteriormente / previamente) sometida a evaluación.", "answers": ["unánimemente", "posteriormente"]},
+      {"text": "El problema debe abordarse (integralmente / accidentalmente) y no puede resolverse (aisladamente / definitivamente) mediante medidas improvisadas.", "answers": ["integralmente", "aisladamente"]},
+      {"text": "La empresa reaccionó (inmediatamente / tardíamente) y consiguió recuperar (paulatinamente / escasamente) su posición en el mercado.", "answers": ["inmediatamente", "paulatinamente"]},
+      {"text": "El investigador actuó (metódicamente / impulsivamente) y documentó (minuciosamente / vagamente) cada etapa del experimento.", "answers": ["metódicamente", "minuciosamente"]},
+      {"text": "Las autoridades respondieron (evasivamente / abiertamente) y reconocieron (públicamente / clandestinamente) sus errores.", "answers": ["evasivamente", "públicamente"]},
+      {"text": "El fenómeno se manifiesta (especialmente / casualmente) en las zonas rurales y afecta (desproporcionadamente / uniformemente) a los grupos vulnerables.", "answers": ["especialmente", "desproporcionadamente"]}
+    ]
+  },
+  {
+    "id": "027",
+    "titre": "Sinónimos y equivalencias léxicas",
+    "definition": "La sinonimia permite sustituir palabras por otras de significado equivalente o próximo, teniendo en cuenta las diferencias de registro y contexto.",
+    "instruction": "Selecciona el sinónimo que mejor encaja en cada contexto.",
+    "questions": [
+      {"text": "El comité decidió (revocar / ratificar) la resolución y posteriormente (enmendar / perpetuar) sus disposiciones.", "answers": ["revocar", "enmendar"]},
+      {"text": "El investigador intentó (dilucidar / ocultar) las causas y (corroborar / refutar) las hipótesis iniciales.", "answers": ["dilucidar", "corroborar"]},
+      {"text": "La organización pretende (mitigar / exacerbar) los efectos de la crisis y (fomentar / obstaculizar) la cooperación.", "answers": ["mitigar", "fomentar"]},
+      {"text": "El portavoz decidió (retractarse / perseverar) de sus declaraciones y (rectificar / intensificar) sus afirmaciones.", "answers": ["retractarse", "rectificar"]},
+      {"text": "La reforma busca (subsanar / perpetuar) las deficiencias y (optimizar / deteriorar) los procedimientos administrativos.", "answers": ["subsanar", "optimizar"]},
+      {"text": "El tribunal logró (esclarecer / tergiversar) los hechos y (desestimar / respaldar) las acusaciones infundadas.", "answers": ["esclarecer", "desestimar"]},
+      {"text": "La empresa decidió (diversificar / restringir) sus actividades y (consolidar / debilitar) su presencia internacional.", "answers": ["diversificar", "consolidar"]},
+      {"text": "El informe permite (vislumbrar / ignorar) nuevas oportunidades y (anticipar / desmentir) posibles dificultades.", "answers": ["vislumbrar", "anticipar"]},
+      {"text": "El mediador intentó (conciliar / enfrentar) las posiciones y (apaciguar / exacerbar) las tensiones existentes.", "answers": ["conciliar", "apaciguar"]},
+      {"text": "La investigación pretende (escrutar / abandonar) los mecanismos y (desentrañar / simplificar) su funcionamiento interno.", "answers": ["escrutar", "desentrañar"]}
+    ]
+  },
+  {
+    "id": "028",
+    "titre": "Conjunciones y relaciones sintácticas",
+    "definition": "Las conjunciones coordinan o subordinan elementos y expresan relaciones de oposición, condición, causa, finalidad y consecuencia.",
+    "instruction": "Escoge las conjunciones que establecen la relación lógica correcta.",
+    "questions": [
+      {"text": "La propuesta será aceptada (siempre que / a pesar de que) cumpla los requisitos y (aunque / siempre y cuando) disponga de financiación.", "answers": ["siempre que", "siempre y cuando"]},
+      {"text": "El informe es riguroso, (aunque / porque) presenta algunas limitaciones y debe revisarse (antes de que / debido a que) se publique.", "answers": ["aunque", "antes de que"]},
+      {"text": "No se trata de reducir los gastos, (sino de / ni de) mejorar la distribución de los recursos (para que / pese a que) aumente la eficiencia.", "answers": ["sino de", "para que"]},
+      {"text": "La empresa mantendrá sus operaciones (con tal de que / por más que) los ingresos sean suficientes y (siempre que / mientras que) se respeten las normas.", "answers": ["con tal de que", "siempre que"]},
+      {"text": "El proyecto fracasó (porque / aunque) no se evaluaron los riesgos, (de modo que / mientras que) fue necesario reconsiderar la estrategia.", "answers": ["porque", "de modo que"]},
+      {"text": "La comisión continuará investigando (hasta que / a menos que) se esclarezcan los hechos y (aunque / puesto que) surjan nuevas dificultades.", "answers": ["hasta que", "aunque"]},
+      {"text": "El candidato fue seleccionado (no porque / dado que) tuviera experiencia, (sino porque / aunque) demostró competencias excepcionales.", "answers": ["no porque", "sino porque"]},
+      {"text": "La reforma entrará en vigor (una vez que / a pesar de que) se publique oficialmente y (siempre que / por mucho que) se cumplan los requisitos legales.", "answers": ["una vez que", "siempre que"]},
+      {"text": "El director dimitió (después de que / con el fin de que) se descubrieran irregularidades, (por lo que / a menos que) el consejo tuvo que reorganizarse.", "answers": ["después de que", "por lo que"]},
+      {"text": "No se aprobará el presupuesto (salvo que / puesto que) se justifiquen los gastos y (siempre que / mientras que) exista consenso.", "answers": ["salvo que", "siempre que"]}
+    ]
+  },
+  {
+    "id": "029",
+    "titre": "Orden sintáctico y estructura de la oración",
+    "definition": "La organización sintáctica establece las relaciones entre sujeto, verbo y complementos. El orden de los constituyentes puede modificarse para destacar determinados elementos.",
+    "instruction": "Selecciona las expresiones que completan correctamente la estructura de cada oración.",
+    "questions": [
+      {"text": "Difícilmente (podrá / podrán) el comité (justificar / justificarse) una decisión semejante.", "answers": ["podrá", "justificar"]},
+      {"text": "Solo después de varias negociaciones (alcanzaron / alcanzó) los representantes (un acuerdo / acordar) definitivo.", "answers": ["alcanzaron", "un acuerdo"]},
+      {"text": "Apenas (había terminado / habían terminado) la reunión cuando (surgió / surgieron) nuevas objeciones.", "answers": ["había terminado", "surgieron"]},
+      {"text": "De ninguna manera (aceptará / aceptarán) la dirección (tolerar / tolerando) semejantes irregularidades.", "answers": ["aceptará", "tolerar"]},
+      {"text": "En el centro de la sala (se encontraban / se encontraba) los documentos que (contenían / contenía) las pruebas.", "answers": ["se encontraban", "contenían"]},
+      {"text": "No fue hasta el día siguiente cuando (se conocieron / se conoció) los resultados que (habían permanecido / había permanecido) ocultos.", "answers": ["se conocieron", "habían permanecido"]},
+      {"text": "Cuanto más (se profundiza / profundizan) en el análisis, más dificultades (aparece / aparecen).", "answers": ["se profundiza", "aparecen"]},
+      {"text": "A la entrada del edificio (esperaban / esperaba) varios representantes que (habían llegado / había llegado) temprano.", "answers": ["esperaban", "habían llegado"]},
+      {"text": "La propuesta que (presentaron / presentó) los expertos (fue / fueron) finalmente aprobada.", "answers": ["presentaron", "fue"]},
+      {"text": "Ni el director ni los miembros del consejo (quiso / quisieron) asumir las responsabilidades que (les correspondían / le correspondía).", "answers": ["quisieron", "les correspondían"]}
+    ]
+  },
+  {
+    "id": "030",
+    "titre": "Artículos y determinantes",
+    "definition": "Los artículos y determinantes delimitan la referencia del sustantivo y expresan relaciones de identificación, posesión, cantidad y proximidad.",
+    "instruction": "Elige los artículos y determinantes adecuados.",
+    "questions": [
+      {"text": "(El / La) águila desplegó (sus / suya) alas sobre (el / la) extensa llanura.", "answers": ["El", "sus", "la"]},
+      {"text": "La comisión examinó (ambos / ambas) expedientes y solicitó (sendas / sendos) aclaraciones a (cada / cualesquiera) institución.", "answers": ["ambos", "sendas", "cada"]},
+      {"text": "(Cualquier / Cualquiera) investigador puede consultar (dichos / dichas) documentos si presenta (la / una) autorización.", "answers": ["Cualquier", "dichos", "la"]},
+      {"text": "La organización revisará (todos los / cada) contratos y modificará (sus / suyas) cláusulas cuando (algún / algunos) problema sea detectado.", "answers": ["todos los", "sus", "algún"]},
+      {"text": "(Aquellos / Aquel) resultados contradicen (varias / varios) hipótesis formuladas durante (la / el) investigación.", "answers": ["Aquellos", "varias", "la"]},
+      {"text": "La universidad presentó (una / un) nueva metodología y publicó (sus / su) principales características.", "answers": ["una", "sus"]},
+      {"text": "¿(Cuántas / Cuánto) instituciones participaron y (qué / cuáles) resultados obtuvieron?", "answers": ["Cuántas", "qué"]},
+      {"text": "(Ningún / Ninguno) candidato cumplía (todas / todo) las condiciones establecidas en (el / la) convocatoria.", "answers": ["Ningún", "todas", "la"]},
+      {"text": "La empresa necesita (más / muy) recursos y (menos / menor) restricciones para ejecutar (este / esta) proyecto.", "answers": ["más", "menos", "este"]},
+      {"text": "(Cada / Cualquier) una de las propuestas deberá presentar (su / sus) correspondiente evaluación y (ambos / ambas) justificaciones.", "answers": ["Cada", "su", "ambas"]}
+    ]
+  },
+  {
+    "id": "031",
+    "titre": "Antónimos y contrastes semánticos",
+    "definition": "Los antónimos expresan oposición de significado y permiten establecer contrastes entre cualidades, acciones, situaciones y conceptos.",
+    "instruction": "Selecciona las palabras que expresan el contraste adecuado.",
+    "questions": [
+      {"text": "Una administración (transparente / opaca) debe evitar procedimientos (claros / confusos).", "answers": ["transparente", "confusos"]},
+      {"text": "El mercado pasó de una etapa (expansiva / recesiva) a otra caracterizada por una contracción (económica / demográfica).", "answers": ["expansiva", "económica"]},
+      {"text": "El investigador contrapuso una interpretación (objetiva / subjetiva) a otra completamente (imparcial / sesgada).", "answers": ["objetiva", "sesgada"]},
+      {"text": "La organización sustituyó una estructura (centralizada / descentralizada) por otra más (jerárquica / horizontal).", "answers": ["centralizada", "horizontal"]},
+      {"text": "La medida inicialmente (provisional / definitiva) terminó convirtiéndose en una disposición (permanente / transitoria).", "answers": ["provisional", "permanente"]},
+      {"text": "El discurso alternaba afirmaciones (explícitas / implícitas) con referencias (directas / indirectas).", "answers": ["explícitas", "indirectas"]},
+      {"text": "La empresa abandonó una política (restrictiva / expansiva) y adoptó otra más (flexible / rígida).", "answers": ["restrictiva", "flexible"]},
+      {"text": "Los resultados fueron (favorables / adversos) para los inversores, pero (beneficiosos / perjudiciales) para los consumidores.", "answers": ["favorables", "perjudiciales"]},
+      {"text": "La relación entre ambas instituciones pasó de ser (conflictiva / armoniosa) a resultar relativamente (cooperativa / hostil).", "answers": ["conflictiva", "cooperativa"]},
+      {"text": "El sistema debe evolucionar desde un modelo (ineficiente / eficaz) hacia otro más (productivo / improductivo).", "answers": ["ineficiente", "productivo"]}
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Pronombres y referencias gramaticales",
+    "definition": "Los pronombres sustituyen elementos nominales y establecen relaciones de referencia, cohesión y concordancia dentro de la oración.",
+    "instruction": "Selecciona los pronombres adecuados para completar las frases.",
+    "questions": [
+      {"text": "La directora entregó los expedientes a los abogados y (les / los) pidió que (los / les) revisaran.", "answers": ["les", "los"]},
+      {"text": "Los documentos estaban incompletos, por lo que el secretario (se los / les los) devolvió a sus autores para que (los / les) corrigieran.", "answers": ["se los", "los"]},
+      {"text": "La propuesta fue aprobada por el consejo, que (la / le) consideró beneficiosa para quienes (la / lo) respaldaron.", "answers": ["la", "la"]},
+      {"text": "Los investigadores hablaron entre (sí / ellos mismos) y acordaron presentar (sus / suyas) conclusiones.", "answers": ["sí", "sus"]},
+      {"text": "Quienes (se / les) responsabilizaron del proyecto deberán explicar las decisiones que (tomaron / tomaronlas).", "answers": ["se", "tomaron"]},
+      {"text": "La información que solicitaste ya está disponible; puedes consultarla cuando (la / le) necesites y compartirla con quien (corresponda / correspondan).", "answers": ["la", "corresponda"]},
+      {"text": "El director convocó a los especialistas y (les / los) comunicó que (se / le) había modificado el calendario.", "answers": ["les", "se"]},
+      {"text": "No conozco a la persona (que / quien) presentó la denuncia ni sé (quién / cual) la acompañaba.", "answers": ["que", "quién"]},
+      {"text": "La investigadora defendió una hipótesis que (ella / la) misma había formulado y de la que (se / le) sentía orgullosa.", "answers": ["ella", "se"]},
+      {"text": "Los representantes acordaron reunirse entre (sí / ellos) para decidir qué propuesta presentarían y cómo justificar (la / le).", "answers": ["sí", "la"]}
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Verbos y perífrasis verbales",
+    "definition": "Las perífrasis verbales combinan un verbo auxiliar y una forma no personal para expresar obligación, posibilidad, duración, comienzo, repetición o finalización de una acción.",
+    "instruction": "Selecciona las formas verbales y perífrasis que mejor se ajustan al contexto.",
+    "questions": [
+      {"text": "La empresa (debe revisar / debe de revisar) sus procedimientos y (ha de cumplir / ha cumplido) las nuevas disposiciones.", "answers": ["debe revisar", "ha de cumplir"]},
+      {"text": "Los investigadores (llevan analizando / llevan analizar) el fenómeno durante años y todavía (siguen buscando / siguen buscar) respuestas.", "answers": ["llevan analizando", "siguen buscando"]},
+      {"text": "El comité (acaba de publicar / acaba publicando) el informe y (volverá a examinar / volverá examinar) las pruebas.", "answers": ["acaba de publicar", "volverá a examinar"]},
+      {"text": "Las autoridades (tienen que adoptar / tienen adoptado) medidas urgentes y (dejan de ignorar / dejan ignorando) las advertencias.", "answers": ["tienen que adoptar", "dejan de ignorar"]},
+      {"text": "La dirección (está considerando / está considerar) nuevas inversiones y (va a presentar / va presentando) una estrategia revisada.", "answers": ["está considerando", "va a presentar"]},
+      {"text": "El investigador (llegó a demostrar / llegó demostrar) su hipótesis y (terminó publicando / terminó publicar) los resultados.", "answers": ["llegó a demostrar", "terminó publicando"]},
+      {"text": "Los negociadores (han dejado de discutir / han dejado discutir) y (comienzan a redactar / comienzan redactar) el acuerdo.", "answers": ["han dejado de discutir", "comienzan a redactar"]},
+      {"text": "El proyecto (puede generar / puede de generar) beneficios y (suele requerir / suele requiriendo) una inversión considerable.", "answers": ["puede generar", "suele requerir"]},
+      {"text": "La comisión (acostumbra a reunirse / acostumbra reunirse) cada trimestre y (viene examinando / viene examinar) las reclamaciones.", "answers": ["acostumbra a reunirse", "viene examinando"]},
+      {"text": "La empresa (está a punto de inaugurar / está por inaugurar) sus nuevas instalaciones y (prevé contratar / prevé contratando) más personal.", "answers": ["está a punto de inaugurar", "prevé contratar"]}
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "Sustantivos abstractos y concretos",
+    "definition": "Los sustantivos concretos designan entidades perceptibles, mientras que los abstractos expresan ideas, cualidades, estados, procesos y conceptos.",
+    "instruction": "Elige los sustantivos que completan correctamente cada oración.",
+    "questions": [
+      {"text": "La (legitimidad / legibilidad) de las instituciones depende de la (confianza / confidencia) ciudadana.", "answers": ["legitimidad", "confianza"]},
+      {"text": "La (incertidumbre / incertidumbre) económica dificulta la (previsión / provisión) de inversiones a largo plazo.", "answers": ["incertidumbre", "previsión"]},
+      {"text": "La (transgresión / transición) de las normas puede generar una grave (responsabilidad / responsividad) jurídica.", "answers": ["transgresión", "responsabilidad"]},
+      {"text": "La (sostenibilidad / sostenimiento) ambiental exige una gestión responsable de los (recursos / recursos humanos) naturales.", "answers": ["sostenibilidad", "recursos"]},
+      {"text": "La (discrepancia / discrepación) entre los expertos refleja la (complejidad / complicación) del fenómeno estudiado.", "answers": ["discrepancia", "complejidad"]},
+      {"text": "La (equidad / igualdad) distributiva constituye un principio fundamental de la (justicia / justificación) social.", "answers": ["equidad", "justicia"]},
+      {"text": "La (vulnerabilidad / vulneración) de determinados grupos requiere políticas de (protección / proyección) específicas.", "answers": ["vulnerabilidad", "protección"]},
+      {"text": "La (innovación / invención) tecnológica favorece la (competitividad / competencia) de las empresas.", "answers": ["innovación", "competitividad"]},
+      {"text": "La (polarización / popularización) política puede debilitar la (convivencia / conveniencia) democrática.", "answers": ["polarización", "convivencia"]},
+      {"text": "La (desigualdad / desigualación) estructural limita la (movilidad / movilización) social de numerosos ciudadanos.", "answers": ["desigualdad", "movilidad"]}
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "Formación de palabras: prefijos y sufijos",
+    "definition": "La derivación léxica permite crear palabras nuevas mediante la incorporación de prefijos y sufijos que modifican el significado o la categoría gramatical de una base.",
+    "instruction": "Selecciona las palabras derivadas que completan adecuadamente las frases.",
+    "questions": [
+      {"text": "La (descentralización / centralización) administrativa busca reducir la (dependencia / independencia) de las autoridades locales.", "answers": ["descentralización", "dependencia"]},
+      {"text": "La (reorganización / desorganización) institucional exige una evaluación (periódica / periodística) de los procedimientos.", "answers": ["reorganización", "periódica"]},
+      {"text": "La (sobreexplotación / infrautilización) de los recursos y su (agotamiento / enriquecimiento) amenazan la sostenibilidad ambiental.", "answers": ["sobreexplotación", "agotamiento"]},
+      {"text": "La (desinformación / información) deliberada puede provocar una (radicalización / moderación) de las opiniones públicas.", "answers": ["desinformación", "radicalización"]},
+      {"text": "La (interconexión / desconexión) de los sistemas facilita la (automatización / automatismo) de los procesos industriales.", "answers": ["interconexión", "automatización"]},
+      {"text": "La (inestabilidad / estabilidad) financiera puede generar una (desaceleración / aceleración) de la actividad económica.", "answers": ["inestabilidad", "desaceleración"]},
+      {"text": "La (reutilización / inutilización) de materiales y su (reciclabilidad / reciclaje) contribuyen a reducir los residuos.", "answers": ["reutilización", "reciclabilidad"]},
+      {"text": "La (irregularidad / regularidad) del procedimiento y su (incompatibilidad / compatibilidad) con la normativa deben examinarse.", "answers": ["irregularidad", "incompatibilidad"]},
+      {"text": "La (multiculturalidad / monoculturalidad) de la sociedad exige una política de (integración / desintegración) inclusiva.", "answers": ["multiculturalidad", "integración"]},
+      {"text": "La (deshumanización / humanización) de los servicios y su excesiva (burocratización / simplificación) pueden perjudicar a los usuarios.", "answers": ["deshumanización", "burocratización"]}
+    ]
+  },
+  {
+    "id": "036",
+    "titre": "Negación y expresiones negativas",
+    "definition": "Las estructuras negativas permiten expresar ausencia, prohibición, rechazo e inexistencia. Su uso requiere concordancia negativa y una colocación adecuada de los elementos.",
+    "instruction": "Escoge las expresiones negativas correctas.",
+    "questions": [
+      {"text": "(Ningún / Ninguno) candidato presentó (ninguna / alguna) objeción y (tampoco / también) solicitó una revisión.", "answers": ["Ningún", "ninguna", "tampoco"]},
+      {"text": "La comisión no encontró (ningún / ninguno) indicio y no recibió (ninguna / algún) denuncia.", "answers": ["ningún", "ninguna"]},
+      {"text": "(Ni / No) los expertos ni los representantes pudieron acceder al documento, porque (nadie / alguien) autorizó su consulta.", "answers": ["Ni", "nadie"]},
+      {"text": "El portavoz afirmó que (nunca / siempre) había recibido instrucciones y que (jamás / todavía) había participado en esa operación.", "answers": ["nunca", "jamás"]},
+      {"text": "No se ha demostrado (nada / algo) irregular y (tampoco / además) se han encontrado pruebas concluyentes.", "answers": ["nada", "tampoco"]},
+      {"text": "(Nadie / Alguien) quiso asumir la responsabilidad y (ninguno / ambos) presentó una explicación convincente.", "answers": ["Nadie", "ninguno"]},
+      {"text": "La empresa no dispone de (ningún / algún) recurso adicional ni cuenta con (ninguna / alguna) garantía financiera.", "answers": ["ningún", "ninguna"]},
+      {"text": "No solo no se resolvió el conflicto, (sino que / aunque) tampoco se alcanzó (ningún / algún) acuerdo.", "answers": ["sino que", "ningún"]},
+      {"text": "No existe (ninguna / alguna) justificación para semejante decisión y (nadie / alguien) debería respaldarla.", "answers": ["ninguna", "nadie"]},
+      {"text": "El investigador no encontró (ni / o) una explicación satisfactoria ni (tampoco / también) pudo verificar la hipótesis.", "answers": ["ni", "tampoco"]}
+    ]
+  },
+  {
+    "id": "037",
+    "titre": "Parónimos y precisión léxica",
+    "definition": "Los parónimos presentan semejanzas formales, pero poseen significados distintos. Su identificación evita confusiones léxicas y mejora la precisión expresiva.",
+    "instruction": "Selecciona la palabra correcta teniendo en cuenta su significado.",
+    "questions": [
+      {"text": "El tribunal decidió (absolver / absorber) al acusado y ordenó (ratificar / rectificar) determinados datos del expediente.", "answers": ["absolver", "rectificar"]},
+      {"text": "La empresa debe (adaptar / adoptar) sus procedimientos y (prever / proveer) los recursos necesarios.", "answers": ["adaptar", "proveer"]},
+      {"text": "El investigador decidió (infligir / infringir) las normas del protocolo y tuvo que (revelar / rebelar) los resultados.", "answers": ["infringir", "revelar"]},
+      {"text": "La organización necesita (emitir / omitir) un comunicado y evitar (perjuicios / prejuicios) infundados.", "answers": ["emitir", "prejuicios"]},
+      {"text": "El director decidió (aprehender / aprender) las instrucciones y (asumir / resumir) sus responsabilidades.", "answers": ["aprender", "asumir"]},
+      {"text": "La comisión debe (espiar / expiar) las posibles irregularidades y (prever / proveer) mecanismos de control.", "answers": ["espiar", "prever"]},
+      {"text": "El portavoz intentó (eludir / aludir) las preguntas y terminó por (confesar / profesar) su participación.", "answers": ["eludir", "confesar"]},
+      {"text": "El informe presenta una (descripción / inscripción) detallada y una (prescripción / proscripción) de las medidas necesarias.", "answers": ["descripción", "prescripción"]},
+      {"text": "La empresa decidió (gravar / grabar) las operaciones y (registrar / regir) las transacciones comerciales.", "answers": ["grabar", "registrar"]},
+      {"text": "El investigador quiso (complementar / cumplimentar) el formulario y (corroborar / colaborar) los resultados obtenidos.", "answers": ["cumplimentar", "corroborar"]}
+    ]
+  },
+  {
+    "id": "038",
+    "titre": "Conectores lógicos y discursivos",
+    "definition": "Los conectores discursivos articulan las ideas y permiten establecer relaciones de contraste, consecuencia, explicación, reformulación y conclusión.",
+    "instruction": "Selecciona los conectores que aseguran la coherencia lógica de cada enunciado.",
+    "questions": [
+      {"text": "La reforma presenta ventajas económicas; (sin embargo / por consiguiente), plantea riesgos sociales. (Por ello / Asimismo), requiere una evaluación integral.", "answers": ["sin embargo", "Por ello"]},
+      {"text": "La inversión aumentó considerablemente. (En consecuencia / A pesar de ello), la producción creció y, (por tanto / no obstante), mejoraron los resultados.", "answers": ["En consecuencia", "por tanto"]},
+      {"text": "El informe contiene errores metodológicos. (Es decir / No obstante), sus conclusiones siguen siendo útiles, (aunque / por consiguiente) deben interpretarse con prudencia.", "answers": ["No obstante", "aunque"]},
+      {"text": "La empresa redujo sus costes. (Además / En cambio), optimizó sus recursos y, (por consiguiente / a pesar de), incrementó su rentabilidad.", "answers": ["Además", "por consiguiente"]},
+      {"text": "La información es insuficiente. (Por consiguiente / En cambio), no permite formular conclusiones definitivas. (En definitiva / Por ejemplo), se necesita una investigación adicional.", "answers": ["Por consiguiente", "En definitiva"]},
+      {"text": "El proyecto no alcanzó sus objetivos iniciales. (Aun así / Por tanto), generó conocimientos relevantes y, (sin embargo / por otra parte), permitió identificar nuevas oportunidades.", "answers": ["Aun así", "por otra parte"]},
+      {"text": "La medida fue aprobada por unanimidad. (Ahora bien / Por ejemplo), su aplicación será gradual. (De este modo / A pesar de), se evitarán alteraciones bruscas.", "answers": ["Ahora bien", "De este modo"]},
+      {"text": "La digitalización mejora la eficiencia. (Asimismo / En cambio), puede generar exclusión tecnológica. (Por esta razón / Aun cuando), debe acompañarse de políticas inclusivas.", "answers": ["Asimismo", "Por esta razón"]},
+      {"text": "No existen pruebas suficientes. (Por tanto / En cambio), no se puede confirmar la hipótesis. (En otras palabras / Por el contrario), la investigación sigue abierta.", "answers": ["Por tanto", "En otras palabras"]},
+      {"text": "El candidato posee experiencia internacional. (Además / Sin embargo), domina varios idiomas y, (por consiguiente / no obstante), reúne las competencias requeridas.", "answers": ["Además", "por consiguiente"]}
+    ]
+  },
+  {
+    "id": "039",
+    "titre": "Determinantes y cuantificadores",
+    "definition": "Los cuantificadores expresan cantidad, intensidad o distribución. Los determinantes indefinidos y numerales delimitan la referencia de los sustantivos.",
+    "instruction": "Completa las frases seleccionando los cuantificadores adecuados.",
+    "questions": [
+      {"text": "(Numerosos / Mucho) investigadores participaron y aportaron (varias / varios) soluciones al problema.", "answers": ["Numerosos", "varias"]},
+      {"text": "La comisión recibió (demasiadas / demasiado) solicitudes y disponía de (pocos / poco) recursos para examinarlas.", "answers": ["demasiadas", "pocos"]},
+      {"text": "(Ambos / Ambas) instituciones presentaron (sendos / sendas) informes y formularon (distintas / distintos) recomendaciones.", "answers": ["Ambas", "sendos", "distintas"]},
+      {"text": "La empresa necesita (suficiente / suficientes) financiación y (mayor / mayores) estabilidad para continuar.", "answers": ["suficiente", "mayor"]},
+      {"text": "(Cada / Todos) participante deberá entregar (un / unos) documento y responder a (varias / varios) preguntas.", "answers": ["Cada", "un", "varias"]},
+      {"text": "La investigación identificó (muchas / mucho) variables y (escasas / escasos) relaciones estadísticamente significativas.", "answers": ["muchas", "escasas"]},
+      {"text": "No existen (bastante / bastantes) evidencias ni (suficiente / suficientes) argumentos para sostener la afirmación.", "answers": ["bastantes", "suficientes"]},
+      {"text": "(Cualquier / Cualesquiera) persona puede presentar (alguna / algunas) reclamación si dispone de (suficiente / suficientes) documentación.", "answers": ["Cualquier", "alguna", "suficiente"]},
+      {"text": "La organización destinó (sendos / sendas) presupuestos a (ambos / ambas) proyectos y estableció (varios / varias) prioridades.", "answers": ["sendos", "ambos", "varias"]},
+      {"text": "Había (menos / menor) oportunidades laborales y (más / mayor) competencia entre (los / las) candidatos.", "answers": ["menos", "más", "los"]}
+    ]
+  },
+  {
+    "id": "040",
+    "titre": "Comparativos y superlativos",
+    "definition": "Los comparativos y superlativos expresan diferencias de grado, superioridad, inferioridad e igualdad entre cualidades y características.",
+    "instruction": "Elige las estructuras comparativas y superlativas correctas.",
+    "questions": [
+      {"text": "La nueva metodología es (más / muy) rigurosa (que / como) la anterior y resulta (menos / menor) costosa.", "answers": ["más", "que", "menos"]},
+      {"text": "La empresa obtuvo (menos / menor) beneficios (que / como) el año anterior, pero asumió (mayores / más grandes) responsabilidades.", "answers": ["menos", "que", "mayores"]},
+      {"text": "Este procedimiento es (tan / tanto) eficaz (como / que) el anterior, aunque requiere (menos / menor) tiempo.", "answers": ["tan", "como", "menos"]},
+      {"text": "Cuanto (más / mayor) se invierte en formación, (mejores / más buenos) resultados se obtienen y (menor / menos) es el riesgo de errores.", "answers": ["más", "mejores", "menor"]},
+      {"text": "La situación es (peor / más mala) de lo previsto y presenta (mayores / más grandes) dificultades que las inicialmente identificadas.", "answers": ["peor", "mayores"]},
+      {"text": "Ninguna otra propuesta es (tan / tanto) completa (como / que) la presentada por el equipo y ofrece (más / mayor) garantías.", "answers": ["tan", "como", "más"]},
+      {"text": "El coste final fue (inferior / más inferior) al estimado y la rentabilidad resultó (superior / más superior) a la prevista.", "answers": ["inferior", "superior"]},
+      {"text": "Cuanto (menos / menor) se planifica, (más / mayor) probabilidades existen de cometer errores y (peores / más malos) son las consecuencias.", "answers": ["menos", "más", "peores"]},
+      {"text": "El segundo informe contiene (tantas / tantas más) observaciones (como / que) el primero y presenta (menos / menor) contradicciones.", "answers": ["tantas", "como", "menos"]},
+      {"text": "Es uno de los proyectos (más / muy) ambiciosos y (mejor / más bueno) estructurados de la organización.", "answers": ["más", "mejor"]}
+    ]
+  },
+  {
+    "id": "041",
+    "titre": "Complementos verbales y nominales",
+    "definition": "Los complementos amplían la información de los verbos y sustantivos. Pueden expresar destinatario, finalidad, causa, modo, lugar y otros valores sintácticos.",
+    "instruction": "Selecciona las expresiones que completan correctamente las estructuras de cada oración.",
+    "questions": [
+      {"text": "El director entregó el expediente (a los investigadores / por los investigadores) y explicó los motivos (de la decisión / a la decisión).", "answers": ["a los investigadores", "de la decisión"]},
+      {"text": "La empresa confía (en sus colaboradores / con sus colaboradores) y dispone (de recursos suficientes / a recursos suficientes).", "answers": ["en sus colaboradores", "de recursos suficientes"]},
+      {"text": "El tribunal acusó al responsable (de fraude / por fraude) y solicitó una indemnización (para las víctimas / con las víctimas).", "answers": ["de fraude", "para las víctimas"]},
+      {"text": "La organización destinó fondos (a la investigación / por la investigación) y contrató especialistas (con experiencia / de experiencia).", "answers": ["a la investigación", "con experiencia"]},
+      {"text": "Los expertos informaron (a la comisión / de la comisión) sobre los resultados y solicitaron apoyo (para el proyecto / del proyecto).", "answers": ["a la comisión", "para el proyecto"]},
+      {"text": "El documento fue redactado (por el secretario / al secretario) y enviado (a todas las instituciones / por todas las instituciones).", "answers": ["por el secretario", "a todas las instituciones"]},
+      {"text": "La investigación se centra (en las causas / de las causas) y contribuye (a la comprensión / con la comprensión) del fenómeno.", "answers": ["en las causas", "a la comprensión"]},
+      {"text": "El director sustituyó el procedimiento (por otro más eficaz / con otro más eficaz) y renunció (a determinadas competencias / de determinadas competencias).", "answers": ["por otro más eficaz", "a determinadas competencias"]},
+      {"text": "La comisión carece (de autoridad / con autoridad) y depende (de una financiación externa / a una financiación externa).", "answers": ["de autoridad", "de una financiación externa"]},
+      {"text": "El informe atribuye el deterioro (a factores estructurales / por factores estructurales) y responsabiliza a la dirección (de los errores / por los errores).", "answers": ["a factores estructurales", "de los errores"]}
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Oraciones interrogativas directas e indirectas",
+    "definition": "Las interrogativas directas e indirectas permiten solicitar información. Las indirectas se integran en una oración principal y no llevan signos de interrogación propios.",
+    "instruction": "Selecciona los interrogativos y las estructuras adecuadas.",
+    "questions": [
+      {"text": "El investigador preguntó (qué / que) factores habían influido y (cómo / como) se habían obtenido los resultados.", "answers": ["qué", "cómo"]},
+      {"text": "Nadie sabe (quién / quien) autorizó la operación ni (cuándo / cuando) se firmó el documento.", "answers": ["quién", "cuándo"]},
+      {"text": "La comisión desea saber (cuáles / cuales) propuestas fueron aceptadas y (por qué / porque) se rechazaron las demás.", "answers": ["cuáles", "por qué"]},
+      {"text": "¿(Cuánto / Cuanto) tiempo durará la investigación y (dónde / donde) se publicarán los resultados?", "answers": ["Cuánto", "dónde"]},
+      {"text": "El director preguntó (si / sí) todos habían recibido el informe y (cuándo / cuando) podrían responder.", "answers": ["si", "cuándo"]},
+      {"text": "¿(Cuál / Qué) de las alternativas ofrece mejores garantías y (cuántas / cuántos) instituciones la respaldan?", "answers": ["Cuál", "cuántas"]},
+      {"text": "No recuerdo (dónde / donde) se celebró la reunión ni (quién / quien) presentó la propuesta.", "answers": ["dónde", "quién"]},
+      {"text": "La investigadora quiso averiguar (para qué / para que) se modificó el protocolo y (con qué / con que) criterios se evaluaron los resultados.", "answers": ["para qué", "con qué"]},
+      {"text": "¿(A quién / A quien) corresponde tomar la decisión y (de qué / de que) recursos dispone la institución?", "answers": ["A quién", "de qué"]},
+      {"text": "El informe no especifica (cuándo / cuando) comenzó el problema ni (hasta dónde / hasta donde) se extendieron sus efectos.", "answers": ["cuándo", "hasta dónde"]}
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Oraciones subordinadas y nexos",
+    "definition": "Las subordinadas desempeñan funciones dentro de una oración principal y pueden expresar causa, finalidad, condición, concesión, tiempo y consecuencia.",
+    "instruction": "Selecciona las formas y los nexos subordinantes adecuados.",
+    "questions": [
+      {"text": "Es imprescindible que las instituciones (adopten / adoptan) medidas antes de que la situación (se agrave / se agrava).", "answers": ["adopten", "se agrave"]},
+      {"text": "Aunque la propuesta (parece / parezca) viable, será necesario que los expertos (la examinen / la examinan).", "answers": ["parezca", "la examinen"]},
+      {"text": "El director aplazó la reunión para que todos (pudieran / podían) participar y (expusieran / exponían) sus argumentos.", "answers": ["pudieran", "expusieran"]},
+      {"text": "No se publicará el informe hasta que la comisión (haya verificado / ha verificado) los datos y (autorice / autoriza) su difusión.", "answers": ["haya verificado", "autorice"]},
+      {"text": "Si el gobierno (hubiera actuado / habría actuado) antes, las consecuencias (habrían sido / fueran) menos graves.", "answers": ["hubiera actuado", "habrían sido"]},
+      {"text": "El investigador presentó los resultados de manera que todos (pudieran comprender / pueden comprender) cómo (se realizó / se realizaba) el experimento.", "answers": ["pudieran comprender", "se realizó"]},
+      {"text": "Quienes (cumplan / cumplen) los requisitos podrán acceder al programa que (se anunciará / se anunciara) próximamente.", "answers": ["cumplan", "se anunciará"]},
+      {"text": "Por más que los responsables (intenten / intentan) justificar la decisión, no conseguirán que la población la (acepte / acepta).", "answers": ["intenten", "acepte"]},
+      {"text": "Una vez que se (hayan concluido / han concluido) las negociaciones, las partes (firmarán / firmaran) el acuerdo.", "answers": ["hayan concluido", "firmarán"]},
+      {"text": "El comité exigió que cada participante (presentara / presenta) sus credenciales y (acreditara / acredita) su experiencia.", "answers": ["presentara", "acreditara"]}
+    ]
+  },
+  {
+    "id": "044",
+    "titre": "Discurso, cohesión y coherencia",
+    "definition": "La cohesión y la coherencia permiten organizar las ideas de un texto y establecer relaciones comprensibles entre sus distintas partes.",
+    "instruction": "Selecciona los términos y expresiones que completan correctamente cada enunciado.",
+    "questions": [
+      {"text": "La (cohesión / contradicción) textual depende de los mecanismos de referencia y de la adecuada (conexión / separación) entre los enunciados.", "answers": ["cohesión", "conexión"]},
+      {"text": "La (progresión / regresión) temática permite introducir información nueva sin perder la (continuidad / discontinuidad) del discurso.", "answers": ["progresión", "continuidad"]},
+      {"text": "Un texto argumentativo requiere una (tesis / digresión) claramente formulada y una (justificación / improvisación) suficientemente fundamentada.", "answers": ["tesis", "justificación"]},
+      {"text": "Los conectores de (consecuencia / oposición) expresan resultados, mientras que los de (concesión / enumeración) introducen objeciones parciales.", "answers": ["consecuencia", "concesión"]},
+      {"text": "La (anáfora / catáfora) remite a un elemento mencionado anteriormente, mientras que la (catáfora / anáfora) anticipa una referencia posterior.", "answers": ["anáfora", "catáfora"]},
+      {"text": "La (ambigüedad / precisión) léxica puede dificultar la interpretación y reducir la (claridad / oscuridad) del mensaje.", "answers": ["ambigüedad", "claridad"]},
+      {"text": "La (modalización / nominalización) permite expresar la actitud del hablante y su grado de (certeza / neutralidad) ante el enunciado.", "answers": ["modalización", "certeza"]},
+      {"text": "La (paráfrasis / contradicción) reformula una idea, mientras que la (ejemplificación / generalización) aporta casos concretos para ilustrarla.", "answers": ["paráfrasis", "ejemplificación"]},
+      {"text": "La (intertextualidad / incomunicación) establece relaciones entre textos y amplía su (interpretación / fragmentación) contextual.", "answers": ["intertextualidad", "interpretación"]},
+      {"text": "La (unidad / dispersión) temática garantiza la coherencia global y evita la (digresión / cohesión) innecesaria.", "answers": ["unidad", "digresión"]}
+    ]
+  },
+  {
+    "id": "045",
+    "titre": "Formas verbales y concordancia",
+    "definition": "La concordancia verbal establece la correspondencia entre el sujeto y el verbo en persona y número. La selección del tiempo y del modo depende también del contexto discursivo.",
+    "instruction": "Selecciona las formas verbales correctas según la concordancia y el contexto.",
+    "questions": [
+      {"text": "La mayoría de los investigadores (considera / consideran) que las medidas (resultan / resulta) insuficientes.", "answers": ["considera", "resultan"]},
+      {"text": "Ni el director ni los representantes (aceptó / aceptaron) las condiciones que (establecía / establecían) el acuerdo.", "answers": ["aceptaron", "establecía"]},
+      {"text": "Cada una de las instituciones (debe / deben) presentar los documentos que (acrediten / acredita) su participación.", "answers": ["debe", "acrediten"]},
+      {"text": "Los resultados de la investigación (confirma / confirman) que la hipótesis inicial (era / eran) incorrecta.", "answers": ["confirman", "era"]},
+      {"text": "La serie de medidas (fueron / fue) aprobada y sus disposiciones (entraron / entró) en vigor.", "answers": ["fue", "entraron"]},
+      {"text": "Tanto la dirección como el consejo (deberá / deberán) justificar las decisiones que (adoptaron / adoptó).", "answers": ["deberán", "adoptaron"]},
+      {"text": "El conjunto de propuestas (fueron / fue) evaluado y varias de ellas (resultaron / resultó) inviables.", "answers": ["fue", "resultaron"]},
+      {"text": "Quienes (participa / participan) en el proyecto (deberá / deberán) respetar las normas establecidas.", "answers": ["participan", "deberán"]},
+      {"text": "La información y los documentos (fue / fueron) enviados a quienes (correspondía / correspondían) recibirlos.", "answers": ["fueron", "correspondía"]},
+      {"text": "Un grupo de especialistas (analizará / analizarán) los datos y (presentará / presentarán) sus conclusiones.", "answers": ["analizará", "presentará"]}
+    ]
+  },
+  {
+    "id": "046",
+    "titre": "Vocabulario jurídico y administrativo",
+    "definition": "El vocabulario jurídico y administrativo comprende términos específicos relacionados con las normas, las instituciones, los procedimientos y las responsabilidades legales.",
+    "instruction": "Selecciona los términos jurídicos y administrativos adecuados.",
+    "questions": [
+      {"text": "El tribunal declaró la (nulidad / legitimidad) del contrato debido a una grave (infracción / conformidad) normativa.", "answers": ["nulidad", "infracción"]},
+      {"text": "La administración inició un (procedimiento / privilegio) sancionador y notificó la (resolución / presunción) correspondiente.", "answers": ["procedimiento", "resolución"]},
+      {"text": "El acusado ejerció su derecho de (defensa / condena) y presentó un (recurso / mandato) contra la sentencia.", "answers": ["defensa", "recurso"]},
+      {"text": "La autoridad emitió una (disposición / contradicción) vinculante y estableció un plazo de (cumplimiento / incumplimiento).", "answers": ["disposición", "cumplimiento"]},
+      {"text": "La comisión examinó la (licitud / ilegalidad) de la operación y determinó su (responsabilidad / irresponsabilidad) administrativa.", "answers": ["licitud", "responsabilidad"]},
+      {"text": "El contrato establece una (cláusula / sentencia) de confidencialidad y prevé una (indemnización / absolución) por incumplimiento.", "answers": ["cláusula", "indemnización"]},
+      {"text": "La resolución fue objeto de (impugnación / ratificación) y posteriormente sometida a (revisión / ejecución) judicial.", "answers": ["impugnación", "revisión"]},
+      {"text": "El funcionario incurrió en un (conflicto / consenso) de intereses y vulneró el principio de (imparcialidad / parcialidad).", "answers": ["conflicto", "imparcialidad"]},
+      {"text": "La normativa establece un régimen de (responsabilidad / inmunidad) y determina las posibles (sanciones / concesiones).", "answers": ["responsabilidad", "sanciones"]},
+      {"text": "El organismo debe garantizar la (legalidad / arbitrariedad) de sus actuaciones y respetar el principio de (proporcionalidad / desproporción).", "answers": ["legalidad", "proporcionalidad"]}
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Vocabulario económico y financiero",
+    "definition": "El vocabulario económico y financiero permite describir procesos relacionados con los mercados, la inversión, la inflación, la productividad y la gestión del capital.",
+    "instruction": "Elige los términos económicos y financieros que mejor completan las frases.",
+    "questions": [
+      {"text": "La (inflación / deflación) redujo el poder adquisitivo y provocó una pérdida de (rentabilidad / liquidez) en determinados sectores.", "answers": ["inflación", "rentabilidad"]},
+      {"text": "La empresa necesita diversificar su (cartera / plantilla) y mejorar su (solvencia / insolvencia) financiera.", "answers": ["cartera", "solvencia"]},
+      {"text": "El banco central modificó los (tipos / títulos) de interés para controlar la (demanda / oferta) monetaria.", "answers": ["tipos", "demanda"]},
+      {"text": "La (devaluación / revalorización) de la moneda encareció las importaciones y agravó el (déficit / superávit) comercial.", "answers": ["devaluación", "déficit"]},
+      {"text": "El aumento de la (productividad / improductividad) favoreció la expansión de la (actividad / pasividad) económica.", "answers": ["productividad", "actividad"]},
+      {"text": "La empresa emitió (obligaciones / obligaciones fiscales) para obtener financiación y reducir su dependencia del (crédito / consumo) bancario.", "answers": ["obligaciones", "crédito"]},
+      {"text": "La (recesión / expansión) económica provocó una caída de la inversión y un incremento del (desempleo / empleo).", "answers": ["recesión", "desempleo"]},
+      {"text": "Los inversores buscan maximizar el (rendimiento / endeudamiento) y limitar la exposición al (riesgo / beneficio) financiero.", "answers": ["rendimiento", "riesgo"]},
+      {"text": "El Estado debe controlar el (gasto / ingreso) público y garantizar la sostenibilidad de la (deuda / riqueza) soberana.", "answers": ["gasto", "deuda"]},
+      {"text": "La (liquidez / iliquidez) empresarial permite afrontar obligaciones inmediatas y preservar la (estabilidad / volatilidad) financiera.", "answers": ["liquidez", "estabilidad"]}
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "Vocabulario científico y tecnológico",
+    "definition": "El vocabulario científico y tecnológico reúne conceptos relacionados con la investigación, la innovación, los datos, los sistemas digitales y los procesos experimentales.",
+    "instruction": "Selecciona los términos científicos y tecnológicos adecuados.",
+    "questions": [
+      {"text": "El algoritmo procesa grandes volúmenes de (datos / dispositivos) mediante técnicas de (aprendizaje / almacenamiento) automático.", "answers": ["datos", "aprendizaje"]},
+      {"text": "La investigación requiere una (metodología / intuición) rigurosa y una adecuada (validación / especulación) experimental.", "answers": ["metodología", "validación"]},
+      {"text": "La (biotecnología / biografía) permite desarrollar nuevas aplicaciones mediante la manipulación de (organismos / organizaciones) vivos.", "answers": ["biotecnología", "organismos"]},
+      {"text": "La (ciberseguridad / cibercultura) protege los sistemas frente a posibles (intrusiones / instrucciones) informáticas.", "answers": ["ciberseguridad", "intrusiones"]},
+      {"text": "La (automatización / atomización) industrial mejora la eficiencia y reduce los errores de (producción / reproducción).", "answers": ["automatización", "producción"]},
+      {"text": "El investigador formuló una (hipótesis / conclusión) y diseñó un experimento para (refutar / reproducir) sus predicciones.", "answers": ["hipótesis", "refutar"]},
+      {"text": "La (interoperabilidad / incompatibilidad) permite que distintos sistemas intercambien información de manera (eficiente / arbitraria).", "answers": ["interoperabilidad", "eficiente"]},
+      {"text": "El análisis (estadístico / estético) permitió identificar patrones y establecer relaciones de (causalidad / casualidad).", "answers": ["estadístico", "causalidad"]},
+      {"text": "La (computación / comunicación) cuántica utiliza principios de la mecánica cuántica para procesar (información / documentación).", "answers": ["computación", "información"]},
+      {"text": "La (digitalización / desintegración) de los archivos facilita su conservación y mejora la (trazabilidad / invisibilidad) de los documentos.", "answers": ["digitalización", "trazabilidad"]}
+    ]
+  },
+  {
+    "id": "049",
+    "titre": "Vocabulario sociopolítico y cultural",
+    "definition": "El vocabulario sociopolítico y cultural permite analizar las relaciones de poder, la participación ciudadana, la diversidad, las instituciones y las transformaciones sociales.",
+    "instruction": "Selecciona las palabras y expresiones que corresponden al contexto sociopolítico.",
+    "questions": [
+      {"text": "La (participación / marginación) ciudadana fortalece la (legitimidad / fragilidad) de las instituciones democráticas.", "answers": ["participación", "legitimidad"]},
+      {"text": "La (polarización / integración) ideológica puede dificultar el (consenso / aislamiento) parlamentario.", "answers": ["polarización", "consenso"]},
+      {"text": "La (pluralidad / uniformidad) cultural exige políticas de (reconocimiento / exclusión) de las minorías.", "answers": ["pluralidad", "reconocimiento"]},
+      {"text": "La (desigualdad / homogeneidad) estructural limita la (movilidad / inmovilidad) social de los sectores desfavorecidos.", "answers": ["desigualdad", "movilidad"]},
+      {"text": "La (gobernanza / gobernabilidad) democrática requiere transparencia y (rendición / ocultación) de cuentas.", "answers": ["gobernanza", "rendición"]},
+      {"text": "La (segregación / integración) territorial puede reforzar la (exclusión / inclusión) de determinados grupos sociales.", "answers": ["segregación", "exclusión"]},
+      {"text": "La (descentralización / concentración) del poder favorece una mayor (autonomía / dependencia) de las administraciones locales.", "answers": ["descentralización", "autonomía"]},
+      {"text": "La (cohesión / fragmentación) social depende de la confianza mutua y de la (solidaridad / rivalidad) entre los ciudadanos.", "answers": ["cohesión", "solidaridad"]},
+      {"text": "La (secularización / sacralización) de las instituciones transforma las relaciones entre el Estado y las (confesiones / profesiones) religiosas.", "answers": ["secularización", "confesiones"]},
+      {"text": "La (movilización / desmovilización) colectiva puede impulsar procesos de (transformación / inmovilismo) política.", "answers": ["movilización", "transformación"]}
+    ]
+  },
+  {
+    "id": "050",
+    "titre": "Dominio léxico avanzado y precisión expresiva",
+    "definition": "El dominio léxico avanzado implica seleccionar palabras precisas, reconocer matices semánticos y utilizar estructuras gramaticales complejas de manera coherente y natural.",
+    "instruction": "Completa las frases seleccionando las palabras más precisas entre las opciones propuestas.",
+    "questions": [
+      {"text": "El investigador decidió (desentrañar / simplificar) los mecanismos del fenómeno y (corroborar / desmentir) las hipótesis mediante pruebas independientes.", "answers": ["desentrañar", "corroborar"]},
+      {"text": "La propuesta pretende (conciliar / contraponer) intereses divergentes y (propiciar / obstaculizar) un entendimiento duradero.", "answers": ["conciliar", "propiciar"]},
+      {"text": "La comisión consideró (inviable / ineludible) la medida y decidió (posponer / precipitar) su aplicación.", "answers": ["inviable", "posponer"]},
+      {"text": "El discurso contenía afirmaciones (falaces / fidedignas) y razonamientos (engañosos / concluyentes) que distorsionaban la realidad.", "answers": ["falaces", "engañosos"]},
+      {"text": "La organización debe (subsanar / perpetuar) las deficiencias y (afianzar / socavar) la confianza de sus colaboradores.", "answers": ["subsanar", "afianzar"]},
+      {"text": "El acuerdo constituye un compromiso (vinculante / superfluo) y establece obligaciones (recíprocas / unilaterales) para las partes.", "answers": ["vinculante", "recíprocas"]},
+      {"text": "La investigación permitió (vislumbrar / descartar) nuevas perspectivas y (dilucidar / encubrir) aspectos hasta entonces desconocidos.", "answers": ["vislumbrar", "dilucidar"]},
+      {"text": "El responsable intentó (eludir / afrontar) sus obligaciones y (tergiversar / esclarecer) los hechos ante la comisión.", "answers": ["eludir", "tergiversar"]},
+      {"text": "La reforma busca (paliar / exacerbar) las consecuencias de la crisis y (revertir / perpetuar) las tendencias negativas.", "answers": ["paliar", "revertir"]},
+      {"text": "El análisis exige (discernir / confundir) los hechos de las opiniones y (ponderar / desdeñar) las evidencias disponibles.", "answers": ["discernir", "ponderar"]}
+    ]
   }
 ]
