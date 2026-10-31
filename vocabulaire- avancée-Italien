@@ -430,5 +430,473 @@
       {"text": "La {{1}} del sistema e la sua {{2}} richiedono investimenti considerevoli.", "answers": ["riorganizzazione", "ristrutturazione"]},
       {"text": "La {{1}} delle decisioni e la loro {{2}} sono condizioni essenziali per rafforzare la fiducia dei cittadini.", "answers": ["trasparenza", "giustificazione"]}
     ]
+  },
+  {
+    "id": "025",
+    "titre": "Aggettivi e precisione lessicale",
+    "definition": "L'uso degli aggettivi specifici permette di descrivere situazioni complesse, formulare valutazioni e distinguere sfumature di significato.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "La relazione presenta un'analisi (superficiale / approfondita) e conclusioni particolarmente (coerenti / contraddittorie).", "answers": ["approfondita", "coerenti"]},
+      {"text": "Il comportamento del dirigente è apparso (ambiguo / trasparente) e poco (professionale / professionista).", "answers": ["ambiguo", "professionale"]},
+      {"text": "La riforma introduce misure (innovative / obsolete), ma alcune disposizioni risultano ancora (incomplete / completate).", "answers": ["innovative", "incomplete"]},
+      {"text": "Una valutazione (imparziale / arbitraria) richiede criteri (oggettivi / soggettivi).", "answers": ["imparziale", "oggettivi"]},
+      {"text": "Le condizioni economiche sono diventate (precarie / stabili), rendendo necessario un intervento (urgente / superfluo).", "answers": ["precarie", "urgente"]},
+      {"text": "La soluzione proposta sembra (plausibile / improbabile), ma non è ancora sufficientemente (documentata / documentale).", "answers": ["plausibile", "documentata"]},
+      {"text": "Il ricercatore ha adottato un metodo (sistematico / casuale) e un approccio particolarmente (rigoroso / approssimativo).", "answers": ["sistematico", "rigoroso"]},
+      {"text": "La distribuzione delle risorse deve essere (equa / diseguale) e (proporzionata / sproporzionata) alle necessità.", "answers": ["equa", "proporzionata"]},
+      {"text": "Le conseguenze della decisione sono ancora (incerte / prevedibili), nonostante le analisi (dettagliate / dettaglianti).", "answers": ["incerte", "dettagliate"]},
+      {"text": "Il documento contiene informazioni (pertinenti / irrilevanti), ma alcune formulazioni sono troppo (generiche / specifiche).", "answers": ["pertinenti", "generiche"]}
+    ]
+  },
+  {
+    "id": "026",
+    "titre": "Verbi e reggenze verbali",
+    "definition": "La scelta del verbo e il rispetto della sua reggenza sono fondamentali per costruire frasi corrette e precise.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Il direttore ha (rinunciato / rinunciato a) partecipare alla riunione e ha preferito (delegare / delegato) il proprio incarico.", "answers": ["rinunciato a", "delegare"]},
+      {"text": "Le autorità intendono (promuovere / promuovendo) nuove misure per (contrastare / contrastando) la criminalità.", "answers": ["promuovere", "contrastare"]},
+      {"text": "Il ricercatore è riuscito a (individuare / individuando) le cause del fenomeno e a (dimostrare / dimostrando) la propria ipotesi.", "answers": ["individuare", "dimostrare"]},
+      {"text": "La commissione ha (deliberato / deliberato di) sospendere il procedimento e ha chiesto alle parti di (fornire / fornito) ulteriori chiarimenti.", "answers": ["deliberato di", "fornire"]},
+      {"text": "Nonostante le difficoltà, il gruppo ha continuato a (perseguire / perseguito) gli obiettivi e a (sviluppare / sviluppato) nuove strategie.", "answers": ["perseguire", "sviluppare"]},
+      {"text": "Il responsabile ha (ammesso / ammesso di) aver commesso un errore e si è impegnato a (correggerlo / correggendolo).", "answers": ["ammesso", "correggerlo"]},
+      {"text": "Le organizzazioni devono (cooperare / cooperando) tra loro per (garantire / garantendo) risultati duraturi.", "answers": ["cooperare", "garantire"]},
+      {"text": "Il candidato ha (dimostrato / dimostrato di) possedere competenze adeguate e di (saper / sapendo) gestire situazioni complesse.", "answers": ["dimostrato di", "saper"]},
+      {"text": "L'azienda ha deciso di (investire / investito) nella ricerca e di (ampliare / ampliato) la propria rete commerciale.", "answers": ["investire", "ampliare"]},
+      {"text": "Gli esperti raccomandano di (adottare / adottato) misure preventive e di (monitorare / monitorando) costantemente i risultati.", "answers": ["adottare", "monitorare"]}
+    ]
+  },
+  {
+    "id": "027",
+    "titre": "Sostantivi e collocazioni",
+    "definition": "Le collocazioni nominali rappresentano combinazioni abituali di parole. La loro conoscenza consente di utilizzare il lessico italiano in modo naturale e preciso.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "La (formulazione / formulazione di) una strategia efficace richiede un'attenta (valutazione / valutazione di) dei rischi.", "answers": ["formulazione", "valutazione"]},
+      {"text": "La (tutela / tutela di) dei diritti fondamentali costituisce una (priorità / priorità a) per le istituzioni.", "answers": ["tutela", "priorità"]},
+      {"text": "La (gestione / gestazione) delle risorse e la (pianificazione / pianificazione a) degli investimenti richiedono competenze specifiche.", "answers": ["gestione", "pianificazione"]},
+      {"text": "La (convergenza / divergenza) degli interessi e la (mediazione / mediazione di) tra le parti favoriscono il raggiungimento di un accordo.", "answers": ["convergenza", "mediazione"]},
+      {"text": "La (diffusione / diffusione di) delle informazioni e la (protezione / protezione a) dei dati personali sono questioni fondamentali.", "answers": ["diffusione", "protezione"]},
+      {"text": "La (riduzione / riduzione di) delle disuguaglianze e la (promozione / promozione a) dell'inclusione sociale richiedono interventi coordinati.", "answers": ["riduzione", "promozione"]},
+      {"text": "La (valorizzazione / valorizzazione di) del patrimonio culturale favorisce lo (sviluppo / sviluppo a) del territorio.", "answers": ["valorizzazione", "sviluppo"]},
+      {"text": "La (prevenzione / prevenzione di) dei conflitti e la (risoluzione / risoluzione a) delle controversie richiedono un dialogo costante.", "answers": ["prevenzione", "risoluzione"]},
+      {"text": "La (trasparenza / trasparenza di) amministrativa rafforza la (credibilità / credibilità a) delle istituzioni pubbliche.", "answers": ["trasparenza", "credibilità"]},
+      {"text": "La (riqualificazione / qualificazione) professionale e l'(aggiornamento / aggiornamento di) delle competenze favoriscono l'occupabilità.", "answers": ["riqualificazione", "aggiornamento"]}
+    ]
+  },
+  {
+    "id": "028",
+    "titre": "Avverbi e locuzioni avverbiali",
+    "definition": "Gli avverbi e le locuzioni avverbiali precisano le modalità, l'intensità e le circostanze di un'azione o di un'affermazione.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "La questione è stata affrontata (superficialmente / approfonditamente), ma non è stata ancora risolta (definitivamente / temporaneamente).", "answers": ["approfonditamente", "definitivamente"]},
+      {"text": "Il fenomeno si è diffuso (gradualmente / improvvisamente) e si è manifestato (soprattutto / raramente) nelle grandi città.", "answers": ["gradualmente", "soprattutto"]},
+      {"text": "Le autorità hanno reagito (tempestivamente / tardivamente) e hanno comunicato le decisioni (ufficialmente / casualmente).", "answers": ["tempestivamente", "ufficialmente"]},
+      {"text": "Il candidato ha risposto (pertinentemente / evasivamente) alle domande e ha argomentato (coerentemente / confusamente) le proprie posizioni.", "answers": ["pertinentemente", "coerentemente"]},
+      {"text": "Le informazioni devono essere verificate (accuratamente / approssimativamente) prima di essere diffuse (pubblicamente / privatamente).", "answers": ["accuratamente", "pubblicamente"]},
+      {"text": "La situazione è (notevolmente / minimamente) migliorata, sebbene permangano problemi (strutturalmente / strutturalmente) rilevanti.", "answers": ["notevolmente", "strutturalmente"]},
+      {"text": "Il progetto è stato realizzato (congiuntamente / individualmente) e finanziato (parzialmente / completamente) da enti pubblici.", "answers": ["congiuntamente", "parzialmente"]},
+      {"text": "Il responsabile ha agito (consapevolmente / involontariamente) e ha assunto (integralmente / parzialmente) le proprie responsabilità.", "answers": ["consapevolmente", "integralmente"]},
+      {"text": "Le risorse sono state distribuite (equamente / arbitrariamente), tenendo conto delle necessità (effettivamente / apparentemente) documentate.", "answers": ["equamente", "effettivamente"]},
+      {"text": "Il problema è stato (ampiamente / scarsamente) discusso, ma rimane (sostanzialmente / formalmente) irrisolto.", "answers": ["ampiamente", "sostanzialmente"]}
+    ]
+  },
+  {
+    "id": "029",
+    "titre": "Preposizioni e locuzioni prepositive",
+    "definition": "Le preposizioni e le locuzioni prepositive esprimono relazioni sintattiche e semantiche tra gli elementi della frase.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Il provvedimento è stato adottato (in seguito a / nonostante) un'attenta analisi e (in conformità con / a causa di) le disposizioni vigenti.", "answers": ["in seguito a", "in conformità con"]},
+      {"text": "L'azienda ha agito (in virtù di / al di fuori di) un'autorizzazione ufficiale e (in linea con / contrariamente a) gli accordi stipulati.", "answers": ["in virtù di", "in linea con"]},
+      {"text": "La decisione è stata presa (alla luce di / a prescindere da) nuove informazioni e (in assenza di / grazie a) ulteriori verifiche.", "answers": ["alla luce di", "in assenza di"]},
+      {"text": "Il progetto è stato realizzato (grazie a / a dispetto di) una collaborazione internazionale e (con il sostegno di / in contrasto con) diverse istituzioni.", "answers": ["grazie a", "con il sostegno di"]},
+      {"text": "Il responsabile ha agito (a nome di / a causa di) tutta l'organizzazione e (in rappresentanza di / in opposizione a) il consiglio direttivo.", "answers": ["a nome di", "in rappresentanza di"]},
+      {"text": "La questione deve essere esaminata (in relazione a / indipendentemente da) le sue conseguenze e (tenendo conto di / facendo a meno di) tutti i fattori coinvolti.", "answers": ["in relazione a", "tenendo conto di"]},
+      {"text": "L'intervento è stato sospeso (a seguito di / in previsione di) alcune irregolarità e (fino a / attraverso) ulteriori accertamenti.", "answers": ["a seguito di", "fino a"]},
+      {"text": "Il programma è stato elaborato (d'intesa con / in conflitto con) gli enti locali e (sulla base di / a dispetto di) dati verificabili.", "answers": ["d'intesa con", "sulla base di"]},
+      {"text": "La nuova misura sarà applicata (a partire da / in assenza di) gennaio e resterà in vigore (fino a / al di fuori di) nuove disposizioni.", "answers": ["a partire da", "fino a"]},
+      {"text": "L'indagine è stata condotta (per conto di / in opposizione a) un organismo indipendente e (con riferimento a / a causa di) una specifica richiesta istituzionale.", "answers": ["per conto di", "con riferimento a"]}
+    ]
+  },
+  {
+    "id": "030",
+    "titre": "Sinonimi e sfumature di significato",
+    "definition": "La scelta di sinonimi appropriati permette di evitare ripetizioni e di adattare il lessico al registro e al contesto comunicativo.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Il documento intende (illustrare / occultare) le criticità e (prospettare / escludere) possibili soluzioni.", "answers": ["illustrare", "prospettare"]},
+      {"text": "Le autorità hanno deciso di (intensificare / attenuare) i controlli e di (sanzionare / assolvere) le violazioni accertate.", "answers": ["intensificare", "sanzionare"]},
+      {"text": "Il ricercatore ha cercato di (confutare / confermare) l'ipotesi iniziale attraverso dati (empirici / immaginari).", "answers": ["confutare", "empirici"]},
+      {"text": "La commissione ha preferito (rinviare / anticipare) la decisione per (approfondire / trascurare) alcuni aspetti controversi.", "answers": ["rinviare", "approfondire"]},
+      {"text": "Il portavoce ha cercato di (placare / alimentare) le tensioni e di (ristabilire / compromettere) il dialogo.", "answers": ["placare", "ristabilire"]},
+      {"text": "L'azienda intende (consolidare / indebolire) la propria posizione e (ampliare / restringere) la rete commerciale.", "answers": ["consolidare", "ampliare"]},
+      {"text": "Il rapporto permette di (desumere / smentire) alcune tendenze e di (individuare / occultare) le principali criticità.", "answers": ["desumere", "individuare"]},
+      {"text": "Il direttore ha deciso di (revocare / confermare) l'autorizzazione e di (sospendere / prolungare) temporaneamente l'attività.", "answers": ["revocare", "sospendere"]},
+      {"text": "La nuova strategia mira a (ottimizzare / disperdere) le risorse e a (razionalizzare / complicare) i processi produttivi.", "answers": ["ottimizzare", "razionalizzare"]},
+      {"text": "Gli esperti hanno (rilevato / ignorato) un'anomalia e hanno deciso di (indagare / archiviare) ulteriormente il fenomeno.", "answers": ["rilevato", "indagare"]}
+    ]
+  },
+  {
+    "id": "031",
+    "titre": "Congiunzioni e rapporti logici",
+    "definition": "Le congiunzioni stabiliscono rapporti di causa, concessione, condizione, conseguenza e finalità tra le proposizioni.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "(Benché / Poiché) le risorse siano limitate, il progetto proseguirà, (purché / affinché) vengano rispettate le priorità.", "answers": ["Benché", "purché"]},
+      {"text": "Il rapporto sarà pubblicato (dopo che / prima che) la commissione avrà concluso le verifiche, (a condizione che / nonostante) non emergano nuove irregolarità.", "answers": ["dopo che", "a condizione che"]},
+      {"text": "(Sebbene / Siccome) le previsioni fossero positive, i risultati sono stati inferiori alle attese, (mentre / perché) alcuni investimenti sono stati rinviati.", "answers": ["Sebbene", "perché"]},
+      {"text": "Occorre intervenire immediatamente (affinché / sebbene) la situazione non peggiori e (prima che / dopo che) le conseguenze diventino irreversibili.", "answers": ["affinché", "prima che"]},
+      {"text": "(Qualora / Poiché) le condizioni economiche migliorassero, l'azienda potrebbe assumere nuovo personale, (sempre che / benché) la domanda aumenti.", "answers": ["Qualora", "sempre che"]},
+      {"text": "Il direttore ha sospeso la procedura (dato che / sebbene) mancavano alcuni documenti, (finché / affinché) non fossero completate le verifiche.", "answers": ["dato che", "finché"]},
+      {"text": "Il progetto è stato approvato (nonostante / poiché) alcune riserve, (in quanto / affinché) rispondeva alle esigenze del territorio.", "answers": ["nonostante", "in quanto"]},
+      {"text": "(A meno che / Dal momento che) non vengano presentate nuove prove, l'indagine resterà chiusa, (anche se / affinché) alcuni testimoni chiedano ulteriori chiarimenti.", "answers": ["A meno che", "anche se"]},
+      {"text": "La commissione ha modificato il regolamento (in modo che / sebbene) tutti potessero partecipare e (senza che / poiché) fossero penalizzati i candidati più giovani.", "answers": ["in modo che", "senza che"]},
+      {"text": "Il responsabile ha accettato la proposta, (a patto che / benché) fossero introdotte alcune modifiche e (purché / nonostante) i costi rimanessero sostenibili.", "answers": ["a patto che", "purché"]}
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Pronomi e riferimenti testuali",
+    "definition": "I pronomi personali, relativi, dimostrativi e indefiniti permettono di collegare le informazioni e di evitare ripetizioni nel discorso.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "La direttrice ha convocato i collaboratori e (gli / le) ha comunicato le nuove disposizioni, chiedendo (loro / li) di rispettarle.", "answers": ["gli", "loro"]},
+      {"text": "Le informazioni (che / cui) abbiamo ricevuto sono quelle (di cui / che) avevamo bisogno.", "answers": ["che", "di cui"]},
+      {"text": "Il progetto, (il quale / che) è stato approvato ieri, sarà presentato a coloro (che / cui) ne hanno richiesto una copia.", "answers": ["il quale", "che"]},
+      {"text": "Ho esaminato le proposte e (ne / ci) ho selezionate tre, perché (le / gli) ritengo particolarmente valide.", "answers": ["ne", "le"]},
+      {"text": "Non conosco i nuovi consulenti, ma (li / gli) incontrerò domani e parlerò (con loro / con li) del progetto.", "answers": ["li", "con loro"]},
+      {"text": "La questione (di cui / che) discutiamo è complessa e non tutti (la / ne) comprendono le implicazioni.", "answers": ["di cui", "ne"]},
+      {"text": "Chiunque (desideri / desidera) partecipare dovrà presentare la domanda, senza che (gli / lo) venga richiesto un contributo.", "answers": ["desideri", "gli"]},
+      {"text": "I documenti (che / cui) mi hai consegnato sono quelli (dei quali / che) avevamo parlato.", "answers": ["che", "dei quali"]},
+      {"text": "La commissione ha ascoltato entrambe le parti e ha chiesto (a ciascuna / ciascuna) di presentare (la propria / sua) documentazione.", "answers": ["a ciascuna", "la propria"]},
+      {"text": "Il responsabile ha spiegato la procedura ai candidati e (gliela / le) ha illustrata nuovamente affinché (la / ne) comprendessero tutti i passaggi.", "answers": ["gliela", "la"]}
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Antonimi e opposizioni semantiche",
+    "definition": "Gli antonimi permettono di esprimere opposizioni e contrasti, contribuendo alla precisione del linguaggio e alla costruzione di argomentazioni.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Una decisione (reversibile / irreversibile) può essere modificata, mentre una decisione (definitiva / provvisoria) non ammette ulteriori revisioni.", "answers": ["reversibile", "definitiva"]},
+      {"text": "Un sistema (centralizzato / decentralizzato) concentra il potere, mentre un sistema (decentrato / accentrato) distribuisce le competenze.", "answers": ["centralizzato", "decentrato"]},
+      {"text": "Una politica (inclusiva / esclusiva) favorisce la partecipazione, mentre una politica (discriminatoria / integrativa) può generare marginalizzazione.", "answers": ["inclusiva", "discriminatoria"]},
+      {"text": "Un comportamento (collaborativo / ostile) favorisce il dialogo, mentre un atteggiamento (conciliante / conflittuale) alimenta le tensioni.", "answers": ["collaborativo", "conflittuale"]},
+      {"text": "Un'economia (florida / stagnante) presenta una crescita significativa, mentre un'economia (dinamica / recessiva) attraversa una fase di contrazione.", "answers": ["florida", "recessiva"]},
+      {"text": "Una fonte (attendibile / inattendibile) fornisce informazioni credibili, mentre una testimonianza (veritiera / mendace) può risultare ingannevole.", "answers": ["attendibile", "mendace"]},
+      {"text": "Una procedura (trasparente / opaca) rende visibili i criteri, mentre una gestione (chiara / ambigua) può generare incertezza.", "answers": ["trasparente", "ambigua"]},
+      {"text": "Un accordo (vincolante / facoltativo) impone obblighi, mentre un impegno (obbligatorio / volontario) dipende dalla libera scelta.", "answers": ["vincolante", "volontario"]},
+      {"text": "Una posizione (moderata / estremista) evita gli eccessi, mentre un atteggiamento (equilibrato / radicale) può mettere in discussione ogni compromesso.", "answers": ["moderata", "radicale"]},
+      {"text": "Un fenomeno (temporaneo / permanente) ha una durata limitata, mentre un cambiamento (transitorio / duraturo) produce effetti nel lungo periodo.", "answers": ["temporaneo", "duraturo"]}
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "Paronimi e precisione terminologica",
+    "definition": "I paronimi sono parole dalla forma simile ma dal significato diverso. Distinguerli consente di evitare errori lessicali e concettuali.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Il consulente ha elaborato un'accurata (analisi / analogia) del mercato e ha individuato una possibile (strategia / stereotipia) commerciale.", "answers": ["analisi", "strategia"]},
+      {"text": "La commissione ha espresso un (parere / parametro) favorevole e ha definito i (criteri / crateri) di valutazione.", "answers": ["parere", "criteri"]},
+      {"text": "Il documento contiene una (descrizione / prescrizione) dettagliata dei fatti e una (valutazione / variazione) delle conseguenze.", "answers": ["descrizione", "valutazione"]},
+      {"text": "La (congiuntura / congiunzione) economica attuale richiede una politica fiscale (prudente / prudenziale) e ben calibrata.", "answers": ["congiuntura", "prudente"]},
+      {"text": "L'azienda ha registrato un (incremento / incitamento) della produzione e una maggiore (efficienza / efficacia) organizzativa.", "answers": ["incremento", "efficienza"]},
+      {"text": "Il ricercatore ha distinto la (causalità / casualità) dalla semplice (correlazione / correlazione causale) tra le variabili.", "answers": ["causalità", "correlazione"]},
+      {"text": "La nuova normativa ha un carattere (prescrittivo / descrittivo) e stabilisce un preciso (obbligo / obiettivo) per gli enti coinvolti.", "answers": ["prescrittivo", "obbligo"]},
+      {"text": "Il candidato ha dimostrato una buona (attitudine / altitudine) al lavoro di gruppo e una notevole (propensione / proporzione) all'apprendimento.", "answers": ["attitudine", "propensione"]},
+      {"text": "Il responsabile ha chiarito la (distinzione / destinazione) tra i due procedimenti e ha illustrato la loro (funzione / finzione) specifica.", "answers": ["distinzione", "funzione"]},
+      {"text": "La relazione evidenzia una (discrepanza / discrezione) tra le previsioni e i risultati, richiedendo un'ulteriore (verifica / verità) dei dati.", "answers": ["discrepanza", "verifica"]}
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "Prefissi, suffissi e formazione delle parole",
+    "definition": "I processi di derivazione e composizione permettono di creare nuove parole e di modificare il significato delle basi lessicali.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "La (riorganizzazione / disorganizzazione) degli uffici ha migliorato la (funzionalità / disfunzionalità) del servizio.", "answers": ["riorganizzazione", "funzionalità"]},
+      {"text": "La diffusione di notizie (infondate / fondate) può provocare una grave (disinformazione / informazione) pubblica.", "answers": ["infondate", "disinformazione"]},
+      {"text": "La (digitalizzazione / digitalità) dei documenti ha favorito una maggiore (accessibilità / inaccessibilità) delle informazioni.", "answers": ["digitalizzazione", "accessibilità"]},
+      {"text": "La (riqualificazione / squalificazione) del personale e la sua (specializzazione / specialità) sono fondamentali per l'innovazione.", "answers": ["riqualificazione", "specializzazione"]},
+      {"text": "Un comportamento (irresponsabile / responsabile) può compromettere la (stabilità / instabilità) dell'intero gruppo.", "answers": ["irresponsabile", "stabilità"]},
+      {"text": "La (modernizzazione / modernità) delle infrastrutture e la loro (manutenzione / manutenibilità) richiedono investimenti costanti.", "answers": ["modernizzazione", "manutenzione"]},
+      {"text": "La (sovrapposizione / opposizione) delle competenze può generare (inefficienza / efficienza) amministrativa.", "answers": ["sovrapposizione", "inefficienza"]},
+      {"text": "La (semplificazione / complicazione) delle procedure favorisce la (trasparenza / opacità) dei processi decisionali.", "answers": ["semplificazione", "trasparenza"]},
+      {"text": "L'(internazionalizzazione / nazionalizzazione) delle imprese favorisce la loro (competitività / incompatibilità) sui mercati esteri.", "answers": ["internazionalizzazione", "competitività"]},
+      {"text": "La (sensibilizzazione / insensibilità) dei cittadini e la loro (responsabilizzazione / irresponsabilità) sono essenziali per la tutela ambientale.", "answers": ["sensibilizzazione", "responsabilizzazione"]}
+    ]
+  },
+  {
+    "id": "036",
+    "titre": "Negazione e quantificatori",
+    "definition": "Le forme negative e i quantificatori indefiniti permettono di esprimere assenza, esclusione, limitazione e quantità in modo preciso.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Non è stata individuata (alcuna / qualche) irregolarità, né è emersa (nessuna / ogni) prova di manipolazione.", "answers": ["alcuna", "nessuna"]},
+      {"text": "Nessuno dei candidati (ha / hanno) presentato una documentazione completa e nessuno (è / sono) stato ammesso automaticamente.", "answers": ["ha", "è"]},
+      {"text": "Non abbiamo ricevuto (nessuna / tutte le) comunicazione ufficiale e non conosciamo (alcun / qualche) dettaglio della decisione.", "answers": ["nessuna", "alcun"]},
+      {"text": "Non tutti i partecipanti (condividono / condivida) la proposta, ma nessuno (ha / abbiano) contestato apertamente il procedimento.", "answers": ["condividono", "ha"]},
+      {"text": "La commissione non ha trovato (nessuna / alcune) soluzione praticabile e non ha formulato (alcuna / ogni) raccomandazione definitiva.", "answers": ["nessuna", "alcuna"]},
+      {"text": "Non c'è (alcun / qualche) motivo per sospendere l'indagine e non esiste (nessuna / ogni) prova conclusiva.", "answers": ["alcun", "nessuna"]},
+      {"text": "Né il direttore né i collaboratori (hanno / ha) ricevuto informazioni, e nessuno (sa / sanno) quando arriveranno.", "answers": ["hanno", "sa"]},
+      {"text": "Non appena (nessuno / qualcuno) avrà verificato i documenti, la procedura potrà proseguire, senza che (alcun / ogni) dato venga omesso.", "answers": ["qualcuno", "alcun"]},
+      {"text": "Non è stato possibile consultare (nessun / ogni) archivio, né ottenere (alcuna / qualche) autorizzazione.", "answers": ["nessun", "alcuna"]},
+      {"text": "Non vi è (nessuna / qualche) certezza sull'esito, né (alcun / ogni) elemento consente di prevederlo con precisione.", "answers": ["nessuna", "alcun"]}
+    ]
+  },
+  {
+    "id": "037",
+    "titre": "Connettivi logici e argomentazione",
+    "definition": "I connettivi logici organizzano le argomentazioni, collegando premesse, obiezioni, conseguenze ed esempi.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "I risultati sono promettenti; (tuttavia / pertanto), occorre verificare la loro attendibilità. (Di conseguenza / In precedenza), saranno condotte ulteriori analisi.", "answers": ["tuttavia", "Di conseguenza"]},
+      {"text": "La misura ha ridotto i costi; (inoltre / al contrario), ha migliorato la qualità del servizio. (Pertanto / Ciononostante), sarà mantenuta.", "answers": ["inoltre", "Pertanto"]},
+      {"text": "La proposta appare convincente; (nondimeno / infatti), presenta alcune criticità. (Per questo motivo / In particolare), dovrà essere modificata.", "answers": ["nondimeno", "Per questo motivo"]},
+      {"text": "I dati sono incompleti; (di conseguenza / analogamente), non consentono conclusioni definitive. (Inoltre / Tuttavia), sarà necessario ampliare il campione.", "answers": ["di conseguenza", "Inoltre"]},
+      {"text": "La riforma è stata accolta favorevolmente; (ciononostante / infatti), alcuni settori ne contestano l'applicazione. (Al contrario / Pertanto), il dibattito rimane aperto.", "answers": ["ciononostante", "Pertanto"]},
+      {"text": "La ricerca ha confermato l'ipotesi; (in effetti / invece), i risultati coincidono con le previsioni. (Di conseguenza / Nonostante), il modello è stato convalidato.", "answers": ["in effetti", "Di conseguenza"]},
+      {"text": "Il problema ha origini strutturali; (perciò / benché), non può essere risolto con misure temporanee. (In altri termini / Altrimenti), occorre una strategia di lungo periodo.", "answers": ["perciò", "In altri termini"]},
+      {"text": "L'investimento è economicamente sostenibile; (per di più / altrimenti), produce vantaggi ambientali. (Nel complesso / Invece), rappresenta un'opportunità significativa.", "answers": ["per di più", "Nel complesso"]},
+      {"text": "La prima soluzione è meno costosa; (d'altra parte / per esempio), comporta rischi maggiori. (In definitiva / Inizialmente), la scelta dipenderà dalle priorità.", "answers": ["d'altra parte", "In definitiva"]},
+      {"text": "Le testimonianze sono coerenti; (allo stesso tempo / altrimenti), i documenti confermano la ricostruzione. (Pertanto / Ciononostante), l'ipotesi appare fondata.", "answers": ["allo stesso tempo", "Pertanto"]}
+    ]
+  },
+  {
+    "id": "038",
+    "titre": "Ordine delle parole e costruzioni sintattiche",
+    "definition": "L'ordine delle parole contribuisce alla chiarezza, alla coesione e alla messa in rilievo delle informazioni nella frase italiana.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Solo dopo aver esaminato tutte le prove, la commissione (ha formulato / formulava) una decisione che nessuno (si aspettava / aspettava).", "answers": ["ha formulato", "si aspettava"]},
+      {"text": "È proprio in questo contesto che (emergono / emerge) le contraddizioni che il rapporto (aveva evidenziato / evidenziava ieri).", "answers": ["emergono", "aveva evidenziato"]},
+      {"text": "A rendere complessa la situazione (sono / è) le numerose variabili che nessuno (aveva considerato / aveva considerata).", "answers": ["sono", "aveva considerato"]},
+      {"text": "Non è la quantità dei dati a determinare il risultato, bensì il modo in cui essi (vengono interpretati / interpreta) e (contestualizzati / contestualizza).", "answers": ["vengono interpretati", "contestualizzati"]},
+      {"text": "Soltanto coloro che (possiedono / possiede) competenze specifiche (potranno / potrà) partecipare alla selezione.", "answers": ["possiedono", "potranno"]},
+      {"text": "Quello che inizialmente (sembrava / sembravano) un ostacolo si è rivelato uno stimolo che (ha favorito / hanno favorito) l'innovazione.", "answers": ["sembrava", "ha favorito"]},
+      {"text": "Le informazioni che il consulente (ha trasmesso / hanno trasmesso) ieri saranno esaminate da chi (coordina / coordinano) il progetto.", "answers": ["ha trasmesso", "coordina"]},
+      {"text": "Non appena (saranno disponibili / sarà disponibile) i risultati, il direttore (convocherà / convocheranno) una riunione.", "answers": ["saranno disponibili", "convocherà"]},
+      {"text": "A chiunque (presenti / presentano) una richiesta valida (sarà garantito / saranno garantiti) l'accesso alla documentazione.", "answers": ["presenti", "sarà garantito"]},
+      {"text": "È soltanto attraverso un confronto approfondito che (si possono / può) individuare le cause che (hanno determinato / ha determinato) il problema.", "answers": ["si possono", "hanno determinato"]}
+    ]
+  },
+  {
+    "id": "039",
+    "titre": "Articoli e uso dei nomi",
+    "definition": "Gli articoli determinativi, indeterminativi e partitivi precisano il riferimento dei nomi e devono concordare con il genere e il numero.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Durante (l' / il) udienza, il giudice ha richiesto (degli / dei) ulteriori chiarimenti.", "answers": ["l'", "degli"]},
+      {"text": "Gli esperti hanno individuato (delle / degli) anomalie in (il / nel) sistema informatico.", "answers": ["delle", "nel"]},
+      {"text": "Il responsabile ha presentato (un' / una) analisi approfondita e (un / uno) studio comparativo.", "answers": ["un'", "uno"]},
+      {"text": "La commissione ha richiesto (un / uno) specialista e (una / un') ulteriore verifica tecnica.", "answers": ["uno", "un'"]},
+      {"text": "Lo sviluppo di (una / un') economia sostenibile richiede (degli / dei) investimenti strategici.", "answers": ["un'", "degli"]},
+      {"text": "Il direttore ha consultato (gli / i) psicologi e (le / gli) esperte coinvolte nel progetto.", "answers": ["gli", "le"]},
+      {"text": "La relazione contiene (delle / dei) informazioni riservate e (un / una) documentazione incompleta.", "answers": ["delle", "una"]},
+      {"text": "L'azienda ha stipulato (un / uno) accordo con (gli / i) istituti di ricerca.", "answers": ["un", "gli"]},
+      {"text": "La riforma introduce (dei / degli) obblighi amministrativi e (delle / degli) procedure di controllo.", "answers": ["degli", "delle"]},
+      {"text": "Il progetto è stato presentato durante (la / l') assemblea e approvato da (gli / i) azionisti.", "answers": ["l'", "gli"]}
+    ]
+  },
+  {
+    "id": "040",
+    "titre": "Tempi e modi verbali",
+    "definition": "La scelta dei tempi e dei modi verbali permette di esprimere anteriorità, posteriorità, ipotesi, possibilità, desiderio e incertezza.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Se le autorità (avessero intervenuto / fossero intervenute) prima, avrebbero potuto (evitare / evitato) conseguenze più gravi.", "answers": ["fossero intervenute", "evitare"]},
+      {"text": "È necessario che ogni candidato (presenti / presenta) la documentazione prima che la selezione (abbia inizio / ha inizio).", "answers": ["presenti", "abbia inizio"]},
+      {"text": "Benché il progetto (sia stato approvato / è stato approvato), alcune procedure devono ancora (essere completate / essere completate state).", "answers": ["sia stato approvato", "essere completate"]},
+      {"text": "Se il responsabile (avesse verificato / avrebbe verificato) i dati, non (avrebbe commesso / avesse commesso) quell'errore.", "answers": ["avesse verificato", "avrebbe commesso"]},
+      {"text": "Quando la commissione (avrà concluso / concluderebbe) l'indagine, i risultati (saranno pubblicati / fossero pubblicati).", "answers": ["avrà concluso", "saranno pubblicati"]},
+      {"text": "Vorrei che tutti i partecipanti (esprimessero / esprimono) il proprio parere e (contribuissero / contribuiscono) alla discussione.", "answers": ["esprimessero", "contribuissero"]},
+      {"text": "Qualora le condizioni (migliorassero / migliorano), l'azienda (potrebbe / poteva) ampliare la produzione.", "answers": ["migliorassero", "potrebbe"]},
+      {"text": "Sebbene i risultati (siano / sono) incoraggianti, occorre che ulteriori studi (confermino / confermano) l'ipotesi.", "answers": ["siano", "confermino"]},
+      {"text": "Prima che il direttore (prenda / prende) una decisione, è opportuno che tutti (presentino / presentano) le proprie osservazioni.", "answers": ["prenda", "presentino"]},
+      {"text": "Se le parti (avessero raggiunto / avrebbero raggiunto) un accordo, il procedimento (si sarebbe concluso / si fosse concluso) più rapidamente.", "answers": ["avessero raggiunto", "si sarebbe concluso"]}
+    ]
+  },
+  {
+    "id": "041",
+    "titre": "Comparativi e superlativi",
+    "definition": "Le forme comparative e superlative esprimono differenze di grado e permettono di formulare valutazioni qualitative e quantitative.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "La nuova soluzione è (più / meno) efficace della precedente e risulta (altrettanto / diversamente) sostenibile.", "answers": ["più", "altrettanto"]},
+      {"text": "La situazione è diventata (sempre più / sempre meno) complessa e (progressivamente / improvvisamente) difficile da gestire.", "answers": ["sempre più", "progressivamente"]},
+      {"text": "Questo metodo è (meno / più) dispendioso di quello tradizionale, ma offre risultati (migliori / peggiori).", "answers": ["meno", "migliori"]},
+      {"text": "Tra tutte le proposte presentate, questa è la (più / meno) convincente e la (più / meno) articolata.", "answers": ["più", "più"]},
+      {"text": "Il secondo rapporto è (assai / tanto) più dettagliato del primo e presenta conclusioni (decisamente / raramente) più solide.", "answers": ["assai", "decisamente"]},
+      {"text": "Quanto (maggiore / minore) è la trasparenza, tanto (più elevata / meno elevata) risulta la fiducia dei cittadini.", "answers": ["maggiore", "più elevata"]},
+      {"text": "Il progetto si è rivelato (meno / più) costoso del previsto, ma (più / meno) vantaggioso sul lungo periodo.", "answers": ["più", "più"]},
+      {"text": "La qualità delle prove è (più / meno) importante della loro quantità e spesso (decisamente / appena) determinante.", "answers": ["più", "decisamente"]},
+      {"text": "Il problema è (tanto / talmente) grave quanto complesso e richiede la (massima / minima) attenzione.", "answers": ["tanto", "massima"]},
+      {"text": "Tra i candidati selezionati, Marta ha ottenuto il risultato (migliore / maggiore) e la valutazione (più alta / più lunga).", "answers": ["migliore", "più alta"]}
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Complementi e relazioni semantiche",
+    "definition": "I complementi precisano le circostanze dell'azione, indicando causa, fine, mezzo, modo, compagnia, argomento e altri rapporti.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "La ricerca è stata condotta (con / per) metodi sperimentali e finanziata (da / con) un ente pubblico.", "answers": ["con", "da"]},
+      {"text": "Il progetto è stato sospeso (a causa di / grazie a) difficoltà finanziarie e riprenderà (dopo / attraverso) una nuova valutazione.", "answers": ["a causa di", "dopo"]},
+      {"text": "Gli esperti hanno discusso (sulle / dalle) conseguenze economiche e formulato raccomandazioni (per / con) le autorità competenti.", "answers": ["sulle", "per"]},
+      {"text": "Il responsabile ha agito (con / da) prudenza e ha assunto l'incarico (per / in) conto dell'organizzazione.", "answers": ["con", "per"]},
+      {"text": "La commissione ha premiato i dipendenti (per / con) i risultati ottenuti e ha destinato fondi (alla / dalla) formazione.", "answers": ["per", "alla"]},
+      {"text": "L'organizzazione opera (a favore di / contro) comunità vulnerabili e interviene (con / per) rapidità nelle emergenze.", "answers": ["a favore di", "con"]},
+      {"text": "Il documento è stato redatto (in conformità alle / a causa delle) direttive e presentato (entro / attraverso) la scadenza prevista.", "answers": ["in conformità alle", "entro"]},
+      {"text": "La misura è stata adottata (per / da) ragioni di sicurezza e applicata (su / in) tutto il territorio.", "answers": ["per", "su"]},
+      {"text": "Il consulente ha parlato (con / da) il direttore (del / sul) nuovo piano strategico.", "answers": ["con", "del"]},
+      {"text": "Il progetto è stato realizzato (grazie al / a causa del) sostegno delle comunità locali e ha prodotto benefici (per / da) l'intera collettività.", "answers": ["grazie al", "per"]}
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Frasi subordinate e congiuntivo",
+    "definition": "Le subordinate completive, relative, causali, finali e concessive richiedono strutture verbali adeguate al rapporto logico e temporale con la principale.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "È fondamentale che tutti (rispettino / rispettano) le regole affinché il procedimento (si svolga / si svolge) correttamente.", "answers": ["rispettino", "si svolga"]},
+      {"text": "Sebbene il direttore (abbia riconosciuto / ha riconosciuto) l'errore, non sembra che (intenda / intende) correggerlo.", "answers": ["abbia riconosciuto", "intenda"]},
+      {"text": "Il progetto sarà approvato, a condizione che le spese (rimangano / rimangono) contenute e che i risultati (siano / sono) verificabili.", "answers": ["rimangano", "siano"]},
+      {"text": "Nonostante le difficoltà (siano aumentate / sono aumentate), il gruppo ha continuato a lavorare affinché il programma (fosse completato / è stato completato).", "answers": ["siano aumentate", "fosse completato"]},
+      {"text": "Prima che il contratto (venga firmato / viene firmato), occorre che tutte le clausole (siano esaminate / sono esaminate).", "answers": ["venga firmato", "siano esaminate"]},
+      {"text": "Qualunque decisione (venga presa / viene presa) dovrà essere motivata, in modo che tutti (possano / possono) comprenderne le ragioni.", "answers": ["venga presa", "possano"]},
+      {"text": "Il responsabile ha agito come se (conoscesse / conosce) già tutte le informazioni, benché nessuno gliele (avesse comunicate / aveva comunicato).", "answers": ["conoscesse", "avesse comunicate"]},
+      {"text": "È possibile che la commissione (abbia trascurato / ha trascurato) alcuni elementi e che la valutazione (debba / deve) essere rivista.", "answers": ["abbia trascurato", "debba"]},
+      {"text": "A meno che non (emergano / emergono) nuovi elementi, l'indagine resterà conclusa, sebbene alcuni testimoni (chiedano / chiedono) ulteriori chiarimenti.", "answers": ["emergano", "chiedano"]},
+      {"text": "Il direttore ha chiesto che la documentazione (fosse aggiornata / era aggiornata) e che tutte le parti (fossero informate / erano informate).", "answers": ["fosse aggiornata", "fossero informate"]}
+    ]
+  },
+  {
+    "id": "044",
+    "titre": "Discorso diretto e indiretto",
+    "definition": "Il passaggio dal discorso diretto a quello indiretto richiede adattamenti dei tempi verbali, dei pronomi e degli indicatori temporali e spaziali.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Il direttore ha dichiarato che il progetto (sarebbe iniziato / sarà iniziato) il mese successivo e che le risorse (erano già state stanziate / sono già stanziate).", "answers": ["sarebbe iniziato", "erano già state stanziate"]},
+      {"text": "La ricercatrice ha spiegato che (aveva completato / ha completato) l'indagine e che avrebbe presentato i risultati (il giorno seguente / domani).", "answers": ["aveva completato", "il giorno seguente"]},
+      {"text": "Il portavoce ha affermato che le autorità (stavano valutando / stanno valutando) la proposta e che non avevano ancora preso (una decisione / la decisione di ieri).", "answers": ["stavano valutando", "una decisione"]},
+      {"text": "Il responsabile ha chiesto se i documenti (fossero stati inviati / sono stati inviati) e quando (sarebbero arrivati / arriveranno).", "answers": ["fossero stati inviati", "sarebbero arrivati"]},
+      {"text": "La ministra ha assicurato che il governo (avrebbe introdotto / introdurrà) nuove misure e che queste (sarebbero entrate / entrano) in vigore a breve.", "answers": ["avrebbe introdotto", "sarebbero entrate"]},
+      {"text": "Gli esperti hanno sostenuto che il fenomeno (era destinato a crescere / è destinato a crescere) e che occorreva (intervenire / intervenuto) tempestivamente.", "answers": ["era destinato a crescere", "intervenire"]},
+      {"text": "Il candidato ha domandato se (potesse partecipare / può partecipare) alla selezione e quali documenti (fossero necessari / sono necessari).", "answers": ["potesse partecipare", "fossero necessari"]},
+      {"text": "Il consulente ha precisato che i dati (erano stati verificati / sono stati verificati) e che non (erano emerse / sono emerse) anomalie.", "answers": ["erano stati verificati", "erano emerse"]},
+      {"text": "La direttrice ha comunicato che la riunione (sarebbe stata rinviata / sarà rinviata) e che tutti i partecipanti (sarebbero stati informati / sono informati).", "answers": ["sarebbe stata rinviata", "sarebbero stati informati"]},
+      {"text": "Il ricercatore ha dichiarato che non (aveva mai osservato / non osserva mai) un fenomeno simile e che avrebbe continuato a (studiare / studiato) il caso.", "answers": ["aveva mai osservato", "studiare"]}
+    ]
+  },
+  {
+    "id": "045",
+    "titre": "Lessico economico e finanziario",
+    "definition": "Il lessico economico e finanziario comprende termini specifici relativi ai mercati, agli investimenti, alla produzione e alla gestione delle risorse.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "L'aumento dell'inflazione ha ridotto il (potere d'acquisto / potere decisionale) delle famiglie e ha aumentato il (costo della vita / costo del lavoro).", "answers": ["potere d'acquisto", "costo della vita"]},
+      {"text": "L'impresa ha registrato un (incremento / decremento) del fatturato e un miglioramento della (redditività / liquidità) complessiva.", "answers": ["incremento", "redditività"]},
+      {"text": "La banca ha deciso di (concedere / revocare) un finanziamento e di ridurre il (tasso d'interesse / tasso di natalità).", "answers": ["concedere", "tasso d'interesse"]},
+      {"text": "La politica fiscale mira a contenere il (deficit / profitto) pubblico e a garantire la (sostenibilità / volatilità) del debito.", "answers": ["deficit", "sostenibilità"]},
+      {"text": "L'azienda ha diversificato gli (investimenti / indebitamenti) per ridurre l'esposizione al (rischio / rendimento) finanziario.", "answers": ["investimenti", "rischio"]},
+      {"text": "La diminuzione della domanda ha provocato una contrazione della (produzione / produttività) e un aumento delle (scorte / entrate).", "answers": ["produzione", "scorte"]},
+      {"text": "La società ha deciso di (quotarsi / ritirarsi) in borsa per ampliare il proprio (capitale / debito) sociale.", "answers": ["quotarsi", "capitale"]},
+      {"text": "La crescita economica dipende anche dalla (produttività / precarietà) del lavoro e dall'innovazione (tecnologica / demografica).", "answers": ["produttività", "tecnologica"]},
+      {"text": "Il governo ha introdotto incentivi per favorire l'(occupazione / inflazione) e contrastare la (disoccupazione / esportazione).", "answers": ["occupazione", "disoccupazione"]},
+      {"text": "La riduzione dei costi operativi ha migliorato il (margine di profitto / margine di errore) e rafforzato la (competitività / dipendenza) dell'impresa.", "answers": ["margine di profitto", "competitività"]}
+    ]
+  },
+  {
+    "id": "046",
+    "titre": "Lessico politico, giuridico e istituzionale",
+    "definition": "Il lessico politico e giuridico permette di descrivere le istituzioni, le norme, i procedimenti e le relazioni tra poteri pubblici e cittadini.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Il parlamento ha approvato una nuova (legge / sentenza) che disciplina l'esercizio dei (diritti / contratti) fondamentali.", "answers": ["legge", "diritti"]},
+      {"text": "La corte ha emesso una (sentenza / proposta) e ha disposto l'(archiviazione / elezione) del procedimento.", "answers": ["sentenza", "archiviazione"]},
+      {"text": "La riforma costituzionale prevede una nuova (ripartizione / eliminazione) delle competenze e un rafforzamento dei (controlli / privilegi) istituzionali.", "answers": ["ripartizione", "controlli"]},
+      {"text": "Il governo ha presentato un (decreto / referendum) per modificare alcune disposizioni del (codice / bilancio) amministrativo.", "answers": ["decreto", "codice"]},
+      {"text": "La commissione parlamentare ha avviato un'(inchiesta / candidatura) per accertare eventuali (responsabilità / opportunità) politiche.", "answers": ["inchiesta", "responsabilità"]},
+      {"text": "Il giudice ha riconosciuto la (validità / volatilità) del contratto e ha escluso qualsiasi (violazione / votazione) normativa.", "answers": ["validità", "violazione"]},
+      {"text": "La pubblica amministrazione deve garantire la (trasparenza / segretezza) delle procedure e il rispetto della (legalità / popolarità).", "answers": ["trasparenza", "legalità"]},
+      {"text": "Il trattato internazionale stabilisce obblighi reciproci e prevede meccanismi di (cooperazione / competizione) e di (risoluzione / aggravamento) delle controversie.", "answers": ["cooperazione", "risoluzione"]},
+      {"text": "Il candidato ha presentato un ricorso contro l'(esclusione / inclusione) dalla graduatoria e ha contestato la (legittimità / popolarità) della procedura.", "answers": ["esclusione", "legittimità"]},
+      {"text": "La separazione dei poteri costituisce una garanzia contro l'(arbitrio / equilibrio) e tutela l'(indipendenza / dipendenza) delle istituzioni.", "answers": ["arbitrio", "indipendenza"]}
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Lessico scientifico e tecnologico",
+    "definition": "Il lessico scientifico e tecnologico comprende termini relativi alla ricerca, all'innovazione, alla sperimentazione e ai processi digitali.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "La ricerca ha individuato una nuova (variabile / opinione) e ha sviluppato un modello (predittivo / narrativo) per interpretare i dati.", "answers": ["variabile", "predittivo"]},
+      {"text": "L'intelligenza artificiale consente di (automatizzare / rallentare) numerosi processi e di migliorare l'(elaborazione / cancellazione) delle informazioni.", "answers": ["automatizzare", "elaborazione"]},
+      {"text": "Il laboratorio ha effettuato una (sperimentazione / speculazione) per verificare la (riproducibilità / casualità) dei risultati.", "answers": ["sperimentazione", "riproducibilità"]},
+      {"text": "La sicurezza informatica richiede sistemi di (crittografia / divulgazione) e procedure di (autenticazione / disattivazione) degli utenti.", "answers": ["crittografia", "autenticazione"]},
+      {"text": "L'algoritmo è stato progettato per (rilevare / nascondere) anomalie e migliorare la (precisione / imprecisione) delle previsioni.", "answers": ["rilevare", "precisione"]},
+      {"text": "La ricerca genetica studia le (mutazioni / istituzioni) del DNA e il loro possibile (impatto / impedimento) sulla salute.", "answers": ["mutazioni", "impatto"]},
+      {"text": "Il sistema utilizza sensori per (monitorare / ignorare) le variazioni ambientali e raccogliere dati in (tempo reale / tempo passato).", "answers": ["monitorare", "tempo reale"]},
+      {"text": "La tecnologia satellitare permette di (rilevare / occultare) cambiamenti climatici e di migliorare la (previsione / revisione) meteorologica.", "answers": ["rilevare", "previsione"]},
+      {"text": "La validità di un modello dipende dalla qualità dei dati e dalla sua capacità di (generalizzare / contraddire) i risultati in contesti (diversi / identici).", "answers": ["generalizzare", "diversi"]},
+      {"text": "La digitalizzazione degli archivi favorisce la (conservazione / dispersione) dei documenti e ne facilita la (consultazione / distruzione).", "answers": ["conservazione", "consultazione"]}
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "Lessico sociale, culturale e ambientale",
+    "definition": "Il lessico sociale, culturale e ambientale permette di descrivere fenomeni collettivi, trasformazioni culturali e questioni legate alla sostenibilità.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "La (coesione / frammentazione) sociale favorisce la partecipazione e rafforza il (senso di appartenenza / isolamento) alla comunità.", "answers": ["coesione", "senso di appartenenza"]},
+      {"text": "La tutela del patrimonio culturale contribuisce alla (conservazione / cancellazione) della memoria collettiva e alla sua (trasmissione / dispersione) alle nuove generazioni.", "answers": ["conservazione", "trasmissione"]},
+      {"text": "La transizione ecologica richiede una riduzione delle (emissioni / precipitazioni) e un maggiore ricorso alle energie (rinnovabili / esauribili).", "answers": ["emissioni", "rinnovabili"]},
+      {"text": "La crescita urbana incontrollata può provocare il (consumo / recupero) del suolo e la (degradazione / valorizzazione) degli ecosistemi.", "answers": ["consumo", "degradazione"]},
+      {"text": "Le politiche di inclusione mirano a contrastare la (marginalizzazione / partecipazione) e a promuovere le pari (opportunità / disuguaglianze).", "answers": ["marginalizzazione", "opportunità"]},
+      {"text": "La valorizzazione delle tradizioni locali favorisce la (preservazione / cancellazione) dell'identità culturale e la (continuità / interruzione) delle pratiche comunitarie.", "answers": ["preservazione", "continuità"]},
+      {"text": "La scarsità delle risorse idriche rende necessaria una gestione (responsabile / indiscriminata) dell'acqua e una maggiore (efficienza / dispersione) dei consumi.", "answers": ["responsabile", "efficienza"]},
+      {"text": "La mobilità sostenibile contribuisce alla riduzione dell'(inquinamento / assorbimento) atmosferico e al miglioramento della (vivibilità / congestione) urbana.", "answers": ["inquinamento", "vivibilità"]},
+      {"text": "La partecipazione civica rafforza la (democrazia / burocrazia) e favorisce il controllo (democratico / autoritario) delle istituzioni.", "answers": ["democrazia", "democratico"]},
+      {"text": "La tutela della biodiversità richiede la (protezione / distruzione) degli habitat e il contrasto alla (deforestazione / riforestazione) illegale.", "answers": ["protezione", "deforestazione"]}
+    ]
+  },
+  {
+    "id": "049",
+    "titre": "Espressioni idiomatiche e locuzioni",
+    "definition": "Le espressioni idiomatiche e le locuzioni lessicali possiedono significati spesso non ricavabili dalla somma dei singoli elementi e arricchiscono la comunicazione.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Dopo mesi di trattative, le due parti sono riuscite a (trovare / perdere) un punto d'incontro e a (raggiungere / interrompere) un'intesa.", "answers": ["trovare", "raggiungere"]},
+      {"text": "Il direttore ha preferito (prendere / lasciare) tempo prima di (assumere / evitare) una posizione definitiva.", "answers": ["prendere", "assumere"]},
+      {"text": "La nuova misura potrebbe (fare / dare) la differenza e (aprire / chiudere) la strada a ulteriori riforme.", "answers": ["fare", "aprire"]},
+      {"text": "Il responsabile ha deciso di (mettere / togliere) in discussione il progetto e di (fare / dare) il punto della situazione.", "answers": ["mettere", "fare"]},
+      {"text": "Le autorità devono (tenere / lasciare) conto delle esigenze locali e (dare / fare) seguito agli impegni assunti.", "answers": ["tenere", "dare"]},
+      {"text": "Il candidato ha cercato di (venire / andare) incontro alle richieste e di (mettere / portare) in evidenza le proprie competenze.", "answers": ["venire", "mettere"]},
+      {"text": "L'azienda ha deciso di (puntare / contare) su nuovi mercati e di (mettere / lasciare) a frutto le competenze acquisite.", "answers": ["puntare", "mettere"]},
+      {"text": "Il ricercatore ha voluto (fare / prendere) chiarezza sulla questione e (gettare / mettere) luce sulle cause del fenomeno.", "answers": ["fare", "gettare"]},
+      {"text": "Il progetto è stato realizzato in tempi brevi, ma resta da (tirare / portare) le somme e (trarre / fare) le conclusioni.", "answers": ["tirare", "trarre"]},
+      {"text": "Le istituzioni devono (prendere / lasciare) atto delle criticità e (mettere / dare) in campo strategie efficaci.", "answers": ["prendere", "mettere"]}
+    ]
+  },
+  {
+    "id": "050",
+    "titre": "Padronanza lessicale e uso integrato delle categorie grammaticali",
+    "definition": "La padronanza lessicale avanzata consiste nella capacità di scegliere parole precise, rispettare le relazioni grammaticali e adattare il registro al contesto comunicativo.",
+    "instruction": "Completate le frasi scegliendo le parole corrette tra parentesi.",
+    "questions": [
+      {"text": "Sebbene la proposta (sia / è) innovativa, occorre che venga (sottoposta / sottoporre) a una verifica indipendente.", "answers": ["sia", "sottoposta"]},
+      {"text": "La commissione ha (escluso / incluso) ogni ipotesi infondata e ha richiesto ulteriori (accertamenti / accertamenti di) prima della decisione.", "answers": ["escluso", "accertamenti"]},
+      {"text": "Il responsabile ha agito (consapevolmente / casualmente) e ha assunto (integralmente / parzialmente) le conseguenze delle proprie scelte.", "answers": ["consapevolmente", "integralmente"]},
+      {"text": "Qualora le condizioni (mutassero / mutano), il gruppo (potrebbe / potrà sicuramente) rivedere la propria strategia.", "answers": ["mutassero", "potrebbe"]},
+      {"text": "La diffusione di informazioni (fuorvianti / affidabili) può compromettere la (credibilità / credulità) delle istituzioni.", "answers": ["fuorvianti", "credibilità"]},
+      {"text": "Il progetto sarà realizzato (in collaborazione con / a dispetto di) gli enti locali, purché le risorse (siano / sono) disponibili.", "answers": ["in collaborazione con", "siano"]},
+      {"text": "La ricerca ha (evidenziato / nascosto) una correlazione significativa e ha fornito elementi (sufficienti / insufficienza) per approfondire il fenomeno.", "answers": ["evidenziato", "sufficienti"]},
+      {"text": "Nonostante le difficoltà (fossero / erano) considerevoli, l'organizzazione è riuscita a (raggiungere / raggiunto) gli obiettivi prefissati.", "answers": ["fossero", "raggiungere"]},
+      {"text": "Le misure adottate hanno prodotto risultati (apprezzabili / trascurabili), sebbene permangano alcune criticità (strutturali / strutturalmente).", "answers": ["apprezzabili", "strutturali"]},
+      {"text": "Una strategia efficace deve (coniugare / contrapporre) innovazione e sostenibilità, senza (trascurare / trascurato) le esigenze delle comunità coinvolte.", "answers": ["coniugare", "trascurare"]}
+    ]
   }
 ]
