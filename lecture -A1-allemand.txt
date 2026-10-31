@@ -4578,5 +4578,685 @@
 ]
 }
 ]
+},
+{
+"id": "061",
+"titre": "Tiere auf dem Bauernhof",
+"titre2": "Übung 61",
+"texte": [
+"Auf dem großen Bauernhof leben viele verschiedene Tiere.",
+"Die weißen Schafe fressen den ganzen Tag grünes Gras.",
+"Zwei braune Pferde stehen im Stall und trinken Wasser.",
+"Die Hühner laufen schnell herum und suchen Futter.",
+"Der Bauer bringt am Abend allen Tieren frisches Heu."
+],
+"audios": [
+{ "id": "audio-de-read-a1-061-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-061-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-061-01",
+"question": "Welche Tiere fressen den ganzen Tag Gras?",
+"reponses": [
+{ "id": "a", "texte": "Die weißen Schafe", "correcte": true },
+{ "id": "b", "texte": "Die braunen Pferde", "correcte": false },
+{ "id": "c", "texte": "Die kleinen Hühner", "correcte": false },
+{ "id": "d", "texte": "Die Katzen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-061-02",
+"question": "Welche Farbe haben die Pferde?",
+"reponses": [
+{ "id": "a", "texte": "Schwarz", "correcte": false },
+{ "id": "b", "texte": "Weiß", "correcte": false },
+{ "id": "c", "texte": "Braun", "correcte": true },
+{ "id": "d", "texte": "Grau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-061-03",
+"question": "Wo stehen die Pferde?",
+"reponses": [
+{ "id": "a", "texte": "Im großen Stall", "correcte": true },
+{ "id": "b", "texte": "Auf der Straße", "correcte": false },
+{ "id": "c", "texte": "Im Wohnzimmer", "correcte": false },
+{ "id": "d", "texte": "Am Bahnhof", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-061-04",
+"question": "Was machen die Hühner?",
+"reponses": [
+{ "id": "a", "texte": "Sie schlafen im Baum", "correcte": false },
+{ "id": "b", "texte": "Sie laufen herum und suchen Futter", "correcte": true },
+{ "id": "c", "texte": "Sie trinken warmen Tee", "correcte": false },
+{ "id": "d", "texte": "Sie fliegen nach Berlin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-061-05",
+"question": "Was bringt der Bauer den Tieren am Abend?",
+"reponses": [
+{ "id": "a", "texte": "Einen Apfelkuchen", "correcte": false },
+{ "id": "b", "texte": "Ein kaltes Eis", "correcte": false },
+{ "id": "c", "texte": "Frisches Heu", "correcte": true },
+{ "id": "d", "texte": "Eine Flasche Wasser", "correcte": false }
+]
+}
+]
+},
+{
+"id": "062",
+"titre": "Mein kleiner Hund",
+"titre2": "Übung 62",
+"texte": [
+"Ich habe einen kleinen Hund, sein Name ist Bello.",
+"Er hat weiches, braunes Fell und zwei große Augen.",
+"Am Nachmittag spielen wir zusammen im grünen Park.",
+"Bello läuft sehr schnell und holt einen roten Ball.",
+"Nach dem Spielen schläft er glücklich in seinem Körbchen."
+],
+"audios": [
+{ "id": "audio-de-read-a1-062-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-062-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-062-01",
+"question": "Wie heißt der kleine Hund?",
+"reponses": [
+{ "id": "a", "texte": "Bello", "correcte": true },
+{ "id": "b", "texte": "Lukas", "correcte": false },
+{ "id": "c", "texte": "München", "correcte": false },
+{ "id": "d", "texte": "Johann", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-062-02",
+"question": "Welche Farbe hat Bellos Fell?",
+"reponses": [
+{ "id": "a", "texte": "Weiß", "correcte": false },
+{ "id": "b", "texte": "Schwarz", "correcte": false },
+{ "id": "c", "texte": "Braun", "correcte": true },
+{ "id": "d", "texte": "Blau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-062-03",
+"question": "Wo spielen der Autor und Bello?",
+"reponses": [
+{ "id": "a", "texte": "In der Küche", "correcte": false },
+{ "id": "b", "texte": "Im grünen Park", "correcte": true },
+{ "id": "c", "texte": "Im großen Museum", "correcte": false },
+{ "id": "d", "texte": "Am Flughafen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-062-04",
+"question": "Was für einen Gegenstand holt Bello?",
+"reponses": [
+{ "id": "a", "texte": "Einen roten Ball", "correcte": true },
+{ "id": "b", "texte": "Ein deutsches Buch", "correcte": false },
+{ "id": "c", "texte": "Einen alten Schuh", "correcte": false },
+{ "id": "d", "texte": "Eine große Flasche", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-062-05",
+"question": "Wo schläft Bello nach dem Spielen?",
+"reponses": [
+{ "id": "a", "texte": "Im Bett des Autors", "correcte": false },
+{ "id": "b", "texte": "In seinem Körbchen", "correcte": true },
+{ "id": "c", "texte": "Unter dem Baum", "correcte": false },
+{ "id": "d", "texte": "In der Küche", "correcte": false }
+]
+}
+]
+},
+{
+"id": "063",
+"titre": "Die Katze meiner Nachbarin",
+"titre2": "Übung 63",
+"texte": [
+"Die Katze meiner Nachbarin heißt Mimi und ist schwarz.",
+"Sie sitzt oft auf dem hölzernen Zaun im Garten.",
+"Mimi ist sehr ruhig und beobachtet die kleinen Vögel.",
+"Manchmal bekommt sie ein bisschen Milch von mir.",
+"Am Abend geht sie zurück in die warme Wohnung."
+],
+"audios": [
+{ "id": "audio-de-read-a1-063-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-063-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-063-01",
+"question": "Wem gehört die Katze Mimi?",
+"reponses": [
+{ "id": "a", "texte": "Der Nachbarin", "correcte": true },
+{ "id": "b", "texte": "Dem Busfahrer", "correcte": false },
+{ "id": "c", "texte": "Dem Großvater", "correcte": false },
+{ "id": "d", "texte": "Dem Bauern", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-063-02",
+"question": "Welche Farbe hat die Katze?",
+"reponses": [
+{ "id": "a", "texte": "Weiß", "correcte": false },
+{ "id": "b", "texte": "Schwarz", "correcte": true },
+{ "id": "c", "texte": "Braun", "correcte": false },
+{ "id": "d", "texte": "Grau", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-063-03",
+"question": "Wo sitzt Mimi oft?",
+"reponses": [
+{ "id": "a", "texte": "Auf dem hölzernen Zaun", "correcte": true },
+{ "id": "b", "texte": "Im roten Auto", "correcte": false },
+{ "id": "c", "texte": "Auf dem Kiosk", "correcte": false },
+{ "id": "d", "texte": "Im großen Stall", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-063-04",
+"question": "Was bekommt Mimi manchmal vom Autor?",
+"reponses": [
+{ "id": "a", "texte": "Ein Stück Pizza", "correcte": false },
+{ "id": "b", "texte": "Ein bisschen Milch", "correcte": true },
+{ "id": "c", "texte": "Einen Apfelkuchen", "correcte": false },
+{ "id": "d", "texte": "Einen Kaffee", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-063-05",
+"question": "Wohin geht Mimi am Abend?",
+"reponses": [
+{ "id": "a", "texte": "In den Park", "correcte": false },
+{ "id": "b", "texte": "Zurück in die warme Wohnung", "correcte": true },
+{ "id": "c", "texte": "Auf den Bauernhof", "correcte": false },
+{ "id": "d", "texte": "Zum Bahnhof", "correcte": false }
+]
+}
+]
+},
+{
+"id": "064",
+"titre": "Ein Tag auf dem Land",
+"titre2": "Übung 64",
+"texte": [
+"Ein Tag auf dem Land ist immer sehr ruhig und schön.",
+"Es gibt keine lauten Autos und keinen Stress.",
+"Ich gehe einen schmalen Weg entlang und genieße das Wetter.",
+"Überall sieht man grüne Felder und alte Bäume.",
+"Am Nachmittag mache ich ein Picknick mit frischem Brot."
+],
+"audios": [
+{ "id": "audio-de-read-a1-064-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-064-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-064-01",
+"question": "Wie ist ein Tag auf dem Land?",
+"reponses": [
+{ "id": "a", "texte": "Sehr laut und stressig", "correcte": false },
+{ "id": "b", "texte": "Ruhig und schön", "correcte": true },
+{ "id": "c", "texte": "Langweilig und kalt", "correcte": false },
+{ "id": "d", "texte": "Gefährlich", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-064-02",
+"question": "Was gibt es auf dem Land nicht?",
+"reponses": [
+{ "id": "a", "texte": "Bäume", "correcte": false },
+{ "id": "b", "texte": "Grünes Gras", "correcte": false },
+{ "id": "c", "texte": "Laute Autos und Stress", "correcte": true },
+{ "id": "d", "texte": "Frische Luft", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-064-03",
+"question": "Welchen Weg geht der Autor entlang?",
+"reponses": [
+{ "id": "a", "texte": "Einen schmalen Weg", "correcte": true },
+{ "id": "b", "texte": "Eine große Autobahn", "correcte": false },
+{ "id": "c", "texte": "Einen Weg im Bahnhof", "correcte": false },
+{ "id": "d", "texte": "Einen nassen Weg", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-064-04",
+"question": "Was sieht man überall?",
+"reponses": [
+{ "id": "a", "texte": "Große Einkaufszentren", "correcte": false },
+{ "id": "b", "texte": "Grüne Felder und alte Bäume", "correcte": true },
+{ "id": "c", "texte": "Flugzeuge am Boden", "correcte": false },
+{ "id": "d", "texte": "Viele neue Bahnhöfe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-064-05",
+"question": "Was macht der Autor am Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Er macht ein Picknick mit frischem Brot", "correcte": true },
+{ "id": "b", "texte": "Er kauft Postkarten", "correcte": false },
+{ "id": "c", "texte": "Er fliegt nach Hause", "correcte": false },
+{ "id": "d", "texte": "Er lernt Vokabeln", "correcte": false }
+]
+}
+]
+},
+{
+"id": "065",
+"titre": "Die Blumen in meinem Garten",
+"titre2": "Übung 065",
+"texte": [
+"In meinem kleinen Garten blühen jetzt viele schöne Blumen.",
+"Es gibt rote Rosen, gelbe Tulpen und weiße Gänseblümchen.",
+"Jeden Morgen gieße ich die Blumen mit frischem Wasser.",
+"Die bunten Blumen riechen sehr gut und sehen wunderbar aus.",
+"Ich sitze gerne auf der Bank und schaue sie an."
+],
+"audios": [
+{ "id": "audio-de-read-a1-065-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-065-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-065-01",
+"question": "Was blüht im kleinen Garten?",
+"reponses": [
+{ "id": "a", "texte": "Große Bäume", "correcte": false },
+{ "id": "b", "texte": "Viele schöne Blumen", "correcte": true },
+{ "id": "c", "texte": "Frisches Heu", "correcte": false },
+{ "id": "d", "texte": "Grüner Salat", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-065-02",
+"question": "Welche Farbe haben die Rosen?",
+"reponses": [
+{ "id": "a", "texte": "Gelb", "correcte": false },
+{ "id": "b", "texte": "Blau", "correcte": false },
+{ "id": "c", "texte": "Rot", "correcte": true },
+{ "id": "d", "texte": "Schwarz", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-065-03",
+"question": "Wann gießt der Autor die Blumen?",
+"reponses": [
+{ "id": "a", "texte": "Jeden Morgen", "correcte": true },
+{ "id": "b", "texte": "Nur am Sonntag", "correcte": false },
+{ "id": "c", "texte": "Spät in der Nacht", "correcte": false },
+{ "id": "d", "texte": "Niemals", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-065-04",
+"question": "Wie riechen die bunten Blumen?",
+"reponses": [
+{ "id": "a", "texte": "Sehr schlecht", "correcte": false },
+{ "id": "b", "texte": "Nach Schokolade", "correcte": false },
+{ "id": "c", "texte": "Überhaupt nicht", "correcte": false },
+{ "id": "d", "texte": "Sehr gut", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a1-065-05",
+"question": "Wo sitzt der Autor gerne?",
+"reponses": [
+{ "id": "a", "texte": "Auf der Bank", "correcte": true },
+{ "id": "b", "texte": "Im Koffer", "correcte": false },
+{ "id": "c", "texte": "Auf dem Dach", "correcte": false },
+{ "id": "d", "texte": "Im Stall", "correcte": false }
+]
+}
+]
+},
+{
+"id": "066",
+"titre": "Die Bäume im Park",
+"titre2": "Übung 66",
+"texte": [
+"Der Stadtpark hat viele alte und sehr große Bäume.",
+"Im Sommer spenden die grünen Blätter angenehmen Schatten.",
+"Viele Menschen sitzen unter den Bäumen und lesen Bücher.",
+"Kleine Eichhörnchen klettern schnell an den Stämmen hoch.",
+"Die Bäume sind wichtig für die saubere Luft in der Stadt."
+],
+"audios": [
+{ "id": "audio-de-read-a1-066-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-066-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-066-01",
+"question": "Wie sind die Bäume im Stadtpark?",
+"reponses": [
+{ "id": "a", "texte": "Alt und sehr groß", "correcte": true },
+{ "id": "b", "texte": "Neu und ganz klein", "correcte": false },
+{ "id": "c", "texte": "Krank und trocken", "correcte": false },
+{ "id": "d", "texte": "Blau und künstlich", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-066-02",
+"question": "Was spenden die grünen Blätter im Sommer?",
+"reponses": [
+{ "id": "a", "texte": "Regen", "correcte": false },
+{ "id": "b", "texte": "Licht", "correcte": false },
+{ "id": "c", "texte": "Angenehmen Schatten", "correcte": true },
+{ "id": "d", "texte": "Obst", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-066-03",
+"question": "Was machen viele Menschen unter den Bäumen?",
+"reponses": [
+{ "id": "a", "texte": "Sie lesen Bücher", "correcte": true },
+{ "id": "b", "texte": "Sie kochen ein Abendessen", "correcte": false },
+{ "id": "c", "texte": "Sie fahren mit dem Bus", "correcte": false },
+{ "id": "d", "texte": "Sie waschen ihre Kleidung", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-066-04",
+"question": "Welche Tiere klettern an den Stämmen hoch?",
+"reponses": [
+{ "id": "a", "texte": "Kleine Eichhörnchen", "correcte": true },
+{ "id": "b", "texte": "Weiße Schafe", "correcte": false },
+{ "id": "c", "texte": "Große Hunde", "correcte": false },
+{ "id": "d", "texte": "Braune Pferde", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-066-05",
+"question": "Warum sind die Bäume wichtig für die Stadt?",
+"reponses": [
+{ "id": "a", "texte": "Für die saubere Luft", "correcte": true },
+{ "id": "b", "texte": "Weil sie Geld kosten", "correcte": false },
+{ "id": "c", "texte": "Für den Bahnhof", "correcte": false },
+{ "id": "d", "texte": "Für die Autos", "correcte": false }
+]
+}
+]
+},
+{
+"id": "067",
+"titre": "Ein Spaziergang im Wald",
+"titre2": "Übung 67",
+"texte": [
+"Am Sonntag mache ich einen ruhigen Spaziergang im Wald.",
+"Der Wald ist sehr groß, dunkel und angenehm kühl.",
+"Ich höre das leise Rauschen der Blätter im Wind.",
+"Auf dem Boden liegen viele braune Blätter und kleine Stöcke.",
+"Ein Spaziergang im Wald hilft mir, mich zu entspannen."
+],
+"audios": [
+{ "id": "audio-de-read-a1-067-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-067-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-067-01",
+"question": "Wann macht der Autor einen Spaziergang im Wald?",
+"reponses": [
+{ "id": "a", "texte": "Am Montag", "correcte": false },
+{ "id": "b", "texte": "Am Sonntag", "correcte": true },
+{ "id": "c", "texte": "Jeden Morgen", "correcte": false },
+{ "id": "d", "texte": "Am Donnerstag", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-067-02",
+"question": "Wie ist der Wald?",
+"reponses": [
+{ "id": "a", "texte": "Sehr klein und heiß", "correcte": false },
+{ "id": "b", "texte": "Groß, dunkel und angenehm kühl", "correcte": true },
+{ "id": "c", "texte": "Ein schöner weißer Strand", "correcte": false },
+{ "id": "d", "texte": "Voll mit lauten Autos", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-067-03",
+"question": "Was hört der Autor im Wald?",
+"reponses": [
+{ "id": "a", "texte": "Das leise Rauschen der Blätter", "correcte": true },
+{ "id": "b", "texte": "Laute Musik aus dem Radio", "correcte": false },
+{ "id": "c", "texte": "Einen Hund, der bellt", "correcte": false },
+{ "id": "d", "texte": "Den Busfahrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-067-04",
+"question": "Was liegt auf dem Boden?",
+"reponses": [
+{ "id": "a", "texte": "Viele neue Bücher", "correcte": false },
+{ "id": "b", "texte": "Braune Blätter und kleine Stöcke", "correcte": true },
+{ "id": "c", "texte": "Buntes Spielzeug", "correcte": false },
+{ "id": "d", "texte": "Leckere Pizza", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-067-05",
+"question": "Wobei hilft der Spaziergang im Wald dem Autor?",
+"reponses": [
+{ "id": "a", "texte": "Sich zu entspannen", "correcte": true },
+{ "id": "b", "texte": "Schneller zu laufen", "correcte": false },
+{ "id": "c", "texte": "Geld zu sparen", "correcte": false },
+{ "id": "d", "texte": "Deutsch zu lernen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "068",
+"titre": "Vögel am Himmel",
+"titre2": "Übung 68",
+"texte": [
+"Der Himmel ist heute ganz blau und die Sonne scheint.",
+"Ich sehe viele kleine Vögel weit oben am Himmel fliegen.",
+"Sie fliegen zusammen in einer großen Gruppe nach Süden.",
+"Manchmal landen sie auf einem Baum und singen ein Lied.",
+"Es ist sehr schön, den freien Vögeln zuzusehen."
+],
+"audios": [
+{ "id": "audio-de-read-a1-068-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-068-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-068-01",
+"question": "Wie ist der Himmel heute?",
+"reponses": [
+{ "id": "a", "texte": "Dunkel und grau", "correcte": false },
+{ "id": "b", "texte": "Ganz blau", "correcte": true },
+{ "id": "c", "texte": "Es regnet stark", "correcte": false },
+{ "id": "d", "texte": "Grün", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-068-02",
+"question": "Was sieht der Autor am Himmel fliegen?",
+"reponses": [
+{ "id": "a", "texte": "Ein großes Flugzeug", "correcte": false },
+{ "id": "b", "texte": "Viele kleine Vögel", "correcte": true },
+{ "id": "c", "texte": "Einen roten Ball", "correcte": false },
+{ "id": "d", "texte": "Bunte Postkarten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-068-03",
+"question": "Wohin fliegen die Vögel zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Nach Süden", "correcte": true },
+{ "id": "b", "texte": "In die moderne Küche", "correcte": false },
+{ "id": "c", "texte": "Zum Kiosk", "correcte": false },
+{ "id": "d", "texte": "Nach Berlin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-068-04",
+"question": "Was machen die Vögel, wenn sie auf einem Baum landen?",
+"reponses": [
+{ "id": "a", "texte": "Sie schlafen sofort", "correcte": false },
+{ "id": "b", "texte": "Sie singen ein Lied", "correcte": true },
+{ "id": "c", "texte": "Sie essen Schokoladeneis", "correcte": false },
+{ "id": "d", "texte": "Sie rufen den Bauern", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-068-05",
+"question": "Wie findet der Autor es, den Vögeln zuzusehen?",
+"reponses": [
+{ "id": "a", "texte": "Sehr schön", "correcte": true },
+{ "id": "b", "texte": "Langweilig", "correcte": false },
+{ "id": "c", "texte": "Anstrengend", "correcte": false },
+{ "id": "d", "texte": "Schlecht", "correcte": false }
+]
+}
+]
+},
+{
+"id": "069",
+"titre": "Das Leben der Bienen",
+"titre2": "Übung 69",
+"texte": [
+"Bienen sind sehr kleine, aber sehr fleißige Insekten.",
+"Sie fliegen von Blume zu Blume und suchen süßen Nektar.",
+"Aus dem Nektar machen die Bienen im Bienenstock leckeren Honig.",
+"Honig schmeckt wunderbar auf einem frischen Brötchen zum Frühstück.",
+"Wir müssen die Bienen schützen, weil sie wichtig für die Natur sind."
+],
+"audios": [
+{ "id": "audio-de-read-a1-069-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-069-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-069-01",
+"question": "Was für Insekten sind Bienen?",
+"reponses": [
+{ "id": "a", "texte": "Sehr große Tiere", "correcte": false },
+{ "id": "b", "texte": "Kleine, aber sehr fleißige Insekten", "correcte": true },
+{ "id": "c", "texte": "Gefährliche Vögel", "correcte": false },
+{ "id": "d", "texte": "Fische im Meer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-069-02",
+"question": "Was suchen die Bienen auf den Blumen?",
+"reponses": [
+{ "id": "a", "texte": "Süßen Nektar", "correcte": true },
+{ "id": "b", "texte": "Kaltes Wasser", "correcte": false },
+{ "id": "c", "texte": "Kleine Stöcke", "correcte": false },
+{ "id": "d", "texte": "Braune Blätter", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-069-03",
+"question": "Was machen die Bienen aus dem Nektar?",
+"reponses": [
+{ "id": "a", "texte": "Milch", "correcte": false },
+{ "id": "b", "texte": "Kaffee", "correcte": false },
+{ "id": "c", "texte": "Leckeren Honig", "correcte": true },
+{ "id": "d", "texte": "Salat", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-069-04",
+"question": "Wann schmeckt Honig laut Text besonders gut?",
+"reponses": [
+{ "id": "a", "texte": "Auf einem frischen Brötchen zum Frühstück", "correcte": true },
+{ "id": "b", "texte": "In einem Hähnchengericht", "correcte": false },
+{ "id": "c", "texte": "Auf einer Pizza", "correcte": false },
+{ "id": "d", "texte": "Im Tee am Abend", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-069-05",
+"question": "Warum müssen wir die Bienen schützen?",
+"reponses": [
+{ "id": "a", "texte": "Weil sie wichtig für die Natur sind", "correcte": true },
+{ "id": "b", "texte": "Weil sie sehr teuer sind", "correcte": false },
+{ "id": "c", "texte": "Weil sie im Stall wohnen", "correcte": false },
+{ "id": "d", "texte": "Weil sie fliegen können", "correcte": false }
+]
+}
+]
+},
+{
+"id": "070",
+"titre": "Unsere Umwelt schützen",
+"titre2": "Übung 70",
+"texte": [
+"Unsere Umwelt ist wichtig und wir müssen sie gut schützen.",
+"Ich werfe meinen Müll niemals auf die Straße oder in den Park.",
+"Ich trenne Plastik, Papier und Glas ordentlich zu Hause.",
+"Für kurze Wege nehme ich das Fahrrad und nicht das Auto.",
+"Jeder kleine Schritt hilft, unsere Natur sauber zu halten."
+],
+"audios": [
+{ "id": "audio-de-read-a1-070-1", "personnage": "Lukas", "image": "cmsfly.com", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a1-070-2", "personnage": "Johann", "image": "cmsfly.com", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a1-070-01",
+"question": "Was müssen wir mit unserer Umwelt machen?",
+"reponses": [
+{ "id": "a", "texte": "Sie gut schützen", "correcte": true },
+{ "id": "b", "texte": "Sie vergessen", "correcte": false },
+{ "id": "c", "texte": "Sie verkaufen", "correcte": false },
+{ "id": "d", "texte": "Neu bauen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-070-02",
+"question": "Wo wirft der Autor seinen Müll niemals hin?",
+"reponses": [
+{ "id": "a", "texte": "In den Mülleimer", "correcte": false },
+{ "id": "b", "texte": "Auf die Straße oder in den Park", "correcte": true },
+{ "id": "c", "texte": "In seine Tasche", "correcte": false },
+{ "id": "d", "texte": "Nach Hause", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-070-03",
+"question": "Was trennt der Autor ordentlich zu Hause?",
+"reponses": [
+{ "id": "a", "texte": "Seine Bücher und Stifte", "correcte": false },
+{ "id": "b", "texte": "Plastik, Papier und Glas", "correcte": true },
+{ "id": "c", "texte": "Seine Kleidung nach Farben", "correcte": false },
+{ "id": "d", "texte": "Das Essen für die Familie", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-070-04",
+"question": "Was nimmt der Autor für kurze Wege?",
+"reponses": [
+{ "id": "a", "texte": "Das Auto", "correcte": false },
+{ "id": "b", "texte": "Das Fahrrad", "correcte": true },
+{ "id": "c", "texte": "Den Zug nach Berlin", "correcte": false },
+{ "id": "d", "texte": "Ein großes Flugzeug", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a1-070-05",
+"question": "Was hilft, die Natur sauber zu halten?",
+"reponses": [
+{ "id": "a", "texte": "Jeder kleine Schritt", "correcte": true },
+{ "id": "b", "texte": "Nur ein neues Auto", "correcte": false },
+{ "id": "c", "texte": "Viel Geld zu verdienen", "correcte": false },
+{ "id": "d", "texte": "Lange im Bett zu schlafen", "correcte": false }
+]
+}
+]
 }
 ]
