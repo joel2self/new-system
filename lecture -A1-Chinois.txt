@@ -2718,5 +2718,685 @@
 ]
 }
 ]
+},
+{
+    "id": "041",
+    "titre": "我最喜欢的运动",
+    "titre2": "练习 041",
+    "texte": [
+      "在全世界我最喜欢的运动就是游泳。",
+      "我每周去两次市立游泳池。",
+      "游泳池的水是蓝色的，很干净，也非常舒服。",
+      "游泳对身体健康很有好处，还能让大脑十分放松。",
+      "做完运动后，我总是感到有些疲惫，但非常快乐。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-041-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-041-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-041-01",
+        "question": "主角最喜欢的运动是什么？",
+        "reponses": [
+          { "id": "a", "texte": "在球场上踢足球", "correcte": false },
+          { "id": "b", "texte": "游泳", "correcte": true },
+          { "id": "c", "texte": "在中心打网球", "correcte": false },
+          { "id": "d", "texte": "在学校做体操", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-041-02",
+        "question": "他每周去几次游泳池？",
+        "reponses": [
+          { "id": "a", "texte": "一周中的每一天都去", "correcte": false },
+          { "id": "b", "texte": "每周去两次", "correcte": true },
+          { "id": "c", "texte": "只有在星期日晚上", "correcte": false },
+          { "id": "d", "texte": "每个月去一次", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-041-03",
+        "question": "游泳池的水怎么样？",
+        "reponses": [
+          { "id": "a", "texte": "非常冰冷且肮脏", "correcte": false },
+          { "id": "b", "texte": "蓝色、干净且舒服", "correcte": true },
+          { "id": "c", "texte": "绿色且漂满落叶", "correcte": false },
+          { "id": "d", "texte": "热得像一碗汤", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-041-04",
+        "question": "根据文章，游泳有什么好处？",
+        "reponses": [
+          { "id": "a", "texte": "能让大脑十分放松", "correcte": true },
+          { "id": "b", "texte": "能赚很多欧元", "correcte": false },
+          { "id": "c", "texte": "让人忘掉西班牙语", "correcte": false },
+          { "id": "d", "texte": "会带来焦虑和疲劳", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-041-05",
+        "question": "做完运动后主角感觉如何？",
+        "reponses": [
+          { "id": "a", "texte": "有些疲惫但非常快乐", "correcte": true },
+          { "id": "b", "texte": "生病了且咳嗽得厉害", "correcte": false },
+          { "id": "c", "texte": "在生朋友们的气", "correcte": false },
+          { "id": "d", "texte": "准备好去跑步", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "踢足球",
+    "titre2": "练习 042",
+    "texte": [
+      "每个星期六下午，我都会和我的同学们一起踢足球。",
+      "我们去车站附近的绿茵体育场。",
+      "我穿上我的黑色运动鞋和一件舒适的短袖衫。",
+      "我们在球场上追着球跑，努力射进一个特别的球。",
+      "对我们来说，最重要的不是赢，而是聚在一起享受乐趣。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-042-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-042-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-042-01",
+        "question": "他手在一周中的什么时候踢足球？",
+        "reponses": [
+          { "id": "a", "texte": "星期一清早", "correcte": false },
+          { "id": "b", "texte": "星期六下午", "correcte": true },
+          { "id": "c", "texte": "星期三深夜", "correcte": false },
+          { "id": "d", "texte": "在上学的每一天", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-042-02",
+        "question": "体育场在哪里？",
+        "reponses": [
+          { "id": "a", "texte": "在超市后面", "correcte": false },
+          { "id": "b", "texte": "车站附近", "correcte": true },
+          { "id": "c", "texte": "在爷爷奶奶家的乡下", "correcte": false },
+          { "id": "d", "texte": "在老城区中心", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-042-03",
+        "question": "主角穿了什么衣服？",
+        "reponses": [
+          { "id": "a", "texte": "黑色运动鞋和舒适的短袖衫", "correcte": true },
+          { "id": "b", "texte": "优雅的白衬衫和皮靴", "correcte": false },
+          { "id": "c", "texte": "厚夹克并配上围巾", "correcte": false },
+          { "id": "d", "texte": "游泳用的蓝色泳衣", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-042-04",
+        "question": "小伙子们在球场上做什么？",
+        "reponses": [
+          { "id": "a", "texte": "追着球跑并努力射门", "correcte": true },
+          { "id": "b", "texte": "在草地上睡觉休息", "correcte": false },
+          { "id": "c", "texte": "吃加了橄榄的比萨", "correcte": false },
+          { "id": "d", "texte": "寻找一个藏起来的彩蛋", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-042-05",
+        "question": "对球队来说最重要的事情是什么？",
+        "reponses": [
+          { "id": "a", "texte": "聚在一起享受乐趣", "correcte": true },
+          { "id": "b", "texte": "赢得学校的每一场比赛", "correcte": false },
+          { "id": "c", "texte": "买昂贵的新运动鞋", "correcte": false },
+          { "id": "d", "texte": "很早回到家里", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "在公园散步",
+    "titre2": "练习 043",
+    "texte": [
+      "每个星期日早上，我总是在公园里进行一次美好的散步。",
+      "这里的空气既干净又清新，还能听到鸟儿的歌声。",
+      "我在公园古老的大树下从容地行走。",
+      "我看到许多家庭在草地上和年幼的孩子一起玩耍。",
+      "这个安静的地方能帮助我很好地开始新的一步。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-043-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-043-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-043-01",
+        "question": "主角什么时候去公园？",
+        "reponses": [
+          { "id": "a", "texte": "星期五深夜", "correcte": false },
+          { "id": "b", "texte": "星期日早上", "correcte": true },
+          { "id": "c", "texte": "星期二放学之后", "correcte": false },
+          { "id": "d", "texte": "只有在十二月份", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-043-02",
+        "question": "在公园的空气中能听到什么？",
+        "reponses": [
+          { "id": "a", "texte": "派对里喧闹的音乐", "correcte": false },
+          { "id": "b", "texte": "鸟儿的歌声", "correcte": true },
+          { "id": "c", "texte": "市中心汽车的噪音", "correcte": false },
+          { "id": "d", "texte": "没有任何声音", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-043-03",
+        "question": "主角在哪里散步？",
+        "reponses": [
+          { "id": "a", "texte": "在古老的大树下面", "correcte": true },
+          { "id": "b", "texte": "在铺好柏油的主街上", "correcte": false },
+          { "id": "c", "texte": "在关闭的图书馆院子里", "correcte": false },
+          { "id": "d", "texte": "在超级市场里面", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-043-04",
+        "question": "他在公园的草地上看到了谁？",
+        "reponses": [
+          { "id": "a", "texte": "中心的药剂师", "correcte": false },
+          { "id": "b", "texte": "许多带着年幼孩子的家庭", "correcte": true },
+          { "id": "c", "texte": "讲解美术的罗西先生", "correcte": false },
+          { "id": "d", "texte": "三匹棕色的大马", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-043-05",
+        "question": "这次周日散步有什么作用？",
+        "reponses": [
+          { "id": "a", "texte": "帮助很好地开始新的一周", "correcte": true },
+          { "id": "b", "texte": "去购买新鲜的天然水果", "correcte": false },
+          { "id": "c", "texte": "用来做数学家庭作业", "correcte": false },
+          { "id": "d", "texte": "去花掉储蓄罐里的欧元", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "044",
+    "titre": "听音乐",
+    "titre2": "练习 044",
+    "texte": [
+      "听音乐是我用来让自己放松的最喜欢的活动。",
+      "我使用连接在智能手机上的白色耳机。",
+      "我喜欢轻快的西班牙音乐，也喜欢一些外语歌曲。",
+      "我会在我的卧室里或者在公交车上听音乐。",
+      "美妙的旋律能给我带来很多能量，还能让我产生梦想。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-044-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-044-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-044-01",
+        "question": "主角为什么听音乐？",
+        "reponses": [
+          { "id": "a", "texte": "为了做剧烈的体操", "correcte": false },
+          { "id": "b", "texte": "这是他用来放松的最喜欢的活动", "correcte": true },
+          { "id": "c", "texte": "为了学习古代地理", "correcte": false },
+          { "id": "d", "texte": "为了听不到电话声", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-044-02",
+        "question": "他使用什么物品来听声音？",
+        "reponses": [
+          { "id": "a", "texte": "一块大黑板", "correcte": false },
+          { "id": "b", "texte": "他的白色耳机", "correcte": true },
+          { "id": "c", "texte": "一台旧木质收音机", "correcte": false },
+          { "id": "d", "texte": "水果店的秤", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-044-03",
+        "question": "主角绝对更喜欢什么类型的音乐？",
+        "reponses": [
+          { "id": "a", "texte": "轻快的西班牙音乐和外语歌曲", "correcte": true },
+          { "id": "b", "texte": "非常劲爆的摇滚乐", "correcte": false },
+          { "id": "c", "texte": "仅仅是鸟儿的歌声", "correcte": false },
+          { "id": "d", "texte": "学校录制好的课堂音频", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-044-04",
+        "question": "他平时通常在哪些地方听音乐？",
+        "reponses": [
+          { "id": "a", "texte": "在卧室里或者在公交车上", "correcte": true },
+          { "id": "b", "texte": "在药店里或者在看医生时", "correcte": false },
+          { "id": "c", "texte": "在厨房热烤箱的前面", "correcte": false },
+          { "id": "d", "texte": "在图书馆的大桌子旁", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-a1-044-05",
+        "question": "美妙的旋律给主角带来了什么？",
+        "reponses": [
+          { "id": "a", "texte": "很多能量并让他产生梦想", "correcte": true },
+          { "id": "b", "texte": "严重的耳朵疼痛", "correcte": false },
+          { "id": "c", "texte": "无聊感和深度的睡眠", "correcte": false },
+          { "id": "d", "texte": "对西红柿意面的饥饿感", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "045",
+    "titre": "看电影",
+    "titre2": "练习 045",
+    "texte": [
+      "晚上，我喜欢在大厅舒适的沙发上让自己放松下来。",
+      "我打开大电视机，看一部有趣的电影。",
+      "我把主灯关掉，以便营造出电影院的氛围。",
+      "看电影期间，我会吃一些热饼干或者一个苹果。",
+      "到了午夜，我关掉所有设备，开心地去床上睡觉。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-a1-045-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-a1-045-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-a1-045-01",
+        "question": "主角坐在哪里看屏幕？",
+        "reponses": [
+          { "id": "a", "texte": "在一把绿色的木椅上", "correcte": false },
+          { "id": "b", "texte": "在大厅舒适的沙发上", "correcte": true },
+          { "id": "c", "texte": "在他房间的单人床上", "correcte": false },
+          { "id": "d", "texte": "在厨房的地板上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-045-02",
+"question": "他晚上选择看什么类型的电影？",
+"reponses": [
+{ "id": "a", "texte": "一部古代历史的纪录片", "correcte": false },
+{ "id": "b", "texte": "一部有趣的电影", "correcte": true },
+{ "id": "c", "texte": "一部很吓人的恐怖电影", "correcte": false },
+{ "id": "d", "texte": "城市的每日新闻", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-045-03",
+"question": "他对灯光做了什么来营造氛围？",
+"reponses": [
+{ "id": "a", "texte": "关掉了主灯", "correcte": true },
+{ "id": "b", "texte": "把所有的大灯都打开了", "correcte": false },
+{ "id": "c", "texte": "打开了通往花园的窗户", "correcte": false },
+{ "id": "d", "texte": "使用了一个蓝色电手电筒", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-045-04",
+"question": "主角在看电影时吃什么？",
+"reponses": [
+{ "id": "a", "texte": "他母亲做的一份热千层面", "correcte": false },
+{ "id": "b", "texte": "一些热饼干或者一个苹果", "correcte": true },
+{ "id": "c", "texte": "冰凉的外卖比萨", "correcte": false },
+{ "id": "d", "texte": "小卖部买的巧克力冰激凌", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-045-05",
+"question": "活动几点结束他去睡觉？",
+"reponses": [
+{ "id": "a", "texte": "二十点整", "correcte": false },
+{ "id": "b", "texte": "午夜", "correcte": true },
+{ "id": "c", "texte": "二十二点", "correcte": false },
+{ "id": "d", "texte": "清早六点", "correcte": false }
+]
+}
+]
+},
+{
+"id": "046",
+"titre": "读一本书",
+"titre2": "练习 046",
+"texte": [
+"睡觉前，我有一个读书的好习惯。",
+"我打开床边小桌上的现代风格小台灯。",
+"我读一本由西班牙作家写的有趣小说。",
+"我缓缓地、十分专心地翻动着纸质书页。",
+"读上三页内容能帮助我获得一晚上的好睡眠。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-046-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-046-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-046-01",
+"question": "主角什么时候读书？",
+"reponses": [
+{ "id": "a", "texte": "正中午吃午餐期间", "correcte": false },
+{ "id": "b", "texte": "睡觉之前", "correcte": true },
+{ "id": "c", "texte": "在上美术课期间", "correcte": false },
+{ "id": "d", "texte": "星期六早上的集市上", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-046-02",
+"question": "他打开了什么物品来照亮？",
+"reponses": [
+{ "id": "a", "texte": "大厅里的大电视机", "correcte": false },
+{ "id": "b", "texte": "小桌上的现代风格小台灯", "correcte": true },
+{ "id": "c", "texte": "厨房里烤箱的炉火", "correcte": false },
+{ "id": "d", "texte": "智能手机的屏幕", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-046-03",
+"question": "他正在读什么类型的作品？",
+"reponses": [
+{ "id": "a", "texte": "一本困难的练习册", "correcte": false },
+{ "id": "b", "texte": "一本西班牙作家的有趣小说", "correcte": true },
+{ "id": "c", "texte": "一本法语词典", "correcte": false },
+{ "id": "d", "texte": "白色的购物清单", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-046-04",
+"question": "主角是如何翻动纸质书页的？",
+"reponses": [
+{ "id": "a", "texte": "缓缓地且十分专心地", "correcte": true },
+{ "id": "b", "texte": "快速地且发出很大噪音", "correcte": false },
+{ "id": "c", "texte": "在他的朋友卢卡斯协助下", "correcte": false },
+{ "id": "d", "texte": "不翻页，他只看照片", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-046-05",
+"question": "他读几页来获得好睡眠？",
+"reponses": [
+{ "id": "a", "texte": "每晚读一整本书", "correcte": false },
+{ "id": "b", "texte": "读三页内容", "correcte": true },
+{ "id": "c", "texte": "读一百个困难的章节", "correcte": false },
+{ "id": "d", "texte": "一页也不读，立刻睡着", "correcte": false }
+]
+}
+]
+},
+{
+"id": "047",
+"titre": "和朋友一起玩",
+"titre2": "练习 047",
+"texte": [
+"在我的空闲时间里，我非常喜欢和我亲爱的朋友们一起玩。",
+"我们在社区的大院子里或者在广场上见面。",
+"有时候我们在石墙后面玩捉迷藏。",
+"我们聚在一起大声欢笑，并编织有趣且刺激的故事。",
+"和朋友们一起度过时光总能让我感到快乐。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-047-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-047-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-047-01",
+"question": "主角在空闲时间和谁一起玩？",
+"reponses": [
+{ "id": "a", "texte": "和那只叫贝洛的老狗", "correcte": false },
+{ "id": "b", "texte": "和他亲爱的朋友们", "correcte": true },
+{ "id": "c", "texte": "独自在自己的房间里", "correcte": false },
+{ "id": "d", "texte": "和有礼貌的药剂师", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-047-02",
+"question": "小伙子们在哪里见面玩耍？",
+"reponses": [
+{ "id": "a", "texte": "在图书馆的历史课桌旁", "correcte": false },
+{ "id": "b", "texte": "在社区的大院子里或者在广场上", "correcte": true },
+{ "id": "c", "texte": "在车站附近的大超市里", "correcte": false },
+{ "id": "d", "texte": "在学校的洗手间里", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-047-03",
+"question": "小伙子们有时玩什么游戏？",
+"reponses": [
+{ "id": "a", "texte": "在木桌上下一盘国际象棋", "correcte": false },
+{ "id": "b", "texte": "玩捉迷藏", "correcte": true },
+{ "id": "c", "texte": "烹饪一顿素食晚餐", "correcte": false },
+{ "id": "d", "texte": "不玩游戏，只聊天", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-047-04",
+"question": "他们在玩耍期间编织了什么？",
+"reponses": [
+{ "id": "a", "texte": "有趣且刺激的故事", "correcte": true },
+{ "id": "b", "texte": "困难的新数学规则", "correcte": false },
+{ "id": "c", "texte": "一个新颜色的红汽车模型", "correcte": false },
+{ "id": "d", "texte": "做苹果蛋糕的食谱", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-047-05",
+"question": "主角在一天结束时感觉如何？",
+"reponses": [
+{ "id": "a", "texte": "总是感到快乐", "correcte": true },
+{ "id": "b", "texte": "非常无聊且伤心", "correcte": false },
+{ "id": "c", "texte": "焦虑且准备要哭泣", "correcte": false },
+{ "id": "d", "texte": "生病了并且头痛", "correcte": false }
+]
+}
+]
+},
+{
+"id": "048",
+"titre": "去电影院",
+"titre2": "练习 048",
+"texte": [
+"这个星期六晚上，我去购物中心里的大电影院。",
+"我在售票处买了一张票，还买了一包爆米花。",
+"影厅里很暗、很整洁，有许多红色且舒適的座位。",
+"大屏幕上的电影是一部非常好看的西班牙喜剧片。",
+"我和陪我一起过来的朋友们玩得非常开心。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-048-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-048-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-048-01",
+"question": "文中提到的电影院在哪里？",
+"reponses": [
+{ "id": "a", "texte": "在村子的老城区中心", "correcte": false },
+{ "id": "b", "texte": "在购物中心里面", "correcte": true },
+{ "id": "c", "texte": "在法语学校的旁边", "correcte": false },
+{ "id": "d", "texte": "在实用的药店隔壁", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-048-02",
+"question": "他在售票处除了门票还买了什么？",
+"reponses": [
+{ "id": "a", "texte": "一包爆米花", "correcte": true },
+{ "id": "b", "texte": "一个冰凉的巧克力冰激凌", "correcte": false },
+{ "id": "c", "texte": "一本给朋友的故事书", "correcte": false },
+{ "id": "d", "texte": "一瓶白醋", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-048-03",
+"question": "影厅里的座位是什么颜色的？",
+"reponses": [
+{ "id": "a", "texte": "像生菜一样绿油油的", "correcte": false },
+{ "id": "b", "texte": "红色的", "correcte": true },
+{ "id": "c", "texte": "黑色且非常破旧的", "correcte": false },
+{ "id": "d", "texte": "白色且现代化的", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-048-04",
+"question": "屏幕上正在放映什么类型的电影？",
+"reponses": [
+{ "id": "a", "texte": "一部非常好看的西班牙喜剧片", "correcte": true },
+{ "id": "b", "texte": "一部非常沉重的恐怖电影", "correcte": false },
+{ "id": "c", "texte": "一部给儿童看的动画片", "correcte": false },
+{ "id": "d", "texte": "一部关于蜜蜂的纪录片", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-048-05",
+"question": "主角和谁在一起玩得很开心？",
+"reponses": [
+{ "id": "a", "texte": "和他的朋友们", "correcte": true },
+{ "id": "b", "texte": "和学校的卢卡斯与埃琳娜", "correcte": false },
+{ "id": "c", "texte": "和西班牙朋友托马斯", "correcte": false },
+{ "id": "d", "texte": "他独自去了，没有朋友陪同", "correcte": false }
+]
+}
+]
+},
+{
+"id": "049",
+"titre": "我的生日",
+"titre2": "练习 049",
+"texte": [
+"今天是一个非常特别的日子，因为是我的生日。",
+"我的朋友们来到我家，要举办一场美好的派对。",
+"他们带来了许多五颜六色的礼物，并摆在大桌子上。",
+"在我的甜苹果蛋糕上，插着二十根红色的蜡烛。",
+"我用力吹气，许下一个秘密的心愿，大家都开心地笑了起来。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-049-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-049-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-049-01",
+"question": "为什么今天对主角来说是个特别的日子？",
+"reponses": [
+{ "id": "a", "texte": "因为是上课的第一天", "correcte": false },
+{ "id": "b", "texte": "因为是我的生日", "correcte": true },
+{ "id": "c", "texte": "因为要乘坐快车", "correcte": false },
+{ "id": "d", "texte": "因为是村里的集市", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-049-02",
+"question": "主角的朋友们去了哪里？",
+"reponses": [
+{ "id": "a", "texte": "去了市中心的餐馆里", "correcte": false },
+{ "id": "b", "texte": "去了我家", "correcte": true },
+{ "id": "c", "texte": "去了一个大型公共公园", "correcte": false },
+{ "id": "d", "texte": "去了购物中心的电影院", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-049-03",
+"question": "五颜六色的礼物被摆放在哪里？",
+"reponses": [
+{ "id": "a", "texte": "在大桌子上", "correcte": true },
+{ "id": "b", "texte": "在放衣服的棕色衣柜下面", "correcte": false },
+{ "id": "c", "texte": "在蓝色的学校书包里面", "correcte": false },
+{ "id": "d", "texte": "在厨房的冰箱里面", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-049-04",
+"question": "蛋糕上有一共有多少根蜡烛？",
+"reponses": [
+{ "id": "a", "texte": "十根黄色的蜡烛", "correcte": false },
+{ "id": "b", "texte": "二十根红色的蜡烛", "correcte": true },
+{ "id": "c", "texte": "五根粗大的蜡烛", "correcte": false },
+{ "id": "d", "texte": "没有蜡烛", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-049-05",
+"question": "主角吹完蜡烛后做了什么？",
+"reponses": [
+{ "id": "a", "texte": "许下一个秘密的心愿", "correcte": true },
+{ "id": "b", "texte": "吃完了所有的绿生菜", "correcte": false },
+{ "id": "c", "texte": "去洗一个快捷的澡", "correcte": false },
+{ "id": "d", "texte": "给卢卡斯写了一封信", "correcte": false }
+]
+}
+]
+},
+{
+"id": "050",
+"titre": "和家人一起度过星期天",
+"titre2": "练习 050",
+"texte": [
+"星期日是和全家人一起度过的完美日子。",
+"早上，我们在厨房里吃了一顿很长时间的早餐。",
+"我父亲冲了一杯好喝的甜咖啡，我母亲端来了蛋糕。",
+"下午，我们一起在大厅里看了一部有趣的电影。",
+"我们非常团结，非常喜欢共同度过这段宁静的时光。"
+],
+"audios": [
+{ "id": "audio-zh-read-a1-050-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-a1-050-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-a1-050-01",
+"question": "根据文章，哪一天是和家人聚在一起的完美日子？",
+"reponses": [
+{ "id": "a", "texte": "有集市的星期六", "correcte": false },
+{ "id": "b", "texte": "星期日", "correcte": true },
+{ "id": "c", "texte": "不吃肉的星期一", "correcte": false },
+{ "id": "d", "texte": "星期四下午", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-050-02",
+"question": "早上全家人在哪里吃早餐？",
+"reponses": [
+{ "id": "a", "texte": "在大厅的沙发上", "correcte": false },
+{ "id": "b", "texte": "在厨房里", "correcte": true },
+{ "id": "c", "texte": "在街道拐角处的酒吧里", "correcte": false },
+{ "id": "d", "texte": "在社区的大院子里", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-050-03",
+"question": "早上是谁冲了那杯好喝的甜咖啡？",
+"reponses": [
+{ "id": "a", "texte": "主角自己", "correcte": false },
+{ "id": "b", "texte": "我父亲", "correcte": true },
+{ "id": "c", "texte": "埃琳娜奶奶", "correcte": false },
+{ "id": "d", "texte": "朋友卢卡斯", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-050-04",
+"question": "全家人下午一起做了什么？",
+"reponses": [
+{ "id": "a", "texte": "在大厅里一起看了一部有趣的电影", "correcte": true },
+{ "id": "b", "texte": "去市中心的大超级市场", "correcte": false },
+{ "id": "c", "texte": "在菜园里采摘橙色胡萝卜", "correcte": false },
+{ "id": "d", "texte": "打扫学校的教室", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-a1-050-05",
+"question": "他们共同度过的时光被形容为什么？",
+"reponses": [
+{ "id": "a", "texte": "宁静的时光", "correcte": true },
+{ "id": "b", "texte": "非常无聊且充满了功课", "correcte": false },
+{ "id": "c", "texte": "过于吵闹且十分混乱", "correcte": false },
+{ "id": "d", "texte": "让人焦虑的", "correcte": false }
+]
+}
+]
 }
 ]
