@@ -898,5 +898,1208 @@
       {"text": "Le misure adottate hanno prodotto risultati (apprezzabili / trascurabili), sebbene permangano alcune criticità (strutturali / strutturalmente).", "answers": ["apprezzabili", "strutturali"]},
       {"text": "Una strategia efficace deve (coniugare / contrapporre) innovazione e sostenibilità, senza (trascurare / trascurato) le esigenze delle comunità coinvolte.", "answers": ["coniugare", "trascurare"]}
     ]
+  },
+  {
+    "id": "051",
+    "titre": "Lessico avanzato: precisione e proprietà di linguaggio",
+    "definition": "La precisione lessicale consiste nello scegliere parole che esprimono con esattezza il significato desiderato, evitando ambiguità e ripetizioni.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il ricercatore ha formulato un'ipotesi particolarmente {{1}}, sostenuta da dati empirici e da un'analisi {{2}}.",
+        "answers": ["plausibile", "approfondita"]
+      },
+      {
+        "text": "La relazione presenta alcune {{1}} terminologiche che compromettono la {{2}} dell'argomentazione.",
+        "answers": ["imprecisioni", "coerenza"]
+      },
+      {
+        "text": "Per comprendere il fenomeno occorre distinguere le cause {{1}} da quelle puramente {{2}}.",
+        "answers": ["strutturali", "contingenti"]
+      },
+      {
+        "text": "Il documento contiene informazioni {{1}} che devono essere interpretate con particolare {{2}}.",
+        "answers": ["pertinenti", "cautela"]
+      },
+      {
+        "text": "L'autore ha adottato un linguaggio {{1}}, evitando formulazioni {{2}} eccessivamente generiche.",
+        "answers": ["rigoroso", "vaghe"]
+      },
+      {
+        "text": "La scelta di un termine {{1}} può modificare sensibilmente la {{2}} complessiva di una frase.",
+        "answers": ["inappropriato", "comprensione"]
+      },
+      {
+        "text": "La descrizione del fenomeno deve essere {{1}}, affinché non lasci spazio a interpretazioni {{2}}.",
+        "answers": ["inequivocabile", "fuorvianti"]
+      },
+      {
+        "text": "Il relatore ha sintetizzato i risultati con grande {{1}}, senza trascurare alcun elemento {{2}}.",
+        "answers": ["accuratezza", "essenziale"]
+      },
+      {
+        "text": "Una terminologia {{1}} contribuisce a rendere il discorso più {{2}} e comprensibile.",
+        "answers": ["appropriata", "efficace"]
+      },
+      {
+        "text": "La definizione proposta risulta {{1}}, poiché non tiene conto di alcune {{2}} fondamentali.",
+        "answers": ["incompleta", "sfumature"]
+      }
+    ]
+  },
+  {
+    "id": "052",
+    "titre": "Lessico avanzato: sinonimi e sfumature semantiche",
+    "definition": "I sinonimi sono parole dal significato uguale o simile, ma possono presentare differenze di intensità, registro e contesto d'uso.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il ministro ha {{1}} una dichiarazione controversa, suscitando un acceso {{2}} pubblico.",
+        "answers": ["rilasciato", "dibattito"]
+      },
+      {
+        "text": "La proposta è stata {{1}} dopo un'attenta valutazione dei suoi possibili {{2}}.",
+        "answers": ["accantonata", "risvolti"]
+      },
+      {
+        "text": "Il direttore ha {{1}} il progetto, riconoscendone il valore {{2}}.",
+        "answers": ["approvato", "strategico"]
+      },
+      {
+        "text": "Le autorità hanno {{1}} un'indagine per {{2}} le responsabilità individuali.",
+        "answers": ["avviato", "accertare"]
+      },
+      {
+        "text": "La crisi economica ha {{1}} profondamente il mercato, provocando conseguenze {{2}}.",
+        "answers": ["trasformato", "significative"]
+      },
+      {
+        "text": "Il ricercatore ha {{1}} i risultati, mettendo in evidenza le principali {{2}}.",
+        "answers": ["illustrato", "implicazioni"]
+      },
+      {
+        "text": "Il responsabile ha {{1}} l'incontro per consentire ai partecipanti di {{2}} ulteriormente la questione.",
+        "answers": ["rinviato", "approfondire"]
+      },
+      {
+        "text": "La nuova normativa intende {{1}} gli abusi e {{2}} la trasparenza amministrativa.",
+        "answers": ["contrastare", "promuovere"]
+      },
+      {
+        "text": "L'azienda ha {{1}} il proprio organico per far fronte a una domanda sempre più {{2}}.",
+        "answers": ["ampliato", "crescente"]
+      },
+      {
+        "text": "Il portavoce ha {{1}} le accuse, definendole {{2}} di qualsiasi fondamento.",
+        "answers": ["respinto", "prive"]
+      }
+    ]
+  },
+  {
+    "id": "053",
+    "titre": "Lessico avanzato: antonimi e contrasti concettuali",
+    "definition": "Gli antonimi esprimono significati opposti e permettono di costruire confronti, contrapposizioni e ragionamenti più articolati.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Una politica economica {{1}} può generare crescita nel breve periodo, mentre una politica {{2}} mira alla stabilità nel lungo termine.",
+        "answers": ["espansiva", "restrittiva"]
+      },
+      {
+        "text": "Il rapporto distingue le decisioni {{1}} da quelle {{2}}, evidenziando le diverse conseguenze.",
+        "answers": ["consapevoli", "inconsapevoli"]
+      },
+      {
+        "text": "Un'organizzazione {{1}} favorisce la partecipazione, mentre una struttura {{2}} limita il coinvolgimento dei dipendenti.",
+        "answers": ["orizzontale", "verticale"]
+      },
+      {
+        "text": "La distribuzione delle risorse dovrebbe essere {{1}}, evitando concentrazioni eccessive e disparità {{2}}.",
+        "answers": ["equilibrata", "ingiustificate"]
+      },
+      {
+        "text": "Un atteggiamento {{1}} può favorire il dialogo, mentre una posizione {{2}} rischia di alimentare il conflitto.",
+        "answers": ["conciliante", "intransigente"]
+      },
+      {
+        "text": "Il mercato attraversa una fase {{1}} dopo un lungo periodo di espansione e instabilità.",
+        "answers": ["recessiva"]
+      },
+      {
+        "text": "Le prove raccolte sono {{1}} e non possono essere considerate {{2}}.",
+        "answers": ["conclusive", "irrilevanti"]
+      },
+      {
+        "text": "La procedura deve essere {{1}} per garantire la partecipazione di tutti, senza introdurre criteri {{2}}.",
+        "answers": ["inclusiva", "discriminatori"]
+      },
+      {
+        "text": "La distinzione tra interessi {{1}} e collettivi è essenziale per comprendere il conflitto.",
+        "answers": ["individuali"]
+      },
+      {
+        "text": "Una decisione {{1}} può essere rivista, mentre una scelta {{2}} non ammette modifiche.",
+        "answers": ["provvisoria", "definitiva"]
+      }
+    ]
+  },
+  {
+    "id": "054",
+    "titre": "Lessico avanzato: connettivi logici e relazioni argomentative",
+    "definition": "I connettivi logici collegano le idee e indicano rapporti di causa, conseguenza, opposizione, concessione e conclusione.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "L'investimento è aumentato; {{1}}, la produttività non ha registrato miglioramenti significativi.",
+        "answers": ["tuttavia"]
+      },
+      {
+        "text": "La misura è stata introdotta {{1}} ridurre le disuguaglianze e {{2}} migliorare l'accesso ai servizi.",
+        "answers": ["per", "quindi"]
+      },
+      {
+        "text": "Il progetto è ambizioso; {{1}}, richiede risorse finanziarie considerevoli e una pianificazione {{2}}.",
+        "answers": ["nondimeno", "accurata"]
+      },
+      {
+        "text": "La domanda è diminuita {{1}} l'aumento dei prezzi, {{2}} l'offerta è rimasta stabile.",
+        "answers": ["a causa di", "mentre"]
+      },
+      {
+        "text": "Nonostante le difficoltà incontrate, il gruppo ha proseguito il lavoro, {{1}} ha raggiunto gli obiettivi {{2}}.",
+        "answers": ["finché", "prefissati"]
+      },
+      {
+        "text": "La soluzione appare conveniente; {{1}}, occorre valutarne attentamente le conseguenze a lungo {{2}}.",
+        "answers": ["ciononostante", "termine"]
+      },
+      {
+        "text": "La ricerca non è ancora conclusa; {{1}}, i risultati disponibili consentono già alcune {{2}}.",
+        "answers": ["ciononostante", "considerazioni"]
+      },
+      {
+        "text": "L'impresa ha ridotto i costi {{1}} mantenere la competitività, {{2}} ha investito nell'innovazione.",
+        "answers": ["al fine di", "inoltre"]
+      },
+      {
+        "text": "La proposta è stata respinta, {{1}} non rispondesse ai criteri stabiliti e {{2}} comportasse rischi elevati.",
+        "answers": ["poiché", "perché"]
+      },
+      {
+        "text": "I dati confermano l'ipotesi iniziale; {{1}}, si può affermare che l'intervento ha prodotto effetti {{2}}.",
+        "answers": ["pertanto", "significativi"]
+      }
+    ]
+  },
+  {
+    "id": "055",
+    "titre": "Lessico avanzato: preposizioni e costruzioni idiomatiche",
+    "definition": "Le preposizioni stabiliscono relazioni tra gli elementi della frase e sono spesso richieste da verbi, aggettivi e sostantivi specifici.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il ricercatore si è concentrato {{1}} un aspetto trascurato, dimostrando grande attenzione {{2}} dettagli.",
+        "answers": ["su", "ai"]
+      },
+      {
+        "text": "La decisione dipende {{1}} disponibilità delle risorse e {{2}} condizioni del mercato.",
+        "answers": ["dalla", "dalle"]
+      },
+      {
+        "text": "L'azienda è riuscita {{1}} superare la crisi grazie {{2}} una strategia innovativa.",
+        "answers": ["a", "a"]
+      },
+      {
+        "text": "Il progetto mira {{1}} favorire la cooperazione {{2}} le istituzioni locali.",
+        "answers": ["a", "tra"]
+      },
+      {
+        "text": "Il direttore ha insistito {{1}} necessità {{2}} intervenire tempestivamente.",
+        "answers": ["sulla", "di"]
+      },
+      {
+        "text": "La relazione fa riferimento {{1}} risultati ottenuti {{2}} corso dell'ultimo anno.",
+        "answers": ["ai", "nel"]
+      },
+      {
+        "text": "Il candidato è stato escluso {{1}} selezione a causa {{2}} documentazione incompleta.",
+        "answers": ["dalla", "della"]
+      },
+      {
+        "text": "La responsabilità {{1}} gestione ricade {{2}} consiglio di amministrazione.",
+        "answers": ["della", "sul"]
+      },
+      {
+        "text": "L'autore si è espresso {{1}} favore {{2}} una riforma strutturale.",
+        "answers": ["a", "di"]
+      },
+      {
+        "text": "Il successo dell'iniziativa dipende {{1}} capacità {{2}} collaborare efficacemente.",
+        "answers": ["dalla", "di"]
+      }
+    ]
+  },
+  {
+    "id": "056",
+    "titre": "Lessico avanzato: avverbi e intensificatori",
+    "definition": "Gli avverbi modificano il significato di verbi, aggettivi e altre espressioni, precisando modalità, intensità, tempo e frequenza.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "La questione è stata affrontata {{1}}, senza trascurare gli aspetti più {{2}}.",
+        "answers": ["approfonditamente", "delicati"]
+      },
+      {
+        "text": "L'azienda ha reagito {{1}} alla crisi, adottando misure {{2}} efficaci.",
+        "answers": ["tempestivamente", "particolarmente"]
+      },
+      {
+        "text": "Il fenomeno si manifesta {{1}} nelle aree periferiche, dove i servizi sono {{2}} insufficienti.",
+        "answers": ["soprattutto", "spesso"]
+      },
+      {
+        "text": "La proposta è stata accolta {{1}}, benché fosse stata inizialmente considerata {{2}}.",
+        "answers": ["favorevolmente", "improbabile"]
+      },
+      {
+        "text": "Il relatore ha esposto le proprie conclusioni {{1}}, evitando di ricorrere a espressioni {{2}} enfatiche.",
+        "answers": ["chiaramente", "eccessivamente"]
+      },
+      {
+        "text": "Le risorse disponibili sono {{1}} limitate e devono essere utilizzate {{2}}.",
+        "answers": ["estremamente", "razionalmente"]
+      },
+      {
+        "text": "Il progetto procede {{1}}, nonostante gli ostacoli incontrati {{2}}.",
+        "answers": ["gradualmente", "inizialmente"]
+      },
+      {
+        "text": "La decisione è stata presa {{1}}, senza consultare {{2}} gli esperti del settore.",
+        "answers": ["precipitosamente", "preventivamente"]
+      },
+      {
+        "text": "Il fenomeno è {{1}} complesso e non può essere spiegato {{2}}.",
+        "answers": ["indubbiamente", "semplicemente"]
+      },
+      {
+        "text": "L'intervento ha modificato {{1}} la situazione, contribuendo {{2}} alla ripresa economica.",
+        "answers": ["radicalmente", "sensibilmente"]
+      }
+    ]
+  },
+  {
+    "id": "057",
+    "titre": "Lessico avanzato: verbi e reggenze verbali",
+    "definition": "La reggenza verbale riguarda le preposizioni e le costruzioni richieste da determinati verbi per completare correttamente il loro significato.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il direttore ha deciso di {{1}} il progetto e di {{2}} le risorse necessarie.",
+        "answers": ["avviare", "mobilitare"]
+      },
+      {
+        "text": "I cittadini hanno {{1}} contro la decisione, chiedendo alle autorità di {{2}} la questione.",
+        "answers": ["protestato", "riesaminare"]
+      },
+      {
+        "text": "La commissione deve {{1}} i candidati e {{2}} le loro competenze.",
+        "answers": ["selezionare", "valutare"]
+      },
+      {
+        "text": "L'impresa intende {{1}} nuovi mercati e {{2}} la propria presenza internazionale.",
+        "answers": ["conquistare", "consolidare"]
+      },
+      {
+        "text": "Il ricercatore ha {{1}} una teoria e ha successivamente {{2}} la sua validità.",
+        "answers": ["elaborato", "verificato"]
+      },
+      {
+        "text": "Le autorità devono {{1}} le cause dell'incidente e {{2}} eventuali responsabilità.",
+        "answers": ["accertare", "individuare"]
+      },
+      {
+        "text": "Il responsabile ha {{1}} il personale affinché possa {{2}} le nuove procedure.",
+        "answers": ["convocato", "illustrare"]
+      },
+      {
+        "text": "L'organizzazione ha {{1}} un programma destinato a {{2}} le comunità più vulnerabili.",
+        "answers": ["predisposto", "sostenere"]
+      },
+      {
+        "text": "Il governo intende {{1}} la normativa e {{2}} gli strumenti di controllo.",
+        "answers": ["riformare", "rafforzare"]
+      },
+      {
+        "text": "Gli esperti hanno {{1}} i rischi e {{2}} alcune misure preventive.",
+        "answers": ["identificato", "proposto"]
+      }
+    ]
+  },
+  {
+    "id": "058",
+    "titre": "Lessico avanzato: sostantivi astratti e concetti complessi",
+    "definition": "I sostantivi astratti indicano concetti, qualità, condizioni e processi che non possono essere percepiti direttamente attraverso i sensi.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "La {{1}} istituzionale rappresenta una condizione indispensabile per garantire la {{2}} democratica.",
+        "answers": ["trasparenza", "partecipazione"]
+      },
+      {
+        "text": "La mancanza di {{1}} può compromettere la {{2}} di qualsiasi organizzazione.",
+        "answers": ["coesione", "stabilità"]
+      },
+      {
+        "text": "La {{1}} sociale richiede un'effettiva {{2}} delle opportunità.",
+        "answers": ["giustizia", "uguaglianza"]
+      },
+      {
+        "text": "La {{1}} economica dipende anche dalla capacità di affrontare l'{{2}} del mercato.",
+        "answers": ["competitività", "incertezza"]
+      },
+      {
+        "text": "La {{1}} delle istituzioni costituisce un elemento fondamentale per la {{2}} dei cittadini.",
+        "answers": ["credibilità", "fiducia"]
+      },
+      {
+        "text": "L'assenza di {{1}} può favorire la diffusione dell'{{2}} e della disinformazione.",
+        "answers": ["controllo", "irresponsabilità"]
+      },
+      {
+        "text": "La {{1}} ambientale deve conciliarsi con le esigenze dello {{2}} economico.",
+        "answers": ["sostenibilità", "sviluppo"]
+      },
+      {
+        "text": "La {{1}} culturale rappresenta una ricchezza che favorisce il {{2}} tra le comunità.",
+        "answers": ["diversità", "dialogo"]
+      },
+      {
+        "text": "La {{1}} amministrativa è necessaria per assicurare l'{{2}} delle procedure pubbliche.",
+        "answers": ["semplificazione", "efficienza"]
+      },
+      {
+        "text": "La {{1}} delle competenze contribuisce alla {{2}} professionale dei lavoratori.",
+        "answers": ["valorizzazione", "crescita"]
+      }
+    ]
+  },
+  {
+    "id": "059",
+    "titre": "Lessico avanzato: aggettivi qualificativi e valutativi",
+    "definition": "Gli aggettivi qualificativi descrivono caratteristiche e proprietà, mentre quelli valutativi esprimono un giudizio o una valutazione.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "La ricerca ha prodotto risultati {{1}}, offrendo un contributo {{2}} al dibattito scientifico.",
+        "answers": ["significativi", "rilevante"]
+      },
+      {
+        "text": "Il piano presenta obiettivi {{1}}, ma richiede una gestione {{2}} delle risorse.",
+        "answers": ["ambiziosi", "oculata"]
+      },
+      {
+        "text": "La decisione appare {{1}} e potrebbe avere conseguenze {{2}} sull'intero settore.",
+        "answers": ["controversa", "imprevedibili"]
+      },
+      {
+        "text": "L'analisi offre una prospettiva {{1}} su un problema particolarmente {{2}}.",
+        "answers": ["innovativa", "complesso"]
+      },
+      {
+        "text": "Le informazioni raccolte sono {{1}}, ma non ancora {{2}} per formulare una conclusione definitiva.",
+        "answers": ["interessanti", "sufficienti"]
+      },
+      {
+        "text": "Il candidato ha dimostrato una preparazione {{1}} e una notevole capacità {{2}}.",
+        "answers": ["solida", "analitica"]
+      },
+      {
+        "text": "La riforma ha introdotto cambiamenti {{1}}, suscitando reazioni {{2}}.",
+        "answers": ["radicali", "contrastanti"]
+      },
+      {
+        "text": "Un approccio {{1}} consente di affrontare situazioni {{2}} senza ricorrere a soluzioni improvvisate.",
+        "answers": ["metodico", "impreviste"]
+      },
+      {
+        "text": "La relazione contiene osservazioni {{1}} e considerazioni {{2}} sul futuro dell'organizzazione.",
+        "answers": ["pertinenti", "approfondite"]
+      },
+      {
+        "text": "La collaborazione si è rivelata {{1}} per raggiungere un risultato {{2}}.",
+        "answers": ["fondamentale", "soddisfacente"]
+      }
+    ]
+  },
+  {
+    "id": "060",
+    "titre": "Lessico avanzato: congiunzioni e subordinate",
+    "definition": "Le congiunzioni collegano parole, proposizioni e periodi, stabilendo relazioni logiche e sintattiche tra le diverse parti del discorso.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Benché il progetto {{1}} complesso, il gruppo ha deciso di portarlo a termine.",
+        "answers": ["sia"]
+      },
+      {
+        "text": "L'impresa ha continuato a investire, sebbene i risultati non {{1}} ancora soddisfacenti.",
+        "answers": ["fossero"]
+      },
+      {
+        "text": "È necessario intervenire prima che la situazione {{1}} ulteriormente.",
+        "answers": ["peggiori"]
+      },
+      {
+        "text": "Il direttore ha convocato una riunione affinché tutti {{1}} informati sulle nuove disposizioni.",
+        "answers": ["fossero"]
+      },
+      {
+        "text": "Qualora le condizioni {{1}}, il progetto potrebbe essere avviato già il prossimo mese.",
+        "answers": ["migliorassero"]
+      },
+      {
+        "text": "Non appena {{1}} i risultati, la commissione procederà alla valutazione finale.",
+        "answers": ["saranno disponibili"]
+      },
+      {
+        "text": "La proposta sarà accettata purché {{1}} i requisiti stabiliti dal regolamento.",
+        "answers": ["rispetti"]
+      },
+      {
+        "text": "Il ricercatore ha modificato il metodo perché i dati precedenti non {{1}} attendibili.",
+        "answers": ["erano"]
+      },
+      {
+        "text": "Sebbene {{1}} numerose difficoltà, il gruppo è riuscito a completare la ricerca.",
+        "answers": ["avessero incontrato"]
+      },
+      {
+        "text": "Il responsabile ha chiesto che ogni partecipante {{1}} il modulo prima della scadenza.",
+        "answers": ["compilasse"]
+      }
+    ]
+  },
+  {
+    "id": "061",
+    "titre": "Lessico avanzato: pronomi e riferimenti testuali",
+    "definition": "I pronomi sostituiscono nomi o gruppi nominali e permettono di evitare ripetizioni, mantenendo la coesione del testo.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il direttore ha incontrato i collaboratori e {{1}} ha illustrato le nuove direttive.",
+        "answers": ["loro"]
+      },
+      {
+        "text": "La proposta di cui abbiamo discusso ieri è quella {{1}} ritengo più convincente.",
+        "answers": ["che"]
+      },
+      {
+        "text": "Gli esperti hanno esaminato i documenti, alcuni dei {{1}} contenevano informazioni riservate.",
+        "answers": ["quali"]
+      },
+      {
+        "text": "Non conosco la persona {{1}} hai affidato l'incarico.",
+        "answers": ["a cui"]
+      },
+      {
+        "text": "Le misure sono state approvate e {{1}} entreranno in vigore dal prossimo mese.",
+        "answers": ["queste"]
+      },
+      {
+        "text": "Ho letto entrambe le relazioni, ma nessuna delle {{1}} risponde pienamente alla domanda.",
+        "answers": ["due"]
+      },
+      {
+        "text": "Il progetto presenta alcuni vantaggi, tra {{1}} la riduzione dei costi.",
+        "answers": ["cui"]
+      },
+      {
+        "text": "La commissione ha convocato i candidati, ai {{1}} ha chiesto ulteriori chiarimenti.",
+        "answers": ["quali"]
+      },
+      {
+        "text": "Chiunque {{1}} informazioni utili può rivolgersi direttamente all'ufficio competente.",
+        "answers": ["abbia"]
+      },
+      {
+        "text": "Il documento è stato modificato, ma non {{1}} è stata comunicata la versione definitiva.",
+        "answers": ["ne"]
+      }
+    ]
+  },
+  {
+    "id": "062",
+    "titre": "Lessico avanzato: ordine delle parole e costruzione della frase",
+    "definition": "L'ordine delle parole contribuisce a organizzare le informazioni, mettere in evidenza determinati elementi e garantire la chiarezza della frase.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Solo dopo un'attenta verifica {{1}} il responsabile ha deciso di {{2}} il documento.",
+        "answers": ["dei dati", "approvare"]
+      },
+      {
+        "text": "È proprio questa circostanza che {{1}} il problema particolarmente {{2}}.",
+        "answers": ["rende", "complesso"]
+      },
+      {
+        "text": "A suscitare le maggiori preoccupazioni {{1}} la mancanza di risorse {{2}}.",
+        "answers": ["è", "finanziarie"]
+      },
+      {
+        "text": "Non soltanto il personale ha partecipato alla riunione, ma {{1}} ha presentato alcune proposte {{2}}.",
+        "answers": ["ha anche", "innovative"]
+      },
+      {
+        "text": "La questione, già complessa in origine, {{1}} ulteriormente dopo le nuove {{2}}.",
+        "answers": ["si è complicata", "disposizioni"]
+      },
+      {
+        "text": "A rendere credibile l'ipotesi {{1}} soprattutto la coerenza dei {{2}}.",
+        "answers": ["è", "risultati"]
+      },
+      {
+        "text": "Soltanto attraverso una collaborazione costante {{1}} possibile raggiungere risultati {{2}}.",
+        "answers": ["sarà", "duraturi"]
+      },
+      {
+        "text": "Il problema non riguarda esclusivamente i costi, bensì {{1}} la qualità dei {{2}}.",
+        "answers": ["anche", "servizi"]
+      },
+      {
+        "text": "È necessario che ogni partecipante {{1}} con precisione il proprio {{2}}.",
+        "answers": ["conosca", "ruolo"]
+      },
+      {
+        "text": "Di particolare importanza {{1}} le conclusioni a cui è giunto il gruppo di {{2}}.",
+        "answers": ["risultano", "ricerca"]
+      }
+    ]
+  },
+  {
+    "id": "063",
+    "titre": "Lessico avanzato: parole derivate e formazione lessicale",
+    "definition": "La derivazione permette di creare nuove parole attraverso l'aggiunta di prefissi e suffissi a una base lessicale.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "La {{1}} del personale è indispensabile per migliorare la qualità delle prestazioni professionali.",
+        "answers": ["formazione"]
+      },
+      {
+        "text": "L'{{1}} delle procedure amministrative può ridurre i tempi di attesa.",
+        "answers": ["semplificazione"]
+      },
+      {
+        "text": "La {{1}} delle risorse disponibili richiede criteri di gestione trasparenti.",
+        "answers": ["ottimizzazione"]
+      },
+      {
+        "text": "L'{{1}} dei processi produttivi rappresenta una priorità per molte imprese.",
+        "answers": ["innovazione"]
+      },
+      {
+        "text": "La {{1}} delle competenze consente ai lavoratori di affrontare nuove responsabilità.",
+        "answers": ["specializzazione"]
+      },
+      {
+        "text": "L'{{1}} delle informazioni può provocare gravi conseguenze sul piano decisionale.",
+        "answers": ["incompletezza"]
+      },
+      {
+        "text": "La {{1}} delle attività economiche favorisce la nascita di nuovi settori produttivi.",
+        "answers": ["diversificazione"]
+      },
+      {
+        "text": "La {{1}} delle strutture organizzative deve essere accompagnata da un'adeguata pianificazione.",
+        "answers": ["riorganizzazione"]
+      },
+      {
+        "text": "La {{1}} dei risultati permette di individuare eventuali errori metodologici.",
+        "answers": ["verificabilità"]
+      },
+      {
+        "text": "La {{1}} dei servizi pubblici costituisce un obiettivo fondamentale delle riforme amministrative.",
+        "answers": ["modernizzazione"]
+      }
+    ]
+  },
+  {
+    "id": "064",
+    "titre": "Lessico avanzato: paronimi e somiglianze lessicali",
+    "definition": "I paronimi sono parole dalla forma simile ma dal significato diverso. Il loro uso richiede attenzione al contesto e alla precisione semantica.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il nuovo provvedimento avrà un effetto {{1}} sulle piccole imprese e un impatto economico {{2}}.",
+        "answers": ["rilevante", "significativo"]
+      },
+      {
+        "text": "La commissione ha deciso di {{1}} il candidato dopo averne verificato le credenziali.",
+        "answers": ["ammettere"]
+      },
+      {
+        "text": "Il direttore ha chiesto di {{1}} i documenti originali prima di procedere alla registrazione.",
+        "answers": ["consegnare"]
+      },
+      {
+        "text": "La nuova normativa intende {{1}} le competenze degli enti locali.",
+        "answers": ["attribuire"]
+      },
+      {
+        "text": "L'autore ha voluto {{1}} la propria posizione attraverso un'argomentazione più articolata.",
+        "answers": ["chiarire"]
+      },
+      {
+        "text": "Il responsabile ha invitato i collaboratori a {{1}} il contenuto della relazione.",
+        "answers": ["comprendere"]
+      },
+      {
+        "text": "La società ha deciso di {{1}} il capitale per sostenere il nuovo investimento.",
+        "answers": ["aumentare"]
+      },
+      {
+        "text": "La relazione deve {{1}} con precisione le condizioni previste dal contratto.",
+        "answers": ["descrivere"]
+      },
+      {
+        "text": "L'analisi ha permesso di {{1}} le differenze tra i due modelli economici.",
+        "answers": ["evidenziare"]
+      },
+      {
+        "text": "La commissione ha ritenuto {{1}} la documentazione presentata dal richiedente.",
+        "answers": ["idonea"]
+      }
+    ]
+  },
+  {
+    "id": "065",
+    "titre": "Lessico avanzato: negazione e costruzioni negative",
+    "definition": "La negazione modifica il valore di una frase e può essere espressa mediante avverbi, pronomi e locuzioni negative.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Non abbiamo ricevuto {{1}} comunicazione ufficiale, né abbiamo potuto contattare {{2}} responsabile.",
+        "answers": ["alcuna", "il"]
+      },
+      {
+        "text": "La proposta non è stata respinta, ma {{1}} è stata ancora {{2}}.",
+        "answers": ["non", "approvata"]
+      },
+      {
+        "text": "Nessuno dei partecipanti ha saputo fornire una risposta {{1}} alla questione {{2}}.",
+        "answers": ["convincente", "sollevata"]
+      },
+      {
+        "text": "Nonostante le verifiche, non è emersa {{1}} prova che possa {{2}} l'ipotesi iniziale.",
+        "answers": ["alcuna", "confermare"]
+      },
+      {
+        "text": "Il responsabile non ha {{1}} intenzione di modificare il programma, né di {{2}} ulteriori ritardi.",
+        "answers": ["alcuna", "provocare"]
+      },
+      {
+        "text": "Non è possibile procedere {{1}} che tutti i documenti siano stati {{2}}.",
+        "answers": ["prima", "verificati"]
+      },
+      {
+        "text": "La commissione non ha trovato {{1}} elemento che giustificasse una decisione {{2}}.",
+        "answers": ["alcun", "negativa"]
+      },
+      {
+        "text": "Né il direttore né i collaboratori hanno {{1}} informazioni sufficienti per prendere una decisione {{2}}.",
+        "answers": ["ricevuto", "definitiva"]
+      },
+      {
+        "text": "Non solo il progetto non è stato completato, ma non sono state neppure {{1}} le risorse {{2}}.",
+        "answers": ["stanziate", "necessarie"]
+      },
+      {
+        "text": "Non c'è {{1}} ragione per cui il problema non possa essere {{2}}.",
+        "answers": "alcuna",
+        "answers": ["risolto"]
+      }
+    ]
+  },
+  {
+    "id": "066",
+    "titre": "Lessico avanzato: articoli e determinanti",
+    "definition": "Gli articoli e i determinanti accompagnano i sostantivi, precisandone il genere, il numero, la quantità e il grado di specificità.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Durante {{1}} riunione, il presidente ha presentato {{2}} nuove direttive.",
+        "answers": ["la", "le"]
+      },
+      {
+        "text": "Abbiamo esaminato {{1}} documenti disponibili e individuato {{2}} incongruenze.",
+        "answers": ["tutti i", "alcune"]
+      },
+      {
+        "text": "{{1}} candidato dovrà presentare {{2}} documentazione richiesta entro la scadenza.",
+        "answers": ["ogni", "la"]
+      },
+      {
+        "text": "Nonostante {{1}} difficoltà, il gruppo ha portato a termine {{2}} attività.",
+        "answers": ["le", "tutte le"]
+      },
+      {
+        "text": "{{1}} delle proposte presentate è stata accolta, mentre {{2}} sono state respinte.",
+        "answers": ["una", "le altre"]
+      },
+      {
+        "text": "La commissione ha valutato {{1}} candidatura sulla base di {{2}} criteri.",
+        "answers": ["ciascuna", "precisi"]
+      },
+      {
+        "text": "Non abbiamo ancora ricevuto {{1}} risposta da {{2}} istituzioni coinvolte.",
+        "answers": ["alcuna", "entrambe le"]
+      },
+      {
+        "text": "{{1}} maggior parte dei partecipanti ha espresso {{2}} opinione favorevole.",
+        "answers": ["La", "un'"]
+      },
+      {
+        "text": "Il responsabile ha richiesto {{1}} ulteriori chiarimenti prima di firmare {{2}} accordo.",
+        "answers": "alcuni",
+        "answers": ["l'"]
+      },
+      {
+        "text": "{{1}} informazioni raccolte non sono sufficienti per formulare {{2}} conclusione definitiva.",
+        "answers": ["Le", "una"]
+      }
+    ]
+  },
+  {
+    "id": "067",
+    "titre": "Lessico avanzato: comparativi e superlativi",
+    "definition": "Il comparativo esprime un confronto tra elementi, mentre il superlativo indica il grado massimo di una qualità.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "La seconda proposta è {{1}} convincente della prima, ma risulta {{2}} costosa.",
+        "answers": ["più", "meno"]
+      },
+      {
+        "text": "Questo è uno dei risultati {{1}} significativi ottenuti dal gruppo di ricerca.",
+        "answers": ["più"]
+      },
+      {
+        "text": "La situazione economica è {{1}} complessa di quanto previsto inizialmente.",
+        "answers": ["più"]
+      },
+      {
+        "text": "Tra tutti i candidati, Marta ha ottenuto il punteggio {{1}} elevato.",
+        "answers": ["più"]
+      },
+      {
+        "text": "Il nuovo sistema è {{1}} efficiente del precedente e {{2}} semplice da utilizzare.",
+        "answers": ["più", "più"]
+      },
+      {
+        "text": "La questione si è rivelata {{1}} delicata di quanto sembrasse all'inizio.",
+        "answers": ["più"]
+      },
+      {
+        "text": "La soluzione adottata è {{1}} adatta alle esigenze dell'organizzazione.",
+        "answers": ["la più"]
+      },
+      {
+        "text": "Il rapporto presenta dati {{1}} completi e conclusioni {{2}} articolate rispetto alla versione precedente.",
+        "answers": ["più", "meno"]
+      },
+      {
+        "text": "Questo modello è {{1}} affidabile tra quelli attualmente disponibili.",
+        "answers": ["il più"]
+      },
+      {
+        "text": "La nuova strategia si è dimostrata {{1}} vantaggiosa e {{2}} sostenibile nel lungo periodo.",
+        "answers": ["estremamente", "più"]
+      }
+    ]
+  },
+  {
+    "id": "068",
+    "titre": "Lessico avanzato: complementi e funzioni sintattiche",
+    "definition": "I complementi arricchiscono la frase indicando circostanze, cause, finalità, strumenti, destinatari e altri elementi legati all'azione.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il ricercatore ha completato l'analisi {{1}} una metodologia rigorosa.",
+        "answers": ["mediante"]
+      },
+      {
+        "text": "La riunione è stata rinviata {{1}} un'improvvisa indisponibilità del presidente.",
+        "answers": ["a causa di"]
+      },
+      {
+        "text": "L'organizzazione ha predisposto un programma {{1}} i giovani in cerca di occupazione.",
+        "answers": ["per"]
+      },
+      {
+        "text": "I risultati sono stati comunicati {{1}} tutti i membri della commissione.",
+        "answers": ["a"]
+      },
+      {
+        "text": "Il progetto è stato realizzato {{1}} una collaborazione internazionale.",
+        "answers": ["grazie a"]
+      },
+      {
+        "text": "La società ha investito nuove risorse {{1}} migliorare la qualità dei servizi.",
+        "answers": ["per"]
+      },
+      {
+        "text": "Il responsabile ha risposto alle domande {{1}} grande precisione.",
+        "answers": ["con"]
+      },
+      {
+        "text": "La documentazione deve essere presentata {{1}} il termine stabilito.",
+        "answers": ["entro"]
+      },
+      {
+        "text": "Le decisioni sono state prese {{1}} le indicazioni fornite dagli esperti.",
+        "answers": ["sulla base di"]
+      },
+      {
+        "text": "L'intervento è stato finanziato {{1}} fondi pubblici e contributi privati.",
+        "answers": ["con"]
+      }
+    ]
+  },
+  {
+    "id": "069",
+    "titre": "Lessico avanzato: frasi interrogative e domande indirette",
+    "definition": "Le frasi interrogative servono a formulare domande dirette o indirette e richiedono una corretta scelta degli elementi interrogativi.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il direttore ha chiesto {{1}} il progetto sarebbe stato completato e {{2}} sarebbero stati i costi finali.",
+        "answers": ["quando", "quali"]
+      },
+      {
+        "text": "Non è ancora chiaro {{1}} abbia autorizzato la modifica e {{2}} sia stata presa questa decisione.",
+        "answers": ["chi", "perché"]
+      },
+      {
+        "text": "Vorrei sapere {{1}} documenti siano necessari e {{2}} debbano essere consegnati.",
+        "answers": ["quali", "quando"]
+      },
+      {
+        "text": "La commissione si domanda {{1}} il candidato possieda le competenze richieste e {{2}} possa assumere l'incarico.",
+        "answers": ["se", "quando"]
+      },
+      {
+        "text": "Il responsabile ha chiesto {{1}} la procedura sia stata modificata e {{2}} abbia preso tale iniziativa.",
+        "answers": ["perché", "chi"]
+      },
+      {
+        "text": "Non sappiamo {{1}} saranno disponibili i risultati né {{2}} potranno essere consultati.",
+        "answers": ["quando", "dove"]
+      },
+      {
+        "text": "È necessario comprendere {{1}} siano le cause del problema e {{2}} possa essere risolto.",
+        "answers": ["quali", "come"]
+      },
+      {
+        "text": "Mi interessa sapere {{1}} hai scelto questa soluzione e {{2}} alternative hai considerato.",
+        "answers": ["perché", "quali"]
+      },
+      {
+        "text": "Il presidente ha domandato {{1}} partecipanti fossero presenti e {{2}} avessero confermato la propria adesione.",
+        "answers": ["quanti", "quanti"]
+      },
+      {
+        "text": "Non è stato ancora stabilito {{1}} si terrà la conferenza né {{2}} saranno gli interventi previsti.",
+        "answers": ["dove", "quanti"]
+      }
+    ]
+  },
+  {
+    "id": "070",
+    "titre": "Lessico avanzato: frasi subordinate e concordanza dei tempi",
+    "definition": "La concordanza dei tempi verbali permette di stabilire correttamente i rapporti temporali tra la proposizione principale e quelle subordinate.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il direttore ha dichiarato che il progetto {{1}} entro la fine dell'anno.",
+        "answers": ["sarebbe stato completato"]
+      },
+      {
+        "text": "Pensavo che i risultati {{1}} più incoraggianti, ma la situazione è risultata diversa.",
+        "answers": ["fossero"]
+      },
+      {
+        "text": "Gli esperti ritengono che la nuova misura {{1}} effetti positivi nel lungo periodo.",
+        "answers": ["produrrà"]
+      },
+      {
+        "text": "Quando il responsabile {{1}}, la commissione aveva già concluso la valutazione.",
+        "answers": ["è arrivato"]
+      },
+      {
+        "text": "Speravamo che tutti i partecipanti {{1}} in tempo per l'inizio della conferenza.",
+        "answers": ["arrivassero"]
+      },
+      {
+        "text": "Il ministro ha confermato che le trattative {{1}} già il giorno precedente.",
+        "answers": ["erano iniziate"]
+      },
+      {
+        "text": "È probabile che il governo {{1}} ulteriori provvedimenti nei prossimi mesi.",
+        "answers": ["adotti"]
+      },
+      {
+        "text": "Non credevo che l'iniziativa {{1}} un successo così significativo.",
+        "answers": ["avrebbe ottenuto"]
+      },
+      {
+        "text": "Dopo che i dati {{1}}, sarà possibile elaborare una relazione definitiva.",
+        "answers": ["saranno stati verificati"]
+      },
+      {
+        "text": "Il ricercatore sosteneva che il fenomeno {{1}} da molteplici fattori.",
+        "answers": ["fosse determinato"]
+      }
+    ]
+  },
+  {
+    "id": "071",
+    "titre": "Lessico avanzato: espressioni idiomatiche e locuzioni",
+    "definition": "Le espressioni idiomatiche e le locuzioni hanno un significato complessivo che spesso non coincide con quello delle singole parole che le compongono.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Dopo mesi di trattative, le due parti sono finalmente riuscite a trovare un {{1}}.",
+        "answers": ["accordo"]
+      },
+      {
+        "text": "Il direttore ha preferito mantenere il {{1}} sulla questione fino alla conclusione dell'indagine.",
+        "answers": ["riserbo"]
+      },
+      {
+        "text": "La proposta è stata accolta con grande {{1}} da parte dei membri della commissione.",
+        "answers": ["favore"]
+      },
+      {
+        "text": "Il responsabile ha preso una decisione {{1}} per evitare ulteriori ritardi.",
+        "answers": ["di petto"]
+      },
+      {
+        "text": "Le nuove disposizioni sono entrate in {{1}} all'inizio del mese.",
+        "answers": ["vigore"]
+      },
+      {
+        "text": "Il progetto è stato realizzato in stretta {{1}} con le autorità locali.",
+        "answers": ["collaborazione"]
+      },
+      {
+        "text": "Il ricercatore ha messo in {{1}} i limiti del modello utilizzato.",
+        "answers": ["evidenza"]
+      },
+      {
+        "text": "La questione deve essere affrontata tenendo {{1}} delle esigenze di tutti i soggetti coinvolti.",
+        "answers": ["conto"]
+      },
+      {
+        "text": "Il nuovo regolamento è stato elaborato allo scopo di fare {{1}} alle criticità emerse.",
+        "answers": ["fronte"]
+      },
+      {
+        "text": "Le autorità hanno deciso di intervenire in {{1}} per evitare il peggioramento della situazione.",
+        "answers": ["tempo"]
+      }
+    ]
+  },
+  {
+    "id": "072",
+    "titre": "Lessico avanzato: parole polisemiche e significati contestuali",
+    "definition": "Le parole polisemiche possiedono più significati, che vengono determinati dal contesto in cui sono utilizzate.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Il presidente ha aperto la {{1}} con un discorso dedicato alle prospettive economiche.",
+        "answers": ["seduta"]
+      },
+      {
+        "text": "L'azienda ha registrato un notevole {{1}} della produzione durante l'ultimo trimestre.",
+        "answers": ["incremento"]
+      },
+      {
+        "text": "Il giudice ha emesso una {{1}} definitiva dopo aver esaminato tutte le prove.",
+        "answers": ["sentenza"]
+      },
+      {
+        "text": "La banca ha concesso un {{1}} destinato a finanziare l'acquisto di macchinari.",
+        "answers": ["prestito"]
+      },
+      {
+        "text": "Il ricercatore ha individuato una {{1}} significativa tra le variabili analizzate.",
+        "answers": ["correlazione"]
+      },
+      {
+        "text": "La società ha modificato il proprio {{1}} commerciale per raggiungere nuovi clienti.",
+        "answers": ["assetto"]
+      },
+      {
+        "text": "Il direttore ha chiesto di predisporre una {{1}} dettagliata delle spese sostenute.",
+        "answers": ["relazione"]
+      },
+      {
+        "text": "Il governo ha introdotto una nuova {{1}} fiscale per sostenere gli investimenti.",
+        "answers": ["misura"]
+      },
+      {
+        "text": "Il candidato ha dimostrato una notevole {{1}} nell'affrontare situazioni impreviste.",
+        "answers": ["prontezza"]
+      },
+      {
+        "text": "Il documento contiene una {{1}} esplicita alle disposizioni previste dal regolamento.",
+        "answers": ["menzione"]
+      }
+    ]
+  },
+  {
+    "id": "073",
+    "titre": "Lessico avanzato: registro formale e linguaggio professionale",
+    "definition": "Il registro formale utilizza un lessico preciso, strutture appropriate e formule linguistiche adatte ai contesti istituzionali e professionali.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Con la presente, siamo a {{1}} la nostra disponibilità a collaborare all'iniziativa.",
+        "answers": ["comunicare"]
+      },
+      {
+        "text": "La invitiamo cortesemente a {{1}} la documentazione richiesta entro il termine {{2}}.",
+        "answers": ["trasmettere", "stabilito"]
+      },
+      {
+        "text": "In riferimento alla Sua richiesta, desideriamo {{1}} alcune precisazioni di carattere {{2}}.",
+        "answers": ["fornire", "amministrativo"]
+      },
+      {
+        "text": "Restiamo in attesa di un Suo {{1}} e Le porgiamo i nostri più {{2}} saluti.",
+        "answers": ["riscontro", "cordiali"]
+      },
+      {
+        "text": "La comunicazione è stata inviata al fine di {{1}} i destinatari sulle nuove {{2}}.",
+        "answers": ["informare", "disposizioni"]
+      },
+      {
+        "text": "Si richiede ai partecipanti di {{1}} puntualmente alla riunione e di rispettare l'ordine del {{2}}.",
+        "answers": ["presenziare", "giorno"]
+      },
+      {
+        "text": "La domanda sarà presa in {{1}} soltanto dopo la verifica della documentazione {{2}}.",
+        "answers": ["esame", "allegata"]
+      },
+      {
+        "text": "A seguito della Sua comunicazione, abbiamo provveduto a {{1}} le informazioni {{2}}.",
+        "answers": ["aggiornare", "necessarie"]
+      },
+      {
+        "text": "Si comunica che la procedura è stata {{1}} in conformità alle disposizioni {{2}}.",
+        "answers": ["completata", "vigenti"]
+      },
+      {
+        "text": "La ringraziamo per la collaborazione e per l'attenzione {{1}} alla presente {{2}}.",
+        "answers": ["prestata", "comunicazione"]
+      }
+    ]
+  },
+  {
+    "id": "074",
+    "titre": "Lessico avanzato: linguaggio accademico e scientifico",
+    "definition": "Il linguaggio accademico e scientifico si caratterizza per precisione terminologica, coerenza argomentativa e uso di formulazioni oggettive.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "Lo studio si propone di {{1}} le dinamiche che influenzano la {{2}} economica.",
+        "answers": ["analizzare", "distribuzione"]
+      },
+      {
+        "text": "I risultati empirici sembrano {{1}} l'ipotesi formulata nella fase {{2}} della ricerca.",
+        "answers": ["confermare", "preliminare"]
+      },
+      {
+        "text": "La metodologia adottata consente di {{1}} le variabili e di ridurre possibili {{2}}.",
+        "answers": ["controllare", "distorsioni"]
+      },
+      {
+        "text": "L'analisi comparativa mette in {{1}} le differenze tra i modelli teorici {{2}}.",
+        "answers": ["evidenza", "considerati"]
+      },
+      {
+        "text": "La ricerca presenta alcuni {{1}} metodologici che dovranno essere approfonditi in studi {{2}}.",
+        "answers": ["limiti", "successivi"]
+      },
+      {
+        "text": "L'autore propone un quadro {{1}} per interpretare le trasformazioni {{2}}.",
+        "answers": ["teorico", "sociali"]
+      },
+      {
+        "text": "Le osservazioni raccolte sono state sottoposte a un processo di {{1}} e {{2}}.",
+        "answers": ["verifica", "validazione"]
+      },
+      {
+        "text": "La letteratura scientifica evidenzia una crescente {{1}} verso questo {{2}} di ricerca.",
+        "answers": ["attenzione", "ambito"]
+      },
+      {
+        "text": "L'ipotesi iniziale deve essere {{1}} alla luce delle nuove {{2}} disponibili.",
+        "answers": ["riesaminata", "evidenze"]
+      },
+      {
+        "text": "La conclusione sottolinea la necessità di ulteriori {{1}} per consolidare le {{2}} ottenute.",
+        "answers": ["indagini", "conoscenze"]
+      }
+    ]
+  },
+  {
+    "id": "075",
+    "titre": "Lessico avanzato: padronanza lessicale e costruzioni complesse",
+    "definition": "La padronanza lessicale avanzata richiede la capacità di combinare correttamente diverse categorie grammaticali e di adattare il linguaggio a contesti complessi.",
+    "instruction": "Completate ogni frase inserendo le parole mancanti.",
+    "questions": [
+      {
+        "text": "La trasformazione digitale impone alle organizzazioni di {{1}} le proprie strategie, affinché possano rimanere {{2}} in un mercato sempre più competitivo.",
+        "answers": ["rivedere", "competitive"]
+      },
+      {
+        "text": "Sebbene le risorse siano {{1}}, l'amministrazione deve garantire una distribuzione {{2}} ed evitare qualsiasi forma di {{3}}.",
+        "answers": ["limitate", "equa", "spreco"]
+      },
+      {
+        "text": "Il successo dell'iniziativa dipenderà dalla capacità di {{1}} gli interessi individuali con le esigenze {{2}} e di mantenere un dialogo {{3}}.",
+        "answers": ["conciliare", "collettive", "costruttivo"]
+      },
+      {
+        "text": "Le conclusioni dello studio risultano {{1}}, poiché si basano su dati {{2}} e su una metodologia {{3}}.",
+        "answers": ["attendibili", "verificabili", "rigorosa"]
+      },
+      {
+        "text": "Per affrontare una crisi {{1}}, è indispensabile agire {{2}}, adottando misure {{3}} e coordinate.",
+        "answers": ["imprevista", "tempestivamente", "coerenti"]
+      },
+      {
+        "text": "La riforma mira a {{1}} le disuguaglianze, a {{2}} l'accesso ai servizi e a rafforzare la {{3}} istituzionale.",
+        "answers": ["ridurre", "migliorare", "fiducia"]
+      },
+      {
+        "text": "Il candidato ha dimostrato di saper {{1}} informazioni complesse, individuare le questioni {{2}} e formulare conclusioni {{3}}.",
+        "answers": ["interpretare", "essenziali", "fondate"]
+      },
+      {
+        "text": "La cooperazione internazionale rappresenta uno strumento {{1}} per affrontare problemi che non possono essere risolti {{2}} da un singolo {{3}}.",
+        "answers": ["fondamentale", "autonomamente", "paese"]
+      },
+      {
+        "text": "Un'amministrazione {{1}} deve agire con {{2}}, rispettare le norme vigenti e garantire la {{3}} delle proprie decisioni.",
+        "answers": ["responsabile", "imparzialità", "trasparenza"]
+      },
+      {
+        "text": "La capacità di adattarsi ai cambiamenti, di {{1}} le proprie competenze e di affrontare l'incertezza costituisce un vantaggio {{2}} nel contesto {{3}}.",
+        "answers": ["aggiornare", "competitivo", "professionale"]
+      }
+    ]
   }
 ]
+
