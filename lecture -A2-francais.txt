@@ -1,9 +1,682 @@
+[
+  {
+    "id": "001",
+    "titre": "Ma journée habituelle",
+    "titre2": "Exercice 001",
+    "texte": [
+      "Chaque jour de la semaine, je me lève à sept heures du matin pour aller travailler.",
+      "Je prends une douche rapide et je m'habille avec des vêtements confortables.",
+      "Ensuite, je vais dans la cuisine pour préparer un café noir et lire le journal.",
+      "Je quitte ma maison à huit heures pile pour prendre le bus qui va au centre-ville.",
+      "Le soir, après le travail, je rentre chez moi fatigué mais content de ma journée."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-001-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-001-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-001-01",
+        "question": "À quelle heure le narrateur se lève-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "À six heures", "correcte": false },
+          { "id": "b", "texte": "À sept heures", "correcte": true },
+          { "id": "c", "texte": "À huit heures", "correcte": false },
+          { "id": "d", "texte": "À neuf heures", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-02",
+        "question": "Quels types de vêtements choisit-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Des vêtements élégants", "correcte": false },
+          { "id": "b", "texte": "Des vêtements de sport", "correcte": false },
+          { "id": "c", "texte": "Des vêtements confortables", "correcte": true },
+          { "id": "d", "texte": "Un costume noir", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-03",
+        "question": "Que fait le narrateur dans la cuisine ?",
+        "reponses": [
+          { "id": "a", "texte": "Il prépare un grand gâteau", "correcte": false },
+          { "id": "b", "texte": "Il lave la vaisselle de la veille", "correcte": false },
+          { "id": "c", "texte": "Il prépare un café noir et lit le journal", "correcte": true },
+          { "id": "d", "texte": "Il écoute de la musique à la radio", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-04",
+        "question": "Comment se déplace-t-il pour aller au centre-ville ?",
+        "reponses": [
+          { "id": "a", "texte": "En prenant le bus", "correcte": true },
+          { "id": "b", "texte": "En voiture personnelle", "correcte": false },
+          { "id": "c", "texte": "À pied en marchant vite", "correcte": false },
+          { "id": "d", "texte": "En prenant le métro", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-001-05",
+        "question": "Comment se sent-il quand il rentre le soir ?",
+        "reponses": [
+          { "id": "a", "texte": "Fatigué mais content", "correcte": true },
+          { "id": "b", "texte": "En colère et stressé", "correcte": false },
+          { "id": "c", "texte": "Triste et solitaire", "correcte": false },
+          { "id": "d", "texte": "Plein d'énergie pour cuisiner", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Le réveil et la préparation du matin",
+    "titre2": "Exercice 002",
+    "texte": [
+      "Le réveil sonne toujours à six heures et demie, ce qui est un peu tôt pour moi.",
+      "Je reste souvent cinq minutes de plus dans mon lit avant de me lever définitivement.",
+      "Dans la salle de bain, je me lave le visage à l'eau froide pour bien me réveiller.",
+      "Je me brosse les dents soigneusement et je me coiffe devant le grand miroir.",
+      "Quand je suis enfin prêt, je range mon sac avec toutes les affaires importantes."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-002-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-002-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-002-01",
+        "question": "À quelle heure le réveil sonne-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "À six heures", "correcte": false },
+          { "id": "b", "texte": "À six heures et demie", "correcte": true },
+          { "id": "c", "texte": "À sept heures", "correcte": false },
+          { "id": "d", "texte": "À sept heures et demie", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-002-02",
+        "question": "Combien de temps de plus le narrateur reste-t-il au lit ?",
+        "reponses": [
+          { "id": "a", "texte": "Dix minutes", "correcte": false },
+          { "id": "b", "texte": "Une demi-heure", "correcte": false },
+          { "id": "c", "texte": "Cinq minutes", "correcte": true },
+          { "id": "d", "texte": "Il se lève immédiatement", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-002-03",
+        "question": "Pourquoi se lave-t-il le visage à l'eau froide ?",
+        "reponses": [
+          { "id": "a", "texte": "Parce qu'il n'y a plus d'eau chaude", "correcte": false },
+          { "id": "b", "texte": "Parce que c'est bon pour la peau", "correcte": false },
+          { "id": "c", "texte": "Pour bien se réveiller", "correcte": true },
+          { "id": "d", "texte": "Pour nettoyer une tache", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-002-04",
+        "question": "Où le narrateur se coiffe-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Devant le grand miroir", "correcte": true },
+          { "id": "b", "texte": "Dans sa chambre à coucher", "correcte": false },
+          { "id": "c", "texte": "Dans le couloir de l'entrée", "correcte": false },
+          { "id": "d", "texte": "Dans l'ascenseur de l'immeuble", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-002-05",
+        "question": "Que fait-il quand il est enfin prêt ?",
+        "reponses": [
+          { "id": "a", "texte": "Il range son sac avec ses affaires", "correcte": true },
+          { "id": "b", "texte": "Il regarde la télévision", "correcte": false },
+          { "id": "c", "texte": "Il appelle un ami au téléphone", "correcte": false },
+          { "id": "d", "texte": "Il se recouche immédiatement", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Mon petit-déjeuner préféré",
+    "titre2": "Exercice 003",
+    "texte": [
+      "Le matin, le petit-déjeuner est le repas le plus important et le plus agréable pour moi.",
+      "J'adore manger deux croissants frais achetés rapidement à la boulangerie du quartier.",
+      "Je bois aussi un grand verre de jus d'orange bien frais pour faire le plein de vitamines.",
+      "Parfois, quand j'ai assez de temps, je mange un yaourt nature avec des morceaux de fruits.",
+      "Ce moment de calme me permet de commencer la journée avec une excellente énergie."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-003-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-003-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-003-01",
+        "question": "Quel est le repas le plus important du matin pour le narrateur ?",
+        "reponses": [
+          { "id": "a", "texte": "Le déjeuner", "correcte": false },
+          { "id": "b", "texte": "Le petit-déjeuner", "correcte": true },
+          { "id": "c", "texte": "Le dîner", "correcte": false },
+          { "id": "d", "texte": "Le goûter", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-003-02",
+        "question": "Où achète-t-il les croissants frais ?",
+        "reponses": [
+          { "id": "a", "texte": "Au supermarché", "correcte": false },
+          { "id": "b", "texte": "Au marché central", "correcte": false },
+          { "id": "c", "texte": "À la boulangerie du quartier", "correcte": true },
+          { "id": "d", "texte": "Dans une station-service", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-003-03",
+        "question": "Quelle boisson choisit-il pour avoir des vitamines ?",
+        "reponses": [
+          { "id": "a", "texte": "Un thé vert", "correcte": false },
+          { "id": "b", "texte": "Un chocolat chaud", "correcte": false },
+          { "id": "c", "texte": "Un grand verre de jus d'orange", "correcte": true },
+          { "id": "d", "texte": "Une bouteille d'eau gazeuse", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-003-04",
+        "question": "Que mange-t-il parfois lorsqu'il a assez de temps ?",
+        "reponses": [
+          { "id": "a", "texte": "Un yaourt nature avec des fruits", "correcte": true },
+          { "id": "b", "texte": "Des œufs au plat avec du bacon", "correcte": false },
+          { "id": "c", "texte": "Des tartines de confiture de fraise", "correcte": false },
+          { "id": "d", "texte": "Une assiette de riz chaud", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-003-05",
+        "question": "Quel est l'avantage de ce moment de calme ?",
+        "reponses": [
+          { "id": "a", "texte": "Commencer la journée avec une excellente énergie", "correcte": true },
+          { "id": "b", "texte": "Pouvoir dormir plus longtemps", "correcte": false },
+          { "id": "c", "texte": "Éviter d'aller travailler", "correcte": false },
+          { "id": "d", "texte": "Finir ses devoirs en retard", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Une journée bien remplie",
+    "titre2": "Exercice 004",
+    "texte": [
+      "Aujourd'hui, j'ai un emploi du temps très chargé avec beaucoup de réunions importantes.",
+      "Je commence par travailler sur un projet difficile avec mes collègues de bureau.",
+      "À midi, nous mangeons ensemble rapidement dans un petit restaurant italien juste à côté.",
+      "L'après-midi, je dois répondre à de nombreux courriels et passer des appels urgents.",
+      "Même si la journée est fatigante, j'aime rester actif et finir toutes mes tâches."
+    ],
+    "audios": [
+    { "id": "audio-fr-read-a2-004-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-004-2", "url": "soundcloud.com" }
+],
+"questions": [
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+"id": "q-fr-read-a2-004-01",
+"question": "Comment est l'emploi du temps du narrateur aujourd'hui ?",
+"reponses": [
+{ "id": "a", "texte": "Très calme", "correcte": false },
+{ "id": "b", "texte": "Très chargé", "correcte": true },
+{ "id": "c", "texte": "Ennuyeux", "correcte": false },
+{ "id": "d", "texte": "Inexistant", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-004-02",
+"question": "Avec qui travaille-t-il sur un projet difficile ?",
+"reponses": [
+{ "id": "a", "texte": "Avec sa famille", "correcte": false },
+{ "id": "b", "texte": "Avec ses voisins", "correcte": false },
+{ "id": "c", "texte": "Avec ses collègues de bureau", "correcte": true },
+{ "id": "d", "texte": "Tout seul", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-004-03",
+"question": "Dans quel type de restaurant mangent-ils à midi ?",
+"reponses": [
+{ "id": "a", "texte": "Un restaurant chinois", "correcte": false },
+{ "id": "b", "texte": "Un restaurant français traditionnel", "correcte": false },
+{ "id": "c", "texte": "Un petit restaurant italien", "correcte": true },
+{ "id": "d", "texte": "Une grande cafétéria de gare", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-004-04",
+"question": "Que doit faire le narrateur durant l'après-midi ?",
+"reponses": [
+{ "id": "a", "texte": "Répondre à des courriels et passer des appels", "correcte": true },
+{ "id": "b", "texte": "Faire une sieste d'une heure", "correcte": false },
+{ "id": "c", "texte": "Visiter un musée d'art", "correcte": false },
+{ "id": "d", "texte": "Nettoyer les bureaux de l'entreprise", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-004-05",
+"question": "Qu'est-ce que le narrateur aime faire malgré la fatigue ?",
+"reponses": [
+{ "id": "a", "texte": "Rester actif et finir ses tâches", "correcte": true },
+{ "id": "b", "texte": "Partir plus tôt du bureau", "correcte": false },
+{ "id": "c", "texte": "Se plaindre à son directeur", "correcte": false },
+{ "id": "d", "texte": "Changer de métier", "correcte": false }
+]
 }
+]
+},
+{
+"id": "005",
+"titre": "Mes activités après les cours",
+"titre2": "Exercice 005",
+"texte": [
+"Dès que les cours se terminent à seize heures, je rejoins mon club de sport.",
+"Je joue au football avec mes amis deux fois par semaine sur le terrain municipal.",
+"C'est un excellent moyen de se détendre et de s'amuser après une longue journée d'étude.",
+"Les autres jours, je préfère aller à la bibliothèque centrale pour faire mes devoirs.",
+"Je rentre chez moi à pied vers dix-huit heures trente pour dîner avec mes parents."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-005-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-005-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-005-01",
+"question": "À quelle heure les cours se terminent-ils ?",
+"reponses": [
+{ "id": "a", "texte": "À quatorze heures", "correcte": false },
+{ "id": "b", "texte": "À seize heures", "correcte": true },
+{ "id": "c", "texte": "À dix-sept heures", "correcte": false },
+{ "id": "d", "texte": "À dix-huit heures", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-005-02",
+"question": "Quel sport le narrateur pratique-t-il avec ses amis ?",
+"reponses": [
+{ "id": "a", "texte": "Le basket-ball", "correcte": false },
+{ "id": "b", "texte": "Le tennis de table", "correcte": false },
+{ "id": "c", "texte": "Le football", "correcte": true },
+{ "id": "d", "texte": "La natation", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-005-03",
+"question": "Combien de fois par semaine joue-t-il sur le terrain municipal ?",
+"reponses": [
+{ "id": "a", "texte": "Une seule fois", "correcte": false },
+{ "id": "b", "texte": "Tous les jours", "correcte": false },
+{ "id": "c", "texte": "Deux fois par semaine", "correcte": true },
+{ "id": "d", "texte": "Trois fois par mois", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-005-04",
+"question": "Où va-t-il les autres jours pour faire ses devoirs ?",
+"reponses": [
+{ "id": "a", "texte": "À la bibliothèque centrale", "correcte": true },
+{ "id": "b", "texte": "Dans un cybercafé bruyant", "correcte": false },
+{ "id": "c", "texte": "Chez son grand-père", "correcte": false },
+{ "id": "d", "texte": "Dans un parc public", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-005-05",
+"question": "À quelle heure rentre-t-il chez lui pour dîner ?",
+"reponses": [
+{ "id": "a", "texte": "Vers dix-huit heures trente", "correcte": true },
+{ "id": "b", "texte": "Vers vingt heures pile", "correcte": false },
+{ "id": "c", "texte": "À la nuit tombée", "correcte": false },
+{ "id": "d", "texte": "À midi", "correcte": false }
+]
+}
+]
+},
+{
+"id": "006",
+"titre": "Une soirée en famille",
+"titre2": "Exercice 006",
+"texte": [
+"Le soir, toute la famille se réunit dans la salle à manger autour d'un bon repas.",
+"Ma mère prépare souvent une soupe chaude et un poulet rôti délicieux.",
+"Pendant le dîner, nous racontons notre journée et nous partageons des histoires drôles.",
+"Après avoir débarrassé la table, nous aimons regarder un film comique ensemble au salon.",
+"C'est un moment convivial qui renforce nos liens avant d'aller dormir."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-006-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-006-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-006-01",
+"question": "Où la famille se réunit-elle pour manger ?",
+"reponses": [
+{ "id": "a", "texte": "Dans la cuisine", "correcte": false },
+{ "id": "b", "texte": "Dans la salle à manger", "correcte": true },
+{ "id": "c", "texte": "Sur le balcon", "correcte": false },
+{ "id": "d", "texte": "Dans le jardin", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-006-02",
+"question": "Qu'est-ce que la mère prépare souvent pour le repas ?",
+"reponses": [
+{ "id": "a", "texte": "Une pizza au fromage", "correcte": false },
+{ "id": "b", "texte": "Des poissons grillés", "correcte": false },
+{ "id": "c", "texte": "Une soupe chaude et un poulet rôti", "correcte": true },
+{ "id": "d", "texte": "Une salade verte simple", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-006-03",
+"question": "Que fait la famille pendant le dîner ?",
+"reponses": [
+{ "id": "a", "texte": "Elle regarde les informations en silence", "correcte": false },
+{ "id": "b", "texte": "Chacun utilise son téléphone portable", "correcte": false },
+{ "id": "c", "texte": "Elle raconte sa journée et partage des histoires", "correcte": true },
+{ "id": "d", "texte": "Elle se dispute pour la nourriture", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-006-04",
+"question": "Quel genre de film regardent-ils au salon ?",
+"reponses": [
+{ "id": "a", "texte": "Un film comique", "correcte": true },
+{ "id": "b", "texte": "Un film d'horreur", "correcte": false },
+{ "id": "c", "texte": "Un documentaire historique", "correcte": false },
+{ "id": "d", "texte": "Un film d'action américain", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-006-05",
+"question": "À quoi sert ce moment convivial ?",
+"reponses": [
+{ "id": "a", "texte": "À renforcer les liens familiaux", "correcte": true },
+{ "id": "b", "texte": "À perdre du temps inutilement", "correcte": false },
+{ "id": "c", "texte": "À travailler plus tard le soir", "correcte": false },
+{ "id": "d", "texte": "À apprendre une nouvelle langue", "correcte": false }
+]
+}
+]
+},
+{
+"id": "007",
+"titre": "Le programme de mon week-end",
+"titre2": "Exercice 007",
+"texte": [
+"Le week-end, je n'ai pas besoin de me lever tôt, alors je fais la grasse matinée.",
+"Le samedi après-midi, je retrouve généralement mes copains pour aller au cinéma.",
+"Le dimanche matin, je préfère faire une longue promenade à vélo dans la forêt.",
+"Ensuite, je déjeune chez mes grands-parents qui habitent dans un village calme.",
+"C'est le moment idéal pour se reposer et oublier le stress de toute la semaine."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-007-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-007-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-007-01",
+"question": "Que fait le narrateur le week-end au réveil ?",
+"reponses": [
+{ "id": "a", "texte": "Il se lève plus tôt", "correcte": false },
+{ "id": "b", "texte": "Il fait la grasse matinée", "correcte": true },
+{ "id": "c", "texte": "Il part courir immédiatement", "correcte": false },
+{ "id": "d", "texte": "Il commence à réviser", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-007-02",
+"question": "Où va-t-il avec ses copains le samedi après-midi ?",
+"reponses": [
+{ "id": "a", "texte": "À la plage", "correcte": false },
+{ "id": "b", "texte": "Au centre commercial", "correcte": false },
+{ "id": "c", "texte": "Au cinéma", "correcte": true },
+{ "id": "d", "texte": "À la piscine municipale", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-007-03",
+"question": "Où fait-il sa promenade à vélo le dimanche matin ?",
+"reponses": [
+{ "id": "a", "texte": "En ville", "correcte": false },
+{ "id": "b", "texte": "Dans le quartier", "correcte": false },
+{ "id": "c", "texte": "Dans la forêt", "correcte": true },
+{ "id": "d", "texte": "Sur une piste d'athlétisme", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-007-04",
+"question": "Chez qui déjeune-t-il le dimanche après sa promenade ?",
+"reponses": [
+{ "id": "a", "texte": "Chez ses grands-parents", "correcte": true },
+{ "id": "b", "texte": "Chez son meilleur ami", "correcte": false },
+{ "id": "c", "texte": "Chez son professeur", "correcte": false },
+{ "id": "d", "texte": "Seul dans un café", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-007-05",
+"question": "Pourquoi ce programme est-il idéal ?",
+"reponses": [
+{ "id": "a", "texte": "Pour se reposer et oublier le stress", "correcte": true },
+{ "id": "b", "texte": "Pour dépenser beaucoup d'argent", "correcte": false },
+{ "id": "c", "texte": "Pour chercher un nouvel emploi", "correcte": false },
+{ "id": "d", "texte": "Pour ranger toute sa chambre", "correcte": false }
+]
+}
+]
+},
+{
+"id": "008",
+"titre": "Faire les courses au supermarché",
+"titre2": "Exercice 008",
+"texte": [
+"Chaque samedi matin, je prends un grand chariot pour faire les courses de la semaine.",
+"Je commence toujours par le rayon des fruits et légumes pour acheter des pommes vertes.",
+"Ensuite, je vais chercher du lait, du fromage de chèvre et un paquet de riz.",
+"Il y a souvent beaucoup de monde aux caisses, alors je dois attendre patiemment mon tour.",
+"Une fois payé, je range soigneusement tous les produits de consommation dans mes sacs."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-008-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-008-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-008-01",
+"question": "Quand le narrateur fait-il ses courses ?",
+"reponses": [
+{ "id": "a", "texte": "Le lundi soir", "correcte": false },
+{ "id": "b", "texte": "Le samedi matin", "correcte": true },
+{ "id": "c", "texte": "Le mercredi après-midi", "correcte": false },
+{ "id": "d", "texte": "Le dimanche soir", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-008-02",
+"question": "Par quel rayon commence-t-il ses achats ?",
+"reponses": [
+{ "id": "a", "texte": "Le rayon des boissons", "correcte": false },
+{ "id": "b", "texte": "Le rayon de la boulangerie", "correcte": false },
+{ "id": "c", "texte": "Le rayon des fruits et légumes", "correcte": true },
+{ "id": "d", "texte": "Le rayon des surgelés", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-008-03",
+"question": "Quel fruit spécifique achète-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Des bananes jaunes", "correcte": false },
+{ "id": "b", "texte": "Des oranges douces", "correcte": false },
+{ "id": "c", "texte": "Des pommes vertes", "correcte": true },
+{ "id": "d", "texte": "Des fraises rouges", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-008-04",
+"question": "Pourquoi doit-il attendre patiemment aux caisses ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'il y a beaucoup de monde", "correcte": true },
+{ "id": "b", "texte": "Parce que les ordinateurs sont en panne", "correcte": false },
+{ "id": "c", "texte": "Parce qu'il a perdu son argent", "correcte": false },
+{ "id": "d", "texte": "Parce qu'il discute avec un ami", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-008-05",
+"question": "Où met-il les produits une fois qu'ils sont payés ?",
+"reponses": [
+{ "id": "a", "texte": "Dans ses sacs", "correcte": true },
+{ "id": "b", "texte": "Directement dans ses poches", "correcte": false },
+{ "id": "c", "texte": "Il les laisse sur place", "correcte": false },
+{ "id": "d", "texte": "Dans la voiture du voisin", "correcte": false }
+]
+}
+]
+},
+{
+"id": "009",
+"titre": "Une visite chez un voisin",
+"titre2": "Exercice 009",
+"texte": [
+"Hier après-midi, je suis allé frapper à la porte de mon gentil voisin, Monsieur Paul.",
+"Il m'a chaleureusement invité à entrer pour boire une tasse de thé bien chaud.",
+"Nous avons discuté de la météo et des fleurs magnifiques de son petit jardin de devant.",
+"C'est un homme âgé très intéressant qui a beaucoup voyagé durant sa jeunesse.",
+"Avant de partir, je l'ai remercié pour son accueil et pour ce moment agréable."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-009-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-009-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-009-01",
+"question": "Comment s'appelle le voisin du narrateur ?",
+"reponses": [
+{ "id": "a", "texte": "Monsieur Jean", "correcte": false },
+{ "id": "b", "texte": "Monsieur Paul", "correcte": true },
+{ "id": "c", "texte": "Monsieur Michel", "correcte": false },
+{ "id": "d", "texte": "Monsieur Pierre", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-009-02",
+"question": "Qu'est-ce que le voisin propose à boire ?",
+"reponses": [
+{ "id": "a", "texte": "Un verre de jus", "correcte": false },
+{ "id": "b", "texte": "Une tasse de café", "correcte": false },
+{ "id": "c", "texte": "Une tasse de thé bien chaud", "correcte": true },
+{ "id": "d", "texte": "Un verre d'eau froide", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-009-03",
+"question": "De quoi ont-ils discuté ensemble ?",
+"reponses": [
+{ "id": "a", "texte": "De la politique actuelle", "correcte": false },
+{ "id": "b", "texte": "Des problèmes de l'immeuble", "correcte": false },
+{ "id": "c", "texte": "De la météo et des fleurs du jardin", "correcte": true },
+{ "id": "d", "texte": "Du prix de la nourriture", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-009-04",
+"question": "Qu'a fait ce voisin pendant sa jeunesse ?",
+"reponses": [
+{ "id": "a", "texte": "Il a beaucoup voyagé", "correcte": true },
+{ "id": "b", "texte": "Il a travaillé dans une mine", "correcte": false },
+{ "id": "c", "texte": "Il a fait du sport professionnel", "correcte": false },
+{ "id": "d", "texte": "Il a écrit des livres d'école", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-009-05",
+"question": "Que fait le narrateur juste avant de partir ?",
+"reponses": [
+{ "id": "a", "texte": "Il le remercie pour son accueil", "correcte": true },
+{ "id": "b", "texte": "Il lui demande de l'argent", "correcte": false },
+{ "id": "c", "texte": "Il nettoie la table du salon", "correcte": false },
+{ "id": "d", "texte": "Il oublie son manteau d'hiver", "correcte": false }
+]
+}
+]
+},
+{
+"id": "010",
+"titre": "Les tâches ménagères à la maison",
+"titre2": "Exercice 010",
+"texte": [
+"Pour garder notre appartement propre, tout le monde doit participer aux corvées.",
+"Aujourd'hui, c'est mon tour de passer l'aspirateur dans le salon et le couloir.",
+"Ensuite, je dois nettoyer la grande table en verre de la salle à manger.",
+"Mon petit frère s'occupe de vider la poubelle de la cuisine et de ranger ses jouets.",
+"Quand nous travaillons ensemble, la maison devient propre de manière très rapide."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-010-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-010-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-010-01",
+"question": "Pourquoi la famille fait-elle les corvées ménagères ?",
+"reponses": [
+{ "id": "a", "texte": "Pour passer le temps", "correcte": false },
+{ "id": "b", "texte": "Pour garder l'appartement propre", "correcte": true },
+{ "id": "c", "texte": "Parce que c'est une punition", "correcte": false },
+{ "id": "d", "texte": "Pour faire du sport", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-010-02",
+"question": "Quelle est la tâche principale du narrateur aujourd'hui ?",
+"reponses": [
+{ "id": "a", "texte": "Laver les vêtements sales", "correcte": false },
+{ "id": "b", "texte": "Préparer le repas du soir", "correcte": false },
+{ "id": "c", "texte": "Passer l'aspirateur dans le salon et le couloir", "correcte": true },
+{ "id": "d", "texte": "Arroser les plantes vertes", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-010-03",
+"question": "Quel meuble en verre doit-il nettoyer ensuite ?",
+"reponses": [
+{ "id": "a", "texte": "La fenêtre de sa chambre", "correcte": false },
+{ "id": "b", "texte": "La porte d'entrée", "correcte": false },
+{ "id": "c", "texte": "La grande table de la salle à manger", "correcte": true },
+{ "id": "d", "texte": "Le miroir de la salle de bain", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-010-04",
+"question": "De quoi s'occupe le petit frère ?",
+"reponses": [
+{ "id": "a", "texte": "De vider la poubelle et ranger ses jouets", "correcte": true },
+{ "id": "b", "texte": "De faire les courses au marché", "correcte": false },
+{ "id": "c", "texte": "De réparer la télévision en panne", "correcte": false },
+{ "id": "d", "texte": "De laver la voiture familiale", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-010-05",
+"question": "Que se passe-t-il lorsque la famille travaille ensemble ?",
+"reponses": [
+{ "id": "a", "texte": "La maison devient propre de manière rapide", "correcte": true },
+{ "id": "b", "texte": "Tout le monde se fatigue trop vite", "correcte": false },
+{ "id": "c", "texte": "Le travail est mal fait", "correcte": false },
+{ "id": "d", "texte": "Ils décident d'aller au restaurant", "correcte": false }
+]
+}
+]
+}
+]
