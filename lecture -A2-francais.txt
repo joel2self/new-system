@@ -6318,5 +6318,685 @@
 ]
 }
 ]
+},
+{
+    "id": "091",
+    "titre": "Acheter des vêtements dans un magasin",
+    "titre2": "Exercice 091",
+    "texte": [
+      "Cet après-midi, je vais dans un grand magasin de vêtements du centre-ville pour renouveler ma garde-robe.",
+      "Je cherche principalement un pantalon de sport noir et un pull chaud pour affronter l'hiver qui approche.",
+      "Le vendeur m'accompagne gentiment vers la cabine d'essayage pour tester la bonne taille des vêtements choisis.",
+      "Le pantalon me va parfaitement, mais le pull en laine grise est un peu trop grand pour moi.",
+      "Je demande la taille inférieure à la caissière, je paye par carte bancaire et je rentre chez moi."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-091-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-091-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-091-01",
+        "question": "Où le narrateur se rend-il cet après-midi ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans une pharmacie verte", "correcte": false },
+          { "id": "b", "texte": "Dans un grand magasin de vêtements", "correcte": true },
+          { "id": "c", "texte": "Au marché aux fruits frais", "correcte": false },
+          { "id": "d", "texte": "À la bibliothèque de l'école", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-091-02",
+        "question": "Quel vêtement spécifique le narrateur cherche-t-il à acheter ?",
+        "reponses": [
+          { "id": "a", "texte": "Une veste élégante en cuir rouge", "correcte": false },
+          { "id": "b", "texte": "Un pantalon de sport noir et un pull chaud", "correcte": true },
+          { "id": "c", "texte": "Un nouveau maillot de bain bleu", "correcte": false },
+          { "id": "d", "texte": "Une paire de chaussures de marche", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-091-03",
+        "question": "Où le narrateur va-t-il tester la taille des articles ?",
+        "reponses": [
+          { "id": "a", "texte": "Au milieu du rayon des chaussures", "correcte": false },
+          { "id": "b", "texte": "Dans la cabine d'essayage", "correcte": true },
+          { "id": "c", "texte": "Directement devant la grande caisse", "correcte": false },
+          { "id": "d", "texte": "À l'extérieur sur le trottoir", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-091-04",
+        "question": "Quel problème y a-t-il avec le pull en laine grise ?",
+        "reponses": [
+          { "id": "a", "texte": "La couleur beige est très vilaine", "correcte": false },
+          { "id": "b", "texte": "Il est un peu trop grand pour lui", "correcte": true },
+          { "id": "c", "texte": "Le tissu est totalement déchiré", "correcte": false },
+          { "id": "d", "texte": "Le prix est beaucoup trop cher", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-091-05",
+        "question": "Comment le narrateur règle-t-il ses achats à la fin ?",
+        "reponses": [
+          { "id": "a", "texte": "Avec des pièces de monnaie en argent", "correcte": false },
+          { "id": "b", "texte": "Par carte bancaire", "correcte": true },
+          { "id": "c", "texte": "Avec un chèque de banque en papier", "correcte": false },
+          { "id": "d", "texte": "Le vendeur lui offre les vêtements", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "092",
+    "titre": "Demander son chemin dans la rue",
+    "titre2": "Exercice 092",
+    "texte": [
+      "Ce matin, je suis totalement perdu dans les petites rues anciennes du centre historique de la ville.",
+      "Je cherche désespérément le grand musée des sciences, mais la batterie de mon téléphone portable est vide.",
+      "Je décide alors de m'arrêter pour demander poliment mon chemin à une passante très souriante.",
+      "Elle m'explique gentiment que je dois tourner à droite au prochain feu rouge, puis marcher tout droit.",
+      "Je la remercie chaleureusement pour son aide précieuse et je trouve le bâtiment en cinq minutes."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-092-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-092-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-092-01",
+        "question": "Où le narrateur se trouve-t-il ce matin ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans la forêt dense de sapins", "correcte": false },
+          { "id": "b", "texte": "Dans le centre historique de la ville", "correcte": true },
+          { "id": "c", "texte": "Dans la cuisine de son appartement", "correcte": false },
+          { "id": "d", "texte": "Sur la plage au bord de la mer", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-092-02",
+        "question": "Quel bâtiment public le narrateur cherche-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "La gare ferroviaire centrale", "correcte": false },
+          { "id": "b", "texte": "Le grand musée des sciences", "correcte": true },
+          { "id": "c", "texte": "Le petit théâtre municipal", "correcte": false },
+          { "id": "d", "texte": "La pharmacie verte du quartier", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-092-03",
+        "question": "Pourquoi ne peut-il pas utiliser son téléphone portable ?",
+        "reponses": [
+          { "id": "a", "texte": "Parce qu'il l'a oublié sur son bureau", "correcte": false },
+          { "id": "b", "texte": "Parce que la batterie est vide", "correcte": true },
+          { "id": "c", "texte": "Parce qu'il n'y a pas de réseau Internet", "correcte": false },
+          { "id": "d", "texte": "Son frère a caché le téléphone", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-092-04",
+        "question": "Que doit faire le narrateur au prochain feu rouge ?",
+        "reponses": [
+          { "id": "a", "texte": "Prendre immédiatement le bus douze", "correcte": false },
+          { "id": "b", "texte": "Tourner à droite", "correcte": true },
+          { "id": "c", "texte": "S'arrêter pour attendre son oncle", "correcte": false },
+          { "id": "d", "texte": "Tourner à gauche après la fontaine", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-092-05",
+        "question": "En combien de temps trouve-t-il le bâtiment après l'explication ?",
+        "reponses": [
+          { "id": "a", "texte": "En deux minutes seulement", "correcte": false },
+          { "id": "b", "texte": "En cinq minutes", "correcte": true },
+          { "id": "c", "texte": "En plus d'une demi-heure", "correcte": false },
+          { "id": "d", "texte": "Il ne trouve jamais le musée", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "093",
+    "titre": "Une visite au marché local",
+    "titre2": "Exercice 093",
+    "texte": [
+      "Le dimanche matin, j'accompagne mon grand-père pour faire une visite au marché local du village.",
+      "La place principale est remplie de stands colorés qui proposent de délicieux produits de la région.",
+      "Nous achetons un morceau de fromage de chèvre et une miche de pain cuite au feu de bois.",
+      "Les marchands discutent joyeusement avec les habitants et partagent de bonnes recettes traditionnelles.",
+      "Ce moment de partage au grand air est une excellente habitude pour bien commencer la journée."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-093-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-093-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-093-01",
+        "question": "Quand le narrateur va-t-il au marché local ?",
+        "reponses": [
+          { "id": "a", "texte": "Le samedi après-midi tard", "correcte": false },
+          { "id": "b", "texte": "Le dimanche matin", "correcte": true },
+          { "id": "c", "texte": "Le mercredi matin très tôt", "correcte": false },
+          { "id": "d", "texte": "Tous les jours de la semaine", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-093-02",
+        "question": "Avec qui s'y rend-il dans ce texte ?",
+        "reponses": [
+          { "id": "a", "texte": "Avec sa grande sœur Émilie", "correcte": false },
+          { "id": "b", "texte": "Avec son grand-père", "correcte": true },
+          { "id": "c", "texte": "Avec ses copains du collège", "correcte": false },
+          { "id": "d", "texte": "Il fait la visite seul", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-093-03",
+        "question": "Quels aliments achètent-ils ensemble au marché ?",
+        "reponses": [
+          { "id": "a", "texte": "Des pommes vertes et des bananes", "correcte": false },
+          { "id": "b", "texte": "Du fromage de chèvre et du pain", "correcte": true },
+          { "id": "c", "texte": "Des morceaux de poulet rôti au four", "correcte": false },
+          { "id": "d", "texte": "Une quiche lorraine croustillante", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-093-04",
+        "question": "Comment le pain acheté a-t-il été cuit ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans une usine industrielle moderne", "correcte": false },
+          { "id": "b", "texte": "Au feu de bois", "correcte": true },
+          { "id": "c", "texte": "Dans un four électrique de cuisine", "correcte": false },
+          { "id": "d", "texte": "Le texte ne précise pas la cuisson", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-093-05",
+        "question": "Que partagent les marchands avec les clients de passage ?",
+        "reponses": [
+          { "id": "a", "texte": "De petites pièces de monnaie", "correcte": false },
+          { "id": "b", "texte": "De bonnes recettes traditionnelles", "correcte": true },
+           { "id": "c", "texte": "Des livres de contes anciens", "correcte": false },
+{ "id": "d", "texte": "Des bouteilles de sirop d'érabl", "correcte": false }
+]
+}
+]
+},
+{
+"id": "094",
+"titre": "Perdre son portefeuille en ville",
+"titre2": "Exercice 094",
+"texte": [
+"Hier après-midi, pendant mes courses au centre commercial, j'ai vécu une situation très stressante.",
+"En arrivant à la caisse pour payer un livre, j'ai remarqué que mon portefeuille avait disparu.",
+"Il contenait ma carte de transport scolaire, un peu d'argent liquide et mes papiers d'identité.",
+"Heureusement, une dame très honnête l'avait trouvé par terre et l'avait apporté au bureau d'accueil.",
+"J'ai ressenti un immense soulagement en récupérant toutes mes affaires personnelles intactes."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-094-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-094-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-094-01",
+"question": "Où le narrateur a-t-il perdu son portefeuille hier ?",
+"reponses": [
+{ "id": "a", "texte": "Dans le bus numéro douze du matin", "correcte": false },
+{ "id": "b", "texte": "Au centre commercial pendant ses courses", "correcte": true },
+{ "id": "c", "texte": "Dans la forêt près des grands pins", "correcte": false },
+{ "id": "d", "texte": "Sous le grand lit de sa chambre", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-094-02",
+"question": "À quel moment précis remarque-t-il la disparition de l'objet ?",
+"reponses": [
+{ "id": "a", "texte": "En se réveillant à six heures pile", "correcte": false },
+{ "id": "b", "texte": "En arrivant à la caisse pour payer", "correcte": true },
+{ "id": "c", "texte": "Pendant sa promenade avec Julien", "correcte": false },
+{ "id": "d", "texte": "En rentrant dans son appartement", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-094-03",
+"question": "Quel papier officiel important se trouvait à l'intérieur ?",
+"reponses": [
+{ "id": "a", "texte": "Une ordonnance écrite du médecin", "correcte": false },
+{ "id": "b", "texte": "Sa carte de transport scolaire et ses papiers d'identité", "correcte": true },
+{ "id": "c", "texte": "Une liste de fournitures obligatoires", "correcte": false },
+{ "id": "d", "texte": "La recette secrète de la grand-mère", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-094-04",
+"question": "Où la dame honnête a-t-elle déposé le portefeuille trouvé ?",
+"reponses": [
+{ "id": "a", "texte": "Au bureau d'accueil du centre commercial", "correcte": true },
+{ "id": "b", "texte": "Directement au commissariat central", "correcte": false },
+{ "id": "c", "texte": "Elle l'a gardé dans son propre sac", "correcte": false },
+{ "id": "d", "texte": "Au guichet de la station de métro", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-094-05",
+"question": "Quel sentiment le narrateur éprouve-t-il à la fin ?",
+"reponses": [
+{ "id": "a", "texte": "Une grande colère contre les commerçants", "correcte": false },
+{ "id": "b", "texte": "Un immense soulagement", "correcte": true },
+{ "id": "c", "texte": "Une fatigue extrême et des courbatures", "correcte": false },
+{ "id": "d", "texte": "Il est triste et commence à pleurer", "correcte": false }
+]
+}
+]
+},
+{
+"id": "095",
+"titre": "Envoyer une lettre à un ami",
+"titre2": "Exercice 095",
+"texte": [
+"Aujourd'hui, je décide d'écrire une longue lettre manuscrite à mon correspondant canadien, Léo.",
+"Sur une jolie feuille blanche, je raconte mes dernières vacances et ma routine au collège.",
+"Je mets la feuille pliée dans une enveloppe propre et j'écris son adresse complète en noir.",
+"Ensuite, je vais au bureau de poste pour acheter un timbre postal pour l'étranger.",
+"Je jette l'enveloppe dans la grande boîte aux lettres jaune de la rue principale."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-095-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-095-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-095-01",
+"question": "À qui le narrateur écrit-il une lettre manuscrite ?",
+"reponses": [
+{ "id": "a", "texte": "À son oncle de Marseille", "correcte": false },
+{ "id": "b", "texte": "À son correspondant canadien Léo", "correcte": true },
+{ "id": "c", "texte": "À son professeur principal d'histoire", "correcte": false },
+{ "id": "d", "texte": "À son gentil voisin Monsieur Paul", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-095-02",
+"question": "Qu'est-ce que le narrateur raconte sur la feuille blanche ?",
+"reponses": [
+{ "id": "a", "texte": "La recette traditionnelle de la tarte", "correcte": false },
+{ "id": "b", "texte": "Ses vacances et sa routine au collège", "correcte": true },
+{ "id": "c", "texte": "L'histoire ancienne de l'Égypte antique", "correcte": false },
+{ "id": "d", "texte": "Le plan de nettoyage de son appartement", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-095-03",
+"question": "Où le narrateur se rend-il pour acheter un timbre postal ?",
+"reponses": [
+{ "id": "a", "texte": "Dans une papeterie de banlieue", "correcte": false },
+{ "id": "b", "texte": "Au bureau de poste de la ville", "correcte": true },
+{ "id": "c", "texte": "À la caisse du supermarché", "correcte": false },
+{ "id": "d", "texte": "À l'office de tourisme de la gare", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-095-04",
+"question": "De quelle couleur est la boîte aux lettres officielle dans la rue ?",
+"reponses": [
+{ "id": "a", "texte": "Elle est entièrement rouge vif", "correcte": false },
+{ "id": "b", "texte": "Elle est de couleur jaune", "correcte": true },
+{ "id": "c", "texte": "Elle est peinte en vert sapin", "correcte": false },
+{ "id": "d", "texte": "Elle est entièrement bleue", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-095-05",
+"question": "Quel type de timbre le narrateur doit-il choisir ?",
+"reponses": [
+{ "id": "a", "texte": "Un timbre rapide pour le centre-ville", "correcte": false },
+{ "id": "b", "texte": "Un timbre pour l'étranger", "correcte": true },
+{ "id": "c", "texte": "Un timbre gratuit pour les écoles", "correcte": false },
+{ "id": "d", "texte": "La lettre s'envoie sans aucun timbre", "correcte": false }
+]
+}
+]
+},
+{
+"id": "096",
+"titre": "Réserver une chambre d'hôtel",
+"titre2": "Exercice 096",
+"texte": [
+"Pour préparer notre prochain week-end en Normandie, je réserve une chambre d'hôtel en ligne.",
+"Je cherche un établissement calme, pas très cher et situé près de la gare.",
+"Sur le site Internet, je sélectionne une chambre double avec un grand lit confortable.",
+"Le prix comprend le petit-déjeuner du matin et l'accès à la connexion Wi-Fi.",
+"Je reçois immédiatement un courriel de confirmation avec le numéro de notre réservation."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-096-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-096-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-096-01",
+"question": "Dans quelle région de France la famille va-t-elle passer le week-end ?",
+"reponses": [
+{ "id": "a", "texte": "En Bretagne", "correcte": false },
+{ "id": "b", "texte": "En Normandie", "correcte": true },
+{ "id": "c", "texte": "En Provence", "correcte": false },
+{ "id": "d", "texte": "Dans la banlieue de Lyon", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-096-02",
+"question": "Quels critères l'hôtel choisi doit-il respecter ?",
+"reponses": [
+{ "id": "a", "texte": "Avoir une immense piscine olympique", "correcte": false },
+{ "id": "b", "texte": "Calme, pas très cher et situé près de la gare", "correcte": true },
+{ "id": "c", "texte": "Posséder un grand restaurant gastronomique", "correcte": false },
+{ "id": "d", "texte": "Être situé au milieu d'une forêt dense", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-096-03",
+"question": "Quel type de chambre le narrateur sélectionne-t-il sur l'écran ?",
+"reponses": [
+{ "id": "a", "texte": "Une petite chambre individuelle sans fenêtre", "correcte": false },
+{ "id": "b", "texte": "Une chambre double avec un grand lit", "correcte": true },
+{ "id": "c", "texte": "Une suite de luxe au dernier étage du toit", "correcte": false },
+{ "id": "d", "texte": "Une caravane près de la plage de sable", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-096-04",
+"question": "Quel repas est directement compris dans le prix financier ?",
+"reponses": [
+{ "id": "a", "texte": "Le dîner de fête du samedi soir", "correcte": false },
+{ "id": "b", "texte": "Le petit-déjeuner du matin", "correcte": true },
+{ "id": "c", "texte": "Le pique-nique tiré du sac pour midi", "correcte": false },
+{ "id": "d", "texte": "Aucun repas n'est inclus dans le prix", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-096-05",
+"question": "Que reçoit le narrateur immédiatement après la validation ?",
+"reponses": [
+{ "id": "a", "texte": "Une lettre manuscrite dans sa boîte aux lettres", "correcte": false },
+{ "id": "b", "texte": "Un courriel de confirmation avec le numéro", "correcte": true },
+{ "id": "c", "texte": "Un coup de téléphone du directeur de l'hôtel", "correcte": false },
+{ "id": "d", "texte": "Une carte touristique imprimée en noir et blanc", "correcte": false }
+]
+}
+]
+},
+{
+"id": "097",
+"titre": "Une journée au centre commercial",
+"titre2": "Exercice 097",
+"texte": [
+"Samedi après-midi, il pleut beaucoup alors je vais au grand centre commercial avec Émilie.",
+"C'est un immense bâtiment moderne qui abrite des dizaines de boutiques et de restaurants.",
+"Nous commençons par visiter une grande librairie pour acheter un roman policier plein de mystères.",
+"Ensuite, nous faisons une pause dans un petit café pour manger une crêpe à la fraise.",
+"Ce lieu est parfait pour s'amuser, faire des achats et passer du temps entre amis au chaud."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-097-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-097-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-097-01",
+"question": "Pourquoi les amis décident-ils d'aller au centre commercial ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'il fait un soleil très chaud", "correcte": false },
+{ "id": "b", "texte": "Parce qu'il pleut beaucoup dehors", "correcte": true },
+{ "id": "c", "texte": "Pour participer à un concours de danse hip-hop", "correcte": false },
+{ "id": "d", "texte": "Pour visiter le potager biologique familial", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-097-02",
+"question": "Avec qui le narrateur s'y rend-il le samedi après-midi ?",
+"reponses": [
+{ "id": "a", "texte": "Avec son meilleur ami nommé Julien", "correcte": false },
+{ "id": "b", "texte": "Avec sa grande sœur nommée Émilie", "correcte": true },
+{ "id": "c", "texte": "Avec son professeur principal du collège", "correcte": false },
+{ "id": "d", "texte": "Il fait ses courses de manière isolée", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-097-03",
+"question": "Quelle est la toute première boutique visitée par le groupe ?",
+"reponses": [
+{ "id": "a", "texte": "Un magasin de vêtements de sport noirs", "correcte": false },
+{ "id": "b", "texte": "Une grande librairie de la ville", "correcte": true },
+{ "id": "c", "texte": "Une boulangerie artisanale de quartier", "correcte": false },
+{ "id": "d", "texte": "Un vendeur d'ordinateurs et téléphones", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-097-04",
+"question": "Quel type d'ouvrage achètent-ils à la librairie ?",
+"reponses": [
+{ "id": "a", "texte": "Un manuel de physique et de chimie complexe", "correcte": false },
+{ "id": "b", "texte": "Un roman policier plein de mystères", "correcte": true },
+{ "id": "c", "texte": "Une bande dessinée historique illustrée", "correcte": false },
+{ "id": "d", "texte": "Un dictionnaire de traduction de langue", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-097-05",
+"question": "Qu'est-ce qu'on mange pendant la pause au petit café ?",
+"reponses": [
+{ "id": "a", "texte": "Un grand bol de pop-corn sucré de cinéma", "correcte": false },
+{ "id": "b", "texte": "Une crêpe sucrée à la fraise", "correcte": true },
+{ "id": "c", "texte": "Une tranche de quiche lorraine chaude", "correcte": false },
+{ "id": "d", "texte": "Une part de gâteau au chocolat fondant", "correcte": false }
+]
+}
+]
+},
+{
+"id": "098",
+"titre": "Organiser une fête d'anniversaire",
+"titre2": "Exercice 098",
+"texte": [
+"La semaine prochaine, mon petit frère Lucas va fêter ses onze ans à la maison.",
+"Pour lui faire plaisir, nous organisons une grande fête avec tous ses camarades de classe.",
+"Ma mère s'occupe d'écrire et d'envoyer les cartons d'invitation aux parents d'élèves.",
+"De mon côté, je prépare une liste de jeux amusants comme cache-cache et des devinettes.",
+"Mon père va cuisiner son célèbre gâteau au chocolat fondant pour le moment du goûter."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-098-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-098-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-098-01",
+"question": "Quel âge le petit frère Lucas va-t-il fêter la semaine prochaine ?",
+"reponses": [
+{ "id": "a", "texte": "Huit ans, il est encore très petit", "correcte": false },
+{ "id": "b", "texte": "Onze ans", "correcte": true },
+{ "id": "c", "texte": "Quinze ans, il entre au collège", "correcte": false },
+{ "id": "d", "texte": "Vingt ans, c'est une grande fête", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-098-02",
+"question": "Qui est invité à participer à cette fête d'anniversaire ?",
+"reponses": [
+{ "id": "a", "texte": "Uniquement les grands-parents maternels", "correcte": false },
+{ "id": "b", "texte": "Tous ses camarades de classe de l'école", "correcte": true },
+{ "id": "c", "texte": "Les voisins directs du quartier résidentiel", "correcte": false },
+{ "id": "d", "texte": "Des cousins venus du Canada lointain", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-098-03",
+"question": "De quelle tâche la mère du narrateur est-elle responsable ?",
+"reponses": [
+{ "id": "a", "texte": "De passer l'aspirateur sur les tapis du salon", "correcte": false },
+{ "id": "b", "texte": "D'écrire et d'envoyer les invitations", "correcte": true },
+{ "id": "c", "texte": "De suspendre des ballons multicolores au mur", "correcte": false },
+{ "id": "d", "texte": "De laver la vaisselle en verre de la cuisine", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-098-04",
+"question": "Quels types de jeux le narrateur prépare-t-il pour la fête ?",
+"reponses": [
+{ "id": "a", "texte": "Un grand match de football sur gazon", "correcte": false },
+{ "id": "b", "texte": "Des jeux amusants comme cache-cache et devinettes", "correcte": true },
+{ "id": "c", "texte": "Une partie de cartes de société stratégique", "correcte": false },
+{ "id": "d", "texte": "Une séance d'exercices écrits de français", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-098-05",
+"question": "Quel dessert le père va-t-il cuisiner pour le goûter ?",
+"reponses": [
+{ "id": "a", "texte": "Une tarte aux pommes vertes croustillante", "correcte": false },
+{ "id": "b", "texte": "Son célèbre gâteau au chocolat fondant", "correcte": true },
+{ "id": "c", "texte": "Un grand pot de yaourt nature aux fruits", "correcte": false },
+{ "id": "d", "texte": "Des croissants frais achetés le matin même", "correcte": false }
+]
+}
+]
+},
+{
+"id": "099",
+"titre": "Utiliser Internet pour apprendre",
+"titre2": "Exercice 099",
+"texte": [
+"Aujourd'hui, Internet est un outil informatique extraordinaire pour étudier et faire des recherches.",
+"Chaque soir, après les cours, j'utilise mon ordinateur pour vérifier la définition des mots difficiles.",
+"Je regarde des vidéos éducatives en ligne qui expliquent la physique, la chimie et l'histoire.",
+"Il existe aussi des sites interactifs gratuits pour faire des exercices de français ou d'anglais.",
+"Cette méthode d'apprentissage moderne me permet de progresser rapidement et de préparer mon avenir."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-099-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-099-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-099-01",
+"question": "Comment Internet est-il décrit au tout début du texte ?",
+"reponses": [
+{ "id": "a", "texte": "Comme une perte de temps pour les enfants", "correcte": false },
+{ "id": "b", "texte": "Comme un outil extraordinaire pour étudier", "correcte": true },
+{ "id": "c", "texte": "Comme une technologie beaucoup trop chère", "correcte": false },
+{ "id": "d", "texte": "Comme un jeu de société très complexe", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-099-02",
+"question": "Quand le narrateur utilise-t-il son ordinateur de bureau ?",
+"reponses": [
+{ "id": "a", "texte": "Pendant la récréation du matin à dix heures", "correcte": false },
+{ "id": "b", "texte": "Chaque soir après les cours du collège", "correcte": true },
+{ "id": "c", "texte": "Uniquement le dimanche après-midi au lit", "correcte": false },
+{ "id": "d", "texte": "Tard pendant la nuit noire de semaine", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-099-03",
+"question": "Qu'est-ce que le narrateur vérifie grâce à l'outil informatique ?",
+"reponses": [
+{ "id": "a", "texte": "Le prix exact des fournitures scolaires", "correcte": false },
+{ "id": "b", "texte": "La définition des mots difficiles", "correcte": true },
+{ "id": "c", "texte": "L'adresse complète de son ami Léo au Canada", "correcte": false },
+{ "id": "d", "texte": "La météo et l'arrivée de la pluie grise", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-099-04",
+"question": "Quelles matières scientifiques possède des vidéos éducatives ?",
+"reponses": [
+{ "id": "a", "texte": "La littérature écrite et le dessin artistique", "correcte": false },
+{ "id": "b", "texte": "La physique, la chimie et l'histoire", "correcte": true },
+{ "id": "c", "texte": "La natation et les règles du football", "correcte": false },
+{ "id": "d", "texte": "Le nettoyage de la maison et le jardinage", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-099-05",
+"question": "Quel est le bénéfice principal de cette méthode selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Dormir plus d'heures sans faire d'effort", "correcte": false },
+{ "id": "b", "texte": "Progresser rapidement et préparer l'avenir", "correcte": true },
+{ "id": "c", "texte": "Gagner une grosse somme d'argent de poche", "correcte": false },
+{ "id": "d", "texte": "Rencontrer de nouveaux voisins de quartier", "correcte": false }
+]
+}
+]
+},
+{
+"id": "100",
+"titre": "Une belle surprise pour mon anniversaire",
+"titre2": "Exercice 100",
+"texte": [
+"Samedi dernier, le jour de mon anniversaire, mes parents m'ont fait une surprise extraordinaire au salon.",
+"En rentrant de mon entraînement de football, toutes les lumières de la pièce étaient éteintes.",
+"Soudain, mon meilleur ami Julien et toute ma famille ont crié joyeux anniversaire en même temps.",
+"Ils avaient décoré le plafond avec de superbes ballons bleus et des guirlandes brillantes.",
+"Le plus beau moment a été l'ouverture de mon cadeau : une magnifique guitare acoustique toute neuve."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-100-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-100-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-100-01",
+"question": "Quand la surprise d'anniversaire a-t-elle eu lieu ?",
+"reponses": [
+{ "id": "a", "texte": "Le mercredi après-midi à la cantine d'école", "correcte": false },
+{ "id": "b", "texte": "Samedi dernier, le jour de mon anniversaire", "correcte": true },
+{ "id": "c", "texte": "Pendant les petites vacances de Noël passées", "correcte": false },
+{ "id": "d", "texte": "Le mois prochain selon le calendrier de l'année", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-100-02",
+"question": "D'où le narrateur rentrait-il juste avant la surprise ?",
+"reponses": [
+{ "id": "a", "texte": "De la bibliothèque municipale de la ville", "correcte": false },
+{ "id": "b", "texte": "De son entraînement de football", "correcte": true },
+{ "id": "c", "texte": "De la pharmacie verte du coin de la rue", "correcte": false },
+{ "id": "d", "texte": "D'une longue promenade à vélo dans la forêt", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-100-03",
+"question": "Quel ami proche était présent caché dans la pièce ?",
+"reponses": [
+{ "id": "a", "texte": "Le nouvel élève nommé Thomas", "correcte": false },
+{ "id": "b", "texte": "Son meilleur ami nommé Julien", "correcte": true },
+{ "id": "c", "texte": "Le correspondant canadien Léo", "correcte": false },
+{ "id": "d", "texte": "Le compagnon de sport Monsieur Bernard", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-100-04",
+"question": "De quelle couleur étaient les superbes ballons suspendus au plafond ?",
+"reponses": [
+{ "id": "a", "texte": "Ils étaient entièrement rouges", "correcte": false },
+{ "id": "b", "texte": "Ils étaient de couleur bleue", "correcte": true },
+{ "id": "c", "texte": "Ils étaient entièrement jaunes", "correcte": false },
+{ "id": "d", "texte": "C'étaient des ballons blancs et noirs", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-100-05",
+"question": "Quel magnifique objet le narrateur reçoit-il en cadeau ?",
+"reponses": [
+{ "id": "a", "texte": "Un appareil photo de grande marque", "correcte": false },
+{ "id": "b", "texte": "Une guitare acoustique toute neuve", "correcte": true },
+{ "id": "c", "texte": "Un ordinateur portable pour étudier en ligne", "correcte": false },
+{ "id": "d", "texte": "Un dictionnaire de français illustré", "correcte": false }
+]
+}
+]
 }
 ]
