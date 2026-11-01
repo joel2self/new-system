@@ -1,49 +1,2401 @@
 [
   {
-    "id": "001",
-    "titre": "Adjetivos",
-    "definition": "Os adjetivos são palavras que caracterizam ou qualificam os substantivos, indicando propriedades, estados, qualidades ou características. Podem expressar avaliações, intensidade, origem, aparência ou comportamentos.",
-    "instruction": "Complete cada frase com o adjetivo mais adequado ao contexto.",
+    "id": "002",
+    "titre": "Preposições",
+    "definition": "As preposições são palavras invariáveis que estabelecem relações de sentido entre diferentes elementos da frase, indicando origem, destino, causa, finalidade, modo, companhia, tempo ou lugar.",
+    "instruction": "Complete cada frase escolhendo as preposições ou expressões adequadas entre as opções apresentadas.",
     "questions": [
       {
-        "text": "A investigação revelou resultados {{1}}, que contradizem algumas teorias anteriormente aceites.",
-        "answers": ["surpreendentes"]
+        "text": "A investigadora dedicou vários anos {{1}} (a / de / por) estudar os efeitos da poluição {{2}} (sobre / entre / desde) a saúde pública.",
+        "answers": ["a", "sobre"]
       },
       {
-        "text": "Apesar das dificuldades financeiras, a organização manteve uma posição {{1}} perante os seus compromissos sociais.",
-        "answers": ["responsável"]
+        "text": "O relatório foi elaborado {{1}} (com / sem / contra) a colaboração de especialistas {{2}} (de / em / por) diferentes países.",
+        "answers": ["com", "de"]
       },
       {
-        "text": "A decisão foi considerada {{1}} porque não teve em conta as consequências para os trabalhadores.",
-        "answers": ["precipitada"]
+        "text": "A empresa investiu {{1}} (em / de / para) tecnologias sustentáveis {{2}} (com o objetivo de / apesar de / em vez de) reduzir os seus custos operacionais.",
+        "answers": ["em", "com o objetivo de"]
       },
       {
-        "text": "O relatório apresenta uma análise {{1}} dos fatores que influenciaram o crescimento económico.",
-        "answers": ["abrangente"]
+        "text": "O candidato foi selecionado {{1}} (por / de / em) causa da sua experiência e {{2}} (apesar de / perante / desde) algumas dificuldades iniciais.",
+        "answers": ["por", "apesar de"]
       },
       {
-        "text": "A empresa procura profissionais {{1}}, capazes de encontrar soluções originais para problemas complexos.",
-        "answers": ["criativos"]
+        "text": "A decisão foi tomada {{1}} (de acordo com / em vez de / para além de) os regulamentos internos e comunicada {{2}} (a / de / por) todos os funcionários.",
+        "answers": ["de acordo com", "a"]
       },
       {
-        "text": "A ausência de provas {{1}} tornou impossível confirmar a responsabilidade dos suspeitos.",
-        "answers": ["conclusivas"]
+        "text": "Os investigadores trabalharam {{1}} (durante / contra / sobre) vários meses {{2}} (a fim de / apesar de / em torno de) encontrar uma solução viável.",
+        "answers": ["durante", "a fim de"]
       },
       {
-        "text": "O investigador adotou uma abordagem {{1}} para evitar qualquer influência das suas opiniões pessoais.",
-        "answers": ["imparcial"]
+        "text": "A organização atua {{1}} (em / por / desde) benefício das comunidades locais e luta {{2}} (contra / entre / sobre) todas as formas de discriminação.",
+        "answers": ["em", "contra"]
       },
       {
-        "text": "As medidas implementadas tiveram um impacto {{1}} na redução das desigualdades sociais.",
-        "answers": ["significativo"]
+        "text": "O documento foi enviado {{1}} (por / de / em) correio eletrónico {{2}} (antes de / apesar de / em vez de) a reunião começar.",
+        "answers": ["por", "antes de"]
       },
       {
-        "text": "Embora fosse {{1}}, o projeto demonstrou ser economicamente viável a longo prazo.",
-        "answers": ["ambicioso"]
+        "text": "A cidade cresceu {{1}} (ao longo de / em vez de / por causa de) várias décadas, sobretudo {{2}} (à volta de / apesar de / em direção a) novas zonas industriais.",
+        "answers": ["ao longo de", "à volta de"]
       },
       {
-        "text": "A preservação dos recursos naturais exige políticas {{1}} e uma participação ativa da população.",
-        "answers": ["sustentáveis"]
+        "text": "O acordo foi alcançado {{1}} (mediante / desde / contra) negociações intensas e entrou {{2}} (em / de / por) vigor no início do ano.",
+        "answers": ["mediante", "em"]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Advérbios",
+    "definition": "Os advérbios são palavras invariáveis que modificam verbos, adjetivos ou outros advérbios, acrescentando informações de tempo, lugar, modo, intensidade, afirmação, negação ou dúvida.",
+    "instruction": "Complete cada frase selecionando os advérbios adequados.",
+    "questions": [
+      {
+        "text": "A equipa trabalhou {{1}} (intensamente / intenso / intensidade) e conseguiu terminar o projeto {{2}} (antecipadamente / antecipado / antecipação).",
+        "answers": ["intensamente", "antecipadamente"]
+      },
+      {
+        "text": "O investigador explicou {{1}} (cuidadosamente / cuidadoso / cuidado) os resultados, mas alguns participantes ainda não compreenderam {{2}} (completamente / completo / completude) a conclusão.",
+        "answers": ["cuidadosamente", "completamente"]
+      },
+      {
+        "text": "A situação tornou-se {{1}} (extremamente / extremo / extremidade) complexa e evoluiu {{2}} (rapidamente / rápido / rapidez).",
+        "answers": ["extremamente", "rapidamente"]
+      },
+      {
+        "text": "Os documentos foram {{1}} (ontem / anual / lentamente) enviados, mas ainda não chegaram {{2}} (aqui / amanhã / cuidadosamente).",
+        "answers": ["ontem", "aqui"]
+      },
+      {
+        "text": "O diretor respondeu {{1}} (educadamente / educado / educação), embora estivesse {{2}} (visivelmente / visível / visibilidade) irritado.",
+        "answers": ["educadamente", "visivelmente"]
+      },
+      {
+        "text": "A empresa não conseguiu cumprir o prazo porque começou a preparar o projeto {{1}} (demasiado / demorado / demora) tarde e avançou {{2}} (lentamente / lento / lentidão).",
+        "answers": ["demasiado", "lentamente"]
+      },
+      {
+        "text": "O novo sistema funciona {{1}} (relativamente / relativo / relação) bem e permite processar os dados {{2}} (automaticamente / automático / automatização).",
+        "answers": ["relativamente", "automaticamente"]
+      },
+      {
+        "text": "A investigadora procurou informações {{1}} (cuidadosamente / cuidadosa / cuidado) e verificou {{2}} (minuciosamente / minucioso / minúcia) todas as fontes.",
+        "answers": ["cuidadosamente", "minuciosamente"]
+      },
+      {
+        "text": "O projeto foi {{1}} (quase / próximo / proximidade) concluído, mas algumas tarefas continuam {{2}} (pendentes / ontem / talvez).",
+        "answers": ["quase", "pendentes"]
+      },
+      {
+        "text": "O problema foi resolvido {{1}} (finalmente / final / finalidade), depois de a equipa ter analisado {{2}} (profundamente / profundo / profundidade) todas as alternativas.",
+        "answers": ["finalmente", "profundamente"]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Sinônimos",
+    "definition": "Os sinónimos são palavras com significados iguais ou semelhantes. A escolha de um sinónimo depende do contexto, do registo linguístico e da intenção comunicativa.",
+    "instruction": "Escolha os sinónimos adequados para substituir as palavras indicadas no contexto.",
+    "questions": [
+      {
+        "text": "A decisão foi {{1}} (sensata / absurda / precipitada), pois revelou prudência e {{2}} (bom senso / imprudência / negligência) perante a situação.",
+        "answers": ["sensata", "bom senso"]
+      },
+      {
+        "text": "O investigador apresentou uma análise {{1}} (minuciosa / superficial / confusa), examinando os dados de maneira {{2}} (detalhada / vaga / imprecisa).",
+        "answers": ["minuciosa", "detalhada"]
+      },
+      {
+        "text": "A organização pretende {{1}} (ampliar / reduzir / interromper) a sua presença internacional e {{2}} (expandir / limitar / abandonar) as suas atividades.",
+        "answers": ["ampliar", "expandir"]
+      },
+      {
+        "text": "A proposta foi considerada {{1}} (pertinente / inadequada / irrelevante), uma vez que era {{2}} (apropriada / absurda / inoportuna) às necessidades identificadas.",
+        "answers": ["pertinente", "apropriada"]
+      },
+      {
+        "text": "A situação económica tornou-se {{1}} (preocupante / favorável / estável), provocando uma crescente {{2}} (inquietação / tranquilidade / satisfação) entre os investidores.",
+        "answers": ["preocupante", "inquietação"]
+      },
+      {
+        "text": "O responsável decidiu {{1}} (adiar / antecipar / cancelar) a reunião, ou seja, {{2}} (prolongar a espera / transferir para outra data / concluir imediatamente) o encontro.",
+        "answers": ["adiar", "transferir para outra data"]
+      },
+      {
+        "text": "A investigação revelou resultados {{1}} (significativos / insignificantes / duvidosos), com uma importância {{2}} (considerável / mínima / irrelevante) para a comunidade científica.",
+        "answers": ["significativos", "considerável"]
+      },
+      {
+        "text": "O diretor procurou {{1}} (esclarecer / confundir / ocultar) as dúvidas dos funcionários e {{2}} (elucidar / desorientar / silenciar) os participantes.",
+        "answers": ["esclarecer", "elucidar"]
+      },
+      {
+        "text": "A colaboração entre as instituições foi {{1}} (proveitosa / prejudicial / inútil) e produziu resultados {{2}} (vantajosos / desfavoráveis / improdutivos).",
+        "answers": ["proveitosa", "vantajosos"]
+      },
+      {
+        "text": "O relatório apresenta uma conclusão {{1}} (convincente / contraditória / infundada), apoiada numa argumentação {{2}} (persuasiva / incoerente / frágil).",
+        "answers": ["convincente", "persuasiva"]
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "titre": "Palavras e vocabulário contextual",
+    "definition": "O domínio do vocabulário exige compreender o significado das palavras e selecionar a forma lexical mais adequada ao contexto comunicativo.",
+    "instruction": "Complete cada frase escolhendo as palavras adequadas entre as opções.",
+    "questions": [
+      {
+        "text": "A falta de {{1}} (transparência / transparênciação / transparente) nas decisões pode comprometer a {{2}} (confiança / confiante / confiar) dos cidadãos.",
+        "answers": ["transparência", "confiança"]
+      },
+      {
+        "text": "A empresa pretende melhorar a sua {{1}} (competitividade / competitivo / competir) através de uma estratégia de {{2}} (inovação / inovador / inovar).",
+        "answers": ["competitividade", "inovação"]
+      },
+      {
+        "text": "A {{1}} (escassez / escasso / escassear) de recursos exige uma gestão {{2}} (criteriosa / critério / criteriosamente) das reservas disponíveis.",
+        "answers": ["escassez", "criteriosa"]
+      },
+      {
+        "text": "A {{1}} (implementação / implementar / implementado) da reforma depende de uma adequada {{2}} (coordenação / coordenar / coordenado) institucional.",
+        "answers": ["implementação", "coordenação"]
+      },
+      {
+        "text": "O crescimento {{1}} (demográfico / demografia / demograficamente) aumenta a pressão sobre as infraestruturas {{2}} (urbanas / urbanismo / urbanizar).",
+        "answers": ["demográfico", "urbanas"]
+      },
+      {
+        "text": "A {{1}} (disseminação / disseminar / disseminado) de informações falsas pode provocar consequências {{2}} (graves / gravidade / gravemente).",
+        "answers": ["disseminação", "graves"]
+      },
+      {
+        "text": "A organização procura garantir a {{1}} (acessibilidade / acessível / acessar) dos seus serviços e melhorar a experiência dos {{2}} (utilizadores / utilizar / utilizável).",
+        "answers": ["acessibilidade", "utilizadores"]
+      },
+      {
+        "text": "A {{1}} (escuta / escutar / escutado) ativa é essencial para uma comunicação {{2}} (eficaz / eficácia / eficazmente).",
+        "answers": ["escuta", "eficaz"]
+      },
+      {
+        "text": "A {{1}} (preservação / preservar / preservado) do património cultural exige medidas {{2}} (permanentes / permanência / permanentemente).",
+        "answers": ["preservação", "permanentes"]
+      },
+      {
+        "text": "A {{1}} (responsabilização / responsabilizar / responsável) dos dirigentes deve acompanhar uma gestão {{2}} (transparente / transparência / transparentemente).",
+        "answers": ["responsabilização", "transparente"]
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "titre": "Conjunções",
+    "definition": "As conjunções são palavras invariáveis que ligam orações ou elementos de uma frase, estabelecendo relações de coordenação ou subordinação, como adição, oposição, causa, condição e consequência.",
+    "instruction": "Complete as frases selecionando as conjunções adequadas.",
+    "questions": [
+      {
+        "text": "A empresa aumentou a produção, {{1}} (mas / porque / embora) os custos também cresceram, {{2}} (portanto / apesar de / enquanto) será necessário rever o orçamento.",
+        "answers": ["mas", "portanto"]
+      },
+      {
+        "text": "A investigadora continuou o estudo {{1}} (embora / porque / portanto) enfrentasse dificuldades, {{2}} (pois / contudo / enquanto) considerava os resultados importantes.",
+        "answers": ["embora", "pois"]
+      },
+      {
+        "text": "Não poderemos concluir o projeto {{1}} (se / embora / porque) não recebermos os recursos necessários, {{2}} (a menos que / apesar de / assim que) surja uma solução alternativa.",
+        "answers": ["se", "a menos que"]
+      },
+      {
+        "text": "O relatório foi publicado {{1}} (depois que / embora / contudo) os dados foram verificados, {{2}} (para que / apesar de / enquanto) todos pudessem consultar os resultados.",
+        "answers": ["depois que", "para que"]
+      },
+      {
+        "text": "A população apoiou a iniciativa, {{1}} (porque / contudo / embora) reconheceu os seus benefícios, {{2}} (e / ou / mas) participou ativamente na sua implementação.",
+        "answers": ["porque", "e"]
+      },
+      {
+        "text": "A proposta será aprovada {{1}} (desde que / embora / contudo) respeite os requisitos legais, {{2}} (caso contrário / assim que / porque) terá de ser reformulada.",
+        "answers": ["desde que", "caso contrário"]
+      },
+      {
+        "text": "O diretor não compareceu à reunião, {{1}} (nem / porque / portanto) enviou qualquer representante, {{2}} (embora / pois / logo) tivesse sido previamente informado.",
+        "answers": ["nem", "embora"]
+      },
+      {
+        "text": "A equipa trabalhou durante toda a noite, {{1}} (a fim de que / apesar de / contudo) pudesse terminar a tarefa, {{2}} (antes que / porque / embora) o prazo expirasse.",
+        "answers": ["a fim de que", "antes que"]
+      },
+      {
+        "text": "O investimento será mantido, {{1}} (quer / porque / embora) os resultados sejam positivos, {{2}} (quer / portanto / contudo) sejam inicialmente modestos.",
+        "answers": ["quer", "quer"]
+      },
+      {
+        "text": "A investigação foi interrompida {{1}} (não só porque / embora / enquanto) faltavam recursos, {{2}} (mas também porque / apesar de / logo) surgiram problemas técnicos.",
+        "answers": ["não só porque", "mas também porque"]
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "titre": "Ordem das palavras",
+    "definition": "A ordem das palavras corresponde à organização dos elementos numa frase. Em português, a estrutura mais comum é sujeito, verbo e complemento, embora a ênfase e o contexto possam permitir outras construções.",
+    "instruction": "Escolha a sequência de palavras que produz uma frase correta e coerente.",
+    "questions": [
+      {
+        "text": "A estrutura correta é: {{1}} (Os investigadores analisaram os resultados cuidadosamente / Os investigadores cuidadosamente os resultados analisaram / Analisaram cuidadosamente os investigadores os resultados) e {{2}} (apresentaram as conclusões posteriormente / as conclusões posteriormente apresentaram os / posteriormente as conclusões os apresentaram).",
+        "answers": ["Os investigadores analisaram os resultados cuidadosamente", "apresentaram as conclusões posteriormente"]
+      },
+      {
+        "text": "A frase correta é: {{1}} (A empresa anunciou uma nova estratégia / Uma nova estratégia a empresa anunciou uma / Anunciou uma nova a empresa estratégia) e {{2}} (pretende expandir as suas atividades / as suas atividades pretende expandir / expandir pretende as suas atividades).",
+        "answers": ["A empresa anunciou uma nova estratégia", "pretende expandir as suas atividades"]
+      },
+      {
+        "text": "A organização sintática adequada é: {{1}} (Os participantes chegaram à conclusão / À conclusão os participantes chegaram a / Chegaram os participantes à conclusão a) de que {{2}} (a reforma era necessária / era a necessária reforma / necessária a reforma era).",
+        "answers": ["Os participantes chegaram à conclusão", "a reforma era necessária"]
+      },
+      {
+        "text": "A sequência correta é: {{1}} (Apesar das dificuldades, a equipa prosseguiu / A equipa apesar prosseguiu das dificuldades / Das dificuldades apesar a equipa prosseguiu) e {{2}} (conseguiu alcançar os objetivos / alcançar conseguiu os objetivos / os objetivos conseguiu alcançar).",
+        "answers": ["Apesar das dificuldades, a equipa prosseguiu", "conseguiu alcançar os objetivos"]
+      },
+      {
+        "text": "A frase corretamente organizada é: {{1}} (O governo apresentou medidas económicas / Medidas económicas apresentou o governo / Apresentou económicas medidas o governo) para {{2}} (reduzir a desigualdade social / a desigualdade social reduzir / social reduzir a desigualdade).",
+        "answers": ["O governo apresentou medidas económicas", "reduzir a desigualdade social"]
+      },
+      {
+        "text": "A ordem adequada é: {{1}} (Os dados recolhidos foram cuidadosamente analisados / Cuidadosamente os dados foram analisados recolhidos / Foram recolhidos analisados cuidadosamente os dados) antes de {{2}} (serem divulgados publicamente / publicamente divulgados serem / divulgados serem publicamente).",
+        "answers": ["Os dados recolhidos foram cuidadosamente analisados", "serem divulgados publicamente"]
+      },
+      {
+        "text": "A construção correta é: {{1}} (A diretora explicou os motivos da decisão / Os motivos da decisão explicou a diretora os / Explicou a diretora os da decisão motivos) e {{2}} (respondeu às perguntas dos jornalistas / às perguntas dos jornalistas respondeu / respondeu dos jornalistas às perguntas).",
+        "answers": ["A diretora explicou os motivos da decisão", "respondeu às perguntas dos jornalistas"]
+      },
+      {
+        "text": "A sequência correta é: {{1}} (O desenvolvimento tecnológico transformou a sociedade / A sociedade tecnológico transformou o desenvolvimento / Transformou desenvolvimento a sociedade tecnológico) e {{2}} (criou novas oportunidades profissionais / novas profissionais criou oportunidades / profissionais oportunidades novas criou).",
+        "answers": ["O desenvolvimento tecnológico transformou a sociedade", "criou novas oportunidades profissionais"]
+      },
+      {
+        "text": "A frase corretamente estruturada é: {{1}} (Quando terminou a reunião, os participantes saíram / Os participantes quando saíram terminou a reunião / Terminou os participantes quando a reunião saíram) e {{2}} (regressaram aos seus locais de trabalho / aos seus locais regressaram trabalho de / locais de trabalho aos regressaram).",
+        "answers": ["Quando terminou a reunião, os participantes saíram", "regressaram aos seus locais de trabalho"]
+      },
+      {
+        "text": "A ordem correta é: {{1}} (A preservação ambiental exige responsabilidade coletiva / Responsabilidade coletiva exige ambiental a preservação / Exige a preservação coletiva ambiental responsabilidade) e {{2}} (participação ativa dos cidadãos / dos cidadãos ativa participação / ativa dos participação cidadãos).",
+        "answers": ["A preservação ambiental exige responsabilidade coletiva", "participação ativa dos cidadãos"]
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "titre": "Artigos",
+    "definition": "Os artigos definidos e indefinidos acompanham os substantivos e permitem identificar se estes se referem a elementos conhecidos, específicos ou não determinados.",
+    "instruction": "Complete as frases com os artigos adequados.",
+    "questions": [
+      {
+        "text": "{{1}} (O / Um / A) investigador apresentou {{2}} (uma / o / as) hipótese inovadora durante a conferência.",
+        "answers": ["O", "uma"]
+      },
+      {
+        "text": "{{1}} (A / Um / Os) sustentabilidade ambiental tornou-se {{2}} (uma / o / uns) prioridade para muitas organizações.",
+        "answers": ["A", "uma"]
+      },
+      {
+        "text": "A diretora convocou {{1}} (os / umas / um) funcionários para discutir {{2}} (as / o / um) novas medidas administrativas.",
+        "answers": ["os", "as"]
+      },
+      {
+        "text": "Foi publicada {{1}} (uma / o / uns) investigação sobre {{2}} (a / os / um) desigualdade económica.",
+        "answers": ["uma", "a"]
+      },
+      {
+        "text": "{{1}} (Os / A / Um) resultados da pesquisa confirmaram {{2}} (as / o / uma) previsões iniciais.",
+        "answers": ["Os", "as"]
+      },
+      {
+        "text": "A universidade inaugurou {{1}} (um / umas / a) centro de investigação destinado a apoiar {{2}} (os / uma / o) estudantes.",
+        "answers": ["um", "os"]
+      },
+      {
+        "text": "{{1}} (A / O / Uns) informação divulgada pelo organismo foi considerada {{2}} (uma / os / o) referência importante.",
+        "answers": ["A", "uma"]
+      },
+      {
+        "text": "O município pretende construir {{1}} (uma / o / uns) ponte e melhorar {{2}} (a / os / um) rede de transportes.",
+        "answers": ["uma", "a"]
+      },
+      {
+        "text": "{{1}} (As / O / Um) alterações climáticas representam {{2}} (um / uma / os) ameaça para várias comunidades.",
+        "answers": ["As", "uma"]
+      },
+      {
+        "text": "Depois de analisar {{1}} (o / umas / uma) documento, o técnico apresentou {{2}} (as / um / os) recomendações necessárias.",
+        "answers": ["o", "as"]
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "titre": "Antônimos",
+    "definition": "Os antónimos são palavras que apresentam significados opostos. O conhecimento destas relações permite expressar contrastes e enriquecer a comunicação.",
+    "instruction": "Escolha os antónimos adequados de acordo com o sentido de cada frase.",
+    "questions": [
+      {
+        "text": "A decisão não foi {{1}} (prudente / cautelosa / ponderada), mas sim {{2}} (imprudente / sensata / equilibrada), devido à falta de análise.",
+        "answers": ["prudente", "imprudente"]
+      },
+      {
+        "text": "O acesso aos serviços era inicialmente {{1}} (restrito / limitado / reduzido), mas tornou-se {{2}} (amplo / escasso / insuficiente) após a reforma.",
+        "answers": ["restrito", "amplo"]
+      },
+      {
+        "text": "A instituição pretende substituir os procedimentos {{1}} (obsoletos / modernos / atuais) por métodos mais {{2}} (inovadores / ultrapassados / antigos).",
+        "answers": ["obsoletos", "inovadores"]
+      },
+      {
+        "text": "Enquanto algumas regiões apresentam abundância de recursos, outras enfrentam uma grave {{1}} (escassez / disponibilidade / riqueza) e uma crescente {{2}} (carência / abundância / prosperidade).",
+        "answers": ["escassez", "carência"]
+      },
+      {
+        "text": "A proposta inicial era {{1}} (viável / possível / realizável), mas a nova avaliação demonstrou que era {{2}} (inviável / praticável / exequível).",
+        "answers": ["viável", "inviável"]
+      },
+      {
+        "text": "O discurso do dirigente foi considerado {{1}} (transparente / claro / explícito), ao contrário do anterior, que era {{2}} (opaco / esclarecedor / direto).",
+        "answers": ["transparente", "opaco"]
+      },
+      {
+        "text": "A organização pretende reduzir a dependência externa e aumentar a sua {{1}} (autonomia / submissão / vulnerabilidade) e {{2}} (independência / dependência / sujeição).",
+        "answers": ["autonomia", "independência"]
+      },
+      {
+        "text": "A análise revelou uma tendência {{1}} (ascendente / crescente / progressiva), em contraste com o período anterior, marcado por uma tendência {{2}} (descendente / crescente / positiva).",
+        "answers": ["ascendente", "descendente"]
+      },
+      {
+        "text": "O comportamento do funcionário foi considerado {{1}} (responsável / prudente / cuidadoso), enquanto a atitude do seu colega foi claramente {{2}} (irresponsável / consciente / ponderada).",
+        "answers": ["responsável", "irresponsável"]
+      },
+      {
+        "text": "A negociação começou de maneira {{1}} (amistosa / cordial / harmoniosa), mas terminou num ambiente {{2}} (hostil / amigável / pacífico).",
+        "answers": ["amistosa", "hostil"]
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "titre": "Pronomes",
+    "definition": "Os pronomes substituem ou acompanham nomes e podem indicar pessoas, objetos, posse, localização, quantidade ou relações entre elementos do discurso.",
+    "instruction": "Complete cada frase com os pronomes adequados.",
+    "questions": [
+      {
+        "text": "A investigadora apresentou os resultados aos colegas e {{1}} (lhes / os / nos) explicou detalhadamente, antes de {{2}} (os / lhes / se) publicar.",
+        "answers": ["lhes", "os"]
+      },
+      {
+        "text": "Os documentos estavam incompletos, por isso o diretor pediu que {{1}} (os / lhes / nos) corrigíssemos e que {{2}} (os / lhes / se) enviássemos novamente.",
+        "answers": ["os", "os"]
+      },
+      {
+        "text": "A proposta foi elaborada por {{1}} (mim / eu / me), mas a decisão final depende de {{2}} (ti / tu / te).",
+        "answers": ["mim", "ti"]
+      },
+      {
+        "text": "Os participantes apresentaram {{1}} (as suas / deles / suas de) opiniões e defenderam {{2}} (as mesmas / eles / lhes) durante o debate.",
+        "answers": ["as suas", "as mesmas"]
+      },
+      {
+        "text": "A organização procurou os candidatos, mas não conseguiu encontrar {{1}} (nenhum / alguém / qualquer um) que correspondesse aos critérios definidos, embora tivesse contactado {{2}} (alguns / ninguém / nada).",
+        "answers": ["nenhum", "alguns"]
+      },
+      {
+        "text": "A diretora perguntou {{1}} (quem / cujo / onde) tinha preparado o relatório e {{2}} (qual / quem / que) das propostas deveria ser aprovada.",
+        "answers": ["quem", "qual"]
+      },
+      {
+        "text": "O investigador encontrou uma solução {{1}} (que / cujo / quem) resolveu o problema e apresentou os resultados aos colegas, os quais {{2}} (os / lhes / se) analisaram cuidadosamente.",
+        "answers": ["que", "os"]
+      },
+      {
+        "text": "Cada participante deve trazer {{1}} (o seu / dele / lhe) documento e apresentar {{2}} (se / lhe / o) ao responsável.",
+        "answers": ["o seu", "o"]
+      },
+      {
+        "text": "A empresa contratou dois especialistas, {{1}} (ambos / nenhum / cada) com experiência internacional, e atribuiu {{2}} (lhes / os / se) responsabilidades distintas.",
+        "answers": ["ambos", "lhes"]
+      },
+      {
+        "text": "Não sei {{1}} (quem / cujo / onde) tomou essa decisão, mas gostaria de saber {{2}} (por que / quem / cujo) motivo foi adotada.",
+        "answers": ["quem", "por que"]
+      }
+    ]
+  },
+  {
+    "id": "011",
+    "titre": "Verbos",
+    "definition": "Os verbos exprimem ações, estados, processos ou acontecimentos. A sua utilização correta depende da pessoa, do tempo, do modo e da relação com os restantes elementos da frase.",
+    "instruction": "Escolha as formas verbais adequadas para completar as frases.",
+    "questions": [
+      {
+        "text": "Se a empresa {{1}} (investisse / investe / investirá) mais em formação, os funcionários {{2}} (desenvolveriam / desenvolveram / desenvolvem) novas competências.",
+        "answers": ["investisse", "desenvolveriam"]
+      },
+      {
+        "text": "Quando os investigadores {{1}} (concluírem / concluíram / concluíam) o estudo, apresentarão os resultados que {{2}} (obtiveram / obterão / obtivessem).",
+        "answers": ["concluírem", "obtiveram"]
+      },
+      {
+        "text": "Embora o diretor {{1}} (reconheça / reconhece / reconhecerá) as dificuldades, continua a {{2}} (defender / defende / defendido) a proposta.",
+        "answers": ["reconheça", "defender"]
+      },
+      {
+        "text": "Se os documentos tivessem sido enviados a tempo, a administração já {{1}} (teria respondido / responderá / respondia) e o processo {{2}} (estaria / esteve / estará) concluído.",
+        "answers": ["teria respondido", "estaria"]
+      },
+      {
+        "text": "É necessário que todos {{1}} (cumpram / cumprem / cumprirão) as regras e que ninguém {{2}} (ignore / ignora / ignorará) as instruções.",
+        "answers": ["cumpram", "ignore"]
+      },
+      {
+        "text": "A equipa {{1}} (vinha desenvolvendo / desenvolveu / desenvolverá) o projeto há vários meses quando surgiu um problema que {{2}} (alterou / alterava / alterará) o calendário.",
+        "answers": ["vinha desenvolvendo", "alterou"]
+      },
+      {
+        "text": "O relatório deve {{1}} (ser revisto / ser revê / estar revendo) antes de a diretora o {{2}} (aprovar / aprova / aprovou).",
+        "answers": ["ser revisto", "aprovar"]
+      },
+      {
+        "text": "Caso os resultados {{1}} (confirmem / confirmam / confirmarão) a hipótese, os investigadores {{2}} (publicarão / publicassem / publicaram) o estudo.",
+        "answers": ["confirmem", "publicarão"]
+      },
+      {
+        "text": "Os especialistas recomendaram que a instituição {{1}} (adotasse / adotou / adotará) medidas preventivas e {{2}} (reforçasse / reforça / reforçou) a fiscalização.",
+        "answers": ["adotasse", "reforçasse"]
+      },
+      {
+        "text": "Quando chegámos ao local, os técnicos já {{1}} (tinham iniciado / iniciarão / iniciavam) os trabalhos e alguns equipamentos {{2}} (estavam / estarão / estiveram) em funcionamento.",
+        "answers": ["tinham iniciado", "estavam"]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "Substantivos",
+    "definition": "Os substantivos são palavras que nomeiam pessoas, animais, objetos, lugares, sentimentos, conceitos, instituições e fenómenos. Podem ser concretos ou abstratos, comuns ou próprios, individuais ou coletivos.",
+    "instruction": "Complete as frases escolhendo os substantivos adequados.",
+    "questions": [
+      {
+        "text": "A {{1}} (perseverança / perseverante / perseverar) dos investigadores foi fundamental para o sucesso da {{2}} (investigação / investigar / investigativo).",
+        "answers": ["perseverança", "investigação"]
+      },
+      {
+        "text": "A {{1}} (implementação / implementar / implementado) da reforma exige uma coordenação eficaz entre as diferentes {{2}} (instituições / institucional / instituir).",
+        "answers": ["implementação", "instituições"]
+      },
+      {
+        "text": "A {{1}} (escassez / escasso / escassear) de água representa uma ameaça à {{2}} (subsistência / subsistir / subsistente) das comunidades rurais.",
+        "answers": ["escassez", "subsistência"]
+      },
+      {
+        "text": "A {{1}} (credibilidade / credível / acreditar) de uma instituição depende da sua {{2}} (transparência / transparente / transparentemente).",
+        "answers": ["credibilidade", "transparência"]
+      },
+      {
+        "text": "A {{1}} (urbanização / urbano / urbanizar) acelerada provoca alterações na {{2}} (configuração / configurar / configurado) do território.",
+        "answers": ["urbanização", "configuração"]
+      },
+      {
+        "text": "A {{1}} (diversificação / diversificar / diversificado) da economia pode estimular a criação de emprego e a {{2}} (prosperidade / próspero / prosperar) das regiões.",
+        "answers": ["diversificação", "prosperidade"]
+      },
+      {
+        "text": "A {{1}} (consciencialização / consciencializar / consciente) ambiental depende da educação e da {{2}} (participação / participar / participante) dos cidadãos.",
+        "answers": ["consciencialização", "participação"]
+      },
+      {
+        "text": "A {{1}} (desigualdade / desigual / desigualmente) na distribuição dos rendimentos pode provocar instabilidade e {{2}} (insatisfação / insatisfeito / satisfazer) social.",
+        "answers": ["desigualdade", "insatisfação"]
+      },
+      {
+        "text": "A {{1}} (cooperação / cooperar / cooperativo) internacional favorece o intercâmbio de conhecimentos e o desenvolvimento de novas {{2}} (parcerias / parceiro / partilhar).",
+        "answers": ["cooperação", "parcerias"]
+      },
+      {
+        "text": "A {{1}} (responsabilização / responsabilizar / responsável) dos gestores contribui para a melhoria da {{2}} (governação / governar / governável) institucional.",
+        "answers": ["responsabilização", "governação"]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Prefixos e sufixos",
+    "definition": "Os prefixos são elementos acrescentados antes do radical de uma palavra, enquanto os sufixos são acrescentados depois dele. Ambos permitem formar novas palavras e modificar o seu significado ou a sua categoria gramatical.",
+    "instruction": "Escolha as palavras corretamente formadas com prefixos ou sufixos.",
+    "questions": [
+      {
+        "text": "A informação divulgada era {{1}} (incompleta / completude / completar) e alguns dados precisavam de ser {{2}} (reorganizados / organização / organizado).",
+        "answers": ["incompleta", "reorganizados"]
+      },
+      {
+        "text": "A {{1}} (descentralização / central / centralizar) administrativa pretende distribuir melhor as responsabilidades e evitar a {{2}} (concentração / concentrar / concentrado) excessiva de poderes.",
+        "answers": ["descentralização", "concentração"]
+      },
+      {
+        "text": "A proposta foi considerada {{1}} (irrealista / realismo / realizar) porque apresentava objetivos {{2}} (inalcançáveis / alcançar / alcançável).",
+        "answers": ["irrealista", "inalcançáveis"]
+      },
+      {
+        "text": "A {{1}} (modernização / moderno / modernizar) dos equipamentos contribuiu para aumentar a {{2}} (produtividade / produtivo / produzir) da empresa.",
+        "answers": ["modernização", "produtividade"]
+      },
+      {
+        "text": "A {{1}} (desvalorização / valorizar / valioso) da moeda provocou um aumento dos preços e uma maior {{2}} (instabilidade / estável / estabilizar) económica.",
+        "answers": ["desvalorização", "instabilidade"]
+      },
+      {
+        "text": "A {{1}} (inadequação / adequado / adequar) dos métodos utilizados revelou a necessidade de uma {{2}} (reformulação / reformular / reformulado) dos procedimentos.",
+        "answers": ["inadequação", "reformulação"]
+      },
+      {
+        "text": "A {{1}} (ilegalidade / legal / legalizar) da operação foi confirmada e os responsáveis foram {{2}} (responsabilizados / responsabilidade / responsável).",
+        "answers": ["ilegalidade", "responsabilizados"]
+      },
+      {
+        "text": "O programa promove a {{1}} (reutilização / reutilizar / reutilizável) de materiais e incentiva comportamentos mais {{2}} (sustentáveis / sustentabilidade / sustentar).",
+        "answers": ["reutilização", "sustentáveis"]
+      },
+      {
+        "text": "A {{1}} (incompatibilidade / compatível / compatibilizar) entre os sistemas dificultou a sua {{2}} (integração / integrar / integrado).",
+        "answers": ["incompatibilidade", "integração"]
+      },
+      {
+        "text": "A {{1}} (desmotivação / motivar / motivado) dos trabalhadores diminuiu após a implementação de medidas de {{2}} (valorização / valorizar / valioso) profissional.",
+        "answers": ["desmotivação", "valorização"]
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "titre": "Negação",
+    "definition": "A negação permite rejeitar, contradizer ou limitar o significado de uma afirmação. Em português, pode ser expressa por palavras como não, nunca, ninguém, nada, nenhum e tampouco.",
+    "instruction": "Complete as frases utilizando as formas de negação adequadas.",
+    "questions": [
+      {
+        "text": "{{1}} (Ninguém / Alguém / Qualquer pessoa) apresentou uma solução viável, e {{2}} (nenhum / algum / todo) dos participantes conseguiu resolver o problema.",
+        "answers": ["Ninguém", "nenhum"]
+      },
+      {
+        "text": "A organização {{1}} (nunca / sempre / frequentemente) recebeu qualquer reclamação e {{2}} (não / já / ainda) identificou irregularidades.",
+        "answers": ["nunca", "não"]
+      },
+      {
+        "text": "O diretor não autorizou {{1}} (nenhuma / alguma / toda) alteração, nem permitiu que {{2}} (ninguém / alguém / todos) modificasse o documento.",
+        "answers": ["nenhuma", "ninguém"]
+      },
+      {
+        "text": "A empresa não pretende reduzir os salários, {{1}} (tampouco / também / portanto) eliminar os benefícios, e {{2}} (nem / ou / porque) alterar os contratos unilateralmente.",
+        "answers": ["tampouco", "nem"]
+      },
+      {
+        "text": "O investigador não encontrou {{1}} (nada / tudo / algo) que confirmasse a hipótese, nem identificou {{2}} (qualquer / algum / todo) evidência conclusiva.",
+        "answers": ["nada", "qualquer"]
+      },
+      {
+        "text": "A proposta ainda {{1}} (não / já / sempre) foi aprovada, e os responsáveis {{2}} (ainda não / já / certamente) anunciaram uma decisão definitiva.",
+        "answers": ["não", "ainda não"]
+      },
+      {
+        "text": "{{1}} (Nem / Tanto / Ou) o diretor nem os funcionários tinham recebido informações, por isso {{2}} (ninguém / alguém / todos) conseguiu esclarecer a situação.",
+        "answers": ["Nem", "ninguém"]
+      },
+      {
+        "text": "O relatório não apresenta {{1}} (nenhuma / alguma / toda) contradição relevante, mas também não oferece {{2}} (qualquer / alguma / toda) garantia absoluta.",
+        "answers": ["nenhuma", "qualquer"]
+      },
+      {
+        "text": "O candidato afirmou que {{1}} (jamais / sempre / frequentemente) tinha participado naquele processo e que {{2}} (nunca / ainda / já) recebera qualquer comunicação oficial.",
+        "answers": ["jamais", "nunca"]
+      },
+      {
+        "text": "Não havia {{1}} (ninguém / alguém / todos) no edifício, e {{2}} (nenhuma / alguma / toda) das salas estava aberta.",
+        "answers": ["ninguém", "nenhuma"]
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "titre": "Parônimos",
+    "definition": "Os parónimos são palavras semelhantes na forma ou na pronúncia, mas com significados diferentes. A sua distinção é essencial para evitar erros de interpretação e de escrita.",
+    "instruction": "Escolha a palavra correta de acordo com o significado da frase.",
+    "questions": [
+      {
+        "text": "O funcionário apresentou um {{1}} (cumprimento / comprimento) cordial ao diretor e verificou o {{2}} (comprimento / cumprimento) do equipamento.",
+        "answers": ["cumprimento", "comprimento"]
+      },
+      {
+        "text": "A instituição pretende {{1}} (ratificar / retificar) o acordo já assinado e {{2}} (retificar / ratificar) os erros encontrados no documento.",
+        "answers": ["ratificar", "retificar"]
+      },
+      {
+        "text": "O investigador demonstrou grande {{1}} (descrição / discrição) durante a análise e elaborou uma {{2}} (descrição / discrição) detalhada do fenómeno.",
+        "answers": ["discrição", "descrição"]
+      },
+      {
+        "text": "A empresa pretende {{1}} (emigrar / imigrar) parte da sua produção para outro país, enquanto muitos trabalhadores decidem {{2}} (emigrar / imigrar) em busca de melhores oportunidades.",
+        "answers": ["imigrar", "emigrar"]
+      },
+      {
+        "text": "O documento apresenta uma {{1}} (infração / inflação) às normas internas, enquanto a {{2}} (inflação / infração) continua a afetar o poder de compra.",
+        "answers": ["infração", "inflação"]
+      },
+      {
+        "text": "O juiz decidiu {{1}} (absolver / absorver) o arguido por falta de provas, enquanto o organismo pretende {{2}} (absorver / absolver) os custos adicionais.",
+        "answers": ["absolver", "absorver"]
+      },
+      {
+        "text": "A direção decidiu {{1}} (adotar / adaptar) uma nova política e {{2}} (adaptar / adotar) os procedimentos às necessidades locais.",
+        "answers": ["adotar", "adaptar"]
+      },
+      {
+        "text": "O relatório contém uma {{1}} (descrição / discrição) dos acontecimentos e recomenda maior {{2}} (discrição / descrição) no tratamento de informações confidenciais.",
+        "answers": ["descrição", "discrição"]
+      },
+      {
+        "text": "O tribunal pretende {{1}} (infligir / infringir) uma pena proporcional ao crime, mas o acusado não pode {{2}} (infringir / infligir) as normas estabelecidas.",
+        "answers": ["infligir", "infringir"]
+      },
+      {
+        "text": "O gestor apresentou uma proposta {{1}} (emergente / iminente) para responder à crise, cuja gravidade se tornou {{2}} (iminente / emergente) após os últimos acontecimentos.",
+        "answers": ["emergente", "iminente"]
+      }
+    ]
+  },
+  {
+    "id": "016",
+    "titre": "Conectores lógicos",
+    "definition": "Os conectores lógicos estabelecem relações entre ideias e argumentos, permitindo expressar adição, oposição, causa, consequência, condição, finalidade, explicação e conclusão.",
+    "instruction": "Selecione os conectores adequados para garantir a coerência entre as ideias.",
+    "questions": [
+      {
+        "text": "A empresa aumentou os investimentos em formação; {{1}} (além disso / contudo / por conseguinte), modernizou os equipamentos; {{2}} (consequentemente / embora / em contrapartida), a produtividade melhorou.",
+        "answers": ["além disso", "consequentemente"]
+      },
+      {
+        "text": "Os resultados foram positivos; {{1}} (no entanto / portanto / além disso), algumas limitações persistem; {{2}} (por conseguinte / apesar disso / porque), a investigação deve continuar.",
+        "answers": ["no entanto", "apesar disso"]
+      },
+      {
+        "text": "A procura aumentou significativamente; {{1}} (por isso / embora / contudo), a empresa reforçou a produção; {{2}} (assim / apesar de / enquanto), conseguiu reduzir os atrasos.",
+        "answers": ["por isso", "assim"]
+      },
+      {
+        "text": "A medida foi considerada necessária, {{1}} (uma vez que / apesar de / contudo) a situação era preocupante; {{2}} (em virtude disso / entretanto / embora), recebeu apoio institucional.",
+        "answers": ["uma vez que", "em virtude disso"]
+      },
+      {
+        "text": "A proposta apresenta vantagens económicas; {{1}} (todavia / portanto / além disso), implica alguns riscos; {{2}} (por outro lado / por causa de / assim), exige uma avaliação cuidadosa.",
+        "answers": ["todavia", "por outro lado"]
+      },
+      {
+        "text": "O projeto foi concluído dentro do prazo; {{1}} (em síntese / contudo / por exemplo), os objetivos principais foram alcançados; {{2}} (deste modo / apesar de / embora), a equipa demonstrou grande eficiência.",
+        "answers": ["em síntese", "deste modo"]
+      },
+      {
+        "text": "A organização pretende expandir os seus serviços; {{1}} (para esse efeito / apesar disso / em contrapartida), necessita de novos investimentos; {{2}} (caso contrário / além disso / assim que), a expansão poderá ser adiada.",
+        "answers": ["para esse efeito", "caso contrário"]
+      },
+      {
+        "text": "A investigação apresenta resultados relevantes; {{1}} (por exemplo / contudo / portanto), demonstra a importância da prevenção; {{2}} (em particular / apesar de / logo), destaca o papel da educação.",
+        "answers": ["por exemplo", "em particular"]
+      },
+      {
+        "text": "Os custos aumentaram; {{1}} (consequentemente / embora / por outro lado), a margem de lucro diminuiu; {{2}} (em conclusão / entretanto / apesar de), será necessário rever a estratégia.",
+        "answers": ["consequentemente", "em conclusão"]
+      },
+      {
+        "text": "A iniciativa recebeu apoio da comunidade; {{1}} (além disso / apesar de / contudo), mobilizou novos parceiros; {{2}} (em suma / enquanto / porque), tornou-se um projeto de interesse coletivo.",
+        "answers": ["além disso", "em suma"]
+      }
+    ]
+  },
+  {
+    "id": "017",
+    "titre": "Determinantes",
+    "definition": "Os determinantes acompanham os substantivos e especificam o seu referente. Incluem determinantes artigos, demonstrativos, possessivos, indefinidos, numerais e interrogativos.",
+    "instruction": "Complete as frases escolhendo os determinantes adequados.",
+    "questions": [
+      {
+        "text": "{{1}} (Este / Aquela / Cada) relatório que tenho nas mãos apresenta resultados recentes, enquanto {{2}} (aquele / este / meu) documento, que está na biblioteca, contém dados antigos.",
+        "answers": ["Este", "aquele"]
+      },
+      {
+        "text": "A organização convocou {{1}} (todos os / qualquer / cada) responsáveis e pediu que {{2}} (cada / ambos os / qualquer) departamento apresentasse um plano de ação.",
+        "answers": ["todos os", "cada"]
+      },
+      {
+        "text": "A empresa renovou {{1}} (os seus / aquelas / qualquer) equipamentos e melhorou {{2}} (a sua / cada / algumas) infraestrutura tecnológica.",
+        "answers": ["os seus", "a sua"]
+      },
+      {
+        "text": "{{1}} (Quantas / Qualquer / Cada) propostas foram apresentadas e {{2}} (que / aquelas / alguns) critérios foram utilizados na seleção?",
+        "answers": ["Quantas", "que"]
+      },
+      {
+        "text": "A universidade oferece bolsas a {{1}} (vários / cada / qualquer) estudantes e acompanha {{2}} (todos os / cada / algum) beneficiários durante a formação.",
+        "answers": ["vários", "todos os"]
+      },
+      {
+        "text": "A diretora analisou {{1}} (ambos os / qualquer / cada) projetos e selecionou {{2}} (o segundo / qualquer / cada) para a fase seguinte.",
+        "answers": ["ambos os", "o segundo"]
+      },
+      {
+        "text": "{{1}} (Nenhuma / Cada / Algumas) instituição deve respeitar as normas, independentemente de {{2}} (sua / aqueles / qualquer) dimensão.",
+        "answers": ["Nenhuma", "sua"]
+      },
+      {
+        "text": "O investigador comparou {{1}} (estas / aquele / cada) duas amostras com {{2}} (outras / qualquer / cada) amostras recolhidas anteriormente.",
+        "answers": ["estas", "outras"]
+      },
+      {
+        "text": "A empresa pretende contratar {{1}} (mais / cada / aquele) funcionários e melhorar {{2}} (todas as / qualquer / cada) condições de trabalho.",
+        "answers": ["mais", "todas as"]
+      },
+      {
+        "text": "{{1}} (Que / Cada / Algum) medidas foram adotadas e {{2}} (quantos / qualquer / este) recursos foram necessários para executá-las?",
+        "answers": ["Que", "quantos"]
+      }
+    ]
+  },
+  {
+    "id": "018",
+    "titre": "Comparativo",
+    "definition": "O comparativo estabelece uma relação de superioridade, igualdade ou inferioridade entre pessoas, objetos, situações ou características.",
+    "instruction": "Escolha as estruturas comparativas adequadas para completar as frases.",
+    "questions": [
+      {
+        "text": "A nova plataforma é {{1}} (mais eficiente do que / tão eficiente de / menos eficiente como) a versão anterior e apresenta resultados {{2}} (melhores / melhor / bom) em menos tempo.",
+        "answers": ["mais eficiente do que", "melhores"]
+      },
+      {
+        "text": "Este método é {{1}} (tão eficaz como / mais eficaz que de / menos eficaz do) o anterior, mas exige {{2}} (menos recursos / menos recurso / menor recursos).",
+        "answers": ["tão eficaz como", "menos recursos"]
+      },
+      {
+        "text": "A segunda proposta é {{1}} (menos dispendiosa do que / tão dispendiosa de / mais dispendiosa como) a primeira e oferece condições {{2}} (mais favoráveis / mais favorável / favoráveis mais).",
+        "answers": ["menos dispendiosa do que", "mais favoráveis"]
+      },
+      {
+        "text": "O crescimento deste ano foi {{1}} (maior do que / mais grande de / tão maior como) o do ano passado, embora o investimento tenha sido {{2}} (menor / mais pequeno do / menos grande).",
+        "answers": ["maior do que", "menor"]
+      },
+      {
+        "text": "A situação atual é {{1}} (pior do que / mais pior que / tão pior como) a anterior, mas as perspetivas futuras são {{2}} (melhores / mais boas / melhor).",
+        "answers": ["pior do que", "melhores"]
+      },
+      {
+        "text": "A equipa demonstrou uma capacidade de adaptação {{1}} (superior à / mais superior que a / tão superior como a) dos concorrentes e alcançou resultados {{2}} (mais expressivos / mais expressivo / expressivos mais).",
+        "answers": ["superior à", "mais expressivos"]
+      },
+      {
+        "text": "O novo equipamento consome {{1}} (menos energia do que / menor energia que / tão menos energia como) o anterior e funciona de maneira {{2}} (mais silenciosa / mais silencioso / silenciosamente mais).",
+        "answers": ["menos energia do que", "mais silenciosa"]
+      },
+      {
+        "text": "A investigação foi {{1}} (mais complexa do que / tão complexa de / mais complexa como) se previa, mas produziu conclusões {{2}} (mais relevantes / mais relevante / relevantemente mais).",
+        "answers": ["mais complexa do que", "mais relevantes"]
+      },
+      {
+        "text": "A qualidade do serviço é {{1}} (tão importante como / mais importante de / menos importante que de) o preço, e a satisfação dos clientes é {{2}} (maior / mais grande / muito grande) do que no ano anterior.",
+        "answers": ["tão importante como", "maior"]
+      },
+      {
+        "text": "O custo de manutenção é {{1}} (inferior ao / mais inferior que o / tão inferior de o) previsto e a durabilidade do equipamento é {{2}} (superior à / mais superior de / tão superior de a) do modelo antigo.",
+        "answers": ["inferior ao", "superior à"]
+      }
+    ]
+  },
+  {
+    "id": "019",
+    "titre": "Complementos",
+    "definition": "Os complementos são elementos que completam o sentido de verbos, nomes ou adjetivos. Podem desempenhar funções como complemento direto, indireto, oblíquo, agente da passiva, do nome ou do adjetivo.",
+    "instruction": "Escolha as expressões adequadas para completar o sentido das frases.",
+    "questions": [
+      {
+        "text": "A investigadora entregou {{1}} (o relatório / ao diretor / cuidadosamente) e explicou os resultados {{2}} (ao comité científico / os resultados / rapidamente).",
+        "answers": ["o relatório", "ao comité científico"]
+      },
+      {
+        "text": "Os técnicos dependem {{1}} (de equipamentos especializados / os equipamentos / cuidadosamente) e precisam {{2}} (de formação adicional / uma formação / rapidamente) para concluir o trabalho.",
+        "answers": ["de equipamentos especializados", "de formação adicional"]
+      },
+      {
+        "text": "A decisão foi aprovada {{1}} (pelo conselho administrativo / o conselho administrativo / cuidadosamente) e comunicada {{2}} (aos funcionários / os funcionários / ontem).",
+        "answers": ["pelo conselho administrativo", "aos funcionários"]
+      },
+      {
+        "text": "A diretora está satisfeita {{1}} (com os resultados / os resultados / cuidadosamente) e confiante {{2}} (no sucesso do projeto / o sucesso do projeto / amanhã).",
+        "answers": ["com os resultados", "no sucesso do projeto"]
+      },
+      {
+        "text": "O relatório apresenta uma descrição {{1}} (dos acontecimentos / os acontecimentos / claramente) e uma análise {{2}} (das consequências / as consequências / lentamente).",
+        "answers": ["dos acontecimentos", "das consequências"]
+      },
+      {
+        "text": "O responsável informou {{1}} (os participantes / aos participantes / cuidadosamente) sobre as alterações e comunicou {{2}} (a decisão / à decisão / ontem) aos seus colaboradores.",
+        "answers": ["os participantes", "a decisão"]
+      },
+      {
+        "text": "A organização investiu {{1}} (em novas tecnologias / novas tecnologias / consideravelmente) e contribuiu {{2}} (para o desenvolvimento local / o desenvolvimento local / rapidamente).",
+        "answers": ["em novas tecnologias", "para o desenvolvimento local"]
+      },
+      {
+        "text": "A proposta foi elaborada {{1}} (pelos especialistas / os especialistas / cuidadosamente) e aprovada {{2}} (pela direção / a direção / ontem).",
+        "answers": ["pelos especialistas", "pela direção"]
+      },
+      {
+        "text": "O investigador acusou o sistema {{1}} (de apresentar falhas / as falhas / publicamente) e responsabilizou os técnicos {{2}} (pela manutenção inadequada / a manutenção inadequada / ontem).",
+        "answers": ["de apresentar falhas", "pela manutenção inadequada"]
+      },
+      {
+        "text": "A instituição concedeu {{1}} (uma bolsa / a uma estudante / rapidamente) e atribuiu {{2}} (um prémio / ao vencedor / ontem) ao melhor projeto.",
+        "answers": ["uma bolsa", "um prémio"]
+      }
+    ]
+  },
+  {
+    "id": "020",
+    "titre": "Frases interrogativas",
+    "definition": "As frases interrogativas são utilizadas para formular perguntas. Podem ser diretas ou indiretas e incluir pronomes e advérbios interrogativos como quem, qual, quanto, onde, quando, como e porquê.",
+    "instruction": "Complete as frases com os elementos interrogativos adequados.",
+    "questions": [
+      {
+        "text": "{{1}} (Quem / Onde / Quando) apresentou a proposta e {{2}} (qual / quem / cujo) foi a principal justificação utilizada?",
+        "answers": ["Quem", "qual"]
+      },
+      {
+        "text": "Gostaria de saber {{1}} (quando / quem / cujo) será publicado o relatório e {{2}} (onde / quem / qual) poderemos consultar os resultados.",
+        "answers": ["quando", "onde"]
+      },
+      {
+        "text": "{{1}} (Por que razão / Quem / Quanto) a empresa decidiu suspender o projeto e {{2}} (quais / quem / onde) foram os fatores determinantes?",
+        "answers": ["Por que razão", "quais"]
+      },
+      {
+        "text": "O investigador perguntou {{1}} (como / quem / cujo) os dados tinham sido recolhidos e {{2}} (quantos / onde / quando) participantes tinham sido entrevistados.",
+        "answers": ["como", "quantos"]
+      },
+      {
+        "text": "{{1}} (De quem / Onde / Quando) depende a aprovação final e {{2}} (a quem / quem / qual) deve ser enviado o documento?",
+        "answers": ["De quem", "a quem"]
+      },
+      {
+        "text": "Não compreendo {{1}} (por que / quem / quanto) motivo a reunião foi cancelada nem {{2}} (quando / quem / cujo) será novamente agendada.",
+        "answers": ["por que", "quando"]
+      },
+      {
+        "text": "{{1}} (Qual / Quem / Onde) das alternativas apresenta melhores condições e {{2}} (quanto / quem / cujo) custará a sua implementação?",
+        "answers": ["Qual", "quanto"]
+      },
+      {
+        "text": "A diretora perguntou {{1}} (a quem / quem / onde) tinham sido atribuídas as responsabilidades e {{2}} (porquê / quando / quanto) ninguém tinha comunicado o problema.",
+        "answers": ["a quem", "porquê"]
+      },
+      {
+        "text": "{{1}} (Até quando / Quem / Onde) devemos apresentar a candidatura e {{2}} (que / quem / quanto) documentos são necessários?",
+        "answers": ["Até quando", "que"]
+      },
+      {
+        "text": "O comité pretende esclarecer {{1}} (em que medida / quem / cujo) a reforma afetará os trabalhadores e {{2}} (de que maneira / onde / quanto) serão compensados.",
+        "answers": ["em que medida", "de que maneira"]
+      }
+    ]
+  },
+  {
+    "id": "021",
+    "titre": "Orações subordinadas",
+    "definition": "As orações subordinadas dependem sintaticamente de uma oração principal e desempenham diferentes funções. Podem ser substantivas, adjetivas ou adverbiais, expressando causa, condição, finalidade, concessão, tempo e outras relações.",
+    "instruction": "Complete as frases selecionando os conectores e as formas adequadas para construir orações subordinadas.",
+    "questions": [
+      {
+        "text": "A empresa continuará a investir, {{1}} (embora / porque / para que) os resultados sejam inicialmente modestos, {{2}} (desde que / apesar de / enquanto) exista potencial de crescimento.",
+        "answers": ["embora", "desde que"]
+      },
+      {
+        "text": "Os investigadores interromperam a experiência {{1}} (porque / embora / para que) identificaram uma falha, antes {{2}} (que / de que / onde) os resultados fossem comprometidos.",
+        "answers": ["porque", "que"]
+      },
+      {
+        "text": "A direção criou um programa de formação {{1}} (para que / apesar de / visto que) os funcionários desenvolvam novas competências, {{2}} (a fim de que / embora / enquanto) possam adaptar-se às mudanças.",
+        "answers": ["para que", "a fim de que"]
+      },
+      {
+        "text": "O projeto será aprovado {{1}} (caso / embora / porque) cumpra os requisitos legais, mesmo {{2}} (que / porque / onde) algumas alterações sejam necessárias.",
+        "answers": ["caso", "que"]
+      },
+      {
+        "text": "A diretora afirmou {{1}} (que / embora / se) a proposta era viável e pediu {{2}} (que / porque / quando) os técnicos preparassem um orçamento detalhado.",
+        "answers": ["que", "que"]
+      },
+      {
+        "text": "A equipa conseguiu terminar o trabalho {{1}} (conforme / embora / porque) tinha sido planeado, ainda {{2}} (que / quando / porque) surgissem dificuldades inesperadas.",
+        "answers": ["conforme", "que"]
+      },
+      {
+        "text": "O relatório, {{1}} (que / cujo / onde) foi publicado recentemente, apresenta conclusões importantes, {{2}} (as quais / quem / cujo) poderão influenciar futuras decisões.",
+        "answers": ["que", "as quais"]
+      },
+      {
+        "text": "A investigação será prolongada {{1}} (caso / apesar de / porque) surjam novas evidências, {{2}} (a menos que / embora / assim que) os recursos disponíveis sejam insuficientes.",
+        "answers": ["caso", "a menos que"]
+      },
+      {
+        "text": "O responsável explicou o procedimento {{1}} (como / embora / porque) tinha sido estabelecido e verificou {{2}} (se / que / onde) todos os participantes o compreenderam.",
+        "answers": ["como", "se"]
+      },
+      {
+        "text": "A organização, {{1}} (cujo / que / quem) objetivo principal é promover a educação, desenvolve projetos {{2}} (que / onde / cujo) beneficiam comunidades vulneráveis.",
+        "answers": ["cujo", "que"]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Discurso e frase",
+    "definition": "O discurso corresponde à utilização da língua em situações comunicativas, enquanto a frase é uma unidade linguística com sentido completo. O discurso pode ser organizado em frases declarativas, interrogativas, exclamativas ou imperativas.",
+    "instruction": "Escolha as expressões adequadas para completar as frases e identificar corretamente as relações discursivas.",
+    "questions": [
+      {
+        "text": "O diretor declarou: «{{1}} (Precisamos de rever / Precisamos revermos / Precisamos que rever) os procedimentos», acrescentando {{2}} (que / se / cujo) a decisão seria comunicada posteriormente.",
+        "answers": ["Precisamos de rever", "que"]
+      },
+      {
+        "text": "A investigadora perguntou: «{{1}} (Quando serão publicados os resultados? / Quando os resultados serão publicados. / Os resultados quando serão publicados!)», demonstrando interesse em saber {{2}} (quando / quem / cujo) terminaria a análise.",
+        "answers": ["Quando serão publicados os resultados?", "quando"]
+      },
+      {
+        "text": "O porta-voz afirmou que a situação estava controlada; {{1}} (contudo / porque / portanto) reconheceu a existência de dificuldades e pediu {{2}} (prudência / prudente / prudentemente) aos cidadãos.",
+        "answers": ["contudo", "prudência"]
+      },
+      {
+        "text": "A frase «Fechem imediatamente as portas!» apresenta uma intenção {{1}} (imperativa / interrogativa / declarativa), enquanto «As portas foram fechadas» transmite uma informação {{2}} (declarativa / exclamativa / interrogativa).",
+        "answers": ["imperativa", "declarativa"]
+      },
+      {
+        "text": "No discurso indireto, «O diretor afirmou: Vou apresentar a proposta» transforma-se em «O diretor afirmou {{1}} (que apresentaria / que apresento / se apresentaria) a proposta» e explicou {{2}} (que / quem / onde) pretendia reunir a equipa.",
+        "answers": ["que apresentaria", "que"]
+      },
+      {
+        "text": "A expressão «Que resultados extraordinários!» transmite uma reação {{1}} (exclamativa / interrogativa / imperativa), enquanto «Os resultados foram extraordinários» constitui uma frase {{2}} (declarativa / interrogativa / imperativa).",
+        "answers": ["exclamativa", "declarativa"]
+      },
+      {
+        "text": "A coerência discursiva exige uma sequência {{1}} (lógica / aleatória / contraditória) de ideias e uma articulação {{2}} (adequada / inadequada / inexistente) entre as frases.",
+        "answers": ["lógica", "adequada"]
+      },
+      {
+        "text": "O discurso direto reproduz as palavras de alguém {{1}} (tal como foram pronunciadas / sem qualquer referência / apenas de forma resumida), enquanto o discurso indireto {{2}} (integra / elimina / contradiz) essas palavras na estrutura de outra frase.",
+        "answers": ["tal como foram pronunciadas", "integra"]
+      },
+      {
+        "text": "A expressão «Não interrompam a apresentação!» corresponde a uma frase {{1}} (imperativa negativa / declarativa afirmativa / interrogativa indireta), enquanto «A apresentação não foi interrompida» é {{2}} (declarativa negativa / imperativa afirmativa / exclamativa).",
+        "answers": ["imperativa negativa", "declarativa negativa"]
+      },
+      {
+        "text": "Um discurso bem estruturado deve apresentar uma introdução {{1}} (clara / confusa / contraditória), desenvolver argumentos {{2}} (coerentes / desconexos / irrelevantes) e terminar com uma conclusão adequada.",
+        "answers": ["clara", "coerentes"]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Forma verbal e estrutura da frase",
+    "definition": "A forma verbal determina a relação entre o sujeito, a ação e o tempo. A estrutura da frase depende da organização dos seus elementos e da concordância entre sujeito, verbo e complementos.",
+    "instruction": "Complete as frases escolhendo as formas verbais e as estruturas sintáticas corretas.",
+    "questions": [
+      {
+        "text": "Se os responsáveis {{1}} (tivessem previsto / preveem / preverão) os riscos, teriam {{2}} (adotado / adotam / adotassem) medidas preventivas.",
+        "answers": ["tivessem previsto", "adotado"]
+      },
+      {
+        "text": "É fundamental que os candidatos {{1}} (apresentem / apresentam / apresentarão) os documentos e que a comissão os {{2}} (avalie / avalia / avaliará) cuidadosamente.",
+        "answers": ["apresentem", "avalie"]
+      },
+      {
+        "text": "A diretora, juntamente com os seus colaboradores, {{1}} (participou / participaram / participarão) na reunião e {{2}} (apresentou / apresentaram / apresentarão) as propostas finais.",
+        "answers": ["participou", "apresentou"]
+      },
+      {
+        "text": "Os resultados que a equipa {{1}} (obteve / obtiveram / obterá) durante a investigação {{2}} (foram / foi / será) publicados recentemente.",
+        "answers": ["obteve", "foram"]
+      },
+      {
+        "text": "Caso a instituição {{1}} (disponibilize / disponibiliza / disponibilizará) os recursos, os investigadores {{2}} (poderão / poderiam / puderam) concluir o estudo.",
+        "answers": ["disponibilize", "poderão"]
+      },
+      {
+        "text": "A maioria dos participantes {{1}} (considerou / consideraram / considerarão) a proposta adequada e {{2}} (apoiou / apoiaram / apoiarão) a sua implementação.",
+        "answers": ["considerou", "apoiou"]
+      },
+      {
+        "text": "Os documentos devem {{1}} (ser apresentados / serem apresentar / estar apresentar) antes que o prazo {{2}} (termine / termina / terminará).",
+        "answers": ["ser apresentados", "termine"]
+      },
+      {
+        "text": "Quando os técnicos {{1}} (chegaram / chegarão / chegassem), os trabalhos já {{2}} (tinham começado / começarão / começassem).",
+        "answers": ["chegaram", "tinham começado"]
+      },
+      {
+        "text": "A empresa não só {{1}} (modernizou / modernizaram / modernizará) os equipamentos, como também {{2}} (melhorou / melhoraram / melhorará) as condições de trabalho.",
+        "answers": ["modernizou", "melhorou"]
+      },
+      {
+        "text": "Se a proposta {{1}} (for aprovada / é aprovada / será aprovada) pelo conselho, as novas medidas {{2}} (entrarão / entrariam / entraram) em vigor no próximo mês.",
+        "answers": ["for aprovada", "entrarão"]
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "Palavras derivadas",
+    "definition": "As palavras derivadas são formadas a partir de palavras primitivas através de processos como prefixação, sufixação e parassíntese. Estes processos permitem criar novos significados e ampliar o vocabulário.",
+    "instruction": "Complete cada frase selecionando as palavras derivadas adequadas entre as opções apresentadas.",
+    "questions": [
+      {
+        "text": "A {{1}} (modernização / moderno / modernizar) das infraestruturas contribuiu para tornar o transporte mais {{2}} (eficiente / eficiência / eficientemente).",
+        "answers": ["modernização", "eficiente"]
+      },
+      {
+        "text": "A empresa pretende {{1}} (reorganizar / organização / organizado) os seus serviços para melhorar a sua {{2}} (produtividade / produtivo / produzir).",
+        "answers": ["reorganizar", "produtividade"]
+      },
+      {
+        "text": "A falta de {{1}} (compreensão / compreender / compreensivo) entre os participantes provocou um {{2}} (desentendimento / entender / entendido).",
+        "answers": ["compreensão", "desentendimento"]
+      },
+      {
+        "text": "O comportamento {{1}} (irresponsável / responsabilidade / responsavelmente) do funcionário prejudicou a {{2}} (credibilidade / credível / acreditar) da instituição.",
+        "answers": ["irresponsável", "credibilidade"]
+      },
+      {
+        "text": "A organização lançou uma campanha para {{1}} (consciencializar / consciência / consciente) os cidadãos sobre a {{2}} (preservação / preservar / preservado) ambiental.",
+        "answers": ["consciencializar", "preservação"]
+      },
+      {
+        "text": "A {{1}} (desvalorização / desvalorizar / desvalorizado) do trabalho agrícola pode provocar consequências {{2}} (prejudiciais / prejuízo / prejudicar) para a economia.",
+        "answers": ["desvalorização", "prejudiciais"]
+      },
+      {
+        "text": "A proposta foi {{1}} (reformulada / reformulação / reformular) depois de uma análise {{2}} (cuidadosa / cuidado / cuidadosamente).",
+        "answers": ["reformulada", "cuidadosa"]
+      },
+      {
+        "text": "O desenvolvimento {{1}} (tecnológico / tecnologia / tecnologicamente) exige uma constante {{2}} (atualização / atualizar / atual).",
+        "answers": ["tecnológico", "atualização"]
+      },
+      {
+        "text": "A {{1}} (desigualdade / desigual / igualmente) social continua a ser um problema {{2}} (preocupante / preocupação / preocupar) em muitas regiões.",
+        "answers": ["desigualdade", "preocupante"]
+      },
+      {
+        "text": "A {{1}} (incompatibilidade / compatível / compatibilizar) entre os sistemas dificultou a sua {{2}} (integração / integrar / integrado) e exigiu uma solução {{3}} (alternativa / alternar / alternadamente).",
+        "answers": ["incompatibilidade", "integração", "alternativa"]
+      }
+    ]
+  },
+  {
+    "id": "0024",
+    "titre": "Palavras derivadas",
+    "definition": "As palavras derivadas são formadas a partir de outras palavras através de processos como a prefixação e a sufixação, permitindo criar novos significados e ampliar o vocabulário.",
+    "instruction": "Complete cada frase escolhendo as palavras adequadas entre as opções apresentadas entre parênteses.",
+    "questions": [
+      {
+        "text": "A decisão foi considerada {{1}} (injusta / injustiça / justamente) porque não respeitou os princípios da {{2}} (justiça / justo / justificar).",
+        "answers": ["injusta", "justiça"]
+      },
+      {
+        "text": "A {{1}} (modernização / moderno / modernizar) das infraestruturas contribuiu para tornar o transporte mais {{2}} (eficiente / eficiência / eficientemente).",
+        "answers": ["modernização", "eficiente"]
+      },
+      {
+        "text": "A empresa pretende {{1}} (reorganizar / organização / organizado) os seus serviços para melhorar a sua {{2}} (produtividade / produtivo / produzir).",
+        "answers": ["reorganizar", "produtividade"]
+      },
+      {
+        "text": "A falta de {{1}} (compreensão / compreender / compreensivo) entre os participantes provocou um {{2}} (desentendimento / entender / entendido).",
+        "answers": ["compreensão", "desentendimento"]
+      },
+      {
+        "text": "O comportamento {{1}} (irresponsável / responsabilidade / responsavelmente) do funcionário prejudicou a {{2}} (credibilidade / credível / acreditar) da instituição.",
+        "answers": ["irresponsável", "credibilidade"]
+      },
+      {
+        "text": "A organização lançou uma campanha para {{1}} (consciencializar / consciência / consciente) os cidadãos sobre a {{2}} (preservação / preservar / preservado) ambiental.",
+        "answers": ["consciencializar", "preservação"]
+      },
+      {
+        "text": "A {{1}} (desvalorização / desvalorizar / desvalorizado) do trabalho agrícola pode provocar consequências {{2}} (prejudiciais / prejuízo / prejudicar) para a economia.",
+        "answers": ["desvalorização", "prejudiciais"]
+      },
+      {
+        "text": "A proposta foi {{1}} (reformulada / reformulação / reformular) depois de uma análise {{2}} (cuidadosa / cuidado / cuidadosamente).",
+        "answers": ["reformulada", "cuidadosa"]
+      },
+      {
+        "text": "O desenvolvimento {{1}} (tecnológico / tecnologia / tecnologicamente) exige uma constante {{2}} (atualização / atualizar / atual).",
+        "answers": ["tecnológico", "atualização"]
+      },
+      {
+        "text": "A {{1}} (desigualdade / desigual / igualmente) social continua a ser um problema {{2}} (preocupante / preocupação / preocupar) em muitas regiões.",
+        "answers": ["desigualdade", "preocupante"]
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "titre": "Expressões idiomáticas e linguagem figurada",
+    "definition": "As expressões idiomáticas são combinações de palavras cujo significado não corresponde necessariamente ao sentido literal dos seus elementos.",
+    "instruction": "Escolha as palavras ou expressões que completam corretamente cada frase.",
+    "questions": [
+      {
+        "text": "Depois de meses de negociações, as duas partes chegaram finalmente a um {{1}} (acordo / conflito / atraso) e decidiram {{2}} (colaborar / desistir / afastar-se) no projeto.",
+        "answers": ["acordo", "colaborar"]
+      },
+      {
+        "text": "O diretor pediu aos funcionários que não tirassem conclusões {{1}} (precipitadas / demoradas / insignificantes) antes de {{2}} (analisar / ignorar / abandonar) os resultados.",
+        "answers": ["precipitadas", "analisar"]
+      },
+      {
+        "text": "A investigadora teve de {{1}} (enfrentar / esconder / evitar) vários obstáculos para conseguir {{2}} (concluir / interromper / esquecer) o estudo.",
+        "answers": ["enfrentar", "concluir"]
+      },
+      {
+        "text": "A empresa decidiu {{1}} (apostar / hesitar / recuar) na inovação para ganhar {{2}} (vantagem / desvantagem / dificuldade) competitiva.",
+        "answers": ["apostar", "vantagem"]
+      },
+      {
+        "text": "O candidato procurou {{1}} (esclarecer / complicar / ocultar) a situação, mas acabou por {{2}} (contradizer / confirmar / apoiar) as próprias declarações.",
+        "answers": ["esclarecer", "contradizer"]
+      },
+      {
+        "text": "A equipa conseguiu {{1}} (superar / aumentar / prolongar) as dificuldades e manter o projeto {{2}} (em andamento / em silêncio / em dúvida).",
+        "answers": ["superar", "em andamento"]
+      },
+      {
+        "text": "O especialista aconselhou os investidores a {{1}} (agir / improvisar / hesitar) com prudência e a não correr {{2}} (riscos / elogios / vantagens) desnecessários.",
+        "answers": ["agir", "riscos"]
+      },
+      {
+        "text": "A nova política pretende {{1}} (dar resposta / criar obstáculos / perder tempo) às necessidades da população e {{2}} (reforçar / enfraquecer / abandonar) os serviços públicos.",
+        "answers": ["dar resposta", "reforçar"]
+      },
+      {
+        "text": "O relatório veio {{1}} (lançar luz / levantar dúvidas / criar confusão) sobre o problema e permitiu {{2}} (identificar / esconder / distorcer) as suas causas.",
+        "answers": ["lançar luz", "identificar"]
+      },
+      {
+        "text": "Apesar das críticas, a investigadora manteve-se {{1}} (firme / indiferente / confusa) e continuou a {{2}} (defender / abandonar / negar) os resultados do seu trabalho.",
+        "answers": ["firme", "defender"]
+      }
+    ]
+  },
+  {
+    "id": "026",
+    "titre": "Vocabulário económico e financeiro",
+    "definition": "O vocabulário económico e financeiro permite descrever atividades comerciais, investimentos, mercados, recursos, despesas e indicadores económicos.",
+    "instruction": "Complete as frases selecionando as opções adequadas.",
+    "questions": [
+      {
+        "text": "O aumento da {{1}} (inflação / produção / exportação) reduziu o poder de compra das famílias, enquanto os salários permaneceram {{2}} (estagnados / crescentes / abundantes).",
+        "answers": ["inflação", "estagnados"]
+      },
+      {
+        "text": "A empresa decidiu diversificar os seus {{1}} (investimentos / prejuízos / impostos) para reduzir a exposição ao {{2}} (risco / lucro / rendimento) financeiro.",
+        "answers": ["investimentos", "risco"]
+      },
+      {
+        "text": "A redução da {{1}} (dívida / receita / procura) pública pode melhorar a estabilidade {{2}} (orçamental / comercial / industrial) do país.",
+        "answers": ["dívida", "orçamental"]
+      },
+      {
+        "text": "Os pequenos empresários enfrentam dificuldades para obter {{1}} (financiamento / consumo / desconto), sobretudo quando não apresentam garantias {{2}} (suficientes / excessivas / ocasionais).",
+        "answers": ["financiamento", "suficientes"]
+      },
+      {
+        "text": "A queda da {{1}} (procura / oferta / produção) internacional provocou uma redução das {{2}} (exportações / despesas / poupanças) nacionais.",
+        "answers": ["procura", "exportações"]
+      },
+      {
+        "text": "O governo pretende estimular o {{1}} (empreendedorismo / endividamento / desperdício) através de incentivos fiscais e de um ambiente empresarial mais {{2}} (favorável / instável / restritivo).",
+        "answers": ["empreendedorismo", "favorável"]
+      },
+      {
+        "text": "A instituição financeira analisou a {{1}} (solvabilidade / publicidade / produtividade) do cliente antes de aprovar o {{2}} (empréstimo / salário / imposto).",
+        "answers": ["solvabilidade", "empréstimo"]
+      },
+      {
+        "text": "Uma gestão {{1}} (rigorosa / negligente / improvisada) dos recursos permite reduzir os custos e aumentar a {{2}} (rentabilidade / fragilidade / dependência).",
+        "answers": ["rigorosa", "rentabilidade"]
+      },
+      {
+        "text": "A desvalorização da moeda nacional tornou as importações mais {{1}} (dispendiosas / acessíveis / gratuitas) e favoreceu algumas {{2}} (exportações / despesas / dívidas).",
+        "answers": ["dispendiosas", "exportações"]
+      },
+      {
+        "text": "O crescimento económico sustentável depende de uma distribuição mais {{1}} (equitativa / arbitrária / desigual) dos rendimentos e de políticas de {{2}} (inclusão / exclusão / especulação) social.",
+        "answers": ["equitativa", "inclusão"]
+      }
+    ]
+  },
+  {
+    "id": "027",
+    "titre": "Vocabulário empresarial e profissional",
+    "definition": "O vocabulário empresarial abrange os termos utilizados na gestão, na organização do trabalho, na liderança, na contratação e na comunicação profissional.",
+    "instruction": "Selecione as palavras adequadas para completar cada frase.",
+    "questions": [
+      {
+        "text": "Antes de lançar o produto, a empresa realizou um {{1}} (estudo / intervalo / contrato) de mercado para avaliar a sua {{2}} (viabilidade / fragilidade / antiguidade).",
+        "answers": ["estudo", "viabilidade"]
+      },
+      {
+        "text": "A direção decidiu {{1}} (delegar / centralizar / suspender) determinadas responsabilidades para melhorar a {{2}} (autonomia / dependência / burocracia) das equipas.",
+        "answers": ["delegar", "autonomia"]
+      },
+      {
+        "text": "Um bom líder deve saber {{1}} (motivar / intimidar / ignorar) os colaboradores e promover um ambiente {{2}} (cooperativo / hostil / competitivo).",
+        "answers": ["motivar", "cooperativo"]
+      },
+      {
+        "text": "A empresa procura um profissional com experiência em {{1}} (negociação / improvisação / distração) e capacidade de resolver conflitos de forma {{2}} (diplomática / agressiva / precipitada).",
+        "answers": ["negociação", "diplomática"]
+      },
+      {
+        "text": "A avaliação de desempenho deve basear-se em critérios {{1}} (objetivos / subjetivos / arbitrários) e numa análise {{2}} (transparente / confusa / parcial).",
+        "answers": ["objetivos", "transparente"]
+      },
+      {
+        "text": "A reorganização interna pretende {{1}} (otimizar / complicar / duplicar) os processos e reduzir os custos {{2}} (operacionais / emocionais / linguísticos).",
+        "answers": ["otimizar", "operacionais"]
+      },
+      {
+        "text": "Durante a reunião, o responsável apresentou uma {{1}} (proposta / demissão / interrupção) que recebeu o apoio da maioria dos {{2}} (acionistas / consumidores / concorrentes).",
+        "answers": ["proposta", "acionistas"]
+      },
+      {
+        "text": "A falta de comunicação entre departamentos pode comprometer a {{1}} (coordenação / rentabilidade / publicidade) e atrasar a {{2}} (execução / remuneração / contratação) das tarefas.",
+        "answers": ["coordenação", "execução"]
+      },
+      {
+        "text": "A empresa pretende reforçar a sua {{1}} (presença / ausência / dependência) internacional através de uma estratégia de expansão {{2}} (gradual / aleatória / involuntária).",
+        "answers": ["presença", "gradual"]
+      },
+      {
+        "text": "Um contrato de trabalho deve definir claramente as {{1}} (obrigações / preferências / hipóteses) das partes e as condições de {{2}} (remuneração / concorrência / publicidade).",
+        "answers": ["obrigações", "remuneração"]
+      }
+    ]
+  },
+  {
+    "id": "028",
+    "titre": "Vocabulário jurídico e administrativo",
+    "definition": "O vocabulário jurídico e administrativo é utilizado para tratar de leis, direitos, deveres, procedimentos oficiais, contratos e decisões institucionais.",
+    "instruction": "Complete as frases escolhendo as opções corretas.",
+    "questions": [
+      {
+        "text": "Toda a pessoa tem direito a um julgamento {{1}} (justo / arbitrário / secreto), realizado por uma autoridade {{2}} (competente / informal / interessada).",
+        "answers": ["justo", "competente"]
+      },
+      {
+        "text": "O tribunal decidiu {{1}} (arquivar / divulgar / prolongar) o processo por falta de provas {{2}} (suficientes / contraditórias / irrelevantes).",
+        "answers": ["arquivar", "suficientes"]
+      },
+      {
+        "text": "O contrato estabelece as condições de {{1}} (rescisão / promoção / publicidade) e as respetivas {{2}} (penalizações / comemorações / recomendações).",
+        "answers": ["rescisão", "penalizações"]
+      },
+      {
+        "text": "O cidadão apresentou um {{1}} (recurso / convite / orçamento) contra a decisão administrativa, alegando uma violação dos seus {{2}} (direitos / lucros / privilégios).",
+        "answers": ["recurso", "direitos"]
+      },
+      {
+        "text": "A nova legislação pretende {{1}} (regulamentar / ignorar / suspender) as atividades comerciais e garantir maior {{2}} (transparência / informalidade / instabilidade).",
+        "answers": ["regulamentar", "transparência"]
+      },
+      {
+        "text": "A autoridade competente deve {{1}} (notificar / ocultar / confundir) os interessados sobre qualquer alteração {{2}} (relevante / insignificante / imaginária).",
+        "answers": ["notificar", "relevante"]
+      },
+      {
+        "text": "A validade do documento depende da sua {{1}} (autenticação / divulgação / reprodução) e do cumprimento dos requisitos {{2}} (legais / opcionais / comerciais).",
+        "answers": ["autenticação", "legais"]
+      },
+      {
+        "text": "A acusação deve apresentar provas {{1}} (concretas / hipotéticas / decorativas) antes de solicitar a {{2}} (condenação / absolvição / promoção) do arguido.",
+        "answers": ["concretas", "condenação"]
+      },
+      {
+        "text": "O procedimento administrativo foi {{1}} (anulado / celebrado / publicado) devido a uma irregularidade {{2}} (processual / financeira / linguística).",
+        "answers": ["anulado", "processual"]
+      },
+      {
+        "text": "A proteção dos dados pessoais exige o consentimento {{1}} (explícito / presumido / involuntário) dos titulares e medidas de segurança {{2}} (adequadas / aleatórias / insuficientes).",
+        "answers": ["explícito", "adequadas"]
+      }
+    ]
+  },
+  {
+    "id": "029",
+    "titre": "Vocabulário científico e académico",
+    "definition": "O vocabulário científico e académico permite formular hipóteses, descrever experiências, interpretar dados e apresentar conclusões fundamentadas.",
+    "instruction": "Escolha as palavras adequadas entre as opções apresentadas.",
+    "questions": [
+      {
+        "text": "O investigador formulou uma {{1}} (hipótese / conclusão / distração) que será posteriormente {{2}} (testada / esquecida / ignorada) através de experiências.",
+        "answers": ["hipótese", "testada"]
+      },
+      {
+        "text": "Os resultados obtidos devem ser {{1}} (interpretados / inventados / ocultados) à luz do enquadramento {{2}} (teórico / comercial / pessoal).",
+        "answers": ["interpretados", "teórico"]
+      },
+      {
+        "text": "A investigação apresenta uma metodologia {{1}} (rigorosa / improvisada / contraditória) e um conjunto de dados {{2}} (fiáveis / imaginários / irrelevantes).",
+        "answers": ["rigorosa", "fiáveis"]
+      },
+      {
+        "text": "A amostra foi selecionada de forma {{1}} (aleatória / tendenciosa / informal) para reduzir possíveis {{2}} (enviesamentos / benefícios / publicações).",
+        "answers": ["aleatória", "enviesamentos"]
+      },
+      {
+        "text": "A publicação científica foi submetida a uma avaliação {{1}} (independente / comercial / superficial) antes da sua {{2}} (divulgação / eliminação / tradução).",
+        "answers": ["independente", "divulgação"]
+      },
+      {
+        "text": "A descoberta poderá contribuir para o {{1}} (avanço / abandono / bloqueio) do conhecimento e abrir novas possibilidades de {{2}} (investigação / especulação / publicidade).",
+        "answers": ["avanço", "investigação"]
+      },
+      {
+        "text": "O estudo identificou uma correlação {{1}} (significativa / inexistente / acidental) entre as duas variáveis {{2}} (analisadas / esquecidas / eliminadas).",
+        "answers": ["significativa", "analisadas"]
+      },
+      {
+        "text": "A teoria foi {{1}} (reformulada / escondida / interrompida) depois de surgirem evidências {{2}} (contrárias / decorativas / insignificantes).",
+        "answers": ["reformulada", "contrárias"]
+      },
+      {
+        "text": "A universidade promove a colaboração {{1}} (interdisciplinar / individualista / ocasional) entre investigadores de diferentes {{2}} (áreas / horários / salários).",
+        "answers": ["interdisciplinar", "áreas"]
+      },
+      {
+        "text": "Uma conclusão científica deve ser sustentada por evidências {{1}} (verificáveis / imaginárias / subjetivas) e por uma argumentação {{2}} (coerente / contraditória / impulsiva).",
+        "answers": ["verificáveis", "coerente"]
+      }
+    ]
+  },
+  {
+    "id": "030",
+    "titre": "Vocabulário político e diplomático",
+    "definition": "O vocabulário político e diplomático é utilizado para descrever as instituições, as relações entre Estados, a governação, as negociações e as políticas públicas.",
+    "instruction": "Selecione as palavras ou expressões que completam corretamente as frases.",
+    "questions": [
+      {
+        "text": "Os dois governos iniciaram negociações para alcançar um {{1}} (acordo / impasse / conflito) diplomático e reforçar a {{2}} (cooperação / rivalidade / censura) bilateral.",
+        "answers": ["acordo", "cooperação"]
+      },
+      {
+        "text": "A participação dos cidadãos nas eleições constitui um elemento essencial da {{1}} (democracia / autocracia / burocracia) e da legitimidade {{2}} (política / comercial / individual).",
+        "answers": ["democracia", "política"]
+      },
+      {
+        "text": "O governo anunciou uma reforma {{1}} (institucional / improvisada / clandestina) destinada a melhorar a {{2}} (governação / especulação / competição) pública.",
+        "answers": ["institucional", "governação"]
+      },
+      {
+        "text": "A organização internacional apelou à {{1}} (mediação / provocação / interrupção) para evitar uma escalada do {{2}} (conflito / investimento / crescimento).",
+        "answers": ["mediação", "conflito"]
+      },
+      {
+        "text": "A oposição criticou a falta de {{1}} (transparência / estabilidade / publicidade) na gestão dos recursos {{2}} (públicos / privados / naturais).",
+        "answers": ["transparência", "públicos"]
+      },
+      {
+        "text": "A assinatura do tratado representa um compromisso {{1}} (multilateral / unilateral / informal) entre os países {{2}} (signatários / concorrentes / vizinhos).",
+        "answers": ["multilateral", "signatários"]
+      },
+      {
+        "text": "A política externa procura defender os {{1}} (interesses / preconceitos / receios) nacionais sem comprometer a estabilidade {{2}} (regional / doméstica / individual).",
+        "answers": ["interesses", "regional"]
+      },
+      {
+        "text": "A reforma eleitoral pretende garantir uma representação mais {{1}} (equitativa / arbitrária / restrita) dos diferentes grupos {{2}} (sociais / financeiros / comerciais).",
+        "answers": ["equitativa", "sociais"]
+      },
+      {
+        "text": "O diplomata apresentou uma proposta {{1}} (conciliadora / provocadora / inflexível) para facilitar a resolução {{2}} (pacífica / violenta / unilateral) da disputa.",
+        "answers": ["conciliadora", "pacífica"]
+      },
+      {
+        "text": "A estabilidade política depende da confiança pública, do respeito pela lei e da {{1}} (responsabilização / manipulação / exclusão) das autoridades {{2}} (eleitas / privadas / estrangeiras).",
+        "answers": ["responsabilização", "eleitas"]
+      }
+    ]
+  },
+  {
+    "id": "031",
+    "titre": "Vocabulário social e cultural",
+    "definition": "O vocabulário social e cultural permite abordar as relações humanas, os valores coletivos, as tradições, a diversidade e as transformações da sociedade.",
+    "instruction": "Complete cada frase com as opções adequadas.",
+    "questions": [
+      {
+        "text": "A diversidade cultural constitui uma fonte de {{1}} (enriquecimento / isolamento / uniformidade) para as sociedades {{2}} (contemporâneas / antigas / imaginárias).",
+        "answers": ["enriquecimento", "contemporâneas"]
+      },
+      {
+        "text": "A exclusão social pode ser combatida através de políticas de {{1}} (integração / segregação / marginalização) e de oportunidades mais {{2}} (equitativas / limitadas / ocasionais).",
+        "answers": ["integração", "equitativas"]
+      },
+      {
+        "text": "A transmissão das tradições depende da participação das gerações {{1}} (mais jovens / anteriores / ausentes) e da valorização do património {{2}} (cultural / financeiro / industrial).",
+        "answers": ["mais jovens", "cultural"]
+      },
+      {
+        "text": "O diálogo intercultural favorece a {{1}} (compreensão / rejeição / imposição) mútua e reduz os {{2}} (preconceitos / investimentos / rendimentos).",
+        "answers": ["compreensão", "preconceitos"]
+      },
+      {
+        "text": "A mobilidade social pode ser influenciada pelo acesso à {{1}} (educação / especulação / publicidade) e pela distribuição dos recursos {{2}} (económicos / linguísticos / turísticos).",
+        "answers": ["educação", "económicos"]
+      },
+      {
+        "text": "A urbanização acelerada provocou profundas {{1}} (transformações / hesitações / repetições) nas estruturas {{2}} (familiares / gramaticais / financeiras).",
+        "answers": ["transformações", "familiares"]
+      },
+      {
+        "text": "A preservação das línguas minoritárias contribui para manter a {{1}} (identidade / produtividade / rentabilidade) das comunidades {{2}} (locais / industriais / administrativas).",
+        "answers": ["identidade", "locais"]
+      },
+      {
+        "text": "A solidariedade intergeracional exige uma distribuição {{1}} (responsável / indiferente / arbitrária) dos recursos e um compromisso {{2}} (coletivo / individualista / temporário).",
+        "answers": ["responsável", "coletivo"]
+      },
+      {
+        "text": "A participação comunitária fortalece o sentimento de {{1}} (pertença / competição / isolamento) e promove a coesão {{2}} (social / financeira / tecnológica).",
+        "answers": ["pertença", "social"]
+      },
+      {
+        "text": "As mudanças nos hábitos de consumo refletem novas {{1}} (aspirações / obrigações / proibições) e diferentes padrões de comportamento {{2}} (social / judicial / industrial).",
+        "answers": ["aspirações", "social"]
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Vocabulário ambiental e ecológico",
+    "definition": "O vocabulário ambiental inclui termos relacionados com os ecossistemas, a biodiversidade, as alterações climáticas, a conservação e a utilização sustentável dos recursos naturais.",
+    "instruction": "Escolha as opções que completam corretamente cada frase.",
+    "questions": [
+      {
+        "text": "A desflorestação provoca a perda de {{1}} (biodiversidade / produtividade / urbanização) e contribui para a degradação dos {{2}} (ecossistemas / edifícios / mercados).",
+        "answers": ["biodiversidade", "ecossistemas"]
+      },
+      {
+        "text": "A transição energética exige investimentos em fontes {{1}} (renováveis / poluentes / esgotáveis) e tecnologias de baixo {{2}} (carbono / rendimento / consumo).",
+        "answers": ["renováveis", "carbono"]
+      },
+      {
+        "text": "A contaminação dos rios ameaça a {{1}} (sobrevivência / rentabilidade / expansão) das espécies aquáticas e compromete o abastecimento de água {{2}} (potável / salgada / industrial).",
+        "answers": ["sobrevivência", "potável"]
+      },
+      {
+        "text": "As alterações climáticas intensificam a frequência de fenómenos {{1}} (extremos / moderados / previsíveis) e aumentam a vulnerabilidade das populações {{2}} (expostas / protegidas / privilegiadas).",
+        "answers": ["extremos", "expostas"]
+      },
+      {
+        "text": "A agricultura sustentável procura preservar a fertilidade do {{1}} (solo / ar / oceano) e reduzir a utilização de produtos {{2}} (químicos / orgânicos / naturais).",
+        "answers": ["solo", "químicos"]
+      },
+      {
+        "text": "A conservação dos habitats naturais é fundamental para impedir a {{1}} (extinção / reprodução / adaptação) de espécies ameaçadas e manter o equilíbrio {{2}} (ecológico / financeiro / político).",
+        "answers": ["extinção", "ecológico"]
+      },
+      {
+        "text": "A economia circular promove a {{1}} (reutilização / destruição / acumulação) dos materiais e reduz a produção de {{2}} (resíduos / recursos / benefícios).",
+        "answers": ["reutilização", "resíduos"]
+      },
+      {
+        "text": "A poluição atmosférica afeta a qualidade do {{1}} (ar / solo / subsolo) e pode provocar problemas {{2}} (respiratórios / administrativos / financeiros).",
+        "answers": ["ar", "respiratórios"]
+      },
+      {
+        "text": "As zonas húmidas desempenham um papel {{1}} (essencial / secundário / prejudicial) na regulação dos ciclos {{2}} (hidrológicos / comerciais / industriais).",
+        "answers": ["essencial", "hidrológicos"]
+      },
+      {
+        "text": "A proteção ambiental requer uma legislação {{1}} (eficaz / permissiva / contraditória) e uma fiscalização {{2}} (contínua / inexistente / ocasional).",
+        "answers": ["eficaz", "contínua"]
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Vocabulário médico e de saúde pública",
+    "definition": "O vocabulário médico e de saúde pública é utilizado para descrever doenças, prevenção, diagnóstico, tratamentos, cuidados e políticas sanitárias.",
+    "instruction": "Complete as frases selecionando as opções corretas.",
+    "questions": [
+      {
+        "text": "O diagnóstico precoce aumenta as possibilidades de {{1}} (tratamento / contaminação / agravamento) e reduz o risco de {{2}} (complicações / prevenção / imunidade).",
+        "answers": ["tratamento", "complicações"]
+      },
+      {
+        "text": "A campanha de vacinação pretende reforçar a {{1}} (imunidade / fragilidade / infeção) coletiva e prevenir a propagação de doenças {{2}} (transmissíveis / hereditárias / inexistentes).",
+        "answers": ["imunidade", "transmissíveis"]
+      },
+      {
+        "text": "A ausência de profissionais de saúde compromete a {{1}} (acessibilidade / publicidade / rentabilidade) dos serviços médicos e aumenta a pressão sobre as unidades {{2}} (hospitalares / comerciais / industriais).",
+        "answers": ["acessibilidade", "hospitalares"]
+      },
+      {
+        "text": "O médico recomendou uma alimentação {{1}} (equilibrada / excessiva / irregular) e a prática {{2}} (regular / ocasional / inexistente) de atividade física.",
+        "answers": ["equilibrada", "regular"]
+      },
+      {
+        "text": "A vigilância epidemiológica permite identificar possíveis {{1}} (surtos / salários / contratos) e acompanhar a evolução das doenças {{2}} (infeciosas / administrativas / financeiras).",
+        "answers": ["surtos", "infeciosas"]
+      },
+      {
+        "text": "A automedicação pode provocar efeitos {{1}} (adversos / benéficos / previsíveis) quando os medicamentos são utilizados de forma {{2}} (inadequada / responsável / controlada).",
+        "answers": ["adversos", "inadequada"]
+      },
+      {
+        "text": "A prevenção de doenças crónicas depende de hábitos {{1}} (saudáveis / sedentários / prejudiciais) e de um acompanhamento médico {{2}} (regular / inexistente / improvisado).",
+        "answers": ["saudáveis", "regular"]
+      },
+      {
+        "text": "A falta de saneamento básico favorece a disseminação de agentes {{1}} (patogénicos / terapêuticos / nutritivos) e representa uma ameaça à saúde {{2}} (pública / comercial / industrial).",
+        "answers": ["patogénicos", "pública"]
+      },
+      {
+        "text": "O acesso a medicamentos {{1}} (essenciais / supérfluos / experimentais) deve ser garantido a preços {{2}} (acessíveis / proibitivos / excessivos).",
+        "answers": ["essenciais", "acessíveis"]
+      },
+      {
+        "text": "A investigação clínica exige protocolos {{1}} (rigorosos / improvisados / contraditórios) e o respeito pelos princípios {{2}} (éticos / comerciais / estéticos).",
+        "answers": ["rigorosos", "éticos"]
+      }
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "Vocabulário psicológico e comportamental",
+    "definition": "O vocabulário psicológico descreve os processos mentais, as emoções, a personalidade, as relações interpessoais e os comportamentos humanos.",
+    "instruction": "Escolha as palavras adequadas para completar cada frase.",
+    "questions": [
+      {
+        "text": "A capacidade de reconhecer e gerir as próprias emoções está relacionada com a {{1}} (inteligência emocional / memória visual / perceção espacial) e com o {{2}} (autocontrolo / isolamento / esquecimento).",
+        "answers": ["inteligência emocional", "autocontrolo"]
+      },
+      {
+        "text": "A exposição prolongada ao stress pode prejudicar a {{1}} (concentração / distração / indiferença) e provocar um estado de {{2}} (esgotamento / entusiasmo / tranquilidade).",
+        "answers": ["concentração", "esgotamento"]
+      },
+      {
+        "text": "Uma pessoa com elevada {{1}} (resiliência / impulsividade / passividade) consegue recuperar mais facilmente depois de experiências {{2}} (adversas / agradáveis / insignificantes).",
+        "answers": ["resiliência", "adversas"]
+      },
+      {
+        "text": "A comunicação assertiva permite expressar opiniões de forma {{1}} (clara / agressiva / ambígua) sem desrespeitar os {{2}} (outros / obstáculos / preconceitos).",
+        "answers": ["clara", "outros"]
+      },
+      {
+        "text": "A insegurança constante pode afetar a {{1}} (autoestima / produtividade / memória) e dificultar a tomada de {{2}} (decisões / refeições / deslocações).",
+        "answers": ["autoestima", "decisões"]
+      },
+      {
+        "text": "A empatia consiste na capacidade de compreender as emoções e as {{1}} (perspetivas / obrigações / despesas) de outras pessoas, demonstrando {{2}} (sensibilidade / indiferença / hostilidade).",
+        "answers": ["perspetivas", "sensibilidade"]
+      },
+      {
+        "text": "O comportamento impulsivo caracteriza-se por decisões {{1}} (precipitadas / ponderadas / planeadas) e por uma reduzida capacidade de {{2}} (autorregulação / cooperação / observação).",
+        "answers": ["precipitadas", "autorregulação"]
+      },
+      {
+        "text": "A aprendizagem depende de processos de {{1}} (memorização / deterioração / hesitação) e da capacidade de estabelecer novas {{2}} (associações / rivalidades / interrupções).",
+        "answers": ["memorização", "associações"]
+      },
+      {
+        "text": "A pressão social pode influenciar as {{1}} (escolhas / doenças / propriedades) individuais e limitar a liberdade de {{2}} (expressão / reprodução / deslocação).",
+        "answers": ["escolhas", "expressão"]
+      },
+      {
+        "text": "O acompanhamento psicológico pode ajudar a desenvolver estratégias de {{1}} (enfrentamento / negação / isolamento) e melhorar o bem-estar {{2}} (emocional / material / geográfico).",
+        "answers": ["enfrentamento", "emocional"]
+      }
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "Vocabulário educativo e pedagógico",
+    "definition": "O vocabulário educativo e pedagógico abrange os métodos de ensino, a avaliação, a aprendizagem, a formação e a organização dos sistemas educativos.",
+    "instruction": "Selecione as opções que completam corretamente as frases.",
+    "questions": [
+      {
+        "text": "Uma abordagem pedagógica {{1}} (inclusiva / excludente / autoritária) procura responder às necessidades de todos os {{2}} (alunos / fornecedores / funcionários).",
+        "answers": ["inclusiva", "alunos"]
+      },
+      {
+        "text": "A avaliação formativa permite acompanhar o {{1}} (progresso / abandono / atraso) dos estudantes e identificar as suas {{2}} (dificuldades / distrações / preferências comerciais).",
+        "answers": ["progresso", "dificuldades"]
+      },
+      {
+        "text": "O ensino baseado em projetos estimula a {{1}} (autonomia / passividade / dependência) e desenvolve competências de {{2}} (colaboração / isolamento / competição desleal).",
+        "answers": ["autonomia", "colaboração"]
+      },
+      {
+        "text": "A falta de recursos didáticos pode comprometer a {{1}} (qualidade / quantidade / duração) do ensino e dificultar a transmissão dos {{2}} (conhecimentos / salários / regulamentos).",
+        "answers": ["qualidade", "conhecimentos"]
+      },
+      {
+        "text": "O professor deve adaptar as suas estratégias às diferentes {{1}} (necessidades / obrigações / despesas) de aprendizagem e promover a participação {{2}} (ativa / passiva / involuntária).",
+        "answers": ["necessidades", "ativa"]
+      },
+      {
+        "text": "A formação contínua permite aos profissionais {{1}} (atualizar / abandonar / ocultar) os seus conhecimentos e acompanhar a evolução {{2}} (científica / doméstica / ocasional).",
+        "answers": ["atualizar", "científica"]
+      },
+      {
+        "text": "A literacia digital tornou-se uma competência {{1}} (indispensável / dispensável / prejudicial) para a participação na sociedade {{2}} (contemporânea / medieval / rural).",
+        "answers": ["indispensável", "contemporânea"]
+      },
+      {
+        "text": "O sistema educativo deve reduzir as desigualdades e garantir oportunidades {{1}} (equitativas / arbitrárias / privilegiadas) de acesso ao {{2}} (conhecimento / endividamento / consumo).",
+        "answers": ["equitativas", "conhecimento"]
+      },
+      {
+        "text": "A aprendizagem autónoma exige disciplina, motivação e capacidade de {{1}} (autoavaliação / desorganização / improvisação) dos próprios {{2}} (resultados / concorrentes / rendimentos).",
+        "answers": ["autoavaliação", "resultados"]
+      },
+      {
+        "text": "Uma educação de qualidade contribui para o desenvolvimento {{1}} (intelectual / acidental / superficial) e para a formação de cidadãos {{2}} (críticos / indiferentes / passivos).",
+        "answers": ["intelectual", "críticos"]
+      }
+    ]
+  },
+  {
+    "id": "036",
+    "titre": "Vocabulário dos meios de comunicação",
+    "definition": "O vocabulário dos meios de comunicação permite compreender a produção, a divulgação e a interpretação de informações nos diferentes canais mediáticos.",
+    "instruction": "Complete as frases escolhendo as opções adequadas.",
+    "questions": [
+      {
+        "text": "O jornalista deve verificar a {{1}} (veracidade / popularidade / rentabilidade) das informações antes de as {{2}} (publicar / ocultar / distorcer).",
+        "answers": ["veracidade", "publicar"]
+      },
+      {
+        "text": "A propagação de notícias {{1}} (falsas / verificadas / oficiais) pode comprometer a confiança do público nos meios de {{2}} (comunicação / transporte / produção).",
+        "answers": ["falsas", "comunicação"]
+      },
+      {
+        "text": "A liberdade de imprensa constitui um princípio {{1}} (fundamental / dispensável / contraditório) das sociedades {{2}} (democráticas / autoritárias / isoladas).",
+        "answers": ["fundamental", "democráticas"]
+      },
+      {
+        "text": "O editorial apresenta a posição {{1}} (institucional / aleatória / individualista) de um órgão de comunicação sobre determinado {{2}} (assunto / salário / equipamento).",
+        "answers": ["institucional", "assunto"]
+      },
+      {
+        "text": "O repórter recolheu testemunhos {{1}} (diretos / imaginários / contraditórios) para elaborar uma reportagem {{2}} (aprofundada / superficial / publicitária).",
+        "answers": ["diretos", "aprofundada"]
+      },
+      {
+        "text": "A cobertura mediática do acontecimento foi {{1}} (abrangente / limitada / inexistente) e alcançou uma audiência {{2}} (internacional / insignificante / clandestina).",
+        "answers": ["abrangente", "internacional"]
+      },
+      {
+        "text": "A manipulação de imagens pode alterar a {{1}} (perceção / remuneração / localização) do público e favorecer a desinformação {{2}} (deliberada / involuntária / inexistente).",
+        "answers": ["perceção", "deliberada"]
+      },
+      {
+        "text": "O entrevistador formulou perguntas {{1}} (pertinentes / ofensivas / irrelevantes) para obter respostas {{2}} (esclarecedoras / evasivas / contraditórias).",
+        "answers": ["pertinentes", "esclarecedoras"]
+      },
+      {
+        "text": "As plataformas digitais permitem uma divulgação {{1}} (imediata / tardia / restrita) de conteúdos, mas também facilitam a circulação de informações {{2}} (enganosas / comprovadas / oficiais).",
+        "answers": ["imediata", "enganosas"]
+      },
+      {
+        "text": "O direito de resposta permite contestar informações {{1}} (incorretas / neutras / favoráveis) e proteger a reputação {{2}} (pessoal / comercial / industrial).",
+        "answers": ["incorretas", "pessoal"]
+      }
+    ]
+  },
+  {
+    "id": "037",
+    "titre": "Vocabulário tecnológico e digital",
+    "definition": "O vocabulário tecnológico e digital inclui termos relacionados com sistemas informáticos, inteligência artificial, segurança digital, redes e inovação.",
+    "instruction": "Escolha as palavras adequadas para preencher os espaços.",
+    "questions": [
+      {
+        "text": "A inteligência artificial permite processar grandes volumes de {{1}} (dados / salários / documentos físicos) e identificar padrões {{2}} (complexos / aleatórios / inexistentes).",
+        "answers": ["dados", "complexos"]
+      },
+      {
+        "text": "A proteção das informações exige mecanismos de {{1}} (encriptação / divulgação / duplicação) e sistemas de autenticação {{2}} (seguros / públicos / improvisados).",
+        "answers": ["encriptação", "seguros"]
+      },
+      {
+        "text": "A computação em nuvem facilita o {{1}} (armazenamento / desaparecimento / bloqueio) de ficheiros e permite o acesso {{2}} (remoto / impossível / clandestino) aos recursos digitais.",
+        "answers": ["armazenamento", "remoto"]
+      },
+      {
+        "text": "Uma falha de segurança pode expor dados {{1}} (confidenciais / públicos / fictícios) e comprometer a {{2}} (privacidade / publicidade / produtividade) dos utilizadores.",
+        "answers": ["confidenciais", "privacidade"]
+      },
+      {
+        "text": "A automatização dos processos pode aumentar a {{1}} (eficiência / complexidade / fragilidade) e reduzir a intervenção {{2}} (manual / digital / automática).",
+        "answers": ["eficiência", "manual"]
+      },
+      {
+        "text": "O desenvolvimento de aplicações exige uma arquitetura {{1}} (escalável / limitada / instável) e uma interface {{2}} (intuitiva / confusa / inacessível).",
+        "answers": ["escalável", "intuitiva"]
+      },
+      {
+        "text": "Os algoritmos de recomendação analisam os hábitos dos utilizadores para {{1}} (personalizar / eliminar / bloquear) os conteúdos {{2}} (apresentados / escondidos / destruídos).",
+        "answers": ["personalizar", "apresentados"]
+      },
+      {
+        "text": "A transformação digital exige investimentos em infraestruturas e na {{1}} (capacitação / substituição / exclusão) dos recursos {{2}} (humanos / naturais / financeiros).",
+        "answers": ["capacitação", "humanos"]
+      },
+      {
+        "text": "O software de código aberto permite modificar o {{1}} (código-fonte / equipamento / utilizador) e incentivar a inovação {{2}} (colaborativa / secreta / obrigatória).",
+        "answers": ["código-fonte", "colaborativa"]
+      },
+      {
+        "text": "A utilização responsável da tecnologia requer uma reflexão {{1}} (ética / superficial / indiferente) sobre os seus impactos {{2}} (sociais / decorativos / inexistentes).",
+        "answers": ["ética", "sociais"]
+      }
+    ]
+  },
+  {
+    "id": "038",
+    "titre": "Vocabulário literário e retórico",
+    "definition": "O vocabulário literário e retórico permite analisar textos, identificar recursos expressivos e compreender a construção dos discursos.",
+    "instruction": "Complete cada frase com as opções mais adequadas.",
+    "questions": [
+      {
+        "text": "O autor utiliza uma linguagem {{1}} (metafórica / literal / burocrática) para transmitir sentimentos de forma {{2}} (sugestiva / mecânica / indiferente).",
+        "answers": ["metafórica", "sugestiva"]
+      },
+      {
+        "text": "A repetição de determinadas palavras cria um efeito de {{1}} (ênfase / contradição / neutralidade) e reforça a {{2}} (mensagem / pontuação / extensão) do poema.",
+        "answers": ["ênfase", "mensagem"]
+      },
+      {
+        "text": "A narrativa apresenta uma estrutura {{1}} (não linear / previsível / fragmentada) e alterna diferentes planos {{2}} (temporais / financeiros / geográficos).",
+        "answers": ["não linear", "temporais"]
+      },
+      {
+        "text": "A ironia permite transmitir uma crítica {{1}} (implícita / literal / ingénua) através de uma formulação aparentemente {{2}} (contrária / neutra / técnica).",
+        "answers": ["implícita", "contrária"]
+      },
+      {
+        "text": "A personagem principal enfrenta um dilema {{1}} (moral / gramatical / financeiro) que condiciona as suas {{2}} (decisões / descrições / leituras).",
+        "answers": ["moral", "decisões"]
+      },
+      {
+        "text": "O discurso do narrador é marcado por uma perspetiva {{1}} (subjetiva / universal / científica) e por uma forte carga {{2}} (emocional / administrativa / estatística).",
+        "answers": ["subjetiva", "emocional"]
+      },
+      {
+        "text": "A aliteração consiste na repetição de sons {{1}} (consonânticos / numéricos / semânticos), produzindo um efeito {{2}} (sonoro / visual / matemático).",
+        "answers": ["consonânticos", "sonoro"]
+      },
+      {
+        "text": "A obra apresenta uma crítica {{1}} (social / ornamental / gramatical) às desigualdades e às relações de {{2}} (poder / pontuação / distância).",
+        "answers": ["social", "poder"]
+      },
+      {
+        "text": "O uso de antíteses evidencia o contraste entre ideias {{1}} (opostas / semelhantes / complementares) e intensifica a expressividade do {{2}} (texto / índice / prefácio).",
+        "answers": ["opostas", "texto"]
+      },
+      {
+        "text": "A conclusão do romance é {{1}} (ambígua / previsível / explicativa) e deixa espaço para diferentes {{2}} (interpretações / traduções / classificações).",
+        "answers": ["ambígua", "interpretações"]
+      }
+    ]
+  },
+  {
+    "id": "039",
+    "titre": "Vocabulário filosófico e argumentativo",
+    "definition": "O vocabulário filosófico e argumentativo permite formular ideias abstratas, analisar conceitos, defender posições e avaliar a validade de raciocínios.",
+    "instruction": "Selecione as opções adequadas para completar as frases.",
+    "questions": [
+      {
+        "text": "A liberdade individual deve ser analisada em relação à {{1}} (responsabilidade / distração / rentabilidade) e aos limites impostos pela vida {{2}} (coletiva / comercial / doméstica).",
+        "answers": ["responsabilidade", "coletiva"]
+      },
+      {
+        "text": "Um argumento sólido deve apresentar premissas {{1}} (coerentes / contraditórias / irrelevantes) e uma conclusão {{2}} (fundamentada / arbitrária / precipitada).",
+        "answers": ["coerentes", "fundamentada"]
+      },
+      {
+        "text": "O relativismo questiona a existência de verdades {{1}} (absolutas / ocasionais / particulares) e valoriza a influência dos contextos {{2}} (culturais / financeiros / técnicos).",
+        "answers": ["absolutas", "culturais"]
+      },
+      {
+        "text": "A ética procura estabelecer princípios que orientem o comportamento {{1}} (humano / mecânico / geográfico) e permitam avaliar as suas consequências {{2}} (morais / estéticas / comerciais).",
+        "answers": ["humano", "morais"]
+      },
+      {
+        "text": "O pensamento crítico exige a capacidade de questionar pressupostos e identificar possíveis {{1}} (falácias / vantagens / metáforas) nos discursos {{2}} (argumentativos / narrativos / descritivos).",
+        "answers": ["falácias", "argumentativos"]
+      },
+      {
+        "text": "A noção de justiça está associada à distribuição {{1}} (equitativa / aleatória / privilegiada) dos direitos e dos {{2}} (deveres / interesses / desejos).",
+        "answers": ["equitativa", "deveres"]
+      },
+      {
+        "text": "Uma teoria filosófica deve ser submetida a uma análise {{1}} (racional / emocional / impulsiva) e a uma avaliação {{2}} (crítica / superficial / automática).",
+        "answers": ["racional", "crítica"]
+      },
+      {
+        "text": "O determinismo defende que determinados acontecimentos são condicionados por fatores {{1}} (anteriores / imaginários / decorativos), enquanto o livre-arbítrio pressupõe a possibilidade de {{2}} (escolha / repetição / submissão).",
+        "answers": ["anteriores", "escolha"]
+      },
+      {
+        "text": "A coerência lógica depende da relação entre as premissas e a {{1}} (conclusão / introdução / citação), evitando contradições {{2}} (internas / externas / linguísticas).",
+        "answers": ["conclusão", "internas"]
+      },
+      {
+        "text": "O debate filosófico deve favorecer a {{1}} (argumentação / imposição / censura) fundamentada e o respeito por perspetivas {{2}} (divergentes / idênticas / inexistentes).",
+        "answers": ["argumentação", "divergentes"]
+      }
+    ]
+  },
+  {
+    "id": "040",
+    "titre": "Vocabulário das relações interpessoais",
+    "definition": "O vocabulário das relações interpessoais permite descrever a comunicação, a confiança, os conflitos, a cooperação e os vínculos entre indivíduos.",
+    "instruction": "Escolha as palavras adequadas entre as opções apresentadas.",
+    "questions": [
+      {
+        "text": "Uma relação duradoura exige confiança {{1}} (mútua / unilateral / ocasional) e uma comunicação {{2}} (sincera / ambígua / agressiva).",
+        "answers": ["mútua", "sincera"]
+      },
+      {
+        "text": "Durante um conflito, é importante ouvir as diferentes {{1}} (perspetivas / acusações / distrações) e procurar uma solução {{2}} (consensual / autoritária / precipitada).",
+        "answers": ["perspetivas", "consensual"]
+      },
+      {
+        "text": "A falta de respeito pode deteriorar os laços {{1}} (afetivos / comerciais / jurídicos) e provocar um afastamento {{2}} (progressivo / imediato / obrigatório).",
+        "answers": ["afetivos", "progressivo"]
+      },
+      {
+        "text": "A cooperação depende da partilha de responsabilidades e de uma atitude {{1}} (solidária / competitiva / indiferente) perante os objetivos {{2}} (comuns / individuais / contraditórios).",
+        "answers": ["solidária", "comuns"]
+      },
+      {
+        "text": "Uma crítica construtiva deve ser formulada de maneira {{1}} (respeitosa / humilhante / provocadora) e acompanhada de sugestões {{2}} (úteis / ofensivas / vagas).",
+        "answers": ["respeitosa", "úteis"]
+      },
+      {
+        "text": "A reconciliação exige o reconhecimento dos erros e uma vontade {{1}} (genuína / superficial / fingida) de restabelecer a {{2}} (confiança / rivalidade / distância).",
+        "answers": ["genuína", "confiança"]
+      },
+      {
+        "text": "A escuta ativa demonstra {{1}} (interesse / desprezo / impaciência) pelo interlocutor e favorece uma comunicação mais {{2}} (eficaz / confusa / hostil).",
+        "answers": ["interesse", "eficaz"]
+      },
+      {
+        "text": "A intolerância pode alimentar comportamentos {{1}} (discriminatórios / inclusivos / cooperativos) e comprometer a convivência {{2}} (harmoniosa / isolada / competitiva).",
+        "answers": ["discriminatórios", "harmoniosa"]
+      },
+      {
+        "text": "A mediação procura restabelecer o diálogo entre as partes e alcançar um entendimento {{1}} (equilibrado / parcial / imposto) que seja mutuamente {{2}} (aceitável / prejudicial / indiferente).",
+        "answers": ["equilibrado", "aceitável"]
+      },
+      {
+        "text": "A lealdade pressupõe uma atitude {{1}} (honesta / oportunista / dissimulada) e o cumprimento dos compromissos {{2}} (assumidos / imaginados / evitados).",
+        "answers": ["honesta", "assumidos"]
+      }
+    ]
+  },
+  {
+    "id": "041",
+    "titre": "Vocabulário de viagens e turismo",
+    "definition": "O vocabulário de viagens e turismo abrange os transportes, o alojamento, os itinerários, as reservas, os destinos e as experiências culturais.",
+    "instruction": "Complete as frases escolhendo as opções corretas.",
+    "questions": [
+      {
+        "text": "Antes de viajar, é aconselhável verificar a validade do {{1}} (passaporte / bilhete / itinerário) e confirmar as condições de {{2}} (entrada / bagagem / partida) no país de destino.",
+        "answers": ["passaporte", "entrada"]
+      },
+      {
+        "text": "O guia turístico apresentou um itinerário {{1}} (diversificado / monótono / improvisado) que incluía monumentos e paisagens {{2}} (deslumbrantes / insignificantes / artificiais).",
+        "answers": ["diversificado", "deslumbrantes"]
+      },
+      {
+        "text": "A companhia aérea anunciou o {{1}} (cancelamento / embarque / desembarque) do voo devido a condições meteorológicas {{2}} (adversas / favoráveis / habituais).",
+        "answers": ["cancelamento", "adversas"]
+      },
+      {
+        "text": "Os viajantes devem respeitar os costumes {{1}} (locais / estrangeiros / comerciais) e evitar comportamentos {{2}} (ofensivos / acolhedores / prudentes).",
+        "answers": ["locais", "ofensivos"]
+      },
+      {
+        "text": "A reserva do alojamento foi confirmada após o pagamento de um {{1}} (adiantamento / reembolso / imposto) e o envio dos dados {{2}} (pessoais / turísticos / geográficos).",
+        "answers": ["adiantamento", "pessoais"]
+      },
+      {
+        "text": "O turismo sustentável procura minimizar os impactos {{1}} (ambientais / financeiros / linguísticos) e valorizar as comunidades {{2}} (anfitriãs / concorrentes / estrangeiras).",
+        "answers": ["ambientais", "anfitriãs"]
+      },
+      {
+        "text": "A agência recomendou um seguro de viagem que cobrisse eventuais {{1}} (imprevistos / descontos / convites) durante a permanência no {{2}} (estrangeiro / escritório / aeroporto).",
+        "answers": ["imprevistos", "estrangeiro"]
+      },
+      {
+        "text": "A estação ferroviária estava {{1}} (lotada / deserta / encerrada) devido ao elevado número de passageiros que aguardavam o {{2}} (embarque / reembolso / alojamento).",
+        "answers": ["lotada", "embarque"]
+      },
+      {
+        "text": "A descoberta de destinos menos conhecidos favorece a {{1}} (diversificação / concentração / redução) da oferta turística e a distribuição mais {{2}} (equilibrada / desigual / irregular) dos visitantes.",
+        "answers": ["diversificação", "equilibrada"]
+      },
+      {
+        "text": "O viajante perdeu a bagagem durante a escala e teve de apresentar uma {{1}} (reclamação / reserva / autorização) à companhia {{2}} (transportadora / hoteleira / seguradora).",
+        "answers": ["reclamação", "transportadora"]
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Vocabulário da agricultura e alimentação",
+    "definition": "O vocabulário da agricultura e da alimentação abrange a produção agrícola, os métodos de cultivo, a transformação dos alimentos e a segurança alimentar.",
+    "instruction": "Selecione as palavras adequadas para completar as frases.",
+    "questions": [
+      {
+        "text": "A rotação de culturas contribui para preservar a fertilidade do {{1}} (solo / clima / mercado) e reduzir a propagação de {{2}} (pragas / nutrientes / sementes).",
+        "answers": ["solo", "pragas"]
+      },
+      {
+        "text": "A segurança alimentar depende de um abastecimento {{1}} (regular / irregular / ocasional) e de alimentos nutricionalmente {{2}} (adequados / insuficientes / artificiais).",
+        "answers": ["regular", "adequados"]
+      },
+      {
+        "text": "A utilização excessiva de pesticidas pode contaminar os recursos {{1}} (hídricos / humanos / comerciais) e comprometer a saúde dos {{2}} (consumidores / fornecedores / agricultores).",
+        "answers": ["hídricos", "consumidores"]
+      },
+      {
+        "text": "A agricultura biológica privilegia métodos de produção {{1}} (sustentáveis / intensivos / poluentes) e evita determinados produtos {{2}} (sintéticos / naturais / orgânicos).",
+        "answers": ["sustentáveis", "sintéticos"]
+      },
+      {
+        "text": "A conservação adequada dos alimentos permite prolongar a sua {{1}} (durabilidade / fragilidade / produção) e reduzir o desperdício {{2}} (alimentar / industrial / comercial).",
+        "answers": ["durabilidade", "alimentar"]
+      },
+      {
+        "text": "As alterações climáticas afetam os ciclos de {{1}} (cultivo / consumo / distribuição) e diminuem a previsibilidade das {{2}} (colheitas / importações / refeições).",
+        "answers": ["cultivo", "colheitas"]
+      },
+      {
+        "text": "A mecanização agrícola pode aumentar a {{1}} (produtividade / escassez / dependência) e reduzir o esforço {{2}} (físico / intelectual / administrativo).",
+        "answers": ["produtividade", "físico"]
+      },
+      {
+        "text": "A diversificação das culturas reduz a dependência de uma única {{1}} (espécie / ferramenta / estação) e reforça a resistência dos sistemas {{2}} (agrícolas / financeiros / urbanos).",
+        "answers": ["espécie", "agrícolas"]
+      },
+      {
+        "text": "A cadeia de abastecimento deve garantir a rastreabilidade dos produtos e condições de transporte {{1}} (adequadas / improvisadas / perigosas) para preservar a sua {{2}} (qualidade / publicidade / quantidade).",
+        "answers": ["adequadas", "qualidade"]
+      },
+      {
+        "text": "O investimento em infraestruturas de irrigação pode aumentar a disponibilidade de água e melhorar o rendimento das {{1}} (explorações / instituições / fábricas) {{2}} (agrícolas / bancárias / turísticas).",
+        "answers": ["explorações", "agrícolas"]
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Vocabulário artístico e património cultural",
+    "definition": "O vocabulário artístico e patrimonial permite descrever manifestações culturais, técnicas de criação, obras de arte e estratégias de preservação do património.",
+    "instruction": "Escolha as opções adequadas para completar cada frase.",
+    "questions": [
+      {
+        "text": "A restauração do monumento exigiu técnicas {{1}} (especializadas / improvisadas / superficiais) para preservar a sua {{2}} (autenticidade / rentabilidade / popularidade).",
+        "answers": ["especializadas", "autenticidade"]
+      },
+      {
+        "text": "A exposição reúne obras de diferentes períodos {{1}} (artísticos / comerciais / administrativos) e apresenta uma diversidade de estilos {{2}} (estéticos / jurídicos / industriais).",
+        "answers": ["artísticos", "estéticos"]
+      },
+      {
+        "text": "O artista utiliza materiais {{1}} (reciclados / descartáveis / tóxicos) para criar esculturas de forte impacto {{2}} (visual / financeiro / burocrático).",
+        "answers": ["reciclados", "visual"]
+      },
+      {
+        "text": "A transmissão dos conhecimentos tradicionais depende da valorização dos {{1}} (artesãos / investidores / turistas) e da preservação das técnicas {{2}} (ancestrais / digitais / industriais).",
+        "answers": ["artesãos", "ancestrais"]
+      },
+      {
+        "text": "O museu desenvolveu um programa {{1}} (educativo / comercial / clandestino) destinado a aproximar os jovens do património {{2}} (histórico / financeiro / tecnológico).",
+        "answers": ["educativo", "histórico"]
+      },
+      {
+        "text": "A obra apresenta uma composição {{1}} (harmoniosa / desordenada / contraditória) e uma utilização expressiva da {{2}} (cor / burocracia / estatística).",
+        "answers": ["harmoniosa", "cor"]
+      },
+      {
+        "text": "A digitalização dos arquivos facilita a sua {{1}} (preservação / destruição / falsificação) e permite uma consulta mais {{2}} (acessível / restrita / perigosa).",
+        "answers": ["preservação", "acessível"]
+      },
+      {
+        "text": "O festival promove o intercâmbio {{1}} (cultural / financeiro / administrativo) entre artistas de diferentes {{2}} (origens / salários / profissões).",
+        "answers": ["cultural", "origens"]
+      },
+      {
+        "text": "A autenticidade de uma obra deve ser confirmada através de uma análise {{1}} (especializada / improvisada / superficial) e de documentação {{2}} (fiável / fictícia / incompleta).",
+        "answers": ["especializada", "fiável"]
+      },
+      {
+        "text": "A perda de património imaterial representa um empobrecimento da {{1}} (memória / economia / tecnologia) coletiva e ameaça a continuidade das tradições {{2}} (locais / comerciais / industriais).",
+        "answers": ["memória", "locais"]
+      }
+    ]
+  },
+  {
+    "id": "044",
+    "titre": "Vocabulário da energia e da indústria",
+    "definition": "O vocabulário da energia e da indústria inclui termos relacionados com a produção, a transformação, a distribuição e o consumo de recursos energéticos e industriais.",
+    "instruction": "Complete as frases selecionando as palavras adequadas.",
+    "questions": [
+      {
+        "text": "A eficiência energética permite reduzir o {{1}} (consumo / fornecimento / armazenamento) de eletricidade e diminuir os custos {{2}} (operacionais / emocionais / linguísticos).",
+        "answers": ["consumo", "operacionais"]
+      },
+      {
+        "text": "A instalação de painéis solares contribui para diversificar a matriz {{1}} (energética / alimentar / industrial) e reduzir as emissões {{2}} (poluentes / comerciais / sonoras).",
+        "answers": ["energética", "poluentes"]
+      },
+      {
+        "text": "A modernização das fábricas exige equipamentos {{1}} (automatizados / obsoletos / improvisados) e sistemas de controlo {{2}} (eficientes / frágeis / desnecessários).",
+        "answers": ["automatizados", "eficientes"]
+      },
+      {
+        "text": "A dependência excessiva de combustíveis fósseis aumenta a vulnerabilidade {{1}} (energética / cultural / linguística) dos países importadores e agrava a poluição {{2}} (atmosférica / sonora / visual).",
+        "answers": ["energética", "atmosférica"]
+      },
+      {
+        "text": "A manutenção preventiva reduz as interrupções {{1}} (imprevistas / planeadas / voluntárias) e prolonga a vida útil dos equipamentos {{2}} (industriais / domésticos / escolares).",
+        "answers": ["imprevistas", "industriais"]
+      },
+      {
+        "text": "A indústria transformadora acrescenta valor às matérias-primas através de processos de {{1}} (produção / consumo / especulação) e de {{2}} (comercialização / deterioração / improvisação).",
+        "answers": ["produção", "comercialização"]
+      },
+      {
+        "text": "O armazenamento de energia permite equilibrar a {{1}} (oferta / procura / publicidade) e a procura, garantindo maior estabilidade da rede {{2}} (elétrica / rodoviária / ferroviária).",
+        "answers": ["oferta", "elétrica"]
+      },
+      {
+        "text": "A automatização industrial pode aumentar a precisão e reduzir os erros {{1}} (humanos / naturais / climáticos) durante as operações de {{2}} (fabrico / transporte / comunicação).",
+        "answers": ["humanos", "fabrico"]
+      },
+      {
+        "text": "A transição energética requer investimentos {{1}} (estratégicos / ocasionais / improdutivos) e uma planificação {{2}} (a longo prazo / improvisada / desnecessária).",
+        "answers": ["estratégicos", "a longo prazo"]
+      },
+      {
+        "text": "A reciclagem de resíduos industriais favorece a recuperação de {{1}} (materiais / salários / contratos) e reduz a pressão sobre os recursos {{2}} (naturais / humanos / administrativos).",
+        "answers": ["materiais", "naturais"]
+      }
+    ]
+  },
+  {
+    "id": "045",
+    "titre": "Vocabulário estatístico e análise de dados",
+    "definition": "O vocabulário estatístico permite descrever conjuntos de dados, medidas de tendência central, relações entre variáveis e resultados de investigação quantitativa.",
+    "instruction": "Selecione as opções corretas para completar as frases.",
+    "questions": [
+      {
+        "text": "A média aritmética é calculada através da soma dos valores dividida pelo número de {{1}} (observações / hipóteses / variáveis) {{2}} (consideradas / ignoradas / eliminadas).",
+        "answers": ["observações", "consideradas"]
+      },
+      {
+        "text": "Uma correlação positiva indica que duas variáveis tendem a variar na mesma {{1}} (direção / proporção / categoria), embora isso não prove uma relação de {{2}} (causalidade / igualdade / independência).",
+        "answers": ["direção", "causalidade"]
+      },
+      {
+        "text": "A mediana corresponde ao valor {{1}} (central / máximo / mínimo) de uma distribuição quando os dados estão {{2}} (ordenados / agrupados / eliminados).",
+        "answers": ["central", "ordenados"]
+      },
+      {
+        "text": "Uma amostra pouco representativa pode introduzir {{1}} (enviesamentos / certezas / vantagens) e comprometer a validade das {{2}} (conclusões / hipóteses / instruções).",
+        "answers": ["enviesamentos", "conclusões"]
+      },
+      {
+        "text": "O desvio-padrão mede a dispersão dos valores em relação à {{1}} (média / mediana / moda) de uma distribuição {{2}} (estatística / linguística / geográfica).",
+        "answers": ["média", "estatística"]
+      },
+      {
+        "text": "Os dados em falta devem ser identificados e tratados de forma {{1}} (criteriosa / aleatória / negligente) antes da análise {{2}} (quantitativa / emocional / literária).",
+        "answers": ["criteriosa", "quantitativa"]
+      },
+      {
+        "text": "Um gráfico de barras é particularmente útil para comparar {{1}} (categorias / hipóteses / argumentos) e visualizar diferenças de {{2}} (frequência / intenção / opinião).",
+        "answers": ["categorias", "frequência"]
+      },
+      {
+        "text": "A significância estatística ajuda a avaliar se um resultado pode ser atribuído ao {{1}} (acaso / planeamento / consenso), segundo um determinado nível de {{2}} (significância / produtividade / rendimento).",
+        "answers": ["acaso", "significância"]
+      },
+      {
+        "text": "A análise de tendências permite identificar padrões {{1}} (recorrentes / ocasionais / inexistentes) e antecipar possíveis {{2}} (evoluções / contradições / interrupções).",
+        "answers": ["recorrentes", "evoluções"]
+      },
+      {
+        "text": "A visualização adequada dos dados facilita a sua {{1}} (interpretação / eliminação / falsificação) e torna os resultados mais {{2}} (compreensíveis / ambíguos / inacessíveis).",
+        "answers": ["interpretação", "compreensíveis"]
+      }
+    ]
+  },
+  {
+    "id": "046",
+    "titre": "Vocabulário de gestão de riscos e crises",
+    "definition": "O vocabulário de gestão de riscos e crises permite identificar ameaças, avaliar vulnerabilidades, planear respostas e reduzir os impactos de situações imprevistas.",
+    "instruction": "Complete as frases escolhendo as opções mais adequadas.",
+    "questions": [
+      {
+        "text": "A avaliação de riscos permite identificar ameaças {{1}} (potenciais / inexistentes / desejáveis) e definir medidas {{2}} (preventivas / decorativas / improvisadas).",
+        "answers": ["potenciais", "preventivas"]
+      },
+      {
+        "text": "Durante uma crise, a comunicação deve ser {{1}} (clara / ambígua / contraditória) e as informações devem ser transmitidas de forma {{2}} (atempada / tardia / aleatória).",
+        "answers": ["clara", "atempada"]
+      },
+      {
+        "text": "Um plano de contingência estabelece procedimentos alternativos para garantir a {{1}} (continuidade / interrupção / eliminação) das atividades {{2}} (essenciais / secundárias / ocasionais).",
+        "answers": ["continuidade", "essenciais"]
+      },
+      {
+        "text": "A identificação precoce dos sinais de alerta pode limitar a {{1}} (propagação / celebração / recuperação) de uma crise e reduzir os danos {{2}} (potenciais / imaginários / desejáveis).",
+        "answers": ["propagação", "potenciais"]
+      },
+      {
+        "text": "A gestão de uma emergência exige uma resposta {{1}} (coordenada / desorganizada / contraditória) e uma distribuição {{2}} (eficaz / aleatória / desigual) das responsabilidades.",
+        "answers": ["coordenada", "eficaz"]
+      },
+      {
+        "text": "A análise pós-crise permite identificar falhas {{1}} (operacionais / ornamentais / linguísticas) e implementar medidas {{2}} (corretivas / punitivas / improvisadas).",
+        "answers": ["operacionais", "corretivas"]
+      },
+      {
+        "text": "A resiliência institucional depende da capacidade de adaptação e da existência de recursos {{1}} (adequados / insuficientes / desnecessários) para enfrentar situações {{2}} (adversas / habituais / favoráveis).",
+        "answers": ["adequados", "adversas"]
+      },
+      {
+        "text": "A ausência de informação fiável pode aumentar a {{1}} (incerteza / estabilidade / confiança) e dificultar a tomada de decisões {{2}} (estratégicas / aleatórias / emocionais).",
+        "answers": ["incerteza", "estratégicas"]
+      },
+      {
+        "text": "A diversificação dos fornecedores reduz a {{1}} (dependência / produtividade / transparência) e limita os riscos de {{2}} (abastecimento / comunicação / aprendizagem).",
+        "answers": ["dependência", "abastecimento"]
+      },
+      {
+        "text": "Uma estratégia de recuperação deve estabelecer prioridades {{1}} (realistas / contraditórias / arbitrárias) e prever recursos {{2}} (financeiros / imaginários / dispensáveis) suficientes.",
+        "answers": ["realistas", "financeiros"]
+      }
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Vocabulário de comércio e logística",
+    "definition": "O vocabulário comercial e logístico abrange as operações de compra e venda, o transporte, o armazenamento, a distribuição e a gestão das cadeias de abastecimento.",
+    "instruction": "Escolha as palavras que completam corretamente cada frase.",
+    "questions": [
+      {
+        "text": "A empresa decidiu renegociar os contratos com os {{1}} (fornecedores / consumidores / concorrentes) para reduzir os custos de {{2}} (aquisição / publicidade / recrutamento).",
+        "answers": ["fornecedores", "aquisição"]
+      },
+      {
+        "text": "A gestão eficiente dos inventários permite evitar a {{1}} (rutura / expansão / acumulação) de stock e reduzir os custos de {{2}} (armazenamento / comunicação / formação).",
+        "answers": ["rutura", "armazenamento"]
+      },
+      {
+        "text": "O transporte internacional de mercadorias exige documentação {{1}} (aduaneira / publicitária / escolar) e o cumprimento das normas {{2}} (comerciais / familiares / linguísticas).",
+        "answers": ["aduaneira", "comerciais"]
+      },
+      {
+        "text": "A procura de um produto pode variar em função do preço e das preferências dos {{1}} (consumidores / fornecedores / distribuidores), bem como das condições do {{2}} (mercado / armazém / escritório).",
+        "answers": ["consumidores", "mercado"]
+      },
+      {
+        "text": "Uma cadeia de abastecimento {{1}} (resiliente / vulnerável / desorganizada) consegue adaptar-se a interrupções e manter o fornecimento de bens {{2}} (essenciais / supérfluos / fictícios).",
+        "answers": ["resiliente", "essenciais"]
+      },
+      {
+        "text": "A empresa investiu num sistema de rastreamento para acompanhar a {{1}} (localização / remuneração / qualidade) das encomendas em tempo {{2}} (real / passado / indefinido).",
+        "answers": ["localização", "real"]
+      },
+      {
+        "text": "A exportação de produtos exige o respeito pelas normas de {{1}} (qualidade / decoração / preferência) e pelas exigências do país de {{2}} (destino / origem / trânsito).",
+        "answers": ["qualidade", "destino"]
+      },
+      {
+        "text": "A distribuição deve ser organizada de forma {{1}} (eficiente / aleatória / dispendiosa) para garantir entregas {{2}} (pontuais / atrasadas / incompletas).",
+        "answers": ["eficiente", "pontuais"]
+      },
+      {
+        "text": "A negociação comercial terminou com a assinatura de um acordo {{1}} (vantajoso / prejudicial / provisório) para ambas as {{2}} (partes / mercadorias / instituições).",
+        "answers": ["vantajoso", "partes"]
+      },
+      {
+        "text": "A flutuação dos custos de transporte pode afetar a {{1}} (competitividade / estabilidade emocional / identidade cultural) dos produtos nos mercados {{2}} (internacionais / domésticos / escolares).",
+        "answers": ["competitividade", "internacionais"]
+      }
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "Vocabulário urbano e arquitetónico",
+    "definition": "O vocabulário urbano e arquitetónico permite descrever a organização das cidades, o planeamento territorial, as infraestruturas e a construção de edifícios.",
+    "instruction": "Complete as frases selecionando as opções adequadas.",
+    "questions": [
+      {
+        "text": "O planeamento urbano deve promover uma distribuição {{1}} (equilibrada / arbitrária / desigual) dos serviços e melhorar a {{2}} (mobilidade / especulação / segregação) dos habitantes.",
+        "answers": ["equilibrada", "mobilidade"]
+      },
+      {
+        "text": "A construção de habitação {{1}} (acessível / luxuosa / temporária) é essencial para combater a exclusão {{2}} (residencial / comercial / industrial).",
+        "answers": ["acessível", "residencial"]
+      },
+      {
+        "text": "A reabilitação dos edifícios antigos deve respeitar a sua {{1}} (identidade / rentabilidade / publicidade) arquitetónica e garantir a sua segurança {{2}} (estrutural / financeira / linguística).",
+        "answers": ["identidade", "estrutural"]
+      },
+      {
+        "text": "A expansão urbana descontrolada pode provocar a ocupação de zonas {{1}} (vulneráveis / protegidas / industriais) e aumentar a pressão sobre as infraestruturas {{2}} (públicas / privadas / domésticas).",
+        "answers": ["vulneráveis", "públicas"]
+      },
+      {
+        "text": "A criação de espaços verdes contribui para melhorar a qualidade {{1}} (ambiental / administrativa / comercial) e favorecer a convivência {{2}} (comunitária / burocrática / industrial).",
+        "answers": ["ambiental", "comunitária"]
+      },
+      {
+        "text": "Uma infraestrutura {{1}} (resiliente / frágil / obsoleta) deve resistir a condições adversas e garantir a continuidade dos serviços {{2}} (essenciais / decorativos / opcionais).",
+        "answers": ["resiliente", "essenciais"]
+      },
+      {
+        "text": "O arquiteto apresentou um projeto {{1}} (inovador / repetitivo / improvisado) que combina funcionalidade e integração {{2}} (paisagística / burocrática / financeira).",
+        "answers": ["inovador", "paisagística"]
+      },
+      {
+        "text": "A utilização de materiais {{1}} (sustentáveis / tóxicos / descartáveis) pode reduzir o impacto ambiental da {{2}} (construção / especulação / fiscalização).",
+        "answers": ["sustentáveis", "construção"]
+      },
+      {
+        "text": "A acessibilidade dos edifícios exige a eliminação de barreiras {{1}} (arquitetónicas / comerciais / linguísticas) e a instalação de equipamentos {{2}} (adaptados / improvisados / decorativos).",
+        "answers": ["arquitetónicas", "adaptados"]
+      },
+      {
+        "text": "A preservação dos centros históricos contribui para valorizar a memória {{1}} (urbana / industrial / financeira) e reforçar a atratividade {{2}} (turística / burocrática / doméstica) das cidades.",
+        "answers": ["urbana", "turística"]
+      }
+    ]
+  },
+  {
+    "id": "049",
+    "titre": "Vocabulário de investigação e inovação",
+    "definition": "O vocabulário da investigação e inovação permite descrever a criação de soluções, o desenvolvimento de tecnologias, a experimentação e a aplicação de novas ideias.",
+    "instruction": "Selecione as opções adequadas para completar cada frase.",
+    "questions": [
+      {
+        "text": "A inovação tecnológica depende de investimentos em investigação e desenvolvimento e de uma cultura {{1}} (empreendedora / conservadora / passiva) que incentive a {{2}} (criatividade / repetição / estagnação).",
+        "answers": ["empreendedora", "criatividade"]
+      },
+      {
+        "text": "O protótipo foi submetido a testes {{1}} (rigorosos / superficiais / improvisados) para avaliar o seu {{2}} (desempenho / preço / aspeto).",
+        "answers": ["rigorosos", "desempenho"]
+      },
+      {
+        "text": "A equipa identificou uma oportunidade de inovação e desenvolveu uma solução {{1}} (viável / impraticável / contraditória) para responder às necessidades dos {{2}} (utilizadores / concorrentes / investidores).",
+        "answers": ["viável", "utilizadores"]
+      },
+      {
+        "text": "A transferência de tecnologia facilita a aplicação de conhecimentos {{1}} (científicos / imaginários / tradicionais) em contextos {{2}} (produtivos / literários / domésticos).",
+        "answers": ["científicos", "produtivos"]
+      },
+      {
+        "text": "Uma patente protege a exploração de uma invenção e reconhece os direitos do seu {{1}} (inventor / consumidor / distribuidor) durante um período {{2}} (determinado / ilimitado / aleatório).",
+        "answers": ["inventor", "determinado"]
+      },
+      {
+        "text": "A colaboração entre universidades e empresas pode acelerar a {{1}} (comercialização / destruição / ocultação) de soluções {{2}} (inovadoras / obsoletas / fictícias).",
+        "answers": ["comercialização", "inovadoras"]
+      },
+      {
+        "text": "O processo de experimentação permite testar diferentes {{1}} (abordagens / remunerações / regulamentos) e avaliar a sua {{2}} (eficácia / popularidade / antiguidade).",
+        "answers": ["abordagens", "eficácia"]
+      },
+      {
+        "text": "A inovação social procura responder a problemas {{1}} (coletivos / imaginários / individuais) através de soluções {{2}} (sustentáveis / temporárias / excludentes).",
+        "answers": ["coletivos", "sustentáveis"]
+      },
+      {
+        "text": "A validação de um produto exige a recolha de opiniões dos utilizadores e uma análise {{1}} (sistemática / aleatória / superficial) dos resultados {{2}} (obtidos / imaginados / ignorados).",
+        "answers": ["sistemática", "obtidos"]
+      },
+      {
+        "text": "A capacidade de inovar exige abertura à mudança e disposição para assumir riscos {{1}} (calculados / irresponsáveis / desnecessários) em contextos {{2}} (incertos / estáveis / previsíveis).",
+        "answers": ["calculados", "incertos"]
+      }
+    ]
+  },
+  {
+    "id": "050",
+    "titre": "Vocabulário avançado integrado",
+    "definition": "O domínio do vocabulário avançado exige a capacidade de selecionar palavras de diferentes categorias gramaticais e utilizá-las corretamente em contextos complexos, profissionais, académicos e sociais.",
+    "instruction": "Complete cada frase escolhendo as opções adequadas entre as palavras apresentadas entre parênteses.",
+    "questions": [
+      {
+        "text": "Embora a proposta fosse {{1}} (ambiciosa / ambição / ambiciosamente), a equipa conseguiu {{2}} (concretizar / concreto / concretização) os seus objetivos através de uma estratégia {{3}} (consistente / consistência / consistentemente).",
+        "answers": ["ambiciosa", "concretizar", "consistente"]
+      },
+      {
+        "text": "A instituição decidiu {{1}} (reformular / reformulação / reformulado) os seus procedimentos para garantir maior {{2}} (transparência / transparente / transparentemente) e uma gestão mais {{3}} (eficiente / eficiência / eficientemente).",
+        "answers": ["reformular", "transparência", "eficiente"]
+      },
+      {
+        "text": "Apesar das dificuldades {{1}} (financeiras / financeiramente / financiar), o projeto continuou a avançar porque os seus responsáveis acreditavam na sua {{2}} (viabilidade / viável / viabilizar) e mantinham uma atitude {{3}} (determinada / determinação / determinar).",
+        "answers": ["financeiras", "viabilidade", "determinada"]
+      },
+      {
+        "text": "A investigação demonstrou que a {{1}} (desigualdade / desigual / igualmente) no acesso à educação pode {{2}} (comprometer / compromisso / comprometido) o desenvolvimento económico e social, sobretudo nas regiões mais {{3}} (vulneráveis / vulnerabilidade / vulnerabilizar).",
+        "answers": ["desigualdade", "comprometer", "vulneráveis"]
+      },
+      {
+        "text": "O diretor afirmou que a empresa {{1}} (pretendia / pretensão / pretendido) expandir as suas atividades, desde que encontrasse parceiros {{2}} (fiáveis / fiabilidade / fiavelmente) e condições de investimento {{3}} (favoráveis / favoravelmente / favorecer).",
+        "answers": ["pretendia", "fiáveis", "favoráveis"]
+      },
+      {
+        "text": "A utilização {{1}} (responsável / responsabilidade / responsavelmente) dos recursos naturais exige políticas {{2}} (sustentáveis / sustentabilidade / sustentar) e uma fiscalização {{3}} (rigorosa / rigor / rigorosamente).",
+        "answers": ["responsável", "sustentáveis", "rigorosa"]
+      },
+      {
+        "text": "O candidato apresentou argumentos {{1}} (convincentes / convencer / convicção), respondeu às perguntas com {{2}} (segurança / seguro / seguramente) e demonstrou possuir conhecimentos {{3}} (aprofundados / aprofundar / aprofundamento).",
+        "answers": ["convincentes", "segurança", "aprofundados"]
+      },
+      {
+        "text": "A rápida {{1}} (digitalização / digital / digitalizar) dos serviços públicos pode {{2}} (facilitar / facilidade / facilitado) o acesso dos cidadãos, desde que sejam garantidas condições de segurança {{3}} (adequadas / adequação / adequadamente).",
+        "answers": ["digitalização", "facilitar", "adequadas"]
+      },
+      {
+        "text": "Quando os resultados são {{1}} (inconsistentes / inconsistência / inconsistentemente), os investigadores devem {{2}} (reavaliar / reavaliação / reavaliado) os dados e verificar a {{3}} (validade / válido / validar) dos procedimentos utilizados.",
+        "answers": ["inconsistentes", "reavaliar", "validade"]
+      },
+      {
+        "text": "Uma sociedade verdadeiramente {{1}} (inclusiva / inclusão / incluir) deve promover a {{2}} (participação / participar / participante) de todos os cidadãos e garantir que os seus direitos sejam {{3}} (respeitados / respeito / respeitável).",
+        "answers": ["inclusiva", "participação", "respeitados"]
       }
     ]
   }
