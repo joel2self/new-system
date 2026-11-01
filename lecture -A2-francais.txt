@@ -3598,5 +3598,685 @@
 ]
 }
 ]
+},
+{
+    "id": "051",
+    "titre": "Mon premier voyage en avion",
+    "titre2": "Exercice 051",
+    "texte": [
+      "L'été dernier, j'ai pris l'avion pour la première fois pour aller à Paris.",
+      "À l'aéroport, j'ai enregistré ma grosse valise rouge et j'ai reçu ma carte d'embarquement.",
+      "J'avais un peu peur avant le décollage, mais le vol s'est très bien passé.",
+      "Les hôtesses de l'air étaient gentilles et m'ont servi un repas chaud pendant le trajet.",
+      "Regarder les nuages blancs depuis la petite fenêtre de mon siège était un spectacle magnifique."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-051-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-051-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-051-01",
+        "question": "Où le narrateur est-il allé l'été dernier ?",
+        "reponses": [
+          { "id": "a", "texte": "À Lyon", "correcte": false },
+          { "id": "b", "texte": "À Paris", "correcte": true },
+          { "id": "c", "texte": "À Marseille", "correcte": false },
+          { "id": "d", "texte": "Au Canada", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-051-02",
+        "question": "De quelle couleur était la valise du narrateur ?",
+        "reponses": [
+          { "id": "a", "texte": "Bleue", "correcte": false },
+          { "id": "b", "texte": "Noire", "correcte": false },
+          { "id": "c", "texte": "Rouge", "correcte": true },
+          { "id": "d", "texte": "Verte", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-051-03",
+        "question": "Comment le narrateur se sentait-il avant le décollage ?",
+        "reponses": [
+          { "id": "a", "texte": "En colère", "correcte": false },
+          { "id": "b", "texte": "Très fatigué", "correcte": false },
+          { "id": "c", "texte": "Il avait un peu peur", "correcte": true },
+          { "id": "d", "texte": "Heureux et calme", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-051-04",
+        "question": "Qui a servi un repas chaud au narrateur ?",
+        "reponses": [
+          { "id": "a", "texte": "Les hôtesses de l'air", "correcte": true },
+          { "id": "b", "texte": "Son père", "correcte": false },
+          { "id": "c", "texte": "Le pilote de l'avion", "correcte": false },
+          { "id": "d", "texte": "Un autre passager", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-051-05",
+        "question": "Qu'est-ce que le narrateur a regardé par la fenêtre ?",
+        "reponses": [
+          { "id": "a", "texte": "Des nuages blancs", "correcte": true },
+          { "id": "b", "texte": "La mer bleue", "correcte": false },
+          { "id": "c", "texte": "Des montagnes vertes", "correcte": false },
+          { "id": "d", "texte": "Des voitures de sport", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "052",
+    "titre": "Un week-end à la campagne",
+    "titre2": "Exercice 052",
+    "texte": [
+      "Pour fuir le bruit de la ville, je suis parti deux jours à la campagne.",
+      "J'ai loué une petite chambre d'hôte chez un fermier très accueillant.",
+      "Le samedi matin, je me suis promené le long de la rivière sous un grand soleil.",
+      "J'ai vu des vaches rousses dans les champs et j'ai écouté le chant des oiseaux.",
+      "Ce séjour au calme m'a permis de me reposer complètement avant de reprendre le travail."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-052-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-052-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-052-01",
+        "question": "Pourquoi le narrateur est-il parti à la campagne ?",
+        "reponses": [
+          { "id": "a", "texte": "Pour acheter une nouvelle voiture", "correcte": false },
+          { "id": "b", "texte": "Pour fuir le bruit de la ville", "correcte": true },
+          { "id": "c", "texte": "Pour visiter un grand musée", "correcte": false },
+          { "id": "d", "texte": "Pour faire des courses au magasin", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-052-02",
+        "question": "Chez qui le narrateur a-t-il loué une chambre ?",
+        "reponses": [
+          { "id": "a", "texte": "Chez son professeur", "correcte": false },
+          { "id": "b", "texte": "Chez un fermier accueillant", "correcte": true },
+          { "id": "c", "texte": "Dans un grand hôtel moderne", "correcte": false },
+          { "id": "d", "texte": "Chez son oncle Paul", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-052-03",
+        "question": "Quand s'est-il promené le long de la rivière ?",
+        "reponses": [
+          { "id": "a", "texte": "Le dimanche soir", "correcte": false },
+          { "id": "b", "texte": "Le samedi matin", "correcte": true },
+          { "id": "c", "texte": "Le vendredi après-midi", "correcte": false },
+          { "id": "d", "texte": "Pendant la nuit noire", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-052-04",
+        "question": "Quels animaux le narrateur a-t-il vus dans les champs ?",
+        "reponses": [
+          { "id": "a", "texte": "Des vaches rousses", "correcte": true },
+          { "id": "b", "texte": "Des chevaux noirs", "correcte": false },
+          { "id": "c", "texte": "Des lapins sauvages", "correcte": false },
+          { "id": "d", "texte": "Des chiens de berger", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-052-05",
+        "question": "Quel a été le principal bénéfice de ce séjour ?",
+        "reponses": [
+          { "id": "a", "texte": "Se reposer complètement", "correcte": true },
+          { "id": "b", "texte": "Gagner de l'argent de poche", "correcte": false },
+          { "id": "c", "texte": "Apprendre à faire du vélo", "correcte": false },
+          { "id": "d", "texte": "Finir ses devoirs d'école", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "053",
+    "titre": "Découvrir une nouvelle ville",
+    "titre2": "Exercice 053",
+    "texte": [
+      "Aujourd'hui, je visite la ville de Bordeaux pour la toute première fois.",
+      "J'ai acheté une carte touristique à l'office du tourisme de la gare centrale.",
+      "Je marche dans la rue piétonne et j'admire l'architecture des anciens bâtiments.",
+      "À midi, je mange une spécialité régionale dans un petit restaurant de la place.",
+      "L'après-midi, je prends le tramway pour aller voir le célèbre miroir d'eau."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-053-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-053-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-053-01",
+        "question": "Quelle ville le narrateur visite-t-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Paris", "correcte": false },
+          { "id": "b", "texte": "Bordeaux", "correcte": true },
+          { "id": "c", "texte": "Nice", "correcte": false },
+          { "id": "d", "texte": "Marseille", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-053-02",
+        "question": "Où a-t-il acheté sa carte touristique ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans une petite boulangerie", "correcte": false },
+          { "id": "b", "texte": "À l'office du tourisme de la gare", "correcte": true },
+          { "id": "c", "texte": "Au musée des sciences", "correcte": false },
+          { "id": "d", "texte": "Dans son hôtel moderne", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-053-03",
+        "question": "Que fait le narrateur dans la rue piétonne ?",
+        "reponses": [
+          { "id": "a", "texte": "Il court pour prendre le bus", "correcte": false },
+          { "id": "b", "texte": "Il admire l'architecture des bâtiments", "correcte": true },
+          { "id": "c", "texte": "Il achète des vêtements de marque", "correcte": false },
+          { "id": "d", "texte": "Il cherche ses clés perdues", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-053-04",
+        "question": "Où mange-t-il une spécialité régionale à midi ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans un petit restaurant de la place", "correcte": true },
+          { "id": "b", "texte": "Chez ses grands-parents de Normandie", "correcte": false },
+          { "id": "c", "texte": "Dans la cuisine de son appartement", "correcte": false },
+          { "id": "d", "texte": "Sur un banc du parc public", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-a2-053-05",
+        "question": "Quel transport prend-il l'après-midi ?",
+        "reponses": [
+          { "id": "a", "texte": "Le tramway", "correcte": true },
+          { "id": "b", "texte": "Un taxi noir", "correcte": false },
+          { "id": "c", "texte": "Son vélo rouge", "correcte": false },
+          { "id": "d", "texte": "Un train rapide", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "054",
+    "titre": "Préparer ses vacances",
+    "titre2": "Exercice 054",
+    "texte": [
+      "Dans deux semaines, je pars enfin en vacances au soleil avec mes meilleurs amis.",
+      "Ce soir, nous nous réunissons pour organiser notre voyage et faire nos réservations.",
+      "Nous choisissons de louer une petite maison près de la plage sur un site internet.",
+      "Je fais une liste écrite des vêtements et objets indispensables à mettre dans mon sac.",
+      "Je dois aussi acheter de la crème solaire et un nouveau maillot de bain bleu."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-a2-054-1", "url": "soundcloud.com" },
+      { "id": "audio-fr-read-a2-054-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-a2-054-01",
+        "question": "Dans combien de temps le narrateur part-il en vacances ?",
+        "reponses": [
+{ "id": "a", "texte": "Demain matin", "correcte": false },
+{ "id": "b", "texte": "Dans deux semaines", "correcte": true },
+{ "id": "c", "texte": "Le mois prochain", "correcte": false },
+{ "id": "d", "texte": "Pendant l'hiver", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-054-02",
+"question": "Avec qui le narrateur part-il au soleil ?",
+"reponses": [
+{ "id": "a", "texte": "Avec ses collègues de bureau", "correcte": false },
+{ "id": "b", "texte": "Avec ses meilleurs amis", "correcte": true },
+{ "id": "c", "texte": "Avec ses grands-parents", "correcte": false },
+{ "id": "d", "texte": "Il voyage seul", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-054-03",
+"question": "Quel type de logement la table choisit-elle ?",
+"reponses": [
+{ "id": "a", "texte": "Une grande chambre d'hôtel de luxe", "correcte": false },
+{ "id": "b", "texte": "Une petite maison près de la plage", "correcte": true },
+{ "id": "c", "texte": "Une caravane ancienne et grise", "correcte": false },
+{ "id": "d", "texte": "Un appartement en centre-ville", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-054-04",
+"question": "Que fait le narrateur pour ne rien oublier ?",
+"reponses": [
+{ "id": "a", "texte": "Une liste écrite des vêtements et objets", "correcte": true },
+{ "id": "b", "texte": "Il appelle sa mère au téléphone", "correcte": false },
+{ "id": "c", "texte": "Il range immédiatement sa chambre", "correcte": false },
+{ "id": "d", "texte": "Il achète une deuxième valise", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-054-05",
+"question": "De quelle couleur est le nouveau maillot de bain ?",
+"reponses": [
+{ "id": "a", "texte": "Bleu", "correcte": true },
+{ "id": "b", "texte": "Rouge", "correcte": false },
+{ "id": "c", "texte": "Noir", "correcte": false },
+{ "id": "d", "texte": "Jaune", "correcte": false }
+]
+}
+]
+},
+{
+"id": "055",
+"titre": "Un voyage en train",
+"titre2": "Exercice 055",
+"texte": [
+"Ce matin, je prends le train pour aller rendre visite à mon oncle à Marseille.",
+"Je valide mon billet électronique sur le quai numéro trois avant de monter.",
+"Je trouve facilement ma place à côté de la fenêtre grâce au numéro inscrit.",
+"Le train roule très vite et traverse de beaux paysages de champs et de forêts.",
+"Pour passer le temps, je lis un roman d'aventure et j'écoute de la musique."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-055-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-055-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-055-01",
+"question": "Chez qui le narrateur se rend-il à Marseille ?",
+"reponses": [
+{ "id": "a", "texte": "Chez ses grands-parents", "correcte": false },
+{ "id": "b", "texte": "Chez mon oncle", "correcte": true },
+{ "id": "c", "texte": "Chez son meilleur ami Julien", "correcte": false },
+{ "id": "d", "texte": "Chez son professeur de français", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-055-02",
+"question": "Sur quel quai le narrateur valide-t-il son billet ?",
+"reponses": [
+{ "id": "a", "texte": "Sur le quai numéro un", "correcte": false },
+{ "id": "b", "texte": "Sur le quai numéro trois", "correcte": true },
+{ "id": "c", "texte": "Sur le quai numéro cinq", "correcte": false },
+{ "id": "d", "texte": "À l'entrée principale de la gare", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-055-03",
+"question": "Où se situe la place du narrateur dans le train ?",
+"reponses": [
+{ "id": "a", "texte": "Près de la porte de sortie", "correcte": false },
+{ "id": "b", "texte": "À côté de la fenêtre", "correcte": true },
+{ "id": "c", "texte": "Au fond du wagon bar", "correcte": false },
+{ "id": "d", "texte": "Au premier rang du train", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-055-04",
+"question": "Quels paysages le train rapide traverse-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Des champs et de belles forêts", "correcte": true },
+{ "id": "b", "texte": "Des montagnes de neige blanche", "correcte": false },
+{ "id": "c", "texte": "De grandes plages de sable fin", "correcte": false },
+{ "id": "d", "texte": "Uniquement des tunnels sombres", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-055-05",
+"question": "Que fait le narrateur pour passer le temps dans le train ?",
+"reponses": [
+{ "id": "a", "texte": "Il lit un roman d'aventure et écoute de la musique", "correcte": true },
+{ "id": "b", "texte": "Il dort pendant tout le trajet de la journée", "correcte": false },
+{ "id": "c", "texte": "Il discute avec le contrôleur du train", "correcte": false },
+{ "id": "d", "texte": "Il dessine sur une feuille blanche", "correcte": false }
+]
+}
+]
+},
+{
+"id": "056",
+"titre": "Une visite au bord de la mer",
+"titre2": "Exercice 056",
+"texte": [
+"Cet après-midi, toute la famille va passer la journée au bord de la mer.",
+"Nous installons notre grand parasol jaune sur le sable chaud de la plage.",
+"Mon petit frère court immédiatement vers l'eau bleue pour nager avec sa bouée.",
+"Ma mère préfère s'allonger sur sa serviette pour lire tranquillement son magazine.",
+"Vers seize heures, nous achetons de délicieuses glaces à la fraise au vendeur ambulant."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-056-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-056-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-056-01",
+"question": "Où la famille va-t-elle passer la journée cet après-midi ?",
+"reponses": [
+{ "id": "a", "texte": "À la montagne pour marcher", "correcte": false },
+{ "id": "b", "texte": "Au bord de la mer", "correcte": true },
+{ "id": "c", "texte": "Dans une grande forêt dense", "correcte": false },
+{ "id": "d", "texte": "Au musée d'art moderne", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-056-02",
+"question": "De quelle couleur est le grand parasol de la famille ?",
+"reponses": [
+{ "id": "a", "texte": "Bleu marine", "correcte": false },
+{ "id": "b", "texte": "Jaune", "correcte": true },
+{ "id": "c", "texte": "Rouge vif", "correcte": false },
+{ "id": "d", "texte": "Vert sapin", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-056-03",
+"question": "Avec quoi le petit frère nage-t-il dans l'eau bleue ?",
+"reponses": [
+{ "id": "a", "texte": "Un grand bateau en plastique", "correcte": false },
+{ "id": "b", "texte": "Avec sa bouée", "correcte": true },
+{ "id": "c", "texte": "Des lunettes de plongée noires", "correcte": false },
+{ "id": "d", "texte": "Il nage tout seul sans aide", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-056-04",
+"question": "Que fait la mère allongée sur sa serviette de plage ?",
+"reponses": [
+{ "id": "a", "texte": "Elle dort au soleil couchant", "correcte": false },
+{ "id": "b", "texte": "Elle lit tranquillement son magazine", "correcte": true },
+{ "id": "c", "texte": "Elle mange des biscuits salés", "correcte": false },
+{ "id": "d", "texte": "Elle regarde les vaches rousses", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-056-05",
+"question": "Quel parfum de glace la famille achète-t-elle à seize heures ?",
+"reponses": [
+{ "id": "a", "texte": "Un parfum vanille traditionnel", "correcte": false },
+{ "id": "b", "texte": "Une glace à la fraise", "correcte": true },
+{ "id": "c", "texte": "Un sorbet au citron frais", "correcte": false },
+{ "id": "d", "texte": "Un cône au chocolat fondant", "correcte": false }
+]
+}
+]
+},
+{
+"id": "057",
+"titre": "Une journée à la montagne",
+"titre2": "Exercice 057",
+"texte": [
+"Dimanche matin, nous partons faire une randonnée en haute montagne.",
+"Nous mettons de bonnes chaussures de marche et nous rangeons nos sacs à dos.",
+"Le chemin grimpe doucement au milieu des grands sapins verts et des rochers.",
+"Au sommet, nous découvrons une vue magnifique sur un grand lac bleu.",
+"Nous mangeons nos sandwichs jambon-fromage sous le soleil avant de redescendre."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-057-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-057-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-057-01",
+"question": "Quelle activité la famille fait-elle dimanche matin ?",
+"reponses": [
+{ "id": "a", "texte": "Une sortie à la piscine olympique", "correcte": false },
+{ "id": "b", "texte": "Une randonnée en haute montagne", "correcte": true },
+{ "id": "c", "texte": "Un grand nettoyage du salon", "correcte": false },
+{ "id": "d", "texte": "Une visite dans une papeterie", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-057-02",
+"question": "Quels types d'arbres le chemin traverse-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Des palmiers tropicaux", "correcte": false },
+{ "id": "b", "texte": "Des grands sapins verts", "correcte": true },
+{ "id": "c", "texte": "Des pommiers du potager", "correcte": false },
+{ "id": "d", "texte": "Le chemin n'a pas d'arbres", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-057-03",
+"question": "Qu'est-ce que la famille découvre une fois arrivée au sommet ?",
+"reponses": [
+{ "id": "a", "texte": "Un petit village de campagne", "correcte": false },
+{ "id": "b", "texte": "Une vue magnifique sur un grand lac bleu", "correcte": true },
+{ "id": "c", "texte": "Une station de bus moderne", "correcte": false },
+{ "id": "d", "texte": "Un restaurant italien fermé", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-057-04",
+"question": "Qu'est-ce que la famille mange pour le repas de midi ?",
+"reponses": [
+{ "id": "a", "texte": "Des pizzas chaudes commandées", "correcte": false },
+{ "id": "b", "texte": "Des sandwichs jambon-fromage", "correcte": true },
+{ "id": "c", "texte": "Une soupe chaude de légumes", "correcte": false },
+{ "id": "d", "texte": "Des croissants frais achetés", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-057-05",
+"question": "Qu'est-ce que les randonneurs mettent à leurs pieds ?",
+"reponses": [
+{ "id": "a", "texte": "Des bottes de pluie en plastique", "correcte": false },
+{ "id": "b", "texte": "De bonnes chaussures de marche", "correcte": true },
+{ "id": "c", "texte": "Des sandales de plage légères", "correcte": false },
+{ "id": "d", "texte": "Des rollers de couleur noire", "correcte": false }
+]
+}
+]
+},
+{
+"id": "058",
+"titre": "Attendre le bus à la station",
+"titre2": "Exercice 058",
+"texte": [
+"Tous les matins, je marche cinq minutes pour aller à la station de bus.",
+"Il y a souvent d'autres élèves de mon collège qui attendent sur le trottoir.",
+"Le bus numéro douze arrive toujours à huit heures moins le quart précise.",
+"Je montre ma carte de transport scolaire au chauffeur avant de monter dedans.",
+"Le trajet dure dix minutes pour arriver juste devant la porte de l'école."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-058-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-058-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-058-01",
+"question": "Combien de temps le narrateur marche-t-il pour aller à la station ?",
+"reponses": [
+{ "id": "a", "texte": "Deux minutes seulement", "correcte": false },
+{ "id": "b", "texte": "Cinq minutes", "correcte": true },
+{ "id": "c", "texte": "Dix minutes complètes", "correcte": false },
+{ "id": "d", "texte": "Une demi-heure de route", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-058-02",
+"question": "Qui attend également sur le trottoir de la station ?",
+"reponses": [
+{ "id": "a", "texte": "Des marchands du marché", "correcte": false },
+{ "id": "b", "texte": "D'autres élèves de son collège", "correcte": true },
+{ "id": "c", "texte": "Le concierge de son immeuble", "correcte": false },
+{ "id": "d", "texte": "Des touristes canadiens", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-058-03",
+"question": "Quel est le numéro du bus que le narrateur prend le matin ?",
+"reponses": [
+{ "id": "a", "texte": "Le bus numéro trois", "correcte": false },
+{ "id": "b", "texte": "Le bus numéro douze", "correcte": true },
+{ "id": "c", "texte": "Le bus numéro quatorze", "correcte": false },
+{ "id": "d", "texte": "Le bus numéro vingt", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-058-04",
+"question": "Qu'est-ce que le narrateur montre au chauffeur avant de monter ?",
+"reponses": [
+{ "id": "a", "texte": "Son nouveau téléphone portable", "correcte": false },
+{ "id": "b", "texte": "Sa carte de transport scolaire", "correcte": true },
+{ "id": "c", "texte": "Un billet en papier de dix euros", "correcte": false },
+{ "id": "d", "texte": "Son cahier d'exercices écrits", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-058-05",
+"question": "Combien de temps le trajet en bus dure-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Cinq minutes rapides", "correcte": false },
+{ "id": "b", "texte": "Dix minutes", "correcte": true },
+{ "id": "c", "texte": "Quinze minutes au total", "correcte": false },
+{ "id": "d", "texte": "Plus d'une heure de trajet", "correcte": false }
+]
+}
+]
+},
+{
+"id": "059",
+"titre": "Une promenade dans un village",
+"titre2": "Exercice 059",
+"texte": [
+"Le samedi après-midi, j'aime visiter les petits villages anciens de la région.",
+"Aujourd'hui, je marche dans les petites rues en pierre d'un village médiéval.",
+"Il y a une jolie fontaine sur la place centrale où les gens s'arrêtent.",
+"J'achète une crêpe au sucre dans une petite boutique traditionnelle du coin.",
+"Les habitants du village sont très gentils et saluent les touristes avec le sourire."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-059-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-059-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-059-01",
+"question": "Quand le narrateur aime-t-il visiter les petits villages ?",
+"reponses": [
+{ "id": "a", "texte": "Le lundi matin très tôt", "correcte": false },
+{ "id": "b", "texte": "Le samedi après-midi", "correcte": true },
+{ "id": "c", "texte": "Le mercredi soir tard", "correcte": false },
+{ "id": "d", "texte": "Pendant les vacances de Noël", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-059-02",
+"question": "Comment sont les rues du village médiéval visité ?",
+"reponses": [
+{ "id": "a", "texte": "Elles sont en goudron noir", "correcte": false },
+{ "id": "b", "texte": "Elles sont en pierre", "correcte": true },
+{ "id": "c", "texte": "Elles sont pleines de boue verte", "correcte": false },
+{ "id": "d", "texte": "Ce sont de très grandes avenues", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-059-03",
+"question": "Qu'est-ce qui se trouve sur la place centrale du village ?",
+"reponses": [
+{ "id": "a", "texte": "Un grand cinéma moderne", "correcte": false },
+{ "id": "b", "texte": "Une jolie fontaine d'eau", "correcte": true },
+{ "id": "c", "texte": "Une gare ferroviaire ancienne", "correcte": false },
+{ "id": "d", "texte": "Un grand terrain de football", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-059-04",
+"question": "Qu'est-ce que le narrateur achète dans la petite boutique ?",
+"reponses": [
+{ "id": "a", "texte": "Une glace artisanale vanille", "correcte": false },
+{ "id": "b", "texte": "Une crêpe au sucre", "correcte": true },
+{ "id": "c", "texte": "Un sandwich au poisson frais", "correcte": false },
+{ "id": "d", "texte": "Un livre de contes anciens", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-059-05",
+"question": "Comment les habitants saluent-ils les touristes de passage ?",
+"reponses": [
+{ "id": "a", "texte": "Avec colère et méchanceté", "correcte": false },
+{ "id": "b", "texte": "Avec le sourire aux lèvres", "correcte": true },
+{ "id": "c", "texte": "Ils refusent de parler aux gens", "correcte": false },
+{ "id": "d", "texte": "En leur donnant de l'argent", "correcte": false }
+]
+}
+]
+},
+{
+"id": "060",
+"titre": "Les préparatifs d'un voyage scolaire",
+"titre2": "Exercice 060",
+"texte": [
+"Demain, notre classe part pour un grand voyage scolaire de trois jours.",
+"Le professeur nous a donné une feuille avec la liste des affaires obligatoires.",
+"Je range soigneusement deux pantalons de sport et trois t-shirts dans mon sac.",
+"N'oublie pas ma trousse de toilette avec ma brosse à dents et mon savon.",
+"Je suis très impatient de partir pour découvrir un nouveau musée avec mes copains."
+],
+"audios": [
+{ "id": "audio-fr-read-a2-060-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-a2-060-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-a2-060-01",
+"question": "Combien de temps le voyage scolaire va-t-il durer ?",
+"reponses": [
+{ "id": "a", "texte": "Une seule journée complète", "correcte": false },
+{ "id": "b", "texte": "Trois jours complets", "correcte": true },
+{ "id": "c", "texte": "Une semaine entière en Bretagne", "correcte": false },
+{ "id": "d", "texte": "Plus de deux semaines de route", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-060-02",
+"question": "Qui a donné la liste des affaires obligatoires aux élèves ?",
+"reponses": [
+{ "id": "a", "texte": "Le directeur de la papeterie", "correcte": false },
+{ "id": "b", "texte": "Le professeur de la classe", "correcte": true },
+{ "id": "c", "texte": "La mère du narrateur Sophie", "correcte": false },
+{ "id": "d", "texte": "Le guide touristique du musée", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-060-03",
+"question": "Combien de t-shirts le narrateur range-t-il dans son sac ?",
+"reponses": [
+{ "id": "a", "texte": "Un seul t-shirt blanc brillant", "correcte": false },
+{ "id": "b", "texte": "Trois t-shirts de couleur", "correcte": true },
+{ "id": "c", "texte": "Cinq t-shirts de rechange", "correcte": false },
+{ "id": "d", "texte": "Il n'en prend aucun avec lui", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-060-04",
+"question": "Quels objets se trouvent dans la trousse de toilette du narrateur ?",
+"reponses": [
+{ "id": "a", "texte": "Des stylos de couleur et des cahiers", "correcte": false },
+{ "id": "b", "texte": "Une brosse à dents et du savon", "correcte": true },
+{ "id": "c", "texte": "Des biscuits et une bouteille de jus", "correcte": false },
+{ "id": "d", "texte": "Des pansements et de la crème solaire", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-a2-060-05",
+"question": "Qu'est-ce que les élèves vont découvrir pendant ce voyage ?",
+"reponses": [
+{ "id": "a", "texte": "Une grande plage de sable fin", "correcte": false },
+{ "id": "b", "texte": "Un tout nouveau musée de la ville", "correcte": true },
+{ "id": "c", "texte": "Une piscine olympique couverte", "correcte": false },
+{ "id": "d", "texte": "Le grand jardin de Monsieur Paul", "correcte": false }
+]
+}
+]
 }
 ]
