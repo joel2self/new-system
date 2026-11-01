@@ -1,5 +1,53 @@
 [
   {
+    "id": "001",
+    "titre": "Adjetivos",
+    "definition": "Os adjetivos são palavras que caracterizam ou qualificam os substantivos, indicando propriedades, estados, qualidades ou características. Podem expressar avaliações, intensidade, origem, aparência ou comportamentos.",
+    "instruction": "Complete cada frase com o adjetivo mais adequado ao contexto.",
+    "questions": [
+      {
+        "text": "A investigação revelou resultados {{1}}, que contradizem algumas teorias anteriormente aceites.",
+        "answers": ["surpreendentes"]
+      },
+      {
+        "text": "Apesar das dificuldades financeiras, a organização manteve uma posição {{1}} perante os seus compromissos sociais.",
+        "answers": ["responsável"]
+      },
+      {
+        "text": "A decisão foi considerada {{1}} porque não teve em conta as consequências para os trabalhadores.",
+        "answers": ["precipitada"]
+      },
+      {
+        "text": "O relatório apresenta uma análise {{1}} dos fatores que influenciaram o crescimento económico.",
+        "answers": ["abrangente"]
+      },
+      {
+        "text": "A empresa procura profissionais {{1}}, capazes de encontrar soluções originais para problemas complexos.",
+        "answers": ["criativos"]
+      },
+      {
+        "text": "A ausência de provas {{1}} tornou impossível confirmar a responsabilidade dos suspeitos.",
+        "answers": ["conclusivas"]
+      },
+      {
+        "text": "O investigador adotou uma abordagem {{1}} para evitar qualquer influência das suas opiniões pessoais.",
+        "answers": ["imparcial"]
+      },
+      {
+        "text": "As medidas implementadas tiveram um impacto {{1}} na redução das desigualdades sociais.",
+        "answers": ["significativo"]
+      },
+      {
+        "text": "Embora fosse {{1}}, o projeto demonstrou ser economicamente viável a longo prazo.",
+        "answers": ["ambicioso"]
+      },
+      {
+        "text": "A preservação dos recursos naturais exige políticas {{1}} e uma participação ativa da população.",
+        "answers": ["sustentáveis"]
+      }
+    ]
+  },
+ {
     "id": "002",
     "titre": "Preposições",
     "definition": "As preposições são palavras invariáveis que estabelecem relações de sentido entre diferentes elementos da frase, indicando origem, destino, causa, finalidade, modo, companhia, tempo ou lugar.",
