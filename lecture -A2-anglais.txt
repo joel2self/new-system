@@ -1,9 +1,1412 @@
+[
+  {
+    "id": "001",
+    "titre": "My Usual Day",
+    "titre2": "Exercise 001",
+    "texte": [
+      "Every weekday, I wake up at seven o'clock in the morning to get ready for school.",
+      "I take a quick shower and put on some comfortable clothes for the day.",
+      "Then, I go downstairs to the kitchen to drink a cup of tea and read a book.",
+      "I leave my house at eight o'clock to catch the local bus that goes to the city center.",
+      "In the evening, after a long day of study, I return home tired but happy."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-001-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-001-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-001-01",
+        "question": "What time does the narrator wake up in the morning?",
+        "reponses": [
+          { "id": "a", "texte": "At six o'clock", "correcte": false },
+          { "id": "b", "texte": "At seven o'clock", "correcte": true },
+          { "id": "c", "texte": "At eight o'clock", "correcte": false },
+          { "id": "d", "texte": "At nine o'clock", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-001-02",
+        "question": "What kind of clothes does the narrator choose to wear?",
+        "reponses": [
+          { "id": "a", "texte": "Elegant clothes", "correcte": false },
+          { "id": "b", "texte": "Sport clothes", "correcte": false },
+          { "id": "c", "texte": "Comfortable clothes", "correcte": true },
+          { "id": "d", "texte": "A black suit", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-001-03",
+        "question": "What does the narrator drink in the kitchen?",
+        "reponses": [
+          { "id": "a", "texte": "A glass of milk", "correcte": false },
+          { "id": "b", "texte": "A cup of coffee", "correcte": false },
+          { "id": "c", "texte": "A cup of tea", "correcte": true },
+          { "id": "d", "texte": "A cold juice", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-001-04",
+        "question": "How does the narrator travel to the city center?",
+        "reponses": [
+          { "id": "a", "texte": "By catching the local bus", "correcte": true },
+          { "id": "b", "texte": "By driving a car", "correcte": false },
+          { "id": "c", "texte": "By riding a bicycle", "correcte": false },
+          { "id": "d", "texte": "By taking the train", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-001-05",
+        "question": "How does the narrator feel when returning home in the evening?",
+        "reponses": [
+          { "id": "a", "texte": "Tired but happy", "correcte": true },
+          { "id": "b", "texte": "Angry and stressed", "correcte": false },
+          { "id": "c", "texte": "Sad and lonely", "correcte": false },
+          { "id": "d", "texte": "Full of energy", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Waking Up and Getting Ready in the Morning",
+    "titre2": "Exercise 002",
+    "texte": [
+      "My alarm clock always rings at half past six, which is a bit early for me.",
+      "I often stay in bed for five more minutes before I finally stand up.",
+      "In the bathroom, I wash my face with cold water to wake myself up completely.",
+      "I brush my teeth carefully and comb my short hair in front of the large mirror.",
+      "When I am finally ready, I pack my school bag with all my important books."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-002-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-002-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-002-01",
+        "question": "What time does the alarm clock ring?",
+        "reponses": [
+          { "id": "a", "texte": "At six o'clock", "correcte": false },
+          { "id": "b", "texte": "At half past six", "correcte": true },
+          { "id": "c", "texte": "At seven o'clock", "correcte": false },
+          { "id": "d", "texte": "At half past seven", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-002-02",
+        "question": "How long does the narrator stay in bed after the alarm?",
+        "reponses": [
+          { "id": "a", "texte": "Ten minutes", "correcte": false },
+          { "id": "b", "texte": "Half an hour", "correcte": false },
+          { "id": "c", "texte": "Five minutes", "correcte": true },
+          { "id": "d", "texte": "No time at all", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-002-03",
+        "question": "Why does the narrator wash their face with cold water?",
+        "reponses": [
+          { "id": "a", "texte": "Because there is no hot water", "correcte": false },
+          { "id": "b", "texte": "Because it is good for the skin", "correcte": false },
+          { "id": "c", "texte": "To wake up completely", "correcte": true },
+          { "id": "d", "texte": "To clean a dark spot", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-002-04",
+        "question": "Where does the narrator comb their short hair?",
+        "reponses": [
+          { "id": "a", "texte": "In front of the large mirror", "correcte": true },
+          { "id": "b", "texte": "In the small bedroom", "correcte": false },
+          { "id": "c", "texte": "In the long hallway", "correcte": false },
+          { "id": "d", "texte": "Inside the elevator", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-002-05",
+        "question": "What does the narrator do when finally ready?",
+        "reponses": [
+          { "id": "a", "texte": "Packs the school bag with important books", "correcte": true },
+          { "id": "b", "texte": "Watches an animated cartoon", "correcte": false },
+          { "id": "c", "texte": "Calls a close friend on the phone", "correcte": false },
+          { "id": "d", "texte": "Goes back to sleep immediately", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "My Favorite Breakfast",
+    "titre2": "Exercise 003",
+    "texte": [
+      "In the morning, breakfast is the most important and enjoyable meal for me.",
+      "I love eating two fresh croissants bought from the local bakery down the street.",
+      "I also drink a large glass of fresh orange juice to get plenty of vitamins.",
+      "Sometimes, when I have enough time, I eat yogurt with small fruit pieces.",
+      "This quiet moment allows me to start my day with excellent positive energy."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-003-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-003-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-003-01",
+        "question": "Which meal is the most important for the narrator in the morning?",
+        "reponses": [
+          { "id": "a", "texte": "Lunch", "correcte": false },
+          { "id": "b", "texte": "Breakfast", "correcte": true },
+          { "id": "c", "texte": "Dinner", "correcte": false },
+          { "id": "d", "texte": "Snack", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-003-02",
+        "question": "Where does the narrator buy the fresh croissants?",
+        "reponses": [
+          { "id": "a", "texte": "At the big supermarket", "correcte": false },
+          { "id": "b", "texte": "At the central market", "correcte": false },
+          { "id": "c", "texte": "From the local bakery", "correcte": true },
+          { "id": "d", "texte": "At a gas station shop", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-003-03",
+        "question": "What does the narrator drink to get vitamins?",
+        "reponses": [
+          { "id": "a", "texte": "A cup of green tea", "correcte": false },
+          { "id": "b", "texte": "A warm chocolate drink", "correcte": false },
+          { "id": "c", "texte": "A large glass of orange juice", "correcte": true },
+          { "id": "d", "texte": "A bottle of sparkling water", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-003-04",
+        "question": "What does the narrator eat when there is enough time?",
+        "reponses": [
+          { "id": "a", "texte": "Yogurt with small fruit pieces", "correcte": true },
+          { "id": "b", "texte": "Fried eggs with salty bacon", "correcte": false },
+          { "id": "c", "texte": "Toast with sweet strawberry jam", "correcte": false },
+          { "id": "d", "texte": "A bowl of warm white rice", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-003-05",
+        "question": "What is the advantage of this quiet morning moment?",
+        "reponses": [
+          { "id": "a", "texte": "To start the day with excellent positive energy", "correcte": true },
+          { "id": "b", "texte": "To sleep much longer in bed", "correcte": false },
+          { "id": "c", "texte": "To avoid going to school or work", "correcte": false },
+          { "id": "d", "texte": "To finish late homework tasks", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "A Busy Day",
+    "titre2": "Exercise 004",
+    "texte": [
+      "Today, I have a very busy schedule with many important things to do.",
+      "I start by working on a difficult project with my office colleagues.",
+      "At noon, we eat lunch quickly in a small Italian restaurant just next door.",
+      "In the afternoon, I have to reply to many emails and make urgent phone calls.",
+      "Even though the day is tiring, I like to stay active and finish my tasks."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-004-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-004-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-004-01",
+        "question": "How is the narrator's schedule today?",
+        "reponses": [
+{ "id": "a", "texte": "Very quiet", "correcte": false },
+{ "id": "b", "texte": "Very busy", "correcte": true },
+{ "id": "c", "texte": "Boring", "correcte": false },
+{ "id": "d", "texte": "Empty", "correcte": false }
+]
+},
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+"id": "q-en-read-a2-004-02",
+"question": "Who does the narrator work with on the difficult project?",
+"reponses": [
+{ "id": "a", "texte": "With family members", "correcte": false },
+{ "id": "b", "texte": "With local neighbors", "correcte": false },
+{ "id": "c", "texte": "With office colleagues", "correcte": true },
+{ "id": "d", "texte": "Completely alone", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-004-03",
+"question": "What kind of restaurant do they go to at noon?",
+"reponses": [
+{ "id": "a", "texte": "A Chinese restaurant", "correcte": false },
+{ "id": "b", "texte": "A traditional French restaurant", "correcte": false },
+{ "id": "c", "texte": "A small Italian restaurant", "correcte": true },
+{ "id": "d", "texte": "A large station cafeteria", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-004-04",
+"question": "What must the narrator do in the afternoon?",
+"reponses": [
+{ "id": "a", "texte": "Reply to emails and make phone calls", "correcte": true },
+{ "id": "b", "texte": "Take a one-hour relaxing nap", "correcte": false },
+{ "id": "c", "texte": "Visit a modern art museum", "correcte": false },
+{ "id": "d", "texte": "Clean the company offices", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-004-05",
+"question": "What does the narrator like to do despite being tired?",
+"reponses": [
+{ "id": "a", "texte": "Stay active and finish tasks", "correcte": true },
+{ "id": "b", "texte": "Leave the office early", "correcte": false },
+{ "id": "c", "texte": "Complain to the director", "correcte": false },
+{ "id": "d", "texte": "Change jobs immediately", "correcte": false }
+]
 }
+]
+},
+{
+"id": "005",
+"titre": "My Activities After School",
+"titre2": "Exercise 005",
+"texte": [
+"As soon as school finishes at four o'clock, I join my sport club.",
+"I play football with my friends twice a week on the local field.",
+"It is a great way to relax and have fun after a long day of study.",
+"On other days, I prefer to go to the central library to do my homework.",
+"I walk back home at around half past six to have dinner with my parents."
+],
+"audios": [
+{ "id": "audio-en-read-a2-005-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-005-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-005-01",
+"question": "What time does school finish?",
+"reponses": [
+{ "id": "a", "texte": "At two o'clock", "correcte": false },
+{ "id": "b", "texte": "At four o'clock", "correcte": true },
+{ "id": "c", "texte": "At five o'clock", "correcte": false },
+{ "id": "d", "texte": "At six o'clock", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-005-02",
+"question": "What sport does the narrator play with friends?",
+"reponses": [
+{ "id": "a", "texte": "Basketball", "correcte": false },
+{ "id": "b", "texte": "Table tennis", "correcte": false },
+{ "id": "c", "texte": "Football", "correcte": true },
+{ "id": "d", "texte": "Swimming", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-005-03",
+"question": "How often does the narrator play on the local field?",
+"reponses": [
+{ "id": "a", "texte": "Once a week", "correcte": false },
+{ "id": "b", "texte": "Every single day", "correcte": false },
+{ "id": "c", "texte": "Twice a week", "correcte": true },
+{ "id": "d", "texte": "Three times a month", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-005-04",
+"question": "Where does the narrator go on other days to do homework?",
+"reponses": [
+{ "id": "a", "texte": "To the central library", "correcte": true },
+{ "id": "b", "texte": "To a noisy internet cafe", "correcte": false },
+{ "id": "c", "texte": "To grandfather's house", "correcte": false },
+{ "id": "d", "texte": "To a public park", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-005-05",
+"question": "What time does the narrator return home for dinner?",
+"reponses": [
+{ "id": "a", "texte": "Around half past six", "correcte": true },
+{ "id": "b", "texte": "At eight o'clock sharp", "correcte": false },
+{ "id": "c", "texte": "Late at night", "correcte": false },
+{ "id": "d", "texte": "At midday", "correcte": false }
+]
+}
+]
+},
+{
+"id": "006",
+"titre": "An Evening with the Family",
+"titre2": "Exercise 006",
+"texte": [
+"In the evening, the whole family meets in the dining room for a good meal.",
+"My mother often cooks hot soup and a delicious roasted chicken.",
+"During dinner, we talk about our day and share funny stories together.",
+"After clearing the table, we like to watch a comedy movie in the living room.",
+"It is a lovely sweet moment that makes our family bonds stronger before bed."
+],
+"audios": [
+{ "id": "audio-en-read-a2-006-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-006-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-006-01",
+"question": "Where does the family meet to eat dinner?",
+"reponses": [
+{ "id": "a", "texte": "In the kitchen", "correcte": false },
+{ "id": "b", "texte": "In the dining room", "correcte": true },
+{ "id": "c", "texte": "On the balcony", "correcte": false },
+{ "id": "d", "texte": "In the garden", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-006-02",
+"question": "What does the mother often cook for the meal?",
+"reponses": [
+{ "id": "a", "texte": "Cheese pizza", "correcte": false },
+{ "id": "b", "texte": "Grilled fish", "correcte": false },
+{ "id": "c", "texte": "Hot soup and roasted chicken", "correcte": true },
+{ "id": "d", "texte": "A simple green salad", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-006-03",
+"question": "What does the family do during dinner?",
+"reponses": [
+{ "id": "a", "texte": "They watch the news in silence", "correcte": false },
+{ "id": "b", "texte": "Everyone uses their mobile phone", "correcte": false },
+{ "id": "c", "texte": "They talk about their day and share stories", "correcte": true },
+{ "id": "d", "texte": "They fight over the food items", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-006-04",
+"question": "What kind of movie do they watch in the living room?",
+"reponses": [
+{ "id": "a", "texte": "A comedy movie", "correcte": true },
+{ "id": "b", "texte": "A scary horror movie", "correcte": false },
+{ "id": "c", "texte": "A historical documentary", "correcte": false },
+{ "id": "d", "texte": "An American action film", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-006-05",
+"question": "What is the purpose of this nice family moment?",
+"reponses": [
+{ "id": "a", "texte": "To make family bonds stronger", "correcte": true },
+{ "id": "b", "texte": "To waste time uselessly", "correcte": false },
+{ "id": "c", "texte": "To work later at night", "correcte": false },
+{ "id": "d", "texte": "To learn a new language", "correcte": false }
+]
+}
+]
+},
+{
+"id": "007",
+"titre": "My Weekend Plans",
+"titre2": "Exercise 007",
+"texte": [
+"On weekends, I do not need to wake up early, so I sleep in late.",
+"On Saturday afternoon, I usually meet my friends to go to the cinema.",
+"On Sunday morning, I prefer to take a long bicycle ride in the forest.",
+"Afterwards, I have lunch at my grandparents' house in a quiet village.",
+"It is the perfect time to rest and forget the stress of the whole week."
+],
+"audios": [
+{ "id": "audio-en-read-a2-007-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-007-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-007-01",
+"question": "What does the narrator do on weekend mornings?",
+"reponses": [
+{ "id": "a", "texte": "Wakes up much earlier", "correcte": false },
+{ "id": "b", "texte": "Sleeps in late", "correcte": true },
+{ "id": "c", "texte": "Goes running immediately", "correcte": false },
+{ "id": "d", "texte": "Starts studying lessons", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-007-02",
+"question": "Where does the narrator go with friends on Saturday afternoon?",
+"reponses": [
+{ "id": "a", "texte": "To the beach", "correcte": false },
+{ "id": "b", "texte": "To the shopping mall", "correcte": false },
+{ "id": "c", "texte": "To the cinema", "correcte": true },
+{ "id": "d", "texte": "To the local swimming pool", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-007-03",
+"question": "Where does the narrator ride the bicycle on Sunday morning?",
+"reponses": [
+{ "id": "a", "texte": "Around the town roads", "correcte": false },
+{ "id": "b", "texte": "Around the local neighborhood", "correcte": false },
+{ "id": "c", "texte": "In the forest", "correcte": true },
+{ "id": "d", "texte": "On an athletic track", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-007-04",
+"question": "Who does the narrator have lunch with on Sunday?",
+"reponses": [
+{ "id": "a", "texte": "With grandparents", "correcte": true },
+{ "id": "b", "texte": "With a best friend", "correcte": false },
+{ "id": "c", "texte": "With a school teacher", "correcte": false },
+{ "id": "d", "texte": "Alone in a cafe shop", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-007-05",
+"question": "Why is this weekend schedule perfect?",
+"reponses": [
+{ "id": "a", "texte": "To rest and forget weekly stress", "correcte": true },
+{ "id": "b", "texte": "To spend a lot of money", "correcte": false },
+{ "id": "c", "texte": "To look for a new job", "correcte": false },
+{ "id": "d", "texte": "To clean the whole bedroom", "correcte": false }
+]
+}
+]
+},
+{
+"id": "008",
+"titre": "Shopping at the Supermarket",
+"titre2": "Exercise 008",
+"texte": [
+"Every Saturday morning, I take a large trolley to do the weekly shopping.",
+"I always start in the fruit and vegetable section to buy green apples.",
+"Then, I go to look for some milk, goat cheese, and a packet of white rice.",
+"There are often many people at the checkouts, so I must wait patiently.",
+"Once I pay, I carefully pack all the grocery products into my bags."
+],
+"audios": [
+{ "id": "audio-en-read-a2-008-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-008-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-008-01",
+"question": "When does the narrator go shopping?",
+"reponses": [
+{ "id": "a", "texte": "On Monday evening", "correcte": false },
+{ "id": "b", "texte": "On Saturday morning", "correcte": true },
+{ "id": "c", "texte": "On Wednesday afternoon", "correcte": false },
+{ "id": "d", "texte": "On Sunday night", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-008-02",
+"question": "Which section does the narrator start shopping in?",
+"reponses": [
+{ "id": "a", "texte": "The drinks section", "correcte": false },
+{ "id": "b", "texte": "The bakery section", "correcte": false },
+{ "id": "c", "texte": "The fruit and vegetable section", "correcte": true },
+{ "id": "d", "texte": "The frozen food section", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-008-03",
+"question": "What specific fruit does the narrator buy?",
+"reponses": [
+{ "id": "a", "texte": "Yellow bananas", "correcte": false },
+{ "id": "b", "texte": "Sweet oranges", "correcte": false },
+{ "id": "c", "texte": "Green apples", "correcte": true },
+{ "id": "d", "texte": "Red strawberries", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-008-04",
+"question": "Why must the narrator wait patiently at the checkouts?",
+"reponses": [
+{ "id": "a", "texte": "Because there are many people", "correcte": true },
+{ "id": "b", "texte": "Because computers are broken", "correcte": false },
+{ "id": "c", "texte": "Because money was lost", "correcte": false },
+{ "id": "d", "texte": "Because of talking to a friend", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-008-05",
+"question": "Where are the products put after they are paid for?",
+"reponses": [
+{ "id": "a", "texte": "Into the bags", "correcte": true },
+{ "id": "b", "texte": "Directly into coat pockets", "correcte": false },
+{ "id": "c", "texte": "They are left at the shop", "correcte": false },
+{ "id": "d", "texte": "In the neighbor's car", "correcte": false }
+]
+}
+]
+},
+{
+"id": "009",
+"titre": "A Visit to a Neighbor",
+"titre2": "Exercise 009",
+"texte": [
+"Yesterday afternoon, I went to knock on the door of my kind neighbor, Mr. Paul.",
+"He warmly invited me to come inside to drink a cup of hot tea together.",
+"We talked about the weather and the beautiful flowers in his small front garden.",
+"He is an interesting elderly man who traveled a lot during his youth.",
+"Before leaving, I thanked him for his welcome and for this nice moment."
+],
+"audios": [
+{ "id": "audio-en-read-a2-009-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-009-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-009-01",
+"question": "What is the name of the narrator's neighbor?",
+"reponses": [
+{ "id": "a", "texte": "Mr. John", "correcte": false },
+{ "id": "b", "texte": "Mr. Paul", "correcte": true },
+{ "id": "c", "texte": "Mr. Michael", "correcte": false },
+{ "id": "d", "texte": "Mr. Peter", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-009-02",
+"question": "What drink does the neighbor offer?",
+"reponses": [
+{ "id": "a", "texte": "A glass of cold juice", "correcte": false },
+{ "id": "b", "texte": "A warm cup of coffee", "correcte": false },
+{ "id": "c", "texte": "A cup of hot tea", "correcte": true },
+{ "id": "d", "texte": "A simple glass of water", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-009-03",
+"question": "What topics did they talk about together?",
+"reponses": [
+{ "id": "a", "texte": "Current political news", "correcte": false },
+{ "id": "b", "texte": "Building structure problems", "correcte": false },
+{ "id": "c", "texte": "The weather and garden flowers", "correcte": true },
+{ "id": "d", "texte": "The expensive price of food", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-009-04",
+"question": "What did the neighbor do during his youth?",
+"reponses": [
+{ "id": "a", "texte": "He traveled a lot", "correcte": true },
+{ "id": "b", "texte": "He worked in a dark mine", "correcte": false },
+{ "id": "c", "texte": "He played professional sport", "correcte": false },
+{ "id": "d", "texte": "He wrote school textbooks", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-009-05",
+"question": "What does the narrator do just before leaving?",
+"reponses": [
+{ "id": "a", "texte": "Thanks him for the welcome", "correcte": true },
+{ "id": "b", "texte": "Asks him for some money", "correcte": false },
+{ "id": "c", "texte": "Cleans the living room table", "correcte": false },
+{ "id": "d", "texte": "Forgets the winter coat there", "correcte": false }
+]
+}
+]
+},
+{
+"id": "010",
+"titre": "Household Chores at Home",
+"titre2": "Exercise 010",
+"texte": [
+"To keep our apartment clean, everyone must help with the household chores.",
+"Today, it is my turn to vacuum the floor in the living room and hallway.",
+"Afterwards, I have to clean the large glass table in the dining room.",
+"My little brother takes care of emptying the kitchen bin and tidy his toys.",
+"When we work together, our family home becomes clean very quickly."
+],
+"audios": [
+{ "id": "audio-en-read-a2-010-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-010-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-010-01",
+"question": "Why does the family do household chores?",
+"reponses": [
+{ "id": "a", "texte": "To pass time on weekends", "correcte": false },
+{ "id": "b", "texte": "To keep the apartment clean", "correcte": true },
+{ "id": "c", "texte": "Because it is a punishment", "correcte": false },
+{ "id": "d", "texte": "To do physical exercise", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-010-02",
+"question": "What is the narrator's main task today?",
+"reponses": [
+{ "id": "a", "texte": "To wash dirty clothes", "correcte": false },
+{ "id": "b", "texte": "To cook the evening meal", "correcte": false },
+{ "id": "c", "texte": "To vacuum the living room and hallway", "correcte": true },
+{ "id": "d", "texte": "To water the green plants", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-010-03",
+"question": "Which piece of furniture must the narrator clean next?",
+"reponses": [
+{ "id": "a", "texte": "The bedroom window glass", "correcte": false },
+{ "id": "b", "texte": "The main entrance door", "correcte": false },
+{ "id": "c", "texte": "The large dining room table", "correcte": true },
+{ "id": "d", "texte": "The bathroom mirror", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-010-04",
+"question": "What is the little brother responsible for?",
+"reponses": [
+{ "id": "a", "texte": "Emptying the bin and tidying toys", "correcte": true },
+{ "id": "b", "texte": "Buying groceries at the market", "correcte": false },
+{ "id": "c", "texte": "Fixing the broken television", "correcte": false },
+{ "id": "d", "texte": "Washing the family car outside", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-010-05",
+"question": "What happens when the family works together?",
+"reponses": [
+{ "id": "a", "texte": "The home becomes clean quickly", "correcte": true },
+{ "id": "b", "texte": "Everyone gets tired too fast", "correcte": false },
+{ "id": "c", "texte": "The chores are badly done", "correcte": false },
+{ "id": "d", "texte": "They decide to go to a restaurant", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "011",
+    "titre": "Introducing My Family",
+    "titre2": "Exercise 011",
+    "texte": [
+      "My family is not very big, but we are extremely close and we love spending time together whenever it is possible.",
+      "We live in a nice house with a small beautiful flower garden located in the quiet suburbs of Manchester, England.",
+      "My father's name is Thomas, he is forty-five years old and works as a structural engineer in a big construction company.",
+      "My mother's name is Sophie, she is forty-two years old and works as a kind nurse in the main local general hospital.",
+      "I also have a sweet little brother whose name is Lucas, he is ten years old and goes to primary school.",
+      "Lucas absolutely loves playing football with his school friends on the green grass field every single afternoon after his classes.",
+      "On weekends, we often organize outdoor activities like hiking in the green mountains or having nice picnics near the long river.",
+      "Every evening, after a long day of work or study, we always meet in the kitchen to prepare dinner together.",
+      "This is a very special moment where everyone talks about their daily adventures, successful stories, or small personal difficulties.",
+      "I think I am very lucky to have such a warm, caring family that is always ready to help each other."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-011-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-011-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-011-01",
+        "question": "Where does the narrator's family live?",
+        "reponses": [
+          { "id": "a", "texte": "In the center of London", "correcte": false },
+          { "id": "b", "texte": "In the suburbs of Manchester", "correcte": true },
+          { "id": "c", "texte": "Near a beach in Liverpool", "correcte": false },
+          { "id": "d", "texte": "In a small village in Canada", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-011-02",
+        "question": "What is the mother's profession in the text?",
+        "reponses": [
+          { "id": "a", "texte": "She is a primary school teacher", "correcte": false },
+          { "id": "b", "texte": "She works as a construction engineer", "correcte": false },
+          { "id": "c", "texte": "She is a nurse in a hospital", "correcte": true },
+          { "id": "d", "texte": "She sells colorful flowers", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-011-03",
+        "question": "How old is the little brother Lucas?",
+        "reponses": [
+          { "id": "a", "texte": "Five years old", "correcte": false },
+          { "id": "b", "texte": "Eight years old", "correcte": false },
+          { "id": "c", "texte": "Ten years old", "correcte": true },
+          { "id": "d", "texte": "Twelve years old", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-011-04",
+        "question": "Where does the family meet every evening to talk?",
+        "reponses": [
+          { "id": "a", "texte": "In the kitchen while preparing dinner", "correcte": true },
+          { "id": "b", "texte": "In the small flower garden outside", "correcte": false },
+          { "id": "c", "texte": "Inside the parents' bedroom", "correcte": false },
+          { "id": "d", "texte": "At the local cinema room", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-011-05",
+        "question": "What weekend activity is explicitly mentioned in the text?",
+        "reponses": [
+          { "id": "a", "texte": "Hiking in the mountains or picnics near the river", "correcte": true },
+          { "id": "b", "texte": "Staying at home to paint the bedroom walls", "correcte": false },
+          { "id": "c", "texte": "Going shopping in a big department store", "correcte": false },
+          { "id": "d", "texte": "Buying a new fast sports car", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "My Sister's Birthday",
+    "titre2": "Exercise 012",
+    "texte": [
+      "Last Saturday, we celebrated a very important date: the twentieth birthday of my elder sister, Emily.",
+      "For this special occasion, the whole family worked hard since the morning to prepare a memorable surprise party.",
+      "While Emily was out shopping with a close friend, we decorated the entire living room of our house.",
+      "We hung multicolored balloons from the ceiling and placed a nice bright banner on the main wall.",
+      "My mother spent several hours in the kitchen to bake her famous birthday cake with melting dark chocolate.",
+      "At around five o'clock, my sister finally returned home and everyone shouted 'Happy Birthday' at the same time.",
+      "She was so surprised and happy that she had tears in her eyes when she saw all the beautiful decorations.",
+      "Then, she blew out her twenty magic candles under the warm applause of all our wonderful guests.",
+      "We gave her our presents, including a magnificent camera that she wanted to have for many months.",
+      "The evening continued late into the night with joyful music, funny dances, and a lot of happy conversations."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-012-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-012-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-012-01",
+        "question": "Which birthday did Emily celebrate last Saturday?",
+        "reponses": [
+          { "id": "a", "texte": "Her fifteenth birthday", "correcte": false },
+          { "id": "b", "texte": "Her eighteenth birthday", "correcte": false },
+          { "id": "c", "texte": "Her twentieth birthday", "correcte": true },
+          { "id": "d", "texte": "Her twenty-fifth birthday", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-012-02",
+        "question": "What was Emily doing while the family prepared the surprise?",
+        "reponses": [
+          { "id": "a", "texte": "She was sleeping in her bedroom", "correcte": false },
+          { "id": "b", "texte": "She was studying at the library", "correcte": false },
+          { "id": "c", "texte": "She was out shopping with a friend", "correcte": true },
+          { "id": "d", "texte": "She was working in her office", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-012-03",
+        "question": "What kind of cake did the mother bake?",
+        "reponses": [
+          { "id": "a", "texte": "An apple pie", "correcte": false },
+          { "id": "b", "texte": "A melting dark chocolate cake", "correcte": true },
+          { "id": "c", "texte": "A fresh strawberry cake", "correcte": false },
+          { "id": "d", "texte": "A simple vanilla cake", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-012-04",
+        "question": "How did Emily react when she entered the house?",
+        "reponses": [
+          { "id": "a", "texte": "She was angry about the noise", "correcte": false },
+          { "id": "b", "texte": "She was surprised and happy", "correcte": true },
+          { "id": "c", "texte": "She left the house immediately", "correcte": false },
+          { "id": "d", "texte": "She did not say anything at all", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-012-05",
+        "question": "What main present did Emily receive from her family?",
+        "reponses": [
+          { "id": "a", "texte": "A magnificent camera", "correcte": true },
+          { "id": "b", "texte": "A brand new laptop computer", "correcte": false },
+          { "id": "c", "texte": "A red mountain bicycle", "correcte": false },
+          { "id": "d", "texte": "An elegant evening dress", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "A Visit to My Grandparents",
+    "titre2": "Exercise 013",
+    "texte": [
+      "During short school holidays, I love taking the train to visit my maternal grandparents who live far away.",
+      "They live in an old stone country house located in the heart of a very quiet village in Yorkshire.",
+      "As soon as I arrive at the station, my grandfather always waits for me on the platform with a big smile.",
+      "My grandmother stays at home to cook delicious traditional dishes that smell very good and aromatic.",
+      "In the morning, my grandfather takes me to his large vegetable garden to pick fresh vegetables and sweet strawberries.",
+      "He teaches me how to look after the plants, remove bad weeds, and water the earth efficiently.",
+      "In the afternoon, we often take long walks on the dirt paths that surround the peaceful village.",
+      "In the evening, after an excellent dinner, we sit comfortably near the fireplace to listen to their old memories.",
+      "They tell me funny stories about their youth, which completely fascinates me every single time I visit them.",
+      "These trips far from the big city allow me to relax completely and enjoy beautiful nature."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-013-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-013-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-013-01",
+        "question": "How does the narrator travel to see the grandparents?",
+        "reponses": [
+          { "id": "a", "texte": "By driving a personal car", "correcte": false },
+          { "id": "b", "texte": "By riding a fast bicycle", "correcte": false },
+          { "id": "c", "texte": "By taking the train", "correcte": true },
+          { "id": "d", "texte": "By flying on an airplane", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-013-02",
+        "question": "Where is the grandparents' old stone house located?",
+        "reponses": [
+        { "id": "a", "texte": "In a big city center", "correcte": false },
+{ "id": "b", "texte": "In a quiet village in Yorkshire", "correcte": true },
+{ "id": "c", "texte": "Near a sunny beach in Wales", "correcte": false },
+{ "id": "d", "texte": "In the cold Scottish highlands", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-013-03",
+"question": "Where does the grandfather take the narrator in the morning?",
+"reponses": [
+{ "id": "a", "texte": "To the local public market", "correcte": false },
+{ "id": "b", "texte": "To his large vegetable garden", "correcte": true },
+{ "id": "c", "texte": "To a municipal swimming pool", "correcte": false },
+{ "id": "d", "texte": "To a big dark forest", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-013-04",
+"question": "What do they do in the evening after dinner?",
+"reponses": [
+{ "id": "a", "texte": "They listen to old memories near the fireplace", "correcte": true },
+{ "id": "b", "texte": "They watch a drama series on TV", "correcte": false },
+{ "id": "c", "texte": "They play online video games together", "correcte": false },
+{ "id": "d", "texte": "They go to sleep immediately on the table", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-013-05",
+"question": "What is the main benefit of these holiday trips?",
+"reponses": [
+{ "id": "a", "texte": "To relax completely and enjoy nature", "correcte": true },
+{ "id": "b", "texte": "To earn some pocket money", "correcte": false },
+{ "id": "c", "texte": "To learn how to drive a car", "correcte": false },
+{ "id": "d", "texte": "To finish school homework quickly", "correcte": false }
+]
+}
+]
+},
+{
+"id": "014",
+"titre": "My Best Friend",
+"titre2": "Exercise 014",
+"texte": [
+"I have a very nice circle of friends, but my absolute best friend is called Jack and we are inseparable.",
+"We have known each other since the first year of primary school and we share many childhood memories.",
+"Jack is a boy of my age, he is tall, he has brown eyes and short curly hair.",
+"Beyond his appearance, he is an extremely generous person, always listening and has a great sense of humor.",
+"We share the exact same passion for strategic video games and modern science-fiction cinema.",
+"Every Wednesday afternoon, he comes over to my house to study our lessons and do math exercises.",
+"After finishing our school work, we spend time playing games or talking on our comfortable sofa.",
+"Whenever I have a personal problem or a bad grade, Jack always finds the right words to comfort me.",
+"I can tell him all my biggest secrets without ever being afraid that he will tell someone else.",
+"A friendship so strong, honest, and long-lasting is a precious thing that I want to keep all my life."
+],
+"audios": [
+{ "id": "audio-en-read-a2-014-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-014-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-014-01",
+"question": "How long have the narrator and Jack known each other?",
+"reponses": [
+{ "id": "a", "texte": "Since last year's summer holidays", "correcte": false },
+{ "id": "b", "texte": "Since primary school days", "correcte": true },
+{ "id": "c", "texte": "Since they started university", "correcte": false },
+{ "id": "d", "texte": "For a few weeks only", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-014-02",
+"question": "What does Jack look like according to the text?",
+"reponses": [
+{ "id": "a", "texte": "He is short with long blond hair", "correcte": false },
+{ "id": "b", "texte": "He is tall with brown eyes and curly hair", "correcte": true },
+{ "id": "c", "texte": "He wears big black round glasses", "correcte": false },
+{ "id": "d", "texte": "He has blue eyes and straight hair", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-014-03",
+"question": "What common passion do the two friends share?",
+"reponses": [
+{ "id": "a", "texte": "Modern drawing and painting", "correcte": false },
+{ "id": "b", "texte": "Traditional Italian cooking", "correcte": false },
+{ "id": "c", "texte": "Strategic video games and science-fiction", "correcte": true },
+{ "id": "d", "texte": "Classical music and playing violin", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-014-04",
+"question": "What do they do every Wednesday afternoon?",
+"reponses": [
+{ "id": "a", "texte": "They go to play football outside", "correcte": false },
+{ "id": "b", "texte": "They study and do math exercises", "correcte": true },
+{ "id": "c", "texte": "They buy new clothes in town", "correcte": false },
+{ "id": "d", "texte": "They clean the narrator's bedroom", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-014-05",
+"question": "Why does the narrator trust Jack completely?",
+"reponses": [
+{ "id": "a", "texte": "Because he keeps all biggest secrets safely", "correcte": true },
+{ "id": "b", "texte": "Because Jack is the strongest boy in class", "correcte": false },
+{ "id": "c", "texte": "Because he often gives pocket money", "correcte": false },
+{ "id": "d", "texte": "Because they live on the exact same street", "correcte": false }
+]
+}
+]
+},
+{
+"id": "015",
+"titre": "Meeting Someone New",
+"titre2": "Exercise 015",
+"texte": [
+"On Monday morning, a brand new student arrived in our English class, his name is Leo and he comes from Canada.",
+"Our main teacher introduced him to everyone and asked him to sit at the empty desk right next to me.",
+"At the beginning of the morning, Leo was a bit shy because he did not know anyone in the school.",
+"During the ten o'clock break, I decided to go talk to him so he would feel more comfortable.",
+"He told me that he had just moved to England with his family because of his father's new job.",
+"Leo speaks English perfectly, but he has a charming Canadian accent that the whole class likes very much.",
+"We discovered that we both love listening to rock music and riding downhill skateboards on weekends.",
+"I showed him around the school, including the big canteen, science laboratories, and central library.",
+"At the end of this first day, he thanked me warmly for my precious help and my friendly welcome.",
+"I am delighted about this meeting and I think we are going to become excellent school friends."
+],
+"audios": [
+{ "id": "audio-en-read-a2-015-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-015-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-015-01",
+"question": "Where does the new student named Leo come from?",
+"reponses": [
+{ "id": "a", "texte": "The United States", "correcte": false },
+{ "id": "b", "texte": "Canada", "correcte": true },
+{ "id": "c", "texte": "Belgium", "correcte": false },
+{ "id": "d", "texte": "Australia", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-015-02",
+"question": "Where did the teacher ask Leo to sit down?",
+"reponses": [
+{ "id": "a", "texte": "At the very back of the classroom", "correcte": false },
+{ "id": "b", "texte": "Right next to the white board", "correcte": false },
+{ "id": "c", "texte": "At the empty desk next to the narrator", "correcte": true },
+{ "id": "d", "texte": "At the teacher's own desk", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-015-03",
+"question": "Why did Leo's family move to England?",
+"reponses": [
+{ "id": "a", "texte": "For a short winter holiday trip", "correcte": false },
+{ "id": "b", "texte": "Because of his father's new job", "correcte": true },
+{ "id": "c", "texte": "To learn a completely new language", "correcte": false },
+{ "id": "d", "texte": "To buy a very large farm house", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-015-04",
+"question": "What hobby do Leo and the narrator have in common?",
+"reponses": [
+{ "id": "a", "texte": "Riding skateboards", "correcte": true },
+{ "id": "b", "texte": "Synchronized swimming", "correcte": false },
+{ "id": "c", "texte": "Indoor basketball games", "correcte": false },
+{ "id": "d", "texte": "Road bicycle racing", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-015-05",
+"question": "How did Leo feel at the beginning of the morning?",
+"reponses": [
+{ "id": "a", "texte": "A bit shy", "correcte": true },
+{ "id": "b", "texte": "Very angry", "correcte": false },
+{ "id": "c", "texte": "Tired and sleepy", "correcte": false },
+{ "id": "d", "texte": "Proud and arrogant", "correcte": false }
+]
+}
+]
+},
+{
+"id": "016",
+"titre": "A Family Celebration",
+"titre2": "Exercise 016",
+"texte": [
+"Last Sunday, my family organized a grand celebration to mark the golden wedding anniversary of my grandparents.",
+"Fifty years of marriage is a rare event that deserved to bring all our close relatives to the same place.",
+"We rented a large community hall in a beautiful picturesque village located not far from our home town.",
+"My uncles, aunts, and all my cousins traveled from several different regions for this important family event.",
+"Everyone brought something to eat or drink, creating an immense, varied, and delicious buffet table for the guests.",
+"There were fresh salads, cold meats, regional cheeses, and many sweet fruit pies prepared with love.",
+"My cousin installed a large sound system to play the favorite old songs of our dear grandparents.",
+"We spent the whole afternoon dancing, talking joyfully, and taking hundreds of souvenir photos together.",
+"My grandparents were very moved to see all their children and grandchildren gathered around them with so much love.",
+"This party will remain in our memories as a perfect moment of pure happiness and family sharing."
+],
+"audios": [
+{ "id": "audio-en-read-a2-016-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-016-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-016-01",
+"question": "What event did the family celebrate last Sunday?",
+"reponses": [
+{ "id": "a", "texte": "A successful professional exam result", "correcte": false },
+{ "id": "b", "texte": "The golden wedding anniversary of the grandparents", "correcte": true },
+{ "id": "c", "texte": "The retirement party of an uncle", "correcte": false },
+{ "id": "d", "texte": "The birth of a new little cousin", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-016-02",
+"question": "Where was the celebration party organized?",
+"reponses": [
+{ "id": "a", "texte": "In the small backyard garden of the house", "correcte": false },
+{ "id": "b", "texte": "In an expensive restaurant in London", "correcte": false },
+{ "id": "c", "texte": "In a rented large community hall", "correcte": true },
+{ "id": "d", "texte": "On a private beach area by the sea", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-016-03",
+"question": "How was the food supplied for the buffet table?",
+"reponses": [
+{ "id": "a", "texte": "An expensive catering service prepared everything", "correcte": false },
+{ "id": "b", "texte": "Every guest brought something to eat or drink", "correcte": true },
+{ "id": "c", "texte": "The grandparents cooked all dishes alone", "correcte": false },
+{ "id": "d", "texte": "They ordered many hot pizzas from a shop", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-016-04",
+"question": "What kind of music did the cousin play on the sound system?",
+"reponses": [
+{ "id": "a", "texte": "The favorite old songs of the grandparents", "correcte": true },
+{ "id": "b", "texte": "Modern electronic electronic music", "correcte": false },
+{ "id": "c", "texte": "Songs made only for little children", "correcte": false },
+{ "id": "d", "texte": "Heavy American rock music tracks", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-016-05",
+"question": "How did the grandparents feel during the party?",
+"reponses": [
+{ "id": "a", "texte": "They were moved to see their family gathered", "correcte": true },
+{ "id": "b", "texte": "They were tired and wanted to leave fast", "correcte": false },
+{ "id": "c", "texte": "They were disappointed by the music volume", "correcte": false },
+{ "id": "d", "texte": "They thought the community hall was too small", "correcte": false }
+]
+}
+]
+},
+{
+"id": "017",
+"titre": "Holidays with My Cousins",
+"titre2": "Exercise 017",
+"texte": [
+"Every year, in the month of August, I go to spend two unforgettable weeks with my cousins by the sea.",
+"My uncles rent a large white villa with a magnificent view of the Atlantic Ocean, in Cornwall.",
+"My cousins, Paul and Clara, are almost the exact same age as me, which makes our relationship very easy.",
+"In the morning, we wake up around nine o'clock to have a big breakfast on the sunny terrace table.",
+"Then, we put on our swimsuits, prepare our beach towels, and run towards the soft sandy beach.",
+"We spend hours swimming in the cool waves, building large castles, or playing beach volleyball together.",
+"In the afternoon, if there is some wind, we fly kites or rent bicycles from the local shop.",
+"We explore small coastal paths and we always stop to eat delicious ice cream in the neighboring village.",
+"In the evening, we return home tired but happy, ready to play board games before going to sleep.",
+"These holidays with my cousins are essential to break the school routine and get new positive energy."
+],
+"audios": [
+{ "id": "audio-en-read-a2-017-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-017-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-017-01",
+"question": "In which month of the year do these holidays take place?",
+"reponses": [
+{ "id": "a", "texte": "In July", "correcte": false },
+{ "id": "b", "texte": "In August", "correcte": true },
+{ "id": "c", "texte": "In September", "correcte": false },
+{ "id": "d", "texte": "In June", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-017-02",
+"question": "Where is the large white villa located?",
+"reponses": [
+{ "id": "a", "texte": "Near the Mediterranean sea", "correcte": false },
+{ "id": "b", "texte": "By the ocean in Cornwall", "correcte": true },
+{ "id": "c", "texte": "In the high Alpine mountains", "correcte": false },
+{ "id": "d", "texte": "In the center of the country", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-017-03",
+"question": "What are the names of the two cousins mentioned?",
+"reponses": [
+{ "id": "a", "texte": "Lucas and Sophie", "correcte": false },
+{ "id": "b", "texte": "Paul and Clara", "correcte": true },
+{ "id": "c", "texte": "Thomas and Emily", "correcte": false },
+{ "id": "d", "texte": "Jack and Leo", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-017-04",
+"question": "What do they eat during their afternoon bicycle ride?",
+"reponses": [
+{ "id": "a", "texte": "Cheese sandwiches", "correcte": false },
+{ "id": "b", "texte": "Hot french fries", "correcte": false },
+{ "id": "c", "texte": "Ice cream in the neighboring village", "correcte": true },
+{ "id": "d", "texte": "Fresh fruit from the garden", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-017-05",
+"question": "What do the cousins do in the evening before bed?",
+"reponses": [
+{ "id": "a", "texte": "They play board games", "correcte": true },
+{ "id": "b", "texte": "They watch a long horror movie", "correcte": false },
+{ "id": "c", "texte": "They study their school lessons", "correcte": false },
+{ "id": "d", "texte": "They go to swim in the ocean water", "correcte": false }
+]
+}
+]
+},
+{
+"id": "018",
+"titre": "A Day with My Father",
+"titre2": "Exercise 018",
+"texte": [
+"Last Saturday, my mother being away on a professional business trip for her work, I spent the whole day alone with my father.",
+"This is a rather rare situation because he works a lot during the week and has very little free time.",
+"We started our morning by taking a walk to the large traditional market in the historic town center.",
+"My father absolutely loves cooking, so we carefully chose fresh ingredients to prepare our midday lunch.",
+"We bought fresh fish, aromatic herbs, ripe red tomatoes, and a good loaf of traditional white bread.",
+"Back at home, he showed me how to cut the vegetables cleanly and season the fish correctly with salt.",
+"The lunch was absolutely delicious and I was very proud to have participated actively in the kitchen preparation.",
+"In the afternoon, we went to the municipal stadium to support our local football team during an important match.",
+"The atmosphere in the stands was incredible, the supporters sang loudly and our team finally won the game.",
+"This day spent together allowed me to know my father much better and share his personal passions."
+],
+"audios": [
+{ "id": "audio-en-read-a2-018-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-018-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-018-01",
+"question": "Why was the mother not at home last Saturday?",
+"reponses": [
+{ "id": "a", "texte": "She was sick in her bed", "correcte": false },
+{ "id": "b", "texte": "She was away on a business trip", "correcte": true },
+{ "id": "c", "texte": "She was shopping in town", "correcte": false },
+{ "id": "d", "texte": "She was visiting her parents", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-018-02",
+"question": "Where did the father and narrator go in the morning?",
+"reponses": [
+{ "id": "a", "texte": "To a suburban supermarket", "correcte": false },
+{ "id": "b", "texte": "To the large traditional market in town", "correcte": true },
+{ "id": "c", "texte": "To the municipal public library", "correcte": false },
+{ "id": "d", "texte": "Into a big deep green forest", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-018-03",
+"question": "What ingredients did they buy for their lunch?",
+"reponses": [
+{ "id": "a", "texte": "Chicken pieces and frozen fries", "correcte": false },
+{ "id": "b", "texte": "Beef meat and Italian pasta packets", "correcte": false },
+{ "id": "c", "texte": "Fresh fish, aromatic herbs, and tomatoes", "correcte": true },
+{ "id": "d", "texte": "A cheese pizza and sweet cakes", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-018-04",
+"question": "Where did they go in the afternoon?",
+"reponses": [
+{ "id": "a", "texte": "To the municipal stadium for a football match", "correcte": true },
+{ "id": "b", "texte": "To the cinema to watch an action film", "correcte": false },
+{ "id": "c", "texte": "To the swimming pool to swim together", "correcte": false },
+{ "id": "d", "texte": "To a friend's house to play cards", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-018-05",
+"question": "What was the final result of the football match?",
+"reponses": [
+{ "id": "a", "texte": "The local team won the game", "correcte": true },
+{ "id": "b", "texte": "The game ended in a draw score", "correcte": false },
+{ "id": "c", "texte": "The local team lost the match", "correcte": false },
+{ "id": "d", "texte": "The match was canceled due to rain", "correcte": false }
+]
+}
+]
+},
+{
+"id": "019",
+"titre": "My Mother's Daily Habits",
+"titre2": "Exercise 019",
+"texte": [
+"My mother is a very organized person who has a precise daily routine and follows it strictly every day.",
+"Each morning, she wakes up at six o'clock sharp, well before the rest of the house, to practice yoga.",
+"She sits on a blue mat in the living room while listening to soft sweet music to relax her mind.",
+"After her exercise session, she prepares a large cup of green tea and starts reading her favorite books.",
+"At half past seven, she wakes up the whole family gently and helps us prepare our school or work bags.",
+"She works as a medical secretary in a private clinic and always uses her bicycle to travel there quickly.",
+"She loves this ecological transport because it allows her to do physical exercise twice a day.",
+"In the evening, after her office work, she spends about thirty minutes looking after the beautiful flowers on our balcony.",
+"She often says that taking care of nature allows her to completely forget the fatigue accumulated during the day.",
+"I respect my mother very much for her constant energy, her daily discipline, and her sweet kindness towards us."
+],
+"audios": [
+{ "id": "audio-en-read-a2-019-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-019-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-019-01",
+"question": "What time does the mother wake up every morning?",
+"reponses": [
+{ "id": "a", "texte": "At half past five", "correcte": false },
+{ "id": "b", "texte": "At six o'clock sharp", "correcte": true },
+{ "id": "c", "texte": "At seven o'clock", "correcte": false },
+{ "id": "d", "texte": "At quarter to eight", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-019-02",
+"question": "What activity does she do immediately after waking up?",
+"reponses": [
+{ "id": "a", "texte": "She prepares a big breakfast", "correcte": false },
+{ "id": "b", "texte": "She practices yoga in the living room", "correcte": true },
+{ "id": "c", "texte": "She watches the morning news on TV", "correcte": false },
+{ "id": "d", "texte": "She cleans the bathroom mirror", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-019-03",
+"question": "What is the mother's exact profession in the text?",
+"reponses": [
+{ "id": "a", "texte": "She is a primary school teacher", "correcte": false },
+{ "id": "b", "texte": "She is a medical secretary in a clinic", "correcte": true },
+{ "id": "c", "texte": "She works as a company accountant", "correcte": false },
+{ "id": "d", "texte": "She is a professional chief cook", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-019-04",
+"question": "How does she travel to her workplace every day?",
+"reponses": [
+{ "id": "a", "texte": "By riding her bicycle", "correcte": true },
+{ "id": "b", "texte": "By catching a public bus", "correcte": false },
+{ "id": "c", "texte": "By driving her electric car", "correcte": false },
+{ "id": "d", "texte": "She walks all the way there", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-019-05",
+"question": "What does she look after in the evening after work?",
+"reponses": [
+{ "id": "a", "texte": "The beautiful flowers on the balcony", "correcte": true },
+{ "id": "b", "texte": "Repairing old torn clothes", "correcte": false },
+{ "id": "c", "texte": "Helping with difficult math homework", "correcte": false },
+{ "id": "d", "texte": "Walking the neighbor's small dog", "correcte": false }
+]
+}
+]
+},
+{
+"id": "020",
+"titre": "An Outing with Friends",
+"titre2": "Exercise 020",
+"texte": [
+"On Saturday afternoon, my faithful friends and I took advantage of the warm spring sun to organize a superb outing in town.",
+"We met at two o'clock in the afternoon right in front of the large fountain in the central square of the city.",
+"Once our group was complete, we decided to walk towards the brand new urban amusement park down the avenue.",
+"We bought entrance tickets to test the fast roller coasters, which gave us a lot of intense thrills and adrenaline.",
+"Everyone was laughing loudly and we captured these happy moments by making several collective group selfies together.",
+"Around half past four, after all these intense emotions, we felt a very natural small hunger developing.",
+"We sat down on the terrace of a nice little cafe shop to enjoy sweet crepes with fresh strawberries.",
+"We talked about our future plans for the big summer holidays and our school exams that are approaching fast.",
+"It was a fantastic day, full of good humor, which made our already solid friendship even stronger than before.",
+"We promised to organize a similar outing next month to celebrate the official end of our academic school year."
+],
+"audios": [
+{ "id": "audio-en-read-a2-020-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-020-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-020-01",
+"question": "Where did the group of friends meet at two o'clock?",
+"reponses": [
+{ "id": "a", "texte": "In front of the central railway station", "correcte": false },
+{ "id": "b", "texte": "In front of the large fountain in the central square", "correcte": true },
+{ "id": "c", "texte": "At the entrance of the local cinema", "correcte": false },
+{ "id": "d", "texte": "Inside their school playground yard", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-020-02",
+"question": "Which attraction gave them a lot of intense thrills?",
+"reponses": [
+{ "id": "a", "texte": "The panoramic Ferris wheel", "correcte": false },
+{ "id": "b", "texte": "The fast roller coasters", "correcte": true },
+{ "id": "c", "texte": "The rifle shooting gallery stand", "correcte": false },
+{ "id": "d", "texte": "The scary haunted paper house", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-020-03",
+"question": "What did they eat at the cafe shop around half past four?",
+"reponses": [
+{ "id": "a", "texte": "Traditional vanilla ice cream cones", "correcte": false },
+{ "id": "b", "texte": "Slices of hot cheese pizza", "correcte": false },
+{ "id": "c", "texte": "Sweet crepes with fresh strawberries", "correcte": true },
+{ "id": "d", "texte": "Ham and white bread sandwiches", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-020-04",
+"question": "What topics did they discuss while sitting on the terrace?",
+"reponses": [
+{ "id": "a", "texte": "Their summer holidays and upcoming exams", "correcte": true },
+{ "id": "b", "texte": "The latest video games released on PC", "correcte": false },
+{ "id": "c", "texte": "How to decorate a friend's bedroom", "correcte": false },
+{ "id": "d", "texte": "The expensive price of the park tickets", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-020-05",
+"question": "When do they plan to organize their next collective outing?",
+"reponses": [
+{ "id": "a", "texte": "Next month for the end of the school year", "correcte": true },
+{ "id": "b", "texte": "Next week without fail on Friday", "correcte": false },
+{ "id": "c", "texte": "During the next cold winter holidays", "correcte": false },
+{ "id": "d", "texte": "They have not planned anything at all", "correcte": false }
+]
+}
+]
+}
+]
