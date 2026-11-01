@@ -2,48 +2,2448 @@
   {
     "id": "001",
     "titre": "Sıfatlar",
-    "definition": "Sıfatlar, isimleri niteleyen veya belirten sözcüklerdir. Niteleme sıfatları varlıkların özelliklerini, durumlarını ve niteliklerini açıklar. Gelişmiş dil kullanımında sıfatlar, anlamı daha kesin, ayrıntılı ve etkili hâle getirir.",
-    "instruction": "Cümlelerdeki boşlukları, bağlama ve anlam bütünlüğüne uygun ileri düzey sıfatlarla tamamlayınız.",
+    "definition": "Sıfatlar, isimleri niteleyen veya belirten kelimelerdir. Bir varlığın rengini, biçimini, niteliğini, miktarını ya da durumunu ifade ederler.",
+    "instruction": "Parantez içindeki seçeneklerden cümleye anlam ve dil bilgisi bakımından uygun olanı seçerek boşlukları tamamlayınız.",
     "questions": [
       {
-        "question": "Araştırmacılar, elde ettikleri {{1}} bulguların bilimsel açıdan {{2}} ve güvenilir olduğunu kanıtlamak için {{3}} bir yöntem izlediler.",
-        "reponses": ["tutarlı", "geçerli", "sistematik"]
+        "question": "Toplantıda oldukça {{1}} bir öneri sunduğu için herkes onu dikkatle dinledi. (özgün / sıradan / ilgisiz)",
+        "answers": ["özgün"]
       },
       {
-        "question": "Ekonomik kriz, özellikle {{1}} kesimleri etkileyerek toplumdaki {{2}} eşitsizlikleri daha da {{3}} hâle getirdi.",
-        "reponses": ["dezavantajlı", "yapısal", "belirgin"]
+        "question": "Şirket, ekonomik koşullara rağmen {{1}} ve {{2}} bir büyüme stratejisi izlemeyi başardı. (istikrarlı / geçici / plansız) (sürdürülebilir / rastgele / tutarsız)",
+        "answers": ["istikrarlı", "sürdürülebilir"]
       },
       {
-        "question": "Uzmanlar, projenin {{1}} hedeflerini gerçekleştirebilmesi için {{2}} kaynakların daha {{3}} kullanılmasını önerdi.",
-        "reponses": ["uzun vadeli", "sınırlı", "verimli"]
+        "question": "Araştırmanın sonuçları, başlangıçta tahmin edilenden çok daha {{1}} ve {{2}} çıktı. (kapsamlı / yüzeysel / önemsiz) (çarpıcı / belirsiz / sıradan)",
+        "answers": ["kapsamlı", "çarpıcı"]
       },
       {
-        "question": "Mahkemenin verdiği karar, hukuki açıdan {{1}} gerekçelere dayanmasına rağmen kamuoyunda {{2}} tartışmalara ve {{3}} tepkilere yol açtı.",
-        "reponses": ["sağlam", "yoğun", "çelişkili"]
+        "question": "Bu kadar {{1}} bir konuda karar vermeden önce bütün ayrıntıları incelemeliyiz. (karmaşık / basit / önemsiz)",
+        "answers": ["karmaşık"]
       },
       {
-        "question": "Küresel ısınmanın {{1}} sonuçları, özellikle {{2}} bölgelerde yaşayan topluluklar için giderek daha {{3}} bir tehdit oluşturmaktadır.",
-        "reponses": ["yıkıcı", "kurak", "ciddi"]
+        "question": "Uzmanlar, projenin {{1}} hedeflere ulaşabilmesi için {{2}} bir plan hazırlanmasını önerdi. (uzun vadeli / anlık / geçici) (gerçekçi / gelişigüzel / imkânsız)",
+        "answers": ["uzun vadeli", "gerçekçi"]
       },
       {
-        "question": "Şirket, uluslararası pazarda {{1}} bir konuma ulaşmak amacıyla {{2}} teknolojilere yatırım yaparak üretim kapasitesini {{3}} biçimde artırdı.",
-        "reponses": ["rekabetçi", "yenilikçi", "kayda değer"]
+        "question": "Onun {{1}} tavrı, ekip üyeleri arasında güven oluşmasını sağladı. (tutarlı / çelişkili / kayıtsız)",
+        "answers": ["tutarlı"]
       },
       {
-        "question": "Diplomatlar, iki ülke arasındaki {{1}} anlaşmazlıkları çözmek için {{2}} bir yaklaşım benimseyerek {{3}} müzakereler yürüttüler.",
-        "reponses": ["köklü", "uzlaşmacı", "kapsamlı"]
+        "question": "Yeni düzenleme, özellikle küçük işletmeler üzerinde {{1}} ve {{2}} etkiler yaratabilir. (belirgin / hayalî / ilgisiz) (olumlu / zararlı / anlamsız)",
+        "answers": ["belirgin", "olumlu"]
       },
       {
-        "question": "Eğitim sistemindeki {{1}} reformlar, öğrencilerin {{2}} düşünme becerilerini geliştirmeyi ve onları geleceğin {{3}} mesleklerine hazırlamayı amaçlamaktadır.",
-        "reponses": ["kapsamlı", "eleştirel", "nitelikli"]
+        "question": "Şirket, müşterilerine daha {{1}} ve {{2}} hizmetler sunabilmek için teknolojik altyapısını yeniledi. (kapsamlı / sınırlı / yetersiz) (güvenilir / tutarsız / şüpheli)",
+        "answers": ["kapsamlı", "güvenilir"]
       },
       {
-        "question": "Sanatçının eserleri, {{1}} anlatım biçimi ve {{2}} estetik anlayışı sayesinde dönemin {{3}} toplumsal gerçeklerini gözler önüne seriyor.",
-        "reponses": ["özgün", "incelikli", "karmaşık"]
+        "question": "Toplumun karşı karşıya olduğu sorunlara {{1}} çözümler üretmek, yalnızca ekonomik kaynaklarla mümkün değildir. (kalıcı / geçici / yüzeysel)",
+        "answers": ["kalıcı"]
       },
       {
-        "question": "Bilim insanları, hastalığın {{1}} mekanizmalarını inceleyerek daha {{2}} tedavi yöntemleri geliştirmeyi ve hastalar için {{3}} çözümler sunmayı hedefliyor.",
-        "reponses": ["biyolojik", "etkili", "kalıcı"]
+        "question": "Konuşmacının {{1}} ve {{2}} açıklamaları, dinleyicilerin konuyu daha iyi anlamasına yardımcı oldu. (açık / muğlak / çelişkili) (ikna edici / yetersiz / ilgisiz)",
+        "answers": ["açık", "ikna edici"]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "titre": "Edatlar",
+    "definition": "Edatlar, isimler ve zamirlerle birlikte kullanılarak cümlede amaç, neden, araç, benzerlik, karşılaştırma veya ilişki gibi anlamlar oluşturur.",
+    "instruction": "Parantez içindeki seçeneklerden uygun edatı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Bütün eleştirilere {{1}} projesini tamamlamaktan vazgeçmedi. (rağmen / dolayı / üzere)",
+        "answers": ["rağmen"]
+      },
+      {
+        "question": "Bu araştırma, önceki çalışmalardan {{1}} daha geniş bir veri kümesine dayanıyor. (farklı / göre / kadar)",
+        "answers": ["farklı"]
+      },
+      {
+        "question": "Yeni düzenlemeler, çalışanların verimliliğini artırmak {{1}} hazırlandı. (amacıyla / yüzünden / rağmen)",
+        "answers": ["amacıyla"]
+      },
+      {
+        "question": "Uzmanlar, elde edilen sonuçlara {{1}} ekonomik büyümenin hızlanacağını düşünüyor. (göre / rağmen / kadar)",
+        "answers": ["göre"]
+      },
+      {
+        "question": "Toplantıya katılamamasının nedeni, önceden planlanmış bir seyahatte olması {{1}} açıklandı. (olarak / için / kadar)",
+        "answers": ["olarak"]
+      },
+      {
+        "question": "Bu karar, toplumun genel çıkarları {{1}} değerlendirilmelidir. (açısından / rağmen / boyunca)",
+        "answers": ["açısından"]
+      },
+      {
+        "question": "Şirket, maliyetleri azaltmak {{1}} üretim sürecini yeniden düzenledi. (üzere / dolayı / karşın)",
+        "answers": ["üzere"]
+      },
+      {
+        "question": "Bütün hazırlıkların {{1}}, etkinlik beklenenden daha başarılı geçti. (yanı sıra / aksine / sayesinde)",
+        "answers": ["yanı sıra"]
+      },
+      {
+        "question": "Yeni sistem, eski uygulamaya {{1}} daha esnek bir çalışma ortamı sunuyor. (kıyasla / rağmen / dolayı)",
+        "answers": ["kıyasla"]
+      },
+      {
+        "question": "Elde edilen veriler, ekonomik gelişmenin yalnızca yatırımlara {{1}} olmadığını gösteriyor. (bağlı / rağmen / kadar)",
+        "answers": ["bağlı"]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "Zarflar",
+    "definition": "Zarflar; fiilleri, sıfatları veya başka zarfları zaman, durum, miktar, yer-yön ve kesinlik bakımından tamamlayan kelimelerdir.",
+    "instruction": "Parantez içindeki seçeneklerden cümleye uygun zarfı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmacılar, elde ettikleri verileri {{1}} değerlendirerek güvenilir sonuçlara ulaştılar. (titizlikle / rastgele / nadiren)",
+        "answers": ["titizlikle"]
+      },
+      {
+        "question": "Ekonomik göstergeler, son aylarda {{1}} değişmeye başladı. (giderek / dün / aşağıda)",
+        "answers": ["giderek"]
+      },
+      {
+        "question": "Konuşmacı, eleştirileri {{1}} karşılayarak tartışmanın büyümesini önledi. (sakinlikle / aniden / nadiren)",
+        "answers": ["sakinlikle"]
+      },
+      {
+        "question": "Yeni uygulama, kullanıcıların beklentilerini {{1}} karşılamayı başardı. (büyük ölçüde / tesadüfen / dün)",
+        "answers": ["büyük ölçüde"]
+      },
+      {
+        "question": "Yönetim, alınan kararların sonuçlarını {{1}} takip ediyor. (yakından / uzaktan / bazen)",
+        "answers": ["yakından"]
+      },
+      {
+        "question": "Uzmanlar, sorunun çözümü için {{1}} bir araya gelerek ortak bir rapor hazırladı. (düzenli olarak / hiçbir zaman / aniden)",
+        "answers": ["düzenli olarak"]
+      },
+      {
+        "question": "Şirketin gelirleri, yapılan yatırımların ardından {{1}} artış gösterdi. (önemli ölçüde / tesadüfen / nadiren)",
+        "answers": ["önemli ölçüde"]
+      },
+      {
+        "question": "Öğrenciler, sınav sonuçlarını öğrenmek için {{1}} bekliyordu. (sabırsızlıkla / aşağıya / dün)",
+        "answers": ["sabırsızlıkla"]
+      },
+      {
+        "question": "Yetkililer, kamuoyunun tepkisini {{1}} dikkate almak zorunda kaldı. (ciddi biçimde / rastgele / nadiren)",
+        "answers": ["ciddi biçimde"]
+      },
+      {
+        "question": "Projenin uygulanması, beklenenden {{1}} tamamlandı ve bütün hedeflere ulaşıldı. (çok daha erken / hiçbir zaman / aşağı yukarı)",
+        "answers": ["çok daha erken"]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Eş anlamlı kelimeler",
+    "definition": "Eş anlamlı kelimeler, yazılışları ve söylenişleri farklı olsa da aynı veya birbirine çok yakın anlamları ifade eden kelimelerdir.",
+    "instruction": "Parantez içindeki seçeneklerden cümledeki kelimeyle anlam bakımından eşleşen sözcüğü seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Bilimsel araştırmaların {{1}} sonuçlara dayanması, toplumun güvenini artırır. (nesnel / öznel / geçici)",
+        "answers": ["nesnel"]
+      },
+      {
+        "question": "Yönetim, kaynakların daha {{1}} kullanılabilmesi için yeni önlemler aldı. (verimli / savurgan / belirsiz)",
+        "answers": ["verimli"]
+      },
+      {
+        "question": "Bu konuda sunduğu {{1}} açıklamalar, tartışmanın daha iyi anlaşılmasını sağladı. (ayrıntılı / yüzeysel / eksik)",
+        "answers": ["ayrıntılı"]
+      },
+      {
+        "question": "Toplantıda alınan kararların {{1}} biçimde uygulanması gerekiyor. (ivedi / yavaş / isteğe bağlı)",
+        "answers": ["ivedi"]
+      },
+      {
+        "question": "Uzmanlar, ekonomik krizin {{1}} nedenlerini araştırmaya devam ediyor. (temel / önemsiz / geçici)",
+        "answers": ["temel"]
+      },
+      {
+        "question": "Yeni düzenleme, işverenlerin {{1}} yükümlülüklerini açıkça belirliyor. (sorumluluk / ayrıcalık / kazanç)",
+        "answers": ["sorumluluk"]
+      },
+      {
+        "question": "Kurumun temel amacı, hizmetlerin {{1}} olmasını sağlamaktır. (erişilebilir / kapalı / karmaşık)",
+        "answers": ["erişilebilir"]
+      },
+      {
+        "question": "Araştırmanın {{1}} bulguları, önceki varsayımları yeniden değerlendirmeyi gerektirdi. (son / ilk / geçersiz)",
+        "answers": ["son"]
+      },
+      {
+        "question": "Bu projenin başarılı olması için {{1}} bir iş birliği gereklidir. (ortak / bireysel / ilgisiz)",
+        "answers": ["ortak"]
+      },
+      {
+        "question": "Yetkililer, halkın {{1}} ihtiyaçlarını karşılamak için yeni hizmetler geliştirdi. (gereksinim / beklenti dışı / alışkanlık)",
+        "answers": ["gereksinim"]
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "titre": "Kelimeler",
+    "definition": "Kelimeler, belirli anlamları ifade eden ve cümle içinde farklı görevler üstlenen dil birimleridir. Kelime seçimi, anlatımın doğruluğunu ve açıklığını etkiler.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına uygun kelimeyi seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Bir ülkenin ekonomik {{1}}, yalnızca üretim miktarıyla değil, gelir dağılımıyla da ölçülmelidir. (refahı / gecikmesi / belirsizliği)",
+        "answers": ["refahı"]
+      },
+      {
+        "question": "Kamu kurumlarında şeffaflığın artırılması, toplumsal {{1}} güçlendirebilir. (güveni / rekabeti / borcu)",
+        "answers": ["güveni"]
+      },
+      {
+        "question": "Doğal kaynakların bilinçsizce tüketilmesi, gelecek nesiller için ciddi bir {{1}} oluşturuyor. (tehdit / ayrıcalık / kazanç)",
+        "answers": ["tehdit"]
+      },
+      {
+        "question": "Eğitim sisteminin temel {{1}}, bireyleri yalnızca sınavlara değil, hayata da hazırlamaktır. (işlevi / tesadüfü / engeli)",
+        "answers": ["işlevi"]
+      },
+      {
+        "question": "Verilerin doğru yorumlanması, araştırmanın {{1}} açısından büyük önem taşır. (geçerliliği / görünüşü / uzunluğu)",
+        "answers": ["geçerliliği"]
+      },
+      {
+        "question": "Teknolojik gelişmeler, çalışma hayatında önemli bir {{1}} meydana getirdi. (dönüşüm / durgunluk / tekrar)",
+        "answers": ["dönüşüm"]
+      },
+      {
+        "question": "Uzun vadeli ekonomik politikalar, yatırımcıların {{1}} kararlarını olumlu etkileyebilir. (tercih / mazeret / kayıp)",
+        "answers": ["tercih"]
+      },
+      {
+        "question": "Toplumdaki gelir {{1}}, sosyal politikaların yeniden ele alınmasını gerektiriyor. (eşitsizliği / dengesi / istikrarı)",
+        "answers": ["eşitsizliği"]
+      },
+      {
+        "question": "Bir kurumun başarısı, çalışanların bilgi ve becerilerini ne ölçüde {{1}} kullandığına bağlıdır. (etkin biçimde / tesadüfen / gereksiz yere)",
+        "answers": ["etkin biçimde"]
+      },
+      {
+        "question": "Küresel sorunların çözümü, ülkeler arasında güçlü bir {{1}} kurulmasını gerektirir. (dayanışma / anlaşmazlık / bağımlılık)",
+        "answers": ["dayanışma"]
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "titre": "Bağlaçlar",
+    "definition": "Bağlaçlar, kelimeleri, kelime gruplarını veya cümleleri birbirine bağlayarak karşıtlık, neden, sonuç, ekleme ve seçenek gibi ilişkiler kurar.",
+    "instruction": "Parantez içindeki seçeneklerden cümleler arasındaki anlam ilişkisine uygun bağlacı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Proje teknik açıdan başarılıydı; {{1}}, bütçe planlamasında bazı eksiklikler vardı. (ancak / çünkü / ayrıca)",
+        "answers": ["ancak"]
+      },
+      {
+        "question": "Şirket, üretim kapasitesini artırdı; {{1}} yeni çalışanlar işe aldı. (üstelik / oysa / halbuki)",
+        "answers": ["üstelik"]
+      },
+      {
+        "question": "Toplantı ertelendi, {{1}} gerekli belgeler henüz tamamlanmamıştı. (çünkü / rağmen / oysa)",
+        "answers": ["çünkü"]
+      },
+      {
+        "question": "Hem ekonomik büyüme desteklenmeli {{1}} çevresel sürdürülebilirlik korunmalıdır. (hem de / ne de / ya da)",
+        "answers": ["hem de"]
+      },
+      {
+        "question": "Yatırımlar artmasına {{1}}, işsizlik oranında beklenen düşüş gerçekleşmedi. (rağmen / dolayı / üzere)",
+        "answers": ["rağmen"]
+      },
+      {
+        "question": "Raporu bugün tamamlayabiliriz {{1}} yarın sabah yeniden gözden geçirebiliriz. (ya da / çünkü / oysa)",
+        "answers": ["ya da"]
+      },
+      {
+        "question": "Veriler güvenilir görünüyordu; {{1}}, araştırmacılar sonuçları bağımsız olarak doğruladı. (bununla birlikte / aksi hâlde / ne var ki)",
+        "answers": ["bununla birlikte"]
+      },
+      {
+        "question": "Sadece ekonomik göstergeler incelenmemeli, {{1}} toplumsal etkiler de değerlendirilmelidir. (aynı zamanda / oysa / yoksa)",
+        "answers": ["aynı zamanda"]
+      },
+      {
+        "question": "Politika kısa vadede maliyetli olabilir; {{1}}, uzun vadede önemli tasarruf sağlayacaktır. (buna karşın / çünkü / halbuki)",
+        "answers": ["buna karşın"]
+      },
+      {
+        "question": "Ne çalışanlar kararı destekledi {{1}} yöneticiler uygulamanın zamanlamasını uygun buldu. (ne de / hem de / çünkü)",
+        "answers": ["ne de"]
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "titre": "Kelime sıralaması",
+    "definition": "Türkçede cümlelerin temel sıralaması genellikle özne, tümleç ve yüklem biçimindedir. Vurgu ve anlatım amacı doğrultusunda kelimelerin yeri değişebilir.",
+    "instruction": "Parantez içindeki seçeneklerden cümledeki kelime sıralamasına uygun olanı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmacılar, sonuçları kamuoyuyla paylaşmadan önce verileri dikkatle {{1}}. (inceledi / dikkatle / araştırmacılar)",
+        "answers": ["inceledi"]
+      },
+      {
+        "question": "Yeni ekonomik programın etkileri, bağımsız uzmanlar tarafından ayrıntılı biçimde {{1}}. (değerlendirildi / uzmanlar / etkileri)",
+        "answers": ["değerlendirildi"]
+      },
+      {
+        "question": "Şirket yönetimi, çalışanların önerilerini dikkate alarak yeni bir çalışma modeli {{1}}. (geliştirdi / önerilerini / çalışanların)",
+        "answers": ["geliştirdi"]
+      },
+      {
+        "question": "Uzun süren tartışmaların ardından kurul, beklenen kararı sonunda {{1}}. (açıkladı / sonunda / beklenen)",
+        "answers": ["açıkladı"]
+      },
+      {
+        "question": "Toplumsal değişimlerin nedenlerini anlamak için tarihsel süreçleri {{1}}. (incelemek gerekir / süreçleri / toplumsal)",
+        "answers": ["incelemek gerekir"]
+      },
+      {
+        "question": "Yetkililer, alınan önlemlerin sonuçlarını düzenli olarak {{1}}. (izliyor / önlemlerin / sonuçlarını)",
+        "answers": ["izliyor"]
+      },
+      {
+        "question": "Bilim insanları, iklim değişikliğinin etkilerini azaltmak amacıyla yeni yöntemler {{1}}. (araştırıyor / etkilerini / iklim değişikliğinin)",
+        "answers": ["araştırıyor"]
+      },
+      {
+        "question": "Kurum, hizmet kalitesini yükseltmek için dijital altyapısını {{1}}. (yeniledi / hizmet kalitesini / yükseltmek)",
+        "answers": ["yeniledi"]
+      },
+      {
+        "question": "Öğrenciler, sınavdan önce öğretmenin verdiği bütün kaynakları dikkatle {{1}}. (okudu / öğretmenin / kaynakları)",
+        "answers": ["okudu"]
+      },
+      {
+        "question": "Ekonomik istikrarın sağlanması için hükümetin uzun vadeli politikalar {{1}}. (uygulaması gerekiyor / hükümetin / istikrarın)",
+        "answers": ["uygulaması gerekiyor"]
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "titre": "Artikeller",
+    "definition": "Türkçede Fransızca veya Almancadaki gibi dil bilgisel cinsiyete bağlı belirli ve belirsiz artikeller bulunmaz. Belirlilik ve belirsizlik, bağlam, belirtme durumu ekleri ve bazı belirleyiciler aracılığıyla ifade edilir.",
+    "instruction": "Parantez içindeki seçeneklerden cümledeki belirlilik veya belirsizlik anlamına uygun olanı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Masada duran {{1}} kitabı dün kütüphaneden ödünç aldım. (bu / herhangi bir / bazı)",
+        "answers": ["bu"]
+      },
+      {
+        "question": "Toplantıya katılmak isteyen {{1}} çalışanlar önceden kayıt yaptırmalıdır. (bütün / hiçbir / herhangi bir)",
+        "answers": ["bütün"]
+      },
+      {
+        "question": "Araştırmacılar, henüz incelenmemiş {{1}} belgeleri arşivden çıkardı. (bazı / bütün / aynı)",
+        "answers": ["bazı"]
+      },
+      {
+        "question": "Dün gördüğüm {{1}} kişi, bugün yeniden bizimle iletişime geçti. (aynı / herhangi bir / bütün)",
+        "answers": ["aynı"]
+      },
+      {
+        "question": "Bu konuda {{1}} bilgiye sahip olmayan kişilerin yorum yapmaması daha doğru olur. (hiçbir / bütün / birkaç)",
+        "answers": ["hiçbir"]
+      },
+      {
+        "question": "Şirket, gelecek yıl {{1}} yeni pazara açılmayı planlıyor. (birkaç / bütün / hiçbir)",
+        "answers": ["birkaç"]
+      },
+      {
+        "question": "Lütfen rapordaki {{1}} bölümü dikkatlice okuyunuz; özellikle sonuç kısmı önemlidir. (ilgili / herhangi bir / hiçbir)",
+        "answers": ["ilgili"]
+      },
+      {
+        "question": "Toplantı sırasında {{1}} katılımcıdan görüşlerini açıklaması istendi. (her / hiçbir / bazı)",
+        "answers": ["her"]
+      },
+      {
+        "question": "Henüz {{1}} karar alınmadığı için uygulama tarihi kesinleşmedi. (bir / aynı / bütün)",
+        "answers": ["bir"]
+      },
+      {
+        "question": "Arşivdeki belgelerin {{1}} dijital ortama aktarılması gerekiyor. (tümünün / herhangi birinin / hiçbirinin)",
+        "answers": ["tümünün"]
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "titre": "Zıt anlamlı kelimeler",
+    "definition": "Zıt anlamlı kelimeler, anlam bakımından birbirinin karşıtı olan sözcüklerdir. Bu kelimeler karşılaştırma ve karşıtlık ilişkilerini ifade eder.",
+    "instruction": "Parantez içindeki seçeneklerden cümledeki kelimenin zıt anlamlısını seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Ekonomik büyümenin hızlanması beklenirken üretim faaliyetlerinde {{1}} gözlemlendi. (yavaşlama / artış / genişleme)",
+        "answers": ["yavaşlama"]
+      },
+      {
+        "question": "Şirket, başlangıçta elde ettiği kârı koruyamadı ve yıl sonunda {{1}} açıkladı. (zarar / kazanç / gelir)",
+        "answers": ["zarar"]
+      },
+      {
+        "question": "Araştırmanın ilk sonuçları olumlu görünse de sonraki veriler oldukça {{1}} bir tablo ortaya koydu. (olumsuz / umut verici / başarılı)",
+        "answers": ["olumsuz"]
+      },
+      {
+        "question": "Yönetim, merkeziyetçi yapıyı terk ederek daha {{1}} bir karar alma sistemi oluşturdu. (ademimerkeziyetçi / katı / hiyerarşik)",
+        "answers": ["ademimerkeziyetçi"]
+      },
+      {
+        "question": "Piyasadaki talep artarken ürün arzının {{1}} olması fiyatların yükselmesine neden oldu. (az / yüksek / fazla)",
+        "answers": ["az"]
+      },
+      {
+        "question": "Uzun süredir devam eden durgunluk döneminin ardından ekonomi yeniden {{1}} bir sürece girdi. (canlı / durağan / yavaş)",
+        "answers": ["canlı"]
+      },
+      {
+        "question": "Yetkililer, geçici önlemler yerine {{1}} çözümler geliştirmeyi hedefliyor. (kalıcı / kısa süreli / anlık)",
+        "answers": ["kalıcı"]
+      },
+      {
+        "question": "Başlangıçta karmaşık görünen sistem, yapılan düzenlemelerle oldukça {{1}} hâle geldi. (basit / güç / anlaşılmaz)",
+        "answers": ["basit"]
+      },
+      {
+        "question": "Toplantıda herkesin görüşü alınarak tek taraflı değil, {{1}} bir karar verildi. (ortak / bireysel / kişisel)",
+        "answers": ["ortak"]
+      },
+      {
+        "question": "Şirket, açıkça belirtilen hedeflere ulaşmak için belirsiz değil, {{1}} bir strateji izledi. (net / muğlak / kararsız)",
+        "answers": ["net"]
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "titre": "Zamirler",
+    "definition": "Zamirler, isimlerin yerini tutan veya isimleri işaret eden kelimelerdir. Kişi, işaret, belirsizlik, soru ve dönüşlülük zamirleri gibi türleri vardır.",
+    "instruction": "Parantez içindeki seçeneklerden cümledeki anlam ve dil bilgisi bakımından uygun zamiri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırma ekibi, bulgularını değerlendirdikten sonra {{1}} kamuoyuna sundu. (onları / kendisi / kimse)",
+        "answers": ["onları"]
+      },
+      {
+        "question": "Bu raporu hazırlayan kişi ben değilim; çalışmayı {{1}} tamamladı. (kendisi / herhangi biri / hiçbiri)",
+        "answers": ["kendisi"]
+      },
+      {
+        "question": "Projeye katılan uzmanların {{1}} farklı bir öneri sundu. (her biri / hiçbiri / kim)",
+        "answers": ["her biri"]
+      },
+      {
+        "question": "Belgelerin hangisinin güncel olduğunu bilmiyorum; {{1}} kontrol etmeliyiz. (hepsini / kimseyi / kendimizi)",
+        "answers": ["hepsini"]
+      },
+      {
+        "question": "Toplantıya davet edilenlerden {{1}} henüz yanıt vermedi. (bazıları / herkes / kendileri)",
+        "answers": ["bazıları"]
+      },
+      {
+        "question": "Bu kararı kim verdi? {{1}} hakkında daha fazla bilgi edinmek istiyorum. (onun / kendimiz / hangileri)",
+        "answers": ["onun"]
+      },
+      {
+        "question": "İki öneri de değerlendirildi, ancak {{1}} uygulanabilir bulunmadı. (ikisi de / biri / hepsi)",
+        "answers": ["ikisi de"]
+      },
+      {
+        "question": "Yöneticiler, çalışanların sorunlarını dinlemek için {{1}} ile ayrı ayrı görüştü. (onlarla / kendisine / hiçbiri)",
+        "answers": ["onlarla"]
+      },
+      {
+        "question": "Bu belgelerden {{1}} arşive kaldırılmalı, diğerleri ise erişilebilir kalmalıdır. (bazıları / herkes / kimse)",
+        "answers": ["bazıları"]
+      },
+      {
+        "question": "Herkes kendi sorumluluğunu yerine getirmeli; {{1}} başkalarının görevlerini üstlenmek zorunda değildir. (hiç kimse / kendileri / bunlar)",
+        "answers": ["hiç kimse"]
+      }
+    ]
+  },
+  {
+    "id": "011",
+    "titre": "Fiiller",
+    "definition": "Fiiller, iş, oluş veya durum bildiren kelimelerdir. Kip, zaman, kişi ve çatı ekleriyle farklı anlam ve görevler kazanırlar.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına ve dil bilgisine uygun fiili seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Kurul, sunulan teklifleri ayrıntılı biçimde {{1}} ve nihai kararını gelecek hafta açıklayacak. (değerlendirdi / değerlendirmek / değerlendirilerek)",
+        "answers": ["değerlendirdi"]
+      },
+      {
+        "question": "Ekonomik koşullar değiştikçe şirketlerin stratejilerini yeniden {{1}} gerekiyor. (belirlemeleri / belirlediler / belirlenmiş)",
+        "answers": ["belirlemeleri"]
+      },
+      {
+        "question": "Uzmanlar, çevresel risklerin zamanında {{1}} gerektiğini vurguluyor. (öngörülmesi / öngördüler / öngörerek)",
+        "answers": ["öngörülmesi"]
+      },
+      {
+        "question": "Yönetim, çalışanların önerilerini dikkate {{1}} yeni bir uygulama başlattı. (alarak / aldıktan / alınmış)",
+        "answers": ["alarak"]
+      },
+      {
+        "question": "Bu politikaların uzun vadede nasıl sonuçlar {{1}} henüz kesin olarak bilinmiyor. (doğuracağı / doğurdu / doğurmuş)",
+        "answers": ["doğuracağı"]
+      },
+      {
+        "question": "Araştırmacılar, elde edilen bulguların doğruluğunu bağımsız kaynaklarla {{1}} istiyor. (kanıtlamak / kanıtladı / kanıtlanmış)",
+        "answers": ["kanıtlamak"]
+      },
+      {
+        "question": "Yeni düzenlemeler yürürlüğe {{1}} işletmelerin faaliyetleri yeniden değerlendirilecek. (girdiğinde / girmiş / girmek)",
+        "answers": ["girdiğinde"]
+      },
+      {
+        "question": "Şirket, üretim maliyetlerini düşürmek için kaynaklarını daha verimli {{1}} başladı. (kullanmaya / kullandı / kullanılmış)",
+        "answers": ["kullanmaya"]
+      },
+      {
+        "question": "Toplantıda alınan kararların bütün çalışanlara {{1}} gerekiyor. (bildirilmesi / bildirdi / bildirerek)",
+        "answers": ["bildirilmesi"]
+      },
+      {
+        "question": "Uzmanlar, ekonomik göstergelerdeki değişimleri düzenli olarak {{1}} sürdürüyor. (izlemeyi / izledi / izlenmiş)",
+        "answers": ["izlemeyi"]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "İsimler",
+    "definition": "İsimler; kişi, nesne, yer, kavram, duygu ve olayları karşılayan kelimelerdir. Özel isim, cins isim, soyut isim, somut isim ve topluluk ismi gibi türlere ayrılırlar.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına uygun ismi seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Toplumsal {{1}}, bireylerin ortak değerleri ve kurumları yeniden değerlendirmesine yol açabilir. (dönüşüm / dönüşmek / dönüştürücü)",
+        "answers": ["dönüşüm"]
+      },
+      {
+        "question": "Kurumun uzun vadeli {{1}}, eğitim hizmetlerine erişimi artırmaktır. (önceliği / öncelikli / öncelikle)",
+        "answers": ["önceliği"]
+      },
+      {
+        "question": "Ekonomik {{1}}, ülkelerin dış ticaret politikalarını doğrudan etkileyebilir. (bağımlılık / bağımlı / bağlanmak)",
+        "answers": ["bağımlılık"]
+      },
+      {
+        "question": "Araştırmanın bilimsel {{1}}, kullanılan yöntemlerin doğruluğuna bağlıdır. (güvenilirliği / güvenilir / güvenerek)",
+        "answers": ["güvenilirliği"]
+      },
+      {
+        "question": "Kamu kaynaklarının adil {{1}}, sosyal eşitsizliklerin azaltılmasına katkıda bulunur. (dağılımı / dağıtmak / dağınık)",
+        "answers": ["dağılımı"]
+      },
+      {
+        "question": "Teknolojik {{1}}, üretim süreçlerinin daha hızlı ve verimli hâle gelmesini sağladı. (ilerleme / ilerlemek / ilerici)",
+        "answers": ["ilerleme"]
+      },
+      {
+        "question": "Çevresel {{1}}, gelecek nesillerin yaşam kalitesini korumak açısından önemlidir. (sorumluluk / sorumlu / sorumluca)",
+        "answers": ["sorumluluk"]
+      },
+      {
+        "question": "Şirketin uluslararası {{1}}, yeni pazarlara erişimini kolaylaştırdı. (ortaklığı / ortak / ortaklaşa)",
+        "answers": ["ortaklığı"]
+      },
+      {
+        "question": "Eğitimde fırsat {{1}}, toplumsal kalkınmanın temel koşullarından biridir. (eşitliği / eşit / eşitlemek)",
+        "answers": ["eşitliği"]
+      },
+      {
+        "question": "Bilimsel {{1}}, yeni teknolojilerin geliştirilmesinde belirleyici rol oynar. (merak / meraklı / merak etmek)",
+        "answers": ["merak"]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Ön ekler ve son ekler",
+    "definition": "Türkçede kelime türetme ve çekimleme işlemleri çoğunlukla son eklerle yapılır. Son ekler, kelimenin anlamını veya cümledeki görevini değiştirir. Türkçede ön ek kullanımı sınırlıdır.",
+    "instruction": "Parantez içindeki seçeneklerden kelimenin yapısına ve cümlenin anlamına uygun ek almış biçimi seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Bilimsel araştırmaların {{1}} sonuçlara dayanması gerekir. (güvenilir / güven / güvensizce)",
+        "answers": ["güvenilir"]
+      },
+      {
+        "question": "Kurum, çalışanların mesleki {{1}} artırmak amacıyla eğitim programları düzenledi. (yeterliliğini / yeterli / yeterince)",
+        "answers": ["yeterliliğini"]
+      },
+      {
+        "question": "Yeni uygulamanın {{1}} önceden ayrıntılı biçimde açıklanmalıdır. (uygulanabilirliği / uygulanabilir / uygulamak)",
+        "answers": ["uygulanabilirliği"]
+      },
+      {
+        "question": "Toplumsal sorunların çözümünde bireysel {{1}} tek başına yeterli değildir. (duyarlılık / duyarlı / duyarsızca)",
+        "answers": ["duyarlılık"]
+      },
+      {
+        "question": "Şirket, üretim sürecindeki {{1}} azaltmak için otomasyona yatırım yaptı. (verimsizliği / verimsiz / verimli)",
+        "answers": ["verimsizliği"]
+      },
+      {
+        "question": "Bu kararın ekonomik {{1}} henüz tam olarak hesaplanmadı. (sonuçları / sonuçlanmak / sonuçsuz)",
+        "answers": ["sonuçları"]
+      },
+      {
+        "question": "Çevre politikalarının {{1}} gelecek nesillerin yaşam koşullarını etkileyebilir. (etkinliği / etkin / etkilemek)",
+        "answers": ["etkinliği"]
+      },
+      {
+        "question": "Kurum, hizmetlerini daha {{1}} hâle getirmek için dijital çözümler geliştiriyor. (erişilebilir / erişim / erişimsiz)",
+        "answers": ["erişilebilir"]
+      },
+      {
+        "question": "Araştırmanın {{1}} bulguları, bilimsel çevrelerde tartışma yarattı. (beklenmedik / beklemek / beklenti)",
+        "answers": ["beklenmedik"]
+      },
+      {
+        "question": "Ekonomik {{1}}, ülkelerin dış şoklara karşı dayanıklılığını artırabilir. (çeşitlilik / çeşitli / çeşitlenmek)",
+        "answers": ["çeşitlilik"]
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "titre": "Olumsuzluk",
+    "definition": "Türkçede olumsuzluk, fiillerde genellikle -ma/-me ekiyle, isim cümlelerinde ise değil sözcüğüyle ifade edilir. Hiç, asla ve hiçbir gibi kelimeler de olumsuz anlamı güçlendirebilir.",
+    "instruction": "Parantez içindeki seçeneklerden cümledeki olumsuzluk anlamına ve dil bilgisine uygun olanı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Yetkililer, gerekli önlemler alınmadan projenin başlatılmasını {{1}}. (istemiyor / istiyor / istemiş)",
+        "answers": ["istemiyor"]
+      },
+      {
+        "question": "Araştırmanın sonuçları henüz kesinleşmediği için bu konuda bir yargıya {{1}}. (varılamaz / varılır / varılmış)",
+        "answers": ["varılamaz"]
+      },
+      {
+        "question": "Şirket, çalışanların haklarını {{1}} bir politika izlemeyeceğini açıkladı. (ihlal etmeyen / ihlal eden / ihlal etmiş)",
+        "answers": ["ihlal etmeyen"]
+      },
+      {
+        "question": "Bu raporda, iddiaları destekleyen {{1}} kanıt bulunmuyor. (hiçbir / bütün / bazı)",
+        "answers": ["hiçbir"]
+      },
+      {
+        "question": "Uzmanlar, ekonomik göstergelerin tek başına yeterli {{1}} vurguluyor. (olmadığını / olduğunu / olacağını)",
+        "answers": ["olmadığını"]
+      },
+      {
+        "question": "Toplantıya katılmayan üyelerin görüşleri {{1}} değerlendirilmeden karar alınmamalıdır. (alınmadan / alınarak / alınmış)",
+        "answers": ["alınmadan"]
+      },
+      {
+        "question": "Kurum, kişisel verilerin izinsiz paylaşılmasına kesinlikle {{1}}. (izin vermiyor / izin veriyor / izin verdi)",
+        "answers": ["izin vermiyor"]
+      },
+      {
+        "question": "Bu koşullarda projenin başarıya ulaşması {{1}} görünmüyor. (mümkün / imkânsızca / mümkündür)",
+        "answers": ["mümkün"]
+      },
+      {
+        "question": "Yönetim, henüz doğrulanmamış bilgilerin kamuoyuyla {{1}} gerektiğini belirtti. (paylaşılmaması / paylaşılması / paylaşılmış)",
+        "answers": ["paylaşılmaması"]
+      },
+      {
+        "question": "Hiçbir çalışan, güvenlik kurallarını {{1}} sorumluluktan kaçamaz. (ihlal ederek / ihlal etmeden / ihlal edilmiş)",
+        "answers": ["ihlal ederek"]
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "titre": "Sesteş veya yazılışı benzer kelimeler",
+    "definition": "Sesteş kelimeler, yazılışları ve söylenişleri aynı olduğu hâlde farklı anlamlar taşıyan sözcüklerdir. Yazılışı benzer kelimeler ise küçük ses veya harf farklılıklarıyla birbirinden ayrılır.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin bağlamına uygun kelimeyi seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Mahkeme, sanığın suçsuz olduğuna ilişkin {{1}} değerlendirdi. (karar / kâr / kar)",
+        "answers": ["karar"]
+      },
+      {
+        "question": "Şirket, yıl sonunda elde ettiği {{1}} yeniden yatırıma dönüştürmeyi planlıyor. (kârı / karı / kararı)",
+        "answers": ["kârı"]
+      },
+      {
+        "question": "Kış aylarında yoğun {{1}} nedeniyle bazı yollar ulaşıma kapatıldı. (kar / kâr / karar)",
+        "answers": ["kar"]
+      },
+      {
+        "question": "Araştırmacı, elde ettiği bulguları bilimsel bir {{1}} içinde yayımladı. (makale / makas / makam)",
+        "answers": ["makale"]
+      },
+      {
+        "question": "Yeni sistem, çalışanların günlük iş {{1}} önemli ölçüde azalttı. (yükünü / yüğünü / yığını)",
+        "answers": ["yükünü"]
+      },
+      {
+        "question": "Toplantıda herkesin görüşü dinlendikten sonra ortak bir {{1}} alındı. (karar / kâr / kar)",
+        "answers": ["karar"]
+      },
+      {
+        "question": "Üretim sürecindeki hataları azaltmak için kalite {{1}} güçlendirildi. (kontrolü / konturu / kontrolü)",
+        "answers": ["kontrolü"]
+      },
+      {
+        "question": "Bu konudaki {{1}}, kurumun geleceğini doğrudan etkileyebilir. (öneriler / önderler / önlemler)",
+        "answers": ["öneriler"]
+      },
+      {
+        "question": "Uzman, ekonomik gelişmelerin toplum üzerindeki {{1}} ayrıntılı biçimde açıkladı. (etkisini / yetkisini / tepkisini)",
+        "answers": ["etkisini"]
+      },
+      {
+        "question": "Yönetim, çalışanların güvenliğini sağlamak için yeni {{1}} aldı. (önlemler / önermeler / öncelikler)",
+        "answers": ["önlemler"]
+      }
+    ]
+  },
+  {
+    "id": "016",
+    "titre": "Mantıksal bağlaçlar",
+    "definition": "Mantıksal bağlaçlar, düşünceler arasında neden-sonuç, koşul, çıkarım, karşıtlık ve sonuç ilişkileri kurar. Argümanların tutarlı ve anlaşılır olmasını sağlar.",
+    "instruction": "Parantez içindeki seçeneklerden cümleler arasındaki mantıksal ilişkiyi doğru ifade edeni seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Üretim maliyetleri artmıştır; {{1}}, ürün fiyatlarının yükselmesi beklenmektedir. (dolayısıyla / oysa / buna rağmen)",
+        "answers": ["dolayısıyla"]
+      },
+      {
+        "question": "Veriler yeterince güvenilir değildir; {{1}}, sonuçların kesin kabul edilmesi doğru olmaz. (bu nedenle / ayrıca / örneğin)",
+        "answers": ["bu nedenle"]
+      },
+      {
+        "question": "Ekonomik büyüme hızlanmıştır. {{1}}, işsizlik oranında henüz belirgin bir düşüş görülmemiştir. (buna karşın / sonuç olarak / çünkü)",
+        "answers": ["buna karşın"]
+      },
+      {
+        "question": "Eğer gerekli yatırımlar zamanında yapılırsa, {{1}} üretim kapasitesi artırılabilir. (böylece / oysa / halbuki)",
+        "answers": ["böylece"]
+      },
+      {
+        "question": "Araştırma sonuçları farklı kaynaklarca doğrulanmıştır; {{1}}, bulguların güvenilirliği artmıştır. (dolayısıyla / ne var ki / aksi hâlde)",
+        "answers": ["dolayısıyla"]
+      },
+      {
+        "question": "Şirket, maliyetleri azaltmak istiyor. {{1}}, çalışanların haklarından ödün verilmemelidir. (ancak / çünkü / bundan dolayı)",
+        "answers": ["ancak"]
+      },
+      {
+        "question": "Politika gerekli koşulları sağlamazsa, {{1}} beklenen sonuçlar elde edilemeyebilir. (aksi takdirde / üstelik / örneğin)",
+        "answers": ["aksi takdirde"]
+      },
+      {
+        "question": "Toplumsal eşitsizlikler derinleşmektedir; {{1}}, sosyal destek programlarının kapsamı genişletilmelidir. (bu yüzden / buna rağmen / oysa)",
+        "answers": ["bu yüzden"]
+      },
+      {
+        "question": "Yalnızca ekonomik veriler değil, {{1}} sosyal göstergeler de değerlendirilmelidir. (aynı zamanda / aksi hâlde / sonuçta)",
+        "answers": ["aynı zamanda"]
+      },
+      {
+        "question": "Proje planlandığı gibi tamamlandı. {{1}}, bütün hedeflere ulaşılmış oldu. (sonuç olarak / buna rağmen / oysa)",
+        "answers": ["sonuç olarak"]
+      }
+    ]
+  },
+  {
+    "id": "017",
+    "titre": "Belirteçler",
+    "definition": "Belirteçler, isimlerin önüne gelerek onların miktarını, sayısını, sırasını veya belirliliğini bildirir. Türkçede bu görevde sayı, işaret ve belgisiz belirteçler kullanılır.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına uygun belirteci seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmaya katılan {{1}} kişi, soruların tamamını yanıtladı. (her / birkaç / hiçbir)",
+        "answers": ["her"]
+      },
+      {
+        "question": "Kurum, son dönemde {{1}} önemli projeyi aynı anda yürütmeye başladı. (birçok / hiçbir / herhangi)",
+        "answers": ["birçok"]
+      },
+      {
+        "question": "Toplantıda sunulan {{1}} öneri, önceki planlardan daha kapsamlıydı. (bu / hiçbir / bazı)",
+        "answers": ["bu"]
+      },
+      {
+        "question": "Şirket, {{1}} yıl içinde uluslararası pazarlara açılmayı hedefliyor. (önümüzdeki / hiçbir / herhangi)",
+        "answers": ["önümüzdeki"]
+      },
+      {
+        "question": "Raporun {{1}} bölümünde mali sonuçlar ayrıntılı biçimde açıklanmıştır. (ikinci / birkaç / bütün)",
+        "answers": ["ikinci"]
+      },
+      {
+        "question": "Yetkililer, {{1}} bölgede altyapı çalışmalarına başlamayı planlıyor. (bazı / hiçbir / her biri)",
+        "answers": ["bazı"]
+      },
+      {
+        "question": "Araştırmacılar, {{1}} kaynağı karşılaştırarak ortak sonuçlara ulaştı. (çeşitli / hiçbir / herhangi)",
+        "answers": ["çeşitli"]
+      },
+      {
+        "question": "Katılımcıların {{1}} soruya yanıt vermesi zorunludur. (bütün / herhangi bir / birkaç)",
+        "answers": ["bütün"]
+      },
+      {
+        "question": "Kurul, {{1}} seçeneği değerlendirerek en uygun olanı belirledi. (her iki / hiçbir / herhangi)",
+        "answers": ["her iki"]
+      },
+      {
+        "question": "Projenin tamamlanması için {{1}} ek kaynağa ihtiyaç duyulabilir. (birkaç / bütün / hiçbir)",
+        "answers": ["birkaç"]
+      }
+    ]
+  },
+  {
+    "id": "018",
+    "titre": "Karşılaştırma derecesi",
+    "definition": "Karşılaştırma derecesi, kişi veya nesnelerin bir özellik bakımından birbirine göre durumunu ifade eder. Türkçede daha, en, kadar ve göre gibi kelimelerle karşılaştırma yapılır.",
+    "instruction": "Parantez içindeki seçeneklerden karşılaştırma anlamına uygun olanı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Yeni sistem, önceki uygulamaya göre çok {{1}} bir kullanım kolaylığı sunuyor. (daha fazla / en fazla / kadar fazla)",
+        "answers": ["daha fazla"]
+      },
+      {
+        "question": "Bu yılın üretim miktarı, son beş yılın {{1}} düzeyine ulaştı. (en yüksek / daha yüksek / yüksek kadar)",
+        "answers": ["en yüksek"]
+      },
+      {
+        "question": "Araştırmanın ikinci aşaması, ilk aşama {{1}} kapsamlı sonuçlar ortaya koydu. (kadar / en / daha)",
+        "answers": ["kadar"]
+      },
+      {
+        "question": "Bu yöntem, diğerlerine {{1}} az maliyetli olduğu için tercih edildi. (göre / kadar / en)",
+        "answers": ["göre"]
+      },
+      {
+        "question": "Yeni model, eski modele kıyasla {{1}} enerji tüketiyor. (daha az / en az / az kadar)",
+        "answers": ["daha az"]
+      },
+      {
+        "question": "Şirketin {{1}} başarılı projesi, uluslararası ödüle layık görüldü. (en / daha / kadar)",
+        "answers": ["en"]
+      },
+      {
+        "question": "Bu bölgedeki yaşam maliyeti, başkenttekinden {{1}}. (daha düşüktür / en düşüktür / kadar düşüktür)",
+        "answers": ["daha düşüktür"]
+      },
+      {
+        "question": "İki adayın deneyim düzeyi birbirine {{1}} görünüyordu. (oldukça yakın / en yakın / daha yakın)",
+        "answers": ["oldukça yakın"]
+      },
+      {
+        "question": "Yeni düzenleme, beklenenden {{1}} olumlu sonuçlar doğurdu. (çok daha / en / kadar)",
+        "answers": ["çok daha"]
+      },
+      {
+        "question": "Bu çözüm, mevcut seçenekler arasında {{1}} uygulanabilir olanıdır. (en çok / daha çok / çok kadar)",
+        "answers": ["en çok"]
+      }
+    ]
+  },
+  {
+    "id": "019",
+    "titre": "Tümleçler",
+    "definition": "Tümleçler, cümlede yüklemin anlamını tamamlayan ögelerdir. Nesne, dolaylı tümleç ve zarf tümleci gibi türleri bulunur.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına ve tümleç görevine uygun ifadeyi seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmacılar, yeni ekonomik modeli {{1}} ayrıntılı biçimde sundu. (kurula / kurulun / kuruldan)",
+        "answers": ["kurula"]
+      },
+      {
+        "question": "Şirket, yıllık faaliyet raporunu {{1}} yayımladı. (geçen hafta / geçen haftanın / geçen haftaya)",
+        "answers": ["geçen hafta"]
+      },
+      {
+        "question": "Yetkililer, çevresel sorunların çözümü için {{1}} başvurdu. (uzmanlara / uzmanları / uzmanlardan)",
+        "answers": ["uzmanlara"]
+      },
+      {
+        "question": "Öğrenciler, araştırma sonuçlarını {{1}} dikkatle inceledi. (kütüphanede / kütüphanenin / kütüphaneye)",
+        "answers": ["kütüphanede"]
+      },
+      {
+        "question": "Yönetim, çalışanların taleplerini {{1}} değerlendirdi. (büyük bir titizlikle / büyük bir titizliğin / büyük bir titizliğe)",
+        "answers": ["büyük bir titizlikle"]
+      },
+      {
+        "question": "Komisyon, yeni düzenlemeyi {{1}} gönderdi. (bakanlığa / bakanlığın / bakanlıktan)",
+        "answers": ["bakanlığa"]
+      },
+      {
+        "question": "Uzmanlar, ekonomik gelişmeleri {{1}} takip ediyor. (yakından / yakının / yakına)",
+        "answers": ["yakından"]
+      },
+      {
+        "question": "Şirket, yeni üretim tesisini {{1}} kurmayı planlıyor. (sanayi bölgesinde / sanayi bölgesinin / sanayi bölgesinden)",
+        "answers": ["sanayi bölgesinde"]
+      },
+      {
+        "question": "Araştırmacı, elde ettiği verileri {{1}} karşılaştırdı. (önceki çalışmalarla / önceki çalışmaların / önceki çalışmalara)",
+        "answers": ["önceki çalışmalarla"]
+      },
+      {
+        "question": "Kurul, alınan kararları {{1}} duyurdu. (kamuoyuna / kamuoyunun / kamuoyundan)",
+        "answers": ["kamuoyuna"]
+      }
+    ]
+  },
+  {
+    "id": "020",
+    "titre": "Soru cümleleri",
+    "definition": "Soru cümleleri, bilgi edinmek, açıklama istemek veya bir durumu doğrulamak amacıyla oluşturulur. Türkçede mi/mı/mu/mü soru edatı ve kim, ne, nerede, neden, nasıl gibi soru kelimeleri kullanılır.",
+    "instruction": "Parantez içindeki seçeneklerden sorunun anlamına ve dil bilgisine uygun olanı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmanın sonuçları hangi tarihte kamuoyuna {{1}}? (açıklanacak / açıklanmış / açıklamak)",
+        "answers": ["açıklanacak"]
+      },
+      {
+        "question": "Bu ekonomik politikanın uzun vadeli etkilerini {{1}} değerlendirdiniz? (nasıl / hangi / kim)",
+        "answers": ["nasıl"]
+      },
+      {
+        "question": "Yeni düzenlemeden en fazla {{1}} etkilenecek? (kimler / nerede / ne zaman)",
+        "answers": ["kimler"]
+      },
+      {
+        "question": "Toplantının ertelenmesinin temel nedeni {{1}}? (nedir / nerededir / kimdir)",
+        "answers": ["nedir"]
+      },
+      {
+        "question": "Şirket, gelecek yıl hangi pazarlara açılmayı {{1}}? (planlıyor / planladı mı / planlamak)",
+        "answers": ["planlıyor"]
+      },
+      {
+        "question": "Bu rapordaki verilerin güvenilirliği bağımsız kaynaklarca doğrulandı {{1}}? (mı / ne / kim)",
+        "answers": ["mı"]
+      },
+      {
+        "question": "Projenin uygulanması için gerekli kaynaklar {{1}} sağlanacak? (nereden / neden / kimin)",
+        "answers": ["nereden"]
+      },
+      {
+        "question": "Hangi kuruluş, araştırmanın finansmanını {{1}}? (üstlendi / nerede / ne zaman)",
+        "answers": ["üstlendi"]
+      },
+      {
+        "question": "Bu kararın alınmasında hangi ölçütler dikkate {{1}}? (alındı / alarak / almak)",
+        "answers": ["alındı"]
+      },
+      {
+        "question": "Yeni uygulama, çalışanların verimliliğini gerçekten artıracak {{1}}? (mı / kim / nerede)",
+        "answers": ["mı"]
+      }
+    ]
+  },
+  {
+    "id": "021",
+    "titre": "Yan cümleler",
+    "definition": "Yan cümleler, temel cümleyi zaman, neden, koşul, amaç veya açıklama bakımından tamamlayan yapılardır. Türkçede fiilimsi ekleri ve çeşitli bağlaçlar kullanılarak oluşturulurlar.",
+    "instruction": "Parantez içindeki seçeneklerden yan cümle yapısına ve cümlenin anlamına uygun olanı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırma sonuçları açıklandıktan {{1}}, uzmanlar yeni bir değerlendirme yaptı. (sonra / önce / rağmen)",
+        "answers": ["sonra"]
+      },
+      {
+        "question": "Ekonomik koşullar iyileşirse, şirket yeni yatırımlar {{1}}. (yapabilecek / yapmış / yaparak)",
+        "answers": ["yapabilecek"]
+      },
+      {
+        "question": "Toplantıya katılmadığı {{1}}, karar sürecinde önemli bir görüş eksik kaldı. (için / hâlde / kadar)",
+        "answers": ["için"]
+      },
+      {
+        "question": "Proje tamamlanmadan {{1}}, bütün teknik kontrollerin yapılması gerekiyor. (önce / sonra / rağmen)",
+        "answers": ["önce"]
+      },
+      {
+        "question": "Veriler doğru biçimde analiz {{1}}, sonuçların güvenilirliği artacaktır. (edilirse / edilmiş / ederek)",
+        "answers": ["edilirse"]
+      },
+      {
+        "question": "Şirket, maliyetleri düşürmek {{1}} üretim sürecini yeniden düzenledi. (amacıyla / rağmen / yüzünden)",
+        "answers": ["amacıyla"]
+      },
+      {
+        "question": "Yetkililer, yeni düzenlemenin yürürlüğe girmesinden {{1}} çalışanları bilgilendirdi. (önce / sonra / dolayı)",
+        "answers": ["önce"]
+      },
+      {
+        "question": "Araştırmacılar, sonuçları karşılaştırarak ortak noktaları {{1}} çalıştı. (belirlemeye / belirlediği / belirlenmiş)",
+        "answers": ["belirlemeye"]
+      },
+      {
+        "question": "Hükümet gerekli önlemleri almadığı {{1}}, ekonomik sorunlar daha da derinleşebilir. (takdirde / hâlde / için)",
+        "answers": ["takdirde"]
+      },
+      {
+        "question": "Çalışanların görüşleri dikkate {{1}}, yeni politikanın uygulanması daha kolay olacaktır. (alındığında / alınmadan / alınmış)",
+        "answers": ["alındığında"]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "Söylem ve cümle",
+    "definition": "Söylem, cümlelerin bir araya gelerek tutarlı ve anlamlı bir bütün oluşturmasıdır. Cümleler arasında gönderim, bağdaşıklık, tutarlılık ve konu devamlılığı bulunmalıdır.",
+    "instruction": "Parantez içindeki seçeneklerden söylemin bütünlüğünü ve cümleler arasındaki ilişkiyi en iyi sağlayanı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Eğitimde dijital araçların kullanımı giderek yaygınlaşıyor. {{1}}, bu araçların etkili olabilmesi için öğretmenlerin de gerekli eğitimi alması gerekiyor. (Bununla birlikte / Örneğin / Sonuçta)",
+        "answers": ["Bununla birlikte"]
+      },
+      {
+        "question": "Kent nüfusu hızla artıyor. {{1}}, ulaşım ve konut ihtiyacı da aynı oranda yükseliyor. (Dolayısıyla / Oysa / Buna rağmen)",
+        "answers": ["Dolayısıyla"]
+      },
+      {
+        "question": "Araştırma, farklı yaş gruplarını kapsıyor. {{1}}, katılımcıların eğitim düzeyleri de inceleniyor. (Ayrıca / Aksi hâlde / Buna karşın)",
+        "answers": ["Ayrıca"]
+      },
+      {
+        "question": "Şirket, yeni pazarlara açılmayı başardı. {{1}}, bu genişleme önemli maliyetleri de beraberinde getirdi. (Ancak / Çünkü / Örneğin)",
+        "answers": ["Ancak"]
+      },
+      {
+        "question": "Çevre kirliliği insan sağlığını tehdit ediyor. {{1}}, sürdürülebilir politikaların geliştirilmesi büyük önem taşıyor. (Bu nedenle / Öte yandan / Halbuki)",
+        "answers": ["Bu nedenle"]
+      },
+      {
+        "question": "Bir toplumda okuma alışkanlığının gelişmesi uzun zaman alır. {{1}}, aile ve okul ortamı bu süreçte belirleyici rol oynar. (Bu süreçte / Buna rağmen / Aksi takdirde)",
+        "answers": ["Bu süreçte"]
+      },
+      {
+        "question": "Yeni teknoloji üretim sürecini hızlandırdı. {{1}}, çalışanların bazı görevleri de değişti. (Buna bağlı olarak / Örneğin / Ne var ki)",
+        "answers": ["Buna bağlı olarak"]
+      },
+      {
+        "question": "Ekonomik büyüme tek başına refahı garanti etmez. {{1}}, gelir dağılımındaki adaletsizlikler devam edebilir. (Nitekim / Sonuç olarak / Bunun yerine)",
+        "answers": ["Nitekim"]
+      },
+      {
+        "question": "Toplantıda farklı görüşler dile getirildi. {{1}}, katılımcılar ortak bir çözüm üzerinde uzlaştı. (Sonunda / Çünkü / Oysa)",
+        "answers": ["Sonunda"]
+      },
+      {
+        "question": "Kamu hizmetlerinin kalitesi artırılmalıdır. {{1}}, vatandaşların bu hizmetlere eşit erişimi de sağlanmalıdır. (Aynı şekilde / Aksi hâlde / Buna rağmen)",
+        "answers": ["Aynı şekilde"]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "Fiil biçimleri ve cümle yapısı",
+    "definition": "Fiil biçimleri; zaman, kip, kişi, çatı ve fiilimsi özellikleriyle cümlenin anlamını belirler. Cümle yapısı ise fiillerin ve diğer ögelerin birbirleriyle kurduğu ilişkiyi gösterir.",
+    "instruction": "Parantez içindeki seçeneklerden fiil biçimi ve cümle yapısı bakımından uygun olanı seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Uzmanlar, ekonomik göstergelerdeki değişimleri uzun süredir {{1}}. (inceliyor / incelemiş / incelemek)",
+        "answers": ["inceliyor"]
+      },
+      {
+        "question": "Yeni düzenleme yürürlüğe girmeden önce bütün kurumların gerekli hazırlıkları {{1}} gerekiyor. (tamamlaması / tamamladı / tamamlanmış)",
+        "answers": ["tamamlaması"]
+      },
+      {
+        "question": "Yönetim, çalışanların önerilerini dikkate {{1}} yeni bir çalışma modeli oluşturdu. (alarak / aldıktan / alınmış)",
+        "answers": ["alarak"]
+      },
+      {
+        "question": "Araştırmanın sonuçları bağımsız uzmanlar tarafından {{1}}. (doğrulandı / doğrulamak / doğrulayarak)",
+        "answers": ["doğrulandı"]
+      },
+      {
+        "question": "Şirket, gelecek yıl üretim kapasitesini {{1}} planlıyor. (artırmayı / artırdı / artırılmış)",
+        "answers": ["artırmayı"]
+      },
+      {
+        "question": "Toplantı sona erdiğinde katılımcılar bütün önerileri {{1}}. (değerlendirmişti / değerlendirmek / değerlendirilerek)",
+        "answers": ["değerlendirmişti"]
+      },
+      {
+        "question": "Bu politikanın etkileri zaman içinde daha açık biçimde {{1}}. (görülecektir / görerek / görmüş)",
+        "answers": ["görülecektir"]
+      },
+      {
+        "question": "Veriler dikkatle {{1}}, araştırmanın sonuçları daha güvenilir olacaktır. (incelenirse / incelemek / incelendi)",
+        "answers": ["incelenirse"]
+      },
+      {
+        "question": "Kurum, hizmet kalitesini artırmak için yeni teknolojiler {{1}} başladı. (kullanmaya / kullandı / kullanılmış)",
+        "answers": ["kullanmaya"]
+      },
+      {
+        "question": "Yetkililer, gerekli önlemleri zamanında {{1}} krizin etkileri daha sınırlı kalabilirdi. (alsaydı / alıyor / alarak)",
+        "answers": ["alsaydı"]
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "Türemiş kelimeler",
+    "definition": "Türemiş kelimeler, kök veya gövdelere yapım ekleri getirilerek oluşturulan yeni kelimelerdir. Bu ekler kelimenin anlamını veya türünü değiştirebilir.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına ve kelimenin yapısına uygun türemiş kelimeyi seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Ekonomik {{1}}, toplumun yaşam standartlarını ve üretim kapasitesini etkileyen temel unsurlardan biridir. (gelişme / gelişmiş / gelişmek)",
+        "answers": ["gelişme"]
+      },
+      {
+        "question": "Kurumun {{1}} yaklaşımı, çalışanlar arasında güven ortamı oluşturdu. (yenilikçi / yenilik / yenilemek)",
+        "answers": ["yenilikçi"]
+      },
+      {
+        "question": "Çevresel sorunların çözümü için toplumsal {{1}} artırılmalıdır. (duyarlılık / duyarlı / duyarsız)",
+        "answers": ["duyarlılık"]
+      },
+      {
+        "question": "Araştırmanın {{1}} sonuçları, bilimsel çevrelerde geniş yankı uyandırdı. (şaşırtıcı / şaşkınlık / şaşırmak)",
+        "answers": ["şaşırtıcı"]
+      },
+      {
+        "question": "Şirket, üretim sürecindeki {{1}} ortadan kaldırmak için yeni teknolojiler kullandı. (verimsizlikleri / verimli / verimlilik)",
+        "answers": ["verimsizlikleri"]
+      },
+      {
+        "question": "Kamu hizmetlerinin {{1}} vatandaşların yaşam kalitesini doğrudan etkiler. (erişilebilirliği / erişmek / erişimli)",
+        "answers": ["erişilebilirliği"]
+      },
+      {
+        "question": "Uzun vadeli yatırımların {{1}}, ekonomik istikrar açısından önemlidir. (sürdürülebilirliği / sürdürmek / sürdürülen)",
+        "answers": ["sürdürülebilirliği"]
+      },
+      {
+        "question": "Yeni düzenlemenin {{1}}, uygulama sürecinde bazı sorunlara yol açtı. (belirsizliği / belirgin / belirlemek)",
+        "answers": ["belirsizliği"]
+      },
+      {
+        "question": "Eğitimde fırsat {{1}}, toplumsal kalkınmanın temel koşullarından biridir. (eşitliği / eşit / eşitlemek)",
+        "answers": ["eşitliği"]
+      },
+      {
+        "question": "Bilimsel {{1}}, yeni keşiflerin ve teknolojik gelişmelerin önünü açar. (yaratıcılık / yaratıcı / yaratmak)",
+        "answers": ["yaratıcılık"]
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "titre": "Sıfatlar",
+    "definition": "Sıfatlar, isimleri niteleyerek veya belirterek onların özelliklerini, durumlarını ve miktarlarını ifade eder.",
+    "instruction": "Parantez içindeki seçeneklerden cümleye uygun kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Ekonomik krizden sonra şirket, daha {{1}} ve {{2}} bir yönetim modeli geliştirmek zorunda kaldı. (esnek / katı / etkisiz) (sürdürülebilir / geçici / rastgele)",
+        "answers": ["esnek", "sürdürülebilir"]
+      },
+      {
+        "question": "Araştırmanın sonuçları, başlangıçtaki tahminlerden oldukça {{1}} ve {{2}} çıktı. (çarpıcı / sıradan / önemsiz) (kapsamlı / yüzeysel / eksik)",
+        "answers": ["çarpıcı", "kapsamlı"]
+      },
+      {
+        "question": "Bu kadar {{1}} ve {{2}} bir konuda aceleci kararlar vermek doğru değildir. (karmaşık / basit / açık) (hassas / önemsiz / sıradan)",
+        "answers": ["karmaşık", "hassas"]
+      },
+      {
+        "question": "Uzmanlar, {{1}} kaynakların {{2}} kullanılmasının önemini vurguladı. (sınırlı / sonsuz / gereksiz) (verimli / savurgan / düzensiz)",
+        "answers": ["sınırlı", "verimli"]
+      },
+      {
+        "question": "Yeni düzenleme, özellikle {{1}} işletmeler için {{2}} fırsatlar sunuyor. (küçük / devasa / yabancı) (önemli / anlamsız / zararlı)",
+        "answers": ["küçük", "önemli"]
+      },
+      {
+        "question": "Yöneticinin {{1}} ve {{2}} yaklaşımı, çalışanların güvenini artırdı. (tutarlı / çelişkili / kayıtsız) (adil / taraflı / keyfî)",
+        "answers": ["tutarlı", "adil"]
+      },
+      {
+        "question": "Bilimsel bir çalışmanın {{1}} ve {{2}} verilere dayanması gerekir. (güvenilir / şüpheli / rastgele) (nesnel / öznel / duygusal)",
+        "answers": ["güvenilir", "nesnel"]
+      },
+      {
+        "question": "Kentleşmenin {{1}} etkileri, özellikle {{2}} bölgelerde daha belirgin hâle geliyor. (olumsuz / hayalî / önemsiz) (yoğun / seyrek / ıssız)",
+        "answers": ["olumsuz", "yoğun"]
+      },
+      {
+        "question": "Şirket, müşterilerine daha {{1}} ve {{2}} hizmetler sunmayı hedefliyor. (erişilebilir / kapalı / sınırlı) (güvenilir / tutarsız / şüpheli)",
+        "answers": ["erişilebilir", "güvenilir"]
+      },
+      {
+        "question": "Toplumsal sorunlara {{1}} çözümler geliştirmek, {{2}} bir yaklaşım gerektirir. (kalıcı / geçici / yüzeysel) (kapsamlı / gelişigüzel / dar)",
+        "answers": ["kalıcı", "kapsamlı"]
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "titre": "Edatlar",
+    "definition": "Edatlar, isimlerle veya zamirlerle birlikte kullanılarak amaç, neden, benzerlik, karşılaştırma ve ilişki gibi anlamlar oluşturur.",
+    "instruction": "Parantez içindeki seçeneklerden uygun edatları seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Bütün eleştirilere {{1}} araştırmacılar çalışmalarını sürdürdü ve sonuçları bilim dünyasıyla paylaştı. (rağmen / dolayı / üzere)",
+        "answers": ["rağmen"]
+      },
+      {
+        "question": "Bu araştırma, önceki çalışmalara {{1}} daha geniş bir örneklem kullanılarak gerçekleştirildi. (kıyasla / rağmen / dolayı)",
+        "answers": ["kıyasla"]
+      },
+      {
+        "question": "Yeni düzenlemeler, ekonomik verimliliği artırmak {{1}} yürürlüğe konuldu. (amacıyla / yüzünden / karşı)",
+        "answers": ["amacıyla"]
+      },
+      {
+        "question": "Uzmanların değerlendirmelerine {{1}}, mevcut sistemin yeniden yapılandırılması gerekiyor. (göre / rağmen / kadar)",
+        "answers": ["göre"]
+      },
+      {
+        "question": "Şirket, uluslararası pazarlara açılmak {{1}} yeni bir yatırım planı hazırladı. (üzere / dolayı / karşın)",
+        "answers": ["üzere"]
+      },
+      {
+        "question": "Ekonomik büyüme, yalnızca yatırımlara değil, aynı zamanda üretim kapasitesine de {{1}}. (bağlıdır / rağmen / kadardır)",
+        "answers": ["bağlıdır"]
+      },
+      {
+        "question": "Bu karar, toplumsal sonuçları {{1}} yeniden değerlendirilmelidir. (açısından / boyunca / rağmen)",
+        "answers": ["açısından"]
+      },
+      {
+        "question": "Bütün hazırlıklara {{1}} etkinlik beklenenden daha geç başladı. (rağmen / dolayı / göre)",
+        "answers": ["rağmen"]
+      },
+      {
+        "question": "Yeni teknoloji, eski sisteme {{1}} daha düşük maliyetle çalışıyor. (nazaran / dolayı / karşı)",
+        "answers": ["nazaran"]
+      },
+      {
+        "question": "Çevresel sürdürülebilirlik, ekonomik kalkınmayla birlikte değerlendirilmelidir; biri diğeri {{2}} düşünülemez. (olmadan / rağmen / kadar)",
+        "answers": ["olmadan"]
+      }
+    ]
+  },
+  {
+    "id": "026",
+    "titre": "Zarflar",
+    "definition": "Zarflar, fiilleri, sıfatları veya başka zarfları zaman, durum, miktar ve yön bakımından tamamlar.",
+    "instruction": "Parantez içindeki seçeneklerden uygun zarfları seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmacılar, elde edilen verileri {{1}} inceleyerek sonuçları {{2}} değerlendirdi. (titizlikle / rastgele / nadiren) (ayrıntılı biçimde / dikkatsizce / gelişigüzel)",
+        "answers": ["titizlikle", "ayrıntılı biçimde"]
+      },
+      {
+        "question": "Şirketin gelirleri, son üç yılda {{1}} artarken giderleri {{2}} yükseldi. (istikrarlı biçimde / tesadüfen / aniden) (yavaşça / aşırı derecede / hiçbir zaman)",
+        "answers": ["istikrarlı biçimde", "yavaşça"]
+      },
+      {
+        "question": "Yetkililer, kamuoyunun tepkisini {{1}} takip ediyor ve gelişmeleri {{2}} değerlendiriyor. (yakından / uzaktan / nadiren) (düzenli olarak / gelişigüzel / tesadüfen)",
+        "answers": ["yakından", "düzenli olarak"]
+      },
+      {
+        "question": "Konuşmacı, eleştirilere {{1}} yanıt verdi ve tartışmayı {{2}} sonlandırdı. (sakinlikle / öfkeyle / istemeden) (başarıyla / rastgele / güçlükle)",
+        "answers": ["sakinlikle", "başarıyla"]
+      },
+      {
+        "question": "Yeni sistem, kullanıcıların ihtiyaçlarını {{1}} karşılamak üzere {{2}} tasarlandı. (etkili biçimde / yetersizce / tesadüfen) (özellikle / dün / aşağıda)",
+        "answers": ["etkili biçimde", "özellikle"]
+      },
+      {
+        "question": "Uzmanlar, ekonomik göstergelerdeki değişimleri {{1}} izleyerek olası riskleri {{2}} belirledi. (sürekli / asla / dün) (önceden / rastgele / güçlükle)",
+        "answers": ["sürekli", "önceden"]
+      },
+      {
+        "question": "Öğrenciler, sınav sonuçlarını öğrenmek için {{1}} bekledi ve açıklamaları {{2}} dinledi. (sabırsızlıkla / isteksizce / nadiren) (dikkatle / dikkatsizce / tesadüfen)",
+        "answers": ["sabırsızlıkla", "dikkatle"]
+      },
+      {
+        "question": "Üretim maliyetleri {{1}} yükseldiği için şirket kaynaklarını {{2}} kullanmaya başladı. (hızla / yavaşça / hiçbir zaman) (daha verimli / daha savurgan / gelişigüzel)",
+        "answers": ["hızla", "daha verimli"]
+      },
+      {
+        "question": "Komisyon, bütün belgeleri {{1}} inceledi ve kararını {{2}} açıkladı. (ayrıntılı olarak / yüzeysel olarak / rastgele) (resmen / gizlice / tesadüfen)",
+        "answers": ["ayrıntılı olarak", "resmen"]
+      },
+      {
+        "question": "Proje, beklenenden {{1}} tamamlandı ve hedeflenen sonuçlara {{2}} ulaşıldı. (çok daha erken / çok daha geç / hiçbir zaman) (büyük ölçüde / tesadüfen / nadiren)",
+        "answers": ["çok daha erken", "büyük ölçüde"]
+      }
+    ]
+  },
+  {
+    "id": "027",
+    "titre": "Eş anlamlı kelimeler",
+    "definition": "Eş anlamlı kelimeler, aynı veya birbirine yakın anlamları ifade eden farklı sözcüklerdir.",
+    "instruction": "Parantez içindeki seçeneklerden cümledeki anlamla eşleşen kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmanın {{1}} sonuçlara dayanması, bilimsel güvenilirliğini artırdı. (nesnel / taraflı / belirsiz)",
+        "answers": ["nesnel"]
+      },
+      {
+        "question": "Kurum, çalışanların {{1}} artırmak amacıyla yeni eğitim programları başlattı. (yeterliliğini / isteksizliğini / belirsizliğini)",
+        "answers": ["yeterliliğini"]
+      },
+      {
+        "question": "Yönetim, kaynakların {{1}} kullanılmasını sağlamak için denetim mekanizmaları oluşturdu. (verimli / savurgan / gelişigüzel)",
+        "answers": ["verimli"]
+      },
+      {
+        "question": "Uzmanlar, sorunun {{1}} nedenlerini belirlemek amacıyla kapsamlı bir inceleme yaptı. (temel / yüzeysel / önemsiz)",
+        "answers": ["temel"]
+      },
+      {
+        "question": "Toplumun {{1}} ihtiyaçlarını karşılamak, kamu politikalarının öncelikleri arasında yer alıyor. (gereksinimlerini / alışkanlıklarını / ayrıcalıklarını)",
+        "answers": ["gereksinimlerini"]
+      },
+      {
+        "question": "Yeni uygulamanın {{1}} etkileri, bağımsız araştırmalarla doğrulandı. (sonuçları / başlangıçları / görünüşleri)",
+        "answers": ["sonuçları"]
+      },
+      {
+        "question": "Bu konuda {{1}} bir yaklaşım benimsemek, farklı görüşlerin değerlendirilmesini sağlar. (kapsamlı / dar / ilgisiz)",
+        "answers": ["kapsamlı"]
+      },
+      {
+        "question": "Şirketin {{1}} amacı, uluslararası pazarlardaki konumunu güçlendirmektir. (temel / geçici / rastgele)",
+        "answers": ["temel"]
+      },
+      {
+        "question": "Uzmanların {{1}} önerileri, karar alma sürecine önemli katkı sağladı. (tavsiyeleri / itirazları / mazeretleri)",
+        "answers": ["tavsiyeleri"]
+      },
+      {
+        "question": "Toplumsal {{1}} güçlendirmek için bireyler arasında iş birliği geliştirilmelidir. (dayanışmayı / rekabeti / ayrılığı)",
+        "answers": ["dayanışmayı"]
+      }
+    ]
+  },
+  {
+    "id": "028",
+    "titre": "Kelimeler",
+    "definition": "Kelimeler, cümle içinde farklı anlam ve görevler üstlenir. Doğru kelime seçimi, anlatımın açıklığını ve tutarlılığını sağlar.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına uygun kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Küresel ekonomik {{1}}, ülkelerin üretim ve ticaret politikalarını yeniden gözden geçirmesine neden oldu. (belirsizlik / kolaylık / istikrar)",
+        "answers": ["belirsizlik"]
+      },
+      {
+        "question": "Kamu kaynaklarının adil {{1}}, toplumsal eşitsizliklerin azaltılmasına katkı sağlayabilir. (dağıtımı / tüketimi / kaybı)",
+        "answers": ["dağıtımı"]
+      },
+      {
+        "question": "Bilimsel araştırmalarda yöntemsel {{1}}, elde edilen sonuçların geçerliliğini etkiler. (tutarlılık / rastlantı / karmaşa)",
+        "answers": ["tutarlılık"]
+      },
+      {
+        "question": "Teknolojik gelişmeler, iş gücü piyasasında önemli bir {{1}} meydana getirdi. (dönüşüm / durgunluk / tekrar)",
+        "answers": ["dönüşüm"]
+      },
+      {
+        "question": "Çevresel {{1}}, gelecek nesillerin yaşam koşullarını korumayı amaçlar. (sürdürülebilirlik / savurganlık / bağımlılık)",
+        "answers": ["sürdürülebilirlik"]
+      },
+      {
+        "question": "Bir ülkenin ekonomik {{1}}, vatandaşların yaşam standartlarıyla yakından ilişkilidir. (refahı / gecikmesi / belirsizliği)",
+        "answers": ["refahı"]
+      },
+      {
+        "question": "Kurumlar arasındaki {{1}}, ortak hedeflere ulaşılmasını kolaylaştırır. (eşgüdüm / anlaşmazlık / kopukluk)",
+        "answers": ["eşgüdüm"]
+      },
+      {
+        "question": "Toplumdaki gelir {{1}}, sosyal politikaların yeniden düzenlenmesini gerektiriyor. (eşitsizliği / dengesi / istikrarı)",
+        "answers": ["eşitsizliği"]
+      },
+      {
+        "question": "Bir projenin başarısı, planlama ve uygulama arasındaki {{1}} bağlıdır. (uyuma / çelişkiye / kopukluğa)",
+        "answers": ["uyuma"]
+      },
+      {
+        "question": "Uluslararası iş birliği, küresel sorunların çözümünde önemli bir {{1}} oluşturur. (dayanak / engel / kayıp)",
+        "answers": ["dayanak"]
+      }
+    ]
+  },
+  {
+    "id": "029",
+    "titre": "Bağlaçlar",
+    "definition": "Bağlaçlar, cümleler ve kelime grupları arasında karşıtlık, neden, sonuç, ekleme ve seçenek ilişkileri kurar.",
+    "instruction": "Parantez içindeki seçeneklerden cümleye uygun bağlaçları seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Şirketin satışları arttı, {{1}} üretim maliyetleri de önemli ölçüde yükseldi. (ancak / çünkü / ayrıca)",
+        "answers": ["ancak"]
+      },
+      {
+        "question": "Araştırma yalnızca ekonomik göstergeleri değil, {{1}} toplumsal etkileri de inceliyor. (aynı zamanda / oysa / aksi hâlde)",
+        "answers": ["aynı zamanda"]
+      },
+      {
+        "question": "Toplantı ertelendi, {{1}} gerekli belgeler henüz tamamlanmamıştı. (çünkü / rağmen / oysa)",
+        "answers": ["çünkü"]
+      },
+      {
+        "question": "Hem ekonomik büyüme desteklenmeli {{1}} çevresel kaynaklar korunmalıdır. (hem de / ne de / ya da)",
+        "answers": ["hem de"]
+      },
+      {
+        "question": "Yatırımlar artmasına {{1}}, işsizlik oranı beklenen ölçüde düşmedi. (rağmen / dolayı / üzere)",
+        "answers": ["rağmen"]
+      },
+      {
+        "question": "Belgeleri bugün gönderebiliriz {{1}} toplantıdan sonra teslim edebiliriz. (ya da / çünkü / oysa)",
+        "answers": ["ya da"]
+      },
+      {
+        "question": "Rapor kapsamlı hazırlanmıştı; {{1}}, bazı önemli veriler eksik bırakılmıştı. (bununla birlikte / dolayısıyla / çünkü)",
+        "answers": ["bununla birlikte"]
+      },
+      {
+        "question": "Ne yöneticiler öneriyi kabul etti {{1}} çalışanlar uygulamayı destekledi. (ne de / hem de / çünkü)",
+        "answers": ["ne de"]
+      },
+      {
+        "question": "Şirket yeni bir pazara açıldı, {{1}} uluslararası ortaklıklarını genişletti. (üstelik / oysa / halbuki)",
+        "answers": ["üstelik"]
+      },
+      {
+        "question": "Gerekli önlemler zamanında alınmadı; {{1}}, sorunlar daha da büyüdü. (bu nedenle / buna rağmen / örneğin)",
+        "answers": ["bu nedenle"]
+      }
+    ]
+  },
+  {
+    "id": "030",
+    "titre": "Kelime sıralaması",
+    "definition": "Türkçede temel cümle sıralaması genellikle özne, tümleç ve yüklem biçimindedir. Kelimelerin sırası, vurguya ve anlatım amacına göre değişebilir.",
+    "instruction": "Parantez içindeki seçeneklerden cümle yapısına uygun kelime veya ifadeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmacılar, elde ettikleri sonuçları kamuoyuna {{1}}. (sundu / sunmak / sunarak)",
+        "answers": ["sundu"]
+      },
+      {
+        "question": "Yönetim, çalışanların taleplerini dikkate alarak yeni bir politika {{1}}. (geliştirdi / geliştirmek / geliştirilmiş)",
+        "answers": ["geliştirdi"]
+      },
+      {
+        "question": "Ekonomik göstergelerdeki değişimler, uzmanlar tarafından dikkatle {{1}}. (inceleniyor / incelemek / inceleyerek)",
+        "answers": ["inceleniyor"]
+      },
+      {
+        "question": "Şirket, üretim kapasitesini artırmak için yeni tesisler {{1}}. (kurdu / kurmak / kurulmuş)",
+        "answers": ["kurdu"]
+      },
+      {
+        "question": "Toplantıda alınan kararların bütün çalışanlara {{1}} gerekiyor. (bildirilmesi / bildirdi / bildirerek)",
+        "answers": ["bildirilmesi"]
+      },
+      {
+        "question": "Uzmanlar, çevresel riskleri azaltmak amacıyla yeni yöntemler {{1}}. (önerdi / önermek / önerilmiş)",
+        "answers": ["önerdi"]
+      },
+      {
+        "question": "Kamu kurumları, vatandaşların ihtiyaçlarını daha iyi karşılamak için hizmetlerini {{1}}. (yeniledi / yenilemek / yenilenmiş)",
+        "answers": ["yeniledi"]
+      },
+      {
+        "question": "Bilim insanları, iklim değişikliğinin etkilerini azaltmak için çeşitli çözümler {{1}}. (araştırıyor / araştırmak / araştırılmış)",
+        "answers": ["araştırıyor"]
+      },
+      {
+        "question": "Komisyon, rapordaki eksiklikleri belirledikten sonra nihai kararını {{1}}. (açıkladı / açıklamak / açıklanmış)",
+        "answers": ["açıkladı"]
+      },
+      {
+        "question": "Ekonomik istikrarın sağlanması için hükümetin uzun vadeli politikalar {{1}} gerekiyor. (uygulaması / uyguladı / uygulanarak)",
+        "answers": ["uygulaması"]
+      }
+    ]
+  },
+  {
+    "id": "031",
+    "titre": "Artikeller ve belirleyiciler",
+    "definition": "Türkçede dil bilgisel artikeller bulunmaz. Belirlilik, belirsizlik, miktar ve işaret anlamları bu, şu, o, bir, bazı, bütün ve her gibi belirleyicilerle ifade edilir.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına uygun belirleyicileri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmaya katılan {{1}} uzman, elde edilen sonuçları ayrı ayrı değerlendirdi. (her / hiçbir / herhangi)",
+        "answers": ["her"]
+      },
+      {
+        "question": "Şirket, gelecek yıl {{1}} yeni pazara açılmayı planlıyor. (birkaç / hiçbir / bütün)",
+        "answers": ["birkaç"]
+      },
+      {
+        "question": "Toplantıda sunulan {{1}} öneri, önceki planlardan daha kapsamlıydı. (bu / herhangi / hiçbir)",
+        "answers": ["bu"]
+      },
+      {
+        "question": "Kurum, {{1}} çalışanlarına mesleki gelişim desteği sunuyor. (bütün / hiçbiri / herhangi)",
+        "answers": ["bütün"]
+      },
+      {
+        "question": "Arşivdeki belgelerin {{1}} dijital ortama aktarılması gerekiyor. (tümünün / hiçbirinin / herhangi birinin)",
+        "answers": ["tümünün"]
+      },
+      {
+        "question": "Henüz {{1}} karar alınmadığı için uygulamanın tarihi kesinleşmedi. (bir / aynı / bütün)",
+        "answers": ["bir"]
+      },
+      {
+        "question": "Projeye ilişkin {{1}} ayrıntılar, nihai raporda açıklanacaktır. (diğer / hiçbir / herhangi)",
+        "answers": ["diğer"]
+      },
+      {
+        "question": "Komisyon, {{1}} seçeneği karşılaştırarak en uygun olanı belirledi. (her iki / hiçbir / herhangi)",
+        "answers": ["her iki"]
+      },
+      {
+        "question": "Katılımcıların {{1}} soruya eksiksiz yanıt vermesi bekleniyor. (bütün / birkaç / herhangi)",
+        "answers": ["bütün"]
+      },
+      {
+        "question": "Bu konuda {{1}} bilgiye sahip olmayan kişilerin yorum yapmaması gerekir. (hiçbir / bazı / tüm)",
+        "answers": ["hiçbir"]
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Zıt anlamlı kelimeler",
+    "definition": "Zıt anlamlı kelimeler, anlam bakımından birbirinin karşıtı olan sözcüklerdir.",
+    "instruction": "Parantez içindeki seçeneklerden cümledeki anlama uygun zıt kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Ekonomik durgunluğun ardından piyasada yeniden {{1}} bir hareketlilik başladı. (canlı / durağan / yavaş)",
+        "answers": ["canlı"]
+      },
+      {
+        "question": "Şirket, geçici çözümler yerine {{1}} politikalar geliştirmeyi tercih etti. (kalıcı / kısa süreli / anlık)",
+        "answers": ["kalıcı"]
+      },
+      {
+        "question": "Başlangıçta karmaşık görünen süreç, yapılan düzenlemelerle oldukça {{1}} hâle geldi. (basit / güç / anlaşılmaz)",
+        "answers": ["basit"]
+      },
+      {
+        "question": "Yatırım miktarı artmasına rağmen üretim maliyetleri {{1}}. (azaldı / yükseldi / çoğaldı)",
+        "answers": ["azaldı"]
+      },
+      {
+        "question": "Şirket, tek taraflı bir karar almak yerine {{1}} bir yaklaşım benimsedi. (ortak / bireysel / kişisel)",
+        "answers": ["ortak"]
+      },
+      {
+        "question": "Önceki dönemde yoğun olan talep, son aylarda oldukça {{1}} hâle geldi. (düşük / yüksek / güçlü)",
+        "answers": ["düşük"]
+      },
+      {
+        "question": "Yönetim, kapalı bir sistem yerine daha {{1}} bir iletişim politikası uygulamaya başladı. (şeffaf / gizli / belirsiz)",
+        "answers": ["şeffaf"]
+      },
+      {
+        "question": "Başarılı projelerin aksine, başarısız girişimler çoğu zaman {{1}} kaynaklarla sonuçlanır. (kayıp / kazanç / gelir)",
+        "answers": ["kayıp"]
+      },
+      {
+        "question": "Uzmanlar, kısa vadeli kazançlar yerine {{1}} yararları dikkate almayı öneriyor. (uzun vadeli / geçici / anlık)",
+        "answers": ["uzun vadeli"]
+      },
+      {
+        "question": "Piyasada arzın artması ve talebin azalması, fiyatların {{1}} yönünde değişmesine neden olabilir. (düşüş / yükseliş / artış)",
+        "answers": ["düşüş"]
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Zamirler",
+    "definition": "Zamirler, isimlerin yerini tutarak kişi, nesne, miktar, belirsizlik veya soru anlamı oluşturur.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına uygun zamirleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmacılar, belgeleri karşılaştırdıktan sonra {{1}} kamuoyuyla paylaştı. (onları / kendisi / kimse)",
+        "answers": ["onları"]
+      },
+      {
+        "question": "Projeye katılan uzmanların {{1}} farklı bir çözüm önerdi. (her biri / hiçbiri / kim)",
+        "answers": ["her biri"]
+      },
+      {
+        "question": "İki teklif de değerlendirildi, ancak {{1}} uygulanabilir bulunmadı. (ikisi de / biri / hepsi)",
+        "answers": ["ikisi de"]
+      },
+      {
+        "question": "Bu kararı {{1}} verdiğini öğrenmek istiyoruz. (kimin / hangisi / ne)",
+        "answers": ["kimin"]
+      },
+      {
+        "question": "Belgelerin {{1}} arşive kaldırılmalı, diğerleri ise erişilebilir kalmalıdır. (bazıları / herkes / kimse)",
+        "answers": ["bazıları"]
+      },
+      {
+        "question": "Yönetici, çalışanlarla görüştükten sonra {{1}} görüşlerini rapora ekledi. (onların / kendisi / hiçbiri)",
+        "answers": ["onların"]
+      },
+      {
+        "question": "Bu seçeneklerden {{1}} daha düşük maliyetli olduğunu karşılaştırarak belirleyebiliriz. (hangisinin / kimin / neyin)",
+        "answers": ["hangisinin"]
+      },
+      {
+        "question": "Herkes kendi sorumluluğunu yerine getirmeli; {{1}} başkalarının görevlerini üstlenmek zorunda değildir. (hiç kimse / kendileri / bunlar)",
+        "answers": ["hiç kimse"]
+      },
+      {
+        "question": "Toplantıya katılanların {{1}} öneriyi destekledi, diğerleri ise çekimser kaldı. (birkaçı / hiçbiri / kendisi)",
+        "answers": ["birkaçı"]
+      },
+      {
+        "question": "Araştırmacı, bütün verileri {{1}} inceleyerek sonuçlara ulaştı. (kendisi / kimse / herhangi biri)",
+        "answers": ["kendisi"]
+      }
+    ]
+  },
+  {
+    "id": "034",
+    "titre": "Fiiller",
+    "definition": "Fiiller, iş, oluş veya durum bildirir. Zaman, kip, kişi ve çatı ekleriyle farklı biçimlerde kullanılır.",
+    "instruction": "Parantez içindeki seçeneklerden cümleye uygun fiil biçimlerini seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Uzmanlar, ekonomik göstergelerdeki değişimleri uzun süredir {{1}}. (izliyor / izlemek / izlenmiş)",
+        "answers": ["izliyor"]
+      },
+      {
+        "question": "Yönetim, yeni düzenlemeyi uygulamadan önce çalışanları {{1}} istiyor. (bilgilendirmek / bilgilendirdi / bilgilendirilmiş)",
+        "answers": ["bilgilendirmek"]
+      },
+      {
+        "question": "Araştırmanın sonuçları bağımsız uzmanlar tarafından {{1}}. (doğrulandı / doğrulamak / doğrulayarak)",
+        "answers": ["doğrulandı"]
+      },
+      {
+        "question": "Şirket, üretim kapasitesini artırmak için yeni tesisler {{1}} planlıyor. (kurmayı / kurdu / kurulmuş)",
+        "answers": ["kurmayı"]
+      },
+      {
+        "question": "Yetkililer, gerekli önlemleri zamanında {{1}} krizin etkileri daha sınırlı kalabilirdi. (alsaydı / alıyor / alarak)",
+        "answers": ["alsaydı"]
+      },
+      {
+        "question": "Veriler dikkatle {{1}}, araştırmanın sonuçları daha güvenilir olacaktır. (incelenirse / incelemek / incelendi)",
+        "answers": ["incelenirse"]
+      },
+      {
+        "question": "Kurum, hizmet kalitesini artırmak amacıyla yeni teknolojiler {{1}} başladı. (kullanmaya / kullandı / kullanılmış)",
+        "answers": ["kullanmaya"]
+      },
+      {
+        "question": "Komisyon, raporun eksik bölümlerinin yeniden {{1}} istedi. (hazırlanmasını / hazırladı / hazırlayarak)",
+        "answers": ["hazırlanmasını"]
+      },
+      {
+        "question": "Ekonomik koşullar iyileştikçe yatırımların {{1}} bekleniyor. (artması / arttı / artırarak)",
+        "answers": ["artması"]
+      },
+      {
+        "question": "Şirket, müşteri memnuniyetini artırmak için hizmetlerini sürekli {{1}}. (geliştiriyor / geliştirmek / geliştirilmiş)",
+        "answers": ["geliştiriyor"]
+      }
+    ]
+  },
+  {
+    "id": "035",
+    "titre": "İsimler",
+    "definition": "İsimler; varlıkları, kişileri, yerleri, kavramları, duyguları ve olayları karşılayan kelimelerdir.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına uygun isimleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Ekonomik {{1}}, toplumun yaşam standartlarını etkileyen temel unsurlardan biridir. (istikrar / istikrarlı / istikrarsız)",
+        "answers": ["istikrar"]
+      },
+      {
+        "question": "Kurumun temel {{1}}, kamu hizmetlerine erişimi kolaylaştırmaktır. (önceliği / öncelikli / öncelikle)",
+        "answers": ["önceliği"]
+      },
+      {
+        "question": "Çevresel {{1}}, gelecek nesillerin yaşam koşullarını korumayı gerektirir. (sorumluluk / sorumlu / sorumsuz)",
+        "answers": ["sorumluluk"]
+      },
+      {
+        "question": "Bilimsel {{1}}, yeni teknolojilerin geliştirilmesinde önemli rol oynar. (araştırma / araştırmacı / araştırmak)",
+        "answers": ["araştırma"]
+      },
+      {
+        "question": "Toplumsal {{1}}, farklı gruplar arasında eşit fırsatlar sağlanmasıyla güçlenebilir. (adalet / adil / adaletsiz)",
+        "answers": ["adalet"]
+      },
+      {
+        "question": "Kurumlar arasındaki {{1}}, ortak projelerin daha etkili yürütülmesini sağlar. (iş birliği / iş birlikçi / iş birliği yapmak)",
+        "answers": ["iş birliği"]
+      },
+      {
+        "question": "Yeni teknolojilerin yaygınlaşması, iş gücü piyasasında önemli bir {{1}} yarattı. (değişim / değişken / değişmek)",
+        "answers": ["değişim"]
+      },
+      {
+        "question": "Gelir {{1}}, birçok ülkede sosyal politikaların temel sorunlarından biridir. (dağılımı / dağıtmak / dağınık)",
+        "answers": ["dağılımı"]
+      },
+      {
+        "question": "Araştırmanın bilimsel {{1}}, kullanılan yöntemlerin doğruluğuna bağlıdır. (geçerliliği / geçerli / geçersiz)",
+        "answers": ["geçerliliği"]
+      },
+      {
+        "question": "Uluslararası {{1}}, küresel sorunların çözümünde belirleyici bir rol oynar. (dayanışma / dayanıklı / dayanmak)",
+        "answers": ["dayanışma"]
+      }
+    ]
+  },
+  {
+    "id": "036",
+    "titre": "Ön ekler ve son ekler",
+    "definition": "Türkçede kelime türetme ve çekimleme çoğunlukla son eklerle gerçekleştirilir. Yapım ekleri yeni kelimeler oluştururken çekim ekleri kelimenin cümledeki görevini belirler.",
+    "instruction": "Parantez içindeki seçeneklerden kelimenin yapısına ve cümlenin anlamına uygun biçimi seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Kurumun {{1}} yaklaşımı, çalışanların güvenini artırdı. (yenilikçi / yenilik / yenilemek)",
+        "answers": ["yenilikçi"]
+      },
+      {
+        "question": "Çevresel sorunlara karşı toplumsal {{1}} artırılmalıdır. (duyarlılık / duyarlı / duyarsız)",
+        "answers": ["duyarlılık"]
+      },
+      {
+        "question": "Yeni sistemin {{1}} kullanıcıların ihtiyaçlarına göre değerlendirilecektir. (uygulanabilirliği / uygulanabilir / uygulamak)",
+        "answers": ["uygulanabilirliği"]
+      },
+      {
+        "question": "Şirket, üretim sürecindeki {{1}} ortadan kaldırmak için yeni yöntemler geliştirdi. (verimsizlikleri / verimli / verimlilik)",
+        "answers": ["verimsizlikleri"]
+      },
+      {
+        "question": "Kamu hizmetlerinin {{1}} vatandaşların yaşam kalitesini doğrudan etkiler. (erişilebilirliği / erişmek / erişimli)",
+        "answers": ["erişilebilirliği"]
+      },
+      {
+        "question": "Araştırmanın {{1}} sonuçları, bilim dünyasında tartışmalara yol açtı. (beklenmedik / beklemek / beklenti)",
+        "answers": ["beklenmedik"]
+      },
+      {
+        "question": "Ekonomik {{1}}, ülkenin dış şoklara karşı dayanıklılığını artırabilir. (çeşitlilik / çeşitli / çeşitlenmek)",
+        "answers": ["çeşitlilik"]
+      },
+      {
+        "question": "Çalışanların mesleki {{1}} artırmak için düzenli eğitimler verilmelidir. (yeterliliğini / yeterli / yetersiz)",
+        "answers": ["yeterliliğini"]
+      },
+      {
+        "question": "Bu kararın {{1}}, uygulama sürecinde bazı sorunlara neden oldu. (belirsizliği / belirgin / belirlemek)",
+        "answers": ["belirsizliği"]
+      },
+      {
+        "question": "Uzun vadeli kalkınmanın temel koşullarından biri ekonomik {{1}} sağlamaktır. (sürdürülebilirliği / sürdürmek / sürdürülen)",
+        "answers": ["sürdürülebilirliği"]
+      }
+    ]
+  },
+  {
+    "id": "037",
+    "titre": "Olumsuzluk",
+    "definition": "Türkçede olumsuzluk, fiillerde -ma/-me ekiyle; isim cümlelerinde değil sözcüğüyle ifade edilir. Hiç, asla ve hiçbir gibi sözcükler de olumsuz anlam oluşturur.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin olumsuzluk yapısına uygun kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Yetkililer, gerekli incelemeler tamamlanmadan projeye başlanmasını {{1}}. (istemiyor / istiyor / istemiş)",
+        "answers": ["istemiyor"]
+      },
+      {
+        "question": "Araştırmanın sonuçları henüz kesinleşmediği için bu konuda karar {{1}}. (verilemez / verilir / verilmiş)",
+        "answers": ["verilemez"]
+      },
+      {
+        "question": "Kurum, kişisel verilerin izinsiz paylaşılmasına kesinlikle {{1}}. (izin vermiyor / izin veriyor / izin verdi)",
+        "answers": ["izin vermiyor"]
+      },
+      {
+        "question": "Bu raporda iddiaları destekleyen {{1}} kanıt bulunmuyor. (hiçbir / bütün / bazı)",
+        "answers": ["hiçbir"]
+      },
+      {
+        "question": "Uzmanlar, ekonomik göstergelerin tek başına yeterli {{1}} vurguluyor. (olmadığını / olduğunu / olacağını)",
+        "answers": ["olmadığını"]
+      },
+      {
+        "question": "Henüz doğrulanmamış bilgilerin kamuoyuyla {{1}} gerekiyor. (paylaşılmaması / paylaşılması / paylaşılmış)",
+        "answers": ["paylaşılmaması"]
+      },
+      {
+        "question": "Çalışanlar, güvenlik kurallarını {{1}} sorumluluktan kaçamaz. (ihlal ederek / ihlal etmeden / ihlal edilmiş)",
+        "answers": ["ihlal ederek"]
+      },
+      {
+        "question": "Şirketin mali durumu hakkında {{1}} açıklama yapılmadı. (henüz / çoktan / daima)",
+        "answers": ["henüz"]
+      },
+      {
+        "question": "Yönetim, çalışanların görüşlerini dikkate {{1}} yeni bir karar almak istemiyor. (almadan / alarak / alınmış)",
+        "answers": ["almadan"]
+      },
+      {
+        "question": "Bu koşullarda projenin başarıya ulaşması {{1}} görünmüyor; ancak tamamen imkânsız da değildir. (kolay / kolayca / kolaylık)",
+        "answers": ["kolay"]
+      }
+    ]
+  },
+  {
+    "id": "038",
+    "titre": "Sesteş veya yazılışı benzer kelimeler",
+    "definition": "Sesteş kelimeler aynı yazılış ve söylenişe sahip olup farklı anlamlar taşır. Yazılışı benzer kelimeler ise biçim bakımından birbirine yakın olsa da farklı anlamlara sahiptir.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin bağlamına uygun kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Şirket, yıl sonunda elde ettiği {{1}} yeni yatırımlara yönlendirmeyi planlıyor. (kârı / karı / kararı)",
+        "answers": ["kârı"]
+      },
+      {
+        "question": "Yoğun {{1}} nedeniyle bazı yollar ulaşıma kapatıldı. (kar / kâr / karar)",
+        "answers": ["kar"]
+      },
+      {
+        "question": "Mahkeme, bütün delilleri değerlendirdikten sonra nihai {{1}} açıkladı. (kararını / kârını / karını)",
+        "answers": ["kararını"]
+      },
+      {
+        "question": "Araştırmacı, çalışmasının temel {{1}} bilimsel bir dergide yayımladı. (bulgularını / bulutlarını / bilgilerini)",
+        "answers": ["bulgularını"]
+      },
+      {
+        "question": "Kurum, çalışanların güvenliğini sağlamak için yeni {{1}} aldı. (önlemler / önermeler / öncelikler)",
+        "answers": ["önlemler"]
+      },
+      {
+        "question": "Uzman, ekonomik gelişmelerin toplum üzerindeki {{1}} ayrıntılı biçimde açıkladı. (etkisini / yetkisini / tepkisini)",
+        "answers": ["etkisini"]
+      },
+      {
+        "question": "Şirketin yeni {{1}}, uluslararası pazarlara açılmasını kolaylaştırdı. (stratejisi / statüsü / stresi)",
+        "answers": ["stratejisi"]
+      },
+      {
+        "question": "Yönetim, çalışanların {{1}} dikkate alarak yeni bir düzenleme hazırladı. (önerilerini / önderlerini / önlerini)",
+        "answers": ["önerilerini"]
+      },
+      {
+        "question": "Araştırmanın {{1}} sonuçları, önceki varsayımlarla çelişiyordu. (son / sonradan / sonlu)",
+        "answers": ["son"]
+      },
+      {
+        "question": "Üretim sürecindeki hataları azaltmak için kalite {{1}} güçlendirildi. (kontrolü / konturu / kontrolsüzlüğü)",
+        "answers": ["kontrolü"]
+      }
+    ]
+  },
+  {
+    "id": "039",
+    "titre": "Mantıksal bağlaçlar",
+    "definition": "Mantıksal bağlaçlar, düşünceler arasında neden-sonuç, koşul, çıkarım, karşıtlık ve sonuç ilişkileri kurar.",
+    "instruction": "Parantez içindeki seçeneklerden mantıksal ilişkiye uygun ifadeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Üretim maliyetleri artmıştır; {{1}}, ürün fiyatlarının yükselmesi beklenmektedir. (dolayısıyla / oysa / buna rağmen)",
+        "answers": ["dolayısıyla"]
+      },
+      {
+        "question": "Veriler yeterince güvenilir değildir; {{1}}, sonuçların kesin kabul edilmesi doğru olmaz. (bu nedenle / ayrıca / örneğin)",
+        "answers": ["bu nedenle"]
+      },
+      {
+        "question": "Ekonomik büyüme hızlanmıştır. {{1}}, işsizlik oranında henüz belirgin bir düşüş görülmemiştir. (buna karşın / sonuç olarak / çünkü)",
+        "answers": ["buna karşın"]
+      },
+      {
+        "question": "Gerekli yatırımlar zamanında yapılırsa, {{1}} üretim kapasitesi artırılabilir. (böylece / oysa / halbuki)",
+        "answers": ["böylece"]
+      },
+      {
+        "question": "Araştırma farklı kaynaklarla doğrulanmıştır; {{1}}, bulguların güvenilirliği artmıştır. (dolayısıyla / ne var ki / aksi hâlde)",
+        "answers": ["dolayısıyla"]
+      },
+      {
+        "question": "Şirket maliyetleri azaltmak istiyor. {{1}}, çalışanların haklarından ödün verilmemelidir. (ancak / çünkü / bundan dolayı)",
+        "answers": ["ancak"]
+      },
+      {
+        "question": "Politika gerekli koşulları sağlamazsa, {{1}} beklenen sonuçlar elde edilemeyebilir. (aksi takdirde / üstelik / örneğin)",
+        "answers": ["aksi takdirde"]
+      },
+      {
+        "question": "Toplumsal eşitsizlikler derinleşmektedir; {{1}}, sosyal destek programlarının kapsamı genişletilmelidir. (bu yüzden / buna rağmen / oysa)",
+        "answers": ["bu yüzden"]
+      },
+      {
+        "question": "Ekonomik göstergeler incelenmelidir; {{1}}, sosyal ve çevresel veriler de değerlendirilmelidir. (aynı zamanda / aksi hâlde / sonuçta)",
+        "answers": ["aynı zamanda"]
+      },
+      {
+        "question": "Proje planlandığı gibi tamamlandı. {{1}}, bütün hedeflere ulaşılmış oldu. (sonuç olarak / buna rağmen / oysa)",
+        "answers": ["sonuç olarak"]
+      }
+    ]
+  },
+  {
+    "id": "040",
+    "titre": "Belirteçler",
+    "definition": "Belirteçler, isimlerin önüne gelerek sayı, miktar, sıra, işaret veya belirsizlik bildirir.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına uygun belirteçleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmaya katılan {{1}} kişi, soruların tamamını yanıtladı. (her / hiçbir / herhangi)",
+        "answers": ["her"]
+      },
+      {
+        "question": "Kurum, son dönemde {{1}} önemli projeyi aynı anda yürütmeye başladı. (birçok / hiçbir / herhangi)",
+        "answers": ["birçok"]
+      },
+      {
+        "question": "Raporun {{1}} bölümünde mali sonuçlar ayrıntılı biçimde açıklanmıştır. (ikinci / birkaç / bütün)",
+        "answers": ["ikinci"]
+      },
+      {
+        "question": "Yetkililer, {{1}} bölgede altyapı çalışmalarına başlamayı planlıyor. (bazı / hiçbir / her biri)",
+        "answers": ["bazı"]
+      },
+      {
+        "question": "Araştırmacılar, {{1}} kaynağı karşılaştırarak ortak sonuçlara ulaştı. (çeşitli / hiçbir / herhangi)",
+        "answers": ["çeşitli"]
+      },
+      {
+        "question": "Katılımcıların {{1}} soruya yanıt vermesi zorunludur. (bütün / herhangi bir / birkaç)",
+        "answers": ["bütün"]
+      },
+      {
+        "question": "Projenin tamamlanması için {{1}} ek kaynağa ihtiyaç duyulabilir. (birkaç / bütün / hiçbir)",
+        "answers": ["birkaç"]
+      },
+      {
+        "question": "Şirket, {{1}} yıl içinde uluslararası pazarlarda faaliyet göstermeyi hedefliyor. (önümüzdeki / hiçbir / herhangi)",
+        "answers": ["önümüzdeki"]
+      },
+      {
+        "question": "Komisyon, {{1}} seçeneği karşılaştırarak en uygun olanı belirledi. (her iki / hiçbir / herhangi)",
+        "answers": ["her iki"]
+      },
+      {
+        "question": "Bu araştırmada {{1}} katılımcının görüşleri ayrı ayrı değerlendirildi. (tüm / hiçbir / herhangi bir)",
+        "answers": ["tüm"]
+      }
+    ]
+  },
+  {
+    "id": "041",
+    "titre": "Karşılaştırma derecesi",
+    "definition": "Karşılaştırma derecesi, varlıkların veya durumların bir özellik bakımından birbirine göre üstünlüğünü, eşitliğini ya da farklılığını ifade eder.",
+    "instruction": "Parantez içindeki seçeneklerden karşılaştırma anlamına uygun ifadeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Yeni sistem, önceki uygulamaya göre çok {{1}} bir kullanım kolaylığı sunuyor. (daha fazla / en fazla / kadar fazla)",
+        "answers": ["daha fazla"]
+      },
+      {
+        "question": "Bu yılın üretim miktarı, son beş yılın {{1}} düzeyine ulaştı. (en yüksek / daha yüksek / yüksek kadar)",
+        "answers": ["en yüksek"]
+      },
+      {
+        "question": "Araştırmanın ikinci aşaması, ilk aşama {{1}} kapsamlı sonuçlar ortaya koydu. (kadar / en / daha)",
+        "answers": ["kadar"]
+      },
+      {
+        "question": "Bu yöntem, diğer seçeneklere {{1}} daha az maliyetli olduğu için tercih edildi. (göre / rağmen / kadar)",
+        "answers": ["göre"]
+      },
+      {
+        "question": "Yeni model, eski modele kıyasla {{1}} enerji tüketiyor. (daha az / en az / az kadar)",
+        "answers": ["daha az"]
+      },
+      {
+        "question": "Şirketin {{1}} başarılı projesi, uluslararası ödüle layık görüldü. (en / daha / kadar)",
+        "answers": ["en"]
+      },
+      {
+        "question": "Bu bölgedeki yaşam maliyeti, başkenttekinden {{1}}. (daha düşüktür / en düşüktür / kadar düşüktür)",
+        "answers": ["daha düşüktür"]
+      },
+      {
+        "question": "İki adayın deneyim düzeyi birbirine {{1}} görünüyordu. (oldukça yakın / en yakın / daha yakın)",
+        "answers": ["oldukça yakın"]
+      },
+      {
+        "question": "Yeni düzenleme, beklenenden {{1}} olumlu sonuçlar doğurdu. (çok daha / en / kadar)",
+        "answers": ["çok daha"]
+      },
+      {
+        "question": "Bu çözüm, mevcut seçenekler arasında {{1}} uygulanabilir olanıdır. (en çok / daha çok / çok kadar)",
+        "answers": ["en çok"]
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "titre": "Tümleçler",
+    "definition": "Tümleçler, cümlede yüklemin anlamını tamamlayan ögelerdir. Nesne, dolaylı tümleç ve zarf tümleci bu gruba girer.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına ve tümleç görevine uygun ifadeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmacılar, yeni ekonomik modeli {{1}} ayrıntılı biçimde sundu. (kurula / kurulun / kuruldan)",
+        "answers": ["kurula"]
+      },
+      {
+        "question": "Şirket, yıllık faaliyet raporunu {{1}} yayımladı. (geçen hafta / geçen haftanın / geçen haftaya)",
+        "answers": ["geçen hafta"]
+      },
+      {
+        "question": "Yetkililer, çevresel sorunların çözümü için {{1}} başvurdu. (uzmanlara / uzmanları / uzmanlardan)",
+        "answers": ["uzmanlara"]
+      },
+      {
+        "question": "Öğrenciler, araştırma sonuçlarını {{1}} dikkatle inceledi. (kütüphanede / kütüphanenin / kütüphaneye)",
+        "answers": ["kütüphanede"]
+      },
+      {
+        "question": "Yönetim, çalışanların taleplerini {{1}} değerlendirdi. (büyük bir titizlikle / büyük bir titizliğin / büyük bir titizliğe)",
+        "answers": ["büyük bir titizlikle"]
+      },
+      {
+        "question": "Komisyon, yeni düzenlemeyi {{1}} gönderdi. (bakanlığa / bakanlığın / bakanlıktan)",
+        "answers": ["bakanlığa"]
+      },
+      {
+        "question": "Uzmanlar, ekonomik gelişmeleri {{1}} takip ediyor. (yakından / yakının / yakına)",
+        "answers": ["yakından"]
+      },
+      {
+        "question": "Şirket, yeni üretim tesisini {{1}} kurmayı planlıyor. (sanayi bölgesinde / sanayi bölgesinin / sanayi bölgesinden)",
+        "answers": ["sanayi bölgesinde"]
+      },
+      {
+        "question": "Araştırmacı, elde ettiği verileri {{1}} karşılaştırdı. (önceki çalışmalarla / önceki çalışmaların / önceki çalışmalara)",
+        "answers": ["önceki çalışmalarla"]
+      },
+      {
+        "question": "Kurul, alınan kararları {{1}} duyurdu. (kamuoyuna / kamuoyunun / kamuoyundan)",
+        "answers": ["kamuoyuna"]
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "titre": "Soru cümleleri",
+    "definition": "Soru cümleleri bilgi edinmek, açıklama istemek veya bir durumu doğrulamak amacıyla oluşturulur.",
+    "instruction": "Parantez içindeki seçeneklerden sorunun anlamına ve dil bilgisine uygun ifadeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırmanın sonuçları hangi tarihte kamuoyuna {{1}}? (açıklanacak / açıklanmış / açıklamak)",
+        "answers": ["açıklanacak"]
+      },
+      {
+        "question": "Bu ekonomik politikanın uzun vadeli etkilerini {{1}} değerlendirdiniz? (nasıl / hangi / kim)",
+        "answers": ["nasıl"]
+      },
+      {
+        "question": "Yeni düzenlemeden en fazla {{1}} etkilenecek? (kimler / nerede / ne zaman)",
+        "answers": ["kimler"]
+      },
+      {
+        "question": "Toplantının ertelenmesinin temel nedeni {{1}}? (nedir / nerededir / kimdir)",
+        "answers": ["nedir"]
+      },
+      {
+        "question": "Şirket, gelecek yıl hangi pazarlara açılmayı {{1}}? (planlıyor / planladı mı / planlamak)",
+        "answers": ["planlıyor"]
+      },
+      {
+        "question": "Bu rapordaki verilerin güvenilirliği bağımsız kaynaklarca doğrulandı {{1}}? (mı / ne / kim)",
+        "answers": ["mı"]
+      },
+      {
+        "question": "Projenin uygulanması için gerekli kaynaklar {{1}} sağlanacak? (nereden / neden / kimin)",
+        "answers": ["nereden"]
+      },
+      {
+        "question": "Hangi kuruluş, araştırmanın finansmanını {{1}}? (üstlendi / nerede / ne zaman)",
+        "answers": ["üstlendi"]
+      },
+      {
+        "question": "Bu kararın alınmasında hangi ölçütler dikkate {{1}}? (alındı / alarak / almak)",
+        "answers": ["alındı"]
+      },
+      {
+        "question": "Yeni uygulama, çalışanların verimliliğini gerçekten artıracak {{1}}? (mı / kim / nerede)",
+        "answers": ["mı"]
+      }
+    ]
+  },
+  {
+    "id": "044",
+    "titre": "Yan cümleler",
+    "definition": "Yan cümleler, temel cümleyi zaman, neden, koşul, amaç veya açıklama bakımından tamamlayan yapılardır.",
+    "instruction": "Parantez içindeki seçeneklerden yan cümle yapısına uygun ifadeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Araştırma sonuçları açıklandıktan {{1}}, uzmanlar yeni bir değerlendirme yaptı. (sonra / önce / rağmen)",
+        "answers": ["sonra"]
+      },
+      {
+        "question": "Ekonomik koşullar iyileşirse, şirket yeni yatırımlar {{1}}. (yapabilecek / yapmış / yaparak)",
+        "answers": ["yapabilecek"]
+      },
+      {
+        "question": "Toplantıya katılmadığı {{1}}, karar sürecinde önemli bir görüş eksik kaldı. (için / hâlde / kadar)",
+        "answers": ["için"]
+      },
+      {
+        "question": "Proje tamamlanmadan {{1}}, bütün teknik kontrollerin yapılması gerekiyor. (önce / sonra / rağmen)",
+        "answers": ["önce"]
+      },
+      {
+        "question": "Veriler doğru biçimde analiz {{1}}, sonuçların güvenilirliği artacaktır. (edilirse / edilmiş / ederek)",
+        "answers": ["edilirse"]
+      },
+      {
+        "question": "Şirket, maliyetleri düşürmek {{1}} üretim sürecini yeniden düzenledi. (amacıyla / rağmen / yüzünden)",
+        "answers": ["amacıyla"]
+      },
+      {
+        "question": "Yetkililer, yeni düzenlemenin yürürlüğe girmesinden {{1}} çalışanları bilgilendirdi. (önce / sonra / dolayı)",
+        "answers": ["önce"]
+      },
+      {
+        "question": "Araştırmacılar, sonuçları karşılaştırarak ortak noktaları {{1}} çalıştı. (belirlemeye / belirlediği / belirlenmiş)",
+        "answers": ["belirlemeye"]
+      },
+      {
+        "question": "Hükümet gerekli önlemleri almadığı {{1}}, ekonomik sorunlar daha da derinleşebilir. (takdirde / hâlde / için)",
+        "answers": ["takdirde"]
+      },
+      {
+        "question": "Çalışanların görüşleri dikkate {{1}}, yeni politikanın uygulanması daha kolay olacaktır. (alındığında / alınmadan / alınmış)",
+        "answers": ["alındığında"]
+      }
+    ]
+  },
+  {
+    "id": "045",
+    "titre": "Söylem ve cümle",
+    "definition": "Söylem, cümlelerin bir araya gelerek tutarlı ve anlamlı bir bütün oluşturmasıdır. Cümleler arasında bağdaşıklık ve tutarlılık bulunmalıdır.",
+    "instruction": "Parantez içindeki seçeneklerden söylemin bütünlüğünü sağlayan ifadeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Eğitimde dijital araçların kullanımı giderek yaygınlaşıyor. {{1}}, bu araçların etkili olabilmesi için öğretmenlerin de gerekli eğitimi alması gerekiyor. (Bununla birlikte / Örneğin / Sonuçta)",
+        "answers": ["Bununla birlikte"]
+      },
+      {
+        "question": "Kent nüfusu hızla artıyor. {{1}}, ulaşım ve konut ihtiyacı da aynı oranda yükseliyor. (Dolayısıyla / Oysa / Buna rağmen)",
+        "answers": ["Dolayısıyla"]
+      },
+      {
+        "question": "Araştırma farklı yaş gruplarını kapsıyor. {{1}}, katılımcıların eğitim düzeyleri de inceleniyor. (Ayrıca / Aksi hâlde / Buna karşın)",
+        "answers": ["Ayrıca"]
+      },
+      {
+        "question": "Şirket, yeni pazarlara açılmayı başardı. {{1}}, bu genişleme önemli maliyetleri de beraberinde getirdi. (Ancak / Çünkü / Örneğin)",
+        "answers": ["Ancak"]
+      },
+      {
+        "question": "Çevre kirliliği insan sağlığını tehdit ediyor. {{1}}, sürdürülebilir politikaların geliştirilmesi büyük önem taşıyor. (Bu nedenle / Öte yandan / Halbuki)",
+        "answers": ["Bu nedenle"]
+      },
+      {
+        "question": "Okuma alışkanlığının gelişmesi uzun zaman alır. {{1}}, aile ve okul ortamı bu süreçte belirleyici rol oynar. (Bu süreçte / Buna rağmen / Aksi takdirde)",
+        "answers": ["Bu süreçte"]
+      },
+      {
+        "question": "Yeni teknoloji üretim sürecini hızlandırdı. {{1}}, çalışanların bazı görevleri de değişti. (Buna bağlı olarak / Örneğin / Ne var ki)",
+        "answers": ["Buna bağlı olarak"]
+      },
+      {
+        "question": "Ekonomik büyüme tek başına refahı garanti etmez. {{1}}, gelir dağılımındaki adaletsizlikler devam edebilir. (Nitekim / Sonuç olarak / Bunun yerine)",
+        "answers": ["Nitekim"]
+      },
+      {
+        "question": "Toplantıda farklı görüşler dile getirildi. {{1}}, katılımcılar ortak bir çözüm üzerinde uzlaştı. (Sonunda / Çünkü / Oysa)",
+        "answers": ["Sonunda"]
+      },
+      {
+        "question": "Kamu hizmetlerinin kalitesi artırılmalıdır. {{1}}, vatandaşların bu hizmetlere eşit erişimi de sağlanmalıdır. (Aynı şekilde / Aksi hâlde / Buna rağmen)",
+        "answers": ["Aynı şekilde"]
+      }
+    ]
+  },
+  {
+    "id": "046",
+    "titre": "Fiil biçimleri ve cümle yapısı",
+    "definition": "Fiil biçimleri zaman, kip, kişi, çatı ve fiilimsi özellikleriyle cümlenin anlamını belirler. Cümle yapısı ise ögelerin birbirleriyle ilişkisini gösterir.",
+    "instruction": "Parantez içindeki seçeneklerden fiil biçimi ve cümle yapısı bakımından uygun olanları seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Uzmanlar, ekonomik göstergelerdeki değişimleri uzun süredir {{1}}. (inceliyor / incelemiş / incelemek)",
+        "answers": ["inceliyor"]
+      },
+      {
+        "question": "Yeni düzenleme yürürlüğe girmeden önce bütün kurumların gerekli hazırlıkları {{1}} gerekiyor. (tamamlaması / tamamladı / tamamlanmış)",
+        "answers": ["tamamlaması"]
+      },
+      {
+        "question": "Yönetim, çalışanların önerilerini dikkate {{1}} yeni bir çalışma modeli oluşturdu. (alarak / aldıktan / alınmış)",
+        "answers": ["alarak"]
+      },
+      {
+        "question": "Araştırmanın sonuçları bağımsız uzmanlar tarafından {{1}}. (doğrulandı / doğrulamak / doğrulayarak)",
+        "answers": ["doğrulandı"]
+      },
+      {
+        "question": "Şirket, gelecek yıl üretim kapasitesini {{1}} planlıyor. (artırmayı / artırdı / artırılmış)",
+        "answers": ["artırmayı"]
+      },
+      {
+        "question": "Toplantı sona erdiğinde katılımcılar bütün önerileri {{1}}. (değerlendirmişti / değerlendirmek / değerlendirilerek)",
+        "answers": ["değerlendirmişti"]
+      },
+      {
+        "question": "Bu politikanın etkileri zaman içinde daha açık biçimde {{1}}. (görülecektir / görerek / görmüş)",
+        "answers": ["görülecektir"]
+      },
+      {
+        "question": "Veriler dikkatle {{1}}, araştırmanın sonuçları daha güvenilir olacaktır. (incelenirse / incelemek / incelendi)",
+        "answers": ["incelenirse"]
+      },
+      {
+        "question": "Kurum, hizmet kalitesini artırmak için yeni teknolojiler {{1}} başladı. (kullanmaya / kullandı / kullanılmış)",
+        "answers": ["kullanmaya"]
+      },
+      {
+        "question": "Yetkililer, gerekli önlemleri zamanında {{1}} krizin etkileri daha sınırlı kalabilirdi. (alsaydı / alıyor / alarak)",
+        "answers": ["alsaydı"]
+      }
+    ]
+  },
+  {
+    "id": "047",
+    "titre": "Türemiş kelimeler",
+    "definition": "Türemiş kelimeler, kök veya gövdelere yapım ekleri getirilerek oluşturulur. Bu ekler kelimenin anlamını veya türünü değiştirebilir.",
+    "instruction": "Parantez içindeki seçeneklerden kelimenin yapısına ve cümlenin anlamına uygun türemiş kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Kurumun {{1}} yaklaşımı, çalışanlar arasında güven ortamı oluşturdu. (yenilikçi / yenilik / yenilemek)",
+        "answers": ["yenilikçi"]
+      },
+      {
+        "question": "Çevresel sorunların çözümü için toplumsal {{1}} artırılmalıdır. (duyarlılık / duyarlı / duyarsız)",
+        "answers": ["duyarlılık"]
+      },
+      {
+        "question": "Araştırmanın {{1}} sonuçları, bilimsel çevrelerde tartışma yarattı. (şaşırtıcı / şaşkınlık / şaşırmak)",
+        "answers": ["şaşırtıcı"]
+      },
+      {
+        "question": "Kamu hizmetlerinin {{1}} vatandaşların yaşam kalitesini doğrudan etkiler. (erişilebilirliği / erişmek / erişimsiz)",
+        "answers": ["erişilebilirliği"]
+      },
+      {
+        "question": "Ekonomik {{1}}, ülkelerin dış şoklara karşı dayanıklılığını artırabilir. (çeşitlilik / çeşitli / çeşitlenmek)",
+        "answers": ["çeşitlilik"]
+      },
+      {
+        "question": "Bu kararın {{1}}, uygulama sürecinde bazı sorunlara yol açtı. (belirsizliği / belirgin / belirlemek)",
+        "answers": ["belirsizliği"]
+      },
+      {
+        "question": "Çalışanların mesleki {{1}} artırmak için düzenli eğitimler düzenlenmelidir. (yeterliliğini / yeterli / yetersiz)",
+        "answers": ["yeterliliğini"]
+      },
+      {
+        "question": "Şirketin {{1}} politikası, müşteri memnuniyetini artırmayı amaçlıyor. (güvenilirlik / güvenilir / güvenmek)",
+        "answers": ["güvenilirlik"]
+      },
+      {
+        "question": "Uzun vadeli kalkınmanın temel koşullarından biri ekonomik {{1}} sağlamaktır. (sürdürülebilirliği / sürdürmek / sürdürülen)",
+        "answers": ["sürdürülebilirliği"]
+      },
+      {
+        "question": "Bilimsel {{1}}, yeni keşiflerin ve teknolojik gelişmelerin önünü açar. (yaratıcılık / yaratıcı / yaratmak)",
+        "answers": ["yaratıcılık"]
+      }
+    ]
+  },
+  {
+    "id": "048",
+    "titre": "Karma dil bilgisi ve kelime kullanımı",
+    "definition": "Kelimeler, dil bilgisel görevlerine ve bağlamlarına göre farklı biçimlerde kullanılır. Doğru kullanım, cümlenin anlam bütünlüğünü sağlar.",
+    "instruction": "Parantez içindeki seçeneklerden cümleye uygun kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Ekonomik {{1}} sağlamak için hükümetin {{2}} politikalar uygulaması gerekiyor. (istikrar / istikrarlı / istikrarsız) (tutarlı / çelişkili / rastgele)",
+        "answers": ["istikrar", "tutarlı"]
+      },
+      {
+        "question": "Araştırmacılar, verileri {{1}} inceleyerek sonuçların {{2}} olup olmadığını belirledi. (ayrıntılı biçimde / rastgele / yüzeysel) (güvenilir / şüpheli / ilgisiz)",
+        "answers": ["ayrıntılı biçimde", "güvenilir"]
+      },
+      {
+        "question": "Şirket, çalışanların {{1}} artırmak ve iş süreçlerini {{2}} hâle getirmek istiyor. (verimliliğini / verimli / verimsiz) (kolaylaştırmak / zorlaştırmak / geciktirmek)",
+        "answers": ["verimliliğini", "kolaylaştırmak"]
+      },
+      {
+        "question": "Toplumsal {{1}} azaltmak için kaynakların daha {{2}} dağıtılması gerekir. (eşitsizliği / eşitliği / dayanışmayı) (adil / keyfî / rastgele)",
+        "answers": ["eşitsizliği", "adil"]
+      },
+      {
+        "question": "Yeni düzenleme, yürürlüğe {{1}} sonra bütün kurumlar tarafından {{2}}. (girdikten / girmeden / girmek) (uygulanacaktır / uygulamak / uygulayarak)",
+        "answers": ["girdikten", "uygulanacaktır"]
+      },
+      {
+        "question": "Uzmanlar, çevresel {{1}} azaltmak için daha {{2}} üretim yöntemleri öneriyor. (zararı / yararı / kazancı) (sürdürülebilir / geçici / savurgan)",
+        "answers": ["zararı", "sürdürülebilir"]
+      },
+      {
+        "question": "Kurum, {{1}} başvuruları değerlendirerek en {{2}} adayları belirledi. (bütün / hiçbir / herhangi) (uygun / uygunsuz / ilgisiz)",
+        "answers": ["bütün", "uygun"]
+      },
+      {
+        "question": "Yönetim, çalışanların görüşlerini {{1}} yeni kararlar almaktan {{2}}. (dinlemeden / dinleyerek / dinlenmiş) (kaçınmamalıdır / kaçınmalıdır / kaçındı)",
+        "answers": ["dinleyerek", "kaçınmamalıdır"]
+      },
+      {
+        "question": "Bilimsel sonuçların {{1}} olması için araştırmanın {{2}} yöntemlerle yürütülmesi gerekir. (geçerli / geçersiz / geçicilik) (nesnel / taraflı / gelişigüzel)",
+        "answers": ["geçerli", "nesnel"]
+      },
+      {
+        "question": "Ekonomik koşullar {{1}} değiştikçe işletmelerin yeni stratejiler {{2}} gerekir. (hızla / asla / dün) (geliştirmesi / geliştirdi / geliştirilmiş)",
+        "answers": ["hızla", "geliştirmesi"]
+      }
+    ]
+  },
+  {
+    "id": "049",
+    "titre": "İleri düzey kelime ve cümle yapıları",
+    "definition": "İleri düzey kelime kullanımı, farklı sözcük türlerinin ve karmaşık cümle yapılarının doğru bağlamda kullanılmasını gerektirir.",
+    "instruction": "Parantez içindeki seçeneklerden anlam ve dil bilgisi bakımından uygun kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Kurum, kaynakların {{1}} kullanılmasını sağlamak amacıyla {{2}} denetim mekanizmaları geliştirdi. (etkin / etkisiz / rastgele) (kapsamlı / yetersiz / geçici)",
+        "answers": ["etkin", "kapsamlı"]
+      },
+      {
+        "question": "Araştırmanın {{1}} bulguları, önceki teorilerin yeniden {{2}} gerektiğini gösteriyor. (çarpıcı / önemsiz / sıradan) (değerlendirilmesi / değerlendirmek / değerlendirmiş)",
+        "answers": ["çarpıcı", "değerlendirilmesi"]
+      },
+      {
+        "question": "Şirket, uluslararası pazarlarda {{1}} olabilmek için rekabet gücünü {{2}} zorunda kaldı. (kalıcı / başarılı / rastgele) (artırmak / azaltmak / ertelemek)",
+        "answers": ["başarılı", "artırmak"]
+      },
+      {
+        "question": "Toplumsal sorunların {{1}} çözümü, yalnızca ekonomik değil, aynı zamanda {{2}} politikalar gerektirir. (kalıcı / geçici / yüzeysel) (kapsayıcı / dışlayıcı / ilgisiz)",
+        "answers": ["kalıcı", "kapsayıcı"]
+      },
+      {
+        "question": "Yeni uygulamanın etkileri {{1}} incelenmeden kesin bir {{2}} vermek doğru değildir. (ayrıntılı biçimde / rastgele / yüzeysel) (karar / kararın / kararlı)",
+        "answers": ["ayrıntılı biçimde", "karar"]
+      },
+      {
+        "question": "Uzmanlar, ekonomik büyümenin {{1}} dağılımıyla birlikte {{2}} gerektiğini savunuyor. (adil / adaletsiz / adalet) (değerlendirilmesi / değerlendirdi / değerlendirmek)",
+        "answers": ["adil", "değerlendirilmesi"]
+      },
+      {
+        "question": "Çevresel riskler {{1}} arttığı için kurumlar daha {{2}} önlemler almak zorunda kalıyor. (giderek / nadiren / dün) (etkili / etkisiz / rastgele)",
+        "answers": ["giderek", "etkili"]
+      },
+      {
+        "question": "Bir politikanın başarısı, yalnızca hedeflerine değil, toplum üzerindeki {{1}} sonuçlarına da {{2}}. (uzun vadeli / kısa süreli / geçici) (bağlıdır / rağmen / kadardır)",
+        "answers": ["uzun vadeli", "bağlıdır"]
+      },
+      {
+        "question": "Yönetim, çalışanların {{1}} dikkate alarak daha {{2}} bir çalışma ortamı oluşturdu. (beklentilerini / beklentiler / beklemek) (katılımcı / katılım / katılmak)",
+        "answers": ["beklentilerini", "katılımcı"]
+      },
+      {
+        "question": "Verilerin {{1}} değerlendirilmesi, araştırmanın bilimsel {{2}} güçlendirir. (nesnel biçimde / taraflı biçimde / gelişigüzel) (güvenilirliğini / güvenilir / güvenmek)",
+        "answers": ["nesnel biçimde", "güvenilirliğini"]
+      }
+    ]
+  },
+  {
+    "id": "050",
+    "titre": "Genel kelime bilgisi ve dil bilgisi",
+    "definition": "İleri düzey kelime bilgisi; sıfat, zarf, fiil, isim, zamir, bağlaç ve diğer dil bilgisi yapılarının doğru bağlamda kullanılmasını kapsar.",
+    "instruction": "Parantez içindeki seçeneklerden cümlenin anlamına ve dil bilgisine uygun kelimeleri seçerek boşlukları tamamlayınız.",
+    "questions": [
+      {
+        "question": "Ekonomik kalkınmanın {{1}} olabilmesi için yatırımların {{2}} alanlara yönlendirilmesi gerekir. (sürdürülebilir / geçici / rastgele) (öncelikli / önemsiz / ilgisiz)",
+        "answers": ["sürdürülebilir", "öncelikli"]
+      },
+      {
+        "question": "Araştırmacılar, elde ettikleri verileri {{1}} karşılaştırarak {{2}} sonuçlara ulaştı. (sistematik biçimde / rastgele / dikkatsizce) (tutarlı / çelişkili / belirsiz)",
+        "answers": ["sistematik biçimde", "tutarlı"]
+      },
+      {
+        "question": "Kurum, çalışanların {{1}} geliştirmek ve mesleki {{2}} artırmak amacıyla eğitimler düzenledi. (becerilerini / beceriler / becermek) (yeterliliğini / yeterli / yetersiz)",
+        "answers": ["becerilerini", "yeterliliğini"]
+      },
+      {
+        "question": "Çevresel sorunların {{1}} önlemek için toplumun {{2}} artırılmalıdır. (derinleşmesini / gelişmesini / iyileşmesini) (duyarlılığı / duyarsızlığı / belirsizliği)",
+        "answers": ["derinleşmesini", "duyarlılığı"]
+      },
+      {
+        "question": "Şirket, yeni pazarlara açılmadan {{1}} önce mevcut kaynaklarını {{2}} değerlendirdi. (önce / sonra / rağmen) (ayrıntılı biçimde / rastgele / yüzeysel)",
+        "answers": ["önce", "ayrıntılı biçimde"]
+      },
+      {
+        "question": "Yönetim, çalışanların önerilerini {{1}} değerlendirdi; {{2}}, uygulama sürecinde bazı değişiklikler yaptı. (dikkatle / gelişigüzel / nadiren) (bunun sonucunda / oysa / buna rağmen)",
+        "answers": ["dikkatle", "bunun sonucunda"]
+      },
+      {
+        "question": "Bu düzenleme, önceki uygulamaya göre {{1}} ve daha {{2}} bir çözüm sunuyor. (daha etkili / en etkili / etkisiz) (ekonomik / ekonomiklik / ekonomikleşmek)",
+        "answers": ["daha etkili", "ekonomik"]
+      },
+      {
+        "question": "Araştırmanın sonuçları henüz {{1}} olmadığı için kesin bir yargıya {{2}}. (doğrulanmış / doğrulamak / doğrulayarak) (varılamaz / varılır / varılmış)",
+        "answers": ["doğrulanmış", "varılamaz"]
+      },
+      {
+        "question": "Toplumsal eşitsizliklerin {{1}} için kaynakların daha {{2}} dağıtılması gerekiyor. (azaltılması / artırılması / derinleşmesi) (adil / keyfî / rastgele)",
+        "answers": ["azaltılması", "adil"]
+      },
+      {
+        "question": "Uzmanlar, ekonomik ve çevresel göstergeleri {{1}} inceleyerek geleceğe yönelik {{2}} tahminlerde bulundu. (birlikte / hiçbir zaman / rastgele) (gerçekçi / imkânsız / ilgisiz)",
+        "answers": ["birlikte", "gerçekçi"]
       }
     ]
   }
