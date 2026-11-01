@@ -678,5 +678,735 @@
 ]
 }
 ]
+},
+{
+    "id": "011",
+    "titre": "Meine Familie vorstellen",
+    "titre2": "Übung 011",
+    "texte": [
+      "Meine Familie ist nicht sehr groß, aber wir stehen uns sehr nahe und verbringen viel Zeit miteinander.",
+      "Wir leben in einem schönen Haus mit einem kleinen Blumengarten in einem ruhigen Vorort von München.",
+      "Mein Vater heißt Thomas, er ist fünfundvierzig Jahre alt und arbeitet als Bauingenieur in einer Firma.",
+      "Meine Mutter heißt Sophie, sie ist zweiundvierzig Jahre alt und arbeitet als Krankenschwester im Krankenhaus.",
+      "Ich habe auch einen kleinen Bruder namens Lucas, der zehn Jahre alt ist und die Grundschule besucht.",
+      "Lucas liebt es, jeden Nachmittag nach dem Unterricht mit seinen Schulfreunden Fußball zu spielen.",
+      "Am Wochenende machen wir oft Ausflüge, wie Wandern in den Bergen oder Picknicks am Fluss.",
+      "Jeden Abend treffen wir uns alle in der Küche, um gemeinsam das Abendessen vorzubereiten.",
+      "Das ist ein ganz besonderer Moment, in dem jeder über seine Erlebnisse des Tages spricht.",
+      "Ich glaube, ich habe großes Glück, eine so herzliche und hilfsbereite Familie zu haben."
+    ],
+    "audios": [
+      { "id": "audio-de-read-a2-011-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-a2-011-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a2-011-01",
+        "question": "Wo lebt die Familie des Erzählers?",
+        "reponses": [
+          { "id": "a", "texte": "In einem Vorort von München", "correcte": true },
+          { "id": "b", "texte": "Im Stadtzentrum von Berlin", "correcte": false },
+          { "id": "c", "texte": "In einem kleinen Dorf in Österreich", "correcte": false },
+          { "id": "d", "texte": "In der Nähe eines Strandes", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-011-02",
+        "question": "Was ist der Beruf der Mutter?",
+        "reponses": [
+          { "id": "a", "texte": "Sie ist Grundschullehrerin", "correcte": false },
+          { "id": "b", "texte": "Sie arbeitet als Bauingenieurin", "correcte": false },
+          { "id": "c", "texte": "Sie verkauft bunte Blumen", "correcte": false },
+          { "id": "d", "texte": "Sie ist Krankenschwester im Krankenhaus", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-011-03",
+        "question": "Wie alt ist der kleine Bruder Lucas?",
+        "reponses": [
+          { "id": "a", "texte": "Fünf Jahre alt", "correcte": false },
+          { "id": "b", "texte": "Zehn Jahre alt", "correcte": true },
+          { "id": "c", "texte": "Acht Jahre alt", "correcte": false },
+          { "id": "d", "texte": "Zwölf Jahre alt", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-011-04",
+        "question": "Wo trifft sich die Familie jeden Abend?",
+        "reponses": [
+          { "id": "a", "texte": "Im Schlafzimmer der Eltern", "correcte": false },
+          { "id": "b", "texte": "Im kleinen Blumengarten draußen", "correcte": false },
+          { "id": "c", "texte": "In der Küche beim Kochen", "correcte": true },
+          { "id": "d", "texte": "Im örtlichen Kino", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-011-05",
+        "question": "Welche Wochenendaktivität wird im Text genannt?",
+        "reponses": [
+          { "id": "a", "texte": "Ein neues Sportauto kaufen", "correcte": false },
+          { "id": "b", "texte": "Wandern in den Bergen oder Picknicks am Fluss", "correcte": true },
+          { "id": "c", "texte": "Einkaufen in einem großen Kaufhaus", "correcte": false },
+          { "id": "d", "texte": "Zuhause bleiben und Wände streichen", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "Der Geburtstag meiner Schwester",
+    "titre2": "Übung 012",
+    "texte": [
+      "Letzten Samstag haben wir einen wichtigen Tag gefeiert: den zwanzigsten Geburtstag meiner älteren Schwester Emily.",
+      "Für diesen besonderen Anlass hat die ganze Familie seit dem Morgen hart an einer Überraschungsparty gearbeitet.",
+      "Während Emily mit einer guten Freundin einkaufen war, haben wir das ganze Wohnzimmer dekoriert.",
+      "Wir haben bunte Luftballons an die Decke gehängt und ein schönes großes Schild an die Wand gehängt.",
+      "Meine Mutter verbrachte mehrere Stunden in der Küche, um ihren berühmten Schokoladenkuchen zu backen.",
+      "Gegen fünf Uhr kam meine Schwester endlich nach Hause und alle riefen gleichzeitig „Alles Gute zum Geburtstag“.",
+      "Sie war so überrascht und glücklich, dass sie Tränen in den Augen hatte, als sie die Dekorationen sah.",
+      "Dann pustete sie ihre zwanzig Kerzen unter dem herzlichen Applaus all unserer wunderbaren Gäste aus.",
+      "Wir gaben ihr unsere Geschenke, darunter eine tolle Kamera, die sie sich schon seit Monaten gewünscht hatte.",
+      "Der Abend dauerte mit fröhlicher Musik, lustigen Tänzen und glücklichen Gesprächen bis spät in die Nacht."
+    ],
+    "audios": [
+      { "id": "audio-de-read-a2-012-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-a2-012-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a2-012-01",
+        "question": "Welchen Geburtstag hat Emily am letzten Samstag gefeiert?",
+        "reponses": [
+          { "id": "a", "texte": "Ihren fünfzehnten Geburtstag", "correcte": false },
+          { "id": "b", "texte": "Ihren zwanzigsten Geburtstag", "correcte": true },
+          { "id": "c", "texte": "Ihren achtzehnten Geburtstag", "correcte": false },
+          { "id": "d", "texte": "Ihren fünfundzwanzigsten Geburtstag", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-012-02",
+        "question": "Was hat Emily gemacht, während die Familie die Überraschung vorbereitete?",
+        "reponses": [
+          { "id": "a", "texte": "Sie hat in ihrem Zimmer geschlafen", "correcte": false },
+          { "id": "b", "texte": "Sie hat in der Bibliothek gelernt", "correcte": false },
+          { "id": "c", "texte": "Sie hat in ihrem Büro gearbeitet", "correcte": false },
+          { "id": "d", "texte": "Sie war mit einer Freundin einkaufen", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-012-03",
+        "question": "Was für einen Kuchen hat die Mutter gebacken?",
+        "reponses": [
+          { "id": "a", "texte": "Einen Apfelkuchen", "correcte": false },
+          { "id": "b", "texte": "Einen frischen Erdbeerkuchen", "correcte": false },
+          { "id": "c", "texte": "Einen leckeren Schokoladenkuchen", "correcte": true },
+          { "id": "d", "texte": "Einen einfachen Vanillekuchen", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-012-04",
+        "question": "Wie hat Emily reagiert, als sie das Haus betrat?",
+        "reponses": [
+          { "id": "a", "texte": "Sie war wütend über den Lärm", "correcte": false },
+          { "id": "b", "texte": "Sie war überrascht und glücklich", "correcte": true },
+          { "id": "c", "texte": "Sie hat das Haus sofort verlassen", "correcte": false },
+          { "id": "d", "texte": "Sie hat überhaupt nichts gesagt", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-012-05",
+        "question": "Welches Hauptgeschenk hat Emily von ihrer Familie bekommen?",
+        "reponses": [
+          { "id": "a", "texte": "Eine tolle Kamera", "correcte": true },
+          { "id": "b", "texte": "Einen neuen Laptop", "correcte": false },
+          { "id": "c", "texte": "Ein rotes Mountainbike", "correcte": false },
+          { "id": "d", "texte": "Ein elegantes Abendkleid", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Ein Besuch bei meinen Großeltern",
+    "titre2": "Übung 013",
+    "texte": [
+      "In den kurzen Schulferien fahre ich sehr gerne mit dem Zug zu meinen Großeltern, die weit weg wohnen.",
+      "Sie leben in einem alten Landhaus aus Stein im Herzen eines sehr ruhigen Dorfes in Bayern.",
+      "Sobald ich am Bahnhof ankomme, wartet mein Großvater immer mit einem großen Lächeln auf dem Bahnsteig auf mich.",
+      "Meine Großmutter bleibt zu Hause, um leckere traditionelle Gerichte zu kochen, die wunderbar duften.",
+      "Am Morgen nimmt mich mein Großvater mit in seinen großen Gemüsegarten, um frisches Gemüse und süße Erdbeeren zu pflücken.",
+      "Er zeigt mir, wie man die Pflanzen pflegt, Unkraut entfernt und die Erde richtig gießt.",
+      "Am Nachmittag machen wir oft lange Spaziergänge auf den Feldwegen, die das friedliche Dorf umgeben.",
+      "Am Abend, nach einem ausgezeichneten Essen, sitzen wir gemütlich am Kamin und hören uns ihre alten Erinnerungen an.",
+      "Sie erzählen mir lustige Geschichten aus ihrer Jugend, was mich jedes Mal aufs Neue fasziniert.",
+      "Diese Reisen weit weg von der Großstadt helfen mir, mich völlig zu entspannen und die schöne Natur zu genießen."
+    ],
+    "audios": [
+      { "id": "audio-de-read-a2-013-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-a2-013-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a2-013-01",
+        "question": "Wie reist der Erzähler, um die Großeltern zu besuchen?",
+        "reponses": [
+          { "id": "a", "texte": "Mit dem eigenen Auto", "correcte": false },
+          { "id": "b", "texte": "Mit dem Zug", "correcte": true },
+          { "id": "c", "texte": "Mit dem Fahrrad", "correcte": false },
+          { "id": "d", "texte": "Mit dem Flugzeug", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-013-02",
+        "question": "Wo befindet sich das alte Steinhaus der Großeltern?",
+        "reponses": [
+          { "id": "a", "texte": "In einem großen Stadtzentrum", "correcte": false },
+          { "id": "b", "texte": "In der Nähe eines sonnigen Strandes", "correcte": false },
+          { "id": "c", "texte": "In einem ruhigen Dorf in Bayern", "correcte": true },
+{ "id": "d", "texte": "In den kalten Bergen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-013-03",
+"question": "Wohin bringt der Großvater den Erzähler am Morgen?",
+"reponses": [
+{ "id": "a", "texte": "In seinen großen Gemüsegarten", "correcte": true },
+{ "id": "b", "texte": "Auf den lokalen Markt", "correcte": false },
+{ "id": "c", "texte": "In ein städtisches Schwimmbad", "correcte": false },
+{ "id": "d", "texte": "In einen großen dunklen Wald", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-013-04",
+"question": "Was machen sie am Abend nach dem Abendessen?",
+"reponses": [
+{ "id": "a", "texte": "Sie schauen eine Drama-Serie im Fernsehen", "correcte": false },
+{ "id": "b", "texte": "Sie hören alte Erinnerungen am Kamin", "correcte": true },
+{ "id": "c", "texte": "Sie spielen Online-Videospiele", "correcte": false },
+{ "id": "d", "texte": "Sie gehen sofort am Tisch schlafen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-013-05",
+"question": "Was ist der Hauptvorteil dieser Ferienreisen?",
+"reponses": [
+{ "id": "a", "texte": "Sich völlig zu entspannen und die Natur zu genießen", "correcte": true },
+{ "id": "b", "texte": "Ein bisschen Taschengeld zu verdienen", "correcte": false },
+{ "id": "c", "texte": "Zu lernen, wie man ein Auto fährt", "correcte": false },
+{ "id": "d", "texte": "Die Schulhausaufgaben schnell zu beenden", "correcte": false }
+]
+}
+]
+},
+{
+"id": "014",
+"titre": "Mein bester Freund",
+"titre2": "Übung 014",
+"texte": [
+"Ich habe einen sehr netten Freundeskreis, aber mein absolut bester Freund heißt Jack und wir sind unzertrennlich.",
+"Wir kennen uns seit dem ersten Jahr der Grundschule und teilen viele Kindheitserinnerungen.",
+"Jack ist ein Junge in meinem Alter, er ist groß, hat braune Augen und kurze lockige Haare.",
+"Abgesehen von seinem Aussehen ist er ein sehr großzügiger Mensch, der immer zuhört und viel Humor hat.",
+"Wir teilen genau dieselbe Leidenschaft für strategische Videospiele und modernes Science-Fiction-Kino.",
+"Jeden Mittwochnachmittag kommt er zu mir nach Hause, um für die Schule zu lernen und Matheaufgaben zu machen.",
+"Nachdem wir unsere Schularbeiten beendet haben, spielen wir Spiele oder reden auf unserem bequemen Sofa.",
+"Wann immer ich ein persönliches Problem oder eine schlechte Note habe, findet Jack immer die richtigen Worte, um mich zu trösten.",
+"Ich kann ihm all meine größten Geheimnisse anvertrauen, ohne Angst zu haben, dass er es jemand anderem erzählt.",
+"Eine so starke, ehrliche und lange Freundschaft ist etwas Wertvolles, das ich mein ganzes Leben lang behalten möchte."
+],
+"audios": [
+{ "id": "audio-de-read-a2-014-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-014-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-014-01",
+"question": "Wie lange kennen sich der Erzähler und Jack schon?",
+"reponses": [
+{ "id": "a", "texte": "Seit den Sommerferien letzten Jahres", "correcte": false },
+{ "id": "b", "texte": "Erst seit ein paar Wochen", "correcte": false },
+{ "id": "c", "texte": "Seit der Grundschulzeit", "correcte": true },
+{ "id": "d", "texte": "Seit sie an der Universität sind", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-014-02",
+"question": "Wie sieht Jack laut dem Text aus?",
+"reponses": [
+{ "id": "a", "texte": "Er ist groß, hat braune Augen und lockige Haare", "correcte": true },
+{ "id": "b", "texte": "Er ist klein und hat lange blonde Haare", "correcte": false },
+{ "id": "c", "texte": "Er trägt eine große, schwarze, runde Brille", "correcte": false },
+{ "id": "d", "texte": "Er hat blaue Augen und glatte Haare", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-014-03",
+"question": "Welche gemeinsame Leidenschaft teilen die beiden Freunde?",
+"reponses": [
+{ "id": "a", "texte": "Modernes Zeichnen und Malen", "correcte": false },
+{ "id": "b", "texte": "Traditionelle italienische Küche", "correcte": false },
+{ "id": "c", "texte": "Klassische Musik und Violine spielen", "correcte": false },
+{ "id": "d", "texte": "Strategische Videospiele und Science-Fiction", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-014-04",
+"question": "Was machen sie jeden Mittwochnachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Sie gehen draußen Fußball spielen", "correcte": false },
+{ "id": "b", "texte": "Sie lernen und machen Matheaufgaben", "correcte": true },
+{ "id": "c", "texte": "Sie kaufen neue Kleidung in der Stadt", "correcte": false },
+{ "id": "d", "texte": "Sie putzen das Schlafzimmer des Erzählers", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-014-05",
+"question": "Warum vertraut der Erzähler Jack vollkommen?",
+"reponses": [
+{ "id": "a", "texte": "Weil er alle großen Geheimnisse sicher bewahrt", "correcte": true },
+{ "id": "b", "texte": "Weil Jack der stärkste Junge in der Klasse ist", "correcte": false },
+{ "id": "c", "texte": "Weil er ihm oft Taschengeld gibt", "correcte": false },
+{ "id": "d", "texte": "Weil sie in derselben Straße wohnen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "015",
+"titre": "Jemanden Neues kennenlernen",
+"titre2": "Übung 015",
+"texte": [
+"Am Montagmorgen kam ein ganz neuer Schüler in unseren Englischunterricht, sein Name ist Leo und er kommt aus Kanada.",
+"Unser Klassenlehrer stellte ihn allen vor und bat ihn, sich an den freien Tisch direkt neben mir zu setzen.",
+"Am Anfang des Morgens war Leo ein bisschen schüchtern, weil er niemanden in der Schule kannte.",
+"Während der Pause um zehn Uhr beschloss ich, mit ihm zu sprechen, damit er sich wohler fühlt.",
+"Er erzählte mir, dass er gerade erst wegen des neuen Jobs seines Vaters mit seiner Familie nach Deutschland gezogen sei.",
+"Leo spricht perfekt Englisch, aber er hat einen charmanten kanadischen Akzent, den die ganze Klasse sehr mag.",
+"Wir haben festgestellt, dass wir beide gerne Rockmusik hören und am Wochenende Skateboard fahren.",
+"Ich zeigte ihm die Schule, einschließlich der großen Kantine, der Wissenschaftslabore und der Bibliothek.",
+"Am Ende dieses ersten Tages dankte er mir herzlich für meine Hilfe und meinen freundlichen Empfang.",
+"Ich freue mich sehr über dieses Treffen und denke, dass wir tolle Schulfreunde werden."
+],
+"audios": [
+{ "id": "audio-de-read-a2-015-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-015-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-015-01",
+"question": "Woher kommt der neue Schüler namens Leo?",
+"reponses": [
+{ "id": "a", "texte": "Aus den Vereinigten Staaten", "correcte": false },
+{ "id": "b", "texte": "Aus Australien", "correcte": false },
+{ "id": "c", "texte": "Aus Kanada", "correcte": true },
+{ "id": "d", "texte": "Aus Belgien", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-015-02",
+"question": "Wo sollte sich Leo nach der Bitte des Lehrers hinsetzen?",
+"reponses": [
+{ "id": "a", "texte": "Ganz hinten im Klassenzimmer", "correcte": false },
+{ "id": "b", "texte": "An den freien Tisch neben dem Erzähler", "correcte": true },
+{ "id": "c", "texte": "Direkt neben die weiße Tafel", "correcte": false },
+{ "id": "d", "texte": "An den Tisch des Lehrers", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-015-03",
+"question": "Warum ist Leos Familie nach Deutschland gezogen?",
+"reponses": [
+{ "id": "a", "texte": "Für einen kurzen Winterurlaub", "correcte": false },
+{ "id": "b", "texte": "Um eine neue Sprache zu lernen", "correcte": false },
+{ "id": "c", "texte": "Wegen des neuen Jobs seines Vaters", "correcte": true },
+{ "id": "d", "texte": "Um ein großes Bauernhaus zu kaufen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-015-04",
+"question": "Welches Hobby haben Leo und der Erzähler gemeinsam?",
+"reponses": [
+{ "id": "a", "texte": "Schwimmen im Verein", "correcte": false },
+{ "id": "b", "texte": "Skateboard fahren", "correcte": true },
+{ "id": "c", "texte": "Basketball spielen", "correcte": false },
+{ "id": "d", "texte": "Rennrad fahren", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-015-05",
+"question": "Wie fühlte sich Leo am Anfang des Morgens?",
+"reponses": [
+{ "id": "a", "texte": "Ein bisschen schüchtern", "correcte": true },
+{ "id": "b", "texte": "Sehr wütend", "correcte": false },
+{ "id": "c", "texte": "Müde und schläfrig", "correcte": false },
+{ "id": "d", "texte": "Stolz und arrogant", "correcte": false }
+]
+}
+]
+},
+{
+"id": "016",
+"titre": "Ein Familienfest",
+"titre2": "Übung 016",
+"texte": [
+"Letzten Sonntag organisierte meine Familie ein großes Fest, um die goldene Hochzeit meiner Großeltern zu feiern.",
+"Fünfzig Jahre Ehe ist ein seltenes Ereignis, das es verdient hat, alle unsere engen Verwandten an einem Ort zusammenzubringen.",
+"Wir haben einen großen Gemeindesaal in einem schönen, malerischen Dorf unweit unserer Heimatstadt gemietet.",
+"Meine Onkel, Tanten und alle meine Cousins reisten aus verschiedenen Regionen zu diesem wichtigen Familienereignis an.",
+"Jeder brachte etwas zu essen oder zu trinken mit, sodass ein riesiges, abwechslungsreiches und leckeres Buffet für die Gäste entstand.",
+"Es gab frische Salate, Aufschnitt, regionalen Käse und viele süße Fruchtkuchen, die mit Liebe zubereitet wurden.",
+"Mein Cousin installierte eine große Soundanlage, um die alten Lieblingslieder unserer lieben Großeltern zu spielen.",
+"Wir verbrachten den ganzen Nachmittag damit, zu tanzen, uns fröhlich zu unterhalten und hunderte von Erinnerungsfotos zu machen.",
+"Meine Großeltern waren sehr gerührt, alle ihre Kinder und Enkelkinder mit so viel Liebe um sich herum zu sehen.",
+"Dieses Fest wird uns als ein perfekter Moment des puren Glücks und des familiären Teilens in Erinnerung bleiben."
+],
+"audios": [
+{ "id": "audio-de-read-a2-016-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-016-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-016-01",
+"question": "Welches Ereignis feierte die Familie am letzten Sonntag?",
+"reponses": [
+{ "id": "a", "texte": "Ein erfolgreiches Prüfungsergebnis", "correcte": false },
+{ "id": "b", "texte": "Die goldene Hochzeit der Großeltern", "correcte": true },
+{ "id": "c", "texte": "Den Ruhestand eines Onkels", "correcte": false },
+{ "id": "d", "texte": "Die Geburt eines neuen Cousins", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-016-02",
+"question": "Wo wurde das Familienfest organisiert?",
+"reponses": [
+{ "id": "a", "texte": "Im kleinen Garten hinter dem Haus", "correcte": false },
+{ "id": "b", "texte": "In einem teuren Restaurant", "correcte": false },
+{ "id": "c", "texte": "In einem gemieteten großen Gemeindesaal", "correcte": true },
+{ "id": "d", "texte": "An einem privaten Strandabschnitt", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-016-03",
+"question": "Wie wurde das Essen für das Buffet organisiert?",
+"reponses": [
+{ "id": "a", "texte": "Ein teurer Partyservice hat alles zubereitet", "correcte": false },
+{ "id": "b", "texte": "Die Großeltern haben alle Gerichte allein gekocht", "correcte": false },
+{ "id": "c", "texte": "Sie haben viele heiße Pizzas bestellt", "correcte": false },
+{ "id": "d", "texte": "Jeder Gast brachte etwas zu essen oder zu trinken mit", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-016-04",
+"question": "Welche Musik spielte der Cousin auf der Soundanlage?",
+"reponses": [
+{ "id": "a", "texte": "Die alten Lieblingslieder der Großeltern", "correcte": true },
+{ "id": "b", "texte": "Moderne elektronische Musik", "correcte": false },
+{ "id": "c", "texte": "Lieder, die nur für kleine Kinder sind", "correcte": false },
+{ "id": "d", "texte": "Harte Rockmusik aus Amerika", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-016-05",
+"question": "Wie fühlten sich die Großeltern während des Festes?",
+"reponses": [
+{ "id": "a", "texte": "Sie waren gerührt, ihre Familie vereint zu sehen", "correcte": true },
+{ "id": "b", "texte": "Sie waren müde und wollten schnell gehen", "correcte": false },
+{ "id": "c", "texte": "Sie waren enttäuscht von der Musiklautstärke", "correcte": false },
+{ "id": "d", "texte": "Sie fanden den Gemeindesaal viel zu klein", "correcte": false }
+]
+}
+]
+},
+{
+"id": "017",
+"titre": "Ferien mit meinen Cousins",
+"titre2": "Übung 017",
+"texte": [
+"Jedes Jahr im August verbringe ich zwei unvergessliche Wochen mit meinen Cousins am Meer.",
+"Meine Onkel mieten eine große weiße Villa mit einem herrlichen Blick auf die Nordsee.",
+"Meine Cousins, Paul und Clara, sind fast im gleichen Alter wie ich, was unsere Beziehung sehr einfach macht.",
+"Am Morgen wachen wir gegen neun Uhr auf, um an dem sonnigen Tisch auf der Terrasse ausgiebig zu frühstücken.",
+"Dann ziehen wir unsere Badesachen an, bereiten unsere Strandtücher vor und rennen zum weichen Sandstrand.",
+"Wir verbringen Stunden damit, in den kühlen Wellen zu schwimmen, große Burgen zu bauen oder Beachvolleyball zu spielen.",
+"Am Nachmittag, wenn etwas Wind weht, lassen wir Drachen steigen oder leihen uns Fahrräder im Laden aus.",
+"Wir erkunden kleine Küstenwege und halten immer an, um im Nachbardorf ein leckeres Eis zu essen.",
+"Am Abend kehren wir müde aber glücklich nach Hause zurück, bereit, vor dem Schlafen Brettspiele zu spielen.",
+"Diese Ferien mit meinen Cousins sind wichtig, um den Schulalltag zu unterbrechen und neue positive Energie zu tanken."
+],
+"audios": [
+{ "id": "audio-de-read-a2-017-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-017-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-017-01",
+"question": "In welchem Monat des Jahres finden diese Ferien statt?",
+"reponses": [
+{ "id": "a", "texte": "Im Juli", "correcte": false },
+{ "id": "b", "texte": "Im September", "correcte": false },
+{ "id": "c", "texte": "Im August", "correcte": true },
+{ "id": "d", "texte": "Im Juni", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-017-02",
+"question": "Wo befindet sich die große weiße Villa?",
+"reponses": [
+{ "id": "a", "texte": "In den hohen Bergen", "correcte": false },
+{ "id": "b", "texte": "Im Zentrum des Landes", "correcte": false },
+{ "id": "c", "texte": "Am Meer", "correcte": true },
+{ "id": "d", "texte": "An einem kleinen See im Wald", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-017-03",
+"question": "Wie heißen die beiden im Text erwähnten Cousins?",
+"reponses": [
+{ "id": "a", "texte": "Lucas und Sophie", "correcte": false },
+{ "id": "b", "texte": "Thomas und Emily", "correcte": false },
+{ "id": "c", "texte": "Jack und Leo", "correcte": false },
+{ "id": "d", "texte": "Paul und Clara", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-017-04",
+"question": "Was essen sie während ihrer Fahrradtour am Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Käsebrote", "correcte": false },
+{ "id": "b", "texte": "Ein leckeres Eis im Nachbardorf", "correcte": true },
+{ "id": "c", "texte": "Heiße Pommes frites", "correcte": false },
+{ "id": "d", "texte": "Frisches Obst aus dem Garten", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-017-05",
+"question": "Was machen die Cousins am Abend vor dem Schlafengehen?",
+"reponses": [
+{ "id": "a", "texte": "Sie spielen Brettspiele", "correcte": true },
+{ "id": "b", "texte": "Sie schauen einen langen Horrorfilm", "correcte": false },
+{ "id": "c", "texte": "Sie lernen ihre Schullektionen", "correcte": false },
+{ "id": "d", "texte": "Sie gehen im Meer schwimmen", "correcte": false }
+]
+}
+]
+},
+{
+"id": "018",
+"titre": "Ein Tag mit meinem Vater",
+"titre2": "Übung 018",
+"texte": [
+"Letzten Samstag war meine Mutter auf einer Geschäftsreise für ihre Arbeit, daher verbrachte ich den ganzen Tag allein mit meinem Vater.",
+"Das ist eine ziemlich seltene Situation, da er unter der Woche viel arbeitet und nur sehr wenig Freizeit hat.",
+"Wir begannen unseren Morgen mit einem Spaziergang zum großen traditionellen Markt im historischen Stadtzentrum.",
+"Mein Vater liebt das Kochen absolut, deshalb haben wir sorgfältig frische Zutaten ausgewählt, um unser Mittagessen zuzubereiten.",
+"Wir kauften frischen Fisch, aromatische Kräuter, reife rote Tomaten und ein gutes traditionelles Weißbrot.",
+"Zurück zu Hause zeigte er mir, wie man das Gemüse sauber schneidet und den Fisch richtig mit Salz würzt.",
+"Das Mittagessen war absolut köstlich und ich war sehr stolz darauf, aktiv an der Zubereitung in der Küche teilgenommen zu haben.",
+"Am Nachmittag gingen wir in das städtische Stadion, um unsere lokale Fußballmannschaft bei einem wichtigen Spiel zu unterstützen.",
+"Die Stimmung auf den Rängen war unglaublich, die Fans sangen laut und unsere Mannschaft hat das Spiel am Ende gewonnen.",
+"Dieser gemeinsame Tag hat mir geholfen, meinen Vater viel besser kennenzulernen und seine persönlichen Leidenschaften zu teilen."
+],
+"audios": [
+{ "id": "audio-de-read-a2-018-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-018-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-018-01",
+"question": "Warum war die Mutter am letzten Samstag nicht zu Hause?",
+"reponses": [
+{ "id": "a", "texte": "Sie war krank im Bett", "correcte": false },
+{ "id": "b", "texte": "Sie war einkaufen in der Stadt", "correcte": false },
+{ "id": "c", "texte": "Sie war auf einer Geschäftsreise", "correcte": true },
+{ "id": "d", "texte": "Sie hat ihre Eltern besucht", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-018-02",
+"question": "Wohin gingen der Vater und der Erzähler am Morgen?",
+"reponses": [
+{ "id": "a", "texte": "Zum großen traditionellen Markt in der Stadt", "correcte": true },
+{ "id": "b", "texte": "In einen Supermarkt im Vorort", "correcte": false },
+{ "id": "c", "texte": "In die städtische öffentliche Bibliothek", "correcte": false },
+{ "id": "d", "texte": "In einen großen tiefen grünen Wald", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-018-03",
+"question": "Welche Zutaten kauften sie für ihr Mittagessen?",
+"reponses": [
+{ "id": "a", "texte": "Hühnerteile und Pommes frites", "correcte": false },
+{ "id": "b", "texte": "Rindfleisch und italienische Nudeln", "correcte": false },
+{ "id": "c", "texte": "Eine Käsepizza und süße Kuchen", "correcte": false },
+{ "id": "d", "texte": "Frischen Fisch, Kräuter und Tomaten", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-018-04",
+"question": "Wohin gingen sie am Nachmittag?",
+"reponses": [
+{ "id": "a", "texte": "Ins Kino, um einen Actionfilm zu sehen", "correcte": false },
+{ "id": "b", "texte": "Ins städtische Stadion zu einem Fußballspiel", "correcte": true },
+{ "id": "c", "texte": "Ins Schwimmbad, um zusammen zu schwimmen", "correcte": false },
+{ "id": "d", "texte": "Zu einem Freund, um Karten zu spielen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-018-05",
+"question": "Wie ging das Fußballspiel am Ende aus?",
+"reponses": [
+{ "id": "a", "texte": "Das Spiel endete unentschieden", "correcte": false },
+{ "id": "b", "texte": "Die lokale Mannschaft hat gewonnen", "correcte": true },
+{ "id": "c", "texte": "Die lokale Mannschaft hat verloren", "correcte": false },
+{ "id": "d", "texte": "Das Spiel wurde wegen Regens abgesagt", "correcte": false }
+]
+}
+]
+},
+{
+"id": "019",
+"titre": "Die täglichen Gewohnheiten meiner Mutter",
+"titre2": "Übung 019",
+"texte": [
+"Meine Mutter ist eine sehr organisierte Person, die einen genauen Tagesablauf hat und diesen jeden Tag strikt befolgt.",
+"Jeden Morgen wacht sie um Punkt sechs Uhr auf, lange vor dem Rest des Hauses, um Yoga zu machen.",
+"Sie sitzt auf einer blauen Matte im Wohnzimmer und hört leise, süße Musik, um ihren Geist zu entspannen.",
+"Nach ihrer Übungseinheit bereitet sie eine große Tasse grünen Tee zu und beginnt, ihr Lieblingsbuch zu lesen.",
+"Um halb acht weckt sie die ganze Familie sanft und hilft uns, unsere Schul- oder Arbeitstaschen vorzubereiten.",
+"Sie arbeitet als medizinische Sekretärin in einer privaten Klinik und nutzt immer ihr Fahrrad, um schnell dorthin zu fahren.",
+"Sie liebt dieses ökologische Transportmittel, weil es ihr ermöglicht, zweimal am Tag körperliche Übungen zu machen.",
+"Am Abend, nach ihrer Büroarbeit, verbringt sie etwa dreißig Minuten damit, die schönen Blumen auf unserem Balkon zu pflegen.",
+"Sie sagt oft, dass die Pflege der Natur sie die Müdigkeit vergessen lässt, die sich am Tag angesammelt hat.",
+"Ich respektiere meine Mutter sehr für ihre ständige Energie, ihre tägliche Disziplin und ihre süße Güte uns gegenüber."
+],
+"audios": [
+{ "id": "audio-de-read-a2-019-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-019-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-019-01",
+"question": "Wann wacht die Mutter jeden Morgen auf?",
+"reponses": [
+{ "id": "a", "texte": "Um halb sechs", "correcte": false },
+{ "id": "b", "texte": "Um sieben Uhr", "correcte": false },
+{ "id": "c", "texte": "Um Punkt sechs Uhr", "correcte": true },
+{ "id": "d", "texte": "Um Viertel vor acht", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-019-02",
+"question": "Welche Aktivität macht sie sofort nach dem Aufstehen?",
+"reponses": [
+{ "id": "a", "texte": "Sie macht Yoga im Wohnzimmer", "correcte": true },
+{ "id": "b", "texte": "Sie bereitet ein großes Frühstück vor", "correcte": false },
+{ "id": "c", "texte": "Sie schaut die Morgennachrichten im Fernsehen", "correcte": false },
+{ "id": "d", "texte": "Sie putzt den Badezimmerspiegel", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-019-03",
+"question": "Was ist der genaue Beruf der Mutter laut dem Text?",
+"reponses": [
+{ "id": "a", "texte": "Sie ist Grundschullehrerin", "correcte": false },
+{ "id": "b", "texte": "Sie arbeitet als Buchhalterin", "correcte": false },
+{ "id": "c", "texte": "Sie ist medizinische Sekretärin in einer Klinik", "correcte": true },
+{ "id": "d", "texte": "Sie ist eine professionelle Chefköchin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-019-04",
+"question": "Wie reist sie jeden Tag zu ihrem Arbeitsplatz?",
+"reponses": [
+{ "id": "a", "texte": "Sie nimmt einen öffentlichen Bus", "correcte": false },
+{ "id": "b", "texte": "Sie fährt mit ihrem Fahrrad", "correcte": true },
+{ "id": "c", "texte": "Sie fährt mit ihrem Elektroauto", "correcte": false },
+{ "id": "d", "texte": "Sie läuft den ganzen Weg dorthin", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-019-05",
+"question": "Was pflegt sie am Abend nach der Arbeit?",
+"reponses": [
+{ "id": "a", "texte": "Die schönen Blumen auf dem Balkon", "correcte": true },
+{ "id": "b", "texte": "Die schmutzige Kleidung der Familie", "correcte": false },
+{ "id": "c", "texte": "Sie hilft bei schwierigen Mathe-Hausaufgaben", "correcte": false },
+{ "id": "d", "texte": "Sie geht mit dem kleinen Hund des Nachbarn spazieren", "correcte": false }
+]
+}
+]
+},
+{
+"id": "020",
+"titre": "Ein Ausflug mit Freunden",
+"titre2": "Übung 020",
+"texte": [
+"Am Samstagnachmittag nutzten meine treuen Freunde und ich die warme Frühlingssonne, um einen tollen Ausflug in die Stadt zu machen.",
+"Wir trafen uns um zwei Uhr am Nachmittag direkt vor dem großen Brunnen auf dem zentralen Platz der Stadt.",
+"Als unsere Gruppe komplett war, beschlossen wir, zu dem brandneuen städtischen Vergnügungspark an der Allee zu laufen.",
+"Wir kauften Eintrittskarten, um die schnellen Achterbahnen zu testen, was uns viel Nervenkitzel und Adrenalin bescherte.",
+"Alle lachten laut und wir hielten diese glücklichen Momente fest, indem wir mehrere gemeinsame Gruppen-Selfies machten.",
+"Gegen halb fünf, nach all diesen intensiven Emotionen, spürten wir einen ganz natürlichen kleinen Hunger aufkommen.",
+"Wir setzten uns auf die Terrasse eines netten kleinen Cafés, um süße Crepes mit frischen Erdbeeren zu genießen.",
+"Wir sprachen über unsere Zukunftspläne für die großen Sommerferien und unsere Schulprüfungen, die schnell näher rücken.",
+"Es war ein fantastischer Tag voller guter Laune, der unsere ohnehin schon feste Freundschaft noch stärker machte als zuvor.",
+"Wir haben versprochen, nächsten Monat einen ähnlichen Ausflug zu organisieren, um das offizielle Ende unseres Schuljahres zu feiern."
+],
+"audios": [
+{ "id": "audio-de-read-a2-020-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-020-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-020-01",
+"question": "Wo traf sich die Gruppe von Freunden um zwei Uhr?",
+"reponses": [
+{ "id": "a", "texte": "Vor dem Hauptbahnhof", "correcte": false },
+{ "id": "b", "texte": "Am Eingang des örtlichen Kinos", "correcte": false },
+{ "id": "c", "texte": "In ihrem Schulhof", "correcte": false },
+{ "id": "d", "texte": "Vor dem großen Brunnen auf dem zentralen Platz", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-020-02",
+"question": "Welche Attraktion bescherte ihnen viel intensiven Nervenkitzel?",
+"reponses": [
+{ "id": "a", "texte": "Das Panorama-Riesenrad", "correcte": false },
+{ "id": "b", "texte": "Die schnellen Achterbahnen", "correcte": true },
+{ "id": "c", "texte": "Die Schießbude auf dem Jahrmarkt", "correcte": false },
+{ "id": "d", "texte": "Das gruselige Spukhaus", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-020-03",
+"question": "Was aßen sie gegen halb fünf im Café?",
+"reponses": [
+{ "id": "a", "texte": "Traditionelle Vanilleeis-Waffeln", "correcte": false },
+{ "id": "b", "texte": "Süße Crepes mit frischen Erdbeeren", "correcte": true },
+{ "id": "c", "texte": "Stücke von heißer Käsepizza", "correcte": false },
+{ "id": "d", "texte": "Sandwiches mit Schinken und Weißbrot", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-020-04",
+"question": "Worüber sprachen sie, während sie auf der Terrasse saßen?",
+"reponses": [
+{ "id": "a", "texte": "Ihre Sommerferien und die bevorstehenden Prüfungen", "correcte": true },
+{ "id": "b", "texte": "Die neuesten Videospiele für den PC", "correcte": false },
+{ "id": "c", "texte": "Wie man das Zimmer eines Freundes dekoriert", "correcte": false },
+{ "id": "d", "texte": "Den teuren Preis für die Parktickets", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-020-05",
+"question": "Wann planen sie, ihren nächsten gemeinsamen Ausflug zu machen?",
+"reponses": [
+{ "id": "a", "texte": "Nächste Woche am Freitag ohne Ausnahme", "correcte": false },
+{ "id": "b", "texte": "Nächsten Monat zum Ende des Schuljahres", "correcte": true },
+{ "id": "c", "texte": "In den nächsten kalten Winterferien", "correcte": false },
+{ "id": "d", "texte": "Sie haben überhaupt nichts geplant", "correcte": false }
+]
+}
+]
 }
 ]
