@@ -1408,5 +1408,735 @@
 ]
 }
 ]
+},
+{
+    "id": "021",
+    "titre": "My First Day at School",
+    "titre2": "Exercise 021",
+    "texte": [
+      "I still remember my first day at primary school very well, even though many years have passed since that time.",
+      "The morning of the first day, I woke up extremely early because I felt excited and nervous about it.",
+      "My mother prepared a beautiful new blue school bag for me, filled with colorful notebooks and sharp pencils.",
+      "When we arrived at the school gates, I saw a large crowd of children playing and talking loudly together.",
+      "Some smaller children were crying quietly in their parents' arms because they felt afraid of this new world.",
+      "Fortunately, a very kind and smiling teacher came to hold my hand and guide me to my classroom.",
+      "She sat me down at the front row, right next to a friendly little girl who became my first friend.",
+      "During the morning, we made a nice drawing, learned a traditional song, and visited the big playground outside.",
+      "At the end of the day, when the bell finally rang, I ran to my parents to tell them everything.",
+      "It was the beginning of a long journey of learning that helped me grow up happily and make memories."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-021-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-021-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-021-01",
+        "question": "Why did the narrator wake up very early on the first day?",
+        "reponses": [
+          { "id": "a", "texte": "Because he felt sick and tired", "correcte": false },
+          { "id": "b", "texte": "Because he felt excited and nervous", "correcte": true },
+          { "id": "c", "texte": "Because his alarm clock rang by mistake", "correcte": false },
+          { "id": "d", "texte": "To go shopping with his father", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-021-02",
+        "question": "What color was the narrator's new school bag?",
+        "reponses": [
+          { "id": "a", "texte": "It was bright red", "correcte": false },
+          { "id": "b", "texte": "It was dark green", "correcte": false },
+          { "id": "c", "texte": "It was blue", "correcte": true },
+          { "id": "d", "texte": "It was black", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-021-03",
+        "question": "What were some smaller children doing at the gates?",
+        "reponses": [
+          { "id": "a", "texte": "Eating sweet biscuits", "correcte": false },
+          { "id": "b", "texte": "Reading picture books", "correcte": false },
+          { "id": "c", "texte": "Crying in their parents' arms", "correcte": true },
+          { "id": "d", "texte": "Playing football together", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-021-04",
+        "question": "Where was the narrator sat down in the classroom?",
+        "reponses": [
+          { "id": "a", "texte": "At the back of the classroom", "correcte": false },
+          { "id": "b", "texte": "Right next to the window", "correcte": false },
+          { "id": "c", "texte": "At the front row", "correcte": true },
+          { "id": "d", "texte": "Near the principal's desk", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-021-05",
+        "question": "What activities did the students do in the morning?",
+        "reponses": [
+          { "id": "a", "texte": "They made a drawing and learned a song", "correcte": true },
+          { "id": "b", "texte": "They took a very difficult exam", "correcte": false },
+          { "id": "c", "texte": "They cleaned the entire playground", "correcte": false },
+          { "id": "d", "texte": "They watched a long documentary film", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "titre": "A New School Year",
+    "titre2": "Exercise 022",
+    "texte": [
+      "Every September brings the inevitable return of school and the start of a brand new academic year.",
+      "It is an important time that marks the official end of long summer holidays spent under the bright sun.",
+      "To prepare well, I always go to a big stationery shop with my parents to buy my new supplies.",
+      "This year, my timetable is a bit more complicated because I have new subjects like physics and chemistry.",
+      "On the first day, I felt a huge pleasure when I met my old classmates in the main hall.",
+      "We talked a lot to share our holiday stories, our trips abroad, and our favorite memories.",
+      "Our new form teacher gave us our textbooks and explained the important rules of the school.",
+      "He insisted on the necessity of regular work, good personal discipline, and respecting lesson times.",
+      "I feel fully motivated to give the best of myself and get excellent grades during the next terms.",
+      "This new year is a perfect opportunity to learn interesting things, grow up, and prepare for the future."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-022-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-022-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-022-01",
+        "question": "In which month of the year does the new school year start?",
+        "reponses": [
+          { "id": "a", "texte": "In June", "correcte": false },
+          { "id": "b", "texte": "In July", "correcte": false },
+          { "id": "c", "texte": "In September", "correcte": true },
+          { "id": "d", "texte": "In October", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-022-02",
+        "question": "Where does the narrator go to buy his supplies?",
+        "reponses": [
+          { "id": "a", "texte": "To a local car market", "correcte": false },
+          { "id": "b", "texte": "To a small neighborhood chemist", "correcte": false },
+          { "id": "c", "texte": "To a big stationery shop", "correcte": true },
+          { "id": "d", "texte": "To an international website", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-022-03",
+        "question": "What new school subjects appear this year?",
+        "reponses": [
+          { "id": "a", "texte": "History and geography", "correcte": false },
+          { "id": "b", "texte": "English and Spanish", "correcte": false },
+          { "id": "c", "texte": "Physics and chemistry", "correcte": true },
+          { "id": "d", "texte": "Drawing and music", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-022-04",
+        "question": "What did the new teacher particularly insist on?",
+        "reponses": [
+          { "id": "a", "texte": "The importance of regular work", "correcte": true },
+          { "id": "b", "texte": "Buying expensive designer clothes", "correcte": false },
+          { "id": "c", "texte": "Organizing end-of-year parties", "correcte": false },
+          { "id": "d", "texte": "Using mobile phones in class", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-022-05",
+        "question": "What is the narrator's state of mind for this year?",
+        "reponses": [
+          { "id": "a", "texte": "He is fully motivated", "correcte": true },
+          { "id": "b", "texte": "He is very tired and sad", "correcte": false },
+          { "id": "c", "texte": "He wants to change schools", "correcte": false },
+          { "id": "d", "texte": "He refuses to do his homework", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "titre": "My Favorite School Subject",
+    "titre2": "Exercise 023",
+    "texte": [
+      "At school, we study a great diversity of intellectual subjects, but my favorite subject is definitely history.",
+      "Since my childhood, I have been absolutely fascinated by stories of the past, ancient civilizations, and famous people.",
+      "I find it extraordinary to understand how men lived in ancient Egypt or during the European Middle Ages.",
+      "Our history teacher is a passionate man who knows how to keep our attention by telling lessons like adventures.",
+      "He often uses colorful geographical maps, pictures of famous monuments, and old documentary film clips.",
+      "Thanks to this lively teaching method, it is much easier to remember important dates and key events.",
+      "Every Tuesday afternoon, I look forward to this class and I participate actively by asking many questions.",
+      "At home, I like to extend this learning by reading historical books or watching documentaries on television.",
+      "My parents encourage me a lot and regularly offer me historical comic books for my birthday.",
+      "I think the study of the past is essential to better analyze our current world and build a better future."
+    ],
+    "audios": [
+      { "id": "audio-en-read-a2-023-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-a2-023-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-a2-023-01",
+        "question": "What is the narrator's favorite subject in this text?",
+        "reponses": [
+          { "id": "a", "texte": "Mathematics", "correcte": false },
+          { "id": "b", "texte": "History", "correcte": true },
+          { "id": "c", "texte": "French literature", "correcte": false },
+          { "id": "d", "texte": "Physical education", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-a2-023-02",
+        "question": "Which historical periods are mentioned in the text?",
+        "reponses": [
+          { "id": "a", "texte": "Prehistory and modern times", "correcte": false },
+          { "id": "b", "texte": "Roman times and the Renaissance", "correcte": false },
+          { "id": "c", "texte": "Ancient Egypt and the Middle Ages", "correcte": true },
+          { "id": "d", "texte": "The twentieth century only", "correcte": false }
+        ]
+        },
+{
+"id": "q-en-read-a2-023-03",
+"question": "How does the history teacher teach his lessons?",
+"reponses": [
+{ "id": "a", "texte": "By dictating text in silence for hours", "correcte": false },
+{ "id": "b", "texte": "By making students do written exercises only", "correcte": false },
+{ "id": "c", "texte": "By telling lessons like adventures", "correcte": true },
+{ "id": "d", "texte": "By punishing students who speak", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-023-04",
+"question": "What does the narrator do at home to extend his learning?",
+"reponses": [
+{ "id": "a", "texte": "He reads books and watches documentaries", "correcte": true },
+{ "id": "b", "texte": "He plays war games on his console", "correcte": false },
+{ "id": "c", "texte": "He writes a novel about his own life", "correcte": false },
+{ "id": "d", "texte": "He does nothing at all and rests", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-023-05",
+"question": "What birthday gift do the parents regularly offer?",
+"reponses": [
+{ "id": "a", "texte": "Historical comic books", "correcte": true },
+{ "id": "b", "texte": "Wooden model boats", "correcte": false },
+{ "id": "c", "texte": "Trendy sports clothes", "correcte": false },
+{ "id": "d", "texte": "A new smart phone", "correcte": false }
+]
+}
+]
+},
+{
+"id": "024",
+"titre": "Life in the Classroom",
+"titre2": "Exercise 024",
+"texte": [
+"Our usual classroom is a large, bright space located on the second floor of the school main building.",
+"The walls are painted white and decorated with wonderful art work, geographical maps, and student projects.",
+"In the center of the room, wooden tables are neatly aligned in pairs, facing the big interactive whiteboard.",
+"Every morning, when the teacher enters the room, a great calm settles immediately and the lesson can start.",
+"Class life is organized by learning lessons, taking quick notes, and working in small groups.",
+"I really like group work moments because we can exchange our ideas and help each other solve problems.",
+"Sometimes, there are small whispers or quiet laughs when someone makes a joke, but the atmosphere remains studious.",
+"At the back of the room, a small shelf contains English dictionaries, encyclopedias, and geometry tools.",
+"At the end of each lesson hour, we take care to clean our space, pick up papers, and tidy our chairs.",
+"This place is an essential space of exchange where we learn not only knowledge, but also respect and community life."
+],
+"audios": [
+{ "id": "audio-en-read-a2-024-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-024-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-024-01",
+"question": "Where is the narrator's classroom located?",
+"reponses": [
+{ "id": "a", "texte": "On the ground floor near the entrance", "correcte": false },
+{ "id": "b", "texte": "On the first floor next to the canteen", "correcte": false },
+{ "id": "c", "texte": "On the second floor of the main building", "correcte": true },
+{ "id": "d", "texte": "In a dark basement without windows", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-024-02",
+"question": "What decorates the walls of the classroom?",
+"reponses": [
+{ "id": "a", "texte": "Posters of famous movie stars", "correcte": false },
+{ "id": "b", "texte": "Student work, maps, and projects", "correcte": true },
+{ "id": "c", "texte": "Large glass mirrors only", "correcte": false },
+{ "id": "d", "texte": "Nothing, the walls are totally empty", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-024-03",
+"question": "Why does the narrator like group work moments?",
+"reponses": [
+{ "id": "a", "texte": "Because he can sleep during that time", "correcte": false },
+{ "id": "b", "texte": "To be able to copy without making an effort", "correcte": false },
+{ "id": "c", "texte": "To exchange ideas and help each other", "correcte": true },
+{ "id": "d", "texte": "Because the teacher leaves the room", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-024-04",
+"question": "What does the small shelf at the back of the room contain?",
+"reponses": [
+{ "id": "a", "texte": "Dictionaries, encyclopedias, and tools", "correcte": true },
+{ "id": "b", "texte": "Cakes and bottles of fresh juice", "correcte": false },
+{ "id": "c", "texte": "The school bags of all the students", "correcte": false },
+{ "id": "d", "texte": "Old spare clothes for winter days", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-024-05",
+"question": "What do the students do at the end of each lesson?",
+"reponses": [
+{ "id": "a", "texte": "They clean their space and tidy chairs", "correcte": true },
+{ "id": "b", "texte": "They run out without tidying anything", "correcte": false },
+{ "id": "c", "texte": "They ask the teacher for some money", "correcte": false },
+{ "id": "d", "texte": "They turn off all the room lights by force", "correcte": false }
+]
+}
+]
+},
+{
+"id": "025",
+"titre": "An Interesting School Trip",
+"titre2": "Exercise 025",
+"texte": [
+"Last Thursday, our class had the chance to go on a particularly interesting school trip to the local science museum.",
+"We met in front of the school at eight o'clock to get on a large red tourist coach reserved for us.",
+"The journey lasted about forty-five minutes, a happy time where we sang and laughed together.",
+"When we arrived at the museum, a specialized and passionate guide welcomed us warmly to start the tour.",
+"The museum offered many interactive galleries where we could touch objects, do physics experiments, and manipulate machines.",
+"I loved the section on space and planets, which explained in detail how the solar system and rockets work.",
+"At noon, we took a well-deserved break to eat our packed lunch in the large museum park outside.",
+"In the afternoon, we watched a spectacular three-dimensional projection about the fascinating life of marine dinosaurs.",
+"Back at school around four o'clock, our teacher asked us to write a short report for the next lesson.",
+"This cultural day out of the classroom was a wonderful opportunity to learn while having fun and strengthen our group."
+],
+"audios": [
+{ "id": "audio-en-read-a2-025-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-025-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-025-01",
+"question": "Where did the students go for their school trip?",
+"reponses": [
+{ "id": "a", "texte": "To a large zoological park", "correcte": false },
+{ "id": "b", "texte": "To the local science museum", "correcte": true },
+{ "id": "c", "texte": "To a beautiful sandy beach", "correcte": false },
+{ "id": "d", "texte": "To a big sweet factory", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-025-02",
+"question": "How long did the coach journey last?",
+"reponses": [
+{ "id": "a", "texte": "About fifteen minutes", "correcte": false },
+{ "id": "b", "texte": "Exactly one hour", "correcte": false },
+{ "id": "c", "texte": "About forty-five minutes", "correcte": true },
+{ "id": "d", "texte": "More than two hours", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-025-03",
+"question": "Which section of the museum did the narrator prefer?",
+"reponses": [
+{ "id": "a", "texte": "The section on music history", "correcte": false },
+{ "id": "b", "texte": "The section on modern painting", "correcte": false },
+{ "id": "c", "texte": "The section on space and planets", "correcte": true },
+{ "id": "d", "texte": "The section on vintage cars", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-025-04",
+"question": "Where did the students eat their packed lunch at noon?",
+"reponses": [
+{ "id": "a", "texte": "In the large museum park", "correcte": true },
+{ "id": "b", "texte": "Inside the red tourist coach", "correcte": false },
+{ "id": "c", "texte": "In the marine dinosaur room", "correcte": false },
+{ "id": "d", "texte": "In a luxury restaurant nearby", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-025-05",
+"question": "What work did the teacher ask the students to do after the trip?",
+"reponses": [
+{ "id": "a", "texte": "Write a short report", "correcte": true },
+{ "id": "b", "texte": "Draw a portrait of the guide", "correcte": false },
+{ "id": "c", "texte": "Learn the dinosaur names by heart", "correcte": false },
+{ "id": "d", "texte": "Bake a big cake for the class", "correcte": false }
+]
+}
+]
+},
+{
+"id": "026",
+"titre": "Preparing for an Exam",
+"titre2": "Exercise 026",
+"texte": [
+"The end of the term is approaching fast, which means we must prepare seriously for important exams.",
+"To avoid panicking at the last minute, I decided to set up a very rigorous daily revision plan.",
+"Every evening after school, I sit at the clean desk in my bedroom, far from noise and television.",
+"I start by carefully reading my revision notes, then I make written summaries of English and history lessons.",
+"Mathematics requires a lot of practice, so I regularly redo the difficult exercises studied in class.",
+"My best friend Jack sometimes comes to my house on Saturday afternoon so we can test each other with questions.",
+"It is an excellent learning technique because it allows us to verify if we understood all the key concepts.",
+"My mother also makes sure that I keep a good sleep schedule by going to bed early every night.",
+"She often prepares balanced meals for me with many fresh vegetables and fruit rich in vitamins for memory.",
+"Although this period is demanding and stressful, I know that regular work is the only key to pass successfully."
+],
+"audios": [
+{ "id": "audio-en-read-a2-026-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-026-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-026-01",
+"question": "What decision did the narrator make to avoid panicking?",
+"reponses": [
+{ "id": "a", "texte": "Not going to school on exam day", "correcte": false },
+{ "id": "b", "texte": "Setting up a daily revision plan", "correcte": true },
+{ "id": "c", "texte": "Asking the teacher to cancel tests", "correcte": false },
+{ "id": "d", "texte": "Watching television all night long", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-026-02",
+"question": "Where does the narrator sit down to work in the evening?",
+"reponses": [
+{ "id": "a", "texte": "In the noisy family living room", "correcte": false },
+{ "id": "b", "texte": "In the kitchen while eating snacks", "correcte": false },
+{ "id": "c", "texte": "At the clean desk in his bedroom", "correcte": true },
+{ "id": "d", "texte": "In his neighbor's back garden", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-026-03",
+"question": "How does the narrator revise for mathematics?",
+"reponses": [
+{ "id": "a", "texte": "By reading magic formulas only", "correcte": false },
+{ "id": "b", "texte": "By using a calculator without thinking", "correcte": false },
+{ "id": "c", "texte": "By regularly redoing difficult exercises", "correcte": true },
+{ "id": "d", "texte": "By asking his friend to do the work", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-026-04",
+"question": "What is the mother's role during this study period?",
+"reponses": [
+{ "id": "a", "texte": "She manages his sleep and cooks healthy meals", "correcte": true },
+{ "id": "b", "texte": "She writes revision notes for him", "correcte": false },
+{ "id": "c", "texte": "She takes him to the cinema every night", "correcte": false },
+{ "id": "d", "texte": "She buys brand new video games", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-026-05",
+"question": "What is the key to success according to the text?",
+"reponses": [
+{ "id": "a", "texte": "Regular work", "correcte": true },
+{ "id": "b", "texte": "Pure good luck", "correcte": false },
+{ "id": "c", "texte": "The chance of the questions", "correcte": false },
+{ "id": "d", "texte": "Cheating discreetly in class", "correcte": false }
+]
+}
+]
+},
+{
+"id": "027",
+"titre": "My School Library",
+"titre2": "Exercise 027",
+"texte": [
+"The library of our school is without doubt my favorite place to spend my free time or study hours.",
+"It is a spacious, warm, and particularly quiet room, which greatly helps intellectual concentration and reading.",
+"The large walls are covered with tall dark wooden shelves filled with thousands of books sorted alphabetically.",
+"You can find adventure novels, funny comic books, history textbooks, dictionaries, and various science magazines.",
+"The librarian, Mrs. Leroux, is a charming woman who always advises students with remarkable patience and kindness.",
+"She regularly helps me search for complex documents for my geography presentations or discover new authors.",
+"In the center of the room, there are several large study tables equipped with individual lamps and computers.",
+"We can use these computers to do serious school research or consult the online library catalog.",
+"Each week, I borrow two storybooks or science-fiction novels that I read quietly in my bed at night.",
+"Respecting absolute silence is the golden rule of this magical place that opens the doors of imagination."
+],
+"audios": [
+{ "id": "audio-en-read-a2-027-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-027-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-027-01",
+"question": "Why does the library help concentration?",
+"reponses": [
+{ "id": "a", "texte": "Because it has a very large television", "correcte": false },
+{ "id": "b", "texte": "Because it is particularly quiet", "correcte": true },
+{ "id": "c", "texte": "Because the chairs are soft leather", "correcte": false },
+{ "id": "d", "texte": "Because you can eat sweets there", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-027-02",
+"question": "How are the books sorted on the shelves?",
+"reponses": [
+{ "id": "a", "texte": "By the color of their front cover", "correcte": false },
+{ "id": "b", "texte": "By the size of their white pages", "correcte": false },
+{ "id": "c", "texte": "In alphabetical order", "correcte": true },
+{ "id": "d", "texte": "At random without any specific rule", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-027-03",
+"question": "What is the name of the school librarian?",
+"reponses": [
+{ "id": "a", "texte": "Mrs. Sophie", "correcte": false },
+{ "id": "b", "texte": "Mrs. Leroux", "correcte": true },
+{ "id": "c", "texte": "Mrs. Emily", "correcte": false },
+{ "id": "d", "texte": "Mrs. Thomas", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-027-04",
+"question": "Why can students use the computers in the library?",
+"reponses": [
+{ "id": "a", "texte": "To do research or check the catalog", "correcte": true },
+{ "id": "b", "texte": "To play network action games together", "correcte": false },
+{ "id": "c", "texte": "To send private messages to friends", "correcte": false },
+{ "id": "d", "texte": "To watch funny online video clips", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-027-05",
+"question": "What is the absolute golden rule of this place?",
+"reponses": [
+{ "id": "a", "texte": "Respecting absolute silence", "correcte": true },
+{ "id": "b", "texte": "The obligation to wear a black hat", "correcte": false },
+{ "id": "c", "texte": "Coming only on Monday mornings", "correcte": false },
+{ "id": "d", "texte": "Paying a small fee at each entry", "correcte": false }
+]
+}
+]
+},
+{
+"id": "028",
+"titre": "A New Student in the Class",
+"titre2": "Exercise 028",
+"texte": [
+"This morning, our class routine was pleasantly disrupted by the surprise arrival of a new student in the middle of the term.",
+"Our form teacher opened the classroom door and introduced a young boy named Thomas.",
+"Thomas is an Italian teenager who has just moved from Rome because of his parents' job relocation.",
+"He looked visibly impressed, a bit shy, and intimidated facing all these unknown faces looking at him.",
+"The teacher suggested that he take the empty seat in the second row, right in front of my own desk.",
+"At break time, I decided to make the first move by welcoming him warmly and offering to show him the playground.",
+"Despite a few short hesitations with vocabulary, Thomas speaks English very well with a beautiful singing accent.",
+"He confided to me that he loved art drawing, ancient architecture, and had been playing the piano for five years.",
+"I introduced him to my usual group of friends, who immediately invited him to join our basketball match later.",
+"Welcoming a new classmate is always a wonderful chance to open up to others and help them feel at home."
+],
+"audios": [
+{ "id": "audio-en-read-a2-028-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-028-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-028-01",
+"question": "What is the name of the new student introduced this morning?",
+"reponses": [
+{ "id": "a", "texte": "Jack", "correcte": false },
+{ "id": "b", "texte": "Lucas", "correcte": false },
+{ "id": "c", "texte": "Thomas", "correcte": true },
+{ "id": "d", "texte": "Leo", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-028-02",
+"question": "Which foreign city did Thomas move from?",
+"reponses": [
+{ "id": "a", "texte": "Madrid, Spain", "correcte": false },
+{ "id": "b", "texte": "Rome, Italy", "correcte": true },
+{ "id": "c", "texte": "Montreal, Canada", "correcte": false },
+{ "id": "d", "texte": "Berlin, Germany", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-028-03",
+"question": "How did Thomas feel in front of the unknown students?",
+"reponses": [
+{ "id": "a", "texte": "Very angry and aggressive", "correcte": false },
+{ "id": "b", "texte": "A bit shy and intimidated", "correcte": true },
+{ "id": "c", "texte": "Proud and completely sure of himself", "correcte": false },
+{ "id": "d", "texte": "Tired and ready to fall asleep", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-028-04",
+"question": "What instrument has Thomas been playing for five years?",
+"reponses": [
+{ "id": "a", "texte": "The electric guitar", "correcte": false },
+{ "id": "b", "texte": "The traditional violin", "correcte": false },
+{ "id": "c", "texte": "The piano", "correcte": true },
+{ "id": "d", "texte": "The concert drums", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-028-05",
+"question": "What sport do the friends invite Thomas to play in the afternoon?",
+"reponses": [
+{ "id": "a", "texte": "A basketball match", "correcte": true },
+{ "id": "b", "texte": "An athletic race", "correcte": false },
+{ "id": "c", "texte": "A game of chess", "correcte": false },
+{ "id": "d", "texte": "A swimming session", "correcte": false }
+]
+}
+]
+},
+{
+"id": "029",
+"titre": "Activities During Break Time",
+"titre2": "Exercise 029",
+"texte": [
+"When the school bell finally rings at ten o'clock sharp, a huge shout of joy goes through all classrooms.",
+"It is the long-awaited signal for morning break, an essential fifteen-minute pause to relax our tired minds.",
+"All the students rush quickly into the large outdoor playground, bordered by beautiful trees and benches.",
+"Children's activities are extremely varied and everyone has their own game habits to have fun in the fresh air.",
+"A large group of boys and girls sets up in the center to play a quick match of football or basketball.",
+"Other students prefer to walk quietly along the walls to discuss the latest movies, video games, or music.",
+"The younger ones have fun playing hide-and-seek behind the big trees or exchanging colorful trading cards.",
+"It is also the perfect moment to eat a small snack, like a juicy apple, a biscuit, or drink some fruit juice.",
+"The school supervisors walk calmly around the yard to ensure that everything happens with respect and safely.",
+"When the bell rings again to mark the end of the break, we return to class tired but fully refreshed."
+],
+"audios": [
+{ "id": "audio-en-read-a2-029-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-029-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-029-01",
+"question": "What time does the morning break bell ring?",
+"reponses": [
+{ "id": "a", "texte": "At nine o'clock sharp", "correcte": false },
+{ "id": "b", "texte": "At ten o'clock sharp", "correcte": true },
+{ "id": "c", "texte": "At half past eleven", "correcte": false },
+{ "id": "d", "texte": "At twelve o'clock exactly", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-029-02",
+"question": "How long does the morning break time last?",
+"reponses": [
+{ "id": "a", "texte": "Five minutes only", "correcte": false },
+{ "id": "b", "texte": "Ten minutes exactly", "correcte": false },
+{ "id": "c", "texte": "Fifteen minutes", "correcte": true },
+{ "id": "d", "texte": "A full half hour", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-029-03",
+"question": "Where do the younger children play hide-and-seek?",
+"reponses": [
+{ "id": "a", "texte": "Inside the school toilets", "correcte": false },
+{ "id": "b", "texte": "Behind the big trees in the yard", "correcte": true },
+{ "id": "c", "texte": "Under the desks in the classroom", "correcte": false },
+{ "id": "d", "texte": "On the roof of the main building", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-029-04",
+"question": "What do the school supervisors do during break time?",
+"reponses": [
+{ "id": "a", "texte": "They walk around the yard to ensure safety", "correcte": true },
+{ "id": "b", "texte": "They play football with the older students", "correcte": false },
+{ "id": "c", "texte": "They stay in their office to correct texts", "correcte": false },
+{ "id": "d", "texte": "They distribute free sweets to everyone", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-029-05",
+"question": "How do the students feel at the end of the break?",
+"reponses": [
+{ "id": "a", "texte": "Tired but fully refreshed", "correcte": true },
+{ "id": "b", "texte": "Angry to have to work again", "correcte": false },
+{ "id": "c", "texte": "Sad and ready to cry", "correcte": false },
+{ "id": "d", "texte": "Totally starving and sick", "correcte": false }
+]
+}
+]
+},
+{
+"id": "030",
+"titre": "My Favorite Teacher",
+"titre2": "Exercise 030",
+"texte": [
+"During my school life, I have had the chance to meet many good teachers, but my favorite is Mr. Robert.",
+"Mr. Robert has been our English literature and communication teacher since the beginning of this school year.",
+"He is a man in his fifties, always dressed in an elegant jacket, who has infinite calm and kindness.",
+"His main teaching quality is his extraordinary capacity to make the oldest and most complex poetry texts understandable.",
+"He never raises his voice at students in difficulty and prefers to take time to explain grammar rules patiently.",
+"His classes are always interactive because he constantly encourages each student to express their personal opinion.",
+"Thanks to his precious reading advice, I developed a true love for fiction and modern adventure books.",
+"He also organizes small creative writing workshops on Friday afternoon where we can invent our own fantasy stories.",
+"For me, a good teacher is not just someone who transmits technical knowledge, but someone who inspires his students.",
+"I will always keep a fond memory of this exceptional teacher who gave me confidence in my written expression skills."
+],
+"audios": [
+{ "id": "audio-en-read-a2-030-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-a2-030-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-en-read-a2-030-01",
+"question": "What subject does Mr. Robert teach?",
+"reponses": [
+{ "id": "a", "texte": "Physical and natural sciences", "correcte": false },
+{ "id": "b", "texte": "English literature", "correcte": true },
+{ "id": "c", "texte": "Modern art history", "correcte": false },
+{ "id": "d", "texte": "Economic geography", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-030-02",
+"question": "How does Mr. Robert react to students in difficulty?",
+"reponses": [
+{ "id": "a", "texte": "He raises his voice and gives punishments", "correcte": false },
+{ "id": "b", "texte": "He asks them to leave the room completely", "correcte": false },
+{ "id": "c", "texte": "He takes time to explain patiently", "correcte": true },
+{ "id": "d", "texte": "He totally ignores their questions", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-030-03",
+"question": "What does Mr. Robert encourage his students to do in class?",
+"reponses": [
+{ "id": "a", "texte": "Express their personal opinion on books", "correcte": true },
+{ "id": "b", "texte": "Copy pages from the textbook exactly", "correcte": false },
+{ "id": "c", "texte": "Draw pictures on the whiteboard", "correcte": false },
+{ "id": "d", "texte": "Keep total silence without moving", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-030-04",
+"question": "What is organized on Friday afternoon by this teacher?",
+"reponses": [
+{ "id": "a", "texte": "Small creative writing workshops", "correcte": true },
+{ "id": "b", "texte": "Very long grammar examinations", "correcte": false },
+{ "id": "c", "texte": "Indoor football competitions", "correcte": false },
+{ "id": "d", "texte": "Complete cleanups of the room", "correcte": false }
+]
+},
+{
+"id": "q-en-read-a2-030-05",
+"question": "What did this class bring to the narrator?",
+"reponses": [
+{ "id": "a", "texte": "Confidence in his expression skills", "correcte": true },
+{ "id": "b", "texte": "The desire to leave school quickly", "correcte": false },
+{ "id": "c", "texte": "A bad grade on his final exam", "correcte": false },
+{ "id": "d", "texte": "A lot of fatigue and daily boredom", "correcte": false }
+]
+}
+]
 }
 ]
