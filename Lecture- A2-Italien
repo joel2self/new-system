@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": "001",
     "titre": "La mia giornata abituale",
     "titre2": "Esercizio 001",
@@ -2134,6 +2135,736 @@
 { "id": "b", "texte": "Il desiderio di lasciare subito la scuola", "correcte": false },
 { "id": "c", "texte": "Un brutto voto all'esame finale", "correcte": false },
 { "id": "d", "texte": "Molta stanchezza e noia quotidiana", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "031",
+    "titre": "La casa dei miei sogni",
+    "titre2": "Esercizio 031",
+    "texte": [
+      "Fin dalla mia prima infanzia ho un'idea molto precisa della mia casa futura perfetta.",
+      "Non sarà un castello enorme, ma una bella villa ecologica vicino al Mar Mediterraneo.",
+      "La casa avrà grandi vetrate per far entrare molta luce naturale e offrire una vista fantastica.",
+      "Al piano terra ci sarà un grande soggiorno con un comodo divano e un camino.",
+      "La cucina moderna sarà aperta sulla zona pranzo per parlare con gli ospiti mentre si cucina.",
+      "Al piano superiore costruirò tre camere da letto luminose, tra cui una stanza principale con bagno privato.",
+      "All'esterno sogno una terrazza in legno con un grande tavolo da pranzo e una piscina.",
+      "Il giardino sarà pieno di piante aromatiche verdi, rose colorate e alberi di limone dolci.",
+      "Il tetto sarà coperto di pannelli solari per generare la nostra energia pulita e rinnovabile.",
+      "So che dovrò lavorare sodo per raggiungere questo obiettivo di vita, ma mi motiva ogni giorno."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-031-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-031-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-031-01",
+        "question": "Dove si troverà la casa dei sogni del protagonista?",
+        "reponses": [
+          { "id": "a", "texte": "Sulla cima di una montagna innevata", "correcte": false },
+          { "id": "b", "texte": "Vicino al Mar Mediterraneo", "correcte": true },
+          { "id": "c", "texte": "Nel centro di una grande capitale", "correcte": false },
+          { "id": "d", "texte": "In un bosco buio del nord", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-031-02",
+        "question": "Perché la casa avrà grandi vetrate?",
+        "reponses": [
+          { "id": "a", "texte": "Per far entrare la luce naturale e offrire una vista fantastica", "correcte": true },
+          { "id": "b", "texte": "Per guardare i vicini mentre lavorano", "correcte": false },
+          { "id": "c", "texte": "Perché il vetro costa meno dei mattoni", "correcte": false },
+          { "id": "d", "texte": "Per entrare in casa senza chiavi", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-031-03",
+        "question": "Quante camere da letto vuole costruire al piano superiore?",
+        "reponses": [
+          { "id": "a", "texte": "Solo una singola camera", "correcte": false },
+          { "id": "b", "texte": "Due piccole stanze per gli ospiti", "correcte": false },
+          { "id": "c", "texte": "Tre camere da letto luminose", "correcte": true },
+          { "id": "d", "texte": "Più di cinque stanze", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-031-04",
+        "question": "Quali piante e alberi ci saranno nel giardino?",
+        "reponses": [
+          { "id": "a", "texte": "Piante aromatiche, rose e limoni", "correcte": true },
+          { "id": "b", "texte": "Solo erbacce e grandi piante di cactus", "correcte": false },
+          { "id": "c", "texte": "Verdure invernali come le patate", "correcte": false },
+          { "id": "d", "texte": "Alberi tropicali dell'Asia centrale", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-031-05",
+        "question": "Come genererà la sua energia pulita la casa dei sogni?",
+        "reponses": [
+          { "id": "a", "texte": "Con pannelli solari sul tetto", "correcte": true },
+          { "id": "b", "texte": "Con un vecchio generatore a benzina", "correcte": false },
+          { "id": "c", "texte": "Comprando elettricità da una fabbrica locale", "correcte": false },
+          { "id": "d", "texte": "Con la forza del vento marino", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "titre": "Il mio nuovo appartamento",
+    "titre2": "Esercizio 032",
+    "texte": [
+      "Il mese scorso mi sono trasferito nel mio primissimo appartamento di proprietà in centro città.",
+      "È un bel bilocale al terzo piano di un vecchio edificio vicino a una stazione della metropolitana.",
+      "L'appartamento ha un ingresso luminoso, un grande soggiorno, una camera da letto e una cucina moderna.",
+      "Le pareti avevano un bianco triste, così ho passato il fine settimana a dipingere il soggiorno di beige.",
+      "Ho comprato la maggior parte dei miei mobili in un negozio scandinavo per creare un'atmosfera tranquilla.",
+      "Al centro del soggiorno ho messo un tappeto di lana grigia e un tavolino di legno chiaro.",
+      "La cucina ha un piano di lavoro in marmo, dove mi piace cucinare piatti sani dopo il lavoro.",
+      "La mia parte preferita di questo appartamento è il piccolo balcone in metallo nero con vista sui tetti.",
+      "I miei genitori e gli amici mi hanno aiutato a trasportare gli scatoloni pesanti e a montare i mobili.",
+      "Mi sento incredibilmente felice di avere un mio spazio accogliente, dove posso gestire liberamente il mio tempo."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-032-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-032-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-032-01",
+        "question": "A quale piano si trova il nuovo appartamento?",
+        "reponses": [
+          { "id": "a", "texte": "Al piano terra vicino alla strada", "correcte": false },
+          { "id": "b", "texte": "Al primo piano sopra il garage", "correcte": false },
+          { "id": "c", "texte": "Al terzo piano dell'edificio", "correcte": true },
+          { "id": "d", "texte": "All'ultimo piano sotto il tetto", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-032-02",
+        "question": "Quale colore ha scelto per le pareti del soggiorno?",
+        "reponses": [
+          { "id": "a", "texte": "Un beige molto morbido", "correcte": true },
+          { "id": "b", "texte": "Un blu marino molto scuro", "correcte": false },
+          { "id": "c", "texte": "Un giallo chiaro molto energico", "correcte": false },
+          { "id": "d", "texte": "Ha lasciato le pareti di un bianco triste", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-032-03",
+        "question": "Dove ha comprato la maggior parte dei mobili?",
+        "reponses": [
+          { "id": "a", "texte": "In un vecchio mercato delle pulci locale", "correcte": false },
+          { "id": "b", "texte": "In un negozio scandinavo di arredamento", "correcte": true },
+          { "id": "c", "texte": "In un negozio industriale di metallo nero", "correcte": false },
+          { "id": "d", "texte": "In un mercato rustico in campagna", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-032-04",
+        "question": "Qual è la parte preferita in assoluto dell'appartamento?",
+        "reponses": [
+          { "id": "a", "texte": "La vicinanza alla stazione della metropolitana", "correcte": false },
+          { "id": "b", "texte": "Il grande specchio nella zona bagno", "correcte": false },
+          { "id": "c", "texte": "Il tappeto di lana grigia nel soggiorno", "correcte": false },
+          { "id": "d", "texte": "Il piccolo balcone in metallo nero con vista", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-032-05",
+        "question": "Chi lo ha aiutato a trasportare gli scatoloni e a montare i mobili?",
+        "reponses": [
+          { "id": "a", "texte": "Un'impresa di traslochi professionista e costosa", "correcte": false },
+          { "id": "b", "texte": "I suoi genitori e i suoi amici fidati", "correcte": true },
+          { "id": "c", "texte": "Il vecchio custode dell'edificio", "correcte": false },
+          { "id": "d", "texte": "Ha fatto tutto il duro lavoro da solo", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "titre": "Visitare una nuova casa",
+    "titre2": "Esercizio 033",
+    "texte": [
+      "Sabato pomeriggio i miei genitori hanno organizzato la visita di una nuova casa per la nostra famiglia.",
+      "Ci siamo incontrati alle due con un agente immobiliare professionista davanti alla casa di periferia.",
+      "Dall'esterno la casa si presenta molto attraente con mattoni rossi e persiane bianche.",
+      "L'agente ha aperto la porta principale su un corridoio luminoso che conduce alla zona giorno.",
+      "Il soggiorno è spazioso con un vero pavimento in legno e grandi finestre che danno su un giardino verde.",
+      "Successivamente abbiamo visitato la cucina moderna con molti mobili, un forno e una lavastoviglie.",
+      "Al piano superiore l'immobile offre quattro belle camere da letto e due bagni blu.",
+      "Mio fratello minore e io abbiamo già scelto le nostre future stanze.",
+      "Il giardino esterno è completamente circondato da mura, il che è perfetto per la sicurezza personale.",
+      "Dopo un'ora di visita, i miei genitori hanno discusso il prezzo con l'agente e sembravano entusiasti."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-033-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-033-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-033-01",
+        "question": "Chi ha incontrato la famiglia per visitare la nuova casa?",
+        "reponses": [
+          { "id": "a", "texte": "L'attuale proprietario dell'immobile", "correcte": false },
+          { "id": "b", "texte": "Un agente immobiliare professionista", "correcte": true },
+          { "id": "c", "texte": "Un operaio edile specializzato", "correcte": false },
+          { "id": "d", "texte": "Il sindaco locale del paese", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-033-02",
+        "question": "Come si presenta la casa dall'esterno?",
+        "reponses": [
+        { "id": "a", "texte": "Vecchie mura di pietra grigia con parti rotte", "correcte": false },
+{ "id": "b", "texte": "Struttura in legno scuro con persiane blu", "correcte": false },
+{ "id": "c", "texte": "Mattoni rossi con persiane bianche pulite", "correcte": true },
+{ "id": "d", "texte": "Completamente coperta di vernice gialla moderna", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-033-03",
+"question": "Che tipo di pavimento ha il soggiorno spazioso?",
+"reponses": [
+{ "id": "a", "texte": "Un grande tappeto rosso sintetico", "correcte": false },
+{ "id": "b", "texte": "Un pavimento di piastrelle bianche fredde", "correcte": false },
+{ "id": "c", "texte": "Un bel pavimento in vero legno (parquet)", "correcte": true },
+{ "id": "d", "texte": "Un vecchio linoleum verde di generazioni passate", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-033-04",
+"question": "Quante camere da letto offre la casa al piano superiore?",
+"reponses": [
+{ "id": "a", "texte": "Solo due camere da letto per i genitori", "correcte": false },
+{ "id": "b", "texte": "Tre camere medie con armadi", "correcte": false },
+{ "id": "c", "texte": "Quattro belle camere da letto", "correcte": true },
+{ "id": "d", "texte": "Cinque grandi spazi abitativi versatili", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-033-05",
+"question": "Qual era l'atteggiamento dei genitori alla fine della visita?",
+"reponses": [
+{ "id": "a", "texte": "Sembravano entusiasti e hanno discusso il prezzo", "correcte": true },
+{ "id": "b", "texte": "Erano arrabbiati per lo stato delle stanze", "correcte": false },
+{ "id": "c", "texte": "Sono corsi via senza dire una singola parola", "correcte": false },
+{ "id": "d", "texte": "Si sono rifiutati di parlare con l'agente", "correcte": false }
+]
+}
+]
+},
+{
+"id": "034",
+"titre": "Riordinare la mia camera da letto",
+"titre2": "Esercizio 034",
+"texte": [
+"Ogni sabato mattina, prima di poter uscire con i miei amici, devo riordinare la mia camera da letto.",
+"Durante la settimana scolastica accumulo molto disordine per mancanza di tempo e per pigrizia.",
+"Il pavimento della mia camera è spesso coperto di vestiti sporchi, libri aperti e calzini spaiati.",
+"Inizio il mio lavoro aprendo spalancata la finestra per far entrare un po' d'aria fresca mattutina.",
+"Poi raccolgo i miei vestiti: le cose sporche vanno nel cesto della lavanderia e piego i maglioni puliti.",
+"Successivamente riordino la scrivania, sistemando i quaderni di matematica e mettendo le penne nell'astuccio.",
+"Uso un panno in microfibra umido per rimuovere la polvere grigia dai miei scaffali di legno.",
+"Passo l'aspirapolvere sotto il letto e in ogni angolo della stanza per eliminare tutto lo sporco.",
+"Infine cambio le lenzuola e metto un piumone pulito che profuma di lavanda.",
+"Anche se richiede uno sforzo fisico, mi sento molto meglio quando la mia stanza è pulita."
+],
+"audios": [
+{ "id": "audio-it-read-a2-034-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-034-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-034-01",
+"question": "Quando deve assolutamente riordinare la camera da letto?",
+"reponses": [
+{ "id": "a", "texte": "Il mercoledì pomeriggio dopo le lezioni", "correcte": false },
+{ "id": "b", "texte": "Il venerdì sera prima del film", "correcte": false },
+{ "id": "c", "texte": "Ogni sabato mattina senza eccezioni", "correcte": true },
+{ "id": "d", "texte": "La domenica sera tardi prima di dormire", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-034-02",
+"question": "Con quale azione concreta inizia il lavoro?",
+"reponses": [
+{ "id": "a", "texte": "Accende la radio per ascoltare la musica", "correcte": false },
+{ "id": "b", "texte": "Apre la finestra per far entrare l'aria fresca", "correcte": true },
+{ "id": "c", "texte": "Passa l'aspirapolvere sul grande tappeto", "correcte": false },
+{ "id": "d", "texte": "Cambia le lenzuola sporche del letto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-034-03",
+"question": "Dove vanno i vestiti sporchi sparsi?",
+"reponses": [
+{ "id": "a", "texte": "In fondo all'armadio di legno", "correcte": false },
+{ "id": "b", "texte": "Sotto il letto per nasconderli momentaneamente", "correcte": false },
+{ "id": "c", "texte": "Nel cesto della lavanderia di casa", "correcte": true },
+{ "id": "d", "texte": "Fuori dalla finestra aperta", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-034-04",
+"question": "Quale strumento usa per rimuovere la polvere dagli scaffali?",
+"reponses": [
+{ "id": "a", "texte": "Un panno in microfibra umido", "correcte": true },
+{ "id": "b", "texte": "Una grande scopa tradizionale", "correcte": false },
+{ "id": "c", "texte": "Una spugna asciutta piena di sapone liquido", "correcte": false },
+{ "id": "d", "texte": "Soffia semplicemente sulla superficie", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-034-05",
+"question": "Quale gradevole profumo ha il piumone pulito alla fine?",
+"reponses": [
+{ "id": "a", "texte": "Un profumo dolce di rose selvatiche", "correcte": false },
+{ "id": "b", "texte": "Un bel profumo di lavanda e pulito", "correcte": true },
+{ "id": "c", "texte": "Un profumo dolce di cioccolato caldo", "correcte": false },
+{ "id": "d", "texte": "Il piumone non ha alcun profumo particolare", "correcte": false }
+]
+}
+]
+},
+{
+"id": "035",
+"titre": "Un'interruzione di corrente a casa",
+"titre2": "Esercizio 035",
+"texte": [
+"Ieri verso le otto, mentre eravamo in soggiorno, è iniziato un forte temporale.",
+"All'improvviso è risuonato un forte tuono e tutte le luci della casa si sono spente, lasciandoci al buio.",
+"È stato un blackout generale che ha colpito la nostra casa e tutto il quartiere.",
+"All'inizio mio fratello minore ha avuto paura del buio, ma mio padre ha usato la luce del cellulare.",
+"È andato con mia madre in cantina per cercare candele e fiammiferi asciutti.",
+"Abbiamo acceso diverse candele e le abbiamo posizionate in sicurezza sul tavolo della cucina e sul mobile del soggiorno.",
+"Questa luce morbida e danzante ha creato un'atmosfera strana, calma e quasi magica nell'appartamento.",
+"Dato che televisione, computer e internet non funzionavano, abbiamo deciso di fare un gioco da tavolo.",
+"Abbiamo giocato a carte, riso molto, raccontato storie divertenti e mangiato pane con la cioccolata.",
+"Alle dieci la corrente è improvvisamente tornata, ponendo fine a questa notte originale senza tecnologia."
+],
+"audios": [
+{ "id": "audio-it-read-a2-035-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-035-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-035-01",
+"question": "Qual è stata la causa diretta dell'interruzione di corrente?",
+"reponses": [
+{ "id": "a", "texte": "Un problema tecnico con il contatore della cucina", "correcte": false },
+{ "id": "b", "texte": "Un forte temporale di pioggia e fulmini all'esterno", "correcte": true },
+{ "id": "c", "texte": "Il protagonista ha spento la corrente per gioco", "correcte": false },
+{ "id": "d", "texte": "Una richiesta ufficiale della fabbrica locale", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-035-02",
+"question": "Chi ha avuto paura per primo del buio pesto?",
+"reponses": [
+{ "id": "a", "texte": "Il padre del protagonista", "correcte": false },
+{ "id": "b", "texte": "Il fratello minore del protagonista", "correcte": true },
+{ "id": "c", "texte": "La madre del protagonista", "correcte": false },
+{ "id": "d", "texte": "Il gatto nero della famiglia", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-035-03",
+"question": "Dove sono andati i genitori a cercare il materiale di emergenza?",
+"reponses": [
+{ "id": "a", "texte": "Nel grande armadio dell'ingresso principale", "correcte": false },
+{ "id": "b", "texte": "In garage dietro la macchina rossa", "correcte": false },
+{ "id": "c", "texte": "Sono scesi con cura in cantina", "correcte": true },
+{ "id": "d", "texte": "A casa del vicino dall'altra parte della strada", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-035-04",
+"question": "Quale attività ha scelto la famiglia per passare il tempo senza internet?",
+"reponses": [
+{ "id": "a", "texte": "Un gioco da tavolo con le carte", "correcte": true },
+{ "id": "b", "texte": "Dormire subito sul tappeto del soggiorno", "correcte": false },
+{ "id": "c", "texte": "Disegnare ritratti sulle pareti bianche", "correcte": false },
+{ "id": "d", "texte": "Camminare fuori sotto la forte tempesta", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-035-05",
+"question": "A che ora è tornata finalmente la corrente in casa?",
+"reponses": [
+{ "id": "a", "texte": "Verso le nove e mezza", "correcte": false },
+{ "id": "b", "texte": "Esattamente verso le dieci", "correcte": true },
+{ "id": "c", "texte": "La mattina dopo, quando è sorto il sole", "correcte": false },
+{ "id": "d", "texte": "Il blackout è durato un'intera settimana", "correcte": false }
+]
+}
+]
+},
+{
+"id": "036",
+"titre": "Le diverse stanze di una casa",
+"titre2": "Esercizio 036",
+"texte": [
+"La nostra casa di famiglia è un edificio tradizionale su due livelli, e ogni stanza ha una funzione.",
+"Al piano terra, la porta d'ingresso principale si apre su un lungo corridoio con le foto delle vacanze.",
+"A destra del corridoio si trova l'accogliente soggiorno, dove ci riuniamo per guardare le commedie.",
+"Accanto al soggiorno c'è una spaziosa sala da pranzo con un tavolo per dieci ospiti.",
+"La cucina moderna si trova sul retro, attrezzata con un grande frigorifero, un forno e degli armadi.",
+"Per salire, usiamo una bella scala a chiocciola, realizzata in rovere massiccio da un artigiano locale.",
+"Il piano superiore è pensato per gli spazi privati: ha tre camere da letto e uno studiolo.",
+"La mia camera da letto è la più piccola della casa, ma ha una finestra con una splendida vista sul giardino.",
+"Ci sono anche due bagni moderni al piano superiore, uno con doccia e l'altro con una vasca bianca.",
+"Infine, sotto il tetto c'è una soffitta buia, dove i miei genitori conservano vecchi scatoloni e ricordi."
+],
+"audios": [
+{ "id": "audio-it-read-a2-036-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-036-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-036-01",
+"question": "Cosa decora la zona del lungo corridoio al piano terra?",
+"reponses": [
+{ "id": "a", "texte": "Enormi piante tropicali verdi", "correcte": false },
+{ "id": "b", "texte": "Foto delle vacanze e specchi", "correcte": true },
+{ "id": "c", "texte": "Grandi dipinti di arte moderna astratta", "correcte": false },
+{ "id": "d", "texte": "Nulla, le pareti sono dipinte di nero", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-036-02",
+"question": "Quanti ospiti può ospitare il tavolo della sala da pranzo?",
+"reponses": [
+{ "id": "a", "texte": "Al massimo quattro persone", "correcte": false },
+{ "id": "b", "texte": "Sei membri della famiglia", "correcte": false },
+{ "id": "c", "texte": "In totale dieci ospiti", "correcte": true },
+{ "id": "d", "texte": "Più di venti persone", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-036-03",
+"question": "Di quale materiale è fatta la scala?",
+"reponses": [
+{ "id": "a", "texte": "Metallo industriale grigio lucido", "correcte": false },
+{ "id": "b", "texte": "Cemento bianco colato sul posto", "correcte": false },
+{ "id": "c", "texte": "Rovere massiccio da un artigiano", "correcte": true },
+{ "id": "d", "texte": "Plastica nera rinforzata", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-036-04",
+"question": "Qual è la particolarità della camera da letto del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "È la più piccola, ma ha la vista sul giardino", "correcte": true },
+{ "id": "b", "texte": "Si trova nella soffitta buia", "correcte": false },
+{ "id": "c", "texte": "Ha una cucina moderna privata tutta sua", "correcte": false },
+{ "id": "d", "texte": "Non ha né una finestra né una porta", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-036-05",
+"question": "Qual è lo scopo della soffitta sotto il tetto?",
+"reponses": [
+{ "id": "a", "texte": "Conservare vecchi scatoloni e ricordi d'infanzia", "correcte": true },
+{ "id": "b", "texte": "Ospitare gli ospiti durante le vacanze estive", "correcte": false },
+{ "id": "c", "texte": "Fare grandi esercizi sportivi la mattina", "correcte": false },
+{ "id": "d", "texte": "È la camera da letto principale dei genitori", "correcte": false }
+]
+}
+]
+},
+{
+"id": "037",
+"titre": "Un trasloco difficile",
+"titre2": "Esercizio 037",
+"texte": [
+"Sabato scorso la nostra famiglia ha vissuto una giornata molto intensa e faticosa: il trasloco nella nostra nuova casa.",
+"Alle sei del mattino è suonata la sveglia e tutti si sono messi al lavoro tra gli scatoloni impilati.",
+"I miei genitori hanno affittato un enorme camion da trasloco giallo, che doveva essere riempito prima di mezzogiorno.",
+"Il lavoro fisico è stato estremamente difficile, poiché abbiamo dovuto trasportare mobili pesanti come il divano.",
+"Mio padre e mio zio hanno avuto bisogno di molta forza per portare il tavolo in legno massiccio giù per la stretta scala.",
+"Io ero responsabile del trasporto degli scatoloni fragili contenenti stoviglie di vetro e piatti da cucina.",
+"A mezzogiorno, stanchi e affamati, abbiamo mangiato velocemente dei panini seduti sul pavimento del nostro vecchio appartamento.",
+"Nel pomeriggio, dopo essere arrivati nel nuovo luogo di residenza, abbiamo dovuto scaricare il contenuto del camion.",
+"Purtroppo mio fratello ha fatto cadere uno scatolone di libri, il che ha causato un piccolo panico ma nessun ferito.",
+"La sera, nonostante l'estrema stanchezza e i dolori muscolari, eravamo felici di aprire un nuovo capitolo."
+],
+"audios": [
+{ "id": "audio-it-read-a2-037-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-037-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-037-01",
+"question": "Di che colore era il grande camion da trasloco che i genitori hanno affittato?",
+"reponses": [
+{ "id": "a", "texte": "Era completamente rosso chiaro", "correcte": false },
+{ "id": "b", "texte": "Giallo", "correcte": true },
+{ "id": "c", "texte": "Bianco con linee blu", "correcte": false },
+{ "id": "d", "texte": "Nero metallizzato scuro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-037-02",
+"question": "Quali mobili pesanti erano difficili da trasportare per gli adulti?",
+"reponses": [
+{ "id": "a", "texte": "Le piccole sedie da giardino in plastica", "correcte": false },
+{ "id": "b", "texte": "Le singole lampade da comodino della camera", "correcte": false },
+{ "id": "c", "texte": "I vestiti invernali confezionati in borse", "correcte": false },
+{ "id": "d", "texte": "Il grande divano e il tavolo in legno massiccio", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-037-03",
+"question": "Di quali scatoloni era responsabile principalmente il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Scatoloni fragili con stoviglie di vetro", "correcte": true },
+{ "id": "b", "texte": "Scatoloni con vecchi vestiti sportivi estivi", "correcte": false },
+{ "id": "c", "texte": "Borse con i giocattoli in plastica del fratello", "correcte": false },
+{ "id": "d", "texte": "Scatoloni contenenti enciclopedie molto pesanti", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-037-04",
+"question": "Dove ha pranzato la famiglia il giorno del trasloco?",
+"reponses": [
+{ "id": "a", "texte": "In un piccolo ristorante italiano nelle vicinanze", "correcte": false },
+{ "id": "b", "texte": "Seduti sul pavimento del vecchio appartamento", "correcte": true },
+{ "id": "c", "texte": "Nella cabina anteriore del camion da trasloco", "correcte": false },
+{ "id": "d", "texte": "Nel giardino della casa nuovissima", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-037-05",
+"question": "Quale piccolo incidente è accaduto durante i lavori di trasloco nel pomeriggio?",
+"reponses": [
+{ "id": "a", "texte": "Il fratello ha fatto cadere uno scatolone di libri", "correcte": true },
+{ "id": "b", "texte": "Il camion a noleggio è rimasto senza benzina", "correcte": false },
+{ "id": "c", "texte": "Il padre ha perso le nuove chiavi di casa", "correcte": false },
+{ "id": "d", "texte": "La pioggia ha bagnato completamente l'intero divano", "correcte": false }
+]
+}
+]
+},
+{
+"id": "038",
+"titre": "Il giardino dei miei genitori",
+"titre2": "Esercizio 038",
+"texte": [
+"Dietro la nostra casa di famiglia si trova uno splendido luogo che i miei genitori adorano: il loro grande orto.",
+"È un bellissimo spazio verde molto ben curato, dove passano la maggior parte del tempo libero nel fine settimana.",
+"Mio padre si occupa degli alberi da frutto: abbiamo due meli, un pero e un ciliegio.",
+"A giugno, il ciliegio produce frutti rossi e dolci che raccogliamo con gioia per preparare deliziose torte.",
+"Mia madre preferisce passare ore nell'orto biologico, coltivando una grande varietà di verdure sane.",
+"Ci sono file di pomodori succosi, zucchine verdi, carote arancioni, insalate croccanti ed erbe aromatiche.",
+"Si rifiuta di usare prodotti chimici dannosi e preferisce il compost naturale ricavato dai rifiuti domestici.",
+"Al centro del giardino, i miei genitori hanno creato un bel prato verde e un laghetto con tre pesci rossi.",
+"È un paradiso per gli uccelli locali, che cantano ogni mattina sui rami degli alberi da frutto.",
+"Il lavoro della terra in famiglia ci tiene legati alla natura e ci permette di mangiare cibi freschi."
+],
+"audios": [
+{ "id": "audio-it-read-a2-038-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-038-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-038-01",
+"question": "Dove si trova esattamente il grande orto dei genitori?",
+"reponses": [
+{ "id": "a", "texte": "Davanti alla casa vicino alla strada", "correcte": false },
+{ "id": "b", "texte": "Dietro la nostra casa di famiglia", "correcte": true },
+{ "id": "c", "texte": "Sul tetto dell'appartamento in città", "correcte": false },
+{ "id": "d", "texte": "In un parco pubblico a due chilometri di distanza", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-038-02",
+"question": "Quali alberi da frutto si trovano nella zona del padre?",
+"reponses": [
+{ "id": "a", "texte": "Alberi di arance, limoni e banane", "correcte": false },
+{ "id": "b", "texte": "Due meli, un pero e un ciliegio", "correcte": true },
+{ "id": "c", "texte": "Solo pini e grandi alberi selvatici", "correcte": false },
+{ "id": "d", "texte": "Vecchi ulivi importati dal sud", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-038-03",
+"question": "Cosa coltiva la madre nel suo orto biologico?",
+"reponses": [
+{ "id": "a", "texte": "Fiori esotici di tutti i colori diversi", "correcte": false },
+{ "id": "b", "texte": "Una grande varietà di verdure sane", "correcte": true },
+{ "id": "c", "texte": "Piante medicinali amare per la salute", "correcte": false },
+{ "id": "d", "texte": "Solo grano bianco per fare il pane", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-038-04",
+"question": "Cosa nuota nel piccolo laghetto da giardino?",
+"reponses": [
+{ "id": "a", "texte": "Tre splendidi piccoli pesci rossi", "correcte": true },
+{ "id": "b", "texte": "Due grandi anatre selvatiche migratrici", "correcte": false },
+{ "id": "c", "texte": "Tartarughe verdi di fiume d'acqua dolce", "correcte": false },
+{ "id": "d", "texte": "Non c'è assolutamente nulla nell'acqua", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-038-05",
+"question": "Perché la madre si rifiuta di usare prodotti chimici nel giardino?",
+"reponses": [
+{ "id": "a", "texte": "Perché vuole produrre compost naturale", "correcte": true },
+{ "id": "b", "texte": "Perché questi prodotti costano troppi soldi", "correcte": false },
+{ "id": "c", "texte": "Perché il padre si rifiuta di comprarli", "correcte": false },
+{ "id": "d", "texte": "Perché gli uccelli mangiano tutte le sostanze", "correcte": false }
+]
+}
+]
+},
+{
+"id": "039",
+"titre": "Una giornata dedicata alle pulizie",
+"titre2": "Esercizio 039",
+"texte": [
+"Due volte all'anno, in primavera e in autunno, la nostra famiglia organizza una giornata dedicata alle pulizie complete della casa.",
+"È un rito obbligatorio in cui ognuno deve aiutare a igienizzare le stanze dal pavimento al soffitto.",
+"La mattina mia madre distribuisce i compiti: mio padre si occupa dei lavori esterni e delle finestre.",
+"Prende una grande scala metallica e un prodotto speciale per lavare i vetri alti e impolverati.",
+"Mia madre lavora alla disinfezione completa della cucina moderna e delle piastrelle blu dei bagni.",
+"Io, invece, sono responsabile dei pavimenti: devo passare l'aspirapolvere ovunque e poi lavare con lo straccio.",
+"Mio fratello minore ha il compito di riordinare i suoi giocattoli di plastica e gettare le vecchie carte dalla stanza.",
+"Mettiamo della musica ritmata in casa per rendere questo lavoro di pulizia molto più allegro e divertente.",
+"Dopo cinque ore di intenso sforzo, la casa risplende e profuma meravigliosamente di sapone di Marsiglia.",
+"Per ricompensare il nostro eccellente lavoro di squadra, i miei genitori decidono sempre la sera di ordinare pizze calde."
+],
+"audios": [
+{ "id": "audio-it-read-a2-039-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-039-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-039-01",
+"question": "In quali stagioni dell'anno si svolge questa giornata di pulizie domestiche?",
+"reponses": [
+{ "id": "a", "texte": "In estate e in inverno durante le vacanze", "correcte": false },
+{ "id": "b", "texte": "Regolarmente in primavera e in autunno", "correcte": true },
+{ "id": "c", "texte": "Il primo giorno di ogni singolo mese", "correcte": false },
+{ "id": "d", "texte": "Solo il giorno del compleanno del padre", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-039-02",
+"question": "Quale compito svolge il padre durante le pulizie di casa la mattina?",
+"reponses": [
+{ "id": "a", "texte": "Lava i piatti di tutta la settimana", "correcte": false },
+{ "id": "b", "texte": "Si occupa dei lavori esterni e delle finestre", "correcte": true },
+{ "id": "c", "texte": "Cucina il pranzo per tutta la famiglia", "correcte": false },
+{ "id": "d", "texte": "Ripara la televisione rotta nel soggiorno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-039-03",
+"question": "Di cosa è responsabile il protagonista nel programma delle pulizie?",
+"reponses": [
+{ "id": "a", "texte": "Della pulizia delle finestre alte con la scala", "correcte": false },
+{ "id": "b", "texte": "Di riordinare i vestiti sportivi invernali del fratello", "correcte": false },
+{ "id": "c", "texte": "Di portare a spasso il cane del vicino di casa", "correcte": false },
+{ "id": "d", "texte": "Di passare l'aspirapolvere e lavare tutti i pavimenti", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-039-04",
+"question": "Cosa fa la famiglia per rendere il lavoro più allegro?",
+"reponses": [
+{ "id": "a", "texte": "Accende della musica ritmata in tutta casa", "correcte": true },
+{ "id": "b", "texte": "Invita tutti i vicini della zona residenziale", "correcte": false },
+{ "id": "c", "texte": "Tutti mangiano caramelle ogni dieci minuti", "correcte": false },
+{ "id": "d", "texte": "Fanno pause di due ore nel soggiorno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-039-05",
+"question": "Quale ricompensa offrono i genitori la sera?",
+"reponses": [
+{ "id": "a", "texte": "Danno molto denaro tascabile ai bambini", "correcte": false },
+{ "id": "b", "texte": "Vanno con la famiglia al cinema cittadino", "correcte": false },
+{ "id": "c", "texte": "Ordinano pizze calde per cena", "correcte": true },
+{ "id": "d", "texte": "Cancellano tutti i compiti della scuola primaria", "correcte": false }
+]
+}
+]
+},
+{
+"id": "040",
+"titre": "Vivere in una grande casa",
+"titre2": "Esercizio 040",
+"texte": [
+"Da due anni la nostra famiglia vive in una grande casa di campagna, lontana dal nostro vecchio appartamento in città.",
+"Questa grande proprietà offre enormi vantaggi quotidiani, soprattutto l'importante spazio fisico per la privacy.",
+"I miei tre fratelli e io abbiamo stanze singole spaziose, il che evita i litigi quotidiani dell'infanzia.",
+"La casa ha anche una grande sala giochi nel seminterrato per il nostro tavolo da ping-pong e la console.",
+"Tuttavia, vivere su una superficie del genere comporta anche grandi responsabilità e faticosi lavori di manutenzione.",
+"La pulizia della casa richiede molto più tempo: ci sono tre bagni da lavare e lunghi corridoi.",
+"Inoltre, il riscaldamento in inverno costa molto dal punto di vista finanziario a causa delle stanze alte sotto i soffitti.",
+"Dobbiamo anche prenderci cura del grandissimo giardino esterno, falciare il prato e raccogliere le foglie autunnali.",
+"I miei genitori insistono affinché collaboriamo e ci dividiamo equamente tutte le faccende domestiche.",
+"Alla fine, nonostante i vincoli reali, amo questa vita spaziosa all'aria aperta."
+],
+"audios": [
+{ "id": "audio-it-read-a2-040-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-040-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-040-01",
+"question": "Da quanto tempo la famiglia vive in questa grande casa di campagna?",
+"reponses": [
+{ "id": "a", "texte": "Solo da sei mesi in modo temporaneo", "correcte": false },
+{ "id": "b", "texte": "Da esattamente un anno dopo il trasloco", "correcte": false },
+{ "id": "c", "texte": "Da ormai due anni", "correcte": true },
+{ "id": "d", "texte": "La famiglia vive lì fin dalla nascita", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-040-02",
+"question": "Cosa è installato nella grande sala giochi nel seminterrato?",
+"reponses": [
+{ "id": "a", "texte": "Una grande collezione di vecchi libri di storia", "correcte": false },
+{ "id": "b", "texte": "Un tavolo da ping-pong e una console per videogiochi", "correcte": true },
+{ "id": "c", "texte": "Letti di riserva per zii e zie", "correcte": false },
+{ "id": "d", "texte": "L'ufficio di lavoro professionale del padre", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-040-03",
+"question": "Quanti bagni devono essere lavati regolarmente in questa casa?",
+"reponses": [
+{ "id": "a", "texte": "Un solo bagno per tutta la famiglia", "correcte": false },
+{ "id": "b", "texte": "Due bagni medi al piano superiore", "correcte": false },
+{ "id": "c", "texte": "In totale tre bagni nella casa", "correcte": true },
+{ "id": "d", "texte": "Quattro grandi sale doccia contemporanee", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-040-04",
+"question": "Quale problema finanziario è causato in inverno dai soffitti alti?",
+"reponses": [
+{ "id": "a", "texte": "Il costo molto elevato per riscaldare l'aria delle stanze", "correcte": true },
+{ "id": "b", "texte": "Il prezzo della vernice bianca per le pareti", "correcte": false },
+{ "id": "c", "texte": "La riparazione obbligatoria delle lampade del soggiorno", "correcte": false },
+{ "id": "d", "texte": "Non viene menzionato alcun problema finanziario", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-040-05",
+"question": "Quale lavoro all'aperto deve essere fatto durante tutta la stagione autunnale?",
+"reponses": [
+{ "id": "a", "texte": "Raccogliere tutte le foglie nel giardino", "correcte": true },
+{ "id": "b", "texte": "Piantare nuovi pomodori nell'orto asciutto", "correcte": false },
+{ "id": "c", "texte": "Dipingere di nuovo le recinzioni di legno", "correcte": false },
+{ "id": "d", "texte": "Tagliare i rami dei ciliegi selvatici", "correcte": false }
 ]
 }
 ]
