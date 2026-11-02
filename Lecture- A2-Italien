@@ -5644,11 +5644,11 @@
     "titre": "Una passeggiata nel bosco",
     "titre2": "Esercizio 081",
     "texte": [
-      "La domenica pomeriggio mi piace molto fare una lunga e tranquilla passeggiata nel bosco.",
-      "Cammino sui piccoli sentieri sterrati, che sono coperti di foglie autunnali marroni.",
-      "L'aria è molto fresca e respiro il profumo gradevole degli alberi di pino.",
-      "A volte vedo uno scoiattolo rosso che corre e sale rapidamente su un albero.",
-      "Questo contatto diretto con la natura mi aiuta a rilassare completamente la mente."
+      "La domenica pomeriggio rappresenta il momento ideale per allontanarsi dal caos cittadino e immergersi nella quiete della natura. Quando sento il bisogno di rigenerarmi, indosso le mie scarpe da trekking più comode, preparo una bottiglia d'acqua fresca e mi dirigo verso il grande bosco situato a pochi chilometri dal nostro quartiere residenziale.",
+      "Camminare lungo i piccoli sentieri sterrati è un'esperienza meravigliosa. In questa stagione, il terreno è interamente ricoperto da un soffice tappeto di foglie autunnali dalle tonalità marroni, rosse e dorate che scricchiolano piacevolmente sotto i miei passi regolari. L'aria pungete del mattino è incredibilmente pulita e, a ogni respiro profondo, riesco a percepire l'aroma balsamico e rigenerante degli alberi di pino e di quercia che circondano il percorso.",
+      "Mentre cammino in silenzio, prestando attenzione ai suoni della natura, mi capita talvolta di fare incontri inaspettati. Oggi, per esempio, un piccolo scoiattolo dal pelo rosso acceso ha attraversato rapidamente il sentiero davanti a me prima di arrampicarsi agilmente sulla corteccia di un vecchio fusto, scomparendo tra i rami alti. Poco più avanti, una timida poiana volava alta nel cielo blu, libera e maestosa.",
+      "Il bosco è anche pieno di piccoli rumori rilassanti: il fruscio del vento tra le foglie secche, il picchiettare lontano di un picchio e il canto melodico degli uccelli selvatici che nascosti intonano la loro dolce sinfonia quotidiana.",
+      "Questo contatto diretto e autentico con l'ambiente naturale ha un potere straordinario sul mio benessere psicofisico. Mi permette di liberare completamente la mente dalle preoccupazioni quotidiane, di ridurre lo stress accumulato durante l'intensa settimana di studio a scuola e di ricaricare le mie energie interne. Torno sempre a casa con un profondo senso di pace, sentendomi felice e pronto ad affrontare con ottimismo i doveri dei giorni successivi."
     ],
     "audios": [
       { "id": "audio-it-read-a2-081-1", "url": "soundcloud.com" },
@@ -5657,52 +5657,52 @@
     "questions": [
       {
         "id": "q-it-read-a2-081-01",
-        "question": "Quando va a passeggiare nel bosco il protagonista?",
+        "question": "Quando decide solitamente il protagonista di fare una lunga passeggiata nel bosco?",
         "reponses": [
-          { "id": "a", "texte": "Il lunedì mattina presto", "correcte": false },
-          { "id": "b", "texte": "Il venerdì sera tardi", "correcte": false },
-          { "id": "c", "texte": "Ogni giorno a mezzogiorno", "correcte": false },
-          { "id": "d", "texte": "La domenica pomeriggio", "correcte": true }
+          { "id": "a", "texte": "Il lunedì mattina presto prima dell'inizio delle lezioni scolastiche", "correcte": false },
+          { "id": "b", "texte": "Il venerdì sera tardi dopo aver cenato con tutta la famiglia", "correcte": false },
+          { "id": "c", "texte": "La domenica pomeriggio per rigenerarsi e allontanarsi dal caos", "correcte": true },
+          { "id": "d", "texte": "Ogni giorno della settimana subito dopo il pranzo alla mensa", "correcte": false }
         ]
       },
       {
         "id": "q-it-read-a2-081-02",
-        "question": "Da cosa sono coperti i piccoli sentieri sterrati?",
+        "question": "Da cosa sono ricoperti i sentieri sterrati che attraversa il protagonista?",
         "reponses": [
-          { "id": "a", "texte": "Da foglie marroni", "correcte": true },
-          { "id": "b", "texte": "Da pietre grigie appuntite", "correcte": false },
-          { "id": "c", "texte": "Da fiori rossi freschi", "correcte": false },
-          { "id": "d", "texte": "Da sabbia bianca calda", "correcte": false }
+          { "id": "a", "texte": "Da un soffice tappeto di foglie autunnali dalle tonalità marroni e rosse", "correcte": true },
+          { "id": "b", "texte": "Da grandi pietre grigie appuntite che rendono il cammino pericoloso", "correcte": false },
+          { "id": "c", "texte": "Da uno strato di neve bianca e ghiaccio sottile molto scivoloso", "correcte": false },
+          { "id": "d", "texte": "Da sabbia dorata e calda proveniente dalla spiaggia vicina", "correcte": false }
         ]
       },
       {
         "id": "q-it-read-a2-081-03",
-        "question": "Quale profumo respira profondamente il protagonista?",
+        "question": "Quale profumo particolare percepisce il protagonista a ogni respiro profondo?",
         "reponses": [
-          { "id": "a", "texte": "Il profumo degli alberi di pino", "correcte": true },
-          { "id": "b", "texte": "Il profumo del mare blu", "correcte": false },
-          { "id": "c", "texte": "Un profumo dolce di lavanda", "correcte": false },
-          { "id": "d", "texte": "Il profumo del pane caldo", "correcte": false }
+          { "id": "a", "texte": "L'aroma dei fiori di lavanda coltivati nel giardino di sua madre", "correcte": false },
+          { "id": "b", "texte": "L'aroma balsamico e rigenerante degli alberi di pino e di quercia", "correcte": true },
+          { "id": "c", "texte": "Il profumo del pane bianco appena sfornato dal panettiere all'angolo", "correcte": false },
+          { "id": "d", "texte": "L'aria salmastra e ventilata del Mar Mediterraneo", "correcte": false }
         ]
       },
       {
         "id": "q-it-read-a2-081-04",
-        "question": "Quale piccolo animale selvatico vede a volte il protagonista?",
+        "question": "Quale piccolo animale selvatico compie un movimento agile salendo su un albero?",
         "reponses": [
-          { "id": "a", "texte": "Un'anatra bianca selvatica", "correcte": false },
-          { "id": "b", "texte": "Un piccolo cane marrone", "correcte": false },
-          { "id": "c", "texte": "Uno scoiattolo rosso", "correcte": true },
-          { "id": "d", "texte": "Un pesce del fiume", "correcte": false }
+          { "id": "a", "texte": "Un piccolo cane marrone che scodinzola allegramente sul sentiero", "correcte": false },
+          { "id": "b", "texte": "Una poiana maestosa che vola alta nel cielo blu senza nuvole", "correcte": false },
+          { "id": "c", "texte": "Uno scoiattolo dal pelo rosso acceso che attraversa la strada", "correcte": true },
+          { "id": "d", "texte": "Un coniglio bianco che mangia carote nell'orto biologico dello zio", "correcte": false }
         ]
       },
       {
         "id": "q-it-read-a2-081-05",
-        "question": "Qual è il vantaggio principale di questa passeggiata nel bosco?",
+        "question": "In che modo questa esperienza influisce sullo stato d'animo del protagonista?",
         "reponses": [
-          { "id": "a", "texte": "Guadagnare un po' di denaro tascabile", "correcte": false },
-          { "id": "b", "texte": "Imparare a memoria una lezione scolastica", "correcte": false },
-          { "id": "c", "texte": "Fare grandi acquisti nei negozi", "correcte": false },
-          { "id": "d", "texte": "Rilassare completamente la mente", "correcte": true }
+          { "id": "a", "texte": "Lo rende stanco, nervoso e desideroso di tornare subito in città", "correcte": false },
+          { "id": "b", "texte": "Gli permette di liberare la mente, ridurre lo stress e ricaricarsi", "correcte": true },
+          { "id": "c", "texte": "Gli fa venire voglia di cambiare scuola ed evitare i compiti a casa", "correcte": false },
+          { "id": "d", "texte": "Lo spinge a spendere molto denaro nei negozi di articoli sportivi", "correcte": false }
         ]
       }
     ]
@@ -5712,11 +5712,11 @@
     "titre": "Gli animali della fattoria",
     "titre2": "Esercizio 082",
     "texte": [
-      "Durante le mie vacanze visito la grande fattoria biologica di mio zio.",
-      "Possiede molti animali e si prende cura di loro con affetto ogni mattina.",
-      "Lo aiuto a dare del pane secco alle galline e a raccogliere le uova fresche.",
-      "Nel grande prato verde ci sono tre bei cavalli e delle mucche marroni.",
-      "Amo osservare i piccoli conigli bianchi che mangiano felici le carote arancioni."
+      "Durante le vacanze estive, lascio volentieri la vita frenetica della città per trasferirmi due settimane nella grande fattoria biologica gestita da mio zio Thomas. Questa magnifica proprietà si trova immersa nelle verdi colline toscane ed è un luogo magico dove il tempo sembra scorrere più lentamente. Mio zio possiede moltissimi animali e dedica ogni mattina alle loro cure con incredibile affetto e costante pazienza.",
+      "La mia giornata inizia presto, verso le sette del mattino. Indosso i miei stivali di gomma e vado subito ad aiutare mio zio con le prime mansioni. Il mio compito preferito consiste nel portare del pane secco e dei cereali alle galline nel pollaio. È divertente vederle correre verso di me chiocciando forte. Dopo averle nutrite, controllo con attenzione i nidi per raccogliere le uova fresche del mattino, che mia zia userà più tardi in cucina.",
+      "Successivamente, ci spostiamo verso il grande prato verde recintato che circonda la stalla principale. Lì pascolano liberamente tre bellissimi cavalli dal pelo lucido e diverse mucche marroni. Mio zio mi insegna come spazzolare dolcemente la criniera dei cavalli e come avvicinarmi a loro senza spaventarli. Sono creature grandi ma estremamente docili e intelligenti.",
+      "Prima di pranzo, vado sempre a trovare i miei animali preferiti: i piccoli conigli bianchi che vivono in grandi gabbie di legno all'ombra di un porticato. Amo osservare come muovono i loro piccoli nasi rosa e come mangiano felici le foglie di insalata croccante e le carote arancioni che raccolgo per loro nell'orto.",
+      "Lavorare nella fattoria a stretto contatto con la terra e con gli animali è un'attività faticosa ma straordinaria. Mi insegna il rispetto per la natura, mi fa capire l'importanza del cibo biologico e mi riempie di una bellissima energia positiva che mi fa sentire felice e in perfetta salute."
     ],
     "audios": [
       { "id": "audio-it-read-a2-082-1", "url": "soundcloud.com" },
@@ -5725,134 +5725,134 @@
     "questions": [
       {
         "id": "q-it-read-a2-082-01",
-        "question": "Di chi è la fattoria che il protagonista visita?",
+        "question": "Di chi è la grande fattoria biologica dove il protagonista trascorre le vacanze?",
         "reponses": [
-          { "id": "a", "texte": "Dei suoi nonni", "correcte": false },
-          { "id": "b", "texte": "Del suo vicino Paolo", "correcte": false },
-          { "id": "c", "texte": "Di suo zio", "correcte": true },
-          { "id": "d", "texte": "Del suo amico Jack", "correcte": false }
+          { "id": "a", "texte": "Dei suoi nonni materni che vivono in un villaggio medievale", "correcte": false },
+          { "id": "b", "texte": "Di suo zio Thomas, situata tra le verdi colline toscane", "correcte": true },
+          { "id": "c", "texte": "Del suo gentile vicino di casa, il signor Paolo", "correcte": false },
+          { "id": "d", "texte": "Del suo migliore amico di scuola di nome Jack", "correcte": false }
         ]
       },
       {
         "id": "q-it-read-a2-082-02",
-        "question": "Cosa dà da mangiare alle galline il protagonista?",
+        "question": "Quale cibo distribuisce il protagonista alle galline del pollaio?",
         "reponses": [
-          { "id": "a", "texte": "Pezzi di pane secco", "correcte": true },
-          { "id": "b", "texte": "Pezzi di carota tagliata", "correcte": false },
-          { "id": "c", "texte": "Biscotti dolci della fabbrica", "correcte": false },
-          { "id": "d", "texte": "Insalata verde fresca", "correcte": false }
+          { "id": "a", "texte": "Pezzi di pane secco e cereali la mattina presto", "correcte": true },
+          { "id": "b", "texte": "Foglie di insalata croccante raccolte direttamente nell'orto", "correcte": false },
+          { "id": "c", "texte": "Biscotti industriali troppo dolci comprati al supermercato", "correcte": false },
+          { "id": "d", "texte": "Avanzi di pesce e riso bianco della cena precedente", "correcte": false }
         ]
       },
       {
         "id": "q-it-read-a2-082-03",
-        "question": "Quali prodotti raccoglie il protagonista nella fattoria?",
+        "question": "Quale prodotto fresco raccoglie il protagonista dopo aver nutrito i volatili?",
         "reponses": [
-          { "id": "a", "texte": "Mele verdi dagli alberi", "correcte": false },
-          { "id": "b", "texte": "Fiori selvatici colorati", "correcte": false },
-          { "id": "c", "texte": "Uova fresche biologiche", "correcte": true },
-          { "id": "d", "texte": "Foglie autunnali marroni", "correcte": false }
+          { "id": "a", "texte": "Mele verdi e succose cadute dagli alberi da frutto", "correcte": false },
+          { "id": "b", "texte": "Fiori selvatici colorati per decorare la sala da pranzo", "correcte": false },
+          { "id": "c", "texte": "Le uova fresche del mattino all'interno dei nidi", "correcte": true },
+          { "id": "d", "texte": "Foglie autunnali marroni per fare il compost naturale", "correcte": false }
         ]
       },
       {
         "id": "q-it-read-a2-082-04",
-        "question": "Quanti cavalli ci sono nel grande prato verde?",
+        "question": "Quanti cavalli pascolano liberamente nel prato verde recintato?",
         "reponses": [
-          { "id": "a", "texte": "Un solo cavallo nero", "correcte": false },
-          { "id": "b", "texte": "Tre bei cavalli", "correcte": true },
-          { "id": "c", "texte": "Cinque piccoli pony", "correcte": false },
-          { "id": "d", "texte": "Non ci sono affatto cavalli", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-it-read-a2-082-05",
-        "question": "Cosa mangiano i piccoli conigli bianchi nella fattoria?",
-        "reponses": [
-          { "id": "a", "texte": "Croste secche di pane bianco", "correcte": false },
-          { "id": "b", "texte": "Pezzi di patate cotte", "correcte": false },
-          { "id": "c", "texte": "Carote arancioni", "correcte": true },
-          { "id": "d", "texte": "Biscotti dolci al cioccolato", "correcte": false }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "083",
-    "titre": "Una giornata in spiaggia",
-    "titre2": "Esercizio 083",
-    "texte": [
-      "Oggi fa caldissimo, perciò trascorriamo l'intera giornata in spiaggia.",
-      "Stendiamo una grande coperta sulla sabbia e apriamo il nostro ombrellone giallo.",
-      "Nuoto nell'acqua calda del mare insieme ai miei compagni di scuola.",
-      "Dopo costruiamo un enorme castello di sabbia vicinissimo alle onde che rotolano.",
-      "Prima di andare via, raccogliamo i nostri rifiuti con cura per lasciare la spiaggia pulita."
-    ],
-    "audios": [
-      { "id": "audio-it-read-a2-083-1", "url": "soundcloud.com" },
-      { "id": "audio-it-read-a2-083-2", "url": "soundcloud.com" }
-    ],
-    "questions": [
-      {
-        "id": "q-it-read-a2-083-01",
-        "question": "Perché la famiglia va in spiaggia oggi?",
-        "reponses": [
-          { "id": "a", "texte": "Perché sta piovendo molto", "correcte": false },
-          { "id": "b", "texte": "Per cercare un compagno di scuola", "correcte": false },
-          { "id": "c", "texte": "Per andare in bicicletta insieme", "correcte": false },
-          { "id": "d", "texte": "Perché fa caldissimo", "correcte": true }
-        ]
-      },
-      {
-        "id": "q-it-read-a2-083-02",
-        "question": "Dove stendono la grande coperta?",
-        "reponses": [
-          { "id": "a", "texte": "Sul prato verde del parco", "correcte": false },
-          { "id": "b", "texte": "All'interno dell'auto rossa di famiglia", "correcte": false },
-          { "id": "c", "texte": "Sulla sabbia della spiaggia", "correcte": true },
-          { "id": "d", "texte": "Sul balcone di metallo", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-it-read-a2-083-03",
-        "question": "Con chi nuota il protagonista nell'acqua del mare?",
-        "reponses": [
-          { "id": "a", "texte": "Con i suoi compagni di scuola", "correcte": true },
-          { "id": "b", "texte": "Con i suoi genitori", "correcte": false },
-          { "id": "c", "texte": "Con suo zio Paolo", "correcte": false },
-          { "id": "d", "texte": "Nuota completamente da solo", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-it-read-a2-083-04",
-        "question": "Cosa costruiscono gli amici vicino alle onde?",
-        "reponses": [
-          { "id": "a", "texte": "Una piccola capanna di legno", "correcte": false },
-          { "id": "b", "texte": "Una grande barca di plastica", "correcte": false },
-          { "id": "c", "texte": "Un enorme castello di sabbia", "correcte": true },
-          { "id": "d", "texte": "Non costruiscono assolutamente nulla", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-it-read-a2-083-05",
-        "question": "Cosa fanno i ragazzi prima di lasciare la spiaggia?",
-        "reponses": [
-          { "id": "a", "texte": "Comprano grandi porzioni di gelato", "correcte": false },
-          { "id": "b", "texte": "Smarriscono i loro teli da mare", "correcte": false },
-          { "id": "c", "texte": "Corrono verso la stazione", "correcte": false },
-          { "id": "d", "texte": "Raccogliano i loro rifiuti", "correcte": true }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "084",
-    "titre": "Piantare fiori in giardino",
-    "titre2": "Esercizio 084",
-    "texte": [
-      "Stamattina aiuto mia madre a piantare dei fiori nel nostro piccolo giardino.",
-      "Compriamo alcuni semi di rose rosse e della lavanda magnificamente profumata.",
-      "Con una piccola vanga scavo diverse buche profonde nella terra nera.",
-      "Mettiamo le radici con cura, poi versiamo sopra un po' d'acqua fresca.",
-      "Il lavoro all'aria aperta mi dà un'energia eccellente per tutta la giornata."
+          { "id": "a", "texte": "Un solo grande stallone dal pelo completamente nero", "correcte": false },
+          { "id": "b", "texte": "Due piccoli pony regalati per il compleanno di Emily", "correcte": false },
+{ "id": "c", "texte": "Tre bellissimi cavalli dal pelo lucido", "correcte": true },
+{ "id": "d", "texte": "Nessuno, nel prato ci sono solo mucche marroni", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-082-05",
+"question": "Cosa mangiano i piccoli conigli bianchi all'ombra del porticato?",
+"reponses": [
+{ "id": "a", "texte": "Pezzi di pane bianco bagnati con latte caldo", "correcte": false },
+{ "id": "b", "texte": "Cereali secchi mescolati con zucchero industriale", "correcte": false },
+{ "id": "c", "texte": "Insalata croccante e carote arancioni raccolte nell'orto", "correcte": true },
+{ "id": "d", "texte": "Piccole fette di torta al cioccolato avanzate dalla merenda", "correcte": false }
+]
+}
+]
+},
+{
+"id": "083",
+"titre": "Una giornata in spiaggia",
+"titre2": "Esercizio 083",
+"texte": [
+"Oggi le temperature in città sono incredibilmente elevate e fa caldissimo fin dalle prime ore del mattino. Per questa ragione, la mia intera famiglia ha deciso di caricare la macchina e di fuggire verso la costa per trascorrere una rinfrescante giornata in spiaggia. Quando arriviamo a destinazione, lo spettacolo del litorale è magnifico, caratterizzato da un mare blu limpido e da una brezza leggera.",
+"Troviamo un posto tranquillo sulla sabbia dorata, non troppo vicino agli altri bagnanti. Stendiamo immediatamente una grande coperta colorata per terra e apriamo il nostro grande ombrellone giallo, che è fondamentale per ripararsi dai raggi cocenti del sole durante le ore più calde del pomeriggio. Io indosso subito il mio costume da bagno e gli occhiali da sole per correre verso la riva.",
+"L'acqua del mare è piacevolmente tiepida. Incontro per caso alcuni miei compagni di scuola che si trovano in vacanza nella stessa località e decidiamo di nuotare insieme, sfidandoci in piccole gare di velocità e giocando felici tra le onde che si infrangono sul bagnasciuga. Restiamo in acqua a lungo, ridendo ad alta voce sotto lo sguardo attento dei bagnini.",
+"Più tardi, tornati sulla sabbia, collaboriamo tutti insieme per costruire un enorme castello di sabbia. Usiamo secchielli e palette per fare alte torri e un fossato profondo, posizionando la nostra struttura abbastanza lontana dalle onde per evitare che venga distrutta subito. Molti bambini si fermano ad ammirare il nostro ottimo lavoro di squadra.",
+"Verso le cinque del pomeriggio, prima di preparare le nostre borse per tornare a casa, facciamo un gesto molto importante: raccogliamo con massima cura tutti i nostri rifiuti, come bottiglie di plastica e carte di gelati, gettandoli nei cassonetti della raccolta differenziata. Mantenere la spiaggia pulita è un dovere di tutti per proteggere il mare e la natura."
+],
+"audios": [
+{ "id": "audio-it-read-a2-083-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-083-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-083-01",
+"question": "Qual è il motivo principale che spinge la famiglia ad andare al mare oggi?",
+"reponses": [
+{ "id": "a", "texte": "Perché fuori cade una forte pioggia e fa molto freddo", "correcte": false },
+{ "id": "b", "texte": "Per incontrare il signor Paolo per una riunione di lavoro", "correcte": false },
+{ "id": "c", "texte": "Perché le temperature in città sono molto elevate e fa caldissimo", "correcte": true },
+{ "id": "d", "texte": "Per comprare attrezzature sportive nuove in un negozio costoso", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-083-02",
+"question": "Quale oggetto posiziona la famiglia sulla sabbia dorata per proteggersi dal sole?",
+"reponses": [
+{ "id": "a", "texte": "Una piccola tenda da campeggio di colore verde scuro", "correcte": false },
+{ "id": "b", "texte": "Le persiane bianche rimosse dalle finestre della camera", "correcte": false },
+{ "id": "c", "texte": "Un grande ombrellone di colore giallo", "correcte": true },
+{ "id": "d", "texte": "Un telo da mare steso all'ombra di un muretto di pietra", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-083-03",
+"question": "Con chi si diverte a nuotare e a giocare tra le onde il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Con alcuni suoi compagni di scuola incontrati per caso", "correcte": true },
+{ "id": "b", "texte": "Con i suoi nonni materni venuti dalla Toscana", "correcte": false },
+{ "id": "c", "texte": "Con lo zio Thomas e il cugino Paolo sulla barca", "correcte": false },
+{ "id": "d", "texte": "Nuota in totale solitudine sotto l'ombrellone", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-083-04",
+"question": "Cosa realizzano i ragazzi sulla spiaggia usando secchielli e palette?",
+"reponses": [
+{ "id": "a", "texte": "Una piccola capanna di legno per riporre i teli da mare", "correcte": false },
+{ "id": "b", "texte": "Un enorme e dettagliato castello di sabbia con le torri", "correcte": true },
+{ "id": "c", "texte": "Una pista per fare una gara di biciclette da corsa", "correcte": false },
+{ "id": "d", "texte": "Non costruiscono nulla e preferiscono dormire sulla coperta", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-083-05",
+"question": "Quale azione fondamentale compiono prima di ripartire verso casa?",
+"reponses": [
+{ "id": "a", "texte": "Ordinano cinque pizze calde da mangiare sul marciapiede", "correcte": false },
+{ "id": "b", "texte": "Comprano grandi porzioni di gelato artigianale alla fragola", "correcte": false },
+{ "id": "c", "texte": "Raccolgono con massima cura tutti i loro rifiuti per terra", "correcte": true },
+{ "id": "d", "texte": "Smarriscono sfortunatamente i loro occhiali da sole nella sabbia", "correcte": false }
+]
+}
+]
+},
+{
+"id": "084",
+"titre": "Piantare fiori in giardino",
+"titre2": "Esercizio 084",
+"texte": [
+"Il sabato mattina rappresenta per me il momento perfetto per stare all'aria aperta e staccare dallo studio. Oggi ho deciso di aiutare mia madre Sofia a piantare nuovi fiori nel nostro piccolo giardino anteriore. È un'attività che facciamo insieme ogni primavera per rendere la nostra casa più accogliente, colorata e profumata per gli ospiti che vengono a trovarci durante i mesi estivi.",
+"Ieri pomeriggio siamo andati in un vivaio locale e abbiamo comprato tutto il necessario: alcuni semi di rose rosse splendide, piantine di gerani colorati e del lavanda magnificamente profumata che adoro. Mia madre indossa i suoi guanti da giardinaggio verdi e mi spiega con cura come preparare il terreno, rimuovendo le piccole pietre e le erbacce che crescono vicino alla recinzione di legno.",
+"Uso una piccola vanga di metallo per scavare diverse buche profonde nella terra nera e fertile. È un lavoro che richiede precisione e un po' di sforzo fisico nelle braccia. Mia madre prende delicatamente le piantine dal loro vaso di plastica e posiziona le radici all'interno delle buche, facendo attenzione a non romperle, coprendole poi con altra terra morbida.",
+"Dopo aver sistemato tutte le piante in file ordinate lungo il vialetto, prendo il grande annaffiatoio rosso e verso sopra un po' d'acqua fresca e pulita. L'acqua è fondamentale per aiutare le radici ad adattarsi alla nuova terra. Sento subito un meraviglioso profumo di terra bagnata che si diffonde in tutto il cortile dell'appartamento.",
+"Questa sessione di giardinaggio a stretto contatto con la natura è stata un'esperienza fantastica. Anche se le mie mani sono un po' sporche di fango, mi sento benissimo. Il lavoro manuale all'aria aperta mi dà un'energia eccellente per tutta la giornata, mi riempie di buon umore e mi fa sentire felice e soddisfatto del mio contributo domestico."
 ],
 "audios": [
 { "id": "audio-it-read-a2-084-1", "url": "soundcloud.com" },
@@ -5861,52 +5861,52 @@
 "questions": [
 {
 "id": "q-it-read-a2-084-01",
-"question": "Chi aiuta il protagonista in giardino stamattina?",
+"question": "Chi decide di aiutare il protagonista nel piccolo giardino di casa stamattina?",
 "reponses": [
-{ "id": "a", "texte": "Il suo insegnante di scienze", "correcte": false },
-{ "id": "b", "texte": "Sua madre", "correcte": true },
-{ "id": "c", "texte": "Suo zio di nome Tommaso", "correcte": false },
-{ "id": "d", "texte": "Il suo vicino, il signor Paolo", "correcte": false }
+{ "id": "a", "texte": "Il suo insegnante di scienze biologiche della scuola", "correcte": false },
+{ "id": "b", "texte": "Sua madre Sofia, per rendere la casa più accogliente", "correcte": true },
+{ "id": "c", "texte": "Suo zio Thomas venuto in viaggio d'affari dalla Toscana", "correcte": false },
+{ "id": "d", "texte": "Il suo gentile vicino di casa di nome signor Paolo", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-084-02",
-"question": "Quali semi di fiori comprano per il giardino?",
+"question": "Quali varietà di vegetali hanno acquistato il giorno prima al vivaio?",
 "reponses": [
-{ "id": "a", "texte": "Semi di girasole gialli", "correcte": false },
-{ "id": "b", "texte": "Semi di tulipani bianchi", "correcte": false },
-{ "id": "c", "texte": "Semi di rose rosse e lavanda", "correcte": true },
-{ "id": "d", "texte": "Solo alcuni semi di erba selvatica", "correcte": false }
+{ "id": "a", "texte": "Semi di girasole gialli e alberi di limone dolce", "correcte": false },
+{ "id": "b", "texte": "Piantine di pomodori biologici e zucchine verdi", "correcte": false },
+{ "id": "c", "texte": "Semi di rose rosse, gerani e lavanda profumata", "correcte": true },
+{ "id": "d", "texte": "Solo piccoli arbusti di pino per il bosco sul retro", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-084-03",
-"question": "Quale strumento usa il protagonista per scavare le buche?",
+"question": "Quale strumento manuale utilizza il protagonista per scavare le buche?",
 "reponses": [
-{ "id": "a", "texte": "Una piccola vanga", "correcte": true },
-{ "id": "b", "texte": "Una grande scopa", "correcte": false },
-{ "id": "c", "texte": "Un panno in microfibra umido", "correcte": false },
-{ "id": "d", "texte": "Esclusivamente le sue mani nude", "correcte": false }
+{ "id": "a", "texte": "Una piccola vanga di metallo adatta al terreno", "correcte": true },
+{ "id": "b", "texte": "Una scopa tradizionale per pulire i pavimenti del soggiorno", "correcte": false },
+{ "id": "c", "texte": "Un panno in microfibra umido per rimuovere la polvere grigia", "correcte": false },
+{ "id": "d", "texte": "Scava le buche profonde utilizzando solo le mani nude", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-084-04",
-"question": "Cosa versano dopo aver messo le radici delle piante?",
+"question": "Cosa versa il protagonista sulle radici subito dopo la piantumazione?",
 "reponses": [
-{ "id": "a", "texte": "Un po' d'acqua fresca", "correcte": true },
-{ "id": "b", "texte": "Una bevanda a base di latte caldo", "correcte": false },
-{ "id": "c", "texte": "Un prodotto chimico verde", "correcte": false },
-{ "id": "d", "texte": "Succhi di frutta fatti in casa", "correcte": false }
+{ "id": "a", "texte": "Un po' d'acqua fresca e pulita con l'annaffiatoio", "correcte": true },
+{ "id": "b", "texte": "Una tazza di latte caldo avanzata dalla colazione", "correcte": false },
+{ "id": "c", "texte": "Un prodotto chimico verde per eliminare le erbacce", "correcte": false },
+{ "id": "d", "texte": "Succhi di frutta fatti in casa preparati in cucina", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-084-05",
-"question": "Qual è il risultato di questo lavoro in giardino secondo il testo?",
+"question": "Come si sente il protagonista al termine dell'attività all'aria aperta?",
 "reponses": [
-{ "id": "a", "texte": "Una forte stanchezza muscolare", "correcte": false },
-{ "id": "b", "texte": "Un'energia eccellente per la giornata", "correcte": true },
-{ "id": "c", "texte": "Un infortunio superficiale al ginocchio", "correcte": false },
-{ "id": "d", "texte": "Il testo non menziona alcun risultato", "correcte": false }
+{ "id": "a", "texte": "Molto annoiato, triste e con un forte dolore muscolare", "correcte": false },
+{ "id": "b", "texte": "Pieno di un'energia eccellente e molto soddisfatto", "correcte": true },
+{ "id": "c", "texte": "Malato a causa di una brutta influenza invernale improvvisa", "correcte": false },
+{ "id": "d", "texte": "Desideroso di andare subito al cinema a guardare un film", "correcte": false }
 ]
 }
 ]
@@ -5916,11 +5916,11 @@
 "titre": "Proteggere gli animali",
 "titre2": "Esercizio 085",
 "texte": [
-"A scuola il nostro insegnante di scienze spiega come proteggere gli animali selvatici.",
-"Molte specie minacciate perdono la loro casa naturale a causa dell'inquinamento umano.",
-"Non dovremmo mai gettare rifiuti di plastica nella natura o nei boschi verdi.",
-"Le persone possono costruire piccole cassette di legno per aiutare gli uccelli nei mesi invernali.",
-"Rispettare la vita animale è importante per mantenere un buon equilibrio ecologico."
+"Questa settimana, durante la lezione di biologia a scuola, il nostro insegnante di scienze ha affrontato un argomento fondamentale: come proteggere gli animali selvatici e preservare la natura. È stata una lezione appassionante che ha catturato l'attenzione di tutta la classe, spingendoci a riflettere seriamente sulle nostre responsabilità quotidiane nei confronti dell'ambiente in cui viviamo.",
+"Il professore ci ha spiegato che molte specie minacciate stanno purtroppo perdendo la loro casa naturale, come i boschi e le foreste profonde. Questo triste fenomeno è causato principalmente dall'inquinamento umano e dalle attività industriali incontrollate delle grandi città. Gli animali non trovano più cibo sano e spazi sicuri per far crescere i loro piccoli, rischiando di scomparire per sempre.",
+"Per aiutare la fauna selvatica, ci sono molti comportamenti semplici che ognuno di noi può adottare fin da subito. La regola d'oro consiste nel rispetto assoluto dei luoghi pubblici: non dovremmo mai, per nessun motivo, gettare rifiuti di plastica, lattine o mozziconi nella natura, nei parchi cittadini o lungo i sentieri sterrati del bosco, poiché i materiali sintetici sono tossici per le creature del bosco.",
+"Inoltre, l'insegnante ci ha mostrato un progetto pratico molto bello: possiamo costruire delle piccole cassette di legno da appendere ai rami degli alberi del nostro giardino. Queste strutture servono come rifugio sicuro e contengono semi e briciole di pane secco per aiutare i piccoli uccelli a sopravvivere durante i freddi mesi invernali, quando il cibo scarseggia.",
+"Imparare a rispettare e proteggere la vita animale è un dovere civico essenziale per mantenere un buon equilibrio ecologico sul nostro pianeta. Sento una grande motivazione a fare la mia parte, condividendo queste preziose informazioni con i miei genitori e i miei amici del quartiere."
 ],
 "audios": [
 { "id": "audio-it-read-a2-085-1", "url": "soundcloud.com" },
@@ -5929,52 +5929,52 @@
 "questions": [
 {
 "id": "q-it-read-a2-085-01",
-"question": "Quale insegnante parla della protezione della vita animale?",
+"question": "Quale docente ha spiegato alla classe l'importanza della salvaguardia della fauna?",
 "reponses": [
-{ "id": "a", "texte": "Il dirigente scolastico di persona", "correcte": false },
-{ "id": "b", "texte": "L'insegnante d'inglese", "correcte": false },
-{ "id": "c", "texte": "Il sorvegliante dell'intervallo", "correcte": false },
-{ "id": "d", "texte": "L'insegnante di scienze", "correcte": true }
+{ "id": "a", "texte": "Il dirigente scolastico durante una riunione nell'aula magna", "correcte": false },
+{ "id": "b", "texte": "L'insegnante di lingua inglese venuto recentemente dal Canada", "correcte": false },
+{ "id": "c", "texte": "Il sorvegliante che controlla la sicurezza durante l'intervallo", "correcte": false },
+{ "id": "d", "texte": "L'insegnante di scienze durante la lezione di biologia", "correcte": true }
 ]
 },
 {
 "id": "q-it-read-a2-085-02",
-"question": "Perché molte specie minacciate perdono la loro casa naturale?",
+"question": "Qual è la causa principale della perdita dell'habitat per molte specie minacciate?",
 "reponses": [
-{ "id": "a", "texte": "A causa di forti temporali", "correcte": false },
-{ "id": "b", "texte": "A causa dell'inquinamento dei paesi", "correcte": false },
-{ "id": "c", "texte": "A causa dell'inquinamento umano", "correcte": true },
-{ "id": "d", "texte": "A causa del freddo invernale", "correcte": false }
+{ "id": "a", "texte": "I forti temporali estivi e i tuoni improvvisi nella giungla", "correcte": false },
+{ "id": "b", "texte": "L'inquinamento umano e le attività industriali incontrollate", "correcte": true },
+{ "id": "c", "texte": "La mancanza di pioggia che secca l'erba dei prati recintati", "correcte": false },
+{ "id": "d", "texte": "Il freddo pungete caratteristico della stagione invernale", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-085-03",
-"question": "Quale materiale non dovrebbe mai essere gettato nella natura?",
+"question": "Quale tipo di materiale nocivo non deve mai essere abbandonato nei boschi?",
 "reponses": [
-{ "id": "a", "texte": "I rifiuti di plastica", "correcte": true },
-{ "id": "b", "texte": "Pezzi di legno secco del bosco", "correcte": false },
-{ "id": "c", "texte": "Acqua fresca e pulita", "correcte": false },
-{ "id": "d", "texte": "Foglie autunnali marroni cadute", "correcte": false }
+{ "id": "a", "texte": "I rifiuti di plastica, le lattine e altri scarti sintetici", "correcte": true },
+{ "id": "b", "texte": "Pezzi di legno secco caduti dai rami degli alberi secolari", "correcte": false },
+{ "id": "c", "texte": "L'acqua fresca versata con cura dagli annaffiatoi rossi", "correcte": false },
+{ "id": "d", "texte": "Le foglie autunnali marroni che coprono i sentieri di pietra", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-085-04",
-"question": "Cosa possono costruire le persone per aiutare gli uccelli in inverno?",
+"question": "Cosa suggerisce il professore di fabbricare per sostenere i volatili in inverno?",
 "reponses": [
-{ "id": "a", "texte": "Coperte di lana per i nidi", "correcte": false },
-{ "id": "b", "texte": "Piedistalli per ombrelloni gialli", "correcte": false },
-{ "id": "c", "texte": "Cesti pieni di frutti dolci", "correcte": false },
-{ "id": "d", "texte": "Piccole cassette di legno", "correcte": true }
+{ "id": "a", "texte": "Grandi coperte di lana pesante per riscaldare i nidi d'erba", "correcte": false },
+{ "id": "b", "texte": "Ombrelloni di colore giallo neon da posizionare sul terreno", "correcte": false },
+{ "id": "c", "texte": "Piccole cassette di legno contenenti semi e briciole di pane", "correcte": true },
+{ "id": "d", "texte": "Grandi gabbie metalliche da posizionare all'ombra del balcone", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-085-05",
-"question": "Perché bisogna rispettare la vita degli animali selvatici?",
+"question": "Per quale motivo fondamentale è necessario mostrare rispetto verso il mondo animale?",
 "reponses": [
-{ "id": "a", "texte": "Per vincere una gara importante", "correcte": false },
-{ "id": "b", "texte": "Per spendere meno soldi nei mercati", "correcte": false },
-{ "id": "c", "texte": "Per mantenere un buon equilibrio ecologico", "correcte": true },
-{ "id": "d", "texte": "Per fare piacere al medico della clinica", "correcte": false }
+{ "id": "a", "texte": "Per ottenere un premio finanziario importante dalla giuria del teatro", "correcte": false },
+{ "id": "b", "texte": "Per ridurre le spese quotidiane quando si fa la spesa al mercato", "correcte": false },
+{ "id": "c", "texte": "Per mantenere un buon equilibrio ecologico sul nostro pianeta", "correcte": true },
+{ "id": "d", "texte": "Per fare una bella sorpresa al medico della clinica privata", "correcte": false }
 ]
 }
 ]
@@ -5984,11 +5984,11 @@
 "titre": "Riciclare i rifiuti",
 "titre2": "Esercizio 086",
 "texte": [
-"Nella nostra cucina separiamo i nostri rifiuti ogni singolo giorno in modo responsabile.",
-"Gettiamo le bottiglie di plastica e i cartoni nel cassonetto giallo.",
-"Gli oggetti di vetro trasparente sono conservati a parte per essere gettati nel grande cassonetto verde.",
-"Mia madre usa gli scarti delle verdure per produrre compost naturale per il nostro orto.",
-"Questa raccolta differenziata è un gesto semplice e necessario per proteggere il nostro pianeta."
+"Nella nostra casa di famiglia, la tutela dell'ambiente è un valore fondamentale che pratichiamo ogni giorno con costanza. All'interno della nostra cucina moderna, abbiamo organizzato uno spazio speciale per effettuare la raccolta differenziata in modo estremamente responsabile e preciso, coinvolgendo tutti i membri della famiglia nelle mansioni domestiche.",
+"Separiamo con attenzione i diversi materiali dopo ogni pasto. Gettiamo sistematicamente le bottiglie di plastica vuote, i contenitori del latte e gli scatoloni di cartone nel grande cassonetto di colore giallo. Questo contenitore viene svuotato regolarmente dagli operatori ecologici del comune ogni martedì mattina presto, garantendo il corretto riciclo della plastica.",
+"Gli oggetti in vetro trasparente, come i barattoli di marmellata o le bottiglie di succo d'arancia consumate a colazione, vengono sciacquati e conservati separatamente. Successivamente, mio fratello minore Luca si occupa di portarli nel grande cassonetto verde posizionato all'angolo della nostra strada residenziale. È un compito semplice che fa con piacere.",
+"Un'altra ottima abitudine ecologica riguarda la gestione degli scarti alimentari. Mia madre Sofia raccoglie con cura tutti i residui delle verdure fresche, le bucce delle carote arancioni e i fondi del caffè per produrre del compost naturale. Questo fertilizzante biologico viene poi utilizzato da mio padre per nutrire la terra del nostro piccolo orto sul retro.",
+"Effettuare una corretta selezione dei rifiuti richiede solo pochi minuti al giorno, ma rappresenta una scelta necessaria e fondamentale per proteggere il nostro pianeta, ridurre l'inquinamento delle grandi città e risparmiare risorse preziose. Mi sento fiero di fare la mia parte per un futuro più pulito."
 ],
 "audios": [
 { "id": "audio-it-read-a2-086-1", "url": "soundcloud.com" },
@@ -5997,52 +5997,52 @@
 "questions": [
 {
 "id": "q-it-read-a2-086-01",
-"question": "Dove effettua la separazione dei rifiuti la famiglia?",
+"question": "In quale stanza della casa la famiglia esegue quotidianamente la differenziazione degli scarti?",
 "reponses": [
-{ "id": "a", "texte": "Nella nostra cucina", "correcte": true },
-{ "id": "b", "texte": "All'interno del garage buio", "correcte": false },
-{ "id": "c", "texte": "Sul balcone dell'appartamento", "correcte": false },
-{ "id": "d", "texte": "Davanti alla porta della clinica", "correcte": false }
+{ "id": "a", "texte": "Al centro del soggiorno spazioso, vicino al comodo divano", "correcte": false },
+{ "id": "b", "texte": "All'interno dell'appartamento, precisamente nella nostra cucina", "correcte": true },
+{ "id": "c", "texte": "Sulla terrazza in legno esposta al sole primaverile", "correcte": false },
+{ "id": "d", "texte": "In un angolo buio del seminterrato, vicino alla sala giochi", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-086-02",
-"question": "Quali rifiuti specifici vengono gettati nel cassonetto giallo?",
+"question": "Quali elementi specifici devono essere gettati all'interno del cassonetto giallo?",
 "reponses": [
-{ "id": "a", "texte": "Bottiglie di succo spesse in vetro", "correcte": false },
-{ "id": "b", "texte": "Vestiti sportivi sporchi", "correcte": false },
-{ "id": "c", "texte": "Bottiglie di plastica e cartoni", "correcte": true },
-{ "id": "d", "texte": "Avanzi di carne e pesce", "correcte": false }
+{ "id": "a", "texte": "Le bottiglie di vetro spesso usate per contenere il succo d'arancia", "correcte": false },
+{ "id": "b", "texte": "I vestiti invernali sporchi e i calzini spaiati rimasti sul pavimento", "correcte": false },
+{ "id": "c", "texte": "Le bottiglie di plastica vuote e gli scatoloni di cartone", "correcte": true },
+{ "id": "d", "texte": "Gli scarti della carne e del pesce comprati al mercato rionale", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-086-03",
-"question": "Dove vanno gli oggetti di vetro trasparente dopo l'uso?",
+"question": "Dove vengono riposti gli imballaggi in vetro trasparente dopo essere stati sciacquati?",
 "reponses": [
-{ "id": "a", "texte": "Nel cassonetto giallo in corridoio", "correcte": false },
-{ "id": "b", "texte": "Sotto il grande tavolo di vetro", "correcte": false },
-{ "id": "c", "texte": "Nel cesto della lavanderia", "correcte": false },
-{ "id": "d", "texte": "Nel grande cassonetto verde", "correcte": true }
+{ "id": "a", "texte": "All'interno del cassonetto giallo situato nel corridoio luminoso", "correcte": false },
+{ "id": "b", "texte": "Sotto il tavolo di vetro trasparente situato nella sala da pranzo", "correcte": false },
+{ "id": "c", "texte": "Nel cesto della lavanderia insieme ai maglioni puliti piegati", "correcte": false },
+{ "id": "d", "texte": "Nel grande cassonetto di colore verde posizionato all'angolo della strada", "correcte": true }
 ]
 },
 {
 "id": "q-it-read-a2-086-04",
-"question": "Cosa produce la madre con gli scarti delle verdure fresche?",
+"question": "In che modo la madre riutilizza in modo utile i residui delle verdure fresche?",
 "reponses": [
-{ "id": "a", "texte": "Una zuppa calda tradizionale", "correcte": false },
-{ "id": "b", "texte": "Una grande torta per la merenda", "correcte": false },
-{ "id": "c", "texte": "Compost naturale per il nostro orto", "correcte": true },
-{ "id": "d", "texte": "Li getta via senza riutilizzarli", "correcte": false }
+{ "id": "a", "texte": "Cucina una calda zuppa tradizionale per il pranzo dei ragazzi", "correcte": false },
+{ "id": "b", "texte": "Prepara una grande torta salata per la merenda del pomeriggio", "correcte": false },
+{ "id": "c", "texte": "Produce del compost naturale e biologico per nutrire l'orto", "correcte": true },
+{ "id": "d", "texte": "Li getta via nel cassonetto giallo senza riutilizzarli in alcun modo", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-086-05",
-"question": "Qual è l'obiettivo principale di questa raccolta differenziata?",
+"question": "Qual è il fine ultimo e più importante di questa condotta ecologica domestica?",
 "reponses": [
-{ "id": "a", "texte": "Pagare meno tasse comunali", "correcte": false },
-{ "id": "b", "texte": "Proteggere il nostro pianeta", "correcte": true },
-{ "id": "c", "texte": "Riordinare la cucina più velocemente", "correcte": false },
-{ "id": "d", "texte": "Pulire le strade del quartiere", "correcte": false }
+{ "id": "a", "texte": "Ridurre in modo significativo le tasse comunali della famiglia", "correcte": false },
+{ "id": "b", "texte": "Proteggere in modo attivo ed efficace il nostro pianeta", "correcte": true },
+{ "id": "c", "texte": "Riordinare la scrivania della camera da letto più velocemente", "correcte": false },
+{ "id": "d", "texte": "Lavare l'auto elettrica di famiglia con prodotti speciali", "correcte": false }
 ]
 }
 ]
@@ -6052,11 +6052,11 @@
 "titre": "Una giornata di pioggia",
 "titre2": "Esercizio 087",
 "texte": [
-"Oggi una grande nuvola grigia nasconde il sole e fuori cade una forte pioggia.",
-"Dato che non posso andare in bicicletta nel parco, rimango comodamente in casa.",
-"Prendo le mie matite colorate per fare un grande disegno nella mia camera da letto.",
-"Mia nonna prepara una cioccolata calda molto aromatica per tutta la casa.",
-"Amo ascoltare il rumore leggero delle gocce di pioggia fresche che battono contro la finestra."
+"Oggi il tempo è completamente cambiato rispetto a ieri. Una serie di grandi nuvole grigie e dense copre interamente il cielo, nascondendo la luce calda del sole, e fuori cade una forte pioggia battente accompagnata da un vento fresco. Le strade del quartiere sono bagnate e piene di pozzanghere, rendendo l'atmosfera esterna piuttosto malinconica.",
+"Dato che le condizioni meteorologiche non permettono di fare attività all'aperto, come andare in bicicletta lungo la pista ciclabile del fiume o giocare a calcio nel parco cittadino con Jack, decido di rimanere comodamente all'interno del mio appartamento. Trovo che le giornate uggiose abbiano un fascino speciale se passate al calduccio nella propria stanza.",
+"Per occupare il mio tempo libero in modo creativo, siedo alla scrivania e prendo il mio album da disegno e la scatola delle matite colorate. Decido di dipingere un grande paesaggio fantastico, pieno di alberi secolari, montagne innevate e navi futuristiche nello spazio profondo, liberando tutta la mia immaginazione sul foglio bianco.",
+"Mentre sono concentrato sul mio disegno, un profumo delizioso e aromatico si diffonde nel corridoio. Mia nonna, che adora coccolarci quando fuori fa brutto tempo, ha preparato una brocca di cioccolata calda densa in cucina, servendomela in una tazza con un paio di biscotti secchi. È la merenda perfetta per riscaldarsi.",
+"Sorseggio la mia bevanda dolce stando seduto vicino alla finestra. Amo ascoltare il rumore leggero e ritmato delle fresche gocce di pioggia che battono contro i vetri puliti. Questo momento di calma assoluta mi fa sentire incredibilmente rilassato, felice e coccolato, trasformando un freddo giorno d'autunno in un momento perfetto di puro benessere casalingo."
 ],
 "audios": [
 { "id": "audio-it-read-a2-087-1", "url": "soundcloud.com" },
@@ -6065,188 +6065,193 @@
 "questions": [
 {
 "id": "q-it-read-a2-087-01",
-"question": "Com'è il tempo fuori oggi?",
+"question": "Quali sono le condizioni meteorologiche visibili all'esterno oggi?",
 "reponses": [
-{ "id": "a", "texte": "Un sole caldo splende luminoso", "correcte": false },
-{ "id": "b", "texte": "Sta arrivando una forte tempesta di neve", "correcte": false },
-{ "id": "c", "texte": "Soffia moltissimo vento fresco", "correcte": false },
-{ "id": "d", "texte": "Fuori cade una forte pioggia", "correcte": true }
+{ "id": "a", "texte": "Un sole caldo splende nel cielo azzurro e limpido senza vento", "correcte": false },
+{ "id": "b", "texte": "Un forte temporale di neve copre interamente le cime delle montagne", "correcte": false },
+{ "id": "c", "texte": "Grandi nuvole grigie coprono il cielo e cade una forte pioggia battente", "correcte": true },
+{ "id": "d", "texte": "Soffia solo un vento caldo proveniente dalle coste del Mediterraneo", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-087-02",
-"question": "Quale attività all'aperto è annullata a causa del tempo?",
+"question": "Quale passatempo all'aria aperta viene annullato a causa del maltempo?",
 "reponses": [
-{ "id": "a", "texte": "Il viaggio veloce in treno", "correcte": false },
-{ "id": "b", "texte": "La partita di calcio allo stadio", "correcte": false },
-{ "id": "c", "texte": "La visita al museo della scienza", "correcte": false },
-{ "id": "d", "texte": "Andare in bicicletta nel parco", "correcte": true }
+{ "id": "a", "texte": "Il viaggio veloce in treno per andare a trovare lo zio a Liverpool", "correcte": false },
+{ "id": "b", "texte": "La spesa settimanale con la madre al centro commerciale", "correcte": false },
+{ "id": "c", "texte": "La visita guidata con la scuola al museo della scienza locale", "correcte": false },
+{ "id": "d", "texte": "Andare in bicicletta lungo la pista ciclabile nel parco", "correcte": true }
 ]
 },
 {
 "id": "q-it-read-a2-087-03",
-"question": "Cosa usa il protagonista per il suo grande disegno?",
+"question": "Cosa utilizza il protagonista per realizzare il suo grande disegno creativo?",
 "reponses": [
-{ "id": "a", "texte": "Una grande scatola di acquerelli", "correcte": false },
-{ "id": "b", "texte": "Una semplice penna nera da ufficio", "correcte": false },
-{ "id": "c", "texte": "Le sue matite colorate", "correcte": true },
-{ "id": "d", "texte": "Pezzi di carta lucida lucente", "correcte": false }
+{ "id": "a", "texte": "Una grande scatola di acquerelli comprata in cartoleria", "correcte": false },
+{ "id": "b", "texte": "Un semplice pennarello nero trovato nell'astuccio di scuola", "correcte": false },
+{ "id": "c", "texte": "Il suo album e la scatola delle matite colorate", "correcte": true },
+{ "id": "d", "texte": "Pezzi di carta lucida e colla liquida per fare un collage", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-087-04",
-"question": "Quale bevanda aromatica prepara la nonna per la casa?",
+"question": "Quale prelibatezza liquida e calda prepara la nonna in cucina?",
 "reponses": [
-{ "id": "a", "texte": "Una tisana calda con il miele", "correcte": false },
-{ "id": "b", "texte": "Un grande bicchiere di succo d'arancia freddo", "correcte": false },
-{ "id": "c", "texte": "Una tazza di caffè nero forte", "correcte": false },
-{ "id": "d", "texte": "Una cioccolata calda", "correcte": true }
+{ "id": "a", "texte": "Una tazza di tisana calda con un cucchiaio di miele dolce", "correcte": false },
+{ "id": "b", "texte": "Un grande bicchiere di spremuta d'arancia fresca ricca di vitamine", "correcte": false },
+{ "id": "c", "texte": "Una tazza di cioccolata calda densa e aromatica", "correcte": true },
+{ "id": "d", "texte": "Una minestra di verdure biologiche raccolte nell'orto dello zio", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-087-05",
-"question": "Cosa le piace ascoltare dolcemente al protagonista?",
+"question": "Quale suono rilassante cattura l'attenzione del protagonista vicino alla finestra?",
 "reponses": [
-{ "id": "a", "texte": "Il canto dei piccoli uccelli selvatici", "correcte": false },
-{ "id": "b", "texte": "Un programma alla televisione", "correcte": false },
-{ "id": "c", "texte": "I vecchi ricordi dei nonni", "correcte": false },
-{ "id": "d": "Il rumore leggero delle gocce di pioggia", "correcte": true }
+{ "id": "a", "texte": "Il canto melodico degli uccelli selvatici nascosti tra i rami", "correcte": false },
+{ "id": "b", "texte": "Le risate dei bambini che corrono sui sentieri sterrati del cortile", "correcte": false },
+{ "id": "c", "texte": "Le vecchie canzoni d'amore trasmesse dall'apparecchio televisivo", "correcte": false },
+{ "id": "d", "texte": "Il rumore leggero e ritmato delle gocce di pioggia contro i vetri", "correcte": true }
 ]
 }
 ]
 },
 {
-"id": "088",
-"titre": "Scoprire le stagioni",
-"titre2": "Esercizio 088",
-"texte": [
-"In Italia l'anno è diviso in quattro bellissime stagioni differenti.",
-"La primavera porta fiori colorati e il risveglio della natura selvatica.",
-"In estate il sole splende caldo e andiamo a nuotare nel mare.",
-"L'autunno fa cadere le foglie marroni dagli alberi nel grande parco cittadino.",
-"Infine, l'inverno è un periodo freddo in cui la neve bianca copre le montagne."
-],
-"audios": [
-{ "id": "audio-it-read-a2-088-1", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a2-088-2", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a2-088-01",
-"question": "In quante stagioni è diviso l'anno in Italia?",
-"reponses": [
-{ "id": "a", "texte": "In due periodi differenti", "correcte": false },
-{ "id": "b", "texte": "In tre quadrimestri scolastici", "correcte": false },
-{ "id": "c", "texte": "Il testo non menziona un numero esatto", "correcte": false },
-{ "id": "d", "texte": "In quattro bellissime stagioni", "correcte": true }
-]
-},
-{
-"id": "q-it-read-a2-088-02",
-"question": "Cosa porta principalmente la primavera secondo il testo?",
-"reponses": [
-{ "id": "a", "texte": "Fiori colorati e il risveglio della natura", "correcte": true },
-{ "id": "b", "texte": "Forte tuono e temporali di pioggia", "correcte": false },
-{ "id": "c", "texte": "Strati di neve bianca sui tetti", "correcte": false },
-{ "id": "d", "texte": "Lunghi viaggi di vacanza sulla costa", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a2-088-03",
-"question": "Cosa fanno le persone durante la stagione estiva?",
-"reponses": [
-{ "id": "a", "texte": "Vanno a nuotare nel mare", "correcte": true },
-{ "id": "b", "texte": "Raccolgono foglie marroni nel bosco", "correcte": false },
-{ "id": "c", "texte": "Slittano sulla neve con gli amici", "correcte": false },
-{ "id": "d", "texte": "Comprano materiale di cartoleria nuovo", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a2-088-04",
-"question": "Cosa succede durante il periodo autunnale?",
-"reponses": [
-{ "id": "a", "texte": "Il sole splende caldissimo ogni mattina", "correcte": false },
-{ "id": "b", "texte": "I ciliegi producono frutti rossi dolci", "correcte": false },
-{ "id": "c", "texte": "La scuola chiude per due mesi interi", "correcte": false },
-{ "id": "d", "texte": "Foglie marroni cadono dagli alberi del parco", "correcte": true }
-]
-},
-{
-"id": "q-it-read-a2-088-05",
-"question": "Dove si deposita la neve bianca durante l'inverno?",
-"reponses": [
-{ "id": "a", "texte": "Sulla sabbia calda della costa marina", "correcte": false },
-{ "id": "b", "texte": "All'interno della cantina buia di casa", "correcte": false },
-{ "id": "c", "texte": "Sulle montagne", "correcte": true },
-{ "id": "d", "texte": "Solo nel piccolo giardino fiorito", "correcte": false }
-]
-}
-]
-},
-{
-"id": "089",
-"titre": "Gli alberi del nostro quartiere",
-"titre2": "Esercizio 089",
-"texte": [
-"La nostra grande zona residenziale ha un regalo meraviglioso: molti alberi bellissimi.",
-"Lungo i marciapiedi larghi e puliti ci sono grandi e forti alberi di quercia.",
-"Offrono un'ombra fresca e piacevole durante le calde giornate estive.",
-"Al centro della piazza principale fiorisce un bellissimo tiglio in primavera.",
-"Prendersi cura di questi alberi è necessario per mantenere sano il nostro ambiente."
-],
-"audios": [
-{ "id": "audio-it-read-a2-089-1", "url": "soundcloud.com" },
-{ "id": "audio-it-read-a2-089-2", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-it-read-a2-089-01",
-"question": "Qual è il regalo meraviglioso della zona residenziale?",
-"reponses": [
-{ "id": "a", "texte": "Avere una grande piscina riscaldata", "correcte": false },
-{ "id": "b", "texte": "Un enorme centro commerciale moderno", "correcte": false },
-{ "id": "c", "texte": "Molti alberi bellissimi piantati", "correcte": true },
-{ "id": "d", "texte": "Una stazione della metropolitana automatica", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a2-089-02",
-"question": "Quali alberi si trovano lungo i marciapiedi larghi e puliti?",
-"reponses": [
-{ "id": "a", "texte": "Grandi e forti alberi di quercia", "correcte": true },
-{ "id": "b", "texte": "Palme esotiche importate dai paesi caldi", "correcte": false },
-{ "id": "c", "texte": "Piccoli pini natalizi artificiali", "correcte": false },
-{ "id": "d", "texte": "Ciliegi selvatici provenienti dall'orto", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a2-089-03",
-"question": "Quale vantaggio offrono queste querce durante l'estate?",
-"reponses": [
-{ "id": "a", "texte": "Producono frutti rossi dolci come bacche", "correcte": false },
-{ "id": "b", "texte": "Bloccano la pioggia e il forte tuono", "correcte": false },
-{ "id": "c", "texte": "Offrono un'ombra fresca e piacevole", "correcte": true },
-{ "id": "d", "texte": "Lavano le automobili sulla strada", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a2-089-04",
-"question": "Quale albero fiorisce in primavera al centro della piazza principale?",
-"reponses": [
-{ "id": "a", "texte": "Un melo verde fruttato", "correcte": false },
-{ "id": "b", "texte": "Un bellissimo tiglio", "correcte": true },
-{ "id": "c", "texte": "Una grande quercia secolare", "correcte": false },
-{ "id": "d", "texte": "Un cespuglio di lavanda profumata blu", "correcte": false }
-]
-},
-{
-"id": "q-it-read-a2-089-05",
-"question": "Perché è necessario prendersi cura di questi alberi nel quartiere?",
-"reponses": [
-{ "id": "a", "texte": "Per tagliare legna da ardere per l'inverno", "correcte": false },
-{ "id": "b", "texte": "Per mantenere sano il nostro ambiente", "correcte": true },
-{ "id": "c", "texte": "Per guadagnare denaro vendendo il legno", "correcte": false },
-{ "id": "d", "texte": "Per fare piacere all'agente immobiliare", "correcte": false }
+    "id": "088",
+    "titre": "Scoprire le stagioni",
+    "titre2": "Esercizio 088",
+    "texte": [
+      "In Italia il clima cambia molto durante l'anno e l'alternanza delle quattro stagioni offre sempre paesaggi meravigliosi e nuove abitudini per tutta la popolazione rurale e urbana.",
+      "La primavera è la stagione del risveglio della natura, un periodo magico in cui i prati si coprono di un tappeto di fiori colorati, gli alberi da frutto nei giardini fioriscono e gli uccelli migratori tornano a cantare allegramente sui rami delle grandi querce secolari dopo il lungo silenzio invernale.",
+      "Quando arriva l'estate, il sole splende caldissimo nel cielo azzurro e le scuole chiudono per le vacanze, permettendo alle famiglie di viaggiare verso le coste marine per nuotare nelle acque fresche del mare, camminare sulla spiaggia di sabbia dorata e rinfrescarsi con un delizioso gelato artigianale alla fragola o al limone durante i caldi pomeriggi.",
+      "Successivamente, l'autunno trasforma completamente i colori dei boschi, le foglie verdi diventano gialle e marroni prima di cadere dolcemente lungo i sentieri sterrati del parco cittadino, mentre i contadini nelle campagne lavorano duramente per raccogliere l'uva matura e preparare il terreno per i mesi successivi.",
+      "Infine, l'inverno porta il freddo pungente, le giornate diventano molto più brevi e una spessa coltre di neve bianca copre le alte montagne, creando uno scenario perfetto per gli amanti degli sport invernali che amano sciare sulle piste innevate o riposarsi la sera vicino al camino acceso con una tazza di cioccolata calda.",
+      "Ogni stagione ha una sua bellezza unica e fondamentale che influenza profondamente la nostra vita quotidiana, le nostre tradizioni culturali, i piatti tipici che cuciniamo a casa e il nostro legame indissolubile con il ciclo naturale del pianeta.",
+      "Imparare a rispettare e a comprendere questo ritmo naturale è essenziale per apprezzare il passare del tempo e proteggere la biodiversità del nostro territorio."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-088-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-088-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-088-01",
+        "question": "Cosa succede nei giardini durante la stagione della primavera?",
+        "reponses": [
+          { "id": "a", "texte": "Le foglie degli alberi diventano completamente marroni", "correcte": false },
+          { "id": "b", "texte": "Gli alberi da frutto fioriscono e i prati si coprono di fiori", "correcte": true },
+          { "id": "c", "texte": "La neve bianca copre interamente le aiuole fiorite", "correcte": false },
+          { "id": "d", "texte": "I contadini raccolgono l'uva matura per fare il vino", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-088-02",
+        "question": "Quale attività estiva viene esplicitamente menzionata nel testo per le famiglie?",
+        "reponses": [
+          { "id": "a", "texte": "Sciare sulle piste innevate delle alte montagne", "correcte": false },
+          { "id": "b", "texte": "Raccogliere le foglie secche lungo i sentieri del parco", "correcte": false },
+          { "id": "c", "texte": "Viaggiare verso le coste marine per nuotare nel mare", "correcte": true },
+          { "id": "d", "texte": "Piantare semi di lavanda nella terra nera dell'orto", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-088-03",
+        "question": "Cosa succede alle foglie degli alberi durante il periodo autunnale?",
+        "reponses": [
+          { "id": "a", "texte": "Diventano gialle e marroni prima di cadere a terra", "correcte": true },
+          { "id": "b", "texte": "Nascono fresche e di un colore verde brillante", "correcte": false },
+          { "id": "c", "texte": "Vengono bruciate immediatamente dai fulmini del temporale", "correcte": false },
+          { "id": "d", "texte": "Rimangono immutate per tutta la stagione calda", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-088-04",
+        "question": "Quale bevanda calda amano consumare le persone in inverno vicino al camino?",
+        "reponses": [
+          { "id": "a", "texte": "Un grande bicchiere di spremuta d'arancia fresca", "correcte": false },
+          { "id": "b", "texte": "Una tazza di cioccolata calda", "correcte": true },
+          { "id": "c", "texte": "Una bottiglia di limonata frizzante fredda", "correcte": false },
+          { "id": "d", "texte": "Un semplice bicchiere d'acqua minerale naturale", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-088-05",
+        "question": "Perché è essenziale comprendere il ritmo naturale delle quattro stagioni?",
+        "reponses": [
+          { "id": "a", "texte": "Per poter comprare vestiti costosi nei grandi magazzini", "correcte": false },
+          { "id": "b", "texte": "Per superare gli esami scritti di matematica a scuola", "correcte": false },
+          { "id": "c", "texte": "Per apprezzare il passare del tempo e proteggere la biodiversità", "correcte": true },
+          { "id": "d", "texte": "Per cambiare ogni mese l'orario delle lezioni scolastiche", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "089",
+    "titre": "Gli alberi del nostro quartiere",
+    "titre2": "Esercizio 089",
+    "texte": [
+      "Il nostro quartiere residenziale è una zona molto fortunata perché ospita un patrimonio naturale straordinario composto da una grande varietà di alberi maestosi che decorano le vie principali.",
+      "Lungo i marciapiedi larghi e puliti crescono imponenti alberi di quercia e tigli secolari, che formano una splendida galleria verde sopra le strade asfaltate dove passano le auto e i pedoni.",
+      "Durante le calde giornate estive, le grandi fronde di questi alberi frondosi offrono un'ombra fresca e piacevole, proteggendo le case dal calore del sole e permettendo agli abitanti di passeggiare tranquillamente.",
+      "In primavera, la fioritura dei tigli al centro della piazza principale riempie l'aria di un profumo dolce e delicato che attira le api e rende l'atmosfera del quartiere estremamente accogliente e rilassante per tutti.",
+      "Inoltre, molti uccelli selvatici costruiscono i loro nidi tra i rami più alti, svegliando i residenti ogni mattina con un canto melodioso che fa dimenticare di trovarsi vicini al centro della città.",
+      "La manutenzione e la cura regolare di questo polmone verde sono compiti fondamentali per il comune e per gli stessi cittadini, che si impegnano a non danneggiare le piante e a bagnare le radici nei periodi di siccità.",
+      "Gli alberi non solo migliorano l'aspetto estetico della nostra zona residenziale, ma svolgono un ruolo ecologico cruciale pulendo l'aria che respiriamo e riducendo l'inquinamento acustico causato dal traffico cittadino.",
+      "Rispettare la flora urbana è un dovere di ogni cittadino responsabile per garantire un ambiente sano, pulito e un futuro migliore per le nuove generazioni di bambini che giocano nel parco."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-089-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-089-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-089-01",
+        "question": "Quali tipi di alberi crescono lungo i marciapiedi del quartiere?",
+        "reponses": [
+          { "id": "a", "texte": "Piccoli cactus spinosi importati dai paesi caldi", "correcte": false },
+          { "id": "b", "texte": "Grandi alberi di quercia e tigli secolari", "correcte": true },
+          { "id": "c", "texte": "Pini natalizi artificiali posizionati sui balconi", "correcte": false },
+          { "id": "d", "texte": "Alberi tropicali che producono banane gialle", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-089-02",
+        "question": "Quale vantaggio offrono le grandi fronde degli alberi in estate?",
+        "reponses": [
+          { "id": "a", "texte": "Riscaldano l'aria fredda delle strade del centro", "correcte": false },
+          { "id": "b", "texte": "Offrono un'ombra fresca e piacevole contro il calore", "correcte": true },
+          { "id": "c", "texte": "Puliscono automaticamente i vetri delle finestre alte", "correcte": false },
+          { "id": "d", "texte": "Producono sciroppo d'acero per la colazione", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-089-03",
+        "question": "Cosa riempie la piazza principale di un profumo dolce in primavera?",
+        "reponses": [
+          { "id": "a", "texte": "La fioritura dei tigli al centro della piazza", "correcte": true },
+          { "id": "b", "texte": "Le pizze calde preparate dal ristorante italiano", "correcte": false },
+          { "id": "c", "texte": "I saponi di Marsiglia usati per pulire le strade", "correcte": false },
+          { "id": "d", "texte": "I dolci cornetti cotti nel forno a legna", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-089-04",
+        "question": "Quale ruolo ecologico cruciale svolgono gli alberi urbani?",
+        "reponses": [
+          { "id": "a", "texte": "Aumentano la velocità delle auto sulla strada asfaltata", "correcte": false },
+          { "id": "b", "texte": "Puliscono l'aria che respiriamo e riducono l'inquinamento", "correcte": true },
+          { "id": "c", "texte": "Sostituiscono completamente l'illuminazione pubblica", "correcte": false },
+          { "id": "d", "texte": "Impediscono la caduta delle gocce di pioggia", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-089-05",
+        "question": "Chi si occupa principalmente della manutenzione del polmone verde?",
+        "reponses": [
+          { "id": "a", "texte": "Gli assistenti di volo del grande aereo rosso", "correcte": false },
+          { "id": "b", "texte": "I turisti stranieri che visitano la Toscana", "correcte": false },
+{ "id": "c", "texte": "Il comune e gli stessi cittadini del quartiere", "correcte": true },
+{ "id": "d", "texte": "La bibliotecaria della scuola superiore", "correcte": false }
 ]
 }
 ]
@@ -6256,11 +6261,14 @@
 "titre": "Mantenere pulito il nostro ambiente",
 "titre2": "Esercizio 090",
 "texte": [
-"Il sabato mattina gli abitanti della mia strada organizzano una giornata ecologica di comunità.",
-"Ci riuniamo tutti insieme per pulire completamente il nostro ambiente locale e i parchi.",
-"Prendo grandi sacchi della spazzatura per raccogliere le carte che sono cadute a terra.",
-"Mio padre pulisce le recinzioni di legno, mentre i bambini raccolgono le bottiglie di plastica.",
-"Grazie al nostro lavoro di squadra, il nostro bel quartiere diventa pulito e accogliente."
+"Il sabato mattina gli abitanti del nostro quartiere si organizzano per partecipare a una giornata ecologica collettiva, un evento comunitario fondamentale per pulire le strade e i parchi della nostra città fiorita.",
+"Tutti i vicini di casa, dai bambini piccoli agli anziani come il gentile signor Paolo, si riuniscono nella piazza centrale muniti di guanti protettivi, grandi sacchi della spazzatura resistenti, scope e rastrelli di ferro.",
+"Il coordinatore del quartiere distribuisce i compiti in modo equo: io e i miei amici di scuola siamo responsabili della pulizia del parco pubblico, dove dobbiamo raccogliere con cura i pezzi di carta e i rifiuti caduti a terra.",
+"Mio padre e altri adulti si occupano di riparare e ridipingere le vecchie panchine di legno e le recinzioni danneggiate dal tempo, mentre mia madre coordina il gruppo che raccoglie le bottiglie di plastica per portarle al centro di riciclaggio.",
+"Durante il lavoro mettiamo della musica allegra con un piccolo impianto audio portatile, il che rende l'attività molto più divertente, leggera e stimolante per tutti i partecipanti che lavorano sotto il sole mattutino.",
+"Dopo quattro ore di intenso sforzo fisico e di collaborazione solidale, l'intero quartiere residenziale appare completamente trasformato, pulito, ordinato e decisamente più accogliente per le famiglie.",
+"Per festeggiare l'ottimo risultato di questo lavoro di squadra, i miei genitori decidono di ordinare delle pizze margherite calde per tutti i giovani volontari che hanno aiutato a ripulire le aiuole del giardino.",
+"Mantenere pulito l'ambiente in cui viviamo non è solo una responsabilità civica, ma è una gita collettiva che ci aiuta a comprendere l'importanza del rispetto ecologico e della protezione del nostro pianeta terra."
 ],
 "audios": [
 { "id": "audio-it-read-a2-090-1", "url": "soundcloud.com" },
@@ -6269,52 +6277,52 @@
 "questions": [
 {
 "id": "q-it-read-a2-090-01",
-"question": "In quale momento della settimana si svolge la giornata ecologica?",
+"question": "Quale evento comunitario viene organizzato il sabato mattina?",
 "reponses": [
-{ "id": "a", "texte": "Il mercoledì pomeriggio dopo la scuola", "correcte": false },
-{ "id": "b", "texte": "La domenica sera dopo cena", "correcte": false },
-{ "id": "c", "texte": "Il sabato mattina", "correcte": true },
-{ "id": "d", "texte": "Il primo giorno di ogni singolo mese", "correcte": false }
+{ "id": "a", "texte": "Un esame scritto di chimica e fisica per la scuola", "correcte": false },
+{ "id": "b", "texte": "Una giornata ecologica collettiva per pulire il quartiere", "correcte": true },
+{ "id": "c", "texte": "Un grande torneo di calcio allo stadio comunale", "correcte": false },
+{ "id": "d", "texte": "Un mercato tradizionale per vendere vestiti usati", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-090-02",
-"question": "Qual è l'obiettivo di questo incontro tra vicini?",
+"question": "Di quale zona specifica sono responsabili il protagonista e i suoi amici?",
 "reponses": [
-{ "id": "a", "texte": "Festeggiare un compleanno a sorpresa", "correcte": false },
-{ "id": "b", "texte": "Piantare alberi da frutto negli orti", "correcte": false },
-{ "id": "c", "texte": "Pulire completamente il nostro ambiente locale", "correcte": true },
-{ "id": "d", "texte": "Giocare una partita amichevole di calcio", "correcte": false }
+{ "id": "a", "texte": "Della disinfezione completa dei bagni della scuola", "correcte": false },
+{ "id": "b", "texte": "Della pulizia del grande parco pubblico", "correcte": true },
+{ "id": "c", "texte": "Dello scarico degli scatoloni pesanti dal camion", "correcte": false },
+{ "id": "d", "texte": "Della cura degli alberi da frutto nell'orto del nonno", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-090-03",
-"question": "Cosa usa il protagonista per svolgere il suo compito di pulizia?",
+"question": "Quale compito svolgono il padre del protagonista e gli altri adulti?",
 "reponses": [
-{ "id": "a", "texte": "Un piccolo rastrello da giardino in metallo", "correcte": false },
-{ "id": "b", "texte": "Un panno in microfibra umido", "correcte": false },
-{ "id": "c", "texte": "Grandi sacchi della spazzatura", "correcte": true },
-{ "id": "d", "texte": "Una scopa tradizionale per il cortile", "correcte": false }
+{ "id": "a", "texte": "Riparano e ridipingono le vecchie panchine di legno", "correcte": true },
+{ "id": "b", "texte": "Cucinano il pranzo al sacco per tutti i residenti", "correcte": false },
+{ "id": "c-", "texte": "Comprano sciroppo d'acero e pancake al forno", "correcte": false },
+{ "id": "d", "texte": "Scrivono relazioni scientifiche al computer portatile", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-090-04",
-"question": "Quale compito specifico viene svolto dal padre del protagonista?",
+"question": "Cosa fa il gruppo guidato dalla madre con le bottiglie di plastica?",
 "reponses": [
-{ "id": "a", "texte": "Raccoglie tutte le bottiglie di plastica sparse", "correcte": false },
-{ "id": "b", "texte": "Cucina deliziose torte calde al cioccolato", "correcte": false },
-{ "id": "c", "texte": "Guida il grande camion da trasloco giallo", "correcte": false },
-{ "id": "d", "texte": "Pulisce le recinzioni di legno", "correcte": true }
+{ "id": "a", "texte": "Le nasconde sotto i letti della camera", "correcte": false },
+{ "id": "b", "texte": "Le porta al centro di riciclaggio", "correcte": true },
+{ "id": "c", "texte": "Le riempie di succo d'arancia fresco", "correcte": false },
+{ "id": "d", "texte": "Le getta nei sentieri sterrati del bosco", "correcte": false }
 ]
 },
 {
 "id": "q-it-read-a2-090-05",
-"question": "Come si presenta la zona residenziale alla fine della mattinata?",
+"question": "Quale ricompensa ricevono i giovani volontari alla fine della giornata?",
 "reponses": [
-{ "id": "a", "texte": "Molto rumorosa e faticosa per i genitori", "correcte": false },
-{ "id": "b", "texte": "Completamente vuota e triste senza bambini", "correcte": false },
-{ "id": "c", "texte": "Il testo non menziona alcun cambiamento visibile", "correcte": false },
-{ "id": "d", "texte": "Pulita e accogliente per tutti quanti", "correcte": true }
+{ "id": "a", "texte": "Ricevono molto denaro tascabile dal comune", "correcte": false },
+{ "id": "b", "texte": "Dei biglietti elettronici per il cinema del centro", "correcte": false },
+{ "id": "c", "texte": "Delle pizze margherite calde per pranzo", "correcte": true },
+{ "id": "d", "texte": "Un costume da bagno blu nuovo per le vacanze", "correcte": false }
 ]
 }
 ]
@@ -6324,11 +6332,15 @@
     "titre": "Comprare vestiti in un negozio",
     "titre2": "Esercizio 091",
     "texte": [
-      "Questo pomeriggio vado in un grande negozio di abbigliamento in centro città per rinnovare il mio guardaroba.",
-      "Cerco soprattutto dei pantaloni sportivi neri e un maglione caldo per il prossimo inverno.",
-      "Il commesso mi mostra gentilmente la strada per il camerino, per testare la taglia degli articoli.",
-      "I pantaloni mi stanno perfettamente, ma il maglione di lana grigia è un po' troppo grande per me.",
-      "Chiedo al cassiere una taglia più piccola, pago con la mia carta di credito e torno felice a casa."
+      "Questo pomeriggio ho deciso di andare in un grande negozio di abbigliamento situato nel vivace centro storico della città, con l'obiettivo principale di rinnovare il mio guardaroba per l'arrivo della stagione invernale.",
+      "Mentre camminavo tra i corridoi pieni di luci, cercavo soprattutto dei pantaloni sportivi neri molto comodi e un maglione di lana pesante per proteggermi dal freddo intenso dei prossimi mesi.",
+      "Un commesso molto gentile e disponibile mi ha subito mostrato la strada corretta per raggiungere i camerini di prova, permettendomi così di verificare con cura la taglia esatta di tutti gli articoli scelti.",
+      "I pantaloni neri mi stavano perfettamente ed erano della lunghezza giusta, ma purtroppo il maglione di lana grigia che avevo selezionato era decisamente troppo grande e largo per me.",
+      "Ho chiesto con cortesia al cassiere se fosse possibile ricevere una taglia più piccola, ho pagato il conto totale alla cassa con la mia carta di credito e sono tornato a casa molto felice del mio pomeriggio di acquisti.",
+      "Questo negozio offre sempre una scelta straordinaria di vestiti moderni a prezzi ottimi, rendendo l'esperienza molto piacevole per tutti i clienti.",
+      "Una volta a casa, ho sistemato i nuovi capi d'abbigliamento all'interno del mio grande armadio di legno, posizionandoli accanto ai vestiti scolastici quotidiani.",
+      "Mostrerò i miei nuovi acquisti al mio migliore amico Jack domani mattina, prima dell'inizio ufficiale delle lezioni scolastiche in classe.",
+      "Prendersi cura del proprio aspetto e scegliere abiti caldi è importante per sentirsi bene con se stessi e affrontare le giornate con molta energia positiva."
     ],
     "audios": [
       { "id": "audio-it-read-a2-091-1", "url": "soundcloud.com" },
@@ -6357,9 +6369,9 @@
       },
       {
         "id": "q-it-read-a2-091-03",
-        "question": "Dove prova la taglia dei capi di abbigliamento?",
+        "question": "Where does the character test the size of the clothes?",
         "reponses": [
-          { "id": "a", "texte": "Al centro del reparto calzature", "correcte": false },
+          { "id": "a", "texte": "Al centro del reparto caltature", "correcte": false },
           { "id": "b", "texte": "Proprio davanti alla cassa principale", "correcte": false },
           { "id": "c", "texte": "Sul marciapiede pulito della strada", "correcte": false },
           { "id": "d", "texte": "Nel camerino", "correcte": true }
@@ -6392,11 +6404,15 @@
     "titre": "Chiedere indicazioni stradali",
     "titre2": "Esercizio 092",
     "texte": [
-      "Stamattina mi sono completamente perso tra le vecchie strade strette del centro storico.",
-      "Cerco il museo della scienza, ma la batteria del mio telefono cellulare è scarica.",
-      "Decido di fermarmi e chiedere educatamente indicazioni a una donna sorridente sul marciapiede.",
-      "Mi spiega gentilmente che devo girare a destra al semaforo e poi proseguire dritto.",
-      "La ringrazio calorosamente per il suo prezioso aiuto e trovo l'edificio in cinque minuti."
+      "Stamattina mi sono trovato in una situazione complessa perché mi sono completamente perso tra le vecchie strade strette e labirintiche del centro storico della città.",
+      "Cercavo disperatamente l'ingresso principale del famoso museo della scienza per un progetto scolastico urgente, ma purtroppo la batteria del mio telefono cellulare era del tutto scarica.",
+      "Senza una mappa digitale disponibile, ho deciso di fermarmi un momento sul marciapiede pulito e chiedere educatamente indicazioni stradali a una donna sorridente che passava di lì.",
+      "La signora ha ascoltato la mia domanda con molta attenzione e mi ha spiegato con estrema gentilezza la strada corretta da seguire per raggiungere l'edificio.",
+      "Mi ha detto che dovevo semplicemente camminare dritto fino al semaforo successivo, girare a destra all'incrocio e proseguire ancora per pochi metri lungo il viale alberato.",
+      "Ho ringraziato di cuore la signora per il suo prezioso e tempestivo aiuto, che mi ha evitato di perdere altro tempo prezioso all'aria aperta.",
+      "Seguendo scrupolosamente le sue precise indicazioni verbali, sono riuscito a trovare la grande porta del museo della scienza in soli cinque minuti di cammino veloce.",
+      "Questa esperienza mi ha insegnato che chiedere aiuto agli abitanti locali con educazione e rispetto è sempre il modo migliore per risolvere un piccolo problema in città.",
+      "Una volta entrato nel museo, ho potuto finalmente iniziare le mie ricerche culturali storiche e completare con successo tutti i compiti affidati dal mio professore di scienze."
     ],
     "audios": [
       { "id": "audio-it-read-a2-092-1", "url": "soundcloud.com" },
@@ -6460,62 +6476,66 @@
     "titre": "Una visita al mercato locale",
     "titre2": "Esercizio 093",
     "texte": [
-      "La domenica mattina accompagno mio nonno a fare una visita al mercato locale del villaggio.",
-      "La piazza centrale è piena di banchi colorati che vendono deliziosi prodotti regionali.",
-      "Compriamo un pezzo di formaggio di capra biologico e un pane cotto nel forno a legna.",
-      "I simpatici mercanti chiacchierano allegramente con gli abitanti e condividono ricette tradizionali.",
-      "Questo momento di condivisione all'aria aperta è un'ottima abitudine per iniziare bene la giornata."
-    ],
-    "audios": [
-      { "id": "audio-it-read-a2-093-1", "url": "soundcloud.com" },
-      { "id": "audio-it-read-a2-093-2", "url": "soundcloud.com" }
-    ],
-    "questions": [
-      {
-        "id": "q-it-read-a2-093-01",
-        "question": "Quando si reca al mercato del villaggio il protagonista?",
-        "reponses": [
-          { "id": "a", "texte": "Nel tardo pomeriggio di sabato", "correcte": false },
-          { "id": "b", "texte": "Al mattino presto del mercoledì", "correcte": false },
-          { "id": "c", "texte": "In ogni giorno feriale all'ora di pranzo", "correcte": false },
-          { "id": "d", "texte": "La domenica mattina", "correcte": true }
-        ]
-      },
-      {
-        "id": "q-it-read-a2-093-02",
-        "question": "Chi accompagna il protagonista sulla piazza del mercato?",
-        "reponses": [
-          { "id": "a", "texte": "Sua sorella maggiore Emily", "correcte": false },
-          { "id": "b", "texte": "I suoi compagni di sport della scuola", "correcte": false },
-          { "id": "c", "texte": "Si reca al mercato completamente da solo", "correcte": false },
-          { "id": "d", "texte": "Il suo caro nonno", "correcte": true }
-        ]
-      },
-      {
-        "id": "q-it-read-a2-093-03",
-        "question": "Quali alimenti comprano insieme ai banchi?",
-        "reponses": [
-          { "id": "a", "texte": "Mele verdi e banane gialle", "correcte": false },
-          { "id": "b", "texte": "Pezzi di pollo arrosto nel forno", "correcte": false },
-          { "id": "c", "texte": "Una quiche salata francese", "correcte": false },
-          { "id": "d", "texte": "Formaggio di capra e un pane", "correcte": true }
-        ]
-      },
-      {
-        "id": "q-it-read-a2-093-04",
-        "question": "Come è stato cotto dall'artigiano il pane acquistato?",
-        "reponses": [
-          { "id": "a", "texte": "In una moderna fabbrica industriale", "correcte": false },
-          { "id": "b", "texte": "In un forno elettrico domestico", "correcte": false },
-          { "id": "c", "texte": "Il testo non contiene informazioni sulla cottura", "correcte": false },
-          { "id": "d", "texte": "In un tradizionale forno a legna", "correcte": true }
-        ]
-      },
-      {
-        "id": "q-it-read-a2-093-05",
-        "question": "Cosa condividono i mercanti con i clienti di passaggio?",
-        "reponses": [
-        { "id": "a", "texte": "Piccole monete per le borse della spesa", "correcte": false },
+      "La domenica mattina presto ho avuto il grande piacere di accompagnare mio nonno a fare una bellissima visita al mercato locale del piccolo villaggio caratteristico.",
+      "La piazza centrale del paese era interamente piena di banchi colorati e vivaci, gestiti da agricoltori che vendevano deliziosi prodotti gastronomici regionali e freschi.",
+      "Durante la nostra camminata tra la folla, abbiamo deciso di comprare un pezzo di formaggio di capra biologico e un grande pane profumato cotto nel tradizionale forno a legna.",
+      "I simpatici mercanti chiacchieravano allegramente con tutti gli abitanti storici, condividendo con gioia preziosi consigli di cucina e antiche ricette tradizionali della nonna.",
+"Questo momento di condivisione e socializzazione all'aria aperta è un'ottima abitudine domenicale per iniziare la giornata con il piede giusto e con molta allegria nel cuore.",
+"Mio nonno conosce quasi tutti i venditori del mercato rionale, poiché vive in questo accogliente villaggio rurale fin dai tempi della sua prima giovinezza d'infanzia.",
+"Abbiamo anche selezionato alcune verdure biologiche e dei pomodori rossi maturi da utilizzare più tardi per la preparazione del nostro pranzo di famiglia in cucina.",
+"Mantenere vivi questi piccoli mercati locali è fondamentale per sostenere l'economia degli artigiani della regione e consumare alimenti sani e privi di prodotti chimici dannosi.",
+"Dopo aver salutato calorosamente gli ultimi commercianti all'angolo della piazza, siamo tornati a casa portando con cura le nostre borse piene di cibo genuino ed eccellente."
+],
+"audios": [
+{ "id": "audio-it-read-a2-093-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-093-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-093-01",
+"question": "Quando si reca al mercato del villaggio il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Nel tardo pomeriggio di sabato", "correcte": false },
+{ "id": "b", "texte": "Al mattino presto del mercoledì", "correcte": false },
+{ "id": "c", "texte": "In ogni giorno feriale all'ora di pranzo", "correcte": false },
+{ "id": "d", "texte": "La domenica mattina", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-093-02",
+"question": "Chi accompagna il protagonista sulla piazza del mercato?",
+"reponses": [
+{ "id": "a", "texte": "Sua sorella maggiore Emily", "correcte": false },
+{ "id": "b", "texte": "I suoi compagni di sport della scuola", "correcte": false },
+{ "id": "c", "texte": "Si reca al mercato completamente da solo", "correcte": false },
+{ "id": "d", "texte": "Il suo caro nonno", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-093-03",
+"question": "Quali alimenti comprano insieme ai banchi?",
+"reponses": [
+{ "id": "a", "texte": "Mele verdi e banane gialle", "correcte": false },
+{ "id": "b", "texte": "Pezzi di pollo arrosto nel forno", "correcte": false },
+{ "id": "c", "texte": "Una quiche salata francese", "correcte": false },
+{ "id": "d", "texte": "Formaggio di capra e un pane", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-093-04",
+"question": "Come è stato cotto dall'artigiano il pane acquistato?",
+"reponses": [
+{ "id": "a", "texte": "In una moderna fabbrica industriale", "correcte": false },
+{ "id": "b", "texte": "In un forno elettrico domestico", "correcte": false },
+{ "id": "c", "texte": "Il testo non contiene informazioni sulla cottura", "correcte": false },
+{ "id": "d", "texte": "In un tradizionale forno a legna", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-093-05",
+"question": "Cosa condividono i mercanti con i clienti di passaggio?",
+"reponses": [
+{ "id": "a", "texte": "Piccole monete per le borse della spesa", "correcte": false },
 { "id": "b", "texte": "Vecchi libri storici della regione", "correcte": false },
 { "id": "c", "texte": "Piccole bottiglie di sciroppo d'acero canadese", "correcte": false },
 { "id": "d", "texte": "Buone ricette di cucina tradizionali", "correcte": true }
@@ -6528,11 +6548,15 @@
 "titre": "Perdere il portafoglio in città",
 "titre2": "Esercizio 094",
 "texte": [
-"Ieri pomeriggio ho vissuto una situazione molto stressante durante la mia spesa settimanale al centro commerciale.",
-"Quando sono arrivato alla cassa della libreria per pagare un romanzo, mi sono accorto che il mio portafoglio era sparito.",
-"Conteneva il mio tesserino scolastico per l'autobus, una piccola somma in contanti e i miei documenti d'identità.",
-"Fortunatamente una signora onesta lo ha trovato per terra e lo ha portato al banco informazioni.",
-"Ho provato un enorme sollievo quando ho riavuto tutti i miei oggetti personali completamente intatti."
+"Ieri pomeriggio ho vissuto un momento di forte panico e una situazione estremamente stressante durante la mia solita spesa settimanale all'interno del grande centro commerciale della periferia.",
+"Quando sono finalmente arrivato alla cassa principale della libreria per pagare un romanzo d'avventura, mi sono accorto con immenso stupore che il mio portafoglio di pelle marrone era completamente sparito.",
+"L'oggetto smarrito conteneva documenti di valore insostituibile: il mio tesserino scolastico annuale per prendere l'autobus numero dodici, una piccola somma di denaro in contanti e la carta d'identità personale.",
+"Ero davvero disperato e spaventato, ma fortunatamente una signora anziana e molto onesta lo aveva appena trovato per terra vicino al reparto calzature e lo ha portato subito al banco informazioni centrale.",
+"Ho provato un sollievo immenso e una gioia indescrivibile quando l'impiegata del servizio clienti mi ha riconsegnato tutti i miei importanti oggetti personali del tutto intatti e senza alcuna mancanza.",
+"Ho ringraziato calorosamente la gentile signora per il suo bellissimo e nobile gesto di civiltà, che mi ha evitato molti problemi burocratici complessi con la polizia.",
+"Questo piccolo infortunio urbano mi servirà sicuramente da lezione per il futuro, insegnandomi a essere molto più attento e vigile quando cammino nei luoghi affollati della città.",
+"Tornato a casa la sera, ho raccontato tutta l'incredibile storia ai miei genitori seduti in salotto, i quali si sono congratulati per l'onestà rara della signora del quartiere.",
+"Trovare persone così perbene nel mondo moderno è un grande dono che scalda il cuore e ci fa guardare alla società con rinnovata fiducia ed energia positiva."
 ],
 "audios": [
 { "id": "audio-it-read-a2-094-1", "url": "soundcloud.com" },
@@ -6593,14 +6617,18 @@
 },
 {
 "id": "095",
-"titre": "Spedire una letter a un amico",
+"titre": "Spedire una lettera a un amico",
 "titre2": "Esercizio 095",
 "texte": [
-"Oggi decido di scrivere una lunga lettera scritta a mano al mio amico di penna canadese Leo.",
-"Su un bel foglio di carta bianca gli racconto delle mie ultime vacanze e della mia routine scolastica.",
-"Metto il foglio piegato in una busta pulita e scrivo il suo indirizzo completo con l'inchiostro nero.",
-"Poi vado all'ufficio postale locale per comprare un francobollo per la posta internazionale.",
-"Imbuco la busta nella grande cassetta delle lettere gialla appesa al muro sulla strada principale."
+"Oggi pomeriggio ho deciso di dedicare il mio tempo libero a scrivere una lunga lettera scritta interamente a mano, indirizzata al mio caro amico di penna canadese di nome Leo, che vive a Montreal.",
+"Seduto alla mia scrivania ordinata, ho preso un bel foglio di carta bianca per raccontargli dettagliatamente delle mie ultime vacanze estive passate al mare e della mia normale routine scolastica quotidiana.",
+"Dopo aver terminato la scrittura, ho inserito con cura il foglio piegato dentro una busta pulita e ho scritto il suo indirizzo completo internazionale sulla parte anteriore utilizzando l'inchiostro nero.",
+"Successivamente mi sono recato a piedi presso l'ufficio postale locale situato alla fine del viale del nostro quartiere, con l'intenzione di acquistare un francobollo idoneo per la posta aerea internazionale.",
+"L'impiegato allo sportello è stato molto rapido e gentile, mi ha consegnato il francobollo colorato che ho subito incollato con precisione nell'angolo in alto a destra della busta.",
+"Infine ho camminato sul marciapiede fino alla strada principale per imbucare la mia busta all'interno della grande cassetta delle lettere gialla pubblica che si trova appesa alla parete dell'edificio d'angolo.",
+"Trovo che inviare lettere tradizionali di carta sia un'abitudine meravigliosa e affascinante, che permette di mantenere un legame forte, onesto e sincero con gli amici che vivono all'estero.",
+"Leo fa la stessa cosa ogni mese e io aspetto sempre con ansia e trepidazione l'arrivo del postino davanti alla nostra porta principale di casa con i suoi messaggi scritti.",
+"La comunicazione scritta richiede pazienza e tempo, ma possiede un valore sentimentale autentico che i moderni messaggi digitali dei telefoni cellulari non potranno mai sostituire nel tempo."
 ],
 "audios": [
 { "id": "audio-it-read-a2-095-1", "url": "soundcloud.com" },
@@ -6609,7 +6637,7 @@
 "questions": [
 {
 "id": "q-it-read-a2-095-01",
-"question": "A chi scrive una lettera scritta a mano il protagonista?",
+"question": "An wen schreibt der Erzähler einen handschriftlichen Brief?",
 "reponses": [
 { "id": "a", "texte": "Al suo caro zio che vive a Liverpool", "correcte": false },
 { "id": "b", "texte": "Al suo insegnante di storia della scuola", "correcte": false },
@@ -6623,13 +6651,13 @@
 "reponses": [
 { "id": "a", "texte": "I passaggi per preparare una torta al limone", "correcte": false },
 { "id": "b", "texte": "Le antiche storie della civiltà egizia", "correcte": false },
-{ "id": "c", "texte": "Il programma per riordinare la sua stanza", "correcte": false },
+{ "id": "c", "texte": "Il plan per lo riordinare della sua stanza", "correcte": false },
 { "id": "d", "texte": "Le sue ultime vacanze e la routine scolastica", "correcte": true }
 ]
 },
 {
 "id": "q-it-read-a2-095-03",
-"question": "Dove si reca il protagonista per comprare un francobollo?",
+"question": "Where does the character go to buy a stamp?",
 "reponses": [
 { "id": "a", "texte": "In un grande negozio di cartoleria in periferia", "correcte": false },
 { "id": "b", "texte": "Alla cassa principale del supermercato", "correcte": false },
@@ -6664,11 +6692,15 @@
 "titre": "Prenotare una camera d'albergo",
 "titre2": "Esercizio 096",
 "texte": [
-"Per preparare il nostro prossimo viaggio del fine settimana in Normandia, prenoto una camera d'albergo online.",
-"Cerco un alloggio tranquillo, che non sia molto costoso e che si trovi vicino alla stazione ferroviaria.",
-"Sul sito web scelgo una camera doppia, dotata di un grande letto comodo.",
-"Il prezzo totale include il buffet della colazione mattutina e una connessione Wi-Fi gratuita.",
-"Ricevo immediatamente un'e-mail di conferma con il nostro numero ufficiale di prenotazione."
+"Al fine di preparare al meglio il nostro prossimo viaggio di famiglia del fine settimana nella splendida regione della Normandia, ho aperto il mio computer portatile per prenotare una camera d'albergo online sul sito specializzato.",
+"Cercavo con molta pazienza una struttura alberghiera posizionata in una zona tranquilla, che non fosse troppo costosa dal punto di vista finanziario e che si trovasse situata nelle immediate vicinanze della stazione ferroviaria centrale.",
+"Sulla pagina web ufficiale dell'hotel ho selezionato una comoda camera doppia spaziosa, interamente arredata in stile scandinavo e dotata di un grande letto matrimoniale e di un bagno moderno privato con vasca bianca pulita.",
+"Il prezzo totale visualizzato sullo schermo includeva vantaggiosamente l'accesso quotidiano al ricco buffet della colazione mattutina e una connessione internet Wi-Fi ad alta velocità completamente gratuita per gli ospiti della struttura.",
+"Dopo aver inserito tutti i dati d'identità personali con precisione, ho completato la transazione digitale e ho ricevuto immediatamente una comoda e-mail di conferma contenente il nostro codice ufficiale di prenotazione stampabile.",
+"I miei genitori sono rimasti molto soddisfatti della mia scelta logistica accurata, poiché questo albergo possiede eccellenti recensioni positive scritte dagli altri viaggiatori sui social network della rete internet.",
+"Organizzare i dettagli di un viaggio in anticipo è un'ottima abitudine gestionale che permette di evitare brutte sorprese all'arrivo e di viaggiare in treno con totale tranquillità e serenità mentale.",
+"Non vedo l'ora di partire venerdì pomeriggio dopo la scuola per esplorare le storiche scogliere costiere della Normandia, visitare i piccoli villaggi medievali di pietra e scattare tantissimi selfie di gruppo ricordo.",
+"Viaggiare all'estero apre la mente a nuove culture tradizionali, arricchisce le nostre esperienze di vita personali e ci permette di riposare totalmente e recuperare le energie necessarie."
 ],
 "audios": [
 { "id": "audio-it-read-a2-096-1", "url": "soundcloud.com" },
@@ -6732,11 +6764,15 @@
 "titre": "Una giornata al centro commerciale",
 "titre2": "Esercizio 097",
 "texte": [
-"Il sabato pomeriggio piove molto forte, perciò vado con Emily nel grande centro commerciale.",
-"È un enorme edificio moderno che ospita decine di negozi e ristoranti diversi.",
-"Iniziamo visitando una grande libreria per comprare un romanzo giallo ricco di colpi di scena misteriosi.",
-"Successivamente facciamo una pausa rilassante in un piccolo caffè accogliente per gustare una dolce crepe alle fragole fresche.",
-"Questo luogo caldo è perfetto per divertirsi, fare acquisti e passare del tempo al chiuso con gli amici."
+"Il sabato pomeriggio il tempo all'esterno era pessimo e pioveva molto forte con tuoni rumorosi, perciò ho deciso di andare insieme a mia sorella maggiore Emily nel grande centro commerciale della città.",
+"Questo immenso e moderno edificio commerciale al coperto rappresenta una vera salvezza nei giorni di pioggia intensa, poiché ospita al suo interno decine di negozi di abbigliamento, grandi librerie e ristoranti di ogni tipo.",
+"Abbiamo iniziato la nostra giornata visitando una bellissima e fornitissima libreria situata al primo piano dell'edificio, con l'intenzione di acquistare un nuovo romanzo giallo ricco di misteri e colpi di scena mozzafiato.",
+"Successivamente, dopo aver fatto acquisti, abbiamo deciso di concederci una pausa rilassante e piacevole sedendoci sulla terrazza interna di un grazioso caffè accogliente per gustare una dolce crepe calda farcita con fragole fresche e panna.",
+"Mentre mangiavamo la nostra merenda golosa, abbiamo chiacchierato allegramente dei nostri esami scolastici imminenti alla scuola e dei programmi futuri per le prossime vacanze estive da passare al mare con la famiglia.",
+"Questo grande centro commerciale è sempre molto frequentato e animato nel fine settimana, pieno di giovani studenti della mia classe e di famiglie che passeggiano tranquillamente lungo i corridoi luminosi.",
+"Trovo che passare del tempo in questo luogo caldo e riparato sia un modo perfetto per divertirsi in compagnia degli amici, fare shopping utile e rilassare la mente lontano dai computer.",
+"Prima di tornare a casa prendendo l'autobus numero dodici, abbiamo fatto una rapida sosta in un negozio di cartoleria per comprare quaderni nuovi e matite colorate per le lezioni.",
+"Anche se preferisco di gran lunga camminare nei parchi verdi all'aria aperta sotto il sole, questa giornata al chiuso in centro città è stata davvero fantastica e divertente per noi."
 ],
 "audios": [
 { "id": "audio-it-read-a2-097-1", "url": "soundcloud.com" },
@@ -6800,11 +6836,15 @@
 "titre": "Organizzare una festa di compleanno",
 "titre2": "Esercizio 098",
 "texte": [
-"La prossima settimana mio fratello minore Lucas festeggerà il suo undicesimo compleanno a casa nostra.",
-"Per farlo felice, organizziamo una grande festa con tutti i suoi compagni di scuola.",
-"Mia madre si occupa di scrivere e spedire i biglietti d'invito ai genitori degli alunni.",
-"Io, invece, preparo una lista con giochi divertenti come il nascondino e gli enigmi.",
-"Mio padre preparerà la sua famosa torta al cioccolato per la merenda del pomeriggio."
+"La prossima settimana la nostra casa di famiglia ospiterà un evento molto importante e festoso: mio fratello minore Lucas festeggerà ufficialmente il suo undicesimo compleanno.",
+"Per renderlo immensamente felice e regalargli un ricordo d'infanzia stupendo, abbiamo deciso di organizzare una grande festa a sorpresa invitando tutti i suoi cari compagni di classe della scuola primaria.",
+"Tutti i membri della famiglia partecipano attivamente ai preparativi logistici fin da ora: mia madre si occupa con cura di scrivere a mano e spedire i biglietti d'invito colorati ai genitori dei vari alunni.",
+"Io, invece, sono responsabile dell'intrattenimento e ho preparato una checkliste scritta con giochi divertenti di movimento e di intelligenza da fare all'aria aperta, come il nascondino dietro gli alberi e la risoluzione di complessi enigmi storici.",
+"Mio padre, che ama moltissimo l'arte culinaria della pasticceria tradizionale, passerà l'intera mattinata di sabato in cucina per cuocere nel forno caldo la sua famosa e deliziosa torta al cioccolato.",
+"Questo dolce speciale e morbido rappresenta da anni il momento centrale e più atteso di tutte le nostre merende e feste di compleanno in famiglia.",
+"Dovremo anche decorare accuratamente l'alto soffitto del soggiorno con bellissimi palloncini blu e appendere grandi ghirlande luminose e lucide alle pareti bianche.",
+"Lucas non sospetta assolutamente nulla di questo grande piano segreto, poiché crede che passeremo un normale sabato pomeriggio a pulire la stanza o a fare i compiti di matematica.",
+"Penso sinceramente che vedere la sua faccia stupita ed emozionata quando tutti i suoi amici grideranno contemporaneamente 'Sorpresa!' sarà la ricompensa migliore per tutto il nostro duro lavoro di squadra."
 ],
 "audios": [
 { "id": "audio-it-read-a2-098-1", "url": "soundcloud.com" },
@@ -6815,8 +6855,8 @@
 "id": "q-it-read-a2-098-01",
 "question": "Quanti anni compirà il fratellino Lucas la prossima settimana?",
 "reponses": [
-{ "id": "a", "texte": "Otto anni, è ancora molto piccolo", "correcte": false },
-{ "id": "b", "texte": "Quindici anni, entra a scuola superiore", "correcte": false },
+{ "id": "a", "texte": "Atti anni, è ancora molto piccolo", "correcte": false },
+{ "id": "b", "texte": "Fünfzehn anni, entra a scuola superiore", "correcte": false },
 { "id": "c", "texte": "Venti anni, è una data importante", "correcte": false },
 { "id": "d", "texte": "Undici anni", "correcte": true }
 ]
@@ -6868,11 +6908,15 @@
 "titre": "Utilizzare Internet per imparare",
 "titre2": "Esercizio 099",
 "texte": [
-"Al giorno d'oggi Internet è uno strumento informatico straordinario per imparare e fare ricerche.",
-"Ogni sera dopo la scuola uso il mio computer portatile per verificare la definizione delle parole difficili.",
-"Guardo video educativi online che spiegano argomenti di fisica, chimica e storia del mondo.",
-"Esistono anche siti web interattivi gratuiti per esercitarsi con la grammatica inglese e i problemi di matematica.",
-"Questo metodo di studio moderno mi permette di fare rapidi progressi e di prepararmi per il mio futuro."
+"Al giorno d'oggi, la rete internet rappresenta uno strumento informatico e tecnologico assolutamente straordinario ed essenziale per supportare lo studio quotidiano e svolgere approfondite ricerche culturali.",
+"Ogni singola sera, subito dopo il termine ufficiale delle lezioni a scuola, apro il mio computer portatile sulla scrivania per verificare la definizione esatta dei vocaboli più difficili e complessi incontrati nei testi.",
+"Guardo con molta attenzione utili video educativi e tutorial interattivi online che spiegano in modo semplice e chiaro argomenti scientifici di fisica molecolare, chimica dei materiali e capitoli importanti di storia del mondo antico.",
+"Esistono inoltre moltissimi siti web didattici gratuiti strutturati appositamente per esercitarsi in modo divertente con le regole della grammatica inglese, i verbi irregolari e la risoluzione di complessi problemi di matematica e geometria.",
+"Questo metodo di apprendimento moderno ed ecologico mi permette di fare rapidi e costanti progressi scolastici, migliorando i miei voti sui quaderni e preparandomi al meglio per affrontare gli esami futuri.",
+"I miei genitori approvano totalmente l'uso responsabile del laptop per scopi educativi, a patto che io spenga tutti gli schermi elettronici un'ora intera prima di andare a dormire a letto per riposare bene il cervello.",
+"Internet apre le porte a un'enorme enciclopedia digitale accessibile a chiunque in qualsiasi momento della giornata, eliminando le distanze geografiche e collegando studenti provenienti da diversi paesi del mondo.",
+"Tuttavia, è fondamentale saper selezionare con cura le fonti delle informazioni sulla rete per evitare notizie false ed errori concettuali nei nostri temi scritti in classe.",
+"Utilizzare la tecnologia moderna per nutrire la mente e stimolare la curiosità intellettuale personale è un'opportunità preziosa che la nostra generazione d'infanzia deve sfruttare al massimo ogni giorno."
 ],
 "audios": [
 { "id": "audio-it-read-a2-099-1", "url": "soundcloud.com" },
@@ -6881,7 +6925,7 @@
 "questions": [
 {
 "id": "q-it-read-a2-099-01",
-"question": "Come viene descritto Internet all'inizio del testo?",
+"question": "Wie wird das Internet ganz zu Beginn des Textes beschrieben?",
 "reponses": [
 { "id": "a", "texte": "Come una pura perdita di tempo per i bambini piccoli", "correcte": false },
 { "id": "b", "texte": "Come una scelta tecnologica che costa troppo", "correcte": false },
@@ -6921,7 +6965,7 @@
 },
 {
 "id": "q-it-read-a2-099-05",
-"question": "Qual è il vantaggio principale di questo metodo educativo moderno?",
+"question": "What is the main benefit of this modern educational method?",
 "reponses": [
 { "id": "a", "texte": "Dormire più ore senza fare alcuno sforzo", "correcte": false },
 { "id": "b", "texte": "Fare rapidi progressi e prepararsi al futuro", "correcte": true },
@@ -6936,11 +6980,15 @@
 "titre": "Una bellissima sorpresa per il mio compleanno",
 "titre2": "Esercizio 100",
 "texte": [
-"Sabato scorso, proprio il giorno del mio compleanno, i miei genitori hanno preparato una sorpresa straordinaria in salotto.",
-"Quando sono tornato a casa dal mio allenamento settimanale di calcio, tutte le luci della stanza erano spente.",
-"All'improvviso il mio migliore amico Jack e tutta la mia famiglia hanno gridato nello stesso momento "Sorpresa!".",
-"Avevano decorato l'alto soffitto con bellissimi palloncini blu e ghirlande lucide e luminose.",
-"Il momento in assoluto migliore è stato l'apertura del mio grande regalo: una splendida chitarra acustica nuova di zecca."
+"Sabato scorso, proprio in coincidenza esatta con il giorno del mio compleanno, i miei eccezionali genitori hanno preparato in totale segreto una sorpresa straordinaria e indimenticabile all'interno del salotto della nostra bella casa di famiglia.",
+"Quando sono finalmente tornato a casa nel tardo pomeriggio, stanco morto dopo il mio duro allenamento settimanale di calcio sul campo d'erba, ho notato con immenso stupore che tutte le luci della stanza principale erano completamente spente.",
+"Pensavo che non ci fosse nessuno nell'appartamento, ma all'improvviso, non appena ho premuto l'interruttore della parete bianca, il mio migliore amico di scuola Jack e tutta la mia amata famiglia unita hanno gridato nello stesso momento la parola 'Sorpresa!'.",
+"I miei genitori avevano decorato magnificamente l'alto soffitto della stanza appendendo centinaia di bellissimi palloncini blu e posizionando lunghe ghirlande colorate lucide e luminose che creavano un'atmosfera magica e festosa all'interno della zona giorno.",
+"Tutti i miei zii, le zie e i cugini erano riuniti intorno a un grande tavolo di legno ricoperto di dolci fatti in casa, panini morbidi con il prosciutto, bicchieri di succo d'arancia fresco e la famosa torta al cioccolato fuso cotta da mio padre.",
+"Abbiamo passato ore meravigliose a ridere ad alta voce, ascoltare buona musica rock di sottofondo e scattare tantissimi selfie di gruppo ricordo per immortalare questo momento perfetto di pura felicità familiare.",
+"Tuttavia, il momento in assoluto più emozionante e indimenticabile dell'intera serata è stato l'apertura del mio grande pacco regalo posizionato con cura sopra il mobile del soggiorno.",
+"Quando ho strappato la carta lucida con mani tremanti, ho scoperto con enorme commozione il suo contenuto straordinario: una splendida chitarra acustica di legno chiaro nuova di zecca, lo strumento musicale dei miei sogni che desideravo ricevere da tantissimi mesi di studio.",
+"Questa bellissima festa a sorpresa rimarrà per sempre impressa nei miei ricordi d'infanzia come la dimostrazione d'amore più grande e un regalo prezioso che ha aumentato tantissimo la fiducia in me stesso e la mia felicità personale."
 ],
 "audios": [
 { "id": "audio-it-read-a2-100-1", "url": "soundcloud.com" },
@@ -6949,7 +6997,7 @@
 "questions": [
 {
 "id": "q-it-read-a2-100-01",
-"question": "Quando si è svolta la straordinaria festa di compleanno a sorpresa?",
+"question": "Wann fand die außergewöhnliche Überraschungsparty zum Geburtstag statt?",
 "reponses": [
 { "id": "a", "texte": "Il mercoledì pomeriggio nella mensa scolastica", "correcte": false },
 { "id": "b", "texte": "Nelle brevi vacanze invernali passate al villaggio", "correcte": false },
