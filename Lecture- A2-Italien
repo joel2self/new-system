@@ -1,278 +1,681 @@
-[
+{
+    "id": "001",
+    "titre": "La mia giornata abituale",
+    "titre2": "Esercizio 001",
+    "texte": [
+      "Ogni giorno della settimana mi sveglio alle sette del mattino per prepararmi per la scuola.",
+      "Faccio una doccia veloce e indosso dei vestiti comodi per la giornata.",
+      "Poi scendo in cucina per bere una tazza di tè e leggere un libro tranquillo.",
+      "Esco di casa alle otto per prendere l'autobus che va verso il centro della città.",
+      "La sera, dopo una lunga giornata di lezioni, torno a casa stanco ma felice."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-001-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-001-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-001-01",
+        "question": "A che ora si sveglia il protagonista la mattina?",
+        "reponses": [
+          { "id": "a", "texte": "Alle sei", "correcte": false },
+          { "id": "b", "texte": "Alle otto", "correcte": false },
+          { "id": "c", "texte": "Alle sette", "correcte": true },
+          { "id": "d", "texte": "Alle nove", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-001-02",
+        "question": "Quali vestiti indossa per la giornata?",
+        "reponses": [
+          { "id": "a", "texte": "Vestiti comodi", "correcte": true },
+          { "id": "b", "texte": "Un abito elegante", "correcte": false },
+          { "id": "c", "texte": "Tuta sportiva", "correcte": false },
+          { "id": "d", "texte": "Un cappotto nero", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-001-03",
+        "question": "Cosa beve il protagonista in cucina?",
+        "reponses": [
+          { "id": "a", "texte": "Un bicchiere di latte", "correcte": false },
+          { "id": "b", "texte": "Una tazza di caffè", "correcte": false },
+          { "id": "c", "texte": "Un succo freddo", "correcte": false },
+          { "id": "d", "texte": "Una tazza di tè", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-001-04",
+        "question": "Come va il protagonista in centro città?",
+        "reponses": [
+          { "id": "a", "texte": "In macchina", "correcte": false },
+          { "id": "b", "texte": "In autobus", "correcte": true },
+          { "id": "c", "texte": "In bicicletta", "correcte": false },
+          { "id": "d", "texte": "In treno", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-001-05",
+        "question": "Come si sente il protagonista la sera quando torna a casa?",
+        "reponses": [
+          { "id": "a", "texte": "Stanco ma felice", "correcte": true },
+          { "id": "b", "texte": "Arrabbiato e stressato", "correcte": false },
+          { "id": "c", "texte": "Triste e solo", "correcte": false },
+          { "id": "d", "texte": "Pieno di energia", "correcte": false }
+        ]
+      }
+    ]
+  },
   {
-  "exercises": [
-    {
-      "title": "Routine Quotidienne dans un Village de Montagne",
-      "slug": "routine-village-montagne",
-      "content": "Même si la plupart des gens ne le réalisent pas, chaque journée suit une routine, ou un ensemble établi de procédures et de pratiques générales. Les routines rendent les horaires quotidiens plus faciles à gérer, permettent de libérer du temps supplémentaire et assurent que les individus accomplissent autant de leurs tâches et objectifs que possible.\nJetons un coup d'œil à une routine typique dans un village de montagne!\nLe réveil sonne, et Émilie se lève en bâillant de son lit. Elle n'a pas beaucoup dormi la nuit précédente, il lui faut donc quelques minutes pour se lever et se préparer à commencer la journée.\nÉmilie entre dans la salle de bain et se lave le visage dans le lavabo, utilisant du savon et de l'eau chaude pour le faire. Elle se regarde dans le miroir et se sèche le visage avec une serviette. Ensuite, elle prend une douche et se nettoie.\nSous la douche, Émilie applique du shampoing sur ses cheveux et du savon sur le reste de son corps, avant de rincer et de sortir. Elle se sèche avec une plus grande serviette et s'habille avec ses vêtements. Enfin, elle se brosse les cheveux et sort.\nEnsuite, Émilie prend son petit déjeuner, comprenant du pain frais et du fromage local. Elle retourne ensuite dans la salle de bain pour se brosser les dents. Avant de quitter sa maison, Émilie fait son lit et vérifie que le feu de bois est bien éteint. Elle se rend à l'école à pied, un petit bâtiment en bois situé au cœur du village.\nÀ l'école, Émilie assiste aux cours, déjeune avec ses camarades de classe et socialise avec eux. Ensuite, elle rentre chez elle en fin d'après-midi.\nChez elle, Émilie termine ses devoirs et les place dans son sac à dos pour le lendemain. Une fois ses devoirs terminés, Émilie joue avec ses frères et sœurs dans les champs voisins avant de rentrer pour le dîner.\nÉmilie dîne avec sa famille, partageant un repas de soupe chaude et de pain frais. Pour clore cette journée bien remplie, Émilie se brosse les dents et se met au lit, prête à commencer une nouvelle journée dans les montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850964873-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1",
-        "https://feeds.soundcloud.com/stream/1850965542-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1h"
-      ],
-      "localStorage": "score_routine-village-montagne",
-      "questions": [
-        {
-          "question": "Quelle est la première activité quotidienne d'Émilie décrite dans le texte ?",
-          "choices": [
-            "Prendre son petit déjeuner",
-            "Se laver le visage",
-            "Allumer le feu de bois",
-            "Faire son lit"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie après s'être lavé le visage dans la salle de bain ?",
-          "choices": [
-            "Elle prend une douche",
-            "Elle s'habille",
-            "Elle se brosse les cheveux",
-            "Elle se brosse les dents"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quel aliment compose le petit déjeuner d'Émilie ?",
-          "choices": [
-            "Des œufs brouillés",
-            "Du pain frais et du fromage local",
-            "Des céréales avec du lait",
-            "Des fruits et du yaourt"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Où se rend Émilie après avoir pris son petit déjeuner ?",
-          "choices": [
-            "À l'école",
-            "Au travail",
-            "Chez sa grand-mère",
-            "Au marché"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Comment se rend Émilie à l'école ?",
-          "choices": [
-            "En voiture",
-            "En bus scolaire",
-            "À pied",
-            "À vélo"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'activité d'Émilie après l'école ?",
-          "choices": [
-            "Elle fait ses devoirs",
-            "Elle joue avec ses frères et sœurs",
-            "Elle va chez le voisin",
-            "Elle prend une douche"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le repas du soir d'Émilie avec sa famille ?",
-          "choices": [
-            "Des pâtes avec de la sauce tomate",
-            "De la soupe chaude et du pain frais",
-            "Des pizzas maison",
-            "Des légumes grillés avec du riz"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie juste avant de se coucher ?",
-          "choices": [
-            "Elle lit un livre",
-            "Elle regarde la télévision",
-            "Elle se brosse les dents",
-            "Elle écrit dans son journal intime"
-          ],
-          "answer": "c"
-        }
-      ]
-    },
-    {
-      "title": "Observation des Baleines Bleues dans l'Océan Indien",
-      "slug": "observation-baleines-ocean-indien",
-      "content": "Avez-vous déjà rêvé d'observer une baleine de près? Les baleines bleues sont les plus grands mammifères de la planète, pesant jusqu'à 200 tonnes. Elles peuvent atteindre jusqu'à 88 pieds de long, soit plus grand qu'un avion de ligne! Leurs migrations sont parmi les plus fascinantes au monde, avec les baleines bleues parcourant de nombreuses miles pour se nourrir et mettre bas. Les petits de baleines, appelés veaux, naissent au large des côtes de l'île Maurice, puis ensemble, ils parcourent plus de 10 000 kilomètres jusqu'aux eaux riches en krill de l'océan Antarctique. Le voyage dure de 4 à 5 mois et traverse l'océan Indien, avec des arrêts pour se reposer dans les eaux chaudes des Maldives. Vous pouvez observer ces baleines majestueuses le long des côtes de Madagascar et de l'Afrique du Sud, où elles viennent parfois près des rivages lors de leurs migrations saisonnières. Assurez-vous de garder un œil sur l'eau pour repérer les jets d'eau caractéristiques, annonçant l'émergence imminente de ces créatures géantes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850961696-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1",
-        "https://feeds.soundcloud.com/stream/1850963328-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1h"
-      ],
-      "localStorage": "score_observation-baleines-ocean-indien",
-      "questions": [
-        {
-          "question": "Quel est le sujet principal du texte ?",
-          "choices": [
-            "Les oiseaux migrateurs",
-            "Les baleines bleues dans l'océan Indien",
-            "Les baleines grises dans le Pacifique",
-            "Les requins dans l'Atlantique"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la caractéristique principale des baleines bleues ?",
-          "choices": [
-            "Leur taille immense",
-            "Leur vitesse de nage",
-            "Leur couleur bleue vive",
-            "Leur migration annuelle"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Où naissent les petits de baleines, selon le texte ?",
-          "choices": [
-            "Au large des côtes de l'île Maurice",
-            "Dans les eaux riches en krill de l'océan Antarctique",
-            "Dans les eaux chaudes des Maldives",
-            "Dans les eaux froides du Groenland"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelle est la durée approximative du voyage des baleines bleues depuis leur naissance jusqu'aux eaux de l'océan Antarctique ?",
-          "choices": [
-            "1 à 2 semaines",
-            "1 à 2 mois",
-            "4 à 5 mois",
-            "1 à 2 ans"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Où peut-on observer les baleines bleues le long de leurs migrations saisonnières ?",
-          "choices": [
-            "Les côtes du Brésil",
-            "Les côtes de l'Afrique du Sud et de Madagascar",
-            "Les côtes de l'Australie",
-            "Les côtes de la Californie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le comportement caractéristique des baleines bleues lorsqu'elles émergent de l'eau ?",
-          "choices": [
-            "Elles bondissent hors de l'eau.",
-            "Elles crachent de l'eau par leur évent.",
-            "Elles nagent en formation serrée.",
-            "Elles nagent rapidement vers la côte."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'intérêt de garder un œil sur l'eau lors de l'observation des baleines bleues ?",
-          "choices": [
-            "Pour éviter les collisions avec d'autres bateaux.",
-            "Pour repérer les jets d'eau annonçant leur émergence.",
-            "Pour observer les nageoires dorsales des baleines.",
-            "Pour surveiller les mouvements des poissons."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme qualifie le mieux les baleines bleues dans le texte ?",
-          "choices": [
-            "Gigantesques",
-            "Agiles",
-            "Timides",
-            "Chantantes"
-          ],
-          "answer": "a"
-        }
-      ]
-    },
-    {
-      "title": "Parc National de l'Himalaya",
-      "slug": "parc-national-himalaya",
-      "content": "Le plus grand parc national d'Asie, le parc national de l'Himalaya, s'étend sur 5 000 kilomètres carrés et s'étire à travers les contreforts de l'Himalaya en Inde, au Népal et au Bhoutan. Cela rend ce parc plus grand que plusieurs petits pays combinés. Il abrite une biodiversité incroyable avec plus de 500 espèces de plantes endémiques et plus de 100 espèces d'animaux, y compris le majestueux léopard des neiges et le rare panda rouge. De plus, le parc regorge de sanctuaires d'oiseaux qui attirent les ornithologues du monde entier. Dans ses vastes terres, le parc de l'Himalaya présente près de 200 lacs, 400 kilomètres de sentiers de randonnée et des cascades spectaculaires alimentées par les rivières de fonte des glaciers. En outre, le parc dispose de centres de recherche dédiés à l'étude de la biodiversité himalayenne et à la conservation des espèces menacées telles que le tigre du Bengale et le rhinocéros indien. Le parc repose sur une activité tectonique élevée en raison de sa situation près de la ceinture de feu de l'Himalaya, ce qui entraîne des séismes fréquents mais offre également des sources chaudes thermales appréciées des visiteurs. Des équipes de surveillance veillent à la sécurité des visiteurs et à la préservation de l'écosystème fragile du parc. Le parc national de l'Himalaya est un trésor naturel à découvrir pour quiconque cherche à explorer les merveilles de cette majestueuse chaîne de montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850957421-perinemagne-parc-national-de-lhimalaya-c1"
-      ],
-      "localStorage": "score_parc-national-himalaya",
-      "questions": [
-        {
-          "question": "Où se situe le parc national de l'Himalaya ?",
-          "choices": [
-            "En Chine",
-            "En Inde, au Népal et au Bhoutan",
-            "Au Japon",
-            "En Russie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la superficie approximative du parc national de l'Himalaya ?",
-          "choices": [
-            "500 kilomètres carrés",
-            "5 000 kilomètres carrés",
-            "50 000 kilomètres carrés",
-            "500 000 kilomètres carrés"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Combien d'espèces d'animaux sont présentes dans le parc national de l'Himalaya ?",
-          "choices": [
-            "Moins de 50 espèces",
-            "Environ 100 espèces",
-            "Plus de 100 espèces",
-            "Plus de 500 espèces"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'une des espèces animales emblématiques du parc national de l'Himalaya mentionnée dans le texte ?",
-          "choices": [
-            "Le tigre du Bengale",
-            "Le lion",
-            "Le kangourou",
-            "L'éléphant africain"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelles sont les caractéristiques géographiques du parc de l'Himalaya selon le texte ?",
-          "choices": [
-            "Des montagnes uniquement",
-            "Des lacs, des sentiers de randonnée et des cascades",
-            "Des déserts et des canyons",
-            "Des forêts uniquement"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'impact de l'activité tectonique près du parc national de l'Himalaya ?",
-          "choices": [
-            "Aucun impact",
-            "Des tremblements de terre fréquents et des sources chaudes thermales",
-            "Un climat très stable",
-            "Une faune et une flore très variées"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quels sont les efforts mentionnés dans le texte pour préserver le parc national de l'Himalaya ?",
-          "choices": [
-            "Des programmes de chasse",
-            "Des équipes de surveillance pour la sécurité des visiteurs et la préservation de l'écosystème",
-            "Des activités industrielles",
-            "L'urbanisation du parc"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme décrit le mieux le parc national de l'Himalaya selon le texte ?",
-          "choices": [
-            "Un trésor naturel",
-            "Un désert aride",
-            "Une zone industrielle",
-            "Un terrain vague"
-          ],
-          "answer": "a"
-        }
-      ]
-    
+    "id": "002",
+    "titre": "Svegliarsi e prepararsi al mattino",
+    "titre2": "Esercizio 002",
+    "texte": [
+      "La mia sveglia suona sempre alle sei e mezza, il che è un po' presto per me.",
+      "Spesso resto a letto ancora per cinque minuti prima di alzarmi finalmente.",
+      "In bagno mi lavo il viso con acqua fredda per svegliarmi per bene.",
+      "Mi lavo i denti con cura e mi pettino i capelli corti davanti al grande specchio.",
+      "Quando sono finalmente pronto, preparo lo zaino con tutti i libri importanti."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-002-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-002-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-002-01",
+        "question": "A che ora suona la sveglia del protagonista?",
+        "reponses": [
+          { "id": "a", "texte": "Alle sei", "correcte": false },
+          { "id": "b", "texte": "Alle sette", "correcte": false },
+          { "id": "c", "texte": "Alle sei e mezza", "correcte": true },
+          { "id": "d", "texte": "Alle sette e mezza", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-002-02",
+        "question": "Per quanto tempo il protagonista resta ancora a letto dopo la sveglia?",
+        "reponses": [
+          { "id": "a", "texte": "Dieci minuti", "correcte": false },
+          { "id": "b", "texte": "Cinque minuti", "correcte": true },
+          { "id": "c", "texte": "Una mezz'ora", "correcte": false },
+          { "id": "d", "texte": "Nemmeno un secondo", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-002-03",
+        "question": "Perché si lava il viso con l'acqua fredda?",
+        "reponses": [
+          { "id": "a", "texte": "Per svegliarsi bene", "correcte": true },
+          { "id": "b", "texte": "Perché manca l'acqua calda", "correcte": false },
+          { "id": "c", "texte": "Perché fa bene alla pelle", "correcte": false },
+          { "id": "d", "texte": "Per togliere una macchia", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-002-04",
+        "question": "Dove si pettina i capelli corti?",
+        "reponses": [
+          { "id": "a", "texte": "Nella piccola camera", "correcte": false },
+          { "id": "b", "texte": "Nel lungo corridoio", "correcte": false },
+          { "id": "c", "texte": "In ascensore", "correcte": false },
+          { "id": "d", "texte": "Davanti al grande specchio", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-002-05",
+        "question": "Cosa fa il protagonista quando è finalmente pronto?",
+        "reponses": [
+          { "id": "a", "texte": "Guarda un cartone animato", "correcte": false },
+          { "id": "b", "texte": "Prepara lo zaino con i libri", "correcte": true },
+          { "id": "c", "texte": "Chiama un amico al telefono", "correcte": false },
+          { "id": "d", "texte": "Torna subito a dormire", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "titre": "La mia colazione preferita",
+    "titre2": "Esercizio 003",
+    "texte": [
+      "Al mattino, la colazione è per me il pasto più importante e piacevole di tutti.",
+      "Adoro mangiare due cornetti caldi che compro al forno della mia strada.",
+      "Bevo anche un grande bicchiere di spremuta d'arancia fresca per fare il pieno di vitamine.",
+      "A volte, se ho abbastanza tempo, mangio uno yogurt con piccoli pezzi di frutta.",
+      "Questo momento di calma mi aiuta a iniziare la giornata con molta energia positiva."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-003-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-003-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-003-01",
+        "question": "Quale pasto è il più importante al mattino per il protagonista?",
+        "reponses": [
+          { "id": "a", "texte": "Il pranzo", "correcte": false },
+          { "id": "b", "texte": "La colazione", "correcte": true },
+          { "id": "c", "texte": "La cena", "correcte": false },
+          { "id": "d", "texte": "La merenda", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-003-02",
+        "question": "Dove compra i cornetti freschi?",
+        "reponses": [
+          { "id": "a", "texte": "Al grande supermercato", "correcte": false },
+          { "id": "b", "texte": "Al mercato centrale", "correcte": false },
+          { "id": "c", "texte": "Al forno locale", "correcte": true },
+          { "id": "d", "texte": "A una stazione di servizio", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-003-03",
+        "question": "Cosa beve per assumere vitamine?",
+        "reponses": [
+          { "id": "a", "texte": "Una tazza di tè verde", "correcte": false },
+          { "id": "b", "texte": "Un grande bicchiere di spremuta d'arancia", "correcte": true },
+          { "id": "c", "texte": "Un cacao caldo", "correcte": false },
+          { "id": "d", "texte": "Un'acqua minerale", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-003-04",
+        "question": "Cosa mangia il protagonista se ha abbastanza tempo?",
+        "reponses": [
+          { "id": "a", "texte": "Yogurt con pezzi di frutta", "correcte": true },
+          { "id": "b", "texte": "Uova strapazzate con pancetta", "correcte": false },
+          { "id": "c", "texte": "Pane tostato con marmellata", "correcte": false },
+          { "id": "d", "texte": "Una ciotola di riso", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-003-05",
+        "question": "Qual è il vantaggio di questo momento tranquillo al mattino?",
+        "reponses": [
+          { "id": "a", "texte": "Si può dormire molto più a lungo", "correcte": false },
+          { "id": "b", "texte": "Non bisogna andare a scuola", "correcte": false },
+          { "id": "c", "texte": "Si finiscono i compiti a casa", "correcte": false },
+          { "id": "d", "texte": "Si inizia la giornata con energia positiva", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "titre": "Una giornata intensa",
+    "titre2": "Esercizio 004",
+    "texte": [
+      "Oggi ho un'agenda molto piena con molti compiti importanti da svolgere.",
+      "Inizio subito a lavorare su un progetto difficile insieme ai miei colleghi d'ufficio.",
+      "A pranzo mangiamo velocemente in un piccolo ristorante italiano proprio qui accanto.",
+      "Nel pomeriggio devo rispondere a molte e-mail e fare telefonate urgenti.",
+      "Anche se la giornata è faticosa, mi piace rimanere attivo e completare i miei doveri."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-004-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-004-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-004-01",
+        "question": "Com'è l'agenda del protagonista oggi?",
+        "reponses": [
+        { "id": "a", "texte": "Molto tranquilla", "correcte": false },
+{ "id": "b", "texte": "Noiosa", "correcte": false },
+{ "id": "c", "texte": "Molto piena", "correcte": true },
+{ "id": "d", "texte": "Completamente vuota", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-004-02",
+"question": "Con chi lavora al progetto difficile?",
+"reponses": [
+{ "id": "a", "texte": "Con i colleghi d'ufficio", "correcte": true },
+{ "id": "b", "texte": "Con i membri della famiglia", "correcte": false },
+{ "id": "c", "texte": "Con i vicini di casa", "correcte": false },
+{ "id": "d", "texte": "Completamente da solo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-004-03",
+"question": "In che tipo di ristorante vanno a pranzo?",
+"reponses": [
+{ "id": "a", "texte": "In un ristorante cinese", "correcte": false },
+{ "id": "b", "texte": "In un piccolo ristorante italiano", "correcte": true },
+{ "id": "c", "texte": "In un locale tradizionale francese", "correcte": false },
+{ "id": "d", "texte": "In una grande mensa della stazione", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-004-04",
+"question": "Cosa deve fare il protagonista nel pomeriggio?",
+"reponses": [
+{ "id": "a", "texte": "Fare un lungo pisolino", "correcte": false },
+{ "id": "b", "texte": "Visitare un museo d'arte moderna", "correcte": false },
+{ "id": "c", "texte": "Rispondere alle e-mail e fare telefonate", "correcte": true },
+{ "id": "d", "texte": "Pulire gli uffici", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-004-05",
+"question": "Cosa preferisce fare il protagonista nonostante la fatica?",
+"reponses": [
+{ "id": "a", "texte": "Andare a casa prima", "correcte": false },
+{ "id": "b", "texte": "Lamentarsi con il capo", "correcte": false },
+{ "id": "c", "texte": "Rimanere attivo e completare i doveri", "correcte": true },
+{ "id": "d", "texte": "Cambiare subito lavoro", "correcte": false }
+]
+}
+]
+},
+{
+"id": "005",
+"titre": "Le mie attività dopo la scuola",
+"titre2": "Esercizio 005",
+"texte": [
+"Non appena la scuola finisce alle quattro, vado alla mia associazione sportiva.",
+"Gioco a calcio due volte a settimana con i miei amici sul campo sportivo.",
+"È un ottimo modo per rilassarsi dopo una lunga giornata di studio.",
+"Negli altri giorni preferisco andare alla biblioteca comunale per fare i compiti.",
+"Verso le sei e mezza torno a casa per cenare con i miei genitori."
+],
+"audios": [
+{ "id": "audio-it-read-a2-005-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-005-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-005-01",
+"question": "A che ora finisce la scuola?",
+"reponses": [
+{ "id": "a", "texte": "Alle due", "correcte": false },
+{ "id": "b", "texte": "Alle quattro", "correcte": true },
+{ "id": "c", "texte": "Alle cinque", "correcte": false },
+{ "id": "d", "texte": "Alle sei", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-005-02",
+"question": "Quale sport pratica con gli amici?",
+"reponses": [
+{ "id": "a", "texte": "Pallacanestro", "correcte": false },
+{ "id": "b", "texte": "Tennis da tavolo", "correcte": false },
+{ "id": "c", "texte": "Nuoto", "correcte": false },
+{ "id": "d", "texte": "Calcio", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-005-03",
+"question": "Quante volte a settimana gioca al campo sportivo?",
+"reponses": [
+{ "id": "a", "texte": "Una volta a settimana", "correcte": false },
+{ "id": "b", "texte": "Due volte a settimana", "correcte": true },
+{ "id": "c", "texte": "Ogni singolo giorno", "correcte": false },
+{ "id": "d", "texte": "Tre volte al mese", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-005-04",
+"question": "Dove va il protagonista negli altri giorni per fare i compiti?",
+"reponses": [
+{ "id": "a", "texte": "Alla biblioteca comunale", "correcte": true },
+{ "id": "b", "texte": "In un rumoroso internet caffè", "correcte": false },
+{ "id": "c", "texte": "A casa del nonno", "correcte": false },
+{ "id": "d", "texte": "In un parco pubblico", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-005-05",
+"question": "A che ora torna a casa per cena?",
+"reponses": [
+{ "id": "a", "texte": "Alle otto", "correcte": false },
+{ "id": "b", "texte": "Verso le sei e mezza", "correcte": true },
+{ "id": "c", "texte": "Tardi nella notte", "correcte": false },
+{ "id": "d", "texte": "A mezzogiorno", "correcte": false }
+]
+}
+]
+},
+{
+"id": "006",
+"titre": "Una serata in famiglia",
+"titre2": "Esercizio 006",
+"texte": [
+"La sera, tutta la famiglia si riunisce nella sala da pranzo per un buon pasto.",
+"Mia madre cucina spesso una zuppa calda e un delizioso pollo arrosto.",
+"Durante la cena parliamo della nostra giornata e ci raccontiamo storie divertenti.",
+"Dopo aver sparecchiato la tavola, ci piace guardare una commedia in salotto.",
+"È un bel momento che rafforza il nostro legame familiare prima di dormire."
+],
+"audios": [
+{ "id": "audio-it-read-a2-006-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-006-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-006-01",
+"question": "Dove si riunisce la famiglia per cena?",
+"reponses": [
+{ "id": "a", "texte": "In cucina", "correcte": false },
+{ "id": "b", "texte": "Sul balcone", "correcte": false },
+{ "id": "c", "texte": "Nella sala da pranzo", "correcte": true },
+{ "id": "d", "texte": "In giardino", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-006-02",
+"question": "Cosa cucina spesso la madre per il pasto?",
+"reponses": [
+{ "id": "a", "texte": "Pizza al formaggio", "correcte": false },
+{ "id": "b", "texte": "Zuppa calda e pollo arrosto", "correcte": true },
+{ "id": "c", "texte": "Pesce alla griglia", "correcte": false },
+{ "id": "d", "texte": "Una semplice insalata verde", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-006-03",
+"question": "Cosa fa la famiglia durante il pasto?",
+"reponses": [
+{ "id": "a", "texte": "Guarda il telegiornale in silenzio", "correcte": false },
+{ "id": "b", "texte": "Tutti usano il proprio cellulare", "correcte": false },
+{ "id": "c", "texte": "Litigano per il cibo", "correcte": false },
+{ "id": "d", "texte": "Parlano della giornata e condividono storie", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-006-04",
+"question": "Che genere di film guardano in salotto?",
+"reponses": [
+{ "id": "a", "texte": "Un film horror", "correcte": false },
+{ "id": "b", "texte": "Una commedia", "correcte": true },
+{ "id": "c", "texte": "Un documentario storico", "correcte": false },
+{ "id": "d", "texte": "Un film d'azione", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-006-05",
+"question": "Qual è l'obiettivo di questo bel momento in famiglia?",
+"reponses": [
+{ "id": "a", "texte": "Rafforzare il legame familiare", "correcte": true },
+{ "id": "b", "texte": "Perdere tempo inutilmente", "correcte": false },
+{ "id": "c", "texte": "Lavorare fino a tarda notte", "correcte": false },
+{ "id": "d", "texte": "Imparare una nuova lingua", "correcte": false }
+]
+}
+]
+},
+{
+"id": "007",
+"titre": "I miei programmi per il fine settimana",
+"titre2": "Esercizio 007",
+"texte": [
+"Nel fine settimana non devo svegliarmi presto, quindi dormo fino a tardi.",
+"Il sabato pomeriggio di solito incontro i miei amici per andare al cinema.",
+"La domenica mattina preferisco fare una lunga pedalata in bicicletta nel bosco.",
+"Dopo vado a pranzare dai miei nonni in un tranquillo paesino.",
+"È il momento perfetto per riposarsi e dimenticare lo stress della settimana."
+],
+"audios": [
+{ "id": "audio-it-read-a2-007-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-007-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-007-01",
+"question": "Cosa fa il protagonista la mattina nel fine settimana?",
+"reponses": [
+{ "id": "a", "texte": "Si sveglia molto prima", "correcte": false },
+{ "id": "b", "texte": "Va subito a correre", "correcte": false },
+{ "id": "c", "texte": "Dorme fino a tardi", "correcte": true },
+{ "id": "d", "texte": "Inizia subito a studiare", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-007-02",
+"question": "Dove va il protagonista il sabato pomeriggio con gli amici?",
+"reponses": [
+{ "id": "a", "texte": "Al mare", "correcte": false },
+{ "id": "b", "texte": "Al cinema", "correcte": true },
+{ "id": "c", "texte": "In un centro commerciale", "correcte": false },
+{ "id": "d", "texte": "In piscina", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-007-03",
+"question": "Dove va in bicicletta la domenica mattina?",
+"reponses": [
+{ "id": "a", "texte": "Sulle strade della città", "correcte": false },
+{ "id": "b", "texte": "Nel bosco", "correcte": true },
+{ "id": "c", "texte": "Nel quartiere", "correcte": false },
+{ "id": "d", "texte": "Su una pista sportiva", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-007-04",
+"question": "Con chi pranza la domenica?",
+"reponses": [
+{ "id": "a", "texte": "Con un migliore amico", "correcte": false },
+{ "id": "b", "texte": "Con un insegnante", "correcte": false },
+{ "id": "c", "texte": "Da solo in un caffè", "correcte": false },
+{ "id": "d", "texte": "Con i nonni", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-007-05",
+"question": "Perché questo programma per il fine settimana è perfetto?",
+"reponses": [
+{ "id": "a", "texte": "Per riposarsi e dimenticare lo stress", "correcte": true },
+{ "id": "b", "texte": "Per spendere un sacco di soldi", "correcte": false },
+{ "id": "c", "texte": "Per cercare un nuovo lavoro", "correcte": false },
+{ "id": "d", "texte": "Per pulire tutta la stanza", "correcte": false }
+]
+}
+]
+},
+{
+"id": "008",
+"titre": "Fare la spesa al supermercato",
+"titre2": "Esercizio 008",
+"texte": [
+"Ogni sabato mattina prendo un grande carrello per fare la spesa settimanale.",
+"Inizio sempre dal reparto frutta e verdura per comprare delle mele verdi.",
+"Poi cerco il latte, il formaggio di capra e una confezione di riso bianco.",
+"Alle casse ci sono spesso molte persone, quindi devo aspettare con pazienza.",
+"Non appena ho pagato, sistemo tutti gli alimenti con cura nelle mie borse."
+],
+"audios": [
+{ "id": "audio-it-read-a2-008-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-008-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-008-01",
+"question": "Quando va a fare la spesa il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Il lunedì sera", "correcte": false },
+{ "id": "b", "texte": "Il mercoledì pomeriggio", "correcte": false },
+{ "id": "c", "texte": "Il sabato mattina", "correcte": true },
+{ "id": "d", "texte": "La domenica sera", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-008-02",
+"question": "In quale reparto inizia la spesa?",
+"reponses": [
+{ "id": "a", "texte": "Nel reparto bevande", "correcte": false },
+{ "id": "b", "texte": "Nel reparto frutta e verdura", "correcte": true },
+{ "id": "c", "texte": "Nel reparto panetteria", "correcte": false },
+{ "id": "d", "texte": "Nel reparto surgelati", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-008-03",
+"question": "Quale frutto specifico compra il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Banane gialle", "correcte": false },
+{ "id": "b", "texte": "Mele verdi", "correcte": true },
+{ "id": "c", "texte": "Arance dolci", "correcte": false },
+{ "id": "d", "texte": "Fragole rosse", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-008-04",
+"question": "Perché deve aspettare con pazienza alle casse?",
+"reponses": [
+{ "id": "a", "texte": "Perché ci sono molte persone", "correcte": true },
+{ "id": "b", "texte": "Perché i computer sono rotti", "correcte": false },
+{ "id": "c", "texte": "Perché si sono persi dei soldi", "correcte": false },
+{ "id": "d", "texte": "Perché parla con un amico", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-008-05",
+"question": "Dove mette i prodotti dopo aver pagato?",
+"reponses": [
+{ "id": "a", "texte": "Direttamente nelle tasche del cappotto", "correcte": false },
+{ "id": "b", "texte": "Nelle borse della spesa", "correcte": true },
+{ "id": "c", "texte": "Restano all'interno del negozio", "correcte": false },
+{ "id": "d", "texte": "Nella macchina del vicino", "correcte": false }
+]
+}
+]
+},
+{
+"id": "009",
+"titre": "Una visita a un vicino",
+"titre2": "Esercizio 009",
+"texte": [
+"Ieri pomeriggio ho bussato alla porta del mio gentile vicino di casa, il signor Paolo.",
+"Mi ha invitato calorosamente a entrare per bere insieme una tazza di tè caldo.",
+"Abbiamo parlato del tempo e dei bei fiori che ci sono nel suo piccolo giardino anteriore.",
+"È un uomo anziano e interessante che ha viaggiato molto durante la sua giovinezza.",
+"Prima di andare via, l'ho ringraziato per la bella accoglienza e per questo bel momento."
+],
+"audios": [
+{ "id": "audio-it-read-a2-009-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-009-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-009-01",
+"question": "Come si chiama il vicino di casa del protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Signor Giovanni", "correcte": false },
+{ "id": "b", "texte": "Signor Michele", "correcte": false },
+{ "id": "c", "texte": "Signor Paolo", "correcte": true },
+{ "id": "d", "texte": "Signor Pietro", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-009-02",
+"question": "Quale bevanda offre il vicino?",
+"reponses": [
+{ "id": "a", "texte": "Un bicchiere di succo freddo", "correcte": false },
+{ "id": "b", "texte": "Una tazza di tè caldo", "correcte": true },
+{ "id": "c", "texte": "Una tazza di caffè caldo", "correcte": false },
+{ "id": "d", "texte": "Un semplice bicchiere d'acqua", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-009-03",
+"question": "Di quali argomenti hanno parlato insieme?",
+"reponses": [
+{ "id": "a", "texte": "Del tempo e dei fiori del giardino", "correcte": true },
+{ "id": "b", "texte": "Di notizie politiche attuali", "correcte": false },
+{ "id": "c", "texte": "Di problemi con la struttura della casa", "correcte": false },
+{ "id": "d", "texte": "Del prezzo costoso degli alimenti", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-009-04",
+"question": "Cosa ha fatto il vicino durante la sua giovinezza?",
+"reponses": [
+{ "id": "a", "texte": "Ha fatto molto sport", "correcte": false },
+{ "id": "b", "texte": "Ha scritto libri scolastici", "correcte": false },
+{ "id": "c", "texte": "Ha viaggiato molto", "correcte": true },
+{ "id": "d", "texte": "Ha lavorato in una miniera", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-009-05",
+"question": "Cosa fa il protagonista poco prima di andare via?",
+"reponses": [
+{ "id": "a", "texte": "Chiede un po' di denaro", "correcte": false },
+{ "id": "b", "texte": "Pulisce il tavolo del soggiorno", "correcte": false },
+{ "id": "c", "texte": "Ringrazia per l'accoglienza", "correcte": true },
+{ "id": "d", "texte": "Dimentica il cappotto invernale", "correcte": false }
+]
+}
+]
+},
+{
+"id": "010",
+"titre": "Le faccende domestiche a casa",
+"titre2": "Esercizio 010",
+"texte": [
+"Per mantenere pulito il nostro appartamento, ognuno deve aiutare con le faccende domestiche.",
+"Oggi tocca a me passare l'aspirapolvere sul pavimento del soggiorno e del corridoio.",
+"Dopodiché devo pulire il grande tavolo di vetro nella sala da pranzo.",
+"Mio fratello minore si occupa di svuotare la spazzatura della cucina e di riordinare i suoi giocattoli.",
+"Quando lavoriamo insieme, la nostra casa di famiglia diventa pulita molto velocemente."
+],
+"audios": [
+{ "id": "audio-it-read-a2-010-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-010-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-010-01",
+"question": "Perché la famiglia fa le faccende domestiche?",
+"reponses": [
+{ "id": "a", "texte": "Per mantenere pulito l'appartamento", "correcte": true },
+{ "id": "b", "texte": "Per passare il tempo nel fine settimana", "correcte": false },
+{ "id": "c", "texte": "Perché si tratta di una punizione", "correcte": false },
+{ "id": "d", "texte": "Per fare degli esercizi fisici", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-010-02",
+"question": "Qual è il compito principale del protagonista oggi?",
+"reponses": [
+{ "id": "a", "texte": "Lavare i vestiti sporchi", "correcte": false },
+{ "id": "b", "texte": "Cucinare la cena", "correcte": false },
+{ "id": "c", "texte": "Passare l'aspirapolvere in soggiorno e corridoio", "correcte": true },
+{ "id": "d", "texte": "Innaffiare le piante verdi", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-010-03",
+"question": "Quale mobile deve pulire subito dopo il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "La finestra della camera da letto", "correcte": false },
+{ "id": "b", "texte": "Il grande tavolo della sala da pranzo", "correcte": true },
+{ "id": "c", "texte": "La porta d'ingresso principale", "correcte": false },
+{ "id": "d", "texte": "Lo specchio del bagno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-010-04",
+"question": "Di cosa è responsabile il fratello minore?",
+"reponses": [
+{ "id": "a", "texte": "Comprare gli alimenti al mercato", "correcte": false },
+{ "id": "b", "texte": "Svuotare la spazzatura e riordinare i giocattoli", "correcte": true },
+{ "id": "c", "texte": "Riparare la televisione rotta", "correcte": false },
+{ "id": "d", "texte": "Lavare la macchina di famiglia", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-010-05",
+"question": "Cosa succede quando la famiglia lavora insieme?",
+"reponses": [
+{ "id": "a", "texte": "Tutti si stancano troppo velocemente", "correcte": false },
+{ "id": "b", "texte": "I lavori vengono fatti male", "correcte": false },
+{ "id": "c", "texte": "La casa diventa pulita velocemente", "correcte": true },
+{ "id": "d", "texte": "Decidono di andare al ristorante", "correcte": false }
+]
+}
+]
+}
+]
