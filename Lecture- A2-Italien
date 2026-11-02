@@ -677,5 +677,735 @@
 ]
 }
 ]
+},
+{
+    "id": "011",
+    "titre": "Presentare la mia famiglia",
+    "titre2": "Esercizio 011",
+    "texte": [
+      "La mia famiglia non è molto grande, ma siamo molto uniti e passiamo molto tempo insieme.",
+      "Viviamo in una bella casa con un piccolo giardino fiorito in un tranquillo sobborgo di Milano.",
+      "Mio padre si chiama Tommaso, ha quarantacinque anni e lavora come ingegnere edile in un'azienda.",
+      "Mia madre si chiama Sofia, ha quarantadue anni e lavora come infermiera in ospedale.",
+      "Ho anche un fratello minore di nome Luca, che ha dieci anni e frequenta la scuola primaria.",
+      "Luca ama giocare a calcio con i suoi compagni di scuola ogni pomeriggio dopo le lezioni.",
+      "Nel fine settimana facciamo spesso gite, come escursioni in montagna o picnic vicino al fiume.",
+      "Ogni sera ci riuniamo tutti in cucina per preparare insieme la cena.",
+      "Questo è un momento molto speciale, in cui ognuno parla delle proprie esperienze della giornata.",
+      "Penso di essere molto fortunato ad avere una famiglia così affettuosa e disponibile."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-011-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-011-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-011-01",
+        "question": "Dove vive la famiglia del protagonista?",
+        "reponses": [
+          { "id": "a", "texte": "In un sobborgo di Milano", "correcte": true },
+          { "id": "b", "texte": "Nel centro della città di Roma", "correcte": false },
+          { "id": "c", "texte": "In un piccolo paese in montagna", "correcte": false },
+          { "id": "d", "texte": "Vicino a una spiaggia soleggiata", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-011-02",
+        "question": "Qual è il lavoro della madre?",
+        "reponses": [
+          { "id": "a", "texte": "È un'insegnante di scuola primaria", "correcte": false },
+          { "id": "b", "texte": "Lavora come ingegnere edile", "correcte": false },
+          { "id": "c", "texte": "Vende fiori colorati", "correcte": false },
+          { "id": "d", "texte": "È un'infermiera in ospedale", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-011-03",
+        "question": "Quanti anni ha il fratello minore Luca?",
+        "reponses": [
+          { "id": "a", "texte": "Cinque anni", "correcte": false },
+          { "id": "b", "texte": "Dieci anni", "correcte": true },
+          { "id": "c", "texte": "Otto anni", "correcte": false },
+          { "id": "d", "texte": "Dodici anni", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-011-04",
+        "question": "Dove si riunisce la famiglia ogni sera?",
+        "reponses": [
+          { "id": "a", "texte": "In camera da letto dei genitori", "correcte": false },
+          { "id": "b", "texte": "Nel piccolo giardino fiorito", "correcte": false },
+          { "id": "c", "texte": "In cucina mentre si prepara la cena", "correcte": true },
+          { "id": "d", "texte": "Al cinema locale", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-011-05",
+        "question": "Quale attività del fine settimana viene menzionata nel testo?",
+        "reponses": [
+          { "id": "a", "texte": "Comprare una nuova auto sportiva", "correcte": false },
+          { "id": "b", "texte": "Escursioni in montagna o picnic vicino al fiume", "correcte": true },
+          { "id": "c", "texte": "Fare acquisti in un grande magazzino", "correcte": false },
+          { "id": "d", "texte": "Rimanere a casa e dipingere le pareti", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "titre": "Il compleanno di mia sorella",
+    "titre2": "Esercizio 012",
+    "texte": [
+      "Sabato scorso abbiamo festeggiato un giorno importante: il ventesimo compleanno di mia sorella maggiore Emily.",
+      "Per questa occasione speciale, tutta la famiglia ha lavorato duramente fin dal mattino per organizzare una festa a sorpresa.",
+      "Mentre Emily era a fare shopping con una buona amica, abbiamo decorato l'intero soggiorno.",
+      "Abbiamo appeso palloncini colorati al soffitto e messo un bel cartello grande sulla parete.",
+      "Mia madre ha passato diverse ore in cucina per preparare la sua famosa torta al cioccolato.",
+      "Verso le cinque mia sorella è finalmente tornata a casa e tutti hanno gridato contemporaneamente 'Buon compleanno!'.",
+      "Era così sorpresa e felice che aveva le lacrime agli occhi quando ha visto le decorazioni.",
+      "Poi ha spento le sue venti candeline sotto l'applauso caloroso di tutti i nostri meravigliosi ospiti.",
+      "Le abbiamo dato i nostri regali, tra cui una fantastica macchina fotografica che desiderava da mesi.",
+      "La serata è continuata fino a tarda notte con musica allegra, balli divertenti e conversazioni felici."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-012-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-012-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-012-01",
+        "question": "Quale compleanno ha festeggiato Emily sabato scorso?",
+        "reponses": [
+          { "id": "a", "texte": "Il suo quindicesimo compleanno", "correcte": false },
+          { "id": "b", "texte": "Il suo ventesimo compleanno", "correcte": true },
+          { "id": "c", "texte": "Il suo diciottesimo compleanno", "correcte": false },
+          { "id": "d", "texte": "Il suo venticinquesimo compleanno", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-012-02",
+        "question": "Cosa faceva Emily mentre la famiglia preparava la sorpresa?",
+        "reponses": [
+          { "id": "a", "texte": "Dormiva nella sua stanza", "correcte": false },
+          { "id": "b", "texte": "Studiava in biblioteca", "correcte": false },
+          { "id": "c", "texte": "Lavorava nel suo ufficio", "correcte": false },
+          { "id": "d", "texte": "Era a fare shopping con un'amica", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-012-03",
+        "question": "Che tipo di torta ha preparato la madre?",
+        "reponses": [
+          { "id": "a", "texte": "Una torta di mele", "correcte": false },
+          { "id": "b", "texte": "Una crostata di fragole fresche", "correcte": false },
+          { "id": "c", "texte": "Una deliziosa torta al cioccolato", "correcte": true },
+          { "id": "d", "texte": "Una semplice torta alla vaniglia", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-012-04",
+        "question": "Come ha reagito Emily quando è entrata in casa?",
+        "reponses": [
+          { "id": "a", "texte": "Era arrabbiata per il rumore", "correcte": false },
+          { "id": "b", "texte": "Era sorpresa e felice", "correcte": true },
+          { "id": "c", "texte": "Ha uscito subito di casa", "correcte": false },
+          { "id": "d", "texte": "Non ha detto assolutamente nulla", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-012-05",
+        "question": "Quale regalo principale ha ricevuto Emily dalla sua famiglia?",
+        "reponses": [
+          { "id": "a", "texte": "Una fantastica macchina fotografica", "correcte": true },
+          { "id": "b", "texte": "Un nuovo computer portatile", "correcte": false },
+          { "id": "c", "texte": "Una mountain bike rossa", "correcte": false },
+          { "id": "d", "texte": "Un elegante abito da sera", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "titre": "Una visita ai miei nonni",
+    "titre2": "Esercizio 013",
+    "texte": [
+      "Durante le brevi vacanze scolastiche, mi piace molto viaggiare in treno per visitare i miei nonni, che vivono lontano.",
+      "Vivono in una vecchia casa di pietra nel cuore di un villaggio molto tranquillo in Toscana.",
+      "Non appena arrivo alla stazione, mio nonno mi aspetta sempre sul binario con un grande sorriso.",
+      "Mia nonna resta a casa a cucinare piatti tipici tradizionali che hanno un profumo meraviglioso.",
+      "La mattina mio nonno mi porta nel suo grande orto per raccogliere verdure fresche e fragole dolci.",
+      "Mi mostra come prendersi cura delle piante, togliere le erbacce e innaffiare correttamente la terra.",
+      "Nel pomeriggio facciamo spesso lunghe passeggiate lungo i sentieri di campagna che circondano il villaggio pacifico.",
+      "La sera, dopo un'ottima cena, ci sediamo comodamente vicino al camino e ascoltiamo i loro vecchi ricordi.",
+      "Mi raccontano storie divertenti della loro giovinezza, che mi affascinano ogni volta di più.",
+      "Questi viaggi lontano dalla grande città mi aiutano a rilassarmi completamente e a godermi la bellezza della natura."
+    ],
+    "audios": [
+      { "id": "audio-it-read-a2-013-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-a2-013-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-a2-013-01",
+        "question": "Come viaggia il protagonista per andare a trovare i nonni?",
+        "reponses": [
+          { "id": "a", "texte": "Con la propria auto", "correcte": false },
+          { "id": "b", "texte": "In treno", "correcte": true },
+          { "id": "c", "texte": "In bicicletta", "correcte": false },
+          { "id": "d", "texte": "In aereo", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-a2-013-02",
+        "question": "Dove si trova la vecchia casa di pietra dei nonni?",
+        "reponses": [
+          { "id": "a", "texte": "In un grande centro città", "correcte": false },
+          { "id": "b", "texte": "Vicino a una spiaggia soleggiata", "correcte": false },
+          { "id": "c", "texte": "In un tranquillo villaggio in Toscana", "correcte": true },
+          { "id": "d", "texte": "Sulle fredde montagne", "correcte": false }
+        ]
+      },
+      {
+      "id": "q-it-read-a2-013-03",
+"question": "Dove porta il nonno il protagonista la mattina?",
+"reponses": [
+{ "id": "a", "texte": "Nel suo grande orto", "correcte": true },
+{ "id": "b", "texte": "Al mercato locale", "correcte": false },
+{ "id": "c", "texte": "In una piscina comunale", "correcte": false },
+{ "id": "d", "texte": "In un grande bosco buio", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-013-04",
+"question": "Cosa fanno la sera dopo cena?",
+"reponses": [
+{ "id": "a", "texte": "Guardano una serie drammatica in TV", "correcte": false },
+{ "id": "b", "texte": "Ascoltano i vecchi ricordi vicino al camino", "correcte": true },
+{ "id": "c", "texte": "Giocano ai videogiochi online", "correcte": false },
+{ "id": "d", "texte": "Vanno subito a dormire a tavola", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-013-05",
+"question": "Qual è il vantaggio principale di questi viaggi per le vacanze?",
+"reponses": [
+{ "id": "a", "texte": "Rilassarsi completamente e godersi la natura", "correcte": true },
+{ "id": "b", "texte": "Guadagnare un po' di soldi tascabili", "correcte": false },
+{ "id": "c", "texte": "Imparare a guidare l'auto", "correcte": false },
+{ "id": "d", "texte": "Finire rapidamente i compiti scolastici", "correcte": false }
+]
+}
+]
+},
+{
+"id": "014",
+"titre": "Il mio migliore amico",
+"titre2": "Esercizio 014",
+"texte": [
+"Ho una cerchia di amici molto simpatica, ma il mio migliore amico in assoluto si chiama Jack e siamo inseparabili.",
+"Ci conosciamo dal primo anno della scuola primaria e condividiamo molti ricordi d'infanzia.",
+"Jack è un ragazzo della mia età, è alto, ha gli occhi castani e i capelli corti e ricci.",
+"Al di là del suo aspetto, è una persona molto generosa, che sa sempre ascoltare e ha molto senso dell'umorismo.",
+"Condividiamo esattamente la stessa passione per i videogiochi di strategia e il cinema di fantascienza moderno.",
+"Ogni mercoledì pomeriggio viene a casa mia per studiare per la scuola e fare esercizi di matematica.",
+"Dopo aver finito i compiti, giochiamo o chiacchieriamo sul nostro comodo divano.",
+"Ogni volta che ho un problema personale o un brutto voto, Jack trova sempre le parole giuste per confortarmi.",
+"Posso confargli tutti i miei segreti più grandi, senza avere paura che lo racconti a qualcun altro.",
+"Un'amicizia così forte, onesta e lunga è qualcosa di prezioso che vorrei mantenere per tutta la vita."
+],
+"audios": [
+{ "id": "audio-it-read-a2-014-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-014-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-014-01",
+"question": "Da quanto tempo si conoscono il protagonista e Jack?",
+"reponses": [
+{ "id": "a", "texte": "Dalle vacanze estive dell'anno scorso", "correcte": false },
+{ "id": "b", "texte": "Solo da poche settimane", "correcte": false },
+{ "id": "c", "texte": "Dai tempi della scuola primaria", "correcte": true },
+{ "id": "d", "texte": "Da quando sono all'università", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-014-02",
+"question": "Com'è l'aspetto fisico di Jack secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "È alto, ha gli occhi castani e i capelli ricci", "correcte": true },
+{ "id": "b", "texte": "È basso e ha i capelli lunghi e biondi", "correcte": false },
+{ "id": "c", "texte": "Indossa grandi occhiali neri e tondi", "correcte": false },
+{ "id": "d", "texte": "Ha gli occhi azzurri e i capelli lisci", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-014-03",
+"question": "Quale passione comune condividono i due amici?",
+"reponses": [
+{ "id": "a", "texte": "Il disegno e la pittura moderna", "correcte": false },
+{ "id": "b", "texte": "La cucina tradizionale italiana", "correcte": false },
+{ "id": "c", "texte": "La musica classica e suonare il violino", "correcte": false },
+{ "id": "d", "texte": "Videogiochi di strategia e fantascienza", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-014-04",
+"question": "Cosa fanno ogni mercoledì pomeriggio?",
+"reponses": [
+{ "id": "a", "texte": "Vanno fuori a giocare a calcio", "correcte": false },
+{ "id": "b", "texte": "Studiano e fanno esercizi di matematica", "correcte": true },
+{ "id": "c", "texte": "Comprano vestiti nuovi in città", "correcte": false },
+{ "id": "d", "texte": "Puliscono la camera da letto del protagonista", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-014-05",
+"question": "Perché il protagonista si fida ciecamente di Jack?",
+"reponses": [
+{ "id": "a", "texte": "Perché custodisce al sicuro tutti i grandi segreti", "correcte": true },
+{ "id": "b", "texte": "Perché Jack è il ragazzo più forte della classe", "correcte": false },
+{ "id": "c", "texte": "Perché gli dà spesso la sua paghetta", "correcte": false },
+{ "id": "d", "texte": "Perché vivono nella stessa via", "correcte": false }
+]
+}
+]
+},
+{
+"id": "015",
+"titre": "Conoscere una persona nuova",
+"titre2": "Esercizio 015",
+"texte": [
+"Lunedì mattina è arrivato un alunno completamente nuovo nella nostra lezione di inglese, si chiama Leo e viene dal Canada.",
+"Il nostro coordinatore di classe lo ha presentato a tutti e gli ha chiesto di sedersi al banco vuoto proprio accanto a me.",
+"All'inizio della mattina Leo era un po' timido perché non conosceva nessuno nella scuola.",
+"Durante la ricreazione delle dieci ho deciso di parlare con lui per farlo sentire più a suo agio.",
+"Mi ha raccontato che si era appena trasferito in Italia con la sua famiglia a causa del nuovo lavoro di suo padre.",
+"Leo parla perfettamente inglese, ma ha un affascinante accento canadese che piace molto a tutta la classe.",
+"Abbiamo scoperto che a entrambi piace ascoltare musica rock e andare sullo skateboard nel fine settimana.",
+"Gli ho mostrato la scuola, compresa la grande mensa, i laboratori di scienze e la biblioteca.",
+"Alla fine di questo primo giorno mi ha ringraziato calorosamente per il mio aiuto e la mia cordiale accoglienza.",
+"Sono molto felice di questo incontro e penso che diventeremo grandi amici di scuola."
+],
+"audios": [
+{ "id": "audio-it-read-a2-015-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-015-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-015-01",
+"question": "Da dove viene il nuovo studente di nome Leo?",
+"reponses": [
+{ "id": "a", "texte": "Dagli Stati Uniti", "correcte": false },
+{ "id": "b", "texte": "Dall'Australia", "correcte": false },
+{ "id": "c", "texte": "Dal Canada", "correcte": true },
+{ "id": "d", "texte": "Dal Belgio", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-015-02",
+"question": "Dove si è seduto Leo su richiesta dell'insegnante?",
+"reponses": [
+{ "id": "a", "texte": "In fondo alla classe", "correcte": false },
+{ "id": "b", "texte": "Al banco vuoto accanto al protagonista", "correcte": true },
+{ "id": "c", "texte": "Proprio accanto alla lavagna bianca", "correcte": false },
+{ "id": "d", "texte": "Al tavolo dell'insegnante", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-015-03",
+"question": "Perché la famiglia di Leo si è trasferita in Italia?",
+"reponses": [
+{ "id": "a", "texte": "Per una breve vacanza invernale", "correcte": false },
+{ "id": "b", "texte": "Per imparare una nuova lingua", "correcte": false },
+{ "id": "c", "texte": "A causa del nuovo lavoro di suo padre", "correcte": true },
+{ "id": "d", "texte": "Per comprare una grande casa colonica", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-015-04",
+"question": "Quale hobby hanno in comune Leo e il protagonista?",
+"reponses": [
+{ "id": "a", "texte": "Nuotare in un club", "correcte": false },
+{ "id": "b", "texte": "Andare sullo skateboard", "correcte": true },
+{ "id": "c", "texte": "Giocare a pallacanestro", "correcte": false },
+{ "id": "d", "texte": "Andare in bicicletta da corsa", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-015-05",
+"question": "Come si sentiva Leo all'inizio della mattina?",
+"reponses": [
+{ "id": "a", "texte": "Un po' timido", "correcte": true },
+{ "id": "b", "texte": "Molto arrabbiato", "correcte": false },
+{ "id": "c", "texte": "Stanco e sonnolento", "correcte": false },
+{ "id": "d", "texte": "Orgoglioso e arrogante", "correcte": false }
+]
+}
+]
+},
+{
+"id": "016",
+"titre": "Una festa in famiglia",
+"titre2": "Esercizio 016",
+"texte": [
+"Domenica scorsa la mia famiglia ha organizzato una grande festa per celebrare le nozze d'oro dei miei nonni.",
+"Cinquanta anni di matrimonio sono un evento raro che meritava di riunire tutti i nostri parenti stretti in un unico luogo.",
+"Abbiamo affittato una grande sala comunale in un bellissimo e caratteristico villaggio non lontano dalla nostra città natale.",
+"I miei zii, le mie zie e tutti i miei cugini sono arrivati da diverse regioni per questo importante evento familiare.",
+"Ognuno ha portato qualcosa da mangiare o da bere, creando un enorme, vario e delizioso buffet per gli ospiti.",
+"C'erano insalate fresche, salumi, formaggi regionali e molte torte alla frutta fatte in casa preparate con amore.",
+"Mio cugino ha installato un grande impianto audio per suonare le vecchie canzoni preferite dai nostri cari nonni.",
+"Abbiamo passato tutto il pomeriggio a ballare, a chiacchierare allegramente e a fare centinaia di foto ricordo.",
+"I miei nonni erano molto commossi nel vedere tutti i loro figli e nipoti riuniti intorno a loro con così tanto amore.",
+"Questa festa rimarrà nei nostri ricordi come un momento perfetto di pura felicità e di condivisione familiare."
+],
+"audios": [
+{ "id": "audio-it-read-a2-016-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-016-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-016-01",
+"question": "Quale evento ha festeggiato la famiglia domenica scorsa?",
+"reponses": [
+{ "id": "a", "texte": "Il risultato positivo di un esame", "correcte": false },
+{ "id": "b", "texte": "Le nozze d'oro dei nonni", "correcte": true },
+{ "id": "c", "texte": "Il pensionamento di uno zio", "correcte": false },
+{ "id": "d", "texte": "La nascita di un nuovo cugino", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-016-02",
+"question": "Dove è stata organizzata la festa di famiglia?",
+"reponses": [
+{ "id": "a", "texte": "Nel piccolo giardino dietro casa", "correcte": false },
+{ "id": "b", "texte": "In un ristorante costoso", "correcte": false },
+{ "id": "c", "texte": "In una grande sala comunale affittata", "correcte": true },
+{ "id": "d", "texte": "In una spiaggia privata", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-016-03",
+"question": "Come è stato organizzato il cibo per il buffet?",
+"reponses": [
+{ "id": "a", "texte": "Un catering costoso ha preparato tutto", "correcte": false },
+{ "id": "b", "texte": "I nonni hanno cucinato tutti i piatti da soli", "correcte": false },
+{ "id": "c", "texte": "Hanno ordinato molte pizze calde", "correcte": false },
+{ "id": "d", "texte": "Ogni ospite ha portato qualcosa da mangiare o da bere", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-016-04",
+"question": "Quale musica ha suonato il cugino sull'impianto audio?",
+"reponses": [
+{ "id": "a", "texte": "Le vecchie canzoni preferite dei nonni", "correcte": true },
+{ "id": "b", "texte": "Musica elettronica moderna", "correcte": false },
+{ "id": "c", "texte": "Canzoni solo per bambini piccoli", "correcte": false },
+{ "id": "d", "texte": "Musica rock dura americana", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-016-05",
+"question": "Come si sono sentiti i nonni durante la festa?",
+"reponses": [
+{ "id": "a", "texte": "Erano commossi nel vedere la loro famiglia unita", "correcte": true },
+{ "id": "b", "texte": "Erano stanchi e volevano andare via subito", "correcte": false },
+{ "id": "c", "texte": "Erano delusi dal volume della musica", "correcte": false },
+{ "id": "d", "texte": "Trovavano la sala comunale troppo piccola", "correcte": false }
+]
+}
+]
+},
+{
+"id": "017",
+"titre": "Le vacanze con i miei cugini",
+"titre2": "Esercizio 017",
+"texte": [
+"Ogni anno in agosto trascorro due settimane indimenticabili con i miei cugini al mare.",
+"I miei zii affittano una grande villa bianca con una splendida vista sul mare.",
+"I miei cugini, Paolo e Clara, hanno quasi la mia stessa età, il che rende il nostro rapporto molto facile.",
+"La mattina ci svegliamo verso le nove per fare una ricca colazione sul tavolo soleggiato della terrazza.",
+"Poi indossiamo i costumi da bagno, prepariamo i teli da spiaggia e corriamo verso la spiaggia di sabbia morbida.",
+"Passiamo ore a nuotare tra le onde fresche, a costruire grandi castelli o a giocare a beach volley.",
+"Nel pomeriggio, se c'è un po' di vento, facciamo volare gli aquiloni o noleggiamo biciclette in negozio.",
+"Esploriamo piccoli sentieri costieri e ci fermiamo sempre per mangiare un delizioso gelato nel villaggio vicino.",
+"La sera torniamo a casa stanchi ma felici, pronti a fare giochi da tavolo prima di dormire.",
+"Queste vacanze con i miei cugini sono importanti per interrompere la routine scolastica e ricaricare l'energia positiva."
+],
+"audios": [
+{ "id": "audio-it-read-a2-017-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-017-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-017-01",
+"question": "In quale mese dell'anno si svolgono queste vacanze?",
+"reponses": [
+{ "id": "a", "texte": "A luglio", "correcte": false },
+{ "id": "b", "texte": "A settembre", "correcte": false },
+{ "id": "c", "texte": "Ad agosto", "correcte": true },
+{ "id": "d", "texte": "A giugno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-017-02",
+"question": "Dove si trova la grande villa bianca?",
+"reponses": [
+{ "id": "a", "texte": "Sulle alte montagne", "correcte": false },
+{ "id": "b", "texte": "Al centro del paese", "correcte": false },
+{ "id": "c", "texte": "Al mare", "correcte": true },
+{ "id": "d", "texte": "Vicino a un piccolo lago nel bosco", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-017-03",
+"question": "Come si chiamano i due cugini menzionati nel testo?",
+"reponses": [
+{ "id": "a", "texte": "Luca e Sofia", "correcte": false },
+{ "id": "b", "texte": "Tommaso ed Emily", "correcte": false },
+{ "id": "c", "texte": "Jack e Leo", "correcte": false },
+{ "id": "d", "texte": "Paolo e Clara", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-017-04",
+"question": "Cosa mangiano durante il giro in bicicletta nel pomeriggio?",
+"reponses": [
+{ "id": "a", "texte": "Pane e formaggio", "correcte": false },
+{ "id": "b", "texte": "Un delizioso gelato nel villaggio vicino", "correcte": true },
+{ "id": "c", "texte": "Patatine fritte calde", "correcte": false },
+{ "id": "d", "texte": "Frutta fresca del giardino", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-017-05",
+"question": "Cosa fanno i cugini la sera prima di andare a dormire?",
+"reponses": [
+{ "id": "a", "texte": "Fanno giochi da tavolo", "correcte": true },
+{ "id": "b", "texte": "Guardano un lungo film horror", "correcte": false },
+{ "id": "c", "texte": "Studiano le lezioni di scuola", "correcte": false },
+{ "id": "d", "texte": "Vanno a nuotare nel mare", "correcte": false }
+]
+}
+]
+},
+{
+"id": "018",
+"titre": "Una giornata con mio padre",
+"titre2": "Esercizio 018",
+"texte": [
+"Sabato scorso mia madre era in viaggio d'affari per il suo lavoro, quindi ho passato l'intera giornata da solo con mio padre.",
+"Questa è una situazione piuttosto rara, dato che lavora molto durante la settimana e ha pochissimo tempo libero.",
+"Abbiamo iniziato la nostra mattina con una passeggiata al grande mercato tradizionale nel centro storico della città.",
+"Mio padre ama assolutamente cucinare, quindi abbiamo scelto con cura ingredienti freschi per preparare il nostro pranzo.",
+"Abbiamo comprato pesce fresco, erbe aromatiche, pomodori rossi maturi e un buon pane bianco tradizionale.",
+"Tornati a casa, mi ha mostrato come tagliare le verdure in modo pulito e condire correttamente il pesce con il sale.",
+"Il pranzo era assolutamente delizioso ed ero molto orgoglioso di aver partecipato attivamente alla preparazione in cucina.",
+"Nel pomeriggio siamo andati allo stadio comunale per sostenere la nostra squadra di calcio locale in una partita importante.",
+"L'atmosfera sugli spalti era incredibile, i tifosi cantavano ad alta voce e alla fine la nostra squadra ha vinto la partita.",
+"Questa giornata insieme mi ha aiutato a conoscere molto meglio mio padre e a condividere le sue passioni personali."
+],
+"audios": [
+{ "id": "audio-it-read-a2-018-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-018-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-018-01",
+"question": "Perché la madre non era a casa sabato scorso?",
+"reponses": [
+{ "id": "a", "texte": "Era malata a letto", "correcte": false },
+{ "id": "b", "texte": "Era a fare shopping in città", "correcte": false },
+{ "id": "c", "texte": "Era in viaggio d'affari", "correcte": true },
+{ "id": "d", "texte": "È andata a trovare i suoi genitori", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-018-02",
+"question": "Dove sono andati il padre e il protagonista la mattina?",
+"reponses": [
+{ "id": "a", "texte": "Al grande mercato tradizionale in città", "correcte": true },
+{ "id": "b", "texte": "In un supermercato in periferia", "correcte": false },
+{ "id": "c", "texte": "Nella biblioteca pubblica cittadina", "correcte": false },
+{ "id": "d", "texte": "In un grande bosco verde e profondo", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-018-03",
+"question": "Quali ingredienti hanno comprato per il pranzo?",
+"reponses": [
+{ "id": "a", "texte": "Pezzi di pollo e patatine fritte", "correcte": false },
+{ "id": "b", "texte": "Carne di manzo e pasta italiana", "correcte": false },
+{ "id": "c", "texte": "Una pizza al formaggio e dolci", "correcte": false },
+{ "id": "d", "texte": "Pesce fresco, erbe e pomodori", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-018-04",
+"question": "Dove sono ospiti nel pomeriggio?",
+"reponses": [
+{ "id": "a", "texte": "Al cinema a vedere un film d'azione", "correcte": false },
+{ "id": "b", "texte": "Allo stadio comunale per una partita di calcio", "correcte": true },
+{ "id": "c", "texte": "In piscina a nuotare insieme", "correcte": false },
+{ "id": "d", "texte": "Da un amico a giocare a carte", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-018-05",
+"question": "Com'è finita la partita di calcio alla fine?",
+"reponses": [
+{ "id": "a", "texte": "La partita è finita in pareggio", "correcte": false },
+{ "id": "b", "texte": "La squadra locale ha vinto", "correcte": true },
+{ "id": "c", "texte": "La squadra locale ha perso", "correcte": false },
+{ "id": "d", "texte": "La partita è stata annullata per pioggia", "correcte": false }
+]
+}
+]
+},
+{
+"id": "019",
+"titre": "Le abitudini quotidiane di mia madre",
+"titre2": "Esercizio 019",
+"texte": [
+"Mia madre è una persona molto organizzata, che ha una routine quotidiana precisa e la segue rigorosamente ogni giorno.",
+"Ogni mattina si sveglia alle sei in punto, molto prima del resto della casa, per fare yoga.",
+"Si siede su un tappetino blu in soggiorno e ascolta musica dolce e soffusa per rilassare la mente.",
+"Dopo la sua sessione di esercizi, prepara una grande tazza di tè verde e inizia a leggere il suo libro preferito.",
+"Alle sette e mezza sveglia dolcemente tutta la famiglia e ci aiuta a preparare le borse per la scuola o il lavoro.",
+"Lavora come segretaria medica in una clinica privata e usa sempre la sua bicicletta per andarci rapidamente.",
+"Ama questo mezzo di trasporto ecologico perché le permette di fare esercizio fisico due volte al giorno.",
+"La sera, dopo il lavoro d'ufficio, passa circa trenta minuti a curare i bei fiori sul nostro balcone.",
+"Dice spesso che prendersi cura della natura le fa dimenticare la fatica accumulata durante il giorno.",
+"Rispetto molto mia madre per la sua energia costante, la sua disciplina quotidiana e la sua dolce gentilezza verso di noi."
+],
+"audios": [
+{ "id": "audio-it-read-a2-019-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-019-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-019-01",
+"question": "A che ora si sveglia la madre ogni mattina?",
+"reponses": [
+{ "id": "a", "texte": "Alle cinque e mezza", "correcte": false },
+{ "id": "b", "texte": "Alle sette", "correcte": false },
+{ "id": "c", "texte": "Alle sei in punto", "correcte": true },
+{ "id": "d", "texte": "Alle otto meno un quarto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-019-02",
+"question": "Quale attività fa subito dopo essersi alzata?",
+"reponses": [
+{ "id": "a", "texte": "Fa yoga in soggiorno", "correcte": true },
+{ "id": "b", "texte": "Prepara una grande colazione", "correcte": false },
+{ "id": "c", "texte": "Guarda il telegiornale del mattino in TV", "correcte": false },
+{ "id": "d", "texte": "Pulisce lo specchio del bagno", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-019-03",
+"question": "Qual è l'esatto lavoro della madre secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "È un'insegnante di scuola primaria", "correcte": false },
+{ "id": "b", "texte": "Lavora come contabile", "correcte": false },
+{ "id": "c", "texte": "È segretaria medica in una clinica", "correcte": true },
+{ "id": "d", "texte": "È una chef professionista", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-019-04",
+"question": "Come si reca ogni giorno al suo posto di lavoro?",
+"reponses": [
+{ "id": "a", "texte": "Prende un autobus pubblico", "correcte": false },
+{ "id": "b", "texte": "Ci va con la sua bicicletta", "correcte": true },
+{ "id": "c", "texte": "Guida la sua auto elettrica", "correcte": false },
+{ "id": "d", "texte": "Cammina per tutto il tragitto", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-019-05",
+"question": "Cosa cura la sera dopo il lavoro?",
+"reponses": [
+{ "id": "a", "texte": "I bellissimi fiori sul balcone", "correcte": true },
+{ "id": "b", "texte": "I vestiti sporchi della famiglia", "correcte": false },
+{ "id": "c", "texte": "Aiuta nei compiti difficili di matematica", "correcte": false },
+{ "id": "d", "texte": "Porta a spasso il cagnolino del vicino", "correcte": false }
+]
+}
+]
+},
+{
+"id": "020",
+"titre": "Un'uscita con gli amici",
+"titre2": "Esercizio 020",
+"texte": [
+"Sabato pomeriggio io e i miei fedeli amici abbiamo approfittato del caldo sole primaverile per fare una bellissima uscita in città.",
+"Ci siamo incontrati alle due del pomeriggio proprio davanti alla grande fontana nella piazza centrale della città.",
+"Quando il nostro gruppo è stato completo, abbiamo deciso di camminare verso il nuovissimo parco divertimenti cittadino sul viale.",
+"Abbiamo comprato i biglietti d'ingresso per testare le veloci montagne russe, il che ci ha dato molta emozione e adrenalina.",
+"Tutti ridevano ad alta voce e abbiamo immortalato questi momenti felici scattando diversi selfie di gruppo insieme.",
+"Verso le quattro e mezza, dopo tutte queste intense emozioni, abbiamo sentito un naturale languorino.",
+"Ci siamo seduti sulla terrazza di un grazioso caffè per gustare delle dolci crepes con fragole fresche.",
+"Abbiamo parlato dei nostri programmi futuri per le grandi vacanze estive e dei nostri esami scolastici che si avvicinano rapidamente.",
+"È stata una giornata fantastica piena di buon umore, che ha reso la nostra amicizia già solida ancora più forte di prima.",
+"Abbiamo promesso di organizzare un'uscita simile il mese prossimo per festeggiare la fine ufficiale del nostro anno scolastico."
+],
+"audios": [
+{ "id": "audio-it-read-a2-020-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-a2-020-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-a2-020-01",
+"question": "Dove si è incontrato il gruppo di amici alle due?",
+"reponses": [
+{ "id": "a", "texte": "Davanti alla stazione ferroviaria centrale", "correcte": false },
+{ "id": "b", "texte": "All'ingresso del cinema locale", "correcte": false },
+{ "id": "c", "texte": "Nel cortile della loro scuola", "correcte": false },
+{ "id": "d", "texte": "Davanti alla grande fontana nella piazza centrale", "correcte": true }
+]
+},
+{
+"id": "q-it-read-a2-020-02",
+"question": "Quale attrazione ha regalato loro forti emozioni?",
+"reponses": [
+{ "id": "a", "texte": "La ruota panoramica gigante", "correcte": false },
+{ "id": "b", "texte": "Le veloci montagne russe", "correcte": true },
+{ "id": "c", "texte": "Il tiro a segno della fiera", "correcte": false },
+{ "id": "d", "texte": "La casa stregata paurosa", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-020-03",
+"question": "Cosa hanno mangiato verso le quattro e mezza nel caffè?",
+"reponses": [
+{ "id": "a", "texte": "Cialde di gelato alla vaniglia tradizionali", "correcte": false },
+{ "id": "b", "texte": "Dolci crepes con fragole fresche", "correcte": true },
+{ "id": "c", "texte": "Pezzi di pizza calda al formaggio", "correcte": false },
+{ "id": "d", "texte": "Sandwich con prosciutto e pane bianco", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-020-04",
+"question": "Di cosa hanno parlato mentre erano seduti sulla terrazza?",
+"reponses": [
+{ "id": "a", "texte": "Delle vacanze estive e degli esami imminenti", "correcte": true },
+{ "id": "b", "texte": "Degli ultimi videogiochi per computer", "correcte": false },
+{ "id": "c", "texte": "Di come decorare la stanza di un amico", "correcte": false },
+{ "id": "d", "texte": "Del prezzo costoso dei biglietti del parco", "correcte": false }
+]
+},
+{
+"id": "q-it-read-a2-020-05",
+"question": "Quando hanno in programma di fare la loro prossima uscita insieme?",
+"reponses": [
+{ "id": "a", "texte": "La settimana prossima di venerdì senza eccezioni", "correcte": false },
+{ "id": "b", "texte": "Il mese prossimo alla fine dell'anno scolastico", "correcte": true },
+{ "id": "c", "texte": "Nelle prossime fredde vacanze invernali", "correcte": false },
+{ "id": "d", "texte": "Non hanno pianificato assolutamente nulla", "correcte": false }
+]
+}
+]
 }
 ]
