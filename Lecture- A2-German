@@ -3598,5 +3598,685 @@
 ]
 }
 ]
+},
+{
+    "id": "051",
+    "titre": "Meine erste Flugreise",
+    "titre2": "Übung 051",
+    "texte": [
+      "Letzten Sommer bin ich zum allerersten Mal mit einem Flugzeug geflogen, um London zu besuchen.",
+      "Am Flughafen habe ich meinen roten Koffer abgegeben und meine Bordkarte erhalten.",
+      "Vor dem Abflug hatte ich ein bisschen Angst, aber der Flug verlief sehr gut.",
+      "Die Flugbegleiter waren nett und servierten während der Reise eine warme Mahlzeit.",
+      "Vom Fenstersitz aus die weißen Wolken zu betrachten, war eine wunderschöne Aussicht."
+    ],
+    "audios": [
+      { "id": "audio-de-read-a2-051-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-a2-051-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a2-051-01",
+        "question": "Wohin ist der Erzähler letzten Sommer gereist?",
+        "reponses": [
+          { "id": "a", "texte": "Nach Manchester", "correcte": false },
+          { "id": "b", "texte": "Nach London", "correcte": true },
+          { "id": "c", "texte": "Nach Paris", "correcte": false },
+          { "id": "d", "texte": "Nach Kanada", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-051-02",
+        "question": "Welche Farbe hatte der Koffer des Erzählers?",
+        "reponses": [
+          { "id": "a", "texte": "Blau", "correcte": false },
+          { "id": "b", "texte": "Grün", "correcte": false },
+          { "id": "c", "texte": "Rot", "correcte": true },
+          { "id": "d", "texte": "Schwarz", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-051-03",
+        "question": "Wie fühlte sich der Erzähler vor dem Abflug?",
+        "reponses": [
+          { "id": "a", "texte": "Wütend", "correcte": false },
+          { "id": "b", "texte": "Ein bisschen ängstlich", "correcte": true },
+          { "id": "c", "texte": "Sehr müde", "correcte": false },
+          { "id": "d", "texte": "Fröhlich und ruhig", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-051-04",
+        "question": "Wer hat dem Erzähler eine warme Mahlzeit serviert?",
+        "reponses": [
+          { "id": "a", "texte": "Sein Vater", "correcte": false },
+          { "id": "b", "texte": "Der Flugzeugpilot", "correcte": false },
+          { "id": "c", "texte": "Die Flugbegleiter", "correcte": true },
+          { "id": "d", "texte": "Ein anderer Passagier", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-051-05",
+        "question": "Was hat der Erzähler durch das Fenster gesehen?",
+        "reponses": [
+          { "id": "a", "texte": "Weiße Wolken", "correcte": true },
+          { "id": "b", "texte": "Das blaue Meer", "correcte": false },
+          { "id": "c", "texte": "Grüne Berge", "correcte": false },
+          { "id": "d", "texte": "Schnelle Sportautos", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "052",
+    "titre": "Ein Wochenende auf dem Land",
+    "titre2": "Übung 052",
+    "texte": [
+      "Um der lauten Stadt zu entfliehen, bin ich für zwei Tage aufs Land gefahren.",
+      "Ich habe ein kleines Gästezimmer bei einem sehr herzlichen Bauern aus der Region gemietet.",
+      "Am Samstagmorgen bin ich bei strahlendem Sonnenschein am Fluss entlangspaziert.",
+      "Ich sah braune Kühe auf den Feldern und hörte den Vögeln beim Singen zu.",
+      "Diese ruhige Reise hat mir geholfen, mich vor der Rückkehr zur Arbeit völlig auszuruhen."
+    ],
+    "audios": [
+      { "id": "audio-de-read-a2-052-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-a2-052-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a2-052-01",
+        "question": "Warum ist der Erzähler aufs Land gefahren?",
+        "reponses": [
+          { "id": "a", "texte": "Um ein neues Auto zu kaufen", "correcte": false },
+          { "id": "b", "texte": "Um ein großes Museum zu besuchen", "correcte": false },
+          { "id": "c", "texte": "Um der lauten Stadt zu entfliehen", "correcte": true },
+          { "id": "d", "texte": "Um auf dem Markt einzukaufen", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-052-02",
+        "question": "Wo hat der Erzähler ein Zimmer gemietet?",
+        "reponses": [
+          { "id": "a", "texte": "Bei einem herzlichen Bauern", "correcte": true },
+          { "id": "b", "texte": "Im Haus eines Lehrers", "correcte": false },
+          { "id": "c", "texte": "In einem großen modernen Hotel", "correcte": false },
+          { "id": "d", "texte": "Bei seinem Onkel Paul", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-052-03",
+        "question": "Wann ist der Erzähler am Fluss entlangspaziert?",
+        "reponses": [
+          { "id": "a", "texte": "Am Sonntagabend", "correcte": false },
+          { "id": "b", "texte": "Am Freitagnachmittag", "correcte": false },
+          { "id": "c", "texte": "In der dunklen Nacht", "correcte": false },
+          { "id": "d", "texte": "Am Samstagmorgen", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-052-04",
+        "question": "Welche Tiere hat der Erzähler auf den Feldern gesehen?",
+        "reponses": [
+          { "id": "a", "texte": "Schwarze Pferde", "correcte": false },
+          { "id": "b", "texte": "Braune Kühe", "correcte": true },
+          { "id": "c", "texte": "Wilde Kaninchen", "correcte": false },
+          { "id": "d", "texte": "Schäferhunde", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-052-05",
+        "question": "Was war der Hauptvorteil dieser Wochenendreise?",
+        "reponses": [
+          { "id": "a", "texte": "Sich völlig auszuruhen", "correcte": true },
+          { "id": "b", "texte": "Taschengeld zu verdienen", "correcte": false },
+          { "id": "c", "texte": "Fahrradfahren zu lernen", "correcte": false },
+          { "id": "d", "texte": "Die Hausaufgaben zu beenden", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "053",
+    "titre": "Eine neue Stadt entdecken",
+    "titre2": "Übung 053",
+    "texte": [
+      "Heute besuche ich zum allerersten Mal die Stadt Edinburgh.",
+      "Ich habe mir eine Touristenkarte im örtlichen Informationsbüro des Bahnhofs gekauft.",
+      "Ich gehe die Fußgängerzone hinunter und bewundere die alten Gebäude.",
+      "Am Mittag esse ich ein regionales Gericht in einem kleinen Restaurant am Platz.",
+      "Am Nachmittag nehme ich die Straßenbahn, um die berühmte alte Burg zu besichtigen."
+    ],
+    "audios": [
+      { "id": "audio-de-read-a2-053-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-a2-053-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a2-053-01",
+        "question": "Welche Stadt besucht der Erzähler?",
+        "reponses": [
+          { "id": "a", "texte": "London", "correcte": false },
+          { "id": "b", "texte": "Manchester", "correcte": false },
+          { "id": "c", "texte": "Edinburgh", "correcte": true },
+          { "id": "d", "texte": "Liverpool", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-053-02",
+        "question": "Wo hat er seine Touristenkarte gekauft?",
+        "reponses": [
+          { "id": "a", "texte": "In einer kleinen Bäckerei", "correcte": false },
+          { "id": "b", "texte": "Im Wissenschaftsmuseum", "correcte": false },
+          { "id": "c", "texte": "In seinem modernen Hotel", "correcte": false },
+          { "id": "d", "texte": "Im Informationsbüro des Bahnhofs", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-053-03",
+        "question": "Was macht der Erzähler in der Fußgängerzone?",
+        "reponses": [
+          { "id": "a", "texte": "Er rennt, um einen Bus zu bekommen", "correcte": false },
+          { "id": "b", "texte": "Er bewundert die alten Gebäude", "correcte": true },
+          { "id": "c", "texte": "Er kauft Designerkleidung", "correcte": false },
+          { "id": "d", "texte": "Er sucht nach verlorenen Schlüsseln", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-053-04",
+        "question": "Wo isst er am Mittag zu Mittag?",
+        "reponses": [
+          { "id": "a", "texte": "In einem kleinen Restaurant am Platz", "correcte": true },
+          { "id": "b", "texte": "Im Haus seiner Großeltern", "correcte": false },
+          { "id": "c", "texte": "In der Küche seiner Wohnung", "correcte": false },
+          { "id": "d", "texte": "Auf einer Bank im öffentlichen Park", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-a2-053-05",
+        "question": "Welches Verkehrsmittel nutzt er am Nachmittag?",
+        "reponses": [
+          { "id": "a", "texte": "Ein schwarzes Taxi", "correcte": false },
+          { "id": "b", "texte": "Sein rotes Fahrrad", "correcte": false },
+          { "id": "c", "texte": "Die Straßenbahn", "correcte": true },
+          { "id": "d", "texte": "Einen schnellen Zug", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "054",
+    "titre": "Einen Urlaub planen",
+    "titre2": "Übung 054",
+    "texte": [
+      "In zwei Wochen fahre ich endlich mit meinen besten Freunden in einen sonnigen Urlaub.",
+      "Heute Abend treffen wir uns, um unsere Reise zu organisieren und Reservierungen vorzunehmen.",
+      "Wir entscheiden uns, ein kleines Haus am Strand über eine Buchungswebseite zu mieten.",
+      "Ich erstelle eine schriftliche Checkliste der wichtigsten Kleidungsstücke für meine Tasche.",
+      "Ich muss auch noch Sonnencreme und einen neuen blauen Badeanzug kaufen."
+    ],
+    "audios": [
+      { "id": "audio-de-read-a2-054-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-a2-054-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-a2-054-01",
+        "question": "Wann fährt der Erzähler in den Urlaub?",
+        "reponses": [
+        { "id": "a", "texte": "Morgen früh", "correcte": false },
+{ "id": "b", "texte": "In zwei Wochen", "correcte": true },
+{ "id": "c", "texte": "Nächsten Monat", "correcte": false },
+{ "id": "d", "texte": "Während des Winters", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-054-02",
+"question": "Mit wem reist der Erzähler?",
+"reponses": [
+{ "id": "a", "texte": "Mit seinen Bürokollegen", "correcte": false },
+{ "id": "b", "texte": "Mit seinen Großeltern", "correcte": false },
+{ "id": "c", "texte": "Er reist völlig allein", "correcte": false },
+{ "id": "d", "texte": "Mit seinen besten Freunden", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-054-03",
+"question": "Welche Art von Unterkunft wählen sie?",
+"reponses": [
+{ "id": "a", "texte": "Ein Luxushotelzimmer", "correcte": false },
+{ "id": "b", "texte": "Ein kleines Haus am Strand", "correcte": true },
+{ "id": "c", "texte": "Einen alten grauen Wohnwagen", "correcte": false },
+{ "id": "d", "texte": "Eine Wohnung im Stadtzentrum", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-054-04",
+"question": "Was erstellt der Erzähler, um keine Sachen zu vergessen?",
+"reponses": [
+{ "id": "a", "texte": "Einen Anruf bei seiner Mutter", "correcte": false },
+{ "id": "b", "texte": "Eine komplette Zimmerreinigung", "correcte": false },
+{ "id": "c", "texte": "Eine schriftliche Checkliste für Kleidung", "correcte": true },
+{ "id": "d", "texte": "Den Kauf eines zweiten Koffers", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-054-05",
+"question": "Welche Farbe hat der neue Badeanzug?",
+"reponses": [
+{ "id": "a", "texte": "Rot", "correcte": false },
+{ "id": "b", "texte": "Blau", "correcte": true },
+{ "id": "c", "texte": "Schwarz", "correcte": false },
+{ "id": "d", "texte": "Gelb", "correcte": false }
+]
+}
+]
+},
+{
+"id": "055",
+"titre": "Eine Zugreise",
+"titre2": "Übung 055",
+"texte": [
+"Heute Morgen nehme ich den Zug, um meinen Onkel in Liverpool zu besuchen.",
+"Ich kontrolliere mein elektronisches Ticket auf Gleis Nummer drei vor dem Einsteigen.",
+"Mithilfe der geschriebenen Nummer finde ich meinen Sitzplatz am Fenster ganz einfach.",
+"Der Zug fährt sehr schnell und durchquert schöne Felder und grüne Wälder.",
+"Um die Zeit zu vertreiben, lese ich einen Abenteuerroman und höre Musik."
+],
+"audios": [
+{ "id": "audio-de-read-a2-055-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-055-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-055-01",
+"question": "Wen besucht der Erzähler in Liverpool?",
+"reponses": [
+{ "id": "a", "texte": "Seinen Onkel", "correcte": true },
+{ "id": "b", "texte": "Seine Großeltern", "correcte": false },
+{ "id": "c", "texte": "Seinen besten Freund Jack", "correcte": false },
+{ "id": "d", "texte": "Seinen Deutschlehrer", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-055-02",
+"question": "Auf welchem Gleis kontrolliert der Erzähler sein Ticket?",
+"reponses": [
+{ "id": "a", "texte": "Auf Gleis Nummer eins", "correcte": false },
+{ "id": "b", "texte": "Auf Gleis Nummer fünf", "correcte": false },
+{ "id": "c", "texte": "Am Hauptbahnhofseingang", "correcte": false },
+{ "id": "d", "texte": "Auf Gleis Nummer drei", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-055-03",
+"question": "Wo befindet sich der Sitzplatz des Erzählers?",
+"reponses": [
+{ "id": "a", "texte": "In der Nähe der Ausgangstür", "correcte": false },
+{ "id": "b", "texte": "Im Speisewagen", "correcte": false },
+{ "id": "c", "texte": "Am Fenster", "correcte": true },
+{ "id": "d", "texte": "In der allerersten Reihe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-055-04",
+"question": "Welche Landschaften durchquert der schnelle Zug?",
+"reponses": [
+{ "id": "a", "texte": "Schöne Felder und grüne Wälder", "correcte": true },
+{ "id": "b", "texte": "Schneebedeckte weiße Berge", "correcte": false },
+{ "id": "c", "texte": "Große Sandstrände", "correcte": false },
+{ "id": "d", "texte": "Nur dunkle Tunnel", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-055-05",
+"question": "Wie vertreibt sich der Erzähler die Zeit?",
+"reponses": [
+{ "id": "a", "texte": "Er schläft während der ganzen Reise", "correcte": false },
+{ "id": "b", "texte": "Er liest einen Abenteuerroman und hört Musik", "correcte": true },
+{ "id": "c", "texte": "Er spricht mit dem Zugschaffner", "correcte": false },
+{ "id": "d", "texte": "Er zeichnet auf ein weißes Blatt", "correcte": false }
+]
+}
+]
+},
+{
+"id": "056",
+"titre": "Ein Besuch am Meer",
+"titre2": "Übung 056",
+"texte": [
+"An diesem Nachmittag verbringt die ganze Familie den Tag am Meer.",
+"Wir stellen unseren großen gelben Sonnenschirm auf dem warmen Sand des Strandes auf.",
+"Mein kleiner Bruder rennt sofort zum blauen Wasser, um mit seinem Schwimmreifen zu schwimmen.",
+"Meine Mutter liegt lieber auf ihrem Handtuch, um in aller Ruhe ihre Zeitschrift zu lesen.",
+"Um vier Uhr kaufen wir bei einem Verkäufer leckeres Erdbeereis."
+],
+"audios": [
+{ "id": "audio-de-read-a2-056-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-056-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-056-01",
+"question": "Wo verbringt die Familie heute Nachmittag den Tag?",
+"reponses": [
+{ "id": "a", "texte": "In den Bergen", "correcte": false },
+{ "id": "b", "texte": "In einem dichten Wald", "correcte": false },
+{ "id": "c", "texte": "Am Meer", "correcte": true },
+{ "id": "d", "texte": "Im Kunstmuseum", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-056-02",
+"question": "Welche Farbe hat der große Sonnenschirm der Familie?",
+"reponses": [
+{ "id": "a", "texte": "Marineblau", "correcte": false },
+{ "id": "b", "texte": "Leuchtend rot", "correcte": false },
+{ "id": "c", "texte": "Waldgrün", "correcte": false },
+{ "id": "d", "texte": "Gelb", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-056-03",
+"question": "Was benutzt die kleine Bruder, um im Wasser zu schwimmen?",
+"reponses": [
+{ "id": "a", "texte": "Ein großes Plastikboot", "correcte": false },
+{ "id": "b", "texte": "Einen Schwimmreifen", "correcte": true },
+{ "id": "c", "texte": "Eine schwarze Taucherbrille", "correcte": false },
+{ "id": "d", "texte": "Er schwimmt ohne Hilfe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-056-04",
+"question": "Was macht die Mutter auf ihrem Strandtuch?",
+"reponses": [
+{ "id": "a", "texte": "Sie schläft in der Sonne", "correcte": false },
+{ "id": "b", "texte": "Sie isst salzige Kekse", "correcte": false },
+{ "id": "c", "texte": "Sie liest in aller Ruhe ihre Zeitschrift", "correcte": true },
+{ "id": "d", "texte": "Sie beobachtet die braunen Kühe", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-056-05",
+"question": "Welche Eissorte kaufen sie um vier Uhr?",
+"reponses": [
+{ "id": "a", "texte": "Traditionelles Vanilleeis", "correcte": false },
+{ "id": "b", "texte": "Erdbeereis", "correcte": true },
+{ "id": "c", "texte": "Frisches Zitroneneis", "correcte": false },
+{ "id": "d", "texte": "Schokoladeneis", "correcte": false }
+]
+}
+]
+},
+{
+"id": "057",
+"titre": "Ein Tag in den Bergen",
+"titre2": "Übung 057",
+"texte": [
+"Am Sonntagmorgen machen wir eine Wanderung in den hohen Bergen.",
+"Wir ziehen gute Wanderschuhe an und packen unsere Rucksäcke sorgfältig.",
+"Der Weg führt langsam zwischen großen grünen Kiefern und Felsen hinauf.",
+"Oben angekommen entdecken wir einen herrlichen Blick auf einen großen blauen See.",
+"Wir essen unsere Schinken-Käse-Sandwiches in der Sonne, bevor wir hinuntergehen."
+],
+"audios": [
+{ "id": "audio-de-read-a2-057-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-057-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-057-01",
+"question": "Welche Aktivität macht die Familie am Sonntagmorgen?",
+"reponses": [
+{ "id": "a", "texte": "Einen Ausflug ins Schwimmbad", "correcte": false },
+{ "id": "b", "texte": "Eine Wanderung in den Bergen", "correcte": true },
+{ "id": "c", "texte": "Eine Wohnzimmerreinigung", "correcte": false },
+{ "id": "d", "texte": "Einen Besuch in einem Laden", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-057-02",
+"question": "Welche Bäume kreuzt der Bergpfad?",
+"reponses": [
+{ "id": "a", "texte": "Tropische Palmen", "correcte": false },
+{ "id": "b", "texte": "Große grüne Kiefern", "correcte": true },
+{ "id": "c", "texte": "Apfelbäume", "correcte": false },
+{ "id": "d", "texte": "Es gibt dort keine Bäume", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-057-03",
+"question": "Was entdecken sie, wenn sie den Gipfel erreichen?",
+"reponses": [
+{ "id": "a", "texte": "Ein kleines Landdorf", "correcte": false },
+{ "id": "b", "texte": "Einen Blick auf einen großen blauen See", "correcte": true },
+{ "id": "c", "texte": "Eine moderne Bushaltestelle", "correcte": false },
+{ "id": "d", "texte": "Ein geschlossenes italienisches Restaurant", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-057-04",
+"question": "Was isst die Familie zu Mittag?",
+"reponses": [
+{ "id": "a", "texte": "Bestellte heiße Pizzas", "correcte": false },
+{ "id": "b", "texte": "Heiße Gemüsesuppe", "correcte": false },
+{ "id": "c", "texte": "Frische Croissants", "correcte": false },
+{ "id": "d", "texte": "Schinken-Käse-Sandwiches", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-057-05",
+"question": "Was tragen die Wanderer an ihren Füßen?",
+"reponses": [
+{ "id": "a", "texte": "Regenstiefel aus Plastik", "correcte": false },
+{ "id": "b", "texte": "Leichte Strandsandalen", "correcte": false },
+{ "id": "c", "texte": "Gute Wanderschuhe", "correcte": true },
+{ "id": "d", "texte": "Schwarze Rollschuhe", "correcte": false }
+]
+}
+]
+},
+{
+"id": "058",
+"titre": "An der Bushaltestelle auf den Bus warten",
+"titre2": "Übung 058",
+"texte": [
+"Jeden Morgen laufe ich fünf Minuten, um zur örtlichen Bushaltestelle zu gelangen.",
+"Dort warten oft schon andere Schüler meiner Schule auf dem Bürgersteig.",
+"Der Bus Nummer zwölf kommt immer genau um Viertel vor acht an.",
+"Ich zeige dem Fahrer meinen Schülerausweis, bevor ich einsteige.",
+"Die Fahrt dauert zehn Minuten, um direkt vor der Schultür anzukommen."
+],
+"audios": [
+{ "id": "audio-de-read-a2-058-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-058-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-058-01",
+"question": "Wie lange läuft der Erzähler, um zur Bushaltestelle zu gelangen?",
+"reponses": [
+{ "id": "a", "texte": "Nur zwei Minuten", "correcte": false },
+{ "id": "b", "texte": "Zehn volle Minuten", "correcte": false },
+{ "id": "c", "texte": "Fünf Minuten", "correcte": true },
+{ "id": "d", "texte": "Eine halbe Stunde", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-058-02",
+"question": "Wer wartet noch auf dem Bürgersteig an der Haltestelle?",
+"reponses": [
+{ "id": "a", "texte": "Markthändler", "correcte": false },
+{ "id": "b", "texte": "Der Hausmeister des Gebäudes", "correcte": false },
+{ "id": "c", "texte": "Andere Schüler seiner Schule", "correcte": true },
+{ "id": "d", "texte": "Kanadische Touristen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-058-03",
+"question": "Welche Nummer hat der morgendliche Bus?",
+"reponses": [
+{ "id": "a", "texte": "Bus Nummer drei", "correcte": false },
+{ "id": "b", "texte": "Bus Nummer vierzehn", "correcte": false },
+{ "id": "c", "texte": "Bus Nummer zwölf", "correcte": true },
+{ "id": "d", "texte": "Bus Nummer zwanzig", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-058-04",
+"question": "Was zeigt der Erzähler dem Fahrer vor dem Einsteigen?",
+"reponses": [
+{ "id": "a", "texte": "Sein neues Handy", "correcte": false },
+{ "id": "b", "texte": "Einen Zehn-Euro-Schein", "correcte": false },
+{ "id": "c", "texte": "Sein geschriebenes Heft", "correcte": false },
+{ "id": "d", "texte": "Seinen Schülerausweis", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-058-05",
+"question": "Wie viele Minuten dauert die Busfahrt?",
+"reponses": [
+{ "id": "a", "texte": "Fünf schnelle Minuten", "correcte": false },
+{ "id": "b", "texte": "Zehn Minuten", "correcte": true },
+{ "id": "c", "texte": "Insgesamt fünfzehn Minuten", "correcte": false },
+{ "id": "d", "texte": "Mehr als eine Stunde", "correcte": false }
+]
+}
+]
+},
+{
+"id": "059",
+"titre": "Ein Spaziergang durch ein Dorf",
+"titre2": "Übung 059",
+"texte": [
+"Am Samstagnachmittag besuche ich gerne alte kleine Dörfer in der Umgebung.",
+"Heute spaziere ich durch die Steinstraßen eines mittelalterlichen Dorfes.",
+"In der Mitte befindet sich ein hübscher Wasserbrunnen, an dem die Leute anhalten.",
+"Ich kaufe einen Zucker-Crepe in einem traditionellen kleinen Laden an der Ecke.",
+"Die Einheimischen sind sehr nett und begrüßen Touristen mit einem herzlichen Lächeln."
+],
+"audios": [
+{ "id": "audio-de-read-a2-059-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-059-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-059-01",
+"question": "Wann besucht der Erzähler gerne kleine Dörfer?",
+"reponses": [
+{ "id": "a", "texte": "Am frühen Montag morgen", "correcte": false },
+{ "id": "b", "texte": "Spät am Mittwochabend", "correcte": false },
+{ "id": "c", "texte": "Während der Weihnachtsferien", "correcte": false },
+{ "id": "d", "texte": "Am Samstagnachmittag", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-059-02",
+"question": "Woraus bestehen die Straßen des mittelalterlichen Dorfes?",
+"reponses": [
+{ "id": "a", "texte": "Aus schwarzen Teerstraßen", "correcte": false },
+{ "id": "b", "texte": "Aus Steinblöcken", "correcte": true },
+{ "id": "c", "texte": "Aus einer grünen Schlammschicht", "correcte": false },
+{ "id": "d", "texte": "Aus sehr großen modernen Alleen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-059-03",
+"question": "Was befindet sich auf dem zentralen Platz des Dorfes?",
+"reponses": [
+{ "id": "a", "texte": "Ein großes modernes Kino", "correcte": false },
+{ "id": "b", "texte": "Ein alter Bahnhof", "correcte": false },
+{ "id": "c", "texte": "Ein hübscher Wasserbrunnen", "correcte": true },
+{ "id": "d", "texte": "Ein großes Fußballfeld", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-059-04",
+"question": "Was kauft der Erzähler in dem kleinen Laden?",
+"reponses": [
+{ "id": "a", "texte": "Ein traditionelles Vanilleeis", "correcte": false },
+{ "id": "b", "texte": "Einen Zucker-Crepe", "correcte": true },
+{ "id": "c", "texte": "Ein frisches Fischsandwich", "correcte": false },
+{ "id": "d", "texte": "Ein altes Geschichtenbuch", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-059-05",
+"question": "Wie begrüßen die Einheimischen die reisenden Touristen?",
+"reponses": [
+{ "id": "a", "texte": "Mit Wut und schlechten Manieren", "correcte": false },
+{ "id": "b", "texte": "Sie weigern sich, mit Menschen zu sprechen", "correcte": false },
+{ "id": "c", "texte": "Mit einem herzlichen Lächeln", "correcte": true },
+{ "id": "d", "texte": "Indem sie ihnen Taschengeld geben", "correcte": false }
+]
+}
+]
+},
+{
+"id": "060",
+"titre": "Die Vorbereitungen für einen Schulausflug",
+"titre2": "Übung 060",
+"texte": [
+"Morgen bricht unsere Klasse zu einem großen dreitägigen Schulausflug auf.",
+"Der Lehrer hat uns einen Zettel mit der obligatorischen Packliste gegeben.",
+"Ich packe sorgfältig zwei Sporthosen und drei T-Shirts ein.",
+"Ich muss an meinen Kulturbeutel mit meiner Zahnbürste und einem Stück Seife denken.",
+"Ich bin sehr aufgeregt, mit meinen Freunden ein neues Museum zu entdecken."
+],
+"audios": [
+{ "id": "audio-de-read-a2-060-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-a2-060-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-a2-060-01",
+"question": "Wie lange wird der Schulausflug dauern?",
+"reponses": [
+{ "id": "a", "texte": "Einen einzigen vollen Tag", "correcte": false },
+{ "id": "b", "texte": "Eine ganze Woche in Cornwall", "correcte": false },
+{ "id": "c", "texte": "Drei komplette Tage", "correcte": true },
+{ "id": "d", "texte": "Mehr als zwei Wochen", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-060-02",
+"question": "Wer hat den Schülern den Zettel mit der Packliste gegeben?",
+"reponses": [
+{ "id": "a", "texte": "Der Leiter des Schreibwarengeschäfts", "correcte": false },
+{ "id": "b", "texte": "Die Mutter des Erzählers, Sophie", "correcte": false },
+{ "id": "c", "texte": "Der Museumsführer", "correcte": false },
+{ "id": "d", "texte": "Der Klassenlehrer", "correcte": true }
+]
+},
+{
+"id": "q-de-read-a2-060-03",
+"question": "Wie viele T-Shirts packt der Erzähler in seine Tasche?",
+"reponses": [
+{ "id": "a", "texte": "Ein einziges weißes T-Shirt", "correcte": false },
+{ "id": "b", "texte": "Fünf Ersatz-T-Shirts", "correcte": false },
+{ "id": "c", "texte": "Drei T-Shirts", "correcte": true },
+{ "id": "d", "texte": "Er nimmt überhaupt keine T-Shirts mit", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-060-04",
+"question": "Welche Dinge befinden sich im Kulturbeutel des Erzählers?",
+"reponses": [
+{ "id": "a", "texte": "Buntstifte und Hefte", "correcte": false },
+{ "id": "b", "texte": "Eine Zahnbürste und ein Stück Seife", "correcte": true },
+{ "id": "c", "texte": "Kekse und eine Flasche Saft", "correcte": false },
+{ "id": "d", "texte": "Pflaster und etwas Sonnencreme", "correcte": false }
+]
+},
+{
+"id": "q-de-read-a2-060-05",
+"question": "What are the students going to discover on this trip?",
+"reponses": [
+{ "id": "a", "texte": "Einen großen Sandstrandbereich", "correcte": false },
+{ "id": "b", "texte": "Ein Hallenschwimmbad", "correcte": false },
+{ "id": "c", "texte": "Ein brandneues lokales Museum", "correcte": true },
+{ "id": "d", "texte": "Den großen Garten von Herrn Paul", "correcte": false }
+]
+}
+]
 }
 ]
