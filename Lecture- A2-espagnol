@@ -43,6 +43,26 @@
 { "id": "c", "texte": "Un zumo frío", "correcte": false },
 { "id": "d", "texte": "Una taza de té", "correcte": true }
 ]
+},
+{
+"id": "q-es-read-a2-001-04",
+"question": "¿Cómo viaja el narrador al centro de la ciudad?",
+"reponses": [
+{ "id": "a", "texte": "En coche", "correcte": false },
+{ "id": "b", "texte": "En autobús", "correcte": true },
+{ "id": "c", "texte": "A pie", "correcte": false },
+{ "id": "d", "texte": "En tren", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-001-05",
+"question": "¿A qué hora sale el narrador de su casa?",
+"reponses": [
+{ "id": "a", "texte": "A las siete", "correcte": false },
+{ "id": "b", "texte": "A las nueve", "correcte": false },
+{ "id": "c", "texte": "A las seis", "correcte": false },
+{ "id": "d", "texte": "A las ocho", "correcte": true }
+]
 }
 ]
 },
@@ -91,8 +111,28 @@
 "reponses": [
 { "id": "a", "texte": "A las siete en punto", "correcte": false },
 { "id": "b", "texte": "A las siete y media", "correcte": true },
-{ "id": "c", "texte": "A las ocho menos cuarto", "correcte": false },
-{ "id": "d", "texte": "A las ocho de la mañana", "correcte": false }
+{ "id": "c", "texte": "A las ocho de la mañana", "correcte": false },
+{ "id": "d", "texte": "A las seis y media", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-002-04",
+"question": "¿Qué hace antes de salir de su habitación?",
+"reponses": [
+{ "id": "a", "texte": "Hacer la cama", "correcte": true },
+{ "id": "b", "texte": "Limpiar las ventanas", "correcte": false },
+{ "id": "c", "texte": "Escuchar música", "correcte": false },
+{ "id": "d", "texte": "Leer un libro", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-002-05",
+"question": "¿Por qué le gusta tomarse su tiempo por la mañana?",
+"reponses": [
+{ "id": "a", "texte": "Porque tiene mucho sueño", "correcte": false },
+{ "id": "b", "texte": "Porque odia correr antes de ir a trabajar", "correcte": true },
+{ "id": "c", "texte": "Porque prefiere ver la televisión", "correcte": false },
+{ "id": "d", "texte": "Porque el desayuno tarda mucho", "correcte": false }
 ]
 }
 ]
@@ -146,6 +186,26 @@
 { "id": "c", "texte": "Queso blanco", "correcte": false },
 { "id": "d", "texte": "Mermelada de fresa", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-003-04",
+"question": "¿Cuándo toma Carlos este desayuno?",
+"reponses": [
+{ "id": "a", "texte": "Todos los días laborables", "correcte": false },
+{ "id": "b", "texte": "Solo los lunes", "correcte": false },
+{ "id": "c", "texte": "Los fines de semana", "correcte": true },
+{ "id": "d", "texte": "Por las tardes", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-003-05",
+"question": "¿Cuántas naranjas ha exprimido Carlos?",
+"reponses": [
+{ "id": "a", "texte": "Dos naranjas", "correcte": false },
+{ "id": "b", "texte": "Tres naranjas", "correcte": true },
+{ "id": "c", "texte": "Cuatro naranjas", "correcte": false },
+{ "id": "d", "texte": "Cinco naranjas", "correcte": false }
+]
 }
 ]
 },
@@ -180,7 +240,7 @@
 },
 {
 "id": "q-es-read-a2-004-02",
-"question": "¿Dónde se comió Sofía el sándwich al mediodía?",
+"question": "Análisis: ¿Dónde se comió Sofía el sándwich al mediodía?",
 "reponses": [
 { "id": "a", "texte": "En un restaurante italiano", "correcte": false },
 { "id": "b", "texte": "En la oficina del cliente", "correcte": false },
@@ -197,6 +257,26 @@
 { "id": "c", "texte": "A las diez de la noche", "correcte": false },
 { "id": "d", "texte": "A la medianoche", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-004-04",
+"question": "¿Qué transporte utilizó para ir a su primera reunión?",
+"reponses": [
+{ "id": "a", "texte": "El autobús urbano", "correcte": false },
+{ "id": "b", "texte": "Su propio coche", "correcte": false },
+{ "id": "c", "texte": "Un taxi privado", "correcte": false },
+{ "id": "d", "texte": "El metro", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-004-05",
+"question": "¿Qué olvidaba Sofía antes de que le avisara su compañero?",
+"reponses": [
+{ "id": "a", "texte": "Las llaves del piso", "correcte": false },
+{ "id": "b", "texte": "Los documentos para el cliente", "correcte": true },
+{ "id": "c", "texte": "Su teléfono móvil", "correcte": false },
+{ "id": "d", "texte": "Su monedero", "correcte": false }
+]
 }
 ]
 },
@@ -210,7 +290,7 @@
 "Entrenamos durante una hora y media con nuestro profesor, que es bastante estricto pero muy divertido.",
 "Los martes y los jueves la situación es diferente porque tengo clases particulares de dibujo artístico.",
 "Me encanta pintar con acuarelas y crear paisajes naturales.",
-"Los viernes son mis días favoritos de la semana porque no tengo ninguna actividad obligatoria por la tarde.",
+"Los viernes son mis días favoritos de la semana porque no tengo ninguna activity obligatoria por la tarde.",
 "Normalmente quedo con mis amigos de la escuela para ir al cine o pasear por el centro comercial.",
 "A veces compramos un helado y nos sentamos en la plaza central a charlar sobre los exámenes y los planes del fin de semana.",
 "Creo que es fundamental tener pasatiempos interesantes después de estudiar para relajar la mente."
@@ -247,6 +327,26 @@
 { "id": "b", "texte": "Con sus profesores", "correcte": false },
 { "id": "c", "texte": "Con sus amigos de la escuela", "correcte": true },
 { "id": "d", "texte": "Con sus compañeros de equipo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-005-04",
+"question": "¿A qué hora terminan las clases de la escuela?",
+"reponses": [
+{ "id": "a", "texte": "A las doce en punto", "correcte": false },
+{ "id": "b", "texte": "A las dos de la tarde", "correcte": true },
+{ "id": "c", "texte": "A las cuatro de la tarde", "correcte": false },
+{ "id": "d", "texte": "A la una y media", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-005-05",
+"question": "¿Cuánto tiempo dura el entrenamiento de baloncesto?",
+"reponses": [
+{ "id": "a", "texte": "Una hora", "correcte": false },
+{ "id": "b", "texte": "Dos horas", "correcte": false },
+{ "id": "c", "texte": "Media hora", "correcte": false },
+{ "id": "d", "texte": "Una hora y media", "correcte": true }
 ]
 }
 ]
@@ -300,6 +400,26 @@
 { "id": "c", "texte": "Hamburguesas compradas", "correcte": false },
 { "id": "d", "texte": "Sopa de verduras", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-006-04",
+"question": "¿Quiénes preparan la cena en la cocina?",
+"reponses": [
+{ "id": "a", "texte": "El padre y el narrador", "correcte": false },
+{ "id": "b", "texte": "La madre y la hermana pequeña", "correcte": false },
+{ "id": "c", "texte": "La madre y el narrador", "correcte": true },
+{ "id": "d", "texte": "El padre y la madre", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-006-05",
+"question": "¿Dónde se sientan para cenar y ver la película?",
+"reponses": [
+{ "id": "a", "texte": "En las sillas del comedor", "correcte": false },
+{ "id": "b", "texte": "En el gran sofá del salón", "correcte": true },
+{ "id": "c", "texte": "En el suelo del pasillo", "correcte": false },
+{ "id": "d", "texte": "En las camas de sus habitaciones", "correcte": false }
+]
 }
 ]
 },
@@ -350,6 +470,26 @@
 { "id": "b", "texte": "Un libro de fotos", "correcte": false },
 { "id": "c", "texte": "Un imán para la nevera", "correcte": false },
 { "id": "d", "texte": "Un trozo de queso artesano", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-007-04",
+"question": "¿Qué medio de transporte utilizarán para viajar?",
+"reponses": [
+{ "id": "a", "texte": "Un autobús de línea", "correcte": false },
+{ "id": "b", "texte": "Un tren", "correcte": true },
+{ "id": "c", "texte": "Un coche alquilado", "correcte": false },
+{ "id": "d", "texte": "Una motocicleta", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-007-05",
+"question": "¿Qué cocinarán en la fogata el sábado por la noche?",
+"reponses": [
+{ "id": "a", "texte": "Unas salchichas", "correcte": true },
+{ "id": "b", "texte": "Un pescado fresco", "correcte": false },
+{ "id": "c", "texte": "Unas patatas fritas", "correcte": false },
+{ "id": "d", "texte": "Malvaviscos dulces", "correcte": false }
 ]
 }
 ]
@@ -403,6 +543,26 @@
 { "id": "c", "texte": "Cerca de la frutería", "correcte": false },
 { "id": "d", "texte": "Al lado de las cajas", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-008-04",
+"question": "¿Qué frutas necesita comprar según su lista?",
+"reponses": [
+{ "id": "a", "texte": "Plátanos y manzanas rojas", "correcte": true },
+{ "id": "b", "texte": "Naranjas y fresas", "correcte": false },
+{ "id": "c", "texte": "Sandía y melón", "correcte": false },
+{ "id": "d", "texte": "Piña y uvas verdes", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-008-05",
+"question": "¿Por qué tiene prisa el cliente?",
+"reponses": [
+{ "id": "a", "texte": "Porque cierra el supermercado", "correcte": false },
+{ "id": "b", "texte": "Porque tiene un partido de fútbol", "correcte": false },
+{ "id": "c", "texte": "Porque su familia ya está en casa", "correcte": false },
+{ "id": "d", "texte": "El texto solo dice que tiene prisa esta mañana", "correcte": true }
+]
 }
 ]
 },
@@ -415,7 +575,7 @@
 "Llamé a su puerta dos veces y abrió con una gran sonrisa en la cara.",
 "—¡Hola! Qué alegría verte por aquí. Pasa, por favor, la cocina está abierta.",
 "Me invitó a sentarme en su salón, que está lleno de plantas hermosas y libros antiguos.",
-"Preparó unas tazas de café y me ofreció unas pastisetas de mantequilla riquísimas que él mismo cocinó.",
+"Preparó unas tazas de café y me ofreció unas pastisitas de mantequilla riquísimas que él mismo cocinó.",
 "Estuvimos hablando durante más de una hora sobre la historia del barrio y cómo ha cambiado todo en los últimos treinta años.",
 "Manuel me enseñó fotos en blanco y negro de su juventud cuando trabajaba como marinero en el norte.",
 "Fue una tarde muy agradable y me di cuenta de que nuestros vecinos tienen historias increíbles que contar.",
@@ -453,6 +613,26 @@
 { "id": "b", "texte": "A pintar el salón", "correcte": false },
 { "id": "c", "texte": "A limpiar la cocina", "correcte": false },
 { "id": "d", "texte": "A regar las plantas del balcón", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-009-04",
+"question": "¿Qué merienda ofreció el señor Manuel?",
+"reponses": [
+{ "id": "a", "texte": "Tazas de té y pasteles de chocolate", "correcte": false },
+{ "id": "b", "texte": "Tazas de café y galletas de mantequilla", "correcte": true },
+{ "id": "c", "texte": "Zumo de naranja y sándwiches", "correcte": false },
+{ "id": "d", "texte": "Un vaso de leche con galletas de avena", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-009-05",
+"question": "¿De qué tipo eran las fotos que enseñó el vecino?",
+"reponses": [
+{ "id": "a", "texte": "A todo color y digitales", "correcte": false },
+{ "id": "b", "texte": "En blanco y negro", "correcte": true },
+{ "id": "c", "texte": "Fotos de paisajes de montaña", "correcte": false },
+{ "id": "d", "texte": "Fotos de su familia actual", "correcte": false }
 ]
 }
 ]
@@ -505,6 +685,26 @@
 { "id": "c", "texte": "Cocinan un pastel de chocolate", "correcte": false },
 { "id": "d", "texte": "Duermen una siesta en el sofá", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-010-04",
+"question": "¿De qué tareas se encarga la hermana mayor?",
+"reponses": [
+{ "id": "a", "texte": "Limpiar el polvo y pasar la aspiradora", "correcte": false },
+{ "id": "b", "texte": "Poner la lavadora y tender la ropa", "correcte": false },
+{ "id": "c", "texte": "Lavar los platos y limpiar los baños", "correcte": true },
+{ "id": "d", "texte": "Cortar el césped y recoger hojas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-010-05",
+"question": "¿Dónde tiende la ropa la madre?",
+"reponses": [
+{ "id": "a", "texte": "En el baño principal", "correcte": false },
+{ "id": "b", "texte": "En el salón al lado de la ventana", "correcte": false },
+{ "id": "c", "texte": "En el jardín trasero", "correcte": false },
+{ "id": "d", "texte": "En la terraza", "correcte": true }
+]
 }
 ]
 },
@@ -554,6 +754,26 @@
 { "id": "b", "texte": "Educación infantil", "correcte": false },
 { "id": "c", "texte": "Arquitectura", "correcte": true },
 { "id": "d", "texte": "Historia del arte", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-011-04",
+"question": "¿Dónde trabaja la madre, Elena?",
+"reponses": [
+{ "id": "a", "texte": "En un banco del centro", "correcte": false },
+{ "id": "b", "texte": "En el hospital central", "correcte": true },
+{ "id": "c", "texte": "En la misma escuela que el padre", "correcte": false },
+{ "id": "d", "texte": "Trabaja desde casa", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-011-05",
+"question": "¿Cuántos años tiene Sofía, la hermana pequeña?",
+"reponses": [
+{ "id": "a", "texte": "Cinco años", "correcte": false },
+{ "id": "b", "texte": "Seis años", "correcte": false },
+{ "id": "c", "texte": "Siete años", "correcte": false },
+{ "id": "d", "texte": "Ocho años", "correcte": true }
 ]
 }
 ]
@@ -606,6 +826,26 @@
 { "id": "c", "texte": "De vainilla y limón", "correcte": false },
 { "id": "d", "texte": "De chocolate", "correcte": true }
 ]
+},
+{
+"id": "q-es-read-a2-012-04",
+"question": "¿A qué hora llegaron los amigos de la escuela?",
+"reponses": [
+{ "id": "a", "texte": "A las cuatro de la tarde", "correcte": true },
+{ "id": "b", "texte": "A las cinco en punto", "correcte": false },
+{ "id": "c", "texte": "A las seis de la tarde", "correcte": false },
+{ "id": "d", "texte": "A las dos del mediodía", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-012-05",
+"question": "¿Cuáles fueron los regalos que recibió Lucía?",
+"reponses": [
+{ "id": "a", "texte": "Una bicicleta y ropa de deporte", "correcte": false },
+{ "id": "b", "texte": "Un libro de aventuras, patines y un juego de mesa", "correcte": true },
+{ "id": "c", "texte": "Una muñeca grande y una mochila escolar", "correcte": false },
+{ "id": "d", "texte": "Un teléfono móvil y videojuegos", "correcte": false }
+]
 }
 ]
 },
@@ -657,6 +897,26 @@
 { "id": "c", "texte": "Frutas de su huerto y bizcocho", "correcte": true },
 { "id": "d", "texte": "Un juguete de madera", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-013-04",
+"question": "¿Con qué frecuencia visita el narrador a sus abuelos?",
+"reponses": [
+{ "id": "a", "texte": "Cada dos domingos", "correcte": true },
+{ "id": "b", "texte": "Todos los sábados", "correcte": false },
+{ "id": "c", "texte": "Una vez al mes", "correcte": false },
+{ "id": "d", "texte": "Solo en las vacaciones de verano", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-013-05",
+"question": "¿Cuánto tiempo dura el viaje en coche?",
+"reponses": [
+{ "id": "a", "texte": "Treinta minutos", "correcte": false },
+{ "id": "b", "texte": "Dos horas", "correcte": false },
+{ "id": "c", "texte": "Una hora", "correcte": true },
+{ "id": "d", "texte": "Cuarenta y cinco minutos", "correcte": false }
+]
 }
 ]
 },
@@ -707,6 +967,26 @@
 { "id": "b", "texte": "Juegan al tenis en el club", "correcte": false },
 { "id": "c", "texte": "Van al gimnasio del barrio", "correcte": true },
 { "id": "d", "texte": "Practican natación en la piscina", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-014-04",
+"question": "¿Qué tipo de música les gusta escuchar?",
+"reponses": [
+{ "id": "a", "texte": "Música clásica", "correcte": false },
+{ "id": "b", "texte": "Música pop moderna", "correcte": false },
+{ "id": "c", "texte": "Música electrónica", "correcte": false },
+{ "id": "d", "texte": "Música rock", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-014-05",
+"question": "¿Desde hace cuántos años se conocen?",
+"reponses": [
+{ "id": "a", "texte": "Desde hace tres años", "correcte": false },
+{ "id": "b", "texte": "Desde hace más de cinco años", "correcte": true },
+{ "id": "c", "texte": "Desde la escuela primaria", "correcte": false },
+{ "id": "d", "texte": "Se conocieron este mes", "correcte": false }
 ]
 }
 ]
@@ -760,6 +1040,26 @@
 { "id": "c", "texte": "Recepcionista en un hotel", "correcte": true },
 { "id": "d", "texte": "Conductora de autobús", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-015-04",
+"question": "¿Qué día de la semana viaja Daniel a la universidad?",
+"reponses": [
+{ "id": "a", "texte": "Los lunes", "correcte": false },
+{ "id": "b", "texte": "Los miércoles", "correcte": false },
+{ "id": "c", "texte": "Los viernes", "correcte": false },
+{ "id": "d", "texte": "Los martes", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-015-05",
+"question": "¿Por qué estudia Laura el idioma francés?",
+"reponses": [
+{ "id": "a", "texte": "Porque lo necesita para su trabajo", "correcte": true },
+{ "id": "b", "texte": "Porque va a viajar de vacaciones a París", "correcte": false },
+{ "id": "c", "texte": "Porque es su pasatiempo favorito", "correcte": false },
+{ "id": "d", "texte": "Porque tiene un examen mañana", "correcte": false }
+]
 }
 ]
 },
@@ -812,6 +1112,26 @@
 { "id": "c", "texte": "Fueron a comprar más comida", "correcte": false },
 { "id": "d", "texte": "Limpiaron toda la casa", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-016-04",
+"question": "¿Cuántas personas asistieron aproximadamente a la reunión?",
+"reponses": [
+{ "id": "a", "texte": "Menos de diez personas", "correcte": false },
+{ "id": "b", "texte": "Exactamente cincuenta personas", "correcte": false },
+{ "id": "c", "texte": "Más de veinte personas", "correcte": true },
+{ "id": "d", "texte": "Solo los padres y los hijos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-016-05",
+"question": "¿Qué postre trajo la tía abuela?",
+"reponses": [
+{ "id": "a", "texte": "Un pastel de manzana", "correcte": true },
+{ "id": "b", "texte": "Helado de vainilla", "correcte": false },
+{ "id": "c", "texte": "Flan casero con nata", "correcte": false },
+{ "id": "d", "texte": "Una tarta de chocolate", "correcte": false }
+]
 }
 ]
 },
@@ -863,6 +1183,26 @@
 { "id": "c", "texte": "Unas bicicletas", "correcte": true },
 { "id": "d", "texte": "Un pequeño barco", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-017-04",
+"question": "¿Dónde duermen durante esta semana de vacaciones?",
+"reponses": [
+{ "id": "a", "texte": "En cabañas de madera", "correcte": false },
+{ "id": "b", "texte": "En tiendas de campaña grandes", "correcte": true },
+{ "id": "c", "texte": "En una casa alquilada", "correcte": false },
+{ "id": "d", "texte": "En caravanas modernas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-017-05",
+"question": "¿Cuánto tiempo tardan en caminar desde el camping hasta el mar?",
+"reponses": [
+{ "id": "a", "texte": "Cinco minutos", "correcte": true },
+{ "id": "b", "texte": "Veinte minutos", "correcte": false },
+{ "id": "c", "texte": "Media hora", "correcte": false },
+{ "id": "d", "texte": "Está en la misma arena de la playa", "correcte": false }
+]
 }
 ]
 },
@@ -880,7 +1220,7 @@
 "—¡Cuidado con esa salsa, hijo! Es muy fuerte —me advirtió mi padre riéndose.",
 "Por la tarde, fuimos al estadio de la ciudad para ver un partido de fútbol de nuestro equipo favorito.",
 "El partido estuvo muy emocionante y ganamos en el último minuto gracias a un gol de penalti.",
-"Regresamos a casa cansados pero muy contentos por haber compartido este tiempo tan especial."
+"Regresaremos a casa cansados pero muy contentos por haber compartido este tiempo tan especial."
 ],
 "audios": [
 { "id": "audio-es-read-a2-018-1", "url": "soundcloud.com" }
@@ -914,6 +1254,26 @@
 { "id": "b", "texte": "El partido se canceló por la lluvia", "correcte": false },
 { "id": "c", "texte": "Empataron a cero goles", "correcte": false },
 { "id": "d", "texte": "Ganaron en el último minuto", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-018-04",
+"question": "¿Qué tipo de comida almorzaron al mediodía?",
+"reponses": [
+{ "id": "a", "texte": "Comida italiana", "correcte": false },
+{ "id": "b", "texte": "Comida mexicana", "correcte": true },
+{ "id": "c", "texte": "Comida japonesa", "correcte": false },
+{ "id": "d", "texte": "Comida rápida tradicional", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-018-05",
+"question": "¿Cómo se marcó el gol de la victoria en el partido?",
+"reponses": [
+{ "id": "a", "texte": "De cabeza después de un córner", "correcte": false },
+{ "id": "b", "texte": "Gracias a un gol de penalti", "correcte": true },
+{ "id": "c", "texte": "Fue un gol en propia puerta del rival", "correcte": false },
+{ "id": "d", "texte": "Desde una gran distancia del área", "correcte": false }
 ]
 }
 ]
@@ -966,6 +1326,26 @@
 { "id": "c", "texte": "A las diez y media", "correcte": true },
 { "id": "d", "texte": "A las once en punto", "correcte": false }
 ]
+},
+{
+"id": "q-es-read-a2-019-04",
+"question": "¿Qué tipo de libros le gusta leer por la tarde?",
+"reponses": [
+{ "id": "a", "texte": "Novelas de ciencia ficción", "correcte": false },
+{ "id": "b", "texte": "Poesía romántica", "correcte": false },
+{ "id": "c", "texte": "Libros de cocina internacional", "correcte": false },
+{ "id": "d", "texte": "Novelas históricas", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-019-05",
+"question": "¿Dónde trabaja la madre y hasta qué hora?",
+"reponses": [
+{ "id": "a", "texte": "En un hospital hasta las cinco de la tarde", "correcte": false },
+{ "id": "b", "texte": "En una oficina bancaria hasta las dos de la tarde", "correcte": true },
+{ "id": "c", "texte": "En una biblioteca hasta la una de la tarde", "correcte": false },
+{ "id": "d", "texte": "En una tienda de ropa toda la jornada", "correcte": false }
+]
 }
 ]
 },
@@ -1017,6 +1397,26 @@
 { "id": "b", "texte": "De las vacaciones de Navidad", "correcte": true },
 { "id": "c", "texte": "De una película de miedo", "correcte": false },
 { "id": "d", "texte": "De fútbol profesional", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-020-04",
+"question": "¿Cuántas partidas de bolos jugaron en total?",
+"reponses": [
+{ "id": "a", "texte": "Una sola partida larga", "correcte": false },
+{ "id": "b", "texte": "Tres partidas muy rápidas", "correcte": false },
+{ "id": "c", "texte": "Ninguna porque estaba cerrado", "correcte": false },
+{ "id": "d", "texte": "Dos partidas", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-020-05",
+"question": "¿A qué hora y dónde se despidieron los amigos?",
+"reponses": [
+{ "id": "a", "texte": "A las diez de la noche en el restaurante", "correcte": false },
+{ "id": "b", "texte": "A las nueve de la noche en la estación de metro", "correcte": true },
+{ "id": "c", "texte": "A las ocho en la plaza mayor", "correcte": false },
+{ "id": "d", "texte": "A la medianoche en la bolera", "correcte": false }
 ]
 }
 ]
