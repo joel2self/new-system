@@ -1,4 +1,3 @@
-
 [
 {
 "id": "001",
@@ -1861,7 +1860,7 @@
 { "id": "a", "texte": "Su padre", "correcte": false },
 { "id": "b", "texte": "Su madre", "correcte": true },
 { "id": "c", "texte": "Su hermano mayor", "correcte": false },
-{ "id": "d": "Su profesor particular", "correcte": false }
+{ "id": "d", "texte": "Su profesor particular", "correcte": false }
 ]
 },
 {
@@ -2885,6 +2884,727 @@
 ]
 }
 ]
+},
+{
+"id": "041",
+"titre": "Mi deporte favorito",
+"titre2": "Übung 041",
+"texte": [
+"Aunque a muchos de mis compañeros de clase les gusta el fútbol, mi deporte favorito es el tenis.",
+"Practico esta disciplina tres veces por semana en las pistas del polideportivo de mi barrio.",
+"Empecé a jugar cuando tenía solo diez años porque mi padre me regaló mi primera raqueta.",
+"El tenis requiere mucha concentración, velocidad en las piernas y una buena preparación física.",
+"Mi profesor se llama Fernando; es muy paciente y siempre nos enseña técnicas para mejorar el saque.",
+"Los sábados por la mañana suelo jugar un partido amistoso con mi mejor amigo, Mateo.",
+"—¡Buen golpe, Pedro! Estás mejorando mucho el revés este mes —me dijo Fernando el pasado martes.",
+"Para mí, el tenis no es solo una forma de hacer ejercicio, sino también una actividad para desconectar.",
+"En el futuro, me encantaría viajar a París para ver un torneo profesional en directo con mi familia."
+],
+"audios": [
+{ "id": "audio-es-read-a2-041-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-041-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-041-01",
+"question": "¿Cuál es el deporte favorito del narrador?",
+"reponses": [
+{ "id": "a", "texte": "El fútbol sala", "correcte": false },
+{ "id": "b", "texte": "El baloncesto", "correcte": false },
+{ "id": "c", "texte": "El tenis", "correcte": true },
+{ "id": "d", "texte": "La natación", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-041-02",
+"question": "¿Con qué frecuencia entrena el narrador durante la semana?",
+"reponses": [
+{ "id": "a", "texte": "Dos veces por semana", "correcte": false },
+{ "id": "b", "texte": "Tres veces por semana", "correcte": true },
+{ "id": "c", "texte": "Todos los días por la tarde", "correcte": false },
+{ "id": "d": "Solo los fines de semana", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-041-03",
+"question": "¿Quién le regaló al narrador su primera raqueta de tenis?",
+"reponses": [
+{ "id": "a", "texte": "Su profesor Fernando", "correcte": false },
+{ "id": "b", "texte": "Su mejor amigo Mateo", "correcte": false },
+{ "id": "c", "texte": "Su abuelo paterno", "correcte": false },
+{ "id": "d", "texte": "Su padre", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-041-04",
+"question": "¿Qué técnica felicita el profesor por haber mejorado?",
+"reponses": [
+{ "id": "a", "texte": "El saque inicial", "correcte": false },
+{ "id": "b", "texte": "El revés", "correcte": true },
+{ "id": "c", "texte": "La velocidad de carrera", "correcte": false },
+{ "id": "d", "texte": "La volea en la red", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-041-05",
+"question": "¿A qué ciudad le gustaría viajar en el futuro para ver un torneo?",
+"reponses": [
+{ "id": "a", "texte": "A París", "correcte": true },
+{ "id": "b", "texte": "A Madrid", "correcte": false },
+{ "id": "c", "texte": "A Londres", "correcte": false },
+{ "id": "d", "texte": "A Nueva York", "correcte": false }
+]
 }
 ]
+},
+{
+"id": "042",
+"titre": "Un partido de fútbol con amigos",
+"titre2": "Übung 042",
+"texte": [
+"El domingo pasado por la tarde organicé un partido de fútbol con mis amigos en el parque municipal.",
+"Nos reunimos a las cuatro en punto porque queríamos aprovechar las últimas horas de sol del día.",
+"En total éramos doce personas, así que formamos dos equipos de seis jugadores cada uno.",
+"Para distinguirnos bien, el equipo de Carlos llevó camisetas blancas y mi equipo usó camisetas rojas.",
+"El partido estuvo muy reñido desde el principio y todos corrimos muchísimo por el césped.",
+"—¡Pasa el balón a Juan, está solo cerca de la portería! —gritó Luis durante una jugada rápida.",
+"Yo juego como portero en mi equipo, por lo que tuve que hacer varias paradas difíciles y cansadas.",
+"Al final, mi equipo ganó el encuentro por tres goles a dos gracias a un remate de cabeza de Lucas.",
+"Después del esfuerzo, fuimos juntos a un quiosco cercano a comprar botellas de agua fría para refrescarnos."
+],
+"audios": [
+{ "id": "audio-es-read-a2-042-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-042-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-042-01",
+"question": "¿Cuántas personas se reunieron en total para jugar el partido?",
+"reponses": [
+{ "id": "a", "texte": "Diez personas", "correcte": false },
+{ "id": "b", "texte": "Doce personas", "correcte": true },
+{ "id": "c", "texte": "Catorce personas", "correcte": false },
+{ "id": "d", "texte": "Dieciséis personas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-042-02",
+"question": "¿De qué color eran las camisetas del equipo del narrador?",
+"reponses": [
+{ "id": "a", "texte": "Blancas", "correcte": false },
+{ "id": "b", "texte": "Azules", "correcte": false },
+{ "id": "c", "texte": "Rojas", "correcte": true },
+{ "id": "d", "texte": "Verdes", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-042-03",
+"question": "¿Qué posición ocupa el narrador en su equipo de fútbol?",
+"reponses": [
+{ "id": "a", "texte": "Delantero", "correcte": false },
+{ "id": "b", "texte": "Centrocampista", "correcte": false },
+{ "id": "c", "texte": "Defensa", "correcte": false },
+{ "id": "d", "texte": "Portero", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-042-04",
+"question": "¿Cuál fue el resultado final del partido dominical?",
+"reponses": [
+{ "id": "a", "texte": "Empataron a dos goles", "correcte": false },
+{ "id": "b", "texte": "Ganó el equipo blanco cuatro a uno", "correcte": false },
+{ "id": "c", "texte": "Ganó el equipo del narrador tres a dos", "correcte": true },
+{ "id": "d", "texte": "Ganaron por cinco a cero", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-042-05",
+"question": "¿Qué compraron los amigos en el quiosco al terminar de jugar?",
+"reponses": [
+{ "id": "a", "texte": "Refrescos de naranja", "correcte": false },
+{ "id": "b", "texte": "Helados de fresa", "correcte": false },
+{ "id": "c", "texte": "Botellas de agua fría", "correcte": true },
+{ "id": "d", "texte": "Patatas fritas", "correcte": false }
+]
+}
+]
+},
+{
+"id": "043",
+"titre": "Aprender a tocar la guitarra",
+"titre2": "Übung 043",
+"texte": [
+"Desde hace dos meses tengo un pasatiempo nuevo que me entusiasma mucho: aprender a tocar la guitarra.",
+"Mi abuelo me regaló una guitarra española de madera clásica que guardaba en su desván desde hacía años.",
+"Asisto a clases particulares los jueves por la tarde en una academia de música pequeña de mi ciudad.",
+"Mi profesora se llama Laura; es una guitarrista excelente y tiene una paciencia infinita con los principiantes.",
+"Al principio, me dolían bastante los dedos al pulsar las cuerdas metálicas, pero ahora ya me he acostumbrado.",
+"Practico unos treinta minutos cada día en mi dormitorio después de terminar mis deberes de la escuela.",
+"—¡Muy bien! Has memorizado los acordes de la nueva canción perfectamente —me felicitó Laura ayer.",
+"Mi objetivo principal es poder tocar una canción completa en la próxima cena de Navidad con mi familia.",
+"Creo que la música es una forma maravillosa de expresar los sentimientos y relajar la mente."
+],
+"audios": [
+{ "id": "audio-es-read-a2-043-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-043-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-043-01",
+"question": "¿Desde hace cuánto tiempo practica el narrador la guitarra?",
+"reponses": [
+{ "id": "a", "texte": "Desde hace un año", "correcte": false },
+{ "id": "b", "texte": "Desde hace dos meses", "correcte": true },
+{ "id": "c", "texte": "Desde la semana pasada", "correcte": false },
+{ "id": "d", "texte": "Desde su infancia", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-043-02",
+"question": "¿Dónde guardaba el abuelo la guitarra española antes de regalarla?",
+"reponses": [
+{ "id": "a", "texte": "En el desván de su casa", "correcte": true },
+{ "id": "b", "texte": "En el salón principal", "correcte": false },
+{ "id": "c", "texte": "Debajo de su cama", "correcte": false },
+{ "id": "d", "texte": "En el garaje del coche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-043-03",
+"question": "¿Qué día de la semana asiste a las clases de música?",
+"reponses": [
+{ "id": "a", "texte": "Los martes por la mañana", "correcte": false },
+{ "id": "b", "texte": "Los sábados por la tarde", "correcte": false },
+{ "id": "c", "texte": "Los jueves por la tarde", "correcte": true },
+{ "id": "d", "texte": "Todos los viernes obligatoriamente", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-043-04",
+"question": "¿Cuánto tiempo practica el narrador diariamente en su dormitorio?",
+"reponses": [
+{ "id": "a", "texte": "Una hora completa", "correcte": false },
+{ "id": "b", "texte": "Diez minutos rápidos", "correcte": false },
+{ "id": "c", "texte": "Unas dos horas", "correcte": false },
+{ "id": "d", "texte": "Unos treinta minutos", "correcte": true }
+]
+},
+{
+"id": "q-es-read-a2-043-05",
+"question": "¿Cuál es el objetivo principal del narrador con la guitarra?",
+"reponses": [
+{ "id": "a", "texte": "Tocar en una banda de rock famosa", "correcte": false },
+{ "id": "b", "texte": "Tocar una canción completa en la cena de Navidad", "correcte": true },
+{ "id": "c", "texte": "Ser profesor de música en el instituto", "correcte": false },
+{ "id": "d", "texte": "Grabar un disco de canciones tradicionales", "correcte": false }
+]
+}
+]
+},
+{
+"id": "044",
+"titre": "Mi pasión por la lectura",
+"titre2": "Übung 044",
+"texte": [
+"Desde que era muy pequeño, tengo una gran pasión por la lectura de novelas de aventuras y misterio.",
+"Para mí, abrir un libro es como abrir una puerta a un mundo completamente nuevo y fascinante.",
+"Suelo leer todas las noches en mi cama durante unos cuarenta minutos antes de apagar la luz para dormir.",
+"Actualmente estoy leyendo una novela que trata sobre un tesoro escondido en una isla desierta del Pacífico.",
+"El protagonista es un marinero valiente que debe descifrar un mapa antiguo lleno de secretos ocultos.",
+"—Hijo, me alegra mucho verte leer en vez de pasar tanto tiempo con los videojuegos —me dice siempre mi madre.",
+"Los sábados por la mañana visito la biblioteca municipal para devolver mis libros y elegir dos títulos nuevos.",
+"Creo que la lectura ayuda a mejorar nuestro vocabulario, desarrolla la imaginación y nos enseña valores importantes.",
+"Recomiendo a todos mis compañeros buscar un tema que les interese para descubrir el placer de los libros."
+],
+"audios": [
+{ "id": "audio-es-read-a2-044-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-044-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-044-01",
+"question": "¿Qué género de novelas prefiere leer el narrador?",
+"reponses": [
+{ "id": "a", "texte": "Novelas románticas de época", "correcte": false },
+{ "id": "b", "texte": "Novelas de aventuras y misterio", "correcte": true },
+{ "id": "c", "texte": "Libros de poesía moderna", "correcte": false },
+{ "id": "d", "texte": "Biografías de científicos famosos", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-044-02",
+"question": "¿Cuándo lee el narrador habitualmente según el texto?",
+"reponses": [
+{ "id": "a", "texte": "Por las mañanas antes de ir a clase", "correcte": false },
+{ "id": "b", "texte": "Durante el recreo de la escuela", "correcte": false },
+{ "id": "c", "texte": "Todas las noches en su cama", "correcte": true },
+{ "id": "d", "texte": "Solo los domingos por la tarde", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-044-03",
+"question": "¿Cuál es el tema de la novela que está leyendo actualmente?",
+"reponses": [
+{ "id": "a", "texte": "Un tesoro escondido en una isla desierta", "correcte": true },
+{ "id": "b", "texte": "Un viaje espacial a un planeta lejano", "correcte": false },
+{ "id": "c", "texte": "La vida de los dinosaurios en la Tierra", "correcte": false },
+{ "id": "d", "texte": "Una historia de detectives en una gran ciudad", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-044-04",
+"question": "¿Por qué se alegra la madre del narrador?",
+"reponses": [
+{ "id": "a", "texte": "Porque saca buenas notas en historia", "correcte": false },
+{ "id": "b", "texte": "Porque limpia su habitación los sábados", "correcte": false },
+{ "id": "c", "texte": "Porque lee en vez de jugar tanto a los videojuegos", "correcte": true },
+{ "id": "d", "texte": "Porque va a clases de dibujo artístico", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-044-05",
+"question": "¿Qué lugar visita los sábados por la mañana para renovar sus lecturas?",
+"reponses": [
+{ "id": "a", "texte": "Una librería del centro comercial", "correcte": false },
+{ "id": "b", "texte": "La biblioteca municipal", "correcte": true },
+{ "id": "c", "texte": "Un mercadillo del barrio", "correcte": false },
+{ "id": "d", "texte": "La casa de sus abuelos", "correcte": false }
+]
+}
+]
+},
+{
+"id": "045",
+"titre": "Una visita al cine",
+"titre2": "Übung 045",
+"texte": [
+"El viernes pasado por la noche fui al cine con mi hermana mayor para ver una película de estreno.",
+"Elegimos una película de ciencia ficción que tenía excelentes críticas en internet y compramos las entradas en línea.",
+"Llegamos al cine del centro comercial a las siete y media, media hora antes del comienzo de la función.",
+"Antes de entrar a la sala, pasamos por el quiosco a comprar un cubo grande de palomitas y dos refrescos.",
+"La sala número cuatro era enorme, tenía una pantalla gigante y unas butacas rojas comodísimas.",
+"Nos sentamos en la fila siete, que está justo en el centro, una posición perfecta para ver bien.",
+"—¡Apaga el teléfono móvil, Sofía! La película va a empezar ahora mismo —me susurró mi hermana en voz baja.",
+"La película duró dos horas y tuvo unos efectos especiales increíbles que nos mantuvieron muy emocionados.",
+"Cuando salimos, estuvimos comentando nuestras escenas favoritas mientras regresábamos a casa en metro."
+],
+"audios": [
+{ "id": "audio-es-read-a2-045-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-045-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-045-01",
+"question": "¿Con quién fue el narrador al cine el viernes pasado?",
+"reponses": [
+{ "id": "a", "texte": "Con sus mejores amigos", "correcte": false },
+{ "id": "b", "texte": "Con sus tíos paternos", "correcte": false },
+{ "id": "c", "texte": "Con su hermana mayor", "correcte": true },
+{ "id": "d", "texte": "Fue solo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-045-02",
+"question": "¿De qué género era la película que eligieron para ver?",
+"reponses": [
+{ "id": "a", "texte": "De comedia romántica", "correcte": false },
+{ "id": "b", "texte": "De terror clásico", "correcte": false },
+{ "id": "c", "texte": "De ciencia ficción", "correcte": true },
+{ "id": "d", "texte": "Un documental de animales", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-045-03",
+"question": "¿Qué compraron antes de entrar a la sala de cine?",
+"reponses": [
+{ "id": "a", "texte": "Patatas fritas y zumos de fruta", "correcte": false },
+{ "id": "b", "texte": "Un cubo grande de palomitas y dos refrescos", "correcte": true },
+{ "id": "c", "texte": "Chocolatinas y botellas de agua", "correcte": false },
+{ "id": "d", "texte": "Gominolas dulces y sándwiches", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-045-04",
+"question": "¿En qué fila de la sala número cuatro se sentaron?",
+"reponses": [
+{ "id": "a", "texte": "En la primera fila", "correcte": false },
+{ "id": "b", "texte": "En la fila diez", "correcte": false },
+{ "id": "c", "texte": "En la fila siete", "correcte": true },
+{ "id": "d", "texte": "En la última fila", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-045-05",
+"question": "¿Qué medio de transporte utilizaron para regresar a su casa?",
+"reponses": [
+{ "id": "a", "texte": "Su propio coche", "correcte": false },
+{ "id": "b", "texte": "El autobús nocturno", "correcte": false },
+{ "id": "c", "texte": "Un taxi privado", "correcte": false },
+{ "id": "d", "texte": "El metro", "correcte": true }
+]
+}
+]
+},
+{
+"id": "046",
+"titre": "Una tarde en el parque",
+"titre2": "Übung 046",
+"texte": [
+"Pasar una tarde en el parque de mi ciudad es una de las actividades más sencillas y agradables de la semana.",
+"Ayer por la tarde, aprovechando que hacía una temperatura primaveral estupenda, decidí ir a pasear allí.",
+"El parque es un espacio inmenso lleno de árboles antiguos, zonas verdes amplias y un estanque hermoso en el centro.",
+"En el estanque nadan varios patos blancos a los que algunos niños pequeños les echan trozos de pan duro.",
+"Me senté en un banco de madera a la sombra de un gran pino para descansar y escuchar música con mis auriculares.",
+"A mi alrededor vi a muchas personas haciendo diferentes actividades: unos corrían y otros leían tumbados en la hierba.",
+"—¡Ven aquí, Toby! No corras tan rápido detrás de esa pelota —gritó un señor a su perro labrador.",
+"Estuve allí unas dos horas disfrutando de la naturaleza y respirando el aire puro del entorno.",
+"Regresé a casa a las siete de la tarde con una sensación de tranquilidad absoluta y muy relajado."
+],
+"audios": [
+{ "id": "audio-es-read-a2-046-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-046-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-046-01",
+"question": "¿Qué elemento importante hay en el centro del parque municipal?",
+"reponses": [
+{ "id": "a", "texte": "Una estatua de mármol", "correcte": false },
+{ "id": "b", "texte": "Un estanque hermoso", "correcte": true },
+{ "id": "c", "texte": "Una zona de juegos mecánicos", "correcte": false },
+{ "id": "d", "texte": "Una cafetería moderna", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-046-02",
+"question": "¿Qué animales nadan en el estanque del parque?",
+"reponses": [
+{ "id": "a", "texte": "Peces de colores", "correcte": false },
+{ "id": "b", "texte": "Tortugas pequeñas", "correcte": false },
+{ "id": "c", "texte": "Patos blancos", "correcte": true },
+{ "id": "d", "texte": "Cisnes negros", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-046-03",
+"question": "¿Qué hacía el narrador mientras estaba sentado en el banco de madera?",
+"reponses": [
+{ "id": "a", "texte": "Leía una novela de misterio", "correcte": false },
+{ "id": "b", "texte": "Pintaba un paisaje con acuarelas", "correcte": false },
+{ "id": "c", "texte": "Escuchaba música con sus auriculares", "correcte": true },
+{ "id": "d", "texte": "Hacía los deberes de matemáticas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-046-04",
+"question": "¿Cómo se llama el perro labrador que corría detrás de la pelota?",
+"reponses": [
+{ "id": "a", "texte": "Toby", "correcte": true },
+{ "id": "b", "texte": "Lucas", "correcte": false },
+{ "id": "c", "texte": "Max", "correcte": false },
+{ "id": "d", "texte": "Rocky", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-046-05",
+"question": "¿A qué hora regresó el narrador a su casa?",
+"reponses": [
+{ "id": "a", "texte": "A las cinco de la tarde", "correcte": false },
+{ "id": "b", "texte": "A las seis de la tarde", "correcte": false },
+{ "id": "c", "texte": "A las siete de la tarde", "correcte": true },
+{ "id": "d", "texte": "A las de ocho de la noche", "correcte": false }
+]
+}
+]
+},
+{
+"id": "047",
+"titre": "Mi programa de televisión favorito",
+"titre2": "Übung 047",
+"texte": [
+"Aunque no paso muchas horas delante de la pantalla, mi programa de televisión favorito es un concurso de cultura general.",
+"Se emite de lunes a viernes a las ocho menos cuarto de la tarde en un canal nacional importante.",
+"El programa consiste en tres concursantes que deben responder preguntas difíciles sobre historia, geografía, ciencia y literatura.",
+"Me encanta sentarme en el sofá del salón con mis padres para intentar adivinar las respuestas correctas antes que ellos.",
+"El presentador del concurso es un hombre muy simpático y divertido que hace chistes constantemente con el público.",
+"A veces las preguntas son extremadamente complejas, pero nos permiten aprender datos curiosos e interesantes todos los días.",
+"—¡Increíble, papá! Has acertado la pregunta sobre los planetas del sistema solar —le dije el miércoles pasado.",
+"Para nuestra familia, ver este concurso es una rutina saludable y entretenida antes de preparar la cena juntos.",
+"Mi sueño secreto es participar algún día en el programa cuando sea mayor de edad y ganar el gran premio final."
+],
+"audios": [
+{ "id": "audio-es-read-a2-047-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-047-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-047-01",
+"question": "¿De qué temática es el programa de televisión favorito del narrador?",
+"reponses": [
+{ "id": "a", "texte": "Un documental sobre la naturaleza salvaje", "correcte": false },
+{ "id": "b", "texte": "Un concurso de cultura general", "correcte": true },
+{ "id": "c", "texte": "Una serie de comedia juvenil", "correcte": false },
+{ "id": "d", "texte": "Un programa culinario de recetas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-047-02",
+"question": "¿Qué días de la semana se emite este programa en la televisión?",
+"reponses": [
+{ "id": "a", "texte": "Solo los fines de semana", "correcte": false },
+{ "id": "b", "texte": "Los martes y los jueves", "correcte": false },
+{ "id": "c", "texte": "De lunes a viernes", "correcte": true },
+{ "id": "d", "texte": "Únicamente los miércoles", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-047-03",
+"question": "¿A qué hora comienza el concurso de televisión?",
+"reponses": [
+{ "id": "a", "texte": "A las ocho en punto", "correcte": false },
+{ "id": "b", "texte": "A las ocho menos cuarto de la tarde", "correcte": true },
+{ "id": "c", "texte": "A las siete y media", "correcte": false },
+{ "id": "d", "texte": "A las nueve de la noche", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-047-04",
+"question": "¿Sobre qué tema acertó una pregunta difícil el padre del narrador?",
+"reponses": [
+{ "id": "a", "texte": "Los planetas del sistema solar", "correcte": true },
+{ "id": "b", "texte": "Los emperadores del Imperio Romano", "correcte": false },
+{ "id": "c", "texte": "Los ríos más largos de América", "correcte": false },
+{ "id": "d", "texte": "Los escritores del siglo de oro", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-047-05",
+"question": "¿Cuál es el sueño secreto del narrador para el futuro?",
+"reponses": [
+{ "id": "a", "texte": "Ser el presentador de televisión del canal", "correcte": false },
+{ "id": "b", "texte": "Trabajar escribiendo las preguntas del concurso", "correcte": false },
+{ "id": "c", "texte": "Participar en el programa cuando sea mayor de edad", "correcte": true },
+{ "id": "d", "texte": "Ver el programa desde el público de la sala", "correcte": false }
+]
+}
+]
+},
+{
+"id": "048",
+"titre": "Descubrir un juego nuevo",
+"titre2": "Übung 048",
+"texte": [
+"El sábado pasado por la tarde mi amigo Luis trajo un juego nuevo a mi casa y pasamos un rato fantástico.",
+"Se trata de un juego de mesa de estrategia que se llama 'Los colonos de la isla de madera'.",
+"Las instrucciones del juego eran bastante largas y estaban escritas en español e inglés, así que tuvimos que leerlas con cuidado.",
+"El objetivo principal es construir pueblos, carreteras y ciudades utilizando diferentes recursos naturales como piedra y trigo.",
+"Jugamos tres personas en total: mi amigo Luis, mi hermana mayor Marta y yo en la gran mesa del salón.",
+"Al principio la partida era un poco lenta porque no conocíamos bien las reglas, pero luego se volvió muy emocionante.",
+"—¡Tengo suficiente madera para construir una carretera larga hasta el río! —dijo Marta con entusiasmo.",
+"La partida duró casi dos horas y finalmente ganó Luis gracias a una excelente estrategia de comercio al final.",
+"Me gustó tanto este descubrimiento que voy a pedirle el juego a mis padres como regalo para las próximasNavidades."
+],
+"audios": [
+{ "id": "audio-es-read-a2-048-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-048-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-048-01",
+"question": "¿Qué tipo de juego descubrió el narrador el sábado pasado?",
+"reponses": [
+{ "id": "a", "texte": "Un videojuego de carreras en consola", "correcte": false },
+{ "id": "b", "texte": "Un juego de cartas tradicional", "correcte": false },
+{ "id": "c", "texte": "Un juego de mesa de estrategia", "correcte": true },
+{ "id": "d", "texte": "Un deporte de equipo al aire libre", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-048-02",
+"question": "¿En qué idiomas estaban escritas las instrucciones del juego?",
+"reponses": [
+{ "id": "a", "texte": "En francés e italiano", "correcte": false },
+{ "id": "b", "texte": "En español e inglés", "correcte": true },
+{ "id": "c", "texte": "Únicamente en alemán", "correcte": false },
+{ "id": "d", "texte": "En español y portugués", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-048-03",
+"question": "¿Cuántas personas jugaron la partida en la mesa del salón?",
+"reponses": [
+{ "id": "a", "texte": "Dos personas", "correcte": false },
+{ "id": "b", "texte": "Tres personas", "correcte": true },
+{ "id": "c", "texte": "Cuatro personas", "correcte": false },
+{ "id": "d", "texte": "Cinco personas", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-048-04",
+"question": "¿Quién ganó la partida de estrategia al final de las dos horas?",
+"reponses": [
+{ "id": "a", "texte": "El narrador del texto", "correcte": false },
+{ "id": "b", "texte": "La hermana mayor Marta", "correcte": false },
+{ "id": "c", "texte": "El amigo Luis", "correcte": true },
+{ "id": "d", "texte": "Empataron y no ganó nadie", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-048-05",
+"question": "¿Para qué ocasión quiere pedir el narrador este juego como regalo?",
+"reponses": [
+{ "id": "a", "texte": "Para su cumpleaños de diez años", "correcte": false },
+{ "id": "b", "texte": "Para las próximas Navidades", "correcte": true },
+{ "id": "c", "texte": "Para el final del curso escolar", "correcte": false },
+{ "id": "d", "texte": "Para las vacaciones de verano", "correcte": false }
+]
+}
+]
+},
+{
+"id": "049",
+"titre": "Un paseo en bicicleta",
+"titre2": "Übung 049",
+"texte": [
+"Los domingos por la mañana suelo hacer un paseo en bicicleta con mi padre por los caminos rurales de las afueras.",
+"Nos levantamos a las ocho, nos ponemos ropa deportiva cómoda y revisamos la presión de las ruedas antes de salir.",
+"Mi bicicleta es de montaña, de color azul brillante, y me la regalaron mis padres el año pasado por mi cumpleaños.",
+"El recorrido empieza cruzando un puente de madera pequeño sobre el río y luego sigue por un bosque de pinos aromáticos.",
+"Hacer ciclismo al aire libre es fantástico porque nos permite hacer ejercicio físico y disfrutar del paisaje natural al mismo tiempo.",
+"A mitad de camino hacemos una pausa obligatoria al lado de una fuente antigua de piedra de agua potable.",
+"—¡Bebe un poco de agua y come este plátano para tener energía, hijo! —me recomendó mi padre bajo la sombra.",
+"Pedaleamos durante una hora y media en total antes de regresar a casa con bastante hambre para el almuerzo en familia.",
+"Considero que esta rutina dominical es una forma excelente de empezar el día con energía positiva y salud."
+],
+"audios": [
+{ "id": "audio-es-read-a2-049-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-049-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-049-01",
+"question": "¿Con quién hace el narrador el paseo en bicicleta los domingos?",
+"reponses": [
+{ "id": "a", "texte": "Con sus compañeros de clase", "correcte": false },
+{ "id": "b", "texte": "Con su abuelo materno", "correcte": false },
+{ "id": "c", "texte": "Con su padre", "correcte": true },
+{ "id": "d", "texte": "Hace la ruta solo", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-049-02",
+"question": "¿De qué color es la bicicleta de montaña del narrador?",
+"reponses": [
+{ "id": "a", "texte": "Rojo brillante", "correcte": false },
+{ "id": "b", "texte": "Azul brillante", "correcte": true },
+{ "id": "c", "texte": "Verde oscuro", "correcte": false },
+{ "id": "d", "texte": "Negra clásica", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-049-03",
+"question": "¿Qué elemento cruzan al principio del recorrido rural?",
+"reponses": [
+{ "id": "a", "texte": "Un puente de madera pequeño sobre el río", "correcte": true },
+{ "id": "b", "texte": "Una carretera principal transitada", "correcte": false },
+{ "id": "c", "texte": "Una vía de tren antigua", "correcte": false },
+{ "id": "d", "texte": "Un túnel de piedra oscuro", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-049-04",
+"question": "¿Qué fruta le da el padre al narrador durante la pausa en la fuente?",
+"reponses": [
+{ "id": "a", "texte": "Una manzana verde", "correcte": false },
+{ "id": "b", "texte": "Un plátano", "correcte": true },
+{ "id": "c", "texte": "Una naranja fresca", "correcte": false },
+{ "id": "d", "texte": "Unas fresas silvestres", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-049-05",
+"question": "¿Cuánto tiempo dura el paseo completo en bicicleta?",
+"reponses": [
+{ "id": "a", "texte": "Una hora justa", "correcte": false },
+{ "id": "b", "texte": "Dos horas completas", "correcte": false },
+{ "id": "c", "texte": "Una hora y media", "correcte": true },
+{ "id": "d", "texte": "Cuarenta y cinco minutos cortos", "correcte": false }
+]
+}
+]
+},
+{
+"id": "050",
+"titre": "Participar en un concurso de baile",
+"titre2": "Übung 050",
+"texte": [
+"El mes pasado mi hermana Elena y yo decidimos participar en un concurso de baile organizado por el ayuntamiento.",
+"Llevábamos tres meses ensayando una coreografía de salsa en el salón de casa para prepararnos bien.",
+"El concurso se celebró el sábado por la tarde en el teatro municipal de la ciudad ante mucho público.",
+"Estábamos muy nerviosos antes de subir al escenario porque los otros participantes bailaban realmente bien.",
+"Elena llevaba un vestido rojo precioso y yo usé una camisa negra formal con unos zapatos de baile especiales.",
+"Cuando empezó la música caribeña, nos olvidamos de los nervios y empezamos a bailar disfrutando del ritmo.",
+"—¡Espectacular! Habéis coordinado los giros difíciles de una forma perfecta —nos dijo el miembro del jurado.",
+"No ganamos el primer premio del concurso, pero conseguimos una copa pequeña por el tercer puesto y un diploma.",
+"Fue una experiencia maravillosa que nos ha motivado a seguir bailando y mejorando nuestra técnica en el futuro."
+],
+"audios": [
+{ "id": "audio-es-read-a2-050-1", "url": "soundcloud.com" },
+{ "id": "audio-es-read-a2-050-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-es-read-a2-050-01",
+"question": "¿Quién organizó el concurso de baile el mes pasado?",
+"reponses": [
+{ "id": "a", "texte": "La escuela secundaria", "correcte": false },
+{ "id": "b", "texte": "El ayuntamiento de la ciudad", "correcte": true },
+{ "id": "c", "texte": "Una academia de música privada", "correcte": false },
+{ "id": "d", "texte": "Un canal de televisión nacional", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-050-02",
+"question": "¿Qué estilo de baile ensayaron durante tres meses en su casa?",
+"reponses": [
+{ "id": "a", "texte": "Baile clásico o ballet", "correcte": false },
+{ "id": "b", "texte": "Danza moderna de hip-hop", "correcte": false },
+{ "id": "c", "texte": "Salsa caribeña", "correcte": true },
+{ "id": "d", "texte": "Flamenco tradicional", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-050-03",
+"question": "¿Qué ropa llevaba el narrador durante la actuación en el escenario?",
+"reponses": [
+{ "id": "a", "texte": "Una camisa blanca deportiva", "correcte": false },
+{ "id": "b", "texte": "Un traje negro elegante completo", "correcte": false },
+{ "id": "c", "texte": "Una camisa negra formal", "correcte": true },
+{ "id": "d", "texte": "Una camiseta roja de tirantes", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-050-04",
+"question": "¿Qué premio consiguieron finalmente los dos hermanos?",
+"reponses": [
+{ "id": "a", "texte": "El primer premio del concurso", "correcte": false },
+{ "id": "b", "texte": "Una medalla de plata por el segundo puesto", "correcte": false },
+{ "id": "c", "texte": "Una copa pequeña por el tercer puesto y un diploma", "correcte": true },
+{ "id": "d", "texte": "El premio especial del público asistente", "correcte": false }
+]
+},
+{
+"id": "q-es-read-a2-050-05",
+"question": "¿Dónde se celebró el evento cultural el sábado por la tarde?",
+"reponses": [
+{ "id": "a", "texte": "En el polideportivo del barrio", "correcte": false },
+{ "id": "b", "texte": "En el teatro municipal", "correcte": true },
+{ "id": "c", "texte": "En la plaza central de la villa", "correcte": false },
+{ "id": "d", "texte": "En las salas de la academia", "correcte": false }
+]
+}
+]
+}
+]
+
 
