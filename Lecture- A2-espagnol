@@ -6918,76 +6918,82 @@
 ]
 },
 {
-"id": "097",
-"titre": "Un día en el centro comercial",
-"titre2": "Übung 097",
-"texte": [
-"El sábado pasado por la tarde pasé un día muy entretenido en el gran centro comercial de las afueras con mis amigos.",
-"Nos reunimos a las cuatro en punto en la parada del autobús número cuatro, que nos dejó justo en la entrada principal.",
-"El edificio es inmenso, de tres plantas, revestido de cristal y cuenta con aire acondicionado excelente.",
-"En la primera planta visitamos una tienda de ropa moderna donde mi amigo Carlos compró unos pantalones vaqueros elásticos.",
-"Luego subimos a la segunda planta para entrar a una tienda de videojuegos y probar las consolas de demostración.",
-"—¡Chicos, vayamos a la planta superior a merendar, que tengo mucha hambre! —sugirió Marta con entusiasmo.",
-"En la zona de restauración pedimos tres pizzas caseras medianas para compartir y unos zumos de naranja naturales.",
-"Pasamos la tarde charlando alegremente sobre las vacaciones de Navidad antes de entrar a la sala de cine del complejo.",
-"Regresamos a nuestras casas a las nueve de la noche en metro, habiendo disfrutado de una jornada magnífica entre amigos."
-],
-"audios": [
-{ "id": "audio-es-read-a2-097-1", "url": "soundcloud.com" },
-{ "id": "audio-es-read-a2-097-2", "url": "soundcloud.com" }
-],
-"questions": [
-{
-"id": "q-es-read-a2-097-01",
-"question": "¿Cuántas plantas comerciales tiene el inmenso edificio de las afueras?",
-"reponses": [
-{ "id": "a", "texte": "Dos plantas sencillas", "correcte": false },
-{ "id": "b", "texte": "Tres plantas", "correcte": true },
-{ "id": "c", "texte": "Cuatro plantas con sótano", "correcte": false },
-{ "id": "d", "texte": "Es una gran avenida abierta", "correcte": false }
-]
-},
-{
-"id": "q-es-read-a2-097-02",
-"question": "¿En qué número de línea de autobús viajaron los amigos hacia el complejo?",
-"reponses": [
-{ "id": "a", "texte": "Línea número dos", "correcte": false },
-{ "id": "b", "texte": "Línea número cuatro", "correcte": true },
-{ "id": "c", "texte": "Línea número seis", "correcte": false },
-{ "id": "b", "texte": "Visitaron la biblioteca de la tercera planta", "correcte": false }
-]
-},
-{
-"id": "q-es-read-a2-097-03",
-"question": "¿Qué artículo de vestir compró Carlos en la primera planta del establecimiento?",
-"reponses": [
-{ "id": "a", "texte": "Una chaqueta azul marino gruesa", "correcte": false },
-{ "id": "b", "texte": "Unos pantalones vaqueros elásticos", "correcte": true },
-{ "id": "c", "texte": "Una camiseta blanca de algodón", "correcte": false },
-{ "id": "d", "texte": "Unos zapatos especiales de baile", "correcte": false }
-]
-},
-{
-"id": "q-es-read-a2-097-04",
-"question": "¿Qué alimentos seleccionaron en la zona de restauración de la planta superior?",
-"reponses": [
-{ "id": "a", "texte": "Unos sándwiches rápidos de jamón y frutas", "correcte": false },
-{ "id": "b", "texte": "Un filete de pollo asado con patatas", "correcte": false },
-{ "id": "c", "texte": "Tres pizzas caseras medianas y zumos de naranja", "correcte": true },
-{ "id": "d", "texte": "Un gran cubo de palomitas de maíz y refrescos", "correcte": false }
-]
-},
-{
-"id": "q-es-read-a2-097-05",
-"question": "¿Qué actividad de ocio realizaron al final de la tarde antes de regresar en metro?",
-"reponses": [
-{ "id": "a", "texte": "Jugaron una partida larga de bolos", "correcte": false },
-{ "id": "b": "Visitaron la biblioteca de la tercera planta", "correcte": false },
-{ "id": "c", "texte": "Fueron a la sala de cine del complejo", "correcte": true },
-{ "id": "d", "texte": "Hicieron una ruta de ciclismo rural", "correcte": false }
-]
-}
-]
+  "id": "097",
+  "titre": "Un día en el centro comercial",
+  "titre2": "Übung 097",
+  "texte": [
+    "El sábado pasado por la tarde pasé un día muy entretenido en el gran centro comercial de las afueras con mis amigos.",
+    "Nos reunimos a las cuatro en punto en la parada del autobús número cuatro, que nos dejó justo en la entrada principal.",
+    "El edificio es inmenso, de tres plantas, revestido de cristal y cuenta con aire acondicionado excelente.",
+    "En la primera planta visitamos una tienda de ropa moderna donde mi amigo Carlos compró unos pantalones vaqueros elásticos.",
+    "Luego subimos a la segunda planta para entrar a una tienda de videojuegos y probar las consolas de demostración.",
+    "—¡Chicos, vayamos a la planta superior a merendar, que tengo mucha hambre! —sugirió Marta con entusiasmo.",
+    "En la zona de restauración pedimos tres pizzas caseras medianas para compartir y unos zumos de naranja naturales.",
+    "Pasamos la tarde charlando alegremente sobre las vacaciones de Navidad antes de entrar a la sala de cine del complejo.",
+    "Regresamos a nuestras casas a las nueve de la noche en metro, habiendo disfrutado de una jornada magnífica entre amigos."
+  ],
+  "audios": [
+    {
+      "id": "audio-es-read-a2-097-1",
+      "url": "soundcloud.com"
+    },
+    {
+      "id": "audio-es-read-a2-097-2",
+      "url": "soundcloud.com"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-es-read-a2-097-01",
+      "question": "¿Cuántas plantas comerciales tiene el inmenso edificio de las afueras?",
+      "reponses": [
+        { "id": "a", "texte": "Dos plantas sencillas", "correcte": false },
+        { "id": "b", "texte": "Tres plantas", "correcte": true },
+        { "id": "c", "texte": "Cuatro plantas con sótano", "correcte": false },
+        { "id": "d", "texte": "Es una gran avenida abierta", "correcte": false }
+      ]
+    },
+    {
+      "id": "q-es-read-a2-097-02",
+      "question": "¿En qué número de línea de autobús viajaron los amigos hacia el complejo?",
+      "reponses": [
+        { "id": "a", "texte": "Línea número dos", "correcte": false },
+        { "id": "b", "texte": "Línea número cuatro", "correcte": true },
+        { "id": "c", "texte": "Línea número seis", "correcte": false },
+        { "id": "d", "texte": "Visitaron la biblioteca de la tercera planta", "correcte": false }
+      ]
+    },
+    {
+      "id": "q-es-read-a2-097-03",
+      "question": "¿Qué artículo de vestir compró Carlos en la primera planta del establecimiento?",
+      "reponses": [
+        { "id": "a", "texte": "Una chaqueta azul marino gruesa", "correcte": false },
+        { "id": "b", "texte": "Unos pantalones vaqueros elásticos", "correcte": true },
+        { "id": "c", "texte": "Una camiseta blanca de algodón", "correcte": false },
+        { "id": "d", "texte": "Unos zapatos especiales de baile", "correcte": false }
+      ]
+    },
+    {
+      "id": "q-es-read-a2-097-04",
+      "question": "¿Qué alimentos seleccionaron en la zona de restauración de la planta superior?",
+      "reponses": [
+        { "id": "a", "texte": "Unos sándwiches rápidos de jamón y frutas", "correcte": false },
+        { "id": "b", "texte": "Un filete de pollo asado con patatas", "correcte": false },
+        { "id": "c", "texte": "Tres pizzas caseras medianas y zumos de naranja", "correcte": true },
+        { "id": "d", "texte": "Un gran cubo de palomitas de maíz y refrescos", "correcte": false }
+      ]
+    },
+    {
+      "id": "q-es-read-a2-097-05",
+      "question": "¿Qué actividad de ocio realizaron al final de la tarde antes de regresar en metro?",
+      "reponses": [
+        { "id": "a", "texte": "Jugaron una partida larga de bolos", "correcte": false },
+        { "id": "b", "texte": "Visitaron la biblioteca de la tercera planta", "correcte": false },
+        { "id": "c", "texte": "Fueron a la sala de cine del complejo", "correcte": true },
+        { "id": "d", "texte": "Hicieron una ruta de ciclismo rural", "correcte": false }
+      ]
+    }
+  ]
 },
 {
 "id": "098",
