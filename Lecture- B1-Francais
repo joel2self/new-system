@@ -2645,7 +2645,7 @@
 "question": "Que signifie de façon implicite l'expression 'synergie collective' ?",
 "reponses": [
 { "id": "a", "texte": "Une compétition agressive entre les membres d'une équipe.", "correcte": false },
-{ "b", "texte": "Une harmonie où l'effort combiné dépasse la somme des efforts individuels.", "correcte": true },
+{"id": "b", "texte": "Une harmonie où l'effort combiné dépasse la somme des efforts individuels.", "correcte": true },
 { "id": "c", "texte": "Une obligation matérielle imposée par le règlement intérieur.", "correcte": false },
 { "id": "d", "texte": "Une réunion de suivi visant à punir les erreurs d'inattention.", "correcte": false }
 ]
@@ -5166,6 +5166,937 @@
 { "id": "b", "texte": "Une énergie biologique solide pour affronter ses journées de cours.", "correcte": true },
 { "id": "c", "texte": "Une amélioration instantanée de ses performances de nage à la piscine.", "correcte": false },
 { "id": "d", "texte": "La disparition complète de son anxiété liée aux examens d'histoire.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "061",
+"titre": "Les conséquences de la pollution dans les grandes villes",
+"titre2": "Exercice 061",
+"texte": [
+"L'expansion urbaine frénétique et la concentration démographique au sein des mégapoles modernes génèrent une dégradation environnementale préoccupante.",
+"La prolifération des véhicules thermiques et les émissions des structures industrielles saturent l'atmosphère de particules fines nocives pour l'organisme.",
+"Ce brouillard permanent, loin d'être un simple désagrément visuel, provoque des dysfonctionnements physiologiques majeurs chez les citadins.",
+"Les rapports médicaux démontrent une recrudescence alarmante des affections respiratoires chroniques et une altération notable de la vitalité biologique.",
+"Au-delà des impacts sanitaires directs, cette pollution atmosphérique engendre un stress environnemental continu qui nuit à l'harmonie psychologique.",
+"Les résidents confessent éprouver une fatigue cognitive accrue et une sensation d'oppression permanente lors de leurs trajets quotidiens.",
+"Il est indispensable que les municipalités réagissent avec force en modifiant radicalement les structures de transport en centre-ville.",
+"Développer les espaces verts, interdire l'accès des voitures aux ruelle anciennes et promouvoir les mobilités douces constituent des choix cruciaux.",
+"Pourvu que les politiques d'urbanisme intègrent cette urgence écologique, nous pourrons assainir l'air et offrir un avenir sain aux générations futures.",
+"La lutte contre la pollution urbaine est un défi herculéen, mais elle représente le fondement incontestable du bien-être citoyen de demain."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-061-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-061-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-061-01",
+"question": "Qu'engendre principalement l'expansion urbaine frénétique d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Une diminution radicale des frais de transport en commun.", "correcte": false },
+{ "id": "b", "texte": "Une dégradation environnementale préoccupante au sein des mégapoles.", "correcte": true },
+{ "id": "c", "texte": "Une suppression totale des heures de bureau obligatoires.", "correcte": false },
+{ "id": "d", "texte": "Une hausse immédiate de l'harmonie et du bien-être psychologique.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-061-02",
+"question": "Quel effet physiologique négatif la pollution de l'air a-t-elle sur les habitants ?",
+"reponses": [
+{ "id": "a", "texte": "Elle ralentit la mémorisation des formules de mathématiques.", "correcte": false },
+{ "id": "b", "texte": "Elle provoque des affections respiratoires chroniques et altère la vitalité.", "correcte": true },
+{ "id": "c", "texte": "Elle entraîne une perte soudaine de la vision des couleurs au soleil.", "correcte": false },
+{ "id": "d", "texte": "Elle empêche d'utiliser les outils informatiques de manière fluide.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-061-03",
+"question": "Quel trouble psychologique est favorisé par ce climat urbain pollué ?",
+"reponses": [
+{ "id": "a", "texte": "Une timidité farouche face aux membres du groupe de travail.", "correcte": false },
+{ "id": "b", "texte": "Une fatigue cognitive accrue et une sensation d'oppression permanente.", "correcte": true },
+{ "id": "c", "texte": "Une colère obsessionnelle dirigée contre les tuteurs universitaires.", "correcte": false },
+{ "id": "d", "texte": "L'apparition d'insomnies uniquement durant les vacances d'été.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-061-04",
+"question": "Quelle mesure concrète est suggérée pour assainir les centres urbains ?",
+"reponses": [
+{ "id": "a", "texte": "Rallonger de deux heures la durée hebdomadaire des réunions.", "correcte": false },
+{ "id": "b", "texte": "Développer les espaces verts et interdire les voitures dans les ruelles anciennes.", "correcte": true },
+{ "id": "c", "texte": "Obliger les citadins à acheter un agenda électronique de planification.", "correcte": false },
+{ "id": "d", "texte": "Installer des tablettes tactiles interactives aux arrêts de bus.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-061-05",
+"question": "Quelle est la condition nécessaire pour assainir l'air d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Que les salariés passent plus de temps connectés à leur entreprise.", "correcte": false },
+{ "id": "b", "texte": "Que les politiques d'urbanisme intègrent urgemment cette donne écologique.", "correcte": true },
+{ "id": "c", "texte": "Que la population refuse de consommer de la nourriture industrielle.", "correcte": false },
+{ "id": "d", "texte": "Que chaque adolescent s'impose une discipline militaire rigide.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-061-06",
+"question": "Qu'indique implicitement l'expression « le brouillard n'est pas un simple désagrément visuel » ?",
+"reponses": [
+{ "id": "a", "texte": "Qu'il est impossible de peindre des tableaux contemporains par temps de brume.", "correcte": false },
+{ "id": "b", "texte": "Que la pollution de l'air dissimule un danger physique bien plus profond.", "correcte": true },
+{ "id": "c", "texte": "Que les conducteurs de transports doivent allumer leurs phares la nuit.", "correcte": false },
+{ "id": "d", "texte": "Que la charge mentale numérique modifie notre perception des couleurs.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-061-07",
+"question": "Comment l'auteur définit-il la lutte contre la pollution à la fin du texte ?",
+"reponses": [
+{ "id": "a", "texte": "Un rêve irréalisable en raison des blocages logistiques et juridiques.", "correcte": false },
+{ "id": "b", "texte": "Un défi herculéen qui représente le fondement du bien-être citoyen.", "correcte": true },
+{ "id": "c", "texte": "Une contrainte étouffante qui détruit la liberté individuelle des cadres.", "correcte": false },
+{ "id": "d", "texte": "Une micro-tâche ménagère de bureau que l'on peut exécuter en deux minutes.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "062",
+"titre": "Pourquoi faut-il protéger les forêts ?",
+"titre2": "Exercice 062",
+"texte": [
+"Considérées à juste titre comme les poumons de notre planète, les forêts domaniales jouent un rôle de régulation biologique absolument indispensable.",
+"Ces vastes écosystèmes abritent plus de la moitié de la biodiversité terrestre, constituant le refuge vital d'innombrables espèces végétales et animales.",
+"Au-delà de leur richesse écologique, elles absorbent des quantités massives de dioxyde de carbone, purgeant l'air de ses impuretés gazeuses.",
+"Malheureusement, l'exploitation forestière intensive et la déforestation abusive détruisent ces structures naturelles à un rythme alarmant.",
+"Négliger la protection des arbres reviendrait à saboter l'équilibre climatique mondial et à accélérer le réchauffement de l'atmosphère.",
+"De plus, sur le plan psychologique, les forêts offrent aux humains un espace de ressourcement unique, propice à la lenteur volontaire.",
+"Flâner sous des arbres centenaires provoque une baisse immédiate du taux de cortisol, éliminant l'anxiété chronique liée à la vie moderne.",
+"Il est nécessaire que les gouvernements appliquent des lois juridiques strictes pour interdire la coupe illégale et préserver ces territoires.",
+"Pourvu que la société civile se mobilise avec maturité, nous pourrons sauvegarder ce patrimoine mémoriel et biologique inestimable.",
+"Protéger la forêt n'est pas une simple option éthique, c'est une obligation vitale pour garantir la survie saine de l'humanité entière."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-062-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-062-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-062-01",
+"question": "Quelle proportion de la biodiversité terrestre les forêts abritent-elles selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Moins de dix pour cent de l'intégralité des plantes.", "correcte": false },
+{ "id": "b", "texte": "Plus de la moitié de la biodiversité de notre planète.", "correcte": true },
+{ "id": "c", "texte": "L'intégralité des espèces domestiques de la campagne.", "correcte": false },
+{ "id": "d", "texte": "Uniquement les petits oiseaux à plumes colorées du grenier.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-062-02",
+"question": "Quelle fonction chimique cruciale les arbres remplissent-ils pour l'atmosphère ?",
+"reponses": [
+{ "id": "a", "texte": "Ils fabriquent des molécules de vitamine D en un clic.", "correcte": false },
+{ "id": "b", "texte": "Ils absorbent des quantités massives de dioxyde de carbone.", "correcte": true },
+{ "id": "c", "texte": "Ils régulent le signal électronique des outils informatiques.", "correcte": false },
+{ "id": "d", "texte": "Ils filtrent l'eau minérale qui coule le long de la rivière.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-062-03",
+"question": "Quel impact négatif la déforestation abusive a-t-elle sur le monde ?",
+"reponses": [
+{ "id": "a", "texte": "Elle augmente de façon spectaculaire le coût horaire des salaires.", "correcte": false },
+{ "id": "b", "texte": "Elle sabote l'équilibre climatique et accélère le réchauffement.", "correcte": true },
+{ "id": "c", "texte": "Elle empêche les enfants de faire des jeux de stratégie le dimanche.", "correcte": false },
+{ "id": "d", "texte": "Elle engendre une panne technique majeure sur les lignes de métro.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-062-04",
+"question": "Quel bienfait psychologique une promenade en forêt procure-t-elle d'après le récit ?",
+"reponses": [
+{ "id": "a", "texte": "Une baisse immédiate du cortisol, éliminant l'anxiété chronique.", "correcte": true },
+{ "id": "b", "texte": "Une hausse de l'impatience et de la fatigue cognitive nerveuse.", "correcte": false },
+{ "id": "c", "texte": "Le désir de s'installer de manière indépendante dans un studio.", "correcte": false },
+{ "id": "d", "texte": "Une mémorisation plus rapide des cours d'anatomie médicale.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-062-05",
+"question": "Quelle action les gouvernements doivent-ils entreprendre pour protéger les bois ?",
+"reponses": [
+{ "id": "a", "texte": "Recruter des tuteurs ou des conseillers d'orientation de bureau.", "correcte": false },
+{ "id": "b", "texte": "Appliquer des lois juridiques strictes pour interdire la coupe illégale.", "correcte": true },
+{ "id": "c", "texte": "Financer la construction de grands lycées en bois au centre-ville.", "correcte": false },
+{ "id": "d", "texte": "Autoriser la vente de tablettes numériques au sein des réserves.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-062-06",
+"question": "Qu'indique de manière implicite la métaphore « les poumons de notre planète » ?",
+"reponses": [
+{ "id": "a", "texte": "Que la Terre possède des organes physiques similaires à l'homme.", "correcte": false },
+{ "id": "b", "texte": "Que les forêts sont vitales pour la respiration et la vie de l'écosystème mondial.", "correcte": true },
+{ "id": "c", "texte": "Que l'air des bureaux est plus pur que l'air des parcs naturels.", "correcte": false },
+{ "id": "d", "texte": "Que le sport en extérieur détruit les fonctions pulmonaires des jeunes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-062-07",
+"question": "Quelle est la conclusion principale de ce texte concernant la sauvegarde des arbres ?",
+"reponses": [
+{ "id": "a", "texte": "C'est une contrainte managériale rigide issue d'une nostalgie stérile.", "correcte": false },
+{ "id": "b", "texte": "C'est une obligation vitale pour garantir la survie saine de l'humanité.", "correcte": true },
+{ "id": "c", "texte": "C'est un projet de recherche scientifique réservé à l'université.", "correcte": false },
+{ "id": "d", "texte": "C'est une corvée administrative complexe que l'on peut reporter à demain.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "063",
+"titre": "Le changement climatique et ses effets sur notre quotidien",
+"titre2": "Exercice 063",
+"texte": [
+"— Dis-moi, Thomas, as-tu remarqué à quel point les saisons semblent déréglées ces dernières années ? Les hivers sont tièdes et les étés caniculaires.",
+"— C'est un constat indéniable, Sophie. Les perturbations du changement climatique ne sont plus des théories abstraites, elles impactent notre quotidien.",
+"— Tout à fait. L'autre matin, la ruelle ancienne où habitent mes grands-parents a été totalement inondée après un orage d'une violence inouïe.",
+"— Ce genre d'événements météo extrêmes va malheureusement se multiplier, modifiant la structure même de nos infrastructures urbaines.",
+"— C'est inquiétant. De plus, l'augmentation des prix des légumes frais au marché prouve que l'agriculture souffre de cette instabilité thermique.",
+"— En effet, les sécheresses prolongées réduisent la productivité des terres et compliquent la gestion des ressources en eau potable.",
+"— Face à cette crise globale, penses-tu qu'il soit nécessaire que j'achète un système de filtration d'eau pour mon studio ?",
+"— Ce peut être utile, mais la vraie urgence est que l'on réduise collectivement notre charge carbone en modifiant nos habitudes de vie.",
+"— Favoriser la déconnexion technologique, consommer local et éviter le gaspillage matériel constituent des gestes de maturité indispensables.",
+"— Tu as raison. Pourvu que la jeunesse et les aînés s'unissent dans cette transition, nous préserverons l'harmonie de notre monde commun."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-063-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-063-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-063-01",
+"question": "Quel changement concret Sophie observe-t-elle dans le rythme des saisons ?",
+"reponses": [
+{ "id": "a", "texte": "Les hivers sont devenus glacials et les étés pluvieux.", "correcte": false },
+{ "id": "b", "texte": "Les hivers sont tièdes tandis que les étés se révèlent caniculaires.", "correcte": true },
+{ "id": "c", "texte": "Le printemps dure désormais six mois entiers d'affilée.", "correcte": false },
+{ "id": "d", "texte": "Il ne neige plus du tout sur les montagnes de la cordillère.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-063-02",
+"question": "Quel incident matériel a touché la ruelle ancienne des grands-parents de Sophie ?",
+"reponses": [
+{ "id": "a", "texte": "Une panne technique majeure a coupé l'électricité du quartier.", "correcte": false },
+{ "id": "b", "texte": "La zone a été totalement inondée suite à un orage violent.", "correcte": true },
+{ "id": "c", "texte": "Un incendie de forêt a menacé les vieilles habitations.", "correcte": false },
+{ "id": "d", "texte": "Le réseau de téléphone portable a perdu tout signal pendant trois jours.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-063-03",
+"question": "Quelle conséquence économique directe de ce dérèglement est mentionnée ?",
+"reponses": [
+{ "id": "a", "texte": "Une baisse généralisée des tarifs des billets de train régionaux.", "correcte": false },
+{ "id": "b", "texte": "L'augmentation des prix des légumes frais sur le marché.", "correcte": true },
+{ "id": "c", "texte": "Le coût excessif des outils informatiques de suivi pédagogique.", "correcte": false },
+{ "id": "d", "texte": "Une diminution des taxes foncières pour les jeunes propriétaires.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-063-04",
+"question": "Quel impact les sécheresses prolongées ont-elles sur l'environnement d'après Thomas ?",
+"reponses": [
+{ "id": "a", "texte": "Elles augmentent la taille des arbres fruitiers dans les果园.", "correcte": false },
+{ "id": "b", "texte": "Elles réduisent la productivité des terres et compliquent la gestion de l'eau.", "correcte": true },
+{ "id": "c", "texte": "Elles favorisent la pratique de la natation municipale en soirée.", "correcte": false },
+{ "id": "d", "texte": "Elles purgent l'anxiété chronique des travailleurs de bureau.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-063-05",
+"question": "Quelle est la véritable priorité collective selon Thomas face à cette crise ?",
+"reponses": [
+{ "id": "a", "texte": "Signer un contrat de colocation pour partager les factures.", "correcte": false },
+{ "id": "b", "texte": "Réduire notre empreinte carbone en modifiant radicalement nos modes de vie.", "correcte": true },
+{ "id": "c", "texte": "Passer huit heures par jour connecté sur des applications de météo.", "correcte": false },
+{ "id": "d", "texte": "Déménager de toute urgence vers un studio universitaire à Lyon.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-063-06",
+"question": "Qu'indique implicitement l'affirmation selon laquelle les effets « ne sont plus des théories abstraites » ?",
+"reponses": [
+{ "id": "a", "texte": "Que les scientifiques ont cessé d'étudier le climat à l'université.", "correcte": false },
+{ "id": "b", "texte": "Que le réchauffement climatique est désormais une réalité visible et mesurable.", "correcte": true },
+{ "id": "c", "texte": "Que les livres de sciences du grenier contiennent des erreurs factuelles.", "correcte": false },
+{ "id": "d", "texte": "Que le processus de mémorisation exige des dossiers papier.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-063-07",
+"question": "Quels types d'actions simples sont préconisés par Thomas à la fin de la discussion ?",
+"reponses": [
+{ "id": "a", "texte": "Consommer de la nourriture industrielle rapide en un clic.", "correcte": false },
+{ "id": "b", "texte": "Favoriser la déconnexion, consommer local et éviter le gaspillage.", "correcte": true },
+{ "id": "c", "texte": "Organiser de grands rassemblements logistiques payants le samedi.", "correcte": false },
+{ "id": "d", "texte": "Laisser la radio allumée toute la nuit pour simuler une présence.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "064",
+"titre": "Comment réduire la quantité de déchets ?",
+"titre2": "Exercice 064",
+"texte": [
+"La production démesurée de résidus matériels au sein de nos foyers constitue une menace sérieuse pour la salubrité de l'écosystème global.",
+"Chaque semaine, des tonnes d'emballages plastiques et d'objets jetables s'accumulent dans les décharges, saturant les capacités de traitement des structures publiques.",
+"Face à cette crise de surconsommation, adopter une démarche de réduction à la source s'avère être une obligation citoyenne incontestable.",
+"La première étape de cette transition écologique consiste à modifier consciencieusement nos critères d'achat lors des courses quotidiennes.",
+"Bannir les emballages individuels superflus au profit du vrac et privilégier des contenants en verre réutilisables représentent des micro-choix fondamentaux.",
+"De plus, sur le plan alimentaire, il est crucial que l'on mette un terme au gaspillage en planifiant ses menus hebdomadaires avec rigueur.",
+"Cuisiner les restes de nourriture faits maison au lieu de les jeter permet d'alléger le volume de la poubelle de cuisine.",
+"Rparer un appareil informatique défectueux plutôt que de commander un modèle neuf en un clic est également un excellent réflexe.",
+"Pourvu que chaque citoyen acquière cette maturité environnementale, nous réduirons drastiquement le gaspillage et préserverons les matières premières.",
+"La diminution des déchets n'est pas une contrainte étouffante pour notre liberté, mais le fondement indispensable d'un mode de vie sain."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-064-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-064-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-064-01",
+"question": "Quel problème environnemental majeur le texte expose-t-il concernant les foyers ?",
+"reponses": [
+{ "id": "a", "texte": "Le manque d'eau courante potable dans les zones rurales isolées.", "correcte": false },
+{ "id": "b", "texte": "La production démesurée de résidus matériels et de déchets.", "correcte": true },
+{ "id": "c", "texte": "L'augmentation excessive des factures d'électricité professionnelles.", "correcte": false },
+{ "id": "d", "texte": "La perte de repères mémoriels chez les enfants de moins de dix ans.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-064-02",
+"question": "Quel changement d'habitude concret est suggéré lors de l'achat des produits ?",
+"reponses": [
+{ "id": "a", "texte": "Acheter uniquement des produits emballés dans des sacs en plastique noir.", "correcte": false },
+{ "id": "b", "texte": "Bannir les emballages individuels superflus au profit du vrac.", "correcte": true },
+{ "id": "c", "texte": "Commander tous ses produits en ligne depuis son écran de bureau.", "correcte": false },
+{ "id": "d", "texte": "Faire ses courses uniquement pendant les vacances scolaires d'été.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-064-03",
+"question": "Quelle méthode permet d'éviter le gaspillage sur le plan alimentaire ?",
+"reponses": [
+{ "id": "a", "texte": "Inviter des voisins à vider le réfrigérateur tous les jeudis soirs.", "correcte": false },
+{ "id": "b", "texte": "Planifier ses menus hebdomadaires avec rigueur et cuisiner les restes.", "correcte": true },
+{ "id": "c", "texte": "Ne consommer que de la nourriture industrielle achetée au restaurant.", "correcte": false },
+{ "id": "d", "texte": "S'imposer des sessions de jeûne intensives de cinquante minutes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-064-04",
+"question": "Quel réflexe matériel concernant les appareils défectueux est encouragé par l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Les jeter immédiatement dans la poubelle des déchets toxiques nuisibles.", "correcte": false },
+{ "id": "b", "texte": "Réparer l'appareil plutôt que d'en commander un neuf en un clic.", "correcte": true },
+{ "id": "c", "texte": "Les prêter à un collègue de bureau pour éviter les corvées.", "correcte": false },
+{ "id": "d", "texte": "Leur appliquer une couche de vernis pour masquer les pannes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-064-05",
+"question": "Quel effet positif global l'acquisition de cette maturité aura-t-elle sur les ressources ?",
+"reponses": [
+{ "id": "a", "texte": "Elle fera baisser le prix de l'abonnement internet de la structure.", "correcte": false },
+{ "id": "b", "texte": "Elle réduira le gaspillage et préservera durablement les matières premières.", "correcte": true },
+{ "id": "c", "texte": "Elle permettra aux tuteurs universitaires de donner moins de devoirs.", "correcte": false },
+{ "id": "d", "texte": "Elle éliminera le besoin de faire le tri sélectif dans le quartier.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-064-06",
+"question": "Qu'indique implicitement l'expression « réduction à la source » ?",
+"reponses": [
+{ "id": "a", "texte": "Qu'il faut aller chercher son eau potable directement à la rivière.", "correcte": false },
+{ "id": "b", "texte": "Qu'il vaut mieux éviter de générer le déchet plutôt que d'avoir à le traiter.", "correcte": true },
+{ "id": "c", "texte": "Que le budget de la famille Martin doit subir une baisse drastique.", "correcte": false },
+{ "id": "d", "texte": "Que la taille de la poubelle de tri sélectif doit être réduite de moitié.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-064-07",
+"question": "Comment l'auteur qualifie-t-il la diminution des résidus à la fin du texte ?",
+"reponses": [
+{ "id": "a", "texte": "Une contrainte étouffante qui bride la liberté individuelle des cadres.", "correcte": false },
+{ "id": "b", "texte": "Le fondement indispensable d'un mode de vie sain et équilibré.", "correcte": true },
+{ "id": "c", "texte": "Un rêve impossible à matérialiser au sein des grandes métropoles.", "correcte": false },
+{ "id": "d", "texte": "Une simple micro-tâche que l'on peut accomplir en moins de deux minutes.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "065",
+"titre": "Les avantages des énergies renouvelables",
+"titre2": "Exercice 065",
+"texte": [
+"La dépendance historique de notre civilisation aux ressources fossiles constitue la cause majeure du dérèglement climatique et de la pollution atmosphérique.",
+"Pour s'affranchir de cette impasse technologique, la transition vers les énergies renouvelables représente l'alternative la plus viable et inestimable.",
+"L'exploitation des forces naturelles, telles que le rayonnement solaire, le vent ou l'écoulement de l'eau, offre des structures de production inépuisables.",
+"Le premier avantage de ces technologies vertes est leur neutralité carbone : elles ne rejettent aucune particule nocive dans l'air au quotidien.",
+"De plus, sur le plan économique, le développement des parcs éoliens et des panneaux solaires génère des milliers d'emplois locaux durables.",
+"Bien que l'investissement financier initial semble parfois insurmontable pour certains budgets, les bénéfices à long terme sont spectaculaires.",
+"En produisant sa propre électricité, une structure gagne une autonomie énergétique précieuse, la protégeant des crises géopolitiques mondiales.",
+"Il est indispensable que les gouvernements soutiennent cette mutation en allouant des aides et en adaptant la législation juridique.",
+"Pourvu que la recherche scientifique continue d'optimiser l'efficacité de ces outils, nous préserverons l'harmonie biologique de notre planète.",
+"Adopter les énergies vertes est un geste de maturité collective indispensable pour léguer un environnement sain et respirable à la jeunesse."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-065-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-065-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-065-01",
+"question": "Quelle est la cause principale du dérèglement climatique d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "L'usage excessif des tablettes numériques dans les lycées de centre-ville.", "correcte": false },
+{ "id": "b", "texte": "La dépendance historique de notre civilisation aux ressources fossiles.", "correcte": true },
+{ "id": "c", "texte": "Le manque d'entraide et de communication amicale entre les collègues.", "correcte": false },
+{ "id": "d", "texte": "La prolifération des emballages de nourriture faits maison au marché.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-065-02",
+"question": "Quelles forces naturelles sont explicitement mentionnées comme sources d'énergie ?",
+"reponses": [
+{ "id": "a", "texte": "Le feu des volcans et les marées de la mer morte.", "correcte": false },
+{ "id": "b", "texte": "Le rayonnement solaire, le vent et l'écoulement de l'eau.", "correcte": true },
+{ "id": "c", "texte": "La foudre des orages et la chaleur des nappes de pétrole.", "correcte": false },
+{ "id": "d", "texte": "Le souffle des animaux et le mouvement des draps de lit.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-065-03",
+"question": "Quel est le principal point fort environnemental des technologies vertes ?",
+"reponses": [
+{ "id": "a", "texte": "Elles permettent d'éliminer le besoin d'acheter de la vaisselle.", "correcte": false },
+{ "id": "b", "texte": "Leur totale neutralité carbone sans rejet de particules nocives.", "correcte": true },
+{ "id": "c", "texte": "Elles suppriment la fatigue cognitive causée par le travail de bureau.", "correcte": false },
+{ "id": "d", "texte": "Elles augmentent la vitesse de fonctionnement des serveurs internet.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-065-04",
+"question": "Quel avantage économique le développement de ces parcs engendre-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Une baisse drastique du prix du café noir dans les auberges.", "correcte": false },
+{ "id": "b", "texte": "La création de milliers d'emplois locaux et durables.", "correcte": true },
+{ "id": "c", "texte": "L'obtention de bourses d'études gratuites pour l'université.", "correcte": false },
+{ "id": "d", "texte": "La gratuité totale des livraisons de colis commandés en un clic.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-065-05",
+"question": "De quel danger une structure se protège-t-elle en gagnant son autonomie énergétique ?",
+"reponses": [
+{ "id": "a", "texte": "Des malentendus et des disputes avec ses voisins de palier.", "correcte": false },
+{ "id": "b", "texte": "Des crises géopolitiques et des fluctuations de prix mondiales.", "correcte": true },
+{ "id": "c", "texte": "De l'anxiété chronique provoquée par les examens de médecine.", "correcte": false },
+{ "id": "d", "texte": "Des pannes techniques majeures affectant les réseaux de métro.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-065-06",
+"question": "Qu'indique implicitement l'expression « les ressources fossiles s'oxydent vite » ?",
+"reponses": [
+{ "id": "a", "texte": "Qu'il faut nettoyer le métal des cuves avec de l'acide chlorhydrique.", "correcte": false },
+{ "id": "b", "texte": "Que ces sources d'énergie traditionnelles s'épuisent et abîment le monde.", "correcte": true },
+{ "id": "c", "texte": "Que les ingénieurs doivent concevoir des applications antirouille.", "correcte": false },
+{ "id": "d", "texte": "Que le savoir dispensé dans les manuels scolaires perd sa valeur.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-065-07",
+"question": "Quelle est la conclusion générale du texte concernant l'adoption de ces énergies ?",
+"reponses": [
+{ "id": "a", "texte": "C'est un repli nostalgique stérile qui nuit à l'évolution des cadres.", "correcte": false },
+{ "id": "b", "texte": "Un geste de maturité collective indispensable pour l'avenir de la jeunesse.", "correcte": true },
+{ "id": "c", "texte": "Une contrainte étouffante qui bride l'inspiration créative de la société.", "correcte": false },
+{ "id": "d", "texte": "Un projet irréalisable en raison du manque de structures de stockage.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "066",
+"titre": "La protection des espèces animales menacées",
+"titre2": "Exercice 066",
+"texte": [
+"La disparition accélérée de nombreuses espèces animales sous l'effet des activités humaines constitue un signal d'alarme éthique et écologique majeur.",
+"Le braconnage intensif, la destruction des habitats naturels et la pollution des cours d'eau fragilisent la structure même de la biodiversité.",
+"Chaque animal, qu'il s'agisse du grand prédateur des forêts ou du petit insecte pollinisateur, remplit une fonction indispensable à l'équilibre du groupe.",
+"Au cours de sa scolarité, Lucas avait découvert l'histoire du国宝大熊猫, sauvé de l'extinction grâce à des mesures de protection gouvernementales.",
+"Cette réussite prouve que l'action coordonnée des scientifiques et des citoyens permet d'inverser des trajectoires qui semblaient irréversibles.",
+"Aujourd'hui, il est crucial que la société étende ces efforts à l'ensemble des créatures en péril dans les réserves naturelles.",
+"Lors des visites pédagogiques dans les parcs sauvages, les tuteurs doivent enseigner aux adolescents le respect absolu de la faune.",
+"Interdire le nourrissage artificiel et interdire le rejet de déchets plastiques constituent des règles de courtoisie environnementale minimales.",
+"Pourvu que l'on cultive cette empathie envers le monde vivant, nous préserverons la richesse biologique qui fait la beauté de notre planète.",
+"Sauvegarder les espèces menacées n'est pas un luxe abstrait pour chercheurs, mais un devoir de maturité pour préserver notre avenir commun."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-066-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-066-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-066-01",
+"question": "Quels facteurs humains accélèrent la disparition des espèces d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "L'usage excessif des applications cartographiques et des tablettes.", "correcte": false },
+{ "id": "b", "texte": "Le braconnage intensif, la destruction des habitats et la pollution.", "correcte": true },
+{ "id": "c", "texte": "L'organisation de réunions logistiques complexes à la campagne.", "correcte": false },
+{ "id": "d", "texte": "Le fait d'étudier de manière indépendante dans un petit studio.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-065-02",
+"id_correct": "q-fr-read-b1-066-02",
+"question": "Quel exemple historique de réussite animale est explicitement mentionné ?",
+"reponses": [
+{ "id": "a", "texte": "Les oiseaux colorés abrités dans le grand grenier familial.", "correcte": false },
+{ "id": "b", "texte": "Le panda géant, sauvé de l'extinction par l'action du gouvernement.", "correcte": true },
+{ "id": "c", "texte": "Les truites argentées nageant dans la rivière de l'université.", "correcte": false },
+{ "id": "d", "texte": "La chouette effraie nichant sous le toit de la grange restaurée.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-066-03",
+"question": "Qu'est-ce que la réussite de ce sauvetage prouve selon l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Que les ingénieurs peuvent créer des applications en un clic.", "correcte": false },
+{ "id": "b", "texte": "Que l'action coordonnée permet d'inverser des trajectoires critiques.", "correcte": true },
+{ "id": "c", "texte": "Que le budget alloué aux parcs d'attractions doit être rehaussé.", "correcte": false },
+{ "id": "d", "texte": "Que la mémorisation des formules d'anatomie exige de l'ordre.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-066-04",
+"question": "Quelle consigne stricte les tuteurs doivent-ils donner aux jeunes lors des visites ?",
+"reponses": [
+{ "id": "a", "texte": "Prendre des notes écrites sur un carnet de route papier rigide.", "correcte": false },
+{ "id": "b", "texte": "Interdire le nourrissage artificiel des animaux et le rejet de déchets.", "correcte": true },
+{ "id": "c", "texte": "Courir sur la piste d'athlétisme pendant cinquante minutes.", "correcte": false },
+{ "id": "d", "texte": "Acheter des souvenirs artisanaux fabriqués par les habitants.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-066-05",
+"question": "Quel sentiment le texte encourage-t-il à développer envers le monde vivant ?",
+"reponses": [
+{ "id": "a", "texte": "Une impatience chronique axée sur la productivité du bureau.", "correcte": false },
+{ "id": "b", "texte": "Une empathie profonde couplée à un respect de la biodiversité.", "correcte": true },
+{ "id": "c", "texte": "Une indifférence polie dictée par l'absence de contrat écrit.", "correcte": false },
+{ "id": "d", "texte": "Une anxiété liée à l'évolution fulgurante des technologies.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-066-06",
+"question": "Qu'indique de façon implicite le terme « signal d'alarme éthique » ?",
+"reponses": [
+{ "id": "a", "texte": "Que la disparition des animaux pose une question de responsabilité morale humaine.", "correcte": true },
+{ "id": "b", "texte": "Que le réveil matin du bureau fait un bruit particulièrement strident.", "correcte": false },
+{ "id": "c", "texte": "Que les scientifiques doivent activer la sonnerie d'alarme de la grange.", "correcte": false },
+{ "id": "d", "texte": "Que l'administration universitaire refuse d'écouter les critiques.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-066-07",
+"question": "Comment la protection des animaux est-elle résumée à la fin de l'exercice ?",
+"reponses": [
+{ "id": "a", "texte": "Un luxe abstrait pour chercheurs déconnectés des réalités matérielles.", "correcte": false },
+{ "id": "b", "texte": "Un devoir de maturité indispensable pour préserver notre avenir commun.", "correcte": true },
+{ "id": "c", "texte": "Une contrainte managériale rigide qui détruit la liberté des cadres.", "correcte": false },
+{ "id": "d", "texte": "Une simple routine de deux minutes que l'on peut accomplir au hasard.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "067",
+"titre": "Une journée consacrée au nettoyage de notre quartier",
+"titre2": "Exercice 067",
+"texte": [
+"Face à l'accumulation insidieuse de détritus plastiques qui défiguraient les espaces verts du centre-ville, une association citoyenne prit l'initiative d'agir.",
+"Samedi dernier, une cinquantaine d'habitants, toutes générations confondues, se rassemblèrent dès neuf heures sur la place centrale de notre quartier.",
+"L'organisatrice de l'événement distribua à chaque bénévole des gants de protection en tissu épais et plusieurs grands sacs poubelles de couleur noire.",
+"Les participants furent divisés en petites équipes méthodiques afin de quadriller efficacement les ruelles anciennes et le parc municipal ombragé.",
+"Ma mission consistait à ramasser les micro-déchets dissimulés sous les buissons, tels que les canettes de boisson en aluminium et les vieux journaux mouillés.",
+"Pendant ce temps, les adultes balayaient les feuilles mortes accumulées sur les trottoirs et nettoyaient le mobilier urbain dégradé.",
+"Bien que cette corvée matérielle exigeât un effort physique intense sous une pluie fine, une atmosphère de franche camaraderie s'installa rapidement.",
+"Au bout de trois heures de labeur intensif, les résultats de cette mobilisation collective se révélèrent tout à fait spectaculaires pour la communauté.",
+"Le quartier avait retrouvé une propreté impeccable, offrant un confort visuel immédiat qui apaisait l'anxiété chronique liée à la pollution urbaine.",
+"Cette journée prouva que la préservation de notre environnement de proximité ne dépend pas d'actions magiques, mais de notre engagement citoyen quotidien."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-067-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-067-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-067-01",
+"question": "Quel problème précis a motivé l'organisation de cette journée citoyenne ?",
+"reponses": [
+{ "id": "a", "texte": "Une panne technique majeure paralysant les transports du centre-ville.", "correcte": false },
+{ "id": "b", "texte": "L'accumulation de détritus plastiques qui défiguraient les espaces verts.", "correcte": true },
+{ "id": "c", "texte": "Une augmentation du coût de la nourriture industrielle à la cantine.", "correcte": false },
+{ "id": "d", "texte": "Des conflits récurrents de valeurs entre les adolescents du lycée.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-067-02",
+"question": "Quels équipements de protection furent distribués aux bénévoles au début du rassemblement ?",
+"reponses": [
+{ "id": "a", "texte": "Des masques médicaux bleus et des chaussures de sécurité.", "correcte": false },
+{ "id": "b", "texte": "Des gants en tissu épais et de grands sacs poubelles noirs.", "correcte": true },
+{ "id": "c", "texte": "Des vêtements de sport connectés et des casques légers.", "correcte": false },
+{ "id": "d", "texte": "Des parapluies imperméables et des bouteilles d'eau minérale.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-067-03",
+"question": "En quoi consistait la mission spécifique attribuée au narrateur ?",
+"reponses": [
+{ "id": "a", "texte": "Balayer l'intégralité des trottoirs de la ruelle ancienne.", "correcte": false },
+{ "id": "b", "texte": "Ramasser les micro-déchets comme les canettes cachées sous les buissons.", "correcte": true },
+{ "id": "c", "texte": "Négocier un budget financier serré avec la direction municipale.", "correcte": false },
+{ "id": "d", "texte": "Repeindre le mobilier urbain et réparer les clôtures de la grange.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-067-04",
+"question": "Quelle condition météo est venue compliquer l'effort physique des participants ?",
+"reponses": [
+{ "id": "a", "texte": "Une chaleur étouffante qui provoquait de lourdes insomnies.", "correcte": false },
+{ "id": "b", "texte": "L'apparition soudaine d'une pluie fine durant la matinée.", "correcte": true },
+{ "id": "c", "texte": "Un vent violent qui emportait les sacs poubelles au loin.", "correcte": false },
+{ "id": "d", "texte": "Une absence totale de lumière solaire due à d'épais nuages.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-067-05",
+"question": "Combien de temps l'activité de nettoyage intensif a-t-elle duré ?",
+"reponses": [
+{ "id": "a", "texte": "Une heure seulement avant que la fatigue cognitive ne s'installât.", "correcte": false },
+{ "id": "b", "texte": "Trois heures de labeur intensif au sein du quartier.", "correcte": true },
+{ "id": "c", "texte": "L'intégralité du week-end sans s'accorder de répit.", "correcte": false },
+{ "id": "d", "texte": "Quinze heures réparties équitablement sur la semaine.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-067-06",
+"question": "Qu'indique implicitement l'expression « toutes générations confondues » ?",
+"reponses": [
+{ "id": "a", "texte": "Que les personnes âgées ont refusé de faire les corvées de bureau.", "correcte": false },
+{ "id": "b", "texte": "Que la mixité d'âges a renforcé la cohésion autour de ce projet commun.", "correcte": true },
+{ "id": "c", "texte": "Que les adolescents manquaient cruellement de maturité éthique.", "correcte": false },
+{ "id": "d", "texte": "Que la structure familiale a subi de graves perturbations logistiques.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-067-07",
+"question": "Quelle leçon philosophique se dégage de la conclusion de ce texte ?",
+"reponses": [
+{ "id": "a", "texte": "La protection de notre environnement dépend de notre engagement quotidien.", "correcte": true },
+{ "id": "b", "texte": "Il est préférable de confier le tri des déchets à des outils informatiques.", "correcte": false },
+{ "id": "c", "texte": "La planification détruit le fondement même de la liberté citoyenne.", "correcte": false },
+{ "id": "d", "texte": "Les parcs urbains devraient être fermés de façon définitive au public.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "068",
+"titre": "Pourquoi économiser l'eau est-il indispensable ?",
+"titre2": "Exercice 068",
+"texte": [
+"Ressource vitale par excellence, l'eau douce fait aujourd'hui l'objet d'une sollicitation excessive qui menace l'équilibre biologique de notre planète.",
+"Les changements climatiques actuels et l'urbanisation frénétique provoquent un tarissement progressif des nappes phréatiques les plus cruciales.",
+"Pourtant, de nombreux citadins commettent encore l'erreur éthique de gaspiller cette substance précieuse comme s'il s'agissait d'un bien inépuisable.",
+"Ils passent de longues minutes sous la douche et lavent leurs voitures personnelles à grande eau sans mesurer les conséquences de leurs actes.",
+"Économiser l'eau est devenu une priorité absolue qui exige que l'on adopte une rigueur comportementale stricte au quotidien.",
+"Des gestes simples, bien qu'insignifiants pris isolément, transforment radicalement notre empreinte environnementale globale sur le long terme.",
+"Couper le robinet pendant le brossage des dents, réparer immédiatement une fuite de canalisation ou collecter l'eau de pluie pour le jardin.",
+"Les experts affirment qu'une gestion méthodique des ressources hydriques réduit la pression logistique sur les structures d'épuration modernes.",
+"Il est indispensable que la jeunesse reçoive une éducation scientifique solide afin de comprendre la fragilité de notre écosystème commun.",
+"Préserver l'eau douce est un acte de maturité civique essentiel pour garantir à la société future un accès libre à un environnement sain."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-068-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-068-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-068-01",
+"question": "Quelles causes principales menacent les réserves d'eau douce d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Les pannes techniques des serveurs informatiques centraux.", "correcte": false },
+{ "id": "b", "texte": "Les changements climatiques et l'urbanisation frénétique.", "correcte": true },
+{ "id": "c", "texte": "L'usage abusif des tablettes numériques dans les universités.", "correcte": false },
+{ "id": "d", "texte": "La diminution de la production de bouteilles en plastique.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-068-02",
+"question": "Quelle erreur éthique de nombreux citadins commettent-ils encore aujourd'hui ?",
+"reponses": [
+{ "id": "a", "texte": "Ils refusent de trier les documents administratifs de routine.", "correcte": false },
+{ "id": "b", "texte": "Ils gaspillent l'eau douce comme s'il s'agissait d'un bien inépuisable.", "correcte": true },
+{ "id": "c", "texte": "Ils passent trop de temps à faire du sport en salle fermée.", "correcte": false },
+{ "id": "d", "texte": "Ils achètent trop de livres de médecine d'anatomie complexes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-068-03",
+"question": "Quel petit geste automatique est suggéré pour économiser l'eau à la maison ?",
+"reponses": [
+{ "id": "a", "texte": "Laver sa tasse de café noir uniquement le samedi matin.", "correcte": false },
+{ "id": "b", "texte": "Couper le robinet pendant le brossage des dents.", "correcte": true },
+{ "id": "c", "texte": "Éteindre les ordinateurs de bureau dès dix-huit heures.", "correcte": false },
+{ "id": "d", "texte": "Cuisiner des recettes régionales complexes sans utiliser de sel.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-068-04",
+"question": "Quel avantage direct une gestion méthodique des ressources apporte-t-elle d'après les experts ?",
+"reponses": [
+{ "id": "a", "texte": "Elle élimine la fatigue cognitive liée à la charge mentale.", "correcte": false },
+{ "id": "b", "texte": "Elle réduit la pression logistique sur les structures d'épuration.", "correcte": true },
+{ "id": "c", "texte": "Elle permet de faire de grandes économies sur le budget des loisirs.", "correcte": false },
+{ "id": "d", "texte": "Elle supprime l'obligation d'obéir aux lois de la communauté.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-068-05",
+"question": "Que doit recevoir la jeunesse pour être sensibilisée à cette fragilité ?",
+"reponses": [
+{ "id": "a", "texte": "Une formation managériale rigide axée sur la compétition.", "correcte": false },
+{ "id": "b", "texte": "Une éducation scientifique solide concernant notre écosystème.", "correcte": true },
+{ "id": "c", "texte": "Un carnet de route papier rédigé par un tuteur universitaire.", "correcte": false },
+{ "id": "d", "texte": "L'autorisation de passer leurs soirées devant des séries télévisées.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-068-06",
+"question": "Qu'indique implicitement l'expression « substance précieuse » employée par l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Que l'eau possède une valeur vitale supérieure à sa dimension matérielle.", "correcte": true },
+{ "id": "b", "texte": "Que le coût de l'eau courante va fortement augmenter chez le notaire.", "correcte": false },
+{ "id": "c", "texte": "Que cette boisson est indispensable pour soigner l'anxiété chronique.", "correcte": false },
+{ "id": "d", "texte": "Que le liquide doit être conservé dans un coffre poussiéreux au grenier.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-068-07",
+"question": "Quelle est la conclusion générale sur le fait de préserver cette ressource ?",
+"reponses": [
+{ "id": "a", "texte": "C'est une contrainte étouffante qui bride le développement créatif libre.", "correcte": false },
+{ "id": "b", "texte": "C'est un acte de maturité civique essentiel pour garantir un avenir sain.", "correcte": true },
+{ "id": "c", "texte": "C'est un rêve difficile à réaliser en raison des contraintes juridiques.", "correcte": false },
+{ "id": "d", "texte": "Cela demande une planification trop complexe pour un simple citadin.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "069",
+"titre": "Les transports écologiques de demain",
+"titre2": "Exercice 069",
+"texte": [
+"— Dis-moi, Lucas, que penses-tu du projet de la municipalité d'interdire définitivement l'accès des voitures thermiques au centre-ville ?",
+"— Personnellement, Marc, je trouve que c'est une excellente avancée. Les structures urbaines saturent sous le poids de la pollution et du bruit.",
+"— Je comprends, mais je crains que cette décision n'engendre des difficultés logistiques insurmontables pour les travailleurs de banlieue.",
+"— C'est un risque légitime, mais la ville a prévu de déployer un réseau massif de transports écologiques et alternatifs de demain.",
+"— Le développement des pistes cyclables sécurisées et l'introduction de bus électriques à haute fréquence transformeront nos habitudes.",
+"— C'est vrai, mais ne penses-tu pas que la flexibilité d'un véhicule individuel reste indispensable pour gérer les imprévus matériels ?",
+"— Les deux modèles peuvent coexister de manière intelligente si l'on favorise l'usage des voitures partagées en un clic.",
+"— L'important est que l'on s'affranchisse de cette dépendance obsessionnelle au pétrole pour préserver notre santé biologique commune.",
+"— Vu sous cet angle, ton approche globale me semble raisonnable. Cela réduira grandement notre charge mentale numérique et routière.",
+"— Exactement. Pourvu que la transition soit accompagnée avec bienveillance, elle nous permettra de redécouvrir la clarté d'un air pur."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-069-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-069-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-069-01",
+"question": "Quel projet municipal suscite le débat entre Lucas et Marc au début ?",
+"reponses": [
+{ "id": "a", "texte": "La fermeture administrative des galeries d'art contemporain.", "correcte": false },
+{ "id": "b", "texte": "L'interdiction définitive des voitures thermiques au centre-ville.", "correcte": true },
+{ "id": "c", "texte": "L'obligation d'acheter des tablettes interactives pour le lycée.", "correcte": false },
+{ "id": "d", "texte": "Le nettoyage collectif des ordures ménagères de la ruelle ancienne.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-069-02",
+"question": "Pourquoi Lucas soutient-il fermement cette initiative environnementale ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que les salaires des conducteurs de bus vont augmenter.", "correcte": false },
+{ "id": "b", "texte": "Parce que les structures urbaines étouffent sous la pollution et le bruit.", "correcte": true },
+{ "id": "c", "texte": "Parce qu'il souhaite faire de la marche rapide sur la terrasse du café.", "correcte": false },
+{ "id": "d", "texte": "Parce qu'il a perdu son permis de conduire le mois dernier.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-069-03",
+"question": "Quelle inquiétude Marc exprime-t-il concernant les habitants de la banlieue ?",
+"reponses": [
+{ "id": "a", "texte": "Il craint qu'ils ne trouvent plus de logement étudiant économique.", "correcte": false },
+{ "id": "b", "texte": "Il redoute l'apparition de difficultés logistiques majeures pour leurs trajets.", "correcte": true },
+{ "id": "c", "texte": "Il pense qu'ils refuseront de suivre les formations de secrétariat en ligne.", "correcte": false },
+{ "id": "d", "texte": "Il a peur qu'ils ne sachent pas utiliser un vélo à assistance électrique.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-069-04",
+"question": "Quels types de transports écologiques vont être déployés pour accompagner ce changement ?",
+"reponses": [
+{ "id": "a", "texte": "Des trains à grande vitesse circulant uniquement pendant la nuit.", "correcte": false },
+{ "id": "b", "texte": "Des pistes cyclables sécurisées et des bus électriques à haute fréquence.", "correcte": true },
+{ "id": "c", "texte": "Des voitures de course réservées aux tuteurs de l'université.", "correcte": false },
+{ "id": "d", "texte": "Des remorques agricoles tirées par de grands tracteurs modernes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-069-05",
+"question": "Quelle solution mixte Lucas propose-t-il pour préserver une certaine flexibilité ?",
+"reponses": [
+{ "id": "a", "texte": "Favoriser l'usage partagé des véhicules individuels en un clic.", "correcte": true },
+{ "id": "b", "texte": "Permettre aux salariés de travailler uniquement durant le week-end.", "correcte": false },
+{ "id": "c", "texte": "Déménager l'intégralité des bureaux de service à la campagne.", "correcte": false },
+{ "id": "d", "texte": "Demander une aide financière d'urgence au conseil départemental.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-069-06",
+"question": "Qu'indique de façon implicite le terme « transition accompagnée avec bienveillance » ?",
+"reponses": [
+{ "id": "a", "texte": "Qu'il faut punir sévèrement les conducteurs qui enfreignent le règlement.", "correcte": false },
+{ "id": "b", "texte": "Que le changement de mode de vie exige des mesures de soutien pour réussir.", "correcte": true },
+{ "id": "c", "texte": "Que la police administrative doit contrôler l'accès des gares routières.", "correcte": false },
+{ "id": "d", "texte": "Que le grand-père d'Hélène doit donner son avis avant le vote du budget.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-069-07",
+"question": "Quel bénéfice ultime Lucas met-il en avant à la fin du dialogue ?",
+"reponses": [
+{ "id": "a", "texte": "Une baisse immédiate du prix de vente des applications mobiles.", "correcte": false },
+{ "id": "b", "texte": "La possibilité de respirer enfin un air pur au sein de la cité.", "correcte": true },
+{ "id": "c", "texte": "Une disparition complète de l'irritabilité nerveuse des adolescents.", "correcte": false },
+{ "id": "d", "texte": "L'acquisition d'une fortune inestimable grâce aux contrats commerciaux.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "070",
+"titre": "Le rôle des jeunes dans la protection de l'environnement",
+"titre2": "Exercice 070",
+"texte": [
+"Dans le tumulte des crises écologiques globales, la jeunesse n'est plus une simple spectatrice passive des décisions prises par les aînés.",
+"À travers le monde, les adolescents et les jeunes adultes s'érigent en acteurs majeurs de la transition environnementale contemporaine.",
+"Refusant de capituler face au découragement ou aux discours fatalistes, ils insufflent une énergie créative nouvelle pour bousculer la société.",
+"Leur mobilisation ne se cantonne pas aux manifestations symboliques ou aux slogans éphémères partagés sur les réseaux sociaux.",
+"Elle se traduit concrètement par des actions méthodiques sur le terrain : nettoyage de plages, plantation d'arbres et création d'associations éthiques.",
+"Grâce à leur maîtrise innée des technologies numériques, ils parviennent à diffuser des savoirs scientifiques et à éveiller les consciences.",
+"Ils remettent en cause les modes de consommation matérialistes obsolètes, prônant des structures axées sur la déconnexion et la sobriété.",
+"Les sociologues affirment que cet engagement précoce développe chez eux une maturité civique et une résilience psychologique inestimables.",
+"Il est nécessaire que les institutions politiques écoutent leur parole avec respect et intègrent leurs projets dans la planification future.",
+"Pourvu que la voix de cette génération soit entendue, l'avenir de notre planète commune cessera d'être perçu avec anxiété pour s'ouvrir sur l'espoir."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-070-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-070-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-070-01",
+"question": "Quelle posture la jeunesse refuse-t-elle d'adopter face aux crises écologiques ?",
+"reponses": [
+{ "id": "a", "texte": "Une attitude agressive qui perturberait le travail des administrations.", "correcte": false },
+{ "id": "b", "texte": "Une posture spectatrice et passive face aux décisions des aînés.", "correcte": true },
+{ "id": "c", "texte": "Le choix d'étudier la médecine ou le secrétariat à l'université.", "correcte": false },
+{ "id": "d", "texte": "La gestion de budgets serrés alloués aux activités de plein air.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-070-02",
+"question": "Quelle qualité spécifique les jeunes insufflent-ils pour bousculer la société ?",
+"reponses": [
+{ "id": "a", "texte": "Une discipline militaire et rigide héritée de leurs ancêtres.", "correcte": false },
+{ "id": "b", "texte": "Une énergie créative nouvelle qui refuse les discours fatalistes.", "correcte": true },
+{ "id": "c", "texte": "Une impatience chronique axée uniquement sur la consommation.", "correcte": false },
+{ "id": "d", "texte": "Une force physique supérieure pour transporter des meubles lourds.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-070-03",
+"question": "Quelle action méthodique concrète les jeunes mènent-ils sur le terrain ?",
+"reponses": [
+{ "id": "a", "texte": "Le nettoyage de plages, la plantation d'arbres et la création d'associations.", "correcte": true },
+{ "id": "b", "texte": "La réparation des pannes techniques des métros du centre-ville.", "correcte": false },
+{ "id": "c", "texte": "Le classement de dossiers volumineux au sein du service logistique.", "correcte": false },
+{ "id": "d", "texte": "La signature de contrats de vente de tablettes numériques.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-070-04",
+"question": "Quel outil moderne utilisent-ils pour diffuser les connaissances scientifiques ?",
+"reponses": [
+{ "id": "a", "texte": "Des lettres d'information écrites à la main et envoyées par la poste.", "correcte": false },
+{ "id": "b", "texte": "Leur maîtrise innée des technologies et outils numériques.", "correcte": true },
+{ "id": "c", "texte": "Des réunions administratives organisées chez le notaire du quartier.", "correcte": false },
+{ "id": "d", "texte": "Les tableaux d'affichage installés à l'entrée des banques privées.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-070-05",
+"question": "Quel bénéfice personnel cet engagement précoce apporte-t-il selon les sociologues ?",
+"reponses": [
+{ "id": "a", "texte": "Une diminution drastique de leurs heures de révision scolaires.", "correcte": false },
+{ "id": "b", "texte": "Le développement d'une maturité civique et d'une résilience inestimables.", "correcte": true },
+{ "id": "c", "texte": "La disparition complète de la fatigue oculaire du samedi matin.", "correcte": false },
+{ "id": "d", "texte": "L'acquisition d'un logement étudiant gratuit au sein de la métropole.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-070-06",
+"question": "Qu'indique implicitement le fait de remettre en cause le matérialisme ?",
+"reponses": [
+{ "id": "a", "texte": "Que la jeunesse prône un mode de vie plus sobre axé sur l'essentiel.", "correcte": true },
+{ "id": "b", "texte": "Que les adolescents refusent d'acheter des manuels de géographie récents.", "correcte": false },
+{ "id": "c", "texte": "Que les jeunes veulent doubler la productivité matérielle des usines.", "correcte": false },
+{ "id": "d", "texte": "Que la charge mentale numérique est jugée bénéfique par cette génération.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-070-07",
+"question": "Quelle obligation est formulée à l'égard des institutions politiques à la fin ?",
+"reponses": [
+{ "id": "a", "texte": "Imposer des examens d'anatomie médicale à l'ensemble du groupe.", "correcte": false },
+{ "id": "b", "texte": "Écouter la parole des jeunes et intégrer leurs projets d'avenir.", "correcte": true },
+{ "id": "c", "texte": "Supprimer définitivement les budgets alloués aux parcs ruraux.", "correcte": false },
+{ "id": "d", "texte": "Obliger les adolescents à travailler de nuit sans rémunération fixe.", "correcte": false }
 ]
 }
 ]
