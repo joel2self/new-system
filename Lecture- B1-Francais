@@ -3223,7 +3223,7 @@
 ]
 },
 {
-"id": "041",
+"id": "0041",
 "titre": "Découvrir le monde du travail pour la première fois",
 "titre2": "Exercice 041",
 "texte": [
@@ -3318,7 +3318,7 @@
 {
 "id": "041",
 "titre": "Découvrir une culture différente de la sienne",
-"titre2": "Exercice 041",
+"titre2": "Exercice 0041",
 "texte": [
 "S'immerger au cœur d'une société dont on ne maîtrise ni les codes linguistiques ni les coutumes séculaires constitue une expérience de décentrement absolue.",
 "Le mois dernier, Sarah s'est envolée pour le Japon, désireuse de confronter ses représentations théoriques à la complexité d'une réalité vécue.",
@@ -4240,6 +4240,932 @@
 { "id": "b", "texte": "Un périple salvateur pour restaurer l'harmonie et la clarté de son esprit.", "correcte": true },
 { "id": "c", "texte": "Une contrainte étouffante qui détruit l'inspiration créative libre.", "correcte": false },
 { "id": "d", "texte": "Une erreur éthique qui nuit à la productivité de l'adulte moderne.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "051",
+"titre": "Pourquoi est-il important de pratiquer une activité physique ?",
+"titre2": "Exercice 051",
+"texte": [
+"Dans un environnement de bureau où l'usage des technologies numériques nous contraint à l'immobilité, bouger est devenu une absolue nécessité.",
+"Trop d'adultes considèrent encore le sport comme une simple option de loisir que l'on peut balayer lorsque l'emploi du temps se surcharge.",
+"Pourtant, les experts en biologie affirment qu'un entraînement régulier constitue le fondement indispensable de notre équilibre biologique.",
+"Pratiquer une marche rapide ou pédaler en plein air stimule la circulation sanguine et renforce durablement le système immunitaire.",
+"Au-delà des bénéfices corporels évidents, l'effort physique agit comme un formidable épurateur de la charge mentale accumulée.",
+"Il provoque la libération d'hormones positives qui purgent l'anxiété chronique et améliorent la qualité du sommeil nocturne.",
+"Il n'est pas nécessaire que l'on s'impose une discipline militaire exténuante pour ressentir ces effets salutaires au quotidien.",
+"Pourvu que l'on intègre deux à trois sessions hebdomadaires de trente minutes dans ses priorités, la vitalité reviendra rapidement.",
+"Prendre soin de son corps par le mouvement est le premier geste de maturité pour s'assurer une existence sereine et充满 d'énergie."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-051-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-051-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-051-01",
+"question": "Quelle est l'erreur fréquente commise par les adultes concernant le sport selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Ils y consacrent une part trop importante de leur budget mensuel.", "correcte": false },
+{ "id": "b", "texte": "Ils le considèrent comme une simple option de loisir négligeable.", "correcte": true },
+{ "id": "c", "texte": "Ils s'entraînent uniquement pendant les nuits blanches de la semaine.", "correcte": false },
+{ "id": "d", "texte": "Ils l'imposent de force à tous les membres de leur famille.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-051-02",
+"question": "Quel effet physiologique immédiat la marche rapide possède-t-elle d'après le récit ?",
+"reponses": [
+{ "id": "a", "texte": "Elle provoque une fatigue cognitive insurmontable dès la première minute.", "correcte": false },
+{ "id": "b", "texte": "Elle stimule la circulation et renforce le système immunitaire.", "correcte": true },
+{ "id": "c", "texte": "Elle élimine le besoin de consommer des repas équilibrés faits maison.", "correcte": false },
+{ "id": "d", "texte": "Elle modifie la structure administrative des centres sportifs urbains.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-051-03",
+"question": "Comment le sport agit-il sur l'esprit d'un travailleur de bureau ?",
+"reponses": [
+{ "id": "a", "texte": "En créant de profonds malentendus avec ses collègues directs.", "correcte": false },
+{ "id": "b", "texte": "Comme un épurateur de la charge mentale et de l'anxiété chronique.", "correcte": true },
+{ "id": "c", "texte": "Il l'oblige à concevoir des applications numériques déstabilisantes.", "correcte": false },
+{ "id": "d", "texte": "En développant une impatience chronique face aux dossiers complexes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-051-04",
+"question": "Quelle quantité de sport est recommandée par l'auteur pour obtenir des résultats ?",
+"reponses": [
+{ "id": "a", "texte": "Quinze heures par jour devant un écran de suivi connecté.", "correcte": false },
+{ "id": "b", "texte": "Deux à trois sessions hebdomadaires de trente minutes.", "correcte": true },
+{ "id": "c", "texte": "Une seule et unique promenade pendant les vacances de Noël.", "correcte": false },
+{ "id": "d", "texte": "Une activité physique intensive toutes les deux minutes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-051-05",
+"question": "Quelle expression le texte emploie-t-il pour qualifier une organisation sportive excessive ?",
+"reponses": [
+{ "id": "a", "texte": "Une planification budgétaire rigoureuse et serrée.", "correcte": false },
+{ "id": "b", "texte": "Une discipline militaire exténuante.", "correcte": true },
+{ "id": "c", "texte": "Une structure alternative et innovante sur le marché.", "correcte": false },
+{ "id": "d", "texte": "Une lune de miel avec la solitude des parcs.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-051-06",
+"question": "Qu'indique implicitement la phrase « les technologies nous contraignent à l'immobilité » ?",
+"reponses": [
+{ "id": "a", "texte": "Que les tablettes numériques sont beaucoup trop lourdes à porter.", "correcte": false },
+{ "id": "b", "texte": "Que la vie moderne connectée favorise dangereusement la sédentarité.", "correcte": true },
+{ "id": "c", "texte": "Que les ingénieurs refusent systématiquement de faire de la natation.", "correcte": false },
+{ "id": "d", "texte": "Que l'accès aux réseaux sociaux devrait être totalement interdit par la loi.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-051-07",
+"question": "Quelle est la conclusion générale de l'auteur sur le mouvement ?",
+"reponses": [
+{ "id": "a", "texte": "C'est une contrainte étouffante qui détruit notre créativité libre.", "correcte": false },
+{ "id": "b", "texte": "C'est un geste de maturité indispensable pour préserver sa santé.", "correcte": true },
+{ "id": "c", "texte": "Cela demande une planification trop lourde pour un adulte responsable.", "correcte": false },
+{ "id": "d", "texte": "Il vaut mieux attendre le week-end pour s'en occuper sérieusement.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "052",
+"titre": "Les conséquences d'une mauvaise alimentation",
+"titre2": "Exercice 052",
+"texte": [
+"Le rythme effréné du quotidien et l'omniprésence des produits industriels immédiats ont profondément altéré nos modes de consommation.",
+"Céder à la facilité des plats préparés, riches en graisses saturées et en sucres cachés, sabote sournoisement notre capital vitalité.",
+"Une alimentation déséquilibrée engendre initialement une fatigue cognitive subtile que l'on confond souvent avec le surmenage professionnel.",
+"À long terme, cette négligence matérielle envers notre propre corps affaiblit les structures mêmes de notre système immunitaire.",
+"Les nutriments essentiels faisant défaut, l'organisme peine à lutter contre les agressions extérieures et les sautes d'humeur.",
+"De plus, ce chaos nutritionnel perturbe la fluidité du métabolisme, provoquant des insomnies et une anxiété chronique diffuse.",
+"Il est nécessaire que la population prenne conscience que se nourrir n'est pas un simple acte mécanique de subsistance.",
+"Chaque aliment ingéré constitue une brique pour bâtir notre santé future ou, au contraire, pour détruire notre harmonie biologique.",
+"Modifier ses habitudes culinaires exige un effort, mais c'est le fondement indispensable pour préserver son intégrité physique."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-052-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-052-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-052-01",
+"question": "Qu'est-ce qui a profondément altéré nos modes de consommation selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "L'interdiction administrative de vendre de la viande sur les marchés.", "correcte": false },
+{ "id": "b", "texte": "Le rythme effréné du quotidien et l'omniprésence des produits industriels.", "correcte": true },
+{ "id": "c", "texte": "Une baisse drastique du pouvoir d'achat des étudiants universitaires.", "correcte": false },
+{ "id": "d", "texte": "Les conseils nutritionnels partagés par les grands-parents.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-052-02",
+"question": "Quelle conséquence initiale une mauvaise alimentation provoque-t-elle sur l'esprit ?",
+"reponses": [
+{ "id": "a", "texte": "Un sentiment immédiat de liberté et d'inspiration artistique.", "correcte": false },
+{ "id": "b", "texte": "Une fatigue cognitive subtile souvent confondue avec le surmenage.", "correcte": true },
+{ "id": "c", "texte": "La perte totale de la mémoire des formules mathématiques.", "correcte": false },
+{ "id": "d", "texte": "Une envie irrépressible de courir un marathon en plein air.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-052-03",
+"question": "Quel impact à long terme le déséquilibre nutritionnel a-t-il sur l'organisme ?",
+"reponses": [
+{ "id": "a", "texte": "Il solidifie la structure osseuse grâce à la vitamine D.", "correcte": false },
+{ "id": "b", "texte": "Il affaiblit les structures mêmes de notre système immunitaire.", "correcte": true },
+{ "id": "c", "texte": "Il augmente de façon magique la productivité de l'employé.", "correcte": false },
+{ "id": "d", "texte": "Il supprime totalement le besoin de planification budgétaire.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-052-04",
+"question": "Quels troubles du comportement ou de la santé sont liés à ce chaos alimentaire ?",
+"reponses": [
+{ "id": "a", "texte": "Des retards chroniques aux rendez-vous pris chez le notaire.", "correcte": false },
+{ "id": "b", "texte": "Des insomnies régulières et une anxiété chronique diffuse.", "correcte": true },
+{ "id": "c", "texte": "Une tendance à accumuler les vieux papiers dans le grenier.", "correcte": false },
+{ "id": "d", "texte": "Le développement d'une timidité farouche face aux collègues.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-052-05",
+"question": "Que doit comprendre la population d'après l'analyse de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Qu'il faut commander l'intégralité de ses colis en un seul clic.", "correcte": false },
+{ "id": "b", "texte": "Que se nourrir n'est pas un simple acte mécanique de subsistance.", "correcte": true },
+{ "id": "c", "texte": "Qu'il est obligatoire de devenir végétarien avant la fin de la semaine.", "correcte": false },
+{ "id": "d", "texte": "Que la nourriture industrielle est la plus économique du marché.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-052-06",
+"question": "Qu'indique implicitement la métaphore de la « brique » nutritionnelle ?",
+"reponses": [
+{ "id": "a", "texte": "Que les aliments industriels sont durs comme des morceaux de pierre.", "correcte": false },
+{ "id": "b", "texte": "Que la qualité de notre alimentation détermine la solidité de notre santé.", "correcte": true },
+{ "id": "c", "texte": "Qu'il faut reconstruire la cuisine de sa maison de fond en comble.", "correcte": false },
+{ "id": "d", "texte": "Que les repas de famille manquent souvent de souplesse logistique.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-052-07",
+"question": "Quelle est la conclusion générale sur le changement d'habitudes ?",
+"reponses": [
+{ "id": "a", "texte": "C'est une perte d'énergie qui bride notre liberté individuelle.", "correcte": false },
+{ "id": "b", "texte": "C'est un effort nécessaire et le fondement indispensable pour se préserver.", "correcte": true },
+{ "id": "c", "texte": "Cela s'avère totalement inutile si l'on pratique déjà la natation.", "correcte": false },
+{ "id": "d", "texte": "C'est un rêve irréalisable en raison des contraintes du bureau.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "053",
+"titre": "Comment adopter un mode de vie plus sain ?",
+"titre2": "Exercice 053",
+"texte": [
+"— Dis-moi, Thomas, quelle stratégie as-tu adoptée pour opérer cette transformation radicale de ton hygiène de vie globale ?",
+"— Bonjour Julie. En réalité, j'ai cessé d'attendre un miracle immédiat et j'ai structuré mes journées autour de priorités claires.",
+"— Je comprends, mais par quel changement de routine concret as-tu amorcé cette transition vers la vitalité ?",
+"— J'ai appliqué la méthode de la planification rigoureuse : je me lève à heures régulières, libérant du temps pour une marche rapide le matin.",
+"— De plus, j'ai banni la nourriture industrielle pour réapprendre à cuisiner des repas simples mais équilibrés à base de légumes.",
+"— C'est formidable. Mais cela ne demande-t-il pas une contrainte étouffante qui nuit à tes moments de liberté et de détente ?",
+"— Pas du tout ! Au contraire, éliminer le chaos de mon quotidien a purgé mon anxiété chronique de façon spectaculaire.",
+"— Le fait de poser des barrières strictes à ma charge mentale numérique après dix-neuf heures a sauvé la qualité de mon sommeil.",
+"— Je vois. Tu penses donc qu'un équilibre sain ne s'obtient pas par des restrictions, mais par des structures automatiques ?",
+"— Exactement. Pourvu que l'on conserve cette rigueur avec bienveillance envers soi-même, on retrouve une énergie inestimable."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-053-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-053-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-053-01",
+"question": "Quelle est l'approche de Thomas pour transformer son hygiène de vie ?",
+"reponses": [
+{ "id": "a", "texte": "Il a acheté des outils technologiques haut de gamme très chers.", "correcte": false },
+{ "id": "b", "texte": "Il a structuré ses journées autour de priorités claires.", "correcte": true },
+{ "id": "c", "texte": "Il a abandonné ses études universitaires de médecine.", "correcte": false },
+{ "id": "d", "texte": "Il a déménagé dans un petit village isolé à la campagne.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-053-02",
+"question": "Quelle activité physique Thomas a-t-il intégrée à sa routine matinale ?",
+"reponses": [
+{ "id": "a", "texte": "Une session intensive de natation en piscine municipale.", "correcte": false },
+{ "id": "b", "texte": "Une marche rapide bénéfique pour sa santé biologique.", "correcte": true },
+{ "id": "c", "texte": "Une heure de course de vitesse sur la piste du lycée.", "correcte": false },
+{ "id": "d", "texte": "La réparation de la vieille voiture de son grand-père.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-053-03",
+"question": "Quel changement Thomas a-t-il opéré concernant son alimentation ?",
+"reponses": [
+{ "id": "a", "texte": "Il commande désormais tous ses repas en un clic sur internet.", "correcte": false },
+{ "id": "b", "texte": "Il a banni les produits industriels pour cuisiner des plats équilibrés.", "correcte": true },
+{ "id": "c", "texte": "Il refuse de manger de la nourriture faite maison par fatigue.", "correcte": false },
+{ "id": "d", "texte": "Il ne boit plus que du café noir de routine dans sa cuisine.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-053-04",
+"question": "À quelle heure Thomas s'impose-t-il de couper ses appareils connectés ?",
+"reponses": [
+{ "id": "a", "texte": "Dès la fin de ses huit heures de travail de bureau.", "correcte": false },
+{ "id": "b", "texte": "Après dix-neuf heures pour éliminer la charge mentale numérique.", "correcte": true },
+{ "id": "c", "texte": "À sept heures du matin juste avant le retentissement du réveil.", "correcte": false },
+{ "id": "d", "texte": "Uniquement pendant les jours de repos du week-end.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-053-05",
+"question": "Quel effet positif ces changements ont-ils eu sur l'état psychologique de Thomas ?",
+"reponses": [
+{ "id": "a", "texte": "Ils ont augmenté son niveau d'irritabilité nerveuse le matin.", "correcte": false },
+{ "id": "b", "texte": "Ils ont purgé son anxiété chronique de façon spectaculaire.", "correcte": true },
+{ "id": "c", "texte": "Ils l'ont poussé à s'enfermer dans une solitude inquiétante.", "correcte": false },
+{ "id": "d", "texte": "Ils ont détruit toute sa créativité et son inspiration libre.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-053-06",
+"question": "Qu'implique indirectement l'expression « céder à la facilité » réfutée par Thomas ?",
+"reponses": [
+{ "id": "a", "texte": "Que cuisiner sainement demande un effort initial d'organisation.", "correcte": true },
+{ "id": "b", "texte": "Que la nourriture des restaurants de centre-ville est mauvaise.", "correcte": false },
+{ "id": "c", "texte": "Que la planification logistique s'avère impossible pour un jeune.", "correcte": false },
+{ "id": "d", "texte": "Que la solitude domestique nuit à la préparation des tartes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-053-07",
+"question": "Quelle est la conclusion de Thomas sur l'obtention d'un équilibre sain ?",
+"reponses": [
+{ "id": "a", "texte": "Il dépend du budget financier alloué aux produits du marché.", "correcte": false },
+{ "id": "b", "texte": "Il s'obtient par des structures automatiques tenues avec bienveillance.", "correcte": true },
+{ "id": "c", "texte": "Il exige d'annuler tous ses engagements moraux envers autrui.", "correcte": false },
+{ "id": "d", "texte": "C'est un idéal herculéen réservé aux experts scientifiques.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "054",
+"titre": "Le sport comme moyen de lutter contre le stress",
+"titre2": "Exercice 054",
+"texte": [
+"Dans le tissu complexe de nos existences modernes, l'anxiété agit comme un poison invisible qui s'infiltre dans nos structures psychologiques.",
+"Les exigences de productivité et la charge mentale numérique créent une tension permanente dont il est difficile de s'affranchir seul.",
+"Face à ce constat, l'activité physique s'avère être une thérapie globale d'une efficacité incontestable pour restaurer la clarté de l'esprit.",
+"Lorsque nous faisons du sport, que ce soit courir au parc ou pratiquer la natation, une réaction biochimique s'opère dans notre corps.",
+"L'effort intensif stimule la production d'endorphines, communément appelées les molécules du bonheur, tout en réduisant le taux de cortisol.",
+"Cette purge hormonale élimine les signes d'irritabilité nerveuse et apporte une sensation de sérénité immédiate après la séance.",
+"De plus, concentrer son attention sur le rythme de sa respiration ou sur ses mouvements mécaniques force l'esprit à une déconnexion volontaire.",
+"On oublie les messages de routine du bureau et les dossiers complexes pour s'ancrer pleinement dans le moment présent.",
+"Le sport ne doit pas être perçu comme une contrainte temporelle supplémentaire, mais comme un espace de liberté indispensable.",
+"Intégrer le mouvement dans son quotidien est le choix le plus mûr pour désamorcer les crises de stress et préserver sa santé."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-054-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-054-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-054-01",
+"question": "Comment l'anxiété est-elle qualifiée au début du texte ?",
+"reponses": [
+{ "id": "a", "texte": "Comme un jalon existentiel inévitable à l'adolescence.", "correcte": false },
+{ "id": "b", "texte": "Comme un poison invisible s'infiltrant dans nos structures.", "correcte": true },
+{ "id": "c", "texte": "Comme une contrainte étouffante liée au manque d'argent.", "correcte": false },
+{ "id": "d", "texte": "Comme une simple erreur d'inattention sans importance.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-054-02",
+"question": "Quels facteurs modernes alimentent cette tension permanente d'après l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Le coût des abonnements aux transports en commun urbains.", "correcte": false },
+{ "id": "b", "texte": "Les exigences de productivité et la charge mentale numérique.", "correcte": true },
+{ "id": "c", "texte": "La mauvaise qualité de l'écriture manuscrite sur papier.", "correcte": false },
+{ "id": "d", "texte": "Les discussions trop longues partagées avec ses vieux amis.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-054-03",
+"question": "Quelle molécule bénéfique est libérée dans le corps pendant l'effort physique ?",
+"reponses": [
+{ "id": "a", "texte": "Le cortisol, qui permet de courir beaucoup plus vite.", "correcte": false },
+{ "id": "b", "texte": "L'endorphine, appelée molécule du bonheur.", "correcte": true },
+{ "id": "c", "texte": "La vitamine D, essentielle pour solidifier la structure osseuse.", "correcte": false },
+{ "id": "d", "texte": "Une toxine chimique sécrétée par les muscles fatigués.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-054-04",
+"question": "Quel effet psychologique immédiat cette réaction biochimique produit-elle ?",
+"reponses": [
+{ "id": "a", "texte": "Elle engendre une fatigue cognitive lourde à la fin du mois.", "correcte": false },
+{ "id": "b", "texte": "Elle élimine l'irritabilité nerveuse et apporte la sérénité.", "correcte": true },
+{ "id": "c", "texte": "Elle pousse l'étudiant à abandonner ses révisions de médecine.", "correcte": false },
+{ "id": "d", "texte": "Elle oblige le travailleur à changer d'entreprise administrative.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-054-05",
+"question": "Pourquoi l'attention portée aux mouvements favorise-t-elle la déconnexion ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'elle force l'esprit à s'ancrer dans le moment présent.", "correcte": true },
+{ "id": "b", "texte": "Parce qu'elle permet de mémoriser les formules scientifiques.", "correcte": false },
+{ "id": "c", "texte": "Parce qu'elle annule automatiquement les factures d'électricité.", "correcte": false },
+{ "id": "d", "texte": "Parce qu'elle requiert l'usage d'une application de suivi en ligne.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-054-06",
+"question": "Qu'indique implicitement l'expression « une thérapie globale » pour le sport ?",
+"reponses": [
+{ "id": "a", "texte": "Qu'il faut obligterrain consulter un médecin avant d'aller au parc.", "correcte": false },
+{ "id": "b", "texte": "Que l'activité physique soigne simultanément le corps et l'esprit.", "correcte": true },
+{ "id": "c", "texte": "Que les séances sportives doivent regrouper des dizaines de parents.", "correcte": false },
+{ "id": "d", "texte": "Que le sport est une science abstraite enseignée à l'université.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-054-07",
+"question": "Quelle perception du sport l'auteur cherche-t-il à combattre ?",
+"reponses": [
+{ "id": "a", "texte": "L'idée que c'est une activité réservée aux professionnels de confiance.", "correcte": false },
+{ "id": "b", "texte": "L'idée que c'est une contrainte temporelle supplémentaire et inutile.", "correcte": true },
+{ "id": "c", "texte": "L'opinion selon laquelle courir sous la pluie fine est agréable.", "correcte": false },
+{ "id": "d", "texte": "La croyance que le sport détruit l'harmonie des repas faits maison.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "055",
+"titre": "Les bienfaits d'une bonne nuit de sommeil",
+"titre2": "Exercice 055",
+"texte": [
+"Le sommeil n'est en aucun cas une simple phase d'inactivité ou une perte de temps sacrifiable au nom de la productivité.",
+"C'est au contraire un processus biologique indispensable durant lequel notre cerveau restructure ses structures mémorielles.",
+"Bénéficier d'une nuit de sommeil de haute qualité permet de consolider les connaissances acquises durant la journée à l'école.",
+"À l'inverse, accumuler un manque de repos engendre une fatigue cognitive lourde et une hausse de l'irritabilité nerveuse le matin.",
+"Les personnes souffrant d'insomnies chroniques confessent qu'elles éprouvent d'immenses difficultés à se concentrer sur des dossiers complexes.",
+"De plus, sur le plan physique, la dérivation de sommeil affaiblit le système immunitaire, rendant le corps vulnérable aux maladies.",
+"Pour préserver sa santé, il est crucial que l'on instaure une routine stricte excluant les écrans bleus avant de s'endormir.",
+"Lire un roman captivants ou écouter une radio calme favorise une transition douce vers un repos réparateur et profond.",
+"Respecter ses besoins biologiques de sommeil est le secret des étudiants sereins et des professionnels efficaces au quotidien."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-055-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-055-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-055-01",
+"question": "Quelle fonction essentielle le sommeil remplit-il pour notre cerveau ?",
+"reponses": [
+{ "id": "a", "texte": "Il efface la totalité des souvenirs d'enfance de la mémoire.", "correcte": false },
+{ "id": "b", "texte": "Il restructure et consolide nos structures mémorielles.", "correcte": true },
+{ "id": "c", "texte": "Il augmente la vitesse de calcul des formules scientifiques.", "correcte": false },
+{ "id": "d", "texte": "Il permet de concevoir des maquettes graphiques complexes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-055-02",
+"question": "Quel symptôme psychologique est lié au manque de repos d'après l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Une hausse significative de l'irritabilité nerveuse le matin.", "correcte": true },
+{ "id": "b", "texte": "Une confiance en soi accrue face aux examens de médecine.", "correcte": false },
+{ "id": "c", "texte": "Un sentiment immédiat d'harmonie et de liberté totale.", "correcte": false },
+{ "id": "d", "texte": "Une tendance à annuler ses rendez-vous professionnels.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-055-03",
+"question": "Quelle difficulté matérielle les personnes insomniaques rencontrent-elles au bureau ?",
+"reponses": [
+{ "id": "a", "texte": "Elles perdent constamment leurs carnets de notes en papier.", "correcte": false },
+{ "id": "b", "texte": "Elles éprouvent d'immenses difficultés à se concentrer sur les dossiers.", "correcte": true },
+{ "id": "c", "texte": "Elles refusent de répondre aux courriels de routine reçus.", "correcte": false },
+{ "id": "d", "texte": "Elles arrivent systématiquement en retard à cause des bus.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-055-04",
+"question": "Quel impact corporel négatif la privation de sommeil prolongée entraîne-t-elle ?",
+"reponses": [
+{ "id": "a", "texte": "Elle détruit la structure osseuse par manque de vitamines.", "correcte": false },
+{ "id": "b", "texte": "Elle affaiblit le système immunitaire, ouvrant la porte aux maladies.", "correcte": true },
+{ "id": "c", "texte": "Elle augmente le budget financier alloué aux repas industriels.", "correcte": false },
+{ "id": "d", "texte": "Elle empêche de pratiquer la marche rapide ou la natation.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-055-05",
+"question": "Quelle activité saine est recommandée pour remplacer les écrans bleus le soir ?",
+"reponses": [
+{ "id": "a", "texte": "Négocier des contrats complexes avec des banques en ligne.", "correcte": false },
+{ "id": "b", "texte": "Lire un roman captivants ou écouter une radio calme.", "correcte": true },
+{ "id": "c", "texte": "Faire un grand ménage de printemps dans sa chambre de studio.", "correcte": false },
+{ "id": "d", "texte": "Suivre une formation intensive d'ingénieur en informatique.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-055-06",
+"question": "Qu'indique implicitement l'expression « sacrifiable au nom de la productivité » ?",
+"reponses": [
+{ "id": "a", "texte": "Que la société moderne pousse parfois à négliger le sommeil pour travailler plus.", "correcte": true },
+{ "id": "b", "texte": "Que les bons étudiants de première année dorment quinze heures par jour.", "correcte": false },
+{ "id": "c", "texte": "Que les ordinateurs de bureau s'éteignent automatiquement la nuit.", "correcte": false },
+{ "id": "d", "texte": "Que le repos biologique détruit la rentabilité matérielle des gares.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-055-07",
+"question": "Quelle est la conclusion générale du texte sur le respect du sommeil ?",
+"reponses": [
+{ "id": "a", "texte": "C'est une contrainte étouffante qui détruit notre liberté individuelle.", "correcte": false },
+{ "id": "b", "texte": "C'est le secret indispensable des étudiants et des professionnels efficaces.", "correcte": true },
+{ "id": "c", "texte": "Cela s'avère totalement impossible à réaliser dans une mégapole.", "correcte": false },
+{ "id": "d", "texte": "C'est une habitude ancienne obsolète de nos jours.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "056",
+"titre": "Pourquoi faut-il boire suffisamment d'eau ?",
+"titre2": "Exercice 056",
+"texte": [
+"Constitué à plus de soixante pour cent de liquide, le corps humain dépend entièrement d'une hydratation constante pour fonctionner.",
+"Pourtant, happés par le flux continu de nos tâches de bureau, nous oublions fréquemment de boire tout au long de la journée.",
+"Attendre de ressentir une sensation de soif aiguë constitue une erreur d'inattention majeure pour notre équilibre biologique.",
+"En réalité, la soif est le signal d'alarme tardif indiquant que l'organisme subit déjà une déshydratation naissante.",
+"Ce manque d'eau engendre immédiatement une baisse de la concentration intellectuelle et une fatigue cognitive diffuse.",
+"De plus, l'élimination des déchets métaboliques s'en trouve ralentie, ce qui surcharge l'activité interne de nos organes.",
+"Les médecins conseillent d'installer une bouteille d'eau ou une tasse sur son bureau afin de créer un repère visuel permanent.",
+"Boire de petites gorgées régulières, sans attendre les repas, maintient la clarté de l'esprit et la vitalité corporelle.",
+"Pourvu que l'on adopte ce geste automatique simple, on préservera son niveau d'énergie optimal tout au long de la semaine."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-056-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-056-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-056-01",
+"question": "Quel pourcentage approximatif de liquide compose le corps humain d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Environ vingt pour cent seulement.", "correcte": false },
+{ "id": "b", "texte": "Plus de soixante pour cent.", "correcte": true },
+{ "id": "c", "texte": "Exactement la moitié du poids global.", "correcte": false },
+{ "id": "d", "texte": "Un taux variable selon les jours de repos.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-056-02",
+"question": "Pourquoi oublions-nous fréquemment de nous hydrater au cours de la journée ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que l'eau courante des villes possède un goût étrange.", "correcte": false },
+{ "id": "b", "texte": "Parce que nous sommes happés par le flux de nos tâches de bureau.", "correcte": true },
+{ "id": "c", "texte": "Parce que les bouteilles sont trop lourdes dans les sacs de sport.", "correcte": false },
+{ "id": "d", "texte": "Parce que les médecins interdisent de boire pendant les révisions.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-056-03",
+"question": "Qu'indique réellement la sensation de soif selon l'analyse de l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Que le corps a besoin d'assimiler du sucre ou du café noir.", "correcte": false },
+{ "id": "b", "texte": "Que l'organisme subit déjà une déshydratation naissante.", "correcte": true },
+{ "id": "c", "texte": "Que le système immunitaire fonctionne de manière maximale.", "correcte": false },
+{ "id": "d", "texte": "Que l'exercice physique en plein air est terminé.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-056-04",
+"question": "Quel impact négatif immédiat le manque d'eau a-t-il sur l'activité mentale ?",
+"reponses": [
+{ "id": "a", "texte": "Une hausse de la créativité et de l'inspiration artistique.", "correcte": false },
+{ "id": "b", "texte": "Une baisse de la concentration intellectuelle et une fatigue cognitive.", "correcte": true },
+{ "id": "c", "texte": "Le développement d'une timidité farouche envers ses proches.", "correcte": false },
+{ "id": "d", "texte": "L'oubli des codes sociaux de la vie en communauté.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-056-05",
+"question": "Quelle astuce matérielle simple les médecins conseillent-ils de mettre en place ?",
+"reponses": [
+{ "id": "a", "texte": "Placer une bouteille ou une tasse sur son bureau comme repère visuel.", "correcte": true },
+{ "id": "b", "texte": "Télécharger une application de suivi budgétaire mensuel.", "correcte": false },
+{ "id": "c", "texte": "Acheter des filtres à eau complexes chez un commerçant spécialisé.", "correcte": false },
+{ "id": "d", "texte": "Garder ses fenêtres ouvertes pour capter la pluie fine.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-056-06",
+"question": "Comment convient-il de consommer l'eau pour maintenir son énergie optimale ?",
+"reponses": [
+{ "id": "a", "texte": "Boire deux litres d'un coup juste avant d'aller s'endormir.", "correcte": false },
+{ "id": "b", "texte": "Boire de petites gorgées régulières tout au long de la journée.", "correcte": true },
+{ "id": "c", "texte": "Consommer du liquide uniquement pendant les repas chauds.", "correcte": false },
+{ "id": "d", "texte": "Remplacer l'eau par des canettes de soda ou d'une boisson fraîche.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-056-07",
+"question": "Qu'indique implicitement l'expression « signal d'alarme tardif » ?",
+"reponses": [
+{ "id": "a", "texte": "Qu'il faut agir de façon préventive avant que le manque ne se manifeste.", "correcte": true },
+{ "id": "b", "texte": "Que la soif provoque des crises d'angoisse impossibles à réparer.", "correcte": false },
+{ "id": "c", "texte": "Que les réveils du matin sonnent trop tard pour les étudiants.", "correcte": false },
+{ "id": "d", "texte": "Que l'administration des hôpitaux manque de réactivité matérielle.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "057",
+"titre": "Les dangers de la sédentarité",
+"titre2": "Exercice 057",
+"texte": [
+"Dans notre société moderne caractérisée par l'hyperconnectivité et le travail de bureau, le manque de mouvement est devenu un fléau silencieux.",
+"Passer plus de huit heures par jour assis devant un écran d'ordinateur engendre des dysfonctionnements physiologiques majeurs à long terme.",
+"Cette absence d'activité physique ralentit le métabolisme, fragilise la structure osseuse et favorise une prise de poids incontrôlée.",
+"Au-delà des impacts visibles sur le corps, les chercheurs ont démontré que la sédentarité aggravait considérablement l'anxiété chronique.",
+"Les muscles profonds s'atrophient, ce qui provoque des douleurs dorsales récurrentes qui sabotent le bien-être et gâchent le repos du week-end.",
+"Il est indispensable que nous brisions ce cercle vicieux pernicieux en modifiant radicalement nos structures de travail quotidiennes.",
+"Les experts conseillent d'instaurer une règle simple : se lever toutes les deux heures pour effectuer une marche rapide de deux minutes.",
+"Utiliser les escaliers plutôt que l'ascenseur ou choisir de marcher pour se rendre au bureau constituent des micro-choix indispensables.",
+"Pourvu que l'on intègre ces habitudes de mouvement dans sa routine, on constatera rapidement une baisse de sa fatigue cognitive.",
+"Combattre la sédentarité est un geste de maturité biologique essentiel pour préserver sa vitalité et vivre sereinement un avenir sain."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-057-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-057-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-057-01",
+"question": "Comment l'auteur qualifie-t-il la sédentarité au début du texte ?",
+"reponses": [
+{ "id": "a", "texte": "Une contrainte étouffante réservée aux seuls étudiants en médecine.", "correcte": false },
+{ "id": "b", "texte": "Un fléau silencieux favorisé par l'hyperconnectivité moderne.", "correcte": true },
+{ "id": "c", "texte": "Une mode passagère venue des grandes métropoles américaines.", "correcte": false },
+{ "id": "d", "texte": "Une opportunité inespérée d'évolution professionnelle tranquille.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-057-02",
+"question": "Quel impact physiologique négatif la sédentarité a-t-elle sur le corps humain ?",
+"reponses": [
+{ "id": "a", "texte": "Elle détruit la mémoire immédiate des mots appris à l'école.", "correcte": false },
+{ "id": "b", "texte": "Elle ralentit le métabolisme et fragilise la structure osseuse.", "correcte": true },
+{ "id": "c", "texte": "Elle augmente de façon spectaculaire la vision nocturne des gens.", "correcte": false },
+{ "id": "d", "texte": "Elle empêche d'utiliser correctement un ordinateur portable.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-057-03",
+"question": "Quel trouble psychologique est aggravé par le manque de mouvement ?",
+"reponses": [
+{ "id": "a", "texte": "Une jalousie obsessive envers ses collègues de bureau.", "correcte": false },
+{ "id": "b", "texte": "Une hausse de l'anxiété chronique au quotidien.", "correcte": true },
+{ "id": "c", "texte": "Une perte complète du sens de l'orientation en ruelle ancienne.", "correcte": false },
+{ "id": "d", "texte": "Une timidité farouche face aux membres de sa propre famille.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-057-04",
+"question": "Quelle micro-habitude temporelle les experts conseillent-ils d'adopter ?",
+"reponses": [
+{ "id": "a", "texte": "S'endormir quinze minutes pendant les heures de cours de l'après-midi.", "correcte": false },
+{ "id": "b", "texte": "Se lever toutes les deux heures pour marcher rapidement pendant deux minutes.", "correcte": true },
+{ "id": "c", "texte": "Passer l'intégralité du samedi matin à nettoyer son studio en solo.", "correcte": false },
+{ "id": "d", "texte": "Supprimer définitivement l'usage de la télévision dans la structure.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-057-05",
+"question": "Quel changement matériel simple peut faciliter la rupture avec la sédentarité ?",
+"reponses": [
+{ "id": "a", "texte": "Acheter des vêtements de sport luxueux sur les réseaux sociaux.", "correcte": false },
+{ "id": "b", "texte": "Préférer les escaliers traditionnels plutôt que l'ascenseur automatique.", "correcte": true },
+{ "id": "c", "texte": "Changer le mot de passe de son carnet de route électronique.", "correcte": false },
+{ "id": "d", "texte": "Inviter des cousins éloignés pour un dîner chaleureux le dimanche.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-057-06",
+"question": "Qu'indique implicitement l'apparition de « douleurs dorsales récurrentes » ?",
+"reponses": [
+{ "id": "a", "texte": "Que le corps envoie un signal d'alarme physique contre l'immobilité.", "correcte": true },
+{ "id": "b", "texte": "Que la personne a porté des meubles trop lourds sans l'aide d'Éric.", "correcte": false },
+{ "id": "c", "texte": "Que la literie de la chambre universitaire est de très mauvaise qualité.", "correcte": false },
+{ "id": "d", "texte": "Que le travailleur a passé sa nuit blanche à faire des graphismes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-057-07",
+"question": "Quelle est la conclusion générale de l'auteur sur la lutte contre l'immobilité ?",
+"reponses": [
+{ "id": "a", "texte": "C'est une perte d'énergie qui sabote l'inspiration créative libre.", "correcte": false },
+{ "id": "b", "texte": "C'est un geste de maturité biologique essentiel pour préserver sa vitalité.", "correcte": true },
+{ "id": "c", "texte": "C'est un défi herculéen impossible à réaliser sans un tuteur privé.", "correcte": false },
+{ "id": "d", "texte": "Cela exige une planification budgétaire trop lourde pour un salarié.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "058",
+"titre": "Une expérience dans un centre sportif",
+"titre2": "Exercice 058",
+"texte": [
+"Soucieux de réorganiser son hygiène de vie après des mois de négligence matérielle, Lucas s'est inscrit dans un complexe de remise en forme.",
+"Le premier jour, en franchissant le seuil de cette vaste structure moderne, il éprouva une vive appréhension mêlée de timidité.",
+"Les machines sophistiquées lui semblaient indéchiffrables et l'assurance des autres abonnés accentuait son sentiment d'isolement temporel.",
+"Heureusement, le centre incluait un entretien pédagogique individuel avec un tuteur sportif d'une grande bienveillance professionnelle.",
+"Celui-ci prit le temps d'écouter les objectifs de Lucas, qui souhaitait purger son stress chronique et renforcer sa structure musculaire.",
+"Le coach lui établit un carnet de route méthodique alternant sessions intensives de natation et exercices de respiration rythmés.",
+"Il l'avertit également : — L'erreur classique serait que vous vouliez trop en faire dès la première semaine, risquant la blessure physique. —",
+"Suivant ces précieux conseils, Lucas s'imposa des barrières strictes et apprit à écouter les signaux non verbaux de sa propre fatigue.",
+"Au bout d'un mois de pratique rigoureuse, les bénéfices de cette restructuration corporelle se révélèrent tout à fait spectaculaires.",
+"Non seulement sa vitalité biologique augmenta, mais il découvrit une clarté d'esprit inédite qui optimisa sa concentration au bureau."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-058-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-058-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-058-01",
+"question": "Quelle démarche positive Lucas a-t-il entreprise pour améliorer son hygiène de vie ?",
+"reponses": [
+{ "id": "a", "texte": "Il a louer un studio universitaire dans la ville de Lyon.", "correcte": false },
+{ "id": "b", "texte": "Il s'est inscrit dans un centre moderne de remise en forme.", "correcte": true },
+{ "id": "c", "texte": "Il a acheté un carnet de notes en papier chez un artisan local.", "correcte": false },
+{ "id": "d", "texte": "Il a commandé une boîte de compléments alimentaires en un clic.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-058-02",
+"question": "Quels sentiments contradictoires Lucas éprouve-t-il lors de son premier jour ?",
+"reponses": [
+{ "id": "a", "texte": "Une colère intense dirigée contre le personnel de la structure.", "correcte": false },
+{ "id": "b", "texte": "Une vive appréhension mélangée à une certaine timidité naturelle.", "correcte": true },
+{ "id": "c", "texte": "Une joie délirante provoquée par l'ambiance sonore du lieu.", "correcte": false },
+{ "id": "d", "texte": "Un désintérêt total pour l'utilisation des machines connectées.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-058-03",
+"question": "Qui a accueilli et guidé Lucas au sein du complexe de sport ?",
+"reponses": [
+{ "id": "a", "texte": "Un collègue de bureau perdu de vue depuis plus de dix ans.", "correcte": false },
+{ "id": "b", "texte": "Un tuteur sportif faisant preuve d'une grande bienveillance.", "correcte": true },
+{ "id": "c", "texte": "Le propriétaire de la galerie d'art contemporain du centre.", "correcte": false },
+{ "id": "d", "texte": "Son ami d'enfance Romain venu s'entraîner par hasard.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-058-04",
+"question": "Quels étaient les deux objectifs principaux formulés par Lucas lors de l'entretien ?",
+"reponses": [
+{ "id": "a", "texte": "Perdre du poids rapidement avant de partir en vacances au Pérou.", "correcte": false },
+{ "id": "b", "texte": "Purger son stress chronique et renforcer sa structure musculaire.", "correcte": true },
+{ "id": "c", "texte": "Apprendre des techniques de self-défense contre les agressions.", "correcte": false },
+{ "id": "d", "texte": "Préparer un concours d'entrée pour devenir professeur d'école.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-058-05",
+"question": "Contre quel piège classique le coach a-t-il fermement mis en garde Lucas ?",
+"reponses": [
+{ "id": "a", "texte": "L'obligation d'acheter de la nourriture industrielle à la cantine.", "correcte": false },
+{ "id": "b", "texte": "Vouloir trop en faire dès le début, au risque de se blesser physiquement.", "correcte": true },
+{ "id": "c", "texte": "Oublier de fermer son casier métallique avant d'aller à la piscine.", "correcte": false },
+{ "id": "d", "texte": "Consulter ses courriels professionnels sur sa tablette entre les exercices.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-058-06",
+"question": "Qu'indique implicitement l'expression 'écouter les signaux non verbaux de sa fatigue' ?",
+"reponses": [
+{ "id": "a", "texte": "Qu'il faut s'arrêter de courir dès que les muscles envoient un message de douleur.", "correcte": true },
+{ "id": "b", "texte": "Que le sportif doit porter des écouteurs sans fil pour s'isoler.", "correcte": false },
+{ "id": "c", "texte": "Que la charge mentale numérique empêche d'entendre les conseils.", "correcte": false },
+{ "id": "d", "texte": "Qu'il est nécessaire de tenir un carnet écrit de ses rythmes cardiaques.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-058-07",
+"question": "Quel bénéfice intellectuel inattendu Lucas a-t-il retiré de cette routine sportive ?",
+"reponses": [
+{ "id": "a", "texte": "Une augmentation spectaculaire de son salaire horaire mensuel.", "correcte": false },
+{ "id": "b", "texte": "Une clarté d'esprit inédite qui a optimisé sa concentration au travail.", "correcte": true },
+{ "id": "c", "texte": "La capacité à mémoriser des listes de concepts abstraits complexes.", "correcte": false },
+{ "id": "d", "texte": "Une diminution du temps nécessaire pour rédiger des rapports juridiques.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "059",
+"titre": "L'importance de prendre soin de sa santé mentale",
+"titre2": "Exercice 059",
+"texte": [
+"Dans un environnement contemporain axé sur la performance constante et l'immédiateté, préserver son harmonie psychologique exige une attention de chaque instant.",
+"Pendant de longues années, la société a commis l'erreur éthique de négliger la détresse mentale, la considérant à tort comme une faiblesse de caractère.",
+"Aujourd'hui, les experts s'accordent à dire que l'esprit requiert autant de soins et de structure que l'enveloppe biologique pour s'épanouir.",
+"L'accumulation de micro-stress quotidiens, s'ils ne sont pas purgés de façon méthodique, crée un encombrement cognitif permanent propice au surmenage.",
+"C'est pourquoi apprendre à poser des limites claires face aux exigences extérieures constitue un acte de maturité fondamentale.",
+"S'accorder des plages de déconnexion volontaire, loin du flux continu des réseaux sociaux, permet à notre cerveau de se régénérer en profondeur.",
+"Pratiquer l'écoute active de ses propres besoins profonds aide à désamorcer l'anxiété chronique avant qu'elle ne sabote notre bien-être.",
+"Il est nécessaire que la structure familiale ou professionnelle devienne un espace bienveillant où l'on puisse exprimer ses doutes sans crainte du jugement.",
+"Prendre soin de son équilibre intérieur n'est pas un luxe égoïste qui briderait la productivité, mais le fondement indispensable d'une vie équilibrée.",
+"Pourvu que l'on cultive ces moments de calme et de sérénité, on forgera une résilience inestimable pour affronter les aléas de l'existence."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-059-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-059-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-059-01",
+"question": "Quelle erreur historique la société a-t-elle commise envers la santé mentale d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "L'interdire administrativement dans les règlements intérieurs des lycées.", "correcte": false },
+{ "id": "b", "texte": "La négliger en la considérant à tort comme une simple faiblesse de caractère.", "correcte": true },
+{ "id": "c", "texte": "L'associer systématiquement à une mauvaise planification budgétaire.", "correcte": false },
+{ "id": "d", "texte": "Obliger les patients à passer des nuits blanches dans des structures fermées.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-059-02",
+"question": "Qu'engendre l'accumulation de micro-stress quotidiens s'ils ne sont pas éliminés ?",
+"reponses": [
+{ "id": "a", "texte": "Une perte de poids visible couplée à une fatigue physique des jambes.", "correcte": false },
+{ "id": "b", "texte": "Un encombrement cognitif permanent qui prépare le terrain au surmenage.", "correcte": true },
+{ "id": "c", "texte": "Des pannes techniques récurrentes sur les outils numériques de bureau.", "correcte": false },
+{ "id": "d", "texte": "Une baisse drastique de la qualité de la cuisine faite maison.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-059-03",
+"question": "Quel geste concret permet au cerveau de se régénérer en profondeur selon l'auteur ?",
+"reponses": [
+{ "id": "a", "texte": "Suivre une formation intensive d'ingénieur pendant les vacances.", "correcte": false },
+{ "id": "b", "texte": "S'accorder des plages de déconnexion volontaire loin des réseaux.", "correcte": true },
+{ "id": "c", "texte": "Commander une multitude de produits de consommation en un clic.", "correcte": false },
+{ "id": "d", "texte": "Signer un accord écrit avec un tuteur ou un notaire reconnu.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-059-04",
+"question": "Comment l'environnement familial ou professionnel devrait-il se positionner face au doute ?",
+"reponses": [
+{ "id": "a", "texte": "En imposant une discipline militaire stricte excluant les discussions.", "correcte": false },
+{ "id": "b", "texte": "En devenant un espace bienveillant exempt de tout jugement hâtif.", "correcte": true },
+{ "id": "c", "texte": "En modifiant chaque semaine les plages horaires de présence obligatoire.", "correcte": false },
+{ "id": "d", "texte": "En interdisant l'expression des émotions durant les séances de travail.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-059-05",
+"question": "Quelle est la vertu développée par la culture de moments de calme d'après la conclusion ?",
+"reponses": [
+{ "id": "a", "texte": "Une impatience chronique face aux retards des transports urbains.", "correcte": false },
+{ "id": "b", "texte": "Une résilience inestimable pour faire face aux aléas de l'existence.", "correcte": true },
+{ "id": "c", "texte": "Une augmentation majeure des capacités d'apprentissage des langues.", "correcte": false },
+{ "id": "d", "texte": "Le désir absolu de vivre isolé de façon permanente dans la nature.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-059-06",
+"question": "Qu'indique implicitement le fait que prendre soin de soi « n'est pas un luxe égoïste » ?",
+"reponses": [
+{ "id": "a", "texte": "Que préserver son esprit est une nécessité vitale pour rester un adulte responsable.", "correcte": true },
+{ "id": "b", "texte": "Que la santé mentale exige de dépenser de grandes sommes d'argent au restaurant.", "correcte": false },
+{ "id": "c", "texte": "Que les parents ont le droit de dicter les horaires de leurs enfants majeurs.", "correcte": false },
+{ "id": "d", "texte": "Que la créativité artistique dépend uniquement du chaos émotionnel.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-059-07",
+"question": "Quel terme du texte s'oppose de façon abstraite à la notion de surmenage ?",
+"reponses": [
+{ "id": "a", "texte": "La charge mentale numérique.", "correcte": false },
+{ "id": "b", "texte": "L'harmonie et la sérénité de l'équilibre intérieur.", "correcte": true },
+{ "id": "c", "texte": "L'indépendance matérielle absolue.", "correcte": false },
+{ "id": "d", "texte": "La discipline temporelle stricte.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "060",
+"titre": "Comment garder de bonnes habitudes alimentaires ?",
+"titre2": "Exercice 060",
+"texte": [
+"— Dis-moi, Pauline, comment fais-tu pour maintenir une alimentation si équilibrée malgré tes horaires de cours surchargés ?",
+"— C'est un défi quotidien, Marc. En réalité, le secret réside dans le refus absolu de céder à l'immédiateté des plats industriels jetables.",
+"— Je comprends, mais lorsque l'on rentre fatigué le soir, l'improvisation semble beaucoup plus simple que la haute cuisine, non ?",
+"— C'est précisément le piège qui sabote notre vitalité. Pour l'éviter, je planifie l'intégralité de mes menus le dimanche soir avec rigueur.",
+"— J'utilise la méthode de la préparation de repas faits maison à l'avance, ce qui me libère de la charge mentale culinaire durant la semaine.",
+"— Ah, je vois. Tu structures tes achats au marché de producteurs locaux pour n'emporter que des aliments riches en nutriments complexes ?",
+"— Exactement. Mon réfrigérateur regorge de légumes verts frais, de fruits mûrs et de sources de protéines saines prêtes à l'usage.",
+"— Penses-tu qu'il soit nécessaire que je bannisse totalement le chocolat ou les gâteaux de mon espace intime pour y parvenir ?",
+"— Pas du tout ! Une frustration étouffante détruirait ta motivation. L'important est que l'on s'accorde des petits plaisirs avec modération.",
+"— Tu as raison. Pourvu que je mette en place cette organisation méthodique dès demain, je retrouverai une énergie biologique solide."
+],
+"audios": [
+{ "id": "audio-fr-read-b1-060-1", "url": "soundcloud.com" },
+{ "id": "audio-fr-read-b1-060-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b1-060-01",
+"question": "Quel piège nutritionnel Pauline refuse-t-elle de subir au quotidien ?",
+"reponses": [
+{ "id": "a", "texte": "Le coût financier excessif des épices importées de l'étranger.", "correcte": false },
+{ "id": "b", "texte": "L'immédiateté et la facilité trompeuse des plats industriels jetables.", "correcte": true },
+{ "id": "c", "texte": "L'obligation de ne manger que des légumes cuits à la vapeur de nuit.", "correcte": false },
+{ "id": "d", "texte": "La consommation exclusive d'eau minérale filtrée par ordinateur.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-060-02",
+"question": "Quelle méthode d'organisation Pauline applique-t-elle le dimanche soir ?",
+"reponses": [
+{ "id": "a", "texte": "Elle trie ses vieux manuels scolaires dans le grenier de sa maison.", "correcte": false },
+{ "id": "b", "texte": "Elle planifie rigoureusement l'intégralité de ses menus de la semaine.", "correcte": true },
+{ "id": "c", "texte": "Elle invite tous ses collègues de bureau à une réunion de planification.", "correcte": false },
+{ "id": "d", "texte": "Elle vérifie la validité de ses documents administratifs universitaires.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-060-03",
+"question": "De quel fardeau hebdomadaire la préparation des repas à l'avance libère-t-elle Pauline ?",
+"reponses": [
+{ "id": "a", "texte": "De l'obligation d'effectuer les corvées ménagères indispensables.", "correcte": false },
+{ "id": "b", "texte": "De la charge mentale culinaire et de l'indécision du soir.", "correcte": true },
+{ "id": "c", "texte": "Du risque d'oublier son portefeuille dans les transports en commun.", "correcte": false },
+{ "id": "d", "texte": "Des douleurs dorsales chroniques liées au travail de bureau.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-060-04",
+"question": "Où Pauline effectue-t-elle de préférence ses achats de nourriture ?",
+"reponses": [
+{ "id": "a", "texte": "Dans les distributeurs automatiques installés au grand lycée.", "correcte": false },
+{ "id": "b", "texte": "Auprès d'un marché de producteurs locaux de sa région.", "correcte": true },
+{ "id": "c", "texte": "Dans une boutique de souvenirs artisanaux de la ruelle ancienne.", "correcte": false },
+{ "id": "d", "texte": "Sur une plateforme commerciale de livraison rapide en ligne.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-060-05",
+"question": "Quelle est la position de Pauline concernant la consommation d'aliments plaisirs comme le chocolat ?",
+"reponses": [
+{ "id": "a", "texte": "Ils doivent être totalement bannis de la structure domestique.", "correcte": false },
+{ "id": "b", "texte": "Ils peuvent être consommés avec modération pour éviter la frustration.", "correcte": true },
+{ "id": "c", "texte": "Ils constituent le fondement même d'un métabolisme équilibré.", "correcte": false },
+{ "id": "d", "texte": "Ils doivent faire l'objet d'un suivi budgétaire strict et sévère.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-060-06",
+"question": "Qu'indique implicitement la réaction de Marc face au manque de temps du soir ?",
+"reponses": [
+{ "id": "a", "texte": "Que la fatigue physique pousse naturellement vers des choix alimentaires simplistes.", "correcte": true },
+{ "id": "b", "texte": "Que Marc déteste profondément cuisiner des recettes traditionnelles.", "correcte": false },
+{ "id": "c", "texte": "Que les étudiants de première année de médecine manquent d'argent.", "correcte": false },
+{ "id": "d", "texte": "Que la structure de sa cuisine moderne est mal conçue logistiquement.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b1-060-07",
+"question": "Quel bienfait physique Marc espère-t-il retrouver grâce aux conseils de Pauline ?",
+"reponses": [
+{ "id": "a", "texte": "Une diminution radicale de sa fatigue oculaire devant l'ordinateur.", "correcte": false },
+{ "id": "b", "texte": "Une énergie biologique solide pour affronter ses journées de cours.", "correcte": true },
+{ "id": "c", "texte": "Une amélioration instantanée de ses performances de nage à la piscine.", "correcte": false },
+{ "id": "d", "texte": "La disparition complète de son anxiété liée aux examens d'histoire.", "correcte": false }
 ]
 }
 ]
