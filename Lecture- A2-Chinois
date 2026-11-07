@@ -2587,11 +2587,15 @@
 "id": "q-zh-read-a2-036-05",
 "question": "叙述者最喜欢哪个房间？为什么？",
 "reponses": [
-{ "id": "a", "texte": "小书房，因为很安静适合看书", "correcte": true },
-{ "id": "b", "texte": "大客厅，因为可以看大电视", "correcte": false },
-{ "id": "c", "texte": "新厨房，因为可以吃很多东西", "correcte": false },
-{ "id": "d": "主卧室，因为里面的床很舒服", "correcte": false }
-]
+{
+  "id": "q-zh-read-a2-036-05",
+  "question": "叙述者最喜欢哪个房间？为什么？",
+  "reponses": [
+    { "id": "a", "texte": "小书房，因为很安静适合看书", "correcte": true },
+    { "id": "b", "texte": "大客厅，因为可以看大电视", "correcte": false },
+    { "id": "c", "texte": "新厨房，因为可以吃很多东西", "correcte": false },
+    { "id": "d", "texte": "主卧室，因为里面的床很舒服", "correcte": false }
+  ]
 }
 ]
 },
