@@ -1347,7 +1347,7 @@
 ]
 },
 {
-"id": "b010",
+"id": "b020",
 "titre": "Ein unvergessliches Familientreffen organisieren",
 "titre2": "Übung b020",
 "texte": [
@@ -4844,6 +4844,672 @@
 { "id": "b", "texte": "Als den unaufhaltsamen Motor des gesellschaftlichen Wandels.", "correcte": true },
 { "id": "c", "texte": "Als passive Zuschauer einer verfehlten globalen Klimapolitik.", "correcte": false },
 { "id": "d", "texte": "Als ein temporäres Schutzschild gegen wissenschaftliche Fakten.", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "b071",
+    "titre": "Die Vor- und Nachteile sozialer Netzwerke",
+    "titre2": "Übung b071",
+    "texte": [
+      "In unserer global vernetzten Mediengesellschaft haben soziale Netzwerke die alltägliche Kommunikation und den Informationsaustausch grundlegend revolutioniert. Diese digitalen Plattformen bieten der modernen Bevölkerung die unbestreitbare Möglichkeit, geografische Grenzen mühelos zu überwinden, internationale Freundschaften zu pflegen und gesellschaftlich relevante Themen in Echtzeit global zu diskutieren. Insbesondere für Jugendliche stellen diese Netzwerke einen unersetzlichen Raum zur Selbstdarstellung, Identitätsfindung und zum kreativen Austausch dar.",
+      "Dennoch offenbart die fortschreitende Digitalisierung im Zuge der intensiven Mediennutzung auch erhebliche, schattige Kehrseiten, die eine Gefahr für die mentale Gesundheit darstellen. Der permanente Konkurrenzdruck und das ständige Vergleichen mit oft unrealistischen, digital modifizierten Lebenswelten anderer Nutzer forciert nachweislich psychische Spannungen, Minderwertigkeitskomplexe und chronische Unzufriedenheit. Würde man die tägliche Nutzungszeit nicht bewusst und konsequent einschränken, so riskierte man eine schleichende soziale Isolation im realen Leben sowie gravierende Konzentrationsstörungen im universitären oder beruflichen Alltag.",
+      "Viele Technologiekonzerne rechtfertigen ihre Algorithmen mit dem Argument, dass sie lediglich die persönliche Relevanz für den einzelnen Konsumenten maximieren und die globale Interaktion fördern möchten. Medienpädagogen betonen jedoch unermüdlich, dass diese Mechanismen gezielt darauf ausgelegt sind, eine digitale Abhängigkeit zu erzeugen. Wenn die Nutzer die psychologischen Strategien hinter den Plattformen früher begriffen, würden sie ihre Online-Zeit sicherlich restriktiver kontrollieren. Es ist folglich eine Frage der digitalen Selbstdisziplin, um die Vorteile der Netzwerke gesund zu nutzen, ohne die eigene psychische Stabilität zu gefährden."
+    ],
+    "audios": [
+      { "id": "audio-de-read-b1-b071-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b1-b071-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-b1-b071-01",
+        "question": "Welcher positive Aspekt sozialer Netzwerke wird im ersten Absatz hervorgehoben?",
+        "reponses": [
+          { "id": "a", "texte": "Die automatische Steigerung der beruflichen Leistungsfähigkeit.", "correcte": false },
+          { "id": "b", "texte": "Das mühelose Überwinden geografischer Grenzen bei der Interaktion.", "correcte": true },
+          { "id": "c", "texte": "Die finanzielle Unterstützung von kreativen Studenten.", "correcte": false },
+          { "id": "d", "texte": "Das komplette Ersetzen von traditionellen Schulen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b071-02",
+        "question": "Welche psychische Folge kann das ständige Vergleichen auf Plattformen haben?",
+        "reponses": [
+          { "id": "a", "texte": "Eine spürbare Erhöhung der persönlichen Toleranz im Alltag.", "correcte": false },
+          { "id": "b", "texte": "Psychische Spannungen, Minderwertigkeitskomplexe und Unzufriedenheit.", "correcte": true },
+          { "id": "c", "texte": "Das sofortige Verschwinden von alltäglichem Prüfungsstress.", "correcte": false },
+          { "id": "d", "texte": "Eine ungesunde Steigerung der körperlichen Fitness.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b071-03",
+        "question": "Was würde laut dem Text passieren, wenn man die Online-Zeit nicht einschränkte?",
+        "reponses": [
+          { "id": "a", "texte": "Die Medientechnologie würde sich im Umland langsamer entwickeln.", "correcte": false },
+          { "id": "b", "texte": "Man riskierte eine schleichende Isolation im realen Leben.", "correcte": true },
+          { "id": "c", "texte": "Die Algorithmen der Konzerne würden komplett blockiert werden.", "correcte": false },
+          { "id": "d", "texte": "Die Konzentrationsfähigkeit im Büro würde rasant ansteigen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b071-04",
+        "question": "Wie betrachten Medienpädagogen die Algorithmen der Technologiekonzerne?",
+        "reponses": [
+          { "id": "a", "texte": "Als ein hervorragendes Werkzeug zur Förderung von Bildung.", "correcte": false },
+          { "id": "b", "texte": "Als Mechanismen, die gezielt digitale Abhängigkeit erzeugen.", "correcte": true },
+          { "id": "c", "texte": "Als eine rein altruistische Methode zur globalen Völkerverständigung.", "correcte": false },
+          { "id": "d", "texte": "Als unbedeutende technische Codes ohne psychologische Wirkung.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b071-05",
+        "question": "Welche implizite Schlussfolgerung lässt sich aus dem letzten Absatz ziehen?",
+        "reponses": [
+          { "id": "a", "texte": "Die Verantwortung für eine gesunde Nutzung liegt primär beim Konsumenten.", "correcte": true },
+          { "id": "b", "texte": "Konzerne werden ihre Strategien bald freiwillig komplett ändern.", "correcte": false },
+          { "id": "c", "texte": "Soziale Netzwerke sollten für Jugendliche verboten werden.", "correcte": false },
+          { "id": "d", "texte": "Digitale Selbstdisziplin ist im Studium irrelevant geworden.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b072",
+    "titre": "Wie das Internet unsere Art zu kommunizieren verändert hat",
+    "titre2": "Übung b072",
+    "texte": [
+      "Es ist unbestreitbar, dass die weitreichende Etablierung des Internets die menschliche Kommunikation in einer Weise modifiziert hat, die vor wenigen Jahrzehnten noch als utopisch galt. Früher erforderte der Austausch von Nachrichten über weite Distanzen das geduldige Verfassen von Briefen aus Papier, deren Zustellung Tage oder Wochen in Anspruch nahm. Im heutigen Zeitalter der digitalen Instant-Messenger und Videoanrufe erfolgt die alltägliche Interaktion hingegen synchron, unmittelbar und unabhängig vom geografischen Standort des Empfängers.",
+      "Diese permanente, blitzschnelle Verfügbarkeit von Kommunikation bringt jedoch auch tiefgreifende Veränderungen für das gesellschaftliche Zusammenleben mit sich. Die sprachliche Ausdrucksweise im digitalen Raum wird zunehmend durch Abkürzungen, Emojis und fragmentierte Sätze dominiert, was das Risiko für interpersonelle Missverständnisse signifikant erhöht. Würden wir die analoge, tiefgründige Konversation im realen Raum völlig durch digitale Textnachrichten ersetzen, so verlören wir schrittweise die Fähigkeit zur emotionalen Empathie und zum aktiven Zuhören, da die nonverbale Körpersprache komplett fehlt.",
+      "Einige Soziologen warnen vor einer unbemerkten Oberflächlichkeit in modernen Beziehungen, da der Fokus oft auf der Quantität statt der Qualität der Kontakte liegt. Wenn die Menschen die fundamentale Bedeutung des persönlichen Gesprächs von Angesicht zu Angesicht wieder bewusster schätzten, würden sie ihr Smartphone im Alltag sicherlich öfter ausschalten. Hätte das Internet die Kommunikation nicht so drastisch beschleunigt, wäre unser gesellschaftlicher Rhythmus heute vermutlich wesentlich entschleunigter und stressfreier."
+    ],
+    "audios": [
+      { "id": "audio-de-read-b1-b072-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b1-b072-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-b1-b072-01",
+        "question": "Wie funktionierte der Nachrichtenaustausch vor der Existenz des Internets?",
+        "reponses": [
+          { "id": "a", "texte": "Ausschließlich über interaktive Messenger auf dem Computer.", "correcte": false },
+          { "id": "b", "texte": "Durch das Verfassen von Briefen, deren Zustellung lange dauerte.", "correcte": true },
+          { "id": "c", "texte": "Über synchrone Videoanrufe in den großen Dörfern.", "correcte": false },
+          { "id": "d", "texte": "Es gab in der Vergangenheit überhaupt keine Kommunikation über Distanzen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b072-02",
+        "question": "Welche sprachliche Veränderung im digitalen Raum wird im Text kritisiert?",
+        "reponses": [
+          { "id": "a", "texte": "Das exzessive Nutzen von komplizierten wissenschaftlichen Fachbegriffen.", "correcte": false },
+          { "id": "b", "texte": "Die Dominanz von Abkürzungen, Emojis und fragmentierten Sätzen.", "correcte": true },
+          { "id": "c", "texte": "Das vollständige Verbot von Fremdsprachen bei Textnachrichten.", "correcte": false },
+          { "id": "d", "texte": "Die übermäßige Länge von privaten E-Mails im Büro.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b072-03",
+        "question": "Warum erhöht die digitale Kommunikation das Risiko für Missverständnisse?",
+        "reponses": [
+          { "id": "a", "texte": "Weil die Netzverbindungen im Ausland oft unzuverlässig sind.", "correcte": false },
+          { "id": "b", "texte": "Weil die nonverbale Körpersprache bei Texten komplett fehlt.", "correcte": true },
+          { "id": "c", "texte": "Da die Smartphones die Nachrichten automatisch verändern.", "correcte": false },
+          { "id": "d", "texte": "Weil ältere Generationen die Emojis absichtlich falsch nutzen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b072-04",
+        "question": "Was wäre laut dem Text der Fall, wenn das Internet die Kommunikation nicht beschleunigt hätte?",
+        "reponses": [
+          { "id": "a", "texte": "Die Menschen hätten die Fähigkeit zum Schreiben komplett verloren.", "correcte": false },
+          { "id": "b", "texte": "Unser gesellschaftlicher Rhythmus wäre vermutlich entschleunigter.", "correcte": true },
+          { "id": "c", "texte": "Es gäbe überhaupt keine sozialen Missverständnisse mehr auf der Welt.", "correcte": false },
+{ "id": "d", "texte": "Die Volkswirtschaften wären alle unbemerkt kollabiert.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b072-05",
+"question": "Welche implizite Warnung richtet der Autor an die moderne Gesellschaft?",
+"reponses": [
+{ "id": "a", "texte": "Man sollte digitale Instant-Messenger sofort vom Handy löschen.", "correcte": false },
+{ "id": "b", "texte": "Die Quantität digitaler Kontakte droht die Qualität echter Beziehungen zu mindern.", "correcte": true },
+{ "id": "c", "texte": "Videoanrufe schädigen die psychische Gesundheit von Senioren.", "correcte": false },
+{ "id": "d", "texte": "Briefe aus Papier sind die einzig sichere Methode zur Datenübertragung.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b073",
+"titre": "Mobiltelefone im Leben junger Menschen",
+"titre2": "Übung b073",
+"texte": [
+"- Sag mal, Jonas, hast du eigentlich auch das Gefühl, dass das Mobiltelefon in unserem Alltag mittlerweile eine beängstigende Kontrolle über uns erlangt hat? Ich ertappe mich ständig dabei, wie ich alle zwei Minuten unbewusst auf das Display starre, selbst während einer wichtigen Vorlesung.",
+"- Hallo, Clara! Diese Beobachtung teile ich absolut. Für die junge Generation ist das Smartphone längst kein bloßes Werkzeug zum Telefonieren mehr, sondern das zentrale Kontrollzentrum des gesamten Lebens. Es kombiniert Universitätsorganisation, soziale Kontakte, Orientierung und Unterhaltung an einem einzigen, kompakten Ort.",
+"- Das ist zweifellos extrem praktisch. Aber verpassen wir dadurch nicht oft die reale Welt? Wenn ich durch den Campus gehe, sehe ich kaum noch Jugendliche, die sich beim Gehen unterhalten; fast alle blicken stur nach unten.",
+"- Genau das ist das gravierende Problem. Diese permanente Ablenkung durch stündliche Benachrichtigungen reduziert unsere Aufmerksamkeitsspanne massiv. Würden die Studenten ihr Mobiltelefon während der Lernphasen nicht konsequent in einen anderen Raum legen, so könnten sie komplexe wissenschaftliche Inhalte überhaupt nicht mehr tiefgehend im Gedächtnis abspeichern.",
+"- Hätte ich mein Handy gestern Abend früher ausgeschaltet, wäre ich heute in der Prüfung sicherlich viel konzentrierter gewesen. Der Schlafmangel durch das nächtliche Surfen ist echt kontraproduktiv.",
+"- Ganz genau. Wenn wir nicht lernen, das Smartphone bewusst als Werkzeug zu beherrschen, statt uns von ihm beherrschen zu lassen, leidet unsere mentale und akademische Leistungsfähigkeit dauerhaft. Wir müssen dringend eine gesunde digitale Distanz etablieren."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b073-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b073-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b073-01",
+"question": "Als was wird das Smartphone von Jonas im Gespräch charakterisiert?",
+"reponses": [
+{ "id": "a", "texte": "Als ein reines Spielzeug für unkonzentrierte Kinder.", "correcte": false },
+{ "id": "b", "texte": "Als das zentrale Kontrollzentrum des gesamten Alltags.", "correcte": true },
+{ "id": "c", "texte": "Als eine teure finanzielle Belastung für die Eltern.", "correcte": false },
+{ "id": "d", "texte": "Als ein veraltetes Gerät zur reinen Wissensabfrage.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b073-02",
+"question": "Welche negative Beobachtung macht Clara auf dem Campus der Universität?",
+"reponses": [
+{ "id": "a", "texte": "Dass die Studenten viel zu spät zu den Seminaren erscheinen.", "correcte": false },
+{ "id": "b", "texte": "Dass Jugendliche kaum noch real miteinander sprechen und stur aufs Display blicken.", "correcte": true },
+{ "id": "c", "texte": "Dass die Gebäude der Universität ungenügend beheizt sind.", "correcte": false },
+{ "id": "d", "texte": "Dass die Sportangebote für Jugendliche komplett ignoriert werden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b073-03",
+"question": "Welche Auswirkung hat die ständige Ablenkung laut Jonas auf das Lernen?",
+"reponses": [
+{ "id": "a", "texte": "Sie erhöht die persönliche Kreativität beim Schreiben von Codes.", "correcte": false },
+{ "id": "b", "texte": "Sie reduziert die Aufmerksamkeitsspanne und blockiert das Abspeichern von Wissen.", "correcte": true },
+{ "id": "c", "texte": "Sie beschleunigt das Verständnis von komplexen Formeln.", "correcte": false },
+{ "id": "d", "texte": "Sie hat überhaupt keinen messbaren Einfluss auf das Gehirn.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b073-04",
+"question": "Was wäre laut Clara die Folge gewesen, wenn sie ihr Handy gestern früher ausgeschaltet hätte?",
+"reponses": [
+{ "id": "a", "texte": "Sie hätte die Prüfungszeiten komplett verschlafen.", "correcte": false },
+{ "id": "b", "texte": "Sie wäre in der heutigen Prüfung sicherlich konzentrierter gewesen.", "correcte": true },
+{ "id": "c", "texte": "Ihr Smartphone wäre in der Nacht unbemerkt kaputtgegangen.", "correcte": false },
+{ "id": "d", "texte": "Sie hätte eine bessere Note im Sportunterricht erzielt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b073-05",
+"question": "Welche implizite Empfehlung lässt sich aus dem Dialog für Jugendliche ableiten?",
+"reponses": [
+{ "id": "a", "texte": "Man sollte Mobiltelefone komplett aus dem Bildungsbereich verbannen.", "correcte": false },
+{ "id": "b", "texte": "Ein bewusster, kontrollierter Umgang ist nötig, um die eigene Autonomie zu bewahren.", "correcte": true },
+{ "id": "c", "texte": "Nächtliches Surfen verbessert die digitale Medienkompetenz.", "correcte": false },
+{ "id": "d", "texte": "Man sollte die Universitätsorganisation ausschließlich analog planen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b074",
+"titre": "Kann man mithilfe von Online-Videos effektiv lernen?",
+"titre2": "Übung b074",
+"texte": [
+"In der modernen Bildungslandschaft erfreuen sich internetbasierte Lernvideos einer rasant steigenden Popularität unter Schülern und Studenten. Plattformen, die komplexe mathematische Formeln, historische Zusammenhänge oder grammatikalische Regeln in kurzen, visuell ansprechenden Sequenzen erklären, revolutionieren das traditionelle Lernen. Die Möglichkeit, ein Video jederzeit zu pausieren, komplizierte Passagen beliebig oft zu wiederholen und den Lernrhythmus völlig autonom zu bestimmen, bietet unbestreitbare didaktische Vorteile für den individuellen Wissenserwerb.",
+"Dennoch warne ich in meiner Funktion als Bildungsforscher vor einer unkritischen Idealisierung dieser rein digitalen Methode. Online-Videos neigen konstruktionsbedingt dazu, komplexe wissenschaftliche Themen stark zu vereinfachen, um sie unterhaltsam zu präsentieren. Dies erzeugt bei den Konsumenten oft die gefährliche Illusion des Verstehens, während das tiefgründige, kritische Nachdenken und das selbstständige Lösen von Problemen im Alltag vernachlässigt werden. Würde man die klassischen Lehrbücher komplett durch visuelle Medien ersetzen, so riskierte man eine langfristige Verflachung des akademischen Bildungsniveaus.",
+"Zudem erfordert das Lernen vor dem Bildschirm ein extrem hohes Maß an digitaler Selbstdisziplin, da die Versuchung zur Ablenkung durch unterhaltsame Inhalte nur einen Klick entfernt ist. Wenn die Studierenden die Lernvideos lediglich als Ergänzung und nicht als vollständigen Ersatz für die aktive Eigenarbeit nutzten, wäre der langfristige Erfolg wesentlich stabiler. Ein effektiver Wissenserwerb verlangt nach wie vor die anstrengende, produktive Auseinandersetzung mit dem Stoff, die kein noch so professionelles Video dem Gehirn vollständig abnehmen kann."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b074-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b074-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b074-01",
+"question": "Welcher didaktische Vorteil von Lernvideos wird im Text genannt?",
+"reponses": [
+{ "id": "a", "texte": "Das automatische Bestehen aller universitären Abschlussprüfungen.", "correcte": false },
+{ "id": "b", "texte": "Die Möglichkeit, den Lernrhythmus völlig autonom zu bestimmen.", "correcte": true },
+{ "id": "c", "texte": "Die kostenlose Verteilung von digitalen Lehrbüchern.", "correcte": false },
+{ "id": "d", "texte": "Dass das Gehirn beim Zuschauen überhaupt keine Energie benötigt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b074-02",
+"question": "Welche Gefahr bergibt die starke Vereinfachung von Themen in Videos?",
+"reponses": [
+{ "id": "a", "texte": "Dass die Videos für junge Studenten viel zu langweilig werden.", "correcte": false },
+{ "id": "b", "texte": "Die gefährliche Illusion des Verstehens bei den Konsumenten.", "correcte": true },
+{ "id": "c", "texte": "Eine plötzliche Erhöhung der finanziellen Kosten für das Internet.", "correcte": false },
+{ "id": "d", "texte": "Dass die Professoren die Erstellung der Clips komplett verbieten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b074-03",
+"question": "Was würde laut dem Text passieren, wenn man Lehrbücher komplett durch Videos ersetzte?",
+"reponses": [
+{ "id": "a", "texte": "Die sozialen Kompetenzen der Schüler würden rasant ansteigen.", "correcte": false },
+{ "id": "b", "texte": "Man riskierte eine langfristige Verflachung des Bildungsniveaus.", "correcte": true },
+{ "id": "c", "texte": "Die Aufmerksamkeitsspanne der Jugendlichen würde sich verdoppeln.", "correcte": false },
+{ "id": "d", "texte": "Die Schulen bräuchten überhaupt keine Lehrer mehr im Raum.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b074-04",
+"question": "Wie sollten Studierende Lernvideos laut der Empfehlung des Forschers nutzen?",
+"reponses": [
+{ "id": "a", "texte": "Als exklusiven und vollständigen Ersatz für anstrengende Eigenarbeit.", "correcte": false },
+{ "id": "b", "texte": "Lediglich als sinnvolle Ergänzung zur aktiven Eigenaufarbeitung.", "correcte": true },
+{ "id": "c", "texte": "Ausschließlich während der regulären Vorlesungen auf dem Campus.", "correcte": false },
+{ "id": "d", "texte": "Man sollte sie aus Sicherheitsgründen komplett aus dem Alltag verbannen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b074-05",
+"question": "Welche implizite Botschaft vermittelt der Text über effektiven Wissenserwerb?",
+"reponses": [
+{ "id": "a", "texte": "Visuelle Medien machen das Lernen zu einem mühelosen Prozess.", "correcte": false },
+{ "id": "b", "texte": "Echter Lernerfolg verlangt stets eine aktive, produktive geistige Anstrengung.", "correcte": true },
+{ "id": "c", "texte": "Mathematische Formeln lernt man am besten durch reines Auswendiglernen.", "correcte": false },
+{ "id": "d", "texte": "Unterhaltungsmedien schaden der Erforschung von historischen Daten.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b075",
+"titre": "Die Gefahren von Falschmeldungen im Internet",
+"titre2": "Übung b075",
+"texte": [
+"In unserem digitalisierten Informationszeitalter stellt die rasante, unkontrollierte Verbreitung von Falschmeldungen, oft als „Fake News“ bezeichnet, eine gravierende Bedrohung für den gesellschaftlichen Zusammenhalt und die demokratische Meinungsbildung dar. Über soziale Netzwerke und Messenger-Dienste können manipulierte Informationen, gefälschte Bilder oder komplett erfundene Berichte innerhalb weniger Minuten Millionen von Menschen erreichen. Da Sensationen im Internet nachweislich schneller geteilt werden als sachliche Richtigstellungen, entfalten diese Lügen eine verheerende Dynamik.",
+"Die psychologischen Mechanismen dahinter sind perfide. Falschmeldungen sind gezielt darauf ausgelegt, starke Emotionen wie Angst, Wut oder Vorurteile zu triggern, wodurch das rationale, kritische Denken der Konsumenten blockiert wird. Viele Nutzer prüfen die Quelle einer Nachricht überhaupt nicht, bevor sie diese mit ihren Kontakten teilen. Würden die Menschen digitale Medienkompetenz und Quellenkritik konsequent im Alltag anwenden, so verlören diese Manipulationsversuche rasch ihre zerstörerische Wirkung auf das gesellschaftliche Klima.",
+"Hätten Schulen und Universitäten die Vermittlung von Medienkritik früher als existenzielles Pflichtfach etabliert, stünde unsere Gesellschaft heute sicherlich nicht vor einer so massiven Vertrauenskrise gegenüber den etablierten Medien. Es ist folglich eine Frage der individuellen Verantwortung, Informationen im Netz vor dem Teilen kritisch zu hinterfragen, Faktenprüfer zu nutzen und die Verbreitung von Lügen aktiv zu stoppen, um die gesellschaftliche Stabilität dauerhaft zu schützen."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b075-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b075-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b075-01",
+"question": "Welches digitale Phänomen wird im Text als Bedrohung bezeichnet?",
+"reponses": [
+{ "id": "a", "texte": "Die extrem hohen Kosten für den schnellen Internetzugang.", "correcte": false },
+{ "id": "b", "texte": "Die rasante, unkontrollierte Verbreitung von Falschmeldungen.", "correcte": true },
+{ "id": "c", "texte": "Das mangelhafte Angebot an wissenschaftlichen Online-Artikeln.", "correcte": false },
+{ "id": "d", "texte": "Die Schließung von traditionellen Bibliotheken in den Städten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b075-02",
+"question": "Warum verbreiten sich Lügen im Netz oft schneller als die Wahrheit?",
+"reponses": [
+{ "id": "a", "texte": "Weil korrekte Faktenprüfer im Internet verboten sind.", "correcte": false },
+{ "id": "b", "texte": "Weil Sensationen nachweislich schneller geteilt werden als Richtigstellungen.", "correcte": true },
+{ "id": "c", "texte": "Da die Technologiekonzerne alle sachlichen Berichte blockieren.", "correcte": false },
+{ "id": "d", "texte": "Weil die Nutzer ausschließlich wissenschaftliche Videos schauen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b075-03",
+"question": "Welche Emotionen wollen Falschmeldungen laut Text gezielt triggern?",
+"reponses": [
+{ "id": "a", "texte": "Eine tiefe persönliche Gelassenheit und große Empathie.", "correcte": false },
+{ "id": "b", "texte": "Starke Emotionen wie akute Angst, Wut oder Vorurteile.", "correcte": true },
+{ "id": "c", "texte": "Das Verlangen nach sportlicher Aktivität im Freien.", "correcte": false },
+{ "id": "d", "texte": "Es werden im gesamten Text keine Emotionen erwähnt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b075-04",
+"question": "Was wäre laut dem Text der Fall, wenn Schulen Medienkritik früher etabliert hätten?",
+"reponses": [
+{ "id": "a", "texte": "Die Schüler bräuchten überhaupt keine Computer mehr im Unterricht.", "correcte": false },
+{ "id": "b", "texte": "Unsere Gesellschaft stünde heute sicherlich nicht vor einer so massiven Vertrauenskrise.", "correcte": true },
+{ "id": "c", "texte": "Die demokratische Meinungsbildung wäre komplett überflüssig geworden.", "correcte": false },
+{ "id": "d", "texte": "Die Müllmenge in den Großstädten hätte sich drastisch reduziert.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b075-05",
+"question": "Welche implizite Pflicht fordert der Autor von jedem einzelnen Internetnutzer?",
+"reponses": [
+{ "id": "a", "texte": "Das vollständige Ignorieren von jeglichen Nachrichten im Netz.", "correcte": false },
+{ "id": "b", "texte": "Informationen vor dem Teilen kritisch zu hinterfragen und zu verifizieren.", "correcte": true },
+{ "id": "c", "texte": "Ausschließlich Berichte über künstliche Intelligenz zu konsumieren.", "correcte": false },
+{ "id": "d", "texte": "Die Eltern für die Verbreitung von Fake News verantwortlich zu machen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b076",
+"titre": "Künstliche Intelligenz in unserem Alltag",
+"titre2": "Übung b076",
+"texte": [
+"Die fortschreitende Entwicklung der künstlichen Intelligenz, kurz KI, ist längst kein rein science-fiction-artiges Szenario der Informatiklabore mehr, sondern eine Technologie, die unseren alltäglichen Kosmos unbemerkt durchdringt. Von intelligenten Algorithmen, die unsere Musik-Streamingdienste präzise steuern, über automatisierte Übersetzungssysteme bis hin zu sprachgesteuerten Assistenten im Smart-Home – die Anwendungen sind vielschichtig. Diese technologische Revolution bietet zweifellos faszinierende Möglichkeiten, um Prozesse zu optimieren und den menschlichen Alltag spürbar zu erleichtern.",
+"Doch im Zuge dieses rasanten Fortschritts offenbaren sich auch ethische und gesellschaftliche Hürden, die wir kritisch analysieren müssen. Die Automatisierung durch KI-Systeme bedroht mittelfristig unzählige traditionelle Arbeitsplätze, nicht mehr nur in der industriellen Produktion, sondern zunehmend auch im kreativen und akademischen Sektor. Würden wir der künstlichen Intelligenz die autonomen Entscheidungen in existenziellen Bereichen wie der Medizin oder Rechtsprechung ohne menschliche Kontrolle überlassen, so riskierte man fatale Fehler im System und einen Verlust der ethischen Verantwortung.",
+"Hätten die Entwickler die potenziellen Risiken bezüglich algorithmischer Vorurteile und Diskriminierung früher priorisiert, stünden wir heute vor transparenteren Systemen. Es ist folglich eine fundamentale Aufgabe der Politik, strenge regulatorische Rahmenbedingungen zu schaffen. Die künstliche Intelligenz sollte stets als ein unterstützendes Werkzeug für den Menschen dienen, anstatt den menschlichen Verstand und die moralische Urteilskraft komplett zu ersetzen."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b076-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b076-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b076-01",
+"question": "Welche alltägliche Anwendung von künstlicher Intelligenz wird im Text genannt?",
+"reponses": [
+{ "id": "a", "texte": "Das vollkommene Steuern von globalen Klimaschutzgesetzen.", "correcte": false },
+{ "id": "b", "texte": "Algorithmen, die Musik-Streamingdienste präzise steuern.", "correcte": true },
+{ "id": "c", "texte": "Das handschriftliche Verfassen von Briefen aus Papier.", "correcte": false },
+{ "id": "d", "texte": "Die automatische Reinigung des Trinkwassers in den Seen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b076-02",
+"question": "Welche gesellschaftliche Sorge bezüglich der KI-Systeme äußert der Text?",
+"reponses": [
+{ "id": "a", "texte": "Dass die Geräte im Winter viel zu viel Strom verbrauchen.", "correcte": false },
+{ "id": "b", "texte": "Die mittelfristige Bedrohung unzähliger traditioneller Arbeitsplätze.", "correcte": true },
+{ "id": "c", "texte": "Ein akuter Mangel an biologischen Lebensmitteln in Geschäften.", "correcte": false },
+{ "id": "d", "texte": "Dass Jugendliche das Interesse an Videospielen komplett verlieren.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b076-03",
+"question": "Was würde passieren, wenn man der KI autonome Entscheidungen in der Medizin überließe?",
+"reponses": [
+{ "id": "a", "texte": "Die Behandlungen würden für die Patienten absolut kostenlos werden.", "correcte": false },
+{ "id": "b", "texte": "Man riskierte fatale Fehler im System und den Verlust ethischer Verantwortung.", "correcte": true },
+{ "id": "c", "texte": "Physiotherapeuten bräuchten überhaupt keine Ausbildung mehr.", "correcte": false },
+{ "id": "d", "texte": "Das Stresshormon Cortisol würde im Blut der Ärzte drastisch sinken.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b076-04",
+"question": "Wer steht laut dem Text in der Pflicht, regulatorische Rahmenbedingungen zu schaffen?",
+"reponses": [
+{ "id": "a", "texte": "Ausschließlich die jungen Studenten an den Universitäten.", "correcte": false },
+{ "id": "b", "texte": "Die Politik muss strenge gesetzliche Regeln etablieren.", "correcte": true },
+{ "id": "c", "texte": "Die internationalen Umweltschutzorganisationen.", "correcte": false },
+{ "id": "d", "texte": "Es wird im Text keine verantwortliche Institution genannt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b076-05",
+"question": "Als was sollte künstliche Intelligenz laut dem Text idealerweise dienen?",
+"reponses": [
+{ "id": "a", "texte": "Als ein vollständiger Ersatz für den menschlichen Verstand.", "correcte": false },
+{ "id": "b", "texte": "Stets als ein unterstützendes Werkzeug für den Menschen.", "correcte": true },
+{ "id": "c", "texte": "Als ein Kontrollzentrum zur totalen Überwachung der Bürger.", "correcte": false },
+{ "id": "d", "texte": "Als eine Methode zur Maximierung von anonymem Konsum.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b077",
+"titre": "Warum sollten wir unsere persönlichen Daten schützen?",
+"titre2": "Übung b077",
+"texte": [
+"In der heutigen, von Big Data dominierten digitalen Ökonomie sind persönliche Daten zum wertvollsten Rohstoff des Internets avanciert. Viele Nutzer geben im Alltag unüberlegt intime Informationen, Standorte, Suchanfragen und private Vorlieben preis, um kostenlose Apps oder soziale Netzwerke zu nutzen. Dieses sorglose Verhalten basiert jedoch auf einem fatalen Trugschluss, da große Technologiekonzerne diese digitalen Spuren akribisch sammeln, um detaillierte psychologische Profile für gezielte kommerzielle Manipulationen zu erstellen.",
+"Die Gefahren der totalen digitalen Überwachung sind immens und betreffen direkt unsere persönliche Freiheit. Wenn Kriminelle durch mangelhafte Cybersicherheit Zugriff auf Passwörter, Kreditkarten oder Identitäten erlangen, kann dies existenzbedrohende finanzielle und psychische Krisen auslösen. Würden die Verbraucher die Datenschutzbestimmungen vor dem Klicken auf „Akzeptieren“ wirklich aufmerksam lesen, so schreckten sie vor der massiven Weitergabe ihrer Privatsphäre zurück. Der Schutz der Daten ist ein Akt der digitalen Selbstverteidigung.",
+"Hätten die Gesetzgeber strengere, globale Schutzgesetze früher etabliert, stünden wir heute nicht vor einer so massiven Manipulation des Konsumverhaltens durch Algorithmen. Es ist folglich eine unumgängliche Pflicht des Einzelnen, Datensparsamkeit zu praktizieren, sichere Passwörter zu generieren und verschlüsselte Messenger zu nutzen. Wenn man seine Privatsphäre im Netz konsequent schützte, bewahrte man letztendlich seine eigene Unabhängigkeit in einer zunehmend gläsernen digitalen Welt."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b077-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b077-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b077-01",
+"question": "Als was werden persönliche Daten in der heutigen Ökonomie bezeichnet?",
+"reponses": [
+{ "id": "a", "texte": "Als eine reine Zeitverschwendung für moderne Unternehmen.", "correcte": false },
+{ "id": "b", "texte": "Als der wertvollste Rohstoff des Internets.", "correcte": true },
+{ "id": "c", "texte": "Als ein kostenloses Geschenk der Technologiekonzerne.", "correcte": false },
+{ "id": "d", "texte": "Als ein illegales Werkzeug von jungen Informatikern.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b077-02",
+"question": "Was machen große Konzerne laut Text mit den gesammelten Spuren?",
+"reponses": [
+{ "id": "a", "texte": "Sie löschen sie nach vierundzwanzig Stunden automatisch.", "correcte": false },
+{ "id": "b", "texte": "Sie erstellen detaillierte Profile für kommerzielle Manipulation.", "correcte": true },
+{ "id": "c", "texte": "Sie spenden sie an gemeinnützige Bildungseinrichtungen.", "correcte": false },
+{ "id": "d", "texte": "Sie nutzen sie zur Verbesserung der globalen Luftqualität.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b077-03",
+"question": "Welche gravierende Gefahr droht bei ungenügender Cybersicherheit?",
+"reponses": [
+{ "id": "a", "texte": "Dass der Akku des Smartphones viel schneller leer wird.", "correcte": false },
+{ "id": "b", "texte": "Identitätsdiebstahl und existenzbedrohende finanzielle Krisen.", "correcte": true },
+{ "id": "c purchase", "texte": "Das komplette Verbot von sozialen Netzwerken im Inland.", "correcte": false },
+{ "id": "d", "texte": "Dass man keine Passwörter mehr eingeben muss.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b077-04",
+"question": "Als was wird der Schutz der eigenen Daten im Text metaphorisch definiert?",
+"reponses": [
+{ "id": "a", "texte": "Als eine lästige bürokratische Hürde für junge Start-ups.", "correcte": false },
+{ "id": "b", "texte": "Als ein Akt der notwendigen digitalen Selbstverteidigung.", "correcte": true },
+{ "id": "c", "texte": "Als ein utopischer Traum von älteren Senioren.", "correcte": false },
+{ "id": "d", "texte": "Als ein biologisches Ventil gegen den Alltagsstress.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b077-05",
+"question": "Welche implizite Verhaltensänderung empfiehlt der Text den Verbrauchern?",
+"reponses": [
+{ "id": "a", "texte": "Das Internet aus Sicherheitsgründen überhaupt nicht mehr zu nutzen.", "correcte": false },
+{ "id": "b", "texte": "Eine bewusste Datensparsamkeit und das Nutzen von Verschlüsselung.", "correcte": true },
+{ "id": "c", "texte": "Alle Passwörter gut sichtbar auf Papier aufzuschreiben.", "correcte": false },
+{ "id": "d", "texte": "Die Datenschutzbestimmungen grundsätzlich komplett zu ignorieren.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b078",
+"titre": "Videospiele: Unterhaltung oder Zeitverschwendung?",
+"titre2": "Übung b078",
+"texte": [
+"Die Debatte über den soziokulturellen Wert von Videospielen spaltet die Meinungen von Pädagogen, Eltern und Jugendlichen seit vielen Jahren in zwei unnachgiebige Lager. Während die Kritiker das Gaming oft pauschal als eine unproduktive, süchtig machende Zeitverschwendung verurteilen, die Jugendliche von den realen Pflichten ablenkt, verweisen Befürworter auf das immense Potenzial moderner Spiele. Videospiele sind längst kein simples Kinderspielzeug mehr, sondern ein hochkomplexes Kulturmedium, das kognitive Fähigkeiten nachweislich stimulieren kann.",
+"Aus kognitionspsychologischer Sicht erfordern viele strategische Videospiele ein extrem hohes Maß an lösungsorientiertem Denken, räumlicher Orientierung und mentaler Flexibilität. In kooperativen Online-Modi müssen Spieler zudem in Echtzeit komplexe Taktiken kommunizieren, was die soziale Teamfähigkeit und die interkulturelle Kompetenz schult. Würden Jugendliche das Gaming jedoch exzessiv betreiben und den Schreibtisch tagelang nicht verlassen, so riskierte man eine physische Degeneration der Muskeln sowie den totalen Einbruch der akademischen Noten an der Schule oder Universität.",
+"Einige Therapeuten warnen vor der Flucht in virtuelle Welten bei realen Alltagscharakteren. Wenn die Spieler die goldene Balance zwischen digitaler Unterhaltung und realen Verpflichtungen konsequent wahrten, wäre Gaming eine Bereicherung. Hätten die Entwickler die Suchtmechanismen in den Spieldesigns früher reduziert, stünde die Community heute vor einem besseren Ruf. Es bleibt folglich eine Frage des verantwortungsvollen Zeitmanagements, um den Unterhaltungswert zu genießen, ohne das reale Leben zu vernachlässigen."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b078-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b078-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b078-01",
+"question": "Welche Kritikpunkte äußern Gegner von Videospielen am häufigsten?",
+"reponses": [
+{ "id": "a", "texte": "Dass die Spiele finanziell viel zu günstig im Handel seien.", "correcte": false },
+{ "id": "b", "texte": "Dass Gaming eine unproduktive, süchtig machende Zeitverschwendung sei.", "correcte": true },
+{ "id": "c", "texte": "Dass die Grafiken der Programme die Sehkraft der Augen verbessern.", "correcte": false },
+{ "id": "d", "texte": "Der Mangel an kooperativen Online-Modi für Gruppen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b078-02",
+"question": "Welche kognitiven Fähigkeiten können durch strategische Spiele gefördert werden?",
+"reponses": [
+{ "id": "a", "texte": "Das fehlerfreie Kopfrechnen mit unendlich großen Zahlen.", "correcte": false },
+{ "id": "b", "texte": "Lösungsorientiertes Denken, räumliche Orientierung und Flexibilität.", "correcte": true },
+{ "id": "c", "texte": "Das schnelle Auswendiglernen von historischen Jahreszahlen.", "correcte": false },
+{ "id": "d", "texte": "Es werden im Text überhaupt keine kognitiven Effekte genannt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b078-03",
+"question": "Welche physische und akademische Gefahr droht bei exzessivem Gaming?",
+"reponses": [
+{ "id": "a", "texte": "Eine ungesunde Steigerung der körperlichen Muskelmasse.", "correcte": false },
+{ "id": "b", "texte": "Eine physische Degeneration der Muskeln und der Einbruch der Noten.", "correcte": true },
+{ "id": "c", "texte": "Dass man die deutsche Rechtschreibung komplett verlernt.", "correcte": false },
+{ "id": "d", "texte": "Die Schließung von allen digitalen Lernplattformen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b078-04",
+"question": "Was wäre laut dem Text der Fall, wenn Spieler die goldene Balance konsequent wahrten?",
+"reponses": [
+{ "id": "a", "texte": "Das Gaming wäre für sie eine bereichernde Unterhaltung.", "correcte": true },
+{ "id": "b", "texte": "Sie bräuchten überhaupt keine sozialen Kontakte mehr.", "correcte": false },
+{ "id": "c", "texte": "Die Spiele würden im Internet komplett kostenlos werden.", "correcte": false },
+{ "id": "d", "texte": "Sie müssten ihre Hausaufgaben nachts am Laptop erledigen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b078-05",
+"question": "Welche implizite Lektion vermittelt der Text über den Wert des Gamings?",
+"reponses": [
+{ "id": "a", "texte": "Videospiele sind grundsätzlich schädlich für die Gehirnentwicklung.", "correcte": false },
+{ "id": "b", "texte": "Nicht das Medium selbst ist das Problem, sondern das Ausmaß der Nutzung.", "correcte": true },
+{ "id": "c", "texte": "Entwickler sollten die Produktion von Online-Modi komplett einstellen.", "correcte": false },
+{ "id": "d", "texte": "Eltern sollten Jugendlichen den PC bedingungslos überlassen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b079",
+"titre": "Beeinflusst das Fernsehen unser Verhalten?",
+"titre2": "Übung b079",
+"texte": [
+"In der heutigen, von visuellen Reizen überfluteten Medienlandschaft bleibt das Fernsehen, trotz des rasanten Aufstiegs von Online-Streamingdiensten, ein mächtiges Instrument des kollektiven Einflusses. Medienpsychologen untersuchen seit Jahrzehnten intensiv die Frage, inwieweit der permanente Konsum von Fernsehsendungen, Nachrichten und fiktionalen Serien unser alltägliches Verhalten unbewusst manipuliert. Da das menschliche Gehirn visuelle Informationen extrem tief abspeichert, prägt das Fernsehen maßgeblich unsere Werte, Vorurteile und gesellschaftlichen Rollenbilder.",
+"Besonders besorgniserregend ist dieser Einfluss auf das Konsumverhalten der Bevölkerung. Durch strategisch perfekt platzierte Werbespots werden künstliche Bedürfnisse generiert, die die Zuschauer dazu verleiten, unnötige materielle Güter zu kaufen, um einem vermeintlich idealen Lebensstil zu entsprechen. Würden die Menschen den Fernseher seltener einschalten und die gezeigten Inhalte kritischer analysieren, so reduzierten sie ihren unüberlegten Konsum drastisch. Zudem fördert passiver Fernsehkonsum nachweislich eine träge, sitzende Lebensweise und raubt wertvolle Zeit für Sport.",
+"Hätten die Sendeanstalten Bildungsprogramme früher konsequent priorisiert, stünde das Fernsehen heute vor einer höheren gesellschaftlichen Wertschätzung. Es ist folglich eine Frage der persönlichen Medienkompetenz, den Konsum restriktiv zu kontrollieren. Wenn man den Bildschirm öfter ausschaltete, gewänne man unendlich viel Freiraum für reale menschliche Beziehungen und produktive Hobbys im Alltag, die die Lebensqualität nachhaltig steigern."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b079-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b079-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b079-01",
+"question": "Warum hat das Fernsehen laut Text immer noch einen so mächtigen kollektiven Einfluss?",
+"reponses": [
+{ "id": "a", "texte": "Weil es die einzige Informationsquelle im ländlichen Raum darstellt.", "correcte": false },
+{ "id": "b", "texte": "Weil das menschliche Gehirn visuelle Reize extrem tief abspeichert.", "correcte": true },
+{ "id": "c", "texte": "Da die Online-Streamingdienste komplett verboten wurden.", "correcte": false },
+{ "id": "d", "texte": "Weil es absolut keine finanziellen Kosten für die Bürger verursacht.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b079-02",
+"question": "Welche negative Auswirkung hat die strategische Werbung im Fernsehen?",
+"reponses": [
+{ "id": "a", "texte": "Sie blockiert die Ausstrahlung von wichtigen Nachrichtensendungen.", "correcte": false },
+{ "id": "b", "texte": "Sie generiert künstliche Bedürfnisse und verleitet zu unnötigem Konsum.", "correcte": true },
+{ "id": "c", "texte": "Sie zwingt die Zuschauer, ihre Kleidung komplett wegzuwerfen.", "correcte": false },
+{ "id": "d", "texte": "Sie hat laut den Psychologen überhaupt keinen messbaren Effekt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b079-03",
+"question": "Was passiert laut dem Text, wenn Menschen den Fernseher seltener einschalteten?",
+"reponses": [
+{ "id": "a", "texte": "Die Sendeanstalten müssten sofort alle Programme komplett schließen.", "correcte": false },
+{ "id": "b", "texte": "Sie reduzierten ihren unüberlegten Konsum drastisch.", "correcte": true },
+{ "id": "c", "texte": "Ihr ökologischer Fußabdruck würde sich drastisch vergrößern.", "correcte": false },
+{ "id": "d", "texte": "Sie würden die sozialen Kontakte im Büro komplett vernachlässigen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b079-04",
+"question": "Welche körperliche Gefahr wird mit passivem Fernsehkonsum assoziiert?",
+"reponses": [
+{ "id": "a", "texte": "Ein akuter Mangel an biologischen Nährstoffen im Gewebe.", "correcte": false },
+{ "id": "b", "texte": "Die Förderung einer trägen, sitzenden Lebensweise auf dem Sofa.", "correcte": true },
+{ "id": "c", "texte": "Chronische Schmerzen in den Gelenken beim schnellen Laufen.", "correcte": false },
+{ "id": "d", "texte": "Es schädigt das respiratorische System der Zuschauer.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b079-05",
+"question": "Welche implizite Botschaft vermittelt der Autor am Ende des Berichts?",
+"reponses": [
+{ "id": "a", "texte": "Fernsehen sollte für alle Bürger gesetzlich verboten werden.", "correcte": false },
+{ "id": "b", "texte": "Das Ausschalten des Bildschirms schafft wertvolle Zeit für das reale Leben.", "correcte": true },
+{ "id": "c", "texte": "Serien sind nützlicher für die Bildung als wissenschaftliche Bücher.", "correcte": false },
+{ "id": "d", "texte": "Werbespots sind notwendig, um die Wirtschaft im Umland zu stabilisieren.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b080",
+"titre": "Wie kann man neue Technologien verantwortungsvoll nutzen?",
+"titre2": "Übung b080",
+"texte": [
+"- Hallo, Luisa! Gestern im Ethikseminar an der Universität gab es eine hitzige Debatte über unseren Umgang mit modernen Technologien. Der Professor betonte, die größte Herausforderung des 21. Jahrhunderts sei nicht die Erfindung neuer Geräte, sondern deren verantwortungsvolle Nutzung im Alltag. Was denkst du darüber?",
+"- Hallo, Tim! Dem kann ich nur vollkommen zustimmen. Wir leben in einer Zeit, in der die Technologie sich rasant entwickelt, aber unsere ethische Kompetenz oft hinterherhinkt. Ein verantwortungsvoller Umgang bedeutet schlichtweg, dass wir die digitalen Werkzeuge bewusst steuern, anstatt uns von Algorithmen blind manipulieren zu lassen.",
+"- Das klingt in der Theorie logisch, aber wie lässt sich das im hektischen Alltag von uns Studenten konkret realisieren? Die Verführung durch Smartphones, Tablets und Laptops ist schließlich permanent präsent.",
+"- Der erste Schritt ist die kritische Reflexion des eigenen Verhaltens. Man sollte sich feste medienfreie Zeiten einrichten, Datensparsamkeit praktizieren und die Quellen von Online-Informationen immer misstrauisch prüfen. Würden die Menschen diese einfache digitale Hygiene konsequent anwenden, schützten sie ihre mentale Gesundheit effektiv vor Reizüberflutung.",
+"- Da hast du recht. Wenn wir die neuen Technologien weiterhin so unkritisch konsumierten, verlören wir irgendwann die Kontrolle über unsere Privatsphäre und unsere freie Meinungsbildung.",
+"- Ganz genau. Technologie ist ein fantastischer Diener, aber ein extrem gefährlicher Herrscher. Wenn die Gesellschaft die psychologischen Risiken des permanenten Online-Seins früher begriffe, würde sie den digitalen Konsum sicherlich restriktiver regulieren, um die menschliche Autonomie dauerhaft zu bewahren."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b080-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b080-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b080-01",
+"question": "Was bezeichnete der Professor im Ethikseminar als die größte Herausforderung des Jahrhunderts?",
+"reponses": [
+{ "id": "a", "texte": "Das schnelle Programmieren von komplexen künstlichen Intelligenzen.", "correcte": false },
+{ "id": "b", "texte": "Die verantwortungsvolle Nutzung der modernen technologischen Geräte.", "correcte": true },
+{ "id": "c", "texte": "Die Reduzierung der Preise für Laptops im Geschäft.", "correcte": false },
+{ "id": "d", "texte": "Das Verbot von Smartphones auf dem gesamten Universitätsgelände.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b080-02",
+"question": "Was versteht Luisa unter einem verantwortungsvollen Umgang mit Technologie?",
+"reponses": [
+{ "id": "a", "texte": "Dass man jede neue App sofort auf dem Smartphone installiert.", "correcte": false },
+{ "id": "b", "texte": "Dass wir digitale Werkzeuge bewusst steuern, statt uns manipulieren zu lassen.", "correcte": true },
+{ "id": "c", "texte": "Das komplette Verzichten auf jegliche elektronische Kommunikation.", "correcte": false },
+{ "id": "d", "texte": "Dass Technologiekonzerne alle Daten kostenlos speichern dürfen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b080-03",
+"question": "Welche konkrete Maßnahme zur 'digitalen Hygiene' schlägt Luisa vor?",
+"reponses": [
+{ "id": "a", "texte": "Das tägliche Reinigen des Displays mit speziellen Flüssigkeiten.", "correcte": false },
+{ "id": "b", "texte": "Das Einrichten medienfreier Zeiten und die kritische Quellenprüfung.", "correcte": true },
+{ "id": "c", "texte": "Das Löschen von allen universitären E-Mail-Konten.", "correcte": false },
+{ "id": "d", "texte": "Ausschließlich am späten Abend im Internet zu surfen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b080-04",
+"question": "Mit welcher Metapher beschreibt Luisa die Rolle der Technologie am Ende?",
+"reponses": [
+{ "id": "a", "texte": "Als ein unbedeutendes Zahnrad in einem alten bürokratischen Uhrwerk.", "correcte": false },
+{ "id": "b", "texte": "Als einen fantastischen Diener, aber gefährlichen Herrscher.", "correcte": true },
+{ "id": "c", "texte": "Als ein stabiles Schutzschild gegen den globalen Klimawandel.", "correcte": false },
+{ "id": "d", "texte": "Als eine idyllische Oase der Ruhe für gestresste Studenten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b080-05",
+"question": "Welche implizite Warnung lässt sich aus Tims Aussage ableiten?",
+"reponses": [
+{ "id": "a", "texte": "Unkritischer Konsum bedroht langfristig unsere Privatsphäre und freie Meinung.", "correcte": true },
+{ "id": "b", "texte": "Universitäten werden in Zukunft komplett digital agieren müssen.", "correcte": false },
+{ "id": "c", "texte": "Ethische Debatten haben keinen Einfluss auf die Entwicklung von Software.", "correcte": false },
+{ "id": "d", "texte": "Die Aufmerksamkeitsspanne von Jugendlichen hängt von Genen ab.", "correcte": false }
 ]
 }
 ]
