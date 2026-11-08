@@ -176,5 +176,921 @@
 ]
 }
 ]
+},
+{
+    "id": "b011",
+    "titre": "11. Le relazioni tra genitori e figli oggi",
+    "titre2": "Esercizio b011",
+    "texte": [
+      "Il rapporto tra genitori e figli ha subito profonde trasformazioni negli ultimi decenni. Se in passato l'educazione si basava su un modello prevalentemente autoritario, oggi si tende a privilegiare il dialogo e l'ascolto reciproco. Tuttavia, questa transizione non è priva di ostacoli. La diffusione pervasiva delle tecnologie digitali, ad esempio, ha creato una nuova forma di distanza emotiva all'interno delle mura domestiche.",
+      "Molti sociologi sostengono che, sebbene i genitori moderni trascorrano più tempo teorico con i figli, la qualità di questo tempo sia spesso compromessa da continue distrazioni digitali. È frequente vedere intere famiglie sedute al tavolo di un ristorante dove ciascun membro fissa intensamente il proprio smartphone, ignorando chi gli sta seduto di fronte. Questo fenomeno riduce drasticamente le occasioni di confronto spontaneo.",
+      "Un altro elemento cruciale riguarda le aspettative future. Molti giovani ammettono di provare una forte ansia da prestazione poiché temono di deludere le speranze dei genitori. Gli psicologi raccomandano che si stabilisca un canale comunicativo onesto, in cui il fallimento non sia visto come una colpa imperdonabile, ma come una tappa naturale della crescita. Se i padri e le madri imparassero a ridimensionare le loro pretese, i ragazzi vivrebbero la loro giovinezza con maggiore serenità.",
+      "In conclusione, affinché le relazioni intergenerazionali funzionino, è indispensabile che entrambe le parti si sforzino di comprendere il mondo dell'altro. Solo attraverso un compromesso tra la saggezza dell'esperienza e l'entusiasmo della gioventù si potrà costruire un legame solido e duraturo."
+    ],
+    "audios": [
+      { "id": "audio-it-read-b1-011-1", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-b1-011-01",
+        "question": "Quale cambiamento principale viene evidenziato rispetto ai vecchi modelli educativi?",
+        "reponses": [
+          { "id": "a", "texte": "Il passaggio da un approccio autoritario a uno basato sul dialogo.", "correcte": true },
+          { "id": "b", "texte": "L'aumento dei castighi fisici nelle scuole pubbliche.", "correcte": false },
+          { "id": "c", "texte": "Il rifiuto totale della figura materna nell'infanzia.", "correcte": false },
+          { "id": "d", "texte": "L'obbligo per i figli di lavorare fin da piccoli.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-011-02",
+        "question": "In che modo le tecnologie digitali influenzano la vita domestica secondo il testo?",
+        "reponses": [
+          { "id": "a", "texte": "Aiutano i genitori a controllare i voti scolastici in tempo reale.", "correcte": false },
+          { "id": "b", "texte": "Creano una nuova forma di distanza emotiva tra i familiari.", "correcte": true },
+          { "id": "c", "texte": "Riducono i costi delle bollette energetiche mensili.", "correcte": false },
+          { "id": "d", "texte": "Sostituiscono completamente i libri di testo cartacei.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-011-03",
+        "question": "Che cosa compromette la qualità del tempo trascorso in famiglia?",
+        "reponses": [
+          { "id": "a", "texte": "La mancanza di denaro per viaggiare all'estero.", "correcte": false },
+          { "id": "b", "texte": "Le continue distrazioni provocate dagli smartphone.", "correcte": true },
+          { "id": "c", "texte": "Il rumore eccessivo del traffico cittadino.", "correcte": false },
+          { "id": "d", "texte": "Gli orari scolastici troppo prolungati.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-011-04",
+        "question": "Da dove nasce l'ansia da prestazione lamentata da molti giovani?",
+        "reponses": [
+          { "id": "a", "texte": "Dalla paura di non trovare un lavoro ben retribuito in futuro.", "correcte": false },
+          { "id": "b", "texte": "Dal timore di deludere le aspettative dei propri genitori.", "correcte": true },
+          { "id": "c", "texte": "Dall'obbligo di praticare uno sport a livello agonistico.", "correcte": false },
+          { "id": "d", "texte": "Dalle critiche ricevute sui social network dagli amici.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-011-05",
+        "question": "Come dovrebbe essere considerato il fallimento secondo gli psicologi?",
+        "reponses": [
+          { "id": "a", "texte": "Come una colpa grave da punire severamente a casa.", "correcte": false },
+          { "id": "b", "texte": "Come una tappa del tutto naturale del processo di crescita.", "correcte": true },
+          { "id": "c", "texte": "Come un segnale di scarsa intelligenza dell'individuo.", "correcte": false },
+          { "id": "d", "texte": "Come un evento raro che non capita mai ai bravi studenti.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-011-06",
+        "question": "Quale consiglio viene implicitamente rivolto ai padri e alle madri?",
+        "reponses": [
+          { "id": "a", "texte": "Comprare più dispositivi elettronici per i figli.", "correcte": false },
+          { "id": "b", "texte": "Ridimensionare le loro pretese per far vivere i ragazzi con serenità.", "correcte": true },
+          { "id": "c", "texte": "Iscriversi agli stessi corsi universitari dei figli.", "correcte": false },
+          { "id": "d", "texte": "Evitare di cenare insieme durante il fine settimana.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-011-07",
+        "question": "Qual è la condizione finale per costruire un legame familiare solido?",
+        "reponses": [
+          { "id": "a", "texte": "Un compromesso tra l'esperienza dei vecchi e l'entusiasmo dei giovani.", "correcte": true },
+          { "id": "b", "texte": "L'eliminazione totale di ogni regola all'interno della casa.", "correcte": false },
+          { "id": "c", "texte": "Il trasferimento dei figli in una casa indipendente a diciott'anni.", "correcte": false },
+          { "id": "d", "texte": "La condivisione delle stesse identiche password digitali.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b012",
+    "titre": "12. Come mantenere una buona amicizia?",
+    "titre2": "Esercizio b012",
+    "texte": [
+      "Cari amici del club, vi ringrazio per essere venuti a questa conferenza dedicata ai legami sociali nell'era moderna. Oggi vorrei parlarvi di un valore che tutti riteniamo fondamentale, ma che spesso trascuriamo nella fretta quotidiana: l'amicizia.",
+      "Mantenere un'amicizia solida richiede un impegno costante. Molti pensano che basti scambiarsi qualche messaggio sui social network per definirsi amici. Credetemi, non è così. Se non alimentassimo i nostri rapporti con incontri reali e conversazioni profonde, essi svanirebbero inevitabilmente nel giro di pochi mesi. La vera amicizia ha bisogno di presenza, non solo di notifiche digitali.",
+      "Un altro pilastro essenziale è l'onestà. Un vero amico è colui che ha il coraggio di dirti la verità, anche quando questa può ferirti. Se accettassimo solo complimenti falsi, non cresceremmo mai come persone. Naturalmente, le critiche devono essere espresse con delicatezza ed empatia, affinché non si creino fratture insanabili.",
+      "Infine, ricordatevi che l'amicizia è un percorso a doppio senso. Bisogna essere pronti a dare senza pretendere nulla in cambio. Spero che uscendo da questa sala, ognuno di voi senta il desiderio di telefonare a quel vecchio amico che non sente da tempo. Grazie per la vostra attenzione."
+    ],
+    "audios": [
+      { "id": "audio-it-read-b1-012-1", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-b1-012-01",
+        "question": "Qual è il contesto in cui si svolge questo discorso pubblico?",
+        "reponses": [
+          { "id": "a", "texte": "Un pranzo di nozze in un ristorante elegante.", "correcte": false },
+          { "id": "b", "texte": "Una conferenza dedicata ai legami sociali moderni.", "correcte": true },
+          { "id": "c", "texte": "Una lezione universitaria di matematica avanzata.", "correcte": false },
+          { "id": "d", "texte": "Un colloquio di lavoro per una posizione manageriale.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-012-02",
+        "question": "Quale errore comune commettono le persone riguardo all'amicizia?",
+        "reponses": [
+          { "id": "a", "texte": "Pensano che basti scambiarsi messaggi sui social per mantenere il legame.", "correcte": true },
+          { "id": "b", "texte": "Spendono troppo denaro in regali costosi per i compleanni.", "correcte": false },
+          { "id": "c", "texte": "Rifiutano di condividere i propri segreti professionali.", "correcte": false },
+          { "id": "d", "texte": "Viaggiano troppo spesso da soli senza compagnia.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-012-03",
+        "question": "Cosa succederebbe ai rapporti se mancassero incontri reali?",
+        "reponses": [
+          { "id": "a", "texte": "Diventerebbero ancora più forti grazie alla nostalgia.", "correcte": false },
+          { "id": "b", "texte": "Svanirebbero inevitabilmente nel giro di pochi mesi.", "correcte": true },
+          { "id": "c", "texte": "Sarebbero regolati da contratti legali molto rigidi.", "correcte": false },
+          { "id": "d", "texte": "Svilupperebbero un interesse puramente economico.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-012-04",
+        "question": "Quale caratteristica definisce un 'vero amico' secondo l'oratore?",
+        "reponses": [
+          { "id": "a", "texte": "Il coraggio di dire la verità anche quando può ferire.", "correcte": true },
+          {
+    "id": "b012",
+    "titre": "Come mantenere una buona amicizia?",
+    "titre2": "Esercizio b012",
+    "texte": [
+      "Mantenere un'amicizia sincera nel corso degli anni richiede un impegno costante e una grande maturità emotiva. Molti credono che gli amici veri non abbiano bisogno di sentirsi spesso, ma la realtà dimostra che la distanza e i silenzi prolungati rischiano di raffreddare anche i legami più profondi. Sebbene la vita moderna ci imponga ritmi frenetici, è fondamentale che si trovi il tempo per condividere un pensiero o una telefonata con chi riteniamo importante.",
+      "Il segreto principale risiede nella reciprocità. Un'amicizia in cui uno solo dei due partner cerca l'altro è destinata a fallire inevitabilmente. È necessario che vi sia un equilibrio tra il dare e il ricevere supporto. Inoltre, l'onestà gioca un ruolo cruciale: saper dire la verità, anche quando questa possa risultare dolorosa, distingue un conoscente superficiale da un compagno di vita autentico.",
+      "Quando insorgono dei malintesi, la soluzione migliore è affrontarli immediatamente senza lasciare che l'orgoglio rovini tutto. Se parlassimo più apertamente dei nostri sentimenti, eviteremmo molti rancori inutili. L'empatia ci permette di metterci nei panni dell'altro, comprendendo che ognuno attraversa momenti di stress in cui potrebbe allontanarsi temporaneamente. Sostenersi a vicenda nelle difficoltà e gioire sinceramente dei successi altrui sono le fondamenta su cui costruire un rapporto indistruttibile che duri per sempre."
+    ],
+    "audios": [
+      { "id": "audio-it-read-b1-012-1", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-b1-012-01",
+        "question": "Qual è il rischio principale dei silenzi prolungati in un'amicizia?",
+        "reponses": [
+          { "id": "a", "texte": "Provocano una rottura violenta e immediata.", "correcte": false },
+          { "id": "b", "texte": "Rischiano di raffreddare anche i legami più profondi.", "correcte": true },
+          { "id": "c", "texte": "Spingono le persone a cambiare città o lavoro.", "correcte": false },
+          { "id": "d", "texte": "Costringono a comprare nuovi dispositivi digitali.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-012-02",
+        "question": "Cosa pensa l'autore riguardo all'idea che gli amici veri non abbiano bisogno di sentirsi?",
+        "reponses": [
+          { "id": "a", "texte": "Che sia una verità assoluta confermata dalla psicologia.", "correcte": false },
+          { "id": "b", "texte": "Che valga solo per le persone anziane o i parenti.", "correcte": false },
+          { "id": "c", "texte": "Che la realtà smentisca questa credenza comune.", "correcte": true },
+          { "id": "d", "texte": "Che sia un metodo eccellente per risparmiare tempo.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-012-03",
+        "question": "Che cosa si intende per 'reciprocità' secondo il testo?",
+        "reponses": [
+          { "id": "a", "texte": "Un equilibrio tra il dare e il ricevere supporto emotivo.", "correcte": true },
+          { "id": "b", "texte": "L'obbligo di farsi regali costosi durante le feste.", "correcte": false },
+          { "id": "c", "texte": "La condivisione delle stesse identiche opinioni politiche.", "correcte": false },
+          { "id": "d", "texte": "Il fatto di vivere nello stesso quartiere della città.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-012-04",
+        "question": "Quale caratteristica distingue un amico autentico da un conoscente superficiale?",
+        "reponses": [
+          { "id": "a", "texte": "La capacità di organizzare grandi feste a sorpresa.", "correcte": false },
+          { "id": "b", "texte": "L'onestà nel dire la verità anche se dolorosa.", "correcte": true },
+          { "id": "c", "texte": "La frequenza con cui pubblica foto online sui social.", "correcte": false },
+          { "id": "d", "texte": "Il fatto di possedere una macchina per fare viaggi.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-012-05",
+        "question": "Come bisognerebbe gestire i malintesi quando insorgono?",
+        "reponses": [
+          { "id": "a", "texte": "Ignorandoli sperando che spariscano da soli col tempo.", "correcte": false },
+          { "id": "b", "texte": "Interrompendo ogni contatto in modo definitivo.", "correcte": false },
+          { "id": "c", "texte": "Affrontandoli subito senza farsi bloccare dall'orgoglio.", "correcte": true },
+          { "id": "d", "texte": "Chiedendo l'intervento di un avvocato di famiglia.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-012-06",
+        "question": "Cosa permetterebbe di evitare molti rancori inutili?",
+        "reponses": [
+          { "id": "a", "texte": "Parlare più apertamente dei propri sentimenti.", "correcte": true },
+          { "id": "b", "texte": "Evitare del tutto di incontrare persone nuove.", "correcte": false },
+          { "id": "c", "texte": "Cambiare amici ogni volta che sorge un problema.", "correcte": false },
+          { "id": "d", "texte": "Scrivere solo messaggi di testo formali.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-012-07",
+        "question": "Quale ruolo attribuisce l'autore all'empatia?",
+        "reponses": [
+          { "id": "a", "texte": "Aiuta a capire che ognuno può avere momenti difficili.", "correcte": true },
+          { "id": "b", "texte": "Permette di vincere qualsiasi discussione accesa.", "correcte": false },
+          { "id": "c", "texte": "Serve a calcolare i vantaggi economici di un rapporto.", "correcte": false },
+          { "id": "d", "texte": "Rende le persone incapaci di prendere decisioni.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b013",
+    "titre": "I conflitti tra fratelli e sorelle",
+    "titre2": "Esercizio b013",
+    "texte": [
+      "- Ciao Giulia, ti vedo stanca. È successo qualcosa a casa con i tuoi genitori?",
+      "- No, con i miei va tutto bene. È mio fratello minore, Marco, che mi sta facendo impazzire. Non fa altro che prendere le mie cose senza chiedere il permesso ed entra nella mia stanza a qualunque ora.",
+      "- Capisco perfettamente. Anche io litigavo costantemente con mia sorella maggiore quando eravamo adolescenti. Credo che sia una fase naturale della crescita, sebbene sia incredibilmente snervante nel quotidiano.",
+      "- Il problema è che i miei genitori minimizzano sempre, dicendo che dovremmo imparare a condividere gli spazi. Io però ho bisogno della mia privacy, specialmente adesso che devo concentrarmi sui compiti per l'università.",
+      "- Se i tuoi genitori non intervengono, dovresti provare a stabilire delle regole chiare direttamente con Marco. Ad esempio, potresti proporgli un accordo: lui ti chiede il permesso prima di usare il tuo computer e tu lo aiuti con i videogiochi o lo studio.",
+      "- Forse hai ragione. Se parlassi con lui con calma, senza urlare come faccio di solito, potrebbe capire il mio punto di vista. Temo solo che sia troppo immaturo per rispettare i patti.",
+      "- Fai un tentativo. Se ognuno facesse un piccolo passo indietro, la convivenza diventerebbe molto più serena per tutti."
+    ],
+    "audios": [
+      { "id": "audio-it-read-b1-013-1", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-b1-013-01",
+        "question": "Perché Giulia si sente stanca e nervosa all'inizio del dialogo?",
+        "reponses": [
+          { "id": "a", "texte": "Ha avuto un serio problema di salute in famiglia.", "correcte": false },
+          { "id": "b", "texte": "I comportamenti del fratello minore la stanno esasperando.", "correcte": true },
+          { "id": "c", "texte": "Ha fallito un esame universitario molto importante.", "correcte": false },
+          { "id": "d", "texte": "I suoi genitori le impediscono di uscire la sera.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-013-02",
+        "question": "Quale azione specifica di Marco infastidisce maggiormente Giulia?",
+        "reponses": [
+          { "id": "a", "texte": "Rifiuta di aiutarla a pulire la casa la domenica.", "correcte": false },
+          { "id": "b", "texte": "Prende i suoi oggetti personali senza alcuna autorizzazione.", "correcte": true },
+          { "id": "c", "texte": "Parla male di lei con i professori universitari.", "correcte": false },
+          { "id": "d", "texte": "Spende tutti i soldi destinati alla spesa comune.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-013-03",
+        "question": "Quale opinione esprime l'interlocutrice riguardo ai conflitti tra fratelli?",
+        "reponses": [
+          { "id": "a", "texte": "Ritiene che siano un segno di odio profondo e incurabile.", "correcte": false },
+          { "id": "b", "texte": "Pensa che siano una fase naturale della crescita individuale.", "correcte": true },
+          { "id": "c", "texte": "Consiglia di ignorare completamente il fratello per sempre.", "correcte": false },
+          { "id": "d", "texte": "Sostiene che la colpa sia esclusivamente della scuola.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-013-04",
+        "question": "Come reagiscono i genitori di Giulia di fronte a queste liti?",
+        "reponses": [
+          { "id": "a", "texte": "Puniscono severamente Marco togliendogli il telefono.", "correcte": false },
+          { "id": "b", "texte": "Danno sempre ragione a Giulia perché è la maggiore.", "correcte": false },
+          { "id": "c", "texte": "Sminuiscono il problema invitandoli a condividere gli spazi.", "correcte": true },
+          { "id": "d", "texte": "Decidono di mandare Marco a studiare in un'altra città.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-013-05",
+      "question": "Quale strategia viene suggerita a Giulia per risolvere la situazione?",
+"reponses": [
+{ "id": "a", "texte": "Chiedere ai genitori di punire Marco in modo definitivo.", "correcte": false },
+{ "id": "b", "texte": "Stabilire regole chiare e accordi diretti con il fratello.", "correcte": true },
+{ "id": "c", "texte": "Nascondere tutte le chiavi della casa per protesta.", "correcte": false },
+{ "id": "d", "texte": "Cambiare stanza e andare a vivere da un'amica.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-013-06",
+"question": "Qual è il timore principale di Giulia riguardo all'accordo proposto?",
+"reponses": [
+{ "id": "a", "texte": "Teme che Marco sia troppo immaturo per rispettare i patti.", "correcte": true },
+{ "id": "b", "texte": "Pensa che i genitori si arrabbieranno per le regole.", "correcte": false },
+{ "id": "c", "texte": "Ha paura di non avere abbastanza tempo per studiare.", "correcte": false },
+{ "id": "d", "texte": "Crede che il computer possa rompersi definitivamente.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-013-07",
+"question": "Cosa cambierebbe nel modo di comunicare di Giulia secondo il consiglio ricevuto?",
+"reponses": [
+{ "id": "a", "texte": "Smetterebbe completamente di parlare con il fratello.", "correcte": false },
+{ "id": "b", "texte": "Inizierebbe a scrivere lettere formali di protesta.", "correcte": false },
+{ "id": "c", "texte": "Parlerà con calma invece di urlare come al solito.", "correcte": true },
+{ "id": "d", "texte": "Chiederà aiuto ai suoi compagni di università.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b014",
+"titre": "L'importance della comunicazione all'interno della famiglia",
+"titre2": "Esercizio b014",
+"texte": [
+"Cari concittadini e benvenuti a questo incontro dedicato al benessere sociale. Oggi vorrei parlarvi di un tema che mi sta particolarmente a cuore: la comunicazione all'interno del nucleo familiare. Troppo spesso, nelle nostre case, il dialogo è sostituito dal silenzio o, peggio ancora, dalla presenza pervasiva degli schermi digitali. Ci sediamo a tavola insieme, ma ognuno guarda il proprio telefono, dimenticando il valore del confronto verbale.",
+"È fondamentale che si riscopra il piacere di raccontarsi la giornata. Una famiglia che non comunica diventa un insieme di estranei che condividono semplicemente lo stesso tetto. Se i genitori ascoltassero di più i figli senza giudicarli immediatamente, si creerebbe un clima di fiducia capace di prevenire molte incomprensioni adolescenziali. Al tempo stesso, i giovani dovrebbero comprendere che le preoccupazioni degli adulti derivano spesso dall'affetto.",
+"Vi invito caldamente a istituire dei momenti 'senza tecnologia' durante i pasti principali. Se spegnessimo la televisione e i cellulari per soli trenta minuti, scopriremmo un modo totalmente nuovo di stare insieme. Il dialogo aperto è la medicina più potente contro l'isolamento emotivo. Spero che ognuno di voi stasera, tornando a casa, possa fare questo piccolo esperimento per rafforzare i legami con i propri cari."
+],
+"audios": [
+{ "id": "audio-it-read-b1-014-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-014-01",
+"question": "Quale fenomeno negativo nota l'oratore all'interno delle case moderne?",
+"reponses": [
+{ "id": "a", "texte": "Le famiglie non consumano più i pasti alla stessa ora.", "correcte": false },
+{ "id": "b", "texte": "Il dialogo è spesso sostituito dalla presenza degli schermi.", "correcte": true },
+{ "id": "c", "texte": "I genitori spendono troppi soldi in attività inutili.", "correcte": false },
+{ "id": "d", "texte": "I giovani rifiutano di frequentare la scuola dell'obbligo.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-014-02",
+"question": "Cosa rischia di diventare una famiglia che smette del tutto di comunicare?",
+"reponses": [
+{ "id": "a", "texte": "Un'azienda economica di grande successo commerciale.", "correcte": false },
+{ "id": "b", "texte": "Un gruppo di estranei che condividono solo la casa.", "correcte": true },
+{ "id": "c", "texte": "Un modello positivo per l'intera comunità locale.", "correcte": false },
+{ "id": "d", "texte": "Un'associazione culturale focalizzata sulla tecnologia.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-014-03",
+"question": "Quale comportamento dei genitori potrebbe creare un clima di fiducia?",
+"reponses": [
+{ "id": "a", "texte": "Ascoltare i figli evitando di giudicarli subito.", "correcte": true },
+{ "id": "b", "texte": "Comprare l'ultimo modello di smartphone sul mercato.", "correcte": false },
+{ "id": "c", "texte": "Lasciare che i giovani decidano ogni regola da soli.", "correcte": false },
+{ "id": "d", "texte": "Aumentare le ore dedicate allo studio pomeridiano.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-014-04",
+"question": "Secondo il discorso, da dove nascono spesso le preoccupazioni degli adulti?",
+"reponses": [
+{ "id": "a", "texte": "Da un senso di egoismo e controllo totale.", "correcte": false },
+{ "id": "b", "texte": "Dal desiderio di risparmiare risorse economiche.", "correcte": false },
+{ "id": "c", "texte": "Dall'affetto profondo che provano per i figli.", "correcte": true },
+{ "id": "d", "texte": "Dalla mancanza di informazioni sui social network.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-014-05",
+"question": "Quale proposta concreta lancia l'oratore al pubblico presente?",
+"reponses": [
+{ "id": "a", "texte": "Vendere tutti i televisori della casa il prima possibile.", "correcte": false },
+{ "id": "b", "texte": "Istituire momenti privi di tecnologia durante i pasti.", "correcte": true },
+{ "id": "c", "texte": "Frequentare un corso universitario di comunicazione.", "correcte": false },
+{ "id": "d", "texte": "Mangiare sempre al ristorante per evitare tensioni.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-014-06",
+"question": "Quale metafora viene usata per descrivere il dialogo aperto?",
+"reponses": [
+{ "id": "a", "texte": "Viene definito come uno schermo digitale luminoso.", "correcte": false },
+{ "id": "b", "texte": "Viene descritto come la medicina più potente contro l'isolamento.", "correcte": true },
+{ "id": "c", "texte": "Viene paragonato a un viaggio faticoso in montagna.", "correcte": false },
+{ "id": "d", "texte": "Viene visto come un ostacolo alla libertà individuale.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-014-07",
+"question": "Qual è l'obiettivo finale dell'esperimento proposto dall'oratore?",
+"reponses": [
+{ "id": "a", "texte": "Ridurre il costo delle bollette elettriche mensili.", "correcte": false },
+{ "id": "b", "texte": "Rafforzare i legami affettivi con i propri cari.", "correcte": true },
+{ "id": "c", "texte": "Imparare a memoria nuove parole in lingua straniera.", "correcte": false },
+{ "id": "d", "texte": "Diventare famosi nella propria comunità cittadina.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b015",
+"titre": "Un'amicizia nata durante le vacanze",
+"titre2": "Esercizio b015",
+"texte": [
+"Ricorderò sempre l'estate del mio quindicesimo anno come il momento in cui la mia vita cambiò grazie a un incontro inaspettato. I miei genitori avevano affittato una piccola casa vicino al mare in un villaggio sperduto della Puglia. All'inizio ero disperato: non c'era internet veloce, non conoscevo nessuno e temevo che mi sarei annoiato a morte per due mesi consecutivi.",
+"Una mattina, mentre cercavo di leggere un libro sulla spiaggia deserta, un ragazzo della mia età si avvicinò perché il suo pallone era finito vicino ai miei piedi. Si chiamava Giovanni. Invece di prendere la palla e andarsene, si sedette sulla sabbia e iniziò a fare domande con una naturalezza disarmante. Scoprimmo subito di condividere la stessa passione per la musica rock degli anni Ottanta e per il calcio.",
+"Da quel giorno diventammo inseparabili. Passavamo le giornate esplorando le grotte marine in bicicletta o parlando del nostro futuro fino a tarda notte. Se non avessi perso la connessione al telefono, probabilmente sarei rimasto chiuso in camera a giocare ai videogiochi e non avrei mai conosciuto una persona così speciale. Quell'amicizia, nata per puro caso sotto il sole estivo, continua ancora oggi nonostante la distanza geografica che ci separa durante l'inverno."
+],
+"audios": [
+{ "id": "audio-it-read-b1-015-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-015-01",
+"question": "Qual era lo stato d'animo del narratore all'inizio della vacanza in Puglia?",
+"reponses": [
+{ "id": "a", "texte": "Era entusiasta di esplorare i monumenti storici della regione.", "correcte": false },
+{ "id": "b", "texte": "Si sentiva disperato all'idea di annoiarsi senza internet.", "correcte": true },
+{ "id": "c", "texte": "Era felice di potersi allenare ogni giorno a calcio.", "correcte": false },
+{ "id": "d", "texte": "Si mostrava preoccupato per la salute dei suoi genitori.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-015-02",
+"question": "In quale modo specifico avviene il primo contatto tra il narratore e Giovanni?",
+"reponses": [
+{ "id": "a", "texte": "Si scontrano accidentalmente mentre nuotano nel mare.", "correcte": false },
+{ "id": "b", "texte": "Il pallone di Giovanni finisce vicino ai piedi del narratore.", "correcte": true },
+{ "id": "c", "texte": "Frequentano lo stesso corso estivo di lingua italiana.", "correcte": false },
+{ "id": "d", "texte": "Si incontrano in un negozio di dischi rock in città.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-015-03",
+"question": "Quale interesse comune unisce immediatamente i due ragazzi?",
+"reponses": [
+{ "id": "a", "texte": "La lettura di romanzi classici russi d'avanguardia.", "correcte": false },
+{ "id": "b", "texte": "La passione per la musica rock degli anni Ottanta e il calcio.", "correcte": true },
+{ "id": "c", "texte": "Il desiderio di diventare programmatori informatici famosi.", "correcte": false },
+{ "id": "d", "texte": "L'interesse per la cucina tradizionale pugliese.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-015-04",
+"question": "Quali attività svolgevano principalmente durante le giornate estive?",
+"reponses": [
+{ "id": "a", "texte": "Esploravano le grotte marine utilizzando le biciclette.", "correcte": true },
+{ "id": "b", "texte": "Aiutavano i pescatori locali a riparare le reti da pesca.", "correcte": false },
+{ "id": "c", "texte": "Studiavano la matematica per preparare l'anno scolastico.", "correcte": false },
+{ "id": "d", "texte": "Lavoravano come camerieri nel bar del villaggio.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-015-05",
+"question": "Cosa sarebbe successo probabilmente se ci fosse stato internet veloce?",
+"reponses": [
+{ "id": "a", "texte": "Il narratore avrebbe scritto un blog di grande successo.", "correcte": false },
+{ "id": "b", "texte": "Sarebbe rimasto in camera a giocare ai videogiochi.", "correcte": true },
+{ "id": "c", "texte": "Avrebbe convinto i suoi amici della città a raggiungerlo.", "correcte": false },
+{ "id": "d", "texte": "I genitori avrebbero lavorato tutto il giorno da remoto.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-015-06",
+"question": "Cosa si deduce sulla durata di questa amicizia?",
+"reponses": [
+{ "id": "a", "texte": "Si è interrotta bruscamente alla fine del mese di agosto.", "correcte": false },
+{ "id": "b", "texte": "Dura ancora oggi nonostante la distanza invernale.", "correcte": true },
+{ "id": "c", "texte": "È svanita a causa di un litigio per motivi sportivi.", "correcte": false },
+{ "id": "d", "texte": "Si è trasformata in un rapporto di lavoro professionale.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-015-07",
+"question": "Quale insegnamento implicito emerge dal racconto delle vacanze?",
+"reponses": [
+{ "id": "a", "texte": "La tecnologia è l'unico modo per essere felici da giovani.", "correcte": false },
+{ "id": "b", "texte": "Gli imprevisti e la mancanza di comfort possono creare opportunità.", "correcte": true },
+{ "id": "c", "texte": "Bisogna sempre pianificare i viaggi nei minimi dettagli.", "correcte": false },
+{ "id": "d", "texte": "Le vacanze al mare sono migliori di quelle in montagna.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b016",
+"titre": "Perché dovremmo imparare ad ascoltare gli altri?",
+"titre2": "Esercizio b016",
+"texte": [
+"- Nel testo di oggi analizzeremo il concetto di 'ascolto attivo'. Molti pensano che saper comunicare significhi solo saper parlare bene, ma non è così.",
+"- Esatto. Spesso, quando qualcuno ci parla, noi non stiamo davvero ascoltando; stiamo semplicemente aspettando il nostro turno per rispondere, preparando già le nostre argomentazioni nella mente.",
+"- Questo comportamento distrugge la qualità delle nostre relazioni interpersonali. Se ascoltassimo con maggiore attenzione, capiremmo che le parole degli altri contengono bisogni profondi che spesso ignoriamo.",
+"- Certo, ma richiede uno sforzo notevole. Bisogna mettere da parte il proprio ego e sospendere ogni forma di giudizio immediato, il che è difficilissimo nella nostra società così competitiva.",
+"- Ne vale la pena. L'ascolto attento riduce drasticamente i conflitti sul lavoro e in famiglia. Inoltre, fa sentire l'interlocutore valorizzato e rispettato nella sua dignità.",
+"- Credo che questa competenza dovrebbe essere insegnata obbligatoriamente nelle scuole fin dall'infanzia, proprio come la grammatica o la matematica.",
+"- Sono d'accordo. Se tutti imparassimo ad ascoltare prima di parlare, il mondo sarebbe un luogo decisamente più pacifico e solidale."
+],
+"audios": [
+{ "id": "audio-it-read-b1-016-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-016-01",
+"question": "Quale malinteso comune sull'ascolto viene smentito all'inizio del testo?",
+"reponses": [
+{ "id": "a", "texte": "Che ascoltare sia un'attività puramente passiva e noiosa.", "correcte": false },
+{ "id": "b", "texte": "Che saper comunicare equivalga unicamente a saper parlare bene.", "correcte": true },
+{ "id": "c", "texte": "Che l'ascolto attivo sia utile solo ai medici e agli psicologi.", "correcte": false },
+{ "id": "d", "texte": "Che le persone anziane ascoltino meglio dei giovani.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-016-02",
+"question": "Cosa fa la maggior parte delle persone mentre l'interlocutore sta parlando?",
+"reponses": [
+{ "id": "a", "texte": "Prende appunti dettagliati su un quaderno di carta.", "correcte": false },
+{ "id": "b", "texte": "Prepara mentalmente la risposta invece di ascoltare davvero.", "correcte": true },
+{ "id": "c", "texte": "Controlla le notifiche dei social sul cellulare.", "correcte": false },
+{ "id": "d", "texte": "Cerca di interrompere l'interlocutore urlando forte.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-016-03",
+"question": "Quale conseguenza negativa produce la mancanza di un vero ascolto?",
+"reponses": [
+{ "id": "a", "texte": "Provoca una perdita di memoria a lungo termine.", "correcte": false },
+{ "id": "b", "texte": "Danneggia gravemente la qualità delle relazioni interpersonali.", "correcte": true },
+{ "id": "c", "texte": "Aumenta i costi della gestione scolastica nazionale.", "correcte": false },
+{ "id": "d", "texte": "Impedisce di imparare le lingue straniere moderne.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-016-04",
+"question": "Cosa occorre mettere da parte per praticare l'ascolto attivo?",
+"reponses": [
+{ "id": "a", "texte": "I propri impegni di lavoro e lo studio universitario.", "correcte": false },
+{ "id": "b", "texte": "Il proprio ego e la tendenza al giudizio immediato.", "correcte": true },
+{ "id": "c", "texte": "I libri di testo e i computer dell'ufficio.", "correcte": false },
+{ "id": "d", "texte": "Il denaro destinato alle attività del tempo libero.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-016-05",
+"question": "Quale beneficio concreto si ottiene ascoltando con attenzione?",
+"reponses": [
+{ "id": "a", "texte": "Si ottengono sconti commerciali nei negozi della città.", "correcte": false },
+{ "id": "b", "texte": "Si riducono drasticamente i conflitti sul lavoro e in famiglia.", "correcte": true },
+{ "id": "c", "texte": "Si guarisce dalle malattie fisiche in modo naturale.", "correcte": false },
+{ "id": "d", "texte": "Si impara a parlare più velocemente in pubblico.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-016-06",
+"question": "Quale proposta viene avanzata riguardo al sistema scolastico?",
+"reponses": [
+{ "id": "a", "texte": "Eliminare l'insegnamento della matematica complessa.", "correcte": false },
+{ "id": "b", "texte": "Insegnare l'ascolto attivo fin dall'infanzia come materia obbligatoria.", "correcte": true },
+{ "id": "c", "texte": "Aumentare le vacanze estive degli studenti delle superiori.", "correcte": false },
+{ "id": "d", "texte": "Sostituire tutti i professori con intelligenze artificiali.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-016-07",
+"question": "Cosa cambierebbe nel mondo se tutti sapessero ascoltare?",
+"reponses": [
+{ "id": "a", "texte": "Diventerebbe un luogo più pacifico e solidale.", "correcte": true },
+{ "id": "b", "texte": "Ci sarebbe meno bisogno di ospedali e medici veteritari.", "correcte": false },
+{ "id": "c", "texte": "Le merci viaggerebbero molto più rapidamente per treno.", "correcte": false },
+{ "id": "d", "texte": "Le persone smetterebbero di usare la scrittura tradizionale.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b017",
+"titre": "Le relazioni tra le generazioni",
+"titre2": "Esercizio b017",
+"texte": [
+"Il divario generazionale rappresenta da sempre un terreno di scontro, ma oggi sembra essersi accentuato a causa della rapidissima evoluzione tecnologica. I giovani, nati nell'era digitale, possiedono competenze intuitive che spesso mancano agli anziani. Questo crea talvolta una barriera invisibile, dove i primi considerano i secondi superati, mentre gli adulti vedono i ragazzi come superficiali e perennemente distratti.",
+"Tuttavia, sarebbe un grave errore pensare che queste due realtà non abbiano nulla da dirsi. I nonni e gli anziani in generale custodiscono una memoria storica e un'esperienza di vita che nessuna intelligenza artificiale o motore di ricerca potrà mai sostituire. La saggezza accumulata attraverso le difficoltà del passato è un patrimonio inestimabile per le nuove generazioni, che spesso mancano di punti di riferimento stabili.",
+"Un dialogo costruttivo tra giovani e anziani creerebbe una società più equilibrata. Immaginiamo progetti in cui i ragazzi insegnino l'uso del computer ai pensionati e questi ultimi ricambino raccontando la storia locale o insegnando antichi mestieri. Se unissimo l'energia innovativa della giovinezza con la prudenza riflessiva della vecchiaia, risolveremmo molti dei problemi sociali che affliggono la nostra comunità contemporanea."
+],
+"audios": [
+{ "id": "audio-it-read-b1-017-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-017-01",
+"question": "Quale fattore ha accentuato il divario tra le generazioni ai giorni nostri?",
+"reponses": [
+{ "id": "a", "texte": "La crisi economica globale e la mancanza di lavoro.", "correcte": false },
+{ "id": "b", "texte": "La rapidissima evoluzione della tecnologia digitale.", "correcte": true },
+{ "id": "c", "texte": "Il cambiamento climatico che influenza le abitudini.", "correcte": false },
+{ "id": "d", "texte": "La riforma del sistema scolastico e universitario.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-017-02",
+"question": "Come considerano talvolta i giovani le persone anziane secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "Come modelli assoluti da seguire in ogni decisione.", "correcte": false },
+{ "id": "b", "texte": "Come persone superate dall'evoluzione dei tempi.", "correcte": true },
+{ "id": "c", "texte": "Come esperti insostituibili di informatica moderna.", "correcte": false },
+{ "id": "d", "texte": "Come alleati politici nelle battaglie sociali.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-017-03",
+"question": "Quale critica muovono spesso gli adulti nei confronti dei ragazzi?",
+"reponses": [
+{ "id": "a", "texte": "Li vedono come superficiali e perennemente distratti.", "correcte": true },
+{ "id": "b", "texte": "Accusano i giovani di spendere troppo tempo a leggere libri.", "correcte": false },
+{ "id": "c", "texte": "Rimproverano loro una mancanza di esercizio fisico all'aperto.", "correcte": false },
+{ "id": "d", "texte": "Pensano che rifiutino di viaggiare all'estero.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-017-04",
+"question": "Cosa possiedono gli anziani che nessun motore di ricerca può sostituire?",
+"reponses": [
+{ "id": "a", "texte": "Una quantità infinita di dati numerici aggiornati.", "correcte": false },
+{ "id": "b", "texte": "La memoria storica e un'autentica esperienza di vita.", "correcte": true },
+{ "id": "c", "texte": "I brevetti industriali delle macchine moderne.", "correcte": false },
+{ "id": "d", "texte": "La capacità di programmare in codici complessi.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-017-05",
+"question": "Quale esempio di collaborazione viene proposto nel testo?",
+"reponses": [
+{ "id": "a", "texte": "Lavorare insieme nelle fabbriche di automobili della città.", "correcte": false },
+{ "id": "b", "texte": "I ragazzi insegnano l'informatica e gli anziani gli antichi mestieri.", "correcte": true },
+{ "id": "c", "texte": "Organizzare gare sportive miste tra scuole e centri anziani.", "correcte": false },
+{ "id": "d", "texte": "Vivere tutti insieme in grandi case comunali in campagna.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-017-06",
+"question": "Cosa manca spesso alle nuove generazioni secondo l'autore?",
+"reponses": [
+{ "id": "a", "texte": "La possibilità di accedere a scuole di qualità.", "correcte": false },
+{ "id": "b", "texte": "Punti di riferimento stabili e sicuri per il futuro.", "correcte": true },
+{ "id": "c", "texte": "I soldi per comprare strumenti musicali moderni.", "correcte": false },
+{ "id": "d", "texte": "Il tempo libero per fare vacanze estive lunghe.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-017-07",
+"question": "Quale sarebbe il risultato dell'unione tra giovinezza e vecchiaia?",
+"reponses": [
+{ "id": "a", "texte": "Risolveremmo molti dei problemi sociali contemporanei.", "correcte": true },
+{ "id": "b", "texte": "Aumenterebbe la produzione industriale del paese.", "correcte": false },
+{ "id": "c", "texte": "Il sistema pensionistico crollerebbe immediatamente.", "correcte": false },
+{ "id": "d", "texte": "La tecnologia digitale smetterebbe di evolversi.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b018",
+"titre": "Aiutare un amico che sta attraversando un periodo difficile",
+"titre2": "Esercizio b018",
+"texte": [
+"- Ciao Sofia, sono davvero preoccupato per Luca. Da quando ha perso il lavoro un mese fa, si è chiuso in casa e non risponde più alle mie chiamate. Non so proprio cosa fare per aiutarlo.",
+"- È una situazione delicata, Tommaso. Quando si attraversa una crisi profonda, la tendenza all'isolamento è purtroppo molto comune. Spesso ci si vergogna della propria condizione e si teme il giudizio degli altri, anche degli amici più cari.",
+"- Capisco, ma lasciarlo solo mi sembra la scelta peggiore. Se andassi a bussare direttamente alla sua porta senza preavviso? Ho paura di risultare troppo invadente o di peggiorare le cose.",
+"- Penso che un tentativo vada fatto, ma con molta dolcezza. Invece di tempestarlo di domande sulla sua situazione lavorativa, potresti semplicemente dirgli che ti manca la sua compagnia e proporgli una breve passeggiata al parco.",
+"- Questa mi sembra un'ottima idea. Se si sentisse accolto senza l'obbligo di doversi giustificare, forse accetterebbe di uscire. È importante che capisca che il nostro affetto non dipende dai suoi successi professionali.",
+"- Esatto. La presenza silenziosa e costante vale molto più di mille consigli teorici. Ricordati che non devi risolvere i suoi problemi da solo, ma solo fargli capire che non è abbandonato.",
+"- Grazie Sofia, i tuoi consigli sono sempre preziosi. Domani pomeriggio andrò a trovarlo e cercherò di essere l'amico di cui ha bisogno in questo momento."
+],
+"audios": [
+{ "id": "audio-it-read-b1-018-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-018-01",
+"question": "Quale evento ha scatenato il periodo difficile di Luca?",
+"reponses": [
+{ "id": "a", "texte": "La fine di una lunga relazione sentimentale.", "correcte": false },
+{ "id": "b", "texte": "La perdita del suo posto di lavoro un mese fa.", "correcte": true },
+{ "id": "c", "texte": "Un grave incidente stradale durante un viaggio.", "correcte": false },
+{ "id": "d", "texte": "Il fallimento di un esame universitario importante.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-018-02",
+"question": "Come reagisce Luca alla sua attuale situazione di crisi?",
+"reponses": [
+{ "id": "a", "texte": "Chiede aiuto economico a tutti i suoi parenti.", "correcte": false },
+{ "id": "b", "texte": "Si isola in casa rifiutando di rispondere alle chiamate.", "correcte": true },
+{ "id": "c", "texte": "Organizza grandi feste per dimenticare i problemi.", "correcte": false },
+{ "id": "d", "texte": "Decide di trasferirsi immediatamente all'estero.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-018-03",
+"question": "Secondo Sofia, perché le persone in crisi tendono a isolarsi?",
+"reponses": [
+{ "id": "a", "texte": "Perché preferiscono spendere il tempo sui social network.", "correcte": false },
+{ "id": "b", "texte": "Perché provano vergogna e temono il giudizio altrui.", "correcte": true },
+{ "id": "c", "texte": "Perché i medici consigliano il riposo assoluto a letto.", "correcte": false },
+{ "id": "d", "texte": "Perché odiano sinceramente i loro vecchi amici.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-018-04",
+"question": "Quale timore esprime Tommaso riguardo all'andare a casa di Luca?",
+"reponses": [
+{ "id": "a", "texte": "Teme di spendere troppi soldi per il viaggio in treno.", "correcte": false },
+{ "id": "b", "texte": "Ha paura di risultare troppo invadente o peggiorare le cose.", "correcte": true },
+{ "id": "c", "texte": "Pensa che i vicini di casa possano chiamare la polizia.", "correcte": false },
+{ "id": "d", "texte": "Crede che Luca abbia cambiato indirizzo senza dirlo.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-018-05",
+"question": "Quale approccio consiglia Sofia per l'incontro con Luca?",
+"reponses": [
+{ "id": "a", "texte": "Fare molte domande specifiche sulla disoccupazione.", "correcte": false },
+{ "id": "b", "texte": "Evitare i temi dolorosi ed invitarlo a una semplice passeggiata.", "correcte": true },
+{ "id": "c", "texte": "Portargli moduli per fare domande di lavoro in banca.", "correcte": false },
+{ "id": "d", "texte": "Chiedere ai genitori di Luca di costringerlo a uscire.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-018-06",
+"question": "Cosa conta più di mille consigli teorici secondo Sofia?",
+"reponses": [
+{ "id": "a", "texte": "Un aiuto economico concreto in denaro contante.", "correcte": false },
+{ "id": "b", "texte": "La presenza silenziosa e costante di un amico.", "correcte": true },
+{ "id": "c", "texte": "L'invio quotidiano di email con offerte di impiego.", "correcte": false },
+{ "id": "d", "texte": "Una lettera formale scritta da uno psicologo professionista.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-018-07",
+"question": "Qual è il compito principale di Tommaso secondo il dialogo?",
+"reponses": [
+{ "id": "a", "texte": "Trovare un nuovo lavoro a Luca entro la fine del mese.", "correcte": false },
+{ "id": "b", "texte": "Far capire a Luca che non è stato abbandonato.", "correcte": true },
+{ "id": "c", "texte": "Prestargli la propria macchina per fare colloqui.", "correcte": false },
+{ "id": "d", "texte": "Convincerlo a iscriversi nuovamente all'università.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b019",
+"titre": "Il ruolo dei nonni nella famiglia",
+"titre2": "Esercizio b019",
+"texte": [
+"Nelle famiglie moderne, caratterizzate spesso dalla necessità per entrambi i genitori di lavorare a tempo pieno, la figura dei nonni è diventata un pilastro fondamentale del sistema sociale. Senza il loro aiuto quotidiano, la gestione dei figli piccoli risulterebbe un'impresa quasi impossibile o incredibilmente costosa per molti bilanci familiari. Essi non sono semplicemente dei babysitter gratuiti, ma rappresentano una fonte insostituibile di affetto stabile e sicuro.",
+"Dal punto di vista educativo, i nonni offrono una prospettiva diversa rispetto a quella dei genitori. Essendo liberi dall'ansia immediata della disciplina quotidiana, possono permettersi di essere più indulgenti, creando un porto sicuro dove i nipoti si sentono protetti e ascoltati. Se i genitori fossero meno rigidi nell'accettare piccoli strappi alle regole concessi dai nonni, l'atmosfera familiare generale ne beneficerebbe grandemente.",
+"Inoltre, i nonni svolgono il ruolo cruciale di custodi delle tradizioni familiari e della memoria storica. Attraverso i loro racconti sul passato, i bambini imparano da dove vengono e sviluppano un senso di identità profondo che li aiuterà a crescere più sicuri di sé. È fondamentale che la società riconosca questo valore e non consideri gli anziani come un peso, bensì come la risorsa più preziosa della comunità."
+],
+"audios": [
+{ "id": "audio-it-read-b1-019-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-019-01",
+"question": "Perché la figura dei nonni è diventata fondamentale oggi?",
+"reponses": [
+{ "id": "a", "texte": "Perché possiedono le case più grandi della città.", "correcte": false },
+{ "id": "b", "texte": "Perché entrambi i genitori spesso lavorano a tempo pieno.", "correcte": true },
+{ "id": "c", "texte": "Perché finanziano interamente gli studi dei nipoti.", "correcte": false },
+{ "id": "d", "texte": "Perché insegnano lo sport a livello agonistico.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-019-02",
+"question": "Quale errore interpretativo sul ruolo dei nonni viene criticato?",
+"reponses": [
+{ "id": "a", "texte": "Considerarli unicamente come dei babysitter gratuiti.", "correcte": true },
+{ "id": "b", "texte": "Pensare che siano troppo severi con i bambini piccoli.", "correcte": false },
+{ "id": "c", "texte": "Credere che spendano troppo tempo a guardare la TV.", "correcte": false },
+{ "id": "d", "texte": "Accusarli di non conoscere la lingua italiana moderna.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-019-03",
+"question": "Cosa permette ai nonni di essere più indulgenti rispetto ai genitori?",
+"reponses": [
+{ "id": "a", "texte": "Il fatto di avere più denaro a disposizione sul conto.", "correcte": false },
+{ "id": "b", "texte": "Il fatto di essere liberi dall'ansia della disciplina quotidiana.", "correcte": true },
+{ "id": "c", "texte": "La mancanza di interesse per il futuro dei bambini.", "correcte": false },
+{ "id": "d", "texte": "Il consiglio esplicito dei medici e degli psicologi.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-019-04",
+"question": "Quale invito viene rivolto ai genitori nel secondo paragrafo?",
+"reponses": [
+{ "id": "a", "texte": "Aumentare le ore di punizione per i figli disubbidienti.", "correcte": false },
+{ "id": "b", "texte": "Essere meno rigidi verso le piccole concessioni dei nonni.", "correcte": true },
+{ "id": "c", "texte": "Smettere di lavorare per occuparsi dei bambini a casa.", "correcte": false },
+{ "id": "d", "texte": "Pagare uno stipendio mensile fisso ai nonni anziani.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-019-05",
+"question": "Quale funzione storica e identitaria svolgono i nonni?",
+"reponses": [
+{ "id": "a", "texte": "Scrivono enciclopedie storiche per le scuole superiori.", "correcte": false },
+{ "id": "b", "texte": "Sono custodi delle tradizioni e della memoria familiare.", "correcte": true },
+{ "id": "c", "texte": "Conservano i documenti legali e contratti della casa.", "correcte": false },
+{ "id": "d", "texte": "Insegnano la geografia delle nazioni straniere.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-019-06",
+"question": "Cosa imparano i bambini attraverso i racconti dei nonni?",
+"reponses": [
+{ "id": "a", "texte": "Imparano da dove vengono sviluppando l'identità.", "correcte": true },
+{ "id": "b", "texte": "Imparano a usare i programmi informatici più complessi.", "correcte": false },
+{ "id": "c", "texte": "Sviluppano tecniche per evitare di fare i compiti.", "correcte": false },
+{ "id": "d", "texte": "Scoprono i segreti per vincere i giochi elettronici.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-019-07",
+"question": "Come dovrebbe considerare la società le persone anziane?",
+"reponses": [
+{ "id": "a", "texte": "Come un peso economico inevitabile per lo Stato.", "correcte": false },
+{ "id": "b", "texte": "Come la risorsa più preziosa della comunità intera.", "correcte": true },
+{ "id": "c", "texte": "Come cittadini che non devono interferire nell'educazione.", "correcte": false },
+{ "id": "d", "texte": "Come consumatori ideali per i prodotti tecnologici.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b020",
+"titre": "Organizzare una riunione familiare indimenticabile",
+"titre2": "Esercizio b020",
+"texte": [
+"- Cari zii e cugini, vi ringrazio di essere venuti. Ho voluto organizzare questa riunione familiare affinché potessimo finalmente ritrovarci tutti insieme dopo tanti anni di lontananza.",
+"- È un'iniziativa splendida, Chiara. Purtroppo, vivendo in città diverse, finiamo per sentirci solo per i messaggi di auguri a Natale, il che è davvero un peccato.",
+"- Esatto. Per rendere questa giornata indimenticabile, ho pensato che sarebbe stato bello creare un grande album fotografico comune. Ho chiesto a ognuno di portare tre vecchie foto significative.",
+"- Che bell'idea! Io ho portato le immagini del matrimonio dei nonni del millenovecentosessanta. Molti dei cugini più giovani non hanno mai visto quelle foto d'epoca.",
+"- Perfetto. Inoltre, se il tempo rimanesse bello, più tardi faremo un grande pranzo in giardino e poi un gioco a premi con domande sulla storia della nostra famiglia.",
+"- Sarà divertentissimo. Se avessimo organizzato un evento simile prima, avremmo evitato che molti legami si indebolissero nel corso degli anni.",
+"- L'importante è essere qui oggi. Spero che questa riunione diventi una tradizione fissa da ripetere ogni estate per mantenere viva la nostra unione."
+],
+"audios": [
+{ "id": "audio-it-read-b1-020-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-020-01",
+"question": "Qual è lo scopo principale della riunione organizzata da Chiara?",
+"reponses": [
+{ "id": "a", "texte": "Festeggiare il compleanno del cugino minore.", "correcte": false },
+{ "id": "b", "texte": "Ritrovarsi tutti insieme dopo molti anni di lontananza.", "correcte": true },
+{ "id": "c", "texte": "Vendere una vecchia casa ereditata dai nonni.", "correcte": false },
+{ "id": "d", "texte": "Presentare al pubblico un nuovo progetto di lavoro.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-020-02",
+"question": "Quale abitudine comunicativa legata alle feste viene criticata?",
+"reponses": [
+{ "id": "a", "texte": "Scriversi lunghe lettere scritte a mano con la penna.", "correcte": false },
+{ "id": "b", "texte": "Sentirsi solo tramite messaggi di auguri a Natale.", "correcte": true },
+{ "id": "c", "texte": "Telefonare ogni singola domenica sera per ore.", "correcte": false },
+{ "id": "d", "texte": "Inviare regali costosi per posta aerea internazionale.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-020-03",
+"question": "Quale attività speciale ha ideato Chiara per la giornata?",
+"reponses": [
+{ "id": "a", "texte": "Un concerto di musica rock suonata dai cugini.", "correcte": false },
+{ "id": "b", "texte": "La creazione di un grande album fotografico comune.", "correcte": true },
+{ "id": "c", "texte": "Un viaggio in autobus nei luoghi d'infanzia.", "correcte": false },
+{ "id": "d", "texte": "Un corso accelerato di cucina tradizionale italiana.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-020-04",
+"question": "Quali foto specifiche ha portato l'interlocutore all'evento?",
+"reponses": [
+{ "id": "a", "texte": "Le immagini delle ultime vacanze estive al mare.", "correcte": false },
+{ "id": "b", "texte": "Le foto del matrimonio dei nonni del millenovecentosessanta.", "correcte": true },
+{ "id": "c", "texte": "I ritratti scolastici dei cugini appena nati.", "correcte": false },
+{ "id": "d", "texte": "Le fotografie della vecchia fabbrica della città.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-020-05",
+"question": "Dove si svolgerà il pranzo se le condizioni meteo restano favorevoli?",
+"reponses": [
+{ "id": "a", "texte": "Nel ristorante più lussuoso del centro storico.", "correcte": false },
+{ "id": "b", "texte": "In giardino all'aperto godendosi il sole.", "correcte": true },
+{ "id": "c", "texte": "Nella sala conferenze dell'albergo locale.", "correcte": false },
+{ "id": "d", "texte": "A casa della zia più anziana in campagna.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-020-06",
+"question": "In che cosa consiste il gioco a premi pianificato da Chiara?",
+"reponses": [
+{ "id": "a", "texte": "In una corsa podistica intorno al quartiere.", "correcte": false },
+{ "id": "b", "texte": "In domande basate interamente sulla storia familiare.", "correcte": true },
+{ "id": "c", "texte": "In un torneo di scacchi e giochi di carte vecchi.", "correcte": false },
+{ "id": "d", "texte": "In una gara di canto lirico per bambini piccoli.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-020-07",
+"question": "Quale auspicio esprime Chiara per il futuro di questa iniziativa?",
+"reponses": [
+{ "id": "a", "texte": "Spera di poter vendere le foto online per beneficenza.", "correcte": false },
+{ "id": "b", "texte": "Desidera che diventi una tradizione fissa ogni estate.", "correcte": true },
+{ "id": "c", "texte": "Pensa di organizzare il prossimo incontro all'estero.", "correcte": false },
+{ "id": "d", "texte": "Vuole invitare anche i vicini di casa e i colleghi.", "correcte": false }
+]
+}
+]
 }
 ]
