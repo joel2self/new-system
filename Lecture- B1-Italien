@@ -2130,13 +2130,9 @@
     "titre": "Come scegliere la propria futura professione?",
     "titre2": "Esercizio b033",
     "texte": [
-      "- Ciao Simone, hai già deciso a quale facoltà universitaria iscriverti l'anno prossimo? Io mi sento completamente smarrita di fronte a così tante opzioni disponibili.",
-      "- Ti capisco, Chiara. Scegliere il proprio percorso lavorativo è una decisione difficilissima. Molti ragazzi seguono esclusivamente i consigli dei genitori o le tendenze del mercato, finendo poi per svolgere un lavoro che odiano.",
-      "- Esatto, io vorrei evitare questo errore. Secondo te, conviene dare la priorità alle proprie passioni personali oppure alle reali possibilità di guadagno economico futuro?",
-      "- L'ideale sarebbe trovare un punto di incontro. Se tu scegliessi una professione solo per i soldi, probabilmente saresti infelice. D'altro canto, se seguissi una passione che non offre sbocchi occupazionali, rischieresti la disoccupazione.",
-      "- Forse dovrei fare un elenco dei miei punti di forza e delle materie in cui vado meglio a scuola. Ad esempio, mi piace molto comunicare con le persone e scrivere testi informativi.",
-      "- Questa è un'ottima strategia di partenza! Potresti orientarti verso il giornalismo o il marketing digitale. Ti consiglio anche di parlare con professionisti che già svolgono questi mestieri per capire com'è la loro routine quotidiana.",
-      "- Hai ragione. Se facessi degli stage formativi durante l'estate, capirei meglio la realtà dei fatti. Grazie mille per il prezioso confronto!"
+      "La scelta della futura professione costituisce uno dei momenti più delicati e determinanti nella vita di un giovane studente. Spesso i ragazzi si sentono schiacciati dalle aspettative della famiglia o dalle mode passeggere del mercato economico. Se un giovane scegliesse un percorso universitario basandosi esclusivamente sul potenziale guadagno in denaro, rischierebbe di svolgere un lavoro frustrante per il resto della vita.",
+      "Il primo passo fondamentale per prendere una decisione consapevole risiede nell'autoanalisi. È necessario che ognuno riconosca i propri talenti naturali, le passioni personali e i valori etici in cui crede profondamente. Chi ama il contatto umano e la solidarietà sociale si sentirebbe probabilmente infelice se rimanesse chiuso per otto ore al giorno all'interno di un ufficio isolato a gestire unicamente dati numerici e computer.",
+      "In secondo luogo, occorre informarsi concretamente sulla realtà dei diversi settori lavorativi. Parlare con professionisti già esperti, frequentare le giornate di orientamento organizzate dalle università e svolgere brevi tirocini rappresentano strategie eccellenti. Solo unendo la conoscenza profonda di se stessi con un'analisi realistica del mondo esterno si può individuare la strada ideale per costruire una carriera soddisfacente e duratura."
     ],
     "audios": [
       { "id": "audio-it-read-b1-033-1", "url": "soundcloud.com" }
@@ -2144,25 +2140,77 @@
     "questions": [
       {
         "id": "q-it-read-b1-033-01",
-        "question": "Quale stato d'animo sperimenta Chiara all'inizio della conversazione?",
+        "question": "Quale fattore esterno rischia di schiacciare i giovani durante la scelta professionale?",
         "reponses": [
-          { "id": "a", "texte": "Si sente totalmente confusa a causa delle troppe opzioni.", "correcte": true },
-          { "id": "b", "texte": "È entusiasta per aver trovato un impiego ben retribuito.", "correcte": false },
-          { "id": "c", "texte": "Si mostra arrabbiata per un brutto voto preso a scuola.", "correcte": false },
-          { "id": "d", "texte": "È triste perché deve trasferirsi in un'altra nazione.", "correcte": false }
+          { "id": "a", "texte": "Le aspettative della famiglia e le mode passeggere del mercato.", "correcte": true },
+          { "id": "b", "texte": "Il costo eccessivo dei libri di testo stampati in Italia.", "correcte": false },
+          { "id": "c", "texte": "La mancanza di mezzi di trasporto pubblici verso le scuole.", "correcte": false },
+          { "id": "d", "texte": "Le severe riforme burocratiche approvate dal parlamento.", "correcte": false }
         ]
       },
       {
         "id": "q-it-read-b1-033-02",
-        "question": "Quale errore commettono molti giovani nella scelta della carriera?",
+        "question": "Quale pericolo corre chi seleziona un lavoro basandosi solo sul denaro?",
         "reponses": [
-          { "id": "a", "texte": "Rifiutano di consultare internet per cercare le offerte.", "correcte": false },
-          { "id": "b", "texte": "Seguono ciecamente i genitori o le mode del mercato.", "correcte": true },
-          { "id": "c", "texte": "Abbandonano gli studi prima del diploma superiore.", "correcte": false },
-          { "id": "d", "texte": "Spendono troppo denaro in corsi privati superflui.", "correcte": false }
+          { "id": "a", "texte": "Rischia di perdere rapidamente tutti i risparmi accumulati.", "correcte": false },
+          { "id": "b", "texte": "Rischia di svolgere un'attività frustrante per tutta la vita.", "correcte": true },
+          { "id": "c", "texte": "Può dimenticare le regole grammaticali della lingua madre.", "correcte": false },
+          { "id": "d", "texte": "Viene escluso automaticamente dai concorsi pubblici comunali.", "correcte": false }
         ]
       },
       {
+        "id": "q-it-read-b1-033-03",
+        "question": "In che cosa consiste il primo passo per una scelta consapevole?",
+        "reponses": [
+          { "id": "a", "texte": "Nel trasferirsi immediatamente in una grande città estera.", "correcte": false },
+          { "id": "b", "texte": "Nel chiedere un prestito economico alle banche locali.", "correcte": false },
+          { "id": "c", "texte": "Nel fare un'autoanalisi scoprendo i propri talenti e passioni.", "correcte": true },
+          { "id": "d", "texte": "Nel comprare un computer portatile ad alta tecnologia.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-033-04",
+        "question": "Come si sentirebbe in un ufficio isolato chi ama la solidarietà sociale?",
+        "reponses": [
+          { "id": "a", "texte": "Molto felice perché potrebbe concentrarsi sui bilanci economici.", "correcte": false },
+          { "id": "b", "texte": "Entusiasta di poter imparare l'uso di software matematici.", "correcte": false },
+          { "id": "c", "texte": "Indifferente, considerando il lavoro come un puro dovere formale.", "correcte": false },
+          { "id": "d", "texte": "Probabilmente infelice a causa della gestione di soli dati.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-033-05",
+        "question": "Quale attività viene consigliata per conoscere la realtà del lavoro?",
+        "reponses": [
+          { "id": "a", "texte": "Parlare con esperti e frequentare giornate di orientamento.", "correcte": true },
+          { "id": "b", "texte": "Leggere romanzi d'avventura ambientati nel secolo scorso.", "correcte": false },
+          { "id": "c", "texte": "Scrivere articoli di protesta sui social network online.", "correcte": false },
+          { "id": "d", "texte": "Evitare qualunque contatto con il mondo esterno fino alla laurea.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-033-06",
+        "question": "Quale altra strategia pratica viene citata per fare esperienza reale?",
+        "reponses": [
+          { "id": "a", "texte": "Organizzare manifestazioni studentesche in piazza.", "correcte": false },
+          { "id": "b", "texte": "Lo svolgimento di brevi tirocini nei settori di interesse.", "correcte": true },
+          { "id": "c", "texte": "Aumentare le ore dedicate al sonno notturno pomeridiano.", "correcte": false },
+          { "id": "d", "texte": "Pagare agenzie private per superare gli esami scritti.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-033-07",
+        "question": "Quali elementi occorre unire per individuare la propria strada ideale?",
+        "reponses": [
+          { "id": "a", "texte": "L'aiuto economico dei parenti con la fortuna personale.", "correcte": false },
+          { "id": "b", "texte": "Le vecchie tradizioni storiche con le tecnologie digitali.", "correcte": false },
+          { "id": "c", "texte": "La conoscenza di sé con un'analisi realistica del mondo esteriore.", "correcte": true },
+          { "id": "d", "texte": "I voti alti della scuola con le richieste delle grandi aziende.", "correcte": false }
+        ]
+      }
+    ]
+  },
+{
     "id": "b034",
     "titre": "I vantaggi e gli svantaggi del lavoro di squadra",
     "titre2": "Esercizio b034",
