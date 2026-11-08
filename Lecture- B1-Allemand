@@ -5513,5 +5513,868 @@
 ]
 }
 ]
+},
+{
+    "id": "b081",
+    "titre": "Warum sind Bücher auch heute noch wichtig?",
+    "titre2": "Übung b081",
+    "texte": [
+      "In unserer heutigen, rasanten Informationsgesellschaft, die primär von kurzen Textnachrichten, audiovisuellen Medien und Algorithmen sozialer Netzwerke dominiert wird, hinterfragen viele Menschen die Relevanz des klassischen Buches. Es scheint auf den ersten Blick, als ob das gedruckte Wort ein Relikt einer vergangenen Epoche wäre, das im Alltag gestresster Studenten kaum noch Platz finde. Diese oberflächliche Betrachtungsweise übersieht jedoch die fundamentale, kognitive Funktion des vertieften Lesens, welches eine unersetzliche Säule für die intellektuelle Reifung und die Entfaltung eines kritischen Geistes darstellt.",
+      "Das Lesen eines anspruchsvollen Buches fordert unser Gehirn auf einer völlig anderen Ebene als der Konsum digitaler Häppchenmedien. Es zwingt den Geist dazu, komplexe Argumentationsketten über lange Strecken zu verfolgen, was die Konzentrationsfähigkeit und die analytische Kompetenz nachweislich stärkt. Darüber hinaus erweitert das literarische Lesen unseren Wortschatz ungemein und verfeinert die schriftliche Ausdrucksweise. Würde die Gesellschaft das Buch komplett aus ihrem Alltag verbannen, so riskierte sie eine kollektive Verflachung des Textverständnisses und eine dramatische Schwächung der allgemeinen Empathiefähigkeit.",
+      "Durch Romane versetzen wir uns in fremde Charaktere und kulturhistorische Lebenswelten, was die emotionale Intelligenz schärft. Viele Verleger klagen über sinkende Verkaufszahlen und die Konkurrenz durch Streamingdienste, doch Kulturwissenschaftler betonen unermüdlich den inhärenten Wert der literarischen Bildung. Hätten die Bildungsinstitutionen das freie Lesen früher intensiver gefördert, stünden wir heute sicherlich nicht vor einer so ausgeprägten Krise der jugendlichen Aufmerksamkeitsspanne. Ein Buch zu lesen ist folglich kein passiver Zeitvertreib, sondern ein aktiver Schutzschild für den menschlichen Verstand."
+    ],
+    "audios": [
+      { "id": "audio-de-read-b1-b081-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b1-b081-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-b1-b081-01",
+        "question": "Welches Vorurteil über Bücher wird im ersten Absatz direkt angesprochen?",
+        "reponses": [
+          { "id": "a", "texte": "Sie seien finanziell viel zu teuer für junge Leute.", "correcte": false },
+          { "id": "b", "texte": "Sie seien ein veraltetes Relikt einer vergangenen Epoche.", "correcte": true },
+          { "id": "c", "texte": "Sie enthielten ausschließlich falsche Informationen.", "correcte": false },
+          { "id": "d", "texte": "Sie würden die Entfaltung des Geistes komplett blockieren.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b081-02",
+        "question": "Welche kognitive Fähigkeit wird durch das Lesen langer Bücher primär gestärkt?",
+        "reponses": [
+          { "id": "a", "texte": "Die Fähigkeit, mathematische Formeln blind zu kopieren.", "correcte": false },
+          { "id": "b", "texte": "Das Verfolgen komplexer Argumentationsketten und Konzentration.", "correcte": true },
+          { "id": "c", "texte": "Die rein physische Schnelligkeit beim Tippen auf Tastaturen.", "correcte": false },
+          { "id": "d", "texte": "Das visuelle Gedächtnis für computergenerierte Bilder.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b081-03",
+        "question": "Was würde laut dem Text passieren, wenn die Gesellschaft Bücher komplett verbannte?",
+        "reponses": [
+          { "id": "a", "texte": "Die Menschen würden im Alltag viel weniger Stress empfinden.", "correcte": false },
+          { "id": "b", "texte": "Es drohte eine Verflachung des Textverständnisses und der Empathie.", "correcte": true },
+          { "id": "c", "texte": "Die Verkaufszahlen der Verleger würden rasant ansteigen.", "correcte": false },
+          { "id": "d", "texte": "Die sozialen Netzwerke verlören ihre manipulative Wirkung.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b081-04",
+        "question": "Worüber klagen viele Verleger in der heutigen Zeit?",
+        "reponses": [
+          { "id": "a", "texte": "Über einen akuten Mangel an qualifizierten Autoren.", "correcte": false },
+          { "id": "b", "texte": "Über sinkende Verkaufszahlen und Konkurrenz durch Streaming.", "correcte": true },
+          { "id": "c", "texte": "Über die extrem hohen Steuern auf Papierprodukte.", "correcte": false },
+          { "id": "d", "texte": "Über das Desinteresse der wissenschaftlichen Bibliotheken.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b081-05",
+        "question": "Was wäre laut dem Text der Fall, wenn Schulen das Lesen früher intensiver gefördert hätten?",
+        "reponses": [
+          { "id": "a", "texte": "Wir stünden heute nicht vor einer Krise der Aufmerksamkeitsspanne.", "correcte": true },
+          { "id": "b", "texte": "Jugendliche würden Smartphones überhaupt nicht mehr nutzen.", "correcte": false },
+          { "id": "c", "texte": "Die Universitäten bräuchten keine schriftlichen Prüfungen mehr.", "correcte": false },
+          { "id": "d", "texte": "Der ökonomische Wert der Bildung wäre komplett eingebrochen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b081-06",
+        "question": "Was lässt sich aus dem Begriff 'Häppchenmedien' implizit schließen?",
+        "reponses": [
+          { "id": "a", "texte": "Es handelt sich um informative Kochsendungen im Fernsehen.", "correcte": false },
+          { "id": "b", "texte": "Es sind kurze, oberflächliche digitale Inhalte gemeint.", "correcte": true },
+          { "id": "c", "texte": "Diese Medien fördern das logische Denken von Senioren.", "correcte": false },
+          { "id": "d", "texte": "Sie sind für die wissenschaftliche Forschung unersetzbar.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b081-07",
+        "question": "Welche Metapher nutzt der Autor ganz am Ende für das Buch?",
+        "reponses": [
+          { "id": "a", "texte": "Ein unbedeutendes Zahnrad in einem alten Uhrwerk.", "correcte": false },
+          { "id": "b", "texte": "Ein aktiver Schutzschild für den menschlichen Verstand.", "correcte": true },
+          { "id": "c", "texte": "Eine idyllische Oase inmitten der Großstadthektik.", "correcte": false },
+          { "id": "d", "texte": "Ein technologisches Werkzeug zur Datenoptimierung.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b082",
+    "titre": "Musik als Mittel des kulturellen Ausdrucks",
+    "titre2": "Übung b082",
+    "texte": [
+      "Die Musik existiert in absolut jeder menschlichen Gemeinschaft und repräsentiert eines der kraftvollsten Medien des emotionalen und kulturellen Ausdrucks. Sie ist keineswegs als eine bloße Aneinanderreihung harmonischer Töne zu betrachten, sondern sie spiegelt die historische Identität, die gesellschaftlichen Konflikte und die Seele eines Volkes wider. Durch traditionelle Rhythmen und Melodien transportieren Gesellschaften ihre Werte und Geschichten über viele Generationen hinweg, wodurch eine Brücke zwischen Vergangenheit und Gegenwart geschlagen wird.",
+      "In einer zunehmend globalisierten Welt fungiert die Musik zudem als eine universelle Sprache, die ethnische und sprachliche Barrieren mühelos überwindet. Wenn Menschen verschiedener Herkunft gemeinsam musizieren oder ein Konzert besuchen, entsteht eine nonverbale Verbindung, die Vorurteile abbaut und Toleranz fördert. Würde man den kulturellen Musikunterricht an den Schulen komplett streichen, so entzöge man den Jugendlichen die Möglichkeit, diese transzendentale Form der Kommunikation von Grund auf zu erlernen und ihre eigene Identität kreativ zu artikulieren.",
+      "Einige Kritiker behaupten, die moderne Popmusik sei durch die kommerzielle Industrie oberflächlich geworden und habe ihren echten kulturellen Wert verloren. Musiksoziologen betonen jedoch, dass auch moderne Genres wie Hip-Hop oder Rock wichtige gesellschaftliche Protestfunktionen erfüllen. Hätten die Musiker früherer Epochen ihre politischen Sorgen nicht in Lieder verpackt, wären viele historische Bewegungen stumm geblieben. Die Musik bleibt somit ein unerschütterlicher Motor des gesellschaftlichen Wandels und ein Spiegelbild unserer kollektiven Verfassung."
+    ],
+    "audios": [
+      { "id": "audio-de-read-b1-b082-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b1-b082-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-b1-b082-01",
+        "question": "Was spiegelt Musik laut dem ersten Absatz des Textes wider?",
+        "reponses": [
+          { "id": "a", "texte": "Die rein ökonomische Leistungsfähigkeit eines Staates.", "correcte": false },
+          { "id": "b", "texte": "Die historische Identität, Konflikte und Seele eines Volkes.", "correcte": true },
+          { "id": "c", "texte": "Die neuesten technologischen Erfindungen im Internet.", "correcte": false },
+          { "id": "d", "texte": "Den Wunsch nach einer radikalen Entschleunigung im Büro.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b082-02",
+        "question": "Welche Barrieren kann Musik als universelle Sprache überwinden?",
+        "reponses": [
+          { "id": "a", "texte": "Finanzielle Hürden beim Kauf von teuren Instrumenten.", "correcte": false },
+          { "id": "b", "texte": "Ethnische und sprachliche Barrieren im Zusammenleben.", "correcte": true },
+          { "id": "c", "texte": "Die bürokratischen Vorschriften der Stadtverwaltungen.", "correcte": false },
+          { "id": "d", "texte": "Geologische Einschränkungen beim Reisen im Ausland.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b082-03",
+      "question": "Was würde passieren, wenn Schulen den Musikunterricht komplett sträichen?",
+"reponses :", [
+{ "id": "a", "texte": "Die Schüler bekämen automatisch bessere Noten in Mathe.", "correcte": false },
+{ "id": "b", "texte": "Jugendliche verlören die Chance auf diese kreative Ausdrucksform.", "correcte": true },
+{ "id": "c", "texte": "Die Streamingdienste würden im Netz komplett kostenlos werden.", "correcte": false },
+{ "id": "d", "texte": "Die emotionale Erschöpfung im Alltag würde drastisch sinken.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b082-04",
+"question": "Welche Kritik wird oft an der modernen Popmusik geäußert?",
+"reponses": [
+{ "id": "a", "texte": "Sie sei viel zu laut für ältere Senioren in den Dörfern.", "correcte": false },
+{ "id": "b", "texte": "Sie sei durch die kommerzielle Industrie oberflächlich geworden.", "correcte": true },
+{ "id": "c", "texte": "Sie weigere sich, digitale Instrumente im Studio zu nutzen.", "correcte": false },
+{ "id": "d", "texte": "Die Texte seien für Fremdsprachler zu schwer verständlich.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b082-05",
+"question": "Welche Funktion erfüllen Genres wie Hip-Hop laut den Musiksoziologen?",
+"reponses": [
+{ "id": "a", "texte": "Eine rein beruhigende Wirkung auf gestresste Manager.", "correcte": false },
+{ "id": "b", "texte": "Wichtige gesellschaftliche und politische Protestfunktionen.", "correcte": true },
+{ "id": "c", "texte": "Das Erhöhen der rein körperlichen Ausdauer beim Sport.", "correcte": false },
+{ "id": "d", "texte": "Sie dienen der Dokumentation von mathematischen Daten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b082-06",
+"question": "Was wäre passiert, wenn Musiker früherer Epochen ihre Sorgen nicht in Lieder verpackt hätten?",
+"reponses": [
+{ "id": "a", "texte": "Viele historische Bewegungen wären stumm geblieben.", "correcte": true },
+{ "id": "b", "texte": "Die Regierungen hätten radikalere Gesetze beschlossen.", "correcte": false },
+{ "id": "c", "texte": "Die Traditionen wären viel schneller vergessen worden.", "correcte": false },
+{ "id": "d", "texte": "Die Instrumente wären heute deutlich teurer im Handel.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b082-07",
+"question": "Welche implizite Absicht verfolgt der Autor mit diesem Text?",
+"reponses": [
+{ "id": "a", "texte": "Er möchte den wirtschaftlichen Erfolg von Popstars maximieren.", "correcte": false },
+{ "id": "b", "texte": "Er will den tieferen, existenziellen Wert der Musik verteidigen.", "correcte": true },
+{ "id": "c", "texte": "Er plant, traditionelle Musikinstrumente komplett zu verbieten.", "correcte": false },
+{ "id": "d", "texte": "Er möchte den Sport als besseres Ausdrucksmittel darstellen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b083",
+"titre": "Festivals und ihre Bedeutung für die Gesellschaft",
+"titre2": "Übung b083",
+"texte": [
+"Kulturelle Festivals, seien es Musikfeste, Theaterwochen oder traditionelle Bräuche, nehmen seit Jahrhunderten einen festen Platz im kollektiven Zusammenleben der Menschen ein. Diese temporären Großveranstaltungen sind weit mehr als eine Gelegenheit für exzessiven Konsum und oberflächliche Unterhaltung. Sie erfüllen eine fundamentale, soziologische Integrationsfunktion, indem sie Menschen unterschiedlichster sozialer Schichten, Generationen und Herkunftsorte an einem neutralen Ort zusammenbringen und ein starkes Gefühl der Gemeinschaft stiften.",
+"In unserem oft grauen und von beruflicher Routine geprägten Alltag bieten Festivals eine temporäre Oase der rituellen Entschleunigung und der kollektiven Freude. Das gemeinsame Erleben von Kunst und Kultur setzt enorme positive Energien frei und stärkt die psychische Resilienz der Teilnehmer nachhaltig. Würde eine Gemeinde jegliche festlichen Großveranstaltungen aus ökonomischen Gründen oder bürokratischer Strenge streichen, so riskierte sie eine schleichende Entfremdung und Isolation der Bürger im urbanen Raum. Festivals sind somit lebendige Katalisatoren für den sozialen Frieden.",
+"Viele Stadtverwaltungen beklagen die temporäre Lärmbelastung und die logistischen Müllberge, die nach einem Festivalwochenende aufwendig entsorgt werden müssen. Kulturmanager betonen jedoch unermüdlich, dass der langfristige soziale Gewinn und die wirtschaftliche Belebung des lokalen Handwerks diesen organisatorischen Aufwand weit übersteigen. Wenn die politischen Entscheidungsträger den Wert dieser soziokulturellen Begegnungsräume früher begriffen, würden sie die Genehmigungsverfahren für alternative Kulturfestivals sicherlich spürbar erleichtern."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b083-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b083-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b083-01",
+"question": "Welche fundamentale Funktion erfüllen Festivals laut dem ersten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Die Erhöhung der wöchentlichen Arbeitszeit im Büro.", "correcte": false },
+{ "id": "b", "texte": "Eine soziologische Integrationsfunktion für die Gemeinschaft.", "correcte": true },
+{ "id": "c", "texte": "Das strikte Kontrollieren von privaten Daten der Bürger.", "correcte": false },
+{ "id": "d", "texte": "Die vollständige Abschaffung von traditionellen Bräuchen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b083-02",
+"question": "Als was werden Festivals im Bezug auf den grauen Alltag bezeichnet?",
+"reponses": [
+{ "id": "a", "texte": "Als eine lästige bürokratische Vorschrift des Staates.", "correcte": false },
+{ "id": "b", "texte": "Als eine temporäre Oase der rituellen Entschleunigung.", "correcte": true },
+{ "id": "c", "texte": "Als eine unproduktive Zeitverschwendung für Studenten.", "correcte": false },
+{ "id": "d", "texte": "Als ein riskanter finanzieller Trugschluss für Familien.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b083-03",
+"question": "Was riskierte eine Gemeinde, wenn sie jegliche Feste aus Geldmangel sträche?",
+"reponses": [
+{ "id": "a", "texte": "Eine drastische Steigerung der allgemeinen Luftqualität.", "correcte": false },
+{ "id": "b", "texte": "Eine schleichende Entfremdung und Isolation der Bürger.", "correcte": true },
+{ "id": "c", "texte": "Das sofortige Verschwinden von Haushaltsabfällen.", "correcte": false },
+{ "id": "d", "texte": "Einen rasanten Anstieg der akademischen Noten an Schulen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b083-04",
+"question": "Welche konkreten Beschwerden äußern Stadtverwaltungen häufig?",
+"reponses": [
+{ "id": "a", "texte": "Das komplette Fehlen von internationalen Künstlern.", "correcte": false },
+{ "id": "b", "texte": "Die temporäre Lärmbelastung und logistische Müllberge.", "correcte": true },
+{ "id": "c", "texte": "Die extrem niedrigen Preise für Eintrittskarten im Netz.", "correcte": false },
+{ "id": "d", "texte": "Den akuten Schlafmangel der zuständigen Polizisten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b083-05",
+"question": "Wer profitiert laut dem letzten Absatz wirtschaftlich von Festivals?",
+"reponses": [
+{ "id": "a", "texte": "Ausschließlich große anonyme Hotelketten im Ausland.", "correcte": false },
+{ "id": "b", "texte": "Das lokale Handwerk und die regionale Wirtschaft.", "correcte": true },
+{ "id": "c", "texte": "Die Entwickler von modernen künstlichen Intelligenzen.", "correcte": false },
+{ "id": "d", "texte": "Die Transportunternehmen für schwere Güterwagen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b083-06",
+"question": "Was würde passieren, wenn Entscheidungsträger den Wert dieser Räume früher begriffen?",
+"reponses": [
+{ "id": "a", "texte": "Sie würden Genehmigungsverfahren für alternative Feste erleichtern.", "correcte": true },
+{ "id": "b", "texte": "Sie würden die Bußgelder für Lärm drastisch erhöhen.", "correcte": false },
+{ "id": "c", "texte": "Sie würden den Konsum von Fast Food komplett verbieten.", "correcte": false },
+{ "id": "d", "texte": "Sie würden die Müllabfuhr am Wochenende privatisieren.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b083-07",
+"question": "Welche implizite Einstellung teilt der Autor bezüglich des organisatorischen Aufwands?",
+"reponses": [
+{ "id": "a", "texte": "Der Aufwand ist viel zu hoch für den geringen Nutzen.", "correcte": false },
+{ "id": "b", "texte": "Der soziale und wirtschaftliche Gewinn rechtfertigt den Aufwand.", "correcte": true },
+{ "id": "c", "texte": "Müllberge machen Feste in der Zukunft unmöglich.", "correcte": false },
+{ "id": "d", "texte": "Kulturmanager sollten die gesamte Reinigung allein bezahlen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b084",
+"titre": "Kann uns das Kino helfen, die Welt besser zu verstehen?",
+"titre2": "Übung b084",
+"texte": [
+"Das Kino ist seit seiner Erfindung ein faszinierendes Fenster zur menschlichen Existenz und eine Kunstform von enormer suggestiver Kraft. Viele Menschen betrachten den Kinobesuch primär als eine unkomplizierte Flucht aus dem Alltag, bei der man passiv Popcorn konsumiert und sich von Spezialeffekten berieseln lässt. Diese reduktionistische Sichtweise verkennt jedoch das enorme Potenzial des anspruchsvollen Films, welcher als ein intellektuelles Medium fungieren kann, das komplexe gesellschaftliche Realitäten, historische Traumata und fremde Kulturen authentisch visualisiert.",
+"Durch die visuelle Kraft der Leinwand und die emotionale Tiefe einer gut erzählten Geschichte ermöglicht das Kino den Zuschauern eine intensive Empathie. Wir weinen mit Charakteren, deren reales Leben Lichtjahre von unserem eigenen entfernt ist, und begreifen dadurch universelle menschliche Sorgen. Würde man das anspruchsvolle Programmkino komplett durch kommerzielle Blockbuster ersetzen, so verlöre die Gesellschaft ein wichtiges Instrument der kritischen Selbstreflexion. Das Kino schärft unseren Blick für das Unbekannte.",
+"Einige Kritiker bemängeln, dass Hollywood-Filme oft historische Fakten manipulieren, um die dramatische Wirkung zu maximieren. Filmwissenschaftler betonen jedoch, dass das Ziel des Kinos nicht die exakte Dokumentation, sondern das Wecken von gesellschaftlichem Bewusstsein ist. Hätten die Regisseure der Vergangenheit brisante Themen wie Rassismus oder Krieg nicht so mutig inszeniert, wären viele Vorurteile in den Köpfen der Menschen heute sicherlich noch tiefer verwurzelt. Ein guter Film entlässt uns verändert in die Realität."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b084-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b084-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b084-01",
+"question": "Welche falsche Wahrnehmung über das Kino wird im Text kritisiert?",
+"reponses": [
+{ "id": "a", "texte": "Dass Eintrittskarten im Internet viel zu billig seien.", "correcte": false },
+{ "id": "b", "texte": "Dass es primär eine unkomplizierte Flucht aus dem Alltag sei.", "correcte": true },
+{ "id": "c", "texte": "Dass Filme ausschließlich für Kinder produziert würden.", "correcte": false },
+{ "id": "d", "texte": "Die vollkommene Abwesenheit von Spezialeffekten auf der Leinwand.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b084-02",
+"question": "Was visualisiert das anspruchsvolle Kino laut dem ersten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Ausschließlich mathematische Modelle aus der Informatik.", "correcte": false },
+{ "id": "b", "texte": "Komplexe gesellschaftliche Realitäten und fremde Kulturen.", "correcte": true },
+{ "id": "c", "texte": "Die biologische Struktur von marinen Ökosystemen.", "correcte": false },
+{ "id": "d", "texte": "Den finanziellen Erfolg von großen Werbeagenturen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b084-03",
+"question": "Welche psychische Eigenschaft wird durch gute Geschichten gefördert?",
+"reponses": [
+{ "id": "a", "texte": "Eine ungesunde Steigerung der persönlichen Reizbarkeit.", "correcte": false },
+{ "id": "b", "texte": "Eine intensive Empathie für universelle menschliche Sorgen.", "correcte": true },
+{ "id": "c", "texte": "Die totale Isolation im realen alltäglichen Leben.", "correcte": false },
+{ "id": "d", "texte": "Das schnelle Auswendiglernen von Jahreszahlen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b084-04",
+"question": "Was riskierte die Gesellschaft, wenn man Programmkinos komplett ersetzte?",
+"reponses": [
+{ "id": "a", "texte": "Einen rasanten Anstieg der Lebensmittelpreise im Supermarkt.", "correcte": false },
+{ "id": "b", "texte": "Den Verlust eines wichtigen Instruments der kritischen Selbstreflexion.", "correcte": true },
+{ "id": "c", "texte": "Das automatische Verschwinden von jeglicher Filmkritik.", "correcte": false },
+{ "id": "d", "texte": "Eine physische Degeneration der Sehkraft der Jugendlichen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b084-05",
+"question": "Welche Kritik äußern manche Experten an Hollywood-Produktionen?",
+"reponses": [
+{ "id": "a", "texte": "Dass die Schauspieler überhaupt kein Deutsch sprechen können.", "correcte": false },
+{ "id": "b", "texte": "Dass sie oft historische Fakten manipulieren für die Dramatik.", "correcte": true },
+{ "id": "c", "texte": "Die viel zu kurzen Laufzeiten der gezeigten Filme.", "correcte": false },
+{ "id": "d", "texte": "Die mangelhafte Qualität der digitalen Tonspuren.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b084-06",
+"question": "Was wäre passiert, wenn Regisseure brisante Themen früher nicht mutig inszeniert hätten?",
+"reponses": [
+{ "id": "a", "texte": "Viele Vorurteile wären heute sicherlich noch tiefer verwurzelt.", "correcte": true },
+{ "id": "b", "texte": "Die Gesellschaft wäre viel schneller vorurteilsfrei geworden.", "correcte": false },
+{ "id": "c", "texte": "Die Kinokarten wären im Winter deutlich teurer geworden.", "correcte": false },
+{ "id": "d", "texte": "Es hätte überhaupt keine Auswirkungen auf die Köpfe gehabt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b084-07",
+"question": "Welche implizite Botschaft vermittelt der Text über den Kinobesuch?",
+"reponses": [
+{ "id": "a", "texte": "Ein Film sollte uns lediglich vom Alltagsstress ablenken.", "correcte": false },
+{ "id": "b", "texte": "Das Kino besitzt die Kraft, unsere Weltsicht nachhaltig zu verändern.", "correcte": true },
+{ "id": "c", "texte": "Kommerzielle Blockbuster sind lehrreicher als historische Dramen.", "correcte": false },
+{ "id": "d", "texte": "Regisseure sollten sich ausschließlich an Fakten halten.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b085",
+"titre": "Traditionelle Berufe entdecken",
+"titre2": "Übung b085",
+"texte": [
+"In unserer hochtechnisierten, von digitalen Dienstleistungen und künstlicher Intelligenz dominierten Wirtschaftswelt geraten traditionelle Handwerksberufe zunehmend in Vergessenheit. Die Mehrheit der Jugendlichen strebt heute nach akademischen Abschlüssen oder Positionen im IT-Sektor, während das traditionelle Handwerk – wie die Schreinerei, die Töpferei oder die Schmiedekunst – oft mit einem veralteten, unattraktiven Image kämpft. Ein tieferes Entdecken dieser Berufe offenbart jedoch einen unschätzbaren Wert, der weit über die bloße materielle Produktion hinausgeht.",
+"Traditionelle Berufe basieren auf jahrhundertealtem, praktischem Wissen und einer tiefen Verbundenheit mit dem verwendeten Material. Sie erfordern ein extremes Maß an Präzision, Geduld und gärtnerischer oder handwerklicher Meisterschaft, die durch keine Maschine der Welt vollständig kopiert werden kann. Würde das traditionelle Handwerk komplett aussterben, so verlöre unsere Kultur ein unersetzliches lebendiges Erbe und eine fundamentale Säule regionaler Nachhaltigkeit. Handgefertigte Produkte schonen durch ihre Langlebigkeit die Ressourcen unseres Planeten.",
+"Viele Ökonomen betonen die mangelnde Effizienz manueller Arbeit im Vergleich zur industriellen Massenfertigung. Handwerker argumentieren jedoch unermüdlich, dass die Einzigartigkeit und Qualität ihrer Werke den höheren Preis absolut rechtfertigen. Wenn die Jugend den inhärenten Wert kreativer, körperlicher Arbeit früher begriffe, würde sie die Ausbildungschancen im Handwerk sicherlich wieder bewusster wählen. Hätte man diese Traditionen nicht bewahrt, wäre unsere Alltagskultur heute um einiges ärmer."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b085-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b085-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b085-01",
+"question": "Welche Berufe drohen in der modernen Wirtschaftswelt in Vergessenheit zu geraten?",
+"reponses": [
+{ "id": "a", "texte": "Berufe im Bereich der Softwareentwicklung und künstlichen Intelligenz.", "correcte": false },
+{ "id": "b", "texte": "Traditionelle Handwerksberufe wie Schreinerei oder Töpferei.", "correcte": true },
+{ "id": "c", "texte": "Akademische Positionen an den großen Universitäten.", "correcte": false },
+{ "id": "d", "texte": "Dienstleistungen im internationalen Finanzsektor.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b085-02",
+"question": "Mit welchem Image kämpft das traditionelle Handwerk heute oft?",
+"reponses": [
+{ "id": "a", "texte": "Mit dem Image einer extrem teuren Luxusbranche für Manager.", "correcte": false },
+{ "id": "b", "texte": "Mit einem veralteten und unattraktiven Image bei Jugendlichen.", "correcte": true },
+{ "id": "c", "texte": "Mit dem Ruf, keinerlei Präzision im Alltag zu erfordern.", "correcte": false },
+{ "id": "d", "texte": "Es wird im Text als modernste Zukunftsbranche beschrieben.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b085-03",
+"question": "Worauf basieren traditionelle Handwerksberufe primär?",
+"reponses": [
+{ "id": "a", "texte": "Auf dem schnellen Programmieren von digitalen Algorithmen.", "correcte": false },
+{ "id": "b", "texte": "Auf jahrhundertealtem, praktischem Wissen und Materialverbundenheit.", "correcte": true },
+{ "id": "c", "texte": "Auf den Wünschen von anonymen ausländischen Investoren.", "correcte": false },
+{ "id": "d", "texte": "Ausschließlich auf theoretischen Vorlesungen an Schulen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b085-04",
+"question": "Was verlöre unsere Kultur, wenn das Handwerk komplett ausstürbe?",
+"reponses": [
+{ "id": "a", "texte": "Die Möglichkeit, billige Massenware im Supermarkt zu kaufen.", "correcte": false },
+{ "id": "b", "texte": "Ein unersetzliches lebendiges Erbe und eine Säule der Nachhaltigkeit.", "correcte": true },
+{ "id": "c", "texte": "Die Cybersicherheit für persönliche Daten im Internet.", "correcte": false },
+{ "id": "d", "texte": "Den Zugang zu schienengebundenem Nahverkehr in Städten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b085-05",
+"question": "Welche Kritik äußern Ökonomen an der manuellen Arbeit?",
+"reponses": [
+{ "id": "a", "texte": "Dass die Handwerker viel zu wenig Steuern an den Staat zahlen.", "correcte": false },
+{ "id": "b", "texte": "Die mangelhende wirtschaftliche Effizienz im Vergleich zur Industrie.", "correcte": true },
+{ "id": "c", "texte": "Dass handgefertigte Produkte viel zu schnell kaputtgehen.", "correcte": false },
+{ "id": "d", "texte": "Die unhöfliche Kommunikation der Meister mit den Kunden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b085-06",
+"question": "Was wäre der Fall, wenn man diese Traditionen in der Vergangenheit nicht bewahrt hätte?",
+"reponses": [
+{ "id": "a", "texte": "Unsere heutige Alltagskultur wäre um einiges ärmer.", "correcte": true },
+{ "id": "b", "texte": "Die Volkswirtschaft wäre deutlich produktiver und stabiler.", "correcte": false },
+{ "id": "c", "texte": "Jugendliche hätten keine Probleme mit der Aufmerksamkeitsspanne.", "correcte": false },
+{ "id": "d", "texte": "Die Entwaldung der Planeten wäre komplett gestoppt worden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b085-07",
+"question": "Welche implizite Botschaft richtet der Text an die junge Generation?",
+"reponses": [
+{ "id": "a", "texte": "Sie sollte akademische Abschlüsse unter allen Umständen meiden.", "correcte": false },
+{ "id": "b", "texte": "Handwerk bietet wertvolle, erfüllende und nachhaltige Lebenswege.", "correcte": true },
+{ "id": "c", "texte": "Maschinen werden die manuelle Arbeit bald komplett ersetzen.", "correcte": false },
+{ "id": "d", "texte": "Langlebigkeit von Produkten ist in der Wirtschaft irrelevant.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b086",
+"titre": "Die Vorteile der Teilnahme an ehrenamtlichen Aktivitäten",
+"titre2": "Übung b086",
+"texte": [
+"Das Absolvieren eines Ehrenamtes, sei es im Umweltschutz, in der Altenpflege oder bei der lokalen Müllreinigung, gewinnt in unserer tendenziell egoistischen Leistungsgesellschaft zunehmend an sozialer Relevanz. Viele Menschen definieren den persönlichen Erfolg im Alltag ausschließlich über ihr monetäres Einkommen, ihre berufliche Karriere und materiellen Wohlstand. Die aktive Teilnahme an ehrenamtlichen Aktivitäten offenbart jedoch unbezahlbare Vorteile für die psychische Entwicklung und das gesellschaftliche Klima, die durch Geld nicht aufgewogen werden können.",
+"Wenn wir uns uneigennützig für das Wohl anderer Menschen oder den Naturschutz einsetzen, stärken wir unsere eigene emotionale Intelligenz und erleben ein tiefes Gefühl der Sinnhaftigkeit. Das Ehrenamt fungiert als ein psychologisches Ventil gegen den permanenten Leistungsdruck des Alltags, da der Fokus von der eigenen Selbstdarstellung auf das kollektive Wohl verschoben wird. Würden sich die Bürger nicht mehr ehrenamtlich engagieren, so kollabierten viele soziale Hilfssysteme, die für den gesellschaftlichen Zusammenhalt absolut unverzichtbar sind.",
+"Viele Studenten klagen über einen akuten Zeitmangel und fokussieren sich primär auf Bestnoten im Studium. Personalchefs betonen jedoch unermüdlich, dass soziales Engagement im Lebenslauf oft ein entscheidendes Kriterium bei der Jobvergabe darstellt, da es Teamfähigkeit und Verantwortungsbewusstsein signalisiert. Hätten mehr Jugendliche die bereichernde Kraft des Ehrenamtes früher erlebt, wäre die Einsamkeit unter jungen Menschen heute sicherlich weniger ausgeprägt. Soziales Engagement ist folglich eine Win-Win-Situation für den Einzelnen und die gesamte Zivilisation."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b086-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b086-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b086-01",
+"question": "Wie definieren viele Menschen in der Leistungsgesellschaft ihren Erfolg?",
+"reponses": [
+{ "id": "a", "texte": "Über die Menge an Freizeit, die sie im Wald verbringen.", "correcte": false },
+{ "id": "b", "texte": "Ausschließlich über ihr Einkommen, Karriere und materiellen Wohlstand.", "correcte": true },
+{ "id": "c", "texte": "Durch das fehlerfreie Beherrschen von Fremdsprachen.", "correcte": false },
+{ "id": "d", "texte": "Über die Anzahl ihrer Kontakte in sozialen Netzwerken.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b086-02",
+"question": "Welchen psychologischen Vorteil bietet das Ehrenamt laut dem zweiten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Es erhöht den chronischen Stress vor anstehenden Prüfungen.", "correcte": false },
+{ "id": "b", "texte": "Es schenkt ein tiefes Gefühl der Sinnhaftigkeit und baut Druck ab.", "correcte": true },
+{ "id": "c", "texte": "Es macht das Absolvieren des Studiums komplett überflüssig.", "correcte": false },
+{ "id": "d", "texte": "Es führt zu einer ungesunden Isolation von der Familie.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b086-03",
+"question": "Was würde passieren, wenn sich die Bürger überhaupt nicht mehr engagierten?",
+"reponses": [
+{ "id": "a", "texte": "Die Müllmenge in den Großstädten würde sich von allein reduzieren.", "correcte": false },
+{ "id": "b", "texte": "Viele unverzichtbare soziale Hilfssysteme würden kollabieren.", "correcte": true },
+{ "id": "c", "texte": "Die Regierungen würden allen Helfern hohe Prämien zahlen.", "correcte": false },
+{ "id": "d", "texte": "Die Volkswirtschaft würde rasant an Effizienz gewinnen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b086-04",
+"question": "Warum schätzen Personalchefs das Ehrenamt im Lebenslauf von Bewerbern?",
+"reponses": [
+{ "id": "a", "texte": "Weil diese Bewerber grundsätzlich kein hohes Gehalt fordern.", "correcte": false },
+{ "id": "b", "texte": "Weil es echte Teamfähigkeit und Verantwortungsbewusstsein signalisiert.", "correcte": true },
+{ "id": "c", "texte": "Da es perfekte Kenntnisse im IT-Sektor garantiert.", "correcte": false },
+{ "id": "d", "texte": "Weil ehrenamtliche Mitarbeiter niemals Urlaub im Winter machen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b086-05",
+"question": "Was wäre laut dem Text der Fall, wenn Jugendliche diese Kraft früher erlebt hätten?",
+"reponses": [
+{ "id": "a", "texte": "Die Einsamkeit unter jungen Menschen wäre heute weniger ausgeprägt.", "correcte": true },
+{ "id": "b", "texte": "Sie hätten das Studium an den Universitäten schneller beendet.", "correcte": false },
+{ "id": "c", "texte": "Die sozialen Netzwerke hätten ihre Attraktivität komplett verloren.", "correcte": false },
+{ "id": "d", "texte": "Es gäbe überhaupt keine Konflikte mehr zwischen Geschwistern.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b086-06",
+"question": "Was lässt sich aus dem Begriff 'Win-Win-Situation' implizit ableiten?",
+"reponses": [
+{ "id": "a", "texte": "Sowohl der Einzelne als auch die Gesellschaft ziehen einen Nutzen daraus.", "correcte": true },
+{ "id": "b", "texte": "Man muss im Ehrenamt viel Geld investieren, um zu gewinnen.", "correcte": false },
+{ "id": "c", "texte": "Die Aktivität führt zu einer Konkurrenz zwischen den Helfern.", "correcte": false },
+{ "id": "d", "texte": "Der Staat gewinnt finanzielle Ressourcen durch Steuern.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b086-07",
+"question": "Welches kritische Argument von Studenten entkräftet der Text?",
+"reponses": [
+{ "id": "a", "texte": "Dass ehrenamtliche Arbeit nur für Senioren geeignet sei.", "correcte": false },
+{ "id": "b", "texte": "Die Ausrede des akuten Zeitmangels durch das Studium.", "correcte": true },
+{ "id": "c", "texte": "Dass Naturschutz im Ausland viel effektiver sei.", "correcte": false },
+{ "id": "d", "texte": "Dass soziale Hilfssysteme den Ruinen der Wirtschaft schaden.", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "b087",
+    "titre": "Warum sollte man Museen und historische Denkmäler besuchen?",
+    "titre2": "Übung b087",
+    "texte": [
+      "In unserer schnelllebigen, auf die Gegenwart fokussierten Gesellschaft wird der Besuch von Museen und historischen Denkmälern von vielen Menschen fälschlicherweise als eine veraltete oder gar langweilige Freizeitbeschäftigung abgetan. Ein umfassender Bericht von Kulturwissenschaftlern verdeutlicht jedoch die unschätzbare Relevanz dieser Institutionen für die kollektive Identität. Museen sind keineswegs nur staubige Archive der Vergangenheit, sondern sie repräsentieren lebendige Räume der Bildung, die uns unsere eigene Herkunft verständlich machen.",
+      "Historische Denkmäler und Ausstellungen fungieren als dreidimensionale Geschichtsbücher. Wenn wir originale Exponate betrachten oder durch die Ruinen einer antiken Stadt gehen, begreifen wir die historischen Zusammenhänge auf einer viel tieferen, emotionalen Ebene, als dies durch das bloße Lesen eines Textes jemals möglich wäre. Würde man diese kulturellen Erbestätten vernachlässigen oder finanziell nicht mehr unterstützen, so riskierte man ein kollektives Vergessen der gesellschaftlichen Wurzeln. Zudem schult die Konfrontation mit der Kunst das kritische Denken ungemein.",
+      "Viele Kritiker bemängeln die Eintrittspreise und fordern eine vollständige Digitalisierung aller Exponate, um Kosten einzusparen. Kulturexperten betonen jedoch unermüdlich, dass die physische Aura eines echten historischen Objekts durch keinen noch so hochauflösenden Bildschirm der Welt ersetzt werden kann. Wenn die Bevölkerung den inhärenten Bildungswert dieser Stätten früher begriffe, würde sie diese Museen sicherlich viel regelmäßiger besuchen. Der Besuch eines Denkmals ist folglich eine ethische Pflicht, um das historische Bewusstsein für zukünftige Generationen lebendig zu halten."
+    ],
+    "audios": [
+      { "id": "audio-de-read-b1-b087-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b1-b087-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-b1-b087-01",
+        "question": "Welches Vorurteil über den Besuch von Museen wird im Text direkt kritisiert?",
+        "reponses": [
+          { "id": "a", "texte": "Dass Ausstellungen ausschließlich für Kinder konzipiert seien.", "correcte": false },
+          { "id": "b", "texte": "Dass es sich um eine veraltete oder langweilige Beschäftigung handle.", "correcte": true },
+          { "id": "c", "texte": "Dass Museen die Umwelt durch ihren Energieverbrauch belasten.", "correcte": false },
+          { "id": "d", "texte": "Dass man dort überhaupt keine historischen Fakten lernen könne.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b087-02",
+        "question": "Als was werden historische Denkmäler im zweiten Absatz metaphorisch bezeichnet?",
+        "reponses": [
+          { "id": "a", "texte": "Als staubige Archive einer vergessenen Epoche.", "correcte": false },
+          { "id": "b", "texte": "Als dreidimensionale Geschichtsbücher für die Besucher.", "correcte": true },
+          { "id": "c", "texte": "Als rein ökonomische Investitionen der Stadtverwaltung.", "correcte": false },
+          { "id": "d", "texte": "Als unbedeutende Ruinen in der modernen Landschaft.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b087-03",
+        "question": "Was würde laut dem Text passieren, wenn man diese Erbestätten nicht mehr finanziell unterstützte?",
+        "reponses": [
+          { "id": "a", "texte": "Die Eintrittspreise würden für Studenten drastisch sinken.", "correcte": false },
+          { "id": "b", "texte": "Man riskierte ein kollektives Vergessen der gesellschaftlichen Wurzeln.", "correcte": true },
+          { "id": "c", "texte": "Die Digitalisierung der Objekte würde sich automatisch beschleunigen.", "correcte": false },
+          { "id": "d", "texte": "Die Kriminalität in den Städten würde rasant ansteigen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b087-04",
+        "question": "Welches Argument bringen Kritiker gegen traditionelle Museen vor?",
+        "reponses": [
+          { "id": "a", "texte": "Sie bemängeln die Eintrittspreise und fordern vollständige Digitalisierung.", "correcte": true },
+          { "id": "b", "texte": "Dass die Mitarbeiter am Empfangstresen extrem unhöflich seien.", "correcte": false },
+          { "id": "c", "texte": "Dass es in den Hallen überhaupt keine echten Objekte gäbe.", "correcte": false },
+          { "id": "d", "texte": "Die unpraktischen Öffnungszeiten während der Semesterferien.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b087-05",
+        "question": "Warum kann eine digitale Kopie ein echtes Objekt laut Kulturexperten nicht ersetzen?",
+        "reponses": [
+          { "id": "a", "texte": "Weil Bildschirme für die Augen älterer Senioren zu anstrengend sind.", "correcte": false },
+          { "id": "b", "texte": "Weil die physische Aura eines echten Objekts unkopierbar ist.", "correcte": true },
+          { "id": "c", "texte": "Weil das Internet im Ausland oft unzuverlässig funktioniert.", "correcte": false },
+          { "id": "d", "texte": "Da digitale Daten nach wenigen Jahren automatisch gelöscht werden.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b087-06",
+        "question": "Was lässt sich aus dem letzten Absatz über das historische Bewusstsein implizit schließen?",
+        "reponses": [
+          { "id": "a", "texte": "Es entwickelt sich ohne die Konfrontation mit der Realität von selbst.", "correcte": false },
+          { "id": "b", "texte": "Es erfordert eine aktive Bewahrung durch das Erleben realer Orte.", "correcte": true },
+          { "id": "c", "texte": "Es ist für die moderne wirtschaftliche Entwicklung völlig irrelevant.", "correcte": false },
+          { "id": "d", "texte": "Es lässt sich ausschließlich durch das Auswendiglernen von Jahreszahlen stärken.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b087-07",
+        "question": "Welche Absicht verfolgt der Autor primär mit diesem Text?",
+        "reponses": [
+          { "id": "a", "texte": "Er möchte den Verkauf von digitalen Bildschirmen einschränken.", "correcte": false },
+          { "id": "b", "texte": "Er will die Leser von der unersetzlichen Bedeutung des Denkmalschutzes überzeugen.", "correcte": true },
+          { "id": "c", "texte": "Er plant, die Erhöhung der Eintrittspreise logisch zu rechtfertigen.", "correcte": false },
+          { "id": "d", "texte": "Er möchte das Studium der Kulturwissenschaften scharf kritisieren.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b088",
+    "titre": "Der Platz junger Menschen in der modernen Gesellschaft",
+    "titre2": "Übung b088",
+    "texte": [
+      "- Hallo, Emma! Ich habe gestern an einer Podiumsdiskussion teilgenommen, bei der es um den Platz junger Menschen in unserer alternden, modernen Gesellschaft ging. Ich fand einige Argumente der älteren Generation ziemlich frustrierend, weil uns oft mangelndes Engagement vorgeworfen wurde.",
+      "- Hallo, Lukas! Diese Kritik kenne ich leider nur zu gut. Es ist absolut ungerechtfertigt, die Jugend pauschal als unpolitisch oder passiv abzutun. Wir engagieren uns heute vielleicht anders, aber keineswegs weniger intensiv. Unsere Prioritäten haben sich durch globale Krisen wie den Klimawandel oder den Wandel des Arbeitsmarktes stark verschoben.",
+      "- Genau das habe ich auch betont! Die älteren Generationen haben in unserem Alter in einer wirtschaftlich viel stabileren Welt gelebt. Heute verlangt man von uns eine extreme Flexibilität, hervorragende universitäre Noten und gleichzeitig eine unbezahlte, soziale Aktivität im Alltag.",
+      "- Das ist ein enormer Leistungsdruck. Würden die politischen Entscheidungsträger uns jungen Menschen mehr echte Mitspracherechte in den Parlamenten einräumen, fühlten wir uns sicherlich ernster genommen. Uns fehlt oft ein institutionalisierter Raum, um unsere innovativen Ideen direkt in konkrete Politik umzuwandeln.",
+      "- Hätten die Regierungen unsere Sorgen bezüglich der Wohnungsnot und der prekären Arbeitsverträge früher priorisiert, stünde die Jugend heute vor einer viel optimistischeren Zukunftsperspektive.",
+      "- Ganz genau. Wenn die Gesellschaft die Dynamik der Jugend nicht blockierte, sondern als wertvollen Motor für die Zukunft begriffe, gewänne die gesamte Zivilisation an Innovationskraft. Es ist an der Zeit, dass man uns nicht nur als theoretische Zukunft, sondern als gestalterische Gegenwart akzeptiert."
+    ],
+    "audios": [
+      { "id": "audio-de-read-b1-b088-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b1-b088-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-de-read-b1-b088-01",
+        "question": "Welchen Vorwurf machen ältere Generationen der Jugend laut Lukas oft?",
+        "reponses": [
+          { "id": "a", "texte": "Dass sie viel zu viel Zeit mit sportlichen Aktivitäten verbringen.", "correcte": false },
+          { "id": "b", "texte": "Dass es ihnen an echtem gesellschaftlichem Engagement fehle.", "correcte": true },
+          { "id": "c", "texte": "Dass sie sich weigern, Verträge an der Universität zu unterschreiben.", "correcte": false },
+          { "id": "d", "texte": "Dass sie zu viel Geld für gesunde Lebensmittel ausgeben.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b1-b088-02",
+        "question": "Durch welche Faktoren haben sich die Prioritäten der Jugend laut Emma verschoben?",
+        "reponses": [
+          { "id": "a", "texte": "Durch den Mangel an modernen Computerspielen auf dem Markt.", "correcte": false },
+          { "id": "b", "texte": "Durch globale Krisen wie den Klimawandel und Arbeitsmarktwandel.", "correcte": true },
+          { "id": "c", "texte": "Aufgrund von strengen gesetzlichen Verboten durch den Staat.", "correcte": false },
+{ "id": "d", "texte": "Durch die unpünktlichen Transportmittel in den Großstädten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b088-03",
+"question": "Welchen Unterschied zur Jugend der älteren Generation nennt Lukas im Gespräch?",
+"reponses": [
+{ "id": "a", "texte": "Die ältere Generation hatte in ihrer Jugend überhaupt keine Freizeit.", "correcte": false },
+{ "id": "b", "texte": "Sie lebte damals in einer wirtschaftlich wesentlich stabileren Welt.", "correcte": true },
+{ "id": "c", "texte": "Sie durfte die Universitäten ohne Abitur absolut frei besuchen.", "correcte": false },
+{ "id": "d", "texte": "Es gab in der Vergangenheit keinerlei familiäre Hierarchien.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b088-04",
+"question": "Was würde laut Emma passieren, wenn man der Jugend mehr Mitspracherechte einräumte?",
+"reponses": [
+{ "id": "a", "texte": "Die Jugendlichen würden die politischen Wahlen komplett boykottieren.", "correcte": false },
+{ "id": "b", "texte": "Die junge Generation fühlte sich zweifellos ernster genommen.", "correcte": true },
+{ "id": "c", "texte": "Die ökonomischen Krisen der Unternehmen würden sich verschärfen.", "correcte": false },
+{ "id": "d", "texte": "Die Universitäten müssten alle temporär geschlossen werden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b088-05",
+"question": "Welche Probleme rauben der Jugend laut dem Text den Optimismus für die Zukunft?",
+"reponses": [
+{ "id": "a", "texte": "Die extrem hohen Preise für Sportbekleidung in den Geschäften.", "correcte": false },
+{ "id": "b", "texte": "Die aktuelle Wohnungsnot und prekäre Arbeitsverträge.", "correcte": true },
+{ "id": "c", "texte": "Der akute Mangel an digitalen Informationen im Internet.", "correcte": false },
+{ "id": "d", "texte": "Die mangelhafte Qualität des Essens in der Mensa.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b088-06",
+"question": "Was lässt sich aus Emmas Aussage über die Rolle der Jugend implizit schließen?",
+"reponses": [
+{ "id": "a", "texte": "Die Jugend ist zu unerfahren, um politische Verantwortung zu tragen.", "correcte": false },
+{ "id": "b", "texte": "Ihre Ausgrenzung aus der Politik schadet der Innovationskraft der Gesellschaft.", "correcte": true },
+{ "id": "c", "texte": "Ältere Generationen haben ein perfektes Verständnis für moderne Medien.", "correcte": false },
+{ "id": "d", "texte": "Prekäre Arbeitsverträge motivieren Jugendliche zu besseren Noten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b088-07",
+"question": "Als was möchte Emma am Ende des Dialogs die Jugend verstanden wissen?",
+"reponses": [
+{ "id": "a", "texte": "Als ein passives Objekt von zukünftigen Reformen.", "correcte": false },
+{ "id": "b", "texte": "Als eine aktiv gestaltende Gegenwart der heutigen Gesellschaft.", "correcte": true },
+{ "id": "c", "texte": "Als unbedeutende Zuschauer des demografischen Wandels.", "correcte": false },
+{ "id": "d", "texte": "Als eine Generation ohne jegliche moralische Verantwortung.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b089",
+"titre": "Die Unterschiede zwischen dem Leben in der Stadt und auf dem Land",
+"titre2": "Übung b089",
+"texte": [
+"Die soziokulturelle Kluft zwischen dem urbanen Leben in den boomenden Metropolen und der ländlichen Existenz in den Dörfern prägt die geografische und wirtschaftliche Struktur unseres Landes nachhaltig. Während die Großstädte durch eine gigantische kulturelle Vielfalt, unbegrenzte berufliche Karrierechancen und ein lückenloses Netz des öffentlichen Nahverkehrs faszinieren, klagen viele Stadtbewohner zunehmend über die Kehrseiten. Die permanente Lärmbelastung, die fortschreitende Anonymität und die unbezahlbaren Mietpreise erzeugen bei vielen Menschen einen chronischen, alltäglichen Stress.",
+"Das ländliche Leben hingegen bietet eine idyllische Entschleunigung, die von gestressten Großstädtern oft als eine Oase der mentalen Erholung wahrgenommen wird. Die unmittelbare Nähe zur unberührten Natur, der ausgeprägte soziale Zusammenhalt in der Nachbarschaft und die günstigen Lebenshaltungskosten stellen unbestreitbare Vorteile dar. Würde man die ländliche Infrastruktur – insbesondere die medizinische Versorgung und die digitale Anbindung – flächendeckend modernisieren, so schränkte man die dramatische Abwanderung junger Menschen in die Ballungsräume effektiv ein.",
+"Hätten die Stadtplaner die grünen Oasen in den Innenstädten früher konsequent geschützt, stünden wir heute in den Ballungsräumen vor einer spürbar höheren Lebensqualität. Es bleibt folglich eine Frage der persönlichen Prioritäten, welche Lebensform man wählt. Wenn die Menschen begriffen, wie stark die physische Umgebung ihre psychische Gesundheit manipuliert, würden sie den Wohnort sicherlich bewusster nach ihren echten Bedürfnissen auswählen, statt stur den ökonomischen Trends hinterherzulaufen."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b089-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b089-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b089-01",
+"question": "Welche positiven Aspekte des urbanen Lebens werden im Text genannt?",
+"reponses": [
+{ "id": "a", "texte": "Die extrem niedrigen Mietpreise im Zentrum der Großstadt.", "correcte": false },
+{ "id": "b", "texte": "Kulturelle Vielfalt, Karrierechancen und ein lückenloser Nahverkehr.", "correcte": true },
+{ "id": "c", "texte": "Der ausgeprägte soziale Zusammenhalt unter den Nachbarn.", "correcte": false },
+{ "id": "d", "texte": "Das komplette Fehlen von jeglicher Luftverschmutzung.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b089-02",
+"question": "Welche negativen Kehrseiten belasten die Bewohner von Metropolen?",
+"reponses": [
+{ "id": "a", "texte": "Ein akuter Mangel an modernen Arbeitsplätzen in der Industrie.", "correcte": false },
+{ "id": "b", "texte": "Permanente Lärmbelastung, Anonymität und unbezahlbare Mieten.", "correcte": true },
+{ "id": "c", "texte": "Die unpünktliche Müllabfuhr während der Wintermonate.", "correcte": false },
+{ "id": "d", "texte": "Dass es überhaupt keine Museen in der Stadt gibt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b089-03",
+"question": "Welche Vorteile zeichnen das Leben auf dem Land primär aus?",
+"reponses": [
+{ "id": "a", "texte": "Die unbegrenzten Möglichkeiten für internationale Verhandlungen.", "correcte": false },
+{ "id": "b", "texte": "Nähe zur Natur, sozialer Zusammenhalt und günstige Kosten.", "correcte": true },
+{ "id": "c", "texte": "Das Vorhandensein von riesigen Einkaufszentren in jedem Dorf.", "correcte": false },
+{ "id": "d", "texte": "Die ausschließliche Nutzung von schnellen Wasserstoffbussen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b089-04",
+"question": "Was würde laut dem Text passieren, wenn man die ländliche Infrastruktur flächendeckend modernisierte?",
+"reponses": [
+{ "id": "a", "texte": "Die Mietpreise in den Großstädten würden sofort drastisch steigen.", "correcte": false },
+{ "id": "b", "texte": "Man schränkte die dramatische Abwanderung junger Menschen effektiv ein.", "correcte": true },
+{ "id": "c", "texte": "Die Dörfer würden sich unbemerkt in laute Ballungsräume verwandeln.", "correcte": false },
+{ "id": "d", "texte": "Die digitale Anbindung der Universitäten würde komplett blockiert.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b089-05",
+"question": "Welches Problem stünde laut dem Text heute besser da, wenn Stadtplaner früher reagiert hätten?",
+"reponses": [
+{ "id": "a", "texte": "Die Schüler hätten bessere Noten im mathematischen Kopfrechnen.", "correcte": false },
+{ "id": "b", "texte": "Wir hätten in den Ballungsräumen eine spürbar höhere Lebensqualität.", "correcte": true },
+{ "id": "c", "texte": "Die Züge im Umland wären grundsätzlich viel pünktlicher.", "correcte": false },
+{ "id": "d", "texte": "Es gäbe überhaupt keine traditionellen Handwerksberufe mehr.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b089-06",
+"question": "Welche implizite Kritik äußert der Autor an der Wohnortwahl vieler Menschen?",
+"reponses": [
+{ "id": "a", "texte": "Sie wählen ihren Wohnort nur nach den Wünschen ihrer Eltern aus.", "correcte": false },
+{ "id": "b", "texte": "Sie orientieren sich oft stur an ökonomischen Trends statt an der Gesundheit.", "correcte": true },
+{ "id": "c", "texte": "Sie vernachlässigen die sportlichen Aktivitäten auf dem Sofa komplett.", "correcte": false },
+{ "id": "d", "texte": "Sie weigern sich, Verträge für mobiles Internet abzuschließen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b089-07",
+"question": "Welche fundamentale Erkenntnis über die Umgebung wird am Ende betont?",
+"reponses": [
+{ "id": "a", "texte": "Die physische Umgebung hat keinerlei Einfluss auf die menschliche Psyche.", "correcte": false },
+{ "id": "b", "texte": "Die physische Umgebung manipuliert die psychische Gesundheit stark.", "correcte": true },
+{ "id": "c", "texte": "Das ländliche Leben schädigt das respiratorische System der Senioren.", "correcte": false },
+{ "id": "d", "texte": "Grüne Oasen sind in den Dörfern wichtiger als in den Großstädten.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b090",
+"titre": "Wie kann man die Traditionen unserer Vorfahren bewahren?",
+"titre2": "Übung b090",
+"texte": [
+"In einer zunehmend homogenisierten und globalisierten Welt, in der sich Konsumgewohnheiten und Lebensstile durch die Digitalisierung rasant angleichen, droht das einzigartige kulturelle Erbe unserer Vorfahren unbemerkt in Vergessenheit zu geraten. Das Bewahren von alten Traditionen, historischen Bräuchen und regionalen Handwerkstechniken ist keineswegs als ein rückwärtsgewandtes Festhalten an der Vergangenheit zu interpretieren. Vielmehr stellt es eine unumgängliche Bereicherung dar, um der nachfolgenden Generation eine emotionale Verankerung und ein Gefühl der Identität zu vermitteln.",
+"Die Transmission dieses immateriellen Kulturgutes erfordert jedoch aktive, bewusste Anstrengungen im familiären und gesellschaftlichen Alltag. Wenn wir traditionelle Feste aktiv feiern, die Rezepte unserer Großmütter gemeinsam kochen und alte Lieder singen, halten wir die Geschichte lebendig. Würden wir diese Bräuche komplett aus unserem modernen Leben verbannen, so verlören wir schrittweise die Verbindung zu unseren eigenen Wurzeln. Zudem schulen die historischen Handwerkstechniken das Verständnis für Qualität und Nachhaltigkeit, das in der heutigen Massenproduktion oft fehlt.",
+"Viele Jugendliche betrachten traditionelle Riten anfangs als eine lästige Pflicht, die nicht mehr in ihren modernen Alltag passt. Kulturpädagogen betonen jedoch unermüdlich, dass eine kreative Verknüpfung von Tradition und Moderne – etwa durch moderne Interpretationen alter Musik oder die digitale Dokumentation von Zeitzeugenberichten – die Motivation der Jugend massiv steigern kann. Wenn die Gesellschaft den unschätzbaren Wert des historischen Erbes früher begriffe, würde sie die kulturelle Bildung an Schulen sicherlich radikal stärken, um dieses lebendige Schutzschild gegen die Identitätslosigkeit dauerhaft zu bewahren."
+],
+"audios": [
+{ "id": "audio-de-read-b1-b090-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b1-b090-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-de-read-b1-b090-01",
+"question": "Welche Gefahr droht dem kulturellen Erbe laut dem ersten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Dass es von großen Konzernen im Ausland kopiert und verkauft wird.", "correcte": false },
+{ "id": "b", "texte": "Dass es durch die Globalisierung unbemerkt in Vergessenheit gerät.", "correcte": true },
+{ "id": "c", "texte": "Eine plötzliche Erhöhung der finanziellen Steuern auf Traditionen.", "correcte": false },
+{ "id": "d", "texte": "Dass Historiker die Erforschung der Vergangenheit komplett einstellen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b090-02",
+"question": "Als was sollte das Bewahren von Traditionen laut Text nicht interpretiert werden?",
+"reponses": [
+{ "id": "a", "texte": "Als ein wichtiger Baustein für die persönliche Identität.", "correcte": false },
+{ "id": "b", "texte": "Als ein rückwärtsgewandtes Festhalten an der Vergangenheit.", "correcte": true },
+{ "id": "c", "texte": "Als eine unumgängliche Bereicherung für junge Generationen.", "correcte": false },
+{ "id": "d", "texte": "Als eine ethische Pflicht innerhalb der Familien.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b090-03",
+"question": "Welche praktischen Maßnahmen halten die Geschichte laut dem Text im Alltag lebendig?",
+"reponses": [
+{ "id": "a", "texte": "Das exzessive Schauen von modernen Dokumentationen im Fernsehen.", "correcte": false },
+{ "id": "b", "texte": "Das Feiern von Festen, Kochen von Rezepten und Singen alter Lieder.", "correcte": true },
+{ "id": "c", "texte": "Das Kaufen von billigen Produkten aus der industriellen Massenproduktion.", "correcte": false },
+{ "id": "d", "texte": "Das vollständige Ignorieren der Meinungen von älteren Senioren.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b090-04",
+"question": "Was würde laut dem Text passieren, wenn wir diese Bräuche komplett verbannten?",
+"reponses": [
+{ "id": "a", "texte": "Die Volkswirtschaften würden sich rasant und unbemerkt stabilisieren.", "correcte": false },
+{ "id": "b", "texte": "Wir verlören schrittweise die Verbindung zu unseren eigenen Wurzeln.", "correcte": true },
+{ "id": "c", "texte": "Die Jugendlichen bekämen automatisch bessere Noten an den Schulen.", "correcte": false },
+{ "id": "d", "texte": "Die Müllberge in den großen Großstädten würden drastisch sinken.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b090-05",
+"question": "Wie betrachten viele Jugendliche traditionelle Riten laut dem Gespräch anfangs?",
+"reponses": [
+{ "id": "a", "texte": "Als eine hochinteressante und extrem spannende Freizeitaktivität.", "correcte": false },
+{ "id": "b", "texte": "Als eine lästige Pflicht, die nicht in ihren modernen Alltag passt.", "correcte": true },
+{ "id": "c", "texte": "Als eine Möglichkeit, um schnell viel Geld im Beruf zu verdienen.", "correcte": false },
+{ "id": "d", "texte": "Als ein effektives Schutzschild gegen den Alltagsstress.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b090-06",
+"question": "Welche Brücke schlagen Kulturpädagogen vor, um die Jugend zu motivieren?",
+"reponses": [
+{ "id": "a", "texte": "Das absolute Verbot von jeglichen digitalen Medien im Unterricht.", "correcte": false },
+{ "id": "b", "texte": "Eine kreative Verknüpfung von Tradition und Moderne, z.B. digitale Dokumentation.", "correcte": true },
+{ "id": "c", "texte": "Die Verpflichtung zu unbezahlter schwerer körperlicher Handwerksarbeit.", "correcte": false },
+{ "id": "d", "texte": "Das Ignorieren von Riten zugunsten von modernen Videospielen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b1-b090-07",
+"question": "Welche implizite Rolle wird den Traditionen im letzten Satz des Textes zugeschrieben?",
+"reponses": [
+{ "id": "a", "texte": "Sie sind ein rein bürokratisches Instrument zur Kontrolle der Bürger.", "correcte": false },
+{ "id": "b", "texte": "Sie dienen als ein lebendiges Schutzschild gegen die Identitätslosigkeit.", "correcte": true },
+{ "id": "c", "texte": "Sie blockieren den notwendigen Fortschritt der künstlichen Intelligenz.", "correcte": false },
+{ "id": "d", "texte": "Sie erhöhen die Notwendigkeit von teuren Krediten an den Schulen.", "correcte": false }
+]
+}
+]
 }
 ]
