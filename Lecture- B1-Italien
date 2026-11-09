@@ -5416,5 +5416,880 @@
 ]
 }
 ]
+},
+{
+    "id": "b071",
+    "titre": "I vantaggi e gli svantaggi dei social network",
+    "titre2": "Esercizio b071",
+    "texte": [
+      "- Ciao Francesca! Ho notato che hai riattivato il tuo profilo dopo mesi di assenza. Come mai questa decisione?",
+      "- Ciao Matteo. Sì, l'avevo disattivato perché passavo ore a guardare foto inutili. Devo ammettere, però, che i social network offrono vantaggi innegabili, come la possibilità di mantenere i contatti con gli amici che vivono all'estero o promuovere il proprio lavoro gratuitamente.",
+      "- Sono d'accordo. Permettono di superare le barriere geografiche in pochi secondi. Tuttavia, credo che gli svantaggi legati alla dipendenza digitale siano preoccupanti. Molti giovani scambiano la vita virtuale con quella reale.",
+      "- È proprio così. Spesso creiamo un'identità perfetta che non corrisponde alla realtà, alimentando un senso di ansia e di frustrazione costante. Se limitassimo l'uso delle piattaforme a un'ora al giorno, riscopriremmo la bellezza delle conversazioni reali.",
+      "- Hai ragione. La chiave sta nell'equilibrio. I social sono ottimi strumenti di comunicazione se utilizzati con consapevolezza, ma diventano pericolosi se lasciamo che controllino le nostre emozioni e il nostro tempo libero."
+    ],
+    "audios": [
+      { "id": "audio-it-read-b1-071-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-b1-071-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-b1-071-01",
+        "question": "Per quale motivo iniziale Francesca aveva disattivato il suo profilo?",
+        "reponses": [
+          { "id": "a", "texte": "Perché subiva continui attacchi informatici da sconosciuti.", "correcte": false },
+          { "id": "b", "texte": "A causa del costo elevato dell'abbonamento mensile.", "correcte": false },
+          { "id": "c", "texte": "Perché passava troppe ore a guardare foto inutili.", "correcte": true },
+          { "id": "d", "texte": "Perché non riusciva a comprendere il funzionamento dell'app.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-071-02",
+        "question": "Quale vantaggio professionale dei social viene menzionato nel dialogo?",
+        "reponses": [
+          { "id": "a", "texte": "Permettono di ottenere prestiti bancari a tasso zero.", "correcte": false },
+          { "id": "b", "texte": "Offrono la possibilità di promuovere il proprio lavoro gratuitamente.", "correcte": true },
+          { "id": "c", "texte": "Garantiscono un aumento immediato dello stipendio aziendale.", "correcte": false },
+          { "id": "d", "texte": "Consentono di automatizzare la scrittura di documenti d'ufficio.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-071-03",
+        "question": "Quale svantaggio preoccupante sottolinea Matteo riguardo ai giovani?",
+        "reponses": [
+          { "id": "a", "texte": "I ragazzi dimenticano le regole della grammatica italiana.", "correcte": false },
+          { "id": "b", "texte": "Gli studenti rifiutano di frequentare le lezioni universitarie.", "correcte": false },
+          { "id": "c", "texte": "I giovani spendono troppo denaro in giochi digitali.", "correcte": false },
+          { "id": "d", "texte": "Molti scambiano la vita virtuale con quella reale.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-071-04",
+        "question": "Cosa creiamo spesso sui social secondo la riflessione di Francesca?",
+          "reponses": [
+          { "id": "a", "texte": "Un'identità perfetta che non corrisponde alla realtà.", "correcte": true },
+          { "id": "b", "texte": "Una rete di contatti esclusivamente commerciali.", "correcte": false },
+          { "id": "c", "texte": "Un archivio sicuro per i nostri documenti personali.", "correcte": false },
+          { "id": "d", "texte": "Un sistema di messaggistica protetto da segreto.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-071-05",
+        "question": "Quale sentimento negativo viene alimentato dall'uso scorretto delle piattaforme?",
+        "reponses": [
+          { "id": "a", "texte": "Un senso di ansia e di frustrazione costante.", "correcte": true },
+          { "id": "b", "texte": "Una profonda noia dovuta alla mancanza di stimoli.", "correcte": false },
+          { "id": "c", "texte": "La rabbia ingiustificata verso i propri familiari.", "correcte": false },
+          { "id": "d", "texte": "Una totale indifferenza per le notizie del mondo.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-071-06",
+        "question": "Quale limite di tempo giornaliero suggerisce Francesca per riscoprire la realtà?",
+        "reponses": [
+          { "id": "a", "texte": "Esclusivamente trenta minuti durante la pausa pranzo.", "correcte": false },
+          { "id": "b", "texte": "Limitare l'uso delle piattaforme a un'ora al giorno.", "correcte": true },
+          { "id": "c", "texte": "Almeno due ore distribuite tra la mattina e la sera.", "correcte": false },
+          { "id": "d", "texte": "Sospendere l'uso dei dispositivi per l'intero weekend.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-071-07",
+        "question": "Quando i social network diventano pericolosi secondo Matteo?",
+        "reponses": [
+          { "id": "a", "texte": "Quando richiedono aggiornamenti frequenti del software.", "correcte": false },
+          { "id": "b", "texte": "Quando vengono utilizzati su dispositivi mobili vecchi.", "correcte": false },
+          { "id": "c", "texte": "Se lasciamo che controllino le nostre emozioni e il tempo.", "correcte": true },
+          { "id": "d", "texte": "Se contengono troppi messaggi pubblicitari commerciali.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b072",
+    "titre": "Come Internet ha cambiato il nostro modo di comunicare",
+    "titre2": "Esercizio b072",
+    "texte": [
+      "Fino alla fine degli anni Novanta, se volevo parlare con la mia amica del cuore che si era trasferita a Londra, dovevo scriverle una lettera cartacea o pianificare una costosa telefonata internazionale dal telefono fisso di casa. Ricordo l'attesa febbrile della risposta del postino, un rituale che oggi sembra appartenere a un'epoca preistorica. L'avvento di Internet ha letteralmente demolito queste distanze temporali.",
+      "Oggi la comunicazione è diventata istantanea, globale e pervasiva. Con un semplice clic possiamo inviare messaggi multimediali, condividere video in tempo reale o effettuare videochiamate gratuite ad alta definizione con chiunque si trovi dall'altra parte del mondo. Se i nostri nonni avessero avuto queste tecnologie, avrebbero vissuto l'emigrazione con molta meno solitudine e sofferenza interiore.",
+      "Tuttavia, questa rapidità ha introdotto un paradosso relazionale. Mandiamo centinaia di messaggi digitali ogni giorno, ma dedichiamo sempre meno tempo agli incontri di persona. La comunicazione si è velocizzata, ma è diventata anche più superficiale, priva di quelle sfumature emotive che solo uno sguardo o il tono della voce reale possono trasmettere. Abbiamo guadagnato in efficienza, ma rischiamo di perdere in autenticità umana."
+    ],
+    "audios": [
+      { "id": "audio-it-read-b1-072-1", "url": "soundcloud.com" },
+      { "id": "audio-it-read-b1-072-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-it-read-b1-072-01",
+        "question": "Come comunicava il protagonista con l'amica a Londra negli anni Novanta?",
+        "reponses": [
+          { "id": "a", "texte": "Attraverso e-mail veloci scritte dal computer dell'ufficio.", "correcte": false },
+          { "id": "b", "texte": "Tramite lettere cartacee o costose telefonate internazionali.", "correcte": true },
+          { "id": "c", "texte": "Inviando brevi messaggi sul telefono cellulare portatile.", "correcte": false },
+          { "id": "d", "texte": "Utilizzando un sistema radio gestito da volontari.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-072-02",
+        "question": "Quale sensazione caratterizzava l'attesa della risposta postale in passato?",
+        "reponses": [
+          { "id": "a", "texte": "Una noia profonda unita al desiderio di viaggiare.", "correcte": false },
+          { "id": "b", "texte": "Una totale indifferenza per il contenuto del messaggio.", "correcte": false },
+          { "id": "c", "texte": "Un'attesa febbrile della risposta del postino.", "correcte": true },
+          { "id": "d", "texte": "La paura costante che la lettera contenesse cattive notizie.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-072-03",
+        "question": "Quali sono le tre caratteristiche della comunicazione odierna citate nel testo?",
+        "reponses": [
+          { "id": "a", "texte": "Istantanea, globale e pervasiva.", "correcte": true },
+          { "id": "b", "texte": "Lenta, costosa e limitata alle grandi città.", "correcte": false },
+          { "id": "c", "texte": "Burocratica, complessa e riservata agli specialisti.", "correcte": false },
+          { "id": "d", "texte": "Anonima, testuale e protetta da password.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-072-04",
+        "question": "Cosa avrebbero evitato i nonni se avessero posseduto Internet?",
+        "reponses": [
+          { "id": "a", "texte": "Avrebbero vissuto l'emigrazione con meno solitudine.", "correcte": true },
+          { "id": "b", "texte": "Avrebbero risparmiato sulle tasse doganali di viaggio.", "correcte": false },
+          { "id": "c", "texte": "Non avrebbero perso i bagagli durante il tragitto in nave.", "correcte": false },
+          { "id": "d", "texte": "Avrebbero imparato la lingua straniera molto più in fretta.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-it-read-b1-072-05",
+       "question": "Quale paradosso relazionale ha introdotto la rapidità digitale?",
+"reponses": [
+{ "id": "a", "texte": "Spendiamo più denaro per la rete ma i telefoni durano meno.", "correcte": false },
+{ "id": "b", "texte": "Mandiamo molti messaggi ma dedichiamo meno tempo agli incontri reali.", "correcte": true },
+{ "id": "c", "texte": "Le persone anziane comunicano più dei giovani studenti.", "correcte": false },
+{ "id": "d", "texte": "I messaggi di testo sono più lunghi dei vecchi articoli di giornale.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-072-06",
+"question": "Cosa manca alla comunicazione veloce secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "La precisione dei dati storici e geografici.", "correcte": false },
+{ "id": "b", "texte": "La possibilità di allegare immagini colorate.", "correcte": false },
+{ "id": "c", "texte": "Le sfumature emotive dello sguardo o della voce reale.", "correcte": true },
+{ "id": "d", "texte": "Un sistema di controllo della correttezza ortografica.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-072-07",
+"question": "Quale rischio corriamo a causa dell'efficienza tecnologica?",
+"reponses": [
+{ "id": "a", "texte": "Rischiamo di perdere l'autenticità umana.", "correcte": true },
+{ "id": "b", "texte": "Saremo costretti a cambiare computer ogni anno.", "correcte": false },
+{ "id": "c", "texte": "Perderemo la capacità di scrivere a mano con la penna.", "correcte": false },
+{ "id": "d", "texte": "I costi delle connessioni aumenteranno costantemente.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b073",
+"titre": "I telefoni cellulari nella vita dei giovani",
+"titre2": "Esercizio b073",
+"texte": [
+"In questo estratto di una conferenza scolastica, lo psicologo esamina il rapporto, talvolta problematico, tra gli adolescenti e lo smartphone.",
+"Cari genitori e docenti, provate a osservare i ragazzi all'uscita da scuola. La prima azione che compiono, quasi in modo automatico, è tirare fuori lo smartphone dalla tasca. Per le nuove generazioni, lo smartphone non è un semplice dispositivo per telefonare, ma un vero prolungamento della propria identità sociale. Lì dentro si trova la loro intera vita relazionale: amici, foto, musica e conversazioni di gruppo.",
+"Questo strumento offre opportunità incredibili in termini di accesso alle informazioni e sicurezza, consentendo ai ragazzi di essere sempre rintracciabili. Tuttavia, l'uso eccessivo nasconde insidie profonde. Molti adolescenti soffrono della paura di essere esclusi dalle attività online, restando connessi anche durante le ore di sonno. Se spegnessero i dispositivi alle ventidue, la qualità del loro riposo migliorerebbe e l'ansia diminuirebbe.",
+"Inoltre, la dipendenza dallo schermo riduce la capacità di concentrazione nello studio e limita lo sviluppo delle competenze sociali nel mondo reale. Dobbiamo aiutare i giovani a capire che lo smartphone è un ottimo servitore, ma un pessimo padrone. Promuovere giornate di disconnessione totale in famiglia è un ottimo punto di partenza per recuperare il dialogo reale."
+],
+"audios": [
+{ "id": "audio-it-read-b1-073-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-b1-073-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-073-01",
+"question": "Quale azione automatica compiono i ragazzi all'uscita da scuola?",
+"reponses": [
+{ "id": "a", "texte": "Corrono verso la fermata dell'autobus pubblico.", "correcte": false },
+{ "id": "b", "texte": "Tirano fuori lo smartphone dalla tasca.", "correcte": true },
+{ "id": "c", "texte": "Comprano uno spuntino dolce al bar dell'angolo.", "correcte": false },
+{ "id": "d", "texte": "Iniziano a studiare i compiti per il giorno successivo.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-073-02",
+"question": "Cosa rappresenta lo smartphone per le nuove generazioni?",
+"reponses": [
+{ "id": "a", "texte": "Un prolungamento della propria identità sociale.", "correcte": true },
+{ "id": "b", "texte": "Un ostacolo per la comunicazione con i genitori.", "correcte": false },
+{ "id": "c", "texte": "Uno strumento utilizzato solo per motivi di studio.", "correcte": false },
+{ "id": "d", "texte": "Un lusso costoso riservato a pochi studenti ricchi.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-073-03",
+"question": "Quale vantaggio immediato offre il telefono ai genitori?",
+"reponses": [
+{ "id": "a", "texte": "Permette di controllare i voti scolastici in tempo reale.", "correcte": false },
+{ "id": "b", "texte": "Riduce le spese telefoniche della bolletta fissa.", "correcte": false },
+{ "id": "c", "texte": "Consente ai ragazzi di essere sempre rintracciabili.", "correcte": true },
+{ "id": "d", "texte": "Aiuta a trovare lavori estivi per gli studenti.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-073-04",
+"question": "Di quale paura psicologica soffrono molti adolescenti connessi?",
+"reponses": [
+{ "id": "a", "texte": "La paura di essere esclusi dalle attività online.", "correcte": true },
+{ "id": "b", "texte": "Il timore di subire un furto del dispositivo in strada.", "correcte": false },
+{ "id": "c", "texte": "La fobia di non superare gli esami di maturità.", "correcte": false },
+{ "id": "d", "texte": "La preoccupazione che la batteria possa scaricarsi subito.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-073-05",
+"question": "Cosa succederebbe spegnendo i dispositivi alle ventidue?",
+"reponses": [
+{ "id": "a", "texte": "La qualità del riposo migliorerebbe e l'ansia diminuirebbe.", "correcte": true },
+{ "id": "b", "texte": "Il telefono perderebbe tutti i dati salvati in memoria.", "correcte": false },
+{ "id": "c", "texte": "I ragazzi avrebbero serie difficoltà a svegliarsi all'alba.", "correcte": false },
+{ "id": "d", "texte": "Sarebbe impossibile ricevere le notifiche scolastiche importanti.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-073-06",
+"question": "Quale capacità viene ridotta dalla dipendenza dallo schermo?",
+"reponses": [
+{ "id": "a", "texte": "La capacità di concentrazione nello studio.", "correcte": true },
+{ "id": "b", "texte": "La velocità nel digitare testi sulla tastiera.", "correcte": false },
+{ "id": "c", "texte": "La memoria a lungo termine per i numeri telefonici.", "correcte": false },
+{ "id": "d", "texte": "L'abilità di scattare fotografie ad alta risoluzione.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-073-07",
+"question": "Quale iniziativa familiare viene suggerita alla fine dallo psicologo?",
+"reponses": [
+{ "id": "a", "texte": "Promuovere giornate di disconnessione totale in famiglia.", "correcte": true },
+{ "id": "b", "texte": "Comprare un secondo smartphone per scopi puramente didattici.", "correcte": false },
+{ "id": "c", "texte": "Vietare l'uso dei social network fino alla maggiore età.", "correcte": false },
+{ "id": "d", "texte": "Sostituire i libri cartacei con moderni schermi digitali.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b074",
+"titre": "Si può imparare efficacemente attraverso i video online?",
+"titre2": "Esercizio b074",
+"texte": [
+"- Ciao Marco! Ho visto che stai seguendo un canale internet che spiega la programmazione informatica attraverso brevi filmati. Pensi che si possa imparare davvero così?",
+"- Ciao Elena. Sinceramente, all'inizio ero molto scettico. Credevo che i video online fossero utili solo per l'intrattenimento o per ricette di cucina. Tuttavia, ho dovuto ricredermi. La combinazione di spiegazioni verbali ed esempi visivi rende i concetti complessi molto più chiari rispetto a un manuale cartaceo tradizionale.",
+"- Capisco il vantaggio visivo, ma non credi che manchi l'interazione con un docente reale che possa correggere i tuoi errori?",
+"- Questo è indubbiamente lo svantaggio principale. Se non capisci un passaggio, non puoi fare una domanda immediata. La flessibilità, però, è straordinaria: se fossi stanco, potrei interrompere la lezione e rivederla infinite volte a qualsiasi ora della notte.",
+"- È vero, l'autonomia è totale. Credo però che richieda una disciplina personale ferrea. Senza un professore che ti controlla, il rischio di distrarsi saltando da un video all'altro è altissimo.",
+"- Hai perfettamente ragione. I video online sono eccezionali strumenti di supporto didattico, ma funzionano solo se lo studente possiede una forte motivazione interna e non pretende di sostituire completamente la scuola reale."
+],
+"audios": [
+{ "id": "audio-it-read-b1-074-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-b1-074-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-074-01",
+"question": "Quale materia sta studiando Marco attraverso i video online?",
+"reponses": [
+{ "id": "a", "texte": "Storia dell'arte medievale europea.", "correcte": false },
+{ "id": "b", "texte": "Programmazione informatica.", "correcte": true },
+{ "id": "c", "texte": "Lingua spagnola commerciale.", "correcte": false },
+{ "id": "d", "texte": "Cucina tradizionale meridionale.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-074-02",
+"question": "Cosa credeva Marco riguardo ai filmati internet prima di ricredersi?",
+"reponses": [
+{ "id": "a", "texte": "Che fossero utili solo per l'intrattenimento o ricette.", "correcte": true },
+{ "id": "b", "texte": "Che fossero troppo costosi per gli studenti universitari.", "correcte": false },
+{ "id": "c", "texte": "Che contenessero troppe informazioni false o non verificate.", "correcte": false },
+{ "id": "d", "texte": "Che richiedessero una connessione internet troppo veloce.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-074-03",
+"question": "Perché i video rendono i concetti più chiari rispetto a un manuale?",
+"reponses": [
+{ "id": "a", "texte": "Perché utilizzano una lingua molto più semplice e infantile.", "correcte": false },
+{ "id": "b", "texte": "Perché combinano spiegazioni verbali ed esempi visivi.", "correcte": true },
+{ "id": "c", "texte": "Perché i professori online sono più famosi di quelli reali.", "correcte": false },
+{ "id": "d", "texte": "Perché non contengono formule matematiche complesse.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-074-04",
+"question": "Qual è lo svantaggio principale evidenziato da Elena?",
+"reponses": [
+{ "id": "a", "texte": "La mancanza di interazione con un docente reale.", "correcte": true },
+{ "id": "b", "texte": "La pessima qualità audio dei canali gratuiti.", "correcte": false },
+{ "id": "c", "texte": "L'obbligo di iscriversi a piattaforme a pagamento.", "correcte": false },
+{ "id": "d", "texte": "La durata eccessiva di ogni singola lezione visiva.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-074-05",
+"question": "Quale esempio di flessibilità straordinaria cita Marco?",
+"reponses": [
+{ "id": "a", "texte": "Poter superare gli esami senza dover fare test scritti.", "correcte": false },
+{ "id": "b", "texte": "Ottenere un diploma valido all'estero in pochi giorni.", "correcte": false },
+{ "id": "c", "texte": "Poter interrompere e rivedere la lezione a qualsiasi ora.", "correcte": true },
+{ "id": "d", "texte": "Condividere lo schermo con altri studenti stranieri.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-074-06",
+"question": "Quale grave rischio comporta la mancanza di un professore secondo Elena?",
+"reponses": [
+{ "id": "a", "texte": "Il rischio elevato di distrarsi saltando da un video all'altro.", "correcte": true },
+{ "id": "b", "texte": "La possibilità di danneggiare la memoria del computer.", "correcte": false },
+{ "id": "c", "texte": "Il pericolo di dimenticare le nozioni apprese in passato.", "correcte": false },
+{ "id": "d", "texte": "Una forte stanchezza visiva dovuta alla scarsa luce.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-074-07",
+"question": "Qual è la conclusione di Marco sul ruolo di questi strumenti digitali?",
+"reponses": [
+{ "id": "a", "texte": "Devono sostituire completamente le scuole tradizionali vecchie.", "correcte": false },
+{ "id": "b", "texte": "Sono utili solo se associati a libri cartacei costosi.", "correcte": false },
+{ "id": "c", "texte": "Sono ottimi supporti se lo studente ha forte motivazione.", "correcte": true },
+{ "id": "d", "texte": "Richiedono l'approvazione formale del ministero dell'istruzione.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b075",
+"titre": "I pericoli delle notizie false su Internet",
+"titre2": "Esercizio b075",
+"texte": [
+"In questo discorso rivolto agli studenti delle scuole superiori, il giornalista scientifico mette in guardia contro la proliferazione delle bufale online.",
+"Cari ragazzi, oggi internet ci permette di accedere a milioni di informazioni in un milionesimo di secondo. Questa è una libertà democratica straordinaria, ma nasconde un pericolo enorme: le notizie false, comunemente chiamate 'fake news'. Spesso queste bufale vengono create artificialmente da siti web senza scrupoli solo per attirare clic, generare profitti pubblicitari o manipolare l'opinione pubblica su temi sensibili come la salute o la politica.",
+"Il problema principale è che le notizie false sono progettate per colpire le nostre emozioni profonde, come la paura o la rabbia, e per questo si diffondono sui social network molto più rapidamente delle smentite ufficiali. Se gli utenti verificassero le fonti prima di condividere un articolo, la catena della disinformazione si spezzerebbe immediatamente. Non credete a tutto ciò che leggete solo perché ha un titolo sensazionale.",
+"Imparare a riconoscere una notizia falsa è un atto di responsabilità civile. Controllate sempre se la testata giornalistica è affidabile, se la notizia è riportata da altre fonti autorevoli e se le immagini sono autentiche. Sviluppare un pensiero critico e dubitare delle informazioni troppo assurde è l'unico scudo efficace che possediamo per difendere la verità e la nostra libertà di scelta."
+],
+"audios": [
+{ "id": "audio-it-read-b1-075-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-b1-075-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-075-01",
+"question": "Chi è l'oratore del discorso presente nel testo?",
+"reponses": [
+{ "id": "a", "texte": "Un professore di informatica dell'università.", "correcte": false },
+{ "id": "b", "texte": "Un giornalista scientifico rivolto agli studenti.", "correcte": true },
+{ "id": "c", "texte": "Un politico che presenta una nuova legge sul web.", "correcte": false },
+{ "id": "d", "texte": "Il direttore di una famosa piattaforma social.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-075-02",
+"question": "Per quale motivo principale i siti web senza scrupoli creano notizie false?",
+"reponses": [
+{ "id": "a", "texte": "Per attirare clic, generare profitti o manipolare l'opinione.", "correcte": true },
+{ "id": "b", "texte": "Per testare la velocità di caricamento delle pagine internet.", "correcte": false },
+{ "id": "c", "texte": "Per divertire gli utenti con storie umoristiche inventate.", "correcte": false },
+{ "id": "d", "texte": "Perché non conoscono le regole del giornalismo moderno.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-075-03",
+"question": "Quali temi sensibili vengono influenzati dalle bufale online?",
+"reponses": [
+{ "id": "a", "texte": "La moda giovanile e lo sport agonistico locale.", "correcte": false },
+{ "id": "b", "texte": "La salute e la politica delle nazioni.", "correcte": true },
+{ "id": "c", "texte": "La tecnologia dei computer e la cucina stellata.", "correcte": false },
+{ "id": "d", "texte": "L'archeologia e i viaggi low-cost all'estero.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-075-04",
+"question": "Perché le fake news si diffondono più rapidamente delle smentite?",
+"reponses": [
+{ "id": "a", "texte": "Perché sono scritte in un carattere tipografico più grande.", "correcte": false },
+{ "id": "b", "texte": "Perché le autorità non hanno tempo di rispondere online.", "correcte": false },
+{ "id": "c", "texte": "Perché sono progettate per colpire le emozioni come paura o rabbia.", "correcte": true },
+{ "id": "d", "texte": "Perché vengono inviate direttamente tramite posta elettronica.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-075-05",
+"question": "Cosa spezzerebbe immediatamente la catena della disinformazione?",
+"reponses": [
+{ "id": "a", "texte": "Se gli utenti verificassero le fonti prima di condividere.", "correcte": true },
+{ "id": "b", "texte": "La chiusura totale di internet durante le ore notturne.", "correcte": false },
+{ "id": "c", "texte": "L'eliminazione dei profili social privi di foto reali.", "correcte": false },
+{ "id": "d", "texte": "L'uso obbligatorio di computer scolastici controllati.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-075-06",
+"question": "Quali sono i tre elementi da controllare per verificare un articolo?",
+"reponses": [
+{ "id": "a", "texte": "L'affidabilità della testata, la presenza di altre fonti e l'autenticità delle foto.", "correcte": true },
+{ "id": "b", "texte": "La lunghezza del testo, il nome dell'autore e la datazione.", "correcte": false },
+{ "id": "c", "texte": "Il numero di commenti, i 'mi piace' ricevuti e la pubblicità.", "correcte": false },
+{ "id": "d", "texte": "La correttezza dei verbi, l'uso dei sinonimi e lo stile.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-075-07",
+"question": "Qual è l'unico scudo efficace che possediamo per difendere la verità?",
+"reponses": [
+{ "id": "a", "texte": "Sviluppare un pensiero critico e dubitare delle cose assurde.", "correcte": true },
+{ "id": "b", "texte": "Utilizzare programmi antivirus aggiornati sul computer.", "correcte": false },
+{ "id": "c", "texte": "Leggere solo i giornali cartacei acquistati in edicola.", "correcte": false },
+{ "id": "d", "texte": "Chiedere sempre il parere dei propri insegnanti di scuola.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b076",
+"titre": "L'intelligenza artificiale nella nostra vita quotidiana",
+"titre2": "Esercizio b076",
+"texte": [
+"Quando accendo lo smartphone al mattino, l'applicazione della mobilità mi suggerisce automaticamente il percorso più rapido per andare in ufficio, calcolando il traffico in tempo reale. Quando ascolto la musica, la piattaforma digitale crea una lista di canzoni basata esattamente sulle mie preferenze della settimana scorsa. Queste piccole comodità quotidiane dimostrano che l'intelligenza artificiale non è più un sogno della fantascienza, ma una realtà invisibile che gestisce gran parte delle nostre azioni.",
+"L'impatto dell'IA è straordinario in settori cruciali come la medicina preventiva, dove gli algoritmi analizzano le immagini mediche individuando malattie complesse con una precisione superiore a quella umana. Se gli ospedali non adottassero questi sistemi intelligenti, la velocità delle diagnosi calerebbe del cinquanta percento. Tuttavia, questa automazione totale solleva dubbi etici enormi, legati soprattutto al controllo umano e alla scomparsa di molti posti di lavoro tradizionali.",
+"La tecnologia si sta evolvendo a un ritmo talmente rapido che spesso la società non ha il tempo di riflettere sulle conseguenze a lungo termine. L'intelligenza artificiale rappresenta uno strumento potentissimo che può migliorare drasticamente l'efficienza globale, ma spetta a noi stabilire confini etici severi. La tecnologia deve rimanere un aiuto prezioso al servizio dell'essere umano, senza mai pretendere di sostituire l'empatia, la coscienza e la responsabilità morale."
+],
+"audios": [
+{ "id": "audio-it-read-b1-076-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-b1-076-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-076-01",
+"question": "Quale esempio di comodità legata alla mobilità viene citato all'inizio?",
+"reponses": [
+{ "id": "a", "texte": "Un sistema di guida automatica dell'automobile privata.", "correcte": false },
+{ "id": "b", "texte": "Il suggerimento automatico del percorso più rapido per l'ufficio.", "correcte": true },
+{ "id": "c", "texte": "L'acquisto online dei biglietti del treno ad alta velocità.", "correcte": false },
+{ "id": "d", "texte": "Il blocco del traffico nei giorni di massima allerta smog.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-076-02",
+"question": "Come agisce la piattaforma musicale grazie all'intelligenza artificiale?",
+"reponses": [
+{ "id": "a", "texte": "Crea una lista di canzoni basata sulle preferenze dell'utente.", "correcte": true },
+{ "id": "b", "texte": "Aumenta automaticamente il costo dell'abbonamento mensile.", "correcte": false },
+{ "id": "c", "texte": "Elimina le canzoni vecchie scritte in lingua straniera.", "correcte": false },
+{ "id": "d", "texte": "Invia messaggi pubblicitari commerciali durante l'ascolto.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-076-03",
+"question": "Quale vantaggio offre l'IA nel settore della medicina preventiva?",
+"reponses": [
+{ "id": "a", "texte": "Permette di produrre farmaci biologici senza l'uso di laboratori.", "correcte": false },
+{ "id": "b", "texte": "Riduce il costo economico delle visite specialistiche private.", "correcte": false },
+{ "id": "c", "texte": "Analizza le immagini mediche individuando malattie con alta precisione.", "correcte": true },
+{ "id": "d", "texte": "Sostituisce completamente la figura dell'infermiere in corsia.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-076-04",
+"question": "Cosa succederebbe se gli ospedali rifiutassero i sistemi intelligenti?",
+"reponses": [
+{ "id": "a", "texte": "La velocità delle diagnosi calerebbe del cinquanta percento.", "correcte": true },
+{ "id": "b", "texte": "I medici chiederebbero il trasferimento in altre strutture estere.", "correcte": false },
+{ "id": "c", "texte": "Il numero di errori infermieristici aumenterebbe di molto.", "correcte": false },
+{ "id": "d", "texte": "I macchinari delle radiografie smetterebbero di funzionare.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-076-05",
+"question": "Quale minaccia sociale preoccupa l'autore riguardo all'automazione?",
+"reponses": [
+{ "id": "a", "texte": "L'aumento dei consumi di energia elettrica dei computer.", "correcte": false },
+{ "id": "b", "texte": "La scomparsa di molti posti di lavoro tradizionali.", "correcte": true },
+{ "id": "c", "texte": "Il peggioramento delle competenze linguistiche scolastiche.", "correcte": false },
+{ "id": "d", "texte": "La perdita di interesse per le attività sportive reali.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-076-06",
+"question": "Perché la società fatica a comprendere le conseguenze dell'IA?",
+"reponses": [
+{ "id": "a", "texte": "Perché le leggi nazionali vietano la pubblicazione dei dati.", "correcte": false },
+{ "id": "b", "texte": "A causa del disinteresse generale dei giovani studenti.", "correcte": false },
+{ "id": "c", "texte": "Perché la tecnologia si sta evolvendo a un ritmo troppo rapido.", "correcte": true },
+{ "id": "d", "texte": "Perché i manuali tecnici sono scritti solo in lingua inglese.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-076-07",
+"question": "Quali tre elementi umani non possono mai essere sostituiti dall'IA?",
+"reponses": [
+{ "id": "a", "texte": "L'empatia, la coscienza e la responsabilità morale.", "correcte": true },
+{ "id": "b", "texte": "La forza fisica, la velocità logica e la memoria visiva.", "correcte": false },
+{ "id": "c", "texte": "La precisione matematica, lo studio e il calcolo dei dati.", "correcte": false },
+{ "id": "d", "texte": "La capacità burocratica, la scrittura e l'archiviazione.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b077",
+"titre": "Perché dovremmo proteggere i nostri dati personali?",
+"titre2": "Esercizio b077",
+"texte": [
+"- Ciao Silvia, stavo leggendo i nuovi termini di utilizzo di quella famosa applicazione social. Ma tu leggi davvero tutto quel testo lunghissimo prima di accettare?",
+"- Ciao Paolo. Sì, faccio sempre molta attenzione. Troppe persone cliccano su 'accetto' senza capire che stanno regalando la propria privacy a multinazionali straniere. I nostri dati personali, come le abitudini di acquisto, i messaggi e la posizione geografica, hanno un valore economico enorme.",
+"- Sinceramente, Silvia, io non ci vedo nulla di male. Cosa potrebbero fare con le mie preferenze sui vestiti o sulle canzoni?",
+"- È qui che ti sbagli, Paolo. Attraverso quegli algoritmi, le aziende creano un profilo psicologico dettagliato di te, inviandoti pubblicità mirate che influenzano le tue scelte di consumo senza che tu te ne accorga. Nel peggiore dei casi, c'è il rischio di subire un furto d'identità finanziaria.",
+"- Ammetto che l'idea di essere profilato psicologicamente mi inquieta parecchio. Esistono strategie semplici per proteggersi online?",
+"- Certamente. Utilizzare password complesse e diverse per ogni sito, attivare l'autenticazione a due fattori e limitare i permessi di geolocalizzazione sul telefono cellulare. Custodire i dati significa difendere la propria libertà personale."
+],
+"audios": [
+{ "id": "audio-it-read-b1-077-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-b1-077-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-077-01",
+"question": "Quale comportamento di Paolo viene criticato all'inizio del dialogo?",
+"reponses": [
+{ "id": "a", "texte": "Rifiuta di aggiornare il software dello smartphone.", "correcte": false },
+{ "id": "b", "texte": "Accetta i termini di utilizzo dell'app senza leggerli.", "correcte": true },
+{ "id": "c", "texte": "Spende troppo denaro in acquisti commerciali online.", "correcte": false },
+{ "id": "d", "texte": "Condivide fotografie private con utenti sconosciuti.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-077-02",
+"question": "A chi regaliamo la nostra privacy secondo la riflessione di Silvia?",
+"reponses": [
+{ "id": "a", "texte": "A enti statali che controllano le tasse dei cittadini.", "correcte": false },
+{ "id": "b", "texte": "A gruppi di pirati informatici clandestini.", "correcte": false },
+{ "id": "c", "texte": "A multinazionali straniere che sfruttano il valore dei dati.", "correcte": true },
+{ "id": "d", "texte": "Ad associazioni di consumatori del quartiere.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-077-03",
+"question": "Quali tre esempi di dati personali vengono elencati nel testo?",
+"reponses": [
+{ "id": "a", "texte": "Le abitudini d'acquisto, i messaggi e la posizione geografica.", "correcte": true },
+{ "id": "b", "texte": "Il numero di scarpe, il colore degli occhi e la statura.", "correcte": false },
+{ "id": "c", "texte": "I voti scolastici, gli orari dei treni e il modello dell'auto.", "correcte": false },
+{ "id": "d", "texte": "I conti bancari, i nomi dei genitori e la marca del telefono.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-077-04",
+"question": "Cosa creano le aziende attraverso l'uso degli algoritmi?",
+"reponses": [
+{ "id": "a", "texte": "Un profilo psicologico dettagliato dell'utente.", "correcte": true },
+{ "id": "b", "texte": "Un sistema di sicurezza protetto da attacchi rari.", "correcte": false },
+{ "id": "c", "texte": "Un catalogo commerciale di prodotti biologici.", "correcte": false },
+{ "id": "d", "texte": "Una rete di comunicazione riservata agli impiegati.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-077-05",
+"question": "Qual è il pericolo più grave legato allo smarrimento della privacy?",
+"reponses": [
+{ "id": "a", "texte": "La ricezione di e-mail pubblicitarie durante la notte.", "correcte": false },
+{ "id": "b", "texte": "Il rischio concreto di subire un furto d'identità finanziaria.", "correcte": true },
+{ "id": "c", "texte": "L'impossibilità di aggiornare le applicazioni social.", "correcte": false },
+{ "id": "d", "texte": "La cancellazione automatica dei messaggi vecchi.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-077-06",
+"question": "Quali sono i tre consigli pratici suggeriti da Silvia per proteggersi?",
+"reponses": [
+{ "id": "a", "texte": "Usare password complesse, attivare l'autenticazione a due fattori e limitare la geolocalizzazione.", "correcte": true },
+{ "id": "b", "texte": "Spegnere internet di notte, cambiare telefono spesso e cancellare le foto.", "correcte": false },
+{ "id": "c", "texte": "Comprare un computer nuovo, usare nomi falsi e navigare poco al bar.", "correcte": false },
+{ "id": "d", "texte": "Consultare un avvocato, usare antivirus costosi e stampare le email.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-077-07",
+"question": "Cosa significa custodire i propri dati secondo la frase finale?",
+"reponses": [
+{ "id": "a", "texte": "Significa difendere la propria libertà personale.", "correcte": true },
+{ "id": "b", "texte": "Permette di risparmiare sui costi di connessione mobile.", "correcte": false },
+{ "id": "c", "texte": "Consente di evitare la pubblicità televisiva stradale.", "correcte": false },
+{ "id": "d", "texte": "Aiuta a velocizzare il funzionamento dello smartphone.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b078",
+"titre": "Videogiochi: divertimento o perdita di tempo?",
+"titre2": "Esercizio b078",
+"texte": [
+"La pioggia batteva contro i vetri della stanza quando Alessandro accese la sua console di gioco. Dopo una settimana intensa trascorsa sui libri universitari, considerava quel momento come una meritata ricompensa, un modo per immergersi in una narrazione fantastica ed esplorare mondi digitali complessi. Fino a qualche anno prima, i suoi genitori consideravano i videogiochi come una pura perdita di tempo che distruggeva la concentrazione dei giovani.",
+"Tuttavia, la ricerca scientifica moderna ha smentito questo vecchio pregiudizio culturale. Molti giochi di strategia stimolano le capacità cognitive superiori, allenano il cervello a risolvere problemi logici in pochi secondi e migliorano la coordinazione visiva. Se usati con moderazione, offrono un intrattenimento intelligente superiore alla televisione passiva. Il problema reale subentra quando manca il controllo del tempo.",
+"L'uso eccessivo, infatti, rischia di sfocare nel pericoloso isolamento sociale. Rimanere bloccati davanti allo schermo per più di quattro ore consecutive altera il ritmo del sonno e riduce l'interesse per lo sport reale e le relazioni umane. Alessandro lo sapeva bene: per questo motivo si imponeva sempre un timer di sessanta minuti. I videogiochi sono una splendida forma di divertimento se non diventano una prigione digitale."
+],
+"audios": [
+{ "id": "audio-it-read-b1-078-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-b1-078-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-078-01",
+"question": "In quale momento della settimana Alessandro decide di utilizzare la console?",
+"reponses": [
+{ "id": "a", "texte": "Al mattino presto prima di recarsi alle lezioni.", "correcte": false },
+{ "id": "b", "texte": "Durante la pausa pranzo in un ristorante del centro.", "correcte": false },
+{ "id": "c", "texte": "Dopo una settimana intensa trascorsa sui libri universitari.", "correcte": true },
+{ "id": "d", "texte": "Esclusivamente durante le vacanze estive con gli amici.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-078-02",
+"question": "Cosa pensavano inizialmente i genitori riguardo ai videogiochi?",
+"reponses": [
+{ "id": "a", "texte": "Li consideravano una pura perdita di tempo che distruggeva la mente.", "correcte": true },
+{ "id": "b", "texte": "Credevano che fossero utili per imparare le lingue straniere.", "correcte": false },
+{ "id": "c", "texte": "Pensavano che richiedessero una spesa economica troppo elevata.", "correcte": false },
+{ "id": "d", "texte": "Li ritenevano un ottimo strumento per fare ginnastica a casa.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-078-03",
+"question": "Quali abilità cognitive vengono stimolate dai giochi di strategia?",
+"reponses": [
+{ "id": "a", "texte": "La velocità di lettura dei testi letterari antichi.", "correcte": false },
+{ "id": "b", "texte": "La capacità di risolvere problemi logici in pochi secondi.", "correcte": true },
+{ "id": "c", "texte": "La memoria a lungo termine per le date storiche importanti.", "correcte": false },
+{ "id": "d", "texte": "La precisione nella scrittura manuale con la penna.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-078-04",
+"question": "A quale altra forma di intrattenimento vengono paragonati i videogiochi?",
+"reponses": [
+{ "id": "a", "texte": "Alla televisione passiva ordinaria.", "correcte": true },
+{ "id": "b", "texte": "Alla lettura dei romanzi d'avventura cartacei.", "correcte": false },
+{ "id": "c", "texte": "Ai giochi di società da tavolo tradizionali.", "correcte": false },
+{ "id": "d", "texte": "Alle attività sportive svolte nei parchi pubblici.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-078-05",
+"question": "Quale grave pericolo sociale comporta l'uso eccessivo del dispositivo?",
+"reponses": [
+{ "id": "a", "texte": "Il rischio di sviluppare una forte allergia alla plastica.", "correcte": false },
+{ "id": "b", "texte": "La perdita della capacità di concentrarsi di giorno.", "correcte": false },
+{ "id": "c", "texte": "Il rischio di scivolare in un pericoloso isolamento sociale.", "correcte": true },
+{ "id": "d", "texte": "La diminuzione dell'appetito durante le ore serali.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-078-06",
+"question": "Quale limite di tempo si imponeva Alessandro tramite un timer?",
+"reponses": [
+{ "id": "a", "texte": "Esattamente trenta minuti al mattino.", "correcte": false },
+{ "id": "b", "texte": "Un timer di sessanta minuti per sessione.", "correcte": true },
+{ "id": "c", "texte": "Più di due ore distribuite durante il giorno.", "correcte": false },
+{ "id": "d", "texte": "Fino a quattro ore consecutive nei giorni piovosi.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-078-07",
+"question": "Cosa rischiano di diventare i videogiochi se usati senza controllo?",
+"reponses": [
+{ "id": "a", "texte": "Una vera e propria prigione digitale.", "correcte": true },
+{ "id": "b", "texte": "Uno strumento didattico inutile per le scuole superiori.", "correcte": false },
+{ "id": "c", "texte": "Un costo eccessivo per il bilancio economico mensile.", "correcte": false },
+{ "id": "d", "texte": "Un motivo di conflitto violento con gli amici universitari.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b079",
+"titre": "La televisione influenza il nostro comportamento?",
+"titre2": "Esercizio b079",
+"texte": [
+"Davanti alla platea di insegnanti, il sociologo dei media analizza i meccanismi psicologici legati al consumo dei programmi televisivi tradizionali.",
+"Cari colleghi, la televisione è presente nelle nostre case da oltre settant'anni, ma la sua capacità di influenzare il comportamento collettivo rimane immutata. Spesso tendiamo a considerarla come un elettrodomestico innocuo, un semplice sottofondo sonoro mentre consumiamo la cena in famiglia. Ma la realtà mediatica è ben diversa. Le immagini, i messaggi pubblicitari e i modelli culturali trasmessi dallo schermo penetrano nel nostro subconscio.",
+"I dati dimostrano che l'esposizione prolungata a programmi violenti o a telegiornali allarmistici aumenta l'ansia sociale e la percezione di un mondo costantemente insicuro, modificando le nostre scelte politiche ed economiche. Se le persone guardassero meno televisione commerciale, il livello di paura collettiva diminuirebbe. Inoltre, la TV influenza pesantemente i modelli di consumo dei bambini, spingendoli a desiderare cibo spazzatura.",
+"Non dobbiamo demonizzare lo strumento, ma educare gli spettatori a una fruizione consapevole. Spegnere la TV durante i pasti principali, selezionare accuratamente i contenuti culturali e stimolare il dibattito critico in famiglia sono azioni necessarie. Lo schermo deve tornare a essere una finestra sul mondo reale, non una barriera artificiale che isola le persone all'interno delle loro case."
+],
+"audios": [
+{ "id": "audio-it-read-b1-079-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-b1-079-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-079-01",
+"question": "Da quanti anni la televisione è presente all'interno delle case secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "Da poco più di venti anni grazie alla rete digitale.", "correcte": false },
+{ "id": "b", "texte": "Da oltre settant'anni di storia dei media.", "correcte": true },
+{ "id": "c", "texte": "Esattamente un secolo a partire dalle grandi metropoli.", "correcte": false },
+{ "id": "d", "texte": "Da circa cinquanta anni sparsi nelle regioni del nord.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-079-02",
+"question": "Quale errore comune commettiamo riguardo alla TV secondo il sociologo?",
+"reponses": [
+{ "id": "a", "texte": "Considerarla come un elettrodomestico innocuo o sottofondo.", "correcte": true },
+{ "id": "b", "texte": "Dimenticare di spegnerla quando usciamo di casa.", "correcte": false },
+{ "id": "c", "texte": "Credere che consumi troppa energia elettrica costosa.", "correcte": false },
+{ "id": "d", "texte": "Pensare che sia utile solo per gli studenti piccoli.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-079-03",
+"question": "Dove penetrano i modelli culturali trasmessi dallo schermo?",
+"reponses": [
+{ "id": "a", "texte": "Nelle nostre tasche a causa della spesa pubblicitaria.", "correcte": false },
+{ "id": "b", "texte": "Nelle relazioni d'ufficio con i direttori aziendali.", "correcte": false },
+{ "id": "c", "texte": "All'interno del nostro subconscio psicologico.", "correcte": true },
+{ "id": "d", "texte": "Nelle aule scolastiche durante le lezioni scritte.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-079-04",
+"question": "Quale conseguenza psicologica deriva dai telegiornali allarmistici?",
+"reponses": [
+{ "id": "a", "texte": "Un aumento dell'ansia sociale e della percezione di insicurezza.", "correcte": true },
+{ "id": "b", "texte": "La totale perdita della memoria storica nazionale.", "correcte": false },
+{ "id": "c", "texte": "Un forte desiderio di viaggiare in paesi lontani esotici.", "correcte": false },
+{ "id": "d", "texte": "La noia dovuta alla ripetizione delle medesime notizie.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-079-05",
+"question": "Cosa succederebbe se la popolazione guardasse meno TV commerciale?",
+"reponses :": [
+{ "id": "a", "texte": "Il livello di paura collettiva diminuirebbe di molto.", "correcte": true },
+{ "id": "b", "texte": "I prezzi degli alimenti sani aumenterebbero subito.", "correcte": false },
+{ "id": "c", "texte": "Le aziende smetterebbero di produrre schermi digitali.", "correcte": false },
+{ "id": "d", "texte": "I bambini otterrebbero voti scolastici più alti a scuola.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-079-06",
+"question": "Quale consiglio pratico viene dato riguardo ai pasti principali?",
+"reponses": [
+{ "id": "a", "texte": "Tenere il volume al minimo per poter parlare a bassa voce.", "correcte": false },
+{ "id": "b", "texte": "Spegnere completamente la televisione.", "correcte": true },
+{ "id": "c", "texte": "Guardare solo documentari scientifici sulla natura rari.", "correcte": false },
+{ "id": "d", "texte": "Spostare l'elettrodomestico all'esterno della cucina di casa.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-079-07",
+"question": "Come viene definito lo schermo nell'auspicio finale dell'oratore?",
+"reponses": [
+{ "id": "a", "texte": "Una finestra sul mondo reale al servizio delle persone.", "correcte": true },
+{ "id": "b", "texte": "Un ostacolo burocratico per lo sviluppo civile delle menti.", "correcte": false },
+{ "id": "c", "texte": "Uno strumento di intrattenimento puramente commerciale e costoso.", "correcte": false },
+{ "id": "d", "texte": "Un lusso tecnologico destinato a scomparire nel futuro.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b080",
+"titre": "Come utilizzare le nuove tecnologie in modo responsabile?",
+"titre2": "Esercizio b080",
+"texte": [
+"- Ciao Roberta! Ti vedo intenta a disattivare tutte le notifiche luminose sul tuo cellulare portatile. Come mai questo cambiamento drastico?",
+"- Ciao Giovanni. Ho capito che la tecnologia stava controllando la mia mente. Ogni volta che sentivo un suono, interrompevo ciò che stavo facendo, dallo studio alla cena in famiglia. Ho deciso di imparare a utilizzare questi strumenti in modo molto più responsabile.",
+"- È una scelta saggia. Spesso diamo la colpa ai computer o a internet per lo stress quotidiano, ma il problema reale risiede nel nostro comportamento indisciplinato. Siamo noi che non mettiamo mai confini digitali.",
+"- Esatto. Le nuove tecnologie offrono vantaggi straordinari se gestite bene. Ad esempio, stabilire orari rigidi di disconnessione notturna o vietare gli smartphone a tavola restituisce spazio alla vita reale. Se lo facessimo tutti, l'ansia sociale diminuirebbe.",
+"- Sono d'accordo. Utilizzare la tecnologia responsabilmente significa anche verificare le fonti delle notizie prima di condividerle e proteggere i dati sensibili. Lo strumento deve rimanere un servitore, non un padrone delle nostre giornate.",
+"- Hai perfettamente ragione. Da stasera il mio telefono rimarrà spento in salotto a partire dalle ventuno, così potrò godermi la lettura di un buon libro cartaceo senza interruzioni."
+],
+"audios": [
+{ "id": "audio-it-read-b1-080-1", "url": "soundcloud.com" },
+{ "id": "audio-it-read-b1-080-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-it-read-b1-080-01",
+"question": "Quale azione concreta sta compiendo Roberta all'inizio della conversazione?",
+"reponses": [
+{ "id": "a", "texte": "Disattiva tutte le notifiche luminose sul suo cellulare.", "correcte": true },
+{ "id": "b", "texte": "Cancella definitivamente i suoi profili dai social network.", "correcte": false },
+{ "id": "c", "texte": "Acquista un nuovo modello di smartphone online.", "correcte": false },
+{ "id": "d", "texte": "Invia una e-mail di lavoro importante al suo direttore.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-
+b1-080-02",
+"question": "Cosa accadeva a Roberta ogni volta che sentiva un suono del telefono?",
+"reponses": [
+{ "id": "a", "texte": "Provava una forte sensazione di rabbia ingiustificata.", "correcte": false },
+{ "id": "b", "texte": "Interrompeva ciò che stava facendo, dallo studio alla cena.", "correcte": true },
+{ "id": "c", "texte": "Spegneva il dispositivo per evitare ulteriori rumori.", "correcte": false },
+{ "id": "d", "texte": "Rispondeva immediatamente utilizzando messaggi vocali lunghi.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-080-03",
+"question": "Dove risiede il problema reale dello stress tecnologico secondo Giovanni?",
+"reponses": [
+{ "id": "a", "texte": "Nel costo economico troppo elevato delle connessioni internet.", "correcte": false },
+{ "id": "b", "texte": "Nel cattivo funzionamento del software dei dispositivi vecchi.", "correcte": false },
+{ "id": "c", "texte": "Nel nostro comportamento indisciplinato e senza confini.", "correcte": true },
+{ "id": "d", "texte": "Nella mancanza di applicazioni dedicate al rilassamento muscolare.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-080-04",
+"question": "Quali due semplici regole comportamentali a tavola vengono citate?",
+"reponses": [
+{ "id": "a", "texte": "Tenere il telefono silenzioso e posizionarlo sul tavolo.", "correcte": false },
+{ "id": "b", "texte": "Disconnettere la rete internet di casa e usare solo il computer.", "correcte": false },
+{ "id": "c", "texte": "Stabilire orari di disconnessione e vietare gli smartphone.", "correcte": true },
+{ "id": "d", "texte": "Rispondere solo alle chiamate urgenti dei familiari intimi.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-080-05",
+"question": "Cosa succederebbe applicando questi confini digitali collettivamente?",
+"reponses": [
+{ "id": "a", "texte": "La concentrazione degli studenti universitari calerebbe del tutto.", "correcte": false },
+{ "id": "b", "texte": "L'ansia sociale diffusa diminuirebbe nel tempo.", "correcte": true },
+{ "id": "c", "texte": "Le aziende di telecomunicazioni subirebbero forti perdite economiche.", "correcte": false },
+{ "id": "d", "texte": "I telefoni cellulari portatili durerebbero molti più anni.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-080-06",
+"question": "Cosa significa anche utilizzare la tecnologia in modo responsabile secondo il testo?",
+"reponses": [
+{ "id": "a", "texte": "Verificare le fonti delle notizie e proteggere i dati sensibili.", "correcte": true },
+{ "id": "b", "texte": "Utilizzare solo computer ad altissima velocità logica.", "correcte": false },
+{ "id": "c", "texte": "Sostituire i vecchi schermi con modelli a basso consumo energetico.", "correcte": false },
+{ "id": "d", "texte": "Scrivere messaggi brevi evitando l'uso di parole complesse rari.", "correcte": false }
+]
+},
+{
+"id": "q-it-read-b1-080-07",
+"question": "Quale decisione finale prende Roberta per la serata a partire dalle ventuno?",
+"reponses": [
+{ "id": "a", "texte": "Lasciare lo smartphone acceso sul comodino della stanza.", "correcte": false },
+{ "id": "b", "texte": "Il telefono rimarrà spento in salotto per godersi un libro.", "correcte": true },
+{ "id": "c", "texte": "Utilizzare il computer portatile solo per guardare un film d'arte.", "correcte": false },
+{ "id": "d", "texte": "Fare una passeggiata nel parco del quartiere senza dispositivi.", "correcte": false }
+]
+}
+]
 }
 ]
