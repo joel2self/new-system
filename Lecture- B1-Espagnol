@@ -5380,11 +5380,16 @@
           { "id": "c", "texte": "Transforman los azúcares refinados del aire en nitrógeno.", "correcte": false },
           { "id": "d", "texte": "Reducen la humedad ambiental durante las olas de calor.", "correcte": false }
         ]
-        { "id": "a", "texte": "Aceleraríamos el calentamiento global de manera irreversible.", "correcte": true },
-{ "id": "b", "texte": "El nivel del mar Cantábrico bajaría de forma rápida.", "correcte": false },
-{ "id": "c", "texte": "Las temperaturas estivales se volverían mucho más suaves.", "correcte": false },
-{ "id": "d", "texte": "Las especies animales se mudarían a los pisos de la ciudad.", "correcte": false }
-]
+        },
+          {
+            "id": "q-es-read-b1-062-04",
+            "question": "¿Qué ocurriría si destruyéramos el Amazonas o las zonas boscosas?",
+            "reponses": [
+              { "id": "a", "texte": "Aceleraríamos el calentamiento global de manera irreversible.", "correcte": true },
+              { "id": "b", "texte": "El nivel del mar Cantábrico bajaría de forma rápida.", "correcte": false },
+              { "id": "c", "texte": "Las temperaturas estivales se volverían mucho más suaves.", "correcte": false },
+              { "id": "d", "texte": "Las especies animales se mudarían a los pisos de la ciudad.", "correcte": false }
+            ]
 },
 {
 "id": "q-es-read-b1-062-05",
@@ -6418,7 +6423,7 @@
 ]
 },
 {
-"id": "q-es-read-b1-030-03",
+"id": "q-es-read-b1-074-03",
 "question": "¿Por qué los clips didácticos aclaran mejor los conceptos que los textos escritos?",
 "reponses": [
 { "id": "a", "texte": "Porque combinan pautas verbales con ejemplos visuales dinámicos.", "correcte": true },
