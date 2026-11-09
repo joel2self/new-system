@@ -869,5 +869,867 @@
 ]
 }
 ]
+},
+{
+    "id": "b011",
+    "titre": "当今的父母与子女关系",
+    "titre2": "练习 b011",
+    "texte": [
+      "- 嗨，丽丽！你看起来心情不太好，是不是又和父母因为手机的问题吵架了？",
+      "- 嗨，小明。被你猜中了。我总觉得他们不理解我的世界。在他们眼里，我只要一用手机，就是在浪费时间，可这明明是我和朋友交流、获取新知识的重要工具。",
+      "- 这确实是现代家庭中一个非常普遍的矛盾。技术的发展让两代人之间产生了一种数字鸿沟。父母那一代人习惯了面对面的传统沟通，而我们更习惯在线上快速交流。",
+      "- 是的。但我希望他们能明白，时代已经变了。如果他们能尝试放下偏见，多听听我的想法，我们的关系也许就不会这么紧张了。",
+      "- 沟通确实是双向的，丽丽。也许你也可以尝试主动和他们分享你在网上学到的有趣知识。只要双方都愿意付出耐心，找到一种平衡，家庭关系就会变得更加和谐、温暖。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-b1-011-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-b1-011-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-b1-011-01",
+        "question": "丽丽和父母吵架的主要原因是什么？",
+        "reponses": [
+          { "id": "a", "texte": "关于手机使用问题的矛盾与不理解", "correcte": true },
+          { "id": "b", "texte": "丽丽在学校的期末考试成绩不理想", "correcte": false },
+          { "id": "c", "texte": "丽丽拒绝承担家里日常的清洁家务", "correcte": false },
+          { "id": "d", "texte": "关于未来大学专业选择的意见不合", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-011-02",
+        "question": "在父母眼里，丽丽用手机通常被看作是什么？",
+        "reponses": [
+          { "id": "a", "texte": "一种非常高效的学习方式", "correcte": false },
+          { "id": "b", "texte": "一种毫无意义的浪费时间", "correcte": true },
+          { "id": "c", "texte": "提升职场沟通能力的有效途径", "correcte": false },
+          { "id": "d", "texte": "了解外部世界变化的唯一渠道", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-011-03",
+        "question": "丽丽认为手机对她有什么重要的功能？",
+        "reponses": [
+          { "id": "a", "texte": "与朋友交流以及获取新的知识", "correcte": true },
+          { "id": "b", "texte": "购买最新款的时尚潮流服装", "correcte": false },
+          { "id": "c", "texte": "管理自己在国家银行的账户资金", "correcte": false },
+          { "id": "d", "texte": "在线上进行高强度的逻辑测试", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-011-04",
+        "question": "小明认为两代人之间产生矛盾的根本原因是什么？",
+        "reponses": [
+          { "id": "a", "texte": "技术发展给两代人带来了数字鸿沟", "correcte": true },
+          { "id": "b", "texte": "城市生活成本的提高加剧了压力", "correcte": false },
+          { "id": "c", "texte": "两代人的睡眠作息时间完全不同", "correcte": false },
+          { "id": "d", "texte": "学校教育管理制度进行了重大改革", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-011-05",
+        "question": "父母那一代人更习惯于什么样的沟通方式？",
+        "reponses": [
+          { "id": "a", "texte": "使用复杂的办公软件发送邮件", "correcte": false },
+          { "id": "b", "texte": "传统的、面对面的直接沟通", "correcte": true },
+          { "id": "c", "texte": "通过各种手机社交平台的视频功能", "correcte": false },
+          { "id": "d", "texte": "通过书写纸质的信件来表达情感", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-011-06",
+        "question": "丽丽希望父母在行为上做出什么改变？",
+        "reponses": [
+          { "id": "a", "texte": "尝试放下偏并见多听听她的想法", "correcte": true },
+          { "id": "b", "texte": "为她购买最新一代的高科技手机", "correcte": false },
+          { "id": "c", "texte": "允许她搬出去和朋友们独自生活", "correcte": false },
+          { "id": "d", "texte": "增加她每个月的个人可支配零花钱", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-011-07",
+        "question": "小明建议丽丽采取什么主动的行动？",
+        "reponses": [
+          { "id": "a", "texte": "尝试主动和父母分享网上的有趣知识", "correcte": true },
+          { "id": "b", "texte": "通过短信真诚地向父母写长信道歉", "correcte": false },
+          { "id": "c", "texte": "减少每天在家里使用网络的时间块", "correcte": false },
+          { "id": "d", "texte": "邀请父母一起去社区的公园里运动", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b012",
+    "titre": "如何维持一段良好的友谊？",
+    "titre2": "练习 b012",
+    "texte": [
+      "友谊是人类生命中最珍贵的无形财富之一。然而，正如花园里的植物需要定期浇水一样，一段真诚的友谊也需要双方在日常生活中付出精力和时间来共同维护。许多人错误地认为，一旦建立了友谊，朋友就会永远留在身边，从而在忙碌的工作和学业中忽略了对朋友的关心。",
+      "维持友谊的关键首先在于保持定期的沟通。在现代快节奏的大都市生活中，我们即使再忙，也可以抽出一两分钟，通过手机发送一条简单的问候短信，或者在周末打一通简短的电话。这种微小的举动能让对方感受到自己依然被重视。如果长时间完全不联系，彼此的生活圈就会产生隔阂，共同话题也会逐渐减少。",
+      "另一个核心因素是学会倾听与理解。当朋友在职场或生活中遇到困难、感到焦虑时，我们需要做的是耐心陪伴，而不是盲目地给出低级的建议。能够站在对方的角度思考问题，并在关键时刻提供无私的支持，才是友谊的真正试金石。互相信任、彼此尊重，才能让一段情感经受住时间的考验，保持长久的生命力。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-b1-012-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-b1-012-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-b1-012-01",
+        "question": "文章开头把友谊比作了什么？",
+        "reponses": [
+          { "id": "a", "texte": "需要定期浇水的花园植物", "correcte": true },
+          { "id": "b", "texte": "需要精心保养的机械手表", "correcte": false },
+          { "id": "c", "texte": "储存在银行里的高额存款", "correcte": false },
+          { "id": "d", "texte": "指引长途旅行的古代指南针", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-012-02",
+        "question": "许多人在忙碌中容易犯什么关于友谊的错误？",
+        "reponses": [
+          { "id": "a", "texte": "忽略了对朋友的关心和维护", "correcte": true },
+          { "id": "b", "texte": "总是向朋友借用过多的资金", "correcte": false },
+          { "id": "c", "texte": "强求朋友和自己选择相同的工作", "correcte": false },
+          { "id": "d", "texte": "在社交媒体上泄露朋友的秘密", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-012-03",
+        "question": "在快节奏的生活中，作者建议如何保持沟通？",
+        "reponses": [
+          { "id": "a", "texte": "发一条问候短信或在周末打个简短电话", "correcte": true },
+          { "id": "b", "texte": "每天晚上必须在咖啡馆里见面聊天", "correcte": false },
+          { "id": "c", "texte": "共同撰写长篇的学术研究打印资料", "correcte": false },
+          { "id": "d", "texte": "经常给对方发送高清晰度的搞笑视频", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-012-04",
+        "question": "如果长时间完全不联系，朋友之间会发生什么？",
+        "reponses": [
+          { "id": "a", "texte": "生活圈会产生隔阂且共同话题减少", "correcte": true },
+          { "id": "b", "texte": "会立刻导致在办公室工作中犯错", "correcte": false },
+          { "id": "c", "texte": "双方都容易产生严重的失眠症状", "correcte": false },
+          { "id": "d", "texte": "会增加日常淡水和电能资源的开支", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-012-05",
+        "question": "当朋友感到焦虑和遇到困难时，我们应该怎么做？",
+        "reponses": [
+          { "id": "a", "texte": "耐心地进行陪伴并尝试去理解", "correcte": true },
+          { "id": "b", "texte": "盲目地给对方提出很多低级的建议", "correcte": false },
+          { "id": "c", "texte": "为对方在市中心租一个更便宜的房子", "correcte": false },
+          { "id": "d", "texte": "劝说对方放弃现在的学校或职业", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-012-06",
+        "question": "文章里提到的“友谊的真正试金石”是什么？",
+        "reponses": [
+          { "id": "a", "texte": "在关键时刻提供无私的支持", "correcte": true },
+          { "id": "b", "texte": "一起在周末去远方的乡村度假", "correcte": false },
+          { "id": "c", "texte": "互相赠送价格昂贵的电子礼品", "correcte": false },
+          { "id": "d", "texte": "能够经常在手机软件上一起玩游戏", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-012-07",
+        "question": "根据文章的结论，维持长久情感的基础是什么？",
+        "reponses": [
+          { "id": "a", "texte": "互相信任与彼此尊重", "correcte": true },
+          { "id": "b", "texte": "利益的交换和效率的管理", "correcte": false },
+          { "id": "c", "texte": "文化背景和学术能力的一致", "correcte": false },
+          { "id": "d", "texte": "完全没有任何时间安排上的冲突", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b013",
+    "titre": "兄弟姐妹之间的冲突",
+    "titre2": "练习 b013",
+    "texte": [
+      "在拥有多个子女的家庭中，兄弟姐妹之间的冲突几乎是一个无法避免的普遍现象。无论是年幼时为了争夺一件玩具，还是成年后因为性格差异或利益分配产生分歧，这种矛盾都会定期对家庭的和谐造成挑战。许多父母常常为此感到非常焦虑，甚至认为这是家庭教育失败的表现。",
+      "然而，心理学家指出，兄弟姐妹之间的良性冲突在本质上属于一种人际关系的实践体验。通过在安全的环境中解决与兄弟姐妹的摩擦，孩子们能够逐渐学会沟通、让步和建立边界。如果在发生争执时，各方能够尝试倾听对方的动机，而不是盲目地认为自己才是对的，很多分歧其实都是可以化解的。",
+      "关键在于父母的管理方式。父母不应该扮演僵硬的法官来强行评判对错，更不能通过偏心来打击某一方的自律。正确的做法是引导子女把注意力集中在客观事实和情感沟通上，培养他们独立、理性解决摩擦的能力。在充满尊重的家庭氛围中解决的冲突，往往能够转化为更牢固的亲情纽带。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-b1-013-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-b1-013-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-b1-013-01",
+        "question": "文章开头如何定义兄弟姐妹之间的冲突？",
+        "reponses": [
+          { "id": "a", "texte": "几乎是一个无法避免的普遍现象", "correcte": true },
+          { "id": "b", "texte": "一种纯粹由学校管理体制引起的错误", "correcte": false },
+          { "id": "c", "texte": "只发生在非常贫困和资源短缺的家庭里", "correcte": false },
+          { "id": "d", "texte": "一种仅在假期里才会偶然出现的意外", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-013-02",
+        "question": "父母看到子女发生冲突时，往往会有什么错误的心理？",
+        "reponses": [
+          { "id": "a", "texte": "认为这是家庭教育失败的表现而感到焦虑", "correcte": true },
+          { "id": "b", "texte": "觉得可以通过增加零花钱来彻底解决问题", "correcte": false },
+          { "id": "c", "texte": "相信随着年龄增长问题会自动在几秒内消失", "correcte": false },
+          { "id": "d", "texte": "感到完全无所谓并拒绝给以任何口头劝导", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-013-03",
+        "question": "心理学家认为，这种家庭内部的矛盾本质上是什么？",
+        "reponses": [
+          { "id": "a", "texte": "属于一种人际关系的实践体验", "correcte": true },
+          { "id": "b", "texte": "为了战胜办公室职场竞争的策略", "correcte": false },
+          { "id": "c", "texte": "导致青少年视觉 Fatigue 的主要因素", "correcte": false },
+          { "id": "d", "texte": "一种由基因遗传决定的生物学特征", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-013-04",
+        "question": "在安全环境中解决这些摩擦，可以帮孩子们学会什么？",
+        "reponses": [
+          { "id": "a", "texte": "学会沟通、学会让步以及建立个人边界", "correcte": true },
+          { "id": "b", "texte": "如何在考试中获得更优异的理论分数", "correcte": false },
+          { "id": "c", "texte": "如何熟练地在网上查阅各类数字资料", "correcte": false },
+          { "id": "d", "texte": "在购买商品时进行科学的财务省钱", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-013-05",
+        "question": "化解分歧的关键是各方采取什么态度？",
+        "reponses": [
+          { "id": "a", "texte": "尝试倾听对方的动机而不是自以为是", "correcte": true },
+          { "id": "b", "texte": "写一封长信通过学校管理层转交对方", "correcte": false },
+          { "id": "c", "texte": "把所有的责任都推卸给对方的自律上", "correcte": false },
+          { "id": "d", "texte": "通过电话或者网络要求对方进行赔偿", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-013-06",
+        "question": "文章不赞成父母在子女冲突中扮演什么样的角色？",
+        "reponses": [
+        { "id": "a", "texte": "扮演僵硬的法官来强行评判对错", "correcte": true },
+{ "id": "b", "texte": "扮演温柔的倾听者和理性的心理学家", "correcte": false },
+{ "id": "c", "texte": "扮演一个提供清凉淡水的家庭清洁员", "correcte": false },
+{ "id": "d", "texte": "扮演记录孩子们日常作息的时间规划师", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-013-07",
+"question": "根据结论，妥善解决冲突后矛盾会转化为什么？",
+"reponses": [
+{ "id": "a", "texte": "转化为更加牢固的亲情纽带", "correcte": true },
+{ "id": "b", "texte": "长期稳定的商业职场合作利益", "correcte": false },
+{ "id": "c", "texte": "学生在校园里的学业成功和效率", "correcte": false },
+{ "id": "d", "texte": "一种完全免受外部意外干扰的宁静", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b014",
+"titre": "家庭内部沟通的重要性",
+"titre2": "练习 b014",
+"texte": [
+"家庭是一个人情感的避风港，然而，家庭内部沟通的缺乏却时常成为破坏这种温馨氛围的隐形杀手。现代社会竞争激烈，父母忙于在办公室工作以应对开支，孩子们也面临着沉重的学业压力。大家下班或放学回到家里后，常常疲惫地坐在沙发上，各自抱着智能手机，把休闲时间变成了各自孤立的数字体验。",
+"这种长期缺乏深度交流的状况，容易在不知不觉中滋生误解。如果家庭成员能够意识到这一问题的严重性，每天关闭手机屏幕半个小时，情况就会大不相同。比如在厨房准备晚餐或在餐厅吃饭时，分享一下白天的趣事或遇到的困难，这就是一种极好的良性互动，能大大缓解心理上的焦虑。",
+"沟通不仅需要说，更需要用真诚的态度去倾听。不要在对方说话时不断地打断，也不要总是强加自己的理论。理解对方的压力并提供无私的心理支持，可以给家庭带来极大的稳定性。在一个彼此尊重、沟通顺畅的家庭环境里，成员们才能拥有面对外部世界风浪的坚强底气。"
+],
+"audios": [
+{ "id": "audio-zh-read-b1-014-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-b1-014-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-b1-014-01",
+"question": "文章开头把缺乏沟通称为什么？",
+"reponses": [
+{ "id": "a", "texte": "破坏温馨家庭氛围的隐形杀手", "correcte": true },
+{ "id": "b", "texte": "导致大都市交通陷入 colapso 的原因", "correcte": false },
+{ "id": "c", "texte": "一种无法通过法律手段解决的行政纠纷", "correcte": false },
+{ "id": "d", "texte": "由基因遗传引起的生理缺陷表现", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-014-02",
+"question": "是什么原因导致家庭成员平时没有时间沟通？",
+"reponses": [
+{ "id": "a", "texte": "父母忙于工作而孩子们面临沉重学业压力", "correcte": true },
+{ "id": "b", "texte": "家里天然气和水龙头的管道出现了故障", "correcte": false },
+{ "id": "c", "texte": "学校要求学生在周日背诵枯燥的教材", "correcte": false },
+{ "id": "d", "texte": "大家都去参加了社区的垃圾分类志愿者活动", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-014-03",
+"question": "回到家后，大家通常会有什么削弱沟通的行为？",
+"reponses": [
+{ "id": "a", "texte": "各自抱着智能手机过着孤立的数字体验", "correcte": true },
+{ "id": "b", "texte": "在卧室里翻阅打印好的文学历史书籍", "correcte": false },
+{ "id": "c", "texte": "和邻居们通过固定电话进行长时的谈话", "correcte": false },
+{ "id": "d", "texte": "在阳台上共同进行高强度的全身性体育锻炼", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-014-04",
+"question": "作者建议每天关闭手机屏幕多长时间来改善关系？",
+"reponses": [
+{ "id": "a", "texte": "每天关闭手机屏幕半个小时", "correcte": true },
+{ "id": "b", "texte": "在整个周末期间完全切断无线网络", "correcte": false },
+{ "id": "c", "texte": "仅在清晨起床后的最初十分钟内", "correcte": false },
+{ "id": "d", "texte": "连续一周不看电视或者任何商业新闻", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-014-05",
+"question": "文章提到了在哪些场景下适合进行家庭成员的互动？",
+"reponses": [
+{ "id": "a", "texte": "在厨房准备晚餐或在餐厅吃饭时", "correcte": true },
+{ "id": "b", "texte": "去中心区的电影院买票看电影时", "correcte": false },
+{ "id": "c", "texte": "在办公室和管理层进行业绩汇报时", "correcte": false },
+{ "id": "d", "texte": "去银行存钱或支付房子的租金时", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-014-06",
+"question": "在沟通的技巧方面，除了“说”，最核心的是什么？",
+"reponses": [
+{ "id": "a", "texte": "用真诚的态度去倾听对方而不打断", "correcte": true },
+{ "id": "b", "texte": "在网络上查阅各种实用的心理学教程", "correcte": false },
+{ "id": "c", "texte": "强行让对方接受自己的严格规划观点", "correcte": false },
+{ "id": "d", "texte": "纠正对方在发音或者用词上的逻辑错误", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-014-07",
+"question": "良好的家庭沟通氛围最终能给成员带来什么？",
+"reponses": [
+{ "id": "a", "texte": "带来面对外部世界风浪的坚强底气", "correcte": true },
+{ "id": "b", "texte": "确保能彻底消弭生活中的一切物质意外", "correcte": false },
+{ "id": "c", "texte": "提高在跨国企业里获得高薪工作的几率", "correcte": false },
+{ "id": "d", "texte": "帮助孩子们通过名校的自主招生考核", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b015",
+"titre": "一段在假期中建立的友谊",
+"titre2": "练习 b015",
+"texte": [
+"去年夏天，我独自去云南的一座古城旅游。那是我第一次尝试一个人远行，古城里充满了充满异国调调的建筑、 empedrado 的石路和五彩缤纷的当地手工艺品。一天下午，为了逃避正午炎热的阳光，我走进了一家隐藏在安静小巷里的独立书店，打算寻找一本关于当地历史文化的书籍。",
+"正当我坐在木椅上认真看书时，听到身旁有人用非常流利的普通话在询问店员信息。我下意识地抬头一看，发现是一位年纪和我相仿的女孩。她手里拿着一本厚厚的散文集。由于我们都在关注相同的文化题材，便自然而然地聊了起来。她叫丽丽，是来自另一所大学的文学院学生，也是趁着假期独自出来旅行的。",
+"共同的兴趣爱好和对文字的热爱让我们之间产生了一种奇妙的亲切感。我们离开书店后，一起在附近的咖啡馆里喝咖啡、分享各自的大学生活。接下来的几天里，我们结伴同行，骑着自行车去拍摄美丽的日落。这次假期中的不期而遇不仅让我度过了一个难忘的夏天，更让我收获了一段跨越地域的真挚友谊。"
+],
+"audios": [
+{ "id": "audio-zh-read-b1-015-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-b1-015-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-b1-015-01",
+"question": "作者去年夏天去哪里旅游了？",
+"reponses": [
+{ "id": "a", "texte": "去云南的一座古城旅游", "correcte": true },
+{ "id": "b", "texte": "去海边的度假村度假", "correcte": false },
+{ "id": "c", "texte": "去北京的一所知名大学深造", "correcte": false },
+{ "id": "d", "texte": "去遥远的欧洲乡村看森林", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-015-02",
+"question": "作者当时为什么要走进那家独立书店？",
+"reponses": [
+{ "id": "a", "texte": "为了逃避炎热的阳光并寻找一本历史书", "correcte": true },
+{ "id": "b", "texte": "为了通过书店的无线网络发送紧急邮件", "correcte": false },
+{ "id": "c", "texte": "因为她和朋友约好在那里见面", "correcte": false },
+{ "id": "d", "texte": "想在里面打工以赚取一些零花钱", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-015-03",
+"question": "新结识的女孩手里拿着什么类型的书籍？",
+"reponses": [
+{ "id": "a", "texte": "一本厚厚的散文集", "correcte": true },
+{ "id": "b", "texte": "一本古代的药材食谱图鉴", "correcte": false },
+{ "id": "c", "texte": "学校里使用的文科理论教材", "correcte": false },
+{ "id": "d", "texte": "一本附有详细地图的旅行指南", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-015-04",
+"question": "关于新朋友丽丽，文章提到了哪些个人信息？",
+"reponses": [
+{ "id": "a", "texte": "她是另一所大学的文学院学生", "correcte": true },
+{ "id": "b", "texte": "她已经在一跨国公司的办公室里工作了", "correcte": false },
+{ "id": "c", "texte": "她精通多门少见的外语", "correcte": false },
+{ "id": "d", "texte": "她是和父母一起出来度假的", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-015-05",
+"question": "离开书店后，两个女孩去了什么地方继续交流？",
+"reponses": [
+{ "id": "a", "texte": "去了附近的一家咖啡馆", "correcte": true },
+{ "id": "b", "texte": "去了古城中心的公共图书馆", "correcte": false },
+{ "id": "c", "texte": "回到了她们共同租住的青年旅舍", "correcte": false },
+{ "id": "d", "texte": "去了售卖传统工艺品的集市里", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-015-06",
+"question": "在接下来的几天假期里，她们结伴做了什么活动？",
+"reponses": [
+{ "id": "a", "texte": "骑着自行车去拍摄美丽的日落", "correcte": true },
+{ "id": "b", "texte": "在房间里看网络上的教学视频", "correcte": false },
+{ "id": "c", "texte": "去郊区参加生态环境志愿者活动", "correcte": false },
+{ "id": "d", "texte": "在古城的饭馆里学习制作菜肴", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-015-07",
+"question": "这次奇妙的不期而遇最终给作者带来了什么？",
+"reponses": [
+{ "id": "a", "texte": "收获了一段跨越地域的真挚友谊", "correcte": true },
+{ "id": "b", "texte": "彻底改变了她对历史科目的偏见", "correcte": false },
+{ "id": "c", "texte": "极大地提高了她在校园里的社交地位", "correcte": false },
+{ "id": "d", "texte": "让她获得了一笔可观的摄影奖金", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "b016",
+    "titre": "为什么我们应该学会倾听他人？",
+    "titre2": "练习 b016",
+    "texte": [
+      "在当今这个快节奏的数字时代，人们往往更急于表达自己的观点，而忽略了一项至关重要的核心能力：倾听。很多时候，我们在与他人交谈时，大脑并没有在真正理解对方的想法，而是在急于准备自己接下来要说的话。这种自私的沟通方式往往会导致误解，进而引发不必要的冲突，破坏人际关系的和谐。",
+      "真正的倾听并不是一种被动的声音接收，而是一种充满同理心的互动。心理学研究证实，当一个人感到自己被认真倾听时，他的心理焦虑感会显著降低，大脑也会分泌出让人感到快乐的物质。如果我们在朋友向我们倾诉痛苦时，能够保持耐心，不随意打断，就能为对方提供强大的情感支持，帮助其摆脱孤独。",
+      "学会倾听不仅能帮助我们深入了解他人的精神世界，更是提升个人自律和情商的有效途径。通过倾听不同的声音，我们可以打破固有的思维局限，拓展自己的知识边界。倾听他人并不是懦弱或没有主见的表现，而是一种高尚的道德修养，它能让我们在复杂的世界中保持清醒与理智，用尊重 tejer 出更温暖的社会纽带。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-b1-016-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-b1-016-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-b1-016-01",
+        "question": "根据文章内容，现代人在交谈时常常犯什么错误？",
+        "reponses": [
+          { "id": "a", "texte": "过于急于表达自己的观点而忽略了倾听", "correcte": true },
+          { "id": "b", "texte": "花费太多资金购买高科技的手机软件", "correcte": false },
+          { "id": "c", "texte": "强迫对方背诵学校里的理论教材内容", "correcte": false },
+          { "id": "d", "texte": "忘记在进入办公室前关闭电子设备屏幕", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-016-02",
+        "question": "急于反驳或准备发言的沟通方式会导致什么后果？",
+        "reponses": [
+          { "id": "a", "texte": "导致误解，引发冲突并破坏关系和谐", "correcte": true },
+          { "id": "b", "texte": "显著提高学生在 facultad 的期末考试成绩", "correcte": false },
+          { "id": "c", "texte": "优化家里因使用暖气而产生的财务开支", "correcte": false },
+          { "id": "d", "texte": "使得白天的视觉疲劳得到有效的缓解", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-016-03",
+        "question": "文章认为，真正的倾听本质上是什么？",
+        "reponses": [
+          { "id": "a", "texte": "一种充满同理心的良性沟通互动", "correcte": true },
+          { "id": "b", "texte": "由法律或行业标准强制规定的礼貌流程", "correcte": false },
+          { "id": "c", "texte": "用来战胜职场竞争对手的谈判策略", "correcte": false },
+          { "id": "d", "texte": "获取古代历史知识的最直接学习途径", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-016-04",
+        "question": "当一个人感到自己被认真倾听时，他的心理会发生什么变化？",
+        "reponses": [
+          { "id": "a", "texte": "他的心理焦虑感会得到显著的降低", "correcte": true },
+          { "id": "b", "texte": "会立刻产生强烈的空虚感和不知所措", "correcte": false },
+          { "id": "c", "texte": "会丧失独立解决家务问题的实践能力", "correcte": false },
+          { "id": "d", "texte": "长久记忆力会在短时间内发生退化", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-016-05",
+        "question": "在朋友诉说痛苦时保持耐心并倾听，有什么实际作用？",
+        "reponses": [
+          { "id": "a", "texte": "能为对方提供强大的情感支持，帮其摆脱孤独", "correcte": true },
+          { "id": "b", "texte": "可以帮朋友在网上寻找到更便宜的住房", "correcte": false },
+          { "id": "c", "texte": "有助于彻底治愈慢性的偏头痛和肌肉酸痛", "correcte": false },
+          { "id": "d", "texte": "能直接提升朋友在电脑上打字录入的速度", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-016-06",
+        "question": "倾听不同的声音对我们的思维有什么积极影响？",
+        "reponses": [
+          { "id": "a", "texte": "可以打破固有的思维局限，拓展知识边界", "correcte": true },
+          { "id": "b", "texte": "迫使我们放弃原本的个人自主性和原则", "correcte": false },
+          { "id": "c", "texte": "会减少每天用于看电视和刷手机的时间块", "correcte": false },
+          { "id": "d", "texte": "能自动优化大脑对大量生僻词汇的记忆", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-016-07",
+        "question": "文章否定了关于倾听的哪种错误看法？",
+        "reponses": [
+          { "id": "a", "texte": "认为倾听是懦弱或没有主见的表现", "correcte": true },
+          { "id": "b", "texte": "以为倾听必须要借助特定的纸质日程本", "correcte": false },
+          { "id": "c", "texte": "觉得只有老一辈人才需要学习这种习惯", "correcte": false },
+          { "id": "d", "texte": "相信倾听会加速个人电能资源的无谓消耗", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b017",
+    "titre": "不同世代之间的关系",
+    "titre2": "练习 b017",
+    "texte": [
+      "我们社区的文化中心上周组织了一场内容深刻的座谈会，主题为“世代之间的对话”。这次活动的核心目的，在于深入探讨出生在数字时代的新一代年轻人，与在传统模拟世界中长大的中年及老年人之间，应当如何在这座都市中和谐共处。这是一个颇具抽象性却关乎整体社会凝聚力的重要议题。",
+      "在会议开始阶段，现场的气氛显得有些低沉，双方不可避免地提出了一些常见的相互抱怨。年长的一辈严厉批评年轻人过度沉迷于智能手机的虚拟世界，并无比遗憾传统面对面交流习惯的丧失。而年轻的一代则据理力争，认为中年和老年人常常因为内心的恐惧或缺乏教学上的耐心而拒绝接受新软件，主动将自己与时代的进步隔离开来。",
+      "然而，随着辩论的层层深入，与会者逐渐惊喜地发现，只要彼此能保持坚定的尊重，相互理解是完全可以实现的。一位老爷爷深情地分享了数字工具如何帮他随时与远在国外的孙子视频通话；与此同时，一名年轻的女大学生当场承诺，将自愿定期教社区的老人们使用电脑。如果学校或官方能多搭建这种共享的时间块，整个社会的文明纽带无疑会变得更加牢固。"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-b1-017-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-b1-017-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-b1-017-01",
+        "question": "上周在社区文化中心举办的活动主题是什么？",
+        "reponses": [
+          { "id": "a", "texte": "“世代之间的对话”座谈会", "correcte": true },
+          { "id": "b", "texte": "“数字时代的办公软件创新”讲座", "correcte": false },
+          { "id": "c", "texte": "“绿色环保与小镇历史变迁”展览", "correcte": false },
+          { "id": "d", "texte": "“大学生暑期国外度假指南”说明会", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-017-02",
+        "question": "这次座谈会主要探讨了哪两个群体之间的相处问题？",
+        "reponses": [
+          { "id": "a", "texte": "数字时代出生的年轻人与传统世界长大的长辈", "correcte": true },
+          { "id": "b", "texte": "学校里的授课教授与学生家长", "correcte": false },
+          { "id": "c", "texte": "市中心的商业摊贩与郊区的务农人员", "correcte": false },
+          { "id": "d", "texte": "国际社会志愿者与当地的普通居民", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-017-03",
+        "question": "活动初期，年长一辈对年轻人提出了什么批评？",
+        "reponses": [
+          { "id": "a", "texte": "批评年轻人过度沉迷于智能手机", "correcte": true },
+          { "id": "b", "texte": "指责他们无节制地购买各种昂贵的垃圾食品", "correcte": false },
+          { "id": "c", "texte": "抱怨他们总是在深夜发出巨大的噪音噪音", "correcte": false },
+          { "id": "d", "texte": "认为他们对 facultad 的专业功课毫无热情", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-017-04",
+        "question": "年轻人认为长辈拒绝新软件的深层原因是什么？",
+        "reponses": [
+          { "id": "a", "texte": "因为内心的恐惧或者缺乏教学上的耐心", "correcte": true },
+          { "id": "b", "texte": "由于大城市无线网络的资费标准过于高昂", "correcte": false },
+          { "id": "c", "texte": "因为长辈更倾向于阅读纸质印刷版的教材", "correcte": false },
+          { "id": "d", "texte": "由于电子屏幕的光线会让长辈感觉眼睛疲劳", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-017-05",
+        "question": "是什么态度促成了双方在会议中后期的相互理解？",
+        "reponses": [
+          { "id": "a", "texte": "彼此保持坚定的尊重", "correcte": true },
+          { "id": "b", "texte": "街道管理部门强制推行的行政法规", "correcte": false },
+          { "id": "c", "texte": "无私分发精心印制的手写宣传手册", "correcte": false },
+          { "id": "d", "texte": "决定大幅度缩短讨论会原本的预定时间", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-017-06",
+        "question": "老爷爷在发言中提到数字工具如何切实改变了他的生活？",
+        "reponses": [
+          { "id": "a", "texte": "帮他随时与远在国外的孙子视频通话", "correcte": true },
+          { "id": "b", "texte": "协助他在国家银行里安全地存取款", "correcte": false },
+          { "id": "c", "texte": "让他能在独立起居室里观看喜欢的连续剧", "correcte": false },
+          { "id": "d", "texte": "方便了他在网上订购当地新鲜的绿色蔬菜", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-017-07",
+        "question": "文章最后指出，如果能多搭建此类共享平台，会带来什么结果？",
+        "reponses": [
+          { "id": "a", "texte": "社会的文明纽带会变得更加牢固", "correcte": true },
+          { "id": "b", "texte": "能够显着降低社区文化中心的运营开支", "correcte": false },
+          { "id": "c", "texte": "年轻人可以轻松在中心区找到稳定的办公室岗位", "correcte": false },
+          { "id": "d", "texte": "该地区高新科技终端的销售总额会有所上升", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b018",
+    "titre": "帮助一位正在经历困难时期的朋友",
+    "titre2": "练习 b018",
+    "texte": [
+      "“嗨，丽丽！我今天给你打电话，是因为我实在太担心小刚了。自从他的公司上个月突然宣布裁员过半的消息后，他就把自己关在出租屋里，再也不回复我们发去的任何手机信息了。”朋友强子在电话中充满焦虑地倾诉道。",
+      "丽丽深深地叹了一口气，回答说：“是的，强子，我也注意到了他的反常。在毫无心理准备的情况下突然失去一份稳定的工作，必定会彻底摧毁一个人的心理平衡，让他对未来产生极大的不确定感和恐惧。”“我想今天下午直接去他的公寓看望他，”强子说，“但我又担心自己的突然出现会让他觉得反感，或者让他觉得在朋友面前谈论自己的财务危机很难堪。”",
+      "丽丽果断地鼓励他：“强子，你的顾虑很正常，但真正的友谊恰恰是在身处深重危机时才显现出来的。如果我们现在不向他伸出援手，他在这座喧嚣的都市中就会陷入彻底的孤独。我们不需要去给他讲大道理，也不用提供直接的资金援助，只需要耐心地坐在他身边倾听，给他做一顿健康的晚餐，用最真诚的态度告诉他，我们永远是他无条件的后盾。知道有人愿意不加审判地陪伴自己，就是找回信心最灵验的天然良药。”"
+    ],
+    "audios": [
+      { "id": "audio-zh-read-b1-018-1", "url": "soundcloud.com" },
+      { "id": "audio-zh-read-b1-018-2", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-zh-read-b1-018-01",
+        "question": "强子今天打电话给丽丽的主要原因是什么？",
+        "reponses": [
+          { "id": "a", "texte": "因为好朋友小刚在遭遇裁员后彻底失联", "correcte": true },
+          { "id": "b", "texte": "目睹了办公室内发生的一场严重口角", "correcte": false },
+          { "id": "c", "texte": "得知小刚在市中心遭遇了突发的车祸", "correcte": false },
+          { "id": "d", "texte": "因为小刚推迟了支付合租房的租金", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-018-02",
+        "question": "丽丽认为，突然失去稳定工作会给个人带来什么伤害？",
+        "reponses": [
+          { "id": "a", "texte": "摧毁心理平衡并让人对未来产生不确定感", "correcte": true },
+          { "id": "b", "texte": "立刻引发严重的慢性肌肉损伤和疲劳", "correcte": false },
+          { "id": "c", "texte": "迫使个人不得不推迟到国外度假的计划", "correcte": false },
+          { "id": "d", "texte": "导致个人必须彻底改变原有的饮食习惯", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-018-03",
+        "question": "强子为了帮助小刚，打算立刻采取什么行动？",
+        "reponses": [
+          { "id": "a", "texte": "今天下午直接去小刚的住所看望他", "correcte": true },
+          { "id": "b", "texte": "在社区公园里组织一次规模宏大的街坊会议", "correcte": false },
+          { "id": "c", "texte": "利用电脑网络在线帮小刚筛选行政岗位的招聘", "correcte": false },
+          { "id": "d", "texte": "从自己的私人存款中拿出一笔现金借给小刚", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-018-04",
+        "question": "强子在做出看望决定前，内心有什么样的顾虑？",
+        "reponses": [
+          { "id": "a", "texte": "担心自己的突然造访会让小刚感到反感和难堪", "correcte": true },
+          { "id": "b", "texte": "害怕自己忘记了小刚合租公寓的精确房间号", "correcte": false },
+          { "id": "c", "texte": "担心在路上的时候自己手机的电池电量会耗尽", "correcte": false },
+          { "id": "d", "texte": "害怕发现小刚大楼的主大门被金属锁反锁了", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-zh-read-b1-018-05",
+        "question": "根据丽丽的看法，真正的友谊在什么时候最能得到体现？",
+        "reponses": [
+{ "id": "a", "texte": "身处深重危机的关键时刻", "correcte": true },
+{ "id": "b", "texte": "暑假期间一起去海边度假的时光", "correcte": false },
+{ "id": "c", "texte": "彼此拥有完全相同的兴趣爱好的时候", "correcte": false },
+{ "id": "d", "texte": "周末一起参加社会绿色环保志愿活动时", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-018-06",
+"question": "丽丽建议强子去小刚家后做哪些具体的事情？",
+"reponses": [
+{ "id": "a", "texte": "耐心倾听、做一顿健康晚餐并给予诚挚支持", "correcte": true },
+{ "id": "b", "texte": "检查报告、打扫房间以及修理故障暖气", "correcte": false },
+{ "id": "c", "texte": "看连续剧、喝咖啡以及整理打印好的讲义", "correcte": false },
+{ "id": "d", "texte": "商谈生意、拍摄照片以及演示手机新软件", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-018-07",
+"question": "文章最后提到，不加审判的陪伴对身处痛苦的人有什么价值？",
+"reponses": [
+{ "id": "a", "texte": "它是帮助对方重新找回信心的最灵验良药", "correcte": true },
+{ "id": "b", "texte": "可以让个人独立去面对并解决出租屋的问题", "correcte": false },
+{ "id": "c", "texte": "能够保证学生在学校里获得极为长久的成功", "correcte": false },
+{ "id": "d", "texte": "可以在深夜的时候显著延长个人的深度睡眠", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b019",
+"titre": "祖父母在家庭中的作用",
+"titre2": "练习 b019",
+"texte": [
+"近几十年来，祖父母在现代家庭结构中的角色和作用发生了一场深刻的转变。在现实生活中，由于年轻父母面临长期的办公室工作压力以及沉重的经济负担，家中的老人们往往在工作日自愿承担起了照顾孩子的主要责任。",
+"这种家庭内部的互助模式为家庭注入了极大的稳定性，使年幼的孩子得以在安全且充满爱意的环境中成长。在陪伴孩子的过程中，祖父母们并不仅是把孩子扔在客厅里让他们被动地看电视消磨时光；相反，老人们会满怀耐心地讲述过去的历史故事，教授一些传统的小游戏，并手把手传授古老的家族烹饪菜谱。这些承载着 comarca 记忆的细节，维持了新一代与家族文化根脉之间的紧密连接。",
+"然而，医学专家也明确指出，在步入高龄后独自承担如此繁重的教育和看护责任，不可避免地会给老人的身体带来严重的超负荷以及长期的心理焦虑。如果年轻父母能更合理地规划自己的时间块，或者企业能提供更具人性的弹性作息制度，看护的重担就能得到更公正的平衡。体谅并尊重老人们无私的奉献，不仅是基本的个人修养，更是维系家庭和睦不可或缺的感恩之举。"
+],
+"audios": [
+{ "id": "audio-zh-read-b1-019-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-b1-019-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-b1-019-01",
+"question": "近几十年来，现代家庭中的祖父母角色发生了什么改变？",
+"reponses": [
+{ "id": "a", "texte": "在工作日自愿承担起了照顾孩子的主要责任", "correcte": true },
+{ "id": "b", "texte": "决定大举搬迁到偏远的山区农村里生活", "correcte": false },
+{ "id": "c", "texte": "拒绝再为家庭内部的事情承担任何具体家务", "correcte": false },
+{ "id": "d", "texte": "把日常的所有精力都投入到了外出旅游度假中", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-019-02",
+"question": "是什么原因促使年轻父母向家中的老人寻求帮助？",
+"reponses": [
+{ "id": "a", "texte": "长期的办公室工作压力以及沉重的经济负担", "correcte": true },
+{ "id": "b", "texte": "频繁的跨国商业出差以及繁重的夜间课程", "correcte": false },
+{ "id": "c", "texte": "长期的慢性精神疲劳以及公寓居住空间的不足", "correcte": false },
+{ "id": "d", "texte": "夫妻之间的沟通不畅以及大城市突发的交通意外", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-019-03",
+"question": "祖父母的看护和陪伴对年幼的孩子有什么直接的好处？",
+"reponses": [
+{ "id": "a", "texte": "让孩子得以在安全且充满爱意的环境中成长", "correcte": true },
+{ "id": "b", "texte": "能百分之百保证孩子在历史考试中取得满分", "correcte": false },
+{ "id": "c", "texte": "帮助孩子克服对使用复杂手机教学软件的恐惧", "correcte": false },
+{ "id": "d", "texte": "可以大大加速孩子腿部肌肉组织的生理发育", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-019-04",
+"question": "祖父母在陪伴过程中，会向孙辈传授哪三样传统文化？",
+"reponses": [
+{ "id": "a", "texte": "历史故事、传统小游戏以及古老家族菜谱", "correcte": true },
+{ "id": "b", "texte": "学校教材、打印好的讲义以及大量的专业词汇", "correcte": false },
+{ "id": "c", "texte": "行政法规、国家法律条文以及商业报告资料", "correcte": false },
+{ "id": "d", "texte": "网络教学视频、网络菜单以及电脑修理技巧", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-019-05",
+"question": "医学专家对高龄老人承担看护重任提出了什么警告？",
+"reponses": [
+{ "id": "a", "texte": "会给老人的身体带来超负荷以及长期的焦虑", "correcte": true },
+{ "id": "b", "texte": "会引发无法通过服药来缓解的严重偏头痛", "correcte": false },
+{ "id": "c", "texte": "会导致老人的视觉系统敏锐度在短时间内退化", "correcte": false },
+{ "id": "d", "texte": "会造成长辈对日常家务劳动产生极度厌恶感", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-019-06",
+"question": "文章建议采取哪两项举措来减轻老人身上的家庭看护重担？",
+"reponses": [
+{ "id": "a", "texte": "父母更合理规划时间块以及企业提供弹性作息", "correcte": true },
+{ "id": "b", "texte": "增加银行的个人存款并降低出租屋的日常开支", "correcte": false },
+{ "id": "c", "texte": "花高价雇佣私人维修工并熟练应用各种数字软件", "correcte": false },
+{ "id": "d", "texte": "送孩子去语言培训班或者参加高强度体育锻炼", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-019-07",
+"question": "文章最后指出，体谅并尊重老人的奉献本质上是什么？",
+"reponses": [
+{ "id": "a", "texte": "基本的个人修养与家庭和睦不可或缺的感恩之举", "correcte": true },
+{ "id": "b", "texte": "由行政管理部门强制推行的一项公民法律程序", "correcte": false },
+{ "id": "c", "texte": "学校 facultad 教学大纲里规定的必修课程内容", "correcte": false },
+{ "id": "d", "texte": "属于本地中小企业实现利润增值的一项商业策略", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b020",
+"titre": "组织一次令人难忘的家庭聚会",
+"titre2": "练习 b020",
+"texte": [
+"“嗨，西尔维娅！我看到你客厅的桌子上摆满了老照片、手写的便签和厚厚一叠餐厅宣传单。你是在计划一次特别的个人度假旅行吗？”朋友小明好奇地问道。",
+"西尔维娅兴奋地回答：“这不是旅行，小明，而是一件更让我感到激动的事：我正在瞒着我父母组织一次盛大的家庭惊喜聚会，来庆祝他们下个月的金婚纪念日。”小明由衷地赞叹道：“这真是一个绝妙的主意，西尔维娅！把全家人，包括那些长期生活在国外的表兄弟们都召集到一起，绝对是一项极其复杂的任务，需要强有力的组织纪律。”",
+"“你说的太对了，小明，”西尔维娅叹了一口气，“我已经连续规划了好几天的时间块。如果我之前没有通过手机应用软件提前几个月把数字邀请函发给每一个人，想要协调好所有人在办公室的空闲日程是根本不可能的。”小明问她打算把聚会晚宴设在哪里，西尔维娅笑着说，她已经在省内预订了一栋传统乡村别墅，主要目的就是为了逃离城市的喧嚣，享受大自然的宁静，并品尝一顿完全由当地务农人员提供的绿色食材烹韧出的健康大餐。记住共同的文化根脉，能让亲情纽带变得更稳固。"
+],
+"audios": [
+{ "id": "audio-zh-read-b1-020-1", "url": "soundcloud.com" },
+{ "id": "audio-zh-read-b1-020-2", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-zh-read-b1-020-01",
+"question": "西尔维娅在客厅的桌子上筹备着什么重大的活动？",
+"reponses": [
+{ "id": "a", "texte": "瞒着父母组织一次金婚纪念惊喜家庭聚会", "correcte": true },
+{ "id": "b", "texte": "在社区里举办一场传统民间器乐音乐节活动", "correcte": false },
+{ "id": "c", "texte": "为学校学校文学专业的同学们准备学术研讨会", "correcte": false },
+{ "id": "d", "texte": "在准备紧急搬迁去大都市合租房所需的行李", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-020-02",
+"question": "根据小明的看法，想要把长居国外的亲戚协调到一起需要什么？",
+"reponses": [
+{ "id": "a", "texte": "需要拥有极强的、坚定不移的组织纪律", "correcte": true },
+{ "id": "b", "texte": "需要家庭成员自发拿出大量的经济财富储备", "correcte": false },
+{ "id": "c", "texte": "必须具备在办公室熟练操作复杂电脑的技能", "correcte": false },
+{ "id": "d", "texte": "需要对家族中年龄最长的一辈保持高度耐心", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-020-03",
+"question": "西尔维娅使用什么数字化方式来提前通知所有人？",
+"reponses": [
+{ "id": "a", "texte": "通过手机上的应用软件发送了数字邀请函", "correcte": true },
+{ "id": "b", "texte": "利用办公室台式电脑向全员群发了电子邮件", "correcte": false },
+{ "id": "c", "texte": "在自己私人的手机社交媒体上发布了加密公告", "correcte": false },
+{ "id": "d", "texte": "委托邮差把精心撰写的纸质信件投递到各家邮箱", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-020-04",
+"question": "这次特别的家庭聚会最终预订在什么地点举行？",
+"reponses": [
+{ "id": "a", "texte": "省内一栋充满传统文化色彩的乡村别墅里", "correcte": true },
+{ "id": "b", "texte": "市中心商业街区一家极为奢华的现代高档餐厅", "correcte": false },
+{ "id": "c", "texte": "社区里新建的一家功能齐备的综合文化中心内", "correcte": false },
+{ "id": "d", "texte": "西尔维娅自己家里的起居室客厅大桌子旁", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-020-05",
+"question": "选择在这个远郊乡村聚会，西尔维娅希望能达到哪两个环境目的？",
+"reponses": [
+{ "id": "a", "texte": "为了逃离都市的喧嚣，享受大自然的宁静", "correcte": true },
+{ "id": "b", "texte": "为了躲避暖气片发出的杂音并修剪阳台植物", "correcte": false },
+{ "id": "c", "texte": "为了避免白天长时间看屏幕导致的视觉疲劳", "correcte": false },
+{ "id": "d", "texte": "为了利用夏天的酷暑在附近公园里骑车锻炼", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-020-06",
+"question": "组成这顿聚会健康大餐的绿色食材来源于哪里？",
+"reponses": [
+{ "id": "a", "texte": "完全由当地的务农人员从田间直接提供", "correcte": true },
+{ "id": "b", "texte": "从大都市最核心区域的大型连锁超市购买", "correcte": false },
+{ "id": "c", "texte": "从国外进口并存放在密封玻璃保鲜盒里的珍品", "correcte": false },
+{ "id": "d", "texte": "从社区街道上那家古老的手工杂货店里订购", "correcte": false }
+]
+},
+{
+"id": "q-zh-read-b1-020-07",
+"question": "根据小明的总结，共同记住家族的文化根脉可以带来什么益处？",
+"reponses": [
+{ "id": "a", "texte": "能够长久且深远地稳固亲人们之间的情感纽带", "correcte": true },
+{ "id": "b", "texte": "可以完全消除学生群体对未来的不确定感", "correcte": false },
+{ "id": "c", "texte": "有利于彻底解决白天的精神过度困倦问题", "correcte": false },
+{ "id": "d", "texte": "能保护个人在银行资本管理过程中的财务安全", "correcte": false }
+]
+}
+]
 }
 ]
