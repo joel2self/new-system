@@ -265,55 +265,6 @@
   },
   {
     "id": "b012",
-    "titre": "12. Come mantenere una buona amicizia?",
-    "titre2": "Esercizio b012",
-    "texte": [
-      "Cari amici del club, vi ringrazio per essere venuti a questa conferenza dedicata ai legami sociali nell'era moderna. Oggi vorrei parlarvi di un valore che tutti riteniamo fondamentale, ma che spesso trascuriamo nella fretta quotidiana: l'amicizia.",
-      "Mantenere un'amicizia solida richiede un impegno costante. Molti pensano che basti scambiarsi qualche messaggio sui social network per definirsi amici. Credetemi, non è così. Se non alimentassimo i nostri rapporti con incontri reali e conversazioni profonde, essi svanirebbero inevitabilmente nel giro di pochi mesi. La vera amicizia ha bisogno di presenza, non solo di notifiche digitali.",
-      "Un altro pilastro essenziale è l'onestà. Un vero amico è colui che ha il coraggio di dirti la verità, anche quando questa può ferirti. Se accettassimo solo complimenti falsi, non cresceremmo mai come persone. Naturalmente, le critiche devono essere espresse con delicatezza ed empatia, affinché non si creino fratture insanabili.",
-      "Infine, ricordatevi che l'amicizia è un percorso a doppio senso. Bisogna essere pronti a dare senza pretendere nulla in cambio. Spero che uscendo da questa sala, ognuno di voi senta il desiderio di telefonare a quel vecchio amico che non sente da tempo. Grazie per la vostra attenzione."
-    ],
-    "audios": [
-      { "id": "audio-it-read-b1-012-1", "url": "soundcloud.com" }
-    ],
-    "questions": [
-      {
-        "id": "q-it-read-b1-012-01",
-        "question": "Qual è il contesto in cui si svolge questo discorso pubblico?",
-        "reponses": [
-          { "id": "a", "texte": "Un pranzo di nozze in un ristorante elegante.", "correcte": false },
-          { "id": "b", "texte": "Una conferenza dedicata ai legami sociali moderni.", "correcte": true },
-          { "id": "c", "texte": "Una lezione universitaria di matematica avanzata.", "correcte": false },
-          { "id": "d", "texte": "Un colloquio di lavoro per una posizione manageriale.", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-it-read-b1-012-02",
-        "question": "Quale errore comune commettono le persone riguardo all'amicizia?",
-        "reponses": [
-          { "id": "a", "texte": "Pensano che basti scambiarsi messaggi sui social per mantenere il legame.", "correcte": true },
-          { "id": "b", "texte": "Spendono troppo denaro in regali costosi per i compleanni.", "correcte": false },
-          { "id": "c", "texte": "Rifiutano di condividere i propri segreti professionali.", "correcte": false },
-          { "id": "d", "texte": "Viaggiano troppo spesso da soli senza compagnia.", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-it-read-b1-012-03",
-        "question": "Cosa succederebbe ai rapporti se mancassero incontri reali?",
-        "reponses": [
-          { "id": "a", "texte": "Diventerebbero ancora più forti grazie alla nostalgia.", "correcte": false },
-          { "id": "b", "texte": "Svanirebbero inevitabilmente nel giro di pochi mesi.", "correcte": true },
-          { "id": "c", "texte": "Sarebbero regolati da contratti legali molto rigidi.", "correcte": false },
-          { "id": "d", "texte": "Svilupperebbero un interesse puramente economico.", "correcte": false }
-        ]
-      },
-      {
-        "id": "q-it-read-b1-012-04",
-        "question": "Quale caratteristica definisce un 'vero amico' secondo l'oratore?",
-        "reponses": [
-          { "id": "a", "texte": "Il coraggio di dire la verità anche quando può ferire.", "correcte": true },
-          {
-    "id": "b012",
     "titre": "Come mantenere una buona amicizia?",
     "titre2": "Esercizio b012",
     "texte": [
@@ -322,7 +273,8 @@
       "Quando insorgono dei malintesi, la soluzione migliore è affrontarli immediatamente senza lasciare che l'orgoglio rovini tutto. Se parlassimo più apertamente dei nostri sentimenti, eviteremmo molti rancori inutili. L'empatia ci permette di metterci nei panni dell'altro, comprendendo che ognuno attraversa momenti di stress in cui potrebbe allontanarsi temporaneamente. Sostenersi a vicenda nelle difficoltà e gioire sinceramente dei successi altrui sono le fondamenta su cui costruire un rapporto indistruttibile che duri per sempre."
     ],
     "audios": [
-      { "id": "audio-it-read-b1-012-1", "url": "soundcloud.com" }
+      { "id": "audio-it-read-b1-012-1", "url": "soundcloud.com" },
+       { "id": "audio-it-read-b1-012-1", "url": "soundcloud.com" }
     ],
     "questions": [
       {
@@ -1651,8 +1603,8 @@
 "reponses": [
 { "id": "a", "texte": "Permette di risparmiare sui costi dell'affitto mensile.", "correcte": false },
 { "id": "b", "texte": "Sviluppa la flessibilità mentale richiesta dalle aziende moderne.", "correcte": true },
-{ "id": "c score": "Garantisce il superamento automatico di tutti i corsi d'esame.", "correcte": false },
-{ "id": "d": "Aiuta a dimenticare i problemi avuti nel proprio paese natale.", "correcte": false }
+{ "id": "c", "texte": "Garantisce il superamento automatico di tutti i corsi d'esame.", "correcte": false },
+{ "id": "d", "texte": "Aiuta a dimenticare i problemi avuti nel proprio paese natale.", "correcte": false }
 ]
 },
 {
@@ -1660,9 +1612,9 @@
 "question": "Quale obiettivo non accademico si pone Marco durante il soggiorno?",
 "reponses": [
 { "id": "a", "texte": "Trovare un lavoro part-time in un ristorante tipico tedesco.", "correcte": false },
-{ "id": "b": "Incontrare studenti internazionali e scoprire nuove abitudini.", "correcte": true },
-{ "id": "c": "Comprare strumenti musicali antichi nelle fiere di Berlino.", "correcte": false },
-{ "id": "d": "Scrivere un romanzo sulla storia della guerra fredda in Europa.", "correcte": false }
+{ "id": "b", "texte": "Incontrare studenti internazionali e scoprire nuove abitudini.", "correcte": true },
+{ "id": "c", "texte": "Comprare strumenti musicali antichi nelle fiere di Berlino.", "correcte": false },
+{ "id": "d", "texte": "Scrivere un romanzo sulla storia della guerra fredda in Europa.", "correcte": false }
 ]
 },
 {
@@ -1682,7 +1634,7 @@
 { "id": "a", "texte": "Dei professori responsabili del progetto Erasmus della scuola.", "correcte": false },
 { "id": "b", "texte": "Dei suoi compagni di stanza dell'appartamento di Berlino.", "correcte": false },
 { "id": "c", "texte": "Dei suoi genitori rimasti nel paese d'origine.", "correcte": true },
-{ "id": "d": "Degli impiegati dell'ambasciata italiana in Germania.", "correcte": false }
+{ "id": "d", "texte": "Degli impiegati dell'ambasciata italiana in Germania.", "correcte": false }
 ]
 },
 {
