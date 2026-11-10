@@ -615,7 +615,7 @@
 "reponse_modele": "Ils craignent que la charité privée ne serve de prétexte pour justifier le désengagement des services publics.",
 "mots_cles": [
 { "mot": "charité privée", "variantes": ["générosité ponctuelle"], "poids": 0.5 },
-{ "mot": "désengagement", "服务", ["recul des droits", "services publics"], "poids": 0.5 }
+{ "mot": "désengagement", "variantes", ["recul des droits", "services publics"], "poids": 0.5 }
 ]
 },
 {
@@ -6359,6 +6359,2731 @@
 "reponse_modele": "Confluent (dans l'expression « au confluent de deux univers »).",
 "mots_cles": [
 { "mot": "confluent", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+    "id": "B2-071b",
+    "titre": "Le tourisme de masse : opportunité économique ou menace culturelle ?",
+    "titre2": "Exercice 71",
+    "audios": [],
+    "texte": [
+      "La démocratisation des transports aériens a transformé le voyage en un produit de consommation courante, propulsant le tourisme de masse au centre des dynamiques économiques mondiales. Pour de nombreuses nations en développement, l'afflux de visiteurs étrangers représente une manne financière providentielle, capable de stimuler l'emploi local et de financer la modernisation des infrastructures. Bien que ces retombées économiques soient indéniables, cette industrialisation des loisirs altère profondément l'authenticité culturelle des territoires d'accueil.",
+      "En effet, la concentration excessive de flux de voyageurs engendre fréquemment une uniformisation des paysages urbains et une folklorisation des traditions locales. Les commerces de proximité cèdent la place à des enseignes internationales standardisées, tandis que le patrimoine historique est transformé en simple décor de carte postale. Par conséquent, les habitants subissent une dépossession de leur espace de vie et une hausse drastique du coût du logement. Autrement dit, le surtourisme détruit insidieusement le tissu social qui faisait précisément le charme initial de la destination.",
+      "Néanmoins, interdire l'accès aux sites touristiques s'avère économiquement suicidaire pour les communautés dépendantes. Quoique la régulation des flux soit complexe à mettre en œuvre, des quotas de visites et des taxes environnementales commencent à être instaurés. En définitive, concilier viabilité financière et préservation patrimoniale exige de repenser le modèle pour passer d'une logique quantitative à une gestion qualitative axée sur le respect des cultures locales."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quel avantage financier principal le tourisme de masse apporte-t-il aux pays d'accueil ?",
+        "points": 1,
+        "reponse_modele": "Il constitue une manne financière qui stimule l'emploi local et finance les infrastructures.",
+        "mots_cles": [
+          { "mot": "manne financière", "variantes": ["argent", "revenus"], "poids": 0.4 },
+          { "mot": "emploi local", "variantes": ["travail", "infrastructures"], "poids": 0.6 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quelle conséquence négative l'industrialisation des loisirs a-t-elle sur les traditions locales ?",
+        "points": 1,
+        "reponse_modele": "Elle provoque une folklorisation des traditions et altère l'authenticité culturelle.",
+        "mots_cles": [
+          { "mot": "folklorisation", "variantes": ["perte d'authenticité", "spectacle pour touristes"], "poids": 0.7 },
+          { "mot": "altère", "variantes": ["détruit", "abîme"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Comment le paysage urbain des zones touristiques évolue-t-il selon le deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Il subit une uniformisation avec le remplacement des commerces locaux par des enseignes internationales.",
+        "mots_cles": [
+          { "mot": "uniformisation", "variantes": ["standardisation", "devenir pareils"], "poids": 0.5 },
+          { "mot": "enseignes internationales", "variantes": ["chaînes de magasins", "marques mondiales"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quels problèmes matériels concrets les habitants des régions surfréquentées subissent-ils ?",
+        "points": 1,
+        "reponse_modele": "Ils subissent une hausse drastique du coût du logement et une perte de leur espace de vie.",
+        "mots_cles": [
+          { "mot": "coût du logement", "variantes": ["loyers chers", "immobilier"], "poids": 0.6 },
+          { "mot": "espace de vie", "variantes": ["dépossession", "perte de tranquillité"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Pourquoi la fermeture pure et simple des sites n'est-elle pas une solution envisageable ?",
+        "points": 1,
+        "reponse_modele": "Parce que ce serait un suicide économique pour les communautés locales qui dépendent entièrement de ces revenus.",
+        "mots_cles": [
+          { "mot": "suicide économique", "variantes": ["ruine", "perte d'argent"], "poids": 0.6 },
+          { "mot": "dépendent", "variantes": ["survie des habitants"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Quelles mesures de régulation commencent à être appliquées sur le terrain d'après le texte ?",
+        "points": 1,
+        "reponse_modele": "La mise en place de quotas de visites et l'instauration de taxes environnementales.",
+        "mots_cles": [
+          { "mot": "quotas", "variantes": ["limites de visiteurs"], "poids": 0.5 },
+          { "mot": "taxes environnementales", "variantes": ["impôts écologiques"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Quel changement de logique l'auteur préconise-t-il dans sa conclusion ?",
+        "points": 1,
+        "reponse_modele": "Passer d'une logique quantitative de masse à une gestion qualitative respectueuse du patrimoine.",
+        "mots_cles": [
+          { "mot": "qualitative", "variantes": ["qualité", "respect", "durable"], "poids": 0.7 },
+          { "mot": "quantitative", "variantes": ["nombre", "masse"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Trouvez un nom masculin dans le texte qui désigne un flot ou une arrivée massive de personnes.",
+        "points": 1,
+        "reponse_modele": "Afflux (ou flux).",
+        "mots_cles": [
+          { "mot": "afflux", "variantes": ["flux"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-072b",
+    "titre": "Vivre à l'étranger permet-il réellement de mieux comprendre les autres cultures ?",
+    "titre2": "Exercice 72",
+    "audios": [],
+    "texte": [
+      "L’expatriation est fréquemment parée de vertus humanistes, présentée comme l'antidote ultime contre l’ethnocentrisme et les préjugés nationaux. Quitter son ancrage natal pour s'installer durablement dans un pays tiers forcerait l'individu à élargir ses horizons mentaux. Bien que cette immersion physique brise indéniablement la routine géographique, croire que la simple présence territoriale suffit à développer une conscience interculturelle relève d'un optimisme naïf.",
+      "En effet, l'éloignement des repères familiers génère souvent un réflexe de protection psychologique. Pour y pallier, de nombreux expatriés s'enferment dans des bulles communautaires homogènes, recréant un entre-soi rassurant où l'on reproduit les modes de vie d'origine. En revanche, la confrontation directe avec les codes locaux non décryptés peut accentuer les malentendus et renforcer le sentiment d'altérité négative. Par conséquent, l'éloignement physique ne s'accompagne pas automatiquement d'une ouverture d'esprit. Autrement dit, on peut vivre à l'autre bout du monde tout en restant enfermé dans ses propres certitudes culturelles.",
+      "Néanmoins, dépasser ce choc culturel initial permet de vivre une transformation intérieure majeure. Quoique le processus exige un effort douloureux de déconstruction de ses propres croyances, il favorise une empathie profonde. En définitive, vivre à l'étranger n'est pas une formule magique automatique, mais une opportunité qui nécessite une posture active d'humilité, de curiosité intellectuelle et de tolérance envers la différence."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quelle vertu principale attribue-t-il traditionnellement à l'expatriation au début du texte ?",
+        "points": 1,
+        "reponse_modele": "Elle est vue comme un antidote contre les préjugés et une manière d'élargir ses horizons mentaux.",
+        "mots_cles": [
+          { "mot": "antidote contre les préjugés", "variantes": ["combattre le racisme", "ethnocentrisme"], "poids": 0.5 },
+          { "mot": "horizons mentaux", "variantes": ["ouverture d'esprit", "comprendre les autres"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quel comportement les expatriés adoptent-ils souvent pour fuir la perte de leurs repères ?",
+        "points": 1,
+        "reponse_modele": "Ils s'isolent dans des communautés ou des bulles homogènes pour retrouver un entre-soi rassurant.",
+        "mots_cles": [
+          { "mot": "bulles communautaires", "variantes": ["ghettos de riches", "groupes de compatriotes"], "poids": 0.6 },
+          { "mot": "entre-soi", "variantes": ["rassurant", "mêmes origines"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quel effet pervers la confrontation directe avec des codes culturels inconnus peut-elle produire ?",
+        "points": 1,
+        "reponse_modele": "Elle peut aggraver les malentendus et renforcer une vision négative de la différence des autres.",
+        "mots_cles": [
+          { "mot": "malentendus", "variantes": ["incompréhension"], "poids": 0.5 },
+          { "mot": "altérité négative", "variantes": ["rejet de la différence", "stéréotypes"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quelle idée est résumée par l'auteur à travers la formule « autrement dit » ?",
+        "points": 1,
+        "reponse_modele": "Il est possible de résider physiquement à l'étranger tout en conservant ses préjugés et son mode de pensée d'origine.",
+        "mots_cles": [
+          { "mot": "résider physiquement", "variantes": ["habiter là-bas"], "poids": 0.4 },
+          { "mot": "certitudes", "variantes": ["préjugés", "enfermé", "ne pas changer"], "poids": 0.6 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quel travail psychologique personnel l'intégration dans un nouveau pays exige-t-elle vraiment ?",
+         "points": 1,
+"reponse_modele": "Elle demande un effort douloureux de déconstruction de ses propres croyances et valeurs.",
+"mots_cles": [
+{ "mot": "déconstruction", "variantes": ["remise en question", "analyse critique"], "poids": 0.6 },
+{ "mot": "croyances", "variantes": ["valeurs", "certitudes natales"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Selon la conclusion, de quelles qualités le voyageur doit-il faire preuve pour réussir sa transformation ?",
+"points": 1,
+"reponse_modele": "Il doit faire preuve d'humilité, de curiosité intellectuelle et de tolérance.",
+"mots_cles": [
+{ "mot": "humilité", "variantes": ["modestie"], "poids": 0.4 },
+{ "mot": "curiosité", "variantes": ["vouloir apprendre"], "poids": 0.3 },
+{ "mot": "tolérance", "variantes": ["acceptation"], "poids": 0.3 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom masculin dans le premier paragraphe signifiant « tendance à privilégier sa propre culture et à juger les autres selon ses critères ».",
+"points": 1,
+"reponse_modele": "Ethnocentrisme.",
+"mots_cles": [
+{ "mot": "ethnocentrisme", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la valeur logique du connecteur « quoique » introduit dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il introduit une concession pour nuancer la difficulté du processus tout en montrant son résultat positif.",
+"mots_cles": [
+{ "mot": "concession", "variantes": ["opposition"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-073b",
+"titre": "Les migrations internationales et leurs effets sur les sociétés",
+"titre2": "Exercice 73",
+"audios": [],
+"texte": [
+"Les flux migratoires contemporains constituent l'un des phénomènes les plus complexes et politisés de notre époque. Poussés par des conflits armés, des crises climatiques ou l'espoir d'un avenir économique meilleur, des millions d'individus franchissent chaque année les frontières. Bien que le discours médiatique dominant dramatise fréquemment ces mouvements en les présentant comme une crise ingérable, les analyses sociologiques révèlent des dynamiques infiniment plus nuancées.",
+"En effet, sur le plan démographique et économique, l'immigration apporte une réponse vitale au vieillissement de la population des pays occidentaux et à la pénurie de main-d'œuvre dans des secteurs clés. Néanmoins, l'arrivée de nouvelles populations pose des défis majeurs en matière de cohésion sociale et d'infrastructures d'accueil. Tandis que les institutions peinent à garantir un logement et un apprentissage linguistique décents, les tensions intercommunautaires peuvent s'exacerber. Par conséquent, occulter ces difficultés structurelles alimente les discours populistes. Autrement dit, l'intégration réussie nécessite une planification politique rigoureuse et non une gestion au jour le jour.",
+"En définitive, les migrations ne doivent être perçues ni comme une menace absolue ni comme une solution magique. Quoique le processus soit source d'ajustements culturels parfois douloureux, il participe au dynamisme et à la diversité des sociétés modernes, à condition d'être encadré par des lois justes et humanistes."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelles sont les causes majeures des départs migratoires citées dans le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Les guerres (conflits), les bouleversements climatiques et la recherche d'une meilleure situation économique.",
+"mots_cles": [
+{ "mot": "conflits", "variantes": ["guerres"], "poids": 0.33 },
+{ "mot": "climatiques", "variantes": ["environnement", "écologie"], "poids": 0.33 },
+{ "mot": "économique", "variantes": ["pauvreté", "travail"], "poids": 0.34 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle différence l'auteur souligne-t-il entre la vision des médias et celle des sociologues ?",
+"points": 1,
+"reponse_modele": "Les médias dramatisent les migrations en crise, tandis que les sociologues proposent une analyse nuancée.",
+"mots_cles": [
+{ "mot": "dramatisent", "variantes": ["crise ingérable", "peur"], "poids": 0.5 },
+{ "mot": "nuancées", "variantes": ["équilibrées", "complexes"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel impact positif l'immigration a-t-elle sur les structures démographiques occidentales ?",
+"points": 1,
+"reponse_modele": "Elle aide à compenser le vieillissement général de la population.",
+"mots_cles": [
+{ "mot": "vieillissement", "variantes": ["âge", "démographie déclinante"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quels obstacles logistiques et institutionnels les pays d'accueil rencontrent-ils ?",
+"points": 1,
+"reponse_modele": "Des difficultés pour fournir des logements décents et assurer l'enseignement de la langue locale.",
+"mots_cles": [
+{ "mot": "logement", "variantes": ["hébergement", "toit"], "poids": 0.5 },
+{ "mot": "langue", "variantes": ["linguistique", "parler"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel est le danger d'ignorer ou de masquer les difficultés réelles liées à l'accueil ?",
+"points": 1,
+"reponse_modele": "Cela risque de nourrir et de renforcer les rhétoriques ou les discours des partis populistes.",
+"mots_cles": [
+{ "mot": "populistes", "variantes": ["discours de haine", "extrémisme"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Comment l'auteur définit-il les exigences d'une intégration réussie après le connecteur « autrement dit » ?",
+"points": 1,
+"reponse_modele": "Elle requiert une planification politique sérieuse sur le long terme plutôt qu'une gestion dans l'urgence.",
+"mots_cles": [
+{ "mot": "planification", "variantes": ["organisation", "anticiper", "long terme"], "poids": 0.7 },
+{ "mot": "urgence", "variantes": ["au jour le jour"], "poids": 0.3 }
+]
+},
+{
+"id": "Q7",
+"question": "À quelle condition finale les migrations se transforment-elles en facteur de dynamisme ?",
+"points": 1,
+"reponse_modele": "À condition d'être encadrées par des réglementations justes, équitables et respectueuses des droits humains.",
+"mots_cles": [
+{ "mot": "encadrées", "variantes": ["lois", "règles"], "poids": 0.5 },
+{ "mot": "humanistes", "variantes": ["justes", "respectueuses"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un verbe soutenu dans le deuxième paragraphe qui signifie « s'aggraver, s'intensifier violemment ».",
+"points": 1,
+"reponse_modele": "Exacerber (dans la formule « peuvent s'exacerber »).",
+"mots_cles": [
+{ "mot": "exacerber", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-074b",
+"titre": "La mondialisation rapproche-t-elle les peuples ou accentue-t-elle les inégalités ?",
+"titre2": "Exercice 74",
+"audios": [],
+"texte": [
+"Le concept de mondialisation a longtemps été associé à l'utopie d'un village planétaire harmonieux, interconnecté par des flux instantanés de capitaux, d'informations et de personnes. Les partisans du libéralisme affirment que l'ouverture des marchés abolit les distances et favorise une intercompréhension mutuelle entre les nations. Bien que cette interconnexion technique ait facilité des rapprochements culturels inédits, force est de constater qu'elle a également creusé des fractures abyssales.",
+"En effet, la mondialisation économique fonctionne souvent selon une logique asymétrique qui profite principalement aux multinationales et aux élites urbaines qualifiées. En revanche, les classes populaires des anciens pays industriels subissent des délocalisations massives, tandis que les pays en développement voient leurs ressources naturelles exploitées sans réelle redistribution. Par conséquent, ce modèle économique génère un sentiment de dépossession et de colère. Autrement dit, la mondialisation unit les réseaux technologiques mais divise les réalités sociales.",
+"Néanmoins, condamner le processus en se repliant sur des nationalismes agressifs serait une erreur historique. Quoique le bilan actuel soit marqué par une polarisation extrême des richesses, la mondialisation offre aussi des outils de solidarité internationale. En définitive, l'enjeu des décennies à venir réside dans la capacité à réguler la mondialisation pour la soumettre à des impératifs de justice sociale et environnementale."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "À quelle vision idéaliste le terme « village planétaire » fait-il référence dans le texte ?",
+"points": 1,
+"reponse_modele": "À l'utopie d'une planète unie et harmonieuse grâce aux technologies et aux échanges instantanés.",
+"mots_cles": [
+{ "mot": "utopie", "variantes": ["idéal", "rêve"], "poids": 0.5 },
+{ "mot": "interconnecté", "variantes": ["échanges instantanés", "unifiée"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels sont les bénéficiaires principaux du système économique mondialisé actuel ?",
+"points": 1,
+"reponse_modele": "Les entreprises multinationales et les élites urbaines hautement qualifiées.",
+"mots_cles": [
+{ "mot": "multinationales", "variantes": ["firmes", "compagnies"], "poids": 0.5 },
+{ "mot": "élites urbaines", "variantes": ["riches qualifiés", "cadres"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel préjudice les classes populaires des nations industrielles subissent-elles de plein fouet ?",
+"points": 1,
+"reponse_modele": "Elles souffrent des conséquences des délocalisations massives de leurs usines.",
+"mots_cles": [
+{ "mot": "délocalisations", "variantes": ["perte d'usines", "fermetures"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle est la critique adressée à la gestion des ressources dans les pays pauvres ?",
+"points": 1,
+"reponse_modele": "Leurs richesses naturelles sont pillées ou exploitées sans qu'il y ait de redistribution équitable pour les habitants.",
+"mots_cles": [
+{ "mot": "ressources naturelles", "variantes": ["matières premières"], "poids": 0.5 },
+{ "mot": "redistribution", "variantes": ["partage de l'argent", "profiter"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Expliquez l'antithèse formulée par l'auteur à la fin du deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "La mondialisation réussit à connecter techniquement les machines et ordinateurs, mais sépare les humains sur le plan social.",
+"mots_cles": [
+{ "mot": "connecter techniquement", "variantes": ["réseaux"], "poids": 0.5 },
+{ "mot": "sépare", "variantes": ["divise", "inégalités sociales"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Pourquoi le repli nationaliste est-il jugé inadéquat pour répondre aux dérives mondiales ?",
+"points": 1,
+"reponse_modele": "Parce que c'est une erreur historique qui refuse de voir que la mondialisation crée aussi des solidarités internationales.",
+"mots_cles": [
+{ "mot": "erreur historique", "variantes": ["mauvaise solution"], "poids": 0.5 },
+{ "mot": "solidarités", "variantes": ["coopération internationale", "outils communs"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quels sont les deux critères essentiels qui doivent guider la régulation future du système ?",
+"points": 1,
+"reponse_modele": "La justice sociale et la préservation environnementale (écologique).",
+"mots_cles": [
+{ "mot": "justice sociale", "variantes": ["égalité"], "poids": 0.5 },
+{ "mot": "environnementale", "variantes": ["écologique", "planète"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le premier paragraphe signifiant « très profond, immense et effrayant ».",
+"points": 1,
+"reponse_modele": "Abyssales (dans l'expression « fractures abyssales »).",
+"mots_cles": [
+{ "mot": "abyssales", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-075b",
+"titre": "Les échanges culturels comme moyen de lutter contre les préjugés",
+"titre2": "Exercice 75",
+"audios": [],
+"texte": [
+"La peur de l’inconnu est le terreau fertile sur lequel germent les stéréotypes nationaux, le racisme et l'intolérance. Face à ce repli identitaire, la multiplication des échanges culturels — qu'ils soient artistiques, scolaires ou associatifs — est souvent célébrée comme une arme pacifique majeure. Bien que la mise en contact de communautés différentes ne suffise pas à effacer instantanément des siècles de méfiance, elle entame le processus de déconstruction des représentations erronées.",
+"En effet, l'échange culturel permet de substituer à une image médiatique abstraite et souvent anxiogène la réalité concrète d'une rencontre humaine. Tandis que l'ignorance isole, la découverte de l'art, de la gastronomie ou des coutumes de l'autre met en lumière des aspirations universelles communes. En revanche, pour être pleinement efficaces, ces échanges ne doivent pas se limiter à une consommation touristique superficielle. Par conséquent, la réciprocité et le dialogue égalitaire s'avèrent indispensables. Autrement dit, il s'agit de transformer la tolérance passive en une compréhension active.",
+"Néanmoins, les budgets alloués à la diplomatie culturelle restent souvent dérisoires par rapport aux dépenses militaires. Quoique le pouvoir de l'art soit qualifié de « soft power », il est le seul capable d'édifier des ponts durables dans l'esprit des citoyens. En définitive, soutenir massivement les programmes d'échanges interculturels constitue un investissement stratégique indispensable pour garantir la paix et la cohésion mondiale."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle est l'origine psychologique des stéréotypes et de l'intolérance selon le texte ?",
+"points": 1,
+"reponse_modele": "Ils se développent à partir de la peur de l'inconnu.",
+"mots_cles": [
+{ "mot": "peur de l'inconnu", "variantes": ["peur de ce qu'on ne connaît pas", "ignorance"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Sous quelles formes concrètes les échanges culturels se manifestent-ils d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Sous des formes artistiques, scolaires ou au sein d'associations.",
+"mots_cles": [
+{ "mot": "artistiques", "variantes": ["art"], "poids": 0.33 },
+{ "mot": "scolaires", "variantes": ["écoles", "étudiants"], "poids": 0.33 },
+{ "mot": "associatifs", "variantes": ["associations"], "poids": 0.34 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel changement de perception s'opère dans l'esprit d'un individu lors d'une véritable rencontre ?",
+"points": 1,
+"reponse_modele": "L'image abstraite et angoissante partagée par les médias est remplacée par la réalité concrète d'un être humain.",
+"mots_cles": [
+{ "mot": "image abstraite", "variantes": ["cliché des médias"], "poids": 0.5 },
+{ "mot": "concrète", "variantes": ["rencontre humaine", "vrai visage"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel piège superficiel faut-il éviter pour que l'échange soit porteur de sens ?",
+"points": 1,
+"reponse_modele": "Il faut éviter de réduire l'échange à une simple consommation touristique de surface.",
+"mots_cles": [
+{ "mot": "consommation touristique", "variantes": ["tourisme", "superficiel", "voyage de surface"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Comment l'auteur reformule-t-il l'objectif ultime de ces programmes après le connecteur « autrement dit » ?",
+"points": 1,
+"reponse_modele": "Il s'agit de faire évoluer la tolérance passive (supporter l'autre) vers une réelle compréhension active.",
+"mots_cles": [
+{ "mot": "tolérance passive", "variantes": ["supporter"], "poids": 0.5 },
+{ "mot": "compréhension active", "variantes": ["dialogue réel", "comprendre vraiment"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle anomalie financière l'auteur dénonce-t-il au début du troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Le fait que l'argent accordé à la culture soit ridicule comparé aux sommes investies dans l'armée.",
+"mots_cles": [
+{ "mot": "budgets dérisoires", "variantes": ["manque d'argent", "peu de moyens"], "poids": 0.5 },
+{ "mot": "dépenses militaires", "variantes": ["armée", "guerre", "armes"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Expliquez le concept de « soft power » appliqué à l'art dans ce contexte.",
+"points": 1,
+"reponse_modele": "La capacité d'influencer positivement, de séduire et de pacifier les relations par la culture, sans utiliser la force physique.",
+"mots_cles": [
+{ "mot": "influencer", "variantes": ["persuader", "séduire"], "poids": 0.5 },
+{ "mot": "sans la force", "variantes": ["culture", "pacifique"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un nom masculin dans le premier paragraphe signifiant « terreau, matière ou lieu favorable au développement de quelque chose ».",
+"points": 1,
+"reponse_modele": "Terreau (dans l'expression « le terreau fertile »).",
+"mots_cles": [
+{ "mot": "terreau", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-076b",
+"titre": "Faut-il encourager les jeunes à étudier à l'étranger ?",
+"titre2": "Exercice 76",
+"audios": [],
+"texte": [
+"Le succès planétaire des programmes d'échange universitaire, à l'instar d'Erasmus en Europe, témoigne de la valeur accordée à la mobilité internationale des étudiants. Pour les institutions d'enseignement supérieur, inciter les jeunes à effectuer un cursus hors des frontières est devenu un indicateur de prestige et de modernité. Bien que cette parenthèse à l'étranger offre d'indéniables opportunités académiques et linguistiques, l'injonction généralisée au voyage mérite d'être interrogée.",
+"En effet, l'apprentissage accéléré d'une langue étrangère et l'acquisition d'une capacité d'adaptation rapide constituent des atouts majeurs sur un marché de l'emploi mondialisé. Néanmoins, cette expérience sélective met en lumière des barrières sociales discriminantes. Tandis que les étudiants issus de familles aisées profitent pleinement de ces bourses de mobilité, les jeunes de milieux modestes se retrouvent souvent exclus en raison de restes à charge financiers insurmontables. Par conséquent, ce système reproduit l'élitisme sous couvert d'ouverture internationale. Autrement dit, la mobilité étudiante tend à devenir un marqueur de privilège de classe.",
+"Néanmoins, démocratiser réellement ces parcours implique de réformer en profondeur l'attribution des aides financières publiques. Quoique le coût d'une année à l'étranger soit élevé, l'État doit le considérer comme un investissement démocratique. En définitive, encourager le départ de la jeunesse n'a de sens que si chaque étudiant, peu importe son origine sociale, dispose des mêmes moyens matériels pour tenter l'aventure."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel exemple célèbre de programme d'échange européen est cité par l'auteur ?",
+"points": 1,
+"reponse_modele": "Le programme Erasmus.",
+"mots_cles": [
+{ "mot": "Erasmus", "variantes": ["programme Erasmus"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels sont les deux bénéfices professionnels directs de la mobilité mentionnés dans le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "La maîtrise rapide d'une nouvelle langue et le développement d'une capacité d'adaptation.",
+"mots_cles": [
+{ "mot": "langue", "variantes": ["linguistique"], "poids": 0.5 },
+{ "mot": "adaptation", "variantes": ["s'adapter", "flexibilité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi les étudiants de condition modeste ont-ils du mal à participer à ces programmes ?",
+"points": 1,
+"reponse_modele": "Parce qu'ils font face à des coûts et des restes à charge financiers impossibles à payer pour leurs familles.",
+"mots_cles": [
+{ "mot": "financiers", "variantes": ["coûts", "argent", "restes à charge"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle dérive sociale l'auteur dénonce-t-il sous l'expression « couvert d'ouverture internationale » ?",
+"points": 1,
+"reponse_modele": "Il dénonce la reproduction d'un élitisme et d'un privilège réservé aux classes aisées.",
+"mots_cles": [
+{ "mot": "élitisme", "variantes": ["sélection", "privilège de classe", "riches"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle réforme concrète est proposée pour corriger ces inégalités d'accès ?",
+"points": 1,
+"reponse_modele": "Une révision complète du système d'attribution des aides et bourses financières publiques.",
+"mots_cles": [
+{ "mot": "aides financières", "variantes": ["bourses publiques", "financement"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Comment l'État doit-il considérer le financement de ces séjours selon le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Comme un investissement démocratique pour l'ensemble de la jeunesse.",
+"mots_cles": [
+{ "mot": "investissement démocratique", "variantes": ["choix démocratique", "droit pour tous"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est la valeur connective et logique du mot « néanmoins » placé au début du dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il sert à introduire une opposition pour proposer une solution face aux constats d'inégalités précédents.",
+"mots_cles": [
+{ "mot": "opposition", "variantes": ["solution", "restriction"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un nom féminin dans le premier paragraphe signifiant « un ordre formel, une obligation ou un conseil impératif ».",
+"points": 1,
+"reponse_modele": "Injonction (dans l'expression « l'injonction généralisée »).",
+"mots_cles": [
+{ "mot": "injonction", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-077b",
+"titre": "Le tourisme responsable peut-il transformer les habitudes des voyageurs ?",
+"titre2": "Exercice 77",
+"audios": [],
+"texte": [
+"Face aux ravages écologiques et culturels générés par l'industrie des vacances de masse, le concept de tourisme responsable (ou écotourisme) émerge comme une alternative éthique séduisante. Les chartes éthiques incitent désormais les voyageurs à minimiser leur empreinte carbone, à respecter les modes de vie autochtones et à privilégier l'économie locale. Bien que cette prise de conscience lexicale soit louable sur le papier, la capacité réelle de l'écotourisme à modifier en profondeur les comportements reste sujette à caution.",
+"En effet, l'achat d'un voyage labellisé « vert » fonctionne parfois comme un simple mécanisme de bonne conscience ou de blanchiment écologique (ou « greenwashing »). Tandis que le consommateur pense protéger la nature, l'utilisation répétée de vols long-courriers annule le bénéfice environnemental proclamé. En revanche, le tourisme durable exige un renoncement au confort immédiat et une décélération du rythme du voyage. Par conséquent, la transition demande un effort éthique réel. Autrement dit, le véritable tourisme responsable n'est pas un produit marketing haut de gamme, mais une philosophie de la sobriété.",
+"Néanmoins, rejeter la faute sur les seuls individus occulte le rôle des opérateurs économiques. Quoique les agences de voyages multiplient les slogans écologiques, elles continuent de promouvoir des volumes incompatibles avec les limites de la planète. En définitive, transformer les habitudes exige de contraindre les multinationales du secteur à intégrer le coût écologique réel dans leurs offres commerciales."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelles sont les trois obligations du tourisme responsable d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Réduire son empreinte carbone, respecter les populations autochtones et soutenir financièrement l'économie locale.",
+"mots_cles": [
+{ "mot": "carbone", "variantes": ["empreinte", "pollution"], "poids": 0.33 },
+{ "mot": "autochtones", "variantes": ["habitants", "populations locales"], "poids": 0.33 },
+{ "mot": "économie locale", "variantes": ["commerces locaux", "argent aux habitants"], "poids": 0.34 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel piège marketing l'auteur dénonce-t-il sous l'anglicisme « greenwashing » ?",
+"points": 1,
+"reponse_modele": "Le blanchiment écologique, qui consiste à donner une fausse image écologique à un produit polluant.",
+"mots_cles": [
+{ "mot": "blanchiment écologique", "variantes": ["fausse image", "illusion écologique", "mensonge"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi l'utilisation de vols long-courriers détruit-elle les intentions écologiques des touristes ?",
+"points": 1,
+"reponse_modele": "Parce que la pollution générée par l'avion annule tous les petits efforts environnementaux faits sur place.",
+"mots_cles": [
+{ "mot": "pollution", "variantes": ["carbone", "co2 de l'avion"], "poids": 0.6 },
+{ "mot": "annule", "variantes": ["supprime les bénéfices"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Quels sacrifices personnels le véritable écotourisme demande-t-il au voyageur ?",
+"points": 1,
+"reponse_modele": "Il demande d'accepter de réduire son confort immédiat et de ralentir le rythme du voyage.",
+"mots_cles": [
+{ "mot": "confort", "variantes": ["commodités", "luxe"], "poids": 0.5 },
+{ "mot": "ralentir", "variantes": ["décélération", "prendre son temps"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Comment l'auteur définit-il le tourisme responsable après l'expression « autrement dit » ?",
+"points": 1,
+"reponse_modele": "Il le définit comme une philosophie de la sobriété et non comme un produit commercial de luxe.",
+"mots_cles": [
+{ "mot": "philosophie de la sobriété", "variantes": ["sobriété", "simplicité"], "poids": 0.7 },
+{ "mot": "produit", "variantes": ["marketing", "luxe"], "poids": 0.3 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle hypocrisie l'auteur attribue-t-il aux agences de voyages traditionnelles ?",
+"points": 1,
+"reponse_modele": "Elles affichent des slogans verts tout en continuant de vendre des volumes de voyages trop élevés pour la planète.",
+"mots_cles": [
+{ "mot": "slogans verts", "variantes": ["discours écologiques"], "poids": 0.5 },
+{ "mot": "volumes", "variantes": ["vendre trop", "quantité", "masse"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle action législative ou financière la conclusion préconise-t-elle ?",
+"points": 1,
+"reponse_modele": "Obliger les multinationales à intégrer le coût écologique réel dans les tarifs de leurs prestations.",
+"mots_cles": [
+{ "mot": "coût écologique réel", "variantes": ["vrais prix", "tarifs écologiques", "pollueur payeur"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif au premier paragraphe qui signifie « douteux, incertain, dont on ne peut pas être sûr ».",
+"points": 1,
+"reponse_modele": "Sujette à caution (dans l'expression « reste sujette à caution »).",
+"mots_cles": [
+{ "mot": "sujette à caution", "variantes": ["sujet à caution"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-078b",
+"titre": "Les frontières nationales ont-elles encore la même importance aujourd'hui ?",
+"titre2": "Exercice 78",
+"audios": [],
+"texte": [
+"L’accélération de la mondialisation économique et l'émergence d'espaces de libre circulation, à l'instar de la zone Schengen en Europe, ont alimenté l'illusion d'un monde sans frontières. Pour les géographes et les économistes des réseaux, la porosité croissante des lignes de démarcation étatiques paraissait irréversible. Bien que les flux financiers et numériques ignorent superbement les souverainetés nationales, la frontière physique opère un retour spectaculaire sur la scène géopolitique contemporaine.",
+"En effet, face aux crises migratoires, aux menaces sécuritaires et aux crises sanitaires mondiales, les États réinvestissent massivement leurs frontières. En revanche, loin de s'effacer, les lignes de démarcation se durcissent par la construction de murs et l'installation de systèmes de surveillance technologiques de pointe. Par conséquent, la frontière n'a pas disparu, mais elle a changé de nature. Autrement dit, elle fonctionne désormais comme un filtre asymétrique : ouverte pour les marchandises et les capitaux, mais hermétique pour les personnes issues des pays pauvres.",
+"Néanmoins, ce durcissement identitaire se heurte à la réalité des défis globaux comme le dérèglement climatique ou les pandémies, qu'aucun mur ne peut arrêter. Quoique le souverainisme soit plébiscité par une partie des électorats nationaux, la coopération transfrontalière reste vitale. En définitive, repenser la frontière implique de la concevoir non comme un mur d'exclusion stérile, mais comme un espace d'articulation et de dialogue entre les peuples."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel exemple concret d'espace de libre circulation européen est mentionné dans le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "La zone Schengen.",
+"mots_cles": [
+{ "mot": "Schengen", "variantes": ["espace Schengen", "zone Schengen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels types de flux ignorent totalement les tracés des frontières étatiques ?",
+"points": 1,
+"reponse_modele": "Les flux financiers (argent) et les flux numériques (données internet).",
+"mots_cles": [
+{ "mot": "financiers", "variantes": ["argent", "capitaux"], "poids": 0.5 },
+{ "mot": "numériques", "variantes": ["internet", "données"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles raisons contemporaines poussent les gouvernements à refermer et surveiller leurs limites physiques ?",
+"points": 1,
+"reponse_modele": "Les crises de migration, les menaces sur la sécurité (terrorisme) et les crises sanitaires (maladies).",
+"mots_cles": [
+{ "mot": "migratoires", "variantes": ["immigration", "réfugiés"], "poids": 0.33 },
+{ "mot": "sécuritaires", "variantes": ["sécurité", "terrorisme"], "poids": 0.33 },
+{ "mot": "sanitaires", "variantes": ["maladies", "pandémies"], "poids": 0.34 }
+]
+},
+{
+"id": "Q4",
+"question": "Comment les frontières se matérialisent-elles de nos jours sur le terrain d'après le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Par l'érection de murs physiques et l'installation d'outils de surveillance technologique avancés.",
+"mots_cles": [
+{ "mot": "murs", "variantes": ["barrières", "clôtures"], "poids": 0.5 },
+{ "mot": "surveillance technologique", "variantes": ["capteurs", "caméras", "technologie"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Expliquez le concept de « filtre asymétrique » résumé par l'auteur après le connecteur « autrement dit ».",
+"points": 1,
+"reponse_modele": "La frontière laisse passer facilement l'argent et les produits commerciaux, mais bloque les êtres humains des pays défavorisés.",
+"mots_cles": [
+{ "mot": "argent et produits", "variantes": ["marchandises", "capitaux"], "poids": 0.5 },
+{ "mot": "bloque", "variantes": ["hermétique", "personnes", "pays pauvres"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quels problèmes mondiaux prouvent l'inutilité des barrières physiques étanches ?",
+"points": 1,
+"reponse_modele": "Le dérèglement du climat et les épidémies mondiales (pandémies).",
+"mots_cles": [
+{ "mot": "dérèglement climatique", "variantes": ["climat", "écologie"], "poids": 0.5 },
+{ "mot": "pandémies", "variantes": ["maladies", "virus"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle vision constructive de la frontière l'auteur propose-t-il dans sa conclusion ?",
+"points": 1,
+"reponse_modele": "La transformer en un espace de dialogue, d'articulation et d'échange entre les nations.",
+"mots_cles": [
+{ "mot": "dialogue", "variantes": ["échange", "coopération"], "poids": 0.6 },
+{ "mot": "articulation", "variantes": ["espace commun"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le second paragraphe signifiant « totalement étanche, fermé, qui ne laisse rien passer ».",
+"points": 1,
+"reponse_modele": "Hermétique (dans l'expression « hermétique pour les personnes »).",
+"mots_cles": [
+{ "mot": "hermétique", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-079b",
+"titre": "Les avantages et les difficultés de l'intégration dans un nouveau pays",
+"titre2": "Exercice 79",
+"audios": [],
+"texte": [
+"S'installer définitivement dans une nouvelle patrie est un choix de vie bouleversant, qui s'apparente à une véritable renaissance personnelle. Pour l'immigrant, cette trajectoire offre la chance de s'affranchir de contraintes initiales et d'accéder à des opportunités professionnelles ou sécuritaires inédites. Bien que le récit républicain présente l'intégration comme un parcours linéaire couronné de succès, la réalité psychologique et administrative des nouveaux arrivants est parsemée d'embûches.",
+"En effet, l'accès à un emploi qualifié se heurte fréquemment au mur de la non-reconnaissance des diplômes étrangers et à des discriminations systémiques. Tandis que le migrant s'efforce de maîtriser une langue complexe, le sentiment de solitude face à la perte des codes culturels d'origine est intense. Par conséquent, cette épreuve peut générer une crise identitaire profonde. Autrement dit, l'intégration n'est pas une simple formalité administrative, mais un deuil culturel partiel et une reconstruction de soi permanente.",
+"Néanmoins, surmonter ces obstacles initiaux apporte une richesse humaine inestimable, transformant l'individu en un citoyen pluriel doué d'une forte capacité de résilience. Quoique le chemin exige des sacrifices immenses, la réussite est possible pourvu que la société d'accueil mette en place des structures de parrainage et un accompagnement bienveillant. En définitive, l'intégration est un contrat à double sens qui demande des efforts à l'arrivant mais exige de la fraternité de la part de la communauté d'accueil."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quels bénéfices immédiats incitent un individu à changer de patrie selon le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "L'accès à des opportunités de travail (professionnelles) ou à une meilleure sécurité.",
+"mots_cles": [
+{ "mot": "opportunités professionnelles", "variantes": ["travail", "emploi"], "poids": 0.5 },
+{ "mot": "sécuritaires", "variantes": ["sécurité", "paix"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel obstacle professionnel majeur bloque l'accès à l'emploi des diplômés immigrés ?",
+"points": 1,
+"reponse_modele": "Le refus de reconnaissance ou l'équivalence de leurs diplômes obtenus à l'étranger.",
+"mots_cles": [
+{ "mot": "non-reconnaissance", "variantes": ["pas d'équivalence", "refus du diplôme"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles souffrances psychologiques l'exilé traverse-t-il durant sa transition ?",
+"points": 1,
+"reponse_modele": "Une solitude intense liée à la perte de ses repères et de ses codes culturels natals.",
+"mots_cles": [
+{ "mot": "solitude", "variantes": ["isolement"], "poids": 0.5 },
+{ "mot": "codes culturels", "variantes": ["repères d'origine", "habitudes"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Comment l'auteur redéfinie-t-il le processus d'intégration après l'expression « autrement dit » ?",
+"points": 1,
+"reponse_modele": "Comme un deuil culturel partiel accompagné d'une reconstruction permanente de son identité.",
+"mots_cles": [
+{ "mot": "deuil culturel", "variantes": ["perte culturelle"], "poids": 0.5 },
+{ "mot": "reconstruction", "variantes": ["se refaire", "identité en évolution"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle qualité psychologique positive l'immigrant développe-t-il en surmontant ces épreuves ?",
+"points": 1,
+"reponse_modele": "Une forte capacité de résilience.",
+"mots_cles": [
+{ "mot": "résilience", "variantes": ["capacité de résilience", "force d'esprit", "surmonter"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelles actions la communauté d'accueil doit-elle mener pour faciliter la réussite de ce parcours ?",
+"points": 1,
+"reponse_modele": "Mettre à disposition des dispositifs de parrainage et proposer un accompagnement bienveillant.",
+"mots_cles": [
+{ "mot": "parrainage", "variantes": ["tutorat", "aide"], "poids": 0.5 },
+{ "mot": "accompagnement bienveillant", "variantes": ["accueil humain", "soutien"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Expliquez l'expression finale « un contrat à double sens » employée par l'auteur.",
+"points": 1,
+"reponse_modele": "Cela signifie que l'intégration demande des efforts d'adaptation du migrant, mais aussi de l'ouverture et de la fraternité de la part de la société qui reçoit.",
+"mots_cles": [
+{ "mot": "efforts du migrant", "variantes": ["adaptation"], "poids": 0.5 },
+{ "mot": "société qui reçoit", "variantes": ["communauté d'accueil", "fraternité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un nom féminin dans le premier paragraphe signifiant « pays d'origine, terre des ancêtres ».",
+"points": 1,
+"reponse_modele": "Patrie (dans l'expression « nouvelle patrie »).",
+"mots_cles": [
+{ "mot": "patrie", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-080b",
+"titre": "Le rôle des organisations internationales dans la résolution des crises mondiales",
+"titre2": "Exercice 80",
+"audios": [],
+"texte": [
+"Depuis la création de l'Organisation des Nations Unies au lendemain de la Seconde Guerre mondiale, le multilatéralisme est érigé en principe suprême de la gouvernance globale. Face à des défis transfrontaliers complexes, les institutions internationales ont pour mission d'arbitrer les conflits, de coordonner l'aide humanitaire et de faire respecter le droit international. Bien que cette architecture diplomatique mondiale paraisse indispensable à la stabilité, son impuissance structurelle suscite des critiques acerbes.",
+"En effet, le droit de veto possédé par les grandes puissances paralyse fréquemment le Conseil de sécurité, transformant l'ONU en un spectateur impuissant face aux guerres contemporaines. En revanche, les agences spécialisées, à l'instar de l'OMS ou du PAM, accomplissent un travail de terrain remarquable pour atténuer la pauvreté et soigner les populations. Par conséquent, l'échec politique des sommets diplomatiques ne doit pas occulter l'efficacité opérationnelle des structures humanitaires. Autrement dit, le multilatéralisme souffre d'une paralysie politique mais brille par sa solidarité technique.",
+"Néanmoins, réformer ces institutions s'avère extrêmement complexe en raison du refus des États souverains de céder une part de leur autorité. Quoique le système onusien soit imparfait, son absence totale précipiterait le monde dans le chaos de la loi du plus fort. En définitive, revitaliser la gouvernance mondiale exige de redéfinir les règles du jeu pour donner plus de poids aux nations émergentes et imposer le respect des traités signés."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "À quelle période historique l'ONU a-t-elle été créée d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Au lendemain de la Seconde Guerre mondiale.",
+"mots_cles": [
+{ "mot": "Seconde Guerre mondiale", "variantes": ["1945", "après-guerre"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelles sont les trois missions fondamentales confiées aux organisations internationales ?",
+"points": 1,
+"reponse_modele": "Arbitrer les conflits armés, coordonner les actions humanitaires et faire appliquer le droit international.",
+"mots_cles": [
+{ "mot": "arbitrer les conflits", "variantes": ["guerres", "paix"], "poids": 0.33 },
+{ "mot": "humanitaire", "variantes": ["aide", "secours"], "poids": 0.33 },
+{ "mot": "droit international", "variantes": ["traités", "lois mondiales"], "poids": 0.34 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel mécanisme politique interne bloque l'action de l'ONU lors des guerres actuelles ?",
+"points": 1,
+"reponse_modele": "Le droit de veto détenu par les grandes puissances au Conseil de sécurité.",
+"mots_cles": [
+{ "mot": "droit de veto", "variantes": ["veto"], "poids": 0.7 },
+{ "mot": "Conseil de sécurité", "variantes": ["grandes puissances"], "poids": 0.3 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelles agences humanitaires spécialisées de l'ONU sont citées pour leur efficacité de terrain ?",
+"points": 1,
+"reponse_modele": "L'OMS (Organisation mondiale de la santé) et le PAM (Programme alimentaire mondial).",
+"mots_cles": [
+{ "mot": "OMS", "variantes": ["Santé"], "poids": 0.5 },
+{ "mot": "PAM", "variantes": ["Alimentaire", "faim"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Expliquez le paradoxe du multilatéralisme résumé par l'auteur après la formule « autrement dit ».",
+"points": 1,
+"reponse_modele": "Le système est totalement bloqué au niveau de la haute politique mais fonctionne très bien pour l'aide technique et humanitaire.",
+"mots_cles": [
+{ "mot": "bloqué", "variantes": ["paralysie politique"], "poids": 0.5 },
+{ "mot": "aide technique", "variantes": ["humanitaire", "solidarité technique"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel risque majeur le monde courrait-il si l'ONU disparaissait complètement ?",
+"points": 1,
+"reponse_modele": "Le monde tomberait dans le chaos et la domination exclusive de la loi du plus fort.",
+"mots_cles": [
+{ "mot": "chaos", "variantes": ["désordre", "anarchie"], "poids": 0.5 },
+{ "mot": "loi du plus fort", "variantes": ["domination", "guerre totale"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelles réformes structurelles la conclusion préconise-t-elle pour moderniser le système ?",
+"points": 1,
+"reponse_modele": "Donner plus d'importance aux nations émergentes et forcer le respect des traités.",
+"mots_cles": [
+{ "mot": "nations émergentes", "variantes": ["nouveaux pays", "pays en développement"], "poids": 0.6 },
+{ "mot": "traités", "variantes": ["lois", "respect des accords"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le premier paragraphe signifiant « très sévère, blessant ou violent dans la critique ».",
+"points": 1,
+"reponse_modele": "Acerbes (dans l'expression « critiques acerbes »).",
+"mots_cles": [
+{ "mot": "acerbes", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+    "id": "B2-081b",
+    "titre": "La participation des jeunes à la vie démocratique",
+    "titre2": "Exercice 81",
+    "audios": [],
+    "texte": [
+      "Le désengagement électoral des nouvelles générations est régulièrement brandi comme le symptôme alarmant d'une crise de légitimité de nos institutions. Lors des derniers scrutins, les taux d'abstention parmi les moins de trente ans ont atteint des sommets historiques, nourrissant l'idée d'une jeunesse apathique et désintéressée de la chose publique. Bien que ce recul dans les urnes soit indéniable, postuler que les jeunes se désintéressent de la politique relève d'une analyse superficielle.",
+      "En effet, la participation démocratique des jeunes s'est profondément métamorphosée plutôt qu'elle ne s'est éteinte. En revanche, ils privilégient désormais des formes d'engagement horizontales, directes et spontanées, telles que les manifestations pour le climat, les boycotts citoyens et l'activisme numérique. Tandis que les partis traditionnels rigides peinent à les séduire, l'espace virtuel offre un catalyseur puissant à leurs revendications. Par conséquent, la jeunesse déplace le débat hors des cadres institutionnels. Autrement dit, ils refusent le jeu électoral classique mais réinventent la citoyenneté au quotidien.",
+      "Néanmoins, cette déconnexion entre l'activisme de terrain et la représentation parlementaire pose un risque d'impuissance politique à long terme. Quoique les pétitions en ligne bousculent l'agenda médiatique, les lois se votent encore dans les assemblées. En définitive, revitaliser notre démocratie exige de créer des passerelles institutionnelles innovantes, comme les budgets participatifs ou le vote dès seize ans, afin d'inclure cette énergie contestataire dans les processus décisionnels."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quel comportement électoral des jeunes est dénoncé au début du texte ?",
+        "points": 1,
+        "reponse_modele": "Leur abstention massive lors des élections, souvent interprétée comme un désintérêt pour la politique.",
+        "mots_cles": [
+          { "mot": "abstention", "variantes": ["désengagement électoral", "recul dans les urnes", "ne pas voter"], "poids": 0.7 },
+          { "mot": "désintérêt", "variantes": ["apathie", "indifférence"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quelles nouvelles formes d'action la jeunesse privilégie-t-elle par rapport au vote traditionnel ?",
+        "points": 1,
+        "reponse_modele": "Des formes directes et horizontales comme les manifestations, le boycott de produits ou l'activisme sur Internet.",
+        "mots_cles": [
+          { "mot": "manifestations", "variantes": ["marches", "climat"], "poids": 0.33 },
+          { "mot": "boycotts", "variantes": ["consommation citoyenne"], "poids": 0.33 },
+          { "mot": "activisme numérique", "variantes": ["internet", "réseaux sociaux", "en ligne"], "poids": 0.34 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Pourquoi les structures politiques classiques (partis, syndicats) échouent-elles à attirer les jeunes ?",
+        "points": 1,
+        "reponse_modele": "Parce qu'elles sont jugées trop rigides et ne correspondent pas à leur désir d'horizontalité.",
+        "mots_cles": [
+          { "mot": "rigides", "variantes": ["traditionnels", "anciennes structures"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Expliquez l'expression « réinventent la citoyenneté au quotidien » d'après le contexte du deuxième paragraphe.",
+        "points": 1,
+        "reponse_modele": "Cela signifie qu'ils exercent leur rôle de citoyen par des actions concrètes et éthiques de tous les jours plutôt que par le seul vote.",
+        "mots_cles": [
+          { "mot": "actions concrètes", "variantes": ["choix de consommation", "engagements de terrain"], "poids": 0.6 },
+          { "mot": "tous les jours", "variantes": ["quotidien", "permanence"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quel danger majeur l'auteur identifie-t-il dans le fait de délaisser la représentation parlementaire ?",
+        "points": 1,
+        "reponse_modele": "Le risque d'une impuissance politique, car les lois se votent toujours au Parlement et non sur Internet.",
+        "mots_cles": [
+          { "mot": "impuissance politique", "variantes": ["inefficacité à long terme", "pas de changement réel"], "poids": 0.6 },
+          { "mot": "lois", "variantes": ["Parlement", "assemblées"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Quelles propositions concrètes sont avancées dans la conclusion pour moderniser les institutions ?",
+        "points": 1,
+        "reponse_modele": "L'instauration de budgets participatifs et l'abaissement du droit de vote à seize ans.",
+        "mots_cles": [
+          { "mot": "budgets participatifs", "variantes": ["participation"], "poids": 0.5 },
+          { "mot": "vote dès seize ans", "variantes": ["16 ans"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Trouvez un nom masculin dans le deuxième paragraphe signifiant « un élément qui provoque ou accélère une réaction ».",
+        "points": 1,
+        "reponse_modele": "Catalyseur (dans l'expression « un catalyseur puissant »).",
+        "mots_cles": [
+          { "mot": "catalyseur", "variantes": [], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Quelle est la valeur sémantique du connecteur « quoique » introduit dans le dernier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Il introduit une concession, soulignant le pouvoir des outils en ligne tout en montrant leurs limites juridiques.",
+        "mots_cles": [
+          { "mot": "concession", "variantes": ["opposition", "nuance"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-082b",
+    "titre": "La liberté d'expression peut-elle avoir des limites ?",
+    "titre2": "Exercice 82",
+    "audios": [],
+    "texte": [
+      "Inscrite au cœur des déclarations des droits de l'homme, la liberté d'expression est le fondement indéboulonnable de toute société authentiquement démocratique. Elle garantit le pluralisme des idées, permet la critique des gouvernants et protège la dissidence intellectuelle contre l'arbitraire. Bien que cette liberté soit indispensable pour prémunir les citoyens contre la tyrannie, la question de ses limites légales fait l'objet de vifs affrontements doctrinaux.",
+      "En effet, concevoir la liberté d'expression comme un absolu sans aucune restriction technique mènerait à la destruction de la paix sociale. L'arsenal juridique français postule que la liberté des uns s'arrête là où commence la sécurité d'autrui. En revanche, les propos racistes, l'antisémitisme, la diffamation et l'incitation à la violence ne sont pas des opinions, mais des délits pénalisés. Par conséquent, la loi encadre strictement la parole pour protéger la dignité humaine. Autrement dit, restreindre les dérives verbales haineuses n'est pas censurer, c'est préserver le pacte républicain.",
+      "Néanmoins, l'avènement d'Internet et la multiplication des poursuites pour offenses religieuses ou morales inquiètent les défenseurs des libertés. Quoique la régulation des réseaux soit nécessaire face aux lynchages numériques, le risque d'une dérive vers le politiquement correct et l'autocensure est réel. En définitive, fixer les limites de la parole exige un équilibre subtil pour interdire la haine sans jamais étouffer le droit à l'irrévérence, à la satire et au débat contradictoire."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Pourquoi la liberté d'expression est-elle qualifiée de fondement de la démocratie dans le premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Parce qu'elle garantit la diversité des opinions (pluralisme), permet de critiquer le pouvoir et protège les opposants.",
+        "mots_cles": [
+          { "mot": "pluralisme", "variantes": ["diversité des idées"], "poids": 0.4 },
+          { "mot": "critique", "variantes": ["gouvernants", "pouvoir"], "poids": 0.3 },
+          { "mot": "dissidence", "variantes": ["opposants", "intellectuels"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quelles catégories de propos sont considérées comme des délits et non comme des opinions en France ?",
+        "points": 1,
+        "reponse_modele": "Les propos racistes, l'antisémitisme, les insultes publiques (diffamation) et l'incitation à la violence.",
+        "mots_cles": [
+          { "mot": "racistes", "variantes": ["antisémitisme"], "poids": 0.4 },
+          { "mot": "diffamation", "variantes": ["injures"], "poids": 0.3 },
+          { "mot": "violence", "variantes": ["incitation à la haine"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quel est le but ultime des restrictions imposées à la parole selon le deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Protéger la dignité humaine des individus et maintenir la cohésion du pacte républicain.",
+        "mots_cles": [
+          { "mot": "dignité humaine", "variantes": ["respect des personnes"], "poids": 0.6 },
+          { "mot": "pacte républicain", "variantes": ["paix sociale", "cohésion"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quelle explication l'auteur donne-t-il après le connecteur « autrement dit » ?",
+        "points": 1,
+        "reponse_modele": "Il explique que punir les propos haineux ne correspond pas à de la censure, mais à une protection de la société.",
+        "mots_cles": [
+          { "mot": "pas de la censure", "variantes": ["pas censurer"], "poids": 0.6 },
+          { "mot": "protection", "variantes": ["préserver", "pacte"], "poids": 0.4 }
+        ]
+      },
+      {
+"id": "Q5",
+"question": "Quel nouveau danger lié à l'ambiance culturelle actuelle inquiète les militants des droits de l'homme ?",
+"points": 1,
+"reponse_modele": "Le danger de basculer dans le politiquement correct excessif et de pousser les citoyens à l'autocensure.",
+"mots_cles": [
+{ "mot": "politiquement correct", "variantes": ["bien-pensance"], "poids": 0.5 },
+{ "mot": "autocensure", "variantes": ["peur de parler", "s'interdire de s'exprimer"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quels types d'humour ou de discussions la loi doit-elle impérativement sanctuariser selon la conclusion ?",
+"points": 1,
+"reponse_modele": "Le droit à la satire (humour grinçant), à l'irrévérence et au débat contradictoire.",
+"mots_cles": [
+{ "mot": "satire", "variantes": ["caricature"], "poids": 0.4 },
+{ "mot": "irrévérence", "variantes": ["provocation", "blasphème"], "poids": 0.3 },
+{ "mot": "débat contradictoire", "variantes": ["discussion"], "poids": 0.3 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un adjectif dans le premier paragraphe signifiant « que l'on ne peut pas détruire, ébranler ou renverser ».",
+"points": 1,
+"reponse_modele": "Indéboulonnable.",
+"mots_cles": [
+{ "mot": "indéboulonnable", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel rapport logique est introduit par l'expression « par conséquent » au milieu du texte ?",
+"points": 1,
+"reponse_modele": "Un rapport de conséquence, découlant de la nécessité de protéger la dignité des citoyens contre les injures.",
+"mots_cles": [
+{ "mot": "conséquence", "variantes": ["résultat logique"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-083b",
+"titre": "Les inégalités économiques menacent-elles la cohésion sociale ?",
+"titre2": "Exercice 83",
+"audios": [],
+"texte": [
+"L’accumulation vertigineuse des richesses entre les mains d'une minorité d'individus est devenue une caractéristique majeure du capitalisme contemporain. Alors que les rapports économiques mondiaux soulignent l'augmentation constante des écarts de revenus, la question des répercussions sociales de cette polarisation se pose. Bien que les partisans de l'économie de marché soutiennent que la richesse globale finit par ruisseler sur l'ensemble de la société, les faits infirment cette théorie.",
+"En effet, l'explosion des inégalités de conditions fragilise directement le sentiment d'appartenance à une communauté nationale commune. En revanche, le creusement de ce fossé matériel détruit la confiance des citoyens envers les institutions politiques, perçues comme partiales. Tandis que l'accès aux logements de qualité, aux grandes écoles et aux soins de pointe se privatise, les classes populaires subissent une ghettoïsation rampante. Par conséquent, la frustration sociale s'accumule. Autrement dit, la fracture économique se transforme inévitablement en une ségrégation sociale et territoriale.",
+"Néanmoins, corriger cette dérive exige de dépasser la simple charité pour mettre en œuvre des politiques redistributives d'envergure. Quoique la fiscalité progressive soit critiquée par les milieux financiers, elle s'avère indispensable pour refinancer les services publics indispensables. En définitive, la cohésion sociale n'est pas un concept abstrait : elle ne peut subsister que s'il existe une justice économique minimale garantissant la dignité de chaque travailleur."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle théorie économique libérale est contestée par l'auteur dès le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "La théorie du ruissellement, selon laquelle la richesse des plus riches profite naturellement à toute la société.",
+"mots_cles": [
+{ "mot": "ruissellement", "variantes": ["théorie du ruissellement", "enrichissement global"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel sentiment indispensable à la vie en société est affaibli par l'explosion des inégalités ?",
+"points": 1,
+"reponse_modele": "Le sentiment d'appartenance à une communauté nationale commune.",
+"mots_cles": [
+{ "mot": "appartenance", "variantes": ["fraternité", "solidarité"], "poids": 0.6 },
+{ "mot": "communauté nationale", "variantes": ["société", "vivre ensemble"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle perception les citoyens ont-ils des institutions politiques lorsque le fossé économique grandit ?",
+"points": 1,
+"reponse_modele": "Ils perdent confiance en elles car ils les considèrent comme partiales et au service des riches.",
+"mots_cles": [
+{ "mot": "perdent confiance", "variantes": ["méfiance", "crise de confiance"], "poids": 0.6 },
+{ "mot": "partiales", "variantes": ["injustes", "au service de la minorité"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Quels services ou biens essentiels ont tendance à se privatiser selon le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "L'accès à un logement de qualité, l'entrée dans les grandes écoles (éducation) et l'accès aux soins médicaux de pointe.",
+"mots_cles": [
+{ "mot": "logements", "variantes": ["immobilier"], "poids": 0.33 },
+{ "mot": "grandes écoles", "variantes": ["éducation", "études"], "poids": 0.33 },
+{ "mot": "soins", "variantes": ["santé", "médecine"], "poids": 0.34 }
+]
+},
+{
+"id": "Q5",
+"question": "Comment l'auteur résume-t-il la conséquence géographique de la fracture financière ?",
+"points": 1,
+"reponse_modele": "Elle crée une ségrégation sociale et territoriale (ghettoïsation).",
+"mots_cles": [
+{ "mot": "ségrégation sociale", "variantes": ["fracture territoriale", "ghettoïsation", "séparation des classes"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel levier fiscal l'auteur préconise-t-il pour restaurer l'équité publique ?",
+"points": 1,
+"reponse_modele": "La mise en œuvre d'une fiscalité progressive et de politiques de redistribution à grande échelle.",
+"mots_cles": [
+{ "mot": "fiscalité progressive", "variantes": ["impôt progressif", "taxes sur les riches"], "poids": 0.7 },
+{ "mot": "redistribution", "variantes": ["politiques redistributives"], "poids": 0.3 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un adjectif dans le second paragraphe signifiant « qui se développe lentement et sournoisement, sans faire de bruit ».",
+"points": 1,
+"reponse_modele": "Rampante (dans l'expression « une ghettoïsation rampante »).",
+"mots_cles": [
+{ "mot": "rampante", "variantes": ["rampant"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel est le rôle logique du connecteur « en définitive » au début de la conclusion ?",
+"points": 1,
+"reponse_modele": "Il clôt l'argumentation en formulant le bilan et la condition de survie de la cohésion sociale.",
+"mots_cles": [
+{ "mot": "clôt l'argumentation", "variantes": ["conclusion", "bilan"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-084b",
+"titre": "Le bénévolat peut-il contribuer à transformer la société ?",
+"titre2": "Exercice 84",
+"audios": [],
+"texte": [
+"Dans une organisation sociale dominée par la logique marchande et l'individualisme, le don de soi non rémunéré apparaît comme une anomalie bienvenue. Le tissu associatif français s'appuie sur des millions de bénévoles qui œuvrent quotidiennement dans l'aide humanitaire, le sport amateur ou la culture de quartier. Bien que cette force militante soit indispensable pour colmater les brèches de la précarité, la capacité réelle du bénévolat à transformer les structures de la société interroge.",
+"En effet, l'action bénévole offre un remède immédiat et indispensable aux urgences sociales. Elle tisse des liens de solidarité directs, basés sur la fraternité et l'écoute de l'autre. Néanmoins, certains sociologues alertent sur le risque d'une instrumentalisation politique du secteur associatif. Tandis que l'État providence se désengage de ses missions historiques, les bénévoles pallient le manque d'investissements publics. Par conséquent, le don de soi risque de masquer la défaillance des institutions. Autrement dit, le bénévolat panse les plaies de la pauvreté mais ne guérit pas le système.",
+"Néanmoins, réduire le bénévolat à une simple béquille du capitalisme serait injuste. Quoique les actions soient souvent locales, elles infusent une culture alternative axée sur la gratuité et le partage. En définitive, le bénévolat se transforme en levier de changement politique profond lorsqu'il s'associe à des mouvements de contestation conscients, capables d'exiger des réformes structurelles permanentes auprès de l'État."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Dans quels secteurs d'activité majeurs les bénévoles s'investissent-ils d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Dans l'aide humanitaire, l'encadrement du sport amateur et l'animation culturelle locale.",
+"mots_cles": [
+{ "mot": "humanitaire", "variantes": ["social", "secours"], "poids": 0.33 },
+{ "mot": "sport amateur", "variantes": ["clubs"], "poids": 0.33 },
+{ "mot": "culture", "variantes": ["quartier", "associations"], "poids": 0.34 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel bienfait humain direct naît de l'action associative de terrain ?",
+"points": 1,
+"reponse_modele": "Elle tisse des liens de solidarité réels, fondés sur la fraternité et l'écoute mutuelle.",
+"mots_cles": [
+{ "mot": "liens de solidarité", "variantes": ["cohésion", "rapports humains"], "poids": 0.6 },
+{ "mot": "fraternité", "variantes": ["écoute", "entraide"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle critique certains sociologues formulent-ils contre le rôle actuel dévolu aux bénévoles ?",
+"points": 1,
+"reponse_modele": "Ils craignent qu'ils ne soient instrumentalisés par l'État pour compenser le manque de financements publics.",
+"mots_cles": [
+{ "mot": "instrumentalisés", "variantes": ["utilisés"], "poids": 0.5 },
+{ "mot": "manque d'investissements", "variantes": ["désengagement de l'État", "remplacer les services publics"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Expliquez la métaphore médicale utilisée à la fin du deuxième paragraphe après « autrement dit ».",
+"points": 1,
+"reponse_modele": "Le bénévolat apporte un soulagement temporaire aux symptômes de la pauvreté (panse les plaies) sans modifier les causes profondes de l'injustice (ne guérit pas le système).",
+"mots_cles": [
+{ "mot": "soulagement temporaire", "variantes": ["pansement", "aide d'urgence"], "poids": 0.5 },
+{ "mot": "causes profondes", "variantes": ["système", "injustice structurelle"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelles valeurs alternatives le monde associatif insuffle-t-il dans la société ?",
+"points": 1,
+"reponse_modele": "Des valeurs basées sur la gratuité des échanges et la culture du partage.",
+"mots_cles": [
+{ "mot": "gratuité", "variantes": ["non marchand"], "poids": 0.5 },
+{ "mot": "partage", "variantes": ["solidarité", "générosité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "À quelle condition le bénévolat peut-il devenir un outil de transformation globale en fin de texte ?",
+"points": 1,
+"reponse_modele": "Lorsqu'il s'allie à des mouvements citoyens conscients pour revendiquer de véritables réformes structurelles politiques.",
+"mots_cles": [
+{ "mot": "mouvements citoyens", "variantes": ["contestation"], "poids": 0.5 },
+{ "mot": "réformes structurelles", "variantes": ["lois", "changement politique"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un verbe au premier paragraphe qui signifie « boucher un trou, réparer provisoirement une fissure ».",
+"points": 1,
+"reponse_modele": "Colmater (dans l'expression « colmater les brèches »).",
+"mots_cles": [
+{ "mot": "colmater", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Analysez l'intention argumentative de l'auteur à travers ce texte. Est-il hostile au bénévolat ?",
+"points": 1,
+"reponse_modele": "Non, son intention est de proposer une analyse critique et nuancée, valorisant le dévouement humain tout en soulignant les limites de l'action apolitique.",
+"mots_cles": [
+{ "mot": "nuancée", "variantes": ["équilibrée", "critique constructive"], "poids": 0.6 },
+{ "mot": "limites", "variantes": ["politique", "structures"], "poids": 0.4 }
+]
+}
+]
+},
+{
+"id": "B2-085b",
+"titre": "La lutte contre la discrimination : un défi permanent",
+"titre2": "Exercice 85",
+"audios": [],
+"texte": [
+"Le principe d'égalité républicaine postule qu'aucun citoyen ne peut faire l'objet d'une différence de traitement en raison de son origine, de son genre ou de ses croyances. Pourtant, les enquêtes sociologiques de « testing » sur le marché du logement et de l'emploi révèlent des exclusions systématiques et massives. Bien que l'arsenal législatif se soit durci au cours des dernières décennies, la lutte contre les discriminations directes ou systémiques reste un combat inachevé.",
+"En effet, l'un des obstacles majeurs réside dans la nature invisible et inconsciente de certains biais stéréotypés. En revanche, les entreprises adoptent souvent des chartes de diversité de façade pour soigner leur communication marketing sans modifier leurs critères de recrutement. Par conséquent, les minorités font face à un plafond de verre infranchissable, limitant leur mobilité sociale. Autrement dit, la loi punit l'injustice déclarée, mais elle peine à déraciner les réflexes d'exclusion ancrés dans la culture managériale.",
+"Néanmoins, des avancées méthodologiques, à l'instar du CV anonyme ou de la transparence salariale obligatoire, offrent des motifs d'espoir. Quoique ces contraintes administratives irritent une partie du patronat, elles s'avèrent indispensables pour objectiver les parcours. En définitive, éradiquer la discrimination exige d'associer la répression judiciaire à une éducation active aux préjugés dès le plus jeune âge afin de transformer les mentalités en profondeur."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quels domaines concrets de la vie économique font l'objet d'enquêtes par « testing » selon le texte ?",
+"points": 1,
+"reponse_modele": "Le marché du travail (l'emploi) et l'accès au marché du logement.",
+"mots_cles": [
+{ "mot": "emploi", "variantes": ["travail", "embauche", "recrutement"], "poids": 0.5 },
+{ "mot": "logement", "variantes": ["immobilier", "appartements"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Pourquoi la lutte contre les discriminations est-elle qualifiée de combat inachevé malgré les lois ?",
+"points": 1,
+"reponse_modele": "Parce que les exclusions restent massives et que les discriminations prennent des formes systémiques ou invisibles.",
+"mots_cles": [
+{ "mot": "systémiques", "variantes": ["invisibles", "ancrées"], "poids": 0.6 },
+{ "mot": "massives", "variantes": ["réelles", "testing"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle critique l'auteur adresse-t-il à la communication des entreprises à travers le terme « de façade » ?",
+"points": 1,
+"reponse_modele": "Il dénonce l'hypocrisie des chartes de diversité qui servent au marketing sans changer les vraies méthodes de recrutement.",
+"mots_cles": [
+{ "mot": "hypocrisie", "variantes": ["superficiel", "marketing", "image"], "poids": 0.6 },
+{ "mot": "changer", "variantes": ["sans modifier", "recrutement"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Comment l'auteur résume-t-il la limite de l'action purement légale après « autrement dit » ?",
+"points": 1,
+"reponse_modele": "La loi sanctionne les délits visibles mais ne parvient pas à enlever les préjugés culturels inconscients.",
+"mots_cles": [
+{ "mot": "sanctionne", "variantes": ["punit"], "poids": 0.4 },
+{ "mot": "préjugés culturels", "variantes": ["réflexes d'exclusion", "ancrés", "mentalités"], "poids": 0.6 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelles innovations techniques ou administratives sont citées comme sources de progrès potentiel ?",
+"points": 1,
+"reponse_modele": "L'utilisation du CV anonyme et l'obligation de transparence sur les salaires.",
+"mots_cles": [
+{ "mot": "CV anonyme", "variantes": ["anonymat"], "poids": 0.5 },
+{ "mot": "transparence salariale", "variantes": ["salaires publics"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Pourquoi les chefs d'entreprise (le patronat) critiquent-ils parfois ces mesures ?",
+"points": 1,
+"reponse_modele": "Ils les considèrent comme des contraintes et des lourdeurs administratives agaçantes.",
+"mots_cles": [
+{ "mot": "contraintes", "variantes": ["lourdeurs", "obligations", "irritent"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quels sont les deux piliers indispensables pour éradiquer les inégalités selon la conclusion ?",
+"points": 1,
+"reponse_modele": "L'association entre la répression devant la justice et l'éducation aux préjugés dès l'enfance.",
+"mots_cles": [
+{ "mot": "répression judiciaire", "variantes": ["tribunaux", "justice", "punir"], "poids": 0.5 },
+{ "mot": "éducation", "variantes": ["école", "enfance", "préjugés"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un nom masculin dans le deuxième paragraphe désignant l'obstacle invisible empêchant la promotion sociale.",
+"points": 1,
+"reponse_modele": "Plafond de verre.",
+"mots_cles": [
+{ "mot": "plafond de verre", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-086b",
+"titre": "La place des femmes dans les postes de responsabilité",
+"titre2": "Exercice 86",
+"audios": [],
+"texte": [
+"La question de la parité au sein des instances dirigeantes des grandes entreprises et des ministères est au cœur des luttes féministes contemporaines. Historiquement exclues des cercles de pouvoir, les femmes ont brisé de nombreuses barrières pour accéder au marché de l'emploi qualifié. Bien que leur niveau de diplôme soit aujourd'hui supérieur à celui des hommes dans plusieurs disciplines universitaires, leur représentation au sommet de la pyramide managériale reste minoritaire.",
+"En effet, l'accès aux postes de direction se heurte à des mécanismes d'exclusion invisibles et à la persistance du stéréotype du leadership masculin. Néanmoins, l'adoption de lois contraignantes instituant des quotas de genre dans les conseils d'administration a forcé une évolution des chiffres. En revanche, dans les comités exécutifs opérationnels, le plafond de verre résiste, alimenté par l'exigence toxique d'une disponibilité horaire totale qui pénalise la vie familiale. Par conséquent, les carrières féminines subissent un coup d'arrêt au moment de la maternité. Autrement dit, l'égalité formelle progresse, mais l'égalité réelle est bloquée par l'organisation du travail.",
+"En définitive, instaurer une véritable mixité aux postes de pouvoir exige de repenser le modèle managérial traditionnel. Quoique les quotas soient un outil transitoire nécessaire pour bousculer les habitudes, ils doivent s'accompagner d'un partage équitable des responsabilités parentales et d'une valorisation de l'efficacité sur le simple présentéisme."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel décalage paradoxal l'auteur souligne-t-il entre les diplômes et la carrière des femmes ?",
+"points": 1,
+"reponse_modele": "Les femmes obtiennent plus de diplômes universitaires de haut niveau, mais restent minoritaires aux postes de direction.",
+"mots_cles": [
+{ "mot": "diplômes universitaires", "variantes": ["études", "supérieur"], "poids": 0.5 },
+{ "mot": "minoritaires aux postes de direction", "variantes": ["sommet", "responsabilité", "moins de pouvoir"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle mesure légale a permis d'augmenter artificiellement la part des femmes dans les conseils d'administration ?",
+"points": 1,
+"reponse_modele": "L'adoption de lois contraignantes qui imposent des quotas de genre.",
+"mots_cles": [
+{ "mot": "quotas de genre", "variantes": ["lois contraignantes", "quotas", "obligations de parité"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel obstacle structurel bloque l'accès des femmes aux comités exécutifs opérationnels ?",
+"points": 1,
+"reponse_modele": "L'exigence excessive d'une disponibilité horaire totale, qui entre en conflit avec la vie de famille.",
+"mots_cles": [
+{ "mot": "disponibilité horaire", "variantes": ["horaires", "présentéisme", "travailler tard"], "poids": 0.6 },
+{ "mot": "vie de famille", "variantes": ["maternité", "enfants"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel événement de la vie personnelle des femmes pénalise leur trajectoire professionnelle selon le texte ?",
+"points": 1,
+"reponse_modele": "La maternité (le fait d'avoir des enfants).",
+"mots_cles": [
+{ "mot": "maternité", "variantes": ["grossesse", "naissance"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Expliquez la nuance faite à travers la reformulation « autrement dit » au deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Les lois garantissent l'égalité sur le papier (formelle), mais l'organisation concrète du travail empêche l'égalité dans les faits (réelle).",
+"mots_cles": [
+{ "mot": "égalité formelle", "variantes": ["lois", "papier"], "poids": 0.5 },
+{ "mot": "égalité réelle", "variantes": ["dans les faits", "réalité", "bloquée"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Comment l'auteur considère-t-il l'utilité des quotas dans la conclusion du texte ?",
+"points": 1,
+"reponse_modele": "Comme un outil de transition temporaire indispensable pour forcer le changement des habitudes.",
+"mots_cles": [
+{ "mot": "transitoire", "variantes": ["temporaire", "provisoire", "étape"], "poids": 0.6 },
+{ "mot": "bousculer les habitudes", "variantes": ["changer les mentalités"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Quels changements dans la vie privée et dans le management doivent accompagner la parité ?",
+"points": 1,
+"reponse_modele": "Un partage égal des tâches parentales à la maison et la fin du culte du présentéisme au bureau.",
+"mots_cles": [
+{ "mot": "partage parentales", "variantes": ["responsabilités à la maison", "père"], "poids": 0.5 },
+{ "mot": "présentéisme", "variantes": ["efficacité", "culture horaire"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le second paragraphe signifiant « qui a un caractère obligatoire, qui force l'obéissance ».",
+"points": 1,
+"reponse_modele": "Contraignantes (dérivé de contraignant).",
+"mots_cles": [
+{ "mot": "contraignantes", "variantes": ["contraignant"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-087b",
+"titre": "Les responsabilités des citoyens dans une démocratie",
+"titre2": "Exercice 87",
+"audios": [],
+"texte": [
+"Dans le débat public contemporain, l'accent est massivement mis sur les droits individuels inaliénables que l'État se doit de garantir à chaque citoyen. Sécurité, liberté d'expression, accès aux soins et à l'éducation constituent les piliers de notre modèle social. Bien que cette exigence de protection soit légitime, elle occulte fréquemment le fait qu'une démocratie ne peut fonctionner sans une contrepartie essentielle : la responsabilité civique des individus.",
+"En effet, la citoyenneté ne se résume pas à un catalogue de prestations que l'on consomme passivement. En revanche, le statut de citoyen exige une participation active à la vie de la cité, dont le vote régulier constitue le premier jalon. Tandis que l'abstention fragilise la légitimité des lois, l'implication dans la vie associative ou le respect scrupuleux des règles fiscales renforcent le tissu républicain. Par conséquent, chaque renoncement individuel aux devoirs civiques affaiblit la collectivité. Autrement dit, la démocratie est un contrat réciproque où les devoirs conditionnent les droits.",
+"Néanmoins, exiger le civisme des citoyens s'avère vain si les gouvernants n'offrent pas l'exemple d'une probité absolue. Quoique le désenchantement politique actuel soit profond, l'éthique individuelle demeure le rempart ultime contre l'effondrement démocratique. En définitive, être citoyen implique de dépasser l'égoïsme privé pour assumer sa part de responsabilité dans le destin commun de la nation."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel déséquilibre l'auteur dénonce-t-il au début du texte concernant la conception de la citoyenneté ?",
+"points": 1,
+"reponse_modele": "On insiste trop sur les droits des individus en oubliant l'importance de leurs devoirs et de leurs responsabilités civiques.",
+"mots_cles": [
+{ "mot": "droits", "variantes": ["droits individuels", "exigence"], "poids": 0.5 },
+{ "mot": "responsabilités civiques", "variantes": ["devoirs", "contrepartie"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel est le premier acte de participation active mentionné par l'auteur dans le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Le vote régulier lors des élections.",
+"mots_cles": [
+{ "mot": "vote", "variantes": ["voter", "aller aux urnes", "scrutin"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles autres actions concrètes font partie des devoirs citoyens d'après le texte ?",
+"points": 1,
+"reponse_modele": "L'engagement dans des associations et le respect rigoureux des impôts (règles fiscales).",
+"mots_cles": [
+{ "mot": "vie associative", "variantes": ["associations", "bénévolat"], "poids": 0.5 },
+{ "mot": "règles fiscales", "variantes": ["impôts", "payer ses taxes"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Comment l'auteur résume-t-il la nature du régime démocratique après « autrement dit » ?",
+"points": 1,
+"reponse_modele": "Comme un contrat basé sur la réciprocité, où la possession des droits dépend de l'accomplissement des devoirs.",
+"mots_cles": [
+{ "mot": "contrat réciproque", "variantes": ["réciprocité", "échange"], "poids": 0.6 },
+{ "mot": "devoirs conditionnent", "variantes": ["dépend", "droits"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle condition politique est indispensable pour que les demandes de civisme soient acceptées par le peuple ?",
+"points": 1,
+"reponse_modele": "Les dirigeants et gouvernants doivent se comporter de manière exemplaire avec une honnêteté (probité) absolue.",
+"mots_cles": [
+{ "mot": "gouvernants", "variantes": ["dirigeants", "politiciens"], "poids": 0.4 },
+{ "mot": "probité absolue", "variantes": ["honnêteté", "exemplarité", "intégrité"], "poids": 0.6 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle vertu individuelle est qualifiée de « rempart ultime » contre la crise des institutions ?",
+"points": 1,
+"reponse_modele": "L'éthique individuelle.",
+"mots_cles": [
+{ "mot": "éthique individuelle", "variantes": ["éthique", "morale personnelle"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom masculin dans le deuxième paragraphe signifiant « une étape importante, un point de repère dans un processus ».",
+"points": 1,
+"reponse_modele": "Jalon (dans l'expression « le premier jalon »).",
+"mots_cles": [
+{ "mot": "jalon", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle nuance apporte l'adverbe « scrupuleux » qualifiant le respect des règles fiscales ?",
+"points": 1,
+"reponse_modele": "Il insiste sur l'extrême rigueur, l'honnêteté minutieuse et la précision de ce respect.",
+"mots_cles": [
+{ "mot": "rigueur", "variantes": ["minutie", "exactitude", "sérieux"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-088b",
+"titre": "La désinformation constitue-t-elle une menace pour la démocratie ?",
+"titre2": "Exercice 88",
+"audios": [],
+"texte": [
+"La prolifération de fausses rumeurs et de contenus manipulés par des intelligences artificielles sur Internet a transformé l'espace informationnel en un champ de bataille idéologique. À l'ère des réseaux sociaux rois, la diffusion de fausses nouvelles (ou infox) est devenue une stratégie d'influence géopolitique majeure. Bien que la liberté de la presse reste protégée par nos lois fondamentales, la contamination du débat public par des mensonges de masse menace de déstabiliser nos institutions.",
+"En effet, l'architecture des plateformes numériques privilégie la viralité de la colère et du scandale au détriment des corrections factuelles. En revanche, les rumeurs complotistes sapent méthodiquement la confiance des citoyens envers les institutions, la science et les médias traditionnels. Par conséquent, un électorat désinformé perd sa capacité à opérer des choix rationnels lors des scrutins. Autrement dit, altérer la vérité revient à détruire les fondements mêmes du vote éclairé.",
+"Néanmoins, censurer Internet sous couvert de sécurité poserait un risque totalitaire inacceptable. Quoique le défi soit immense, la parade réside dans le développement de l'esprit critique de la population et le financement d'un journalisme d'investigation indépendant. En définitive, immuniser la démocratie contre le virus de la désinformation exige de responsabiliser l'internaute en faisant de l'éducation aux médias la priorité absolue du système éducatif."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelles technologies modernes augmentent le danger de la désinformation selon le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Les technologies d'intelligence artificielle qui permettent de manipuler les contenus en ligne.",
+"mots_cles": [
+{ "mot": "intelligences artificielles", "variantes": ["IA", "technologies de manipulation", "algorithmes"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Pourquoi le fonctionnement des réseaux sociaux favorise-t-il la propagation des mensonges ?",
+"points": 1,
+"reponse_modele": "Parce que leur système privilégie les émotions fortes comme la colère ou le scandale, qui génèrent plus de partages (viralité).",
+"mots_cles": [
+{ "mot": "colère", "variantes": ["scandale", "émotions fort"], "poids": 0.5 },
+{ "mot": "viralité", "variantes": ["partages", "diffuser vite"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quels piliers de la société rationnelle sont attaqués par les discours complotistes ?",
+"points": 1,
+"reponse_modele": "La confiance des citoyens envers les institutions de l'État, la communauté scientifique et les médias d'information sérieux.",
+"mots_cles": [
+{ "mot": "institutions", "variantes": ["gouvernement"], "poids": 0.33 },
+{ "mot": "science", "variantes": ["scientifiques"], "poids": 0.33 },
+{ "mot": "médias traditionnels", "variantes": ["journaux", "journalistes"], "poids": 0.34 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle est la conséquence politique majeure d'une population mal informée d'après le texte ?",
+"points": 1,
+"reponse_modele": "Les électeurs perdent la capacité de faire des choix logiques et raisonnables (rationnels) pendant les élections.",
+"mots_cles": [
+{ "mot": "choix rationnels", "variantes": ["choix logiques", "décisions raisonnables"], "poids": 0.7 },
+{ "mot": "scrutins", "variantes": ["élections", "vote"], "poids": 0.3 }
+]
+},
+{
+"id": "Q5",
+"question": "Pourquoi la fermeture ou la censure des sites web n'est-elle pas recommandée ?",
+"points": 1,
+"reponse_modele": "Parce que cela introduirait des dérives autoritaires ou totalitaires contraires à la démocratie.",
+"mots_cles": [
+{ "mot": "totalitaire", "variantes": ["autoritaire", "dictature", "perte de liberté"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelles solutions constructives l'auteur propose-t-il dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Le développement de l'esprit critique de la population et le soutien au journalisme d'enquête indépendant.",
+"mots_cles": [
+{ "mot": "esprit critique", "variantes": ["discernement"], "poids": 0.5 },
+{ "mot": "journalisme d'investigation", "variantes": ["enquête", "presse libre"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle métaphore médicale l'auteur emploie-t-il pour désigner la lutte contre les infox ?",
+"points": 1,
+"reponse_modele": "Il parle d'« immuniser la démocratie contre le virus de la désinformation ».",
+"mots_cles": [
+{ "mot": "immuniser", "variantes": ["virus"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un verbe au deuxième paragraphe signifiant « détruire lentement par la base, affaiblir progressivement ».",
+"points": 1,
+"reponse_modele": "Saper (dans la phrase « sapent méthodiquement la confiance »).",
+"mots_cles": [
+{ "mot": "saper", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-089b",
+"titre": "Faut-il renforcer la coopération entre les pays pour résoudre les problèmes mondiaux ?",
+"titre2": "Exercice 89",
+"audios": [],
+"texte": [
+"L’épuisement des ressources naturelles, le réchauffement climatique et les pandémies mondiales administrent la preuve concrète que les frontières géographiques sont impuissantes face aux crises contemporaines. Aucun État, aussi puissant soit-il, ne peut prétendre régler seul ces désordres systémiques. Bien que l'idée d'une alliance globale solide s'impose comme une évidence scientifique, l'arène internationale assiste à un retour inquiétant des égoïsmes nationaux.",
+"En effet, la structure actuelle de la gouvernance mondiale, basée sur le souverainisme strict, freine l'application des traités écologiques ou sanitaires. Tandis que les scientifiques réclament des mesures d'urgence contraignantes, les gouvernements privilégient trop souvent leurs intérêts économiques immédiats ou électoraux. En revanche, les pays en développement subissent de plein fouet des catastrophes dont ils ne sont pas les principaux responsables. Par conséquent, l'absence de coordination aggrave le sentiment d'injustice. Autrement dit, les défis sont mondiaux, mais les décisions restent désespérément locales.",
+"Néanmoins, l'échec des sommets climatiques successifs prouve qu'il faut changer de méthode en sanctionnant le non-respect des engagements. Quoique la souveraineté des nations soit un principe juridique sacré, elle doit s'effacer devant l'intérêt supérieur de la survie de l'humanité. En définitive, renforcer la coopération exige de doter les institutions internationales de réels pouvoirs de contrainte financière ou juridique."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelles crises contemporaines majeures prouvent l'inutilité des frontières physiques d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "La disparition des ressources, le réchauffement de la planète (climat) et les vagues de maladies mondiales (pandémies).",
+"mots_cles": [
+{ "mot": "ressources", "variantes": ["épuisement"], "poids": 0.33 },
+{ "mot": "climat", "variantes": ["réchauffement"], "poids": 0.33 },
+{ "mot": "pandémies", "variantes": ["maladies", "virus"], "poids": 0.34 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle contradiction l'auteur observe-t-il sur la scène politique internationale actuelle ?",
+"points": 1,
+"reponse_modele": "La science exige une alliance globale, mais les pays se replient sur des comportements égoïstes et nationalistes.",
+"mots_cles": [
+{ "mot": "alliance globale", "variantes": ["coopération mondiale"], "poids": 0.5 },
+{ "mot": "égoïsmes nationaux", "variantes": ["nationalismes", "seuls", "souverainisme"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles priorités des gouvernements bloquent l'application des accords écologiques ?",
+"points": 1,
+"reponse_modele": "Leurs intérêts économiques à court terme et leurs calculs électoraux internes.",
+"mots_cles": [
+{ "mot": "économiques", "variantes": ["argent", "profits"], "poids": 0.5 },
+{ "mot": "électoraux", "variantes": ["élections", "politique"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle injustice frappe les nations en développement d'après le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Elles sont les premières victimes des catastrophes écologiques alors qu'elles n'en sont pas les responsables historiques.",
+"mots_cles": [
+{ "mot": "premières victimes", "variantes": ["subissent de plein fouet"], "poids": 0.6 },
+{ "mot": "pas les responsables", "variantes": ["pas coupables"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Expliquez l'antithèse formulée par l'auteur après le connecteur « autrement dit ».",
+"points": 1,
+"reponse_modele": "Les problèmes concernent toute la planète (mondiaux) mais les choix politiques dépendent de chaque pays individuellement (locaux).",
+"mots_cles": [
+{ "mot": "mondiaux", "variantes": ["planète"], "poids": 0.5 },
+{ "mot": "locaux", "variantes": ["pays", "gouvernements"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "À quel principe légal sacré la survie de l'humanité doit-elle s'imposer selon le texte ?",
+"points": 1,
+"reponse_modele": "Au principe de la souveraineté nationale des États.",
+"mots_cles": [
+{ "mot": "souveraineté", "variantes": ["souveraineté nationale", "indépendance des pays"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle transformation concrète des institutions internationales la conclusion demande-t-elle ?",
+"points": 1,
+"reponse_modele": "Les doter de véritables pouvoirs de sanction et de contrainte juridique ou financière.",
+"mots_cles": [
+{ "mot": "pouvoirs de contrainte", "variantes": ["sanctions", "punir"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le premier paragraphe signifiant « qui affecte l'ensemble d'un système de manière globale et interconnectée ».",
+"points": 1,
+"reponse_modele": "Systémiques (dérivé de systémique).",
+"mots_cles": [
+{ "mot": "systémiques", "variantes": ["systémique"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-090b",
+"titre": "La justice sociale est-elle possible dans un monde marqué par les inégalités ?",
+"titre2": "Exercice 90",
+"audios": [],
+"texte": [
+"L’idéal de justice sociale repose sur la promesse de garantir à chaque individu les mêmes chances de réussite et une répartition équitable des fruits de la croissance. Pourtant, notre réalité contemporaine dessine un monde profondément fracturé, où la naissance détermine l'essentiel de la trajectoire sociale des personnes. Bien que les constitutions démocratiques proclament l'égalité absolue en droit, l'omniprésence des barrières économiques transforme ce principe en une fiction juridique lointaine.",
+"En effet, les inégalités de départ s'accumulent au fil de la vie, créant des cercles vicieux générationnels. En revanche, l'accès aux déterminants du succès — éducation de prestige, capital financier, réseaux professionnels — est monopolisé par les héritiers des classes dominantes. Tandis que la précarité progresse, les services publics de santé et d'éducation, outils historiques de correction des écarts, subissent des cures d'austérité drastiques. Par conséquent, la méritocratie s'effondre. Autrement dit, la justice sociale est impossible sans une intervention massive de l'État pour niveler les conditions matérielles.",
+"Néanmoins, abdiquer face à ce constat condamnerait nos démocraties à l'implosion par perte de légitimité. Quoique le combat contre les forces du marché soit asymétrique, des leviers puissants comme l'impôt sur la fortune et le revenu maximum acceptable existent. En définitive, bâtir un monde juste exige un sursaut politique courageux pour arracher les droits fondamentaux à la seule logique commerciale de l'argent."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Sur quelles promesses fondamentales le concept de justice sociale s'appuie-t-il selon l'auteur ?",
+"points": 1,
+"reponse_modele": "La garantie de l'égalité des chances et un partage équitable des richesses (fruits de la croissance).",
+"mots_cles": [
+{ "mot": "égalité des chances", "variantes": ["mêmes chances"], "poids": 0.5 },
+{ "mot": "répartition équitable", "variantes": ["partage", "croissance", "richesses"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel facteur initial détermine la trajectoire d'une personne dans le monde réel d'après le texte ?",
+"points": 1,
+"reponse_modele": "La naissance (l'origine sociale d'origine).",
+"mots_cles": [
+{ "mot": "naissance", "variantes": ["origine sociale", "milieu familial", "parents"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Comment l'auteur qualifie-t-il l'égalité des droits face aux barrières financières ?",
+"points": 1,
+"reponse_modele": "Il la qualifie de « fiction juridique lointaine ».",
+"mots_cles": [
+{ "mot": "fiction juridique", "variantes": ["illusion sur le papier"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quels outils historiques permettaient de corriger les écarts de richesse avant de subir l'austérité ?",
+"points": 1,
+"reponse_modele": "Les services publics de l'éducation nationale et de la santé.",
+"mots_cles": [
+{ "mot": "services publics", "variantes": ["institutions publiques"], "poids": 0.4 },
+{ "mot": "santé", "variantes": ["hôpitaux"], "poids": 0.3 },
+{ "mot": "éducation", "variantes": ["écoles"], "poids": 0.3 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle action centrale de l'État est jugée obligatoire pour rendre la justice sociale possible après « autrement dit » ?",
+"points": 1,
+"reponse_modele": "Une intervention massive pour égaliser (niveler) les conditions matérielles d'existence des citoyens.",
+"mots_cles": [
+{ "mot": "intervention massive", "variantes": ["action de l'État"], "poids": 0.5 },
+{ "mot": "niveler les conditions", "variantes": ["égaliser les richesses", "matérielles"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel risque politique guette les démocraties qui renoncent à chercher la justice sociale ?",
+"points": 1,
+"reponse_modele": "Un risque d'implosion interne dû à la perte de légitimité de leurs institutions auprès de la population.",
+"mots_cles": [
+{ "mot": "implosion", "variantes": ["effondrement", "révolution"], "poids": 0.6 },
+{ "mot": "perte de légitimité", "variantes": ["plus croire aux lois", "rejet"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Quels mécanismes financiers précis sont cités comme des leviers applicables contre les inégalités ?",
+"points": 1,
+"reponse_modele": "L'impôt sur la fortune (ISF) et la fixation d'un salaire ou revenu maximum acceptable.",
+"mots_cles": [
+{ "mot": "impôt sur la fortune", "variantes": ["ISF", "taxer les riches"], "poids": 0.6 },
+{ "mot": "revenu maximum", "variantes": ["salaire max", "limiter les revenus"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez le sens de l'adjectif « asymétrique » qualifiant le combat contre les forces du marché.",
+"points": 1,
+"reponse_modele": "Inégal, disproportionné, signifiant que les forces en présence ne disposent pas des mêmes armes ni de la même puissance.",
+"mots_cles": [
+{ "mot": "inégal", "variantes": ["disproportionné", "pas les mêmes armes"], "poids": 1.0 }
+]
+}
+]
+},
+{
+    "id": "B2-091b",
+    "titre": "La réussite personnelle dépend-elle davantage du talent ou de la persévérance ?",
+    "titre2": "Exercice 91",
+    "audios": [],
+    "texte": [
+      "Dans l'imaginaire collectif, le succès éclatant est fréquemment attribué à l'existence d'un talent inné, une étincelle biologique qui prédestinerait certains individus à l'excellence. Cette vision romantique de la réussite sature les récits médiatiques, célébrant les génies précoces dans les arts, les sciences ou l'entrepreneuriat. Bien que la possession de prédispositions naturelles offre un avantage initial indéniable, sacraliser le don inné occulte la réalité laborieuse des parcours d'accomplissement.",
+      "En effet, les recherches en psychologie cognitive démontrent que la maîtrise d'une compétence complexe dépend principalement de la régularité de l'effort. En revanche, le génie sans travail s'étiole rapidement, tandis que la persévérance permet de surmonter les plafonds de verre techniques. L'obstination face à l'échec et la discipline quotidienne s'avèrent des prédicteurs de réussite bien plus fiables que le quotient intellectuel. Par conséquent, opposer ces deux notions apparaît comme une erreur conceptuelle. Autrement dit, le talent n'est qu'une promesse brute, tandis que la persévérance en est le vecteur de réalisation.",
+      "Néanmoins, occulter le rôle des opportunités sociales et de l'environnement familial biaiserait l'analyse. Quoique la volonté individuelle soit louable, elle s'exprime plus facilement au sein d'un cadre sécurisé et porteur. En définitive, la réussite personnelle résulte d'une alchimie subtile où l'effort continu sublime les aptitudes initiales, à condition que le contexte social ne vienne pas étouffer cette dynamique."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quelle explication l'auteur donne-t-il concernant la popularité de la notion de « talent inné » dans les médias ?",
+        "points": 1,
+        "reponse_modele": "Les médias aiment célébrer une vision romantique de la réussite à travers des récits sur des génies précoces.",
+        "mots_cles": [
+          { "mot": "vision romantique", "variantes": ["récits médiatiques", "génies précoces"], "poids": 0.6 },
+          { "mot": "réussite", "variantes": ["succès"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "D'après la psychologie cognitive, quel est le facteur principal pour maîtriser une compétence ?",
+        "points": 1,
+        "reponse_modele": "La maîtrise dépend avant tout de la régularité de l'effort et du travail continu.",
+        "mots_cles": [
+          { "mot": "régularité", "variantes": ["continuité", "quotidienne"], "poids": 0.5 },
+          { "mot": "effort", "variantes": ["travail", "exercice"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Qu'advient-il du talent s'il n'est pas soutenu par le travail selon le deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Le talent sans travail finit par s'étioler et disparaître rapidement.",
+        "mots_cles": [
+          { "mot": "s'étioler", "variantes": ["s'affaiblir", "disparaître", "perdre sa valeur"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quel élément s'avère plus fiable que le quotient intellectuel pour prédire le succès ?",
+        "points": 1,
+        "reponse_modele": "L'obstination face aux difficultés et la discipline de tous les jours.",
+        "mots_cles": [
+          { "mot": "obstination", "variantes": ["persévérance", "volonté"], "poids": 0.5 },
+          { "mot": "discipline", "variantes": ["rigueur", "régularité"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Expliquez la distinction entre talent et persévérance résumée après le connecteur « autrement dit ».",
+        "points": 1,
+        "reponse_modele": "Le talent est un potentiel de départ non transformé, alors que la persévérance permet de le concrétiser.",
+        "mots_cles": [
+          { "mot": "potentiel", "variantes": ["promesse brute", "base"], "poids": 0.5 },
+          { "mot": "concrétiser", "variantes": ["réalisation", "développer"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Quel facteur extérieur à la volonté individuelle l'auteur introduit-il à la fin du texte ?",
+        "points": 1,
+        "reponse_modele": "L'influence du milieu familial, du contexte social et des opportunités matérielles.",
+        "mots_cles": [
+          { "mot": "milieu familial", "variantes": ["contexte social", "opportunités"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Trouvez un verbe dans le deuxième paragraphe signifiant « s'affaiblir, perdre de sa force ou de sa fraîcheur ».",
+        "points": 1,
+        "reponse_modele": "S'étiole (du verbe s'étioler).",
+        "mots_cles": [
+          { "mot": "s'étiole", "variantes": ["s'étioler"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Quelle est la valeur logique du connecteur « quoique » utilisé dans le dernier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Il sert à introduire une concession pour nuancer le pouvoir de la volonté face aux réalités sociales.",
+        "mots_cles": [
+          { "mot": "concession", "variantes": ["opposition", "nuance"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-092b",
+    "titre": "Apprendre de ses échecs pour construire son avenir",
+    "titre2": "Exercice 92",
+    "audios": [],
+    "texte": [
+      "Dans une culture occidentale profondément marquée par le culte de la performance immédiate, l’échec est fréquemment vécu comme une infamie sociale ou une condamnation définitive. Notre système éducatif et managérial tend à sanctionner l'erreur plutôt qu'à l'analyser comme une étape indispensable du développement intellectuel. Bien que trébucher suscite une blessure narcissique douloureuse, considérer l'échec comme un verdict permanent constitue une impasse psychologique majeure.",
+      "En effet, l'histoire des innovations scientifiques et des réussites entrepreneuriales démontre que l'erreur est le carburant de la découverte. Tandis que la réussite facile engendre un excès de confiance aveuglant, le revers force à opérer une pause réflexive salutaire. Par conséquent, analyser ses faux pas permet de réajuster ses méthodes, d'identifier ses lacunes et de fortifier sa résilience. Autrement dit, l'échec n'est pas l'opposé de la réussite, mais le chemin obligatoire pour y parvenir.",
+      "Néanmoins, cette philosophie de la faillite constructive se heurte à des résistances culturelles tenaces. Quoique le modèle anglo-saxon valorise le droit à l'erreur comme une preuve d'audace, le modèle latin demeure frileux face au risque. En définitive, construire son avenir grâce à ses faux pas exige de transformer notre rapport à l'erreur, en cessant de la stigmatiser pour l'ériger en un puissant outil d'auto-évaluation pédagogique."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Comment l'erreur est-elle généralement perçue par notre système éducatif et managérial ?",
+        "points": 1,
+        "reponse_modele": "Elle est sanctionnée et vécue comme une honte (infamie) au lieu d'être analysée comme une étape normale.",
+        "mots_cles": [
+          { "mot": "sanctionnée", "variantes": ["punie", "condamnée"], "poids": 0.5 },
+          { "mot": "infamie", "variantes": ["honte", "faiblesse"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quel effet négatif une réussite trop facile peut-elle avoir sur l'esprit d'un individu ?",
+        "points": 1,
+        "reponse_modele": "Elle peut provoquer un excès de confiance qui aveugle la personne face aux réalités.",
+        "mots_cles": [
+          { "mot": "excès de confiance", "variantes": ["arrogance", "orgueil"], "poids": 0.6 },
+          { "mot": "aveuglant", "variantes": ["ne plus voir les risques"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quels bénéfices concrets l'analyse d'un échec apporte-t-elle selon le deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Elle permet de modifier ses méthodes, de comprendre ses lacunes et de développer sa résilience.",
+        "mots_cles": [
+          { "mot": "réajuster ses méthodes", "variantes": ["changer de méthode"], "poids": 0.4 },
+          { "mot": "lacunes", "variantes": ["faiblesses", "manques"], "poids": 0.3 },
+          { "mot": "résilience", "variantes": ["force mentale"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quelle définition de l'échec l'auteur donne-t-il après le connecteur « autrement dit » ?",
+        "points": 1,
+        "reponse_modele": "L'échec est présenté comme une étape et un chemin obligatoire pour atteindre la réussite.",
+        "mots_cles": [
+          { "mot": "chemin obligatoire", "variantes": ["étape nécessaire", "composante"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quel contraste culturel l'auteur établit-il concernant le droit à l'erreur ?",
+        "points": 1,
+        "reponse_modele": "Le modèle anglo-saxon valorise l'erreur comme de l'audace, alors que le modèle latin reste craintif (frileux).",
+        "mots_cles": [
+          { "mot": "anglo-saxon", "variantes": ["audace"], "poids": 0.5 },
+          { "mot": "latin", "variantes": ["frileux", "peur du risque"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Quel changement de comportement est préconisé dans la conclusion pour valoriser l'erreur ?",
+        "points": 1,
+        "reponse_modele": "Arrêter de punir ou de stigmatiser l'erreur et en faire un outil pédagogique d'auto-évaluation.",
+        "mots_cles": [
+         { "mot": "stigmatiser", "variantes": ["punir", "rejeter"], "poids": 0.5 },
+{ "mot": "outil pédagogique", "variantes": ["auto-évaluation"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom féminin dans le premier paragraphe signifiant « une perte d'honneur, une honte publique ».",
+"points": 1,
+"reponse_modele": "Infamie (dans l'expression « une infamie sociale »).",
+"mots_cles": [
+{ "mot": "infamie", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez le sens de l'adjectif « frileux » employé dans le troisième paragraphe.",
+"points": 1,
+"reponse_modele": "Dans ce contexte, il signifie craintif, hésitant, qui a peur de prendre des risques ou d'innover.",
+"mots_cles": [
+{ "mot": "craintif", "variantes": ["peureux", "hésitant", "prudent à l'excès"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-093b",
+"titre": "Peut-on réussir sa vie sans suivre les attentes de la société ?",
+"titre2": "Exercice 93",
+"audios": [],
+"texte": [
+"La société contemporaine impose de façon subtile un scénario de réussite standardisé, jalonné par l'obtention de diplômes prestigieux, une carrière linéaire ascensionnelle et l'accumulation de biens matériels. Ce modèle dominant fonctionne comme une boussole sociale collective. Bien que ce schéma classique offre un cadre sécurisant et une reconnaissance institutionnelle évidente, de plus en plus d'individus ressentent une dissonance profonde entre ces injonctions et leurs aspirations intimes.",
+"En effet, la quête obsessionnelle de conformité se fait fréquemment au prix d'un étouffement de la singularité et d'une perte de sens existentiel. En revanche, s'écarter des sentiers battus — en choisissant la simplicité volontaire, l'artisanat ou des modes de vie nomades — expose l'individu au soupçon de marginalité ou d'échec de la part de son entourage. Par conséquent, choisir la dissidence existentielle exige une force psychologique considérable. Autrement dit, réussir sa vie implique parfois de saboter sa réussite sociale apparente.",
+"Néanmoins, la multiplication des reconversions professionnelles radicales témoigne d'un changement profond des mentalités. Quoique le regard social demeure pesant, la définition du succès se pluralise. En définitive, la véritable réussite ne se mesure plus à l'aune du statut social ou de la richesse pécuniaire, mais à la capacité d'aligner ses choix quotidiens avec ses valeurs éthiques et sa liberté intérieure."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quels critères définissent le modèle de réussite traditionnel d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Les diplômes de prestige, une carrière en progression constante et l'achat de biens matériels.",
+"mots_cles": [
+{ "mot": "diplômes", "variantes": ["études"], "poids": 0.33 },
+{ "mot": "carrière", "variantes": ["travail stable"], "poids": 0.33 },
+{ "mot": "biens matériels", "variantes": ["argent", "consommation"], "poids": 0.34 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel sentiment négatif la recherche absolue de conformité provoque-t-elle chez certains ?",
+"points": 1,
+"reponse_modele": "Elle entraîne une perte de sens existentiel et l'étouffement de sa propre personnalité (singularité).",
+"mots_cles": [
+{ "mot": "sens existentiel", "variantes": ["sens de la vie"], "poids": 0.5 },
+{ "mot": "singularité", "variantes": ["personnalité", "originalité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "À quel jugement de l'entourage s'expose une personne qui choisit une vie alternative ?",
+"points": 1,
+"reponse_modele": "Elle est souvent suspectée de marginalité ou considérée en situation d'échec.",
+"mots_cles": [
+{ "mot": "marginalité", "variantes": ["original", "bizarre"], "poids": 0.5 },
+{ "mot": "échec", "variantes": ["rater sa vie"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Expliquez l'expression paradoxale employée par l'auteur : « saboter sa réussite sociale apparente ».",
+"points": 1,
+"reponse_modele": "Cela signifie abandonner volontairement un statut ou un métier bien payé pour être en accord avec soi-même.",
+"mots_cles": [
+{ "mot": "abandonner volontairement", "variantes": ["quitter", "renoncer"], "poids": 0.5 },
+{ "mot": "accord avec soi-même", "variantes": ["valeurs intimes", "sens"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel phénomène concret prouve que la vision de la réussite est en train d'évoluer dans la société ?",
+"points": 1,
+"reponse_modele": "La multiplication des changements d'orientation et des reconversions professionnelles radicales.",
+"mots_cles": [
+{ "mot": "reconversions", "variantes": ["changements de métier", "bifurcations"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est la définition finale de la « véritable réussite » proposée dans la conclusion ?",
+"points": 1,
+"reponse_modele": "C'est le fait de mettre en harmonie ses actions quotidiennes avec ses principes moraux et sa liberté.",
+"mots_cles": [
+{ "mot": "harmonie", "variantes": ["aligner"], "poids": 0.5 },
+{ "mot": "principes moraux", "variantes": ["valeurs", "liberté intérieure"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom féminin dans le premier paragraphe signifiant « un manque d'harmonie, un désaccord entre deux éléments ».",
+"points": 1,
+"reponse_modele": "Dissonance (dans l'expression « une dissonance profonde »).",
+"mots_cles": [
+{ "mot": "dissonance", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la fonction grammaticale de la locution « à l'aune de » dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "C'est une locution prépositive qui signifie « en fonction de » ou « à la mesure de ».",
+"mots_cles": [
+{ "mot": "mesure", "variantes": ["en fonction de", "sur la base de"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-094b",
+"titre": "L'importance de la responsabilité individuelle dans les décisions collectives",
+"titre2": "Exercice 94",
+"audios": [],
+"texte": [
+"Le fonctionnement des démocraties modernes repose sur l'articulation complexe entre la volonté de la majorité et l'engagement éthique de chaque citoyen. Face aux grands défis contemporains — écologiques, sanitaires ou économiques —, les choix collectifs sont souvent traduits sous forme de lois ou de décrets étatiques. Bien que l'action publique centralisée soit indispensable pour coordonner les efforts, croire que les décrets gouvernementaux suffisent à régler les crises sans une implication morale individuelle est une erreur.",
+"En effet, l'histoire démontre que la dilution de la responsabilité au sein d'un groupe peut mener à une passivité collective destructrice. Tandis que l'individu se décharge de ses devoirs sur l'institution, le civisme s'effondre. En revanche, l'adoption consciente de comportements responsables au quotidien démultiplie l'efficacité des politiques publiques. Par conséquent, chaque renoncement individuel affaiblit le corps social. Autrement dit, la cohésion d'une collectivité n'est que la somme des responsabilités individuelles assumées.",
+"Néanmoins, imposer le civisme par la seule coercition étatique s'avère insuffisant et liberticide. Quoique les sanctions juridiques fixent des limites nécessaires, l'éthique ne se décrète pas. En définitive, surmonter les crises globales exige de développer une éducation civique active, capable de faire comprendre à chacun que ses choix privés ont un impact direct sur le destin commun."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle erreur l'auteur dénonce-t-il concernant l'action des gouvernements face aux crises ?",
+"points": 1,
+"reponse_modele": "Croire que les lois et les décrets de l'État suffisent à régler les problèmes sans l'effort moral de chaque citoyen.",
+"mots_cles": [
+{ "mot": "décrets", "variantes": ["lois", "action publique"], "poids": 0.5 },
+{ "mot": "effort moral", "variantes": ["implication individuelle", "responsabilité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Qu'est-ce que la « dilution de la responsabilité » provoque au sein d'un groupe selon l'auteur ?",
+"points": 1,
+"reponse_modele": "Elle entraîne une passivité collective et une baisse du civisme.",
+"mots_cles": [
+{ "mot": "passivité collective", "variantes": ["inaction"], "poids": 0.6 },
+{ "mot": "civisme", "variantes": ["perte de repères civiques"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel est l'effet d'un comportement responsable individuel sur les politiques de l'État ?",
+"points": 1,
+"reponse_modele": "Il augmente et démultiplie grandement l'efficacité des mesures prises par les autorités.",
+"mots_cles": [
+{ "mot": "démultiplie l'efficacité", "variantes": ["aide", "renforce", "optimise"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle définition de la cohésion collective l'auteur propose-t-il après « autrement dit » ?",
+"points": 1,
+"reponse_modele": "La cohésion est le résultat de l'addition de toutes les responsabilités individuelles prises par les citoyens.",
+"mots_cles": [
+{ "mot": "somme", "variantes": ["addition", "accumulation"], "poids": 0.6 },
+{ "mot": "responsabilités", "variantes": ["engagements"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Pourquoi l'utilisation exclusive de la force ou de la punition (coercition) par l'État est-elle critiquée ?",
+"points": 1,
+"reponse_modele": "Parce qu'elle nuit aux libertés (liberticide) et ne permet pas de créer une véritable conscience morale.",
+"mots_cles": [
+{ "mot": "liberticide", "variantes": ["supprime les libertés"], "poids": 0.5 },
+{ "mot": "éthique ne se décrète pas", "variantes": ["pas de vraie conscience"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle solution de long terme est avancée dans le dernier paragraphe pour faire face aux défis ?",
+"points": 1,
+"reponse_modele": "Le développement d'une éducation civique active qui montre le lien entre choix privés et intérêt public.",
+"mots_cles": [
+{ "mot": "éducation civique", "variantes": ["école", "apprentissage"], "poids": 0.7 },
+{ "mot": "destin commun", "variantes": ["choix privés", "impact"], "poids": 0.3 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom féminin dans le troisième paragraphe signifiant « l'action de contraindre, de forcer par la loi ou la punition ».",
+"points": 1,
+"reponse_modele": "Coercition (dans l'expression « la seule coercition étatique »).",
+"mots_cles": [
+{ "mot": "coercition", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle nuance le connecteur « néanmoins » apporte-t-il au début du troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il introduit une restriction pour montrer que la sévérité de l'État a des limites géographiques et morales.",
+"mots_cles": [
+{ "mot": "restriction", "variantes": ["limite", "opposition"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-095b",
+"titre": "Faut-il parfois prendre des risques pour réaliser ses ambitions ?",
+"titre2": "Exercice 95",
+"audios": [],
+"texte": [
+"La recherche de la sécurité matérielle et de la stabilité professionnelle est un pilier de l'éducation familiale et des structures sociales. S'installer dans une routine prévisible protège l'individu des aléas économiques et du stress de l'inconnu. Bien que ce confort bourgeois offre une tranquillité d'esprit légitime, force est de constater qu'un attachement excessif à la sécurité peut paralyser le déploiement des grandes ambitions personnelles.",
+"En effet, l'accomplissement de projets novateurs — qu'il s'agisse de fonder une entreprise, de changer radicalement de voie ou de créer une œuvre artistique originale — exige de rompre avec le confort du connu. Tandis que la prudence maintient l'individu dans sa zone de confort, l'audace implique d'accepter la possibilité d'une faillite. Par conséquent, refuser le risque revient parfois à accepter une stagnation professionnelle subie. Autrement dit, la réalisation de soi nécessite de troquer la certitude du présent contre l'incertitude créatrice de l'avenir.",
+"Néanmoins, encourager une prise de risque aveugle et irréfléchie relèverait de l'irresponsabilité. Quoique le courage soit indispensable, il doit s'accompagner d'une évaluation lucide des conséquences et de la préparation de filets de sécurité. En définitive, réaliser ses ambitions implique de pratiquer un risque calculé, où l'audace de l'action est guidée par la rigueur de la planification."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quels sont les points positifs de la recherche de sécurité d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Elle protège des difficultés économiques et offre une tranquillité face au stress de l'inconnu.",
+"mots_cles": [
+{ "mot": "aléas économiques", "variantes": ["crises", "problèmes d'argent"], "poids": 0.5 },
+{ "mot": "tranquillité d'esprit", "variantes": ["pas de stress", "confort"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel impact négatif un excès de prudence peut-il produire sur la vie d'un individu ?",
+"points": 1,
+"reponse_modele": "Il peut bloquer le développement de ses ambitions et provoquer une stagnation subie.",
+"mots_cles": [
+{ "mot": "paralyser", "variantes": ["bloquer", "freiner"], "poids": 0.5 },
+{ "mot": "stagnation", "variantes": ["ne pas progresser"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quels types de projets demandent obligatoirement de quitter le confort du connu d'après le texte ?",
+"points": 1,
+"reponse_modele": "La création d'entreprises, les reconversions radicales ou la création artistique originale.",
+"mots_cles": [
+{ "mot": "entreprise", "variantes": ["entrepreneuriat"], "poids": 0.33 },
+{ "mot": "reconversions", "variantes": ["changer de voie"], "poids": 0.33 },
+{ "mot": "artistique", "variantes": ["art", "œuvre"], "poids": 0.34 }
+]
+},
+{
+"id": "Q4",
+"question": "Expliquez l'échange suggéré par l'auteur après le connecteur « autrement dit ».",
+"points": 1,
+"reponse_modele": "Il faut accepter de perdre les certitudes du moment pour s'ouvrir aux opportunités futures.",
+"mots_cles": [
+{ "mot": "certitudes", "variantes": ["confort actuel", "connu"], "poids": 0.5 },
+{ "mot": "incertitude créatrice", "variantes": ["avenir", "risques positifs"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle critique l'auteur fait-il d'une prise de risque irréfléchie au troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il estime qu'agir à l'aveugle relève de l'irresponsabilité et s'avère dangereux.",
+"mots_cles": [
+{ "mot": "irresponsabilité", "variantes": ["folie", "inconscience"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "En quoi consiste le compromis du « risque calculé » proposé dans la conclusion ?",
+"points": 1,
+"reponse_modele": "C'est l'alliance entre l'audace de se lancer et le sérieux de la préparation (planification).",
+"mots_cles": [
+{ "mot": "audace", "variantes": ["courage"], "poids": 0.5 },
+{ "mot": "planification", "variantes": ["rigueur", "préparation"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom masculin pluriel dans le premier paragraphe signifiant « les imprévus, les risques ou événements changeants ».",
+"points": 1,
+"reponse_modele": "Aléas (singulier : aléa).",
+"mots_cles": [
+{ "mot": "aléas", "variantes": ["aléa"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la valeur logique du connecteur « quoique » introduit dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il exprime une concession pour nuancer l'importance du courage face au besoin de réflexion.",
+"mots_cles": [
+{ "mot": "concession", "variantes": ["opposition"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-096b",
+"titre": "La confiance en soi est-elle indispensable pour réussir ?",
+"titre2": "Exercice 96",
+"audios": [],
+"texte": [
+"Dans les manuels de développement personnel et les discours managériaux, l'assurance et la foi en ses propres capacités sont érigées en conditions sine qua non du succès. On présente la confiance en soi comme le moteur psychologique qui permettrait de briser toutes les barrières et d'atteindre ses objectifs. Bien que posséder une image positive de soi facilite grandement l'action et la prise de parole publique, faire de cette disposition interne l'unique clé de la réussite est réducteur.",
+"En effet, l'excès d'assurance peut provoquer une distorsion de la réalité et mener à des décisions arrogantes et irréfléchies. En revanche, le doute de soi modéré s'avère un moteur de perfectionnement indispensable. Tandis que la certitude absolue fige l'individu, l'inquiétude intellectuelle pousse à vérifier ses sources, à travailler davantage et à accepter la critique constructive. Par conséquent, la réussite découle souvent de l'effort induit par le manque d'assurance initial. Autrement dit, la compétence réelle prime sur le sentiment de confiance.",
+"Néanmoins, une absence totale d'estime de soi paralyse toute velléité de projet. Quoique le doute soit utile pour progresser, il ne doit pas se transformer en un complexe d'impuissance permanent. En définitive, le succès résulte d'un équilibre dynamique : une dose d'audace pour oser initier l'action, tempérée par une exigence de lucidité critique envers soi-même."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Comment la confiance en soi est-elle présentée par la littérature de développement personnel ?",
+"points": 1,
+"reponse_modele": "Elle est décrite comme une condition obligatoire et le moteur principal pour atteindre ses objectifs.",
+"mots_cles": [
+{ "mot": "condition obligatoire", "variantes": ["sine qua non"], "poids": 0.5 },
+{ "mot": "moteur", "variantes": ["clé du succès"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels sont les dangers d'une assurance excessive selon le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Elle déforme la réalité et conduit à des choix orgueilleux (arrogants) ou irréfléchis.",
+"mots_cles": [
+{ "mot": "déforme la réalité", "variantes": ["distorsion"], "poids": 0.5 },
+{ "mot": "arrogantes", "variantes": ["orgueilleuses", "irréfléchies"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "En quoi un doute modéré peut-il s'avérer utile pour un travailleur ou un étudiant ?",
+"points": 1,
+"reponse_modele": "Il pousse à s'améliorer, à revérifier son travail et à accepter les conseils des autres.",
+"mots_cles": [
+{ "mot": "s'améliorer", "variantes": ["perfectionnement"], "poids": 0.4 },
+{ "mot": "vérifier", "variantes": ["contrôler ses sources"], "poids": 0.3 },
+{ "mot": "accepter la critique", "variantes": ["conseils"], "poids": 0.3 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle thèse l'auteur formule-t-il après l'expression « autrement dit » ?",
+"points": 1,
+"reponse_modele": "La capacité réelle (compétence) est plus importante pour réussir que le simple sentiment de confiance en soi.",
+"mots_cles": [
+{ "mot": "compétence réelle", "variantes": ["capacité"], "poids": 0.6 },
+{ "mot": "prime", "variantes": ["plus importante", "passe avant"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel effet néfaste un manque total d'estime de soi produit-il d'après le texte ?",
+"points": 1,
+"reponse_modele": "Il paralyse l'individu et l'empêche de lancer ou d'imaginer le moindre projet.",
+"mots_cles": [
+{ "mot": "paralyse", "variantes": ["bloque toute velléité"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel équilibre l'auteur recommande-t-il dans sa conclusion pour atteindre le succès ?",
+"points": 1,
+"reponse_modele": "Associer un peu d'audace pour commencer l'action à une forte lucidité sur ses propres limites.",
+"mots_cles": [
+{ "mot": "audace", "variantes": ["oser"], "poids": 0.5 },
+{ "mot": "lucidité critique", "variantes": ["évaluation de soi"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez une locution nominale d'origine latine dans le premier paragraphe signifiant « une condition absolument indispensable ».",
+"points": 1,
+"reponse_modele": "Condition sine qua non (ou sine qua non).",
+"mots_cles": [
+{ "mot": "sine qua non", "variantes": ["condition sine qua non"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel rapport logique introduit le connecteur « par conséquent » au milieu du texte ?",
+"points": 1,
+"reponse_modele": "Un rapport de conséquence montrant que le manque d'assurance initial amène l'effort qui génère le succès.",
+"mots_cles": [
+{ "mot": "conséquence", "variantes": ["résultat logique"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-097b",
+"titre": "Comment concilier ses convictions personnelles avec les exigences de la société ?",
+"titre2": "Exercice 97",
+"audios": [],
+"texte": [
+"Vivre en société exige de chaque citoyen l'acceptation d'un ensemble de normes juridiques, morales et culturelles qui garantissent la paix sociale et la cohésion collective. Ce cadre commun impose des compromis quotidiens, modérant les pulsions égocentriques de l'individu. Bien que cette harmonisation des comportements soit indispensable pour éviter l'anarchie, elle entre parfois en conflit violent avec les convictions éthiques ou politiques les plus profondes de la personne.",
+"En effet, l'obligation de se conformer à des pratiques professionnelles ou de consommation contraires à ses valeurs engendre une souffrance psychologique (ou dissonance éthique). Tandis que le conformisme social pousse à la soumission passive, le refus des règles communes expose l'individu à la marginalisation ou à la sanction. Par conséquent, concilier ses idéaux et les réalités exige un arbitrage permanent. Autrement dit, vivre avec les autres implique de négocier la frontière entre le compromis acceptable et la compromission destructrice de soi.",
+"Néanmoins, des espaces de résistance constructive, à l'instar de l'objection de conscience ou du militantisme associatif, permettent d'exprimer son désaccord. Quoique le poids de la majorité soit immense, les valeurs de la société évoluent grâce aux minorités proactives. En définitive, concilier convictions et exigences requiert de développer une posture de compromis intelligent, capable de respecter les lois communes sans aliéner sa droiture morale intime."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Pourquoi la société impose-t-elle le respect de règles communes d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Pour assurer le maintien de la paix sociale et éviter de tomber dans l'anarchie.",
+"mots_cles": [
+{ "mot": "paix sociale", "variantes": ["cohésion"], "poids": 0.5 },
+{ "mot": "anarchie", "variantes": ["désordre", "éviter les conflits"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel trouble psychologique peut naître du conflit entre ses actions obligatoires et ses valeurs ?",
+"points": 1,
+"reponse_modele": "Une souffrance morale qualifiée de dissonance éthique.",
+"mots_cles": [
+{ "mot": "dissonance éthique", "variantes": ["souffrance psychologique"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "À quoi s'expose un citoyen qui refuse d'appliquer les règles majoritaires de la société ?",
+"points": 1,
+"reponse_modele": "Il prend le risque d'être mis de côté (marginalisation) ou d'être puni (sanction).",
+"mots_cles": [
+{ "mot": "marginalisation", "variantes": ["exclusion", "isolement"], "poids": 0.5 },
+{ "mot": "sanction", "variantes": ["punition"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Expliquez la différence entre « compromis » et « compromission » évoquée après « autrement dit ».",
+"points": 1,
+"reponse_modele": "Le compromis est un accord acceptable qui préserve l'essentiel, alors que la compromission est un abandon honteux de ses valeurs.",
+"mots_cles": [
+{ "mot": "compromis acceptable", "variantes": ["accord"], "poids": 0.5 },
+{ "mot": "compromission", "variantes": ["perte de soi", "lâcheté", "abandonner ses principes"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quels outils légaux ou associatifs permettent aux individus de manifester leur désaccord ?",
+"points": 1,
+"reponse_modele": "Le recours à l'objection de conscience ou l'engagement dans le militantisme au sein d'associations.",
+"mots_cles": [
+{ "mot": "objection de conscience", "variantes": ["refus légal"], "poids": 0.5 },
+{ "mot": "militantisme associatif", "variantes": ["associations"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Comment les valeurs globales de la communauté parviennent-elles à changer au fil du temps ?",
+"points": 1,
+"reponse_modele": "Elles se transforment grâce aux actions menées par des minorités proactives.",
+"mots_cles": [
+{ "mot": "minorités proactives", "variantes": ["groupes engagés", "individus actifs"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom féminin dans le deuxième paragraphe signifiant « l'abandon passif de sa propre originalité pour suivre les modes du groupe ».",
+"points": 1,
+"reponse_modele": "Conformisme (dans l'expression « le conformisme social »).",
+"mots_cles": [
+{ "mot": "conformisme", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la conclusion de l'auteur sur la bonne attitude à adopter face aux contraintes ?",
+"points": 1,
+"reponse_modele": "Trouver un juste milieu qui obéit aux lois sans détruire son intégrité morale personnelle.",
+"mots_cles": [
+{ "mot": "lois communes", "variantes": ["respecter"], "poids": 0.5 },
+{ "mot": "droiture morale", "variantes": ["intégrité", "valeurs intimes"], "poids": 0.5 }
+]
+}
+]
+},
+{
+"id": "B2-098b",
+"titre": "Le courage de défendre ses idées face à l'opinion dominante",
+"titre2": "Exercice 98",
+"audios": [],
+"texte": [
+"L'histoire des avancées démocratiques et des révolutions scientifiques est portée par des figures héroïques qui ont osé affronter les certitudes de leur époque. De Galilée aux militants des droits civiques, exprimer une vérité dissidente exige une force morale hors du commun. Bien que nos chartes contemporaines garantissent théoriquement la liberté d'opinion, la pression de la pensée unique et le culte de l'unanimité s'avèrent des forces de censure redoutables au quotidien.",
+"En effet, l'être humain possède un besoin instinctif d'intégration sociale qui favorise la soumission aux jugements majoritaires. En revanche, exprimer un avis divergent expose l'individu au lynchage médiatique, à l'exclusion professionnelle ou à la mort sociale sur les réseaux numériques. Par conséquent, la lâcheté intellectuelle l'emporte souvent sur le devoir de vérité. Autrement dit, le conformisme ambiant transforme le silence en une stratégie de survie sociale.",
+"Néanmoins, abdiquer sa liberté de penser face à la foule condamnerait la société à une stagnation intellectuelle délétère. Quoique le prix à payer pour l'irrévérence soit lourd, la dissidence est le moteur indispensable du progrès moral. En définitive, cultiver le courage de ses opinions est un devoir citoyen capital, nécessaire pour briser les consensus trompeurs et maintenir la vitalité de l'espace public démocratique."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelles figures historiques l'auteur cite-t-il pour illustrer le combat contre les idées reçues ?",
+"points": 1,
+"reponse_modele": "Le savant Galilée et les militants des mouvements pour les droits civiques.",
+"mots_cles": [
+{ "mot": "Galilée", "variantes": ["savant"], "poids": 0.5 },
+{ "mot": "droits civiques", "variantes": ["militants"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels obstacles invisibles limitent la liberté de parole de nos jours malgré les lois ?",
+"points": 1,
+"reponse_modele": "La pression de la pensée unique et l'obligation invisible de l'unanimité.",
+"mots_cles": [
+{ "mot": "pensée unique", "variantes": ["conformisme"], "poids": 0.6 },
+{ "mot": "unanimité", "variantes": ["accord de tous"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi l'homme a-t-il tendance à obéir naturellement aux jugements de la majorité ?",
+"points": 1,
+"reponse_modele": "En raison de son besoin instinctif d'appartenir et de s'intégrer au groupe social.",
+"mots_cles": [
+{ "mot": "intégration sociale", "variantes": ["besoin instinctif", "appartenir au groupe"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quels risques concrets court un individu qui exprime un avis minoritaire sur Internet ?",
+"points": 1,
+"reponse_modele": "Il s'expose à un lynchage numérique, à la perte de son travail ou à une exclusion de la société.",
+"mots_cles": [
+{ "mot": "lynchage", "variantes": ["attaques en ligne"], "poids": 0.4 },
+{ "mot": "exclusion professionnelle", "variantes": ["perdre son emploi"], "poids": 0.3 },
+{ "mot": "mort sociale", "variantes": ["rejet"], "poids": 0.3 }
+]
+},
+{
+"id": "Q5",
+"question": "Expliquez le sens de la reformulation faite par l'auteur à la fin du deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Les gens choisissent de se taire (le silence) pour éviter d'être exclus et pour se protéger socialement.",
+"mots_cles": [
+{ "mot": "se taire", "variantes": ["silence"], "poids": 0.6 },
+{ "mot": "se protéger", "variantes": ["survie sociale", "éviter le rejet"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est la conséquence pour une société qui refuse d'écouter les voix dissidentes ?",
+"points": 1,
+"reponse_modele": "Elle s'expose à un blocage et à une stagnation intellectuelle nuisible (délétère).",
+"mots_cles": [
+{ "mot": "stagnation", "variantes": ["blocage", "ne pas avancer"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle importance l'auteur donne-t-il au courage des opinions dans sa conclusion ?",
+"points": 1,
+"reponse_modele": "Il le qualifie de devoir citoyen capital pour faire vivre la démocratie et briser les mensonges.",
+"mots_cles": [
+{ "mot": "devoir citoyen", "variantes": ["obligation"], "poids": 0.6 },
+{ "mot": "vitalité démocratique", "variantes": ["espace public"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le troisième paragraphe signifiant « toxique, nuisible ou destructeur ».",
+"points": 1,
+"reponse_modele": "Délétère (dans l'expression « une stagnation intellectuelle délétère »).",
+"mots_cles": [
+{ "mot": "délétère", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-099b",
+"titre": "La patience et la persévérance face aux difficultés de la vie",
+"titre2": "Exercice 99",
+"audios": [],
+"texte": [
+"L'accélération frénétique de notre quotidien, rythmée par l'immédiateté des communications numériques, instille l'illusion que tout désir peut être assouvi en un clic. Cette culture de la gratification instantanée modifie profondément notre rapport au temps et fragilise notre résistance psychologique. Bien que la rapidité technique apporte une efficacité indéniable au quotidien, elle détruit notre aptitude à tolérer l'attente et la lenteur.",
+"En effet, l'accomplissement des projets majeurs — qu'il s'agisse de surmonter une maladie, de mener des études de haut niveau ou de reconstruire sa vie après une crise — s'inscrit obligatoirement dans le temps long. En revanche, l'absence de résultats rapides provoque chez l'homme moderne un découragement précoce et un sentiment d'impuissance. Par conséquent, cultiver la patience et la persévérance devient une compétence vitale pour sauvegarder sa santé mentale. Autrement dit, la force d'une existence ne se mesure pas à la vitesse du départ, mais à la constance de l'effort face à l'adversité.",
+"Néanmoins, la persévérance ne doit pas être confondue avec l'obstination aveugle dans une voie sans issue. Quoique la ténacité soit louable, la sagesse implique de savoir accepter ses limites et de réorienter son énergie quand c'est nécessaire. En définitive, traverser les tempêtes de l'existence exige d'allier la force tranquille de la patience à la flexibilité de l'esprit."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle illusion les technologies du numérique provoquent-elles selon le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "L'illusion que l'on peut satisfaire (assouvir) tous ses besoins et désirs immédiatement sans attendre.",
+"mots_cles": [
+{ "mot": "immédiatement", "variantes": ["gratification instantanée", "un clic"], "poids": 0.6 },
+{ "mot": "satisfaire", "variantes": ["assouvir les désirs"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel impact négatif la culture de l'immédiat produit-elle sur notre mental ?",
+"points": 1,
+"reponse_modele": "Elle diminue et détruit notre capacité à supporter l'attente, la frustration et la lenteur.",
+"mots_cles": [
+{ "mot": "supporter l'attente", "variantes": ["tolérer la lenteur"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Citez deux exemples de projets importants qui exigent obligatoirement du temps d'après le texte.",
+"points": 1,
+"reponse_modele": "La guérison d'une maladie, la réalisation d'études supérieures longues (ou se reconstruire après un choc).",
+"mots_cles": [
+{ "mot": "maladie", "variantes": ["santé"], "poids": 0.5 },
+{ "mot": "études", "variantes": ["apprentissage", "crise"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Pourquoi l'homme moderne abandonne-t-il trop vite ses efforts face aux obstacles ?",
+"points": 1,
+"reponse_modele": "Parce que l'absence de résultats visibles immédiats déclenche chez lui du découragement.",
+"mots_cles": [
+{ "mot": "absence de résultats", "variantes": ["pas rapide"], "poids": 0.6 },
+{ "mot": "découragement", "variantes": ["sentiment d'impuissance", "abandonner"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Comment l'auteur résume-t-il la valeur de la persévérance après l'expression « autrement dit » ?",
+"points": 1,
+"reponse_modele": "La valeur d'une vie dépend de la régularité de l'effort face aux malheurs et non de la rapidité du départ.",
+"mots_cles": [
+{ "mot": "constance de l'effort", "variantes": ["régularité", "continuité"], "poids": 0.6 },
+{ "mot": "adversité", "variantes": ["difficultés", "malheurs"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle distinction cruciale l'auteur opère-t-il au troisième paragraphe concernant la ténacité ?",
+"points": 1,
+"reponse_modele": "Il précise qu'il ne faut pas mélanger la persévérance avec l'obstination bête dans une mauvaise direction.",
+"mots_cles": [
+{ "mot": "obstination aveugle", "variantes": ["s'obstiner"], "poids": 0.6 },
+{ "mot": "voie sans issue", "variantes": ["limites", "erreur"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom féminin dans le troisième paragraphe signifiant « la qualité de quelqu'un qui tient fermement à ses projets avec force ».",
+"points": 1,
+"reponse_modele": "Ténacité.",
+"mots_cles": [
+{ "mot": "ténacité", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la conclusion du texte pour réussir à surmonter les crises ?",
+"points": 1,
+"reponse_modele": "Il faut combiner le calme de la patience avec la capacité de s'adapter (flexibilité).",
+"mots_cles": [
+{ "mot": "patience", "variantes": ["force tranquille"], "poids": 0.5 },
+{ "mot": "flexibilité", "variantes": ["s'adapter", "esprit"], "poids": 0.5 }
+]
+}
+]
+},
+{
+"id": "B2-100b",
+"titre": "Construire un avenir meilleur grâce à des choix responsables",
+"titre2": "Exercice 100",
+"audios": [],
+"texte": [
+"L’humanité se trouve à la croisée des chemins, confrontée aux retombées concrètes de ses excès industriels, climatiques et démographiques. Les rapports des experts dessinent un horizon sombre si nos modes de consommation et de production demeurent inchangés. Bien que l'immensité des défis écologiques mondiaux engendre parfois un sentiment d'impuissance ou d'éco-anxiété chez les citoyens, capituler devant la crise serait une faute éthique majeure.",
+"En effet, l'avenir de notre modèle social et environnemental dépend directement des décisions prises aujourd'hui. Tandis que l'égoïsme à court terme pousse au statu quo, l'adoption consciente de choix écoresponsables paralyse les dynamiques destructrices. Par conséquent, chaque action citoyenne — réduction de l'empreinte carbone, soutien à l'économie circulaire, vote éclairé — constitue une pierre apportée à l'édifice de la transition. Autrement dit, nous ne sommes pas les spectateurs passifs de la catastrophe, mais les architectes de notre avenir.",
+"Néanmoins, la responsabilité individuelle doit impérativement s'articuler avec des contraintes législatives courageuses imposées aux multinationales polluantes. Quoique le défi exige des changements profonds de nos habitudes de confort, il est la condition de la survie collective. En définitive, bâtir un monde viable requiert d'unir la force des engagements individuels à la puissance des lois publiques pour redonner un espoir aux générations futures."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quels facteurs provoquent la crise mondiale décrite au début du centième texte ?",
+"points": 1,
+"reponse_modele": "Les conséquences des excès de l'industrie, les dérèglements du climat et la hausse de la population (démographie).",
+"mots_cles": [
+{ "mot": "industriels", "variantes": ["industrie", "usines"], "poids": 0.33 },
+{ "mot": "climatiques", "variantes": ["pollution", "climat"], "poids": 0.33 },
+{ "mot": "démographiques", "variantes": ["population humaine"], "poids": 0.34 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel trouble psychologique moderne lié à l'environnement frappe la population face à l'avenir ?",
+"points": 1,
+"reponse_modele": "L'éco-anxiété (ou un sentiment d'impuissance face à la crise planétaire).",
+"mots_cles": [
+{ "mot": "éco-anxiété", "variantes": ["angoisse écologique"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles actions concrètes le citoyen peut-il mener à son échelle pour participer à la transition ?",
+"points": 1,
+"reponse_modele": "Diminuer ses émissions de carbone, consommer via l'économie circulaire et voter de manière responsable.",
+"mots_cles": [
+{ "mot": "empreinte carbone", "variantes": ["moins polluer"], "poids": 0.33 },
+{ "mot": "économie circulaire", "variantes": ["recyclage"], "poids": 0.33 },
+{ "mot": "vote éclairé", "variantes": ["élections", "choix politique"], "poids": 0.34 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle formule métaphorique valorisante l'auteur emploie-t-il après « autrement dit » ?",
+"points": 1,
+"reponse_modele": "Il affirme que nous sommes « les architectes de notre avenir » et non des spectateurs impuissants.",
+"mots_cles": [
+{ "mot": "architectes de notre avenir", "variantes": ["architectes"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle limite l'auteur fixe-t-il à la seule action des citoyens au troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Elle doit obligatoirement être complétée par des lois et des contraintes sévères contre les grandes entreprises polluantes.",
+"mots_cles": [
+{ "mot": "contraintes législatives", "variantes": ["lois", "règles de l'État"], "poids": 0.6 },
+{ "mot": "multinationales", "variantes": ["grandes entreprises", "firmes"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel est le but ultime de tous ces sacrifices écologiques selon l'auteur ?",
+"points": 1,
+"reponse_modele": "Assurer la survie collective des êtres humains et redonner de l'espoir aux enfants (générations futures).",
+"mots_cles": [
+{ "mot": "survie collective", "variantes": ["sauver l'humanité"], "poids": 0.6 },
+{ "mot": "générations futures", "variantes": ["enfants", "avenir"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom féminin dans le premier paragraphe signifiant « une angoisse liée aux bouleversements environnementaux ».",
+"points": 1,
+"reponse_modele": "Éco-anxiété.",
+"mots_cles": [
+{ "mot": "éco-anxiété", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la conclusion générale de cette centième fiche pour réussir la transition ?",
+"points": 1,
+"reponse_modele": "Il faut réunir les efforts volontaires de chaque personne à la force juridique des lois de l'État.",
+"mots_cles": [
+{ "mot": "engagements individuels", "variantes": ["citoyens"], "poids": 0.5 },
+{ "mot": "lois publiques", "variantes": ["gouvernement", "législation"], "poids": 0.5 }
 ]
 }
 ]
