@@ -2746,5 +2746,909 @@
 ]
 }
 ]
+},
+{
+    "id": "B2-021b",
+    "titre": "Le télétravail transforme-t-il durablement le monde professionnel ?",
+    "titre2": "Exercice 21",
+    "audios": [],
+    "texte": [
+      "— Bonjour à tous. Nous accueillons aujourd'hui Valérie, consultante en organisation du travail, pour analyser l'impact du distanciel sur nos entreprises. Valérie, bien que le travail à domicile ait été initialement perçu comme une mesure d'urgence temporaire, il semble s'installer définitivement dans les mœurs. Assiste-t-on à une révolution pérenne ou à un simple effet de mode managérial ?",
+      "— Bonjour. C'est une transformation de fond. En effet, le basculement vers ce mode opératoire offre une flexibilité géographique sans précédent et une réduction notable des temps de transport. Néanmoins, cette mutation engendre des risques d'isolement social et de délitement du collectif de travail. Les managers doivent réinventer leurs pratiques, tandis que la frontière entre vie privée et vie professionnelle devient poreuse.",
+      "— Certains salariés affirment pourtant qu'ils sont beaucoup plus productifs chez eux, loin des interruptions constantes de l'open space. Par conséquent, les entreprises ont tout intérêt à réduire la surface de leurs locaux pour réaliser des économies d'échelle substantielles.",
+      "— C'est exact, mais cela ne doit pas se faire au détriment de la cohésion interne. Autrement dit, si le lien social est rompu, l'engagement à long terme s'effondre. Quoique le gain d'autonomie soit plébiscité, un modèle exclusivement virtuel s'avère utopique. En définitive, l'avenir appartient à un système hybride concerté, garantissant à la fois l'efficience économique et la préservation de la santé mentale des collaborateurs."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quelle est l'idée principale défendue par Valérie concernant le télétravail ?",
+        "points": 1,
+        "reponse_modele": "C'est une transformation durable et de fond, mais qui nécessite de trouver un équilibre pour éviter l'isolement.",
+        "mots_cles": [
+          { "mot": "transformation durable", "variantes": ["fond", "pérenne", "structurelle"], "poids": 0.6 },
+          { "mot": "équilibre", "variantes": ["hybride", "concerté"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quels sont les avantages immédiats du travail à distance mentionnés dans le premier échange ?",
+        "points": 1,
+        "reponse_modele": "Une flexibilité géographique et une baisse du temps passé dans les transports.",
+        "mots_cles": [
+          { "mot": "flexibilité", "variantes": ["autonomie", "liberté"], "poids": 0.5 },
+          { "mot": "transports", "variantes": ["déplacements", "trajets"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quel risque majeur Valérie identifie-t-elle pour la structure même de l'entreprise ?",
+        "points": 1,
+        "reponse_modele": "Un risque de délitement du collectif de travail et d'isolement social des salariés.",
+        "mots_cles": [
+          { "mot": "délitement", "variantes": ["rupture", "perte", "destruction"], "poids": 0.5 },
+          { "mot": "collectif", "variantes": ["lien social", "cohésion", "équipe"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Pourquoi la frontière entre la vie privée et la vie professionnelle devient-elle problématique ?",
+        "points": 1,
+        "reponse_modele": "Parce qu'elle devient poreuse, rendant difficile la séparation entre le temps de travail et le temps personnel.",
+        "mots_cles": [
+          { "mot": "poreuse", "variantes": ["floue", "mélangée"], "poids": 0.6 },
+          { "mot": "séparation", "variantes": ["distinction", "frontière"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quel intérêt financier les entreprises trouvent-elles dans la généralisation de cette pratique ?",
+        "points": 1,
+        "reponse_modele": "La possibilité de réduire la taille de leurs locaux pour faire des économies d'échelle.",
+        "mots_cles": [
+          { "mot": "réduire", "variantes": ["diminuer", "baisser"], "poids": 0.5 },
+          { "mot": "locaux", "variantes": ["bureaux", "immobilier", "surfaces"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Expliquez le sens de l'adjectif « poreuse » d'après le contexte du deuxième paragraphe.",
+        "points": 1,
+        "reponse_modele": "Qui se laisse traverser, signifiant ici que les deux sphères de la vie se mélangent et s'influencent négativement.",
+        "mots_cles": [
+          { "mot": "mélangent", "variantes": ["fusionnent", "ne sont plus séparées"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Quelle solution de compromis est avancée en fin de texte ?",
+        "points": 1,
+        "reponse_modele": "La mise en place d'un modèle hybride et concerté entre distanciel et présentiel.",
+        "mots_cles": [
+          { "mot": "hybride", "variantes": ["mixte", "alterné"], "poids": 0.7 },
+          { "mot": "concerté", "variantes": ["discuté", "partagé"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Quelle est l'utilité du connecteur « en définitive » dans la conclusion de l'invitée ?",
+        "points": 1,
+        "reponse_modele": "Il sert à introduire le bilan final de son argumentation et à proposer une synthèse claire.",
+        "mots_cles": [
+          { "mot": "bilan", "variantes": ["synthèse", "conclusion"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-022b",
+    "titre": "La réussite professionnelle est-elle forcément liée au niveau de salaire ?",
+    "titre2": "Exercice 22",
+    "audios": [],
+    "texte": [
+      "Dans notre imaginaire collectif, l'accomplissement de soi au travail est intrinsèquement corrélé à l'importance de la rémunération financière. Cette équation simpliste postule qu'un salaire mirobolant valide automatiquement une carrière brillante. Bien que l'argent demeure un puissant vecteur de sécurité matérielle et de reconnaissance sociale, les aspirations des nouvelles générations de travailleurs tendent à ébranler ce dogme solidement ancré.",
+      "En effet, l'accumulation de richesses se fait parfois au prix d'un investissement temporel disproportionné, provoquant burn-out et crises existentielles. En revanche, de plus en plus d'actifs privilégient désormais la quête de sens et l'utilité sociale de leur mission. Ils n'hésitent plus à opérer des bifurcations professionnelles radicales vers des métiers moins rémunérateurs mais plus épanouissants. Autrement dit, la valeur d'un individu ne saurait se mesurer exclusivement à l'aune de sa feuille de paie, tandis que le bien-être psychologique s'impose comme le nouveau critère d'évaluation du succès.",
+      "Néanmoins, il serait naïf d'occulter que la précarité économique interdit ce type de choix existentiels aux classes populaires. Quoique la quête de sens soit légitime, elle reste un luxe accessible à ceux dont les besoins fondamentaux sont déjà largement comblés. En définitive, redéfinir la réussite implique de détacher le travail de sa seule dimension pécuniaire, sans pour autant balayer les réalités matérielles de chacun."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quelle équation simpliste l'auteur dénonce-t-il dans le premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "L'idée selon laquelle le succès professionnel est obligatoirement mesuré par la hauteur du salaire.",
+        "mots_cles": [
+          { "mot": "succès", "variantes": ["réussite", "accomplissement"], "poids": 0.5 },
+          { "mot": "salaire", "variantes": ["argent", "rémunération"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quel changement d'attitude l'auteur observe-t-il chez les nouvelles générations de travailleurs ?",
+        "points": 1,
+        "reponse_modele": "Elles remettent en cause ce dogme en privilégiant la quête de sens et l'utilité de leurs actions.",
+        "mots_cles": [
+          { "mot": "quête de sens", "variantes": ["valeurs", "utilité sociale"], "poids": 0.7 },
+          { "mot": "remettent en cause", "variantes": ["ébranlent", "changent"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quelles sont les conséquences négatives possibles d'une course effrénée vers les hauts revenus ?",
+        "points": 1,
+        "reponse_modele": "Un surinvestissement en temps menant à l'épuisement professionnel (burn-out) ou à des crises existentielles.",
+        "mots_cles": [
+          { "mot": "burn-out", "variantes": ["épuisement", "dépression"], "poids": 0.5 },
+          { "mot": "crises existentielles", "variantes": ["perte de repères", "mal-être"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Que font certains actifs pour s'épanouir davantage quitte à gagner moins d'argent ?",
+        "points": 1,
+        "reponse_modele": "Ils effectuent des reconversions ou des bifurcations professionnelles radicales.",
+        "mots_cles": [
+          { "mot": "bifurcations", "variantes": ["reconversions", "changements de métier"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quelle nuance cruciale l'auteur apporte-t-il dans le troisième paragraphe concernant la quête de sens ?",
+        "points": 1,
+        "reponse_modele": "Il rappelle que choisir un travail pour son sens est un privilège que la précarité économique empêche d'atteindre.",
+        "mots_cles": [
+          { "mot": "privilège", "variantes": ["luxe", "classes aisées"], "poids": 0.6 },
+          { "mot": "précarité", "variantes": ["pauvreté", "besoins fondamentaux"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q6",
+         "question": "Trouvez un synonyme de l'expression « à l'aune de » utilisé par l'auteur dans le texte.",
+"points": 1,
+"reponse_modele": "En fonction de / à la mesure de / sur la base de.",
+"mots_cles": [
+{ "mot": "mesure", "variantes": ["critère de", "base de"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle conclusion l'auteur tire-t-il sur la manière dont on doit envisager la réussite ?",
+"points": 1,
+"reponse_modele": "Il faut détacher la réussite de l'aspect purement financier tout en restant lucide sur les besoins matériels de chacun.",
+"mots_cles": [
+{ "mot": "financier", "variantes": ["pécuniaire", "argent"], "poids": 0.6 },
+{ "mot": "besoins matériels", "variantes": ["réalités économiques"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel rôle joue le connecteur « par conséquent » au sein de l'argumentation générale ?",
+"points": 1,
+"reponse_modele": "Il sert à introduire la conséquence logique découlant d'un fait précédemment énoncé.",
+"mots_cles": [
+{ "mot": "conséquence", "variantes": ["résultat logique"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-023b",
+"titre": "Les jeunes diplômés face aux difficultés du marché de l'emploi",
+"titre2": "Exercice 23",
+"audios": [],
+"texte": [
+"Le rituel de la remise des diplômes, autrefois synonyme d'insertion professionnelle immédiate, s'apparente désormais à une entrée dans une arène incertaine. De nos jours, les jeunes diplômés font face à des barrières structurelles dures à franchir. Bien que ces jeunes possèdent des qualifications académiques de haut niveau, ils se heurtent systématiquement à l'exigence paradoxale d'une expérience professionnelle préalable que personne ne leur donne l'opportunité d'acquérir.",
+"Tandis que les recruteurs frileux privilégient des profils immédiatement opérationnels, les vagues de candidatures s'accumulent sur les plateformes numériques. Par conséquent, de nombreux diplômés se voient contraints d'accepter une succession de stages sous-payés ou de contrats précaires. Autrement dit, le diplôme ne joue plus son rôle d'ascenseur social automatique, mais devient une simple condition nécessaire pour espérer décrocher un entretien. Cette situation engendre un sentiment de déclassement et une profonde amertume chez une jeunesse surqualifiée.",
+"Néanmoins, des initiatives émergent pour briser ce cercle vicieux. Quoique le contexte économique soit morose, des réseaux de mentorat et des dispositifs étatiques tentent de créer des passerelles directes avec le monde de l'entreprise. En définitive, repenser l'articulation entre l'université et l'emploi s'avère indispensable pour éviter le gâchis de compétences d'une génération sacrifiée."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel changement historique s'est produit concernant la valeur de la remise des diplômes ?",
+"points": 1,
+"reponse_modele": "Autrefois garante d'un emploi immédiat, elle marque aujourd'hui l'entrée sur un marché très incertain.",
+"mots_cles": [
+{ "mot": "autrefois", "variantes": ["passé", "avant"], "poids": 0.4 },
+{ "mot": "incertain", "variantes": ["difficile", "arène incertaine", "chômage"], "poids": 0.6 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle exigence paradoxale des recruteurs bloque l'accès à l'emploi des jeunes ?",
+"points": 1,
+"reponse_modele": "Ils exigent une expérience professionnelle préalable que les jeunes n'ont pas encore pu acquérir.",
+"mots_cles": [
+{ "mot": "expérience préalable", "variantes": ["expérience professionnelle"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "À quel type de contrats les jeunes diplômés doivent-ils souvent se résoudre ?",
+"points": 1,
+"reponse_modele": "Des stages sous-payés et des contrats de travail précaires.",
+"mots_cles": [
+{ "mot": "stages", "variantes": ["stages sous-payés"], "poids": 0.5 },
+{ "mot": "précaires", "variantes": ["CDD", "intérim", "instables"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Que signifie la perte du rôle d'« ascenseur social » attribuée au diplôme ?",
+"points": 1,
+"reponse_modele": "Cela signifie que posséder un haut diplôme ne garantit plus automatiquement une progression sociale.",
+"mots_cles": [
+{ "mot": "progression sociale", "variantes": ["statut", "réussite", "monter d'une classe"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel impact psychologique cette situation produit-elle sur la jeunesse ?",
+"points": 1,
+"reponse_modele": "Elle génère un fort sentiment de déclassement et une profonde amertume.",
+"mots_cles": [
+{ "mot": "déclassement", "variantes": ["frustration", "dévalorisation"], "poids": 0.6 },
+{ "mot": "amertume", "variantes": ["colère", "déception"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quels outils sont mis en place pour essayer d'aider cette génération d'après le texte ?",
+"points": 1,
+"reponse_modele": "Des réseaux de mentorat et des dispositifs créés par l'État.",
+"mots_cles": [
+{ "mot": "mentorat", "variantes": ["réseaux d'aide", "accompagnement"], "poids": 0.5 },
+{ "mot": "dispositifs étatiques", "variantes": ["aides de l'État", "mesures publiques"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle réforme urgente l'auteur préconise-t-il dans sa conclusion ?",
+"points": 1,
+"reponse_modele": "Il demande de repenser l'articulation entre les formations universitaires et le marché de l'emploi.",
+"mots_cles": [
+{ "mot": "articulation", "variantes": ["lien", "relation", "passerelles"], "poids": 0.6 },
+{ "mot": "université", "variantes": ["études", "emploi"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Identifiez la valeur logique du connecteur « quoique » introduit dans le dernier paragraphe.",
+"points": 1,
+"reponse_modele": "Il introduit une idée de concession ou d'opposition atténuée.",
+"mots_cles": [
+{ "mot": "concession", "variantes": ["opposition", "malgré"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-024b",
+"titre": "L'entrepreneuriat comme solution au chômage des jeunes",
+"titre2": "Exercice 24",
+"audios": [],
+"texte": [
+"Face à l'étroitesse d'un marché du travail traditionnel saturé, la figure de l'auto-entrepreneur est fréquemment parée de toutes les vertus. On présente désormais la création d'entreprise comme le remède miracle au chômage endémique des jeunes actifs. Bien que cette dynamique insuffle une indéniable bouffée d'oxygène à l'économie et stimule l'innovation sectorielle, elle dissimule également des réalités beaucoup plus nuancées.",
+"D'un côté, la liberté d'action et l'absence de lien de subordination séduisent une jeunesse éprise d'autonomie. En revanche, le parcours du créateur de start-up s'apparente à une course d'obstacles permanente. Le manque d'accès aux financements bancaires et l'absence de filet de sécurité sociale en cas de faillite constituent des freins majeurs. Par conséquent, de nombreux jeunes se retrouvent projetés dans une précarité extrême, travaillant de longues heures pour des revenus inférieurs au salaire minimum. Autrement dit, l'indépendance tant vantée se transforme parfois en une auto-exploitation subie.",
+"En définitive, si l'entrepreneuriat doit être soutenu, il ne saurait s'instituer en politique unique de résorption du chômage. Quoique l'audace individuelle soit louable, elle nécessite un accompagnement structurel fort et des garanties sociales minimales pour ne pas dériver vers un mirage destructeur."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Comment la création d'entreprise est-elle perçue par les décideurs face au chômage ?",
+"points": 1,
+"reponse_modele": "Elle est présentée comme le remède miracle pour résoudre le chômage endémique des jeunes.",
+"mots_cles": [
+{ "mot": "remède miracle", "variantes": ["solution idéale", "panacée"], "poids": 0.7 },
+{ "mot": "chômage des jeunes", "variantes": ["chômage endémique"], "poids": 0.3 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels aspects positifs de l'entrepreneuriat sont validés dans le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il apporte une bouffée d'oxygène à l'économie et stimule l'innovation.",
+"mots_cles": [
+{ "mot": "économie", "variantes": ["croissance", "activité"], "poids": 0.5 },
+{ "mot": "innovation", "variantes": ["nouveauté", "créativité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Qu'est-ce qui séduit particulièrement les jeunes dans le statut d'indépendant ?",
+"points": 1,
+"reponse_modele": "La liberté d'action et l'absence totale de supérieur hiérarchique (lien de subordination).",
+"mots_cles": [
+{ "mot": "liberté d'action", "variantes": ["autonomie"], "poids": 0.5 },
+{ "mot": "subordination", "variantes": ["patron", "hiérarchie"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quels obstacles matériels concrets attendent les créateurs de projets ?",
+"points": 1,
+"reponse_modele": "Les difficultés à obtenir des financements bancaires et l'absence de protection sociale.",
+"mots_cles": [
+{ "mot": "financements", "variantes": ["crédits", "argent", "banques"], "poids": 0.5 },
+{ "mot": "protection sociale", "variantes": ["filet de sécurité", "chômage", "sécurité sociale"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Expliquez le concept d'« auto-exploitation » évoqué par l'auteur.",
+"points": 1,
+"reponse_modele": "C'est le fait de travailler excessivement pour des revenus très faibles sans aucune limite imposée par un tiers.",
+"mots_cles": [
+{ "mot": "travailler excessivement", "variantes": ["longues heures", "trop travailler"], "poids": 0.6 },
+{ "mot": "faibles revenus", "variantes": ["gagner peu", "sous le SMIC"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle critique l'auteur fait-il de l'usage politique de l'entrepreneuriat ?",
+"points": 1,
+"reponse_modele": "Il affirme qu'on ne peut pas en faire l'unique stratégie pour résorber le chômage de masse.",
+"mots_cles": [
+{ "mot": "unique stratégie", "variantes": ["politique unique", "seule solution"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "De quoi l'audace individuelle a-t-elle besoin pour réussir durablement d'après le texte ?",
+"points": 1,
+"reponse_modele": "Elle a besoin d'un accompagnement structurel fort et de garanties sociales protectrices.",
+"mots_cles": [
+{ "mot": "accompagnement", "variantes": ["soutien", "aide"], "poids": 0.5 },
+{ "mot": "garanties sociales", "variantes": ["sécurité", "protection"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le texte qui signifie « qui dure depuis longtemps et revient constamment ».",
+"points": 1,
+"reponse_modele": "Endémique.",
+"mots_cles": [
+{ "mot": "endémique", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-025b",
+"titre": "La disparition de certains métiers face aux nouvelles technologies",
+"titre2": "Exercice 25",
+"audios": [],
+"texte": [
+"L'irruption fulgurante de l'intelligence artificielle et de l'automatisation avancée redessine violemment la cartographie de l'emploi mondial. Bien que l'histoire économique démontre que les révolutions technologiques finissent toujours par créer plus d'emplois qu'elles n'en détruisent, le rythme actuel de cette transition suscite des inquiétudes légitimes. Ce ne sont plus seulement les tâches manuelles répétitives qui sont menacées, mais des pans entiers de professions intellectuelles.",
+"En effet, des algorithmes complexes exécutent désormais avec une célérité stupéfiante des diagnostics médicaux de routine, des rédactions de contrats juridiques ou des analyses financières. Par conséquent, les secrétariats, les guichets bancaires et les postes de comptabilité intermédiaire s'étiolent à vue d'œil. Tandis que les ingénieurs de la Silicon Valley célèbrent ces gains de productivité inédits, les travailleurs touchés subissent de plein fouet une obsolescence accélérée de leurs compétences.",
+"Néanmoins, cette destruction créatrice n'est pas une fatalité subie. Quoique certains métiers soient condamnés à brève échéance, l'humain conserve une valeur irremplaçable dans les domaines exigeant de l'empathie, de l'intuition et une créativité hors norme. En définitive, l'enjeu des décennies à venir résidera dans la capacité des États à piloter cette transition par des politiques massives de reconversion."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "En quoi la révolution technologique actuelle diffère-t-elle des précédentes ?",
+"points": 1,
+"reponse_modele": "Elle va extrêmement vite et menace des professions intellectuelles et non plus seulement manuelles.",
+"mots_cles": [
+{ "mot": "pro professions intellectuelles", "variantes": ["métiers qualifiés", "cols blancs"], "poids": 0.6 },
+{ "mot": "rythme", "variantes": ["vitesse", "rapidement"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelles tâches intellectuelles de haut niveau les algorithmes effectuent-ils aujourd'hui ?",
+"points": 1,
+"reponse_modele": "Des diagnostics médicaux basiques, la rédaction d'actes juridiques ou des analyses de finance.",
+"mots_cles": [
+{ "mot": "diagnostics", "variantes": ["médecine", "médicaux"], "poids": 0.33 },
+{ "mot": "juridiques", "variantes": ["contrats", "droit"], "poids": 0.33 },
+{ "mot": "analyses financières", "variantes": ["finance", "comptabilité"], "poids": 0.34 }
+]
+},
+{
+"id": "Q3",
+"question": "Citez deux exemples de métiers intermédiaires directement menacés d'extinction d'après le texte.",
+"points": 1,
+"reponse_modele": "Les secrétariats et les employés de guichets bancaires (ou comptables intermédiaires).",
+"mots_cles": [
+{ "mot": "secrétariats", "variantes": ["secrétaires"], "poids": 0.5 },
+{ "mot": "guichets bancaires", "variantes": ["banque", "comptabilité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel sort les employés victimes de l'automatisation subissent-ils sur le marché ?",
+"points": 1,
+"reponse_modele": "Ils subissent une obsolescence accélérée de leurs compétences.",
+"mots_cles": [
+{ "mot": "obsolescence", "variantes": ["périmées", "dépassées", "inutiles"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelles facultés humaines intrinsèques restent hors de portée des machines d'après l'auteur ?",
+"points": 1,
+"reponse_modele": "L'empathie, l'intuition et la créativité complexe.",
+"mots_cles": [
+{ "mot": "empathie", "variantes": ["relations humaines"], "poids": 0.4 },
+{ "mot": "intuition", "variantes": ["sensibilité"], "poids": 0.3 },
+{ "mot": "créativité", "variantes": ["imagination"], "poids": 0.3 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est la mission clé confiée aux gouvernements pour accompagner ce basculement ?",
+"points": 1,
+"reponse_modele": "Mettre en place des politiques publiques massives de reconversion professionnelle.",
+"mots_cles": [
+{ "mot": "reconversion", "variantes": ["formation", "changement de métier"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Expliquez le sens de l'expression économique « destruction créatrice » évoquée dans le texte.",
+"points": 1,
+"reponse_modele": "Le processus par lequel l'innovation fait disparaître d'anciennes activités au profit de nouvelles plus performantes.",
+"mots_cles": [
+{ "mot": "innovation", "variantes": ["nouveauté"], "poids": 0.5 },
+{ "mot": "disparaître", "variantes": ["remplacer l'ancien"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Donnez la définition du mot substantif « célérité » employé dans le deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Grande rapidité, vitesse extrême dans l'exécution d'une action.",
+"mots_cles": [
+{ "mot": "rapidité", "variantes": ["vitesse", "promptitude"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-026b",
+"titre": "Faut-il privilégier la sécurité de l'emploi ou la liberté professionnelle ?",
+"titre2": "Exercice 26",
+"audios": [],
+"texte": [
+"Choisir une trajectoire professionnelle linéaire sous l'aile protectrice d'un contrat à durée indéterminée ou s'élancer dans les turbulences stimulantes du travail indépendant constitue le dilemme existentiel de l'actif moderne. Traditionnellement, la société valorisait la stabilité du salariat stable, garant d'un accès facilité au logement et au crédit. Bien que cette sécurité matérielle garde de solides arguments, elle est parfois vécue comme une prison dorée étouffant les ambitions personnelles.",
+"En revanche, l’essor des plateformes et du statut de consultant offre une promesse de liberté totale. Être maître de son temps, choisir ses clients et fixer ses propres tarifs s'avèrent des arguments séduisants. Néanmoins, cette liberté a un coût invisible mais lourd : l'angoisse des lendemains incertains et l'absence complète de congés payés ou de couverture en cas de maladie. Par conséquent, l'indépendant doit développer une résistance psychologique à toute épreuve face à l'instabilité chronique.",
+"Autrement dit, opposer ces deux statuts de manière binaire reflète une mauvaise compréhension des aspirations contemporaines. En définitive, les frontières se brouillent. Le modèle de demain verra sans doute émerger des formes hybrides, combinant la souplesse inhérente à la liberté et la protection sociale indissociable de la sécurité."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel avantage historique majeur le statut de salarié en CDI offre-t-il selon l'auteur ?",
+"points": 1,
+"reponse_modele": "Il facilite grandement l'accès au logement et l'obtention de crédits bancaires.",
+"mots_cles": [
+{ "mot": "logement", "variantes": ["louer un appartement"], "poids": 0.5 },
+{ "mot": "crédit", "variantes": ["emprunt", "banque"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Pourquoi certains travailleurs rejettent-ils aujourd'hui la stabilité du salariat classique ?",
+"points": 1,
+"reponse_modele": "Parce qu'ils la perçoivent comme une cage dorée qui freine leur épanouissement et leurs ambitions.",
+"mots_cles": [
+{ "mot": "prison dorée", "variantes": ["cage dorée", "contrainte"], "poids": 0.6 },
+{ "mot": "ambitions", "variantes": ["évolution", "projets"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles prérogatives concrètes font le charme du travail indépendant d'après le texte ?",
+"points": 1,
+"reponse_modele": "La gestion de son emploi du temps, le choix de sa clientèle et la liberté de fixer ses tarifs.",
+"mots_cles": [
+{ "mot": "temps", "variantes": ["horaires libres"], "poids": 0.4 },
+{ "mot": "clients", "variantes": ["missions"], "poids": 0.3 },
+{ "mot": "tarifs", "variantes": ["prix"], "poids": 0.3 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel est le revers de la médaille de la vie de travailleur indépendant ?",
+"points": 1,
+"reponse_modele": "L'insécurité financière, l'angoisse du lendemain et le manque de couverture médicale.",
+"mots_cles": [
+{ "mot": "angoisse", "variantes": ["stress", "incertitude"], "poids": 0.5 },
+{ "mot": "couverture", "variantes": ["maladie", "pas de congés"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle aptitude psychologique spécifique l'indépendant doit-il cultiver ?",
+"points": 1,
+"reponse_modele": "Une grande résistance mentale face à l'instabilité financière chronique de son activité.",
+"mots_cles": [
+{ "mot": "résistance", "variantes": ["solidité", "force psychologique"], "poids": 0.7 },
+{ "mot": "instabilité", "variantes": ["imprévu", "manque de visibilité"], "poids": 0.3 }
+]
+},
+{
+"id": "Q6",
+"question": "Expliquez le sens de la métaphore de la « prison dorée » employée dans le premier paragraphe.",
+"points": 1,
+"reponse_modele": "Une situation matériellement confortable et avantageuse mais dont les contraintes empêchent d'être libre.",
+"mots_cles": [
+{ "mot": "confortable", "variantes": ["avantages matériels", "argent stable"], "poids": 0.5 },
+{ "mot": "contraintes", "variantes": ["manque de liberté", "enfermement"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle évolution l'auteur anticipe-t-il pour le marché du travail futur ?",
+"points": 1,
+"reponse_modele": "L'émergence de statuts hybrides mêlant l'indépendance opérationnelle et la protection des droits sociaux.",
+"mots_cles": [
+{ "mot": "hybrides", "variantes": ["nouveaux statuts", "mélange"], "poids": 0.6 },
+{ "mot": "protection", "variantes": ["sécurité", "droits"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle nuance apporte le connecteur « néanmoins » au début du deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il introduit une restriction ou une opposition forte après avoir décrit les aspects séduisants de la liberté.",
+"mots_cles": [
+{ "mot": "opposition", "variantes": ["restriction", "contre-argument"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-027b",
+"titre": "L'équilibre entre la vie professionnelle et la vie personnelle",
+"titre2": "Exercice 27",
+"audios": [],
+"texte": [
+"La quête obsessionnelle de la performance en entreprise a longtemps relégué la sphère intime au rang de variable d'ajustement négligeable. Cependant, l'avènement du numérique et la généralisation des smartphones ont achevé de briser les barrières physiques du bureau. Bien que la technologie permette de travailler depuis n’importe quel lieu, elle emprisonne l'employé dans une disponibilité perpétuelle, nuisant gravement à l'équilibre fondamental entre vie professionnelle et vie personnelle.",
+"En effet, l'incapacité psychologique à couper le cordon avec son activité génère une fatigue mentale chronique. C’est pourquoi les partenaires sociaux ont imposé l'inscription du droit à la déconnexion dans le Code du travail. Tandis que certaines directions éclairées coupent les serveurs de messagerie le soir, d'autres continuent de valoriser une culture toxique du présentéisme. Par conséquent, préserver son jardin secret requiert désormais une discipline de fer de la part du salarié.",
+"Autrement dit, le bien-être n'est plus une option cosmétique accordée par les services de ressources humaines. En définitive, les entreprises qui refusent de sanctuariser le temps libre de leurs collaborateurs s'exposent à une fuite massive des talents et à une explosion des arrêts maladie, prouvant que le respect des rythmes biologiques est la condition sine qua non de la productivité durable."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Comment le numérique a-t-il modifié le rapport à l'espace de travail ?",
+"points": 1,
+"reponse_modele": "Il a supprimé les barrières physiques du bureau en rendant le travail possible partout et tout le temps.",
+"mots_cles": [
+{ "mot": "barrières physiques", "variantes": ["limites du bureau"], "poids": 0.5 },
+{ "mot": "partout", "variantes": ["n'importe où", "à distance"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel piège technologique l'auteur dénonce-t-il dans le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Le piège de la disponibilité perpétuelle et de la connexion obligatoire continue.",
+"mots_cles": [
+{ "mot": "disponibilité perpétuelle", "variantes": ["connexion constante", "joignable toujours"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle mesure légale a été intégrée pour remédier à ce problème d'hyperconnexion ?",
+"points": 1,
+"reponse_modele": "L'inscription du droit à la déconnexion dans la loi (Code du travail).",
+"mots_cles": [
+{ "mot": "droit à la déconnexion", "variantes": ["déconnexion", "éteindre les écrans"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelles attitudes opposées les directions d'entreprises adoptent-elles face aux courriels tardifs ?",
+"points": 1,
+"reponse_modele": "Certaines bloquent l'accès aux serveurs le soir tandis que d'autres exigent encore une culture du présentéisme.",
+"mots_cles": [
+{ "mot": "bloquent les serveurs", "variantes": ["ferment les mails"], "poids": 0.5 },
+{ "mot": "présentéisme", "variantes": ["culture toxique", "toujours actif"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Que risquent les sociétés qui ne respectent pas le temps de repos de leurs effectifs ?",
+"points": 1,
+"reponse_modele": "Une fuite des salariés talentueux et une multiplication des arrêts de travail pour maladie.",
+"mots_cles": [
+{ "mot": "fuite des talents", "variantes": ["démissions", "perdre les employés"], "poids": 0.5 },
+{ "mot": "arrêts maladie", "variantes": ["burn-out", "absentéisme"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Expliquez la formule latine « sine qua non » d'après son usage dans le texte.",
+"points": 1,
+"reponse_modele": "Une condition absolument obligatoire et indispensable sans laquelle rien ne peut se réaliser.",
+"mots_cles": [
+{ "mot": "indispensable", "variantes": ["obligatoire", "nécessaire", "essentielle"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est la position finale de l'auteur sur l'importance du bien-être au travail ?",
+"points": 1,
+"reponse_modele": "Le bien-être n'est plus un gadget mais la base incontournable de l'efficacité économique à long terme.",
+"mots_cles": [
+{ "mot": "incontournable", "variantes": ["essentiel", "pas optionnel"], "poids": 0.5 },
+{ "mot": "productivité durable", "variantes": ["efficacité", "performance"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel sens donne l'expression « autrement dit » au début de la conclusion ?",
+"points": 1,
+"reponse_modele": "Elle sert à reformuler l'idée précédente de façon plus frappante et condensée.",
+"mots_cles": [
+{ "mot": "reformuler", "variantes": ["résumer", "expliciter"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-028b",
+"titre": "Les conséquences de l'automatisation sur les travailleurs",
+"titre2": "Exercice 28",
+"audios": [],
+"texte": [
+"Le déploiement massif de la robotique industrielle et des logiciels de tri automatisés au cœur des usines contemporaines bouleverse la condition ouvrière. Bien que les ingénieurs vantent une réduction significative de la pénibilité physique des tâches, les retombées sociales s'avèrent infiniment plus complexes pour les exécutants. L'introduction des machines ne se traduit pas toujours par un soulagement, mais par une reconfiguration des contraintes professionnelles.",
+"D'une part, l'automatisation élimine les gestes les plus répétitifs et dangereux de la chaîne. En revanche, elle impose un rythme de contrôle infernal, le travailleur passant du statut de producteur manuel à celui de surveillant d'écrans. Cette surveillance passive génère une fatigue cognitive intense et un sentiment de dépossession de son propre savoir-faire. Par conséquent, l'aliénation mentale remplace souvent l'épuisement corporel d'autrefois.",
+"Néanmoins, les syndicats s'alarment surtout du risque d'une compression drastique des effectifs non qualifiés. Quoique le recyclage professionnel soit mis en avant par les directions, la transition s'avère douloureuse pour les ouvriers vieillissants. En définitive, l'automatisation ne sera un progrès réel que si les gains d'efficacité servent à financer la réduction du temps de travail et la formation continue de la main-d'œuvre."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel bénéfice physique direct les ingénieurs attribuent-ils à la robotisation des usines ?",
+"points": 1,
+"reponse_modele": "Une baisse importante de la pénibilité physique et des efforts corporels demandés.",
+"mots_cles": [
+{ "mot": "pénibilité physique", "variantes": ["fatigue corporelle", "efforts", "douleur"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Comment le rôle de l'ouvrier évolue-t-il suite à l'installation des machines ?",
+"points": 1,
+"reponse_modele": "Il cesse d'être un producteur direct pour devenir un simple surveillant passif derrière des écrans.",
+"mots_cles": [
+{ "mot": "surveillant", "variantes": ["contrôleur", "superviseur"], "poids": 0.6 },
+{ "mot": "écrans", "variantes": ["moniteurs", "passif"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel trouble psychologique remplace l'usure physique des ouvriers ?",
+"points": 1,
+"reponse_modele": "Une fatigue cognitive intense couplée à un sentiment d'aliénation mentale.",
+"mots_cles": [
+{ "mot": "fatigue cognitive", "variantes": ["aliénation mentale", "stress intellectuel"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Pourquoi les ouvriers ressentent-ils un sentiment de « dépossession » ?",
+"points": 1,
+"reponse_modele": "Parce qu'ils perdent l'usage et la valorisation de leur savoir-faire manuel traditionnel.",
+"mots_cles": [
+{ "mot": "savoir-faire", "variantes": ["compétences", "métier traditionnel", "gestes"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle est la principale source d'inquiétude des organisations syndicales ?",
+"points": 1,
+"reponse_modele": "La suppression massive (compression) de postes de travail non qualifiés.",
+"mots_cles": [
+{ "mot": "suppression", "variantes": ["compression", "perte", "licenciements"], "poids": 0.6 },
+{ "mot": "postes non qualifiés", "variantes": ["emplois simples", "ouvriers"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Pourquoi la reconversion est-elle plus compliquée pour une partie du personnel ?",
+"points": 1,
+"reponse_modele": "Parce que les ouvriers plus âgés ont plus de difficultés à s'adapter aux nouvelles technologies.",
+"mots_cles": [
+{ "mot": "âgés", "variantes": ["vieillissants", "en fin de carrière"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "À quelle condition l'automatisation peut-elle devenir un progrès social légitime ?",
+"points": 1,
+"reponse_modele": "Si elle sert à financer la baisse du temps de travail et la formation des salariés.",
+"mots_cles": [
+{ "mot": "temps de travail", "variantes": ["35 heures", "travailler moins"], "poids": 0.5 },
+{ "mot": "formation", "variantes": ["apprentissage", "reconversion"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Identifiez le sens précis de l'expression « compression des effectifs ».",
+"points": 1,
+"reponse_modele": "La réduction volontaire du nombre de salariés au sein d'une structure économique.",
+"mots_cles": [
+{ "mot": "réduction", "variantes": ["suppression d'emplois", "licenciement"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-029b",
+"titre": "Le travail est-il encore une source d'épanouissement personnel ?",
+"titre2": "Exercice 29",
+"audios": [],
+"texte": [
+"La question de la place du travail dans la construction de l'identité individuelle agite intensément notre société. Pour les tenants de la tradition humaniste, l'emploi demeure le vecteur privilégié de la socialisation et de l'accomplissement personnel. Bien que cette vision valorisante de l'effort productif ait longtemps fait consensus, elle se heurte aujourd'hui à une crise de sens généralisée et à une multiplication des pathologies professionnelles.",
+"En effet, l'imposition d'objectifs chiffrés absurdes et la perte d'autonomie transforment de nombreux métiers en simples tâches d'exécution vides d'intérêt. Tandis que les managers exaltent la culture d'entreprise, les salariés sur le terrain dénoncent des « bullshits jobs » ou emplois vides de sens. Par conséquent, le travail cesse d'être une source de fierté pour devenir un fardeau purement alimentaire. Autrement dit, le lien historique entre labeur et épanouissement s'est distendu au profit d'une logique financière froide.",
+"Néanmoins, des dynamiques alternatives tentent de réenchanter le quotidien professionnel. Quoique le modèle classique soit en crise, l'émergence de coopératives et d'entreprises à mission prouve que l'on peut concilier utilité sociale et bien-être individuel. En définitive, le travail ne retrouvera sa vertu émancipatrice qu'à la condition expresse de replacer l'humain au centre des décisions managériales."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle thèse la vision traditionnelle humaniste défend-elle concernant l'emploi ?",
+"points": 1,
+"reponse_modele": "Elle soutient que le travail est le moyen principal pour se socialiser et s'accomplir personnellement.",
+"mots_cles": [
+{ "mot": "socialiser", "variantes": ["socialisation", "rencontrer les autres"], "poids": 0.5 },
+{ "mot": "accomplissement", "variantes": ["épanouissement", "grandir"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "À quels obstacles majeurs cette vision traditionnelle se heurte-t-elle aujourd'hui ?",
+"points": 1,
+"reponse_modele": "À une perte de sens globale et au développement de maladies liées au stress professionnel.",
+"mots_cles": [
+{ "mot": "perte de sens", "variantes": ["crise de sens"], "poids": 0.6 },
+{ "mot": "pathologies", "variantes": ["maladies", "burn-out", "stress"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quels facteurs concrets provoquent la transformation du travail en tâche vide d'intérêt ?",
+"points": 1,
+"reponse_modele": "La fixation d'objectifs chiffrés absurdes et la réduction de l'autonomie des employés.",
+"mots_cles": [
+{ "mot": "objectifs chiffrés", "variantes": ["chiffres", "rendement"], "poids": 0.5 },
+{ "mot": "autonomie", "variantes": ["liberté d'action"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Qu'est-ce que l'expression familière anglo-saxonne « bullshit jobs » désigne dans le texte ?",
+"points": 1,
+"reponse_modele": "Des emplois perçus par les salariés eux-mêmes comme totalement inutiles et vides de sens pour la société.",
+"mots_cles": [
+{ "mot": "inutiles", "variantes": ["superflus", "vides de sens"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Que devient le travail lorsque le sentiment de fierté disparaît selon l'auteur ?",
+"points": 1,
+"reponse_modele": "Il devient une contrainte ou un fardeau purement alimentaire pour survivre.",
+"mots_cles": [
+{ "mot": "alimentaire", "variantes": ["payer les factures", "survivre", "besoin d'argent"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelles nouvelles formes d'organisations économiques tentent de changer la donne ?",
+"points": 1,
+"reponse_modele": "Les coopératives de travailleurs et les entreprises à mission.",
+"mots_cles": [
+{ "mot": "coopératives", "variantes": ["scop", "structures collaboratives"], "poids": 0.5 },
+{ "mot": "entreprises à mission", "variantes": ["utilité sociale"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est la conclusion de l'auteur pour redonner au labeur sa force émancipatrice ?",
+"points": 1,
+"reponse_modele": "Il faut impérativement replacer l'être humain au cœur des stratégies de management.",
+"mots_cles": [
+{ "mot": "humain", "variantes": ["travailleur", "personne"], "poids": 0.6 },
+{ "mot": "management", "variantes": ["décisions", "gestion"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel est le but de l'utilisation du connecteur « bien que » au début de la réflexion ?",
+"points": 1,
+"reponse_modele": "Il introduit une concession afin de nuancer l'accord passé historique avant de présenter la crise actuelle.",
+"mots_cles": [
+{ "mot": "concession", "variantes": ["nuancer", "opposition"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-030b",
+"titre": "La formation continue est-elle devenue indispensable ?",
+"titre2": "Exercice 30",
+"audios": [],
+"texte": [
+"L'époque où l'on exerçait le même métier toute sa vie à partir des connaissances acquises durant sa jeunesse est définitivement révolue. Face aux métamorphoses technologiques continuelles, la formation continue s'impose désormais comme un impératif catégorique pour tout actif. Bien que l'obtention d'un diplôme initial reste une étape fondatrice, sa validité sur le marché de l'emploi s'essouffle en quelques années à peine.",
+"En effet, l'accélération des cycles d'innovation exige une mise à jour permanente des compétences techniques et méthodologiques. Néanmoins, l'accès réel à ces dispositifs de formation souffre d'inégalités criantes. Tandis que les cadres des grandes entreprises bénéficient de plans de développement de compétences riches, les salariés des petites structures ou les travailleurs précaires en sont souvent exclus. Par conséquent, le système actuel tend à renforcer les privilèges des profils déjà les plus qualifiés.",
+"Autrement dit, la formation ne doit plus être pensée comme un outil ponctuel de correction de trajectoire, mais comme un droit universel continu. En définitive, transformer notre modèle implique de simplifier le financement de ces formations pour permettre à chacun d'anticiper les mutations industrielles plutôt que de les subir de façon dramatique."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle ancienne certitude professionnelle est aujourd'hui totalement dépassée d'après l'auteur ?",
+"points": 1,
+"reponse_modele": "L'idée que l'on peut faire le même métier toute sa carrière avec ses seules connaissances de jeunesse.",
+"mots_cles": [
+{ "mot": "même métier", "variantes": ["carrière linéaire", "unique profession"], "poids": 0.6 },
+{ "mot": "connaissances de jeunesse", "variantes": ["savoirs initiaux", "études"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle critique l'auteur adresse-t-il tacitement au diplôme initial dans le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Sa durée de validité et sa pertinence sur le marché du travail diminuent très rapidement.",
+"mots_cles": [
+{ "mot": "validité s'essouffle", "variantes": ["périme vite", "moins efficace", "court terme"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi la mise à jour des compétences est-elle devenue une obligation permanente ?",
+"points": 1,
+"reponse_modele": "En raison de la rapidité extrême des cycles d'innovation technologique.",
+"mots_cles": [
+{ "mot": "innovation", "variantes": ["technologies", "changements techniques"], "poids": 0.6 },
+{ "mot": "cycles", "variantes": ["rapidité", "accélération"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelles disparités l'auteur dénonce-t-il dans l'accès aux dispositifs d'apprentissage continus ?",
+"points": 1,
+"reponse_modele": "Les cadres des grandes structures en profitent largement, alors que les précaires et salariés de PME en sont exclus.",
+"mots_cles": [
+{ "mot": "cadres", "variantes": ["grandes entreprises"], "poids": 0.5 },
+{ "mot": "précaires", "variantes": ["petites structures", "exclus"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel effet pervers le mode de fonctionnement actuel de la formation produit-il ?",
+"points": 1,
+"reponse_modele": "Il aggrave les inégalités en donnant plus de compétences à ceux qui sont déjà très qualifiés.",
+"mots_cles": [
+{ "mot": "renforcer les privilèges", "variantes": ["aggraver les inégalités", "creuser les écarts"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Comment la conception philosophique de la formation doit-elle changer selon le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Elle doit passer d'une simple correction d'urgence à un véritable droit universel tout au long de la vie.",
+"mots_cles": [
+{ "mot": "droit universel", "variantes": ["continu", "tout au long de la vie"], "poids": 0.7 },
+{ "mot": "correction", "variantes": ["outil ponctuel", "réparation"], "poids": 0.3 }
+]
+},
+{
+"id": "Q7",
+"question": "Quel levier pratique l'auteur propose-t-il d'actionner pour démocratiser ce droit ?",
+"points": 1,
+"reponse_modele": "La simplification radicale du mode de financement de ces parcours de formation.",
+"mots_cles": [
+{ "mot": "financement", "variantes": ["argent", "budgets", "simplifier les aides"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez le sens de l'expression philosophique « impératif catégorique » utilisée au début du texte.",
+"points": 1,
+"reponse_modele": "Une obligation absolue, inconditionnelle et nécessaire à laquelle on ne peut se soustraire.",
+"mots_cles": [
+{ "mot": "obligation absolue", "variantes": ["indispensable", "nécessité totale"], "poids": 1.0 }
+]
+}
+]
 }
 ]
