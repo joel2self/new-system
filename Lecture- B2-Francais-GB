@@ -5461,5 +5461,906 @@
 ]
 }
 ]
+},
+{
+    "id": "B2-061b",
+    "titre": "La mondialisation menace-t-elle la diversité culturelle ?",
+    "titre2": "Exercice 61",
+    "audios": [],
+    "texte": [
+      "L’extension planétaire des flux commerciaux et des industries du divertissement engendre une standardisation sans précédent des modes de vie. Partout à travers le globe, les mêmes productions cinématographiques, les mêmes chaînes de restauration rapide et les mêmes codes vestimentaires semblent s'imposer. Bien que cette interconnectivité favorise un dialogue constant entre les peuples, elle fait peser le risque d'une hégémonie culturelle occidentale destructrice.",
+      "En effet, l'uniformisation des marchés économiques tend à étouffer les expressions artistiques locales et artisanales, incapables de rivaliser avec la puissance financière des multinationales. En revanche, certains sociologues soutiennent que la mondialisation n'annule pas la différence, mais qu'elle provoque un phénomène de métissage et de réappropriation locale. Par conséquent, les cultures s'influencent mutuellement plutôt qu'elles ne s'effacent. Autrement dit, nous n'assistons pas à une assimilation passive, mais à une réinvention hybride des identités.",
+      "Néanmoins, la disparition accélérée de traditions ancestrales appelle à une vigilance politique et citoyenne accrue. Quoique le concept d'exception culturelle permette de protéger certaines industries nationales par des subventions, de nombreux peuples autochtones demeurent vulnérables. En définitive, sauvegarder la diversité culturelle exige de considérer les créations de l'esprit non comme des marchandises ordinaires, mais comme le patrimoine inaliénable de l'humanité."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quel risque principal la mondialisation fait-elle peser sur les modes de vie d'après le premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Elle fait peser le risque d'une standardisation et d'une hégémonie culturelle occidentale.",
+        "mots_cles": [
+          { "mot": "standardisation", "variantes": ["uniformisation", "mêmes modes de vie"], "poids": 0.5 },
+          { "mot": "hégémonie", "variantes": ["domination occidentale", "impérialisme"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Pourquoi les expressions artistiques locales peinent-elles à survivre face aux multinationales ?",
+        "points": 1,
+        "reponse_modele": "Parce qu'elles sont incapables de rivaliser avec la puissance financière de ces grandes entreprises.",
+        "mots_cles": [
+          { "mot": "puissance financière", "variantes": ["moyens économiques", "argent"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quelle vision rassurante certains sociologues défendent-ils face à l'uniformisation ?",
+        "points": 1,
+        "reponse_modele": "Ils affirment que la mondialisation crée du métissage et des réappropriations locales plutôt qu'une destruction.",
+        "mots_cles": [
+          { "mot": "métissage", "variantes": ["hybridation", "mélange"], "poids": 0.6 },
+          { "mot": "réappropriation", "variantes": ["adaptation locale"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Que signifie l'expression « réinvention hybride des identités » dans le contexte du deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Cela signifie que les identités se mélangent et intègrent des éléments extérieurs tout en gardant une spécificité.",
+        "mots_cles": [
+          { "mot": "mélangent", "variantes": ["fusionnent"], "poids": 0.5 },
+          { "mot": "spécificité", "variantes": ["caractère local", "originalité"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "En quoi consiste le concept d'« exception culturelle » évoqué dans le texte ?",
+        "points": 1,
+        "reponse_modele": "C'est un dispositif légal permettant de protéger et financer les industries nationales face au marché mondial.",
+        "mots_cles": [
+          { "mot": "protéger", "variantes": ["défendre", "soutenir"], "poids": 0.5 },
+          { "mot": "subventions", "variantes": ["aides financières", "financement public"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Quel statut l'auteur souhaite-t-il accorder aux créations de l'esprit dans la conclusion ?",
+        "points": 1,
+        "reponse_modele": "Il demande de les traiter comme un patrimoine inaliénable de l'humanité et non comme de simples marchandises.",
+        "mots_cles": [
+          { "mot": "patrimoine inaliénable", "variantes": ["bien précieux", "richesse commune"], "poids": 0.6 },
+          { "mot": "marchandises", "variantes": ["produits commerciaux"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Trouvez un adjectif dans le troisième paragraphe signifiant « qu'on ne peut pas céder ou vendre ».",
+        "points": 1,
+        "reponse_modele": "Inaliénable (dans l'expression « patrimoine inaliénable »).",
+        "mots_cles": [
+          { "mot": "inaliénable", "variantes": [], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Quelle est la valeur logique du connecteur « bien que » au début du texte ?",
+        "points": 1,
+        "reponse_modele": "Il introduit une concession pour nuancer les aspects positifs de l'interconnectivité globale.",
+        "mots_cles": [
+          { "mot": "concession", "variantes": ["opposition", "nuance"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-062b",
+    "titre": "Les médias ont-ils le pouvoir de transformer l'opinion publique ?",
+    "titre2": "Exercice 62",
+    "audios": [],
+    "texte": [
+      "Dans nos démocraties contemporaines, la question de l’influence des canaux d'information sur la conscience collective est omniprésente. Les chaînes de télévision d’information en continu, la presse écrite et les plateformes en ligne configurent l'agenda politique en sélectionnant les sujets dignes d'intérêt. Bien que les médias prétendent n'être que de simples miroirs de l'actualité, ils exercent en réalité un pouvoir d'orientation cognitif majeur.",
+      "En effet, par le biais du cadrage journalistique, les médias imposent non seulement les thèmes de débat, mais suggèrent également la manière dont le public doit les interpréter. En revanche, les sciences de la communication nuancent cette vision d'un récepteur totalement passif. Les citoyens filtrent les messages reçus à travers le prisme de leurs convictions antérieures et de leur milieu social. Par conséquent, l'influence médiatique n'est pas un viol des foules, mais une négociation de sens. Autrement dit, les médias orientent l'attention sans dicter le vote.",
+      "Néanmoins, la polarisation croissante des contenus sur les réseaux sociaux fragilise cet équilibre critique. Quoique le pluralisme de la presse soit garanti par la loi, la concentration des grands médias entre les mains de quelques groupes industriels suscite l'inquiétude. En définitive, préserver l'autonomie de l'opinion publique requiert une éducation rigoureuse aux médias et une indépendance absolue des journalistes face aux pouvoirs économiques."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Comment les médias configurent-ils l'agenda politique selon l'auteur ?",
+        "points": 1,
+        "reponse_modele": "En sélectionnant de manière arbitraire les sujets et thèmes qui méritent l'attention du public.",
+        "mots_cles": [
+          { "mot": "sélectionnant", "variantes": ["choisissant", "triant"], "poids": 0.6 },
+          { "mot": "sujets", "variantes": ["thèmes", "actualité"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "En dehors du choix des sujets, qu'est-ce que le « cadrage journalistique » impose au public ?",
+        "points": 1,
+        "reponse_modele": "Il suggère et oriente la manière dont le public doit comprendre et interpréter l'information.",
+        "mots_cles": [
+          { "mot": "manière", "variantes": ["façon", "angle"], "poids": 0.4 },
+          { "mot": "interpréter", "variantes": ["comprendre", "analyser"], "poids": 0.6 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Pourquoi les sciences de la communication affirment-elles que le public n'est pas totalement passif ?",
+        "points": 1,
+        "reponse_modele": "Parce que les citoyens filtrent et analysent les messages selon leurs opinions politiques et leur classe sociale.",
+        "mots_cles": [
+          { "mot": "filtrent", "variantes": ["sélectionnent", "critiquent"], "poids": 0.5 },
+          { "mot": "convictions", "variantes": ["opinions", "milieu social"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quelle formule résume la nuance apportée par l'auteur sur le véritable pouvoir des médias ?",
+        "points": 1,
+        "reponse_modele": "« Les médias orientent l'attention sans dicter le vote. »",
+        "mots_cles": [
+          { "mot": "orientent l'attention", "variantes": ["choisissent les thèmes", "sans dicter"] , "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quel danger moderne menace l'esprit critique des internautes sur les réseaux sociaux ?",
+        "points": 1,
+        "reponse_modele": "La polarisation croissante des contenus en ligne.",
+        "mots_cles": [
+          { "mot": "polarisation", "variantes": ["radicalisation des opinions", "clivage"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Quelle dérive économique menace l'indépendance de la presse écrite et télévisée d'après le texte ?",
+        "points": 1,
+        "reponse_modele": "La concentration des entreprises médiatiques entre les mains de quelques puissants groupes industriels.",
+        "mots_cles": [
+        { "mot": "concentration", "variantes": ["monopole", "rachat"], "poids": 0.6 },
+{ "mot": "groupes industriels", "variantes": ["milliardaires", "pouvoir financier"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelles sont les deux conditions requises pour sauvegarder la liberté de l'opinion publique ?",
+"points": 1,
+"reponse_modele": "Former les citoyens aux médias et garantir l'indépendance des journalistes face à l'argent.",
+"mots_cles": [
+{ "mot": "éducation", "variantes": ["formation au décryptage"], "poids": 0.5 },
+{ "mot": "indépendance", "variantes": ["liberté des journalistes"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez le sens de la métaphore « le prisme de leurs convictions » dans le deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Le fait que les croyances personnelles déforment, colorent ou modifient la perception d'une information reçue.",
+"mots_cles": [
+{ "mot": "déforment", "variantes": ["filtrent", "interprètent selon"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-063b",
+"titre": "La littérature peut-elle changer notre vision de la société ?",
+"titre2": "Exercice 63",
+"audios": [],
+"texte": [
+"Depuis le célèbre engagement d’Émile Zola, la croyance dans le pouvoir d'émancipation de l'écrit est constitutive de la tradition littéraire française. Le roman réaliste, la poésie engagée et l'essai philosophique ambitionnent de soulever le voile des apparences pour dénoncer les injustices sociales. Bien que les détracteurs de la fiction la considèrent comme un simple divertissement bourgeois ou une fuite hors du réel, elle s'avère être un puissant miroir critique.",
+"En effet, en donnant un visage humain à des réalités abstraites, l'écrivain suscite l'empathie et éveille les consciences politiques. Tandis que les rapports sociologiques bruts alignent des statistiques froides, la narration littéraire plonge le lecteur dans l’intimité des opprimés. Par conséquent, la fiction force à regarder les failles du système. Autrement dit, la littérature ne se contente pas de décrire le monde, elle en subvertit les représentations dominantes.",
+"Néanmoins, l’impact d’un livre reste tributaire des habitudes de lecture, en net déclin face au raz-de-marée des formats audiovisuels. Quoique la portée immédiate d'un roman soit plus restreinte que celle d'une vidéo virale, son influence à long terme demeure profonde. En définitive, la littérature reste une arme de transformation sociale indispensable, car elle préserve la complexité du langage contre la simplification des discours populistes."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle grande figure littéraire historique est citée au début du texte comme symbole de l'engagement ?",
+"points": 1,
+"reponse_modele": "Émile Zola.",
+"mots_cles": [
+{ "mot": "Émile Zola", "variantes": ["Zola"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle critique les détracteurs de la fiction formulent-ils contre la littérature ?",
+"points": 1,
+"reponse_modele": "Ils la considèrent comme un simple divertissement bourgeois ou comme un moyen de fuir la réalité.",
+"mots_cles": [
+{ "mot": "divertissement", "variantes": ["loisir", "passetemps"], "poids": 0.5 },
+{ "mot": "fuir la réalité", "variantes": ["fuite hors du réel", "utopie"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel avantage le roman possède-t-il sur les rapports sociologiques pour dénoncer la misère ?",
+"points": 1,
+"reponse_modele": "Il remplace les statistiques froides par de l'empathie humaine en racontant l'intimité des personnages.",
+"mots_cles": [
+{ "mot": "empathie", "variantes": ["sentiments", "émotion"], "poids": 0.6 },
+{ "mot": "intimité", "variantes": ["histoire concrète", "vie humaine"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Comment l'auteur définit-il l'action de la littérature sur les « représentations dominantes » ?",
+"points": 1,
+"reponse_modele": "Elle les subvertit, c'est-à-dire qu'elle les remet en cause et renverse les idées reçues.",
+"mots_cles": [
+{ "mot": "subvertit", "variantes": ["renverse", "conteste", "bouscule"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel obstacle contemporain freine l'impact culturel de la lecture aujourd'hui ?",
+"points": 1,
+"reponse_modele": "Le net déclin de la lecture face à la concurrence massive des formats audiovisuels et vidéos.",
+"mots_cles": [
+{ "mot": "déclin", "variantes": ["baisse"], "poids": 0.4 },
+{ "mot": "audiovisuels", "variantes": ["écrans", "vidéos", "réseaux"], "poids": 0.6 }
+]
+},
+{
+"id": "Q6",
+"question": "Pourquoi la littérature protège-t-elle la démocratie selon la fin de l'article ?",
+"points": 1,
+"reponse_modele": "Parce qu'elle défend la complexité de la langue contre les simplifications des discours politiques populistes.",
+"mots_cles": [
+{ "mot": "complexité du langage", "variantes": ["richesse des mots"], "poids": 0.6 },
+{ "mot": "populistes", "variantes": ["discours simplistes"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez une locution adjectivale dans le troisième paragraphe signifiant « qui dépend de ».",
+"points": 1,
+"reponse_modele": "Tributaire de (dans l'expression « reste tributaire des habitudes »).",
+"mots_cles": [
+{ "mot": "tributaire", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle nuance grammaticale introduit le connecteur « quoique » à la fin du texte ?",
+"points": 1,
+"reponse_modele": "Il introduit une concession montrant que malgré un public restreint, l'impact du livre reste lourd à long terme.",
+"mots_cles": [
+{ "mot": "concession", "variantes": ["opposition", "nuance de portée"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-064b",
+"titre": "La préservation des langues locales face à la mondialisation",
+"titre2": "Exercice 64",
+"audios": [],
+"texte": [
+"La disparition progressive des idiomes régionaux et minoritaires constitue l'une des tragédies silencieuses de notre siècle. Sous la pression de la mondialisation économique et linguistique, l'anglais s'impose comme l'unique outil de communication internationale, tandis que les langues nationales centralisées étouffent les parlers locaux. Bien que l'homogénéisation linguistique facilite les échanges commerciaux, elle efface des pans entiers de la richesse intellectuelle humaine.",
+"En effet, une langue n'est pas un simple code technique interchangeable. Elle véhicule une cosmogonie unique, des savoirs écologiques spécifiques et une structure de pensée propre à chaque peuple. En revanche, les politiques éducatives jacobines ont longtemps réprimé l'usage des langues régionales à l'école, les qualifiant de patois archaïques. Par conséquent, la rupture de la transmission intergénérationnelle accélère l'extinction de ce patrimoine immatériel. Autrement dit, tuer une langue revient à effacer une culture.",
+"Néanmoins, des mouvements de résistance culturelle et des politiques de revitalisation linguistique redonnent espoir. Quoique le processus d'assimilation soit avancé, l'introduction des langues locales dans les programmes scolaires et les médias régionaux freine l'érosion. En définitive, la survie de la diversité linguistique mondiale exige un engagement fort des États pour accorder des droits culturels réels aux minorités."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle double pression accélère la disparition des langues locales selon le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "La mondialisation qui impose l'anglais et la centralisation des langues nationales.",
+"mots_cles": [
+{ "mot": "anglais", "variantes": ["hégémonie linguistique"], "poids": 0.5 },
+{ "mot": "langues nationales", "variantes": ["centralisation"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel est l'avantage pragmatique de l'homogénéisation de la langue ?",
+"points": 1,
+"reponse_modele": "Elle facilite et fluidifie les échanges commerciaux mondiaux.",
+"mots_cles": [
+{ "mot": "échanges commerciaux", "variantes": ["commerce", "affaires"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi une langue ne peut-elle pas être réduite à un simple outil technique selon l'auteur ?",
+"points": 1,
+"reponse_modele": "Parce qu'elle contient une vision du monde (cosmogonie), des savoirs uniques et une structure mentale.",
+"mots_cles": [
+{ "mot": "cosmogonie", "variantes": ["vision du monde", "philosophie"], "poids": 0.5 },
+{ "mot": "savoirs spécifiques", "variantes": ["structure de pensée", "traditions"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel rôle l'école traditionnelle a-t-elle joué dans le déclin des parlers régionaux ?",
+"points": 1,
+"reponse_modele": "Elle a réprimé et interdit leur usage en les qualifiant faussement de patois en retard.",
+"mots_cles": [
+{ "mot": "réprimé", "variantes": ["interdit", "puni"], "poids": 0.6 },
+{ "mot": "patois archaïques", "variantes": ["arriéré", "patois"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel événement social intrafamilial précipite l'extinction définitive d'un idiome ?",
+"points": 1,
+"reponse_modele": "La rupture de la transmission entre les générations (des parents aux enfants).",
+"mots_cles": [
+{ "mot": "transmission intergénérationnelle", "variantes": ["parents aux enfants", "ne plus parler en famille"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelles initiatives récentes permettent de freiner l'effacement de ces parlers ?",
+"points": 1,
+"reponse_modele": "Leur enseignement dans les écoles et leur utilisation au sein des médias régionaux.",
+"mots_cles": [
+{ "mot": "programmes scolaires", "variantes": ["école", "cours"], "poids": 0.5 },
+{ "mot": "médias régionaux", "variantes": ["radio", "télévision locale"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un substantif savant dans le deuxième paragraphe signifiant « un système d'explications du monde, une mythologie d'origine ».",
+"points": 1,
+"reponse_modele": "Cosmogonie (dans l'expression « véhicule une cosmogonie unique »).",
+"mots_cles": [
+{ "mot": "cosmogonie", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel est le sens de l'adjectif « jacobines » appliqué aux politiques éducatives du texte ?",
+"points": 1,
+"reponse_modele": "Qui prône une centralisation extrême et l'uniformisation par l'État en refusant les particularismes régionaux.",
+"mots_cles": [
+{ "mot": "centralisation", "variantes": ["uniformisation de l'État", "autoritaire"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-065b",
+"titre": "Le cinéma comme reflet des évolutions sociales",
+"titre2": "Exercice 65",
+"audios": [],
+"texte": [
+"Depuis l’invention des frères Lumière, le septième art s'affirme comme l’un des plus puissants chroniqueurs de l'histoire humaine. Loin de se limiter à une fonction de divertissement populaire, les œuvres cinématographiques capturent l'esprit d'une époque, ses angoisses et ses revendications politiques. Bien que le cinéma hollywoodien privilégie souvent le spectacle spectaculaire et l'évasion commerciale, le cinéma d'auteur s'attache à ausculter les mutations de la société.",
+"En effet, l'évolution des représentations des minorités, la visibilisation des luttes féministes ou la dénonciation de la crise écologique trouvent sur grand écran une caisse de résonance médiatique majeure. En revanche, le cinéma ne fait pas que refléter passivement les changements ; il contribue à les devancer et à façonner les mentalités collectives. Par conséquent, un film peut provoquer des débats législatifs majeurs. Autrement dit, l’image animée possède une force de subversion politique indéniable.",
+"Néanmoins, la dépendance du cinéma envers les financements des grands groupes industriels et des plateformes numériques fait planer un risque de censure économique invisible. Quoique la liberté de création soit proclamée, les œuvres trop subversives peinent à trouver des canaux de diffusion. En définitive, préserver la diversité et l’indépendance du cinéma est une condition vitale pour maintenir un espace de critique sociale libre."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle distinction l'auteur fait-il entre le cinéma de Hollywood et le cinéma d'auteur ?",
+"points": 1,
+"reponse_modele": "Hollywood cherche le divertissement et l'évasion commerciale, tandis que le cinéma d'auteur analyse les évolutions de la société.",
+"mots_cles": [
+{ "mot": "Hollywood", "variantes": ["spectacle", "évasion commerciale"], "poids": 0.5 },
+{ "mot": "cinéma d'auteur", "variantes": ["ausculter la société", "critique"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelles grandes thématiques contemporaines trouvent une visibilité sur le grand écran d'après le texte ?",
+"points": 1,
+"reponse_modele": "Les luttes féministes, les droits des minorités et la dénonciation de la crise de l'environnement.",
+"mots_cles": [
+{ "mot": "féministes", "variantes": ["femmes"], "poids": 0.33 },
+{ "mot": "minorités", "variantes": ["représentations"], "poids": 0.33 },
+{ "mot": "crise écologique", "variantes": ["environnement", "écologie"], "poids": 0.34 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi peut-on dire que le cinéma ne se contente pas de copier la réalité ?",
+"points": 1,
+"reponse_modele": "Parce qu'il aide à devancer les changements et modifie activement les mentalités du public.",
+"mots_cles": [
+{ "mot": "devancer", "variantes": ["anticiper", "précéder"], "poids": 0.5 },
+{ "mot": "façonner", "variantes": ["modifier les mentalités", "changer l'esprit"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel impact politique concret un film peut-il déclencher selon le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il peut provoquer des débats législatifs importants au sein du gouvernement.",
+"mots_cles": [
+{ "mot": "débats législatifs", "variantes": ["lois", "discussions politiques"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle menace pèse sur la liberté des réalisateurs de films aujourd'hui ?",
+"points": 1,
+"reponse_modele": "Le risque d'une censure économique dictée par les plateformes de streaming et les grands groupes.",
+"mots_cles": [
+{ "mot": "censure économique", "variantes": ["argent", "pressions financières"], "poids": 0.6 },
+{ "mot": "plateformes", "variantes": ["groupes industriels", "producteurs"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Trouvez un verbe au premier paragraphe qui appartient au vocabulaire médical signifiant « examiner attentivement ».",
+"points": 1,
+"reponse_modele": "Ausculter (dans l'expression « s'attache à ausculter les mutations »).",
+"mots_cles": [
+{ "mot": "ausculter", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est la conclusion de la réflexion concernant l'importance du cinéma d'auteur ?",
+"points": 1,
+"reponse_modele": "Il est indispensable de protéger son indépendance pour sauvegarder un espace de critique sociale libre.",
+"mots_cles": [
+{ "mot": "indépendance", "variantes": ["liberté"], "poids": 0.5 },
+{ "mot": "critique sociale", "variantes": ["débat", "espace libre"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Identifiez la figure de style d'exagération utilisée dans l'expression « caisse de résonance médiatique majeure ».",
+"points": 1,
+"reponse_modele": "C'est une métaphore.",
+"mots_cles": [
+{ "mot": "métaphore", "variantes": ["image"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-066b",
+"titre": "La culture est-elle un luxe ou un besoin essentiel ?",
+"titre2": "Exercice 66",
+"audios": [],
+"texte": [
+"En période de récession économique, les budgets alloués aux institutions culturelles sont systématiquement ciblés par les politiques d'austérité budgétaire. Nombreux sont les dirigeants qui considèrent les théâtres, les musées et les opéras comme des dépenses superflues réservées à une élite privilégiée. Bien que la satisfaction des besoins matériels primaires (logement, santé, alimentation) soit prioritaire, réduire la culture à un luxe accessoire constitue une grave erreur anthropologique.",
+"En effet, l'accès à la création artistique et au patrimoine est ce qui permet à l'être humain de donner du sens à son existence et de tisser des liens sociaux. Tandis que l'économie répond aux nécessités de la survie biologique, l'art répond à l'exigence de la vie spirituelle et intellectuelle. Par conséquent, priver une population d'accès à la culture aggrave l'isolement social et la déshumanisation. Autrement dit, la culture est une nourriture psychologique vitale.",
+"Néanmoins, la démocratisation culturelle reste inachevée, les barrières tarifaires et géographiques excluant encore les classes populaires. Quoique l'offre numérique donne une illusion d'accessibilité universelle, elle ne remplace pas l'expérience vivante d'un spectacle. En définitive, sanctuariser le budget de la culture et garantir sa gratuité d'accès est un devoir républicain pour assurer l'égalité des chances émancipatrices."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle mesure politique frappe les institutions artistiques lors des crises économiques ?",
+"points": 1,
+"reponse_modele": "Elles subissent des coupes et des réductions budgétaires au nom de l'austérité.",
+"mots_cles": [
+{ "mot": "austérité budgétaire", "variantes": ["coupes de budget", "politiques d'austérité"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels établissements sont mentionnés au début du texte comme étant jugés superflus par certains politiciens ?",
+"points": 1,
+"reponse_modele": "Les théâtres, les musées et les opéras.",
+"mots_cles": [
+{ "mot": "théâtres", "variantes": ["musées", "opéras"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle différence fondamentale l'auteur établit-il entre le rôle de l'économie et celui de l'art ?",
+"points": 1,
+"reponse_modele": "L'économie assure la survie biologique matérielle alors que l'art nourrit la vie de l'esprit et la réflexion.",
+"mots_cles": [
+{ "mot": "survie biologique", "variantes": ["besoins matériels", "physique"], "poids": 0.5 },
+{ "mot": "vie spirituelle", "variantes": ["esprit", "intellectuelle", "sens"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quels dangers guettent un peuple privé d'accès aux arts d'après le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Une augmentation de l'isolement social et un processus de déshumanisation.",
+"mots_cles": [
+{ "mot": "isolement social", "variantes": ["solitude", "perte de liens"], "poids": 0.5 },
+{ "mot": "déshumanisation", "variantes": ["perdre son humanité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quels obstacles concrets bloquent encore l'entrée des classes ouvrières dans les lieux d'art ?",
+"points": 1,
+"reponse_modele": "Le prix élevé (barrières tarifaires) et l'éloignement des structures (barrières géographiques).",
+"mots_cles": [
+{ "mot": "tarifaires", "variantes": ["prix", "argent", "coût"], "poids": 0.5 },
+{ "mot": "géographiques", "variantes": ["distance", "campagne", "banlieue"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle critique l'auteur adresse-t-il à la consommation de la culture sur Internet ?",
+"points": 1,
+"reponse_modele": "Il affirme qu'elle offre une illusion de gratuité mais qu'elle ne vaut pas l'expérience vécue en direct.",
+"mots_cles": [
+{ "mot": "illusion", "variantes": ["faux accès"], "poids": 0.5 },
+{ "mot": "expérience vivante", "variantes": ["spectacle réel", "direct"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle obligation morale est assignée à l'État républicain dans la conclusion ?",
+"points": 1,
+"reponse_modele": "Protéger les budgets artistiques et offrir une gratuité d'accès pour garantir l'égalité des chances.",
+"mots_cles": [
+{ "mot": "gratuité", "variantes": ["accès libre"], "poids": 0.5 },
+{ "mot": "égalité des chances", "variantes": ["républicain"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un synonyme dans le texte de l'adjectif « inutiles » ou « non nécessaires ».",
+"points": 1,
+"reponse_modele": "Superflues (ou accessoire).",
+"mots_cles": [
+{ "mot": "superflues", "variantes": ["accessoire"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-067b",
+"titre": "Les traditions doivent-elles évoluer avec les nouvelles générations ?",
+"titre2": "Exercice 67",
+"audios": [],
+"texte": [
+"Le débat entre le conservatisme rituel et la nécessité de modernisation agite de nombreuses communautés à travers le monde. Les traditions sont souvent perçues comme des piliers immuables, garants de la cohésion sociale et de la continuité historique d'un groupe humain. Bien que le respect des coutumes ancestrales permette d'enraciner l'identité collective, vouloir les figer dans un passé mythique s'avère contre-productif.",
+"En effet, une tradition déconnectée des valeurs éthiques contemporaines suscite le rejet légitime de la part des jeunes générations. En revanche, loin de vouloir tout détruire, la jeunesse aspire à élaguer les rituels discriminatoires ou obsolètes pour ne conserver que l'essence humaniste de l'héritage. Par conséquent, la métamorphose des coutumes est la condition même de leur survie. Autrement dit, une tradition qui refuse d'évoluer se transforme en un dogme mort et finit par disparaître.",
+"Néanmoins, les partisans de l'orthodoxie culturelle s'opposent à toute modification, craignant une dissolution de l'identité face au modèle mondialisé. Quoique le risque d'acculturation soit réel, l'adaptation reste un signe de vitalité. En définitive, la transmission réussie d’un patrimoine implique un équilibre subtil : honorer la mémoire du passé tout en accordant aux enfants le droit d'inventer leurs propres rituels."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle fonction positive est traditionnellement attribuée au respect des coutumes dans le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Elles assurent la cohésion de la société, l'enracinement et la continuité de l'histoire d'un groupe.",
+"mots_cles": [
+{ "mot": "cohésion sociale", "variantes": ["solidarité", "unité"], "poids": 0.5 },
+{ "mot": "continuité", "variantes": ["histoire", "identité", "enraciner"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle erreur commet-on lorsque l'on refuse tout changement aux rituels d'après le texte ?",
+"points": 1,
+"reponse_modele": "On commet l'erreur de les figer, ce qui s'avère totalement contre-productif.",
+"mots_cles": [
+{ "mot": "figer", "variantes": ["bloquer dans le passé"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle est l'intention réelle de la jeunesse vis-à-vis du patrimoine hérité ?",
+"points": 1,
+"reponse_modele": "Elle ne veut pas détruire mais nettoyer (élaguer) les aspects injustes pour garder les valeurs humaines.",
+"mots_cles": [
+{ "mot": "élaguer", "variantes": ["nettoyer", "supprimer les discriminations"], "poids": 0.6 },
+{ "mot": "conserver l'essence", "variantes": ["garder les valeurs"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Que devient une coutume qui refuse catégoriquement toute mise à jour selon le texte ?",
+"points": 1,
+"reponse_modele": "Elle se transforme en un dogme mort et finit par s'éteindre.",
+"mots_cles": [
+{ "mot": "dogme mort", "variantes": ["règle rigide", "disparître"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle est la peur principale des défenseurs de l'orthodoxie culturelle ?",
+"points": 1,
+"reponse_modele": "Ils redoutent une dissolution totale de leur identité face à la mondialisation.",
+"mots_cles": [
+{ "mot": "dissolution", "variantes": ["perte", "effacement"], "poids": 0.6 },
+{ "mot": "mondialisé", "variantes": ["mondialisation"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel équilibre la conclusion préconise-t-elle pour réussir la transmission du patrimoine ?",
+"points": 1,
+"reponse_modele": "Respecter l'histoire du passé tout en laissant aux nouvelles générations la liberté de créer de nouveaux codes.",
+"mots_cles": [
+{ "mot": "honorer la mémoire", "variantes": ["respecter le passé"], "poids": 0.5 },
+{ "mot": "inventer", "variantes": ["créer leurs propres rituels", "liberté"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un verbe imagé utilisé au deuxième paragraphe signifiant « couper les branches inutiles, nettoyer ».",
+"points": 1,
+"reponse_modele": "Élaguer (dans l'expression « aspire à élaguer les rituels »).",
+"mots_cles": [
+{ "mot": "élaguer", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez le concept d'« acculturation » mentionné à la fin du texte.",
+"points": 1,
+"reponse_modele": "La perte totale ou la modification profonde de sa propre culture au contact d'une culture dominante étrangère.",
+"mots_cles": [
+{ "mot": "perte de sa culture", "variantes": ["assimilation extérieure"], "poids": 1.0 }
+]
+}
+]
+},
+{
+    "id": "B2-068b",
+    "titre": "L'influence des célébrités sur les comportements des jeunes",
+    "titre2": "Exercice 68",
+    "audios": [],
+    "texte": [
+      "À l'ère de l'omniprésence des plateformes de partage de vidéos et des influenceurs numériques, les figures de proue de la culture populaire exercent une fascination sans précédent sur les adolescents. Qu'il s'agisse de musiciens, d'athlètes de haut niveau ou de créateurs de contenu, ces icônes modernes dictent les modes de consommation et façonnent les aspirations de leur public. Bien que cette identification mimétique puisse parfois stimuler l'engagement citoyen ou encourager des modes de vie sains, elle comporte des risques de dérive comportementale majeurs.",
+      "En effet, l'exhibition permanente d'un luxe ostentatoire et de standards esthétiques irréalistes engendre fréquemment un sentiment d'inadéquation sociale et une anxiété chronique chez les adolescents fragiles. En revanche, l'illusion de proximité entretenue par les interactions virtuelles abolit la distance critique indispensable face aux messages publicitaires cachés. Par conséquent, les jeunes se transforment en consommateurs captifs de produits souvent superflus ou nocifs. Autrement dit, l'autorité morale a été insidieusement transférée des institutions traditionnelles vers des marchands d'attention.",
+      "Néanmoins, condamner unilatéralement cette culture de l'image s'avère stérile. Quoique la quête de profit des agences de marketing soit agressive, les célébrités peuvent aussi devenir des vecteurs de sensibilisation pour des causes climatiques ou humanitaires. En définitive, protéger la jeunesse exige de développer une éducation rigoureuse aux médias afin d'armer les esprits contre la manipulation commerciale et de restaurer le libre arbitre face au culte de la personnalité."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quel impact l'auteur attribue-t-il aux célébrités sur les habitudes des adolescents dans le premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Elles dictent les modes de consommation et modèlent les aspirations de la jeunesse.",
+        "mots_cles": [
+          { "mot": "consommation", "variantes": ["modes", "achats"], "poids": 0.5 },
+          { "mot": "aspirations", "variantes": ["ambitions", "rêves", "objectifs"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quel aspect positif l'identification aux icônes modernes peut-elle parfois avoir selon le texte ?",
+        "points": 1,
+        "reponse_modele": "Elle peut stimuler l'engagement des citoyens ou encourager des habitudes de vie saines.",
+        "mots_cles": [
+          { "mot": "engagement citoyen", "variantes": ["citoyenneté", "causes"], "poids": 0.5 },
+          { "mot": "vie saines", "variantes": ["santé", "habitudes positives"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quelles conséquences psychologiques la mise en scène de critères esthétiques irréalistes produit-elle chez les jeunes ?",
+        "points": 1,
+        "reponse_modele": "Elle provoque un sentiment d'inadéquation sociale et une anxiété chronique.",
+        "mots_cles": [
+          { "mot": "inadéquation sociale", "variantes": ["mal-être", "infériorité", "décalage"], "poids": 0.5 },
+          { "mot": "anxiété", "variantes": ["angoisse", "stress"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Pourquoi la proximité virtuelle avec les influenceurs affaiblit-elle le jugement des internautes ?",
+        "points": 1,
+        "reponse_modele": "Parce qu'elle supprime la distance critique nécessaire pour repérer la publicité dissimulée.",
+        "mots_cles": [
+          { "mot": "distance critique", "variantes": ["jugement", "discernement"], "poids": 0.6 },
+          { "mot": "publicité dissimulée", "variantes": ["placements de produits", "messages cachés"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quel transfert d'autorité l'auteur dénonce-t-il à travers la reformulation « autrement dit » ?",
+        "points": 1,
+        "reponse_modele": "L'autorité morale est passée des institutions traditionnelles vers les créateurs de contenu qui vendent de l'attention.",
+        "mots_cles": [
+          { "mot": "institutions traditionnelles", "variantes": ["parents", "école", "famille"], "poids": 0.5 },
+          { "mot": "marchands d'attention", "variantes": ["influenceurs", "célébrités"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Comment les célébrités peuvent-elles agir de façon positive pour la société d'après le troisième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "En devenant des vecteurs de sensibilisation pour des causes humanitaires ou environnementales.",
+        "mots_cles": [
+          { "mot": "sensibilisation", "variantes": ["alerter", "informer"], "poids": 0.5 },
+          { "mot": "causes", "variennes": ["humanitaires", "climatiques", "planète"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Quelle solution structurelle l'auteur avance-t-il en conclusion pour protéger le public adolescent ?",
+        "points": 1,
+        "reponse_modele": "Mettre en place une éducation rigoureuse aux médias pour sauvegarder leur libre arbitre.",
+        "mots_cles": [
+          { "mot": "éducation aux médias", "variantes": ["école", "apprentissage"], "poids": 0.6 },
+          { "mot": "libre arbitre", "variantes": ["autonomie de pensée", "choix"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Trouvez un adjectif dans le second paragraphe signifiant « qui cherche à attirer l'attention par un étalage excessif de richesses ».",
+        "points": 1,
+        "reponse_modele": "Ostentatoire (dans l'expression « un luxe ostentatoire »).",
+        "mots_cles": [
+          { "mot": "ostentatoire", "variantes": [], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-069b",
+    "titre": "La liberté artistique doit-elle connaître certaines limites ?",
+    "titre2": "Exercice 69",
+    "audios": [],
+    "texte": [
+      "Pilier fondamental des sociétés démocratiques, la liberté de création artistique est souvent perçue comme un droit absolu et inaliénable. Les artistes, par leur capacité à bousculer les conventions et à interroger les angles morts du pouvoir, agissent comme des vigies de la conscience collective. Bien que la censure d'État ait historiquement servi à museler la dissidence politique, les mutations sociétales contemporaines réactivent le débat autour des frontières de l'expression graphique et littéraire.",
+      "En effet, l'émergence d'œuvres jugées offensantes pour des motifs religieux ou éthiques suscite de vives tensions dans l'espace public. Tandis que les défenseurs de l'orthodoxie réclament des sanctions judiciaires au nom de la cohésion sociale, les créateurs revendiquent le droit au blasphème et à l'irrévérence. En revanche, le législateur doit arbitrer entre la protection des libertés et l'interdiction des discours de haine ou d'incitation à la violence. Par conséquent, tracer une ligne de démarcation claire s'avère d'une complexité juridique extrême. Autrement dit, la liberté des uns s'arrête là où commence la dignité des autres.",
+      "Néanmoins, restreindre préventivement l'art sous la pression du politiquement correct ferait peser un risque d'appauvrissement culturel majeur. Quoique le respect des sensibilités soit légitime, la confrontation avec l'altérité et le dérangement intellectuel sont indispensables à la vitalité démocratique. En définitive, la régulation de l'art ne doit pas céder aux passions moralisatrices, mais se fonder sur le droit constitutionnel strict pour préserver le pluralisme des idées."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quel rôle social l'auteur attribue-t-il aux artistes dans le premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Ils agissent comme des vigies de la conscience collective en bousculant les conventions sociales et politiques.",
+        "mots_cles": [
+          { "mot": "vigies", "variantes": ["gardiens", "sentinelles"], "poids": 0.5 },
+          { "mot": "conventions", "variantes": ["pouvoir", "habitudes", "règles"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Dans quel but historique la censure étatique a-t-elle été employée d'après le texte ?",
+        "points": 1,
+        "reponse_modele": "Elle a historiquement servi à faire taire et museler la dissidence politique.",
+        "mots_cles": [
+          { "mot": "museler", "variantes": ["faire taire", "bloquer", "censurer"], "poids": 0.5 },
+          { "mot": "dissidence", "variantes": ["opposants", "critiques", "politique"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quelles revendications opposées s'affrontent au sujet des œuvres jugées choquantes ?",
+        "points": 1,
+        "reponse_modele": "Les traditionalistes demandent des sanctions juridiques, tandis que les créateurs réclament le droit à l'irrévérence.",
+        "mots_cles": [
+          { "mot": "sanctions", "variantes": ["punitions", "tribunaux"], "poids": 0.5 },
+          { "mot": "irrévérence", "variantes": ["blasphème", "liberté totale", "provocation"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quelles sont les limites légales indiscutables que l'art ne doit pas franchir d'après le deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Les discours de haine et l'incitation explicite à la violence.",
+        "mots_cles": [
+          { "mot": "haine", "variantes": ["propos haineux", "discrimination"], "poids": 0.5 },
+          { "mot": "violence", "variantes": ["incitation à la violence"], "poids": 0.5 }
+        ]
+      },
+      {
+"id": "Q5",
+"question": "Expliquez le sens de la reformulation « autrement dit » introduite par l'auteur à la fin du deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Elle rappelle le principe selon lequel la liberté d'expression doit respecter la dignité humaine d'autrui.",
+"mots_cles": [
+{ "mot": "dignité", "variantes": ["respect humain"], "poids": 0.6 },
+{ "mot": "respecter", "variantes": ["limite"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel risque l'auteur identifie-t-il en cas de censure préventive liée au « politiquement correct » ?",
+"points": 1,
+"reponse_modele": "Un risque d'appauvrissement culturel majeur pour toute la société.",
+"mots_cles": [
+{ "mot": "appauvrissement culturel", "variantes": ["perte de créativité", "vide culturel", "uniformisation"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Pourquoi le dérangement intellectuel provoqué par l'art est-il jugé nécessaire à la démocratie ?",
+"points": 1,
+"reponse_modele": "Parce qu'il force à se confronter à l'altérité, maintenant ainsi la vitalité du débat et du pluralisme.",
+"mots_cles": [
+{ "mot": "altérité", "variantes": ["différence", "autres points de vue"], "poids": 0.5 },
+{ "mot": "pluralisme", "variantes": ["débat", "opinions diverses"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le premier paragraphe signifiant « qu'on ne peut pas enlever ou retirer à l'individu ».",
+"points": 1,
+"reponse_modele": "Inaliénable (dans l'expression « un droit absolu et inaliénable »).",
+"mots_cles": [
+{ "mot": "inaliénable", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-070b",
+"titre": "Peut-on construire son identité entre plusieurs cultures ?",
+"titre2": "Exercice 70",
+"audios": [],
+"texte": [
+"À l'ère des migrations globales et du brassage des populations, la construction identitaire des enfants issus de l'immigration s'avère complexe. Longtemps, les modèles d'intégration traditionnels ont postulé qu'il fallait choisir son camp, exigeant une assimilation culturelle totale pour garantir la loyauté nationale. Bien que cette vision rigide ait façonné les politiques d'intégration du siècle dernier, la réalité psychologique des individus biculturels dément ce schéma simpliste.",
+"En effet, grandir au confluent de deux univers linguistiques et mémoriels constitue une richesse cognitive et humaine indéniable. L'individu développe une souplesse d'esprit et une aptitude innée à l'interculturalité. En revanche, ce positionnement intermédiaire expose parfois les jeunes à une double crise d'illégitimité, perçus comme étrangers dans leur pays de résidence et comme inauthentiques dans leur pays d'origine. Par conséquent, l'absence de reconnaissance peut engendrer un sentiment de déracinement douloureux. Autrement dit, l'identité hybride n'est pas une simple juxtaposition, mais une synthèse intime en constante évolution.",
+"Néanmoins, les sociologues démontrent que le métissage culturel est un atout majeur dans un monde interconnecté. Quoique le repli identitaire menace les sociétés polarisées, la capacité à jeter des ponts entre les cultures s'impose comme une compétence vitale. En définitive, construire son identité au carrefour de plusieurs héritages est parfaitement réalisable, pourvu que la société d'accueil valorise la diversité comme une force collective plutôt que comme une menace pour l'unité."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Qu'exigeaient les anciens modèles d'intégration des populations immigrées d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Ils exigeaient une assimilation culturelle totale en demandant de choisir une seule culture.",
+"mots_cles": [
+{ "mot": "assimilation", "variantes": ["intégration forcée", "abandonner sa culture"], "poids": 0.6 },
+{ "mot": "choisir", "variantes": ["un seul camp"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels bienfaits intellectuels ou relationnels l'auteur associe-t-il au fait de grandir entre deux cultures ?",
+"points": 1,
+"reponse_modele": "Le développement d'une agilité d'esprit (souplesse) et d'aptitudes naturelles à l'interculturalité.",
+"mots_cles": [
+{ "mot": "souplesse d'esprit", "variantes": ["agilité", "flexibilité cognitive"], "poids": 0.5 },
+{ "mot": "interculturalité", "variantes": ["relations interculturelles", "échanges"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Expliquez l'expression « double crise d'illégitimité » employée dans le deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Le sentiment d'être rejeté et considéré comme étranger à la fois dans le pays où l'on vit et dans son pays d'origine.",
+"mots_cles": [
+{ "mot": "pays de résidence", "variantes": ["pays où l'on vit"], "poids": 0.5 },
+{ "mot": "pays d'origine", "variantes": ["racines"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle conséquence psychologique négative peut naître d'un manque de reconnaissance sociale ?",
+"points": 1,
+"reponse_modele": "Elle peut provoquer un sentiment de déracinement douloureux chez l'individu.",
+"mots_cles": [
+{ "mot": "déracinement", "variantes": ["perte de repères", "isolement", "ne pas savoir qui on est"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Comment l'auteur définit-il l'« identité hybride » à travers la reformulation « autrement dit » ?",
+"points": 1,
+"reponse_modele": "Comme une synthèse intime en évolution permanente, et non comme l'accumulation de morceaux séparés.",
+"mots_cles": [
+{ "mot": "synthèse intime", "variantes": ["mélange personnel", "harmonie"], "poids": 0.6 },
+{ "mot": "évolution", "variantes": ["changement", "mouvement"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel écueil ou danger menace les sociétés contemporaines polarisées d'après le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Le risque de repli identitaire (ou communautarisme).",
+"mots_cles": [
+{ "mot": "repli identitaire", "variantes": ["fermeture", "communautarisme"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "À quelle condition la construction d'une identité plurielle est-elle une réussite selon la conclusion ?",
+"points": 1,
+"reponse_modele": "À condition que la société d'accueil considère la diversité comme une richesse commune plutôt que comme un danger.",
+"mots_cles": [
+{ "mot": "richesse commune", "variantes": ["force collective", "atout"], "poids": 0.6 },
+{ "mot": "danger", "variantes": ["menace pour l'unité"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un nom masculin dans le deuxième paragraphe signifiant « le point de rencontre ou de réunion de deux cours d'eau ou de deux éléments ».",
+"points": 1,
+"reponse_modele": "Confluent (dans l'expression « au confluent de deux univers »).",
+"mots_cles": [
+{ "mot": "confluent", "variantes": [], "poids": 1.0 }
+]
+}
+]
 }
 ]
