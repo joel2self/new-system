@@ -3650,5 +3650,910 @@
 ]
 }
 ]
+},
+{
+    "id": "B2-041b",
+    "titre": "L'intelligence artificielle représente-t-elle une opportunité ou une menace pour l'humanité ?",
+    "titre2": "Exercice 41",
+    "audios": [],
+    "texte": [
+      "Le déploiement fulgurant des modèles d'intelligence artificielle générative suscite des passions contrastées au sein de la communauté scientifique et civile. D'un côté, les technophiles enthousiastes considèrent l'IA comme un levier sans précédent pour éradiquer des maladies complexes, optimiser la gestion des ressources planétaires et libérer l'humain des tâches répétitives. Bien que ces perspectives soient porteuses d'un espoir indéniable, elles s'accompagnent de risques existentiels majeurs.",
+      "En effet, de nombreux experts s'alarment d'une possible perte de contrôle face à des systèmes autonomes dont les processus de décision demeurent opaques. En revanche, l'automatisation accélérée menace d'obsolescence des pans entiers du marché de l'emploi, touchant désormais des professions intellectuelles hautement qualifiées. Par conséquent, cette transition brutale pourrait aggraver les fractures économiques mondiales. Autrement dit, l'IA agit comme un miroir grossissant de nos propres failles sociétales, amplifiant les biais et les discriminations si elle n'est pas régulée.",
+      "Néanmoins, l'adoption récente de cadres législatifs internationaux tente de baliser cette technologie disruptive. Quoique la vitesse du progrès technologique dépasse souvent le temps de la réflexion politique, une gouvernance éthique globale s'avère indispensable. En définitive, l'intelligence artificielle ne sera une opportunité que si elle est mise au service du bien commun et soumise à un contrôle démocratique permanent."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quels sont les bienfaits potentiels de l'intelligence artificielle mentionnés au début du texte ?",
+        "points": 1,
+        "reponse_modele": "Elle pourrait aider à éradiquer des maladies complexes, optimiser les ressources de la planète et libérer l'homme des tâches répétitives.",
+        "mots_cles": [
+          { "mot": "maladies", "variantes": ["médical", "santé"], "poids": 0.33 },
+          { "mot": "ressources", "variantes": ["planétaires", "environnement"], "poids": 0.33 },
+          { "mot": "tâches", "variantes": ["répétitives", "travail"], "poids": 0.34 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Pourquoi la nature des décisions prises par l'IA inquiète-t-elle les experts ?",
+        "points": 1,
+        "reponse_modele": "Parce que les processus de décision de ces systèmes autonomes restent opaques, ce qui fait craindre une perte de contrôle.",
+        "mots_cles": [
+          { "mot": "opaques", "variantes": ["boîte noire", "mystérieux", "non transparents"], "poids": 0.6 },
+          { "mot": "perte de contrôle", "variantes": ["autonomes", "échapper à l'humain"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quelle est la particularité de la menace que fait peser l'IA sur le marché de l'emploi aujourd'hui ?",
+        "points": 1,
+        "reponse_modele": "Elle touche désormais des professions intellectuelles hautement qualifiées et pas seulement des métiers manuels.",
+        "mots_cles": [
+          { "mot": "professions intellectuelles", "variantes": ["cols blancs", "métiers qualifiés"], "poids": 0.7 },
+          { "mot": "hautement qualifiées", "variantes": ["diplômés", "experts"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Expliquez l'expression « un miroir grossissant de nos propres failles sociétales » dans le contexte.",
+        "points": 1,
+        "reponse_modele": "Cela signifie que l'IA reflète et amplifie les préjugés, les biais et les discriminations déjà présents dans notre société.",
+        "mots_cles": [
+          { "mot": "amplifie", "variantes": ["reflète", "aggrave", "grossit"], "poids": 0.5 },
+          { "mot": "biais", "variantes": ["discriminations", "préjugés", "failles"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quel obstacle principal freine l'efficacité de la régulation politique de l'IA ?",
+        "points": 1,
+        "reponse_modele": "La vitesse fulgurante du progrès technologique qui surpasse le temps nécessaire à la réflexion et à la décision politique.",
+        "mots_cles": [
+          { "mot": "vitesse", "variantes": ["rapidité", "rythme", "dépasse"], "poids": 0.6 },
+          { "mot": "politique", "variantes": ["législatif", "lois", "gouvernance"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Trouvez un synonyme dans le troisième paragraphe qui qualifie une technologie qui bouleverse les habitudes.",
+        "points": 1,
+        "reponse_modele": "Disruptive (ou innovante / révolutionnaire).",
+        "mots_cles": [
+          { "mot": "disruptive", "variantes": ["rupture"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "À quelle condition ultime l'IA deviendra-t-elle une opportunité selon l'auteur ?",
+        "points": 1,
+        "reponse_modele": "Elle doit être mise au service du bien commun et rester sous un contrôle démocratique permanent.",
+        "mots_cles": [
+          { "mot": "bien commun", "variantes": ["intérêt général", "humanité"], "poids": 0.5 },
+          { "mot": "contrôle démocratique", "variantes": ["citoyen", "lois", "éthique"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Quelle nuance apporte l'utilisation du connecteur « quoique » au début du dernier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Il introduit une concession, montrant la difficulté de légiférer tout en affirmant que c'est indispensable.",
+        "mots_cles": [
+          { "mot": "concession", "variantes": ["opposition", "malgré"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-042b",
+    "titre": "Peut-on encore préserver sa vie privée à l'ère numérique ?",
+    "titre2": "Exercice 42",
+    "audios": [],
+    "texte": [
+      "À l'ère de l'hyperconnexion, la notion même d'intimité subit une érosion sans précédent. Chaque action en ligne, de la simple requête sur un moteur de recherche à l'achat par carte bancaire, génère une traînée d'empreintes numériques exploitées par des courtiers en données. Bien que la plupart des utilisateurs affirment n'avoir « rien à cacher », cette indifférence apparente masque une perte insidieuse de contrôle sur leur souveraineté individuelle.",
+      "En effet, le modèle économique dominant d'Internet repose sur ce que les spécialistes nomment le capitalisme de surveillance. Les plateformes gratuites monétisent l'attention en établissant des profils psychologiques ultra-précis à des fins publicitaires. Tandis que les internautes pensent naviguer librement, ils sont en réalité enfermés dans des bulles algorithmiques. Par conséquent, la frontière entre sphère publique et espace privé s'est totalement estompée. Autrement dit, notre vie intime est devenue une marchandise comme une autre.",
+      "Néanmoins, une prise de conscience salutaire émerge face à ces dérives panoptiques. Quoique les géants technologiques déploient des trésors d'ingéniosité pour maintenir leur emprise, les outils de chiffrement et les navigateurs respectueux de la vie privée gagnent en popularité. En définitive, la préservation de la vie privée ne relève plus d'un simple choix technique individuel, mais d'un acte de résistance politique pour sauvegarder nos libertés fondamentales."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Comment nos empreintes numériques quotidiennes sont-elles collectées d'après le premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Chaque action comme une recherche sur le web ou un achat en ligne laisse des traces exploitées par des courtiers en données.",
+        "mots_cles": [
+          { "mot": "action", "variantes": ["recherche", "achat"], "poids": 0.5 },
+          { "mot": "courtiers en données", "variantes": ["entreprises", "data brokers"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quelle est la conséquence de l'argument populaire « je n'ai rien à cacher » selon l'auteur ?",
+        "points": 1,
+        "reponse_modele": "Cette idée cache une perte progressive et dangereuse de contrôle sur la souveraineté et la liberté individuelle.",
+        "mots_cles": [
+          { "mot": "perte de contrôle", "variantes": ["abandon", "renoncement"], "poids": 0.6 },
+          { "mot": "souveraineté", "variantes": ["liberté", "choix"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Sur quel mécanisme financier repose la gratuité de nombreuses plateformes en ligne ?",
+        "points": 1,
+        "reponse_modele": "Elle repose sur la monétisation de l'attention des utilisateurs via la création de profils psychologiques publicitaires.",
+        "mots_cles": [
+          { "mot": "monétisation", "variantes": ["vente", "gagner de l'argent"], "poids": 0.5 },
+          { "mot": "profils psychologiques", "variantes": ["publicité ciblée", "données"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Que signifie le concept de « bulles algorithmiques » mentionné dans le deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "C'est un environnement virtuel fermé où l'utilisateur ne reçoit que des informations sélectionnées pour lui par des algorithmes.",
+        "mots_cles": [
+          { "mot": "environnement fermé", "variantes": ["isolement", "bulle de filtres"], "poids": 0.5 },
+          { "mot": "sélectionnées", "variantes": ["algorithmes", "profilage"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q5",
+         "question": "Quelle expression le texte emploie-t-il pour décrire une société où tout le monde est constamment surveillé ?",
+"points": 1,
+"reponse_modele": "Des dérives panoptiques.",
+"mots_cles": [
+{ "mot": "panoptiques", "variantes": ["dérives panoptiques"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelles solutions techniques les utilisateurs adoptent-ils pour se protéger ?",
+"points": 1,
+"reponse_modele": "Ils utilisent des outils de chiffrement et des navigateurs web qui respectent la vie privée.",
+"mots_cles": [
+{ "mot": "chiffrement", "variantes": ["cryptage", "sécurité"], "poids": 0.5 },
+{ "mot": "navigateurs", "variantes": ["outils respectueux"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Pourquoi la défense de la vie privée dépasse-t-elle le cadre individuel selon la conclusion ?",
+"points": 1,
+"reponse_modele": "Parce qu'elle constitue désormais un acte de résistance politique nécessaire pour protéger les libertés publiques.",
+"mots_cles": [
+{ "mot": "résistance politique", "variantes": ["combat collectif", "engagement"], "poids": 0.6 },
+{ "mot": "libertés fondamentales", "variantes": ["démocratie", "droits"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est l'utilité du connecteur « autrement dit » au milieu du deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il permet de reformuler une idée complexe de façon plus directe et percutante pour le lecteur.",
+"mots_cles": [
+{ "mot": "reformuler", "variantes": ["résumer", "expliciter", "simplifier"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-043b",
+"titre": "Les réseaux sociaux favorisent-ils la liberté d'expression ou la désinformation ?",
+"titre2": "Exercice 43",
+"audios": [],
+"texte": [
+"L'avènement des réseaux sociaux a démocratisé la parole publique d'une manière inédite dans l'histoire de l'humanité. Autrefois réservée aux médias traditionnels, la diffusion de l'information est désormais accessible à n'importe quel citoyen muni d'un smartphone. Bien que cette horizontalité technique ait initialement été célébrée comme une victoire éclatante de la liberté d'expression, elle a rapidement révélé sa face sombre.",
+"En effet, l'architecture même de ces plateformes, régie par la course à l'engagement, favorise la viralité des contenus sensationnels ou conflictuels. En revanche, les rumeurs et les théories complotistes se propagent à une vitesse nettement supérieure aux corrections factuelles. Par conséquent, l'espace public virtuel est devenu un terrain fertile pour la désinformation de masse. Autrement dit, la liberté de s'exprimer s'est transformée, pour certains, en une liberté de manipuler l'opinion sans filtre éditorial.",
+"Néanmoins, censurer massivement ces réseaux poserait un risque majeur pour le débat démocratique. Quoique la régulation des contenus algorithmiques soit complexe à mettre en œuvre, elle s'impose comme une nécessité impérieuse. En définitive, l'avenir de l'information dépendra de notre capacité collective à concilier la liberté de parole et la responsabilité éditoriale des géants du web."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel changement majeur les réseaux sociaux ont-ils apporté à la diffusion de la parole publique ?",
+"points": 1,
+"reponse_modele": "Ils ont démocratisé la parole en permettant à n'importe quel citoyen de diffuser des informations sans passer par les médias traditionnels.",
+"mots_cles": [
+{ "mot": "démocratisé", "variantes": ["ouvert à tous", "horizontalité"], "poids": 0.5 },
+{ "mot": "médias traditionnels", "variantes": ["journaux", "télévision"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Pourquoi l'architecture des réseaux sociaux favorise-t-elle les contenus choquants ?",
+"points": 1,
+"reponse_modele": "Parce que leur fonctionnement est basé sur la course à l'engagement, qui privilégie les contenus sensationnels pour capter l'attention.",
+"mots_cles": [
+{ "mot": "engagement", "variantes": ["clics", "interactions", "attention"], "poids": 0.6 },
+{ "mot": "sensationnels", "variantes": ["conflictuels", "choquants"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle dissymétrie l'auteur observe-t-il entre la propagation des fausses informations et celle de la vérité ?",
+"points": 1,
+"reponse_modele": "Les rumeurs et théories du complot se diffusent beaucoup plus vite que les rectifications basées sur les faits.",
+"mots_cles": [
+{ "mot": "plus vite", "variantes": ["vitesse supérieure", "viralité"], "poids": 0.6 },
+{ "mot": "corrections factuelles", "variantes": ["vérité", "fact-checking"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "En quoi la liberté d'expression a-t-elle été dévoyée selon le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Elle est devenue pour certains un moyen de manipuler l'opinion publique en l'absence de tout filtre ou contrôle éditorial.",
+"mots_cles": [
+{ "mot": "manipuler", "variantes": ["tromper", "désinformer"], "poids": 0.6 },
+{ "mot": "filtre éditorial", "variantes": ["contrôle", "vérification"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Pourquoi l'auteur estime-t-il que la censure totale des réseaux sociaux serait dangereuse ?",
+"points": 1,
+"reponse_modele": "Parce que cela menacerait directement le débat démocratique et la liberté d'opinion.",
+"mots_cles": [
+{ "mot": "débat démocratique", "variantes": ["démocratie", "liberté d'expression"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est la valeur logique du connecteur « par conséquent » au milieu du texte ?",
+"points": 1,
+"reponse_modele": "Il introduit la conséquence logique des mécanismes algorithmiques décrits précédemment.",
+"mots_cles": [
+{ "mot": "conséquence", "variantes": ["résultat logique"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle solution d'équilibre est proposée en fin de texte ?",
+"points": 1,
+"reponse_modele": "Associer la liberté de parole des internautes à une responsabilité éditoriale stricte des entreprises technologiques.",
+"mots_cles": [
+{ "mot": "liberté de parole", "variantes": ["expression"], "poids": 0.5 },
+{ "mot": "responsabilité éditoriale", "variantes": ["Régulation des géants", "lois"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le dernier paragraphe signifiant « absolument obligatoire ».",
+"points": 1,
+"reponse_modele": "Impérieuse (dans l'expression « nécessité impérieuse »).",
+"mots_cles": [
+{ "mot": "impérieuse", "variantes": ["obligatoire"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-044b",
+"titre": "La dépendance aux écrans chez les jeunes générations",
+"titre2": "Exercice 44",
+"audios": [],
+"texte": [
+"La présence hégémonique des écrans dans le quotidien des adolescents soulève de vives inquiétudes chez les professionnels de la santé et de l'éducation. Des consoles de jeux aux applications de vidéos courtes, les mineurs passent en moyenne plusieurs heures par jour captivés par des stimulations visuelles permanentes. Bien que les outils numériques offrent des opportunités d'apprentissage interactif indéniables, leur usage excessif altère le développement cognitif des plus jeunes.",
+"En effet, la surexposition précoce aux écrans est corrélée à une baisse significative du temps de sommeil et à des troubles majeurs de la concentration en classe. Tandis que les notifications incessantes fragmentent l'attention, les activités physiques et de lecture, indispensables à la plasticité cérébrale, sont reléguées au second plan. Par conséquent, les pédiatres constatent une augmentation alarmante des syndromes d'anxiété et d'isolement social. Autrement dit, la dépendance numérique agit comme un puissant narcotique attentionnel.",
+"Néanmoins, incriminer uniquement la jeunesse face à ce phénomène s'avère réducteur. Quoique la responsabilité parentale soit souvent pointée du doigt, il convient de rappeler que ces applications sont conçues pour maximiser la captation de l'attention par des techniques de design persuasif. En définitive, lutter contre cette addiction contemporaine exige une éducation stricte aux médias numériques alliée à une régulation éthique de l'industrie technologique."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel impact négatif direct la surexposition aux écrans a-t-elle sur la scolarité des jeunes d'après le texte ?",
+"points": 1,
+"reponse_modele": "Elle provoque une baisse de la concentration en classe et diminue le temps de sommeil nécessaire.",
+"mots_cles": [
+{ "mot": "concentration", "variantes": ["attention", "focus"], "poids": 0.5 },
+{ "mot": "sommeil", "variantes": ["fatigue", "nuit"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelles activités saines pour le cerveau sont délaissées au profit du temps passé en ligne ?",
+"points": 1,
+"reponse_modele": "La lecture et les activités physiques.",
+"mots_cles": [
+{ "mot": "lecture", "variantes": ["livres"], "poids": 0.5 },
+{ "mot": "activités physiques", "variantes": ["sport", "bouger"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle conséquence psychologique de l'usage abusif des écrans les pédiatres observent-ils ?",
+"points": 1,
+"reponse_modele": "Ils constatent une hausse alarmante des syndromes d'anxiété et de l'isolement social.",
+"mots_cles": [
+{ "mot": "anxiété", "variantes": ["angoisse", "stress"], "poids": 0.5 },
+{ "mot": "isolement social", "variantes": ["solitude", "rupture sociale"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle métaphore l'auteur utilise-t-il pour désigner l'effet de la dépendance numérique sur l'esprit ?",
+"points": 1,
+"reponse_modele": "Il la qualifie de « puissant narcotique attentionnel ».",
+"mots_cles": [
+{ "mot": "narcotique attentionnel", "variantes": ["narcotique"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Pourquoi est-il injuste de rejeter la faute uniquement sur le manque de volonté des adolescents ?",
+"points": 1,
+"reponse_modele": "Parce que les applications mobiles sont délibérément conçues pour capturer l'attention grâce au design persuasif.",
+"mots_cles": [
+{ "mot": "conçues", "variantes": ["créées", "volontairement"], "poids": 0.5 },
+{ "mot": "design persuasif", "variantes": ["captation de l'attention", "piège", "algorithmes"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Que signifie l'adjectif « hégémonique » au tout début du texte ?",
+"points": 1,
+"reponse_modele": "Qui exerce une domination absolue, une présence envahissante et sans partage.",
+"mots_cles": [
+{ "mot": "domination", "variantes": ["envahissante", "omniprésente", "partout"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelles sont les deux solutions complémentaires proposées dans la conclusion ?",
+"points": 1,
+"reponse_modele": "Une éducation rigoureuse à l'usage des médias numériques et une réglementation éthique imposée aux entreprises de technologie.",
+"mots_cles": [
+{ "mot": "éducation", "variantes": ["médias", "parents"], "poids": 0.5 },
+{ "mot": "régulation éthique", "variantes": ["lois", "industrie"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la structure de concession introduite par « quoique » dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Elle sert à admettre que les parents ont un rôle à jouer, tout en déplaçant le problème vers la responsabilité de l'industrie.",
+"mots_cles": [
+{ "mot": "responsabilité de l'industrie", "variantes": ["nuancer la faute des parents"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-045b",
+"titre": "Les nouvelles technologies rendent-elles les individus plus autonomes ?",
+"titre2": "Exercice 45",
+"audios": [],
+"texte": [
+"L'un des arguments phares des promoteurs de la transition numérique réside dans la promesse d'une émancipation individuelle totale. Grâce aux applications mobiles et aux services décentralisés, chaque citoyen est théoriquement capable de gérer sa santé, ses finances et ses apprentissages sans intermédiaire. Bien que cette autonomie technique offre une liberté d'action indéniable au quotidien, elle engendre paradoxalement de nouvelles formes de dépendances invisibles.",
+"En effet, cette prétendue autonomie repose entièrement sur le bon fonctionnement d'infrastructures technologiques et d'algorithmes complexes dont l'utilisateur ignore tout. En revanche, l'incapacité à accomplir des tâches basiques sans l'assistance d'un smartphone témoigne d'une perte d'aptitudes cognitives fondamentales. Par conséquent, l'individu moderne se retrouve pris au piège. Autrement dit, nous avons troqué notre dépendance envers les institutions humaines contre une subordination absolue aux machines.",
+"Néanmoins, refuser le progrès technique par pur conservatisme serait absurde. Quoique l'aliénation numérique soit un risque réel, les technologies restent de formidables outils d'amplification des capacités humaines si elles sont maîtrisées. En définitive, la véritable autonomie ne consiste pas à dépendre aveuglément de la technologie, mais à cultiver un esprit critique suffisant pour savoir quand l'utiliser et quand s'en affranchir."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Sur quoi repose la promesse d'émancipation faite par les partisans du numérique ?",
+"points": 1,
+"reponse_modele": "Sur la capacité de chaque individu à gérer ses besoins (santé, finances) de manière autonome et sans aucun intermédiaire.",
+"mots_cles": [
+{ "mot": "sans intermédiaire", "variantes": ["seul", "directement"], "poids": 0.6 },
+{ "mot": "gérer", "variantes": ["santé", "finances", "besoins"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel paradoxe l'auteur met-il en lumière concernant l'autonomie technique ?",
+"points": 1,
+"reponse_modele": "Tout en offrant plus de liberté, elle crée de nouvelles formes de dépendances invisibles.",
+"mots_cles": [
+{ "mot": "dépendances invisibles", "variantes": ["nouvelle dépendance", "aliénation"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi l'autonomie vantée par le numérique est-elle qualifiée de « prétendue » ?",
+"points": 1,
+"reponse_modele": "Parce qu'elle dépend entièrement d'infrastructures et d'algorithmes dont l'utilisateur ne comprend pas le fonctionnement.",
+"mots_cles": [
+{ "mot": "infrastructures", "variantes": ["réseaux", "systèmes"], "poids": 0.5 },
+{ "mot": "ignore tout", "variantes": ["ne comprend pas", "opaque"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel impact l'usage constant du smartphone a-t-il sur nos capacités intellectuelles de base ?",
+"points": 1,
+"reponse_modele": "Il entraîne une perte d'aptitudes cognitives fondamentales, rendant difficile la réalisation de tâches simples sans aide.",
+"mots_cles": [
+{ "mot": "perte d'aptitudes", "variantes": ["atrophie", "diminution des capacités"], "poids": 0.7 },
+{ "mot": "cognitives", "variantes": ["intellectuelles", "cerveau"], "poids": 0.3 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel échange de dépendance s'est opéré d'après le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Nous avons remplacé notre dépendance aux institutions humaines par une soumission totale aux machines.",
+"mots_cles": [
+{ "mot": "institutions humaines", "variennes": ["société", "hommes"], "poids": 0.5 },
+{ "mot": "subordination aux machines", "variantes": ["technologie", "ordinateurs"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est la définition de la « véritable autonomie » selon la conclusion du texte ?",
+"points": 1,
+"reponse_modele": "C'est le fait d'avoir un esprit critique pour décider de manière libre quand utiliser la technologie ou s'en passer.",
+"mots_cles": [
+{ "mot": "esprit critique", "variantes": ["discernement", "réflexion"], "poids": 0.6 },
+{ "mot": "s'en affranchir", "variantes": ["s'en passer", "savoir couper"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un verbe dans le deuxième paragraphe signifiant « échanger un bien contre un autre ».",
+"points": 1,
+"reponse_modele": "Troquer (dans la phrase « nous avons troqué notre dépendance »).",
+"mots_cles": [
+{ "mot": "troqué", "variantes": ["troquer"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la fonction du connecteur « en définitive » à la fin de la démonstration ?",
+"points": 1,
+"reponse_modele": "Il introduit la conclusion générale de l'auteur en résumant sa position éthique.",
+"mots_cles": [
+{ "mot": "conclusion", "variantes": ["résumé", "clôture"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-046b",
+"titre": "Les robots peuvent-ils remplacer l'être humain dans certains domaines ?",
+"titre2": "Exercice 46",
+"audios": [],
+"texte": [
+"La présence de la robotique humanoïde sort des laboratoires de recherche pour investir des secteurs d'activité autrefois préservés. De la logistique industrielle aux tâches d'assistance dans les hôpitaux, les machines automatisées font preuve d'une précision et d'une endurance inaccessibles à l'humain. Bien que ces innovations technologiques promettent de pallier la pénurie de main-d'œuvre, la perspective d'une substitution systématique soulève de profondes questions éthiques.",
+"En effet, l'efficacité froide d'un automate excelle dans la reproduction de protocoles standardisés. Néanmoins, face à l'imprévu, la machine se heurte à des limites structurelles insurmontables. Les spécialistes rappellent que le soin, l'enseignement ou la justice reposent sur des compétences subtiles telles que l'empathie, l'interprétation des émotions et le discernement moral. Par conséquent, confier ces missions à des algorithmes déshumaniserait ces liens essentiels.",
+"Autrement dit, opposer de manière frontale l'humain et la machine constitue une erreur d'analyse. En définitive, l'avenir réside dans la collaboration étroite plutôt que dans le remplacement. Le robot doit être cantonné au rôle d'assistant technique performant, permettant ainsi à l'être humain de se recentrer sur la dimension relationnelle et créative de sa profession."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Dans quels nouveaux domaines non industriels les robots commencent-ils à être introduits ?",
+"points": 1,
+"reponse_modele": "Ils commencent à être introduits dans les hôpitaux pour des tâches d'assistance.",
+"mots_cles": [
+{ "mot": "hôpitaux", "variantes": ["médical", "santé", "soins"], "poids": 0.7 },
+{ "mot": "assistance", "variantes": ["aide"], "poids": 0.3 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelles sont les qualités physiques des robots qui dépassent les capacités humaines ?",
+"points": 1,
+"reponse_modele": "Leur niveau de précision et leur endurance mécanique lors de l'exécution des tâches.",
+"mots_cles": [
+{ "mot": "précision", "variantes": ["exactitude"], "poids": 0.5 },
+{ "mot": "endurance", "variantes": ["résistance", "ne pas se fatiguer"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel avantage social les promoteurs des robots mettent-ils en avant pour justifier leur utilisation ?",
+"points": 1,
+"reponse_modele": "Ils affirment que l'usage des robots permet de compenser la pénurie de main-d'œuvre.",
+"mots_cles": [
+{ "mot": "pénurie de main-d'œuvre", "variantes": ["manque de personnel", "manque de travailleurs"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelles sont les limites fondamentales d'un robot lorsqu'il quitte le cadre des tâches répétitives ?",
+"points": 1,
+"reponse_modele": "Il est incapable de réagir correctement face à l'imprévu en raison de ses limites structurelles.",
+"mots_cles": [
+{ "mot": "imprévu", "variantes": ["situations nouvelles", "changements"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelles aptitudes humaines spécifiques rendent l'homme irremplaçable dans les métiers du soin ou de la justice ?",
+"points": 1,
+"reponse_modele": "L'empathie, la capacité à interpréter les émotions et le discernement moral.",
+"mots_cles": [
+{ "mot": "empathie", "variantes": ["sensibilité"], "poids": 0.4 },
+{ "mot": "émotions", "variantes": ["sentiments"], "poids": 0.3 },
+{ "mot": "discernement moral", "variantes": ["éthique", "jugement"], "poids": 0.3 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel danger majeur l'auteur identifie-t-il si l'on confie ces métiers à des machines ?",
+"points": 1,
+"reponse_modele": "Cela risquerait de déshumaniser complètement des relations humaines fondamentales.",
+"mots_cles": [
+{ "mot": "déshumaniser", "variantes": ["perdre l'humanité", "froid"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle vision du futur l'auteur défend-il dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il prône une collaboration où le robot sert d'assistant technique et l'homme se concentre sur les aspects humains.",
+"mots_cles": [
+{ "mot": "collaboration", "variantes": ["coopération", "complémentarité"], "poids": 0.6 },
+{ "mot": "assistant", "variantes": ["aide technique"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un verbe soutenu dans le premier paragraphe signifiant « compenser » ou « remédier à un manque ».",
+"points": 1,
+"reponse_modele": "Pallier (dans l'expression « pallier la pénurie »).",
+"mots_cles": [
+{ "mot": "pallier", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-047b",
+"titre": "La protection des données personnelles : un défi majeur du XXIe siècle",
+"titre2": "Exercice 47",
+"audios": [],
+"texte": [
+"Dans une société intégralement numérisée, l'or noir du siècle contemporain n'est plus le pétrole, mais la donnée personnelle. Des informations de santé aux historiques de géolocalisation, les serveurs des multinationales technologiques accumulent quotidiennement des téraoctets de données sur nos existences. Bien que la mise en œuvre de réglementations majeures comme le RGPD en Europe constitue un progrès juridique indéniable, la sécurité absolue des données demeure une chimère.",
+"En effet, la sophistication croissante des cyberattaques expose les institutions étatiques et les entreprises à des fuites de données massives et régulières. Néanmoins, le danger provient également du consentement insidieux des utilisateurs eux-mêmes. Prêts à céder l'accès à leurs informations privées contre l'usage d'une application gratuite, les citoyens alimentent leur propre surveillance. Par conséquent, la protection de la vie numérique exige une refonte globale de nos comportements.",
+"Autrement dit, la cybersécurité ne doit plus être perçue comme une simple contrainte technique pour ingénieurs. En définitive, garantir la souveraineté numérique est un enjeu géopolitique et citoyen capital. C’est à cette seule condition que nous pourrons prémunir nos sociétés contre le chantage informatique, l'espionnage de masse et la manipulation des processus électoraux."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "À quelle ressource naturelle l'auteur compare-t-il la donnée personnelle au début du texte et pourquoi ?",
+"points": 1,
+"reponse_modele": "Il la compare au pétrole car elle est devenue la ressource économique la plus précieuse et convoitée du siècle.",
+"mots_cles": [
+{ "mot": "pétrole", "variantes": ["or noir"], "poids": 0.5 },
+{ "mot": "ressource", "variantes": ["valeur", "économique", "précieuse"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle est la position de l'auteur concernant l'efficacité réelle des lois comme le RGPD ?",
+"points": 1,
+"reponse_modele": "Il reconnaît que c'est un progrès juridique important, mais affirme que la sécurité absolue reste impossible.",
+"mots_cles": [
+{ "mot": "progrès juridique", "variantes": ["bonne loi", "avancée"], "poids": 0.5 },
+{ "mot": "impossible", "variantes": ["chimère", "pas absolue"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles sont les deux menaces extérieures qui provoquent des fuites de données régulières ?",
+"points": 1,
+"reponse_modele": "La sophistication des cyberattaques et le piratage des serveurs des entreprises et des États.",
+"mots_cles": [
+{ "mot": "cyberattaques", "variantes": ["pirates", "hackers", "piratage informatique"], "poids": 0.7 },
+{ "mot": "institutions", "variantes": ["entreprises", "États"], "poids": 0.3 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel paradoxe l'auteur souligne-t-il concernant l'attitude des utilisateurs face à leurs données ?",
+"points": 1,
+"reponse_modele": "Ils acceptent volontairement de donner l'accès à leur vie privée simplement pour utiliser des applications gratuites.",
+"mots_cles": [
+{ "mot": "volontairement", "variantes": ["consentement", "donnent eux-mêmes"], "poids": 0.6 },
+{ "mot": "applications gratuites", "variantes": ["gratuité", "services"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Pourquoi la protection des données dépasse-t-elle la simple sphère technique informatique ?",
+"points": 1,
+"reponse_modele": "Parce qu'elle représente un enjeu géopolitique majeur qui touche à la sécurité des États et à la démocratie.",
+"mots_cles": [
+{ "mot": "géopolitique", "variantes": ["États", "international"], "poids": 0.6 },
+{ "mot": "démocratie", "variantes": ["processus électoraux", "élections"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Citez un risque démocratique grave mentionné à la fin du texte en cas de mauvaise gestion des données.",
+"points": 1,
+"reponse_modele": "La manipulation des processus électoraux (ou l'espionnage de masse).",
+"mots_cles": [
+{ "mot": "processus électoraux", "variantes": ["élections", "votes", "manipuler la démocratie"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un nom féminin dans le premier paragraphe signifiant « une idée fausse, une illusion irréalisable ».",
+"points": 1,
+"reponse_modele": "Chimère (dans l'expression « demeure une chimère »).",
+"mots_cles": [
+{ "mot": "chimère", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la valeur sémantique du connecteur logique « néanmoins » au milieu du deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il sert à introduire une opposition ou une restriction en déplaçant la responsabilité vers les utilisateurs.",
+"mots_cles": [
+{ "mot": "opposition", "variantes": ["restriction", "concession"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-048b",
+"titre": "L'impact des algorithmes sur nos décisions quotidiennes",
+"titre2": "Exercice 48",
+"audios": [],
+"texte": [
+"De la sélection d'un itinéraire routier aux suggestions de visionnage sur les plateformes de flux continu, les algorithmes de recommandation guident nos choix d'une manière presque invisible. Ces formules mathématiques sophistiquées analysent en permanence nos comportements passés pour prédire nos désirs futurs. Bien que cette assistance numérique apporte un confort indéniable et un gain de temps précieux, elle restreint insidieusement notre libre arbitre.",
+"En effet, l'un des effets pervers de ces technologies réside dans le confinement culturel des internautes. En revanche, en ne proposant que des contenus similaires à ceux déjà aimés, les algorithmes enferment l'individu dans ce que les sociologues nomment des chambres d'écho. Par conséquent, la sérendipité, c'est-à-dire la découverte heureuse et fortuite de la nouveauté, disparaît de nos vies. Autrement dit, la machine uniformise nos goûts et formate nos modes de pensée.",
+"Néanmoins, incriminer la technique elle-même serait une erreur. Quoique la logique commerciale des multinationales pousse à la maximisation du temps de connexion, le citoyen conserve le pouvoir de diversifier ses sources. En définitive, l'émancipation intellectuelle à l'ère numérique nécessite de réapprendre à faire des choix conscients, quitte à contredire les suggestions pré-mâchées des machines."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Comment fonctionnent concrètement les algorithmes pour guider nos choix d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Ils analysent nos comportements et données du passé afin de prédire ce que nous aimerons à l'avenir.",
+"mots_cles": [
+{ "mot": "analysent", "variantes": ["étudient", "historique"], "poids": 0.5 },
+{ "mot": "prédire", "variantes": ["anticiper", "futurs"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel est le principal point négatif des algorithmes sur la liberté humaine selon l'auteur ?",
+"points": 1,
+"reponse_modele": "Ils limitent et restreignent de façon insidieuse notre libre arbitre.",
+"mots_cles": [
+{ "mot": "libre arbitre", "variantes": ["liberté de choix", "autonomie"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Expliquez le concept sociologique de « chambre d'écho » mentionné dans le texte.",
+"points": 1,
+"reponse_modele": "C'est le fait d'être enfermé dans un espace virtuel où l'on ne reçoit que des avis ou des contenus identiques aux siens.",
+"mots_cles": [
+{ "mot": "enfermé", "variantes": ["confinement culturel"], "poids": 0.4 },
+{ "mot": "identiques aux siens", "variantes": ["similaires", "que l'on aime déjà"], "poids": 0.6 }
+]
+},
+{
+"id": "Q4",
+"question": "Définissez la « sérendipité » d'après les explications fournies par l'auteur au paragraphe deux.",
+"points": 1,
+"reponse_modele": "C'est la découverte heureuse, inattendue et par pur hasard de choses totalement nouvelles.",
+"mots_cles": [
+{ "mot": "hasard", "variantes": ["fortuite", "imprévu"], "poids": 0.5 },
+{ "mot": "découverte", "variantes": ["trouver la nouveauté"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel est le but commercial secret des multinationales de la tech d'après le texte ?",
+"points": 1,
+"reponse_modele": "Elles cherchent à maximiser le temps de connexion de chaque utilisateur sur leurs applications.",
+"mots_cles": [
+{ "mot": "maximiser", "variantes": ["augmenter", "garder"], "poids": 0.5 },
+{ "mot": "temps de connexion", "variantes": ["attention", "durée d'écoute"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle action le citoyen doit-il mener pour échapper au formatage des machines ?",
+"points": 1,
+"reponse_modele": "Il doit faire l'effort volontaire de diversifier ses sources d'information et ses lectures.",
+"mots_cles": [
+{ "mot": "diversifier", "variantes": ["varier", "changer"], "poids": 0.6 },
+{ "mot": "sources", "variantes": ["plateformes", "médias"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Quel est le sens général du mot « insidieusement » utilisé par l'auteur ?",
+"points": 1,
+"reponse_modele": "D'une manière sournoise, lente et invisible, sans attirer l'attention de la victime.",
+"mots_cles": [
+{ "mot": "sournoise", "variantes": ["invisible", "cachée", "discrète"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel lien logique unit la fin du deuxième paragraphe au début du texte ?",
+"points": 1,
+"reponse_modele": "Un lien de cause à conséquence introduit par le connecteur « par conséquent ».",
+"mots_cles": [
+{ "mot": "conséquence", "variantes": ["résultat logique"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-049b",
+"titre": "Internet favorise-t-il réellement l'accès universel au savoir ?",
+"titre2": "Exercice 49",
+"audios": [],
+"texte": [
+"Aux balbutiements du réseau mondial, les pères fondateurs d'Internet prophétisaient l'avènement d'une bibliothèque d'Alexandrie numérique et démocratique. Grâce à la mise en ligne d'encyclopédies collaboratives et d'articles scientifiques, le savoir humain devenait instantanément accessible à tous. Bien que cette utopie d'origine ait partiellement tenu ses promesses, la réalité actuelle de l'accès à la connaissance s'avère profondément inégalitaire.",
+"En effet, l'accès universel au savoir se heurte à la persistance d'une fracture numérique tant géographique que sociale. Tandis que les habitants des pays développés bénéficient d'infrastructures à haut débit, des millions d'individus restent exclus de la révolution numérique. De surcroît, la prolifération des barrières payantes (ou « paywalls ») privatise les recherches universitaires de qualité. Par conséquent, Internet fonctionne parfois comme un vecteur d'exclusion plutôt que d'inclusion.",
+"Néanmoins, des mouvements citoyens luttent activement pour la promotion de l'accès libre (ou « open access »). Quoique les grands éditeurs académiques défendent vigoureusement leurs monopoles financiers, la diffusion gratuite des connaissances progresse. En définitive, Internet ne sera une véritable clé du savoir universel que si l'éducation et la gratuité des ressources fondamentales sont garanties à l'échelle planétaire."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle était l'utopie initiale des créateurs d'Internet concernant le savoir ?",
+"points": 1,
+"reponse_modele": "Ils imaginaient la création d'une bibliothèque universelle, numérique et démocratique accessible à tous.",
+"mots_cles": [
+{ "mot": "bibliothèque", "variantes": ["Alexandrie numérique"], "poids": 0.5 },
+{ "mot": "accessible à tous", "variantes": ["universel", "démocratique"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels sont les deux types de fractures numériques qui empêchent l'accès universel à Internet ?",
+"points": 1,
+"reponse_modele": "La fracture numérique d'ordre géographique et celle d'ordre social.",
+"mots_cles": [
+{ "mot": "géographique", "variantes": ["territoires", "pays"], "poids": 0.5 },
+{ "mot": "sociale", "variantes": ["classes", "pauvreté"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Comment les « paywalls » ou barrières payantes nuisent-ils à la diffusion de la connaissance ?",
+"points": 1,
+"reponse_modele": "Ils privatisent le savoir en bloquant l'accès aux recherches scientifiques de qualité derrière des abonnements coûteux.",
+"mots_cles": [
+{ "mot": "privatisent", "variantes": ["bloquent", "rendre payant"], "poids": 0.5 },
+{ "mot": "recherches", "variantes": ["articles universitaires", "savoir de qualité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel rôle paradoxal Internet joue-t-il finalement selon le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il agit parfois comme un outil d'exclusion sociale au lieu d'être un moyen d'intégration.",
+"mots_cles": [
+{ "mot": "exclusion", "variantes": ["exclure", "séparer"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel mouvement citoyen s'oppose à la privatisation du savoir sur le web ?",
+"points": 1,
+"reponse_modele": "Le mouvement pour la promotion de l'accès libre (ou « open access »).",
+"mots_cles": [
+{ "mot": "accès libre", "variantes": ["open access"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Qui s'oppose activement à la gratuité des articles scientifiques d'après le texte ?",
+"points": 1,
+"reponse_modele": "Les grands éditeurs académiques qui cherchent à protéger leurs monopoles financiers.",
+"mots_cles": [
+{ "mot": "éditeurs académiques", "variantes": ["revues scientifiques", "éditeurs"], "poids": 0.6 },
+{ "mot": "monopoles financiers", "variantes": ["argent", "profits"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelles sont les deux conditions requises en fin de texte pour réaliser l'idéal d'Internet ?",
+"points": 1,
+"reponse_modele": "Garantir l'éducation au numérique et assurer la gratuité des ressources intellectuelles de base.",
+"mots_cles": [
+{ "mot": "éducation", "variantes": ["formation"], "poids": 0.5 },
+{ "mot": "gratuité", "variantes": ["accès libre", "gratuit"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Que signifie l'expression nominale « aux balbutiements » au tout début de l'article ?",
+"points": 1,
+"reponse_modele": "À la toute première étape du développement, au commencement de l'histoire du réseau.",
+"mots_cles": [
+{ "mot": "commencement", "variantes": ["début", "origines", "premières étapes"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-050b",
+"titre": "Comment lutter contre la manipulation de l'information en ligne ?",
+"titre2": "Exercice 50",
+"audios": [],
+"texte": [
+"La prolifération des fausses informations de pointe et des trucages vidéo hyper-réalistes menace l'équilibre des institutions démocratiques à travers le monde. Sur Internet, la manipulation de l'information est devenue une industrie redoutable et hautement automatisée. Bien que les gouvernements multiplient les commissions d'enquête et les lois d'urgence, l'efficacité des réponses étatiques reste largement insuffisante face à l'immensité du flux.",
+"En effet, l'éradication des infox se heurte à la réactivité extrême des réseaux malveillants. En revanche, les techniques d'éducation aux médias et de vérification des faits (ou « fact-checking ») constituent des digues indispensables. Les experts soulignent que la détection des mensonges ne doit pas reposer uniquement sur la censure. Par conséquent, responsabiliser le citoyen en lui apprenant à croiser les sources s'avère la stratégie la plus pérenne. Autrement dit, l'esprit critique est l'antidote ultime.",
+"Néanmoins, les géants de la technologie doivent également être contraints de modifier leurs algorithmes de recommandation. Quoique ces entreprises défendent leur liberté commerciale, leur complicité passive dans la diffusion de la haine est indéniable. En définitive, neutraliser la désinformation exige une alliance solide entre éducation populaire, rigueur journalistique et fermeté législative."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelles nouvelles technologies rendent la manipulation de l'information plus dangereuse aujourd'hui ?",
+"points": 1,
+"reponse_modele": "Les trucages vidéo hyper-réalistes (ou deepfakes) et l'automatisation de la diffusion des fausses informations.",
+"mots_cles": [
+{ "mot": "trucages vidéo", "variantes": ["deepfakes", "vidéos truquées"], "poids": 0.6 },
+{ "mot": "automatisation", "variantes": ["industrie", "algorithmes"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle critique l'auteur fait-il à l'action des gouvernements face à ce fléau ?",
+"points": 1,
+"reponse_modele": "Il estime que les lois d'urgence et les commissions d'enquête restent insuffisantes face au volume de données.",
+"mots_cles": [
+{ "mot": "insuffisantes", "variantes": ["inefficaces", "pas assez fortes"], "poids": 0.6 },
+{ "mot": "immensité du flux", "variantes": ["volume", "quantité d'infos"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles méthodes éducatives et journalistiques sont qualifiées de « digues indispensables » ?",
+"points": 1,
+"reponse_modele": "L'éducation aux médias et les pratiques de vérification des faits (le fact-checking).",
+"mots_cles": [
+{ "mot": "éducation aux médias", "variantes": ["école", "apprendre"], "poids": 0.5 },
+{ "mot": "vérification des faits", "variantes": ["fact-checking", "journalisme"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Pourquoi la censure pure n'est-elle pas la solution idéale selon l'auteur ?",
+"points": 1,
+"reponse_modele": "Parce qu'il vaut mieux éduquer et responsabiliser le citoyen en lui apprenant à vérifier les sources de manière autonome.",
+"mots_cles": [
+{ "mot": "responsabiliser", "variantes": ["éduquer"], "poids": 0.5 },
+{ "mot": "vérifier les sources", "variantes": ["croiser les informations"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle métaphore médicale l'auteur emploie-t-il pour décrire le rôle de l'esprit critique ?",
+"points": 1,
+"reponse_modele": "Il le qualifie d'« antidote ultime » contre la manipulation.",
+"mots_cles": [
+{ "mot": "antidote", "variantes": ["médicament", "remède"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel reproche éthique majeur est adressé aux géants du web (les entreprises de la tech) ?",
+"points": 1,
+"reponse_modele": "L'auteur les accuse de complicité passive dans la diffusion de la haine et des mensonges pour des raisons commerciales.",
+"mots_cles": [
+{ "mot": "complicité passive", "variantes": ["fermer les yeux", "laisser faire"], "poids": 0.6 },
+{ "mot": "commerciales", "variantes": ["profits", "liberté commerciale"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Quels sont les trois piliers indispensables pour vaincre la désinformation d'après la conclusion ?",
+"points": 1,
+"reponse_modele": "L'alliance entre l'éducation populaire, la rigueur journalistique et la fermeté de la loi.",
+"mots_cles": [
+{ "mot": "éducation populaire", "variantes": ["citoyens"], "poids": 0.33 },
+{ "mot": "rigueur journalistique", "variantes": ["médias sérieux"], "poids": 0.33 },
+{ "mot": "fermeté législative", "variantes": ["lois", "gouvernement"], "poids": 0.34 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un synonyme dans le second paragraphe du mot « fausses informations ».",
+"points": 1,
+"reponse_modele": "Infox (ou mensonges).",
+"mots_cles": [
+{ "mot": "infox", "variantes": ["mensonges"], "poids": 1.0 }
+]
+}
+]
 }
 ]
