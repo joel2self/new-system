@@ -2863,5 +2863,961 @@ geometry urbaine.        ]
 ]
 }
 ]
+},
+{
+    "id": "b031",
+    "titre": "L'intelligence artificielle représente-t-elle une opportunité ou une menace pour l'humanité ?",
+    "titre2": "Exercice b031",
+    "texte": [
+      "Mesdames et Messieurs, l'avènement de l'intelligence artificielle générative marque un tournant anthropologique sans précédent. Nous ne parlons plus d'un simple outil informatique destiné à automatiser des calculs complexes, mais d'une entité technologique capable de simuler le raisonnement, la création artistique et la prise de décision. Face à cette déferlante, deux camps s'affrontent vigoureusement au sein de la communauté scientifique et civile.",
+      "D'un côté, les technophiles technoptimistes célèbrent des opportunités phénoménales. Grâce à l'analyse prédictive, la médecine s'apprête à éradiquer des pathologies autrefois incurables en concevant des traitements sur mesure en quelques heures. De surcroît, l'optimisation des ressources énergétiques par des algorithmes sophistiqués offre des solutions concrètes pour endiguer le changement climatique. Autrement dit, l'IA pourrait devenir le catalyseur d'un progrès humain partagé, libérant l'homme des tâches laborieuses pour lui permettre de se consacrer à la pure conceptualisation.",
+      "Néanmoins, les Cassandre du XXIe siècle tirent la sonnette d'alarme, prophétisant des dérives existentielles majeures. Si nous déléguons notre libre arbitre à des machines dont nous ne maîtrisons plus entièrement les processus internes, que restera-t-il de notre autonomie ? Par conséquent, le risque d'une manipulation de masse, orchestrée par des algorithmes biaisés ou des usines à fausses informations, menace d'ébranler les fondements mêmes de nos démocraties. En définitive, l'intelligence artificielle n'est ni intrinsèquement bonne ni mauvaise ; elle sera le miroir de notre capacité collective à la réguler avec sagesse."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-b2-031-1", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-b2-031-01",
+        "question": "Quelle est la principale caractéristique de l'intelligence artificielle selon le premier paragraphe ?",
+        "reponses": [
+          { "id": "a", "texte": "Elle se limite à exécuter des calculs mathématiques simples.", "correcte": false },
+          { "id": "b", "texte": "Elle reproduit fidèlement toutes les émotions humaines.", "correcte": false },
+          { "id": "c", "texte": "Elle simule des processus complexes comme le raisonnement et la création.", "correcte": true },
+          { "id": "d", "texte": "Elle est déjà interdite dans la plupart des pays développés.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-031-02",
+        "question": "Quel avantage médical est explicitement mentionné par les partisans de l'IA ?",
+        "reponses": [
+          { "id": "a", "texte": "La conception rapide de traitements personnalisés grâce à l'analyse prédictive.", "correcte": true },
+          { "id": "b", "texte": "Le remplacement total de tous les médecins par des robots.", "correcte": false },
+          { "id": "c", "texte": "La réduction drastique du coût des médicaments génériques.", "correcte": false },
+          { "id": "d", "texte": "La suppression des examens cliniques traditionnels.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-031-03",
+        "question": "Quelle crainte majeure les opposants ou sceptiques expriment-ils ?",
+        "reponses": [
+          { "id": "a", "texte": "La perte d'emploi des programmateurs informatiques.", "correcte": false },
+          { "id": "b", "texte": "L'abandon progressif de l'apprentissage de l'écriture manuscrite.", "correcte": false },
+          { "id": "c", "texte": "L'aliénation du libre arbitre humain face à des machines opaques.", "correcte": true },
+          { "id": "d", "texte": "Une panne d'électricité mondiale causée par les serveurs.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-031-04",
+        "question": "Quelle conclusion l'orateur tire-t-il concernant la nature de l'IA ?",
+        "reponses": [
+          { "id": "a", "texte": "Qu'elle s'avère fondamentalement néfaste pour l'avenir social.", "correcte": false },
+          { "id": "b", "texte": "Qu'elle dépendra entièrement des lois de régulation que l'humanité imposera.", "correcte": true },
+          { "id": "c", "texte": "Qu'elle va s'autodétruire en raison de ses propres paradoxes.", "correcte": false },
+          { "id": "d", "texte": "Qu'elle doit être réservée exclusivement au domaine spatial.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-031-05",
+        "question": "Qui sont les « Cassandre du XXIe siècle » mentionnés dans le texte ?",
+        "reponses": [
+          { "id": "a", "texte": "Des ingénieurs spécialisés dans la cybersécurité.", "correcte": false },
+          { "id": "b", "texte": "Les personnes qui prophétisent des catastrophes ou des dérives.", "correcte": true },
+          { "id": "c", "texte": "Une ligue d'artistes opposés à la numérisation des œuvres.", "correcte": false },
+          { "id": "d", "texte": "Des dirigeants politiques européens d'avant-garde.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-031-06",
+        "question": "Quel connecteur est employé pour introduire l'antithèse et la rupture au troisième paragraphe ?",
+        "reponses": [
+          { "id": "a", "texte": "De surcroît", "correcte": false },
+          { "id": "b", "texte": "Néanmoins", "correcte": true },
+          { "id": "c", "texte": "Par conséquent", "correcte": false },
+          { "id": "d", "texte": "Autrement dit", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-031-07",
+        "question": "Le mot « catalyseur », utilisé au deuxième paragraphe, implique que l'IA va...",
+        "reponses": [
+          { "id": "a", "texte": "Ralentir le développement des technologies vertes.", "correcte": false },
+          { "id": "b", "texte": "Provoquer une crise financière majeure.", "correcte": false },
+          { "id": "c", "texte": "Accélérer ou grandement favoriser le progrès humain.", "correcte": true },
+          { "id": "d", "texte": "Remplacer l'utilisation de l'énergie nucléaire.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-031-08",
+        "question": "Quel genre textuel correspond le mieux à cet exercice b031 ?",
+        "reponses": [
+          { "id": "a", "texte": "Un discours ou une tribune à visée argumentative.", "correcte": true },
+          { "id": "b", "texte": "Une narration romanesque de science-fiction.", "correcte": false },
+          { "id": "c", "texte": "Un manuel technique de codage algorithmique.", "correcte": false },
+          { "id": "d", "texte": "Un dialogue amical entre deux internautes.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b032",
+    "titre": "Peut-on encore préserver sa vie privée à l'ère numérique ?",
+    "titre2": "Exercice b032",
+    "texte": [
+      "L'inspecteur de la haute autorité de protection des données achevait de rédiger son rapport annuel, non sans une pointe d'amertume. À travers la vitre de son bureau, il observait les passants, la plupart les yeux rivés sur l'écran de leur ordiphone, semant inconsciemment des milliers de miettes numériques à chaque enjambée.",
+      "« C'est une abdication volontaire et consentie », murmura-t-il à sa collègue, entrée pour lui déposer un dossier. « Les citoyens s'imaginent encore que la violation de la vie privée se résume à une intrusion spectaculaire, une mise sur écoute digne d'un film d'espionnage. C'est faux. En revanche, le véritable péril réside dans le siphonnage quotidien, invisible et légal de nos moindres faits et gestes. Une géolocalisation activée, une recherche de billet de train, un simple 'j'aime' sur une photo, et l'algorithme d'une firme transnationale dresse un portrait psychologique plus précis que celui de nos proches. »",
+      "Sa collègue acquiesça, s'asseyant sur le rebord du bureau : « Certes, mais bien que les usagers en soient de plus en plus conscients, l'architecture même des services en ligne est pensée pour décourager toute résistance. Refuser les témoins de connexion ou lire les conditions générales d'utilisation s'apparente désormais à un parcours du combattant. Autrement dit, pour participer à la vie sociale moderne, l'individu est contraint de troquer son intimité contre de la commodité. »",
+      "Le rapport se fermait sur un avertissement sans équivoque. Sans un sursaut législatif international et une éducation stricte à la sobriété numérique, le concept même de vie privée ne sera bientôt plus qu'un lointain souvenir d'une époque révolue."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-b2-032-1", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-b2-032-01",
+        "question": "Quel constat paradoxal l'inspecteur fait-il au sujet des citoyens ?",
+        "reponses": [
+          { "id": "a", "texte": "Ils refusent d'acheter des téléphones portables modernes.", "correcte": false },
+          { "id": "b", "texte": "Ils cèdent volontairement leurs données personnelles en utilisant les services en ligne.", "correcte": true },
+          { "id": "c", "texte": "Ils portent plainte systématiquement contre les réseaux sociaux.", "correcte": false },
+          { "id": "d", "texte": "Ils maîtrisent parfaitement les techniques de cryptage.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-032-02",
+        "question": "Où réside le « véritable péril » pour la vie privée d'après l'inspecteur ?",
+        "reponses": [
+          { "id": "a", "texte": "Dans les cambriolages physiques de serveurs informatiques.", "correcte": false },
+          { "id": "b", "texte": "Dans la surveillance policière des lignes téléphoniques fixes.", "correcte": false },
+           { "id": "c", "texte": "Dans le siphonnage quotidien, discret et permanent de nos données courantes.", "correcte": true },
+{ "id": "d", "texte": "Dans l'absence totale de lois nationales sur le numérique.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-032-03",
+"question": "Pourquoi est-il difficile pour un usager de résister à cette collecte de données ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que les abonnements internet sont hors de prix.", "correcte": false },
+{ "id": "b", "texte": "Parce que les interfaces sont conçues pour complexifier le refus des cookies.", "correcte": true },
+{ "id": "c", "texte": "Parce que les ordinateurs s'éteignent automatiquement en cas de refus.", "correcte": false },
+{ "id": "d", "texte": "Parce que la loi oblige le partage d'informations familiales.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-032-04",
+"question": "Quel compromis forcé l'individu moderne doit-il accepter selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Travailler plus pour s'offrir une connexion à haut débit.", "correcte": false },
+{ "id": "b", "texte": "Échanger son intimité contre le confort et l'accès aux services sociaux.", "correcte": true },
+{ "id": "c", "texte": "Renoncer à ses diplômes universitaires pour créer une entreprise.", "correcte": false },
+{ "id": "d", "texte": "Vivre de manière totalement isolée à la campagne.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-032-05",
+"question": "Quelle forme textuelle globale illustre parfaitement cet exercice ?",
+"reponses": [
+{ "id": "a", "texte": "Un monologue théâtral comique.", "correcte": false },
+{ "id": "b", "texte": "Un récit narratif abritant un semi-dialogue argumentatif.", "correcte": true },
+{ "id": "c", "texte": "Une notice de montage de smartphone.", "correcte": false },
+{ "id": "d", "texte": "Une pétition syndicale ouverte.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-032-06",
+"question": "Que signifie le terme « siphonnage » employé au paragraphe 2 ?",
+"reponses": [
+{ "id": "a", "texte": "Une réparation de tuyauterie informatique.", "correcte": false },
+{ "id": "b", "texte": "Une extraction ou un vol massif et continu d'informations.", "correcte": true },
+{ "id": "c", "texte": "Le blocage volontaire d'un site web.", "correcte": false },
+{ "id": "d", "texte": "La vente de téléphones d'occasion.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-032-07",
+"question": "À quoi sert l'expression « autrement dit » au paragraphe 3 ?",
+"reponses": [
+{ "id": "a", "texte": "À contredire l'affirmation de l'inspecteur.", "correcte": false },
+{ "id": "b", "texte": "À reformuler de manière synthétique et frappante une réalité complexe.", "correcte": true },
+{ "id": "c", "texte": "À annoncer un changement chronologique dans le récit.", "correcte": false },
+{ "id": "d", "texte": "À exprimer un doute quant aux statistiques citées.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-032-08",
+"question": "Quelle solution ultime est avancée pour contrer cette disparition de l'intimité ?",
+"reponses": [
+{ "id": "a", "texte": "Un sursaut législatif international combiné à une éducation à la sobriété.", "correcte": true },
+{ "id": "b", "texte": "La fermeture pure et simple de toutes les multinationales.", "correcte": false },
+{ "id": "c", "texte": "L'utilisation exclusive d'agendas papier.", "correcte": false },
+{ "id": "d", "texte": "Une augmentation des taxes sur les abonnements téléphoniques.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b033",
+"titre": "Les réseaux sociaux favorisent-ils la liberté d'expression ou la désinformation ?",
+"titre2": "Exercice b033",
+"texte": [
+"Bienvenue à notre table ronde mensuelle. Aujourd'hui, nous explorons le double visage des plateformes numériques. Lors de leur émergence, les réseaux sociaux ont été salués comme des vecteurs d'émancipation sans précédent, capables de renverser des régimes autoritaires en offrant une tribune universelle à chaque citoyen. Néanmoins, l'enthousiasme des débuts a laissé place à une profonde inquiétude face à la prolifération de la désinformation.",
+"Il convient de reconnaître que ces plateformes brisent les monopoles de l'information traditionnelle. Quoique les critères éditoriaux des grands journaux garantissent une certaine rigueur, ils excluent parfois des voix dissidentes ou minoritaires. Sur les réseaux, quiconque possède une connexion peut témoigner en temps réel d'une injustice sociale ou environnementale. C'est une avancée indéniable pour la liberté d'expression. Cependant, cette démocratisation absolue porte en elle les germes de son propre dévoiement.",
+"En effet, l'architecture économique de ces réseaux repose sur l'économie de l'attention. Les algorithmes sont calibrés pour promouvoir les contenus qui suscitent le plus de réactions émotionnelles, comme l'indignation ou la colère. Par conséquent, une fausse information outrancière ou une théorie du complot spectaculaire se propagera toujours plus rapidement qu'une analyse factuelle et nuancée. Autrement dit, en cherchant le profit, les plateformes ont involontairement industrialisé le mensonge, rendant les citoyens incapables de distinguer le vrai du faux."
+],
+"audios": [
+{ "id": "audio-fr-read-b2-033-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b2-033-01",
+"question": "Comment les réseaux sociaux ont-ils été perçus à leurs débuts d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Comme des divertissements futiles pour adolescents.", "correcte": false },
+{ "id": "b", "texte": "Comme des outils de libération et d'émancipation politique.", "correcte": true },
+{ "id": "c", "texte": "Comme des applications purement commerciales et inefficaces.", "correcte": false },
+{ "id": "d", "texte": "Comme des menaces immédiates pour les bibliothèques.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-033-02",
+"question": "Quel est l'avantage des réseaux sociaux par rapport aux médias traditionnels ?",
+"reponses": [
+{ "id": "a", "texte": "Ils proposent des abonnements totalement gratuits pour les professionnels.", "correcte": false },
+{ "id": "b", "texte": "Ils permettent à n'importe quel citoyen de témoigner sans intermédiaire.", "correcte": true },
+{ "id": "c", "texte": "Ils vérifient automatiquement la vérité de chaque publication.", "correcte": false },
+{ "id": "d", "texte": "Ils interdisent la diffusion de publicités commerciales.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-033-03",
+"question": "Selon l'auteur, qu'est-ce qui dicte la mise en avant d'un contenu sur les réseaux ?",
+"reponses": [
+{ "id": "a", "texte": "Sa valeur scientifique et universitaire éprouvée.", "correcte": false },
+{ "id": "b", "texte": "Sa capacité à susciter de fortes émotions comme la colère afin de capter l'attention.", "correcte": true },
+{ "id": "c", "texte": "Le nombre de mots et la qualité de la langue française utilisée.", "correcte": false },
+{ "id": "d", "texte": "La date de création du compte de l'utilisateur.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-033-04",
+"question": "Quelle conséquence l'économie de l'attention a-t-elle sur la vérité ?",
+"reponses": [
+{ "id": "a", "texte": "Elle favorise une vérification rigoureuse des sources.", "correcte": false },
+{ "id": "b", "texte": "Elle accélère la diffusion de rumeurs spectaculaires au détriment des faits nuancés.", "correcte": true },
+{ "id": "c", "texte": "Elle pousse les internautes à lire de longs essais philosophiques.", "correcte": false },
+{ "id": "d", "texte": "Elle élimine définitivement les théories complotistes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-033-05",
+"question": "Dans le deuxième paragraphe, quelle est la fonction du connecteur « quoique » ?",
+"reponses": [
+{ "id": "a", "texte": "Introduire une concession pour nuancer la critique des médias traditionnels.", "correcte": true },
+{ "id": "b", "texte": "Marquer une conséquence mathématique inéluctable.", "correcte": false },
+{ "id": "c", "texte": "Indiquer une rupture temporelle violente.", "correcte": false },
+{ "id": "d", "texte": "Donner un exemple de journal télévisé.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-033-06",
+"question": "Le mot « dévoiement », à la fin du deuxième paragraphe, signifie :",
+"reponses": [
+{ "id": "a", "texte": "Une amélioration constante.", "correcte": false },
+{ "id": "b", "texte": "Une dérive ou une altération négative de la fonction initiale.", "correcte": true },
+{ "id": "c", "texte": "Une disparition brutale et inexpliquée.", "correcte": false },
+{ "id": "d", "texte": "Une réglementation étatique stricte.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-033-07",
+"question": "Quelle est la forme de ce texte b033 ?",
+"reponses": [
+{ "id": "a", "texte": "Un discours ou un texte de type éditorial/exposé argumentatif.", "correcte": true },
+{ "id": "b", "texte": "Un dialogue de type pièce de théâtre en alexandrins.", "correcte": false },
+{ "id": "c", "texte": "Une suite de messages courts postés sur un forum.", "correcte": false },
+{ "id": "d", "texte": "Une biographie d'un inventeur californien.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-033-08",
+"question": "Quelle conclusion l'auteur formule-t-il implicitement ?",
+"reponses": [
+{ "id": "a", "texte": "Les réseaux sociaux doivent être fermés sur-le-champ.", "correcte": false },
+{ "id": "b", "texte": "La quête de profit des plateformes nuit gravement à la qualité du débat public.", "correcte": true },
+{ "id": "c", "texte": "Les journalistes traditionnels ont perdu toute crédibilité.", "correcte": false },
+{ "id": "d", "texte": "La liberté d'expression n'a aucune valeur en démocratie.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b034",
+"titre": "La dépendance aux écrans chez les jeunes générations",
+"titre2": "Exercice b034",
+"texte": [
+"La pendule du salon sonna vingt-deux heures, brisant le silence de plomb qui régnait dans la maison. Installée dans le canapé, Sandrine soupira en observant ses deux adolescents. L'un, écouteurs vissés aux oreilles, faisait défiler frénétiquement de courtes vidéos sur sa tablette, tandis que la cadette pianotait nerveusement sur son ordiphone, le visage éclairé par une lueur blafarde.",
+"— Lucas, Chloé, s'il vous plaît, il est temps d'éteindre, lança Sandrine d'un ton qui se voulait ferme. Vous passez vos journées entières hypnotisés par ces machines. Vos notes baissent et vous ne lisez plus un seul livre.",
+"— Oh maman, tu exagères toujours, répliqua Lucas sans lever les yeux de son écran. On n'est pas coupés du monde, on discute avec nos copains de la classe. C'est notre manière d'interagir. Bien que tu trouves cela stérile, c'est indispensable pour notre intégration sociale.",
+"Sandrine se redressa, l'inquiétude pointant dans sa voix : — Je ne nie pas l'aspect relationnel, mon grand. En revanche, je m'inquiète des conséquences physiologiques et cognitives de cette surconsommation. Les pédopsychiatres confirment que la captation permanente de votre attention par des notifications incessantes altère vos capacités de concentration profonde. Par conséquent, vous devenez incapables de focaliser votre esprit sur un texte long ou un raisonnement complexe. Autrement dit, vous troquez votre autonomie intellectuelle contre une dépendance aux gratifications instantanées de l'algorithme.",
+"Chloé coupa court à la discussion en verrouillant son appareil avec un claquement sec, non sans murmurer qu'il était impossible de faire comprendre la modernité à la génération précédente. Le dialogue était rompu, laissant Sandrine face à l'immense défi de réinstaurer des frontières au sein d'un foyer colonisé par le virtuel."
+],
+"audios": [
+{ "id": "audio-fr-read-b2-034-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b2-034-01",
+"question": "Quelle situation initiale déclenche l'inquiétude de Sandrine ?",
+"reponses": [
+{ "id": "a", "texte": "Ses enfants refusent de faire leurs devoirs de mathématiques.", "correcte": false },
+{ "id": "b", "texte": "Ses adolescents sont totalement absorbés par leurs écrans tard le soir.", "correcte": true },
+{ "id": "c", "texte": "Ses enfants veulent acheter une nouvelle console de jeux.", "correcte": false },
+{ "id": "d", "texte": "Une dispute violente a éclaté entre Lucas et Chloé.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-034-02",
+"question": "Quel argument Lucas utilise-t-il pour défendre sa consommation d'écrans ?",
+"reponses": [
+{ "id": "a", "texte": "Il affirme qu'il révise ses cours d'histoire en ligne.", "correcte": false },
+{ "id": "b", "texte": "Il soutient que c'est un moyen indispensable pour maintenir ses liens sociaux.", "correcte": true },
+{ "id": "c", "texte": "Il prétend que les écrans améliorent sa vue.", "correcte": false },
+{ "id": "d", "texte": "Il explique qu'il gagne de l'argent grâce à ses vidéos.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-034-03",
+"question": "Selon Sandrine, quel impact cognitif négatif les notifications ont-elles ?",
+"reponses": [
+{ "id": "a", "texte": "Elles provoquent des maux de tête chroniques.", "correcte": false },
+{ "id": "b", "texte": "Elles diminuent considérablement les capacités de concentration profonde.", "correcte": true },
+{ "id": "c", "texte": "Elles effacent la mémoire à court terme.", "correcte": false },
+{ "id": "d", "texte": "Elles empêchent l'apprentissage des langues étrangères.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-034-04",
+"question": "À quoi correspond l'expression « gratifications instantanées » dans ce contexte ?",
+"reponses": [
+{ "id": "a", "texte": "Aux notes données par les enseignants en fin de trimestre.", "correcte": false },
+{ "id": "b", "texte": "Aux récompenses financières obtenues lors de jeux en ligne.", "correcte": false },
+{ "id": "c", "texte": "Au plaisir immédiat généré par les mentions 'j'aime' et les notifications.", "correcte": true },
+{ "id": "d", "texte": "Aux cadeaux offerts par les parents pour Noël.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-034-05",
+"question": "Quel type de texte régit principalement cet exercice b034 ?",
+"reponses": [
+{ "id": "a", "texte": "Un récit narratif intégrant un dialogue argumentatif.", "correcte": true },
+{ "id": "b", "texte": "Une notice d'utilisation médicale de tablettes.", "correcte": false },
+{ "id": "c", "texte": "Un éditorial de presse scientifique pure.", "correcte": false },
+{ "id": "d", "texte": "Une lettre de réclamation officielle.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-034-06",
+"question": "Quelle nuance le connecteur « en revanche », utilisé par Sandrine, apporte-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Il sert à marquer son accord total avec son fils Lucas.", "correcte": false },
+{ "id": "b", "texte": "Il introduit une opposition claire pour déplacer le débat vers les risques physiologiques.", "correcte": true },
+{ "id": "c", "texte": "Il valide les théories développées par Chloé.", "correcte": false },
+{ "id": "d", "texte": "Il indique une conséquence chronologique de la discussion.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-034-07",
+"question": "Que signifie le mot « blafarde » pour qualifier la lueur de l'écran ?",
+"reponses": [
+{ "id": "a", "texte": "Une lumière chaude et rassurante.", "correcte": false },
+{ "id": "b", "texte": "Une clarté pâle, froide et peu naturelle.", "correcte": true },
+{ "id": "c", "texte": "Un éclairage clignotant et multicolore.", "correcte": false },
+{ "id": "d", "texte": "Une obscurité totale et angoissante.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-034-08",
+"question": "Quelle est la conclusion ou la situation finale du récit ?",
+"reponses": [
+{ "id": "a", "texte": "Les enfants acceptent de donner leurs téléphones à leur mère.", "correcte": false },
+{ "id": "b", "texte": "Le dialogue se solde par une rupture et un constat d'incompréhension mutuelle.", "correcte": true },
+{ "id": "c", "texte": "Sandrine décide de s'acheter une nouvelle tablette elle aussi.", "correcte": false },
+{ "id": "d", "texte": "Toute la famille décide de partir faire une promenade nocturne.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b035",
+"titre": "Les nouvelles technologies rendent-elles les individus plus autonomes ?",
+"titre2": "Exercice b035",
+"texte": [
+"L'émancipation de l'individu moderne passe invariablement par les outils qu'il déploie pour maîtriser son environnement. À cet égard, l'omniprésence des technologies numériques est régulièrement célébrée comme l'avènement d'une autonomie absolue. Grâce aux applications de navigation, aux plateformes de gestion bancaire et à l'accès instantané aux tutoriels en tout genre, chacun semble en mesure de résoudre ses problématiques quotidiennes sans dépendre d'un tiers. C'est la promesse séduisante de l'auto-suffisance connectée.",
+"Néanmoins, cette autonomie apparente dissimule une vulnérabilité et une dépendance d'une nature inédite. Quoique l'usager se sente libre lorsqu'il planifie son itinéraire ou gère ses finances depuis son canapé, il oublie qu'il délègue ses compétences cognitives de base à des systèmes dont il ignore tout du fonctionnement. Que survienne une panne de réseau prolongée ou une cyberattaque systémique, et le citoyen prétendument autonome se retrouve instantanément démuni, incapable de s'orienter dans sa propre ville ou d'effectuer la moindre transaction financière. Autrement dit, nous avons substitué une dépendance humaine et locale par une dépendance technologique et globale.",
+"Par conséquent, la véritable autonomie ne réside pas dans l'usage frénétique des applications, mais dans la capacité à conserver un esprit critique face à elles. Tant que l'école et les institutions ne formeront pas les citoyens à comprendre les structures du monde numérique — plutôt qu'à simplement consommer des interfaces fluides —, cette prétendue liberté ne sera qu'une laisse électronique dorée. En définitive, les technologies élargissent nos possibilités d'action tandis qu'elles rétrécissent subtilement notre capacité de résilience autonome."
+],
+"audios": [
+{ "id": "audio-fr-read-b2-035-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b2-035-01",
+"question": "Pourquoi dit-on initialement que les technologies favorisent l'autonomie ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'elles permettent d'imprimer de l'argent chez soi.", "correcte": false },
+{ "id": "b", "texte": "Parce qu'elles offrent la possibilité de régler ses problèmes quotidiens sans aide humaine directe.", "correcte": true },
+{ "id": "c", "texte": "Parce qu'elles suppriment l'obligation de payer des impôts.", "correcte": false },
+{ "id": "d", "texte": "Parce qu'elles rendent les voyages à l'étranger obligatoires.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-035-02",
+"question": "Quel piège caché l'auteur met-il en évidence derrière cette liberté apparente ?",
+"reponses": [
+{ "id": "a", "texte": "Le coût astronomique du matériel informatique de pointe.", "correcte": false },
+{ "id": "b", "texte": "La délégation de nos capacités cognitives fondamentales à des machines.", "correcte": true },
+{ "id": "c", "texte": "L'augmentation du temps de travail des ingénieurs.", "correcte": false },
+{ "id": "d", "texte": "La mauvaise qualité esthétique des applications actuelles.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-035-03",
+"question": "Qu'arrive-t-il à l'individu connecté en cas de panne de réseau selon le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Il redécouvre immédiatement le plaisir de la lecture classique.", "correcte": false },
+{ "id": "b", "texte": "Il se retrouve totalement démuni et incapable d'accomplir des actions basiques.", "correcte": true },
+{ "id": "c", "texte": "Il crée sa propre application de secours en quelques minutes.", "correcte": false },
+{ "id": "d", "texte": "Il demande une compensation financière à sa banque.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-035-04",
+"question": "Quelle opposition le connecteur « tandis que » met-il en relief dans la conclusion ?",
+"reponses": [
+{ "id": "a", "texte": "L'augmentation des salaires face à la baisse du pouvoir d'achat.", "correcte": false },
+{ "id": "b", "texte": "L'élargissement de nos options d'action face au déclin de notre résilience propre.", "correcte": true },
+{ "id": "c", "texte": "La gratuité des savoirs face au monopole des universités.", "correcte": false },
+{ "id": "d", "texte": "Le développement des campagnes face à l'urbanisation.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-035-05",
+"question": "Quelle expression imagée l'auteur utilise-t-il pour qualifier cette fausse liberté numérique ?",
+"reponses": [
+{ "id": "a", "texte": "Une barrière de corail virtuelle.", "correcte": false },
+{ "id": "b", "texte": "Une laisse électronique dorée.", "correcte": true },
+{ "id": "c", "texte": "Un château de cartes informatique.", "correcte": false },
+{ "id": "d", "texte": "Un mirage dans un désert de silicium.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-035-06",
+"question": "À quoi sert le connecteur « quoique » introduit au deuxième paragraphe ?",
+"reponses": [
+{ "id": "a", "texte": "À indiquer une condition stricte et non négociable.", "correcte": false },
+{ "id": "b", "texte": "À exprimer une concession concernant le sentiment de liberté de l'usager.", "correcte": true },
+{ "id": "c", "texte": "À énumérer des exemples d'applications de navigation.", "correcte": false },
+{ "id": "d", "texte": "À conclure définitivement la démonstration sociologique.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-035-07",
+"question": "Le mot « résilience » dans ce texte fait référence à la capacité de...",
+"reponses": [
+{ "id": "a", "texte": "Réparer soi-même un ordinateur en panne.", "correcte": false },
+{ "id": "b", "texte": "Surmonter une perturbation en s'adaptant par ses propres moyens.", "correcte": true },
+{ "id": "c", "texte": "Gagner un procès contre une multinationale du web.", "correcte": false },
+{ "id": "d", "texte": "Mémoriser de longs codes d'accès secrets.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-035-08",
+"question": "Quelle est la nature de ce texte b035 ?",
+"reponses": [
+{ "id": "a", "texte": "Un extrait de roman d'apprentissage du XIXe siècle.", "correcte": false },
+{ "id": "b", "texte": "Une chronique d'analyse de type essai argumentatif et nuancé.", "correcte": true },
+{ "id": "c", "texte": "Un entretien journalistique transcrit mot à mot.", "correcte": false },
+{ "id": "d", "texte": "Un décret ministériel sur l'usage des écrans.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b036",
+"titre": "Les robots peuvent-ils remplacer l'être humain dans certains domaines ?",
+"titre2": "Exercice b036",
+"texte": [
+"— Regarde cette vidéo, Antoine. C'est fascinant et terrifiant à la fois. Ce bras articulé doté d'une IA réalise des opérations chirurgicales d'une précision microscopique, sans le moindre tremblement humain. Penses-tu que les chirurgiens feront bientôt partie des métiers obsolètes ?",
+"— C'est une question légitime, Claire. Néanmoins, tu confonds l'exécution technique parfaite avec l'art du diagnostic et de la prise de décision éthique. Le robot excelle dans la répétition millimétrée d'un geste programmé. En revanche, face à une complication imprévue en cours d'opération, là où l'anatomie dévie de la norme des bases de données, l'intuition et l'expérience clinique de l'humain restent irremplaçables.",
+"— Je comprends ta nuance. Cependant, dans des secteurs moins complexes, comme la logistique ou la restauration, l'automatisation détruit des milliers d'emplois. Les robots n'ont pas besoin de dormir, ne tombent jamais malades et ne revendiquent aucune hausse de salaire. Par conséquent, la substitution me paraît inéluctable pour les tâches à faible valeur ajoutée.",
+"— C'est indéniable sur le plan purement comptable. Bien que cela rationalise les coûts de production des entreprises, cette transition pose un défi social herculéen. Si nous laissons les machines vider le marché du travail de ses fonctions intermédiaires et d'exécution, comment assurerons-nous la redistribution des richesses ? Autrement dit, le problème majeur de la robotisation n'est pas technologique, il est éminemment politique et humain."
+],
+"audios": [
+{ "id": "audio-fr-read-b2-036-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b2-036-01",
+"question": "Quel exemple concret Claire utilise-t-elle pour introduire le sujet ?",
+"reponses": [
+{ "id": "a", "texte": "Un drone livreur de pizzas en milieu urbain.", "correcte": false },
+{ "id": "b", "texte": "Un bras articulé effectuant des chirurgies de haute précision.", "correcte": true },
+{ "id": "c", "texte": "Un logiciel traduisant des textes anciens en temps réel.", "correcte": false },
+{ "id": "d", "texte": "Une voiture autonome circulant sur l'autoroute.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-036-02",
+"question": "Pourquoi Antoine estime-t-il que le chirurgien humain reste irremplaçable ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que les patients refusent catégoriquement d'être touchés par du métal.", "correcte": false },
+{ "id": "b", "texte": "Parce que l'humain possède l'intuition et la capacité d'adaptation face à l'imprévu.", "correcte": true },
+{ "id": "c", "texte": "Parce que le coût d'entretien des robots médicaux est prohibitif.", "correcte": false },
+{ "id": "d", "texte": "Parce que la loi interdit aux robots de prescrire des médicaments.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-036-03",
+"question": "Quels sont les avantages des robots pour les chefs d'entreprise selon Claire ?",
+"reponses": [
+{ "id": "a", "texte": "Ils sont capables de former les nouveaux apprentis.", "correcte": false },
+{ "id": "b", "texte": "Ils travaillent sans interruption, ne tombent pas malades et n'ont pas d'exigences salariales.", "correcte": true },
+{ "id": "c", "texte": "Ils paient volontairement des cotisations de retraite à l'État.", "correcte": false },
+{ "id": "d", "texte": "Ils améliorent l'ambiance et les relations humaines au bureau.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-036-04",
+"question": "Selon Antoine, quelle est la véritable nature du problème posé par la robotisation ?",
+"reponses": [
+{ "id": "a", "texte": "Un problème technique de stockage de l'énergie électrique.", "correcte": false },
+{ "id": "b", "texte": "Une question politique et humaine liée à la redistribution des richesses.", "correcte": true },
+{ "id": "c", "texte": "Un manque flagrant de puces électroniques sur le marché.", "correcte": false },
+{ "id": "d", "texte": "Le désintérêt des universités pour les filières scientifiques.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-036-05",
+"question": "Quel adjectif qualifie un défi immense et digne des forces d'un héros mythologique dans le texte ?",
+"reponses": [
+{ "id": "a", "texte": "Inéluctable.", "correcte": false },
+{ "id": "b", "texte": "Herculéen.", "correcte": true },
+{ "id": "c", "texte": "Obsolète.", "correcte": false },
+{ "id": "d", "texte": "Comptable.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-036-06",
+"question": "Quelle forme textuelle définit l'ossature de cet exercice b036 ?",
+"reponses": [
+{ "id": "a", "texte": "Un dialogue direct argumentatif entre deux personnes.", "correcte": true },
+{ "id": "b", "texte": "Un monologue intérieur poétique.", "correcte": false },
+{ "id": "c", "texte": "Un article encyclopédique neutre.", "correcte": false },
+{ "id": "d", "texte": "Une lettre de licenciement économique.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-036-07",
+"question": "À quoi sert le connecteur « bien que » employé au dernier paragraphe par Antoine ?",
+"reponses": [
+{ "id": "a", "texte": "À introduire une conclusion chiffrée.", "correcte": false },
+{ "id": "b", "texte": "À concéder que la baisse des coûts est réelle tout en soulignant le défi social.", "correcte": true },
+{ "id": "c", "texte": "À rejeter totalement l'argumentation de Claire.", "correcte": false },
+{ "id": "d", "texte": "À définir le terme de robotisation.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-036-08",
+"question": "Que signifie l'expression « métiers obsolètes » employés par Claire ?",
+"reponses": [
+{ "id": "a", "texte": "Des professions extrêmement prestigieuses.", "correcte": false },
+{ "id": "b", "texte": "Des emplois dépassés qui risquent de disparaître.", "correcte": true },
+{ "id": "c", "texte": "Des activités manuelles de plein air.", "correcte": false },
+{ "id": "d", "texte": "Des fonctions réservées aux robots.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b037",
+"titre": "La protection des données personnelles : un défi majeur du XXIe siècle",
+"titre2": "Exercice b037",
+"texte": [
+"À l'aube de l'économie de la donnée, l'adage populaire affirmant que 'si c'est gratuit, c'est vous êtes le produit' n'a jamais résonné avec autant de force. Chaque seconde, l'humanité génère des exaoctets d'informations à travers ses requêtes, ses transactions et ses interactions virtuelles. Cette masse brute, baptisée 'or noir du numérique', constitue le carburant exclusif des modèles économiques des géants technologiques. Dès lors, la sanctuarisation de nos données personnelles s'impose comme l'un des combats juridiques et éthiques les plus cruciaux de notre époque.",
+"Certes, des initiatives législatives d'envergure, à l'instar du Règlement Général sur la Protection des Données (RGPD) en Europe, ont posé des jalons protecteurs indéniables. Les entreprises sont désormais contraintes de solliciter le consentement explicite de l'usager et de garantir un droit à l'oubli. Néanmoins, l'arsenal juridique peine à suivre le rythme effréné des innovations. Pendant que les parlements débattent de textes de loi complexes, les ingénieurs déploient déjà de nouvelles techniques de traçage comportemental encore non réglementées. Par conséquent, la loi accuse structurellement un train de retard sur la technique.",
+"Autrement dit, s'en remettre uniquement à la protection étatique s'avère insuffisant. La préservation de l'intimité numérique exige une véritable émancipation des usagers à travers l'apprentissage de la cyber-hygiène. Utiliser des moteurs de recherche écoresponsables, chiffrer ses communications et segmenter ses identités numériques sont autant de gestes barrières indispensables. En définitive, les données personnelles ne sont pas de simples marchandises abstraites ; elles matérialisent le prolongement direct de notre liberté individuelle."
+],
+"audios": [
+{ "id": "audio-fr-read-b2-037-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b2-037-01",
+"question": "Pourquoi les données personnelles sont-elles qualifiées d'« or noir du numérique » ?",
+"reponses": [
+{ "id": "a", "texte": "Parce qu'elles polluent physiquement les serveurs informatiques.", "correcte": false },
+{ "id": "b", "texte": "Parce qu'elles représentent une valeur marchande immense et alimentent l'économie numérique.", "correcte": true },
+{ "id": "c", "texte": "Parce qu'elles proviennent principalement de l'industrie pétrolière.", "correcte": false },
+{ "id": "d", "texte": "Parce que leur stockage requiert l'usage de câbles sombres.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-037-02",
+"question": "Quelle avancée majeure le RGPD a-t-il introduite d'après le texte ?",
+"reponses": [
+{ "id": "a", "texte": "La gratuité totale de toutes les connexions internet en Europe.", "correcte": false },
+{ "id": "b", "texte": "L'obligation d'obtenir le consentement de l'usager et d'instaurer le droit à l'oubli.", "correcte": true },
+{ "id": "c", "texte": "L'interdiction stricte de créer des réseaux sociaux commerciaux.", "correcte": false },
+{ "id": "d", "texte": "La nationalisation des fournisseurs d'accès internet.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-037-03",
+"question": "Pourquoi l'arsenal juridique est-il jugé insuffisant ou incomplet ?",
+"reponses": [
+{ "id": "a", "texte": "Parce que les juges refusent d'utiliser des ordinateurs.", "correcte": false },
+{ "id": "b", "texte": "Parce que la législation avance beaucoup moins vite que les innovations de traçage des ingénieurs.", "correcte": true },
+{ "id": "c", "texte": "Parce que les parlements ont voté la suppression du RGPD.", "correcte": false },
+{ "id": "d", "texte": "Parce que les entreprises refusent de payer les amendes.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-037-04",
+"question": "Qu'est-ce que l'auteur entend par le terme de « cyber-hygiène » ?",
+"reponses": [
+{ "id": "a", "texte": "Le nettoyage physique régulier de son clavier et de son écran.", "correcte": false },
+{ "id": "b", "texte": "L'adoption de pratiques numériques sécurisées et protectrices de son intimité.", "correcte": true },
+{ "id": "c", "texte": "La réduction du temps passé à jouer aux jeux vidéo.", "correcte": false },
+{ "id": "d", "texte": "L'interdiction d'utiliser des appareils électroniques à table.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-037-05",
+"question": "Quel mot du premier paragraphe désigne l'action de protéger un lieu ou un concept en le rendant inviolable ?",
+"reponses": [
+{ "id": "a", "texte": "L'adage.", "correcte": false },
+{ "id": "b", "texte": "La sanctuarisation.", "correcte": true },
+{ "id": "c", "texte": "L'exaoctet.", "correcte": false },
+{ "id": "d", "texte": "L'envergure.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-037-06",
+"question": "À quoi sert le connecteur « de ce fait » ou « dès lors » au premier paragraphe ?",
+"reponses": [
+{ "id": "a", "texte": "À marquer la conséquence logique de la valeur marchande prise par les données.", "correcte": true },
+{ "id": "b", "texte": "À introduire une opposition avec l'adage populaire.", "correcte": false },
+{ "id": "c", "texte": "À exprimer un regret ou une concession.", "correcte": false },
+{ "id": "d", "texte": "À situer l'action dans un cadre temporel passé.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-037-07",
+"question": "Selon la conclusion, que représentent fondamentalement les données personnelles ?",
+"reponses": [
+{ "id": "a", "texte": "Des fichiers informatiques totalement dénués d'importance humaine.", "correcte": false },
+{ "id": "b", "texte": "Le prolongement direct de notre liberté individuelle.", "correcte": true },
+{ "id": "c", "texte": "Un produit financier réservé aux spéculateurs boursiers.", "correcte": false },
+{ "id": "d", "texte": "Des outils destinés exclusivement aux administrations étatiques.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-037-08",
+"question": "Quelle est la nature de ce texte ?",
+"reponses": [
+{ "id": "a", "texte": "Un extrait de plaidoyer ou d'essai argumentatif de niveau soutenu.", "correcte": true },
+{ "id": "b", "texte": "Un dialogue de type semi-dialogue entre un député et un ingénieur.", "correcte": false },
+{ "id": "c", "texte": "Un contrat d'assurance pour matériel informatique.", "correcte": false },
+{ "id": "d", "texte": "Un poème sur les dangers du silicium.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b038",
+"titre": "L'impact des algorithmes sur nos décisions quotidiennes",
+"titre2": "Exercice b038",
+"texte": [
+"Qui a choisi le film que vous avez regardé hier soir ? Qui a sélectionné la route que vous avez empruntée ce matin pour éviter les embouteillages ? Si vous croyez en être l'unique auteur, vous commettez une profonde erreur de perspective. De manière souterraine, les algorithmes de recommandation et de guidage balisent désormais l'intégralité de nos choix quotidiens, orchestrant nos existences vers une optimisation permanente.",
+"Bien que cette assistance algorithmique apporte un confort indéniable en nous épargnant la fatigue décisionnelle, elle engendre un phénomène sociologique pernicieux : la bulle de filtres. Conçus pour maximiser notre engagement, les systèmes prédictifs nous suggèrent exclusivement des contenus, des opinions ou des produits en parfaite adéquation avec nos préférences antérieures. Par conséquent, l'inattendu, la dissonance et la sérendipité sont méticuleusement bannis de nos interfaces. Nous sommes enfermés dans un miroir déformant qui conforte nos certitudes et atrophie notre curiosité naturelle.",
+"Néanmoins, le danger le plus feutré réside dans la standardisation des comportements humains. À force d'obéir aveuglément aux suggestions des applications — qu'il s'agisse de choisir un restaurant, un partenaire amoureux ou un parcours universitaire —, l'individu désapprend l'art du tâtonnement et le droit à l'erreur. Autrement dit, nous déléguons notre subjectivité à des lignes de code. En définitive, pour préserver la singularité de notre condition humaine, il devient impératif de réhabiliter le goût du hasard et de l'égarement volontaire."
+],
+"audios": [
+{ "id": "audio-fr-read-b2-038-1", "url": "soundcloud.com" }
+],
+"questions": [
+{
+"id": "q-fr-read-b2-038-01",
+"question": "Quel constat l'auteur pose-t-il dans l'introduction de son texte ?",
+"reponses": [
+{ "id": "a", "texte": "Les algorithmes manquent d'efficacité pour guider les automobilistes.", "correcte": false },
+{ "id": "b", "texte": "Nos choix quotidiens sont secrètement orientés et balisés par des algorithmes.", "correcte": true },
+{ "id": "c", "texte": "Les citoyens refusent d'utiliser les plateformes de streaming vidéo.", "correcte": false },
+{ "id": "d", "texte": "La fatigue décisionnelle pousse les gens à ne plus sortir de chez eux.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-038-02",
+"question": "Qu'est-ce que le phénomène de « bulle de filtres » décrit au paragraphe 2 ?",
+"reponses": [
+{ "id": "a", "texte": "Un problème d'étanchéité des composants électroniques des ordinateurs.", "correcte": false },
+{ "id": "b", "texte": "Le fait d'être exposé uniquement à des contenus qui confirment nos opinions antérieures.", "correcte": true },
+{ "id": "c", "texte": "L'interdiction d'accéder aux sites internet étrangers.", "correcte": false },
+{ "id": "d", "texte": "Un système de sécurité destiné à bloquer les courriels indésirables.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-038-03",
+"question": "Quelle est la conséquence majeure de la disparition de la sérendipité sur l'esprit humain ?",
+"reponses": [
+{ "id": "a", "texte": "Elle provoque une baisse radicale de l'acuité visuelle.", "correcte": false },
+{ "id": "b", "texte": "Elle atrophie la curiosité naturelle et renforce les certitudes de l'individu.", "correcte": true },
+{ "id": "c", "texte": "Elle accélère l'apprentissage des langages informatiques complexes.", "correcte": false },
+{ "id": "d", "texte": "Elle pousse les utilisateurs à changer fréquemment d'opérateur mobile.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-038-04",
+"question": "Quel danger l'auteur qualifie-t-il de « feutré » au troisième paragraphe ?",
+"reponses": [
+{ "id": "a", "texte": "La panne généralisée des serveurs de guidage GPS.", "correcte": false },
+{ "id": "b", "texte": "La standardisation invisible de nos comportements et la perte de notre subjectivité.", "correcte": true },
+{ "id": "c", "texte": "L'augmentation frauduleuse des tarifs des abonnements en ligne.", "correcte": false },
+{ "id": "d", "texte": "Le manque de formation des ingénieurs en intelligence artificielle.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-038-05",
+"question": "Que signifie le mot « sérendipité » évoqué au deuxième paragraphe ?",
+"reponses": [
+{ "id": "a", "texte": "L'application stricte d'un protocole informatique de sécurité.", "correcte": false },
+{ "id": "b", "texte": "Le fait de faire une découverte scientifique ou heureuse par pur hasard.", "correcte": true },
+{ "id": "c", "texte": "Une erreur de programmation provoquant le blocage d'un site.", "correcte": false },
+{ "id": "d", "texte": "Le calcul mathématique de la trajectoire d'un satellite.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-038-06",
+"question": "Quel connecteur introduit la concession dès l'entame du deuxième paragraphe ?",
+"reponses": [
+{ "id": "a", "texte": "Par conséquent", "correcte": false },
+{ "id": "b", "texte": "Bien que", "correcte": true },
+{ "id": "c", "texte": "Néanmoins", "correcte": false },
+{ "id": "d", "texte": "Autrement dit", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-038-07",
+"question": "Quelle recommandation l'auteur formule-t-il en guise de conclusion ?",
+"reponses": [
+{ "id": "a", "texte": "Désinstaller toutes les applications de nos téléphones.", "correcte": false },
+{ "id": "b", "texte": "Réhabiliter et cultiver le goût du hasard et de l'égarement volontaire.", "correcte": true },
+{ "id": "c", "texte": "Augmenter le temps passé devant les écrans pour saturer l'algorithme.", "correcte": false },
+{ "id": "d", "texte": "Exiger la gratuité de l'ensemble des systèmes de guidage routier.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-038-08",
+"question": "Le mot « pernicieux », utilisé au deuxième paragraphe, signifie que le phénomène est...",
+"reponses": [
+{ "id": "a", "texte": "Totalement inoffensif et passager.", "correcte": false },
+{ "id": "b", "texte": "Subtilement nuisible et dangereux sur le long terme.", "correcte": true },
+{ "id": "c", "texte": "Extrêmement bénéfique pour l'esprit.", "correcte": false },
+{ "id": "d", "texte": "Facile à mesurer statistiquement.", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "b039",
+    "titre": "Internet favorise-t-il réellement l'accès universel au savoir ?",
+    "titre2": "Exercice b039",
+    "texte": [
+      "À l'aube de l'ère numérique, les pères fondateurs du réseau mondial prophétisaient l'avènement d'une agora planétaire, un espace démocratique où la connaissance, autrefois confinée dans d'inaccessibles bibliothèques, serait instantanément partagée avec l'humanité entière. Certes, l'accès immédiat à des millions d'encyclopédies, de thèses et de cours universitaires en ligne confère à cet outil une puissance d'émancipation intellectuelle sans précédent historique. Néanmoins, l'illusion d'un savoir universel et égalitaire se heurte aujourd'hui à de cruelles réalités économiques et cognitives.",
+      "Premièrement, le mirage de l'universalité occulte une fracture numérique persistante. Tandis que les populations des métropoles occidentales naviguent à haut débit, des régions entières demeurent enclavées, privées des infrastructures de base. Par conséquent, loin de gommer les inégalités, internet peut parfois les accentuer. De surcroît, la barrière linguistique s'avère redoutable : une écrasante majorité des contenus scientifiques est rédigée en anglais, excluant d'emblée des millions de locuteurs natifs d'autres langues qui ne possèdent pas les outils de traduction adéquats.",
+      "Deuxièmement, et c'est là le paradoxe le plus pernicieux, l'abondance d'informations ne se traduit pas automatiquement par une élévation du niveau de connaissances. Face à cet océan de données, l'esprit humain, s'il n'est pas doté d'une solide méthode d'analyse, tend à se noyer. Les algorithmes des plateformes commerciales captent notre attention en favorisant les contenus sensationnalistes au détriment des analyses rigoureuses. En définitive, sans une éducation rigoureuse aux médias, internet se transforme en un formidable amplificateur de croyances et de superstitions plutôt qu'en un sanctuaire du savoir rationnel."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-b2-039-1", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-b2-039-01",
+        "question": "Quelle était l'ambition initiale des créateurs d'internet selon le premier paragraphe ?",
+        "reponses": [
+          { "id": "a", "texte": "Développer un marché commercial hautement lucratif.", "correcte": false },
+          { "id": "b", "texte": "Créer un espace démocratique de partage universel du savoir.", "correcte": true },
+          { "id": "c", "texte": "Remplacer définitivement les enseignants par des ordinateurs.", "correcte": false },
+          { "id": "d", "texte": "Interdire l'accès aux bibliothèques physiques traditionnelles.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-039-02",
+        "question": "Pourquoi l'auteur parle-t-il d'un « mirage de l'universalité » ?",
+        "reponses": [
+          { "id": "a", "texte": "Parce que l'accès au réseau reste très inégalitaire à l'échelle mondiale.", "correcte": true },
+          { "id": "b", "texte": "Parce que les écrans provoquent des troubles de la vision.", "correcte": false },
+          { "id": "c", "texte": "Parce que la majorité des utilisateurs refuse de lire en ligne.", "correcte": false },
+          { "id": "d", "texte": "Parce que les gouvernements s'opposent tous au haut débit.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-039-03",
+        "question": "Quel obstacle linguistique majeur est mentionné dans le deuxième paragraphe ?",
+        "reponses": [
+          { "id": "a", "texte": "Les langues régionales disparaissent à cause des traducteurs automatiques.", "correcte": false },
+          { "id": "b", "texte": "La domination de l'anglais exclut de fait une grande partie de la population mondiale.", "correcte": true },
+          { "id": "c", "texte": "Le codage informatique utilise des caractères trop complexes.", "correcte": false },
+          { "id": "d", "texte": "Les internautes refusent d'apprendre de nouvelles langues vivantes.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-039-04",
+        "question": "Selon l'auteur, quel est l'effet pervers de l'abondance d'informations ?",
+        "reponses": [
+          { "id": "a", "texte": "Elle incite les étudiants à abandonner complètement leurs recherches.", "correcte": false },
+          { "id": "b", "texte": "Elle surcharge l'esprit et nécessite une méthode critique pour ne pas s'y perdre.", "correcte": true },
+          { "id": "c", "texte": "Elle diminue la vitesse de connexion des serveurs mondiaux.", "correcte": false },
+          { "id": "d", "texte": "Elle pousse les éditeurs à baisser le prix des livres papier.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-039-05",
+        "question": "Quel rôle les algorithmes commerciaux jouent-ils dans ce contexte ?",
+        "reponses": [
+          { "id": "a", "texte": "Ils sélectionnent uniquement les thèses universitaires les plus sérieuses.", "correcte": false },
+          { "id": "b", "texte": "Ils privilégient les contenus sensationnels pour capter l'attention de l'usager.", "correcte": true },
+          { "id": "c", "texte": "Ils traduisent instantanément tous les textes dans toutes les langues.", "correcte": false },
+          { "id": "d", "texte": "Ils suppriment automatiquement les fausses informations du réseau.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-039-06",
+        "question": "Quelle condition essentielle l'auteur pose-t-il pour qu'internet soit un réel outil de savoir ?",
+        "reponses": [
+          { "id": "a", "texte": "L'achat obligatoire d'ordinateurs de dernière génération.", "correcte": false },
+          { "id": "b", "texte": "Une éducation solide aux médias et à l'esprit critique.", "correcte": true },
+          { "id": "c", "texte": "La gratuité totale de tous les abonnements téléphoniques.", "correcte": false },
+          { "id": "d", "texte": "La fermeture des sites web à vocation divertissante.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-039-07",
+        "question": "Quel genre textuel correspond le mieux à cet exercice b039 ?",
+        "reponses": [
+          { "id": "a", "texte": "Un échange de courriels d'assistance technique.", "correcte": false },
+          { "id": "b", "texte": "Un article ou essai argumentatif et analytique.", "correcte": true },
+          { "id": "c", "texte": "Une notice d'installation de routeur internet.", "correcte": false },
+          { "id": "d", "texte": "Un poème lyrique sur la modernité technologique.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-fr-read-b2-039-08",
+        "question": "Quelle nuance le connecteur « tandis que », au deuxième paragraphe, introduit-il ?",
+        "reponses": [
+          { "id": "a", "texte": "Il marque une conséquence inévitable d'un investissement public.", "correcte": false },
+          { "id": "b", "texte": "Il établit une opposition simultanée entre deux situations géographiques.", "correcte": true },
+          { "id": "c", "texte": "Il résume la pensée finale des pères fondateurs du réseau.", "correcte": false },
+          { "id": "d", "texte": "Il illustre un exemple de traduction linguistique réussie.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b040",
+    "titre": "Comment lutter contre la manipulation de l'information en ligne ?",
+    "titre2": "Exercice b040",
+    "texte": [
+      "Dans le studio feutré de la chaîne d'information, la tension était palpable. Le grand débat de la soirée réunissait une journaliste d'investigation chevronnée et un ingénieur spécialisé dans la sécurité des données. Au cœur de leur confrontation : la prolifération incontrôlée des fausses informations, communément appelées 'infox', qui menacent l'équilibre de nos démocraties.",
+      "— Notre modèle informationnel est au bord de l'asphyxie, commença la journaliste d'un ton grave. Autrefois, les rédactions jouaient le rôle de filtres rigoureux. Aujourd'hui, n'importe quel contenu frelaté peut devenir viral en quelques minutes. Bien que les plateformes numériques prétendent réguler leurs flux, la vérité est qu'elles tirent profit du chaos émotionnel généré par ces rumeurs. À mon sens, la seule issue réside dans une législation contraignante et des sanctions financières drastiques contre les géants de la Tech.",
+      "— Je comprends votre exaspération, répondit l'ingénieur en ajustant ses lunettes. Néanmoins, l'approche purement répressive ou juridique se heurte à des limites techniques insurmontables. Les créateurs d'infox changent constamment de serveurs et utilisent des algorithmes de camouflage d'une sophistication inouïe. Par conséquent, si l'on censure de manière trop zélée, le risque de basculer dans une surveillance généralisée de l'internet et de museler la liberté d'expression légitime est immense.",
+      "— Alors, que préconisez-vous ? Devons-estimer que la bataille est perdue d'avance et nous résigner à vivre dans un monde de faux-semblants ?",
+      "— Absolument pas. Cependant, l'arme absolue n'est pas logicielle, elle est humaine. Autrement dit, c'est l'esprit critique de l'internaute qu'il faut armer. Il faut sanctuariser des heures de vérification de l'information dans les écoles. Un citoyen capable de remonter à la source d'un article, de vérifier les métadonnées d'une image et de croiser les références est totalement immunisé contre la manipulation, quelle que soit la puissance de l'algorithme qui la diffuse."
+    ],
+    "audios": [
+      { "id": "audio-fr-read-b2-040-1", "url": "soundcloud.com" }
+    ],
+    "questions": [
+      {
+        "id": "q-fr-read-b2-040-01",
+        "question": "Quelle menace principale la prolifération des fausses informations fait-elle peser selon le texte ?",
+        "reponses": [
+        { "id": "a", "texte": "L'effondrement des ventes d'ordinateurs portables de bureau.", "correcte": false },
+{ "id": "b", "texte": "Une déstabilisation profonde des fondements démocratiques.", "correcte": true },
+{ "id": "c", "texte": "Une panne générale et définitive des réseaux de télécommunication.", "correcte": false },
+{ "id": "d", "texte": "La faillite des écoles de journalisme traditionnelles.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-040-02",
+"question": "Quelle solution la journaliste préconise-t-elle en priorité pour endiguer le problème ?",
+"reponses": [
+{ "id": "a", "texte": "L'interdiction définitive d'internet pour les mineurs.", "correcte": false },
+{ "id": "b", "texte": "Une législation stricte et de lourdes amendes pour les géants du numérique.", "correcte": true },
+{ "id": "c", "texte": "La fermeture immédiate de toutes les chaînes de télévision privées.", "correcte": false },
+{ "id": "d", "texte": "La création d'un réseau social unique géré par l'État.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-040-03",
+"question": "Quel risque majeur l'ingénieur souligne-t-il en cas de censure excessive ?",
+"reponses": [
+{ "id": "a", "texte": "Une augmentation du prix de l'électricité dans les centres de données.", "correcte": false },
+{ "id": "b", "texte": "Une atteinte grave à la liberté d'expression et une surveillance de masse.", "correcte": true },
+{ "id": "c", "texte": "Un désintérêt total des citoyens pour l'actualité politique internationale.", "correcte": false },
+{ "id": "d", "texte": "Un ralentissement de la vitesse de téléchargement des fichiers.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-040-04",
+"question": "Selon l'ingénieur, quelle est la véritable méthode efficace pour lutter contre les infox ?",
+"reponses": [
+{ "id": "a", "texte": "Développer un logiciel de blocage universel obligatoire.", "correcte": false },
+{ "id": "b", "texte": "Former l'esprit critique des citoyens dès l'école pour qu'ils sachent vérifier les sources.", "correcte": true },
+{ "id": "c", "texte": "Embaucher davantage d'ingénieurs en sécurité informatique à la télévision.", "correcte": false },
+{ "id": "d", "texte": "Supprimer les téléphones portables au sein des établissements scolaires.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-040-05",
+"question": "Le mot « frelaté », employé par la journaliste au paragraphe 2, signifie ici que le contenu est...",
+"reponses": [
+{ "id": "a", "texte": "Particulièrement coûteux à produire.", "correcte": false },
+{ "id": "b", "texte": "Altéré, mensonger ou de mauvaise qualité.", "correcte": true },
+{ "id": "c", "texte": "Validé officiellement par un comité de relecture.", "correcte": false },
+{ "id": "d", "texte": "Traduit dans plusieurs langues étrangères.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-040-06",
+"question": "Quelle structure de texte définit le mieux l'organisation de cet exercice b040 ?",
+"reponses": [
+{ "id": "a", "texte": "Un long monologue à visée purement scientifique.", "correcte": false },
+{ "id": "b", "texte": "Un dialogue ou débat d'idées inséré dans un cadre de récit.", "correcte": true },
+{ "id": "c", "texte": "Une lettre d'excuses adressée à une agence de presse.", "correcte": false },
+{ "id": "d", "texte": "Un guide d'utilisation d'une plateforme de réseaux sociaux.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-040-07",
+"question": "À quoi sert la reformulation introduite par « autrement dit » au dernier paragraphe ?",
+"reponses": [
+{ "id": "a", "texte": "À contredire la thèse développée par l'ingénieur lui-même.", "correcte": false },
+{ "id": "b", "texte": "À expliciter clairement l'idée que la solution repose sur le facteur humain.", "correcte": true },
+{ "id": "c", "texte": "À introduire un nouvel argument juridique complexe.", "correcte": false },
+{ "id": "d", "texte": "À marquer une ellipse temporelle dans le déroulement du débat.", "correcte": false }
+]
+},
+{
+"id": "q-fr-read-b2-040-08",
+"question": "Quelle nuance le connecteur « bien que », employé par la journaliste, apporte-t-il ?",
+"reponses": [
+{ "id": "a", "texte": "Il exprime une concession pour opposer les prétentions des plateformes à leur profit réel.", "correcte": true },
+{ "id": "b", "texte": "Il indique une succession temporelle d'événements politiques.", "correcte": false },
+{ "id": "c", "texte": "Il introduit la conclusion définitive du débat radiophonique.", "correcte": false },
+{ "id": "d", "texte": "Il illustre un exemple de sanction financière réussie.", "correcte": false }
+]
+}
+]
 }
 ]
