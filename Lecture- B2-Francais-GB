@@ -4555,5 +4555,911 @@
 ]
 }
 ]
+},
+{
+    "id": "B2-051b",
+    "titre": "Les progrès scientifiques peuvent-ils résoudre tous les problèmes de santé ?",
+    "titre2": "Exercice 51",
+    "audios": [],
+    "texte": [
+      "L’avènement de la médecine génomique et des thérapies cellulaires suscite un espoir immense au sein des populations. De nombreux observateurs s’imaginent que le génie génétique parviendra, à terme, à éradiquer l'ensemble des pathologies humaines. Bien que ces innovations technologiques repoussent indéniablement les frontières de la longévité, croire que la science résoudra seule tous les maux relève de l’illusion scientiste.",
+      "En effet, la santé d'un individu ne dépend pas uniquement de facteurs biologiques modifiables en laboratoire. En revanche, les déterminants environnementaux, tels que la pollution de l'air, la sédentarité et l'alimentation industrielle, jouent un rôle prépondérant dans l'explosion des maladies chroniques. Par conséquent, multiplier les traitements de pointe s'avère insuffisant si l'on ne traite pas les causes structurelles de ces affections. Autrement dit, la science médicale guérit les corps, mais elle ne peut assainir une société malade de ses excès.",
+      "Néanmoins, les investissements massifs continuent de privilégier l'approche curative au détriment de l'approche globale. Quoique la recherche fondamentale accomplisse des miracles quotidiens, une transition vers une médecine intégrative et environnementale s'impose. En définitive, les progrès scientifiques ne seront pleinement bénéfiques que s'ils s'accompagnent d'une profonde transformation de nos modes de vie et d'une prise de conscience écologique collective."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quelle critique l'auteur formule-t-il vis-à-vis de l'espoir suscité par le génie génétique ?",
+        "points": 1,
+        "reponse_modele": "Il considère que croire que la science peut à elle seule éradiquer toutes les maladies relève d'une illusion scientiste.",
+        "mots_cles": [
+          { "mot": "illusion scientiste", "variantes": ["utopie", "fausse croyance"], "poids": 0.6 },
+          { "mot": "éradiquer", "variantes": ["résoudre", "guérir toutes les maladies"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quels sont les facteurs non biologiques qui influencent fortement l'apparition des maladies chroniques ?",
+        "points": 1,
+        "reponse_modele": "Les déterminants environnementaux comme la pollution de l'air, le manque d'activité physique et la nourriture industrielle.",
+        "mots_cles": [
+          { "mot": "environnementaux", "variantes": ["pollution"], "poids": 0.4 },
+          { "mot": "sédentarité", "variantes": ["manque d'exercice", "pas de sport"], "poids": 0.3 },
+          { "mot": "alimentation industrielle", "variantes": ["malbouffe", "nourriture"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Expliquez la distinction faite par l'auteur à travers la formule : « la science médicale guérit les corps, mais elle ne peut assainir une société malade ».",
+        "points": 1,
+        "reponse_modele": "La médecine peut soigner les symptômes physiques individuels, mais elle est impuissante face aux causes sociales et environnementales de la mauvaise santé.",
+        "mots_cles": [
+          { "mot": "symptômes physiques", "variantes": ["corps", "individuel"], "poids": 0.5 },
+          { "mot": "causes sociales", "variantes": ["société", "environnement", "modes de vie"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quel déséquilibre l'auteur dénonce-t-il dans l'attribution des investissements médicaux ?",
+        "points": 1,
+        "reponse_modele": "Les financements privilégient excessivement l'approche curative par rapport à une approche globale de la santé.",
+        "mots_cles": [
+          { "mot": "curative", "variantes": ["soigner après coup", "traitements"], "poids": 0.6 },
+          { "mot": "globale", "variantes": ["prévention", "environnementale"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quel type de médecine l'auteur préconise-t-il de développer à l'avenir ?",
+        "points": 1,
+        "reponse_modele": "Il préconise une transition vers une médecine intégrative et environnementale.",
+        "mots_cles": [
+          { "mot": "intégrative", "variantes": ["globale"], "poids": 0.5 },
+          { "mot": "environnementale", "variantes": ["écologique"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Selon la conclusion, à quelle condition les avancées de la science seront-elles réellement efficaces ?",
+        "points": 1,
+        "reponse_modele": "Elles doivent s'accompagner d'un changement radical de nos modes de vie et d'une prise de conscience écologique.",
+        "mots_cles": [
+          { "mot": "modes de vie", "variantes": ["habitudes", "comportements"], "poids": 0.5 },
+          { "mot": "écologique", "variantes": ["environnement", "conscience"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Trouvez un nom féminin dans le premier paragraphe signifiant « la durée de la vie humaine ».",
+        "points": 1,
+        "reponse_modele": "Longévité (dans l'expression « frontières de la longévité »).",
+        "mots_cles": [
+          { "mot": "longévité", "variantes": [], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Quelle est la valeur argumentative du connecteur « quoiqu'» introduit dans le dernier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Il sert à introduire une concession, reconnaissant l'utilité de la recherche tout en affirmant qu'elle ne suffit pas.",
+        "mots_cles": [
+          { "mot": "concession", "variantes": ["opposition", "nuance"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-052b",
+    "titre": "L'influence de l'alimentation sur la santé à long terme",
+    "titre2": "Exercice 52",
+    "audios": [],
+    "texte": [
+      "L’adage populaire affirme que nous sommes ce que nous mangeons, une intuition que les études épidémiologiques contemporaines confirment avec une rigueur mathématique. L'impact de la nutrition sur la survenue de pathologies cardiovasculaires, du diabète de type 2 et de certains cancers est scientifiquement indiscutable. Bien que l'accès à une nourriture abondante ait éliminé les famines historiques dans les pays développés, la qualité nutritionnelle de ce que nous ingérons s'est dramatiquement détériorée.",
+      "En effet, l'hégémonie de l'industrie agroalimentaire a imposé des produits ultra-transformés, saturés en sucres raffinés, en additifs chimiques et en acides gras trans. Tandis que ces produits bon marché inondent les supermarchés, ils altèrent sournoisement le microbiote intestinal et provoquent une inflammation systémique chronique. Par conséquent, les systèmes de santé publique font face à une épidémie d'obésité sans précédent. Autrement dit, la malbouffe tue aujourd'hui plus massivement que la sous-nutrition d'autrefois.",
+      "Néanmoins, modifier les habitudes alimentaires se heurte à des barrières économiques majeures. Quoique les recommandations nutritionnelles officielles incitent à consommer des produits frais et biologiques, ces derniers restent inaccessibles pour les ménages les plus modestes. En définitive, faire de l'alimentation un levier de santé durable exige une refonte des politiques agricoles et une taxation stricte de l'industrie de la malbouffe."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quelles maladies graves sont directement liées à la qualité de la nutrition selon le texte ?",
+        "points": 1,
+        "reponse_modele": "Les maladies cardiovasculaires, le diabète de type 2 et certains types de cancers.",
+        "mots_cles": [
+          { "mot": "cardiovasculaires", "variantes": ["cœur"], "poids": 0.33 },
+          { "mot": "diabète", "variantes": ["glycémie"], "poids": 0.33 },
+          { "mot": "cancers", "variantes": ["tumeurs"], "poids": 0.34 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quel paradoxe l'auteur met-il en lumière concernant l'évolution de l'alimentation dans les pays riches ?",
+        "points": 1,
+        "reponse_modele": "La nourriture est devenue abondante et les famines ont disparu, mais la qualité nutritionnelle s'est gravement détériorée.",
+        "mots_cles": [
+          { "mot": "abondante", "variantes": ["quantité", "plus de famine"], "poids": 0.5 },
+          { "mot": "qualité nutritionnelle", "variantes": ["détériorée", "mauvaise qualité"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quels ingrédients nocifs caractérisent les aliments industriels ultra-transformés d'après le texte ?",
+        "points": 1,
+        "reponse_modele": "Ils contiennent des sucres raffinés, des additifs chimiques et des acides gras trans.",
+        "mots_cles": [
+          { "mot": "sucres raffinés", "variantes": ["sucre"], "poids": 0.33 },
+          { "mot": "additifs chimiques", "variantes": ["conservateurs", "colorants"], "poids": 0.33 },
+          { "mot": "acides gras", "variantes": ["matières grasses", "trans"], "poids": 0.34 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Comment les produits industriels altèrent-ils le corps sur le plan biologique ?",
+        "points": 1,
+        "reponse_modele": "Ils perturbent le microbiote intestinal et déclenchent une inflammation systémique chronique.",
+        "mots_cles": [
+          { "mot": "microbiote intestinal", "variantes": ["flore intestinale", "ventre"], "poids": 0.6 },
+          { "mot": "inflammation", "variantes": ["systémique", "gonflement"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quelle comparaison l'auteur fait-il entre la malbouffe et la sous-nutrition ?",
+"points": 1,
+"reponse_modele": "Il affirme que la mauvaise alimentation cause aujourd'hui plus de décès que le manque de nourriture dans le passé.",
+"mots_cles": [
+{ "mot": "tue plus", "variantes": ["plus de morts", "plus massivement"], "poids": 0.6 },
+{ "mot": "sous-nutrition", "variantes": ["famine", "manque de nourriture"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Pourquoi les classes populaires ont-elles du mal à appliquer les conseils nutritionnels officiels ?",
+"points": 1,
+"reponse_modele": "Parce que les produits frais et bio coûtent cher et restent inaccessibles aux budgets des familles pauvres.",
+"mots_cles": [
+{ "mot": "coûtent cher", "variantes": ["prix élevé", "économiques"], "poids": 0.6 },
+{ "mot": "modestes", "variantes": ["pauvres", "faibles revenus"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelles solutions macroéconomiques sont suggérées à la fin pour régler cette crise ?",
+"points": 1,
+"reponse_modele": "Une transformation des politiques agricoles accompagnée d'une taxation de la nourriture industrielle nocive.",
+"mots_cles": [
+{ "mot": "politiques agricoles", "variantes": ["agriculture"], "poids": 0.5 },
+{ "mot": "taxation", "variantes": ["taxes", "impôts sur la malbouffe"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez le sens du mot « hégémonie » employé dans le deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Une domination absolue, une influence suprême exercée par un groupe sur un marché ou une société.",
+"mots_cles": [
+{ "mot": "domination", "variantes": ["suprématie", "contrôle total"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-053b",
+"titre": "La santé mentale : un sujet encore trop souvent négligé",
+"titre2": "Exercice 53",
+"audios": [],
+"texte": [
+"Pendant des décennies, la définition de la santé s'est cantonnée à l'intégrité physique du corps humain, occultant les tourments de l'esprit. Les troubles psychiatriques comme la dépression, l'anxiété généralisée ou le burn-out ont longtemps été passés sous silence par pudeur ou par ignorance. Bien que l'Organisation mondiale de la santé rappelle que le bien-être psychique est indissociable de la santé globale, la psychiatrie reste le parent pauvre de la médecine contemporaine.",
+"En effet, l'absence de marqueurs biologiques visibles favorise une minoration systématique de la souffrance psychique. En revanche, le regard de la société pose un stigmate lourd sur les personnes atteintes, assimilant souvent la dépression à un simple manque de volonté ou à une faiblesse de caractère. Par conséquent, les patients s'enferment dans l'isolement, retardant le moment de consulter un spécialiste. Autrement dit, le tabou social tue autant que l'affection elle-même.",
+"Néanmoins, les crises sanitaires et économiques récentes ont provoqué une explosion des dépressions chez les jeunes, forçant les gouvernements à réagir. Quoique des budgets d'urgence soient parfois débloqués, l'offre de soins psychiatriques publics s'avère saturée et obsolète. En définitive, lever le tabou sur la santé mentale exige un investissement financier massif dans les structures de consultation publique et une déstigmatisation dès le milieu scolaire."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle erreur historique a été commise dans la définition générale de la santé selon le texte ?",
+"points": 1,
+"reponse_modele": "La santé a été limitée à l'état physique du corps en ignorant complètement les troubles de l'esprit.",
+"mots_cles": [
+{ "mot": "physique", "variantes": ["corps", "corporel"], "poids": 0.5 },
+{ "mot": "ignorant", "variantes": ["occultant", "oubliant l'esprit"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels troubles psychologiques précis ont souffert d'un manque de reconnaissance par le passé ?",
+"points": 1,
+"reponse_modele": "La dépression, les crises d'anxiété généralisée et l'épuisement professionnel (le burn-out).",
+"mots_cles": [
+{ "mot": "dépression", "variantes": ["mélancolie"], "poids": 0.33 },
+{ "mot": "anxiété", "variantes": ["angoisse"], "poids": 0.33 },
+{ "mot": "burn-out", "variantes": ["épuisement"], "poids": 0.34 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi la souffrance psychique est-elle plus facilement minimisée par l'entourage ou la médecine ?",
+"points": 1,
+"reponse_modele": "Parce qu'elle ne présente pas de marqueurs ou de symptômes biologiques visibles extérieurement.",
+"mots_cles": [
+{ "mot": "pas de marqueurs", "variantes": ["pas de preuves physiques", "invisible"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel préjugé social courant l'auteur dénonce-t-il à propos de la dépression ?",
+"points": 1,
+"reponse_modele": "La société l'assimile faussement à un simple manque de volonté ou à une faiblesse de caractère.",
+"mots_cles": [
+{ "mot": "manque de volonté", "variantes": ["faiblesse", "paresse"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle est la conséquence directe du tabou social sur le comportement des malades ?",
+"points": 1,
+"reponse_modele": "Les patients s'isolent et attendent trop longtemps avant d'aller consulter un médecin spécialiste.",
+"mots_cles": [
+{ "mot": "isolement", "variantes": ["se cacher", "seuls"], "poids": 0.5 },
+{ "mot": "retardant", "variantes": ["ne pas consulter", "attendre"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel public a été particulièrement touché par les dépressions lors des crises récentes ?",
+"points": 1,
+"reponse_modele": "La jeunesse (les jeunes générations).",
+"mots_cles": [
+{ "mot": "jeunes", "variantes": ["jeunesse", "adolescents", "étudiants"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelles mesures concrètes la conclusion propose-t-elle pour améliorer la situation ?",
+"points": 1,
+"reponse_modele": "Un financement massif des centres de soins publics et des campagnes d'explications à l'école.",
+"mots_cles": [
+{ "mot": "financement massif", "variantes": ["investissements", "argent"], "poids": 0.5 },
+{ "mot": "milieu scolaire", "variantes": ["école", "éducation"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Donnez le sens du mot « stigmate » employé dans le deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Une marque d'infamie, un jugement social négatif qui rejette ou humilie une personne.",
+"mots_cles": [
+{ "mot": "marque d'infamie", "variantes": ["préjugé", "étiquette négative", "honte"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-054b",
+"titre": "Les limites éthiques de la recherche médicale",
+"titre2": "Exercice 54",
+"audios": [],
+"texte": [
+"L'histoire de la médecine moderne est jalonnée de découvertes spectaculaires ayant permis de sauver des millions de vies humaines. Toutefois, cette course effrénée vers l'innovation scientifique se heurte parfois à des frontières morales invisibles mais sacrées. Des expérimentations sur les cellules souches à l'édition génétique des embryons, les scientifiques manipulent désormais le vivant dans sa structure intime. Bien que ces technologies promettent d'éliminer des tares héréditaires, elles ouvrent la boîte de Pandore de l'eugénisme.",
+"En effet, l'absence de régulation mondiale uniforme crée des zones de non-droit où des chercheurs peu scrupuleux transgressent les principes fondamentaux de la bioéthique. Tandis que la charte d'Helsinki sanctuarise le consentement éclairé et le respect absolu du patient, la logique de profit de certaines firmes pharmaceutiques pousse à des essais cliniques opaques dans les pays en développement. Par conséquent, la recherche médicale risque de dériver vers une exploitation des populations les plus vulnérables.",
+"Néanmoins, interdire totalement la recherche par peur des dérives condamnerait les malades à l'impuissance thérapeutique. Quoique le contrôle soit complexe, il s'avère indispensable d'édifier des comités d'éthique indépendants et souverains. En définitive, le progrès médical ne possède de valeur réelle que s'il reste fermement inféodé au respect de la dignité humaine, refusant de transformer l'homme en un simple matériau de laboratoire."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel risque majeur l'auteur associe-t-il à la manipulation génétique des embryons ?",
+"points": 1,
+"reponse_modele": "Il craint que ces technologies n'ouvrent la porte à des dérives liées à l'eugénisme.",
+"mots_cles": [
+{ "mot": "eugénisme", "variantes": ["sélection des bébés", "modification génétique humaine"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Pourquoi existe-t-il des zones géographiques de non-droit pour la recherche médicale ?",
+"points": 1,
+"reponse_modele": "En raison de l'absence de lois et de régulations éthiques uniformes à l'échelle mondiale.",
+"mots_cles": [
+{ "mot": "absence de régulation", "variantes": ["pas de lois uniformes", "manque de règles internationales"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quels principes clés de la charte d'Helsinki sont mis en avant dans le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Le principe du consentement éclairé du patient et le respect absolu de sa personne.",
+"mots_cles": [
+{ "mot": "consentement éclairé", "variantes": ["choix libre", "accord"], "poids": 0.6 },
+{ "mot": "respect", "variantes": ["dignité", "personne"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Où certaines entreprises pharmaceutiques mènent-elles des essais cliniques douteux et pourquoi ?",
+"points": 1,
+"reponse_modele": "Elles les mènent dans les pays en développement pour maximiser leurs profits en profitant du manque de contrôle.",
+"mots_cles": [
+{ "mot": "pays en développement", "variantes": ["pays pauvres", "tiers-monde"], "poids": 0.6 },
+{ "mot": "profit", "variantes": ["argent", "moins de contrôle"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Pourquoi l'interdiction totale de la recherche médicale serait-elle également une mauvaise solution ?",
+"points": 1,
+"reponse_modele": "Parce que cela priverait les malades de nouveaux traitements et les condamnerait à l'absence de solutions médicales.",
+"mots_cles": [
+{ "mot": "traitements", "variantes": ["médicaments", "solutions"], "poids": 0.5 },
+{ "mot": "impuissance thérapeutique", "variantes": ["ne pas pouvoir guérir"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel outil de surveillance l'auteur suggère-t-il pour encadrer les travaux des scientifiques ?",
+"points": 1,
+"reponse_modele": "La création de comités d'éthique indépendants et dotés de pouvoirs souverains.",
+"mots_cles": [
+{ "mot": "comités d'éthique", "variantes": ["conseils de bioéthique"], "poids": 0.7 },
+{ "mot": "indépendants", "variantes": ["neutres"], "poids": 0.3 }
+]
+},
+{
+"id": "Q7",
+"question": "Expliquez le sens de l'expression mythologique « ouvrir la boîte de Pandore » dans ce contexte.",
+"points": 1,
+"reponse_modele": "Déclencher une suite d'événements incontrôlables, dangereux et porteurs de graves malheurs pour l'humanité.",
+"mots_cles": [
+{ "mot": "incontrôlables", "variantes": ["catastrophes", "risques graves", "dangers"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un verbe soutenu dans la conclusion signifiant « soumis à » ou « sous la dépendance de ».",
+"points": 1,
+"reponse_modele": "Inféodé (dans la phrase « reste fermement inféodé au respect »).",
+"mots_cles": [
+{ "mot": "inféodé", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-055b",
+"titre": "La prévention est-elle plus efficace que le traitement des maladies ?",
+"titre2": "Exercice 55",
+"audios": [],
+"texte": [
+"L’aphorisme médical populaire rappelle qu’il vaut mieux prévenir que guérir, une vérité de bon sens qui peine pourtant à structurer nos politiques publiques de santé. Le modèle hospitalier occidental reste majoritairement centré sur la gestion de crise, intervenant une fois que l’affection s’est déclarée. Bien que cette approche curative bénéficie de technologies chirurgicales et pharmacologiques de pointe, elle s'avère économiquement insoutenable à long terme face au vieillissement de la population.",
+"En effet, l'essentiel des dépenses de l'assurance maladie est englouti par les soins de fin de vie et les traitements lourds des pathologies chroniques. En revanche, investir massivement dans la prévention primaire — éducation nutritionnelle, dépistage précoce, lutte contre le tabagisme et aménagements urbains sportifs — réduirait drastiquement l'incidence de ces maladies. Par conséquent, la prévention offre un bénéfice double : elle épargne des souffrances évitables et garantit la viabilité financière de notre système de protection sociale.",
+"Néanmoins, la mise en œuvre d'une telle politique se heurte au lobbying féroce des industries agroalimentaires et pharmaceutiques, dont les profits dépendent de la consommation de masse. Quoique le virage préventif soit réclamé par tous les experts, les arbitrages budgétaires court-termistes des gouvernements freinent cette transition. En définitive, faire de la prévention la priorité absolue requiert un courage politique capable de privilégier le bien-être des générations futures sur les intérêts financiers immédiats."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel reproche l'auteur adresse-t-il au modèle hospitalier occidental actuel ?",
+"points": 1,
+"reponse_modele": "Il critique le fait qu'il soit concentré sur la gestion de crise et les soins curatifs plutôt que sur l'anticipation.",
+"mots_cles": [
+{ "mot": "gestion de crise", "variantes": ["curatif", "soigner après coup"], "poids": 0.7 },
+{ "mot": "anticipation", "variantes": ["prévention"], "poids": 0.3 }
+]
+},
+{
+"id": "Q2",
+"question": "Pourquoi le système de soins actuel devient-il économiquement intenable ?",
+"points": 1,
+"reponse_modele": "À cause de l'augmentation du coût des traitements lourds liée au vieillissement progressif de la population.",
+"mots_cles": [
+{ "mot": "vieillissement", "variantes": ["population âgée"], "poids": 0.5 },
+{ "mot": "coût des traitements", "variantes": ["dépenses lourdes", "financièrement insoutenable"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles actions concrètes font partie de la « prévention primaire » selon le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "L'éducation à la nutrition, les campagnes de dépistage, le combat contre le tabac et la création d'espaces sportifs urbains.",
+"mots_cles": [
+{ "mot": "nutrition", "variantes": ["alimentation"], "poids": 0.25 },
+{ "mot": "dépistage", "variantes": ["précoce"], "poids": 0.25 },
+{ "mot": "tabagisme", "variantes": ["tabac"], "poids": 0.25 },
+{ "mot": "sportifs", "variantes": ["villes", "aménagements"], "poids": 0.25 }
+]
+},
+{
+"id": "Q4",
+"question": "En quoi consiste le double bénéfice de la prévention mis en avant par l'auteur ?",
+"points": 1,
+"reponse_modele": "Elle permet d'éviter des douleurs physiques inutiles aux personnes et préserve le budget de la sécurité sociale.",
+"mots_cles": [
+{ "mot": "souffrances", "variantes": ["douleurs", "éviter d'être malade"], "poids": 0.5 },
+{ "mot": "viabilité financière", "variantes": ["budget", "économie", "assurance maladie"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quels groupes d'influence s'opposent indirectement au développement de la prévention ?",
+"points": 1,
+"reponse_modele": "Les lobbys des industries agroalimentaires et des firmes pharmaceutiques.",
+"mots_cles": [
+{ "mot": "agroalimentaires", "variantes": ["nourriture", "malbouffe"], "poids": 0.5 },
+{ "mot": "pharmaceutiques", "variantes": ["médicaments", "laboratoires"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle faiblesse politique empêche le « virage préventif » de se réaliser d'après le texte ?",
+"points": 1,
+"reponse_modele": "Les décisions budgétaires à court terme des gouvernements qui manquent de vision lointaine.",
+"mots_cles": [
+{ "mot": "court-termistes", "variantes": ["court terme", "immédiat", "manque de vision"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un synonyme dans le premier paragraphe du mot « proverbe » ou « dicton ».",
+"points": 1,
+"reponse_modele": "Aphorisme (dans l'expression « l'aphorisme médical populaire »).",
+"mots_cles": [
+{ "mot": "aphorisme", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est l'utilité grammaticale et logique de la locution « autrement dit » au milieu du texte ?",
+"points": 1,
+"reponse_modele": "Elle sert à reformuler une explication technique sous une forme plus simple et frappante.",
+"mots_cles": [
+{ "mot": "reformuler", "variantes": ["résumer de façon claire", "expliciter"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-056b",
+"titre": "Les inégalités d'accès aux soins dans le monde",
+"titre2": "Exercice 56",
+"audios": [],
+"texte": [
+"La Déclaration universelle des droits de l'homme affirme que la santé est un droit fondamental, indépendant de la fortune ou du lieu de naissance des individus. Pourtant, la cartographie sanitaire mondiale révèle une fracture béante entre le Nord et le Sud, ainsi qu'au sein même des pays riches. Bien que la médecine moderne produise des traitements capables de guérir des maladies autrefois mortelles, la distribution de ces avancées reste profondément inéquitable.",
+"En effet, dans de nombreuses régions du globe, l'absence de couverture maladie universelle exclut les populations indigentes de l'accès aux hôpitaux. Tandis que les pays occidentaux s'inquiètent du coût des thérapies géniques, des millions d'enfants meurent encore de pathologies bénignes par manque d'antibiotiques ou d'eau potable. Par conséquent, l'espérance de vie varie de plusieurs décennies selon la loterie géographique. Autrement dit, la pauvreté économique se traduit directement par une sentence de mort médicale.",
+"Néanmoins, les organisations non gouvernementales luttent pour imposer des licences obligatoires permettant de produire des médicaments génériques à bas coût. Quoique les multinationales de la pharmacie protègent férocement leurs brevets au nom de la rentabilité de la recherche, la pression citoyenne s'intensifie. En définitive, garantir un accès équitable aux soins à l'échelle planétaire exige de considérer la santé comme un bien commun de l'humanité et non comme un produit commercial."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle contradiction l'auteur soulève-t-il entre les textes officiels et la réalité médicale mondiale ?",
+"points": 1,
+"reponse_modele": "La Déclaration des droits de l'homme présente la santé comme un droit universel, mais la réalité montre une distribution très inégale des soins.",
+"mots_cles": [
+{ "mot": "droits de l'homme", "variantes": ["droit fondamental"], "poids": 0.4 },
+{ "mot": "inégale", "variantes": ["inéquitable", "fracture béante"], "poids": 0.6 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel système de protection sociale fait défaut dans les régions où les pauvres sont exclus des soins ?",
+"points": 1,
+"reponse_modele": "L'absence de couverture maladie universelle (ou sécurité sociale).",
+"mots_cles": [
+{ "mot": "couverture maladie universelle", "variantes": ["assurance maladie", "sécurité sociale"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel contraste frappant l'auteur établit-il entre les préoccupations médicales du Nord et celles du Sud ?",
+"points": 1,
+"reponse_modele": "Le Nord se préoccupe du coût élevé des thérapies géniques avancées, tandis que le Sud manque de médicaments de base pour soigner des maladies simples.",
+"mots_cles": [
+{ "mot": "thérapies géniques", "variantes": ["médecine de pointe", "Nord"], "poids": 0.5 },
+{ "mot": "maladies simples", "variantes": ["bénignes", "antibiotiques", "Sud"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Qu'est-ce que l'expression « la loterie géographique » signifie dans le texte ?",
+"points": 1,
+"reponse_modele": "Le fait que l'espérance de vie d'une personne dépend entièrement et par pur hasard de son pays de naissance.",
+"mots_cles": [
+{ "mot": "pays de naissance", "variantes": ["lieu de naissance", "géographie"], "poids": 0.6 },
+{ "mot": "hasard", "variantes": ["loterie", "chance"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle solution les ONG proposent-elles pour rendre les traitements accessibles aux pays pauvres ?",
+"points": 1,
+"reponse_modele": "Elles proposent la création de licences obligatoires pour fabriquer des versions génériques et moins chères des médicaments.",
+"mots_cles": [
+{ "mot": "génériques", "variantes": ["médicaments génériques", "copies"], "poids": 0.6 },
+{ "mot": "moins chères", "variantes": ["bas coût", "accessibles"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Au nom de quel principe économique les firmes pharmaceutiques refusent-elles de céder leurs brevets ?",
+"points": 1,
+"reponse_modele": "Au nom de la rentabilité financière indispensable au financement de la recherche médicale.",
+"mots_cles": [
+{ "mot": "rentabilité", "variantes": ["profits", "gagner de l'argent"], "poids": 0.6 },
+{ "mot": "recherche", "variantes": ["innovation", "investissements"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Quel changement de statut philosophique de la médecine l'auteur demande-t-il dans sa conclusion ?",
+"points": 1,
+"reponse_modele": "Il demande que la santé soit considérée comme un bien commun mondial et non comme une simple marchandise commerciale.",
+"mots_cles": [
+{ "mot": "bien commun", "variantes": ["droit humain"], "poids": 0.6 },
+{ "mot": "marchandise", "variantes": ["commercial", "produit de vente"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le second paragraphe signifiant « très pauvre, privé des ressources nécessaires ».",
+"points": 1,
+"reponse_modele": "Indigente (dans l'expression « populations indigentes »).",
+"mots_cles": [
+{ "mot": "indigentes", "variantes": ["indigent"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-057b",
+"titre": "Les conséquences du manque de sommeil sur les performances intellectuelles",
+"titre2": "Exercice 57",
+"audios": [],
+"texte": [
+"Dans une société valorisant l’hyper-productivité et la connexion permanente, le sommeil est trop souvent perçu comme une perte de temps évitable. Les étudiants et les professionnels sacrifient régulièrement leurs heures de repos nocturne pour prolonger leurs activités d'apprentissage ou de travail. Bien que le corps humain semble s'adapter temporairement à ce rythme effréné, les neurosciences démontrent que la dette de sommeil altère profondément les facultés intellectuelles.",
+"En effet, c'est durant les phases de sommeil profond et paradoxal que le cerveau procède à la consolidation de la mémoire et à l'élimination des toxines neuronales. En revanche, la privation chronique de repos fragmente l'attention, ralentit les capacités de réaction et diminue l'aptitude à résoudre des problèmes complexes. Par conséquent, un individu fatigué commet des erreurs d'analyse qu'il n'aurait jamais faites en temps normal. Autrement dit, moins on dort, moins le cerveau est performant.",
+"Néanmoins, la prolifération des écrans et des réseaux sociaux le soir aggrave ce phénomène d'insomnie technologique chez les adolescents. Quoique les risques pour la santé mentale et scolaire soient avérés, la prise de conscience collective tarde à se matérialiser. En définitive, sanctuariser le temps de repos nocturne constitue une règle d'hygiène cérébrale absolue, indispensable pour préserver son capital cognitif tout au long de sa vie."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel préjugé social conduit les individus à négliger leur temps de sommeil ?",
+"points": 1,
+"reponse_modele": "Le culte de la productivité et l'idée fausse que dormir est une perte de temps inutile.",
+"mots_cles": [
+{ "mot": "productivité", "variantes": ["hyper-productivité", "travailler trop"], "poids": 0.5 },
+{ "mot": "perte de temps", "variantes": ["inutile", "temps perdu"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels processus biologiques cruciaux le cerveau réalise-t-il pendant la nuit d'après les neurosciences ?",
+"points": 1,
+"reponse_modele": "Il consolide les souvenirs (mémoire) et nettoie les toxines présentes entre les neurones.",
+"mots_cles": [
+{ "mot": "mémoire", "variantes": ["consolidation", "retenir les leçons"], "poids": 0.5 },
+{ "mot": "toxines", "variantes": ["nettoyage", "élimination des déchets"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelles facultés cognitives précises sont dégradées par le manque de repos ?",
+"points": 1,
+"reponse_modele": "La concentration (attention), la vitesse de réaction et l'aptitude à résoudre des problèmes complexes.",
+"mots_cles": [
+{ "mot": "attention", "variantes": ["concentration", "focus"], "poids": 0.4 },
+{ "mot": "réaction", "variantes": ["vitesse", "réflexes"], "poids": 0.3 },
+{ "mot": "problèmes complexes", "variantes": ["analyse", "logique"], "poids": 0.3 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel impact concret la fatigue produit-elle sur la qualité du travail fourni ?",
+"points": 1,
+"reponse_modele": "Elle provoque de nombreuses erreurs d'analyse et de jugement que l'on aurait évitées en étant reposé.",
+"mots_cles": [
+{ "mot": "erreurs", "variantes": ["fautes", "mauvais choix"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel facteur moderne accentue le manque de sommeil chez les jeunes générations ?",
+"points": 1,
+"reponse_modele": "L'usage tardif des écrans de smartphones et la connexion nocturne aux réseaux sociaux.",
+"mots_cles": [
+{ "mot": "écrans", "variantes": ["smartphones", "ordinateurs", "technologique"], "poids": 0.6 },
+{ "mot": "réseaux sociaux", "variantes": ["internet le soir"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle formule résume la conclusion de l'auteur concernant le rôle du sommeil ?",
+"points": 1,
+"reponse_modele": "Il qualifie le fait de dormir de « règle d'hygiène cérébrale absolue ».",
+"mots_cles": [
+{ "mot": "hygiène cérébrale", "variantes": ["hygiène cérébrale absolue", "protéger le cerveau"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez une expression nominale au premier paragraphe signifiant « le manque accumulé de sommeil ».",
+"points": 1,
+"reponse_modele": "Dette de sommeil (dans la phrase « la dette de sommeil altère »).",
+"mots_cles": [
+{ "mot": "dette de sommeil", "variantes": ["dette"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle nuance logique le connecteur « néanmoins » apporte-t-il au début du dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il introduit une transition pour insister sur une cause technologique externe spécifique qui aggrave la situation.",
+"mots_cles": [
+{ "mot": "transition", "variantes": ["opposition", "restriction", "nouvel argument"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-058b",
+"titre": "Le sport doit-il occuper une place plus importante dans l'éducation ?",
+"titre2": "Exercice 58",
+"audios": [],
+"texte": [
+"L’institution scolaire française a historiquement bâti son excellence sur le développement des compétences intellectuelles, reléguant l'activité physique à une discipline récréative secondaire. Cette vision cartésienne sépare strictement l'esprit, considéré comme noble, du corps, perçu comme un simple support. Bien que les programmes officiels intègrent des cours d'éducation physique, le volume horaire alloué reste dérisoire par rapport aux matières académiques.",
+"En effet, cette marginalisation du sport à l'école est en contradiction totale avec les nécessités de la santé publique contemporaine. Tandis que la sédentarité et l'obésité infantile progressent de manière inquiétante, l'école devrait être le premier lieu de prévention. En revanche, la pratique sportive régulière fortifie le système cardiovasculaire, améliore l'estime de soi et favorise la concentration en classe. Par conséquent, intégrer le sport au cœur du projet éducatif optimiserait la réussite scolaire générale.",
+"Néanmoins, opérer une telle refonte des rythmes scolaires suscite l'opposition des partisans du modèle académique traditionnel. Quoique le modèle scandinave démontre l'efficacité d'un équilibre parfait entre sport et études, la résistance culturelle française demeure vive. En définitive, accorder une place centrale au sport à l'école est un impératif pour former des citoyens équilibrés, sains et épanouis dans leur corps comme dans leur esprit."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Sur quelle philosophie l'école s'est-elle basée pour laisser le sport de côté par le passé ?",
+"points": 1,
+"reponse_modele": "Sur une vision cartésienne qui sépare l'esprit (noble) du corps (simple support secondaire).",
+"mots_cles": [
+{ "mot": "cartésienne", "variantes": ["philosophie de Descartes"], "poids": 0.4 },
+{ "mot": "sépare l'esprit du corps", "variantes": ["dualisme", "corps support"], "poids": 0.6 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle critique est formulée contre le volume horaire de l'éducation physique actuelle ?",
+"points": 1,
+"reponse_modele": "Il est jugé dérisoire et insuffisant comparé au temps accordé aux matières théoriques.",
+"mots_cles": [
+{ "mot": "dérisoire", "variantes": ["trop faible", "insignifiant", "insuffisant"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quels problèmes de santé publique chez les enfants justifient une augmentation du sport à l'école ?",
+"points": 1,
+"reponse_modele": "L'augmentation inquiétante de la sédentarité (manque de mouvement) et de l'obésité infantile.",
+"mots_cles": [
+{ "mot": "sédentarité", "variantes": ["inactivité"], "poids": 0.5 },
+{ "mot": "obésité infantile", "variantes": ["surpoids des enfants"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quels sont les bienfaits psychologiques et intellectuels de l'exercice physique mentionnés dans le texte ?",
+"points": 1,
+"reponse_modele": "Il améliore l'estime de soi des élèves et augmente leurs capacités de concentration durant les cours.",
+"mots_cles": [
+{ "mot": "estime de soi", "variantes": ["confiance"], "poids": 0.5 },
+{ "mot": "concentration", "variantes": ["attention", "mieux écouter"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel exemple international l'auteur cite-t-il pour prouver l'efficacité d'un modèle scolaire équilibré ?",
+"points": 1,
+"reponse_modele": "Le modèle éducatif scandinave (les pays du Nord).",
+"mots_cles": [
+{ "mot": "scandinave", "variantes": ["Scandinavie", "modèle scandinave", "pays scandinaves"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Qu'est-ce qui freine l'application de cette réforme en France d'après le troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Une forte résistance culturelle et l'opposition des défenseurs du système académique traditionnel.",
+"mots_cles": [
+{ "mot": "résistance culturelle", "variantes": ["habitudes", "tradition"], "poids": 0.6 },
+{ "mot": "académique traditionnel", "variantes": ["conservateurs", "modèle classique"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un synonyme dans le deuxième paragraphe de l'adjectif « bénéfique » ou « optimal ».",
+"points": 1,
+"reponse_modele": "Optimiserait (dérivé de optimal / favorable).",
+"mots_cles": [
+{ "mot": "optimiserait", "variantes": ["optimiser"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la conclusion de l'auteur sur le but ultime de l'intégration du sport ?",
+"points": 1,
+"reponse_modele": "Former des citoyens équilibrés et sains, tant sur le plan physique que mental.",
+"mots_cles": [
+{ "mot": "citoyens équilibrés", "variantes": ["hommes complets"], "poids": 0.6 },
+{ "mot": "corps et esprit", "variantes": ["physique et mental"], "poids": 0.4 }
+]
+}
+]
+},
+{
+"id": "B2-059b",
+"titre": "Les avancées médicales soulèvent-elles de nouveaux problèmes éthiques ?",
+"titre2": "Exercice 59",
+"audios": [],
+"texte": [
+"Les révolutions thérapeutiques de ce début de siècle, de la modification ciblée du génome par la technologie CRISPR aux implants cérébraux, ouvrent des horizons thérapeutiques vertigineux. Ces prouesses de l'ingénierie médicale permettent d'envisager la guérison de maladies neurologiques ou génétiques jusqu'alors incurables. Bien que ces victoires scientifiques sur la fatalité biologique soient saluées, elles font surgir des dilemmes moraux d'une complexité inédite.",
+"En effet, l'accès à ces technologies de pointe risque de créer une fracture anthropologique majeure. En revanche, si seuls les individus fortunés peuvent s'offrir des augmentations cognitives ou génétiques, l'inégalité sociale se transformera en une inégalité biologique héréditaire. Par conséquent, la frontière entre soigner une pathologie et améliorer artificiellement l'espèce humaine devient floue. Autrement dit, nous glissons insidieusement de la médecine réparatrice vers le transhumanisme.",
+"Néanmoins, l'absence de législation internationale harmonisée favorise le tourisme médical vers des pays aux règles bioéthiques permissives. Quoique le consensus éthique soit difficile à atteindre entre des cultures différentes, des barrières juridiques mondiales s'avèrent cruciales. En définitive, les avancées médicales ne doivent pas s'affranchir des valeurs humanistes universelles, sous peine de transformer le progrès technique en un instrument d'aliénation sociale."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle avancée technologique précise est mentionnée au début du texte pour illustrer la modification du génome ?",
+"points": 1,
+"reponse_modele": "La technologie CRISPR (l'édition ou modification ciblée du génome).",
+"mots_cles": [
+{ "mot": "CRISPR", "variantes": ["technologie CRISPR"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel concept l'auteur utilise-t-il pour désigner le risque d'une séparation biologique au sein de l'humanité ?",
+"points": 1,
+"reponse_modele": "Le risque d'une fracture anthropologique majeure.",
+"mots_cles": [
+{ "mot": "fracture anthropologique", "variantes": ["séparation anthropologique", "division de l'espèce"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Comment une inégalité d'argent pourrait-elle devenir une inégalité biologique selon le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Si les riches sont les seuls à pouvoir payer des modifications génétiques ou intellectuelles pour leurs enfants.",
+"mots_cles": [
+{ "mot": "riches", "variantes": ["fortunés", "argent"], "poids": 0.5 },
+{ "mot": "modifications génétiques", "variantes": ["augmentations", "héréditaire"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Expliquez le glissement conceptuel résumé par le passage de la « médecine réparatrice » au « transhumanisme ».",
+"points": 1,
+"reponse_modele": "On passe d'une médecine qui guérit les malades (réparer) à une médecine qui cherche à augmenter et modifier artificiellement les capacités de l'homme sain.",
+"mots_cles": [
+{ "mot": "guérit", "variantes": ["soigner les malades", "réparer"], "poids": 0.5 },
+{ "mot": "augmenter", "variantes": ["modifier l'homme", "artificiel"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel phénomène le manque de lois internationales coordonnées provoque-t-il d'après le texte ?",
+"points": 1,
+"reponse_modele": "Il encourage le développement du tourisme médical vers des pays sans contrôles bioéthiques.",
+"mots_cles": [
+{ "mot": "tourisme médical", "variantes": ["voyager pour se faire soigner"], "poids": 0.7 },
+{ "mot": "permissives", "variantes": ["pas de contrôles", "lois souples"], "poids": 0.3 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est la mise en garde finale formulée par l'auteur dans la conclusion ?",
+"points": 1,
+"reponse_modele": "Si le progrès médical oublie les valeurs humanistes, il deviendra un outil d'aliénation et de destruction sociale.",
+"mots_cles": [
+{ "mot": "values humanistes", "variantes": ["humanisme", "éthique"], "poids": 0.5 },
+{ "mot": "aliénation", "variantes": ["danger social", "esclavage"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un adjectif dans le premier paragraphe signifiant « qui provoque une sensation de vertige, impressionnant ou immense ».",
+"points": 1,
+"reponse_modele": "Vertigineux (dans l'expression « horizons thérapeutiques vertigineux »).",
+"mots_cles": [
+{ "mot": "vertigineux", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est la fonction du connecteur logique « par conséquent » au sein du deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il sert à marquer la conséquence logique de la commercialisation sans contrôle des modifications génétiques.",
+"mots_cles": [
+{ "mot": "conséquence", "variantes": ["résultat logique"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-060b",
+"titre": "Comment concilier progrès scientifique et respect de la dignité humaine ?",
+"titre2": "Exercice 60",
+"audios": [],
+"texte": [
+"Depuis le procès de Nuremberg, la communauté internationale a érigé le respect de la personne humaine en garde-fou absolu face aux dérives de l'expérimentation scientifique. L'essor fulgurant des biotechnologies, de l'intelligence artificielle appliquée à la santé et du clonage thérapeutique réactive ce besoin de protection. Bien que les découvertes scientifiques élargissent constamment notre maîtrise de la nature, elles menacent de réifier l'individu si elles s'affranchissent de toute limite éthique.",
+"En effet, considérer le corps humain comme une simple banque de données numériques ou de matériaux biologiques exploitables commercialement constitue une tentation forte pour l'industrie. Tandis que les comités de bioéthique nationaux s'efforcent de fixer des lignes rouges, la mondialisation des laboratoires complique l'application de ces principes. Par conséquent, la sacralité de la personne doit être réaffirmée face à la logique marchande. Autrement dit, la science doit demeurer un outil au service de l'homme, et non l'inverse.",
+"Néanmoins, instaurer des limites ne signifie pas paralyser la recherche fondamentale. Quoique le cadre réglementaire paraisse contraignant aux yeux de certains chercheurs impatients, il est le garant de la confiance publique. En définitive, concilier progrès et dignité exige un dialogue permanent entre scientifiques, juristes et citoyens afin de s'assurer que l'innovation technique ne piétine jamais nos valeurs morales fondamentales."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel événement historique sert de point de départ à la réglementation éthique de la science selon le texte ?",
+"points": 1,
+"reponse_modele": "Le procès de Nuremberg.",
+"mots_cles": [
+{ "mot": "Nuremberg", "variantes": ["procès de Nuremberg"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel risque court l'être humain si la science progresse sans règles morales ?",
+"points": 1,
+"reponse_modele": "Il risque d'être réifié, c'est-à-dire transformé en un simple objet ou matériau de laboratoire.",
+"mots_cles": [
+{ "mot": "réifié", "variantes": ["transformé en objet", "considéré comme une chose"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle tentation mercantile menace la vision moderne du corps humain d'après le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Celle de traiter le corps comme une réserve de données numériques ou de matières biologiques commercialisables.",
+"mots_cles": [
+{ "mot": "données", "variantes": ["matériaux biologiques"], "poids": 0.5 },
+{ "mot": "commercialisables", "variantes": ["marchande", "vendre", "industrie"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Pourquoi la mondialisation des laboratoires rend-elle le travail des comités de bioéthique plus difficile ?",
+"points": 1,
+"reponse_modele": "Parce que la dispersion géographique des centres de recherche rend complexe le contrôle et le respect des lois nationales.",
+"mots_cles": [
+{ "mot": "mondialisation", "variantes": ["dispersion", "international"], "poids": 0.6 },
+{ "mot": "contrôle", "variantes": ["application des principes", "lois"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle formule claire résume le rôle exact que doit avoir la science vis-à-vis de l'humanité ?",
+"points": 1,
+"reponse_modele": "« La science doit demeurer un outil au service de l'homme, et non l'inverse. »",
+"mots_cles": [
+{ "mot": "au service de l'homme", "variantes": ["outil pour l'homme"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel est l'intérêt d'avoir des lois strictes pour les chercheurs eux-mêmes d'après le texte ?",
+"points": 1,
+"reponse_modele": "Le cadre réglementaire garantit la confiance de la population et du public envers la science.",
+"mots_cles": [
+{ "mot": "confiance publique", "variantes": ["confiance du public", "crédibilité"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quels acteurs de la société doivent participer aux discussions pour encadrer l'innovation ?",
+"points": 1,
+"reponse_modele": "Les scientifiques, les spécialistes du droit (juristes) et l'ensemble des citoyens.",
+"mots_cles": [
+{ "mot": "scientifiques", "variantes": ["chercheurs"], "poids": 0.33 },
+{ "mot": "juristes", "variantes": ["lois"], "poids": 0.33 },
+{ "mot": "citoyens", "variantes": ["population", "public"], "poids": 0.34 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez la signification du verbe littéraire « réifier » utilisé par l'auteur dans le premier paragraphe.",
+"points": 1,
+"reponse_modele": "Transformer un être vivant, une personne ou un concept abstrait en une chose concrète, un objet inanimé.",
+"mots_cles": [
+{ "mot": "chose", "variantes": ["objet", "marchandise"], "poids": 1.0 }
+]
+}
+]
 }
 ]
