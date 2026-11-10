@@ -1852,5 +1852,899 @@
 ]
 }
 ]
+},
+{
+    "id": "B2-021bb",
+    "titre": "Débat citoyen : L'avenir de nos écoles",
+    "titre2": "Exercice 21",
+    "audios": [],
+    "texte": [
+      "— Marc : Bonjour à tous. Bienvenue dans notre émission radiophonique. Aujourd'hui, nous abordons une question cruciale : l'école doit-elle privilégier les connaissances académiques ou les compétences pratiques ? Sophie, vous qui êtes chercheuse en pédagogie, quel est votre avis ? Bien que le modèle républicain classique repose sur la transmission de savoirs théoriques purs, ne pensez-vous pas qu'il est temps de tourner la page et de se focaliser sur le savoir-faire ?",
+      "— Sophie : Bonjour Marc. C'est une interrogation légitime. Cependant, il convient de ne pas tomber dans un réductionnisme utilitariste. Certes, le marché de l'emploi exige des compétences transversales comme l'adaptabilité ou le travail en équipe. Néanmoins, comment peut-on analyser un problème complexe ou faire preuve d'esprit critique sans un socle de connaissances solides ? Autrement dit, les connaissances sont la matière première de la réflexion ; les compétences n'en sont que la mise en œuvre.",
+      "— Marc : Je comprends votre posture. En revanche, de nombreux étudiants se plaignent d'emmagasiner des formules mathématiques ou des dates historiques qu'ils oublient aussitôt l'examen validé. Par conséquent, cette méthode passive ne crée-t-elle pas une forme de désengagement scolaire ? À quoi bon accumuler des données que l'on peut retrouver en un clic sur Internet, tandis que l'on peine à rédiger un rapport professionnel ou à argumenter rigoureusement lors d'un entretien ?",
+      "— Sophie : C’est précisément là que le bât blesse. Il ne s'agit pas d'opposer ces deux concepts, mais de bâtir une synergie. Quoique la mémorisation brute ait ses limites, elle structure le cerveau. En définitive, l'école idéale ne doit pas choisir : elle doit enseigner les savoirs indispensables afin que les élèves puissent, par la suite, les transformer en compétences durables pour devenir des citoyens accomplis."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quelle opposition fondamentale structure le dialogue entre Marc et Sophie ?",
+        "points": 1,
+        "reponse_modele": "L'opposition entre la transmission des savoirs académiques théoriques et l'apprentissage des compétences pratiques.",
+        "mots_cles": [
+          { "mot": "savoirs académiques", "variantes": ["connaissances", "théorie", "savoirs théoriques"], "poids": 0.5 },
+          { "mot": "compétences", "variantes": ["savoir-faire", "pratiques", "compétences pratiques"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Contre quelle dérive de l'enseignement Sophie met-elle en garde l'auditoire ?",
+        "points": 1,
+        "reponse_modele": "Elle met en garde contre un réductionnisme utilitariste qui plierait l'école aux seules exigences du marché de l'emploi.",
+        "mots_cles": [
+          { "mot": "réductionnisme utilitariste", "variantes": ["utilitarisme", "vision utilitaire"], "poids": 0.6 },
+          { "mot": "marché de l'emploi", "variantes": ["travail", "entreprises", "économie"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Selon Sophie, pourquoi les connaissances restent-elles indispensables au développement des compétences ?",
+        "points": 1,
+        "reponse_modele": "Parce qu'elles constituent la matière première indispensable à la réflexion et à l'analyse critique.",
+        "mots_cles": [
+          { "mot": "matière première", "variantes": ["base", "fondement", "socle"], "poids": 0.5 },
+          { "mot": "réflexion", "variantes": ["esprit critique", "analyser"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quel argument Marc avance-t-il pour souligner l'inefficacité du modèle scolaire traditionnel ?",
+        "points": 1,
+        "reponse_modele": "Les élèves accumulent des informations qu'ils oublient rapidement après les examens, créant du désengagement.",
+        "mots_cles": [
+          { "mot": "oublient", "variantes": ["amnésie", "perte des savoirs"], "poids": 0.5 },
+          { "mot": "désengagement", "variantes": ["démotivés", "passivité", "ennui"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quelle critique Marc fait-il implicitement à l'apprentissage de la mémoire à l'ère d'Internet ?",
+        "points": 1,
+        "reponse_modele": "Il suggère qu'il est inutile de stocker des données brutes puisque l'information est accessible en un clic sur le web.",
+        "mots_cles": [
+          { "mot": "Internet", "variantes": ["web", "en ligne", "clic"], "poids": 0.5 },
+          { "mot": "accessible", "variantes": ["disponible immédiatement", "retrouver"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Quelle figure de style ou expression idiomatique Sophie utilise-t-elle pour désigner le point central du problème ?",
+        "points": 1,
+        "reponse_modele": "Elle utilise l'expression « là que le bât blesse ».",
+        "mots_cles": [
+          { "mot": "le bât blesse", "variantes": ["là que le bât blesse"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Quelle est la solution de synthèse préconisée par Sophie en fin d'émission ?",
+        "points": 1,
+        "reponse_modele": "Elle prône une synergie où l'école transmet les savoirs fondamentaux pour les transformer ensuite en compétences durables.",
+        "mots_cles": [
+          { "mot": "synergie", "variantes": ["complémentarité", "alliance", "combiner"], "poids": 0.5 },
+          { "mot": "compétences durables", "variantes": ["savoirs fondamentaux", "cohabiter"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Analysez l'intention de l'auteur à travers ce texte. S'agit-il de discréditer totalement l'un des deux points de vue ?",
+        "points": 1,
+        "reponse_modele": "Non, l'intention est de présenter un débat nuancé pour montrer que l'un ne va pas sans l'autre à travers une conclusion équilibrée.",
+        "mots_cles": [
+          { "mot": "nuancé", "variantes": ["équilibré", "modéré", "objectif"], "poids": 0.6 },
+          { "mot": "complémentarité", "variantes": ["synthèse", "conciliation"], "poids": 0.4 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-022bb",
+    "titre": "Chronique d'un désenchantement scolaire",
+    "titre2": "Exercice 22",
+    "audios": [],
+    "texte": [
+      "Assis au fond de la classe, Julien fixait désespérément la grande horloge murale dont les aiguilles semblaient figées dans le temps. Le professeur d’histoire dictait d'une voix monocorde un long catalogue de dates et de traités politiques. Ce rituel immuable, vestige d’un système éducatif traditionnel conçu au siècle dernier, exigeait des élèves une docilité absolue et une écoute purement passive. Bien que Julien fût doté d’une curiosité intellectuelle insatiable hors de l'école, ce cadre rigide finissait par étouffer la moindre de ses velléités créatives.",
+      "Le moment de la distribution des copies d’examen sonna le glas de ses derniers espoirs. Une note rouge écarlate barrait le haut de sa feuille, accompagnée d'une appréciation lapidaire. La notation chiffrée, pilier indiscutable de cette institution, fonctionnait ici comme une sentence définitive plutôt que comme un outil de progression. Tandis que ses camarades du premier rang se réjouissaient de leurs performances, Julien mesurait le gouffre qui le séparait des attentes académiques. Cette compétition permanente engendrait en lui une anxiété sourde, transformant le sanctuaire du savoir en un espace de frustration.",
+      "Néanmoins, l'adolescent refusait de se résigner à ce verdict. Le soir venu, loin des contraintes de sa salle de classe, il concevait des programmes informatiques complexes et dévorait des ouvrages de sociologie. Quoique le système traditionnel l'eût catalogué parmi les élèves en difficulté, Julien savait pertinemment que son incapacité à se couler dans le moule académique ne définissait en rien sa valeur intellectuelle réelle. En définitive, il comprit que le chemin vers la connaissance emprunterait, pour lui, des voies buissonnières."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quel sentiment Julien éprouve-t-il au début du récit face au cours de son professeur ?",
+        "points": 1,
+        "reponse_modele": "Il ressent un profond ennui et de la frustration face à une méthode d'enseignement passive et monotone.",
+        "mots_cles": [
+          { "mot": "ennui", "variantes": ["lassitude", "monotonie"], "poids": 0.5 },
+          { "mot": "frustration", "variantes": ["étouffement", "désintérêt"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Comment le système éducatif traditionnel est-il caractérisé dans le premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Comme un système rigide, hérité du siècle dernier, exigeant une docilité absolue et une écoute passive.",
+        "mots_cles": [
+          { "mot": "rigide", "variantes": ["immuable", "vestige"], "poids": 0.5 },
+          { "mot": "passive", "variantes": ["docilité", "soumission"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quelle critique de la notation chiffrée transparaît à travers l'expérience de Julien ?",
+        "points": 1,
+        "reponse_modele": "Elle agit comme une sentence définitive et une sanction plutôt que comme un levier pour progresser.",
+        "mots_cles": [
+          { "mot": "sentence définitive", "variantes": ["sanction", "verdict", "punition"], "poids": 0.6 },
+          { "mot": "progression", "variantes": ["outil pédagogique", "soutien"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q4",
+      "question": "Quelle atmosphère psychologique la compétition entre élèves génère-t-elle chez le protagoniste ?",
+"points": 1,
+"reponse_modele": "Elle engendre chez lui une anxiété sourde et un sentiment d'exclusion.",
+"mots_cles": [
+{ "mot": "anxiété sourde", "variantes": ["angoisse", "stress", "malaise"], "poids": 0.7 },
+{ "mot": "exclusion", "variantes": ["isolement", "frustration"], "poids": 0.3 }
+]
+},
+{
+"id": "Q5",
+"question": "En quoi les activités nocturnes de Julien contrastent-elles avec son statut d'élève en difficulté ?",
+"points": 1,
+"reponse_modele": "Il réalise des activités intellectuellement complexes (programmation, sociologie) prouvant sa vive curiosité.",
+"mots_cles": [
+{ "mot": "programmation", "variantes": ["informatique", "sociologie"], "poids": 0.5 },
+{ "mot": "curiosité", "variantes": ["intelligence", "capacités réelles"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est la valeur temporelle et aspectuelle du subjonctif plus-que-parfait « l'eût catalogué » dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il exprime une concession située dans le passé, soulignant le décalage entre le jugement antérieur de l'école et la réalité de Julien.",
+"mots_cles": [
+{ "mot": "concession", "variantes": ["opposition"], "poids": 0.6 },
+{ "mot": "passé", "variantes": ["antériorité"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Que signifie l'expression « emprunter des voies buissonnières » dans le contexte de la conclusion ?",
+"points": 1,
+"reponse_modele": "Cela signifie qu'il va apprendre par lui-même, en dehors du système scolaire et des méthodes officielles.",
+"mots_cles": [
+{ "mot": "par lui-même", "variantes": ["autonomie", "autodidacte"], "poids": 0.5 },
+{ "mot": "dehors du système", "variantes": ["marginal", "alternatif", "hors cadre"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est l'intention implicite de l'auteur en adoptant une focalisation interne (le point de vue de Julien) ?",
+"points": 1,
+"reponse_modele": "Il souhaite humaniser la critique du système traditionnel en suscitant l'empathie du lecteur pour les élèves marginalisés par les notes.",
+"mots_cles": [
+{ "mot": "empathie", "variantes": ["compassion", "compréhension", "sensibilité"], "poids": 0.6 },
+{ "mot": "humaniser la critique", "variantes": ["dénoncer de l'intérieur"], "poids": 0.4 }
+]
+}
+]
+},
+{
+"id": "B2-023bb",
+"titre": "Discours d'inauguration du Sommet Numérique Éducatif",
+"titre2": "Exercice 23",
+"audios": [],
+"texte": [
+"Mesdames et Messieurs, chers collègues, l’heure est venue de regarder la réalité en face. La numérisation de nos sociétés n'est plus une lointaine promesse, elle est notre présent. Aujourd'hui, certains technophiles zélés affirment que l'apprentissage à distance a vocation à remplacer définitivement les cours en présentiel. Permettez-moi, en tant que ministre, d’opposer un démenti formel à cette vision désincarnée de l’enseignement. Bien que le distanciel offre une flexibilité logistique indéniable, il ne saurait se substituer au cœur battant de l'école : l'interaction humaine.",
+"Certes, les plateformes d’apprentissage en ligne permettent une individualisation remarquable des parcours, brisant ainsi les contraintes géographiques. Néanmoins, l'écran demeure un filtre froid. L'école n’est pas un simple distributeur automatique de connaissances. C’est un lieu de socialisation irremplaçable où l'on apprend l'altérité, le débat démocratique et la vie citoyenne. Par conséquent, concevoir une éducation intégralement virtuelle revient à amputer la jeunesse d'une part essentielle de sa construction psychologique.",
+"Ne cédons pas aux sirènes du tout-numérique. En définitive, notre ambition doit être plus noble : bâtir un modèle hybride et raisonné. Utilisons la technologie comme un levier d’émancipation technique pour alléger les tâches fastidieuses, mais sanctuarisons le présentiel. C’est à cette seule condition que nous formerons non pas des machines à stocker des données, mais des esprits libres, éclairés et solidaires. Je vous remercie."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Qui s'exprime dans ce texte et dans quel cadre précis ?",
+"points": 1,
+"reponse_modele": "C'est un(e) ministre qui s'exprime lors de l'inauguration du Sommet Numérique Éducatif.",
+"mots_cles": [
+{ "mot": "ministre", "variantes": ["autorité politique"], "poids": 0.5 },
+{ "mot": "Sommet Numérique Éducatif", "variantes": ["conférence", "discours officiel"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle thèse l'orateur rejette-t-il avec force dès le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "L'idée selon laquelle les cours à distance vont remplacer définitivement les cours en présentiel.",
+"mots_cles": [
+{ "mot": "remplacer", "variantes": ["supplanter", "substituer"], "poids": 0.5 },
+{ "mot": "distance", "variantes": ["virtuel", "distanciel"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel avantage du distanciel l'orateur reconnaît-il de manière explicite ?",
+"points": 1,
+"reponse_modele": "Il reconnaît une flexibilité logistique et une individualisation remarquable des parcours d'apprentissage.",
+"mots_cles": [
+{ "mot": "flexibilité", "variantes": ["liberté géographique"], "poids": 0.5 },
+{ "mot": "individualisation", "variantes": ["parcours sur mesure", "rythme"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle métaphore dévalorisante l'orateur utilise-t-il pour rejeter une vision purement technique de l'école ?",
+"points": 1,
+"reponse_modele": "La métaphore du « distributeur automatique de connaissances ».",
+"mots_cles": [
+{ "mot": "distributeur automatique", "variantes": ["distributeur automatique de connaissances"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Selon ce discours, quel manque crucial le tout-virtuel provoquerait-il chez les jeunes ?",
+"points": 1,
+"reponse_modele": "Il provoquerait une absence de socialisation réelle, nuisant à l'apprentissage de l'altérité et de la citoyenneté.",
+"mots_cles": [
+{ "mot": "socialisation", "variantes": ["vie sociale", "relations"], "poids": 0.6 },
+{ "mot": "altérité", "variantes": ["vivre-ensemble", "citoyenneté"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Qu'est-ce que l'orateur préconise à travers l'expression « un modèle hybride et raisonné » ?",
+"points": 1,
+"reponse_modele": "Une combinaison intelligente qui utilise les avantages du numérique tout en préservant impérativement les cours physiques.",
+"mots_cles": [
+{ "mot": "combinaison", "variantes": ["mélange", "alliance"], "poids": 0.5 },
+{ "mot": "préservant le présentiel", "variantes": ["conserver le physique"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quel est le but ultime de l'éducation réaffirmé par l'orateur dans sa conclusion ?",
+"points": 1,
+"reponse_modele": "Former des esprits libres, éclairés et solidaires, plutôt que des exécutants ou des machines.",
+"mots_cles": [
+{ "mot": "esprits libres", "variantes": ["citoyens éclairés"], "poids": 0.6 },
+{ "mot": "solidaires", "variantes": ["humains"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Identifiez un procédé de rhétorique propre au discours politique employé dans le dernier paragraphe.",
+"points": 1,
+"reponse_modele": "L'utilisation de l'impératif à la première personne du pluriel (« Ne cédons pas », « Utilisons ») pour associer l'auditoire.",
+"mots_cles": [
+{ "mot": "impératif", "variantes": ["première personne du pluriel", "nous", "Ne cédons pas"], "poids": 0.7 },
+{ "mot": "associer l'auditoire", "variantes": ["persuasion", "implication"], "poids": 0.3 }
+]
+}
+]
+},
+{
+"id": "B2-024bb",
+"titre": "La leçon de lucidité du Professeur Antoine",
+"titre2": "Exercice 24",
+"audios": [],
+"texte": [
+"Le Professeur Antoine entra dans l'amphithéâtre bondé, un journal à la main. Sans dire un mot, il projeta au tableau un article web sensationnel affirmant que la Lune était artificielle. Un murmure incrédule parcourut l'assemblée des jeunes étudiants. Le professeur prit alors la parole : « Beaucoup d'entre vous sourient. Pourtant, cette information a été partagée un million de fois hier soir. À l'ère des algorithmes rois, l'importance de développer l'esprit critique dès le plus jeune âge n'est plus un sujet de colloque, c'est une urgence démocratique. »",
+"Une étudiante leva la main : « Mais Monsieur, comment faire face à ce flux continu sans basculer dans la paranoïa ? Bien que nous vérifiions parfois nos sources, le doute permanent est épuisant. » Le professeur hocha la tête avec bienveillance. « Vous touchez du doigt le nœud du problème. L'esprit critique ne se résume pas à un scepticisme stérile. C’est une méthode. Apprendre à douter de manière constructive, c'est savoir disséquer un argument, repérer les biais cognitifs et exiger des preuves empiriques. »",
+"Il arpenta la pièce avant de conclure d'une voix ferme : « Si l'école se contente d'être une cour de transmission passive de vérités pré-mâchées, nos futurs citoyens succomberont aux premiers discours populistes ou aux théories du complot. En définitive, enseigner le discernement, ce n'est pas dire aux enfants quoi penser, mais leur apprendre comment penser de façon autonome. C'est l'armure la plus solide pour protéger nos libertés. »"
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle mise en scène le Professeur Antoine utilise-t-il pour capter l'attention de ses étudiants ?",
+"points": 1,
+"reponse_modele": "Il projette un article sensationnel et faux affirmant que la Lune est artificielle.",
+"mots_cles": [
+{ "mot": "article sensationnel", "variantes": ["fausse information", "fake news", "infox"], "poids": 0.6 },
+{ "mot": "Lune artificielle", "variantes": ["Lune"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Pourquoi le développement de l'esprit critique est-il qualifié d'« urgence démocratique » ?",
+"points": 1,
+"reponse_modele": "Parce que la prolifération de fausses informations massives sur les réseaux menace la capacité des citoyens à faire des choix éclairés.",
+"mots_cles": [
+{ "mot": "fausses informations", "variantes": ["infox", "manipulation", "mensonges"], "poids": 0.6 },
+{ "mot": "citoyens", "variantes": ["démocratie", "choix éclairés"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle crainte l'étudiante exprime-t-elle face à l'obligation de vigilance constante ?",
+"points": 1,
+"reponse_modele": "Elle craint de basculer dans la paranoïa et trouve le doute permanent épuisant.",
+"mots_cles": [
+{ "mot": "paranoïa", "variantes": ["méfiance excessive"], "poids": 0.5 },
+{ "mot": "épuisant", "variantes": ["fatiguant", "lourd"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle distinction le professeur fait-il entre le « scepticisme stérile » et l'esprit critique ?",
+"points": 1,
+"reponse_modele": "L'esprit critique est une méthode constructive basée sur l'analyse des arguments et des preuves, pas un rejet automatique de tout.",
+"mots_cles": [
+{ "mot": "méthode constructive", "variantes": ["douter scientifiquement"], "poids": 0.5 },
+{ "mot": "analyse des arguments", "variantes": ["preuves empiriques", "biais cognitifs"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel danger guette les citoyens si l'école reste purement passive selon le professeur ?",
+"points": 1,
+"reponse_modele": "Ils risquent de succomber facilement aux discours populistes et aux théories du complot.",
+"mots_cles": [
+{ "mot": "populistes", "variantes": ["discours simplistes", "politiciens manipulateurs"], "poids": 0.5 },
+{ "mot": "théories du complot", "variantes": ["complotisme", "fake news"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Expliquez le sens de l'adjectif « empirique » dans l'expression « preuves empiriques ».",
+"points": 1,
+"reponse_modele": "Qui est fondé sur l'expérience concrète, l'observation et la vérification des faits, par opposition à la pure théorie.",
+"mots_cles": [
+{ "mot": "expérience", "variantes": ["observation", "faits réels", "concret"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Comment l'auteur résume-t-il la véritable mission de l'instituteur moderne à la fin du texte ?",
+"points": 1,
+"reponse_modele": "Il ne doit pas dicter quoi penser, mais enseigner aux enfants comment penser de façon autonome.",
+"mots_cles": [
+{ "mot": "comment penser", "variantes": ["méthode de réflexion"], "poids": 0.6 },
+{ "mot": "autonome", "variantes": ["par soi-même", "librement"], "poids": 0.4 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle métaphore est employée pour désigner l'esprit critique dans la toute dernière phrase ?",
+"points": 1,
+"reponse_modele": "La métaphore d'une « armure la plus solide » pour protéger les libertés.",
+"mots_cles": [
+{ "mot": "armure", "variantes": ["protection", "bouclier"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-025bb",
+"titre": "Témoignage : La fracture invisible des banlieues",
+"titre2": "Exercice 25",
+"audios": [],
+"texte": [
+"Lorsque Youssef intégra la prestigieuse classe préparatoire parisienne, il prit conscience d'une réalité brutale qu'il n'avait jamais soupçonnée dans son lycée de banlieue. Les inégalités scolaires et leurs conséquences sur l'avenir cessèrent d'être de simples statistiques lues dans les journaux pour devenir son quotidien. Bien que Youssef eût obtenu la mention très bien au baccalauréat, il réalisa dès la première semaine qu'il ne possédait pas les mêmes armes culturelles que ses pairs issus des beaux quartiers.",
+"Tandis que ses camarades discutaient avec aisance d'expositions d'art contemporain ou de séjours linguistiques aux États-Unis, Youssef mesurait le poids de ses lacunes implicites. Ce n'était pas un manque d'intelligence, mais un déficit de capital culturel accumulé en famille. De surcroît, les ressources publiques n'avaient pas compensé cette faille : son ancien lycée manquait cruellement de professeurs titulaires stables. Par conséquent, cette orientation précoce et le manque d'accompagnement adapté poussaient insidieusement les élèves de sa condition vers l'autocensure professionnelle.",
+"Pourtant, Youssef refusa de plier sous le poids du déterminisme social. En définitive, grâce à une persévérance hors du commun et au soutien d'une association de mentorat, il parvint à combler ce fossé. Son parcours héroïque démontre toutefois que la méritocratie républicaine actuelle est défaillante : la réussite d'un élève brillant issu d'un milieu défavorisé ne devrait pas relever du miracle, mais d'une promesse tenue par l'État."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel choc Youssef subit-il lors de son entrée en classe préparatoire à Paris ?",
+"points": 1,
+"reponse_modele": "Il réalise qu'il souffre d'un profond décalage culturel par rapport aux élèves des milieux favorisés.",
+"mots_cles": [
+{ "mot": "décalage culturel", "variantes": ["inégalités", "manque de codes"], "poids": 0.6 },
+{ "mot": "favorisés", "variantes": ["beaux quartiers", "riches"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle distinction l'auteur fait-il entre les capacités intellectuelles de Youssef et sa situation sociale ?",
+"points": 1,
+"reponse_modele": "Son problème n'est pas un manque d'intelligence, mais un déficit de capital culturel familial.",
+"mots_cles": [
+{ "mot": "capital culturel", "variantes": ["codes sociaux", "culture générale"], "poids": 0.6 },
+{ "mot": "intelligence", "variantes": ["capacités", "cerveau"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Comment l'état des ressources publiques dans son ancien lycée a-t-il aggravé sa situation ?",
+"points": 1,
+"reponse_modele": "Son établissement de banlieue manquait cruellement de professeurs titulaires et stables.",
+"mots_cles": [
+{ "mot": "manquait de professeurs", "variantes": ["absences", "pas de titulaires"], "poids": 0.7 },
+{ "mot": "stables", "variantes": ["tournout", "remplaçants"], "poids": 0.3 }
+]
+},
+{
+"id": "Q4",
+"question": "À quel phénomène psychologique destructeur les élèves issus de milieux modestes font-ils face d'après le texte ?",
+"points": 1,
+"reponse_modele": "Ils font face à l'autocensure professionnelle, limitant eux-mêmes leurs propres ambitions.",
+"mots_cles": [
+{ "mot": "autocensure", "variantes": ["manque de confiance", "s'interdire de réussir"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quels facteurs extérieurs ont aidé Youssef à surmonter ce déterminisme social ?",
+"points": 1,
+"reponse_modele": "Sa persévérance personnelle et l'aide précieuse d'une association de mentorat.",
+"mots_cles": [
+{ "mot": "persévérance", "variantes": ["volonté", "travail acharné"], "poids": 0.5 },
+{ "mot": "association de mentorat", "variantes": ["mentor", "soutien associatif"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle critique acerbe de la méritocratie l'auteur formule-t-il dans la conclusion ?",
+"points": 1,
+"reponse_modele": "La réussite des élèves défavorisés ne devrait pas être un miracle exceptionnel mais un droit garanti par l'État.",
+"mots_cles": [
+{ "mot": "miracle", "variantes": ["exception", "fait rare"], "poids": 0.6 },
+{ "mot": "garanti par l'État", "variantes": ["promesse de la république", "normalité"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez un synonyme dans le deuxième paragraphe pour désigner des « manques » ou des « faiblesses ».",
+"points": 1,
+"reponse_modele": "Lacunes (ou faille / déficit).",
+"mots_cles": [
+{ "mot": "lacunes", "variantes": ["faille", "déficit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel est le ton général adopté par le narrateur dans ce texte ?",
+"points": 1,
+"reponse_modele": "Un ton réaliste et engagé (voire critique et dénonciateur).",
+"mots_cles": [
+{ "mot": "engagé", "variantes": ["critique", "dénonciateur", "réaliste"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-026bb",
+"titre": "Rapport syndical : Faut-il réformer l'évaluation ?",
+"titre2": "Exercice 26",
+"audios": [],
+"texte": [
+"Au terme d'une enquête menée auprès de cinq cents établissements, le constat des inspecteurs d'académie est sans appel. Le système d'évaluation traditionnel, fondé exclusivement sur la notation chiffrée de zéro à vingt, paralyse l'apprentissage. Bien que cette méthode historique rassure les parents par sa clarté apparente, elle génère une angoisse de la mauvaise note qui bloque le processus de mémorisation chez les élèves les plus émotifs.",
+"En effet, l'évaluation actuelle est vécue comme un verdict punitif. C’est pourquoi le collectif de chercheurs préconise de réformer en profondeur ces méthodes au profit d'une évaluation par paliers de compétences. Tandis que la note classe et stigmatise l'élève en difficulté, l'approche par compétences valorise les notions acquises et cible précisément les points à perfectionner. Néanmoins, une partie non négligeable des enseignants exprime des réserves majeures face à cette réforme, la jugeant chronophage et administrativement lourde.",
+"En définitive, la réussite de cette transition pédagogique dépendra de la formation des équipes sur le terrain. Remplacer les notes ne doit pas signifier une baisse des exigences académiques, mais plutôt l'avènement d'une école bienveillante où l'évaluation devient enfin un guide constructif vers la réussite autonome."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle est l'origine des données analysées dans ce texte ?",
+"points": 1,
+"reponse_modele": "Une enquête d'envergure menée auprès de cinq cents établissements par des inspecteurs d'académie.",
+"mots_cles": [
+{ "mot": "enquête", "variantes": ["recherche", "étude"], "poids": 0.5 },
+{ "mot": "cinq cents établissements", "variantes": ["inspecteurs"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel effet psychologique néfaste la note sur vingt produit-elle sur les élèves émotifs d'après l'enquête ?",
+"points": 1,
+"reponse_modele": "Elle génère une angoisse de l'échec qui bloque le processus biologique de mémorisation.",
+"mots_cles": [
+{ "mot": "angoisse", "variantes": ["peur", "stress", "anxiété"], "poids": 0.5 },
+{ "mot": "bloque la mémorisation", "variantes": ["empêche d'apprendre", "paralyse le cerveau"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi les parents d'élèves apprécient-ils généralement le système traditionnel de notes ?",
+"points": 1,
+"reponse_modele": "Parce qu'il offre une clarté immédiate et apparente sur le niveau de leur enfant.",
+"mots_cles": [
+{ "mot": "clarté", "variantes": ["lisibilité", "compréhensible", "facile"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "En quoi l'évaluation par compétences modifie-t-elle le traitement de l'erreur chez l'élève ?",
+"points": 1,
+"reponse_modele": "Elle ne stigmatise pas l'élève, mais valorise ses acquis tout en ciblant précisément ses axes d'amélioration.",
+"mots_cles": [
+{ "mot": "valorise les acquis", "variantes": ["positif", "ce qui est réussi"], "poids": 0.5 },
+{ "mot": "axes d'amélioration", "variantes": ["points à perfectionner", "besoins"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelles critiques concrètes certains professeurs formulent-ils contre l'évaluation par compétences ?",
+"points": 1,
+"reponse_modele": "Ils la considèrent comme excessivement chronophage et lourde sur le plan administratif.",
+"mots_cles": [
+{ "mot": "chronophage", "variantes": ["prend trop de temps", "longue"], "poids": 0.5 },
+{ "mot": "lourde administrativement", "variantes": ["bureaucratique", "paperasse"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel amalgame ou quelle dérive la conclusion du rapport invite-t-elle à éviter ?",
+"points": 1,
+"reponse_modele": "Il faut éviter de croire que supprimer les notes équivaut à baisser le niveau et les exigences scolaires.",
+"mots_cles": [
+{ "mot": "baisse des exigences", "variantes": ["baisser le niveau", "laxisme"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "De quel facteur crucial dépendra le succès de cette réforme d'après le texte ?",
+"points": 1,
+"reponse_modele": "Il dépendra d'une formation solide dispensée aux équipes enseignantes sur le terrain.",
+"mots_cles": [
+{ "mot": "formation", "variantes": ["apprendre aux profs", "préparer les enseignants"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez le sens du mot « stigmatise » employé au milieu du deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Marquer négativement un individu, l'exclure ou le coller à une étiquette humiliante de mauvais élève.",
+"mots_cles": [
+{ "mot": "étiquette négative", "variantes": ["marquer", "humilier", "exclure"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-027bb",
+"titre": "Plaidoyer pour une école de l'imagination",
+"titre2": "Exercice 27",
+"audios": [],
+"texte": [
+"Mesdames et Messieurs, ouvrez les yeux. Regardez nos enfants entrer à l'école des étoiles plein les yeux, débordants d'histoires extravagantes et de dessins audacieux. Regardez-les en sortir quelques années plus tard, formés, calibrés, standardisés. Notre système éducatif devrait accorder plus de place à la créativité, mais il préfère le confort de la norme. Bien que les réformes prétendent moderniser les programmes, l'imagination reste la parente pauvre de l’enseignement public.",
+"Pourquoi cette peur panique de l'originalité ? Parce que la créativité échappe aux grilles d'évaluation rigides des examens nationaux. En revanche, les neurosciences nous alertent : formater l'esprit des élèves à une seule réponse possible atrophie leurs capacités d'adaptation futures face à un monde incertain. Autrement dit, valoriser la pensée divergente à travers le théâtre, l'art plastique ou l'écriture libre fortifie la plasticité cérébrale et stimule l'innovation scientifique elle-même.",
+"N'opposons plus la rigueur logique et l'épanouissement artistique. En définitive, libérer la créativité en classe n'est pas une concession faite au laxisme. C'est doter les générations futures de l'outil le plus puissant pour résoudre les crises écologiques et technologiques complexes qui les attendent. Réveillons l'école, redonnons vie à l'imagination ! Je vous remercie."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle métaphore l'orateur utilise-t-il au début pour décrire la transformation négative des enfants par l'école ?",
+"points": 1,
+"reponse_modele": "Ils entrent avec « des étoiles plein les yeux » et ressortent « formés, calibrés, standardisés ».",
+"mots_cles": [
+{ "mot": "standardisés", "variantes": ["calibrés", "moulés", "formater les esprits"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle formule ironique ou dépréciative montre que l'art est délaissé par l'institution ?",
+"points": 1,
+"reponse_modele": "L'orateur qualifie l'imagination de « parente pauvre de l’enseignement ».",
+"mots_cles": [
+{ "mot": "parente pauvre", "variantes": ["parente pauvre de l'enseignement"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Selon le conférencier, quelle est la cause principale du rejet de l'originalité par l'école ?",
+"points": 1,
+"reponse_modele": "La créativité ne peut pas entrer dans les grilles d'évaluation rigides des examens standardisés.",
+"mots_cles": [
+{ "mot": "grilles d'évaluation", "variantes": ["examens nationaux", "impossible à noter"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel impact négatif le culte de la « réponse unique » a-t-il sur le cerveau d'après les neurosciences ?",
+"points": 1,
+"reponse_modele": "Il atrophie les capacités d'adaptation futures des élèves face aux imprévus du monde.",
+"mots_cles": [
+{ "mot": "atrophie", "variantes": ["bloque", "diminue"], "poids": 0.5 },
+{ "mot": "adaptation", "variantes": ["flexibilité", "monde incertain"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel bénéfice inattendu l'art apporte-t-il aux matières scientifiques selon le texte ?",
+"points": 1,
+"reponse_modele": "Il stimule la pensée divergente, ce qui favorise indirectement l'innovation et la recherche scientifique.",
+"mots_cles": [
+{ "mot": "innovation scientifique", "variantes": ["sciences", "recherche"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle fausse accusation ou idée reçue l'orateur devance-t-il au début du troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il devance l'idée selon laquelle introduire l'art équivaudrait à installer du laxisme ou un manque de rigueur.",
+"mots_cles": [
+{ "mot": "laxisme", "variantes": ["désordre", "abandon des règles", "manque de rigueur"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Pourquoi la créativité sera-t-elle indispensable aux enfants dans leur future vie d'adulte ?",
+"points": 1,
+"reponse_modele": "Pour être capables de résoudre des crises écologiques et technologiques hautement complexes.",
+"mots_cles": [
+{ "mot": "crises écologiques", "variantes": ["problèmes de la planète", "technologies complexes"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Identifiez une figure de style d'insistance (répétition en début de phrase) au début du texte.",
+"points": 1,
+"reponse_modele": "L'anaphore du verbe à l'impératif « Regardez-les » / « Regardez nos enfants ».",
+"mots_cles": [
+{ "mot": "anaphore", "variantes": ["répétition", "Regardez"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-028bb",
+"titre": "Les deux visages de l'immersion linguistique",
+"titre2": "Exercice 28",
+"audios": [],
+"texte": [
+"Dans les couloirs de l'école internationale Molière, deux mères de famille échangeaient sur le sort de leurs enfants respectifs, illustrant à merveille les avantages et les limites de l'enseignement bilingue. Hélène se réjouissait de l'évolution de sa fille : « C'est fascinant de voir à quel point son cerveau s’est adapté. Des recherches démontrent que cette gymnastique précoce développe l'agilité mentale. Bien que l'investissement initial ait été exigeant, elle passe aujourd'hui du français à l'anglais sans le moindre effort. »",
+"En revanche, le visage de Clara trahissait une profonde inquiétude : « Je comprends votre enthousiasme, Hélène. Néanmoins, pour mon fils Lucas, l’expérience vire au cauchemar. Sans soutien linguistique à la maison, cette immersion totale génère chez lui une surcharge cognitive majeure. Il finit par confondre les structures syntaxiques des deux langues. Par conséquent, loin de l’ouvrir au monde, ce système crée une insécurité linguistique qui le bloque complètement à l'écrit. »",
+"Ce dialogue mettait en lumière le fossé social qui menace ces filières d'excellence. Quoique séduisant sur le papier, l'enseignement bilingue reproduit parfois les inégalités de départ lorsque l'école ne compense pas le manque de ressources familiales. En définitive, les deux mères s'accordèrent sur un point : pour que l’apprentissage bilingue soit une réussite démocratique, il doit cesser d'être un instrument de sélection élitiste et bénéficier d'un encasement pédagogique renforcé pour tous."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel bienfait cognitif Hélène attribue-t-elle à l'apprentissage précoce de deux langues ?",
+"points": 1,
+"reponse_modele": "Elle explique que cela développe l'agilité mentale et la flexibilité du cerveau de sa fille.",
+"mots_cles": [
+{ "mot": "agilité mentale", "variantes": ["souplesse cérébrale", "cerveau actif"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel problème linguistique précis le fils de Clara rencontre-t-il ?",
+"points": 1,
+"reponse_modele": "Il mélange et confond les structures de grammaire et de syntaxe des deux langues.",
+"mots_cles": [
+{ "mot": "syntaxiques", "variantes": ["structures", "grammaire", "mélanger les mots"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle est la cause principale des difficultés de Lucas selon sa mère ?",
+"points": 1,
+"reponse_modele": "Le manque de soutien linguistique et d'accompagnement adapté au sein de sa propre maison.",
+"mots_cles": [
+{ "mot": "manque de soutien", "variantes": ["pas d'aide à la maison", "parents non bilingues"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Définissez le concept d'« insécurité linguistique » qui frappe Lucas dans le texte.",
+"points": 1,
+"reponse_modele": "Un sentiment de peur et de manque de confiance en soi face à sa capacité à bien parler ou écrire une langue.",
+"mots_cles": [
+{ "mot": "manque de confiance", "variantes": ["peur de faire des fautes", "blocage"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel danger social les classes bilingues représentent-elles si l'État n'intervient pas ?",
+"points": 1,
+"reponse_modele": "Elles risquent de devenir un outil de sélection élitiste renforçant les inégalités sociales.",
+"mots_cles": [
+{ "mot": "sélection élitiste", "variantes": ["réservé aux riches", "inégalités sociales"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle conclusion commune réunit les deux mères malgré des expériences opposées ?",
+"points": 1,
+"reponse_modele": "Le système bilingue a besoin d'un encadrement pédagogique renforcé pour être accessible et juste pour tous.",
+"mots_cles": [
+{ "mot": "encadrement renforcé", "variantes": ["aide de l'école", "soutien pédagogique"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est la valeur logique du mot « Quoique » utilisé au début du dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il introduit une proposition concessive (concession) pour opposer la théorie séduisante à la dure réalité du terrain.",
+"mots_cles": [
+{ "mot": "concession", "variantes": ["opposition", "restriction"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez une expression métaphorique employée par Clara pour décrire une situation qui tourne très mal.",
+"points": 1,
+"reponse_modele": "Vire au cauchemar (dans la phrase « l’expérience vire au cauchemar »).",
+"mots_cles": [
+{ "mot": "vire au cauchemar", "variantes": ["cauchemar"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-019bb",
+"titre": "Confidences d'un sociologue de l'éducation",
+"titre2": "Exercice 29",
+"audios": [],
+"texte": [
+"Le professeur Raymond nous reçut dans son bureau encombré de thèses universitaires. Depuis quarante ans, cet éminent chercheur traque les rouages du déterminisme. « L'influence du milieu familial sur la réussite scolaire est l'une des vérités les plus documentées et pourtant la mieux étouffée », commença-t-il d'emblée. Bien que notre République affiche fièrement la devise de l’égalité sur le fronton de ses écoles, la réalité statistique dessine une reproduction sociale implacable.",
+"Il nous montra un graphique linéaire : « Regardez ces courbes. Dès l'école maternelle, le capital culturel hérité des parents crée des distorsions majeures. Les enfants de cadres maîtrisent un lexique étendu et possèdent les codes de décryptage implicites exigés par les maîtres. En revanche, les élèves issus de milieux populaires font face à une barrière invisible. Par conséquent, sans soutien méthodologique compensatoire de l'institution, l’orientation précoce scelle leur exclusion professionnelle. »",
+"Alors que nous nous levions, Raymond soupira, fixant la rue enneigée. « Tant que l’on refusera d'allouer des budgets massifs et ciblés aux écoles des quartiers défavorisés, la méritocratie restera un mythe consolateur. En définitive, l’école ne fait trop souvent que transformer des privilèges sociaux en mérites académiques. C’est ce mécanisme invisible qu'il nous faut briser pour libérer l'avenir de notre jeunesse. »"
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle contradiction majeure le professeur Raymond dénonce-t-il dès l'ouverture de l'entretien ?",
+"points": 1,
+"reponse_modele": "La contradiction entre le principe républicain d'égalité affiché et la réalité de la reproduction sociale.",
+"mots_cles": [
+{ "mot": "égalité républicaine", "variantes": ["fronton des écoles"], "poids": 0.4 },
+{ "mot": "reproduction sociale", "variantes": ["déterminisme", "inégalités réelles"], "poids": 0.6 }
+]
+},
+{
+"id": "Q2",
+"question": "À quel moment de la scolarité les premières distorsions culturelles apparaissent-elles d'après le texte ?",
+"points": 1,
+"reponse_modele": "Dès l'école maternelle.",
+"mots_cles": [
+{ "mot": "maternelle", "variantes": ["école maternelle", "le tout début"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quels sont les deux atouts langagiers ou comportementaux possédés par les enfants de cadres ?",
+"points": 1,
+"reponse_modele": "Un lexique étendu (vocabulaire riche) et la maîtrise des codes implicites de l'école.",
+"mots_cles": [
+{ "mot": "lexique étendu", "variantes": ["vocabulaire"], "poids": 0.5 },
+{ "mot": "codes implicites", "variantes": ["codes de décryptage", "habitudes"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle conséquence dramatique une orientation scolaire trop précoce engendre-t-elle pour les enfants de familles modestes ?",
+"points": 1,
+"reponse_modele": "Elle scelle définitivement leur exclusion professionnelle future.",
+"mots_cles": [
+{ "mot": "exclusion professionnelle", "variantes": ["pas d'avenir", "métiers dévalorisés"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Comment le professeur Raymond qualifie-t-il la notion de « méritocratie » dans le contexte actuel ?",
+"points": 1,
+"reponse_modele": "Il la qualifie de « mythe consolateur ».",
+"mots_cles": [
+{ "mot": "mythe consolateur", "variantes": ["illusion", "mensonge pour consoler"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Expliquez la formule choc de la conclusion : « transformer des privilèges sociaux en mérites académiques ».",
+"points": 1,
+"reponse_modele": "Cela signifie que l'école récompense par de bonnes notes des facilités culturelles dues à la richesse des parents.",
+"mots_cles": [
+{ "mot": "récompense les privilèges", "variantes": ["noter la richesse", "valoriser l'origine"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Trouvez dans le deuxième paragraphe un mot appartenant au champ lexical de la linguistique signifiant « vocabulaire ».",
+"points": 1,
+"reponse_modele": "Lexique (dans l'expression « un lexique étendu »).",
+"mots_cles": [
+{ "mot": "lexique", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est l'intention de l'auteur en décrivant le décor (bureau encombré, chercheur fatigué) au début du récit ?",
+"points": 1,
+"reponse_modele": "Donner de la crédibilité scientifique et une atmosphère de sérieux à l'argumentation sociologique qui va suivre.",
+"mots_cles": [
+{ "mot": "crédibilité scientifique", "variantes": ["autorité", "sérieux", "réalisme"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-030bb",
+"titre": "Le réveil des consciences universitaires",
+"titre2": "Exercice 30",
+"audios": [],
+"texte": [
+"Le grand amphithéâtre de la Sorbonne était plein à craquer ce soir-là. Au pupitre, la philosophe Simone Laroche s'apprêtait à prononcer sa conférence internationale. Son sujet faisait trembler les certitudes institutionnelles : l'education est-elle la clé d'une société plus équitable ? Bien que le mythe de l'école émancipatrice soit cher au cœur des démocraties occidentales, l'oratrice décida d'attaquer de front cette illusion collective.",
+"« Mes amis, commença-t-elle d'une voix de stentor, nous avons érigé l'école en gardienne unique de la justice sociale. Néanmoins, confier cette responsabilité immense à l'institution scolaire sans modifier les structures économiques est une hypocrisie coupable. Tandis que l'école tente tant bien que mal de redistribuer les savoirs, la précarité grandissante détruit les foyers populaires. Par conséquent, l'éducation ne peut guérir seule les pathologies d'un capitalisme débridé. »",
+"Un silence de cathédrale s'installa dans la salle. Simone Laroche croisa le regard du public avant de lancer son ultime appel : « En définitive, l'école ne sera la clé de l'équité que si nous l'articulons avec une redistribution fiscale radicale. Ne demandons pas aux instituteurs de régler les injustices que nos lois économiques produisent. Redonnons à l'école sa mission d'instruction universelle en changeant la société tout entière ! »"
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Où se déroule l'événement décrit dans le récit et qui en est la figure centrale ?",
+"points": 1,
+"reponse_modele": "L'événement se déroule à l'amphithéâtre de la Sorbonne et la figure centrale est la philosophe Simone Laroche.",
+"mots_cles": [
+{ "mot": "Sorbonne", "variantes": ["université"], "poids": 0.5 },
+{ "mot": "Simone Laroche", "variantes": ["philosophe"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle thèse traditionnelle sur l'école Simone Laroche qualifie-t-elle d'« illusion collective » ?",
+"points": 1,
+"reponse_modele": "L'idée que l'école est le moyen unique et magique de rendre la société juste et équitable.",
+"mots_cles": [
+{ "mot": "justice sociale", "variantes": ["équitable", "école émancipatrice"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Pourquoi est-il jugé hypocrite de confier la justice sociale à l'école selon l'oratrice ?",
+"points": 1,
+"reponse_modele": "Parce qu'on ne change pas les structures économiques réelles qui produisent la pauvreté des familles.",
+"mots_cles": [
+{ "mot": "structures économiques", "variantes": ["lois économiques", "capitalisme"], "poids": 0.6 },
+{ "mot": "pauvreté", "variantes": ["précarité", "inégalités d'argent"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle expression métaphorique est employée pour exprimer le silence total qui règne dans l'amphithéâtre ?",
+"points": 1,
+"reponse_modele": "Un « silence de cathédrale ».",
+"mots_cles": [
+{ "mot": "silence de cathédrale", "variantes": [], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "À quelle autre condition politique et financière l'école peut-elle enfin devenir un facteur d'équité ?",
+"points": 1,
+"reponse_modele": "Elle doit être associée de manière indissociable à une redistribution fiscale radicale.",
+"mots_cles": [
+{ "mot": "redistribution fiscale", "variantes": ["impôts", "mesures fiscales", "argent"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel cri du cœur ou injonction l'oratrice lance-t-elle aux décideurs à la fin de son discours ?",
+"points": 1,
+"reponse_modele": "Elle leur demande d'arrêter de rejeter la faute des injustices sur les instituteurs et de changer la société.",
+"mots_cles": [
+{ "mot": "instituteurs", "variantes": ["profs", "enseignants"], "poids": 0.5 },
+{ "mot": "changer la société", "variantes": ["lois économiques"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est la nature du connecteur logique « Néanmoins » au début du deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "C'est un adverbe de liaison exprimant une forte opposition ou restriction.",
+"mots_cles": [
+{ "mot": "opposition", "variantes": ["restriction", "concession"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "D’après l’analyse argumentative globale du texte, quelle est la position finale de la conférencière sur le rôle premier de l'école ?",
+"points": 1,
+"reponse_modele": "L'école doit se recentrer sur sa mission première d'instruction universelle, soutenue par une société réformée.",
+"mots_cles": [
+{ "mot": "instruction universelle", "variantes": ["savoir pour tous", "enseigner"], "poids": 1.0 }
+]
+}
+]
 }
 ]
