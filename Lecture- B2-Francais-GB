@@ -1,170 +1,1856 @@
-
-[
-  {
-    "id": "B2-001",
-    "titre": "Les défis de la mobilité urbaine",
+[ {
+    "id": "B2-001b",
+    "titre": "La société moderne nous pousse-t-elle à vivre trop rapidement ?",
     "titre2": "Exercice 1",
     "audios": [
-      {
-        "id": "audio-en-read-b1-001-1",
-        "url": "soundcloud.com"
-      },
-      {
-        "id": "audio-en-read-b1-001-2",
-        "url": "soundcloud.com"
-      }
+      { "id": "audio-fr-read-b2-001b-1", "url": "soundcloud.com" }
     ],
     "texte": [
-      "Dans de nombreuses grandes villes, les déplacements quotidiens représentent un véritable défi pour les habitants. L'augmentation du nombre de véhicules privés entraîne des embouteillages importants et contribue à la dégradation de la qualité de l'air.",
-      "Face à cette situation, plusieurs autorités locales ont décidé de renforcer les transports publics. Elles investissent notamment dans les lignes de métro, les bus électriques et les pistes cyclables afin d'encourager les citoyens à limiter l'utilisation de leurs voitures personnelles.",
-      "Cependant, ces transformations nécessitent des investissements considérables et une véritable volonté politique. Les spécialistes estiment également que les citoyens doivent participer à cet effort collectif en adoptant des habitudes de déplacement plus responsables."
+      "Dans notre monde contemporain, l'accélération du rythme de vie semble être devenue une norme indiscutable. Portés par la révolution numérique et l'immédiateté des communications, nous sommes constamment incités à optimiser notre temps, que ce soit dans la sphère professionnelle ou privée. Cette course effrénée contre la montre engendre pourtant des paradoxes profonds. Bien que les technologies modernes aient été conçues pour nous libérer des tâches chronophages, elles ont en réalité accru notre charge mentale en estompant la frontière entre le travail et le repos.",
+      "Néanmoins, cette urgence quotidienne ne se limite pas à une simple gestion de l'agenda ; elle modifie structurellement notre rapport à la réflexion et à l'altérité. Les sociologues soulignent que l'immédiateté nuit gravement à la nuance. En exigeant des réponses instantanées, la société moderne tend à éliminer le temps nécessaire à l'assimilation d'informations complexes. Par conséquent, les opinions se polarisent et les individus manifestent une intolérance grandissante envers l'attente, perçue non plus comme un espace de respiration, mais comme un dysfonctionnement intolérable du système.",
+      "En revanche, des mouvements de résistance culturelle émergent face à cette dictature de l'instant. Le concept de « Slow Life », bien qu'il soit parfois critiqué pour son caractère élitiste, propose une reconquête délibérée du temps long. Ses partisans estiment qu'il est urgent de réapprendre la lenteur à travers des activités contemplatives ou un mode de consommation plus local. Quoique ces initiatives demeurent marginales, elles révèlent une prise de conscience cruciale : la vitesse absolue ne saurait être synonyme de progrès humain.",
+      "En définitive, la question de la temporalité dépasse le cadre du choix personnel et s'impose comme un enjeu de santé publique et de cohésion sociale. Si l'on souhaite éviter une aliénation généralisée, il conviendra d'initier une réflexion collective sur les limites que nous devons fixer au culte de l'urgence."
     ],
     "questions": [
       {
         "id": "Q1",
-        "question": "Pourquoi l'augmentation du nombre de véhicules privés pose-t-elle problème dans les grandes villes ?",
+        "question": "Quelle est l'idée principale défendue par l'auteur dans le premier paragraphe ?",
         "points": 1,
-        "reponse_modele": "Elle provoque des embouteillages et contribue à la pollution de l'air.",
+        "reponse_modele": "L'accélération du rythme de vie, accentuée par le numérique, crée une surcharge mentale au lieu de libérer du temps.",
         "mots_cles": [
-          {
-            "mot": "embouteillages",
-            "variantes": [
-              "bouchons",
-              "circulation difficile",
-              "trafic dense"
-            ],
-            "poids": 0.4
-          },
-          {
-            "mot": "pollution",
-            "variantes": [
-              "pollution de l'air",
-              "air pollué",
-              "dégradation de la qualité de l'air"
-            ],
-            "poids": 0.4
-          },
-          {
-            "mot": "véhicules",
-            "variantes": [
-              "voitures",
-              "voitures privées",
-              "automobiles"
-            ],
-            "poids": 0.2
-          }
+          { "mot": "accélération", "variantes": ["rythme de vie", "vitesse", "course"], "poids": 0.3 },
+          { "mot": "numérique", "variantes": ["technologies", "communications"], "poids": 0.3 },
+          { "mot": "surcharge mentale", "variantes": ["charge mentale", "aliénation", "stress"], "poids": 0.4 }
         ]
       },
       {
         "id": "Q2",
-        "question": "Quelles mesures les autorités locales prennent-elles pour améliorer la mobilité urbaine ?",
+        "question": "Selon le texte, comment la technologie a-t-elle modifié la frontière entre vie professionnelle et vie privée ?",
         "points": 1,
-        "reponse_modele": "Elles renforcent les transports publics en investissant dans le métro, les bus électriques et les pistes cyclables.",
+        "reponse_modele": "Elle a effacé cette limite en rendant le travail omniprésent à cause de l'immédiateté.",
         "mots_cles": [
-          {
-            "mot": "transports publics",
-            "variantes": [
-              "transports collectifs",
-              "transport en commun"
-            ],
-            "poids": 0.3
-          },
-          {
-            "mot": "métro",
-            "variantes": [
-              "lignes de métro",
-              "réseau de métro"
-            ],
-            "poids": 0.2
-          },
-          {
-            "mot": "bus électriques",
-            "variantes": [
-              "autobus électriques",
-              "bus écologiques"
-            ],
-            "poids": 0.2
-          },
-          {
-            "mot": "pistes cyclables",
-            "variantes": [
-              "voies cyclables",
-              "aménagements pour les vélos"
-            ],
-            "poids": 0.3
-          }
+          { "mot": "effacé", "variantes": ["estompé", "supprimé", "flouté"], "poids": 0.5 },
+          { "mot": "omniprésent", "variantes": ["partout", "constant"], "poids": 0.5 }
         ]
       },
       {
         "id": "Q3",
-        "question": "Pourquoi ces transformations sont-elles difficiles à mettre en œuvre ?",
+        "question": "D'après les sociologues cités, quel est l'impact de l'immédiateté sur le débat public ?",
         "points": 1,
-        "reponse_modele": "Elles nécessitent des investissements importants et une volonté politique réelle.",
+        "reponse_modele": "Elle empêche la nuance, favorise la polarisation des opinions et réduit la tolérance à l'attente.",
         "mots_cles": [
-          {
-            "mot": "investissements",
-            "variantes": [
-              "financement",
-              "dépenses",
-              "coûts",
-              "argent"
-            ],
-            "poids": 0.5
-          },
-          {
-            "mot": "volonté politique",
-            "variantes": [
-              "engagement politique",
-              "décision politique",
-              "volonté des autorités"
-            ],
-            "poids": 0.5
-          }
+          { "mot": "nuance", "variantes": ["réflexion", "assimilation"], "poids": 0.4 },
+          { "mot": "polarisation", "variantes": ["divisions", "opinions extrêmes"], "poids": 0.4 },
+          { "mot": "tolérance", "variantes": ["impatience", "intolérance"], "poids": 0.2 }
         ]
       },
       {
         "id": "Q4",
-        "question": "Quel rôle les citoyens doivent-ils jouer dans l'amélioration de la mobilité urbaine ?",
+        "question": "Expliquez le sens du mot « chronophages » utilisé dans le premier paragraphe.",
         "points": 1,
-        "reponse_modele": "Ils doivent adopter des habitudes de déplacement plus responsables et participer à l'effort collectif.",
+        "reponse_modele": "Qui prend beaucoup de temps ou qui gaspille le temps disponible.",
         "mots_cles": [
-          {
-            "mot": "citoyens",
-            "variantes": [
-              "habitants",
-              "population",
-              "usagers"
-            ],
-            "poids": 0.2
-          },
-          {
-            "mot": "habitudes",
-            "variantes": [
-              "comportements",
-              "manières de se déplacer"
-            ],
-            "poids": 0.3
-          },
-          {
-            "mot": "responsables",
-            "variantes": [
-              "écologiques",
-              "durables",
-              "respectueux de l'environnement"
-            ],
-            "poids": 0.3
-          },
-          {
-            "mot": "participer",
-            "variantes": [
-              "contribuer",
-              "prendre part",
-              "s'impliquer"
-            ],
-            "poids": 0.2
-          }
+          { "mot": "temps", "variantes": ["prend du temps", "consomme du temps", "gaspille"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Quelle critique est formulée à l'encontre du mouvement de la « Slow Life » ?",
+        "points": 1,
+        "reponse_modele": "Il est parfois perçu comme une tendance élitiste, qui n'est pas accessible à tout le monde.",
+        "mots_cles": [
+          { "mot": "élitiste", "variantes": ["élite", "privilégiés", "bourgeois"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Qu'indique l'usage du connecteur « Quoique » au début de la phrase dans le troisième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Il introduit une concession pour nuancer l'importance quantitative de ces initiatives face à leur impact qualitatif.",
+        "mots_cles": [
+          { "mot": "concession", "variantes": ["opposition", "nuance", "bien que"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Quelle est l'intention cachée ou implicite de l'auteur en qualifiant la vitesse de « dictature de l'instant » ?",
+        "points": 1,
+        "reponse_modele": "Dénoncer le manque de liberté des individus soumis malgré eux au rythme imposé par la société.",
+        "mots_cles": [
+          { "mot": "dénoncer", "variantes": ["critiquer", "condamner"], "poids": 0.5 },
+          { "mot": "manque de liberté", "variantes": ["aliénation", "soumission", "contrainte"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "En conclusion, que préconise l'auteur pour remédier à cette situation ?",
+        "points": 1,
+        "reponse_modele": "Il appelle à une réflexion collective pour fixer des limites au culte de l'urgence.",
+        "mots_cles": [
+          { "mot": "réflexion collective", "variantes": ["débat social", "penser ensemble"], "poids": 0.5 },
+          { "mot": "limites", "variantes": ["lois", "règles", "bornes"], "poids": 0.5 }
         ]
       }
     ]
-  }
+  },
+  {
+    "id": "B2-002b",
+    "titre": "Le besoin de réussir à tout prix dans notre société",
+    "titre2": "Exercice 2",
+    "audios": [
+      { "id": "audio-fr-read-b2-002b-1", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "La définition contemporaine de la réussite semble s'être cristallisée autour d'indicateurs purement quantitatifs : niveau de revenu, prestige du statut professionnel et visibilité sociale. Cette quête de performance, inculquée dès le plus jeune âge à travers le système éducatif, pousse les individus à se dépasser constamment. Cependant, cette injonction invisible à l'excellence engendre un coût psychologique non négligeable. L'angoisse de l'échec devient un moteur permanent, transformant la vie quotidienne en une évaluation continue où la moindre baisse de régime est perçue comme une faute morale.",
+      "Par conséquent, le surmenage professionnel et l'effondrement psychologique ne sont plus des exceptions, mais des corollaires prévisibles d'une société axée sur le mérite individuel. Tandis que la rhétorique managériale vante l'épanouissement par le travail, la réalité objective montre une détérioration de la santé mentale des travailleurs. Autrement dit, l'aliénation moderne ne découle plus d'une contrainte extérieure physique, mais d'une auto-exploitation consentie, dictée par l'intériorisation des normes de rentabilité.",
+      "Néanmoins, il serait réducteur de blâmer uniquement les dynamiques économiques. La réussite à tout prix est également alimentée par le regard d'autrui, amplifié par la mise en scène de soi sur les plateformes numériques. L'individu moderne se doit d'exhiber un bonheur sans faille et une trajectoire ascendante. Bien que certains sociologues y voient une émancipation des anciens carcans de classes, la majorité s'accorde à dire que cette émancipation n'est qu'une illusion masquant de nouvelles formes de servitude volontaire.",
+      "En définitive, déconstruire le mythe de la réussite absolue nécessite de redéfinir collectivement ce qui constitue une vie accomplie. Tant que la valeur d'un être humain sera indexée sur sa productivité économique, l'injonction à la performance continuera de broyer les aspirations à un bonheur plus authentique."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quels sont les principaux critères de la réussite selon le premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Le niveau de revenu, le prestige professionnel et la visibilité au sein de la société.",
+        "mots_cles": [
+          { "mot": "revenu", "variantes": ["argent", "salaire", "richesse"], "poids": 0.33 },
+          { "mot": "prestige", "variantes": ["statut", "poste", "carrière"], "poids": 0.33 },
+          { "mot": "visibilité", "variantes": ["notoriété", "reconnaissance"], "poids": 0.34 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quelle nuance l'auteur apporte-t-il concernant la nature de l'aliénation moderne au deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "L'aliénation ne vient plus d'une force physique externe, mais d'une auto-exploitation volontaire et intériorisée.",
+        "mots_cles": [
+          { "mot": "auto-exploitation", "variantes": ["soi-même", "propre pression"], "poids": 0.6 },
+          { "mot": "intériorisée", "variantes": ["interne", "consentie"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quel rôle jouent les plateformes numériques dans le besoin de réussite ?",
+        "points": 1,
+        "reponse_modele": "Elles amplifient le besoin de mettre en scène sa vie et d'exhiber une réussite parfaite face au regard des autres.",
+"mots_cles": [
+{ "mot": "mise en scène", "variantes": ["exhiber", "montrer", "spectacle"], "poids": 0.5 },
+{ "mot": "regard d'autrui", "variantes": ["les autres", "validation sociale"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Que signifie l'expression « corollaires prévisibles » dans le contexte du deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Des conséquences logiques et attendues qui découlent naturellement de la situation.",
+"mots_cles": [
+{ "mot": "conséquences", "variantes": ["suites", "résultats"], "poids": 0.6 },
+{ "mot": "logiques", "variantes": ["prévisibles", "naturelles"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Analysez l'argumentation : opposez le point de vue des deux groupes de sociologues mentionnés au troisième paragraphe.",
+"points": 1,
+"reponse_modele": "Certains voient dans cette quête une émancipation des classes sociales, tandis que la majorité y voit une nouvelle servitude volontaire.",
+"mots_cles": [
+{ "mot": "émancipation", "variantes": ["libération", "autonomie"], "poids": 0.5 },
+{ "mot": "servitude", "variantes": ["aliénation", "esclavage", "illusion"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est l'intention globale de l'auteur à travers ce texte ?",
+"points": 1,
+"reponse_modele": "Critiquer le système de performance absolue et inciter à une redéfinition humaniste de l'accomplissement personnel.",
+"mots_cles": [
+{ "mot": "critiquer", "variantes": ["dénoncer", "remettre en question"], "poids": 0.5 },
+{ "mot": "redéfinition", "variantes": ["changer les critères", "repenser"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quel lien implicite l'auteur établit-il entre le système éducatif et le monde du travail ?",
+"points": 1,
+"reponse_modele": "Le système éducatif prépare inconsciemment les individus à accepter les normes de rentabilité et de compétition du milieu professionnel.",
+"mots_cles": [
+{ "mot": "prépare", "variantes": ["conditionne", "habitue"], "poids": 0.5 },
+{ "mot": "compétition", "variantes": ["performance", "excellence"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez l'expression « indexée sur sa productivité » utilisée à la fin du texte.",
+"points": 1,
+"reponse_modele": "Cela signifie que la valeur humaine est mesurée uniquement en fonction de ce que la personne produit économiquement.",
+"mots_cles": [
+{ "mot": "valeur", "variantes": ["estime", "importance"], "poids": 0.5 },
+{ "mot": "mesurée", "variantes": ["évaluée", "liée à", "calculée"], "poids": 0.5 }
+]
+}
+]
+},
+{
+"id": "B2-003b",
+"titre": "La solitude dans un monde de plus en plus connecté",
+"titre2": "Exercice 3",
+"audios": [
+{ "id": "audio-fr-read-b2-003b-1", "url": "soundcloud.com" }
+],
+"texte": [
+"À l'ère de l'interconnexion globale, l'humanité dispose d'outils de communication d'une puissance inédite. Paradoxalement, les enquêtes sociologiques contemporaines révèlent une recrudescence alarmante du sentiment de solitude, notamment chez les jeunes générations pourtant hyperconnectées. Ce phénomène met en lumière la distinction fondamentale entre la connexion technique et le lien social authentique. Être constamment joignable ne garantit en rien l'existence d'une écoute bienveillante ou d'un partage émotionnel sincère.",
+"Cependant, l'architecture même des réseaux sociaux tend à aggraver cette détresse invisible. En privilégiant les interactions superficielles et quantifiables — telles que les mentions « j'aime » ou le nombre d'abonnés —, ces plateformes transforment les relations en marchandises relationnelles. Par conséquent, l'individu se retrouve à gérer son image comme une marque, ce qui accroît la peur d'être rejeté si la vulnérabilité réelle venait à être dévoilée. Bien que l'on puisse échanger avec des personnes situées aux antipodes, la proximité géographique et physique fait cruellement défaut.",
+"Néanmoins, certains analystes soutiennent que le numérique offre des communautés de soutien irremplaçables pour les personnes marginalisées. Pour ces minorités, le réseau devient un refuge contre l'isolement géographique ou social. En revanche, si ces espaces virtuels pallient ponctuellement le manque d'entourage, ils peuvent aussi enfermer les utilisateurs dans des bulles de filtres cognitives, restreignant ainsi leur confrontation constructive à la diversité du monde réel.",
+"En définitive, la connectivité ne saurait remplacer la présence. Pour endiguer cette épidémie silencieuse de solitude, il apparaît impératif de réinvestir les espaces physiques de socialisation, d'encourager la gratuité des interactions humaines et de réapprendre à habiter le silence sans le meubler systématiquement par des flux d'informations numériques."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel paradoxe majeur est exposé dès l'introduction du texte ?",
+"points": 1,
+"reponse_modele": "Le fait que le développement sans précédent des outils de communication s'accompagne d'une hausse du sentiment de solitude.",
+"mots_cles": [
+{ "mot": "communication", "variantes": ["connexion", "technologie"], "poids": 0.5 },
+{ "mot": "solitude", "variantes": ["isolement", "seul"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle distinction conceptuelle l'auteur fait-il au premier paragraphe ?",
+"points": 1,
+"reponse_modele": "La différence entre la simple connexion technique et un lien social authentique.",
+"mots_cles": [
+{ "mot": "connexion technique", "variantes": ["virtuel", "outils"], "poids": 0.5 },
+{ "mot": "lien authentique", "variantes": ["relation réelle", "partage sincère"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "En quoi les réseaux sociaux transforment-ils les relations humaines en « marchandises » ?",
+"points": 1,
+"reponse_modele": "Ils se basent sur des critères quantifiables et obligent l'individu à gérer son image comme une marque.",
+"mots_cles": [
+{ "mot": "quantifiables", "variantes": ["chiffres", "likes", "abonnés"], "poids": 0.5 },
+{ "mot": "marque", "variantes": ["image", "marketing de soi"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Trouvez un synonyme contextuel pour le terme « recrudescence » utilisé au premier paragraphe.",
+"points": 1,
+"reponse_modele": "Une augmentation, une hausse soudaine ou une recrudescence d'un phénomène.",
+"mots_cles": [
+{ "mot": "augmentation", "variantes": ["hausse", "multiplication", "progression"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel avantage du numérique est mentionné par certains analystes au troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il permet aux personnes marginalisées ou isolées de trouver des communautés de soutien.",
+"mots_cles": [
+{ "mot": "marginalisées", "variantes": ["minorités", "exclues"], "poids": 0.5 },
+{ "mot": "soutien", "variantes": ["entraide", "refuge"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel risque posent les « bulles de filtres » selon le texte ?",
+"points": 1,
+"reponse_modele": "Elles enferment les gens dans leurs propres idées et les empêchent de se confronter à la diversité de la réalité.",
+"mots_cles": [
+{ "mot": "enferment", "variantes": ["isolent", "restreignent"], "poids": 0.5 },
+{ "mot": "diversité", "variantes": ["opinions différentes", "réalité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle figure de style ou intention se cache derrière l'expression « épidémie silencieuse » ?",
+"points": 1,
+"reponse_modele": "L'auteur utilise une métaphore médicale pour souligner la gravité et la propagation invisible de la solitude.",
+"mots_cles": [
+{ "mot": "métaphore", "variantes": ["comparaison", "image"], "poids": 0.5 },
+{ "mot": "gravité", "variantes": ["danger", "propagation"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle action concrète l'auteur suggère-t-il à la fin du texte pour retrouver un équilibre ?",
+"points": 1,
+"reponse_modele": "Réinvestir les lieux physiques de rencontre et réapprendre à apprécier le silence sans écrans.",
+"mots_cles": [
+{ "mot": "lieux physiques", "variantes": ["espaces réels", "socialisation"], "poids": 0.5 },
+{ "mot": "silence", "variantes": ["déconnexion", "sans information"], "poids": 0.5 }
+]
+}
+]
+},
+{
+"id": "B2-004b",
+"titre": "La consommation excessive et ses conséquences sur notre quotidien",
+"titre2": "Exercice 4",
+"audios": [
+{ "id": "audio-fr-read-b2-004b-1", "url": "soundcloud.com" }
+],
+"texte": [
+"Le modèle économique actuel repose de manière intrinsèque sur la stimulation perpétuelle de la demande. Par le biais d'un marketing omniprésent et d'une obsolescence de plus en plus programmée, les consommateurs sont incités à acquérir des biens superflus de façon frénétique. Ce penchant vers l'accumulation matérielle n'affecte pas seulement les équilibres écologiques planétaires ; il transforme également en profondeur l'organisation de notre quotidien et notre bien-être psychologique.",
+"En revanche, la promesse de félicité matérielle se heurte rapidement à la réalité de la frustration permanente. Les études économiques contemporaines mettent en évidence que l'achat procure une satisfaction éphémère. Dès l'acquisition finalisée, le désir se déplace vers un nouvel objet, emprisonnant l'individu dans un cycle insatiable. Par conséquent, pour financer ce surcroît de dépenses, les citoyens sont contraints d'allonger leur temps de travail au détriment de leurs loisirs ou des moments partagés en famille, créant un déséquilibre existentiel sous-estimé.",
+"Cependant, un revirement idéologique semble s'opérer au sein de certaines tranches de la population. Lassés par l'encombrement de leurs espaces de vie et la superficialité de cette quête, de nombreux citoyens se tournent vers le minimalisme. Bien que cette démarche exige un effort initial de détachement, ses adeptes affirment qu'elle permet de retrouver une liberté d'esprit inestimable. Autrement dit, posséder moins équivaudrait à s'alléger l'esprit et à réduire la dépendance vis-à-vis des impératifs du marché.",
+"En définitive, la remise en question de la consommation de masse ne relève pas de la simple posture morale individuelle. C'est un choix politique et sociétal d'envergure. Tant que le produit intérieur brut demeurera le seul étalon de la réussite collective, l'émancipation des chaînes de la consommation excessive restera une utopie pour la majorité d'entre nous."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Sur quels piliers repose le modèle économique critiqué dans le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "La stimulation constante de la demande par le marketing et l'obsolescence programmée des objets.",
+"mots_cles": [
+{ "mot": "marketing", "variantes": ["publicité", "stimulation"], "poids": 0.5 },
+{ "mot": "obsolescence", "variantes": ["durabilité réduite", "renouvellement"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel impact direct la consommation excessive a-t-elle sur le temps de travail des individus ?",
+"points": 1,
+"reponse_modele": "Elle force les gens à travailler davantage pour pouvoir financer leurs achats superflus.",
+"mots_cles": [
+{ "mot": "travailler davantage", "variantes": ["allonger le temps de travail", "plus d'heures"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Comment l'auteur qualifie-t-il la satisfaction issue d'un achat ?",
+"points": 1,
+"reponse_modele": "Elle est éphémère et fait rapidement place à une nouvelle frustration insatiable.",
+"mots_cles": [
+{ "mot": "éphémère", "variantes": ["courte", "temporaire"], "poids": 0.5 },
+{ "mot": "frustration", "variantes": ["nouveau désir", "cycle"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Expliquez le sens de l'adjectif « intrinsèque » au début du texte.",
+"points": 1,
+"reponse_modele": "Qui est essentiel, propre à l'essence même de l'objet ou du système, inséparable.",
+"mots_cles": [
+{ "mot": "essentiel", "variantes": ["inhérent", "fondamental", "propre"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quels bénéfices les partisans du minimalisme tirent-ils de leur mode de vie ?",
+"points": 1,
+"reponse_modele": "Ils retrouvent une liberté d'esprit, désencombrent leur espace et réduisent leur dépendance au marché.",
+"mots_cles": [
+{ "mot": "liberté d'esprit", "variantes": ["allégement", "bien-être"], "poids": 0.5 },
+{ "mot": "dépendance", "variantes": ["autonomie", "moins de marché"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "En quoi consiste la nuance apportée par le connecteur « Bien que » au troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il concède que le minimalisme demande un effort au départ, tout en mettant en valeur les bénéfices ultérieurs.",
+"mots_cles": [
+{ "mot": "effort", "variantes": ["difficulté initiale"], "poids": 0.5 },
+{ "mot": "bénéfices", "variantes": ["avantages", "liberté"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle critique sous-jacente l'auteur fait-il à l'égard de l'indicateur du PIB à la fin du texte ?",
+"points": 1,
+"reponse_modele": "Il reproche au PIB de mesurer la santé d'une société uniquement sur des critères financiers et marchands, au détriment du bonheur réel.",
+"mots_cles": [
+{ "mot": "financiers", "variantes": ["économiques", "croissance"], "poids": 0.5 },
+{ "mot": "bonheur", "variantes": ["bien-être", "humain"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Distinguez l'opinion de l'auteur des faits économiques décrits dans le texte.",
+"points": 1,
+"reponse_modele": "Les faits décrivent le fonctionnement du marketing et la hausse du temps de travail ; l'opinion de l'auteur réside dans la critique de ce système qualifié de « chaîne » ou de « posture morale ».",
+"mots_cles": [
+{ "mot": "faits", "variantes": ["données", "études", "mécanismes"], "poids": 0.5 },
+{ "mot": "opinion", "variantes": ["critique", "valeurs", "jugement"], "poids": 0.5 }
+]
+}
+]
+},
+{
+"id": "B2-005b",
+"titre": "Peut-on être heureux en vivant avec moins ?",
+"titre2": "Exercice 5",
+"audios": [
+{ "id": "audio-fr-read-b2-005b-1", "url": "soundcloud.com" }
+],
+"texte": [
+"La quête du bonheur est un invariant de l'expérience humaine, mais les chemins pour y parvenir font l'objet de vifs débats. Dans les sociétés industrialisées, l'adage populaire selon lequel « l'argent ne fait pas le bonheur » se heurte à des structures sociales qui valorisent l'abondance. Pourtant, l'émergence de la sobriété choisie, ou simplicité volontaire, invite à reconsidérer cette équation. Vivre avec moins ne relève pas nécessairement d'une privation subie, mais peut s'inscrire dans une démarche d'émancipation personnelle.",
+"Néanmoins, opérer une telle transition exige de surmonter d'importantes barrières psychologiques et culturelles. Dès l'enfance, les individus sont conditionnés à associer la sécurité affective et le statut social à l'accumulation de biens. Par conséquent, choisir le dénuement relatif implique une rupture avec son milieu social. Bien que cette démarche procure un sentiment de liberté à long terme, elle s'accompagne au départ d'une incompréhension manifeste de la part de l'entourage, qui peut l'interpréter comme une marginalisation ou un échec.",
+"En revanche, les bénéfices d'une existence simplifiée se mesurent à l'aune d'une richesse immatérielle retrouvée. En réduisant les dépenses superflues, on diminue le besoin de revenus immédiats, ce qui permet de réapproprier son temps. Ce temps libéré est alors investi dans des relations humaines authentiques, des projets créatifs ou un engagement citoyen. Autrement dit, la pauvreté matérielle choisie engendre une opulence temporelle et spirituelle que le salariat classique ne permet que rarement d'atteindre.",
+"En définitive, la sobriété offre une alternative crédible face à l'épuisement des ressources psychiques de l'homme moderne. Quoique cette pratique ne puisse résoudre l'ensemble des inégalités structurelles de notre société, elle pose les fondements d'une philosophie existentielle centrée sur l'être plutôt que sur l'avoir."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle thèse centrale l'auteur soutient-il au sujet de la simplicité volontaire ?",
+"points": 1,
+"reponse_modele": "Elle constitue une démarche d'émancipation personnelle permettant de trouver le bonheur hors de l'abondance.",
+"mots_cles": [
+{ "mot": "émancipation", "variantes": ["libération", "choix libre"], "poids": 0.5 },
+{ "mot": "bonheur", "variantes": ["épanouissement", "mieux vivre"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels obstacles initiaux attendent la personne qui choisit de vivre avec moins ?",
+"points": 1,
+"reponse_modele": "L'incompréhension de l'entourage et la nécessité de rompre avec le conditionnement culturel de l'accumulation.",
+"mots_cles": [
+{ "mot": "incompréhension", "variantes": ["jugement", "regard des autres"], "poids": 0.5 },
+{ "mot": "conditionnement", "variantes": ["habitudes", "culture"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Expliquez l'expression « opulence temporelle » selon le contexte du troisième paragraphe.",
+"points": 1,
+"reponse_modele": "Une grande abondance de temps libre dont on dispose pleinement pour soi et pour ses proches.",
+"mots_cles": [
+{ "mot": "abondance de temps", "variantes": ["avoir du temps", "temps libre", "richesse du temps"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Que signifie le mot « invariant » employé dans la première phrase du texte ?",
+"points": 1,
+"reponse_modele": "Un élément constant, immuable, qui ne change pas à travers les époques ou les cultures.",
+"mots_cles": [
+{ "mot": "constant", "variantes": ["permanent", "immuable", "fixe"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel arbitrage l'individu doit-il faire entre revenus et temps d'après le texte ?",
+"points": 1,
+"reponse_modele": "Accepter de baisser ses revenus pour travailler moins et obtenir en échange davantage de temps pour soi.",
+"mots_cles": [
+{ "mot": "baisser ses revenus", "variantes": ["gagner moins", "réduire ses dépenses"], "poids": 0.5 },
+{ "mot": "temps pour soi", "variantes": ["temps libre", "réapproprier son temps"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Analysez la nuance apportée par le connecteur « Quoique » à la fin du texte.",
+"points": 1,
+"reponse_modele": "Il reconnaît les limites systémiques de la sobriété individuelle face aux inégalités, tout en réaffirmant sa valeur philosophique.",
+"mots_cles": [
+{ "mot": "limites", "variantes": ["inégalités structurelles", "pas magique"], "poids": 0.5 },
+{ "mot": "philosophique", "variantes": ["existentielle", "valeur"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est l'opposition conceptuelle majeure développée dans la dernière phrase du texte ?",
+"points": 1,
+"reponse_modele": "L'opposition fondamentale entre l'« être » (l'accomplissement intérieur) et l'« avoir » (la possession matérielle).",
+"mots_cles": [
+{ "mot": "être", "variantes": ["spiritualité", "intériorité"], "poids": 0.5 },
+{ "mot": "avoir", "variantes": ["matérialisme", "possession"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Quelle est l'intention principale de l'auteur en écrivant cet article ?",
+"points": 1,
+"reponse_modele": "Proposer une réflexion critique sur le matérialisme et valoriser un mode de vie alternatif plus sain.",
+"mots_cles": [
+{ "mot": "réflexion critique", "variantes": ["interroger", "remettre en cause"], "poids": 0.5 },
+{ "mot": "alternative", "variantes": ["sobriété", "autre mode de vie"], "poids": 0.5 }
+]
+}
+]
+},
+{
+"id": "B2-006b",
+"titre": "L'evolution des relations humaines a l'ere numerique",
+"titre2": "Exercice 6",
+"audios": [
+{ "id": "audio-fr-read-b2-006b-1", "url": "soundcloud.com" }
+],
+"texte": [
+"Les modalités de socialisation ont connu d'importantes mutations au cours des deux dernières décennies. L'omniprésence des applications de messagerie et des plateformes virtuelles a redéfini les critères de la présence. Auparavant, entretenir une relation exigeait une coprésence spatio-temporelle ou, à tout le moins, un échange synchrone formalisé. Aujourd'hui, les interactions s'inscrivent dans une asynchronie permanente, transformant la nature même de l'engagement affectif entre les individus.",
+"Cependant, cette connectivité continue engendre des effets ambivalents. Bien qu'elle permette de maintenir le contact avec un cercle social élargi, elle tend à fragiliser l'intensité des liens de proximité. Les psychologues soulignent que la multiplication des canaux virtuels favorise un zapping relationnel. En effet, l'effort requis pour surmonter un conflit ou approfondir une discussion est éludé au profit de conversations plus légères et immédiates. Par conséquent, les relations deviennent plus fluides, mais aussi plus précaires.",
+"Néanmoins, rejeter en bloc ces mutations technologiques relèverait d'un conservatisme stérile. Les outils numériques agissent également comme des catalyseurs de sociabilité. Ils permettent de surmonter des barrières géographiques ou la timidité maladive de certains profils. En revanche, le risque majeur réside dans la confusion entre l'amitié numérique et l'intimité vécue. Autrement dit, l'accumulation de contacts virtuels dissimule parfois un profond sentiment d'isolement lorsque l'individu est confronté à des épreuves concrètes du quotidien.",
+"En définitive, l'ère numérique n'annihile pas les relations humaines, mais elle en déplace les curseurs de façon inédite. L'enjeu futur résidera dans l'apprentissage d'une hygiène relationnelle, capable de conjuguer la réactivité des outils modernes avec la lenteur essentielle à la sédimentation des amitiés durables."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Comment l'asynchronie mentionnée au premier paragraphe transforme-t-elle les relations ?",
+"points": 1,
+"reponse_modele": "Elle supprime l'obligation d'être présents en même temps ou au même endroit pour interagir, modifiant ainsi l'engagement.",
+"mots_cles": [
+{ "mot": "présence", "variantes": ["coprésence", "simultané"], "poids": 0.5 },
+{ "mot": "engagement", "variantes": ["investissement", "nature des liens"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Qu'entendent les psychologues par l'expression « zapping relationnel » ?",
+"points": 1,
+"reponse_modele": "Le fait de passer rapidement d'une relation ou d'une discussion à une autre dès qu'une difficulté surgit.",
+"mots_cles": [
+{ "mot": "passer rapidement", "variantes": ["sauter", "changer continuellement"], "poids": 0.6 },
+{ "mot": "difficulté", "variantes": ["conflit", "effort"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle est la double facette (l'ambivalence) des outils numériques décrite au deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Ils élargissent le cercle de connaissances mais rendent en même temps les relations de proximité plus superficielles et précaires.",
+"mots_cles": [
+{ "mot": "élargissent", "variantes": ["contact facile", "plus de monde"], "poids": 0.5 },
+{ "mot": "précaires", "variantes": ["fragiles", "superficielles"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Donnez la définition contextuelle du verbe « éluder » employé au deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Éviter avec adresse, ignorer volontairement ou contourner une difficulté.",
+"mots_cles": [
+{ "mot": "éviter", "variantes": ["contourner", "esquiver", "fuir"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "À quel danger s'expose l'individu qui confond contact virtuel et intimité d'après le texte ?",
+"points": 1,
+"reponse_modele": "Il risque de se retrouver démuni et profondément seul face aux épreuves concrètes de la vraie vie.",
+"mots_cles": [
+{ "mot": "seul", "variantes": ["isolement", "démuni"], "poids": 0.5 },
+{ "mot": "épreuves", "variantes": ["difficultés réelles", "quotidien"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle fonction logique remplit le connecteur « Néanmoins » au début du troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il introduit une transition pour réfuter le point de vue purement technophobe ou négatif de la situation.",
+"mots_cles": [
+{ "mot": "réfuter", "variantes": ["nuancer", "opposer", "contredire la vision négative"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle métaphore l'auteur utilise-t-il dans la dernière phrase du texte pour évoquer la construction d'amitiés fortes ?",
+"points": 1,
+"reponse_modele": "Il utilise l'image géologique de la « sédimentation » pour exprimer que les amitiés s'accumulent et se solidifient avec le temps.",
+"mots_cles": [
+{ "mot": "sédimentation", "variantes": ["temps long", "géologie", "couches"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Déterminez si l'affirmation suivante est un fait ou une opinion : « L'ère numérique n'annihile pas les relations humaines ».",
+"points": 1,
+"reponse_modele": "C'est une opinion ou une analyse argumentative de l'auteur qui interprète les données sociologiques.",
+"mots_cles": [
+{ "mot": "opinion", "variantes": ["analyse", "interprétation", "thèse"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-007b",
+"titre": "La place de la solidarité dans une société individualiste",
+"titre2": "Exercice 7",
+"audios": [
+{ "id": "audio-fr-read-b2-007b-1", "url": "soundcloud.com" }
+],
+"texte": [
+"L'exaltation de l'autonomie individuelle s'est imposée comme l'un des traits marquants de l'idéologie contemporaine. Chacun est encouragé à devenir l'artisan exclusif de sa propre existence, une injonction qui valorise la responsabilité personnelle au détriment des structures collectives de soutien. Pourtant, face aux crises économiques récurrentes et aux fractures climatiques, l'impératif de solidarité réapparaît de manière aiguë. Cela soulève une question cruciale : comment faire vivre l'entraide dans un monde conçu pour la compétition ?",
+"Cependant, les visages de cette solidarité ont profondément changé. Autrefois adossée à des institutions stables comme les syndicats ou les structures paroissiales, l'entraide s'exprime aujourd'hui à travers des initiatives éphémères et décentralisées. Les collectifs citoyens spontanés ou les cagnottes en ligne en sont de parfaits exemples. Par conséquent, si cette nouvelle forme de solidarité gagne en réactivité et en souplesse, elle souffre néanmoins d'un manque de pérennité structurelle.",
+"En revanche, les détracteurs de l'individualisme estiment que cette atomisation sociale fragilise les fondements mêmes de l'État-providence. Bien que la générosité ponctuelle soit louable, elle ne saurait pallier le désengagement progressif des services publics. Autrement dit, la charité privée, aussi connectée soit-elle, risque de masquer un recul des droits sociaux fondamentaux en renvoyant la gestion de la précarité à la seule bonne volonté des individus.",
+"En définitive, la conciliation entre aspirations individuelles et devoirs collectifs représente le grand défi démocratique de notre époque. La solidarité ne doit pas être pensée comme un supplément d'âme occasionnel, mais comme le pilier organisationnel garantissant la dignité de chaque citoyen au sein de la communauté."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle contradiction majeure ouvre la réflexion de l'auteur au premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Le culte de la réussite individuelle s'oppose au besoin urgent de solidarité face aux crises actuelles.",
+"mots_cles": [
+{ "mot": "individuelle", "variantes": ["autonomie", "compétition"], "poids": 0.5 },
+{ "mot": "solidarité", "variantes": ["entraide", "crises"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Comment les structures de solidarité ont-elles évolué au fil du temps selon le texte ?",
+"points": 1,
+"reponse_modele": "Elles sont passées d'institutions stables (syndicats, paroisses) à des actions éphémères et virtuelles.",
+"mots_cles": [
+{ "mot": "institutions stables", "variantes": ["anciennes structures", "syndicats"], "poids": 0.5 },
+{ "mot": "éphémères", "variantes": ["en ligne", "spontanées", "décentralisées"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel est le principal défaut des nouvelles formes de solidarité citoyenne d'après le deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Elles manquent de pérennité, c'est-à-dire de continuité et de stabilité dans le temps.",
+"mots_cles": [
+{ "mot": "pérennité", "variantes": ["durabilité", "stabilité", "continuité"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Que redoutent les opposants à l'individualisme concernant l'avenir de l'État-providence ?",
+"points": 1,
+"reponse_modele": "Ils craignent que la charité privée ne serve de prétexte pour justifier le désengagement des services publics.",
+"mots_cles": [
+{ "mot": "charité privée", "variantes": ["générosité ponctuelle"], "poids": 0.5 },
+{ "mot": "désengagement", "服务", ["recul des droits", "services publics"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Expliquez la nuance introduite par l'expression « supplément d'âme occasionnel » dans le dernier paragraphe.",
+"points": 1,
+"reponse_modele": "Cela désigne une action de bonne conscience secondaire, faite de temps en temps, plutôt qu'une valeur de base.",
+"mots_cles": [
+{ "mot": "bonne conscience", "variantes": ["optionnel", "secondaire", "décoratif"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Dans le troisième paragraphe, quel lien logique est exprimé par « Autrement dit » ?",
+"points": 1,
+"reponse_modele": "Il sert à reformuler une idée complexe pour en expliciter le danger politique et social.",
+"mots_cles": [
+{ "mot": "reformuler", "variantes": ["expliquer autrement", "clarifier", "expliciter"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est la position sous-entendue (implicite) de l'auteur concernant le rôle de l'État ?",
+"points": 1,
+"reponse_modele": "L'auteur estime implicitement que l'État doit garantir les services publics et ne peut pas se reposer sur les initiatives privées.",
+"mots_cles": [
+{ "mot": "garantir", "variantes": ["assumer", "protéger"], "poids": 0.5 },
+{ "mot": "services publics", "variantes": ["droits sociaux", "État"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel est l'objectif argumentatif du texte ?",
+"points": 1,
+"reponse_modele": "Démontrer que la solidarité collective et structurelle reste indispensable malgré la montée de l'individualisme.",
+"mots_cles": [
+{ "mot": "solidarité collective", "variantes": ["entraide institutionnelle"], "poids": 0.5 },
+{ "mot": "indispensable", "variantes": ["cruciale", "nécessaire"], "poids": 0.5 }
+]
+}
+]
+},
+{
+"id": "B2-008b",
+"titre": "Les nouvelles formes de famille dans le monde contemporain",
+"titre2": "Exercice 8",
+"audios": [
+{ "id": "audio-fr-read-b2-008b-1", "url": "soundcloud.com" }
+],
+"texte": [
+"La famille, cellule fondamentale de l'organisation sociale, a connu des bouleversements d'une ampleur inédite au cours des dernières décennies. Le modèle traditionnel nucléaire, bien qu'il demeure ancré dans les représentations collectives, a cédé du terrain au profit d'une multiplicité de configurations affectives. Familles monoparentales, recomposées, homoparentales ou encore tribus électives dessinent aujourd'hui les contours d'un paysage relationnel pluriel qui redéfinit les notions de parenté et de filiation.",
+"Néanmoins, ces mutations ne s'opèrent pas sans heurts ni résistances au sein de l'espace public. Les débats juridiques et éthiques entourant ces évolutions témoignent de la persistance de visions conservatrices. Par conséquent, les nouvelles structures familiales doivent constamment négocier leur légitimité face à des cadres législatifs parfois obsolètes. Les sociologues soulignent que la légitimité d'une famille ne dépend plus de sa conformité biologique, mais de la solidité des liens affectifs et du projet éducatif qui la fondent.",
+"En revanche, la flexibilité de ces modèles contemporains engendre de nouveaux défis psychologiques pour les enfants et les parents. Dans les familles recomposées, la redéfinition des rôles de chacun — notamment la place du beau-parent — s'avère parfois complexe et génératrice de tensions. Cependant, les recherches en psychologie démontrent que l'épanouissement de l'enfant est corrélé à la stabilité émotionnelle du foyer plutôt qu'à sa structure formelle. Autrement dit, l'amour et la sécurité importent plus que la stricte composition biologique.",
+"En définitive, la pluralisation des formes familiales reflète une aspiration profonde à l'autonomie et à l'authenticité des sentiments. Quoique la famille change de visage, sa fonction première de refuge affectif et de vecteur de socialisation demeure inchangée, prouvant sa formidable plasticité historique."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelles nouvelles formes de familles sont énumérées au premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Les familles monoparentales, recomposées, homoparentales et les tribus électives.",
+"mots_cles": [
+{ "mot": "monoparentales", "variantes": ["un seul parent"], "poids": 0.25 },
+{ "mot": "recomposées", "variantes": ["beaux-parents"], "poids": 0.25 },
+{ "mot": "homoparentales", "variantes": ["parents même sexe"], "poids": 0.25 },
+{ "mot": "tribus électives", "variantes": ["choisies"], "poids": 0.25 }
+]
+},
+{
+"id": "Q2",
+"question": "Sur quel critère repose désormais la légitimité d'une famille selon les sociologues ?",
+"points": 1,
+"reponse_modele": "Sur la force des liens affectifs et la qualité du projet éducatif, et non plus sur la biologie.",
+"mots_cles": [
+{ "mot": "liens affectifs", "variantes": ["amour", "sentiments"], "poids": 0.5 },
+{ "mot": "projet éducatif", "variantes": ["éducation", "stabilité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle difficulté propre aux familles recomposées est soulevée par l'auteur ?",
+"points": 1,
+"reponse_modele": "La répartition et la définition des rôles de chacun, en particulier la fonction du beau-parent.",
+"mots_cles": [
+{ "mot": "rôles", "variantes": ["place", "statut"], "poids": 0.5 },
+{ "mot": "beau-parent", "variantes": ["nouveau conjoint"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Donnez un synonyme contextuel du mot « plasticité » employé à la fin du texte.",
+"points": 1,
+"reponse_modele": "La capacité d'adaptation, la flexibilité ou la souplesse face aux changements.",
+"mots_cles": [
+{ "mot": "adaptation", "variantes": ["flexibilité", "souplesse", "malléabilité"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel est le facteur déterminant pour le bien-être de l'enfant selon les études de psychologie ?",
+"points": 1,
+"reponse_modele": "La stabilité émotionnelle et la sécurité au sein du foyer, peu importe sa forme juridique.",
+"mots_cles": [
+{ "mot": "stabilité émotionnelle", "variantes": ["sécurité affective", "climat familial"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Comment l'auteur nuance-t-il la perte de vitesse du modèle traditionnel au premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Grâce au connecteur « bien qu'il demeure », il rappelle que ce modèle reste ancré dans l'imaginaire collectif.",
+"mots_cles": [
+{ "mot": "ancré", "variantes": ["présent dans l'esprit", "imaginaire collectif"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est l'intention finale de l'auteur concernant la transformation de la famille ?",
+"points": 1,
+"reponse_modele": "Rassurer le lecteur en montrant que malgré les changements de forme, le rôle protecteur de la famille reste intact.",
+"mots_cles": [
+{ "mot": "rassurer", "variantes": ["positiver", "légitimer"], "poids": 0.5 },
+{ "mot": "rôle protecteur", "variantes": ["refuge affectif", "fonction première"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "S'agit-il d'un texte purement informatif ou d'un texte d'opinion ?",
+"points": 1,
+"reponse_modele": "C'est un texte d'analyse argumentative, car l'auteur prend parti pour la reconnaissance de la diversité familiale.",
+"mots_cles": [
+{ "mot": "argumentative", "variantes": ["analyse", "prise de parti", "opinion"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-009b",
+"titre": "L'influence des normes sociales sur nos choix personnels",
+"titre2": "Exercice 9",
+"audios": [
+{ "id": "audio-fr-read-b2-009b-1", "url": "soundcloud.com" }
+],
+"texte": [
+"Nous aimons à penser que nos choix de vie — qu'il s'agisse de notre carrière, de notre partenaire ou de nos loisirs — découlent d'une volonté purement autonome. Pourtant, l'analyse sociologique révèle que nos décisions sont constamment guidées par des normes sociales invisibles mais contraignantes. Ce conditionnement, intériorisé dès l'enfance par le biais de la socialisation, agit comme une boussole inconsciente qui nous pousse à nous conformer aux attentes de la collectivité afin d'éviter le rejet.",
+"Cependant, l'intensité de ce contrôle social a pris de nouvelles formes à l'époque moderne. Alors que les institutions traditionnelles comme l'Église ou l'armée ont vu leur influence décliner, les algorithmes et la culture de l'image ont pris le relais. Par conséquent, l'injonction à l'originalité paradoxale se propage : il faut être unique, mais d'une manière validée par la communauté virtuelle. Bien que l'individu moderne se croie libéré des dogmes anciens, il obéit souvent au mimétisme numérique.",
+"Néanmoins, l'émancipation par rapport à ces attentes normatives reste possible et constitue un acte de résistance salutaire. S'écarter des chemins balisés — par exemple en choisissant de ne pas avoir d'enfants ou en refusant le modèle de la réussite matérielle — suscite souvent l'incompréhension, voire la réprobation. En revanche, ceux qui assument cette dissonance culturelle rapportent un sentiment d'alignement avec leur identité réelle. Autrement dit, la liberté commence là où s'arrête la peur du jugement d'autrui.",
+"En définitive, prendre conscience du poids des normes ne vise pas à les nier en bloc, car elles garantissent l'ordre social. L'enjeu est plutôt de discerner celles qui nous structurent de celles qui nous aliènent, afin de reconquérir une véritable souveraineté existentielle."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle illusion sur nos choix de vie est dénoncée au début du texte ?",
+"points": 1,
+"reponse_modele": "L'illusion d'une totale autonomie, alors que nos décisions sont dictées par des normes sociales.",
+"mots_cles": [
+{ "mot": "autonomie", "variantes": ["libre arbitre", "choix libres"], "poids": 0.5 },
+{ "mot": "normes sociales", "variantes": ["conditionnement", "société"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelles nouvelles instances ont remplacé les institutions traditionnelles pour exercer le contrôle social ?",
+"points": 1,
+"reponse_modele": "Les algorithmes des réseaux sociaux et la culture de l'image numérique.",
+"mots_cles": [
+{ "mot": "algorithmes", "variantes": ["technologie", "réseaux sociaux"], "poids": 0.5 },
+{ "mot": "image", "variantes": ["culture visuelle", "écrans"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Expliquez le paradoxe de l'« injonction à l'originalité » mentionné au deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Il consiste à devoir se montrer unique tout en respectant scrupuleusement les codes de la validation numérique.",
+"mots_cles": [
+{ "mot": "unique", "variantes": ["original"], "poids": 0.5 },
+{ "mot": "validation", "variantes": ["codes", "accepté par les autres"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Que signifie le mot « réprobation » dans le troisième paragraphe ?",
+"points": 1,
+"reponse_modele": "Un jugement négatif, un blâme ou une condamnation morale exprimée par l'entourage.",
+"mots_cles": [
+{ "mot": "blâme", "variantes": ["condamnation", "critique", "désapprobation"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelles conséquences attendent ceux qui osent s'écarter des modèles traditionnels ?",
+"points": 1,
+"reponse_modele": "Ils s'exposent à l'incompréhension et au jugement, mais gagnent un alignement avec leur identité réelle.",
+"mots_cles": [
+{ "mot": "incompréhension", "variantes": ["critiques", "réprobation"], "poids": 0.5 },
+{ "mot": "alignement", "variantes": ["liberté", "authenticité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est l'utilité des normes sociales d'après la conclusion de l'auteur ?",
+"points": 1,
+"reponse_modele": "Elles sont nécessaires car elles maintiennent la cohésion et l'ordre au sein de la société.",
+"mots_cles": [
+{ "mot": "ordre social", "variantes": ["cohésion", "vivre ensemble"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle nuance apporte l'auteur en disant qu'il faut « discerner celles qui nous structurent de celles qui nous aliènent » ?",
+"points": 1,
+"reponse_modele": "Il montre que certaines règles sociales sont protectrices et positives, tandis que d'autres détruisent notre liberté.",
+"mots_cles": [
+{ "mot": "protectrices", "variantes": ["positives", "utiles"], "poids": 0.5 },
+{ "mot": "aliènent", "variantes": ["privent de liberté", "négatives"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Analysez l'implicite de la phrase : « la liberté commence là où s'arrête la peur du jugement d'autrui ».",
+"points": 1,
+"reponse_modele": "Cela sous-entend que la plupart des gens ne sont pas libres car ils agissent uniquement par peur du regard des autres.",
+"mots_cles": [
+{ "mot": "pas libres", "variantes": ["prisonniers", "esclaves"], "poids": 0.5 },
+{ "mot": "regard des autres", "variantes": ["jugement", "opinion publique"], "poids": 0.5 }
+]
+}
+]
+},
+{
+    "id": "B2-010b",
+    "titre": "Faut-il toujours chercher à améliorer son niveau de vie ?",
+    "titre2": "Exercice 10",
+    "audios": [],
+    "texte": [
+      "Dans notre société contemporaine, l’aspiration à élever son niveau de vie est souvent érigée en dogme incontestable. Bien que cette quête matérielle ait historiquement permis de s’affranchir de nombreuses précarités et d’accéder à un confort inédit, elle se heurte désormais à des impératifs éthiques et écologiques pressants. Nombreux sont ceux qui s'interrogent sur la pertinence d'une croissance individuelle indéfinie, tandis que les ressources planétaires s'épuisent de manière irréversible.",
+      "D'un côté, les partisans du progrès continu soutiennent que l'amélioration des conditions matérielles stimule l'innovation et favorise le bien-être général. Néanmoins, cette course effrénée vers l'accumulation de biens engendre fréquemment une anxiété chronique et un sentiment de vide existentiel. Les sociologues soulignent à cet égard que le bonheur ressenti n'évolue plus de manière proportionnelle aux revenus une fois que les besoins fondamentaux sont comblés. Autrement dit, la poursuite obsessionnelle du gain financier aliène l'individu en le soumettant au phénomène de l'adaptation hédonique.",
+      "En définitive, bien que l'ambition d'améliorer son quotidien demeure légitime, il s'avère indispensable de redéfinir la notion même de réussite. Une transition vers une sobriété choisie, axée sur la richesse des relations humaines et le temps libre, offre une alternative séduisante à l'insatisfaction perpétuelle générée par le consumérisme."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Quelle est l'idée principale défendue par l'auteur dans le premier paragraphe concernant la recherche d'un meilleur niveau de vie ?",
+        "points": 1,
+        "reponse_modele": "Bien qu'elle ait historiquement apporté du confort, cette quête se heurte aujourd'hui à des limites écologiques et éthiques.",
+        "mots_cles": [
+          { "mot": "confort", "variantes": ["progrès", "bien-être materiél"], "poids": 0.3 },
+          { "mot": "limites écologiques", "variantes": ["impératifs écologiques", "épuisement des ressources", "planète"], "poids": 0.5 },
+          { "mot": "éthiques", "variantes": ["morales", "pertinence"], "poids": 0.2 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Selon le texte, quel sentiment la course à l'accumulation matérielle provoque-t-elle souvent chez les individus ?",
+        "points": 1,
+        "reponse_modele": "Elle provoque fréquemment une anxiété chronique et un sentiment de vide existentiel.",
+        "mots_cles": [
+          { "mot": "anxiété", "variantes": ["angoisse", "stress"], "poids": 0.5 },
+          { "mot": "vide existentiel", "variantes": ["manque de sens", "insatisfaction"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Que signifie l'expression « érigée en dogme incontestable » dans le contexte du premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Cela signifie que cette idée est considérée comme une vérité absolue que personne ne remet en question.",
+        "mots_cles": [
+          { "mot": "vérité absolue", "variantes": ["principe indiscutable", "norme suprême", "obligation"], "poids": 0.6 },
+          { "mot": "remet en question", "variantes": ["contester", "discuter"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quelle nuance les sociologues apportent-ils concernant le lien entre les revenus et le bonheur ?",
+        "points": 1,
+        "reponse_modele": "Le bonheur n'augmente plus proportionnellement aux revenus une fois que les besoins essentiels sont satisfaits.",
+        "mots_cles": [
+          { "mot": "proportionnellement", "variantes": ["de la même manière", "en corrélation"], "poids": 0.4 },
+          { "mot": "besoins essentiels", "variantes": ["besoins fondamentaux", "le nécessaire", "la base"], "poids": 0.6 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Selon l'auteur, comment la poursuite obsessionnelle du gain financier affecte-t-elle l'individu ?",
+        "points": 1,
+        "reponse_modele": "Elle aliène l'individu en le rendant dépendant de l'adaptation hédonique.",
+        "mots_cles": [
+          { "mot": "aliène", "variantes": ["emprisonne", "asservit", "isole"], "poids": 0.5 },
+          { "mot": "adaptation hédonique", "variantes": ["insatisfaction chronique", "recherche de plaisir"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Quel est le but de l'utilisation du connecteur « autrement dit » au milieu du deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Il sert à reformuler et expliciter l'impact de la quête matérielle sur la psychologie humaine.",
+        "mots_cles": [
+          { "mot": "reformuler", "variantes": ["expliquer autrement", "clarifier"], "poids": 0.6 },
+          { "mot": "impact", "variantes": ["conséquence", "effet"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Quelle alternative au consumérisme l'auteur propose-t-il à la fin du texte ?",
+        "points": 1,
+        "reponse_modele": "Il propose une transition vers une sobriété choisie, valorisant les relations humaines et le temps libre.",
+        "mots_cles": [
+          { "mot": "sobriété choisie", "variantes": ["simplicité volontaire", "vivre avec moins"], "poids": 0.5 },
+          { "mot": "relations humaines", "variantes": ["liens sociaux", "rapports humains"], "poids": 0.3 },
+          { "mot": "temps libre", "variantes": ["disponibilité"], "poids": 0.2 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Dans le dernier paragraphe, l'auteur qualifie la sobriété de « choisie ». Quelle est son intention en employant cet adjectif ?",
+        "points": 1,
+        "reponse_modele": "Il veut insister sur le fait que cette réduction matérielle doit être un acte volontaire et non une privation subie.",
+        "mots_cles": [
+          { "mot": "volontaire", "variantes": ["délibéré", "un choix"], "poids": 0.6 },
+          { "mot": "subie", "variantes": ["imposée", "pauvreté"], "poids": 0.4 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-011b",
+    "titre": "L'école doit-elle privilégier les connaissances ou les compétences ?",
+    "titre2": "Exercice 11",
+    "audios": [],
+    "texte": [
+      "Le débat entre l'acquisition de connaissances pures et le développement de compétences pratiques agite le monde éducatif depuis plusieurs décennies. Traditionnellement, l’institution scolaire française s’est construite autour de la transmission de savoirs académiques rigoureux. Bien que ce modèle ait formé des générations d'esprits cultivés, il est aujourd’hui critiqué pour son décalage avec les réalités d'un marché du travail en constante mutation.",
+      "En effet, les partisans d'une approche par compétences soutiennent que l'école devrait avant tout apprendre aux élèves à mobiliser leurs savoirs dans des situations concrètes. Savoir collaborer, résoudre des problèmes complexes ou faire preuve d'adaptabilité s'avère indispensable à l'ère du numérique. Néanmoins, certains pédagogues s'inquiètent d'une dérive utilitariste qui réduirait l'éducation à une simple formation professionnelle. Ils rappellent que sans un socle de connaissances théoriques solides, l’esprit critique ne peut se structurer de manière autonome.",
+      "Par conséquent, opposer de manière frontale ces deux notions apparaît comme une erreur conceptuelle. En définitive, une synergie harmonieuse est nécessaire : les connaissances constituent les fondations indispensables à partir desquelles les compétences peuvent se déployer avec pertinence pour former des citoyens accomplis."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Sur quoi l'école française s'est-elle traditionnellement focalisée selon le premier paragraphe ?",
+        "points": 1,
+        "reponse_modele": "Elle s'est concentrée sur la transmission de savoirs académiques rigoureux.",
+        "mots_cles": [
+          { "mot": "savoirs académiques", "variantes": ["connaissances pures", "culture générale", "théorie"], "poids": 0.7 },
+          { "mot": "transmission", "variantes": ["enseignement"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Quelle critique principale est adressée au modèle éducatif traditionnel ?",
+        "points": 1,
+        "reponse_modele": "Il est déconnecté des réalités et des mutations du marché du travail actuel.",
+        "mots_cles": [
+          { "mot": "déconnecté", "variantes": ["décalage", "inadapté"], "poids": 0.5 },
+          { "mot": "marché du travail", "variantes": ["monde professionnel", "emploi"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Quelles aptitudes concrètes font partie des « compétences » mentionnées dans le deuxième paragraphe ?",
+        "points": 1,
+        "reponse_modele": "La collaboration, la résolution de problèmes complexes et l'adaptabilité.",
+        "mots_cles": [
+          { "mot": "collaboration", "variantes": ["coopération", "travailler ensemble"], "poids": 0.33 },
+          { "mot": "résolution de problèmes", "variantes": ["trouver des solutions"], "poids": 0.33 },
+          { "mot": "adaptabilité", "variantes": ["s'adapter"], "poids": 0.34 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Quelle crainte certains pédagogues expriment-ils vis-à-vis de l'approche par compétences ?",
+        "points": 1,
+        "reponse_modele": "Ils craignent une dérive utilitariste qui transformerait l'école en une formation purement professionnelle.",
+        "mots_cles": [
+          { "mot": "dérive utilitariste", "variantes": ["vision court-termiste", "marchandisation"], "poids": 0.5 },
+          { "mot": "professionnelle", "variantes": ["métier", "technique", "emploi"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Pourquoi le socle de connaissances théoriques reste-t-il indispensable d'après le texte ?",
+"points": 1,
+"reponse_modele": "Parce qu'il est indispensable pour structurer l'esprit critique de manière autonome.",
+"mots_cles": [
+{ "mot": "esprit critique", "variantes": ["réflexion", "jugement"], "poids": 0.7 },
+{ "mot": "autonome", "variantes": ["libre", "par soi-même"], "poids": 0.3 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est la fonction grammaticale et logique du mot « Néanmoins » au milieu du deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "C'est un connecteur logique qui sert à introduire une opposition ou une réserve.",
+"mots_cles": [
+{ "mot": "opposition", "variantes": ["concession", "réserve", "restriction"], "poids": 0.7 },
+{ "mot": "connecteur", "variantes": ["adverbe"], "poids": 0.3 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle conclusion l'auteur tire-t-il concernant la relation entre connaissances et compétences ?",
+"points": 1,
+"reponse_modele": "Il conclut qu'il faut les associer de manière complémentaire, les connaissances servant de base aux compétences.",
+"mots_cles": [
+{ "mot": "complémentaire", "variantes": ["synergie", "association", "allier"], "poids": 0.5 },
+{ "mot": "base", "variantes": ["fondations", "socle"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un synonyme utilisé par l'auteur dans le texte pour désigner « l’école » ou le cadre institutionnel d'apprentissage.",
+"points": 1,
+"reponse_modele": "L'institution scolaire (ou le monde éducatif).",
+"mots_cles": [
+{ "mot": "institution scolaire", "variantes": ["monde éducatif", "établissement"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-012b",
+"titre": "Les limites du système éducatif traditionnel",
+"titre2": "Exercice 12",
+"audios": [],
+"texte": [
+"Le système éducatif traditionnel, majoritairement fondé sur un modèle transmissif et vertical, montre aujourd'hui des signes d'essoufflement structurel. Conçu à l'ère industrielle pour uniformiser les savoirs, ce dispositif privilégie la mémorisation et la reproduction de schémas préétablis. Bien que cette méthode ait fait ses preuves pour évaluer de grands groupes, elle tend à négliger les rythmes d’apprentissage individuels et à brimer la singularité des élèves.",
+"En outre, la notation chiffrée, pilier de ce système, engendre souvent une compétition délétère plutôt qu’une saine émulation. Tandis que les élèves en réussite se conforment aux attentes académiques, ceux qui font face à des difficultés précoces se retrouvent marginalisés, ce qui alimente le décrochage scolaire. Les critiques soulignent également que cette pédagogie passive désengage l'apprenant, le transformant en simple récepteur d'informations.",
+"Néanmoins, réformer en profondeur une telle institution s'avère complexe en raison des résistances culturelles et syndicales. Quoique de nombreuses initiatives alternatives émergent, le chemin vers une école inclusive, valorisant l'erreur comme outil de progression, reste encore parsemé d'embûches."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Dans quel but historique le système éducatif traditionnel a-t-il été conçu selon l'auteur ?",
+"points": 1,
+"reponse_modele": "Il a été conçu à l'ère industrielle pour uniformiser les savoirs de la population.",
+"mots_cles": [
+{ "mot": "ère industrielle", "variantes": ["passé", "autrefois", "XIXe siècle"], "poids": 0.5 },
+{ "mot": "uniformiser", "variantes": ["standardiser", "rendre pareils les savoirs"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelles sont les facultés principalement sollicitées chez les élèves par le modèle traditionnel ?",
+"points": 1,
+"reponse_modele": "La mémorisation et la reproduction de schémas préétablis.",
+"mots_cles": [
+{ "mot": "mémorisation", "variantes": ["mémoire", "apprendre par cœur"], "poids": 0.5 },
+{ "mot": "reproduction", "variantes": ["répéter", "imiter", "schémas"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel effet néfaste la notation chiffrée produit-elle sur le climat de la classe d'après le texte ?",
+"points": 1,
+"reponse_modele": "Elle engendre une compétition délétère au lieu de favoriser une saine émulation.",
+"mots_cles": [
+{ "mot": "compétition délétère", "variantes": ["rivalité toxique", "mauvaise ambiance", "stress"], "poids": 0.7 },
+{ "mot": "émulation", "variantes": ["collaboration", "motivation saine"], "poids": 0.3 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle est la conséquence psychologique de ce système pour les élèves en difficulté précoce ?",
+"points": 1,
+"reponse_modele": "Ils se retrouvent marginalisés, ce qui favorise ensuite le décrochage scolaire.",
+"mots_cles": [
+{ "mot": "marginalisés", "variantes": ["exclus", "mis de côté", "isolés"], "poids": 0.5 },
+{ "mot": "décrochage scolaire", "variantes": ["abandon des études", "quitter l'école"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Que reproche-t-on au rôle assigné à l'élève dans une pédagogie qualifiée de « passive » ?",
+"points": 1,
+"reponse_modele": "Elle le transforme en un simple récepteur d'informations et entraîne son désengagement.",
+"mots_cles": [
+{ "mot": "récepteur d'informations", "variantes": ["écouteur passif", "spectateur"], "poids": 0.5 },
+{ "mot": "désengagement", "variantes": ["perte de motivation", "inactivité"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quels obstacles freinent la mise en œuvre d'une réforme profonde de l'éducation ?",
+"points": 1,
+"reponse_modele": "Les résistances culturelles et syndicales au sein du pays.",
+"mots_cles": [
+{ "mot": "résistances culturelles", "variantes": ["habitudes", "traditions"], "poids": 0.5 },
+{ "mot": "syndicales", "variantes": ["syndicats", "corps enseignant"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Comment l'erreur devrait-elle être perçue selon la vision d'une école moderne et inclusive ?",
+"points": 1,
+"reponse_modele": "L'erreur devrait être valorisée comme un véritable outil de progression pédagogique.",
+"mots_cles": [
+{ "mot": "outil de progression", "variantes": ["moyen d'apprendre", "étape positive", "levier"], "poids": 0.8 },
+{ "mot": "valorisée", "variantes": ["acceptée", "encouragée"], "poids": 0.2 }
+]
+},
+{
+"id": "Q8",
+"question": "Expliquez le sens de l'adjectif « délétère » employé dans l'expression « compétition délétère ».",
+"points": 1,
+"reponse_modele": "Il signifie nuisible, toxique, ou nocif pour la santé mentale et sociale des élèves.",
+"mots_cles": [
+{ "mot": "nuisible", "variantes": ["toxique", "nocif", "mauvais", "destructeur"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-013b",
+"titre": "L'apprentissage à distance peut-il remplacer les cours en présentiel ?",
+"titre2": "Exercice 13",
+"audios": [],
+"texte": [
+"La numérisation galopante des outils pédagogiques a propulsé l'enseignement à distance au centre des stratégies éducatives mondiales. Bien que cette modalité offre une flexibilité géographique sans précédent et un accès élargi à des ressources variées, la question de sa capacité à supplanter définitivement le présentiel reste entière. Les expériences récentes ont mis en exergue des disparités tant techniques qu'humaines.",
+"D'une part, les plateformes virtuelles permettent une individualisation des parcours d'apprentissage, tandis que l'étudiant avance à son propre rythme. En revanche, l'isolement social induit par les écrans constitue un frein majeur à l'épanouissement personnel. L'école n'est pas uniquement un lieu d'assimilation cognitive ; elle incarne avant tout un espace de socialisation indispensable où s'acquièrent le débat, l'empathie et la citoyenneté. Priver les jeunes de ces interactions physiques altérerait leur construction identitaire.",
+"En définitive, il paraît utopique de croire que le virtuel puisse effacer le besoin de présence humaine. Un consensus émerge plutôt autour d'un modèle hybride. Ce système combiné exploiterait l'efficience technologique du distanciel tout en préservant la richesse irremplaçable des échanges en classe."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel avantage principal l'apprentissage à distance offre-t-il selon le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il offre une flexibilité géographique inégalée et un accès étendu à de multiples ressources.",
+"mots_cles": [
+{ "mot": "flexibilité géographique", "variantes": ["étudier partout", "liberté de lieu"], "poids": 0.6 },
+{ "mot": "ressources", "variantes": ["documents", "outils numériques"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Pourquoi l'individualisation des parcours est-elle facilitée par les plateformes en ligne ?",
+"points": 1,
+"reponse_modele": "Parce qu'elles permettent à chaque étudiant de progresser à son propre rythme.",
+"mots_cles": [
+{ "mot": "propre rythme", "variantes": ["vitesse individuelle", "autonomie temporel"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quel inconvénient psychologique majeur est associé à l'usage exclusif des écrans ?",
+"points": 1,
+"reponse_modele": "L'isolement social, qui nuit à l'épanouissement personnel de l'élève.",
+"mots_cles": [
+{ "mot": "isolement social", "variantes": ["solitude", "manque de contact"], "poids": 0.7 },
+{ "mot": "épanouissement", "variantes": ["bien-être", "santé mentale"], "poids": 0.3 }
+]
+},
+{
+"id": "Q4",
+"question": "En dehors des connaissances, quelles compétences citoyennes s'acquièrent dans l'espace physique de l'école ?",
+"points": 1,
+"reponse_modele": "Le sens du débat, le développement de l'empathie et l'apprentissage de la citoyenneté.",
+"mots_cles": [
+{ "mot": "débat", "variantes": ["discussion", "argumentation"], "poids": 0.33 },
+{ "mot": "empathie", "variantes": ["compréhension des autres"], "poids": 0.33 },
+{ "mot": "citoyenneté", "variantes": ["vivre-ensemble", "valeurs"], "poids": 0.34 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle conséquence l'absence d'interactions physiques pourrait-elle avoir sur les jeunes ?",
+"points": 1,
+"reponse_modele": "Elle pourrait profondément altérer leur construction identitaire.",
+"mots_cles": [
+{ "mot": "altérer", "variantes": ["abîmer", "perturber", "nuire à"], "poids": 0.4 },
+{ "mot": "construction identitaire", "variantes": ["personnalité", "grandir", "se développer"], "poids": 0.6 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est l'opinion de l'auteur quant au remplacement total du présentiel par le distanciel ?",
+"points": 1,
+"reponse_modele": "Il trouve cette perspective utopique car on ne peut éliminer le besoin de présence humaine.",
+"mots_cles": [
+{ "mot": "utopique", "variantes": ["irréaliste", "impossible", "illusion"], "poids": 0.6 },
+{ "mot": "présence humaine", "variantes": ["contact réel", "professeur en chair et en os"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "En quoi consiste le « modèle hybride » recommandé à la fin du texte ?",
+"points": 1,
+"reponse_modele": "Il s'agit d'un système qui associe l'efficacité de la technologie en ligne et les cours interactifs en classe.",
+"mots_cles": [
+{ "mot": "associe", "variantes": ["combine", "mélange", "articule"], "poids": 0.4 },
+{ "mot": "technologie", "variantes": ["distanciel", "en ligne"], "poids": 0.3 },
+{ "mot": "classe", "variantes": ["présentiel", "rencontres physiques"], "poids": 0.3 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez dans le premier paragraphe un verbe soutenu signifiant « remplacer » ou « prendre la place de ».",
+"points": 1,
+"reponse_modele": "Supplanter.",
+"mots_cles": [
+{ "mot": "supplanter", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-014b",
+"titre": "L'importance de développer l'esprit critique dès le plus jeune âge",
+"titre2": "Exercice 14",
+"audios": [],
+"texte": [
+"À l'ère de l'infobésité et de la prolifération des infox sur les réseaux sociaux, l'art du discernement est devenu une compétence vitale. Développer l'esprit critique chez les enfants ne consiste pas à encourager un scepticisme systématique, mais plutôt à leur fournir les outils intellectuels nécessaires pour évaluer la validité d'une information. Bien que cette démarche exige un investissement de longue haleine, elle s'avère payante pour prémunir les futures générations contre la manipulation.",
+"Dès le plus jeune âge, les élèves doivent apprendre à distinguer un fait vérifiable d'une simple opinion personnelle. Par conséquent, la pédagogie moderne incite les enseignants à organiser des débats contradictoires en classe. Tandis que l’autorité professorale traditionnelle imposait une vérité unique, l'éducation contemporaine invite à questionner les sources et à analyser les arguments. Autrement dit, il s'agit d'éveiller la curiosité tout en instillant une méthodologie rigoureuse de vérification.",
+"En définitive, forger l'esprit critique des enfants est le garant majeur de la préservation de nos valeurs démocratiques. Un citoyen capable de penser par lui-même est moins perméable aux discours simplistes et aux théories du complot qui menacent la cohésion de notre société."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel contexte actuel rend le développement de l'esprit critique si crucial d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "L'ère de l'infobésité et la diffusion massive de fausses informations (infox) sur Internet.",
+"mots_cles": [
+{ "mot": "infobésité", "variantes": ["surinformation", "trop d'informations"], "poids": 0.5 },
+{ "mot": "infox", "variantes": ["fake news", "fausses informations", "réseaux sociaux"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Qu'est-ce que le développement de l'esprit critique n'est PAS, selon l'auteur ?",
+"points": 1,
+"reponse_modele": "Ce n'est pas un scepticisme systématique ou permanent.",
+"mots_cles": [
+{ "mot": "scepticisme", "variantes": ["tout rejeter", "douter de tout", "sceptique"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Quelle distinction fondamentale les élèves doivent-ils être capables d'opérer très tôt ?",
+"points": 1,
+"reponse_modele": "Ils doivent distinguer un fait vérifiable d'une simple opinion personnelle.",
+"mots_cles": [
+{ "mot": "fait", "variantes": ["réalité", "donnée objective"], "poids": 0.5 },
+{ "mot": "opinion", "variantes": ["croyance", "avis personnel"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle activité concrète la pédagogie moderne encourage-t-elle pour stimuler cette compétence ?",
+"points": 1,
+"reponse_modele": "L'organisation de débats contradictoires au sein de la classe.",
+"mots_cles": [
+{ "mot": "débats contradictoires", "variantes": ["discussions", "confrontation d'idées"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "En quoi le rôle de l'enseignant a-t-il évolué par rapport au modèle traditionnel ?",
+"points": 1,
+"reponse_modele": "Au lieu d'imposer une vérité unique, il invite maintenant les élèves à analyser les arguments et vérifier les sources.",
+"mots_cles": [
+{ "mot": "vérité unique", "variantes": ["autorité dogmatique"], "poids": 0.4 },
+{ "mot": "vérifier les sources", "variantes": ["analyser les arguments", "questionner"], "poids": 0.6 }
+]
+},
+{
+"id": "Q6",
+"question": "Comment l'auteur définit-il l'objectif double résumé par l'expression « autrement dit » ?",
+"points": 1,
+"reponse_modele": "Éveiller la curiosité des élèves tout en leur apportant une méthode rigoureuse.",
+"mots_cles": [
+{ "mot": "curiosité", "variantes": ["envie d'apprendre", "intérêt"], "poids": 0.5 },
+{ "mot": "méthode rigoureuse", "variantes": ["méthodologie de vérification", "rigueur"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Pourquoi un esprit critique aiguisé protège-t-il la démocratie selon la fin du texte ?",
+"points": 1,
+"reponse_modele": "Parce qu'un citoyen autonome résiste mieux aux discours simplistes et aux théories du complot.",
+"mots_cles": [
+{ "mot": "discours simplistes", "variantes": ["populisme", "manipulation"], "poids": 0.5 },
+{ "mot": "théories du complot", "variantes": ["complotisme", "mensonges"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel mot du premier paragraphe renvoie à l'idée d'un travail qui s'inscrit dans la durée ?",
+"points": 1,
+"reponse_modele": "Longue haleine (dans l'expression « de longue haleine »).",
+"mots_cles": [
+{ "mot": "longue haleine", "variantes": ["investissement temporel"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-015b",
+"titre": "Les inégalités scolaires et leurs conséquences sur l'avenir",
+"titre2": "Exercice 15",
+"audios": [],
+"texte": [
+"Malgré les promesses républicaines d'égalité des chances, le système éducatif français peine à gommer les disparités d'origine sociale. Plusieurs enquêtes internationales mettent en évidence que l’école tend malheureusement à reproduire, voire à accentuer, les inégalités initiales. Bien que l'accès à l'instruction se soit largement démocratisé au siècle dernier, les enfants issus de milieux défavorisés font face à des obstacles invisibles dès la maternelle.",
+"En effet, le capital culturel accumulé en famille joue un rôle déterminant dans l'assimilation des codes scolaires implicites. Néanmoins, l'affectation des ressources publiques aggrave parfois la situation, car les établissements des zones prioritaires manquent souvent d’enseignants expérimentés. Par conséquent, l’orientation précoce vers des filières dévalorisées scelle fréquemment le destin professionnel des élèves les plus fragiles, limitant drastiquement leur mobilité sociale.",
+"En définitive, s’attaquer aux inégalités scolaires requiert un investissement budgétaire ciblé et une révision des critères d'orientation. Si la méritocratie veut retrouver sa crédibilité, il s’avère indispensable de garantir à chaque élève un accompagnement adapté à ses besoins spécifiques."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quel paradoxe l'auteur souligne-t-il au début du premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Malgré la promesse républicaine d'égalité, l'école ne parvient pas à effacer les inégalités sociales.",
+"mots_cles": [
+{ "mot": "égalité des chances", "variantes": ["promesse républicaine"], "poids": 0.4 },
+{ "mot": "inégalités sociales", "variantes": ["disparités d'origine", "reproduire les écarts"], "poids": 0.6 }
+]
+},
+{
+"id": "Q2",
+"question": "D'après les enquêtes mentionnées, quelle est la tendance alarmante de l'école actuelle ?",
+"points": 1,
+"reponse_modele": "Elle a tendance à reproduire et même à aggraver les inégalités de départ.",
+"mots_cles": [
+{ "mot": "reproduire", "variantes": ["perpétuer", "maintenir"], "poids": 0.5 },
+{ "mot": "aggraver", "variantes": ["accentuer", "augmenter"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Qu'est-ce que le « capital culturel » évoqué par l'auteur et où s'acquiert-il ?",
+"points": 1,
+"reponse_modele": "C'est l'ensemble des connaissances et codes sociaux implicites qui s'accumulent au sein de la famille.",
+"mots_cles": [
+{ "mot": "codes scolaires", "variantes": ["connaissances", "langage", "culture"], "poids": 0.6 },
+{ "mot": "famille", "variantes": ["milieu familial", "parents"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel problème lié à la gestion des ressources publiques est dénoncé dans le texte ?",
+"points": 1,
+"reponse_modele": "Les écoles des zones d'éducation prioritaires manquent souvent d'enseignants expérimentés.",
+"mots_cles": [
+{ "mot": "zones prioritaires", "variantes": ["quartiers défavorisés", "ZEP"], "poids": 0.5 },
+{ "mot": "enseignants expérimentés", "variantes": ["professeurs chevronnés", "titulaires"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle est la conséquence directe d'une orientation scolaire trop précoce ?",
+"points": 1,
+"reponse_modele": "Elle enferme les élèves fragiles dans des filières dévalorisées et détermine négativement leur avenir professionnel.",
+"mots_cles": [
+{ "mot": "filières dévalorisées", "variantes": ["voies de relégation", "mauvais choix"], "poids": 0.5 },
+{ "mot": "avenir professionnel", "variantes": ["destin", "métier futur", "travail"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quel est l'impact à long terme de ces inégalités sur la trajectoire des individus ?",
+"points": 1,
+"reponse_modele": "Elles réduisent de manière drastique leur mobilité sociale.",
+"mots_cles": [
+{ "mot": "mobilité sociale", "variantes": ["ascenseur social", "changer de classe sociale"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelles solutions concrètes l'auteur avance-t-il dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Un investissement budgétaire ciblé, une modification des critères d'orientation et un accompagnement sur mesure.",
+"mots_cles": [
+{ "mot": "investissement budgétaire", "variantes": ["argent", "financement ciblé"], "poids": 0.4 },
+{ "mot": "orientation", "variantes": ["critères d'orientation"], "poids": 0.3 },
+{ "mot": "accompagnement", "variantes": ["soutien adapté"], "poids": 0.3 }
+]
+},
+{
+"id": "Q8",
+"question": "Que signifie le mot « méritocratie » évoqué à la fin de l'analyse argumentative ?",
+"points": 1,
+"reponse_modele": "Un système où la réussite dépend uniquement du mérite, du travail et du talent individuel.",
+"mots_cles": [
+{ "mot": "mérite", "variantes": ["effort", "travail", "talent"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-016b",
+"titre": "Faut-il réformer les méthodes d'évaluation des élèves ?",
+"titre2": "Exercice 16",
+"audios": [],
+"texte": [
+"L'évaluation des élèves est un rouage central de l'école, mais ses modalités traditionnelles suscitent de vifs débats. Le système classique, dominé par les notes sur vingt, subit de nombreuses critiques de la part des psychopédagogues. Bien que la notation chiffrée offre une apparente clarté pour les familles, elle s'avère souvent anxiogène et réductrice quant aux progrès réels accomplis par les enfants.",
+"En revanche, les partisans d’une évaluation par compétences préconisent l’abandon des chiffres au profit d’indicateurs d'acquisition (acquis, en cours d’acquisition, non acquis). Cette méthode supprime l’effet de stigmatisation immédiat attaché à une mauvaise note. Néanmoins, sa mise en œuvre se heurte à des difficultés pratiques, car elle est jugée trop complexe et chronophage par une partie du corps enseignant. De surcroît, certains craignent qu'elle n'affaiblisse l'exigence académique globale.",
+"En définitive, l’enjeu fondamental réside dans la transformation de l’évaluation en un outil constructif. Quoique le changement soit difficile, il convient de dépasser la simple sanction pour faire de l'évaluation un levier d'encouragement et d'auto-évaluation, permettant à l'élève de prendre conscience de son parcours."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle critique majeure est adressée à la notation traditionnelle sur vingt ?",
+"points": 1,
+"reponse_modele": "Elle génère de l'anxiété et s'avère trop réductrice face aux progrès des élèves.",
+"mots_cles": [
+{ "mot": "anxiogène", "variantes": ["angoisse", "anxiété", "stress"], "poids": 0.5 },
+{ "mot": "réductrice", "variantes": ["incomplète", "simpliste"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel avantage paradoxal la notation classique conserve-t-elle selon le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Elle offre une apparente clarté et lisibilité pour les familles des élèves.",
+"mots_cles": [
+{ "mot": "clarté", "variantes": ["lisibilité", "facile à comprendre"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Comment fonctionne concrètement l'alternative de l'évaluation par compétences ?",
+"points": 1,
+"reponse_modele": "Elle remplace les notes par des indicateurs de niveau comme « acquis » ou « non acquis ».",
+"mots_cles": [
+{ "mot": "indicateurs", "variantes": ["niveaux", "statuts d'acquisition"], "poids": 0.6 },
+{ "mot": "acquis", "variantes": ["en cours d'acquisition"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel effet psychologique positif l'évaluation par compétences cherche-t-elle à éliminer ?",
+"points": 1,
+"reponse_modele": "Elle cherche à éliminer l'effet de stigmatisation lié à l'obtention d'une mauvaise note.",
+"mots_cles": [
+{ "mot": "stigmatisation", "variantes": ["honte", "étiquetage", "exclusion"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Pourquoi une partie des enseignants s'oppose-t-elle à cette réforme ?",
+"points": 1,
+"reponse_modele": "Ils la considèrent comme excessivement complexe et chronophage à mettre en pratique.",
+"mots_cles": [
+{ "mot": "complexe", "variantes": ["difficile", "lourde"], "poids": 0.5 },
+{ "mot": "chronophage", "variantes": ["prend trop de temps", "longue"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle crainte d'ordre général est exprimée à la fin du deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "La crainte d'un affaiblissement du niveau d'exigence académique global.",
+"mots_cles": [
+{ "mot": "exigence académique", "variantes": ["niveau d'études", "rigueur", "baisser le niveau"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quel glissement de sens l'auteur préconise-t-il pour l'évaluation dans sa conclusion ?",
+"points": 1,
+"reponse_modele": "Passer d'une évaluation vue comme une punition/sanction à un outil d'encouragement et d'auto-évaluation.",
+"mots_cles": [
+{ "mot": "sanction", "variantes": ["punition", "sentence"], "poids": 0.4 },
+{ "mot": "encouragement", "variantes": ["auto-évaluation", "constructif"], "poids": 0.6 }
+]
+},
+{
+"id": "Q8",
+"question": "Donnez la signification de l'adjectif « chronophage » utilisé dans le texte.",
+"points": 1,
+"reponse_modele": "Qui prend ou consomme beaucoup de temps.",
+"mots_cles": [
+{ "mot": "temps", "variantes": ["consomme du temps", "long à faire"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-017b",
+"titre": "L'education devrait-elle accorder plus de place à la créativité ?",
+"titre2": "Exercice 17",
+"audios": [],
+"texte": [
+"Dans un monde en mutation rapide où l'automatisation redéfinit les emplois, l'inventivité devient un atout majeur. Pourtant, l'enseignement conventionnel a tendance à formater les esprits plutôt qu'à stimuler l'imagination des élèves. Bien que les disciplines artistiques figurent dans les programmes officiels, elles demeurent trop souvent reléguées au second plan, jugées secondaires face aux matières dites fondamentales comme les mathématiques ou la grammaire.",
+"Tandis que le conformisme intellectuel est valorisé à travers des examens standardisés, la créativité requiert de sortir des sentiers battus et d'accepter l'incertitude. Les neuroscientifiques démontrent pourtant que stimuler la pensée divergente fortifie la plasticité cérébrale et accroît les facultés de mémorisation. Autrement dit, intégrer le dessin, le théâtre ou la musique de façon transversale optimiserait l'apprentissage des sciences elles-mêmes.",
+"En définitive, libérer l'expression créative ne signifie pas sombrer dans le laxisme pédagogique. C’est, bien au contraire, armer les futurs citoyens d'une précieuse capacité d'adaptation. Il s’avère donc urgent de repenser l'organisation scolaire afin que l'imagination ne soit plus étouffée au profit exclusif de la logique formelle."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Pourquoi la créativité est-elle qualifiée d'« atout majeur » dans notre société moderne ?",
+"points": 1,
+"reponse_modele": "En raison de l'automatisation croissante des emplois qui exige une grande inventivité humaine.",
+"mots_cles": [
+{ "mot": "automatisation", "variantes": ["machines", "intelligence artificielle"], "poids": 0.5 },
+{ "mot": "emplois", "variantes": ["travail", "métiers de demain"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Quel reproche principal l'auteur fait-il à l'enseignement conventionnel dans le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il a tendance à formater les esprits des élèves au lieu de stimuler leur imagination.",
+"mots_cles": [
+{ "mot": "formater", "variantes": ["uniformiser", "brider"], "poids": 0.6 },
+{ "mot": "imagination", "variantes": ["créativité"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Comment le statut des matières artistiques est-il décrit par rapport aux matières dites sérieuses ?",
+"points": 1,
+"reponse_modele": "Elles sont reléguées au second plan et considérées comme secondaires.",
+"mots_cles": [
+{ "mot": "second plan", "variantes": ["marginalisées", "moins importantes"], "poids": 0.6 },
+{ "mot": "secondaires", "variantes": ["accessoires"], "poids": 0.4 }
+]
+},
+{
+"id": "Q4",
+"question": "Quelle opposition logique l'auteur établit-il au début du deuxième paragraphe ?",
+"points": 1,
+"reponse_modele": "Il oppose le conformisme encouragé par les examens à la créativité qui demande de sortir des sentiers battus.",
+"mots_cles": [
+{ "mot": "conformisme", "variantes": ["standardisation", "suivre les règles"], "poids": 0.5 },
+{ "mot": "créativité", "variantes": ["originalité", "sortir des normes"], "poids": 0.5 }
+]
+},
+{
+"id": "Q5",
+"question": "Quels sont les bénéfices neurologiques liés à la stimulation de la pensée divergente ?",
+"points": 1,
+"reponse_modele": "Elle fortifie la plasticité cérébrale et augmente la mémoire.",
+"mots_cles": [
+{ "mot": "plasticité cérébrale", "variantes": ["cerveau", "connexions neuronales"], "poids": 0.6 },
+{ "mot": "mémorisation", "variantes": ["mémoire"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "D’après le texte, quel impact positif l'art aurait-il s’il était enseigné de façon transversale ?",
+"points": 1,
+"reponse_modele": "Il permettrait d'améliorer et d'optimiser l'apprentissage des matières scientifiques.",
+"mots_cles": [
+{ "mot": "optimiser", "variantes": ["améliorer", "faciliter"], "poids": 0.5 },
+{ "mot": "sciences", "variantes": ["mathématiques", "matières scientifiques"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle idée reçue l'auteur rejette-t-il fermement dans sa conclusion ?",
+"points": 1,
+"reponse_modele": "Il rejette l'idée selon laquelle développer la créativité équivaudrait à du laxisme pédagogique.",
+"mots_cles": [
+{ "mot": "laxisme", "variantes": ["manque de rigueur", "désordre"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Qu'est-ce que la « pensée divergente » d'après le contexte du texte ?",
+"points": 1,
+"reponse_modele": "C'est une forme de pensée capable de générer plusieurs solutions originales à partir d'un seul problème.",
+"mots_cles": [
+{ "mot": "originales", "variantes": ["créatives", "différentes", "multiples"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-018b",
+"titre": "Les avantages et les limites de l'enseignement bilingue",
+"titre2": "Exercice 18",
+"audios": [],
+"texte": [
+"L'engouement des familles pour les sections bilingues ne faiblit pas, porté par la promesse d'une insertion professionnelle facilitée à l'international. L'apprentissage simultané de deux langues dès l'enfance présente d’indéniables atouts cognitifs. Des recherches confirment que cette gymnastique intellectuelle améliore l’agilité mentale et retarde le déclin cognitif. Bien que l'immersion linguistique totale soit plébiscitée, son application requiert de la vigilance.",
+"En effet, l'un des bénéfices majeurs réside dans l'ouverture culturelle interculturelle qu’elle suscite. Néanmoins, ce système comporte des limites non négligeables. Certains élèves éprouvent des difficultés transitoires de surcharge cognitive, se mélangeant les pinceaux syntaxiques. Par conséquent, si le soutien parental ou scolaire fait défaut, l’enseignement bilingue peut générer de l'insécurité linguistique, voire creuser les inégalités entre enfants privilégiés et défavorisés.",
+"En définitive, l’éducation bilingue s'avère extrêmement enrichissante pourvu qu’elle soit bien encadrée. Quoique complexe, elle gagne à être démocratisée pour éviter de devenir un outil élitiste de sélection, préservant ainsi sa vocation initiale de passerelle entre les cultures."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle est la motivation économique principale des parents qui choisissent une école bilingue ?",
+"points": 1,
+"reponse_modele": "Garantir une meilleure insertion professionnelle à l'échelle internationale pour leur enfant.",
+"mots_cles": [
+{ "mot": "insertion professionnelle", "variantes": ["travail futur", "carrière", "emploi"], "poids": 0.6 },
+{ "mot": "international", "variantes": ["monde", "étranger"], "poids": 0.4 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels sont les bienfaits cognitifs mis en évidence par les recherches d'après le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "L'amélioration de l'agilité mentale et le retardement du déclin cognitif lié à l'âge.",
+"mots_cles": [
+{ "mot": "agilité mentale", "variantes": ["souplesse d'esprit", "intelligence"], "poids": 0.5 },
+{ "mot": "déclin cognitif", "variantes": ["vieillissement du cerveau"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Au-delà de l'aspect purement linguistique, quel intérêt humain le bilinguisme présente-t-il ?",
+"points": 1,
+"reponse_modele": "Il favorise une profonde ouverture culturelle et interculturelle.",
+"mots_cles": [
+{ "mot": "ouverture culturelle", "variantes": ["compréhension des autres cultures", "tolérance"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Quel problème temporaire certains élèves peuvent-ils rencontrer sur le plan de l'apprentissage ?",
+"points": 1,
+"reponse_modele": "Une surcharge cognitive qui engendre des confusions syntaxiques passagères.",
+"mots_cles": [
+{ "mot": "surcharge cognitive", "variantes": ["fatigue cérébrale", "trop d'informations"], "poids": 0.6 },
+{ "mot": "syntaxiques", "variantes": ["mélanger les langues", "mots", "grammaire"], "poids": 0.4 }
+]
+},
+{
+"id": "Q5",
+"question": "Quel risque social l'auteur identifie-t-il si l'enseignement bilingue n'est pas bien encadré ?",
+"points": 1,
+"reponse_modele": "Il risque de creuser les inégalités sociales en devenant un outil élitiste.",
+"mots_cles": [
+{ "mot": "inégalités", "variantes": ["écarts", "fracture sociale"], "poids": 0.6 },
+{ "mot": "élitiste", "variantes": ["réservé aux riches", "sélection"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "À quelle condition essentielle l'éducation bilingue donne-t-elle de bons résultats d'après la conclusion ?",
+"points": 1,
+"reponse_modele": "Pourvu qu'elle soit correctement encadrée par l'école et les parents.",
+"mots_cles": [
+{ "mot": "encadrée", "variantes": ["soutenue", "suivie", "accompagnée"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle métaphore l'auteur utilise-t-il à la toute fin pour qualifier le rôle positif des langues ?",
+"points": 1,
+"reponse_modele": "La métaphore d'une « passerelle entre les cultures ».",
+"mots_cles": [
+{ "mot": "passerelle", "variantes": ["pont", "lien"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Que signifie le connecteur « pourvu que » utilisé dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il introduit une condition nécessaire pour que l'action se réalise.",
+"mots_cles": [
+{ "mot": "condition", "variantes": [" restriction", "à condition que"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-019b",
+"titre": "L'influence du milieu familial sur la réussite scolaire",
+"titre2": "Exercice 19",
+"audios": [],
+"texte": [
+"Le déterminisme social demeure l'un des angles morts de la promesse d'égalité de notre République. De nombreuses études statistiques confirment que le milieu familial exerce une influence prépondérante sur le destin académique des enfants. Bien que l'intelligence soit équitablement répartie dans la population, le contexte économique et culturel des parents crée des distorsions majeures dès le début de la scolarité.",
+"D'une part, les familles favorisées transmettent, souvent inconsciemment, un vocabulaire riche et une familiarité avec les institutions culturelles. En revanche, dans les foyers modestes, les préoccupations matérielles quotidiennes relèguent parfois le suivi des devoirs au second plan. Par conséquent, cette absence de soutien méthodologique handicape l'élève face aux exigences de l'école. Les sociologues notent d’ailleurs que les attentes parentales diffèrent : l'ambition d'études longues est plus naturelle chez les cadres supérieurs.",
+"En définitive, briser ce plafond de verre requiert des politiques éducatives ciblées, capables de compenser les manques initiaux. Tant que l'institution scolaire refusera de regarder en face cette inégalité systémique, l'ascenseur social restera bloqué pour la majorité des classes populaires."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle constatation de départ l'auteur partage-t-il au sujet de l'intelligence ?",
+"points": 1,
+"reponse_modele": "L'intelligence est répartie de façon équitable parmi toute la population.",
+"mots_cles": [
+{ "mot": "équitablement", "variantes": ["égale", "pareille partout"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Quels types de facteurs familiaux créent des écarts majeurs dès le début de l'école ?",
+"points": 1,
+"reponse_modele": "Les facteurs d'ordre économique et culturel liés aux parents.",
+"mots_cles": [
+{ "mot": "économique", "variantes": ["argent", "revenus"], "poids": 0.5 },
+{ "mot": "culturel", "variantes": ["éducation", "capital culturel"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "Quels avantages inconscients les familles aisées transmettent-elles à leurs enfants ?",
+"points": 1,
+"reponse_modele": "Un vocabulaire riche ainsi qu'une grande familiarité avec la culture et ses institutions.",
+"mots_cles": [
+{ "mot": "vocabulaire", "variantes": ["langage", "mots"], "poids": 0.5 },
+{ "mot": "institutions culturelles", "variantes": ["musées", "livres", "culture"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Pourquoi le suivi des devoirs est-il parfois plus difficile dans les milieux modestes ?",
+"points": 1,
+"reponse_modele": "En raison de préoccupations matérielles quotidiennes urgentes qui prennent toute la place.",
+"mots_cles": [
+{ "mot": "préoccupations matérielles", "variantes": ["problèmes d'argent", "survie", "travail"], "poids": 0.7 },
+{ "mot": "quotidiennes", "variantes": ["vie de tous les jours"], "poids": 0.3 }
+]
+},
+{
+"id": "Q5",
+"question": "Quelle différence d'ambition observe-t-on entre les catégories de parents ?",
+"points": 1,
+"reponse_modele": "Les parents cadres supérieurs envisagent plus naturellement des études longues pour leurs enfants.",
+"mots_cles": [
+{ "mot": "études longues", "variantes": ["université", "grandes écoles", "ambition"], "poids": 0.7 },
+{ "mot": "cadres supérieurs", "variantes": ["milieux aisés"], "poids": 0.3 }
+]
+},
+{
+"id": "Q6",
+"question": "Que signifie l'expression imagée « plafond de verre » utilisée dans le dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Une barrière invisible mais infranchissable qui empêche l'ascension sociale des classes populaires.",
+"mots_cles": [
+{ "mot": "barrière invisible", "variantes": ["limite cachée", "obstacle"], "poids": 0.6 },
+{ "mot": "ascension sociale", "variantes": ["réussite", "monter en grade"], "poids": 0.4 }
+]
+},
+{
+"id": "Q7",
+"question": "Quelle est la condition posée par l'auteur pour débloquer « l'ascenseur social » ?",
+"points": 1,
+"reponse_modele": "L'école doit reconnaître ouvertement cette inégalité systémique et mener des actions ciblées.",
+"mots_cles": [
+{ "mot": "reconnaître", "variantes": ["regarder en face", "admettre"], "poids": 0.5 },
+{ "mot": "inégalité systémique", "variantes": ["inégalités de départ", "problème structurel"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Trouvez un adjectif dans le texte qui signifie « qui a une importance capitale ou écrasante ».",
+"points": 1,
+"reponse_modele": "Prépondérante (ou systémique / majeure).",
+"mots_cles": [
+{ "mot": "prépondérante", "variantes": [], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-020b",
+"titre": "L'éducation est-elle la clé d'une société plus équitable ?",
+"titre2": "Exercice 20",
+"audios": [],
+"texte": [
+"Depuis les Lumières, la croyance selon laquelle l'éducation constitue le remède suprême contre l'injustice sociale est profondément ancrée. On attribue traditionnellement à l'école le pouvoir d'harmoniser la société en offrant les mêmes chances de réussite à chacun. Bien que cette noble ambition guide les réformes successives, force est de constater que l'institution peine à tenir ses promesses d'équité.",
+"En théorie, le savoir libère et permet de s'affranchir de sa condition d'origine. Néanmoins, l'école fonctionne souvent comme un miroir grossissant des inégalités externes plutôt que comme un correcteur. Les enfants issus de milieux aisés profitent de structures de soutien privé, tandis que les plus démunis subissent la dégradation des conditions d'enseignement dans certains territoires. Par conséquent, faire de l'éducation l'unique responsable de la justice sociale s'avère illusoire si les politiques économiques globales ne luttent pas simultanément contre la pauvreté.",
+"En définitive, l'éducation demeure une condition indispensable mais insuffisante à elle seule. Pour édifier une société authentiquement équitable, il convient d'articuler la réforme de l'école avec des mesures fiscales et salariales redistributives, redonnant ainsi tout son sens à l'idéal républicain."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Quelle croyance historique liée à l'éducation l'auteur évoque-t-il au début du texte ?",
+"points": 1,
+"reponse_modele": "La croyance issue des Lumières que l'éducation est le remède principal contre les injustices sociales.",
+"mots_cles": [
+{ "mot": "Lumières", "variantes": ["historique", "XVIIIe siècle"], "poids": 0.3 },
+{ "mot": "remède", "variantes": ["solution", "moyen de lutter"], "poids": 0.4 },
+{ "mot": "injustices sociales", "variantes": ["inégalités"], "poids": 0.3 }
+]
+},
+{
+"id": "Q2",
+"question": "Quelle critique l'auteur fait-il à l'école par rapport aux promesses d'équité dans le premier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il constate qu'elle a beaucoup de mal à tenir ses promesses malgré les réformes.",
+"mots_cles": [
+{ "mot": "peine à tenir", "variantes": ["ne parvient pas", "échoue partiellement"], "poids": 0.6 },
+{ "mot": "promesses", "variantes": ["ambitions", "engagements"], "poids": 0.4 }
+]
+},
+{
+"id": "Q3",
+"question": "Expliquez la métaphore de l'« école miroir grossissant des inégalités » utilisée au deuxième paragraphe.",
+"points": 1,
+"reponse_modele": "Cela signifie que l'école reflète et amplifie les inégalités de la société au lieu de les effacer.",
+"mots_cles": [
+{ "mot": "reflète", "variantes": ["montre", "renvoie l'image"], "poids": 0.5 },
+{ "mot": "amplifie", "variantes": ["accentue", "grossit", "aggrave"], "poids": 0.5 }
+]
+},
+{
+"id": "Q4",
+"question": "Quels avantages concrets les enfants de milieux aisés ont-ils en dehors de l'école publique ?",
+"points": 1,
+"reponse_modele": "Ils bénéficient de structures de soutien scolaire privé.",
+"mots_cles": [
+{ "mot": "soutien privé", "variantes": ["cours particuliers", "aide payante"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Pourquoi est-il « illusoire » d'attendre de l'école qu'elle règle seule le problème de l'injustice ?",
+"points": 1,
+"reponse_modele": "Parce que sans réformes économiques pour combattre la pauvreté, l'école ne peut pas tout compenser.",
+"mots_cles": [
+{ "mot": "pauvreté", "variantes": ["précarité", "manque d'argent"], "poids": 0.6 },
+{ "mot": "politiques économiques", "variantes": ["gouvernement", "social"], "poids": 0.4 }
+]
+},
+{
+"id": "Q6",
+"question": "Quelle est la conclusion de l'auteur concernant le statut de l'éducation dans la justice sociale ?",
+"points": 1,
+"reponse_modele": "L'éducation est indispensable, mais elle reste insuffisante si elle agit seule.",
+"mots_cles": [
+{ "mot": "indispensable", "variantes": ["nécessaire", "obligatoire"], "poids": 0.5 },
+{ "mot": "insuffisante", "variantes": ["pas assez", "ne suffit pas"], "poids": 0.5 }
+]
+},
+{
+"id": "Q7",
+"question": "Quels autres domaines d'action l'auteur propose-t-il d'associer à l'école pour changer les choses ?",
+"points": 1,
+"reponse_modele": "Des mesures fiscales et salariales redistributives.",
+"mots_cles": [
+{ "mot": "fiscales", "variantes": ["impôts", "taxes"], "poids": 0.5 },
+{ "mot": "salariales", "variantes": ["salaires", "argent du travail", "redistribution"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "Quel est le but de l'utilisation du connecteur « en définitive » au début du dernier paragraphe ?",
+"points": 1,
+"reponse_modele": "Il sert à introduire la conclusion finale de l'argumentation.",
+"mots_cles": [
+{ "mot": "conclusion", "variantes": ["bilan", "résumé final"], "poids": 1.0 }
+]
+}
+]
+}
 ]
