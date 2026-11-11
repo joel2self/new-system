@@ -615,8 +615,8 @@
 "points": 1,
 "reponse_modele": "Ils craignent que la charité privée ne serve de prétexte pour justifier le désengagement des services publics.",
 "mots_cles": [
-{ "mot": "charité privée", "variantes": ["générosité ponctuelle"], "poids": 0.5 },
-{ "mot": "désengagement", "variantes", ["recul des droits", "services publics"], "poids": 0.5 }
+{ "mot": "charité privée", "variantes": ["générosité", "ponctuelle"], "poids": 0.5 },
+{ "mot": "désengagement", "variantes": ["recul des droits", "services publics"], "poids": 0.5 }
 ]
 },
 {
@@ -6159,7 +6159,7 @@
         "reponse_modele": "En devenant des vecteurs de sensibilisation pour des causes humanitaires ou environnementales.",
         "mots_cles": [
           { "mot": "sensibilisation", "variantes": ["alerter", "informer"], "poids": 0.5 },
-          { "mot": "causes", "variennes": ["humanitaires", "climatiques", "planète"], "poids": 0.5 }
+          { "mot": "causes", "variantes": ["humanitaires", "climatiques", "planète"], "poids": 0.5 }
         ]
       },
       {
