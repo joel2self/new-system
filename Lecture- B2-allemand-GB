@@ -3562,5 +3562,1785 @@ dennoch hat sich...“)?",
 ]
 }
 ]
+},
+{
+    "id": "B2-041b",
+    "titre": "Ist wirtschaftliche Entwicklung mit dem Umweltschutz vereinbar?",
+    "titre2": "Übung 41",
+    "audios": [
+      { "id": "audio-de-read-b2-041b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-041b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Über Jahrzehnte hinweg wurde das Verhältnis zwischen wirtschaftlicher Expansion und ökologischer Bewahrung als unversöhnlicher Nullsummenkonflikt dargestellt. Historisch stützte sich die Industrialisierung stark auf fossile Brennstoffe, Abholzung und Rohstoffabbau, weshalb viele Politiker davon ausgingen, dass die Überwindung von Armut zwangsläufig die Opferung der Natur erfordere. Folglich argumentieren Schwellen- und Entwicklungsländer häufig, strenge Umweltauflagen schränkten ihr legitimes Recht ein, jenen Wohlstand zu erreichen, den reiche Industriestaaten längst genießen.",
+      "Dennoch stellt ein wachsender Konsens unter Umweltökonomen diese binäre Weltsicht infrage. Befürworter des sogenannten „grünen Wachstums“ betonen, dass technologische Innovationen, der Ausbau erneuerbarer Energien und Kreislaufwirtschaftsmodelle wirtschaftlichen Wohlstand vom Kohlenstoffausstoß entkoppeln können. Tatsächlich zeigen rasant sinkende Kosten für Solar- und Windenergie, dass nachhaltige Infrastruktur Millionen qualifizierter Arbeitsplätze schaffen und gleichzeitig Gesundheitskosten durch Luft- und Wasserverschmutzung senken kann.",
+      "Hingegen bleiben Verfechter der „Postwachstumsökonomie“ (Degrowth) skeptisch, ob technische Effizienz allein die ökologische Krise lösen kann. Sie weisen darauf hin, dass eine absolute Entkopplung weltweit bisher kaum gelungen ist, weil Effizienzgewinne oft einen „Rebound-Effekt“ auslösen, der zu noch höherem Gesamtverbrauch führt. Daher fordern sie, dass wohlhabende Nationen überflüssige Produktion gezielt zurückfahren und Wohlstand jenseits des Bruttoinlandsprodukts neu definieren.",
+      "Letztendlich erfordert die Vereinbarkeit von menschlicher Entwicklung und planetaren Grenzen eine differenzierte globale Zusammenarbeit. Während aufstrebende Volkswirtschaften durch grüne Finanzierung dabei unterstützt werden müssen, umweltschädliche Technologien zu überspringen, tragen Industrienationen eine dringende Verantwortung, ihren Überkonsum einzudämmen."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Warum wehren sich Entwicklungsländer oft gegen strenge internationale Umweltauflagen?",
+        "points": 1,
+        "reponse_modele": "Weil der wirtschaftliche Aufstieg früher auf fossilen Brennstoffen beruhte und sie befürchten, durch Umweltregeln am Abbau von Armut gehindert zu werden.",
+        "mots_cles": [
+          { "mot": "Armut", "variantes": ["Wohlstand", "einschränken", "Industrialisierung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Wie lässt sich Wirtschaftswachstum laut den Befürwortern von „grünem Wachstum“ vom Umweltverbrauch trennen?",
+        "points": 1,
+        "reponse_modele": "Durch technologische Innovationen, erneuerbare Energien und Kreislaufwirtschaft, die Arbeitsplätze schaffen und Umweltkosten senken.",
+        "mots_cles": [
+          { "mot": "entkoppeln", "variantes": ["erneuerbare Energien", "Kreislaufwirtschaft", "Arbeitsplätze"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Was versteht man unter dem „Rebound-Effekt“ im dritten Absatz?",
+        "points": 1,
+        "reponse_modele": "Dass technische Verbesserungen Produkte günstiger oder sparsamer machen, was aber dazu führt, dass insgesamt noch mehr konsumiert wird.",
+        "mots_cles": [
+          { "mot": "höherer Gesamtverbrauch", "variantes": ["Effizienzgewinne", "mehr konsumieren"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie den Begriff „Nullsummenkonflikt“ im ersten Absatz.",
+        "points": 1,
+        "reponse_modele": "Eine Situation, in der der Gewinn der einen Seite zwangsläufig den gleich großen Verlust der anderen Seite bedeutet.",
+        "mots_cles": [
+          { "mot": "Gewinn und Verlust", "variantes": ["unvereinbar", "opfern", "auf Kosten"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Welche Forderung stellen Vertreter der „Postwachstumsökonomie“ an reiche Industriestaaten?",
+        "points": 1,
+        "reponse_modele": "Sie sollen unnötige Produktion bewusst reduzieren und gesellschaftlichen Erfolg nicht mehr allein am Bruttoinlandsprodukt messen.",
+        "mots_cles": [
+          { "mot": "Produktion zurückfahren", "variantes": ["jenseits des Bruttoinlandsprodukts", "neu definieren"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Welche Funktion erfüllt der Konnektor „Hingegen“ zu Beginn des dritten Absatzes?",
+        "points": 1,
+        "reponse_modele": "Er stellt dem technologischen Optimismus des grünen Wachstums die wachstumskritische Gegenposition gegenüber.",
+        "mots_cles": [
+          { "mot": "Gegensatz", "variantes": ["Gegenposition", "Kontrast", "andererseits"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Welche unterschiedliche Verantwortung weist der Autor im Schlussabsatz armen und reichen Ländern zu?",
+        "points": 1,
+        "reponse_modele": "Industrieländer müssen ihren Überkonsum senken und finanzielle Hilfe leisten, damit ärmere Länder direkt saubere Technologien aufbauen können.",
+        "mots_cles": [
+          { "mot": "grüne Finanzierung", "variantes": ["Überkonsum eindämmen", "Zusammenarbeit"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Fassen Sie das zentrale Fazit des Textes in einem Satz zusammen.",
+        "points": 1,
+        "reponse_modele": "Wirtschaft und Umweltschutz sind vereinbar, wenn reiche Staaten ihren Konsum begrenzen und Entwicklungsländer finanziell beim Aufbau grüner Technologien unterstützen.",
+        "mots_cles": [
+          { "mot": "Vereinbarkeit", "variantes": ["planetare Grenzen", "Zusammenarbeit", "Konsum"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-042b",
+    "titre": "Die Verantwortung von Unternehmen angesichts des Klimawandels",
+    "titre2": "Übung 42",
+    "audios": [
+      { "id": "audio-de-read-b2-042b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-042b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Auf einer jährlichen Aktionärsversammlung in Frankfurt trat die Umweltrechtlerin Dr. Nadia Patel ans Mikrofon, um den Vorstand eines multinationalen Energiekonzerns herauszufordern. „In den vergangenen zehn Jahren hat Ihr Unternehmen Millionen für glänzende Werbekampagnen ausgegeben, die Klimaneutralität bis 2050 versprechen“, erklärte sie bestimmt. „Dennoch zeigen Ihre eigenen Finanzberichte, dass über fünfundachtzig Prozent Ihrer Investitionen weiterhin in die Erschließung neuer Öl- und Gasfelder fließen. Ist das nicht Greenwashing wie aus dem Lehrbuch?“",
+      "Der Nachhaltigkeitsvorstand des Konzerns, Julian Vogt, antwortete abwehrend und ordnete seine Unterlagen. „Unser Wandel lässt sich nicht über Nacht vollziehen, ohne die globale Versorgungssicherheit zu gefährden, Frau Dr. Patel. Wir investieren Milliarden in Offshore-Windparks und Wasserstoff, sind aber auf traditionelle Energieträger angewiesen, um genau diese Transformation zu finanzieren und die akute Nachfrage zu decken.“",
+      "„Freiwillige Selbstverpflichtungen, die wirksame Maßnahmen um dreißig Jahre vertagen, sind wissenschaftlich unzureichend“, entgegnete Dr. Patel scharf. „Da eine relativ kleine Zahl multinationaler Konzerne für den Großteil der industriellen Treibhausgasemissionen verantwortlich ist, tragen Vorstände eine ethische Pflicht, ihre kurzfristigen Geschäftsmodelle an der Klimawissenschaft auszurichten – nicht bloß an ihren Marketingabteilungen.“",
+      "Nach diesem hitzigen Wortgefecht kündigten mehrere institutionelle Investoren an, für verbindliche Emissionsziele zu stimmen. Letztendlich verdeutlichte die Konfrontation eine entscheidende Wahrheit: Sofern freiwillige Unternehmensversprechen nicht durch strenge gesetzliche Vorgaben und Druck der Anleger abgesichert werden, wird das Profitstreben weiterhin schwerer wiegen als das Überleben des Planeten."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Welchen Widerspruch deckte Dr. Nadia Patel in der Klimastrategie des Konzerns auf?",
+        "points": 1,
+        "reponse_modele": "Während der Konzern öffentlich Klimaneutralität bis 2050 bewirbt, investiert er laut eigenen Finanzberichten über 85 Prozent seines Geldes in neues Öl und Gas.",
+        "mots_cles": [
+          { "mot": "Greenwashing", "variantes": ["Werbekampagnen", "Öl und Gas", "fünfundachtzig Prozent"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Wie rechtfertigt Julian Vogt die fortgesetzten Investitionen in fossile Brennstoffe?",
+        "points": 1,
+        "reponse_modele": "Er argumentiert, dass Öl und Gas noch nötig sind, um die Energieversorgung stabil zu halten und die Gewinne für den Ausbau erneuerbarer Energien zu erwirtschaften.",
+        "mots_cles": [
+          { "mot": "Versorgungssicherheit", "variantes": ["Transformation finanzieren", "Nachfrage"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Warum tragen Großkonzerne laut Dr. Patel eine besondere Verantwortung im Klimaschutz?",
+        "points": 1,
+        "reponse_modele": "Weil eine kleine Gruppe großer multinationaler Unternehmen den größten Teil der weltweiten industriellen Treibhausgase ausstößt.",
+        "mots_cles": [
+          { "mot": "Großteil der Emissionen", "variantes": ["multinationale Konzerne", "Treibhausgase"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie die Bedeutung des Verbs „vertagen“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet eine Entscheidung oder Maßnahme aufschieben, verzögern oder auf einen späteren Zeitpunkt verschieben.",
+"mots_cles": [
+{ "mot": "aufschieben", "variantes": ["verzögern", "verschieben", "später"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche unmittelbare Wirkung hatte Dr. Patels Wortmeldung auf der Versammlung?",
+"points": 1,
+"reponse_modele": "Mehrere große Investoren erklärten daraufhin, dass sie für verbindliche Klimaziele stimmen würden.",
+"mots_cles": [
+{ "mot": "Investoren", "variantes": ["verbindliche Emissionsziele", "stimmen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche grammatische und logische Funktion erfüllt der Konnektor „Sofern“ im letzten Satz?",
+"points": 1,
+"reponse_modele": "Er leitet eine notwendige Bedingung ein („falls nicht“ / „wenn nicht“) und warnt davor, dass ohne Gesetze und Anlegerdruck der Profit dominiert.",
+"mots_cles": [
+{ "mot": "Bedingung", "variantes": ["falls nicht", "Warnung", "Gesetze"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche implizite Kritik übt Dr. Patel an langfristigen Klimazielen für das Jahr 2050?",
+"points": 1,
+"reponse_modele": "Sie kritisiert, dass Ziele in ferner Zukunft heutigen Managern erlauben, unangenehme und teure Veränderungen in der Gegenwart zu vermeiden.",
+"mots_cles": [
+{ "mot": "kurzfristige Geschäftsmodelle", "variantes": ["aufschieben", "Gegenwart vermeiden"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche zwei Kräfte sind laut dem Schlussabsatz nötig, um Unternehmen zu echtem Klimaschutz zu bewegen?",
+"points": 1,
+"reponse_modele": "Strenge gesetzliche Vorschriften durch den Staat sowie finanzieller Druck durch Aktionäre und Investoren.",
+"mots_cles": [
+{ "mot": "gesetzliche Vorgaben", "variantes": ["Druck der Anleger", "Investoren"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-043b",
+"titre": "Kann die Energiewende den Bedarf von morgen decken?",
+"titre2": "Übung 43",
+"audios": [
+{ "id": "audio-de-read-b2-043b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-043b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Eine globale Energieinfrastruktur, die auf Kohle, Öl und Erdgas basiert, durch kohlenstoffarme Alternativen zu ersetzen, gehört zu den ehrgeizigsten Ingenieurprojekten der Menschheitsgeschichte. In den letzten zehn Jahren verzeichneten Photovoltaikanlagen und Offshore-Windräder außergewöhnliche technologische Durchbrüche und wurden in vielen Regionen zu den kostengünstigsten Quellen für neue Stromerzeugung. Optimisten argumentieren, dass eine beschleunigte Elektrifizierung – von Elektroautos über Wärmepumpen bis hin zu grünem Wasserstoff – die Wirtschaft von morgen sauber versorgen kann.",
+"Dennoch mahnen Energieingenieure, dass der Ausbau erneuerbarer Energien zur Deckung des weltweit steigenden Strombedarfs mit gewaltigen technischen Hürden verbunden ist. Anders als fossile Kraftwerke, die rund um die Uhr bedarfsgerecht Strom liefern, schwanken Solar- und Windenergie naturgemäß je nach Wetterlage und Tageszeit. Folglich erfordert ein stabiles Stromnetz massive parallele Investitionen in Großbatteriespeicher, intelligente Netzsteuerung und grenzüberschreitende Stromtrassen.",
+"Darüber hinaus bringt die saubere Energiewende eigene materielle und geopolitische Abhängigkeiten mit sich. Für den Bau von Windturbinen, Solarzellen und Lithium-Ionen-Batterien werden riesige Mengen kritischer Rohstoffe – wie Lithium, Kobalt und Seltene Erden – benötigt, deren Abbau oft lokale Umweltschäden verursacht und ethische Fragen zu den Arbeitsbedingungen im Bergbau aufwirft.",
+"Letztendlich kann saubere Stromerzeugung allein keinen reibungslosen Übergang garantieren, wenn der Energieverbrauch ungebremst weiterwächst. Erst die Kombination aus erneuerbaren Energien, konsequenter Energieeffizienz, Gebäudedämmung und dem Recycling kritischer Rohstoffe wird den Bedarf von morgen nachhaltig decken können."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welcher Fortschritt hat erneuerbare Energien im letzten Jahrzehnt besonders wettbewerbsfähig gemacht?",
+"points": 1,
+"reponse_modele": "Technologische Innovationen haben die Kosten stark gesenkt, sodass Solar- und Windstrom vielerorts die günstigsten neuen Stromquellen sind.",
+"mots_cles": [
+{ "mot": "kostengünstig", "variantes": ["Solar", "Wind", "Durchbrüche"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Warum stellt die Wetterabhängigkeit von Sonne und Wind eine Herausforderung für Stromnetze dar?",
+"points": 1,
+"reponse_modele": "Weil die Stromproduktion je nach Tageszeit und Wetter schwankt, während fossile Kraftwerke jederzeit konstant Strom erzeugen können.",
+"mots_cles": [
+{ "mot": "schwanken", "variantes": ["Wetterlage", "Tageszeit", "bedarfsgerecht"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche begleitenden Technologien sind notwendig, um erneuerbare Stromnetze stabil zu halten?",
+"points": 1,
+"reponse_modele": "Leistungsstarke Großbatteriespeicher, intelligente Netzsteuerung sowie internationale Hochspannungsleitungen.",
+"mots_cles": [
+{ "mot": "Batteriespeicher", "variantes": ["intelligente Netzsteuerung", "Stromtrassen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „gewaltig“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet enorm, riesig, sehr groß oder schwer zu bewältigen.",
+"mots_cles": [
+{ "mot": "enorm", "variantes": ["riesig", "sehr groß", "schwierig"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche ökologischen und sozialen Probleme entstehen bei der Herstellung von Windrädern und Batterien?",
+"points": 1,
+"reponse_modele": "Der Abbau seltener Rohstoffe wie Lithium und Kobalt zerstört oft die lokale Umwelt und geht mit schlechten Arbeitsbedingungen in Minen einher.",
+"mots_cles": [
+{ "mot": "kritische Rohstoffe", "variantes": ["Bergbau", "Umweltschäden", "Arbeitsbedingungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des zweiten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet von den Kostenvorteilen der Erneuerbaren zu den technischen Herausforderungen bei der Netzstabilität über.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Überleitung", "Hürden", "trotzdem"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche Bedingung betont der Autor im Schlussabsatz hinsichtlich des allgemeinen Energieverbrauchs?",
+"points": 1,
+"reponse_modele": "Die Energiewende kann nur gelingen, wenn die Gesellschaft nicht immer mehr Strom verbraucht, sondern aktiv Energie einspart.",
+"mots_cles": [
+{ "mot": "Energieverbrauch begrenzen", "variantes": ["nicht ungebremst wachsen", "einsparen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche drei ergänzenden Maßnahmen empfiehlt der Autor am Ende des Textes?",
+"points": 1,
+"reponse_modele": "Steigerung der Energieeffizienz, bessere Wärmedämmung von Gebäuden und konsequentes Recycling wichtiger Rohstoffe.",
+"mots_cles": [
+{ "mot": "Energieeffizienz", "variantes": ["Gebäudedämmung", "Recycling"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-044b",
+"titre": "Die Folgen der Abholzung für lokale Gemeinschaften",
+"titre2": "Übung 44",
+"audios": [
+{ "id": "audio-de-read-b2-044b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-044b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Am Rand einer frisch gerodeten Fläche roter Erde, wo noch vor zwei Jahren uralte Urwaldriesen in den Himmel ragten, deutete der Dorfälteste Mateo Quispe auf das ausgetrocknete Flussbett hinab. „Als der Wald noch unversehrt war, wirkten seine Wurzeln wie ein riesiger Schwamm, der Regenwasser in der Regenzeit speicherte und es das ganze Jahr über gleichmäßig in unsere Bäche abgab“, erklärte er leise. Seit kommerzielle Holzfäller und Rinderzüchter in das Tal vorgedrungen sind, leidet Mateos indigene Gemeinschaft unter einem ständigen Wechsel aus verheerenden Sturzfluten und extremen Dürren.",
+"Während globale Medien zu Recht die Bedeutung tropischer Wälder für die Speicherung von Kohlendioxid betonen, trifft der unmittelbare menschliche Preis der Entwaldung vor allem lokale und indigene Bevölkerungen. Weltweit hängen über eine Milliarde Menschen direkt von Wäldern ab – für Nahrung, Heilpflanzen, sauberes Wasser und nachhaltige Lebensgrundlagen. Wenn Agrarkonzerne oder illegale Bergbausyndikate Wälder für kurzfristige Profite roden, werden ganze Ökosysteme – und die mit ihnen verflochtenen Kulturen – über Nacht zerstört.",
+"Darüber hinaus löst die Abholzung häufig gewaltsame Landkonflikte und Zwangsvertreibungen aus. Gemeinschaften, denen formelle Eigentumsurkunden für ihre angestammten Gebiete fehlen, werden oft eingeschüchtert, wenn sie sich wehren, und sehen sich gezwungen, in verarmte städtische Slums zu fliehen, wo ihr traditionelles ökologisches Wissen keinen wirtschaftlichen Wert mehr besitzt.",
+"Dennoch belegen immer mehr wissenschaftliche Studien, dass die Sicherung gesetzlicher Landrechte für indigene Gemeinschaften zu den wirksamsten Maßnahmen gegen Abholzung gehört. Wo lokale Hüter ihre Wälder selbst verwalten dürfen, gedeiht die Artenvielfalt und Kohlenstoff bleibt sicher im Boden gebunden."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Wie schützte der intakte Wald Mateos Dorf, bevor die Abholzung begann?",
+"points": 1,
+"reponse_modele": "Die Baumwurzeln speicherten Regenwasser wie ein Schwamm und gaben es gleichmäßig ab, was Überschwemmungen und Dürren verhinderte.",
+"mots_cles": [
+{ "mot": "Schwamm", "variantes": ["Regenwasser", "Sturzfluten", "Dürren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche lebenswichtigen Güter bieten Wälder für über eine Milliarde Menschen weltweit?",
+"points": 1,
+"reponse_modele": "Nahrungsmittel, natürliche Heilpflanzen, sauberes Trinkwasser und eine nachhaltige wirtschaftliche Lebensgrundlage.",
+"mots_cles": [
+{ "mot": "Nahrung", "variantes": ["Heilpflanzen", "Wasser", "Lebensgrundlagen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Warum sind indigene Gemeinschaften besonders wehrlos gegen Landnahme durch Konzerne?",
+"points": 1,
+"reponse_modele": "Weil sie oft keine offiziellen staatlichen Eigentumsurkunden für ihr traditionelles Land besitzen und leicht vertrieben werden können.",
+"mots_cles": [
+{ "mot": "Eigentumsurkunden", "variantes": ["angestammte Gebiete", "Zwangsvertreibungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „roden“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet Bäume und Wald vollständig abholzen und beseitigen, um Land für Landwirtschaft oder Bauprojekte freizumachen.",
+"mots_cles": [
+{ "mot": "abholzen", "variantes": ["Bäume fällen", "Wald beseitigen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche Folgen hat die Flucht in große Städte für vertriebene Waldbewohner?",
+"points": 1,
+"reponse_modele": "Sie landen oft in armen Vorstadt-Slums, wo ihr wertvolles Naturwissen ihnen nicht mehr hilft, ihren Lebensunterhalt zu verdienen.",
+"mots_cles": [
+{ "mot": "Slums", "variantes": ["ökologisches Wissen", "verarmt", "wertlos"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Darüber hinaus“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er fügt den ökologischen und wirtschaftlichen Verlusten die sozialen und rechtlichen Folgen von Gewalt und Vertreibung hinzu.",
+"mots_cles": [
+{ "mot": "Ergänzung", "variantes": ["außerdem", "weitere Folgen", "Steigerung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welchen Unterschied hebt der Autor im zweiten Absatz zwischen globaler Berichterstattung und lokaler Realität hervor?",
+"points": 1,
+"reponse_modele": "Weltweit wird meist über CO₂ und das Weltklima gesprochen, während das unmittelbare Überlebensleid der Menschen vor Ort oft übersehen wird.",
+"mots_cles": [
+{ "mot": "Kohlendioxid vs lokale Bevölkerung", "variantes": ["Medien", "unmittelbarer Preis"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche wirksame Lösung gegen Entwaldung wird im Schlussabsatz vorgestellt?",
+"points": 1,
+"reponse_modele": "Indigenen und lokalen Gemeinschaften verbindliche gesetzliche Landrechte zu verleihen, damit sie ihre Wälder selbst schützen können.",
+"mots_cles": [
+{ "mot": "gesetzliche Landrechte", "variantes": ["selbst verwalten", "indigene Gemeinschaften"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-045b",
+"titre": "Sollten dem Verbrauch natürlicher Ressourcen Grenzen gesetzt werden?",
+"titre2": "Übung 45",
+"audios": [
+{ "id": "audio-de-read-b2-045b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-045b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Jedes Jahr berechnen Umweltforscher den sogenannten „Erdüberlastungstag“ (Earth Overshoot Day) – jenes Datum, an dem die jährliche Nachfrage der Menschheit nach ökologischen Ressourcen das übersteigt, was die Erde innerhalb desselben Jahres regenerieren kann. In den letzten Jahrzehnten rückte dieser Stichtag immer weiter nach vorne, sodass die Menschheit derzeit Ressourcen im Umfang von 1,7 Erden verbraucht. Angesichts sinkender Grundwasserspiegel, erodierter Böden und schwindender Mineralreserven fordern immer mehr Wissenschaftler verbindliche Obergrenzen für den Ressourcenverbrauch.",
+"Befürworter gesetzlicher Beschränkungen betonen, dass Marktpreise allein die tatsächliche ökologische Knappheit nicht widerspiegeln. Wenn Konzerne Grundwasser, Holz oder Erze abbauen, ohne für langfristige Umweltschäden zu zahlen, entstehen gewaltige negative externe Effekte zulasten künftiger Generationen. Ressourcenquoten, gestaffelte Wasserpreise und Verbote geplanter Obsoleszenz würden Unternehmen zwingen, auf Langlebigkeit und Sparsamkeit zu setzen.",
+"Umgekehrt warnen marktwirtschaftlich orientierte Ökonomen und Bürgerrechtler, staatliche Verbrauchsquoten könnten Innovationen ersticken, bürokratische Schwarzmärkte fördern und die persönliche Freiheit einschränken. Sie argumentieren, marktwirtschaftliche Instrumente – wie der Abbau umweltschädlicher Subventionen und eine wirksame CO₂-Bepreisung – könnten Sparsamkeit fördern, ohne auf staatliche Rationierung zurückzugreifen.",
+"Letztendlich kann die Menschheit physikalische Grenzen nicht dauerhaft ignorieren. Faire Obergrenzen für den Ressourcenverbrauch – insbesondere bei den wohlhabendsten Verbrauchern weltweit, deren ökologischer Fußabdruck überproportional groß ist – sind kein Angriff auf die Freiheit, sondern die Grundvoraussetzung für einen bewohnbaren Planeten."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Was genau misst der sogenannte „Erdüberlastungstag“ laut dem ersten Absatz?",
+"points": 1,
+"reponse_modele": "Den genauen Tag im Jahr, ab dem die Menschheit mehr natürliche Ressourcen verbraucht hat, als die Natur in einem ganzen Jahr erneuern kann.",
+"mots_cles": [
+{ "mot": "regenerieren", "variantes": ["übersteigt", "Nachfrage", "jährlich"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Warum reichen freie Marktpreise laut Befürwortern von Obergrenzen nicht zum Schutz der Natur aus?",
+"points": 1,
+"reponse_modele": "Weil Marktpreise langfristige Umweltschäden ausblenden und die Kosten einfach auf künftige Generationen abwälzen.",
+"mots_cles": [
+{ "mot": "externe Effekte", "variantes": ["künftige Generationen", "Knappheit", "Umweltschäden"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche konkreten Maßnahmen schlagen Befürworter staatlicher Begrenzungen vor?",
+"points": 1,
+"reponse_modele": "Verbindliche Rohstoffquoten, höhere Wasserpreise bei Vielverbrauch sowie ein Verbot von künstlich kurzlebigen Produkten.",
+"mots_cles": [
+{ "mot": "Ressourcenquoten", "variantes": ["Wasserpreise", "geplante Obsoleszenz"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie den Begriff „geplante Obsoleszenz“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Die bewusste Herstellung von Produkten mit verkürzter Lebensdauer, damit Verbraucher schneller Ersatz kaufen müssen.",
+"mots_cles": [
+{ "mot": "verkürzte Lebensdauer", "variantes": ["schnell kaputt", "Neukauf", "Langlebigkeit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche Einwände erheben freie Marktwirtschaftler gegen staatliche Verbrauchsquoten?",
+"points": 1,
+"reponse_modele": "Sie befürchten weniger Innovationen, das Entstehen von Schwarzmärkten und eine Einschränkung individueller Freiheitsrechte.",
+"mots_cles": [
+{ "mot": "Innovationen ersticken", "variantes": ["Schwarzmärkte", "Freiheit", "Rationierung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Umgekehrt“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er stellt den staatlichen Regulierungsforderungen die marktwirtschaftliche Gegenposition gegenüber.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Gegenposition", "Kontrast", "andererseits"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche Bevölkerungsgruppe steht im Schlussabsatz besonders in der Pflicht, und warum?",
+"points": 1,
+"reponse_modele": "Die wohlhabendsten Menschen weltweit, weil ihr persönlicher Ressourcenverbrauch und ökologischer Fußabdruck weit über dem Durchschnitt liegt.",
+"mots_cles": [
+{ "mot": "wohlhabendste Verbraucher", "variantes": ["ökologischer Fußabdruck", "überproportional"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Wie löst der Autor im letzten Satz den scheinbaren Widerspruch zwischen Verbrauchsregeln und Freiheit auf?",
+"points": 1,
+"reponse_modele": "Er betont, dass ökologische Grenzen Freiheit nicht zerstören, sondern überhaupt erst die Lebensgrundlage sichern, auf der Freiheit möglich bleibt.",
+"mots_cles": [
+{ "mot": "bewohnbarer Planet", "variantes": ["Grundvoraussetzung", "kein Angriff auf Freiheit"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-046b",
+"titre": "Bedroht die intensive Landwirtschaft unsere Ernährungssicherheit?",
+"titre2": "Übung 46",
+"audios": [
+{ "id": "audio-de-read-b2-046b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-046b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Nach der sogenannten Grünen Revolution Mitte des zwanzigsten Jahrhunderts steigerte die industrielle Intensivlandwirtschaft die weltweiten Ernteerträge dramatisch und bewahrte Hunderte Millionen Menschen vor Hungersnöten. Durch den Einsatz synthetischer Düngemittel, chemischer Pestizide, schwerer Landmaschinen und ertragreicher Monokulturen erzielte die moderne Agrarindustrie kurzfristig beispiellose Nahrungsmittelüberschüsse. Dennoch warnen Agrarwissenschaftler und Ökologen zunehmend davor, dass genau jene Methoden, die heute maximale Ernten sichern, langfristig unsere Ernährungssicherheit untergraben.",
+"Erstens schädigt der großflächige Anbau von Monokulturen – also einer einzigen genetischen Pflanzensorte auf riesigen Flächen – die Bodengesundheit erheblich. Dauerhaftes chemisches Pflügen baut Humus ab, verursacht Bodenerosion und verringert die Fähigkeit der Erde, bei Dürren Feuchtigkeit zu speichern. Zudem macht genetische Einheitlichkeit ganze Ernten extrem anfällig für neuartige Schädlinge und Pflanzenkrankheiten.",
+"Zweitens verunreinigt der übermäßige Einsatz von Kunstdünger und Pestiziden das Grundwasser, erzeugt sauerstoffarme Todeszonen in den Meeren und dezimiert unverzichtbare Bestäuberinsekten wie Bienen und Schmetterlinge. Ohne wilde Bestäuber würde rund ein Drittel der weltweiten Nahrungspflanzen – darunter Obst, Gemüse und Nüsse – massive Ernteausfälle erleiden.",
+"Folglich erfordert die Sicherung der künftigen Welternährung den Übergang zu agrarökologischen und regenerativen Anbaumethoden. Durch Fruchtfolge, Zwischenfrüchte, organische Kompostierung und gezielte Tröpfchenbewässerung können Landwirte fruchtbare Böden wiederherstellen und die Artenvielfalt schützen, während sie gleichzeitig klimaresiliente Ernten erwirtschaften."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welchen großen historischen Erfolg der intensiven Landwirtschaft erkennt der Autor im ersten Absatz an?",
+"points": 1,
+"reponse_modele": "Sie steigerte die Ernten weltweit enorm und rettete Hunderte Millionen Menschen vor dem Verhungern.",
+"mots_cles": [
+{ "mot": "Ernteerträge", "variantes": ["Hungersnöte", "Grüne Revolution", "Überschüsse"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Wie schaden Monokulturen langfristig den landwirtschaftlichen Böden?",
+"points": 1,
+"reponse_modele": "Sie zerstören den Humus, fördern Bodenerosion und verhindern, dass der Boden bei Trockenheit genügend Wasser speichert.",
+"mots_cles": [
+{ "mot": "Humus", "variantes": ["Bodenerosion", "Feuchtigkeit speichern", "Dürren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Warum sind genetisch einheitliche Nutzpflanzen ein Risiko für stabile Ernten?",
+"points": 1,
+"reponse_modele": "Weil ein neuer Schädling oder Krankheitserreger sofort alle Pflanzen gleichzeitig befallen und die gesamte Ernte vernichten kann.",
+"mots_cles": [
+{ "mot": "Schädlinge", "variantes": ["Pflanzenkrankheiten", "anfällig", "Einheitlichkeit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „dezimieren“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet einen großen Teil einer Population töten, vernichten oder stark verringern.",
+"mots_cles": [
+{ "mot": "stark verringern", "variantes": ["vernichten", "töten", "reduzieren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche Folgen hätte das Aussterben wilder Bestäuber wie Bienen für unsere Ernährung?",
+"points": 1,
+"reponse_modele": "Etwa ein Drittel aller wichtigen Nahrungspflanzen, insbesondere Obst, Gemüse und Nüsse, würde dramatische Ernteeinbrüche erleiden.",
+"mots_cles": [
+{ "mot": "ein Drittel", "variantes": ["Obst", "Gemüse", "Ernteausfälle"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Folglich“ zu Beginn des letzten Absatzes?",
+"points": 1,
+"reponse_modele": "Er zieht die logische Konsequenz aus den ökologischen Schäden und leitet die nachhaltigen Lösungsansätze ein.",
+"mots_cles": [
+{ "mot": "Schlussfolgerung", "variantes": ["Konsequenz", "deshalb", "Lösung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welches zentrale Paradoxon prägt die Argumentation des gesamten Textes?",
+"points": 1,
+"reponse_modele": "Verfahren, die entwickelt wurden, um kurzfristig möglichst viel Nahrung zu erzeugen, zerstören genau jene Böden und Insekten, die wir langfristig zum Überleben brauchen.",
+"mots_cles": [
+{ "mot": "kurzfristig vs langfristig", "variantes": ["Paradoxon", "untergraben", "Böden"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Nennen Sie drei regenerative Landwirtschaftsmethoden, die im Schlussabsatz empfohlen werden.",
+"points": 1,
+"reponse_modele": "Abwechslungsreiche Fruchtfolge, der Anbau von Zwischenfrüchten, Kompostierung sowie wassersparende Tröpfchenbewässerung.",
+"mots_cles": [
+{ "mot": "Fruchtfolge", "variantes": ["Zwischenfrüchte", "Kompostierung", "Tröpfchenbewässerung"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-047b",
+"titre": "Die Rolle der Bürger im Kampf gegen die globale Erwärmung",
+"titre2": "Übung 47",
+"audios": [
+{ "id": "audio-de-read-b2-047b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-047b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Wann immer der Klimawandel die öffentliche Debatte bestimmt, entsteht eine bekannte Spannung darüber, wo die Hauptverantwortung liegt: bei den einzelnen Bürgern oder bei Regierungen und Großkonzernen. Skeptiker individuellen Handelns weisen – statistisch durchaus zutreffend – darauf hin, dass ein einzelner Mensch, der Flaschen recycelt oder mit dem Fahrrad zur Arbeit fährt, die weltweiten Treibhausgasemissionen kaum spürbar senkt. Zudem merken sie an, dass das Konzept des „persönlichen CO₂-Fußabdrucks“ einst von einem großen Ölkonzern populär gemacht wurde, um von der Förderung fossiler Brennstoffe abzulenken.",
+"Dennoch verkennt es die Mechanismen gesellschaftlicher Veränderung grundlegend, bürgerliches Engagement als wirkungslos abzutun. Erstens senden kollektive Veränderungen der Verbrauchernachfrage starke Marktsignale: Wenn Millionen Haushalte pflanzenbetonte Ernährung wählen, Wärmepumpen installieren oder umweltfreundliche Verkehrsmittel nutzen, lenken Unternehmen ihr Kapital rasch in nachhaltige Alternativen. Zweitens haben Verhaltensökonomen nachgewiesen, dass umweltfreundliche Gewohnheiten sozial ansteckend wirken und Nachbarn sowie Kollegen zur Nachahmung anregen.",
+"Noch wichtiger ist, dass die wirkungsvollste Rolle der Bürger über ihr Konsumverhalten hinausgeht und ihre Macht als Wähler, Gemeinschaftsorganisatoren und Anleger umfasst. Friedliche Jugendklimabewegungen, lokale Bürgerräte und gezielter Druck an der Wahlurne haben zögerliche Politiker wiederholt dazu gezwungen, ehrgeizige Gesetze für erneuerbare Energien und den öffentlichen Nahverkehr zu verabschieden.",
+"Letztendlich führt das Gegeneinander-Ausspielen von individuellem Lebensstil und politischer Systemreform nur zu Lähmung. Wenn Bürger ihre täglichen Entscheidungen mit aktivem demokratischem Engagement verbinden, wird persönliche Verantwortung zum entscheidenden Katalysator für strukturellen Wandel."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Warum halten manche Kritiker umweltfreundliches Verhalten im Alltag einzelner Personen für wirkungslos?",
+"points": 1,
+"reponse_modele": "Weil der Beitrag einer Einzelperson global kaum messbar ist und Ölkonzerne den CO₂-Fußabdruck bewarben, um von ihrer eigenen Verantwortung abzulenken.",
+"mots_cles": [
+{ "mot": "kaum spürbar", "variantes": ["Ölkonzern", "ablenken", "Fußabdruck"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Wie können Verbraucher durch ihr Kaufverhalten große Unternehmen beeinflussen?",
+"points": 1,
+"reponse_modele": "Wenn Millionen Menschen gemeinsam nachhaltige Produkte, Heizungen oder Verkehrsmittel nachfragen, investieren Firmen ihr Geld in grüne Technologien.",
+"mots_cles": [
+{ "mot": "Marktsignale", "variantes": ["Verbrauchernachfrage", "Kapital lenken", "nachhaltig"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Was meint der Autor damit, dass umweltfreundliche Gewohnheiten „sozial ansteckend“ wirken?",
+"points": 1,
+"reponse_modele": "Menschen übernehmen oft sichtbare nachhaltige Verhaltensweisen von Nachbarn und Kollegen, wodurch Klimaschutz im Alltag normal wird.",
+"mots_cles": [
+{ "mot": "Nachahmung", "variantes": ["Nachbarn", "Kollegen", "Vorbild"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „abzulenken“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet die Aufmerksamkeit oder Kritik von sich weg auf ein anderes Thema oder andere Personen zu lenken.",
+"mots_cles": [
+{ "mot": "Aufmerksamkeit wegnehmen", "variantes": ["Schuld verschieben", "täuschen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Auf welche Weise erzielen Bürger laut dem dritten Absatz den größten Einfluss auf die Klimapolitik?",
+"points": 1,
+"reponse_modele": "Durch demokratisches Engagement als Wähler, Teilnehmer in Bürgerräten und Aktivisten bei friedlichen Klimaprotesten.",
+"mots_cles": [
+{ "mot": "Wähler", "variantes": ["Bürgerräte", "Klimabewegungen", "Politiker"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des zweiten Absatzes?",
+"points": 1,
+"reponse_modele": "Er widerspricht der resignierten Haltung, Einzelne könnten nichts bewirken, und leitet zu konkreten Wirkungswegen über.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Widerspruch", "trotzdem", "Gegenargument"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welchen Unterschied macht der Autor zwischen Bürgern als „Konsumenten“ und Bürgern als „Wählern“?",
+"points": 1,
+"reponse_modele": "Nachhaltiges Einkaufen beeinflusst zwar Märkte, aber politische Wahlen und Engagement haben noch größere Macht, Gesetze zu verändern.",
+"mots_cles": [
+{ "mot": "Konsum vs Politik", "variantes": ["Wahlurne", "Gesetze", "wirkungsvoller"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche abschließende Botschaft vermittelt der Autor im letzten Absatz?",
+"points": 1,
+"reponse_modele": "Individueller Umweltschutz und politische Reformen gehören zusammen; erst ihre Verbindung erzwingt tiefgreifenden gesellschaftlichen Wandel.",
+"mots_cles": [
+{ "mot": "Katalysator", "variantes": ["verbinden", "demokratisches Engagement", "Wandel"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-048b",
+"titre": "Plastikverschmutzung: Ein globales Problem, das dringende Lösungen erfordert",
+"titre2": "Übung 48",
+"audios": [
+{ "id": "audio-de-read-b2-048b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-048b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Als synthetische Kunststoffe Mitte des zwanzigsten Jahrhunderts in Massenproduktion gingen, wurden sie als Wundermaterialien gefeiert – leicht, haltbar, hygienisch und preiswert. Heute jedoch hat genau diese Haltbarkeit Plastik in einen allgegenwärtigen ökologischen Albtraum verwandelt. Jährlich werden weltweit über vierhundert Millionen Tonnen Kunststoff produziert, wovon fast die Hälfte auf Einwegverpackungen entfällt, die binnen Minuten nach dem Kauf weggeworfen werden. Da herkömmliches Plastik Jahrhunderte zum Zerfall benötigt, sammeln sich jedes Jahr Millionen Tonnen auf Deponien, in Flüssen und in den Weltmeeren an.",
+"Die Folgen für Meeres- und Landökosysteme sind verheerend. Meeresschildkröten, Seevögel und Wale verwechseln treibende Plastiktüten häufig mit Quallen oder verfangen sich tödlich in zurückgelassenen Fischernetzen. Schlimmer noch: Sonnenlicht und Meereswellen zerkleinern größere Plastikteile allmählich in winzige Partikel, das sogenannte Mikroplastik. Diese giftigen Fragmente sind längst in die gesamte globale Nahrungskette eingedrungen und wurden in Speisesalz, Trinkwasser, Ackerböden und sogar im menschlichen Blut nachgewiesen.",
+"Jahrzehntelang bewarb die Kunststoffindustrie das Haushaltsrecycling als Hauptlösung für das Müllproblem. Dennoch zeigen weltweite Daten, dass aufgrund technischer Verunreinigungen und geringer Wirtschaftlichkeit weniger als zehn Prozent alles jemals produzierten Plastiks tatsächlich recycelt wurden.",
+"Folglich erfordert die Bewältigung der Plastikkrise, die Verschmutzung an der Quelle zu stoppen, statt Müll nur nachträglich zu verwalten. Ein verbindliches globales Plastikabkommen, das Verbot unnötiger Einwegartikel, die finanzielle Herstellerverantwortung für Verpackungen und Investitionen in biologisch abbaubare Alternativen sind dringende Gebote zum Schutz von Natur und Gesundheit."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welches Paradoxon macht Plastik einerseits nützlich und andererseits so gefährlich für die Umwelt?",
+"points": 1,
+"reponse_modele": "Plastik wurde wegen seiner extremen Haltbarkeit geschätzt, doch genau deshalb verrottet weggeworfener Einwegmüll über Jahrhunderte hinweg nicht.",
+"mots_cles": [
+{ "mot": "Haltbarkeit", "variantes": ["Einwegverpackungen", "Jahrhunderte", "Zerfall"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Wie entsteht Mikroplastik, und wo haben Wissenschaftler es bereits entdeckt?",
+"points": 1,
+"reponse_modele": "Sonne und Wellen zerreiben größeren Plastikmüll in winzige Teilchen, die in Salz, Wasser, Böden und im menschlichen Blut gefunden wurden.",
+"mots_cles": [
+{ "mot": "Sonnenlicht und Wellen", "variantes": ["Nahrungskette", "menschliches Blut", "Trinkwasser"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Warum konnte das klassische Recycling das weltweite Plastikproblem nicht lösen?",
+"points": 1,
+"reponse_modele": "Weil bisher weniger als zehn Prozent recycelt wurden, da verschmutztes Plastik schwer zu trennen und neues Plastik billiger ist.",
+"mots_cles": [
+{ "mot": "zehn Prozent", "variantes": ["Verunreinigungen", "Wirtschaftlichkeit", "gescheitert"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „allgegenwärtig“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet überall vorhanden, omnipräsent oder an jedem Ort anzutreffen.",
+"mots_cles": [
+{ "mot": "überall vorhanden", "variantes": ["omnipräsent", "weitverbreitet"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Wie schadet Plastikmüll Meerestieren unmittelbar laut dem zweiten Absatz?",
+"points": 1,
+"reponse_modele": "Meerestiere fressen Plastiktüten, weil sie sie für Beute halten, oder verheddern sich tödlich in alten Fischernetzen.",
+"mots_cles": [
+{ "mot": "verwechseln mit Quallen", "variantes": ["Fischernetze", "verfangen", "Meeresschildkröten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ im dritten Absatz?",
+"points": 1,
+"reponse_modele": "Er deckt den Widerspruch zwischen den Recycling-Versprechen der Industrie und den ernüchternden realen Zahlen auf.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Widerspruch", "Realität", "trotzdem"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche implizite Kritik an der Kunststoffindustrie klingt im dritten Absatz an?",
+"points": 1,
+"reponse_modele": "Dass die Industrie Recycling als Ablenkung nutzte, um die Verantwortung auf Verbraucher abzuwälzen, statt weniger Wegwerfplastik zu produzieren.",
+"mots_cles": [
+{ "mot": "Verantwortung abwälzen", "variantes": ["Hauptlösung bewarb", "Täuschung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche vier Maßnahmen an der Quelle fordert der Autor im Schlussabsatz?",
+"points": 1,
+"reponse_modele": "Ein verbindliches Weltplastikabkommen, Verbote für Einwegplastik, finanzielle Herstellerhaftung und biologisch abbaubare Materialien.",
+"mots_cles": [
+{ "mot": "Plastikabkommen", "variantes": ["Verbot Einwegartikel", "Herstellerverantwortung", "biologisch abbaubar"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-049b",
+"titre": "Können nachhaltige Städte unsere Lebensqualität verbessern?",
+"titre2": "Übung 49",
+"audios": [
+{ "id": "audio-de-read-b2-049b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-049b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Da bis zum Jahr 2050 voraussichtlich fast siebzig Prozent der Weltbevölkerung in städtischen Gebieten leben werden, stehen Städte im Zentrum sowohl des Klimawandels als auch des menschlichen Wohlbefindens. Historisch rückte die rasante Urbanisierung den privaten Autoverkehr in den Mittelpunkt, was zu ausufernden Vorstädten, chronischen Staus, giftiger Luftverschmutzung und aufgeheizten Betonwüsten führte. Heute hingegen denken visionäre Stadtplaner Metropolen rund um menschliche Gesundheit und ökologische Widerstandsfähigkeit neu.",
+"Konzepte wie die „15-Minuten-Stadt“ – in der Bewohner Arbeitsplätze, Schulen, Parks und Arztpraxen binnen eines kurzen Fuß- oder Fahrradwegs erreichen können – zeigen, wie nachhaltige Stadtplanung den Alltag unmittelbar verbessert. Ersetzt man mehrspurige Stadtautobahnen durch Fußgängerzonen, geschützte Radwege und elektrischen Nahverkehr, sinken Atemwegserkrankungen drastisch, Haushalte sparen Mobilitätskosten, und öffentliche Plätze werden für nachbarschaftliche Begegnungen zurückgewonnen. Gleichzeitig kühlen Stadtwälder, begrünte Dächer und wasserdurchlässige Böden Viertel bei Sommerhitzewellen ab und nehmen Starkregen auf.",
+"Dennoch birgt nachhaltige Stadterneuerung das unbeabsichtigte Risiko der sogenannten „grünen Gentrifizierung“. Wenn Kommunen stark in Parks, sauberen Nahverkehr und Öko-Viertel investieren, verdrängen steigende Immobilienpreise häufig genau jene einkommensschwachen Bewohner, die zuvor am stärksten unter Umweltbelastungen litten.",
+"Daher erfordert der Bau wirklich nachhaltiger Städte die Verknüpfung von ökologischer Planung mit sozialer Gerechtigkeit. Durch verbindliche Quoten für bezahlbaren Wohnraum parallel zu grünen Infrastrukturprojekten können Städte zu gesünderen, ruhigeren und lebenswerteren Gemeinschaften für alle Einwohner werden."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche negativen Folgen hatte die autogerechte Stadtplanung des zwanzigsten Jahrhunderts?",
+"points": 1,
+"reponse_modele": "Endlose Zersiedelung, tägliche Verkehrsstaus, verschmutzte Luft und stark überhitzte Betonflächen ohne Grün.",
+"mots_cles": [
+{ "mot": "Staus", "variantes": ["Luftverschmutzung", "Vorstädte", "Betonwüsten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Erklären Sie das Konzept der „15-Minuten-Stadt“ anhand des zweiten Absatzes.",
+"points": 1,
+"reponse_modele": "Ein Stadtmodell, bei dem alle wichtigen Einrichtungen wie Arbeit, Schulen, Parks und Ärzte in höchstens 15 Minuten zu Fuß oder mit dem Rad erreichbar sind.",
+"mots_cles": [
+{ "mot": "Fuß- oder Fahrradweg", "variantes": ["Arbeitsplätze", "Schulen", "Parks", "kurze Wege"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Wie helfen Stadtbäume und begrünte Dächer bei der Anpassung an den Klimawandel?",
+"points": 1,
+"reponse_modele": "Sie senken die Temperaturen bei extremen Hitzewellen und saugen bei Starkregen große Wassermengen auf, um Überschwemmungen zu vermeiden.",
+"mots_cles": [
+{ "mot": "kühlen", "variantes": ["Hitzewellen", "Starkregen aufnehmen", "Überschwemmungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie den Begriff „grüne Gentrifizierung“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Wenn ökologische Verbesserungen wie neue Parks ein Stadtviertel aufwerten, steigen Mieten und Preise so stark, dass ärmere Bewohner ausziehen müssen.",
+"mots_cles": [
+{ "mot": "steigende Immobilienpreise", "variantes": ["verdrängen", "einkommensschwach", "Mieten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche gesundheitlichen und sozialen Vorteile entstehen durch weniger Autoverkehr in Innenstädten?",
+"points": 1,
+"reponse_modele": "Weniger Atemwegserkrankungen, geringere Ausgaben für Mobilität und mehr Platz für Begegnungen zwischen Nachbarn.",
+"mots_cles": [
+{ "mot": "Atemwegserkrankungen", "variantes": ["Mobilitätskosten", "Begegnungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er weist auf die soziale Schattenseite („grüne Gentrifizierung“) hin, um die positiven Umweltaspekte aus Absatz zwei differenziert abzuwägen.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Risiko", "trotzdem", "Einschränkung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche soziale Ungerechtigkeit wird im dritten Absatz gegenüber ärmeren Stadtbewohnern beschrieben?",
+"points": 1,
+"reponse_modele": "Sie leiden zuerst am stärksten unter Lärm und Abgasen, werden aber durch steigende Mieten vertrieben, sobald ihr Viertel begrünt und verbessert wird.",
+"mots_cles": [
+{ "mot": "verdrängt", "variantes": ["Umweltbelastungen", "ungerecht", "Mieten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Wie können Stadtplaner grüne Gentrifizierung laut dem Schlussabsatz verhindern?",
+"points": 1,
+"reponse_modele": "Indem sie beim Bau neuer Parks und Öko-Viertel gesetzlich verpflichtende Quoten für bezahlbare Sozialwohnungen festlegen.",
+"mots_cles": [
+{ "mot": "bezahlbarer Wohnraum", "variantes": ["Quoten", "soziale Gerechtigkeit"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-050b",
+"titre": "Schutz der Artenvielfalt: Eine kollektive Verantwortung",
+"titre2": "Übung 50",
+"audios": [
+{ "id": "audio-de-read-b2-050b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-050b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Während der Klimawandel häufig die Schlagzeilen beherrscht, warnen Wissenschaftler vor einer ebenso katastrophalen stillen Krise: dem sechsten Massenaussterben der Arten. Angetrieben durch Lebensraumzerstörung, industrielle Umweltverschmutzung, invasive Arten und Übernutzung sind die weltweiten Wildtierpopulationen in den letzten fünfzig Jahren im Schnitt um fast siebzig Prozent eingebrochen. Von tropischen Amphibien und Korallenriffen bis hin zu heimischen Wieseninsekten löst sich das empfindliche Netz des Lebens auf der Erde in alarmierendem Tempo auf.",
+"Der Schutz der Biodiversität ist weit mehr als ein ästhetisches oder sentimentales Bestreben, bekannte Tiere wie Pandas oder Wale zu retten; er ist eine existenzielle Notwendigkeit für das menschliche Überleben. Intakte Ökosysteme erbringen unverzichtbare „Ökosystemleistungen“, die keine Technik im großen Maßstab ersetzen kann: Sie reinigen Süßwasser, regulieren regionale Klimazonen, bestäuben Nutzpflanzen und schützen Küsten vor schweren Stürmen. Zudem stammt über die Hälfte moderner Medikamente aus natürlichen Wirkstoffen wilder Pflanzen, Pilze und Meeresorganismen.",
+"Dennoch scheitern Naturschutzbemühungen oft, wenn sie sich auf isolierte, eingezäunte Nationalparks inmitten zerstörerischer industrieller Landnutzung beschränken. Wirksamer Artenschutz erfordert einen tiefgreifenden Wandel in Landwirtschaft, Fischerei und Stadtplanung sowie ein entschlossenes Vorgehen gegen den illegalen Wildtierhandel.",
+"Letztendlich steht der Mensch nicht außerhalb der Natur, sondern ist biologisch untrennbar in sie eingebettet. Die Bewahrung der Artenvielfalt ist eine gemeinsame moralische und praktische Pflicht – die internationale Abkommen, unternehmerische Verantwortung und achtsames Bürgerverhalten erfordert –, damit künftige Generationen einen lebendigen Planeten erben."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche vier Hauptursachen für das weltweite Artensterben werden im ersten Absatz genannt?",
+"points": 1,
+"reponse_modele": "Zerstörung von Lebensräumen, industrielle Verschmutzung, eingeschleppte invasive Arten sowie Überfischung und Übernutzung.",
+"mots_cles": [
+{ "mot": "Lebensraumzerstörung", "variantes": ["Umweltverschmutzung", "invasive Arten", "Übernutzung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Warum ist der Schutz der Artenvielfalt laut dem zweiten Absatz für das Überleben der Menschheit unverzichtbar?",
+"points": 1,
+"reponse_modele": "Weil gesunde Ökosysteme Trinkwasser filtern, das Klima stabilisieren, Nahrungspflanzen bestäuben, Küsten vor Stürmen schützen und Grundstoffe für Medizin liefern.",
+"mots_cles": [
+{ "mot": "Ökosystemleistungen", "variantes": ["Süßwasser", "bestäuben", "Medikamente", "Stürme"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche medizinische Bedeutung hat die biologische Vielfalt laut dem zweiten Absatz?",
+"points": 1,
+"reponse_modele": "Mehr als fünfzig Prozent aller modernen Arzneimittel basieren auf Wirkstoffen aus wilden Pflanzen, Pilzen oder Meerestieren.",
+"mots_cles": [
+{ "mot": "Medikamente", "variantes": ["Wirkstoffe", "Pflanzen", "Pilze"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „einbrechen“ im ersten Absatz („...sind die Wildtierpopulationen... eingebrochen“).",
+"points": 1,
+"reponse_modele": "Es bedeutet plötzlich und dramatisch sinken, abstürzen oder stark zurückgehen.",
+"mots_cles": [
+{ "mot": "dramatisch sinken", "variantes": ["stark zurückgehen", "abstürzen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum reichen einzelne abgeschottete Naturschutzgebiete allein nicht aus?",
+"points": 1,
+"reponse_modele": "Weil Tiere und Pflanzen nicht überleben können, wenn rund um diese kleinen Inseln intensive Landwirtschaft und Industrie die Natur zerstören.",
+"mots_cles": [
+{ "mot": "isoliert", "variantes": ["Wandel in Landwirtschaft", "Landnutzung", "Nationalparks"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet von der Lebenswichtigkeit der Biodiversität zur Kritik an unzureichenden, kleinteiligen Schutzkonzepten über.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Kritik", "trotzdem", "Überleitung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche philosophische Aussage steckt hinter dem Satz „...steht der Mensch nicht außerhalb der Natur, sondern ist biologisch untrennbar in sie eingebettet“?",
+"points": 1,
+"reponse_modele": "Der Mensch ist kein unabhängiger Herrscher über die Natur, sondern selbst ein biologisches Lebewesen, das ohne funktionierende Ökosysteme nicht existieren kann.",
+"mots_cles": [
+{ "mot": "Teil der Natur", "variantes": ["abhängig", "untrennbar", "Überleben"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche drei Ebenen kollektiver Verantwortung werden im letzten Satz eingefordert?",
+"points": 1,
+"reponse_modele": "Verbindliche internationale Verträge zwischen Staaten, verantwortungsvolles Handeln von Unternehmen und umweltbewusstes Verhalten jedes Bürgers.",
+"mots_cles": [
+{ "mot": "internationale Abkommen", "variantes": ["unternehmerische Verantwortung", "Bürgerverhalten"], "poids": 1.0 }
+]
+}
+]
+},
+{
+    "id": "B2-051b",
+    "titre": "Können wissenschaftliche Fortschritte alle Gesundheitsprobleme lösen?",
+    "titre2": "Übung 51",
+    "audios": [
+      { "id": "audio-de-read-b2-051b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-051b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Im vergangenen Jahrhundert hat die biomedizinische Forschung Triumphe errungen, die früheren Generationen wie Wunder erschienen wären. Die Entdeckung von Antibiotika, weltweite Impfkampagnen, minimalinvasive Roboterchirurgie und Gentechnologien wie CRISPR haben die globale Lebenserwartung drastisch erhöht und einst tödliche Seuchen ausgerottet. Beflügelt durch rasante Durchbrüche in der personalisierten Medizin und KI-gestützten Diagnostik behaupten manche Technikoptimisten, die Wissenschaft werde irgendwann nahezu jedes menschliche Leiden besiegen.",
+      "Dennoch warnen Experten für öffentliche Gesundheit und Medizinhistoriker davor, Gesundheit rein durch eine technologische Brille zu betrachten. Viele der heute am weitesten verbreiteten Krankheiten – darunter Herz-Kreislauf-Erkrankungen, Typ-2-Diabetes und chronische Atemwegsleiden – wurzeln tief in sozioökonomischen, ökologischen und verhaltensbedingten Faktoren. Keine Tablette kann Gesundheitsprobleme dauerhaft heilen, die durch extreme Armut, chronischen Arbeitsstress, industrielle Luftverschmutzung oder bewegungsarme Lebensweisen verursacht werden.",
+      "Darüber hinaus birgt eine einseitige Konzentration auf Hightech-Medizin die Gefahr eines Zwei-Klassen-Gesundheitssystems. Modernste Gentherapien und präzise Krebsbehandlungen sind oft astronomisch teuer und bleiben Milliarden Menschen in einkommensschwachen Regionen unzugänglich. Zudem entwickeln biologische Krankheitserreger kontinuierlich Resistenzen, wie der besorgniserregende Anstieg antibiotikaresistenter Bakterien beweist.",
+      "Letztendlich bleibt wissenschaftliche Innovation zwar eine unverzichtbare Waffe im Kampf gegen Krankheiten, doch ist sie kein Allheilmittel. Nachhaltige menschliche Gesundheit erfordert die Verbindung von biomedizinischer Forschung mit sozialer Gerechtigkeit, Umweltschutz und gerechtem Zugang zu medizinischer Grundversorgung."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Welche großen medizinischen Errungenschaften werden im ersten Absatz hervorgehoben?",
+        "points": 1,
+        "reponse_modele": "Antibiotika, Impfkampagnen, präzise Roboterchirurgie und Gen-Editierung haben die Lebenserwartung deutlich gesteigert und tödliche Seuchen besiegt.",
+        "mots_cles": [
+          { "mot": "Antibiotika", "variantes": ["Impfkampagnen", "Gentechnologien", "Lebenserwartung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Warum kann Technik allein laut Gesundheitsexperten moderne Volkskrankheiten nicht heilen?",
+        "points": 1,
+        "reponse_modele": "Weil Krankheiten wie Diabetes oder Herzleiden oft durch Armut, Umweltverschmutzung, Dauerstress und Bewegungsmangel entstehen.",
+        "mots_cles": [
+          { "mot": "sozioökonomisch", "variantes": ["Armut", "Luftverschmutzung", "Lebensweisen"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Welche zwei Grenzen der Hightech-Medizin werden im dritten Absatz genannt?",
+        "points": 1,
+        "reponse_modele": "Moderne Therapien sind für ärmere Bevölkerungsgruppen unbezahlbar, und Bakterien entwickeln zunehmend Resistenzen gegen Antibiotika.",
+        "mots_cles": [
+          { "mot": "unzugänglich", "variantes": ["teuer", "Resistenzen", "Bakterien"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie die Bedeutung des Substantivs „Allheilmittel“ im Schlussabsatz.",
+        "points": 1,
+        "reponse_modele": "Es bezeichnet ein universelles Wundermittel, das angeblich jede Krankheit heilen und jedes Problem lösen kann.",
+        "mots_cles": [
+          { "mot": "Wundermittel", "variantes": ["universelle Lösung", "jede Krankheit heilen"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Was versteht der Autor unter einem „Zwei-Klassen-Gesundheitssystem“?",
+        "points": 1,
+        "reponse_modele": "Ein ungerechtes System, in dem wohlhabende Patienten modernste Spezialtherapien erhalten, während ärmere Menschen nur unzureichend versorgt werden.",
+        "mots_cles": [
+          { "mot": "ungleich", "variantes": ["reich vs arm", "unzugänglich", "geteilt"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des zweiten Absatzes?",
+        "points": 1,
+        "reponse_modele": "Er leitet von der Würdigung medizinischer Durchbrüche zu den sozialen und ökologischen Grenzen rein technischer Lösungen über.",
+        "mots_cles": [
+          { "mot": "Gegensatz", "variantes": ["Einschränkung", "trotzdem", "Überleitung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Welche Warnung steckt hinter dem Hinweis auf „antibiotikaresistente Bakterien“?",
+        "points": 1,
+        "reponse_modele": "Dass medizinische Erfolge nicht dauerhaft garantiert sind, weil sich Krankheitserreger biologisch anpassen und neue Gefahren entstehen.",
+        "mots_cles": [
+          { "mot": "Anpassung", "variantes": ["neue Gefahren", "nicht dauerhaft", "Erreger"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Welche drei ergänzenden Säulen fordert der Autor im Schlussabsatz für nachhaltige Gesundheit?",
+        "points": 1,
+        "reponse_modele": "Soziale Gerechtigkeit, konsequenten Umweltschutz und einen fairen Zugang zur medizinischen Grundversorgung für alle.",
+        "mots_cles": [
+          { "mot": "soziale Gerechtigkeit", "variantes": ["Umweltschutz", "Grundversorgung"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-052b",
+    "titre": "Der Einfluss der Ernährung auf die langfristige Gesundheit",
+    "titre2": "Übung 52",
+    "audios": [
+      { "id": "audio-de-read-b2-052b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-052b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Schon der antike griechische Arzt Hippokrates riet: „Eure Nahrungsmittel sollen eure Heilmittel sein.“ Jahrhunderte später hat die moderne Ernährungswissenschaft diese Erkenntnis eindrucksvoll bestätigt. Langfristige Essgewohnheiten beeinflussen nicht nur die körperliche Lebenserwartung, sondern auch die geistige Widerstandskraft und emotionale Stabilität. Eine Ernährung, die reich an Vollkornprodukten, Hülsenfrüchten, frischem Gemüse und gesunden ungesättigten Fetten ist, geht nachweislich mit geringeren Raten an Bluthochdruck, Schlaganfällen und Demenzerkrankungen einher.",
+      "Umgekehrt hat die weltweite Verbreitung hochverarbeiteter Lebensmittel – gekennzeichnet durch hohe Mengen an raffiniertem Zucker, Transfetten, Salz und künstlichen Zusatzstoffen – eine stille Gesundheitskrise ausgelöst. Auf maximale Schmackhaftigkeit und lange Haltbarkeit getrimmt, stören diese Industrieprodukte die Vielfalt der Darmflora und fördern chronische Entzündungen im Körper.",
+      "Dennoch betonen Ernährungswissenschaftler, dass eine Verbesserung der öffentlichen Gesundheit weitaus komplexer ist, als Einzelne bloß zu mehr Willenskraft im Supermarkt aufzurufen. In vielen einkommensschwachen Stadtvierteln, sogenannten „Lebensmittelwüsten“, sind frische Produkte kaum erhältlich oder unerschwinglich teuer im Vergleich zu stark subventioniertem Fast Food. Zudem prägen aggressive Werbekampagnen schon im Kindesalter ungesunde Essgewohnheiten.",
+      "Daher erfordert die Förderung gesunder Ernährung strukturelle politische Maßnahmen neben individueller Aufklärung. Steuern auf zuckerhaltige Getränke, Subventionen für regionalen Obst- und Gemüseanbau, verständliche Nährwertkennzeichnungen und gesunde Schulmahlzeiten können allen Bürgern eine gesündere Wahl ermöglichen."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Welche gesundheitlichen Vorteile bietet eine vollwertige, unverarbeitete Ernährung laut dem ersten Absatz?",
+        "points": 1,
+        "reponse_modele": "Sie verlängert das Leben, stärkt die geistige Gesundheit und senkt das Risiko für Bluthochdruck, Schlaganfälle und Demenz.",
+        "mots_cles": [
+          { "mot": "Lebenserwartung", "variantes": ["Bluthochdruck", "Schlaganfälle", "Demenzerkrankungen"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Wie schaden hochverarbeitete Industrielebensmittel dem menschlichen Organismus?",
+        "points": 1,
+        "reponse_modele": "Durch viel Zucker, Salz, ungesunde Fette und Zusatzstoffe schädigen sie die Darmflora und lösen dauerhafte Entzündungen aus.",
+        "mots_cles": [
+          { "mot": "Darmflora", "variantes": ["Entzündungen", "Zucker", "Zusatzstoffe"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Was versteht man unter „Lebensmittelwüsten“ im dritten Absatz?",
+        "points": 1,
+        "reponse_modele": "Ärmere Stadtteile, in denen frisches Obst und Gemüse kaum angeboten werden oder im Vergleich zu billigem Fast Food viel zu teuer sind.",
+        "mots_cles": [
+          { "mot": "einkommensschwache Stadtviertel", "variantes": ["frische Produkte kaum erhältlich", "Fast Food"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie die Bedeutung des Verbs „einhergehen mit“ im ersten Absatz.",
+        "points": 1,
+        "reponse_modele": "Es bedeutet verbunden sein mit, zusammen auftreten mit oder als Begleiterscheinung haben.",
+        "mots_cles": [
+          { "mot": "verbunden sein", "variantes": ["zusammen auftreten", "begleitet werden"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+       "question": "Warum genügt der bloße Appell an die persönliche „Willenskraft“ der Verbraucher nicht?",
+"points": 1,
+"reponse_modele": "Weil hohe Preise für gesunde Lebensmittel, fehlende Geschäfte vor Ort und gezielte Werbung für Kinder das Kaufverhalten stark beeinflussen.",
+"mots_cles": [
+{ "mot": "Werbekampagnen", "variantes": ["unerschwinglich", "subventioniert", "Lebensmittelwüsten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Umgekehrt“ zu Beginn des zweiten Absatzes?",
+"points": 1,
+"reponse_modele": "Er stellt den positiven Wirkungen natürlicher Lebensmittel die gesundheitsschädlichen Folgen industrieller Fertigprodukte gegenüber.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Gegenüberstellung", "Kontrast", "andererseits"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welchen Zweck erfüllt das Zitat von Hippokrates am Anfang des Textes?",
+"points": 1,
+"reponse_modele": "Es zeigt, dass die vorbeugende Heilkraft gesunder Ernährung eine uralte Einsicht ist, die heute wissenschaftlich bewiesen wurde.",
+"mots_cles": [
+{ "mot": "antike Erkenntnis", "variantes": ["bestätigt", "Heilmittel", "Vorbeugung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Nennen Sie drei politische Maßnahmen aus dem Schlussabsatz zur Förderung gesunder Ernährung.",
+"points": 1,
+"reponse_modele": "Eine Steuer auf gezuckerte Getränke, finanzielle Förderung für Obst- und Gemüsebauern, klare Verpackungshinweise sowie gesundes Schulessen.",
+"mots_cles": [
+{ "mot": "Steuern", "variantes": ["Subventionen", "Nährwertkennzeichnungen", "Schulmahlzeiten"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-053b",
+"titre": "Psychische Gesundheit: Ein Thema, das noch immer zu oft vernachlässigt wird",
+"titre2": "Übung 53",
+"audios": [
+{ "id": "audio-de-read-b2-053b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-053b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Bricht sich ein Arbeitnehmer bei einer Wochenendwanderung ein Bein, schicken Kollegen sofort Genesungskarten, und Arbeitgeber genehmigen anstandslos Krankschreibungen, ohne die Echtheit der Verletzung anzuzweifeln. Leidet derselbe Mitarbeiter jedoch unter einer schweren klinischen Depression oder lähmenden Angststörungen, begegnet man ihm häufig mit verlegenem Schweigen, Skepsis oder beruflicher Stigmatisierung. Trotz wachsender Aufklärungskampagnen in den letzten Jahren wird die psychische Gesundheit im Vergleich zur körperlichen Medizin noch immer stark vernachlässigt.",
+"Dieses Ungleichgewicht beruht auf tief verwurzelten kulturellen Missverständnissen. Da seelisches Leid keine sichtbaren körperlichen Symptome wie einen Gipsverband oder hohes Fieber aufweist, wird Betroffenen oft unfairerweise geraten, sich einfach „zusammenzureißen“, als wären psychische Erkrankungen bloße Charakterschwächen statt komplexer neurobiologischer und umweltbedingter Störungen. Folglich zögern Millionen Menschen aus Scham, professionelle Hilfe zu suchen, sodass behandelbare Leiden zu schweren Krisen eskalieren.",
+"Darüber hinaus verschärft die chronische Unterfinanzierung psychiatrischer Dienste diese stille Krise. In vielen Ländern müssen Patienten monatelang auf einen Therapieplatz warten, während private Beratungen unerschwinglich teuer sind und von Krankenkassen oft nur unzureichend übernommen werden.",
+"Letztendlich erfordert echte Gleichstellung zwischen psychischer und körperlicher Gesundheitsversorgung sowohl einen kulturellen Wandel als auch gezielte Investitionen. Offene Gespräche in Schulen und Betrieben zu normalisieren, Hausärzte in der Früherkennung zu schulen und öffentlich finanzierte Therapieangebote auszubauen, sind unverzichtbare Schritte hin zu einer mitfühlenderen Gesellschaft."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche gesellschaftliche Doppelmoral veranschaulicht das einleitende Beispiel des gebrochenen Beins?",
+"points": 1,
+"reponse_modele": "Körperliche Verletzungen stoßen sofort auf Mitgefühl und Verständnis, während psychische Krankheiten oft Misstrauen, Schweigen und Ausgrenzung auslösen.",
+"mots_cles": [
+{ "mot": "Mitgefühl vs Stigmatisierung", "variantes": ["körperlich vs psychisch", "Skepsis"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Warum halten viele Menschen psychische Erkrankungen fälschlicherweise für persönliche Schwäche?",
+"points": 1,
+"reponse_modele": "Weil seelische Schmerzen äußerlich unsichtbar sind und nicht wie Fieber oder ein Gips sofort erkennbar sind.",
+"mots_cles": [
+{ "mot": "keine sichtbaren Symptome", "variantes": ["Charakterschwächen", "zusammenzureißen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche Folgen hat es, wenn Betroffene aus Scham zu lange mit einer Therapie warten?",
+"points": 1,
+"reponse_modele": "Gut behandelbare psychische Probleme verschlimmern sich unnötig und entwickeln sich zu lebensbedrohlichen Krisen.",
+"mots_cles": [
+{ "mot": "zögern", "variantes": ["Scham", "Krisen eskalieren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adverbs „anstandslos“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet ohne Zögern, ohne Einwände, problemlos oder selbstverständlich.",
+"mots_cles": [
+{ "mot": "ohne Einwände", "variantes": ["problemlos", "sofort", "selbstverständlich"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche praktischen Hürden erschweren den Zugang zu Psychotherapie, selbst wenn Betroffene Hilfe suchen?",
+"points": 1,
+"reponse_modele": "Monatelange Wartezeiten auf Kassenplätze, sehr hohe Kosten bei Privattherapeuten und mangelnde Kostenübernahme durch Versicherungen.",
+"mots_cles": [
+{ "mot": "Wartezeiten", "variantes": ["teuer", "Krankenkassen", "Unterfinanzierung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Darüber hinaus“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er fügt den gesellschaftlichen Vorurteilen die strukturellen und finanziellen Mängel des Gesundheitssystems hinzu.",
+"mots_cles": [
+{ "mot": "Ergänzung", "variantes": ["außerdem", "weitere Ursache", "Steigerung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welchen Tonfall schlägt der Autor in diesem Text an?",
+"points": 1,
+"reponse_modele": "Einen einfühlsamen, gesellschaftskritischen und aufklärenden Tonfall, der eine Gleichberechtigung psychischer Gesundheit fordert.",
+"mots_cles": [
+{ "mot": "einfühlsam", "variantes": ["kritisch", "aufklärend", "engagiert"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche drei konkreten Maßnahmen empfiehlt der Autor im Schlussabsatz?",
+"points": 1,
+"reponse_modele": "Offene Gespräche in Schulen und Firmen fördern, Hausärzte für Früherkennung ausbilden und mehr öffentlich finanzierte Therapieplätze schaffen.",
+"mots_cles": [
+{ "mot": "offene Gespräche", "variantes": ["Hausärzte schulen", "Therapieangebote ausbauen"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-054b",
+"titre": "Die ethischen Grenzen der medizinischen Forschung",
+"titre2": "Übung 54",
+"audios": [
+{ "id": "audio-de-read-b2-054b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-054b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Medizinischer Fortschritt erforderte schon immer das Vordringen in wissenschaftliches Neuland, doch die Geschichte liefert düstere Mahnungen dafür, was geschieht, wenn Forscherdrang ohne moralische Grenzen agiert. Nach schwerwiegenden Missbräuchen im zwanzigsten Jahrhundert – bei denen schutzlose Patienten ohne ihr Wissen experimentellen Eingriffen unterzogen wurden – verankerte die moderne Bioethik strenge Grundprinzipien: informierte Einwilligung, Schadensvermeidung und unabhängige Ethikkommissionen.",
+"Heute jedoch stellen exponentielle Fortschritte in der Biotechnologie diese bewährten Regeln auf beispiellose Proben. Mit Gentechnik-Werkzeugen wie CRISPR lässt sich menschliche DNA äußerst präzise verändern. Während die somatische Gentherapie – die Erbkrankheiten bei einem einzelnen Patienten heilt, ohne Veränderungen an Nachkommen weiterzugeben – breit begrüßt wird, führt die Keimbahnintervention vererbbare Veränderungen in menschliche Embryonen ein. Kritiker warnen, dass das Überschreiten dieser Schwelle die Tür zu nicht-medizinischen „Designerbabys“ öffnen, soziale Ungleichheit vertiefen und eugenische Ideologien wiederbeleben könnte.",
+"Ebenso werfen klinische Arzneimittelstudien multinationaler Pharmakonzerne in Entwicklungsländern dringende ethische Fragen auf. Wenn verarmte Bevölkerungsgruppen an Medikamententests teilnehmen, weil ihnen sonst jede medizinische Grundversorgung fehlt, ist eine wirklich freiwillige Zustimmung fragwürdig – insbesondere wenn die entwickelten Medikamente vor Ort später unbezahlbar bleiben.",
+"Letztendlich sind ethische Grenzen keine Hindernisse, die wissenschaftliche Entdeckungen blockieren sollen, sondern unverzichtbare Leitplanken zum Schutz der Menschenrechte. Die Wissenschaft muss sich stets nicht nur fragen: ‚Können wir dieses Experiment durchführen?‘, sondern auch: ‚Dürfen wir es?‘"
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche historischen Erfahrungen führten zur Entwicklung moderner bioethischer Regeln?",
+"points": 1,
+"reponse_modele": "Schwere medizinische Verbrechen im 20. Jahrhundert, bei denen wehrlose Menschen ohne Aufklärung und Einwilligung zu Versuchen missbraucht wurden.",
+"mots_cles": [
+{ "mot": "Missbräuche", "variantes": ["ohne Wissen", "informierte Einwilligung", "Ethikkommissionen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Worin besteht der entscheidende Unterschied zwischen „somatischer Gentherapie“ und „Keimbahnintervention“?",
+"points": 1,
+"reponse_modele": "Die somatische Therapie behandelt nur den einzelnen Patienten, während die Keimbahnintervention das Erbgut von Embryonen dauerhaft für alle künftigen Generationen verändert.",
+"mots_cles": [
+{ "mot": "vererbbar", "variantes": ["Nachkommen", "Embryonen", "einzelner Patient"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche gesellschaftlichen Gefahren verbinden Kritiker mit Eingriffen in die menschliche Keimbahn?",
+"points": 1,
+"reponse_modele": "Dass wohlhabende Eltern maßgeschneiderte „Designerbabys“ bestellen, was soziale Ungleichheit verschärft und gefährliche Eugenik zurückbringt.",
+"mots_cles": [
+{ "mot": "Designerbabys", "variantes": ["soziale Ungleichheit", "eugenische Ideologien"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „exponentiell“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet extrem schnell wachsend, sich immer rasanter steigernd oder sprunghaft zunehmend.",
+"mots_cles": [
+{ "mot": "rasant steigend", "variantes": ["extrem schnell", "sprunghaft"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum sind Medikamentenstudien von Pharmakonzernen in armen Ländern oft ethisch problematisch?",
+"points": 1,
+"reponse_modele": "Weil arme Patienten oft nur aus Not mitmachen, um überhaupt behandelt zu werden, und sich die fertigen Medikamente später gar nicht leisten können.",
+"mots_cles": [
+{ "mot": "freiwillige Zustimmung fragwürdig", "variantes": ["unbezahlbar", "Grundversorgung fehlt"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Ebenso“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er stellt der Gentechnik-Problematik ein zweites, vergleichbar schwerwiegendes ethisches Problemfeld an die Seite.",
+"mots_cles": [
+{ "mot": "Ergänzung", "variantes": ["Parallelität", "gleichfalls", "weiteres Beispiel"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Deuten Sie die Metapher „Leitplanken“ im Schlussabsatz.",
+"points": 1,
+"reponse_modele": "Ethikregeln sollen die Forschung nicht stoppen, sondern wie Leitplanken auf einer Straße verhindern, dass sie vom sicheren Weg abkommt und Menschen schadet.",
+"mots_cles": [
+{ "mot": "Schutz", "variantes": ["nicht blockieren", "Menschenrechte", "Sicherheit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Erklären Sie den Unterschied zwischen den beiden Schlussfragen („Können wir...?“ vs. „Dürfen wir...?“).",
+"points": 1,
+"reponse_modele": "„Können wir?“ fragt nach dem technisch Machbaren, während „Dürfen wir?“ prüft, ob ein Eingriff moralisch verantwortbar und menschenwürdig ist.",
+"mots_cles": [
+{ "mot": "technisch vs moralisch", "variantes": ["Machbarkeit vs Ethik", "verantwortbar"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-055b",
+"titre": "Ist Prävention wirksamer als die Behandlung von Krankheiten?",
+"titre2": "Übung 55",
+"audios": [
+{ "id": "audio-de-read-b2-055b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-055b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Am Rednerpult einer parlamentarischen Anhörung zum Gesundheitsbudget zeigte der leitende Mediziner Dr. Marcus Vogt den versammelten Abgeordneten eine eindrucksvolle Grafik. „Jedes Jahr fließen über neunzig Prozent unseres Gesundheitsbudgets in die Behandlung akuter Krankheiten in Kliniken, während weniger als drei Prozent für Vorsorge und Prävention aufgewendet werden“, erklärte er nachdrücklich. „Im Grunde stehen wir unten an einer Klippe und betreiben teure Krankenwagen, um Abstürzende zu retten, statt oben einen einfachen Schutzzaun zu errichten.“",
+"Dr. Vogt erläuterte, dass vorausschauende Prävention – darunter regelmäßige Krebsvorsorge, Impfprogramme, Raucherentwöhnung und öffentliche Hygiene – deutlich bessere Gesundheitsergebnisse zu einem Bruchteil der Kosten erzielt. Wird eine Erkrankung bereits im symptomlosen Frühstadium erkannt, bleiben Patienten belastende Operationen erspart, ihre Arbeitsfähigkeit bleibt erhalten, und dem Gesundheitssystem werden Milliarden an Notfallkosten erspart.",
+"Dennoch leiden Präventionsprogramme häufig unter politischer Kurzsichtigkeit. Da sich die gesundheitlichen und finanziellen Erfolge vorsorgender Investitionen oft erst nach zehn oder zwanzig Jahren zeigen, bevorzugen Politiker, die in vierjährigen Wahlzyklen denken, sichtbare Klinikneubauten gegenüber stiller langfristiger Vorsorge.",
+"Zum Abschluss seiner Stellungnahme appellierte Dr. Vogt an den Ausschuss, die Prioritäten neu zu gewichten. „Heilende Medizin wird natürlich immer unverzichtbar bleiben, wenn Menschen erkranken“, räumte er ein, „doch sofern wir nicht mutig in die Verhütung von Krankheiten investieren, werden steigende Raten chronischer Leiden unsere öffentlichen Gesundheitssysteme langfristig finanziell überfordern.“"
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welches finanzielle Ungleichgewicht im Gesundheitssystem kritisierte Dr. Marcus Vogt vor den Abgeordneten?",
+"points": 1,
+"reponse_modele": "Über neunzig Prozent des Budgets gehen in die Behandlung akuter Krankheiten in Kliniken, während unter drei Prozent für Vorsorge ausgegeben werden.",
+"mots_cles": [
+{ "mot": "neunzig Prozent vs drei Prozent", "variantes": ["Kliniken vs Prävention", "Budget"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Erklären Sie Dr. Vogts Vergleich zwischen den „Krankenwagen unten an der Klippe“ und dem „Schutzzaun oben“.",
+"points": 1,
+"reponse_modele": "Teure Notfallbehandlungen bei bereits ausgebrochenen schweren Krankheiten sind weit weniger sinnvoll als einfache Vorsorge, die Krankheiten von vornherein verhindert.",
+"mots_cles": [
+{ "mot": "verhindern statt retten", "variantes": ["Vorsorge", "Notfallbehandlung", "Klippe"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche persönlichen und wirtschaftlichen Vorteile bringt die Früherkennung von Krankheiten?",
+"points": 1,
+"reponse_modele": "Patienten vermeiden schwere Operationen, bleiben arbeitsfähig und sparen dem Staat Milliarden an Krankenhauskosten.",
+"mots_cles": [
+{ "mot": "Operationen erspart", "variantes": ["Arbeitsfähigkeit", "Milliarden sparen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „symptomlos“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet ohne erkennbare Krankheitszeichen oder Beschwerden im frühen Stadium einer Erkrankung.",
+"mots_cles": [
+{ "mot": "ohne Krankheitszeichen", "variantes": ["ohne Beschwerden", "Frühstadium"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum vernachlässigen Politiker laut dem dritten Absatz häufig langfristige Vorsorgeprogramme?",
+"points": 1,
+"reponse_modele": "Weil Erfolge der Prävention oft erst nach Jahrzehnten sichtbar werden, Politiker aber bis zur nächsten Wahl in vier Jahren schnelle Erfolge vorweisen wollen.",
+"mots_cles": [
+{ "mot": "Wahlzyklen", "variantes": ["Kurzsichtigkeit", "Jahrzehnte", "Klinikneubauten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet von den medizinischen und finanziellen Vorteilen der Vorsorge zu den politischen Hindernissen über.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Hindernisse", "trotzdem", "Überleitung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche grammatische und logische Funktion erfüllt der Konnektor „sofern“ in Dr. Vogts letztem Satz?",
+"points": 1,
+"reponse_modele": "Er leitet eine notwendige Bedingung ein („falls nicht“ / „wenn nicht“) und warnt vor dem finanziellen Kollaps ohne stärkere Prävention.",
+"mots_cles": [
+{ "mot": "Bedingung", "variantes": ["falls nicht", "Warnung", "überfordern"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Will Dr. Vogt die klassische Krankenhausmedizin abschaffen? Fassen Sie seine ausgewogene Position zusammen.",
+"points": 1,
+"reponse_modele": "Nein, er betont, dass heilende Medizin bei akuten Krankheiten immer nötig bleibt, fordert aber deutlich mehr Geld für Vorsorge, um das System bezahlbar zu halten.",
+"mots_cles": [
+{ "mot": "neu gewichten", "variantes": ["unverzichtbar", "Prävention stärken", "Balance"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-056b",
+"titre": "Ungleichheiten beim Zugang zur Gesundheitsversorgung weltweit",
+"titre2": "Übung 56",
+"audios": [
+{ "id": "audio-de-read-b2-056b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-056b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Obgleich die Verfassung der Weltgesundheitsorganisation das erreichbare Höchstmaß an Gesundheit als grundlegendes Menschenrecht verankert, bleibt der Zugang zu medizinischer Versorgung weltweit zutiefst ungleich verteilt. Während Bürger in wohlhabenden Ländern von modernen Krebszentren, Roboterchirurgie und allgemeiner Krankenversicherung profitieren, fehlt Milliarden Menschen in einkommensschwachen Regionen der Zugang zu grundlegenden Antibiotika, sicherer Geburtshilfe oder hygienischen Operationssälen. Folglich bestimmt noch immer der geografische Geburtsort eines Kindes maßgeblich seine Überlebenschancen bei vermeidbaren Infektionen.",
+"Diese globalen Ungleichheiten werden durch systematische Abwanderung von Fachkräften („Braindrain“) und Pharmamonopole weiter verschärft. Jedes Jahr wandern Zehntausende Ärzte und Pflegekräfte, die in Entwicklungsländern ausgebildet wurden, in reichere Staaten ab, die höhere Gehälter und bessere Arbeitsbedingungen bieten, was ländliche Kliniken stark unterbesetzt zurücklässt. Gleichzeitig halten strenge internationale Patentgesetze lebensrettende Medikamente oft auf einem Preisniveau, das für ärmere Gesundheitsministerien unbezahlbar bleibt.",
+"Darüber hinaus bestehen gravierende gesundheitliche Ungleichheiten auch innerhalb reicher Industrienationen fort. Marginalisierte Bevölkerungsgruppen, Landbewohner und unversicherte Arbeitnehmer weisen oft eine deutlich geringere Lebenserwartung auf – bedingt durch finanzielle Hürden, weite Wege zu Krankenhäusern und unbewusste soziale Vorurteile im Gesundheitswesen.",
+"Letztendlich erfordert die Überwindung der globalen Gesundheitskluft koordinierte internationale Solidarität. Der Ausbau einer universellen Gesundheitsversorgung, faire Lizenzabkommen für preiswerte Generika und Investitionen in die lokale medizinische Ausbildung sind unverzichtbare Schritte, damit Gesundheit ein universelles Recht statt eines Privilegs der Wohlhabenden wird."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welcher krasse globale Gegensatz bei der medizinischen Versorgung wird im ersten Absatz beschrieben?",
+"points": 1,
+"reponse_modele": "In reichen Ländern gibt es Hightech-Kliniken und Krankenversicherungen, während Milliarden Menschen in armen Ländern nicht einmal einfache Antibiotika oder sichere Geburtshilfe erhalten.",
+"mots_cles": [
+{ "mot": "wohlhabend vs einkommensschwach", "variantes": ["Antibiotika", "Geburtshilfe", "Geburtsort"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Was versteht man unter medizinischem „Braindrain“, und wie schadet er Entwicklungsländern?",
+"points": 1,
+"reponse_modele": "Die Abwanderung ausgebildeter Ärzte und Pflegekräfte in reichere Länder wegen besserer Bezahlung, wodurch Kliniken in ihrer Heimat unterbesetzt bleiben.",
+"mots_cles": [
+{ "mot": "Abwanderung", "variantes": ["Ärzte und Pflegekräfte", "unterbesetzt", "Gehälter"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Wie behindern internationale Patentgesetze den Zugang zu Medikamenten in ärmeren Staaten?",
+"points": 1,
+"reponse_modele": "Sie sichern Pharmakonzernen Monopolpreise, sodass lebenswichtige Medikamente für ärmere Länder unerschwinglich teuer bleiben.",
+"mots_cles": [
+{ "mot": "Patentgesetze", "variantes": ["unbezahlbar", "Pharmamonopole", "Preise"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „verschärfen“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet ein bestehendes Problem noch schlimmer, kritischer oder dramatischer machen.",
+"mots_cles": [
+{ "mot": "schlimmer machen", "variantes": ["zuspitzen", "verstärken", "intensivieren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche Faktoren verursachen gesundheitliche Ungleichheiten selbst innerhalb reicher Industrieländer?",
+"points": 1,
+"reponse_modele": "Fehlende Krankenversicherung, hohe Behandlungskosten, große Entfernungen zu Kliniken auf dem Land und soziale Vorurteile.",
+"mots_cles": [
+{ "mot": "unversichert", "variantes": ["finanzielle Hürden", "Landbewohner", "Vorurteile"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Darüber hinaus“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er erweitert die Perspektive und zeigt, dass Ungleichheit nicht nur zwischen Nord und Süd, sondern auch innerhalb wohlhabender Länder existiert.",
+"mots_cles": [
+{ "mot": "Ergänzung", "variantes": ["Erweiterung", "außerdem", "innerhalb Industrienationen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Was bedeutet der Begriff „Generika“ im Schlussabsatz?",
+"points": 1,
+"reponse_modele": "Nachahmermedikamente mit demselben Wirkstoff wie Originalpräparate, die nach Ablauf von Patenten deutlich günstiger hergestellt werden können.",
+"mots_cles": [
+{ "mot": "preiswerte Nachahmermedikamente", "variantes": ["gleicher Wirkstoff", "günstig", "Lizenzabkommen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche drei Lösungen schlägt der Autor im Schlussabsatz vor, um globale Gesundheitsungleichheiten abzubauen?",
+"points": 1,
+"reponse_modele": "Allgemeine Krankenversicherung für alle, faire Lizenzregeln für günstige Generika und Investitionen in die medizinische Ausbildung vor Ort.",
+"mots_cles": [
+{ "mot": "universelle Gesundheitsversorgung", "variantes": ["Generika", "lokale Ausbildung"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-057b",
+"titre": "Die Folgen von Schlafmangel für die geistige Leistungsfähigkeit",
+"titre2": "Übung 57",
+"audios": [
+{ "id": "audio-de-read-b2-057b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-057b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Während der Prüfungsphase an Universitäten gilt das „Durchmachen“ einer ganzen Nacht mithilfe von Energy-Drinks häufig als Ausweis besonderen akademischen Fleißes. Dennoch zeigt die neurowissenschaftliche Forschung, dass der Verzicht auf Schlaf zum Lernen zu den kontraproduktivsten Gewohnheiten überhaupt gehört. Weit davon entfernt, ein bloßer passiver Ruhezustand zu sein, ist Schlaf ein hochaktiver neurobiologischer Prozess, der für Gedächtnisbildung, Nervenregeneration und geistige Klarheit unerlässlich ist.",
+"Während des tiefen Slow-Wave-Schlafs und der REM-Phasen überträgt das Gehirn neu erlernte Fakten aus dem empfindlichen Kurzzeitspeicher des Hippocampus in dauerhafte neuronale Netzwerke der Großhirnrinde. Gleichzeitig spült das glymphatische System des Gehirns giftige Stoffwechselabfälle aus, die sich im Wachzustand angesammelt haben. Folglich beeinträchtigt eine Schlafdauer von weniger als sechs Stunden Konzentration, Arbeitsgedächtnis, logisches Denken und kreatives Problemlösen erheblich.",
+"Schlimmer noch: Menschen mit chronischem Schlafmangel schätzen ihre eigene geistige Beeinträchtigung notorisch falsch ein. Kontrollierte Laborexperimente belegen, dass Personen, die zwei Wochen lang nur sechs Stunden pro Nacht schlafen, Reaktionszeiten aufweisen wie jemand, der achtundvierzig Stunden ununterbrochen wach war – oder unter Alkoholeinfluss steht –, obgleich sie selbst glauben, sich an die Müdigkeit gewöhnt zu haben.",
+"Letztendlich untergräbt es sowohl intellektuelle Spitzenleistungen als auch die langfristige Gehirngesundheit, Schlaf als verzichtbaren Luxus zu behandeln. Sieben bis neun Stunden regelmäßigen, erholsamen Schlafs zu priorisieren ist kein Zeichen von Faulheit, sondern der wirksamste natürliche Leistungssteigerer, der dem Menschen zur Verfügung steht."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Warum ist das nächtliche Durchlernen vor Prüfungen laut Neurowissenschaftlern kontraproduktiv?",
+"points": 1,
+"reponse_modele": "Weil das Gehirn den Schlaf aktiv braucht, um Gelerntes abzuspeichern, Nervenzellen zu regenerieren und klar denken zu können.",
+"mots_cles": [
+{ "mot": "Gedächtnisbildung", "variantes": ["Nervenregeneration", "aktiver Prozess", "Klarheit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche zwei wichtigen biologischen Aufgaben erfüllt das Gehirn während des Schlafs?",
+"points": 1,
+"reponse_modele": "Es überführt neue Informationen ins Langzeitgedächtnis und reinigt sich von giftigen Stoffwechselabfällen des Tages.",
+"mots_cles": [
+{ "mot": "Langzeitgedächtnis", "variantes": ["Hippocampus", "Stoffwechselabfälle ausspülen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welcher gefährlichen Selbsttäuschung unterliegen Menschen mit regelmäßigem Schlafmangel?",
+"points": 1,
+"reponse_modele": "Sie glauben fälschlicherweise, sich an wenig Schlaf gewöhnt zu haben, obwohl ihre Reaktionsfähigkeit so schlecht ist wie bei einem Betrunkenen.",
+"mots_cles": [
+{ "mot": "falsch einschätzen", "variantes": ["gewöhnt", "Alkoholeinfluss", "achtundvierzig Stunden"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adverbs „notorisch“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet bekanntermaßen, erwiesenermaßen, gewohnheitsmäßig oder immer wieder.",
+"mots_cles": [
+{ "mot": "bekanntermaßen", "variantes": ["erwiesenermaßen", "immer wieder", "typischerweise"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche geistigen Fähigkeiten leiden konkret, wenn man weniger als sechs Stunden schläft?",
+"points": 1,
+"reponse_modele": "Die Konzentrationsfähigkeit, das Arbeitsgedächtnis, das logische Schlussfolgern sowie kreatives Problemlösen lassen stark nach.",
+"mots_cles": [
+{ "mot": "Konzentration", "variantes": ["Arbeitsgedächtnis", "logisches Denken", "kreativ"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt die Wendung „Schlimmer noch“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Sie leitet eine noch gravierendere Folge ein: Schlafmangel schadet nicht nur dem Gehirn, sondern zerstört auch die Selbstwahrnehmung dieser Schwäche.",
+"mots_cles": [
+{ "mot": "Steigerung", "variantes": ["Zuspitzung", "darüber hinaus", "noch gravierender"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche gesellschaftliche Haltung gegenüber dem Schlafen kritisiert der Autor im Text?",
+"points": 1,
+"reponse_modele": "Eine Leistungskultur, die Schlafentzug als Fleiß feiert und ausreichendes Schlafen abwertend als Faulheit oder Luxus abstempelt.",
+"mots_cles": [
+{ "mot": "Faulheit", "variantes": ["Luxus", "Leistungskultur", "Ausweis von Fleiß"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Wie viel Schlaf empfiehlt der Autor, und wie bewertet er dessen Wirkung?",
+"points": 1,
+"reponse_modele": "Sieben bis neun Stunden pro Nacht, was er als den wirksamsten natürlichen Leistungssteigerer für das Gehirn bezeichnet.",
+"mots_cles": [
+{ "mot": "sieben bis neun Stunden", "variantes": ["natürlicher Leistungssteigerer", "Gehirngesundheit"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-058b",
+"titre": "Sollte der Sport in der Bildung eine wichtigere Rolle spielen?",
+"titre2": "Übung 58",
+"audios": [
+{ "id": "audio-de-read-b2-058b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-058b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Wann immer Schulverwaltungen mit knappen Budgets oder dem Druck konfrontiert sind, standardisierte Testergebnisse zu verbessern, ist der Sportunterricht fast zwangsläufig das erste Fach, das gekürzt oder gestrichen wird. Dahinter steckt ein jahrhundertealtes Vorurteil, das Geist und Körper trennt und theoretische Fächer für wichtiger hält als körperliche Bewegung. Dennoch belegen moderne Neurowissenschaften und pädagogische Psychologie, dass regelmäßige Bewegung kein Hindernis für schulisches Lernen darstellt, sondern einer seiner stärksten Katalysatoren ist.",
+"Ausdauersport regt die Ausschüttung des Proteins BDNF an, das das Wachstum neuer Nervenzellen fördert und synaptische Verbindungen stärkt, die für Gedächtnis und Konzentration entscheidend sind. Schulen, die tägliche Bewegungseinheiten in ihren Stundenplan integriert haben, berichten regelmäßig über höhere Aufmerksamkeit, besseres Sozialverhalten im Klassenzimmer und bessere schulische Leistungen – insbesondere in Mathematik und Lesen.",
+"Über die geistige Förderung hinaus vermittelt der Schulsport wichtige soziale und emotionale Kompetenzen. Mannschaftssport lehrt Jugendliche, mit Niederlagen umzugehen, diszipliniert Ziele zu verfolgen, Verantwortung zu übernehmen und über soziale Grenzen hinweg zusammenzuarbeiten. Zudem beugt regelmäßige Bewegung in der Kindheit Übergewicht und Angststörungen wirksam vor.",
+"Gleichwohl muss der Sportunterricht sinnvoll reformiert werden, damit alle Schüler davon profitieren. Anstatt sich einseitig auf hochkompetitive Leistungssportarten zu konzentrieren, die weniger sportliche Kinder abschrecken, sollten Schulen vielfältige Bewegungsangebote – von Kampfsport und Tanz bis hin zu Wandern und Schwimmen – anbieten, damit jeder junge Mensch Freude an Bewegung entdeckt."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Warum wird der Sportunterricht bei Sparmaßnahmen oder Prüfungsdruck oft als Erstes gekürzt?",
+"points": 1,
+"reponse_modele": "Weil Schulverwaltungen Körper und Geist trennen und glauben, Sport nehme wichtigen Lernfächern wertvolle Unterrichtszeit weg.",
+"mots_cles": [
+{ "mot": "Geist und Körper trennt", "variantes": ["Testergebnisse", "Budgets", "Vorurteil"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Wie verbessert Ausdauersport laut dem zweiten Absatz biologisch die Gehirnleistung?",
+"points": 1,
+"reponse_modele": "Er fördert die Bildung des Proteins BDNF, das neue Nervenzellen wachsen lässt und Gedächtnis sowie Konzentration stärkt.",
+"mots_cles": [
+{ "mot": "BDNF", "variantes": ["Nervenzellen", "synaptische Verbindungen", "Gedächtnis"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche sozialen und persönlichen Fähigkeiten erlernen Jugendliche durch Schulsport?",
+"points": 1,
+"reponse_modele": "Sie lernen, Niederlagen zu verkraften, diszipliniert auf Ziele hinzuarbeiten, im Team zu kooperieren und Verantwortung zu tragen.",
+"mots_cles": [
+{ "mot": "Niederlagen umgehen", "variantes": ["zusammenzuarbeiten", "Verantwortung", "Ziele"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „hochkompetitiv“ im letzten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet stark wettbewerbsorientiert, extrem auf Sieg und Konkurrenz ausgerichtet.",
+"mots_cles": [
+{ "mot": "wettbewerbsorientiert", "variantes": ["Konkurrenz", "Leistungsdruck", "Sieg"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche Schwäche des klassischen Schulsports kritisiert der Autor im vierten Absatz?",
+"points": 1,
+"reponse_modele": "Dass oft nur Wettkampfsport betrieben wird, wodurch unsportlichere Kinder bloßgestellt und dauerhaft abgeschreckt werden.",
+"mots_cles": [
+{ "mot": "Leistungssportarten", "variantes": ["abschrecken", "weniger sportliche Kinder"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Gleichwohl“ zu Beginn des letzten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet eine notwendige Einschränkung ein („trotzdem“ / „dennoch“): Sport ist zwar sehr wertvoll, muss aber inklusiver gestaltet werden.",
+"mots_cles": [
+{ "mot": "Einschränkung", "variantes": ["Gegensatz", "trotzdem", "Reform"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "In welchen klassischen Schulfächern zeigten sich bei täglicher Bewegung besonders deutliche Leistungssteigerungen?",
+"points": 1,
+"reponse_modele": "Vor allem in Mathematik und beim Lesen.",
+"mots_cles": [
+{ "mot": "Mathematik und Lesen", "variantes": ["Leistungen", "Aufmerksamkeit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche konkreten Bewegungsangebote schlägt der Autor als Alternative zum reinen Wettkampfsport vor?",
+"points": 1,
+"reponse_modele": "Vielfältige Aktivitäten wie Kampfsport, Tanz, Schwimmen und Wandern, damit alle Schüler Freude an Bewegung finden.",
+"mots_cles": [
+{ "mot": "Kampfsport", "variantes": ["Tanz", "Wandern", "Schwimmen"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-059b",
+"titre": "Werfen medizinische Fortschritte neue ethische Fragen auf?",
+"titre2": "Übung 59",
+"audios": [
+{ "id": "audio-de-read-b2-059b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-059b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Als ein klinisches Ethikkomitee in Genf zusammentrat, um einen umstrittenen Fall rund um einen KI-gestützten Algorithmus zur Lebenserhaltung zu prüfen, wandte sich die Intensivmedizinerin Dr. Elena Rostova ernst an ihre Kollegen: „Vor zwanzig Jahren ging es in der Medizinethik vor allem darum, Infektionen zu heilen und vorzeitigen Tod zu verhindern“, bemerkte sie. „Heute können unsere Apparate biologische Organe unbegrenzt am Leben erhalten, selbst nach dem unumkehrbaren Hirntod, was uns vor quälende Fragen stellt, was echtes menschliches Leben ausmacht.“",
+"Auf der anderen Seite des Tisches nickte der Rechtswissenschaftler Prof. Dr. David Thorne zustimmend und fügte eine weitere Dimension hinzu: „Ebenso beunruhigend sind die ethischen Dilemmata rund um prädiktive Gentests und künstliche Befruchtung“, erklärte er. „Wenn werdende Eltern Embryonen auf Dutzende Merkmale untersuchen lassen können – von Krankheitsrisiken bis hin zu Körpergröße oder geistigen Veranlagungen –, wo ziehen wir dann die Grenze zwischen heilender Medizin und menschlicher Selbstoptimierung?“",
+"„Darüber hinaus wirft der Einsatz von Algorithmen bei der medizinischen Triage tiefgreifende Fragen der Verantwortung auf“, fuhr Dr. Rostova fort. „Wenn eine KI-Software empfiehlt, älteren oder behinderten Patienten knappe Intensivbetten aufgrund statistischer Überlebenswahrscheinlichkeiten vorzuenthalten, wer trägt dann die moralische und rechtliche Verantwortung für diese Entscheidung?“",
+"Zum Abschluss ihrer Sitzung betonten die Mitglieder des Komitees, dass medizinische Innovationen den geschriebenen Gesetzen immer schneller vorauseilen. Sofern Gesellschaften keine inklusiven, interdisziplinären Ethikräte einrichten – bestehend aus Ärzten, Philosophen, Patienten und Juristen –, droht technische Machbarkeit moralische Werte zu diktieren, statt ihnen zu dienen."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Wie haben moderne Apparate auf Intensivstationen die medizinische Frage nach Leben und Tod verkompliziert?",
+"points": 1,
+"reponse_modele": "Maschinen können Organe auch nach dem endgültigen Hirntod dauerhaft künstlich am Laufen halten, was schmerzhafte Entscheidungen über das Lebensende erzwingt.",
+"mots_cles": [
+{ "mot": "Organe unbegrenzt erhalten", "variantes": ["Hirntod", "Lebenserhaltung", "menschliches Leben"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welches ethische Problem wirft Prof. David Thorne bei modernen Gentests an Embryonen auf?",
+"points": 1,
+"reponse_modele": "Die Grenze zwischen der Heilung schwerer Erbkrankheiten und der gezielten Auswahl gewünschter Eigenschaften wie Größe oder Intelligenz verschwimmt.",
+"mots_cles": [
+{ "mot": "heilende Medizin vs Selbstoptimierung", "variantes": ["Embryonen", "Merkmale", "Grenze"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Warum ist der Einsatz von KI-Algorithmen bei der Vergabe von Intensivbetten (Triage) ethisch heikel?",
+"points": 1,
+"reponse_modele": "Weil ältere oder behinderte Patienten durch kalte Statistiken benachteiligt werden könnten und unklar ist, wer rechtlich für Fehler haftet.",
+"mots_cles": [
+{ "mot": "Verantwortung", "variantes": ["ältere oder behinderte Patienten", "Triage", "Überlebenswahrscheinlichkeiten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „vorauseilen“ im letzten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet sich schneller entwickeln als etwas anderes, sodass die Gesetze mit der rasanten Technik nicht mehr Schritt halten können.",
+"mots_cles": [
+{ "mot": "schneller entwickeln", "variantes": ["überholen", "nicht Schritt halten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum können Parlamente und Gesetze oft nicht rechtzeitig auf neue medizinische Technologien reagieren?",
+"points": 1,
+"reponse_modele": "Weil wissenschaftliche Durchbrüche in immer kürzeren Abständen erfolgen, als langwierige Gesetzgebungsverfahren benötigen.",
+"mots_cles": [
+{ "mot": "immer schneller", "variantes": ["Innovationen", "geschriebene Gesetze"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche grammatische und logische Funktion erfüllt der Konnektor „Sofern“ im letzten Satz?",
+"points": 1,
+"reponse_modele": "Er leitet eine notwendige Bedingung ein („falls nicht“ / „wenn nicht“) und warnt davor, dass Technik ohne Ethikräte unsere Moral bestimmt.",
+"mots_cles": [
+{ "mot": "Bedingung", "variantes": ["falls nicht", "Warnung", "Ethikräte"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche Berufsgruppen und Personen sollten laut dem Komitee in Ethikräten vertreten sein, und warum?",
+"points": 1,
+"reponse_modele": "Ärzte, Philosophen, Patienten und Juristen, damit Entscheidungen verschiedene menschliche Perspektiven berücksichtigen statt nur reine Technik.",
+"mots_cles": [
+{ "mot": "interdisziplinär", "variantes": ["Ärzte", "Philosophen", "Patienten", "Juristen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welches moralische Leitprinzip formuliert der allerletzte Nebensatz des Textes?",
+"points": 1,
+"reponse_modele": "Menschliche Werte und Ethik müssen bestimmen, wie medizinische Technik genutzt wird, und nicht umgekehrt.",
+"mots_cles": [
+{ "mot": "moralische Werte", "variantes": ["dienen statt diktieren", "Technik"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-060b",
+"titre": "Wie können wir wissenschaftlichen Fortschritt mit der Achtung der Menschenwürde vereinbaren?",
+"titre2": "Übung 60",
+"audios": [
+{ "id": "audio-de-read-b2-060b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-060b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Im Laufe der Moderne schwankte die Menschheit häufig zwischen unkritischer Bewunderung wissenschaftlichen Fortschritts und ängstlicher Abwehr technologischer Grenzüberschreitungen. Von künstlicher Intelligenz und Neurotechnologie – etwa Gehirn-Computer-Schnittstellen – bis hin zur synthetischen Biologie verfügt die Wissenschaft des einundzwanzigsten Jahrhunderts über die beispiellose Macht, nicht bloß unsere äußere Umwelt, sondern das menschliche Bewusstsein und die Biologie selbst umzugestalten. Diese außergewöhnlichen Fähigkeiten mit bedingungsloser Achtung der Menschenwürde in Einklang zu bringen, bildet die zentrale philosophische Herausforderung unserer Zeit.",
+"Die Menschenwürde beruht auf dem Grundprinzip, dass jeder Mensch einen unantastbaren Eigenwert besitzt und niemals bloß als biologisches Versuchsobjekt, als Datenpunkt oder als Handelsware behandelt werden darf. Wenn Tech-Konzerne versuchen, aus Gehirnimplantaten ausgelesene neuronale Daten zu vermarkten, oder wenn Staaten biometrische Überwachung einsetzen, um den Wert von Bürgern zu bewerten, bedroht wissenschaftliche Innovation unmittelbar die menschliche Autonomie und Privatsphäre.",
+"Dennoch wäre eine Ablehnung wissenschaftlichen Fortschritts aus Angst ebenso schädlich für die Menschenwürde, da die Wissenschaft Milliarden Menschen von vermeidbarem Leid, Hunger und Unwissenheit befreit hat. Die Lösung liegt darin, ethische Reflexion bereits frühzeitig – in den ersten Phasen von Forschung und Entwicklung – zu verankern, statt Technologien erst dann regulieren zu wollen, wenn sie die Gesellschaft bereits verändert haben.",
+"Letztendlich sind Wissenschaft und Menschenwürde keine Gegensätze, sofern sie von demokratischer Weisheit geleitet werden. Indem wir universelle Menschenrechte verteidigen, wissenschaftliche Bildung in der Bevölkerung fördern und sicherstellen, dass benachteiligte Gruppen gerecht am Fortschritt teilhaben, kann die Menschheit Innovationen nutzen, um das Menschsein zu stärken statt zu schmälern."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Worin unterscheidet sich die Wissenschaft des 21. Jahrhunderts laut dem ersten Absatz grundlegend von früheren Epochen?",
+"points": 1,
+"reponse_modele": "Statt nur die äußere Natur zu verändern, kann moderne Forschung heute direkt das menschliche Gehirn, Bewusstsein und Erbgut umbauen.",
+"mots_cles": [
+{ "mot": "Bewusstsein und Biologie umgestalten", "variantes": ["Neurotechnologie", "nicht bloß äußere Umwelt"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Wie definiert der Autor das Grundprinzip der „Menschenwürde“ im zweiten Absatz?",
+"points": 1,
+"reponse_modele": "Jeder Mensch hat einen unantastbaren inneren Wert und darf niemals wie ein bloßes Experiment, ein Datensatz oder eine Ware benutzt werden.",
+"mots_cles": [
+{ "mot": "unantastbarer Eigenwert", "variantes": ["keine Handelsware", "Versuchsobjekt", "Datenpunkt"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche konkreten modernen Technologien bedrohen laut dem zweiten Absatz die Menschenwürde?",
+"points": 1,
+"reponse_modele": "Die kommerzielle Vermarktung von Gehirndaten aus Implantaten sowie staatliche biometrische Überwachung zur Bewertung von Bürgern.",
+"mots_cles": [
+{ "mot": "neuronale Daten", "variantes": ["biometrische Überwachung", "Gehirnimplantate", "vermarkten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „schwanken“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet unsicher zwischen zwei gegensätzlichen Haltungen oder Extremen hin- und herwechseln.",
+"mots_cles": [
+{ "mot": "hin- und herwechseln", "variantes": ["unsicher sein", "zwischen Extremen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum lehnt der Autor im dritten Absatz eine pauschale Technikfeindlichkeit ab?",
+"points": 1,
+"reponse_modele": "Weil wissenschaftliche Entdeckungen Milliarden Menschen vor Krankheiten, Hunger und Armut gerettet und so ihre Würde erst geschützt haben.",
+"mots_cles": [
+{ "mot": "befreit von Leid", "variantes": ["Hunger", "Unwissenheit", "Milliarden Menschen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er gleicht die Kritik an technischen Missbräuchen aus, indem er daran erinnert, dass ein Verzicht auf Wissenschaft ebenfalls unmenschlich wäre.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Ausgleich", "trotzdem", "Gegenargument"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Wann muss ethische Prüfung laut dem dritten Absatz einsetzen, um wirksam zu sein?",
+"points": 1,
+"reponse_modele": "Bereits ganz zu Beginn in der frühen Forschungs- und Entwicklungsphase, bevor neue Technologien auf den Markt kommen.",
+"mots_cles": [
+{ "mot": "frühzeitig", "variantes": ["erste Phasen", "Forschung und Entwicklung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche drei Voraussetzungen nennt der Schlussabsatz, damit wissenschaftlicher Fortschritt allen Menschen dient?",
+"points": 1,
+"reponse_modele": "Die Verteidigung allgemeiner Menschenrechte, wissenschaftliche Aufklärung der Bevölkerung und die gerechte Teilhabe benachteiligter Gruppen.",
+"mots_cles": [
+{ "mot": "Menschenrechte", "variantes": ["wissenschaftliche Bildung", "benachteiligte Gruppen", "gerecht"], "poids": 1.0 }
+]
+}
+]
 }
 ]
