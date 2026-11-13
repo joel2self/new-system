@@ -2365,5 +2365,1428 @@
 ]
 }
 ]
+},
+{
+    "id": "b031",
+    "titre": "Stellt künstliche Intelligenz eine Chance oder eine Bedrohung für die Menschheit dar?",
+    "titre2": "Exercice b031",
+    "texte": [
+      "Sehr geehrte Damen und Herren, geschätzte Forschende, liebe Gäste,",
+      "kaum eine technologische Entwicklung hat die öffentliche Debatte in den letzten Jahren so tiefgreifend polarisiert wie der rasante Aufstieg der künstlichen Intelligenz. Während die einen darin die bedeutendste Erfindung seit der Nutzbarmachung der Elektrizität feiern, warnen andere vor einem unkontrollierbaren Kontrollverlust, der unsere sozialen, wirtschaftlichen und demokratischen Grundlagen erschüttern könnte. Doch wenn wir über die Schlagzeilen hinaus auf die tatsächliche Entwicklung blicken, zeigt sich eine differenziertere Wirklichkeit: Künstliche Intelligenz ist weder ein automatischer Heilbringer noch ein unaufhaltsames Verhängnis, sondern ein mächtiges Werkzeug, dessen Auswirkungen von menschlichen Entscheidungen abhängen.",
+      "Einerseits lässt sich das transformative Potenzial intelligenter Systeme kaum überschätzen. In der medizinischen Diagnostik erkennen Algorithmen bereits heute Tumore in frühen Stadien präziser als das menschliche Auge und beschleunigen die Entwicklung maßgeschneiderter Medikamente erheblich. In der Klimaforschung optimieren lernende Modelle komplexe Stromnetze, sagen Extremwetterereignisse genauer voraus und helfen, den Energieverbrauch ganzer Städte zu senken. Darüber hinaus befreien digitale Assistenten Fachkräfte von zeitraubenden Routinearbeiten, sodass mehr Raum für schöpferische Forschung und menschliche Zuwendung entsteht.",
+      "Andererseits bergen unregulierte KI-Systeme erhebliche gesellschaftliche Risiken. Da Algorithmen aus historischen Datensätzen lernen, übernehmen und verstärken sie häufig bestehende menschliche Vorurteile – etwa bei automatisierten Bewerbungsverfahren oder Kreditvergaben. Hinzu kommt die wachsende Gefahr täuschend echter synthetischer Medien, sogenannter Deepfakes, mit denen öffentliche Meinungen manipuliert und demokratische Wahlen untergraben werden können. Gleichzeitig befürchten Ökonomen, dass eine zu rasche Automatisierung Millionen Arbeitsplätze im Dienstleistungs- und Wissenssektor verdrängen könnte, bevor neue Berufsfelder entstehen.",
+      "Letztendlich liegt die eigentliche Gefahr nicht darin, dass Maschinen plötzlich ein eigenes Bewusstsein entwickeln, sondern darin, dass Menschen ihre ethische Verantwortung voreilig an undurchsichtige Algorithmen abtreten. Durch verbindliche gesetzliche Leitplanken, algorithmische Transparenz und konsequente menschliche Aufsicht lässt sich sicherstellen, dass künstliche Intelligenz der menschlichen Würde dient, statt sie zu gefährden. Vielen Dank."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-031-01",
+        "question": "Wie bewertet der Redner die künstliche Intelligenz im ersten Absatz grundsätzlich?",
+        "reponses": [
+          { "id": "a", "texte": "Als eine reine Modeerscheinung, deren wirtschaftlicher Nutzen stark überschätzt wird.", "correcte": false },
+          { "id": "b", "texte": "Als unvermeidliche Bedrohung, die langfristig alle menschlichen Entscheidungen ersetzen wird.", "correcte": false },
+          { "id": "c", "texte": "Als mächtiges Instrument, dessen Folgen maßgeblich von menschlicher Gestaltung abhängen.", "correcte": true },
+          { "id": "d", "texte": "Als ungefährliche Software, die keinerlei staatliche Regulierung benötigt.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-031-02",
+        "question": "Welche konkreten Fortschritte durch KI nennt der Redner in der Medizin und Klimaforschung?",
+        "reponses": [
+          { "id": "a", "texte": "Die vollständige Heilung aller chronischen Krankheiten und das Stoppen der Erderwärmung.", "correcte": false },
+          { "id": "b", "texte": "Den Ersatz sämtlicher Klinikärzte und Meteorologen durch vollautomatische Roboter.", "correcte": false },
+          { "id": "c", "texte": "Die Senkung der globalen Gesundheitsausgaben auf die Hälfte innerhalb eines Jahrzehnts.", "correcte": false },
+          { "id": "d", "texte": "Frühzeitigere Krankheitserkennung, schnellere Medikamentenforschung und effizientere Energienetze.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-031-03",
+        "question": "Warum können KI-Systeme laut dem dritten Absatz bestehende Diskriminierung verstärken?",
+        "reponses": [
+          { "id": "a", "texte": "Weil sie mit historischen Daten trainiert werden, in denen menschliche Vorurteile bereits enthalten sind.", "correcte": true },
+          { "id": "b", "texte": "Weil Softwareentwickler absichtlich diskriminierende Regeln in Bewerbungsprogramme einbauen.", "correcte": false },
+          { "id": "c", "texte": "Weil Algorithmen grundsätzlich keine mathematischen Wahrscheinlichkeiten berechnen können.", "correcte": false },
+          { "id": "d", "texte": "Weil Unternehmen gesetzlich verpflichtet sind, ältere Bewerber auszusortieren.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-031-04",
+        "question": "Welche Gefahr geht laut dem Text von sogenannten Deepfakes aus?",
+        "reponses": [
+          { "id": "a", "texte": "Sie verlangsamen die weltweiten Internetverbindungen durch zu große Datenmengen.", "correcte": false },
+          { "id": "b", "texte": "Sie ermöglichen die Manipulation der Öffentlichkeit und gefährden demokratische Prozesse.", "correcte": true },
+          { "id": "c", "texte": "Sie machen klassische Filmproduktionen für große Studios unbezahlbar.", "correcte": false },
+          { "id": "d", "texte": "Sie führen dazu, dass Nutzer soziale Netzwerke vollständig meiden.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-031-05",
+        "question": "Was bedeutet das Verb „untergraben“ im dritten Absatz („demokratische Wahlen untergraben werden können“)?",
+        "reponses": [
+          { "id": "a", "texte": "Heimlich schwächen, aushöhlen und in ihrer Glaubwürdigkeit beschädigen.", "correcte": true },
+          { "id": "b", "texte": "Technisch absichern und vor äußeren Eingriffen schützen.", "correcte": false },
+          { "id": "c", "texte": "Statistisch auswerten und öffentlich dokumentieren.", "correcte": false },
+          { "id": "d", "texte": "Durch digitale Abstimmungen beschleunigen und vereinfachen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-031-06",
+        "question": "Worin sieht der Redner im Schlussabsatz das eigentliche Hauptrisiko der KI?",
+        "reponses": [
+          { "id": "a", "texte": "Dass Computer bald eigene Gefühle und politische Ambitionen entwickeln.", "correcte": false },
+          { "id": "b", "texte": "Dass die Stromkosten für Rechenzentren die Weltwirtschaft ruinieren.", "correcte": false },
+          { "id": "c", "texte": "Dass Menschen moralische Entscheidungen vorschnell an intransparente Systeme abgeben.", "correcte": true },
+          { "id": "d", "texte": "Dass junge Menschen das Interesse an naturwissenschaftlichen Studiengängen verlieren.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-031-07",
+        "question": "Welche Maßnahmen schlägt der Redner vor, um einen verantwortungsvollen Einsatz von KI zu gewährleisten?",
+        "reponses": [
+          { "id": "a", "texte": "Ein weltweites Verbot aller selbstlernenden Programme im Dienstleistungssektor.", "correcte": false },
+          { "id": "b", "texte": "Die alleinige Selbstkontrolle durch große internationale Technologiekonzerne.", "correcte": false },
+          { "id": "c", "texte": "Die Beschränkung von KI-Forschung auf staatliche Universitätslaboratorien.", "correcte": false },
+          { "id": "d", "texte": "Klare Gesetze, nachvollziehbare Algorithmen und dauerhafte menschliche Kontrolle.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-031-08",
+        "question": "Wie ist die Argumentationsstruktur dieser Rede aufgebaut?",
+        "reponses": [
+          { "id": "a", "texte": "Einseitige Verurteilung moderner Technologien anhand historischer Katastrophen.", "correcte": false },
+          { "id": "b", "texte": "Abwägung von Chancen und Risiken mit anschließendem Appell an ethische Regulierung.", "correcte": true },
+          { "id": "c", "texte": "Chronologische Geschichte der Computerentwicklung seit dem zwanzigsten Jahrhundert.", "correcte": false },
+          { "id": "d", "texte": "Persönlicher Erfahrungsbericht über den Arbeitsalltag eines Softwareentwicklers.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b032",
+    "titre": "Können wir unsere Privatsphäre im digitalen Zeitalter noch schützen?",
+    "titre2": "Exercice b032",
+    "texte": [
+      "Hannah: Hast du dir jemals überlegt, wie viel ein einziges Smartphone an einem ganz normalen Tag über uns verrät, Lukas? Als ich gestern nach einer Knieverletzung gegoogelt habe, erschienen keine zehn Minuten später auf all meinen sozialen Netzwerken Werbeanzeigen für orthopädische Bandagen. Es fühlt sich an, als lebten wir in einem gläsernen Haus ohne Vorhänge.",
+      "Lukas: Das Gefühl kenne ich nur zu gut, Hannah. Das Geschäftsmodell der meisten kostenlosen Internetdienste beruht ja gerade darauf, unsere digitalen Spuren – Standortdaten, Suchverläufe, Einkaufsgewohnheiten und Verweildauer – lückenlos zu erfassen und an Werbetreibende weiterzuverkaufen. Viele Menschen winken inzwischen resigniert ab und behaupten, Privatsphäre sei im einundzwanzigsten Jahrhundert ohnehin eine Illusion.",
+      "Hannah: Genau diese Resignation halte ich für gefährlich. Wenn Bürger glauben, dass jede ihrer Online-Bewegungen überwacht wird, entsteht ein schleichender Konformitätsdruck. Man zögert plötzlich, kontroverse politische Artikel zu lesen, medizinische Fragen zu recherchieren oder Minderheitenmeinungen zu äußern, weil man fürchtet, diese Daten könnten irgendwann gegen einen verwendet werden – etwa von Versicherungen oder künftigen Arbeitgebern.",
+"Lukas: Da hast du völlig recht. Privatsphäre ist kein Luxus für Menschen, die etwas zu verbergen haben, sondern eine Grundvoraussetzung für geistige Freiheit und Demokratie. Dennoch frage ich mich praktisch: Wie soll sich der Einzelne schützen, wenn man ohne digitale Dienste kaum noch am gesellschaftlichen und beruflichen Leben teilnehmen kann?",
+"Hannah: Völlige Unsichtbarkeit ist im Alltag tatsächlich unrealistisch, aber wir sind keineswegs machtlos. Schon einfache Schritte wie datenschutzfreundliche Suchmaschinen, verschlüsselte Messengerdienste, das regelmäßige Löschen von Tracking-Cookies und das Ablehnen unnötiger App-Berechtigungen reduzieren unsere Datenspur erheblich.",
+"Lukas: Und mindestens ebenso wichtig ist strenger politischer Druck. Individuelle Vorsicht allein reicht nicht aus, solange Konzerne seitenlange, unverständliche Datenschutzerklärungen nutzen. Wir brauchen griffige Gesetze, die Datensparsamkeit erzwingen und Missbrauch empfindlich bestrafen – damit Privatsphäre wieder der Standard wird und nicht zur mühsamen Ausnahme."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-032-01",
+"question": "Welches alltägliche Erlebnis löst Hannahs Besorgnis über den Datenschutz aus?",
+"reponses": [
+{ "id": "a", "texte": "Ihr Online-Banking-Konto wurde von unbekannten Hackern gesperrt.", "correcte": false },
+{ "id": "b", "texte": "Ihr Arbeitgeber überwachte ihre privaten E-Mails während der Arbeitszeit.", "correcte": false },
+{ "id": "c", "texte": "Kurz nach einer Internetsuche nach einer Verletzung sah sie überall passende Produktwerbung.", "correcte": true },
+{ "id": "d", "texte": "Sie erhielt eine hohe Rechnung für kostenpflichtige Smartphone-Apps.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-032-02",
+"question": "Worauf basiert laut Lukas das wirtschaftliche Konzept vieler kostenloser Online-Plattformen?",
+"reponses": [
+{ "id": "a", "texte": "Auf freiwilligen Spenden zufriedener Nutzerinnen und Nutzer.", "correcte": false },
+{ "id": "b", "texte": "Auf staatlichen Fördermitteln für digitale Bildung und Infrastruktur.", "correcte": false },
+{ "id": "c", "texte": "Auf dem Verkauf kostenpflichtiger Zusatzfunktionen für Geschäftskunden.", "correcte": false },
+{ "id": "d", "texte": "Auf dem systematischen Sammeln und Vermarkten persönlicher Nutzerdaten.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-032-03",
+"question": "Welche gesellschaftliche Folge befürchtet Hannah, wenn Menschen sich ständig beobachtet fühlen?",
+"reponses": [
+{ "id": "a", "texte": "Menschen passen ihr Verhalten aus Angst vor Nachteilen an und meiden kritische Themen.", "correcte": true },
+{ "id": "b", "texte": "Die Mehrheit der Bevölkerung verzichtet freiwillig auf Smartphones und Computer.", "correcte": false },
+{ "id": "c", "texte": "Werbeunternehmen verlieren das Interesse an personalisierten Online-Anzeigen.", "correcte": false },
+{ "id": "d", "texte": "Versicherungen senken ihre Beiträge für gesundheitsbewusste Internetnutzer.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-032-04",
+"question": "Warum hält Lukas die Privatsphäre für unverzichtbar?",
+"reponses": [
+{ "id": "a", "texte": "Weil sie verhindert, dass Nutzer zu viel Geld für Online-Einkäufe ausgeben.", "correcte": false },
+{ "id": "b", "texte": "Weil sie eine wesentliche Grundlage für freies Denken und eine funktionierende Demokratie bildet.", "correcte": true },
+{ "id": "c", "texte": "Weil nur Kriminelle ein berechtigtes Interesse an verschlüsselten Nachrichten haben.", "correcte": false },
+{ "id": "d", "texte": "Weil sie die Akkulaufzeit moderner Mobiltelefone deutlich verlängert.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-032-05",
+"question": "Was bedeutet die Wendung „winken inzwischen resigniert ab“ in Lukas’ erstem Beitrag?",
+"reponses": [
+{ "id": "a", "texte": "Geben entmutigt auf und halten Widerstand für zwecklos.", "correcte": true },
+{ "id": "b", "texte": "Begrüßen neue Technologien mit großer Begeisterung.", "correcte": false },
+{ "id": "c", "texte": "Protestieren lautstark vor den Zentralen großer Konzerne.", "correcte": false },
+{ "id": "d", "texte": "Kündigen ihre Mobilfunkverträge aus finanziellen Gründen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-032-06",
+"question": "Welche konkreten Schutzmaßnahmen empfiehlt Hannah für den Alltag?",
+"reponses": [
+{ "id": "a", "texte": "Ausschließlich öffentliche Computer in Stadtbibliotheken zu benutzen.", "correcte": false },
+{ "id": "b", "texte": "Regelmäßig eine neue Telefonnummer und E-Mail-Adresse anzulegen.", "correcte": false },
+{ "id": "c", "texte": "Sämtliche Online-Einkäufe nur noch über Freunde abzuwickeln.", "correcte": false },
+{ "id": "d", "texte": "Verschlüsselte Messenger, alternative Suchmaschinen, Cookie-Löschung und strenge App-Rechte.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-032-07",
+"question": "Was bedeutet das Adjektiv „griffige“ in Lukas’ letzter Aussage („wir brauchen griffige Gesetze“)?",
+"reponses": [
+{ "id": "a", "texte": "Wirksame, konkret durchsetzbare und praktisch greifende Gesetze.", "correcte": true },
+{ "id": "b", "texte": "Sehr kurze Gesetzestexte ohne juristische Fachbegriffe.", "correcte": false },
+{ "id": "c", "texte": "Freiwillige Richtlinien, an die sich Firmen nach Belieben halten können.", "correcte": false },
+{ "id": "d", "texte": "Veraltete Vorschriften aus der Zeit vor dem Internet.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-032-08",
+"question": "Worin stimmen Hannah und Lukas am Ende des Dialogs überein?",
+"reponses": [
+{ "id": "a", "texte": "Datenschutz ist im digitalen Alltag unmöglich geworden und sollte aufgegeben werden.", "correcte": false },
+{ "id": "b", "texte": "Persönliche Schutzgewohnheiten und strenge gesetzliche Vorgaben müssen zusammenwirken.", "correcte": true },
+{ "id": "c", "texte": "Nutzer sollten bereitwillig auf Privatsphäre verzichten, solange Apps kostenlos bleiben.", "correcte": false },
+{ "id": "d", "texte": "Nur IT-Experten sind in der Lage, ihre persönlichen Daten wirksam zu sichern.", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "b033",
+    "titre": "Fördern soziale Netzwerke die Meinungsfreiheit oder Desinformation?",
+    "titre2": "Exercice b033",
+    "texte": [
+      "Als die junge Lokaljournalistin Nora im Frühjahr über einen geplanten Industriepark am Stadtrand recherchierte, erlebte sie die zwiespältige Macht sozialer Netzwerke hautnah. Ursprünglich hatten engagierte Anwohner eine Online-Gruppe gegründet, um auf die drohende Zerstörung eines wertvollen Feuchtgebiets aufmerksam zu machen – ein Anliegen, das von den etablierten Regionalzeitungen zunächst kaum beachtet worden war. Binnen weniger Tage teilten Tausende Bürgerinnen und Bürger Fotos, ökologische Gutachten und Einladungen zu einer friedlichen Bürgerversammlung. Für Nora war dies ein eindrucksvoller Beleg dafür, wie digitale Plattformen die Meinungsfreiheit demokratisieren können, indem sie auch Menschen ohne politische Macht oder große Budgets eine öffentliche Stimme verleihen.",
+      "Doch schon eine Woche später kippte die Stimmung in derselben Online-Diskussion dramatisch. Ein anonymes Profil veröffentlichte ein manipuliertes Video, das fälschlicherweise behauptete, die Bürgerinitiative werde von ausländischen Konkurrenten finanziert, um heimische Arbeitsplätze zu vernichten. Empörte Kommentare überschlugen sich, sachliche Richtigstellungen gingen im Sekundentakt unter, und schließlich erhielten mehrere Organisatoren der Bürgerversammlung persönliche Drohungen. Nora beobachtete fassungslos, wie aus einem lebendigen demokratischen Forum innerhalb weniger Stunden ein vergiftetes Klima aus Misstrauen und Feindseligkeit wurde.",
+      "In den darauffolgenden Tagen analysierte Nora die Mechanismen hinter dieser Eskalation für einen Hintergrundbericht. Sie erkannte, dass Empfehlungsalgorithmen nicht nach Wahrheitsgehalt oder konstruktiver Argumentation sortieren, sondern nach maximaler emotionaler Erregung – denn Wut und Empörung halten Nutzer länger auf der Plattform und steigern die Werbeeinnahmen. Gleichzeitig ziehen sich viele besonnene Stimmen aus Angst vor digitalen Hasskampagnen freiwillig aus öffentlichen Debatten zurück, wodurch die Meinungsfreiheit paradoxerweise genau dort eingeschränkt wird, wo scheinbar jeder alles sagen darf. Am Ende ihrer Recherche gelangte Nora zu einer klaren Einsicht: Soziale Netzwerke erweitern zwar die Möglichkeiten freier Meinungsäußerung erheblich, doch ohne transparente Algorithmen, konsequentes Vorgehen gegen gezielte Falschinformationen und eine gestärkte Medienkompetenz der Nutzer droht die lauteste Lüge die leise Wahrheit dauerhaft zu übertönen."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-033-01",
+        "question": "Wie nutzten die Anwohner soziale Netzwerke zu Beginn von Noras Recherche?",
+        "reponses": [
+          { "id": "a", "texte": "Um anonyme Gerüchte über die Bürgermeisterin der Stadt zu verbreiten.", "correcte": false },
+          { "id": "b", "texte": "Um gegen höhere Grundsteuern in neu gebauten Wohngebieten zu protestieren.", "correcte": false },
+          { "id": "c", "texte": "Um auf die Gefährdung eines Feuchtgebiets hinzuweisen, über die kaum berichtet wurde.", "correcte": true },
+          { "id": "d", "texte": "Um Spenden für den Bau eines modernen Einkaufszentrums zu sammeln.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-033-02",
+        "question": "Wodurch schlug die sachliche Debatte in der Online-Gruppe plötzlich um?",
+        "reponses": [
+          { "id": "a", "texte": "Die Regionalzeitung verbot ihren Journalisten, weiter über den Konflikt zu schreiben.", "correcte": false },
+          { "id": "b", "texte": "Ein gefälschtes Video unterstellte den Initiatoren unlautere finanzielle Motive.", "correcte": true },
+          { "id": "c", "texte": "Die Stadtverwaltung schaltete das Internet im gesamten Stadtteil vorübergehend ab.", "correcte": false },
+          { "id": "d", "texte": "Die Organisatoren der Bürgerversammlung sagten das Treffen ohne Begründung ab.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-033-03",
+        "question": "Warum werden emotionale und empörende Beiträge von sozialen Plattformen bevorzugt verbreitet?",
+        "reponses": [
+          { "id": "a", "texte": "Weil Algorithmen Inhalte belohnen, die starke Gefühle wecken und Nutzer lange binden.", "correcte": true },
+          { "id": "b", "texte": "Weil sachliche Artikel technisch nicht mit Bildern oder Videos verknüpft werden können.", "correcte": false },
+          { "id": "c", "texte": "Weil gesetzliche Vorschriften eine Gleichbehandlung von Fakten und Gerüchten verlangen.", "correcte": false },
+          { "id": "d", "texte": "Weil Redakteure alle eingehenden Beiträge manuell nach Unterhaltungswert sortieren.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-033-04",
+        "question": "Welches Paradoxon beschreibt Nora im dritten Absatz hinsichtlich der Meinungsfreiheit?",
+        "reponses": [
+          { "id": "a", "texte": "Je mehr Nutzer ein Netzwerk hat, desto weniger Beiträge werden täglich veröffentlicht.", "correcte": false },
+          { "id": "b", "texte": "Journalisten dürfen zwar alles schreiben, werden aber von Lesern nicht mehr bezahlt.", "correcte": false },
+          { "id": "c", "texte": "Obwohl theoretisch jeder mitreden kann, verstummen viele besonnene Menschen aus Angst vor Hass.", "correcte": true },
+          { "id": "d", "texte": "Regierungen verbieten Falschmeldungen, fördern aber gleichzeitig anonyme Hetzkampagnen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-033-05",
+        "question": "Was bedeutet das Adjektiv „besonnene“ im dritten Absatz („viele besonnene Stimmen“)?",
+        "reponses": [
+          { "id": "a", "texte": "Überlegte, ruhige und sachlich argumentierende.", "correcte": true },
+          { "id": "b", "texte": "Laute, aggressive und kompromisslose.", "correcte": false },
+          { "id": "c", "texte": "Uninformierte und leichtgläubige.", "correcte": false },
+          { "id": "d", "texte": "Berühmte und politisch einflussreiche.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-033-06",
+        "question": "Was bedeutet die Wendung „überschlugen sich“ im zweiten Absatz („Empörte Kommentare überschlugen sich“)?",
+        "reponses": [
+          { "id": "a", "texte": "Sie wurden von Moderatoren sofort wieder gelöscht.", "correcte": false },
+          { "id": "b", "texte": "Sie folgten extrem schnell und in großer Zahl aufeinander.", "correcte": true },
+          { "id": "c", "texte": "Sie enthielten ausführliche wissenschaftliche Quellenangaben.", "correcte": false },
+          { "id": "d", "texte": "Sie führten zu einer friedlichen Einigung aller Beteiligten.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-033-07",
+        "question": "Welche drei Voraussetzungen nennt Nora, damit soziale Netzwerke der Demokratie dienen?",
+        "reponses": [
+          { "id": "a", "texte": "Ein Verbot anonymer Konten, staatliche Zensur und kostenpflichtige Mitgliedschaften.", "correcte": false },
+          { "id": "b", "texte": "Die Schließung regionaler Zeitungen, höhere Werbeeinnahmen und längere Videos.", "correcte": false },
+          { "id": "c", "texte": "Freiwillige Selbstverpflichtungen der Nutzer, kürzere Texte und weniger Kommentarfunktionen.", "correcte": false },
+          { "id": "d", "texte": "Durchschaubare Algorithmen, Bekämpfung von Desinformation und bessere Medienbildung.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-033-08",
+        "question": "Welche Gesamtaussage vermittelt Noras journalistische Beobachtung?",
+        "reponses": [
+          { "id": "a", "texte": "Soziale Medien sind für politische Diskussionen völlig ungeeignet und sollten gemieden werden.", "correcte": false },
+          { "id": "b", "texte": "Digitale Plattformen stärken zwar die Teilhabe, können aber ohne Regeln durch Desinformation verzerrt werden.", "correcte": true },
+          { "id": "c", "texte": "Manipulierte Videos haben in der Praxis kaum Einfluss auf das Verhalten der Bürger.", "correcte": false },
+          { "id": "d", "texte": "Nur klassische Tageszeitungen sollten das Recht besitzen, über Umweltprojekte zu berichten.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b034",
+    "titre": "Bildschirmabhängigkeit bei jüngeren Generationen",
+    "titre2": "Exercice b034",
+    "texte": [
+      "Moderatorin: Willkommen zu „Familie und Gesellschaft“. Smartphones, Tablets und Spielkonsolen gehören heute zum selbstverständlichen Alltag von Kindern und Jugendlichen. Doch viele Eltern beobachten mit wachsender Sorge, wie schwer es ihren Kindern fällt, digitale Geräte wieder aus der Hand zu legen. Darüber sprechen wir heute mit dem Kinder- und Jugendpsychiater Dr. Martin Berg. Herr Dr. Berg, wann spricht man aus medizinischer Sicht eigentlich von einer echten Bildschirmabhängigkeit?",
+      "Dr. Berg: Vielen Dank. Nicht jede intensive Nutzung ist sofort eine Sucht. Entscheidend ist nicht allein die reine Stundenzahl, sondern der Kontrollverlust und die Verdrängung anderer Lebensbereiche. Wenn Jugendliche reale Freundschaften vernachlässigen, schulische Leistungen deutlich einbrechen, Schlafstörungen auftreten und schon kurze bildschirmfreie Phasen zu heftiger Gereiztheit oder Unruhe führen, dann liegen klare Warnsignale einer problematischen Abhängigkeit vor.",
+      "Moderatorin: Warum fällt es gerade jungen Menschen so schwer, ein gesundes Maß zu finden?",
+      "Dr. Berg: Das hat sowohl neurobiologische als auch technische Gründe. Das jugendliche Gehirn befindet sich noch im Umbau; insbesondere der präfrontale Kortex, der für Impulskontrolle und langfristige Planung zuständig ist, reift erst im jungen Erwachsenenalter vollständig aus. Gleichzeitig nutzen App-Entwickler gezielte psychologische Mechanismen wie unendliches Scrollen, automatische Videowiedergabe und unvorhersehbare Belohnungen durch Likes, um das Belohnungssystem im Gehirn dauerhaft zu reizen.",
+"Moderatorin: Viele Eltern reagieren darauf mit strengen Verboten oder dem kompletten Entzug der Geräte. Ist das der richtige Weg?",
+"Dr. Berg: Radikale Verbote lösen das Problem selten dauerhaft, sondern führen oft zu heimlicher Nutzung oder heftigen Familienkonflikten. Viel wirksamer sind gemeinsam vereinbarte, verlässliche Regeln – etwa bildschirmfreie Zeiten beim Essen und eine Stunde vor dem Schlafengehen – sowie attraktive analoge Alternativen wie Vereinssport, Musik oder gemeinsame Unternehmungen. Entscheidend ist zudem die Vorbildfunktion der Erwachsenen: Wer selbst ständig auf sein Smartphone blickt, kann von Jugendlichen kaum digitale Selbstbeherrschung verlangen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-034-01",
+"question": "Woran erkennt man laut Dr. Berg eine problematische Bildschirmabhängigkeit vor allem?",
+"reponses": [
+{ "id": "a", "texte": "Daran, dass ein Jugendlicher täglich mehr als zwei Stunden am Computer arbeitet.", "correcte": false },
+{ "id": "b", "texte": "Daran, dass soziale Kontakte, Schule und Schlaf leiden und Pausen zu starker Unruhe führen.", "correcte": true },
+{ "id": "c", "texte": "Daran, dass Kinder digitale Lernprogramme lieber nutzen als gedruckte Schulbücher.", "correcte": false },
+{ "id": "d", "texte": "Daran, dass Jugendliche regelmäßig mit Freunden über Online-Spiele sprechen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-034-02",
+"question": "Welcher biologische Faktor erschwert Jugendlichen die Selbstkontrolle bei digitalen Medien?",
+"reponses": [
+{ "id": "a", "texte": "Ihr Sehvermögen reagiert empfindlicher auf das blaue Licht moderner Bildschirme.", "correcte": false },
+{ "id": "b", "texte": "Ihr Schlafbedürfnis ist deutlich geringer als das von Erwachsenen.", "correcte": false },
+{ "id": "c", "texte": "Die für Impulskontrolle zuständige Gehirnregion ist noch nicht vollständig entwickelt.", "correcte": true },
+{ "id": "d", "texte": "Ihr Gedächtnis speichert digitale Informationen schneller als gesprochene Worte.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-034-03",
+"question": "Wie halten digitale Plattformen junge Nutzer gezielt möglichst lange auf dem Bildschirm?",
+"reponses": [
+{ "id": "a", "texte": "Durch verpflichtende tägliche Anwesenheitspunkte für schulische Lernplattformen.", "correcte": false },
+{ "id": "b", "texte": "Durch das Blockieren von Benachrichtigungen während der Nachtstunden.", "correcte": false },
+{ "id": "c", "texte": "Durch kostenlose Gutscheine für längere Spielzeiten am Wochenende.", "correcte": false },
+{ "id": "d", "texte": "Durch endloses Scrollen, automatisches Abspielen und wechselnde soziale Bestätigung.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-034-04",
+"question": "Warum rät Dr. Berg von radikalen Bildschirmverboten durch Eltern ab?",
+"reponses": [
+{ "id": "a", "texte": "Weil sie meist nur zu heimlichem Konsum und schweren Spannungen in der Familie führen.", "correcte": true },
+{ "id": "b", "texte": "Weil Jugendliche ohne Smartphones keine Hausaufgaben mehr erledigen können.", "correcte": false },
+{ "id": "c", "texte": "Weil solche Verbote gegen das gesetzliche Recht auf Informationsfreiheit verstoßen.", "correcte": false },
+{ "id": "d", "texte": "Weil Kinder dadurch den Anschluss an wichtige soziale Gruppen verlieren.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-034-05",
+"question": "Was bedeutet das Verb „reizen“ in Dr. Bergs zweiter Antwort („das Belohnungssystem im Gehirn dauerhaft zu reizen“)?",
+"reponses": [
+{ "id": "a", "texte": "Beruhigen und in einen tiefen Ruhezustand versetzen.", "correcte": false },
+{ "id": "b", "texte": "Übermäßig stimulieren und immer wieder anregen.", "correcte": true },
+{ "id": "c", "texte": "Dauerhaft schädigen und funktionsunfähig machen.", "correcte": false },
+{ "id": "d", "texte": "Vor äußeren Ablenkungen zuverlässig abschirmen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-034-06",
+"question": "Welche konstruktiven Schritte empfiehlt Dr. Berg Familien stattdessen?",
+"reponses": [
+{ "id": "a", "texte": "Den Kauf von Smartphones grundsätzlich bis zum achtzehnten Lebensjahr aufzuschieben.", "correcte": false },
+{ "id": "b", "texte": "Bildschirmzeiten an gute Schulnoten und erledigte Hausarbeiten zu koppeln.", "correcte": false },
+{ "id": "c", "texte": "Klare gemeinsame Ruhezeiten, attraktive Freizeitaktivitäten und ein gutes eigenes Vorbild.", "correcte": true },
+{ "id": "d", "texte": "Jugendliche ihre Mediennutzung völlig selbstständig ohne elterliche Regeln steuern zu lassen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-034-07",
+"question": "Was bedeutet das Adjektiv „analoge“ in „attraktive analoge Alternativen“?",
+"reponses": [
+{ "id": "a", "texte": "Nicht-digitale Aktivitäten in der realen physischen Welt.", "correcte": true },
+{ "id": "b", "texte": "Besonders kostspielige Freizeitangebote in Großstädten.", "correcte": false },
+{ "id": "c", "texte": "Wissenschaftlich geprüfte Lernspiele auf dem Tablet.", "correcte": false },
+{ "id": "d", "texte": "Sportarten, die ausschließlich allein ausgeübt werden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-034-08",
+"question": "Welche Rolle schreibt Dr. Berg den Eltern im letzten Satz zu?",
+"reponses": [
+{ "id": "a", "texte": "Sie sollten technische Sperrprogramme auf allen Geräten ihrer Kinder installieren.", "correcte": false },
+{ "id": "b", "texte": "Sie müssen selbst einen bewussten Umgang mit digitalen Geräten vorleben.", "correcte": true },
+{ "id": "c", "texte": "Sie tragen keine Verantwortung, da allein die App-Entwickler schuld sind.", "correcte": false },
+{ "id": "d", "texte": "Sie sollten das Thema Mediennutzung vollständig den Schulen überlassen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b035",
+"titre": "Machen neue Technologien den Einzelnen unabhängiger?",
+"titre2": "Exercice b035",
+"texte": [
+"Mit einem einzigen Fingertipp auf ein glattes Display können heutige Bürgerinnen und Bürger Bankgeschäfte erledigen, eine Fremdsprache erlernen, eine Reise quer durch Europa buchen oder freiberuflich für Auftraggeber auf der anderen Seite der Welt arbeiten. Auf den ersten Blick scheinen moderne Technologien ein jahrhundertealtes menschliches Ideal verwirklicht zu haben: maximale individuelle Autonomie. Befreit von starren Öffnungszeiten, geografischen Beschränkungen und traditionellen Vermittlern verfügt der Einzelne heute über Werkzeuge, die früher ganzen Institutionen vorbehalten waren. Dennoch wirft ein genauerer Blick auf unseren technisierten Alltag eine paradoxe Frage auf: Befreien uns diese Technologien tatsächlich – oder tauschen wir bloß sichtbare Zwänge gegen eine subtilere, unsichtbare Abhängigkeit ein?",
+"Befürworter technologischer Selbstbestimmung verweisen auf eindrucksvolle Gewinne im Alltag. Menschen mit körperlichen Einschränkungen gewinnen durch Sprachsteuerung, intelligente Prothesen und digitale Barrierefreiheit ein bisher unerreichtes Maß an Mobilität und Teilhabe. Ebenso ermöglichen Online-Bildungsplattformen und digitale Werkzeuge selbstständigen Kreativen, Handwerkern und Kleinunternehmern, ohne große Kapitalgeber eigene Existenzgrundlagen aufzubauen. In all diesen Bereichen erweitert Technologie zweifellos den persönlichen Handlungsspielraum.",
+"Andererseits erzeugt unsere wachsende Verflechtung mit digitalen Infrastrukturen eine tiefgreifende neue Verwundbarkeit. Viele Menschen verlernen allmählich grundlegende Alltagsfähigkeiten – etwa sich ohne Navigationssystem in einer fremden Stadt zu orientieren, Kopfrechnen anzuwenden oder ohne automatische Rechtschreibprüfung fehlerfrei zu schreiben. Noch schwerer wiegt die strukturelle Abhängigkeit von wenigen großen Technologiekonzernen und stabilen Strom- sowie Datennetzen. Fällt ein zentraler Cloud-Dienst aus oder wird ein digitales Benutzerkonto gesperrt, verlieren Betroffene oft schlagartig den Zugriff auf ihre Dokumente, Zahlungsmittel und beruflichen Kontakte.",
+"Letztlich ist technologische Unabhängigkeit kein automatisches Geschenk moderner Geräte, sondern eine bewusste Kulturtechnik. Wer digitale Werkzeuge souverän nutzt, ohne seine eigenen kognitiven Fähigkeiten und analogen Ausweichmöglichkeiten verkümmern zu lassen, gewinnt tatsächlich an Freiheit. Wer hingegen jedes Denken und Entscheiden an komfortable Systeme delegiert, macht sich unbemerkt zum abhängigen Passagier seiner eigenen Werkzeuge."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-035-01",
+"question": "Welchen Widerspruch beleuchtet der Autor im ersten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Moderne Geräte werden zwar immer günstiger, sind aber für ältere Menschen kaum bedienbar.", "correcte": false },
+{ "id": "b", "texte": "Technik verspricht maximale persönliche Freiheit, kann aber zugleich neue, unsichtbare Abhängigkeiten schaffen.", "correcte": true },
+{ "id": "c", "texte": "Internetverbindungen werden schneller, während die Qualität digitaler Inhalte stetig abnimmt.", "correcte": false },
+{ "id": "d", "texte": "Berufstätige arbeiten heute heute mehr von zu Hause, verdienen aber deutlich weniger als früher.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-035-02",
+"question": "Für welche Personengruppen bedeuten moderne Technologien laut dem zweiten Absatz einen besonders großen Freiheitsgewinn?",
+"reponses": [
+{ "id": "a", "texte": "Für Bankangestellte und Reisebüromitarbeiter in großen Metropolen.", "correcte": false },
+{ "id": "b", "texte": "Für politische Entscheidungsträger und Beamte in öffentlichen Verwaltungen.", "correcte": false },
+{ "id": "c", "texte": "Für Menschen mit Behinderungen sowie für unabhängige Kreative und Kleinunternehmer.", "correcte": true },
+{ "id": "d", "texte": "Für Studierende, die lieber gedruckte Fachbücher als digitale Texte lesen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-035-03",
+"question": "Welche Auswirkungen hat die ständige Nutzung digitaler Hilfsmittel auf unsere eigenen Fähigkeiten?",
+"reponses": [
+{ "id": "a", "texte": "Grundlegende Fertigkeiten wie Orientierungssinn, Kopfrechnen und Rechtschreibung gehen oft verloren.", "correcte": true },
+{ "id": "b", "texte": "Menschen lernen deutlich schneller, komplexe Landkarten auswendig zu zeichnen.", "correcte": false },
+{ "id": "c", "texte": "Die Konzentrationsfähigkeit beim Lesen langer Texte nimmt messbar zu.", "correcte": false },
+{ "id": "d", "texte": "Berufstätige benötigen weniger Zeit für die Einarbeitung in neue Softwareprogramme.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-035-04",
+"question": "Worin besteht laut dem dritten Absatz eine strukturelle Verwundbarkeit in der digitalen Welt?",
+"reponses": [
+{ "id": "a", "texte": "In der zu geringen Speicherkapazität moderner Smartphones.", "correcte": false },
+{ "id": "b", "texte": "Im Mangel an kostenlosen Online-Kursen für Fremdsprachen.", "correcte": false },
+{ "id": "c", "texte": "In den hohen Versandkosten bei internationalen Online-Bestellungen.", "correcte": false },
+{ "id": "d", "texte": "In der Abhängigkeit von wenigen Konzernen und Netzen, deren Ausfall sofort den Zugang zu Daten blockiert.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-035-05",
+"question": "Was bedeutet das Verb „verkümmern“ im letzten Absatz („ohne seine eigenen kognitiven Fähigkeiten ... verkümmern zu lassen“)?",
+"reponses": [
+{ "id": "a", "texte": "Durch mangelnde Nutzung schwach werden und allmählich verloren gehen.", "correcte": true },
+{ "id": "b", "texte": "Sich durch regelmäßiges Training stetig weiterentwickeln.", "correcte": false },
+{ "id": "c", "texte": "Von anderen Menschen öffentlich bewundert werden.", "correcte": false },
+{ "id": "d", "texte": "In wissenschaftlichen Studien genau vermessen werden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-035-06",
+"question": "Was impliziert die Metapher „zum abhängigen Passagier seiner eigenen Werkzeuge“ am Ende des Textes?",
+"reponses": [
+{ "id": "a", "texte": "Dass autonome Elektroautos den öffentlichen Nahverkehr bald vollständig ersetzen werden.", "correcte": false },
+{ "id": "b", "texte": "Dass Menschen die Kontrolle über ihr Handeln verlieren, wenn sie Entscheidungen blind an Technik abgeben.", "correcte": true },
+{ "id": "c", "texte": "Dass Geschäftsreisende während langer Flugreisen produktiver arbeiten können.", "correcte": false },
+{ "id": "d", "texte": "Dass digitale Geräte nur auf Reisen im Ausland wirklich nützlich sind.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-035-07",
+"question": "Was bedeutet das Adjektiv „souverän“ im letzten Absatz („Wer digitale Werkzeuge souverän nutzt“)?",
+"reponses": [
+{ "id": "a", "texte": "Zögerlich und mit ständiger Angst vor technischen Fehlern.", "correcte": false },
+{ "id": "b", "texte": "Ausschließlich für berufliche Zwecke und niemals in der Freizeit.", "correcte": false },
+{ "id": "c", "texte": "Selbstbestimmt, kompetent und überlegen steuernd.", "correcte": true },
+{ "id": "d", "texte": "Ohne Beachtung gesetzlicher Datenschutzvorschriften.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-035-08",
+"question": "Welche Hauptthese fasst den gesamten Essay am treffendsten zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Nur ein vollständiger Verzicht auf moderne Technik garantiert wahre menschliche Freiheit.", "correcte": false },
+{ "id": "b", "texte": "Digitale Technologien machen jeden Menschen automatisch unabhängiger als frühere Generationen.", "correcte": false },
+{ "id": "c", "texte": "Regierungen sollten alle großen Technologiekonzerne verstaatlichen, um Netzausfälle zu verhindern.", "correcte": false },
+{ "id": "d", "texte": "Technologie vergrößert unsere Freiheit nur dann, wenn wir eigene Kompetenzen und Alternativen bewahren.", "correcte": true }
+]
+}
+]
+},
+{
+"id": "b036",
+"titre": "Können Roboter den Menschen in bestimmten Bereichen ersetzen?",
+"titre2": "Exercice b036",
+"texte": [
+"Sehr geehrte Damen und Herren, liebe Kolleginnen und Kollegen, geschätzte Gäste,",
+"wenn wir heute durch hochmoderne Automobilwerke, vollautomatische Logistikzentren oder spezialisierte Operationssäle blicken, begegnen wir einer technologischen Realität, die vor wenigen Jahrzehnten noch als reine Zukunftsfantasie galt. Hochentwickelte Industrieroboter schweißen Karosserien mit millimetergenauer Präzision, autonome Transportfahrzeuge sortieren Tausende Pakete pro Stunde, und chirurgische Assistenzsysteme ermöglichen minimalinvasive Eingriffe mit ruhigerer Hand, als es einem menschlichen Chirurgen jemals möglich wäre. Angesichts dieser beeindruckenden Leistungsfähigkeit stellt sich unweigerlich die Frage: In welchen Bereichen können und sollten Roboter den Menschen tatsächlich ersetzen – und wo verlaufen unüberschreitbare menschliche Grenzen?",
+"Einerseits gibt es zahlreiche Tätigkeitsfelder, in denen der Einsatz von Robotern nicht nur wirtschaftlich sinnvoll, sondern auch humanitär geboten ist. Überall dort, wo Arbeiten gefährlich, gesundheitsschädlich oder extrem eintönig sind – etwa bei der Bergung von Verschütteten in Einsturzgebieten, bei der Entschärfung von Sprengkörpern, in der Tiefseeforschung oder beim Heben schwerer Lasten –, schützen Maschinen menschliches Leben und bewahren Beschäftigte vor chronischen körperlichen Schäden. Zudem übertreffen präzise programmierte Systeme den Menschen deutlich bei wiederholten Qualitätskontrollen, da sie weder unter Müdigkeit noch unter Konzentrationsschwankungen leiden.",
+"Andererseits stößt die Ersetzbarkeit des Menschen dort an fundamentale Grenzen, wo Empathie, moralisches Urteilsvermögen und echte zwischenmenschliche Beziehung im Mittelpunkt stehen. In der Alten- und Krankenpflege, in der frühkindlichen Erziehung oder in der psychologischen Beratung mag ein Pflegeroboter zwar Medikamente pünktlich anreichen oder Vitalwerte überwachen; er kann jedoch niemals das tröstende Halten einer Hand, das intuitive Erspüren unausgesprochener Angst oder authentische menschliche Wärme ersetzen. Ebenso verlangen rechtliche, pädagogische und ethische Entscheidungen ein tiefes Verständnis sozialer Zusammenhänge und persönlicher Verantwortung, über die keine Maschine verfügt.",
+"Letztendlich sollten wir Robotik nicht als Wettkampf zwischen Mensch und Maschine begreifen, sondern als sinnvolle Arbeitsteilung. Indem Roboter gefährliche und mechanische Aufgaben übernehmen, verschaffen sie uns den Freiraum, unsere spezifisch menschlichen Stärken – Mitgefühl, Kreativität und moralische Verantwortung – noch intensiver einzubringen. Vielen Dank für Ihre Aufmerksamkeit."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-036-01",
+"question": "Welche Beispiele moderner Robotik nennt der Redner zu Beginn seines Vortrags?",
+"reponses": [
+{ "id": "a", "texte": "Vollautomatische Grundschulen, selbstfahrende Kreuzfahrtschiffe und digitale Richter.", "correcte": false },
+{ "id": "b", "texte": "Schweißroboter in Autofabriken, Sortierfahrzeuge in der Logistik und chirurgische Assistenzsysteme.", "correcte": true },
+{ "id": "c", "texte": "Haushaltsroboter, die sämtliche Erziehungsaufgaben in jungen Familien übernehmen.", "correcte": false },
+{ "id": "d", "texte": "Künstliche Musiker, die klassische Sinfonieorchester vollständig abgelöst haben.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-036-02",
+"question": "Warum bezeichnet der Redner den Einsatz von Robotern in bestimmten Bereichen als „humanitär geboten“?",
+"reponses": [
+{ "id": "a", "texte": "Weil Roboter Unternehmen helfen, Steuern zu sparen und höhere Dividenden auszuzahlen.", "correcte": false },
+{ "id": "b", "texte": "Weil Maschinen keine Gehaltserhöhungen verlangen und niemals streiken.", "correcte": false },
+{ "id": "c", "texte": "Weil sie Menschen vor lebensgefährlichen Einsätzen und körperlicher Überlastung bewahren.", "correcte": true },
+{ "id": "d", "texte": "Weil Verbraucher Produkte bevorzugen, die ohne menschliche Beteiligung hergestellt wurden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-036-03",
+"question": "Welchen Vorteil besitzen Maschinen laut dem zweiten Absatz bei wiederholten Kontrollaufgaben?",
+"reponses": [
+{ "id": "a", "texte": "Sie können unerwartete Designfehler eigenständig durch künstlerische Intuition verbessern.", "correcte": false },
+{ "id": "b", "texte": "Sie ermüden nicht und arbeiten dauerhaft mit gleichbleibender Genauigkeit.", "correcte": true },
+{ "id": "c", "texte": "Sie benötigen keinerlei regelmäßige Wartung oder technische Überprüfung.", "correcte": false },
+{ "id": "d", "texte": "Sie übernehmen gleichzeitig die Kundenberatung im Einzelhandel.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-036-04",
+"question": "Wo verlaufen laut dem dritten Absatz unüberschreitbare Grenzen für den Einsatz von Robotern?",
+"reponses": [
+{ "id": "a", "texte": "In der industriellen Massenproduktion und bei der Lagerverwaltung.", "correcte": false },
+{ "id": "b", "texte": "Bei der Berechnung komplexer meteorologischer Klimamodelle.", "correcte": false },
+{ "id": "c", "texte": "In Bereichen, die Mitgefühl, moralische Verantwortung und echte menschliche Nähe erfordern.", "correcte": true },
+{ "id": "d", "texte": "Bei der Überwachung von Blutdruck und Körpertemperatur im Krankenhaus.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-036-05",
+"question": "Was bedeutet das Adjektiv „eintönig“ im zweiten Absatz („gefährlich, gesundheitsschädlich oder extrem eintönig“)?",
+"reponses": [
+{ "id": "a", "texte": "Monoton, langweilig und sich ständig ohne Abwechslung wiederholend.", "correcte": true },
+{ "id": "b", "texte": "Geistig anspruchsvoll und akademisch hochkomplex.", "correcte": false },
+{ "id": "c", "texte": "Besonders laut und akustisch belastend.", "correcte": false },
+{ "id": "d", "texte": "Finanziell lukrativ und gesellschaftlich hoch angesehen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-036-06",
+"question": "Was kann ein Pflegeroboter laut dem Text zwar leisten, aber niemals ersetzen?",
+"reponses": [
+{ "id": "a", "texte": "Er kann chirurgische Operationen durchführen, aber keine Medikamente bestellen.", "correcte": false },
+{ "id": "b", "texte": "Er kann Krankenakten verwalten, aber keine Raumtemperaturen regulieren.", "correcte": false },
+{ "id": "c", "texte": "Er kann schwere Betten schieben, aber keine Vitalwerte auf einem Bildschirm anzeigen.", "correcte": false },
+{ "id": "d", "texte": "Er kann Medikamente bringen und Werte messen, aber keine echte Zuwendung und Tröstung geben.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-036-07",
+"question": "Warum können Maschinen laut dem dritten Absatz keine rechtlichen oder ethischen Entscheidungen treffen?",
+"reponses": [
+{ "id": "a", "texte": "Weil Computerprozessoren für juristische Datenbanken noch zu langsam arbeiten.", "correcte": false },
+{ "id": "b", "texte": "Weil Gesetze sich zu häufig ändern, um sie digital zu speichern.", "correcte": false },
+{ "id": "c", "texte": "Weil ihnen soziales Verständnis und die Fähigkeit zur persönlichen Verantwortung fehlen.", "correcte": true },
+{ "id": "d", "texte": "Weil Gerichte den Einsatz moderner Textverarbeitungsprogramme verbieten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-036-08",
+"question": "Wie beschreibt der Redner das ideale Verhältnis zwischen Mensch und Roboter im Schlussabsatz?",
+"reponses": [
+{ "id": "a", "texte": "Als ergänzende Partnerschaft, bei der Technik Routine übernimmt und Menschen ihre sozialen Stärken entfalten.", "correcte": true },
+{ "id": "b", "texte": "Als unvermeidlichen Verdrängungswettbewerb, den langfristig nur hochspezialisierte Ingenieure gewinnen.", "correcte": false },
+{ "id": "c", "texte": "Als vorübergehende Phase, nach der Roboter wieder aus allen Arbeitsbereichen entfernt werden.", "correcte": false },
+{ "id": "d", "texte": "Als vollständige Übergabe aller gesellschaftlichen Aufgaben an autonome Systeme.", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "b037",
+    "titre": "Der Schutz persönlicher Daten: Eine große Herausforderung des 21. Jahrhunderts",
+    "titre2": "Exercice b037",
+    "texte": [
+      "Sehr geehrte Damen und Herren, geschätzte Juristinnen und Juristen, liebe Gäste,",
+      "in den vergangenen Jahren hat sich ein geflügeltes Wort in der digitalen Wirtschaft etabliert: Daten seien das neue Öl des einundzwanzigsten Jahrhunderts. Doch dieser vielzitierte Vergleich hinkt in einem entscheidenden Punkt. Während Erdöl aus tiefen Gesteinsschichten gefördert wird, stammen persönliche Daten unmittelbar aus dem alltäglichen Leben von Millionen Bürgerinnen und Bürgern – aus unseren Suchanfragen, unseren Standortverläufen, unseren Einkäufen und unseren intimsten medizinischen Recherchen. Angesichts einer rasant wachsenden Datenökonomie stellt sich daher die Frage, wie wir den Schutz unserer persönlichen Informationen wirksam gewährleisten können, ohne den technologischen Fortschritt abzuwürgen.",
+      "Einerseits lässt sich nicht leugnen, dass die Auswertung großer Datenmengen erheblichen gesellschaftlichen Nutzen stiften kann. In der Gesundheitsforschung helfen anonymisierte Patientendaten dabei, seltene Nebenwirkungen von Medikamenten frühzeitig zu erkennen und Epidemien schneller einzudämmen. Ebenso nutzen Kommunen Verkehrs- und Umweltdaten, um den öffentlichen Nahverkehr bedarfsgerecht zu planen und den Schadstoffausstoß in Innenstädten zu verringern. Mit anderen Worten: Datenverarbeitung an sich ist keineswegs schädlich, sofern sie transparent und gemeinwohlorientiert erfolgt.",
+      "Andererseits gerät das Grundrecht auf informationelle Selbstbestimmung massiv unter Druck, sobald wirtschaftliche Gewinninteressen oder staatliche Überwachungswünsche überhandnehmen. Viele Online-Dienste verknüpfen kostenlose Angebote mit seitenlangen, juristisch verklausulierten Einwilligungserklärungen, die im Alltag kaum jemand vollständig liest. Dadurch entsteht eine asymmetrische Machtverteilung: Wenige globale Konzerne wissen mehr über die Vorlieben, Ängste und Schwächen eines Menschen als dessen engstes Umfeld, während der Einzelne kaum nachvollziehen kann, wer seine Informationen speichert oder weiterverkauft.",
+      "Letztendlich ist der Datenschutz kein verstaubtes bürokratisches Hindernis, sondern ein unverzichtbarer Schutzschild der menschlichen Würde im digitalen Raum. Wirksame Gesetzgebung nach dem Prinzip der Datensparsamkeit, empfindliche Strafen bei Datenmissbrauch sowie verständliche digitale Aufklärung von klein auf müssen Hand in Hand gehen. Nur wenn Bürgerinnen und Bürger die Hoheit über ihre eigenen Daten behalten, bleibt die digitale Gesellschaft eine Gesellschaft freier Menschen. Vielen Dank."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-037-01",
+        "question": "Warum hält der Redner den Vergleich zwischen persönlichen Daten und Erdöl für unzutreffend?",
+        "reponses": [
+          { "id": "a", "texte": "Weil persönliche Daten im Gegensatz zu Erdöl nur in begrenzter Menge vorhanden sind.", "correcte": false },
+          { "id": "b", "texte": "Weil persönliche Daten nicht aus der Natur stammen, sondern direkt aus dem Privatleben der Menschen.", "correcte": true },
+          { "id": "c", "texte": "Weil Erdöl für die Weltwirtschaft längst keine finanzielle Bedeutung mehr besitzt.", "correcte": false },
+          { "id": "d", "texte": "Weil digitale Informationen leichter zu transportieren sind als fossile Rohstoffe.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-037-02",
+        "question": "Welchen positiven Beitrag kann die Auswertung großer Datenmengen laut dem zweiten Absatz leisten?",
+        "reponses": [
+          { "id": "a", "texte": "Sie macht individuelle Krankenversicherungen für ältere Menschen deutlich preiswerter.", "correcte": false },
+          { "id": "b", "texte": "Sie ersetzt klinische Medikamententests vollständig durch Computersimulationen.", "correcte": false },
+          { "id": "c", "texte": "Sie hilft, Krankheitsausbrüche zu bremsen und den städtischen Nahverkehr umweltfreundlicher zu steuern.", "correcte": true },
+          { "id": "d", "texte": "Sie verhindert zuverlässig sämtliche Verkehrsstaus auf europäischen Autobahnen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-037-03",
+        "question": "Wie entsteht laut dem dritten Absatz ein Ungleichgewicht zwischen Nutzern und Konzernen?",
+        "reponses": [
+          { "id": "a", "texte": "Durch komplizierte Zustimmungstexte, durch die Firmen umfassende Profile anlegen, ohne dass Nutzer dies durchschauen.", "correcte": true },
+          { "id": "b", "texte": "Durch hohe monatliche Gebühren, die den Zugang zu Suchmaschinen auf wohlhabende Haushalte beschränken.", "correcte": false },
+          { "id": "c", "texte": "Durch gesetzliche Vorschriften, die Verbrauchern das Löschen eigener Benutzerkonten untersagen.", "correcte": false },
+          { "id": "d", "texte": "Durch den Mangel an sicheren Passwörtern bei älteren Computern und Mobiltelefonen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-037-04",
+        "question": "Was bedeutet das Adjektiv „verklausulierten“ im dritten Absatz („juristisch verklausulierten Einwilligungserklärungen“)?",
+        "reponses": [
+          { "id": "a", "texte": "Knapp, übersichtlich und für Laien leicht verständlich verfasst.", "correcte": false },
+          { "id": "b", "texte": "In mehreren Fremdsprachen gleichzeitig abgedruckt.", "correcte": false },
+          { "id": "c", "texte": "Rechtlich unverbindlich und jederzeit ohne Konsequenzen widerrufbar.", "correcte": false },
+          { "id": "d", "texte": "Mit komplizierten juristischen Formulierungen verschleiert und schwer durchschaubar.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-037-05",
+        "question": "Was bedeutet das Verb „abzuwürgen“ im ersten Absatz („ohne den technologischen Fortschritt abzuwürgen“)?",
+        "reponses": [
+          { "id": "a", "texte": "Plötzlich abzublocken und in seiner Entwicklung zu ersticken.", "correcte": true },
+          { "id": "b", "texte": "Durch staatliche Subventionen künstlich zu beschleunigen.", "correcte": false },
+          { "id": "c", "texte": "Auf internationale Forschungseinrichtungen zu übertragen.", "correcte": false },
+          { "id": "d", "texte": "In öffentlichen Medien kritisch zu kommentieren.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-037-06",
+        "question": "Wie bewertet der Redner die Rolle des Datenschutzes im Schlussabsatz?",
+        "reponses": [
+          { "id": "a", "texte": "Als überholte Vorschrift, die europäische Unternehmen im internationalen Wettbewerb bremst.", "correcte": false },
+          { "id": "b", "texte": "Als notwendigen Schutz der menschlichen Freiheit und Würde in einer digitalisierten Welt.", "correcte": true },
+          { "id": "c", "texte": "Als reine Privatsache, um die sich jeder Internetnutzer selbst ohne staatliche Hilfe kümmern muss.", "correcte": false },
+          { "id": "d", "texte": "Als vorübergehende Maßnahme, bis sich neue Verschlüsselungstechnologien durchgesetzt haben.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-037-07",
+        "question": "Welche drei Maßnahmen fordert der Redner, um Datensouveränität zu sichern?",
+        "reponses": [
+          { "id": "a", "texte": "Das Verbot kostenloser Apps, staatliche Internetzugänge und längere Kündigungsfristen.", "correcte": false },
+          { "id": "b", "texte": "Die Abschaffung digitaler Patientenakten, höhere Steuern für Werbeagenturen und anonyme Bankkonten.", "correcte": false },
+          { "id": "c", "texte": "Strenge Gesetze zur Datensparsamkeit, spürbare Sanktionen bei Missbrauch und frühe digitale Bildung.", "correcte": true },
+          { "id": "d", "texte": "Freiwillige Selbstverpflichtungen der Konzerne, kürzere Verträge und kostenlose Antivirenprogramme.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-037-08",
+        "question": "Welche Gesamthaltung vertritt der Redner gegenüber der Nutzung digitaler Daten?",
+        "reponses": [
+          { "id": "a", "texte": "Er lehnt jede elektronische Speicherung persönlicher Informationen grundsätzlich ab.", "correcte": false },
+          { "id": "b", "texte": "Er befürwortet uneingeschränkte Datensammlungen, solange dadurch medizinische Forschung entsteht.", "correcte": false },
+          { "id": "c", "texte": "Er glaubt, dass Einzelne ihre Daten ohnehin nicht mehr vor großen Konzernen verbergen können.", "correcte": false },
+          { "id": "d", "texte": "Er unterscheidet zwischen sinnvoller gemeinwohlorientierter Nutzung und kommerziellem Kontrollverlust.", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b038",
+    "titre": "Der Einfluss von Algorithmen auf unsere täglichen Entscheidungen",
+    "titre2": "Exercice b038",
+    "texte": [
+      "Clara: Mir ist gestern Abend etwas Seltsames aufgefallen, David. Ich wollte mir eigentlich nur einen kurzen Dokumentarfilm über nachhaltige Architektur ansehen, und zwei Stunden später hatte ich drei weitere Videos über minimalistisches Wohnen geschaut und fast ein teures Designbuch bestellt, nach dem ich ursprünglich gar nicht gesucht hatte. Manchmal frage ich mich, wie viel von unseren Entscheidungen eigentlich noch wirklich von uns selbst stammt.",
+      "David: Da sprichst du einen faszinierenden Mechanismus an, Clara. Empfehlungsalgorithmen sind heute unsere unsichtbaren Alltagsbegleiter – sie bestimmen mit, welche Nachrichten wir morgens lesen, welche Musik wir hören, welche Produkte wir kaufen und sogar, welche Menschen uns auf Dating-Plattformen vorgeschlagen werden. Auf den ersten Blick wirkt das enorm praktisch, weil uns diese Systeme aus einer unüberschaubaren Informationsflut genau das herausfiltern, was unseren bisherigen Vorlieben entspricht.",
+"Clara: Genau diese Bequemlichkeit macht mich aber zunehmend skeptisch. Wenn ein Algorithmus meine künftigen Interessen ständig aus meinem bisherigen Klickverhalten ableitet, sperrt er mich dann nicht in eine unsichtbare Filterblase ein? Ich bekomme immer mehr vom Gleichen serviert, während überraschende Perspektiven, unbequeme Gegenargumente oder völlig neue Themenfelder gar nicht erst auf meinem Bildschirm auftauchen.",
+"David: Das ist tatsächlich eine der größten Schattenseiten. Hinzu kommt, dass viele Plattformen ihre Berechnungen nicht danach ausrichten, was für uns langfristig sinnvoll oder bildend ist, sondern danach, was unsere Aufmerksamkeit möglichst lange fesselt. Dadurch werden impulsive Kaufentscheidungen oder emotionale Reaktionen systematisch gefördert, während wir subjektiv weiterhin das Gefühl behalten, völlig frei gewählt zu haben.",
+"Clara: Bedeutet das, dass wir diesen digitalen Empfehlungen hilflos ausgeliefert sind?",
+"David: Keineswegs, sobald wir uns ihrer Wirkungsweise bewusst werden. Wir können Empfehlungsfunktionen gezielt deaktivieren, abonnierten Quellen bewusst folgen statt bloß passiv durch automatische Feeds zu scrollen und aktiv nach Gegenpositionen suchen. Wenn wir Algorithmen als nützliche Vorsortierer betrachten, aber das letzte Wort selbst behalten, gewinnen wir unsere Entscheidungsfreiheit zurück."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-038-01",
+"question": "Welches persönliche Erlebnis bringt Clara zum Nachdenken über ihre Entscheidungsfreiheit?",
+"reponses": [
+{ "id": "a", "texte": "Sie kaufte versehentlich ein falsches Buch, weil die Produktbeschreibung irreführend war.", "correcte": false },
+{ "id": "b", "texte": "Sie ließ sich von automatischen Videovorschlägen stundenlang leiten und stand kurz vor einem ungeplanten Kauf.", "correcte": true },
+{ "id": "c", "texte": "Ihr Video-Streaming-Dienst löschte ihre gespeicherte Merkliste ohne vorherige Ankündigung.", "correcte": false },
+{ "id": "d", "texte": "Sie fand trotz langer Suche keinen einzigen Film über nachhaltige Bauweise im Internet.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-038-02",
+"question": "Welchen praktischen Vorteil von Empfehlungsalgorithmen erkennt David im Gespräch an?",
+"reponses": [
+{ "id": "a", "texte": "Sie schützen Nutzer zuverlässig vor überteuerten Angeboten in Online-Shops.", "correcte": false },
+{ "id": "b", "texte": "Sie verhindern, dass Menschen zu viel Freizeit vor dem Bildschirm verbringen.", "correcte": false },
+{ "id": "c", "texte": "Sie sortieren aus riesigen Informationsmengen schnell passende Inhalte nach unseren Vorlieben heraus.", "correcte": true },
+{ "id": "d", "texte": "Sie sorgen dafür, dass alle Bürger dieselben ausgewogenen Nachrichten lesen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-038-03",
+"question": "Welche Gefahr verbindet Clara mit dem Begriff der „Filterblase“?",
+"reponses": [
+{ "id": "a", "texte": "Dass wichtige Sicherheitsaktualisierungen auf dem Smartphone blockiert werden.", "correcte": false },
+{ "id": "b", "texte": "Dass Nutzer immer wieder ähnliche Inhalte sehen und unbekannte Themen oder Gegenmeinungen verpassen.", "correcte": true },
+{ "id": "c", "texte": "Dass persönliche Fotos versehentlich für fremde Personen sichtbar gemacht werden.", "correcte": false },
+{ "id": "d", "texte": "Dass Suchmaschinen veraltete Lexikonartikel vor aktuellen Zeitungsberichten anzeigen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-038-04",
+"question": "Nach welchem Hauptkriterium optimieren viele Plattformen ihre Algorithmen laut David?",
+"reponses": [
+{ "id": "a", "texte": "Nach dem langfristigen Bildungswert und der sachlichen Ausgewogenheit der Beiträge.", "correcte": false },
+{ "id": "b", "texte": "Nach den Empfehlungen unabhängiger Verbraucherschutzorganisationen.", "correcte": false },
+{ "id": "c", "texte": "Nach der wissenschaftlichen Überprüfbarkeit der dargestellten Informationen.", "correcte": false },
+{ "id": "d", "texte": "Nach der Fähigkeit, Nutzer möglichst lange auf der Plattform zu halten und schnelle Impulse auszulösen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-038-05",
+"question": "Was bedeutet das Verb „ableitet“ in Claras zweitem Redebeitrag („aus meinem bisherigen Klickverhalten ableitet“)?",
+"reponses": [
+{ "id": "a", "texte": "Schlussfolgert und rechnerisch vorhersagt.", "correcte": true },
+{ "id": "b", "texte": "Dauerhaft aus dem Speicher löscht.", "correcte": false },
+{ "id": "c", "texte": "Öffentlich mit anderen Nutzern vergleicht.", "correcte": false },
+{ "id": "d", "texte": "Gegen unbefugte Zugriffe verschlüsselt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-038-06",
+"question": "Warum bemerken viele Menschen laut David kaum, dass ihre Entscheidungen gelenkt werden?",
+"reponses": [
+{ "id": "a", "texte": "Weil Plattformen gesetzlich verpflichtet sind, ihre Berechnungen geheim zu halten.", "correcte": false },
+{ "id": "b", "texte": "Weil sie das subjektive Gefühl behalten, ihre Auswahl völlig selbstständig getroffen zu haben.", "correcte": true },
+{ "id": "c", "texte": "Weil Algorithmen ausschließlich nachts arbeiten, während die Geräte ausgeschaltet sind.", "correcte": false },
+{ "id": "d", "texte": "Weil Online-Shops keine Rabatte für empfohlene Produkte anbieten dürfen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-038-07",
+"question": "Welche konkreten Gegenmaßnahmen schlägt David in seiner letzten Antwort vor?",
+"reponses": [
+{ "id": "a", "texte": "Sämtliche Video- und Musikplattformen zu kündigen und wieder ausschließlich Bücher zu lesen.", "correcte": false },
+{ "id": "b", "texte": "Jeden Tag ein neues Benutzerkonto anzulegen, um den Suchverlauf zurückzusetzen.", "correcte": false },
+{ "id": "c", "texte": "Empfehlungen abzuschalten, Quellen gezielt auszuwählen und bewusst nach anderen Sichtweisen zu suchen.", "correcte": true },
+{ "id": "d", "texte": "Politische Gesetze abzuwarten, die automatische Vorschläge im Internet komplett verbieten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-038-08",
+"question": "Wie fasst David den sinnvollen Umgang mit Algorithmen am Ende des Dialogs zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Man sollte ihnen blind vertrauen, da sie unsere Wünsche besser kennen als wir selbst.", "correcte": false },
+{ "id": "b", "texte": "Sie sind für den Alltag völlig unbrauchbar und sollten aus allen Programmen entfernt werden.", "correcte": false },
+{ "id": "c", "texte": "Nur IT-Fachleute sind in der Lage, digitale Empfehlungssysteme kritisch zu nutzen.", "correcte": false },
+{ "id": "d", "texte": "Man kann sie als hilfreiche Vorauswahl nutzen, solange man die endgültige Entscheidung selbst trifft.", "correcte": true }
+]
+}
+]
+},
+{
+"id": "b039",
+"titre": "Fördert das Internet wirklich den universellen Zugang zu Wissen?",
+"titre2": "Exercice b039",
+"texte": [
+"Als die junge Geschichtslehrerin Amira im vergangenen Herbst eine Unterrichtseinheit über die industrielle Revolution vorbereitete, genügte ein einziger Abend an ihrem Schreibtisch, um digitalisierte Archivquellen aus London, wissenschaftliche Aufsätze aus Wien und historische Karten aus Berlin herunterzuladen. Noch vor einer Generation hätte dieselbe Recherche wochenlange Bibliotheksreisen und kostspielige Fernleihen erfordert. Auf den ersten Blick scheint das Internet die jahrhundertealte Utopie einer universalen Weltbibliothek verwirklicht zu haben, in der jedes Wissen jederzeit und für jeden Menschen frei zugänglich ist. Doch wer genauer hinsieht, erkennt rasch, dass zwischen bloßer Informationsfülle und echtem, gerechtem Wissenszugang noch immer erhebliche Hürden bestehen.",
+"Zunächst einmal verläuft die sogenannte digitale Kluft weiterhin tief durch unsere Weltgesellschaft. Milliarden Menschen verfügen noch immer nicht über eine stabile Breitbandverbindung oder erschwingliche Endgeräte, sodass sie von digitalen Bildungsressourcen weitgehend ausgeschlossen bleiben. Doch selbst in wohlhabenden Industrieländern stößt der freie Wissenszugang zunehmend an unsichtbare Bezahlschranken: Während oberflächliche Zusammenfassungen, Sensationsmeldungen und Werbeartikel kostenlos abrufbar sind, verbergen sich geprüfte Qualitätsjournalistik und aktuelle wissenschaftliche Studien oft hinter teuren Abonnements oder akademischen Zugangsbeschränkungen.",
+"Hinzu kommt eine kognitive Herausforderung, die im digitalen Überfluss oft unterschätzt wird. Zugang zu Milliarden Webseiten bedeutet noch lange nicht, verlässliches Wissen erwerben zu können. Ohne die Fähigkeit, glaubwürdige Primärquellen von manipulierten Halbwahrheiten oder interessengeleiteten Blogs zu unterscheiden, führt die endlose Informationsflut eher zu Verwirrung als zu Aufklärung. Als Amira mit ihren Schülerinnen und Schülern die ersten Rechercheergebnisse besprach, stellte sie fest, dass viele Jugendliche den erstbesten Treffer einer Suchmaschine unkritisch als unumstößliche Wahrheit übernahmen. Am Ende des Projekts wurde ihr klar: Das Internet hat zwar die technischen Voraussetzungen für einen weltweiten Wissensaustausch geschaffen, doch echter universeller Zugang gelingt erst dann, wenn offene Bildungsressourcen gefördert, digitale Infrastrukturen gerecht ausgebaut und junge Menschen systematisch im kritischen Umgang mit Quellen geschult werden."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-039-01",
+"question": "Was veranschaulicht Amiras Unterrichtsvorbereitung zu Beginn der Erzählung?",
+"reponses": [
+{ "id": "a", "texte": "Wie mühsam es heute geworden ist, historische Landkarten in städtischen Bibliotheken zu finden.", "correcte": false },
+{ "id": "b", "texte": "Wie schnell und ortsunabhängig Fachleute heute auf internationale digitale Archive zugreifen können.", "correcte": true },
+{ "id": "c", "texte": "Dass Geschichtslehrkräfte keine gedruckten Schulbücher mehr im Unterricht verwenden dürfen.", "correcte": false },
+{ "id": "d", "texte": "Dass Archive in London und Wien sämtliche historischen Dokumente kostenpflichtig gemacht haben.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-039-02",
+"question": "Welcher Unterschied besteht laut dem zweiten Absatz oft zwischen kostenlosen und kostenpflichtigen Online-Inhalten?",
+"reponses": [
+{ "id": "a", "texte": "Kostenlose Seiten enthalten meist tiefgehende Forschung, während Bezahlseiten vor allem Unterhaltung bieten.", "correcte": false },
+{ "id": "b", "texte": "Oberflächliche Beiträge sind frei zugänglich, während seriöser Journalismus und Studien oft hinter Bezahlschranken liegen.", "correcte": true },
+{ "id": "c", "texte": "Staatliche Universitäten verlangen hohe Gebühren für alle historischen Dokumente, während Konzerne sie gratis anbieten.", "correcte": false },
+{ "id": "d", "texte": "Bezahlschranken existieren ausschließlich in Entwicklungsländern ohne schnelles Glasfasernetz.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-039-03",
+"question": "Welches Problem beobachtete Amira bei der Internetrecherche ihrer Schülerinnen und Schüler?",
+"reponses": [
+{ "id": "a", "texte": "Die Jugendlichen weigerten sich, digitale Suchmaschinen für Hausaufgaben zu benutzen.", "correcte": false },
+{ "id": "b", "texte": "Die Klasse fand trotz stundenlanger Suche keine Informationen über die industrielle Revolution.", "correcte": false },
+{ "id": "c", "texte": "Viele Lernende akzeptierten das oberste Suchergebnis sofort ohne kritische Prüfung der Quelle.", "correcte": true },
+{ "id": "d", "texte": "Die Schulcomputer waren zu langsam, um wissenschaftliche Aufsätze herunterzuladen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-039-04",
+"question": "Was bedeutet die Wendung „digitale Kluft“ im zweiten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Die ungleiche Verteilung des Zugangs zu moderner Internetinfrastruktur und digitalen Geräten.", "correcte": true },
+{ "id": "b", "texte": "Der Streit zwischen Buchverlagen und Online-Enzyklopädien über Urheberrechte.", "correcte": false },
+{ "id": "c", "texte": "Der Unterschied zwischen naturwissenschaftlichen und geisteswissenschaftlichen Datenbanken.", "correcte": false },
+{ "id": "d", "texte": "Die Trennung zwischen beruflichen E-Mail-Konten und privaten sozialen Netzwerken.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-039-05",
+"question": "Was bedeutet das Substantiv „Utopie“ im ersten Absatz („die jahrhundertealte Utopie einer universalen Weltbibliothek“)?",
+"reponses": [
+{ "id": "a", "texte": "Eine gesetzliche Vorschrift für öffentliche Bildungseinrichtungen.", "correcte": false },
+{ "id": "b", "texte": "Eine ehrgeizige, idealistische Zukunftsvorstellung, deren vollständige Umsetzung schwierig ist.", "correcte": true },
+{ "id": "c", "texte": "Eine technische Störung beim Herunterladen großer Archivdateien.", "correcte": false },
+{ "id": "d", "texte": "Eine veraltete Methode zur Katalogisierung gedruckter Bücher.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-039-06",
+"question": "Warum führt bloße Informationsfülle laut dem dritten Absatz nicht automatisch zu mehr Wissen?",
+"reponses": [
+{ "id": "a", "texte": "Weil Suchmaschinen wissenschaftliche Artikel grundsätzlich auf den hinteren Seiten verstecken.", "correcte": false },
+{ "id": "b", "texte": "Weil das menschliche Gehirn digitale Texte deutlich schlechter speichert als gedruckte Seiten.", "correcte": false },
+{ "id": "c", "texte": "Weil ohne Urteilsvermögen zur Quellenprüfung unübersichtliche Daten eher verwirren als aufklären.", "correcte": true },
+{ "id": "d", "texte": "Weil die meisten Webseiten nach wenigen Monaten wieder aus dem Netz gelöscht werden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-039-07",
+"question": "Welche drei Bedingungen nennt Amira am Ende für einen wirklich universellen Wissenszugang?",
+"reponses": [
+{ "id": "a", "texte": "Die Schließung physischer Bibliotheken, kostenlose Laptops für alle und kürzere Unterrichtsstunden.", "correcte": false },
+{ "id": "b", "texte": "Staatliche Kontrolle aller Suchmaschinen, das Verbot privater Blogs und einheitliche Schulbücher.", "correcte": false },
+{ "id": "c", "texte": "Die Abschaffung des Urheberrechts, schnellere Prozessoren und verpflichtende Online-Prüfungen.", "correcte": false },
+{ "id": "d", "texte": "Frei zugängliche Bildungsangebote, gerechter Netzausbau und systematische Schulung in Quellenkritik.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-039-08",
+"question": "Welche Gesamtaussage vermittelt diese Erzählung über das Internet als Wissensquelle?",
+"reponses": [
+{ "id": "a", "texte": "Das Internet bietet zwar enorme Chancen, erfordert aber soziale Gerechtigkeit und Medienbildung, um echtes Wissen für alle zu sichern.", "correcte": true },
+{ "id": "b", "texte": "Klassische Bibliotheken sind im digitalen Zeitalter vollständig überflüssig geworden.", "correcte": false },
+{ "id": "c", "texte": "Jugendliche beherrschen den kritischen Umgang mit Online-Quellen heute besser als ihre Lehrkräfte.", "correcte": false },
+{ "id": "d", "texte": "Universeller Zugang zu Wissen ist bereits weltweit erreicht, da fast jeder ein Smartphone besitzt.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b040",
+"titre": "Wie können wir die Manipulation von Informationen im Internet bekämpfen?",
+"titre2": "Exercice b040",
+"texte": [
+"Moderatorin: Willkommen zu „Medien und Gesellschaft“. Ob gefälschte Zitate, aus dem Zusammenhang gerissene Videos oder täuschend echte KI-Bilder – die gezielte Manipulation von Informationen im Internet hat ein Ausmaß erreicht, das Journalismus und Demokratie gleichermaßen herausfordert. Darüber sprechen wir heute mit der Medienwissenschaftlerin Dr. Elena Weber. Frau Dr. Weber, warum sind digitale Falschinformationen heute so schwer einzudämmen?",
+"Dr. Weber: Vielen Dank. Das liegt vor allem an der Geschwindigkeit und der psychologischen Raffinesse moderner Manipulationen. Während seriöse Journalistinnen und Journalisten Fakten sorgfältig prüfen und mehrere Quellen gegenchecken müssen, lässt sich eine emotionale Lüge binnen Sekunden produzieren und durch automatisierte Netzwerke millionenfach verbreiten. Sobald eine Falschmeldung erst einmal Empörung ausgelöst hat, hinkt jede noch so gründliche Richtigstellung zeitlich und reichweitenmäßig weit hinterher.",
+"Moderatorin: Viele fordern deshalb, dass soziale Plattformen falsche Inhalte sofort löschen sollten. Warum ist das in der Praxis so kompliziert?",
+"Dr. Weber: Weil die Grenze zwischen bewusster Desinformation, scharfer Satire und legitimer politischer Meinungsäußerung oft fließend verläuft. Würden wir privaten Technologiekonzernen die alleinige Macht übertragen, über Wahrheit und Lüge zu entscheiden, entstünde eine gefährliche Form privater Zensur. Sinnvoller als vorschnelles Löschen sind daher mehr Transparenz: Plattformen müssen offenlegen, welche Beiträge durch bezahlte Werbung oder automatisierte Konten künstlich verstärkt werden, und manipulierte Medien technisch eindeutig kennzeichnen.",
+"Moderatorin: Welche Rolle spielen neben Gesetzen und Plattformregeln die Bürgerinnen und Bürger selbst?",
+"Dr. Weber: Eine absolut entscheidende. Selbst die besten technischen Filter können nicht jede Manipulation abfangen. Deshalb brauchen wir eine breite gesellschaftliche Widerstandskraft – eine Art geistige Selbstverteidigung. Wer lernt, vor dem Teilen einer schockierenden Schlagzeile kurz innezuhalten, die Quelle zu überprüfen und verschiedene seriöse Medien zu vergleichen, entzieht der Manipulation ihren wichtigsten Treibstoff: unsere unbedachte Weiterverbreitung."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-040-01",
+"question": "Warum sind Faktenprüfungen laut Dr. Weber gegenüber Falschmeldungen oft im Nachteil?",
+"reponses": [
+{ "id": "a", "texte": "Weil seriöse Zeitungen ihre Artikel nur einmal pro Woche veröffentlichen.", "correcte": false },
+{ "id": "b", "texte": "Weil sorgfältige Recherche Zeit kostet, während emotionale Lügen sofort produziert und verbreitet werden.", "correcte": true },
+{ "id": "c", "texte": "Weil Internetnutzer gesetzlich daran gehindert werden, Richtigstellungen zu teilen.", "correcte": false },
+{ "id": "d", "texte": "Weil automatisierte Netzwerke ausschließlich wissenschaftliche Studien verbreiten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-040-02",
+"question": "Warum warnt Dr. Weber davor, privaten Konzernen allein das Löschen falscher Inhalte zu überlassen?",
+"reponses": [
+{ "id": "a", "texte": "Weil Technologieunternehmen nicht über genügend Computerspeicher verfügen.", "correcte": false },
+{ "id": "b", "texte": "Weil Satire und legitime Meinungen schwer abzugrenzen sind und private Zensur droht.", "correcte": true },
+{ "id": "c", "texte": "Weil das Löschen von Beiträgen die Werbeeinnahmen von Tageszeitungen erhöht.", "correcte": false },
+{ "id": "d", "texte": "Weil Nutzer dann sofort auf ausländische Nachrichtenportale ausweichen würden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-040-03",
+"question": "Welche Maßnahmen hält Dr. Weber bei sozialen Plattformen für wirksamer als vorschnelles Löschen?",
+"reponses": [
+{ "id": "a", "texte": "Die Einführung hoher monatlicher Nutzungsgebühren für alle sozialen Netzwerke.", "correcte": false },
+{ "id": "b", "texte": "Das vollständige Verbot politischer Diskussionen im Internet vor Wahlen.", "correcte": false },
+{ "id": "c", "texte": "Transparenz über künstliche Reichweitenverstärkung und klare Kennzeichnung bearbeiteter Medien.", "correcte": true },
+{ "id": "d", "texte": "Die Pflicht, jeden Kommentar vor der Veröffentlichung von einem Gericht prüfen zu lassen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-040-04",
+"question": "Was bedeutet das Verb „eindämmen“ in der ersten Frage der Moderatorin („so schwer einzudämmen“)?",
+"reponses": [
+{ "id": "a", "texte": "Technisch zu beschleunigen und weiter zu verbreiten.", "correcte": false },
+{ "id": "b", "texte": "In gerichtlichen Verfahren genau zu dokumentieren.", "correcte": false },
+{ "id": "c", "texte": "Durch Werbung finanziell zu unterstützen.", "correcte": false },
+{ "id": "d", "texte": "In ihrer Ausbreitung zu begrenzen und unter Kontrolle zu bringen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-040-05",
+"question": "Was bedeutet das Substantiv „Raffinesse“ in Dr. Webers erster Antwort („psychologischen Raffinesse“)?",
+"reponses": [
+{ "id": "a", "texte": "Geschickte, durchdachte und schwer durchschaubare Machart.", "correcte": true },
+{ "id": "b", "texte": "Offensichtliche Ungenauigkeit und mangelnde Vorbereitung.", "correcte": false },
+{ "id": "c", "texte": "Strenge Einhaltung journalistischer Berufsregeln.", "correcte": false },
+{ "id": "d", "texte": "Geringe technische Qualität von Bild- und Tonaufnahmen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-040-06",
+"question": "Was bezeichnet Dr. Weber in ihrer letzten Antwort als den „wichtigsten Treibstoff“ der Manipulation?",
+"reponses": [
+{ "id": "a", "texte": "Staatliche Fördergelder für digitale Start-up-Unternehmen.", "correcte": false },
+{ "id": "b", "texte": "Das unüberlegte, schnelle Weiterleiten schockierender Meldungen durch Nutzer.", "correcte": true },
+{ "id": "c", "texte": "Die hohen Kosten für gedruckte Abonnements seriöser Tageszeitungen.", "correcte": false },
+{ "id": "d", "texte": "Die mangelnde Geschwindigkeit moderner Glasfaserverbindungen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-040-07",
+"question": "Welche konkreten Gewohnheiten empfiehlt Dr. Weber den Bürgerinnen und Bürgern?",
+"reponses": [
+{ "id": "a", "texte": "Nachrichten im Internet grundsätzlich nicht mehr zu lesen und nur noch Radio zu hören.", "correcte": false },
+{ "id": "b", "texte": "Jede verdächtige Meldung sofort an die Polizei zu melden.", "correcte": false },
+{ "id": "c", "texte": "Vor dem Teilen kurz nachzudenken, den Absender zu prüfen und mehrere verlässliche Quellen zu vergleichen.", "correcte": true },
+{ "id": "d", "texte": "Ausschließlich Beiträgen zu vertrauen, die besonders viele Likes erhalten haben.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-040-08",
+"question": "Welche Gesamtbotschaft vermittelt das Interview zur Bekämpfung von Online-Desinformation?",
+"reponses": [
+{ "id": "a", "texte": "Nur strenge staatliche Zensur kann die Demokratie vor falschen Internetmeldungen retten.", "correcte": false },
+{ "id": "b", "texte": "Technische Filter der Plattformen werden das Problem bald ohne Zutun der Nutzer lösen.", "correcte": false },
+{ "id": "c", "texte": "Falschinformationen sind harmlos, solange Bürgerinnen und Bürger Zugang zu freien Wahlen haben.", "correcte": false },
+{ "id": "d", "texte": "Wirksamer Schutz erfordert transparente Plattformregeln ebenso wie kritische Aufmerksamkeit jedes Einzelnen.", "correcte": true }
+]
+}
+]
+},
+{
+    "id": "b041",
+    "titre": "Stellt künstliche Intelligenz eine Chance oder eine Bedrohung für die Menschheit dar?",
+    "titre2": "Exercice b041",
+    "texte": [
+      "Lukas: Hast du gestern die Podiumsdiskussion über generative künstliche Intelligenz verfolgt, Sofia? Ehrlich gesagt hat mich die Begeisterung mancher Technologieunternehmer ziemlich beunruhigt. Sie tun so, als stünde uns eine goldene Epoche bevor, während sie völlig ausblenden, wie rasant selbstlernende Systeme ganze Berufszweige umkrempeln und unsere kulturelle Produktion verändern.",
+      "Sofia: Ich kann deine Skepsis nachvollziehen, Lukas, obwohl ich das Bild etwas ausgewogener sehe. In meinem Arbeitsalltag in der medizinischen Forschung erleben wir gerade, wie lernende Algorithmen Proteinstrukturen entschlüsseln, für die menschliche Teams früher Jahrzehnte gebraucht hätten. Wenn künstliche Intelligenz dazu beiträgt, seltene Krankheiten zu heilen oder Energienetze stabiler zu steuern, wäre es doch fahrlässig, dieses gewaltige Potenzial aus reiner Angst auszubremsen.",
+      "Lukas: Dagegen sagt ja auch niemand etwas – in der Wissenschaft oder bei der Klimamodellierung ist der Nutzen unbestritten. Meine Sorge gilt eher dem unkontrollierten Einsatz im gesellschaftlichen Alltag. Wenn Sprachmodelle massenhaft täuschend echte Falschmeldungen generieren oder automatisierte Bewerbungssysteme bestimmte Bevölkerungsgruppen systematisch benachteiligen, weil ihre Trainingsdaten verzerrt waren, gerät unser demokratisches Vertrauen ins Wanken.",
+      "Sofia: Da gebe ich dir völlig recht. Das Problem liegt allerdings nicht in der Technologie an sich, sondern in der Geschwindigkeit, mit der Konzerne unausgereifte Systeme auf den Markt werfen, bevor überhaupt wirksame gesetzliche Leitplanken existieren. Künstliche Intelligenz besitzt ja keinen eigenen Willen; sie spiegelt lediglich die wirtschaftlichen und ethischen Prioritäten der Menschen wider, die sie programmieren und einsetzen.",
+      "Lukas: Genau das ist der springende Punkt! Solange kurzfristige Gewinnmaximierung wichtiger erscheint als Transparenz und Urheberrecht, bleibt das Risiko hoch. Wir brauchen verpflichtende Kennzeichnungen für synthetische Inhalte und unabhängige Prüfstellen, die Algorithmen vor ihrer Einführung auf Diskriminierung untersuchen.",
+      "Sofia: Einverstanden. Begreifen wir künstliche Intelligenz als unterstützendes Werkzeug unter strenger menschlicher Aufsicht, kann sie zu einer echten Chance werden – überlassen wir ihr jedoch blind das Steuer, wird sie tatsächlich zur Gefahr."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-041-01",
+        "question": "Was irritierte Lukas an den Aussagen der Technologieunternehmer während der Diskussion?",
+        "reponses": [
+          { "id": "a", "texte": "Sie forderten ein sofortiges staatliches Verbot sämtlicher Forschungsprojekte zur künstlichen Intelligenz.", "correcte": false },
+          { "id": "b", "texte": "Sie ignorierten die tiefgreifenden Folgen für Arbeitsplätze und Kultur zugunsten eines einseitigen Optimismus.", "correcte": true },
+          { "id": "c", "texte": "Sie behaupteten, dass medizinische Forschung ohne Computerprogramme überhaupt nicht mehr möglich sei.", "correcte": false },
+          { "id": "d", "texte": "Sie weigerten sich, Fragen von Journalisten zu den Stromkosten ihrer Rechenzentren zu beantworten.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-041-02",
+        "question": "Welchen konkreten Nutzen von KI erlebt Sofia in ihrem eigenen beruflichen Umfeld?",
+        "reponses": [
+          { "id": "a", "texte": "Die automatische Übersetzung medizinischer Fachbücher in über fünfzig Sprachen.", "correcte": false },
+          { "id": "b", "texte": "Die vollständige Übernahme von Operationen durch autonome Krankenhausroboter.", "correcte": false },
+          { "id": "c", "texte": "Die schnelle Analyse komplexer Proteinstrukturen zur Bekämpfung seltener Erkrankungen.", "correcte": true },
+          { "id": "d", "texte": "Die Senkung der Verwaltungskosten in öffentlichen Krankenkassen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-041-03",
+        "question": "Welche gesellschaftlichen Gefahren hebt Lukas in seinem zweiten Redebeitrag hervor?",
+        "reponses": [
+          { "id": "a", "texte": "Glaubwürdig wirkende Falschinformationen und ungerechte Entscheidungen durch vorbelastete Trainingsdaten.", "correcte": true },
+          { "id": "b", "texte": "Den vollständigen Zusammenbruch des internationalen Flugverkehrs durch Softwarefehler.", "correcte": false },
+          { "id": "c", "texte": "Einen akuten Mangel an Studienplätzen für Informatik an europäischen Universitäten.", "correcte": false },
+          { "id": "d", "texte": "Die steigenden Preise für private Computer und Smartphones in Privathaushalten.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-041-04",
+        "question": "Worin sieht Sofia die eigentliche Ursache für die aktuellen Risiken der künstlichen Intelligenz?",
+        "reponses": [
+          { "id": "a", "texte": "In der mangelnden Bereitschaft von Arbeitnehmern, neue digitale Programme zu erlernen.", "correcte": false },
+          { "id": "b", "texte": "In der feindseligen Absicht intelligenter Maschinen gegenüber der menschlichen Gesellschaft.", "correcte": false },
+          { "id": "c", "texte": "In der zu langsamen Entwicklung von Gesetzen durch internationale Gerichte.", "correcte": false },
+          { "id": "d", "texte": "In der übereilten Vermarktung ungeprüfter Systeme ohne vorherige gesetzliche Regeln.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-041-05",
+        "question": "Was bedeutet das Verb „umkrempeln“ im ersten Redebeitrag von Lukas („ganze Berufszweige umkrempeln“)?",
+        "reponses": [
+          { "id": "a", "texte": "Vorübergehend vor wirtschaftlichen Krisen schützen.", "correcte": false },
+          { "id": "b", "texte": "Grundlegend verändern und völlig neu strukturieren.", "correcte": true },
+          { "id": "c", "texte": "In kleinere, unabhängige Handwerksbetriebe aufteilen.", "correcte": false },
+          { "id": "d", "texte": "Durch höhere Löhne für junge Bewerber attraktiver machen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-041-06",
+        "question": "Welche konkreten Maßnahmen schlägt Lukas vor, um Missbrauch zu verhindern?",
+        "reponses": [
+          { "id": "a", "texte": "Die Abschaffung sozialer Netzwerke während nationaler Wahlkämpfe.", "correcte": false },
+          { "id": "b", "texte": "Verpflichtende Kennzeichnung künstlicher Inhalte und unabhängige Kontrollen auf Vorurteile.", "correcte": true },
+          { "id": "c", "texte": "Eine Sondersteuer für Unternehmen, die mehr als zehn Softwareentwickler beschäftigen.", "correcte": false },
+          { "id": "d", "texte": "Das Verbot, historische Daten für wissenschaftliche Berechnungen zu verwenden.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-041-07",
+        "question": "Was bedeutet die Wendung „ins Wanken geraten“ in Lukas’ zweiter Äußerung („gerät unser demokratisches Vertrauen ins Wanken“)?",
+        "reponses": [
+          { "id": "a", "texte": "Sich durch neue Technologien spürbar festigen.", "correcte": false },
+          { "id": "b", "texte": "In großen Zeitungsartikeln ausführlich gelobt werden.", "correcte": false },
+          { "id": "c", "texte": "Unsicher werden, erschüttert werden und an Stabilität verlieren.", "correcte": true },
+          { "id": "d", "texte": "Sich auf junge Wählergruppen beschränken.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-041-08",
+        "question": "Auf welchen gemeinsamen Nenner einigen sich Lukas und Sofia am Ende des Gesprächs?",
+        "reponses": [
+          { "id": "a", "texte": "Künstliche Intelligenz sollte ausschließlich in der Medizin, niemals aber in der Wirtschaft genutzt werden.", "correcte": false },
+          { "id": "b", "texte": "Konzerne werden ihre Systeme freiwillig regulieren, sobald der öffentliche Druck groß genug ist.", "correcte": false },
+          { "id": "c", "texte": "Die Gefahren überwiegen eindeutig, weshalb ein weltweiter Entwicklungsstopp nötig ist.", "correcte": false },
+          { "id": "d", "texte": "KI nützt der Menschheit nur dann, wenn sie unter klarer menschlicher Kontrolle als Hilfsmittel dient.", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b042",
+    "titre": "Können wir unsere Privatsphäre im digitalen Zeitalter noch schützen?",
+    "titre2": "Exercice b042",
+    "texte": [
+      "Als der IT-Sicherheitsberater Julian am Freitagabend das neue Smart-Home-System in seiner Altbauwohnung einrichtete, hielt er sich für bestens gewappnet. Vernetzte Thermostate, sprachgesteuerte Lautsprecher und ein digitaler Stromzähler versprachen maximalen Komfort bei minimalem Energieverbrauch. Doch als er aus beruflichem Interesse den ausgehenden Datenverkehr seines Heimnetzwerks analysierte, erlebte selbst der erfahrene Fachmann eine unangenehme Überraschung: Im Minutentakt sendeten scheinbar harmlose Haushaltsgeräte verschlüsselte Datenpakete an Server auf drei verschiedenen Kontinenten – selbst dann, wenn niemand im Raum sprach oder eine Taste drückte.",
+      "Diese Beobachtung verdeutlicht ein stilles Dilemma unserer Gegenwart. Während früher vor allem bewusste Eingaben im Internet Spuren hinterließen, verwandelt das sogenannte Internet der Dinge heute unsere intimsten Rückzugsorte in permanente Datenquellen. Bewegungsmelder, Fitnessuhren und vernetzte Fahrzeuge zeichnen unaufhörlich auf, wann wir aufstehen, wie schnell unser Puls schlägt und welche Wege wir einschlagen. Aus diesen scheinbar unbedeutenden Einzelinformationen erstellen Datenbroker präzise Persönlichkeitsprofile, die längst nicht mehr nur für maßgeschneiderte Werbung genutzt werden, sondern zunehmend auch Einfluss auf Kreditkonditionen, Versicherungsprämien oder die Preisgestaltung auf Online-Portalen nehmen.",
+"Dennoch wäre es ein verhängnisvoller Irrtum, den Schutz der Privatsphäre als verlorenen Kampf abzuschreiben. In den folgenden Wochen überprüfte Julian sämtliche Geräte in seinem Haushalt kritisch: Er trennte verzichtbare Haushaltshelfer vom Internet, deaktivierte Standard-Telemetriefunktionen, nutzte konsequent datenschutzfreundliche Open-Source-Programme und richtete auf seinem Router einen Netzwerkfilter ein, der unerwünschte Werbe- und Trackingserver blockiert. Gleichzeitig engagierte er sich in einer Verbraucherinitiative, die verständliche Datenschutz-Siegel und strenge gesetzliche Standardeinstellungen einfordert. Julian erkannte, dass digitale Selbstbestimmung zwar bewusste Aufmerksamkeit verlangt, jedoch keineswegs unmöglich ist – vorausgesetzt, Bürger geben ihre Daten nicht aus reiner Bequemlichkeit preis und bestehen auf ihrem Grundrecht auf einen unbeobachteten Raum."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-042-01",
+"question": "Was entdeckte Julian, als er den Datenverkehr seiner neuen Smart-Home-Geräte untersuchte?",
+"reponses": [
+{ "id": "a", "texte": "Die Geräte schalteten sich nachts automatisch ab, um Strom zu sparen.", "correcte": false },
+{ "id": "b", "texte": "Sein Internetanbieter drosselte absichtlich die Verbindungsgeschwindigkeit am Abend.", "correcte": false },
+{ "id": "c", "texte": "Die Geräte übermittelten laufend Daten an internationale Server, auch ohne aktive Nutzung.", "correcte": true },
+{ "id": "d", "texte": "Nachbarn hatten sich unbefugt in sein kabelloses Heimnetzwerk eingewählt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-042-02",
+"question": "Wodurch unterscheidet sich die heutige Datenerfassung laut dem zweiten Absatz von früheren Jahren?",
+"reponses": [
+{ "id": "a", "texte": "Alltagsgegenstände im privaten Wohnraum sammeln heute ununterbrochen Daten, nicht nur aktive Suchanfragen.", "correcte": true },
+{ "id": "b", "texte": "Webseiten dürfen heute überhaupt keine Cookies mehr auf Computern speichern.", "correcte": false },
+{ "id": "c", "texte": "Nutzer müssen heute vor jedem Online-Einkauf schriftlich ihre Zustimmung per Post senden.", "correcte": false },
+{ "id": "d", "texte": "Daten werden ausschließlich auf lokalen Festplatten gespeichert und niemals weitergeleitet.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-042-03",
+"question": "Welche konkreten Folgen können detaillierte Persönlichkeitsprofile für Verbraucher haben?",
+"reponses": [
+{ "id": "a", "texte": "Kostenlose medizinische Vorsorgeuntersuchungen durch staatliche Krankenkassen.", "correcte": false },
+{ "id": "b", "texte": "Automatische Rabatte auf sämtliche öffentlichen Verkehrsmittel in Großstädten.", "correcte": false },
+{ "id": "c", "texte": "Eine Verkürzung der gesetzlichen Kündigungsfristen bei Mobilfunkverträgen.", "correcte": false },
+{ "id": "d", "texte": "Auswirkungen auf Kreditbedingungen, Versicherungstarife und individuelle Online-Preise.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-042-04",
+"question": "Welche technischen Schritte unternahm Julian, um seine digitale Privatsphäre zurückzugewinnen?",
+"reponses": [
+{ "id": "a", "texte": "Er kündigte seinen Internetanschluss vollständig und verzichtete auf jedes Mobiltelefon.", "correcte": false },
+{ "id": "b", "texte": "Er trennte unnötige Geräte vom Netz, schaltete Datensammlungen ab und installierte einen Router-Filter.", "correcte": true },
+{ "id": "c", "texte": "Er kaufte alle sechs Monate neue Haushaltsgeräte verschiedener ausländischer Hersteller.", "correcte": false },
+{ "id": "d", "texte": "Er meldete sich unter falschem Namen bei sämtlichen sozialen Netzwerken an.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-042-05",
+"question": "Was bedeutet das Adjektiv „gewappnet“ im ersten Satz („hielt er sich für bestens gewappnet“)?",
+"reponses": [
+{ "id": "a", "texte": "Überfordert und technisch unerfahren.", "correcte": false },
+{ "id": "b", "texte": "Finanziell hoch verschuldet.", "correcte": false },
+{ "id": "c", "texte": "Vorbereitet und gegen mögliche Gefahren geschützt.", "correcte": true },
+{ "id": "d", "texte": "Misstrauisch gegenüber seinen Nachbarn.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-042-06",
+"question": "Worauf bezieht sich das Verb „abschreiben“ im dritten Absatz („als verlorenen Kampf abzuschreiben“)?",
+"reponses": [
+{ "id": "a", "texte": "In einem Zeitungsartikel ausführlich zu kommentieren.", "correcte": false },
+{ "id": "b", "texte": "Als aussichtslos aufzugeben und nicht mehr darum zu kämpfen.", "correcte": true },
+{ "id": "c", "texte": "Steuerlich als geschäftliche Ausgabe geltend zu machen.", "correcte": false },
+{ "id": "d", "texte": "Von einem älteren juristischen Gesetzbuch zu kopieren.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-042-07",
+"question": "Wie engagierte sich Julian über seinen eigenen Haushalt hinaus für den Datenschutz?",
+"reponses": [
+{ "id": "a", "texte": "Er gründete ein eigenes Unternehmen zur Herstellung sicherer Smartphones.", "correcte": false },
+{ "id": "b", "texte": "Er unterrichtete kostenlose Programmierkurse an örtlichen Grundschulen.", "correcte": false },
+{ "id": "c", "texte": "Er verklagte mehrere internationale Konzerne vor dem Europäischen Gerichtshof.", "correcte": false },
+{ "id": "d", "texte": "Er unterstützte eine Initiative für klare Datenschutz-Siegel und strenge gesetzliche Voreinstellungen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-042-08",
+"question": "Welche zentrale Schlussfolgerung zieht Julian am Ende der Erzählung?",
+"reponses": [
+{ "id": "a", "texte": "Privatsphäre bleibt schützbar, wenn man Bequemlichkeit hinterfragt und bewusst für Datensparsamkeit eintritt.", "correcte": true },
+{ "id": "b", "texte": "Moderne Smart-Home-Systeme sind grundsätzlich sicher, sofern man ein starkes Passwort wählt.", "correcte": false },
+{ "id": "c", "texte": "Nur ausgebildete IT-Experten sind heute noch in der Lage, ihre persönlichen Daten zu schützen.", "correcte": false },
+{ "id": "d", "texte": "Der Verlust der Privatsphäre ist ein unvermeidlicher Preis für den technologischen Fortschritt.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b043",
+"titre": "Fördern soziale Netzwerke die Meinungsfreiheit oder Desinformation?",
+"titre2": "Exercice b043",
+"texte": [
+"Sehr geehrte Damen und Herren, geschätzte Medienvertreter, liebe Gäste,",
+"als soziale Netzwerke vor rund zwei Jahrzehnten ihren Siegeszug antraten, wurden sie vielerorts als ultimative Befreiung der öffentlichen Debatte gefeiert. Endlich bedurfte es keiner teuren Druckpresse und keiner Rundfunklizenz mehr, um Gehör zu finden; jede Bürgerin und jeder Bürger konnte fortan Gedanken teilen, Missstände aufdecken und sich über Ländergrenzen hinweg vernetzen. Heute jedoch ist diese anfängliche Euphorie einer tiefen Ernüchterung gewichen. Angesichts viraler Verschwörungsmythen und digitaler Hetzkampagnen stellt sich dringender denn je die Frage: Stärken soziale Plattformen die demokratische Meinungsfreiheit – oder untergraben sie sie durch die massenhafte Verbreitung von Desinformation?",
+"Einerseits lässt sich nicht bestreiten, dass soziale Medien die Beteiligung am öffentlichen Diskurs erheblich erweitert haben. Unter autoritären Regimen ermöglichen verschlüsselte Kanäle und soziale Plattformen mutigen Journalistinnen und Aktivisten, Zensur zu umgehen und die Weltöffentlichkeit in Echtzeit über Menschenrechtsverletzungen zu informieren. Doch auch in gefestigten Demokratien verschaffen digitale Netzwerke gesellschaftlichen Randgruppen Sichtbarkeit, deren Anliegen in klassischen Leitmedien lange übersehen wurden. In diesem Sinne haben Plattformen das Informationsmonopol traditioneller Torwächter aufgebrochen.",
+"Andererseits folgen kommerzielle Netzwerke einer ökonomischen Logik, die Wahrheit und Sachlichkeit strukturell benachteiligt. Da ihre Werbeeinnahmen unmittelbar von der Verweildauer der Nutzer abhängen, bevorzugen Empfehlungsalgorithmen schrille Zuspitzungen, Empörung und vereinfachte Feindbilder gegenüber differenzierten Analysen. Wissenschaftliche Untersuchungen belegen, dass sich gezielte Falschmeldungen deutlich schneller und weiter verbreiten als nüchterne Richtigstellungen. Gleichzeitig verdrängen koordinierte Einschüchterungskampagnen viele sachliche Stimmen aus dem digitalen Raum, sodass Meinungsfreiheit in der Praxis oft zum Recht des Lautesten verkommt.",
+"Letztendlich stehen Meinungsfreiheit und der Kampf gegen Desinformation nicht im Widerspruch, sondern bedingen einander: Eine informierte Öffentlichkeit braucht verlässliche Fakten, um überhaupt frei urteilen zu können. Durch transparente Algorithmen, klare Haftungsregeln für Plattformbetreiber und eine konsequente Stärkung der Medienkompetenz können wir digitale Räume so gestalten, dass sie offene Debatten fördern, ohne der Manipulation schutzlos ausgeliefert zu sein. Vielen Dank."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-043-01",
+"question": "Warum wurden soziale Netzwerke in ihrer Anfangszeit so optimistisch begrüßt?",
+"reponses": [
+{ "id": "a", "texte": "Weil sie sämtliche klassischen Tageszeitungen durch kostenlose Abonnements ersetzten.", "correcte": false },
+{ "id": "b", "texte": "Weil sie jedem Menschen ohne große finanzielle Mittel ermöglichten, öffentlich gehört zu werden.", "correcte": true },
+{ "id": "c", "texte": "Weil sie von Beginn an durch strenge internationale Gesetze vor Falschmeldungen geschützt waren.", "correcte": false },
+{ "id": "d", "texte": "Weil sie den politischen Wahlkampf für kleinere Parteien vollständig kostenlos machten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-043-02",
+"question": "Welche positiven Beispiele für den Nutzen sozialer Plattformen nennt der Redner im zweiten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Die automatische Übersetzung sämtlicher Parlamentsdebatten in alle Weltsprachen.", "correcte": false },
+{ "id": "b", "texte": "Die Steigerung der Werbeeinnahmen für kleine regionale Handwerksbetriebe.", "correcte": false },
+{ "id": "c", "texte": "Die Verkürzung der täglichen Arbeitszeit von Redakteuren in großen Medienhäusern.", "correcte": false },
+{ "id": "d", "texte": "Das Umgehen staatlicher Zensur in Diktaturen und mehr Sichtbarkeit für benachteiligte Gruppen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-043-03",
+"question": "Warum benachteiligen kommerzielle Plattformen laut dem dritten Absatz sachliche Beiträge?",
+"reponses": [
+{ "id": "a", "texte": "Weil ihr Geschäftsmodell auf langer Nutzungsdauer basiert und emotionale Empörung mehr Aufmerksamkeit bindet.", "correcte": true },
+{ "id": "b", "texte": "Weil sachliche Artikel wegen ihrer Länge technisch nicht auf Smartphones angezeigt werden können.", "correcte": false },
+{ "id": "c", "texte": "Weil seriöse Wissenschaftler grundsätzlich keine Beiträge in sozialen Medien veröffentlichen.", "correcte": false },
+{ "id": "d", "texte": "Weil Nutzer für das Lesen von Faktenprüfungen eine zusätzliche Gebühr bezahlen müssen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-043-04",
+"question": "Was geschieht laut dem Redner mit sachlichen Diskussionsteilnehmern angesichts digitaler Hasskampagnen?",
+"reponses": [
+{ "id": "a", "texte": "Sie erhalten automatisch besonderen Schutz durch die Moderatoren der Plattformen.", "correcte": false },
+{ "id": "b", "texte": "Sie ziehen sich oft aus Angst vor Einschüchterung aus öffentlichen Debatten zurück.", "correcte": true },
+{ "id": "c", "texte": "Sie gründen eigene soziale Netzwerke ohne jegliche Kommentarfunktion.", "correcte": false },
+{ "id": "d", "texte": "Sie antworten auf Beleidigungen mit noch aggressiveren Gegenkampagnen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-043-05",
+"question": "Was bedeutet das Substantiv „Torwächter“ im zweiten Absatz („das Informationsmonopol traditioneller Torwächter aufgebrochen“)?",
+"reponses": [
+{ "id": "a", "texte": "Sicherheitsbeamte vor öffentlichen Regierungsgebäuden.", "correcte": false },
+{ "id": "b", "texte": "Programmierer, die Zugangspasswörter für Internetseiten verwalten.", "correcte": false },
+{ "id": "c", "texte": "Etablierte Medien und Institutionen, die früher allein entschieden, welche Nachrichten veröffentlicht wurden.", "correcte": true },
+{ "id": "d", "texte": "Juristen, die Verstöße gegen das Urheberrecht vor Gericht verfolgen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-043-06",
+"question": "Was bedeutet das Adjektiv „nüchterne“ im dritten Absatz („als nüchterne Richtigstellungen“)?",
+"reponses": [
+{ "id": "a", "texte": "Langweilige und schlecht recherchierte.", "correcte": false },
+{ "id": "b", "texte": "Übertriebene und dramatisch formulierte.", "correcte": false },
+{ "id": "c", "texte": "Geheime und nur für Experten zugängliche.", "correcte": false },
+{ "id": "d", "texte": "Sachliche, unaufgeregte und rein auf Fakten gestützte.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-043-07",
+"question": "Wie hängen Meinungsfreiheit und die Bekämpfung von Desinformation laut dem Schlussabsatz zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Sie ergänzen einander, da freie Urteilsbildung auf verlässlichen Informationen beruht.", "correcte": true },
+{ "id": "b", "texte": "Sie schließen einander aus, weil jede Kontrolle von Lügen automatisch zu Zensur führt.", "correcte": false },
+{ "id": "c", "texte": "Meinungsfreiheit ist nur in gedruckten Büchern möglich, nicht aber im Internet.", "correcte": false },
+{ "id": "d", "texte": "Desinformation verschwindet von selbst, sobald alle Bürger Zugang zu schnellem Internet haben.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-043-08",
+"question": "Welche drei Lösungsansätze fordert der Redner am Ende seiner Rede?",
+"reponses": [
+{ "id": "a", "texte": "Ein Verbot politischer Werbung, höhere Steuern für Internetnutzer und staatliche Nachrichtenagenturen.", "correcte": false },
+{ "id": "b", "texte": "Nachvollziehbare Algorithmen, Verantwortung der Plattformbetreiber und bessere Medienkompetenz.", "correcte": true },
+{ "id": "c", "texte": "Die Abschaffung anonymer Profile, kürzere Beiträge und tägliche Zeitlimits für Nutzer.", "correcte": false },
+{ "id": "d", "texte": "Die Übertragung aller sozialen Netzwerke an gemeinnützige Universitätsstiftungen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b044",
+"titre": "Bildschirmabhängigkeit bei jüngeren Generationen",
+"titre2": "Exercice b044",
+"texte": [
+"Moderator: Willkommen bei „Bildung und Alltag“. Kaum ein Thema sorgt in Familien und Schulen derzeit für so hitzige Diskussionen wie der tägliche Bildschirmkonsum von Kindern und Jugendlichen. Heute begrüßen wir die Medienpädagogin Dr. Hannah Lindner. Frau Dr. Lindner, viele Erwachsene beklagen, dass junge Menschen kaum noch ohne Smartphone auskommen. Ist diese Sorge berechtigt oder handelt es sich um eine typische Generationskritik?",
+"Dr. Lindner: Vielen Dank für die Einladung. Tatsächlich steckt in beiden Sichtweisen ein wahrer Kern. Historisch gesehen wurde fast jedes neue Medium – vom Roman im achtzehnten Jahrhundert über das Radio bis hin zum Fernsehen – zunächst als Bedrohung für die Jugend verteufelt. Dennoch unterscheidet sich das heutige Smartphone grundlegend von früheren Medien: Es ist ständig verfügbar, interaktiv und durch hochspezialisierte Algorithmen darauf optimiert, unsere Aufmerksamkeit möglichst lange zu fesseln.",
+"Moderator: Welche konkreten Auswirkungen beobachten Sie in Ihrer Praxis, wenn die Nutzung außer Kontrolle gerät?",
+"Dr. Lindner: Wenn digitale Unterhaltung zum einzigen Mittel wird, um Langeweile, Stress oder soziale Unsicherheit zu betäuben, geraten wichtige Entwicklungsprozesse ins Stocken. Wir beobachten zunehmend Konzentrationsschwierigkeiten bei längeren Lesetexten, chronischen Schlafmangel durch nächtliche Nutzung sowie eine wachsende Unsicherheit im direkten persönlichen Gespräch. Besonders problematisch wird es, wenn Jugendliche ihre Stimmung und ihr Selbstwertgefühl fast ausschließlich von digitalen Rückmeldungen wie Likes oder Kommentaren abhängig machen.",
+"Moderator: Viele Schulen reagieren inzwischen mit strengen Smartphone-Verboten auf dem gesamten Schulgelände. Halten Sie solche Maßnahmen für sinnvoll?",
+"Dr. Lindner: Ein handyfreier Schultag kann durchaus entlastend wirken, weil er im Unterricht Ruhe schafft und in den Pausen wieder echte Gespräche auf dem Schulhof ermöglicht. Allerdings ersetzt ein bloßes Verbot keine pädagogische Begleitung. Sobald die Schulglocke läutet, sind die Jugendlichen wieder auf sich allein gestellt. Deshalb müssen Schulen und Eltern junge Menschen aktiv darin schulen, die psychologischen Tricks der Plattformen zu durchschauen, eigene Nutzungszeiten kritisch zu reflektieren und bewusste digitale Pausen einzuplanen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-044-01",
+"question": "Wodurch unterscheidet sich das Smartphone laut Dr. Lindner von früheren Medien wie dem Fernsehen?",
+"reponses": [
+{ "id": "a", "texte": "Es wird ausschließlich zur Erledigung schulischer Hausaufgaben genutzt.", "correcte": false },
+{ "id": "b", "texte": "Es ist für Kinder deutlich preiswerter als gedruckte Bücher oder Kinokarten.", "correcte": false },
+{ "id": "c", "texte": "Es ist überall dabei, interaktiv und gezielt auf maximale Aufmerksamkeitsbindung programmiert.", "correcte": true },
+{ "id": "d", "texte": "Es zeigt keinerlei Werbeanzeigen für junge Nutzerinnen und Nutzer.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-044-02",
+"question": "Warum erwähnt Dr. Lindner Romane im achtzehnten Jahrhundert und das Radio?",
+"reponses": [
+{ "id": "a", "texte": "Um zu zeigen, dass Erwachsene schon immer skeptisch auf neue Medien reagierten.", "correcte": true },
+{ "id": "b", "texte": "Um vorzuschlagen, dass Schulen wieder vermehrt klassische Literatur vorlesen sollten.", "correcte": false },
+{ "id": "c", "texte": "Um zu beweisen, dass früheres Lesen genauso schädlich für den Schlaf war wie heutige Tablets.", "correcte": false },
+{ "id": "d", "texte": "Um den technischen Fortschritt der letzten zweihundert Jahre zu feiern.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-044-03",
+"question": "Welche Folgen übermäßiger Bildschirmnutzung beobachtet Dr. Lindner bei Jugendlichen?",
+"reponses": [
+{ "id": "a", "texte": "Ein gesteigertes Interesse an politischen Nachrichten und internationalen Dokumentationen.", "correcte": false },
+{ "id": "b", "texte": "Bessere Fremdsprachenkenntnisse bei gleichzeitiger Vernachlässigung des Schulsports.", "correcte": false },
+{ "id": "c", "texte": "Eine höhere Bereitschaft, in großen Gruppen vor der Schulklasse frei zu sprechen.", "correcte": false },
+{ "id": "d", "texte": "Schwächere Ausdauer beim Lesen, Schlafdefizite und Unsicherheit in direkten Gesprächen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-044-04",
+"question": "Wann wird die Nutzung sozialer Medien für das Selbstwertgefühl von Jugendlichen besonders kritisch?",
+"reponses": [
+{ "id": "a", "texte": "Wenn sie eigene Fotos nur mit engen Familienmitgliedern teilen.", "correcte": false },
+{ "id": "b", "texte": "Wenn ihr emotionales Wohlbefinden fast nur noch von Online-Bestätigung abhängt.", "correcte": true },
+{ "id": "c", "texte": "Wenn sie Lernvideos ansehen, um sich auf schwierige Prüfungen vorzubereiten.", "correcte": false },
+{ "id": "d", "texte": "Wenn sie am Wochenende gemeinsam mit Freunden Videospiele spielen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-044-05",
+"question": "Was bedeutet das Verb „betäuben“ in Dr. Lindners zweiter Antwort („Langeweile, Stress oder soziale Unsicherheit zu betäuben“)?",
+"reponses": [
+{ "id": "a", "texte": "Vorübergehend verdrängen und nicht mehr spüren müssen.", "correcte": true },
+{ "id": "b", "texte": "Offen mit Eltern und Lehrkräften besprechen.", "correcte": false },
+{ "id": "c", "texte": "Durch regelmäßiges Training dauerhaft überwinden.", "correcte": false },
+{ "id": "d", "texte": "Wissenschaftlich genau untersuchen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-044-06",
+"question": "Wie bewertet Dr. Lindner Smartphone-Verbote an Schulen?",
+"reponses": [
+{ "id": "a", "texte": "Sie hält sie für völlig wirkungslos und schädlich für das Schulklima.", "correcte": false },
+{ "id": "b", "texte": "Sie fordert, solche Verbote auf alle öffentlichen Plätze und Verkehrsmittel auszuweiten.", "correcte": false },
+{ "id": "c", "texte": "Sie sieht darin eine hilfreiche Entlastung im Schulalltag, die aber Medienbildung nicht ersetzt.", "correcte": true },
+{ "id": "d", "texte": "Sie meint, nur Grundschulen sollten Smartphones verbieten, während Gymnasien sie erlauben sollten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-044-07",
+"question": "Was bedeutet die Wendung „ins Stocken geraten“ im zweiten Redebeitrag von Dr. Lindner?",
+"reponses": [
+{ "id": "a", "texte": "Sich deutlich beschleunigen.", "correcte": false },
+{ "id": "b", "texte": "Erfolgreich abgeschlossen werden.", "correcte": false },
+{ "id": "c", "texte": "Von Erwachsenen gefördert werden.", "correcte": false },
+{ "id": "d", "texte": "Verlangsamt oder behindert werden.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-044-08",
+"question": "Was müssen Jugendliche laut Dr. Lindner langfristig lernen, um gesund mit digitalen Medien umzugehen?",
+"reponses": [
+{ "id": "a", "texte": "Aufmerksamkeitstricks von Apps zu erkennen, ihr eigenes Verhalten zu prüfen und Pausen einzulegen.", "correcte": true },
+{ "id": "b", "texte": "Eigene Computerprogramme zu entwickeln, um Werbeanzeigen zu blockieren.", "correcte": false },
+{ "id": "c", "texte": "Digitale Geräte ausschließlich am Wochenende für jeweils dreißig Minuten zu nutzen.", "correcte": false },
+{ "id": "d", "texte": "Auf die Nutzung sozialer Netzwerke bis zum Abschluss des Studiums komplett zu verzichten.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b045",
+"titre": "Machen neue Technologien den Einzelnen unabhängiger?",
+"titre2": "Exercice b045",
+"texte": [
+"Noch vor dreißig Jahren erforderte die Organisation des Alltags ein dichtes Netz menschlicher Vermittler und fester Institutionen: Wer eine Überweisung tätigen wollte, musste vor Schalterschluss eine Bankfiliale aufsuchen; wer eine Auslandsreise plante, war auf die Öffnungszeiten eines Reisebüros angewiesen; und wer eine Fremdsprache erlernen wollte, benötigte einen festen Platz in einer Abendklasse. Heute hingegen vereint ein einziges mobiles Endgerät Bank, Bibliothek, Reisebüro und Übersetzungsbüro in sich. Auf den ersten Blick scheint die technologische Revolution dem Einzelnen eine beispiellose Autonomie geschenkt zu haben. Dennoch zeigt eine genauere Betrachtung, dass diese gewonnene Unabhängigkeit mit einer neuen, oft unterschätzten Form der Abhängigkeit erkauft wird.",
+"Einerseits lässt sich der reale Freiheitsgewinn im Alltag kaum bestreiten. Dank digitaler Plattformen und mobiler Arbeitsmittel können viele Berufstätige ihren Arbeitsort und ihre Zeiteinteilung deutlich flexibler gestalten als frühere Generationen. Menschen in abgelegenen ländlichen Regionen erhalten Zugang zu spezialisierten Bildungsangeboten, telemedizinischer Beratung und internationalen Absatzmärkten, die ihnen früher verschlossen blieben. Ebenso eröffnen moderne Assistenzsysteme – von automatischer Texterkennung bis zu intelligenten Navigationshilfen – Menschen mit körperlichen oder sensorischen Einschränkungen neue Wege zu selbstbestimmter Teilhabe.",
+"Andererseits verlagert die Digitalisierung unsere Abhängigkeit lediglich von sichtbaren lokalen Institutionen hin zu unsichtbaren globalen Infrastrukturen. Je selbstverständlicher wir Navigation, Terminplanung, Rechtschreibung und Informationssuche an digitale Systeme delegieren, desto stärker verkümmern unsere eigenen kognitiven Fähigkeiten und unsere Improvisationsgabe. Noch gravierender ist die technische und wirtschaftliche Abhängigkeit von wenigen dominierenden Plattformbetreibern: Fällt ein zentraler Cloud-Dienst aus, wird ein Benutzerkonto irrtümlich gesperrt oder ändert ein Anbieter einseitig seine Geschäftsbedingungen, stehen Einzelpersonen wie Kleinunternehmen plötzlich handlungsunfähig da.",
+"Letztlich entscheidet nicht die bloße Verfügbarkeit moderner Technik über unsere Freiheit, sondern die Art unseres Umgangs mit ihr. Echte Unabhängigkeit im digitalen Zeitalter bedeutet, technologische Werkzeuge souverän zur Erweiterung der eigenen Möglichkeiten einzusetzen, ohne dabei die Fähigkeit zu verlieren, im Notfall auch ohne Bildschirm eigenständig zu denken, zu entscheiden und zu handeln."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-045-01",
+"question": "Wie beschreibt der Autor den Alltag vor rund dreißig Jahren im ersten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Menschen hatten deutlich mehr Freizeit, weil es noch keine digitalen Nachrichten gab.", "correcte": false },
+{ "id": "b", "texte": "Für Bankgeschäfte, Reisen und Bildung war man auf feste Öffnungszeiten und Vermittler angewiesen.", "correcte": true },
+{ "id": "c", "texte": "Internationale Reisen und Fremdsprachenkurse waren für Normalverdiener gesetzlich eingeschränkt.", "correcte": false },
+{ "id": "d", "texte": "Die meisten Arbeitnehmer arbeiteten bereits damals flexibel von zu Hause aus.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-045-02",
+"question": "Welche Vorteile bringen moderne Technologien laut dem zweiten Absatz für Bewohner ländlicher Regionen?",
+"reponses": [
+{ "id": "a", "texte": "Niedrigere Strompreise und den Ausbau neuer Hochgeschwindigkeitsbahnstrecken.", "correcte": false },
+{ "id": "b", "texte": "Den Wegfall sämtlicher Steuern für kleine landwirtschaftliche Familienbetriebe.", "correcte": false },
+{ "id": "c", "texte": "Zugang zu Fernbildung, medizinischer Online-Beratung und überregionalen Märkten.", "correcte": true },
+{ "id": "d", "texte": "Mehr persönliche Begegnungen in örtlichen Bankfilialen und Reisebüros.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-045-03",
+"question": "Wohin hat sich unsere Abhängigkeit durch die Digitalisierung laut dem dritten Absatz verschoben?",
+"reponses": [
+{ "id": "a", "texte": "Weg von örtlichen Einrichtungen hin zu wenigen großen digitalen Plattformen und Netzen.", "correcte": true },
+{ "id": "b", "texte": "Weg von internationalen Konzernen hin zu kleinen kommunalen Handwerksbetrieben.", "correcte": false },
+{ "id": "c", "texte": "Weg von privaten Smartphones hin zu öffentlichen Computern in Stadtbibliotheken.", "correcte": false },
+{ "id": "d", "texte": "Weg von schriftlicher Kommunikation hin zu langen persönlichen Telefongesprächen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-045-04",
+"question": "Welche Gefahr besteht, wenn ein zentraler Cloud-Dienst ausfällt oder ein Konto gesperrt wird?",
+"reponses": [
+{ "id": "a", "texte": "Nutzer erhalten automatisch eine finanzielle Entschädigung vom Staat.", "correcte": false },
+{ "id": "b", "texte": "Einzelpersonen und kleine Firmen können plötzlich nicht mehr auf wichtige Arbeitsmittel zugreifen.", "correcte": true },
+{ "id": "c", "texte": "Alle gespeicherten Dokumente werden automatisch auf Papier ausgedruckt.", "correcte": false },
+{ "id": "d", "texte": "Konkurrierende Anbieter übernehmen sofort kostenlos die Betreuung der betroffenen Kunden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-045-05",
+"question": "Was bedeutet das Verb „delegieren“ im dritten Absatz („an digitale Systeme delegieren“)?",
+"reponses": [
+{ "id": "a", "texte": "Aufgaben und Verantwortung an andere Instanzen oder Werkzeuge abgeben.", "correcte": true },
+{ "id": "b", "texte": "Streng vor unbefugtem Zugriff schützen.", "correcte": false },
+{ "id": "c", "texte": "In mehreren Fremdsprachen gleichzeitig überprüfen.", "correcte": false },
+{ "id": "d", "texte": "Durch regelmäßiges Üben selbstständig verbessern.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-045-06",
+"question": "Was bedeutet das Adjektiv „handlungsunfähig“ im dritten Absatz („stehen ... plötzlich handlungsunfähig da“)?",
+"reponses": [
+{ "id": "a", "texte": "Finanziell unabhängig und bestens vorbereitet.", "correcte": false },
+{ "id": "b", "texte": "Bereit, sofort auf alternative Papierformulare umzusteigen.", "correcte": false },
+{ "id": "c", "texte": "Blockiert und nicht mehr in der Lage, notwendige Schritte auszuführen.", "correcte": true },
+{ "id": "d", "texte": "Verärgert, aber technisch kaum beeinträchtigt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-045-07",
+"question": "Wie definiert der Autor wahre Unabhängigkeit im digitalen Zeitalter im Schlussabsatz?",
+"reponses": [
+{ "id": "a", "texte": "Den vollständigen Verzicht auf vernetzte Geräte im Privatleben.", "correcte": false },
+{ "id": "b", "texte": "Die Nutzung der jeweils neuesten Softwareversionen aller großen Anbieter.", "correcte": false },
+{ "id": "c", "texte": "Die ausschließliche Arbeit in Berufen ohne Computerunterstützung.", "correcte": false },
+{ "id": "d", "texte": "Technik selbstbestimmt zu nutzen, ohne die Fähigkeit zum eigenständigen Handeln ohne Bildschirm zu verlieren.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-045-08",
+"question": "Welche Aussage fasst die Hauptthese des gesamten Essays am treffendsten zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Neue Technologien erleichtern zwar den Alltag, schaffen aber nur dann echte Freiheit, wenn wir eigenständig bleiben.", "correcte": true },
+{ "id": "b", "texte": "Frühere Generationen waren ohne Internet deutlich freier und glücklicher als heutige Bürger.", "correcte": false },
+{ "id": "c", "texte": "Digitale Plattformen machen persönliche Fähigkeiten wie Orientierung oder Rechtschreibung völlig überflüssig.", "correcte": false },
+{ "id": "d", "texte": "Nur Menschen mit körperlichen Einschränkungen profitieren wirklich von modernen Assistenzsystemen.", "correcte": false }
+]
+}
+]
 }
 ]
