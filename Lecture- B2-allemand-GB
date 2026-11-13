@@ -2672,5 +2672,895 @@ dennoch hat sich...“)?",
 ]
 }
 ]
+},
+ {
+    "id": "B2-031b",
+    "titre": "Stellt künstliche Intelligenz eine Chance oder eine Bedrohung für die Menschheit dar?",
+    "titre2": "Übung 31",
+    "audios": [
+      { "id": "audio-de-read-b2-031b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-031b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Kaum ein technologischer Durchbruch hat gleichzeitig so viel Bewunderung und existenzielle Besorgnis ausgelöst wie die künstliche Intelligenz. In Laboren und Krankenhäusern weltweit beweisen KI-Systeme bereits heute ihr enormes Potenzial: Algorithmen erkennen Tumore im Frühstadium präziser als menschliche Radiologen, beschleunigen die Entwicklung lebensrettender Medikamente und optimieren erneuerbare Stromnetze im Kampf gegen den Klimawandel. Befürworter argumentieren, dass KI durch die Automatisierung komplexer Datenanalysen ein goldenes Zeitalter wissenschaftlicher Entdeckungen einläuten könnte.",
+      "Dennoch warnen führende Ethiker, Informatiker und Politiker davor, dass eine unkontrollierte KI-Entwicklung tiefgreifende Risiken birgt. Über unmittelbare Sorgen hinsichtlich massenhafter Arbeitsplatzverluste und algorithmischer Diskriminierung hinaus – bei der automatisierte Systeme historische Vorurteile bei Einstellungsverfahren oder Strafurteilen fortschreiben – verweisen Kritiker auf die Gefahr autonomer Waffensysteme und täuschend echter synthetischer Medien, die demokratische Wahlen destabilisieren können. Zudem mahnen einige Forscher, die Folgen für die Menschheit könnten katastrophal sein, sollte eine allgemeine künstliche Intelligenz jemals der menschlichen Kontrolle entgleiten.",
+      "Hingegen verschleiert eine Betrachtung der KI als unkontrollierbare Naturgewalt die Tatsache, dass diese Systeme von menschlichen Institutionen entworfen, finanziert und eingesetzt werden. Die eigentliche Gefahr liegt nicht in empfindungsfähigen Maschinen, die gegen ihre Schöpfer rebellieren, sondern in mächtigen Konzernen und autoritären Regimen, die Profit oder Überwachung über das menschliche Wohl stellen.",
+      "Letztendlich hängt die Frage, ob künstliche Intelligenz zum größten Verbündeten oder zur größten Bedrohung der Menschheit wird, allein von globaler Regulierung ab. Wenn Staaten verbindliche internationale Gesetze erlassen, algorithmische Transparenz durchsetzen und sicherstellen, dass die Gewinne der KI gerecht verteilt werden, kann diese Technologie zu einem mächtigen Werkzeug für menschlichen Fortschritt werden."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Welche positiven Einsatzmöglichkeiten der künstlichen Intelligenz werden im ersten Absatz hervorgehoben?",
+        "points": 1,
+        "reponse_modele": "KI hilft Ärzten bei der Früherkennung von Tumoren, beschleunigt die Medikamentenforschung und optimiert erneuerbare Energienetze.",
+        "mots_cles": [
+          { "mot": "Tumore", "variantes": ["Medikamente", "Stromnetze", "Klimawandel"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Welche konkreten gesellschaftlichen und politischen Risiken werden im zweiten Absatz genannt?",
+        "points": 1,
+        "reponse_modele": "Arbeitsplatzverluste, algorithmische Diskriminierung, autonome Waffen sowie gefälschte Medien, die Wahlen manipulieren können.",
+        "mots_cles": [
+          { "mot": "Diskriminierung", "variantes": ["Arbeitsplatzverluste", "Waffensysteme", "Wahlen"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Worin besteht laut dem dritten Absatz die eigentliche Gefahr der KI?",
+        "points": 1,
+        "reponse_modele": "Nicht in rebellierenden Maschinen, sondern in Konzernen und autoritären Staaten, die KI für Profit oder Überwachung missbrauchen.",
+        "mots_cles": [
+          { "mot": "Konzerne", "variantes": ["autoritäre Regime", "Profit", "Überwachung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie die Bedeutung des Verbs „einläuten“ im ersten Absatz.",
+        "points": 1,
+        "reponse_modele": "Es bedeutet den Beginn einer neuen Epoche oder Entwicklung ankündigen oder einleiten.",
+        "mots_cles": [
+          { "mot": "einleiten", "variantes": ["beginnen", "ankündigen", "eröffnen"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Was versteht man unter „algorithmischer Diskriminierung“ im zweiten Absatz?",
+        "points": 1,
+        "reponse_modele": "Dass KI-Systeme bestehende Vorurteile aus alten Daten übernehmen und bei Bewerbungen oder Gerichtsurteilen Menschen benachteiligen.",
+        "mots_cles": [
+          { "mot": "Vorurteile fortschreiben", "variantes": ["Einstellungsverfahren", "Strafurteile", "Benachteiligung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Welche Funktion erfüllt der Konnektor „Hingegen“ zu Beginn des dritten Absatzes?",
+        "points": 1,
+        "reponse_modele": "Er leitet einen Perspektivwechsel ein und stellt den Science-Fiction-Ängsten die reale Verantwortung menschlicher Akteure gegenüber.",
+        "mots_cles": [
+          { "mot": "Gegensatz", "variantes": ["Perspektivwechsel", "menschliche Verantwortung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Analysieren Sie die grammatische Struktur „...die Folgen für die Menschheit könnten katastrophal sein, sollte eine allgemeine künstliche Intelligenz jemals der menschlichen Kontrolle entgleiten.“",
+        "points": 1,
+        "reponse_modele": "Ein irrealer bzw. potenzieller Bedingungssatz im Konjunktiv II ohne „wenn“ (Verb-Erst-Stellung mit „sollte“), der ein hypothetisches Zukunftsszenario warnt.",
+        "mots_cles": [
+          { "mot": "Konjunktiv II", "variantes": ["Bedingungssatz ohne wenn", "hypothetisch", "sollte"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Welche drei Bedingungen müssen laut dem Schlussabsatz erfüllt sein, damit KI der Menschheit nützt?",
+        "points": 1,
+        "reponse_modele": "Verbindliche internationale Gesetze, transparente Algorithmen und eine gerechte Verteilung der wirtschaftlichen Gewinne.",
+        "mots_cles": [
+          { "mot": "Gesetze", "variantes": ["Transparenz", "gerecht verteilt", "Regulierung"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-032b",
+    "titre": "Können wir unsere Privatsphäre im digitalen Zeitalter noch schützen?",
+    "titre2": "Übung 32",
+    "audios": [
+      { "id": "audio-de-read-b2-032b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-032b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Im belebten Foyer einer Cybersicherheitskonferenz richtete die Bürgerrechtlerin Maya Lin den abgedunkelten Blickschutzfilter ihres Laptops aus. Ihr gegenüber saß Henrik Lindqvist, leitender Softwarearchitekt einer großen sozialen Plattform. „Seien Sie ehrlich, Henrik“, forderte Maya ihn heraus. „Jede Suchanfrage, jedes Standortsignal und jeder biometrische Scan wird unaufhörlich von Tech-Giganten und Datenhändlern ausgewertet. Ist persönliche Privatsphäre im einundzwanzigsten Jahrhundert zu einer bloßen Illusion geworden?“",
+      "Henrik seufzte und lehnte sich in seinem Sessel zurück. „Als Illusion würde ich sie nicht bezeichnen, Maya, obgleich sie heute zweifellos weitaus mehr Wachsamkeit erfordert als früher. Nutzer geben freiwillig Unmengen persönlicher Informationen im Austausch gegen kostenlose, bequeme Dienste preis – von der Echtzeit-Navigation bis zum Cloud-Speicher. Zudem bieten Ende-zu-Ende-Verschlüsselung und datenschutzfreundliche Browser heute stärkere Schutzwerkzeuge als je zuvor.“",
+      "„Bequemlichkeit darf Bürger nicht dazu zwingen, ihre Grundrechte aufzugeben“, entgegnete Maya scharf. „Die meisten Menschen klicken auf ‚Ich stimme zu‘ bei dreißigseitigen Datenschutzerklärungen, die sie unmöglich erfassen können. Schlimmer noch: Der Überwachungskapitalismus erstellt detaillierte psychologische Profile, um Konsumverhalten und politische Meinungen ohne echtes Bewusstsein der Nutzer zu manipulieren.“",
+      "Henrik nickte widerstrebend und räumte die Berechtigung ihres Einwands ein. „Sie haben recht, dass individuelle Vorsichtsmaßnahmen allein – wie etwa VPN-Dienste – gegen systematisches Tracking nicht ausreichen. Sofern Regierungen keine strengen Gesetze zur Datenminimierung durchsetzen und invasive Überwachungspraktiken bestrafen, wird echter digitaler Datenschutz ein Privileg für Technikexperten bleiben.“"
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Warum bezweifelt Maya Lin, dass echte Privatsphäre heute noch existiert?",
+        "points": 1,
+        "reponse_modele": "Weil Technologiekonzerne und Datenhändler ständig alle Suchanfragen, Standortdaten und biometrischen Merkmale sammeln und auswerten.",
+        "mots_cles": [
+          { "mot": "Datenhändler", "variantes": ["Suchanfrage", "Standortsignal", "biometrisch"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Wie verteidigt Henrik Lindqvist den aktuellen Zustand des digitalen Datenschutzes?",
+        "points": 1,
+        "reponse_modele": "Er betont, dass Nutzer Daten freiwillig für kostenlose Apps teilen und dass Verschlüsselung heute wirksamen Schutz ermöglicht.",
+        "mots_cles": [
+          { "mot": "kostenlose Dienste", "variantes": ["freiwillig", "Verschlüsselung", "Browser"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Warum hält Maya die Zustimmung der Nutzer zu Datenschutzerklärungen für nicht wirklich informiert?",
+        "points": 1,
+        "reponse_modele": "Weil die Texte Dutzende Seiten lang und zu kompliziert sind, sodass normale Menschen sie vor dem Anklicken gar nicht lesen können.",
+        "mots_cles": [
+        { "mot": "dreißigseitig", "variantes": ["nicht erfassen", "Zustimmung", "Datenschutzerklärungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie den Begriff „Überwachungskapitalismus“ anhand des dritten Absatzes.",
+"points": 1,
+"reponse_modele": "Ein Wirtschaftsmodell, bei dem Unternehmen persönliche Nutzerdaten sammeln, um psychologische Profile zu erstellen und Kauf- sowie Wahlentscheidungen zu steuern.",
+"mots_cles": [
+{ "mot": "psychologische Profile", "variantes": ["manipulieren", "Konsumverhalten", "Überwachung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welches Detail im ersten Satz unterstreicht visuell Maya Lins Beruf als Bürgerrechtlerin?",
+"points": 1,
+"reponse_modele": "Ihr Laptop ist mit einem abgedunkelten Blickschutzfilter versehen, damit Fremde nicht auf ihren Bildschirm schauen können.",
+"mots_cles": [
+{ "mot": "Blickschutzfilter", "variantes": ["abgedunkelt", "Laptop"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche grammatische und logische Funktion erfüllt der Konnektor „Sofern“ in Henriks letztem Satz?",
+"points": 1,
+"reponse_modele": "Er leitet eine notwendige Bedingung ein („falls nicht“ / „wenn nicht“) und warnt davor, dass Datenschutz ohne Gesetze elitär bleibt.",
+"mots_cles": [
+{ "mot": "Bedingung", "variantes": ["falls nicht", "Gesetze", "Warnung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Warum räumt Henrik ein, dass individuelle Schutztools wie VPN-Dienste allein nicht genügen?",
+"points": 1,
+"reponse_modele": "Weil einzelne technische Tricks gegen die flächendeckende, systematische Datensammlung großer Plattformen machtlos sind.",
+"mots_cles": [
+{ "mot": "systematisches Tracking", "variantes": ["reichen nicht aus", "Gesetze nötig"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Worauf einigen sich Maya und Henrik am Ende ihres Gesprächs?",
+"points": 1,
+"reponse_modele": "Dass strenge staatliche Gesetze zur Datenminimierung und Strafen gegen Überwachung nötig sind, damit Privatsphäre ein Recht für alle bleibt.",
+"mots_cles": [
+{ "mot": "Datenminimierung", "variantes": ["Gesetze", "bestrafen", "für alle"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-033b",
+"titre": "Fördern soziale Netzwerke die Meinungsfreiheit oder Desinformation?",
+"titre2": "Übung 33",
+"audios": [
+{ "id": "audio-de-read-b2-033b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-033b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Als soziale Medien aufkamen, wurden sie weithin als revolutionäre Werkzeuge demokratischer Teilhabe gefeiert. Indem digitale Netzwerke das traditionelle Informationsmonopol großer Zeitungen und Fernsehsender aufbrachen, ermöglichten sie es gewöhnlichen Bürgern, Whistleblowern und marginalisierten Aktivisten, ihre Stimmen augenblicklich einem weltweiten Publikum zugänglich zu machen. In autoritären Staaten dienten soziale Netzwerke wiederholt als unverzichtbare Instrumente, um friedliche Proteste zu organisieren und Menschenrechtsverletzungen aufzudecken.",
+"Dennoch hat diese beispiellose Demokratisierung der öffentlichen Rede eine dunkle, destabilisierende Kehrseite offenbart: die virale Verbreitung von Desinformation. Anders als seriöser Journalismus, der auf redaktioneller Prüfung und rechtlicher Verantwortung beruht, funktionieren soziale Plattformen nach aufmerksamkeitsgetriebenen Algorithmen. Empirische Studien belegen konstant, dass emotional aufgeladene Unwahrheiten, empörende Schlagzeilen und Verschwörungstheorien sich deutlich schneller und weiter verbreiten als differenzierte, faktenbasierte Berichterstattung.",
+"Folglich stehen Plattformen vor einem akuten Dilemma bei der Inhaltsmoderation. Löschen Technologiekonzerne irreführende Beiträge rigoros oder sperren Konten, werfen Kritiker ihnen unkontrollierte private Zensur vor. Verfolgen Plattformen hingegen unter dem Banner absoluter Redefreiheit eine Laissez-faire-Haltung, gedeihen Hassrede sowie medizinische oder wahlbezogene Falschinformationen ungehindert.",
+"Letztendlich erfordert der Schutz der Meinungsfreiheit nicht, Algorithmen die Macht zu verleihen, Lügen aus Profitstreben künstlich zu verstärken. Wenn demokratische Gesellschaften zwischen dem Recht auf freie Meinungsäußerung und dem Anspruch auf algorithmische Reichweite unterscheiden, können Plattformen offene Debatten bewahren und zugleich gezielte Täuschung eindämmen."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Wie stärkten soziale Netzwerke anfangs die Meinungsfreiheit laut dem ersten Absatz?",
+"points": 1,
+"reponse_modele": "Sie brachen das Monopol klassischer Medien auf, sodass normale Bürger und Aktivisten weltweit Gehör fanden und Proteste organisieren konnten.",
+"mots_cles": [
+{ "mot": "Informationsmonopol", "variantes": ["Aktivisten", "weltweites Publikum", "Proteste"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Warum verbreiten sich Falschmeldungen in sozialen Medien schneller als geprüfte Nachrichten?",
+"points": 1,
+"reponse_modele": "Weil Algorithmen auf maximale Aufmerksamkeit programmiert sind und empörende oder emotionale Lügen mehr Klicks erzeugen als nüchterne Fakten.",
+"mots_cles": [
+{ "mot": "Algorithmen", "variantes": ["Aufmerksamkeit", "empörend", "emotional"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "In welchem Dilemma befinden sich soziale Plattformen beim Umgang mit problematischen Inhalten?",
+"points": 1,
+"reponse_modele": "Löschen sie Beiträge, wird ihnen Zensur vorgeworfen; greifen sie nicht ein, verbreiten sich Hassrede und gefährliche Lügen ungehindert.",
+"mots_cles": [
+{ "mot": "Zensur vs Hassrede", "variantes": ["Inhaltsmoderation", "Falschinformationen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Substantivs „Kehrseite“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet die negative Seite, der Nachteil oder die unerwünschte Folge einer an sich positiven Entwicklung.",
+"mots_cles": [
+{ "mot": "Nachteil", "variantes": ["negative Seite", "Schattenseite", "Problem"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Worin unterscheidet sich seriöser Journalismus laut dem Text von sozialen Medien?",
+"points": 1,
+"reponse_modele": "Qualitätsjournalismus prüft Fakten redaktionell und trägt rechtliche Verantwortung, während soziale Plattformen auf virale Klicks setzen.",
+"mots_cles": [
+{ "mot": "redaktionelle Prüfung", "variantes": ["rechtliche Verantwortung", "Fakten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „hingegen“ im dritten Absatz?",
+"points": 1,
+"reponse_modele": "Er stellt die Folgen strenger Löschungen den negativen Auswirkungen völliger Untätigkeit gegenüber.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Gegenüberstellung", "Kontrast", "andererseits"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Erklären Sie die Unterscheidung im Schlussabsatz zwischen „freier Meinungsäußerung“ und „algorithmischer Reichweite“.",
+"points": 1,
+"reponse_modele": "Jeder darf seine Meinung sagen, aber niemand hat das Recht darauf, dass gewinnorientierte Algorithmen Lügen künstlich an Millionen Menschen ausspielen.",
+"mots_cles": [
+{ "mot": "Meinungsäußerung vs Reichweite", "variantes": ["künstlich verstärken", "Profitstreben"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche Lösung empfiehlt der Autor am Ende des Textes?",
+"points": 1,
+"reponse_modele": "Offene gesellschaftliche Debatten zu schützen, aber gleichzeitig die automatische Weiterverbreitung von gezielten Falschmeldungen einzuschränken.",
+"mots_cles": [
+{ "mot": "Täuschung eindämmen", "variantes": ["offene Debatten", "Algorithmen regulieren"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-034b",
+"titre": "Bildschirmabhängigkeit bei jüngeren Generationen",
+"titre2": "Übung 34",
+"audios": [
+{ "id": "audio-de-read-b2-034b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-034b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Um zwei Uhr morgens war der sechzehnjährige Noah noch immer hellwach, erhellt vom blassen Schein seines Smartphones, während er endlos durch Kurzvideos wischte. Jedes Mal, wenn er sich vornahm, das Gerät wegzulegen, lieferten das endlose Scrollen und personalisierte Empfehlungen bereits den nächsten fesselnden Clip. Als um sieben Uhr sein Wecker klingelte, fühlte sich Noah benommen, gereizt und unfähig, sich im morgendlichen Literaturunterricht zu konzentrieren.",
+"Noahs Kampf steht sinnbildlich für eine weitverbreitete Verhaltenskrise unter Kindern und Jugendlichen. Kinderärzte und Neurowissenschaftler warnen, dass übermäßige Bildschirmzeit eng mit chronischem Schlafmangel, erhöhten Angstzuständen und schwindender Aufmerksamkeitsspanne verknüpft ist. Anders als das passive Fernsehen früherer Jahrzehnte sind heutige Apps gezielt mithilfe persuasiver Designtechniken programmiert – wie variablen Belohnungsmechanismen und sozialen Bestätigungssignalen –, die zwanghafte Dopaminschleifen in jungen Gehirnen auslösen.",
+"Dennoch greift es zu kurz, Jugendlichen mangelnde Willenskraft vorzuwerfen, da dabei die bewusste psychologische Architektur moderner Plattformen übersehen wird. Zudem ist ein vollständiges Bildschirmverbot weder realistisch noch wünschenswert, weil digitale Kompetenz für moderne Bildung, kreativen Ausdruck und soziale Teilhabe unverzichtbar ist.",
+"Folglich erfordert die Bekämpfung der Bildschirmabhängigkeit ein abgestimmtes Handeln von Familien, Schulen und Gesetzgebern. Während Eltern bildschirmfreie Familienzeiten einführen und gesunde digitale Gewohnheiten vorleben können, müssen Regierungen Technologiekonzerne in die Pflicht nehmen, indem sie süchtig machende Designfunktionen für Minderjährige verbieten."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Wie wirkte sich Noahs nächtliche Smartphone-Nutzung am nächsten Morgen auf ihn aus?",
+"points": 1,
+"reponse_modele": "Er bekam viel zu wenig Schlaf, war übermüdet und gereizt und konnte dem Unterricht kaum folgen.",
+"mots_cles": [
+{ "mot": "benommen", "variantes": ["gereizt", "konzentrieren", "Schlafmangel"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche gesundheitlichen und geistigen Folgen hat übermäßige Bildschirmnutzung bei Jugendlichen?",
+"points": 1,
+"reponse_modele": "Dauerhafter Schlafmangel, verstärkte Ängste und eine deutlich kürzere Konzentrationsfähigkeit.",
+"mots_cles": [
+{ "mot": "Schlafmangel", "variantes": ["Angstzustände", "Aufmerksamkeitsspanne"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Worin unterscheiden sich moderne Smartphone-Apps vom klassischen Fernsehen laut dem zweiten Absatz?",
+"points": 1,
+"reponse_modele": "Apps nutzen gezielte psychologische Tricks wie endloses Scrollen und Likes, die im jugendlichen Gehirn suchterzeugende Dopaminreaktionen auslösen.",
+"mots_cles": [
+{ "mot": "persuasive Designtechniken", "variantes": ["Dopaminschleifen", "Belohnungsmechanismen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Redewendung „es greift zu kurz“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet, dass eine Erklärung oberflächlich, unvollständig oder zu einseitig ist und wesentliche Ursachen übersieht.",
+"mots_cles": [
+{ "mot": "oberflächlich", "variantes": ["unvollständig", "zu einfach", "übersieht Ursachen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum hält der Autor ein totales Verbot von Bildschirmen für unpraktikabel?",
+"points": 1,
+"reponse_modele": "Weil Jugendliche digitale Fähigkeiten für die Schule, kreative Projekte und den Kontakt zu Freunden benötigen.",
+"mots_cles": [
+{ "mot": "Bildung", "variantes": ["soziale Teilhabe", "digitale Kompetenz"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er lenkt den Blick weg von der Schuldzuweisung an Jugendliche hin zur Verantwortung der App-Entwickler und einer realistischen Medienerziehung.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Perspektivwechsel", "trotzdem"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche Verantwortung tragen Tech-Unternehmen laut dem Text an der Bildschirmabhängigkeit?",
+"points": 1,
+"reponse_modele": "Sie entwickeln bewusst manipulatives Design, das gezielt die noch reifenden Gehirne von Kindern und Jugendlichen abhängig macht.",
+"mots_cles": [
+{ "mot": "psychologische Architektur", "variantes": ["gezielt programmiert", "junge Gehirne"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche unterschiedlichen Aufgaben weist der Autor im Schlussabsatz Eltern und Regierungen zu?",
+"points": 1,
+"reponse_modele": "Eltern sollen bildschirmfreie Zeiten einführen und Vorbild sein, während Regierungen manipulative Suchtfunktionen für Minderjährige verbieten müssen.",
+"mots_cles": [
+{ "mot": "Eltern vs Regierungen", "variantes": ["bildschirmfreie Zeiten", "verbieten", "Minderjährige"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-035b",
+"titre": "Machen neue Technologien den Einzelnen unabhängiger?",
+"titre2": "Übung 35",
+"audios": [
+{ "id": "audio-de-read-b2-035b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-035b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Auf den ersten Blick scheinen moderne digitale Technologien dem Individuum eine beispiellose Autonomie verliehen zu haben. Ausgestattet mit einem einzigen Smartphone kann sich ein Mensch ohne Papierkarte in fremden Städten orientieren, Fremdsprachen augenblicklich übersetzen, Bankgeschäfte ohne Filialbesuch erledigen und sich über kostenlose Online-Kurse weiterbilden. Für Menschen mit körperlichen Beeinträchtigungen haben assistive Technologien – wie sprachgesteuerte Smart-Homes und Bildschirmleseprogramme – langjährige Barrieren für ein selbstbestimmtes Leben abgebaut.",
+"Doch unter dieser Oberfläche müheloser Selbstermächtigung verbirgt sich eine paradoxe Form technologischer Abhängigkeit. Indem wir alltägliche geistige Aufgaben zunehmend an digitale Assistenten auslagern, beginnen grundlegende menschliche Fähigkeiten zu verkümmern. Neurowissenschaftler sprechen von „digitaler Amnesie“, um zu beschreiben, wie das ständige Verlassen auf Suchmaschinen die Gedächtnisleistung schwächt, während dauerhafte GPS-Navigation den natürlichen Orientierungssinn beeinträchtigt.",
+"Darüber hinaus macht eine übermäßige Abhängigkeit von vernetzter Infrastruktur den Einzelnen bei Systemausfällen äußerst verletzlich. Ein längerer Stromausfall, ein Cyberangriff oder eine Softwarestörung kann Smart-Homes schlagartig unbewohnbar machen, digitale Zahlungen blockieren und Cloud-Dokumente unzugänglich werden lassen. Mit anderen Worten: Wir haben praktische Selbstständigkeit gegen zerbrechliche Bequemlichkeit eingetauscht.",
+"Letztendlich stärkt Technologie die menschliche Unabhängigkeit nur dann, wenn sie als Werkzeug dient, das unsere Fähigkeiten erweitert, statt als Krücke, die sie ersetzt. Um wirklich autonom zu bleiben, müssen Menschen grundlegende analoge Fertigkeiten bewusst pflegen und digitale Innovationen gezielt einsetzen."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Wie erhöhen neue Technologien laut dem ersten Absatz die Selbstständigkeit von Menschen mit Behinderungen?",
+"points": 1,
+"reponse_modele": "Hilfsmittel wie sprachgesteuerte Haushaltsgeräte und Vorleseprogramme ermöglichen es ihnen, im Alltag ohne ständige fremde Hilfe zu leben.",
+"mots_cles": [
+{ "mot": "assistive Technologien", "variantes": ["sprachgesteuert", "Bildschirmleseprogramme", "Barrieren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche negativen Auswirkungen hat die ständige Nutzung von Suchmaschinen und GPS auf das Gehirn?",
+"points": 1,
+"reponse_modele": "Suchmaschinen schwächen das Erinnerungsvermögen („digitale Amnesie“), und GPS verringert die Fähigkeit, sich selbstständig im Raum zu orientieren.",
+"mots_cles": [
+{ "mot": "digitale Amnesie", "variantes": ["Gedächtnisleistung", "Orientierungssinn", "GPS"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Warum macht totale digitale Vernetzung den modernen Alltag in Krisensituationen anfällig?",
+"points": 1,
+"reponse_modele": "Weil ein Stromausfall oder Cyberangriff sofort elektronische Zahlungen, vernetzte Wohnungen und den Zugriff auf Online-Daten lahmlegen kann.",
+"mots_cles": [
+{ "mot": "Stromausfall", "variantes": ["Cyberangriff", "Zahlungen", "unzugänglich"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „verkümmern“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet durch mangelnde Übung schwächer werden, zurückgehen oder verloren gehen.",
+"mots_cles": [
+{ "mot": "schwächer werden", "variantes": ["zurückgehen", "verloren gehen", "nachlassen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche Funktion erfüllt die Wendung „Mit anderen Worten“ im dritten Absatz?",
+"points": 1,
+"reponse_modele": "Sie bringt die kritische Bilanz auf den Punkt: Wir haben echte praktische Kompetenz gegen unsichere Bequemlichkeit eingetauscht.",
+"mots_cles": [
+{ "mot": "Zusammenfassung", "variantes": ["Zuspitzung", "Umformulierung", "Bilanz"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Doch“ zu Beginn des zweiten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet einen Widerspruch ein und kontrastiert die scheinbare Freiheit durch Technik mit der versteckten geistigen Abhängigkeit.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Paradoxon", "Widerspruch", "allerdings"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Deuten Sie den Vergleich zwischen einem „Werkzeug“ und einer „Krücke“ im Schlussabsatz.",
+"points": 1,
+"reponse_modele": "Ein Werkzeug unterstützt einen gesunden, fähigen Menschen bei der Arbeit, während eine Krücke nötig wird, wenn man ohne sie nicht mehr laufen kann.",
+"mots_cles": [
+{ "mot": "erweitert vs ersetzt", "variantes": ["Abhängigkeit", "Hilfsmittel", "Fähigkeiten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welchen Ratschlag gibt der Autor am Ende, um echte Autonomie zu bewahren?",
+"points": 1,
+"reponse_modele": "Man sollte analoge Grundfähigkeiten wie Kopfrechnen oder Kartenlesen bewusst trainieren und digitale Helfer nur überlegt nutzen.",
+"mots_cles": [
+{ "mot": "analoge Fertigkeiten", "variantes": ["bewusst pflegen", "gezielt einsetzen"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-036b",
+"titre": "Können Roboter den Menschen in bestimmten Bereichen ersetzen?",
+"titre2": "Übung 36",
+"audios": [
+{ "id": "audio-de-read-b2-036b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-036b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Auf einem internationalen Kongress für Robotik und Medizin stellte der Biomediziningenieur Dr. Kenji Sato einen Operationsroboter vor, der mikroskopisch feine Blutgefäße mit höchster Genauigkeit vernähen kann. „In der Hochpräzisionschirurgie, bei gefährlichen Aufräumarbeiten in Atomkraftwerken und in der Tiefseeforschung“, erklärte Dr. Sato den Delegierten, „erreichen Roboter nicht nur menschliche Leistungen – sie übertreffen sie. Maschinen leiden niemals unter Händezittern, Ermüdung oder emotionaler Panik unter Druck.“",
+"Im anschließenden Podiumsgespräch brachte die Altenpflegerin und Pflegewissenschaftlerin Clara Alvarez einen wichtigen ethischen Einwand ein. „Dr. Sato hat eindrucksvoll gezeigt, was Robotik in technischen Umgebungen leisten kann“, anerkannte sie. „Dennoch ist Effizienz in Bereichen wie der Krankenpflege, Psychotherapie oder frühkindlichen Bildung nicht der entscheidende Maßstab. Wenn ein an Demenz erkrankter Mensch nachts Angst hat, braucht er kein automatisiertes Sprachmodul, sondern die beruhigende Wärme einer menschlichen Hand und echtes Mitgefühl.“",
+"Dr. Sato nickte respektvoll und stimmte zu, dass körperliche Präzision etwas völlig anderes sei als emotionale Intelligenz. „Tatsächlich kann das Vortäuschen von Empathie durch vorprogrammierte Sätze auf verletzliche Menschen sogar täuschend und befremdlich wirken“, merkte er an. „Obgleich Assistenzroboter dabei helfen können, Patienten an die Einnahme von Medikamenten zu erinnern, können sie echte menschliche Zuwendung nicht ersetzen.“",
+"Letztendlich gelangten die Kongressteilnehmer zu einem klaren Konsens: Robotik sollte eingesetzt werden, um Menschen bei gefährlichen oder extrem eintönigen Aufgaben zu ersetzen, während sie in sozialen und pflegerischen Berufen – in denen moralisches Urteilsvermögen und menschliche Nähe unersetzlich bleiben – ausschließlich als unterstützendes Hilfsmittel dienen darf."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "In welchen Bereichen sind Roboter dem Menschen laut Dr. Kenji Sato überlegen, und warum?",
+"points": 1,
+"reponse_modele": "In der Mikrochirurgie, in verstrahlten Atomanlagen und in der Tiefsee, weil Maschinen nicht müde werden, zittern oder in Panik geraten.",
+"mots_cles": [
+{ "mot": "Präzision", "variantes": ["Chirurgie", "Atomkraftwerke", "keine Ermüdung", "Zittern"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Warum können Roboter laut Clara Alvarez Menschen in Pflege und Erziehung nicht ersetzen?",
+"points": 1,
+"reponse_modele": "Weil dort echte Empathie, menschliche Wärme und emotionale Geborgenheit wichtiger sind als reine technische Effizienz.",
+"mots_cles": [
+{ "mot": "Mitgefühl", "variantes": ["Wärme", "menschliche Hand", "Effizienz"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Wie beurteilt Dr. Sato Pflegeroboter, die menschliche Gefühle nachahmen?",
+"points": 1,
+"reponse_modele": "Er hält programmierte tröstende Sätze für unehrlich und befremdlich gegenüber hilfsbedürftigen Patienten.",
+"mots_cles": [
+{ "mot": "täuschend", "variantes": ["befremdlich", "vorprogrammiert", "Vortäuschen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „befremdlich“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet seltsam, unangenehm, irritierend oder fremdartig wirkend.",
+"mots_cles": [
+{ "mot": "seltsam", "variantes": ["unangenehm", "irritierend", "fremd"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche sinnvolle Unterstützungsaufgabe können Roboter in der Altenpflege dennoch übernehmen?",
+"points": 1,
+"reponse_modele": "Sie können praktische Routineaufgaben erledigen, wie etwa Patienten rechtzeitig an ihre Medikamente zu erinnern.",
+"mots_cles": [
+{ "mot": "Medikamente erinnern", "variantes": ["Assistenzroboter", "helfen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ in Clara Alvarez' Redebeitrag?",
+"points": 1,
+"reponse_modele": "Er grenzt die technischen Erfolge der Robotik gegen die emotionalen Anforderungen sozialer Berufe ab.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Abgrenzung", "Einschränkung", "trotzdem"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welches ethische Leitprinzip bestimmt das Fazit des Kongresses im letzten Absatz?",
+"points": 1,
+"reponse_modele": "Technik soll den Menschen von gefährlicher Arbeit entlasten, darf aber niemals zwischenmenschliche Fürsorge und moralische Verantwortung verdrängen.",
+"mots_cles": [
+{ "mot": "menschliche Nähe unersetzlich", "variantes": ["moralisches Urteilsvermögen", "Hilfsmittel"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Fassen Sie die am Ende vorgeschlagene Arbeitsteilung zwischen Mensch und Roboter zusammen.",
+"points": 1,
+"reponse_modele": "Roboter übernehmen riskante oder eintönige Arbeiten allein, während sie in Pflege und Bildung nur unterstützend für den Menschen tätig sind.",
+"mots_cles": [
+{ "mot": "gefährlich vs sozial", "variantes": ["ersetzen vs unterstützen", "Hilfsmittel"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-037b",
+"titre": "Der Schutz persönlicher Daten: Eine zentrale Herausforderung des 21. Jahrhunderts",
+"titre2": "Übung 37",
+"audios": [
+{ "id": "audio-de-read-b2-037b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-037b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Persönliche Daten werden häufig als „das neue Öl“ der Wirtschaft des einundzwanzigsten Jahrhunderts bezeichnet; doch im Gegensatz zu fossilen Brennstoffen sind Daten unendlich vervielfältigbar und untrennbar mit der menschlichen Identität verknüpft. Jedes Mal, wenn eine Person eine Website besucht, kontaktlos bezahlt oder einen Fitnesstracker trägt, entstehen detaillierte Aufzeichnungen über Gesundheit, Finanzgewohnheiten und soziale Kontakte. Obgleich Datenanalysen zweifellos medizinische Durchbrüche und maßgeschneiderte öffentliche Dienstleistungen fördern, birgt die unkontrollierte Anhäufung persönlicher Informationen beispiellose Risiken für die individuelle Freiheit.",
+"Erstens sind riesige zentrale Datenbanken bevorzugte Ziele für Cyberkriminelle. Spektakuläre Datenlecks legen regelmäßig Krankengeschichten, Passnummern und Bankdaten von Millionen Bürgern offen, wodurch Opfer über Jahre hinweg Identitätsdiebstahl und Erpressung ausgesetzt sind. Darüber hinaus ermöglichen undurchsichtige Datenhandelsnetzwerke selbst bei legaler Erhebung, dass Versicherungen oder Arbeitgeber sensible Merkmale – wie chronische Krankheiten – ableiten und Bewerber verdeckt benachteiligen.",
+"Angesichts dieser Gefahren haben wegweisende Gesetze wie die Datenschutz-Grundverordnung (DSGVO) der Europäischen Union wichtige Prinzipien verankert, darunter die informierte Einwilligung und das „Recht auf Vergessenwerden“. Dennoch bleibt die Durchsetzung weltweit uneinheitlich, und komplexe grenzüberschreitende Datenströme eilen nationalen Gesetzen oft voraus.",
+"Letztendlich ist der Schutz persönlicher Daten nicht bloß ein technisches Sicherheitsproblem, sondern ein Grundpfeiler der Menschenwürde und Demokratie. Sofern Gesellschaften keine strikte Transparenz durchsetzen, Nachlässigkeit von Konzernen bestrafen und Privatsphäre als unveräußerliches Menschenrecht statt als handelbare Ware betrachten, droht den Bürgern ein Leben unter dauerhafter digitaler Überwachung."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Worin unterscheiden sich persönliche Daten laut dem ersten Satz vom Rohstoff Erdöl?",
+"points": 1,
+"reponse_modele": "Im Gegensatz zu Öl lassen sich Daten unbegrenzt kopieren und sind direkt mit der Persönlichkeit eines Menschen verbunden.",
+"mots_cles": [
+{ "mot": "vervielfältigbar", "variantes": ["Identität", "kopieren", "unendlich"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche beiden Hauptgefahren riesiger Datensammlungen werden im zweiten Absatz beschrieben?",
+"points": 1,
+"reponse_modele": "Hackerangriffe mit Identitätsdiebstahl sowie die heimliche Weitergabe von Daten an Versicherer oder Arbeitgeber zur Benachteiligung.",
+"mots_cles": [
+{ "mot": "Cyberkriminelle", "variantes": ["Identitätsdiebstahl", "benachteiligen", "Versicherungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche Rechte wurden durch die europäische Datenschutz-Grundverordnung (DSGVO) gestärkt?",
+"points": 1,
+"reponse_modele": "Die Pflicht zu einer verständlichen, informierten Zustimmung sowie das Recht, eigene persönliche Daten löschen zu lassen.",
+"mots_cles": [
+{ "mot": "informierte Einwilligung", "variantes": ["Recht auf Vergessenwerden", "löschen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adverbs „verdeckt“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet heimlich, versteckt, unbemerkt oder hinter dem Rücken der Betroffenen.",
+"mots_cles": [
+{ "mot": "heimlich", "variantes": ["versteckt", "unbemerkt", "insgeheim"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum reichen bestehende Datenschutzgesetze weltweit noch nicht aus?",
+"points": 1,
+"reponse_modele": "Weil die Kontrolle von Land zu Land unterschiedlich streng ist und internationale Datenflüsse schneller sind als nationale Gesetze.",
+"mots_cles": [
+{ "mot": "uneinheitlich", "variantes": ["grenzüberschreitend", "vorauseilen", "weltweit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ im dritten Absatz?",
+"points": 1,
+"reponse_modele": "Er stellt die rechtlichen Fortschritte der DSGVO den praktischen Lücken bei der weltweiten Umsetzung gegenüber.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Einschränkung", "trotzdem", "Lücken"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche grundlegende Unterscheidung trifft der Autor im letzten Satz hinsichtlich der Privatsphäre?",
+"points": 1,
+"reponse_modele": "Datenschutz muss als unantastbares Menschenrecht geschützt werden und darf nicht wie eine gewöhnliche Ware verkauft werden.",
+"mots_cles": [
+{ "mot": "Menschenrecht vs Ware", "variantes": ["unveräußerlich", "handelbar", "Menschenwürde"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche Maßnahmen sind laut dem Schlussabsatz nötig, um dauerhafte Überwachung zu verhindern?",
+"points": 1,
+"reponse_modele": "Strenge Transparenzpflichten und spürbare Strafen für Unternehmen, die schlampig mit Bürgerdaten umgehen.",
+"mots_cles": [
+{ "mot": "Transparenz", "variantes": ["Nachlässigkeit bestrafen", "Konzerne"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-038b",
+"titre": "Der Einfluss von Algorithmen auf unsere täglichen Entscheidungen",
+"titre2": "Übung 38",
+"audios": [
+{ "id": "audio-de-read-b2-038b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-038b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Vom morgendlichen Blick in den Nachrichten-Feed bis zur abendlichen Filmauswahl auf einer Streaming-Plattform kuratieren unsichtbare Empfehlungsalgorithmen stillschweigend unseren Alltag. Entwickelt, um Vorlieben anhand früherer Klicks, Suchverläufe und demografischer Profile vorherzusagen, bieten diese mathematischen Formeln unbestreitbaren Komfort, indem sie riesige digitale Datenmengen in maßgeschneiderte Vorschläge filtern.",
+"Dennoch warnen Verhaltenspsychologen und Ethiker davor, dass algorithmische Vorauswahl schleichend die menschliche Autonomie untergräbt. Wenn uns Vorhersagesysteme kontinuierlich Musik, Artikel und Produkte präsentieren, die unseren bestehenden Geschmack widerspiegeln, schließen sie uns in enge „Filterblasen“ ein. Folglich verschwindet die Serendipität – die glückliche Entdeckung unerwarteter Ideen oder ungewohnter Sichtweisen –, was Bestätigungsfehler und geistige Konformität verstärkt.",
+"Darüber hinaus reicht der Einfluss von Algorithmen weit über harmlose Unterhaltungswünsche hinaus in folgenreiche Lebensentscheidungen hinein. Automatisierte Bewertungsmodelle bestimmen zunehmend, welche Bewerber zu Vorstellungsgesprächen eingeladen werden, welche Kreditanträge genehmigt werden und welche Nachrichten die öffentliche Debatte prägen. Da kommerzielle Algorithmen als undurchsichtige „Blackboxen“ agieren, verstehen Betroffene selten, warum ihnen eine Option empfohlen oder verwehrt wurde.",
+"Letztendlich sind Algorithmen zwar unverzichtbare Werkzeuge zur Bewältigung digitaler Informationsfülle, doch müssen wir uns davor hüten, unsere kritische Urteilskraft an automatisierte Vorhersagen abzutreten. Algorithmische Mündigkeit – indem wir bewusst vielfältige Perspektiven suchen, Plattformeinstellungen anpassen und gesetzliche Transparenz einfordern – ist entscheidend, damit Technik unserer Neugier dient statt unsere Entscheidungen zu diktieren."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welchen praktischen Nutzen bieten Empfehlungsalgorithmen im Alltag?",
+"points": 1,
+"reponse_modele": "Sie sparen Zeit und erleichtern die Orientierung, indem sie unübersichtliche Datenmengen nach unseren Vorlieben filtern.",
+"mots_cles": [
+{ "mot": "Komfort", "variantes": ["filtern", "maßgeschneiderte Vorschläge", "Vorlieben"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Wie schränken „Filterblasen“ die geistige Offenheit der Nutzer ein?",
+"points": 1,
+"reponse_modele": "Sie zeigen immer nur ähnliche Inhalte und Meinungen, sodass man keine überraschenden Gegenargumente mehr entdeckt und Vorurteile verfestigt.",
+"mots_cles": [
+{ "mot": "Serendipität", "variantes": ["Bestätigungsfehler", "bestehender Geschmack", "Konformität"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "In welchen wichtigen Lebensbereichen treffen Algorithmen heute folgenreiche Vorentscheidungen?",
+"points": 1,
+"reponse_modele": "Bei der Auswahl von Stellenbewerbern, der Vergabe von Bankkrediten und der Sichtbarkeit politischer Nachrichten.",
+"mots_cles": [
+{ "mot": "Bewerber", "variantes": ["Kreditanträge", "Nachrichten", "Vorstellungsgespräche"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie den Begriff „Serendipität“ anhand des zweiten Absatzes.",
+"points": 1,
+"reponse_modele": "Die zufällige, glückliche Entdeckung interessanter oder wertvoller Dinge und Ideen, nach denen man gar nicht gezielt gesucht hat.",
+"mots_cles": [
+{ "mot": "zufällige Entdeckung", "variantes": ["unerwartete Ideen", "ungewohnte Sichtweisen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum werden kommerzielle Algorithmen im dritten Absatz als „Blackboxen“ bezeichnet?",
+"points": 1,
+"reponse_modele": "Weil ihre genauen Rechenregeln geheim gehalten werden und niemand nachvollziehen kann, wie eine Entscheidung zustande kam.",
+"mots_cles": [
+{ "mot": "undurchsichtig", "variantes": ["geheim", "nicht nachvollziehbar", "warum"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Darüber hinaus“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er steigert die Argumentation von harmlosen Freizeitvorschlägen hin zu schwerwiegenden beruflichen und finanziellen Auswirkungen.",
+"mots_cles": [
+{ "mot": "Steigerung", "variantes": ["Ergänzung", "folgenreich", "außerdem"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Was deutet der Autor über die scheinbare Entscheidungsfreiheit im Internet an?",
+"points": 1,
+"reponse_modele": "Dass viele Entscheidungen, die wir für völlig frei halten, in Wahrheit durch unsichtbare Vorauswahl gesteuert und eingeengt werden.",
+"mots_cles": [
+{ "mot": "Autonomie untergraben", "variantes": ["Vorauswahl", "gesteuert", "diktieren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche drei Gewohnheiten empfiehlt der Autor für „algorithmische Mündigkeit“ im Schlussabsatz?",
+"points": 1,
+"reponse_modele": "Aktiv nach anderen Meinungen suchen, Empfehlungseinstellungen ändern und gesetzliche Transparenzregeln unterstützen.",
+"mots_cles": [
+{ "mot": "vielfältige Perspektiven", "variantes": ["Plattformeinstellungen", "Transparenz"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-039b",
+"titre": "Fördert das Internet wirklich den universellen Zugang zu Wissen?",
+"titre2": "Übung 39",
+"audios": [
+{ "id": "audio-de-read-b2-039b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-039b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Theoretisch stellt das Internet die moderne Verwirklichung der antiken Bibliothek von Alexandria dar – ein grenzenloses Archiv menschlichen Wissens, das jedem mit einem Netzanschluss offensteht. Durch frei zugängliche Enzyklopädien, digitalisierte Museumsbestände und kostenlose Universitätsvorlesungen können Millionen Lernende weltweit Quantenphysik, Weltgeschichte oder Fremdsprachen studieren, ohne Studiengebühren zu zahlen. Unbestreitbar hat die digitale Vernetzung viele geografische und finanzielle Hürden für Selbstbildung abgebaut.",
+"Dennoch übersieht die Gleichsetzung von Internetzugang und universellem Wissenszugang hartnäckige strukturelle Ungleichheiten. Laut internationalen Telekommunikationsberichten ist rund ein Drittel der Weltbevölkerung noch immer offline, vorwiegend in ländlichen und einkommensschwachen Regionen. Selbst unter vernetzten Bevölkerungen besteht die „digitale Kluft“ durch ungleiche Internetgeschwindigkeiten, unerschwingliche mobile Datentarife und fehlende Computerhardware fort.",
+"Darüber hinaus schränken sprachliche und wirtschaftliche Barrieren den Zugang zu hochwertigem Fachwissen ein. Da die überwältigende Mehrheit begutachteter wissenschaftlicher Studien auf Englisch hinter teuren Bezahlschranken veröffentlicht wird, bleiben Nicht-Muttersprachler und unabhängige Forschende oft von neuesten Erkenntnissen ausgeschlossen. Gleichzeitig sind kostenlose Webseiten zunehmend mit minderwertigem Clickbait überflutet, das verlässliche Wissenschaft verdeckt.",
+"Folglich bietet das Internet zwar die technische Infrastruktur zur Demokratisierung von Wissen, doch bleibt echter universeller Zugang ein unvollendetes Projekt. Um diese Kluft zu schließen, bedarf es öffentlicher Investitionen in bezahlbares Breitbandinternet, des Ausbaus frei zugänglicher Wissenschaftspublikationen und digitaler Bildungsprogramme."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Warum vergleicht der Autor das Internet mit der antiken Bibliothek von Alexandria?",
+"points": 1,
+"reponse_modele": "Weil es das gesamte Wissen der Menschheit, Archive und Vorlesungen an einem Ort bündelt und für Lernende abrufbar macht.",
+"mots_cles": [
+{ "mot": "grenzenloses Archiv", "variantes": ["Wissen", "Enzyklopädien", "Vorlesungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche technischen und wirtschaftlichen Hindernisse halten die „digitale Kluft“ aufrecht?",
+"points": 1,
+"reponse_modele": "Ein Drittel der Menschheit hat gar kein Internet, und viele andere leiden unter langsamen Netzen, teuren Tarifen oder fehlenden Computern.",
+"mots_cles": [
+{ "mot": "offline", "variantes": ["Datentarife", "Computerhardware", "Geschwindigkeiten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Wie erschweren Sprache und Bezahlschranken den Zugang zu wissenschaftlicher Forschung?",
+"points": 1,
+"reponse_modele": "Fast alle wichtigen Studien erscheinen auf Englisch und kosten hohe Abogebühren, sodass viele Menschen sie weder lesen noch bezahlen können.",
+"mots_cles": [
+{ "mot": "Englisch", "variantes": ["Bezahlschranken", "wissenschaftliche Studien", "ausgeschlossen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „unerschwinglich“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet viel zu teuer, nicht bezahlbar oder außerhalb der finanziellen Möglichkeiten.",
+"mots_cles": [
+{ "mot": "zu teuer", "variantes": ["nicht bezahlbar", "unbezahlbar"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welches Qualitätsproblem betrifft kostenlose Inhalte im Internet laut dem dritten Absatz?",
+"points": 1,
+"reponse_modele": "Freie Webseiten sind voll von reißerischem, oberflächlichem Clickbait, wodurch seriöse Quellen schwerer zu finden sind.",
+"mots_cles": [
+{ "mot": "Clickbait", "variantes": ["minderwertig", "verlässliche Wissenschaft verdeckt"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Darüber hinaus“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er fügt den technischen Infrastrukturproblemen aus Absatz zwei weitere sprachliche und finanzielle Hürden hinzu.",
+"mots_cles": [
+{ "mot": "Ergänzung", "variantes": ["weitere Barrieren", "außerdem", "Steigerung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welchen Unterschied deutet der Autor zwischen bloßem „Internetzugang“ und echtem „Wissenszugang“ an?",
+"points": 1,
+"reponse_modele": "Ein Netzanschluss allein genügt nicht; echtes Wissen erfordert verständliche, verlässliche Quellen und die Fähigkeit, sie kritisch zu bewerten.",
+"mots_cles": [
+{ "mot": "Qualität und Kompetenz", "variantes": ["nicht gleichsetzen", "verlässlich", "Bildung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche drei Maßnahmen fordert der Autor im Schlussabsatz für echten universellen Wissenszugang?",
+"points": 1,
+"reponse_modele": "Bezahlbares Breitbandinternet ausbauen, wissenschaftliche Forschung kostenlos zugänglich machen und digitale Informationskompetenz lehren.",
+"mots_cles": [
+{ "mot": "Breitbandinternet", "variantes": ["frei zugängliche Wissenschaft", "Bildungsprogramme"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-040b",
+"titre": "Wie können wir die Manipulation von Informationen im Internet bekämpfen?",
+"titre2": "Übung 40",
+"audios": [
+{ "id": "audio-de-read-b2-040b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-040b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"In einer Ära, die von generativer künstlicher Intelligenz, Deepfake-Videos und koordinierten Desinformationskampagnen geprägt ist, ist die Unterscheidung zwischen seriösem Journalismus und fabrizierter Propaganda zu einer dringenden gesellschaftlichen Aufgabe geworden. Manipulative Inhalte beschränken sich längst nicht mehr auf plumpe Rechtschreibfehler; heute können synthetische Stimmen und täuschend echte Bilder binnen Minuten politische Skandale oder Gesundheitskrisen erfinden und das Vertrauen in demokratische Institutionen untergraben.",
+"Die Bewältigung dieser Bedrohung erfordert eine mehrschichtige Strategie statt eines einzigen Allheilmittels. Erstens muss Medienkompetenz systematisch in Lehrpläne sowie in die Erwachsenenbildung integriert werden. Bürgern beizubringen, wie man Primärquellen überprüft, Rückwärts-Bildersuchen durchführt und emotionale Manipulation erkennt, stattet sie mit einem lebenswichtigen geistigen Immunsystem gegen Täuschung aus.",
+"Zweitens tragen digitale Plattformen und Technologieentwickler erhebliche strukturelle Verantwortung. Die Einführung kryptografischer Wasserzeichen zur Kennzeichnung KI-generierter Inhalte, die Finanzierung unabhängiger Faktenprüfer und die Umgestaltung von Algorithmen, damit diese keine empörende Falschinformation mehr belohnen, können die virale Verbreitung von Lügen deutlich eindämmen. Auch wenn Kritiker vor staatlicher Zensur warnen, können transparente Regeln Plattformverantwortung durchsetzen, ohne Meinungen vorzuschreiben.",
+"Letztendlich ist der Kampf gegen Online-Manipulation eine gemeinsame demokratische Pflicht. Wenn Qualitätsjournalismus nachhaltig finanziert wird, Plattformen Wahrheit über Klickzahlen stellen und Bürger vor dem Teilen kurz innehalten und prüfen, können Gesellschaften dauerhafte Widerstandskraft gegen digitale Täuschung aufbauen."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Warum ist es heute viel schwieriger geworden, Falschmeldungen im Internet zu erkennen?",
+"points": 1,
+"reponse_modele": "Weil moderne KI-Programme in kürzester Zeit täuschend echte Videos, Stimmen und Fotos fälschen können.",
+"mots_cles": [
+{ "mot": "Deepfake", "variantes": ["synthetische Stimmen", "künstliche Intelligenz", "täuschend echt"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche konkreten Fähigkeiten sollen Programme zur Medienkompetenz vermitteln?",
+"points": 1,
+"reponse_modele": "Ursprungsquellen zu prüfen, Bilder im Netz zurückzuverfolgen und gezielte emotionale Panikmache zu durchschauen.",
+"mots_cles": [
+{ "mot": "Primärquellen", "variantes": ["Rückwärts-Bildersuche", "emotionale Manipulation"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche technischen und strukturellen Schritte können Plattformen gegen Falschmeldungen ergreifen?",
+"points": 1,
+"reponse_modele": "Digitale Wasserzeichen für KI-Inhalte einführen, unabhängige Faktenprüfer bezahlen und Algorithmen so ändern, dass Empörung nicht mehr belohnt wird.",
+"mots_cles": [
+{ "mot": "Wasserzeichen", "variantes": ["Faktenprüfer", "Algorithmen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Substantivs „Allheilmittel“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet eine einzige, einfache Wunderlösung, die angeblich jedes komplexe Problem sofort beseitigt.",
+"mots_cles": [
+{ "mot": "Wunderlösung", "variantes": ["einzige Lösung", "Patentrezept"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Wie lassen sich Plattformen laut dem dritten Absatz regulieren, ohne die Meinungsfreiheit zu verletzen?",
+"points": 1,
+"reponse_modele": "Durch transparente Regeln zur Verantwortung und Kennzeichnung, ohne dass der Staat bestimmte politische Meinungen verbietet.",
+"mots_cles": [
+{ "mot": "Plattformverantwortung", "variantes": ["transparente Regeln", "keine Meinungen vorschreiben"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Deuten Sie die Metapher „geistiges Immunsystem“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Sie vergleicht kritisches Medienwissen mit der körperlichen Abwehrkraft, die schädliche Viren erkennt und abwehrt, bevor sie schaden.",
+"mots_cles": [
+{ "mot": "Abwehrkraft", "variantes": ["Schutz vor Täuschung", "kritisches Denken"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche Funktion erfüllt der Konnektor „Auch wenn“ im dritten Absatz?",
+"points": 1,
+"reponse_modele": "Er räumt berechtigte Sorgen vor Zensur ein, zeigt aber zugleich, dass faire Transparenzregeln ohne Meinungsverbote möglich sind.",
+"mots_cles": [
+{ "mot": "Konzession", "variantes": ["Einräumung", "Gegensatz", "obwohl"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche drei Säulen braucht eine Gesellschaft laut dem Schlussabsatz, um digitale Täuschung abzuwehren?",
+"points": 1,
+"reponse_modele": "Gut finanzierten Qualitätsjournalismus, verantwortungsvolle Plattform-Algorithmen und aufmerksame Bürger, die Nachrichten vor dem Teilen prüfen.",
+"mots_cles": [
+{ "mot": "Qualitätsjournalismus", "variantes": ["Plattformen", "vor dem Teilen prüfen"], "poids": 1.0 }
+]
+}
+]
 }
 ]
