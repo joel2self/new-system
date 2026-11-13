@@ -1702,9 +1702,9 @@
 { "id": "audio-de-read-b2-020b-2", "url": "soundcloud.com" }
 ],
 "texte": [
-"Auf einem internationalen Symposium über soziale Gerechtigkeit lud Moderatorin Clara Moreau zwei Gäste – den Pädagogen Dr. Samuel Mensah und die Ökonomin Prof. Dr. Helene Vogt – zu einer Debatte darüber ein, ob Bildung noch immer der wichtigste Motor sozialen Aufstiegs sei. Dr. Mensah ergriff zuerst mit Überzeugung das Wort: „Im Laufe der Geschichte war allgemeine öffentliche Bildung der wirksamste Gleichmacher, den die Menschheit je geschaffen hat. Indem Schulen benachteiligten Jugendlichen Lesekompetenz, Abschlüsse und staatsbürgerliches Bewusstsein vermitteln, befähigen sie junge Menschen, ihre soziale Herkunft zu überwinden.“",
-"Prof. Vogt nickte respektvoll, bevor sie einen ernüchternden Einwand formulierte: „So sehr ich dieses Ideal schätze, Herr Dr. Mensah, zeigen empirische Daten doch, dass wir den Schulen allein eine unrealistische Last aufbürden. In den vergangenen drei Jahrzehnten haben immer mehr junge Menschen ein Hochschulstudium abgeschlossen, dennoch hat sich die Vermögensungleichheit weiter vergrößert. Wenn Arbeitsmärkte systemrelevante Berufe unterbezahlen, Wohnraum unbezahlbar wird und Steuersysteme ererbtes Vermögen begünstigen, garantiert ein Diplom allein keinen sozialen Aufstieg mehr.“",
-"„Sie sprechen einen wichtigen strukturellen Punkt an, Frau Professor Vogt“, entgegnete Dr. Mensah nachdenklich. „Ohne hochwertige Bildung werden benachteiligte Gemeinschaften jedoch genau jener Stimme und analytischen Werkzeuge beraubt, die nötig sind, um ungerechte Wirtschaftsgesetze infrage zu stellen. Bildung bereitet schließlich nicht nur Arbeitskräfte auf den Markt vor, sondern erzieht kritische Bürger, die strukturelle Reformen einfordern können.“",
+"Auf einem internationalen Symposium über soziale Gerechtigkeit lud Moderatorin Clara Moreau zwei Gäste – den Pädagogen Dr. Samuel Mensah und die Ökonomin Prof. Dr. Helene Vogt – zu einer Debatte darüber ein, ob Bildung noch immer der wichtigste Motor sozialen Aufstiegs sei. Dr. Mensah ergriff zuerst mit Überzeugung das Wort: „Im Laufe der Geschichte war allgemeine öffentliche Bildung der wirksamste Gleichmacher, den die Menschheit je geschaffen hat. Indem Schulen benachteiligten Jugendlichen Lesekompetenz, Abschlüsse und staatsbürgerliches Bewusstsein vermitteln, befähigen sie junge Menschen, ihre soziale Herkunft zu überwinden.",
+"Prof. Vogt nickte respektvoll, bevor sie einen ernüchternden Einwand formulierte: So sehr ich dieses Ideal schätze, Herr Dr. Mensah, zeigen empirische Daten doch, dass wir den Schulen allein eine unrealistische Last aufbürden. In den vergangenen drei Jahrzehnten haben immer mehr junge Menschen ein Hochschulstudium abgeschlossen, dennoch hat sich die Vermögensungleichheit weiter vergrößert. Wenn Arbeitsmärkte systemrelevante Berufe unterbezahlen, Wohnraum unbezahlbar wird und Steuersysteme ererbtes Vermögen begünstigen, garantiert ein Diplom allein keinen sozialen Aufstieg mehr.",
+"Sie sprechen einen wichtigen strukturellen Punkt an, Frau Professor Vogt, entgegnete Dr. Mensah nachdenklich. Ohne hochwertige Bildung werden benachteiligte Gemeinschaften jedoch genau jener Stimme und analytischen Werkzeuge beraubt, die nötig sind, um ungerechte Wirtschaftsgesetze infrage zu stellen. Bildung bereitet schließlich nicht nur Arbeitskräfte auf den Markt vor, sondern erzieht kritische Bürger, die strukturelle Reformen einfordern können.",
 "In ihrem Schlusswort fasste Clara Moreau zusammen, dass Bildung zwar ein unverzichtbares Fundament für Gerechtigkeit darstelle, isoliert betrachtet jedoch nicht ausreiche. Sofern Bildungsinvestitionen nicht mit fairen Arbeitsgesetzen, bezahlbarer Gesundheitsversorgung und einer gerechten Steuerpolitik verknüpft werden, werden Schulen weiterhin mit der Lösung sozialer Probleme überfordert, die sie selbst gar nicht verursacht haben."
 ],
 "questions": [
@@ -1779,6 +1779,896 @@ dennoch hat sich...“)?",
 "reponse_modele": "Bildungsinvestitionen müssen durch faire Löhne, bezahlbare Gesundheitssysteme und eine gerechte Steuerpolitik ergänzt werden.",
 "mots_cles": [
 { "mot": "Arbeitsgesetze", "variantes": ["Gesundheitsversorgung", "Steuerpolitik", "verknüpft"], "poids": 1.0 }
+]
+}
+]
+},
+{
+    "id": "B2-021b",
+    "titre": "Verändert das Homeoffice die Arbeitswelt dauerhaft?",
+    "titre2": "Übung 21",
+    "audios": [
+      { "id": "audio-de-read-b2-021b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-021b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Was einst als Notlösung während einer globalen Gesundheitskrise begann, hat sich rasch zu einer tiefgreifenden Revolution der modernen Arbeitsorganisation entwickelt. In zahlreichen Branchen haben Beschäftigte, die früher unter zeitraubenden täglichen Pendelwegen litten, die handfesten Vorteile der Telearbeit schätzen gelernt – darunter größere zeitliche Selbstbestimmung, geringere Fahrtkosten und eine bessere Konzentration fernab lauter Großraumbüros. Folglich betrachten viele Arbeitnehmer das Homeoffice heute nicht mehr als vorübergehendes Privileg, sondern als unverzichtbare Voraussetzung bei der Wahl eines Arbeitgebers.",
+      "Dennoch hat diese weitreichende Dezentralisierung des Arbeitsplatzes heftige Debatten unter Führungskräften und Organisationspsychologen ausgelöst. Obgleich viele Unternehmen anfangs höhere Produktivitätswerte und sinkende Immobilienkosten begrüßten, hat dauerhaftes Arbeiten aus der Ferne subtile langfristige Schwachstellen offengelegt. Insbesondere spontanes Brainstorming, informelles Mentoring für Berufseinsteiger und eine gemeinsame Unternehmenskultur lassen sich über geplante Videokonferenzen kaum aufrechterhalten.",
+      "Darüber hinaus birgt die Arbeit von zu Hause aus die schleichende Gefahr, die psychologischen Grenzen zwischen Privatleben und beruflichen Verpflichtungen aufzulösen. Ohne den räumlichen Übergang zwischen Büro und Wohnzimmer fühlen sich viele Telearbeiter unter Druck gesetzt, bis spät in den Abend hinein digital erreichbar zu bleiben, was zu chronischer Erschöpfung führt. Gleichzeitig leiden städtische Wirtschaftszweige rund um Geschäftsviertel – wie lokale Restaurants, öffentliche Verkehrsmittel und Einzelhandelsgeschäfte – unter erheblichen Umsatzeinbußen.",
+      "Letztendlich wird die Berufswelt weder zu einer starren Fünf-Tage-Präsenzpflicht zurückkehren noch vollständig virtuell werden. Stattdessen dürften sich hybride Arbeitsmodelle als dauerhafter Standard etablieren und Unternehmen dazu zwingen, physische Büros in kreative Begegnungsstätten statt bloßer Schreibtischreihen umzugestalten."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Warum betrachten viele Arbeitnehmer das Homeoffice heute als selbstverständliche Voraussetzung?",
+        "points": 1,
+        "reponse_modele": "Weil es anstrengende Pendelzeiten erspart, Fahrtkosten senkt, mehr zeitliche Flexibilität bietet und ungestörtes Arbeiten ermöglicht.",
+        "mots_cles": [
+          { "mot": "Pendelwege", "variantes": ["Fahrtkosten", "Selbstbestimmung", "Konzentration"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Welche organisatorischen Nachteile dauerhafter Telearbeit werden im zweiten Absatz genannt?",
+        "points": 1,
+        "reponse_modele": "Der Verlust eines gemeinsamen Teamgeists, das Fehlen spontaner Ideenrunden sowie Schwierigkeiten bei der Einarbeitung neuer Mitarbeiter.",
+        "mots_cles": [
+          { "mot": "Unternehmenskultur", "variantes": ["Mentoring", "Brainstorming", "spontan"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Wie beeinträchtigt das Arbeiten von zu Hause aus die persönliche Erholung der Beschäftigten?",
+        "points": 1,
+        "reponse_modele": "Durch die fehlende räumliche Trennung fällt das Abschalten schwer, und viele bleiben abends lange erreichbar, was zu Erschöpfung führt.",
+        "mots_cles": [
+          { "mot": "Grenzen auflösen", "variantes": ["erreichbar", "Erschöpfung", "Privatleben"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie die Bedeutung des Adjektivs „schleichend“ im dritten Absatz.",
+        "points": 1,
+        "reponse_modele": "Es bedeutet unmerklich, langsam fortschreitend, aber mit gefährlichen Folgen.",
+        "mots_cles": [
+          { "mot": "unmerklich", "variantes": ["langsam fortschreitend", "subtil", "gefährlich"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Welche wirtschaftlichen Folgen hat der Trend zum Homeoffice für Innenstädte?",
+        "points": 1,
+        "reponse_modele": "Gastronomiebetriebe, Geschäfte und Verkehrsunternehmen in Bürovierteln verlieren viele Kunden und verzeichnen deutliche Umsatzrückgänge.",
+        "mots_cles": [
+          { "mot": "Umsatzeinbußen", "variantes": ["Restaurants", "Verkehrsmittel", "Einzelhandel"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des zweiten Absatzes?",
+        "points": 1,
+        "reponse_modele": "Er leitet von den persönlichen Vorteilen für Arbeitnehmer zu den langfristigen betrieblichen Problemen für Unternehmen über.",
+        "mots_cles": [
+          { "mot": "Gegensatz", "variantes": ["Überleitung", "Schwachstellen", "trotzdem"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Wie wird sich die Funktion klassischer Bürogebäude laut dem Schlussabsatz verändern?",
+        "points": 1,
+        "reponse_modele": "Büros werden künftig weniger als reine Einzelarbeitsplätze dienen, sondern als Orte für gemeinsamen Austausch und Teamarbeit gestaltet.",
+        "mots_cles": [
+          { "mot": "Begegnungsstätten", "variantes": ["kreativ", "umgestalten", "nicht Schreibtischreihen"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Fassen Sie die Zukunftsprognose des Autors im letzten Absatz zusammen.",
+        "points": 1,
+        "reponse_modele": "Weder reine Büropräsenz noch 100 % Homeoffice werden sich durchsetzen, sondern eine dauerhafte Kombination aus beidem in hybriden Modellen.",
+        "mots_cles": [
+          { "mot": "hybride Arbeitsmodelle", "variantes": ["Standard", "Kombination", "dauerhaft"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-022b",
+    "titre": "Ist beruflicher Erfolg zwangsläufig an die Gehaltshöhe gebunden?",
+    "titre2": "Übung 22",
+    "audios": [
+      { "id": "audio-de-read-b2-022b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-022b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Beim Abendessen auf einem Ehemaligentreffen der Universität gerieten zwei frühere Studienkollegen – Hannah, eine Wirtschaftsanwältin, und Thomas, ein Meeresbiologe im Naturschutz – in eine lebhafte Diskussion über die wahre Bedeutung beruflicher Erfüllung. Mit Blick auf seine schlichte Kleidung fragte Hannah offenherzig: „Thomas, du hast damals als Jahrgangsbester abgeschlossen. Bereust du es nie, ein Fachgebiet gewählt zu haben, in dem dein Gehalt kaum deinem intellektuellen Niveau entspricht? In unserer Gesellschaft bleibt das Einkommen nun einmal der objektivste Maßstab für beruflichen Wert.“",
+      "Thomas lächelte gelassen, unbeeindruckt von ihrer Direktheit. „Ich verstehe gut, warum viele Menschen Einkommen mit Erfolg gleichsetzen, Hannah, besonders angesichts der steigenden Lebenshaltungskosten. Würde ich meine Laufbahn jedoch allein an meinem Kontostand messen, wäre ich zutiefst unglücklich. Jeden Morgen wache ich mit dem Wissen auf, dass meine Forschung bedrohte Ökosysteme schützt. Dieses Gefühl der Sinnhaftigkeit schenkt mir eine innere Zufriedenheit, die kein Unternehmensbonus jemals ersetzen könnte.“",
+      "Hannah hielt inne und schwenkte nachdenklich ihr Glas. „Ich gebe zu, dass sich meine Arbeit selten heldenhaft anfühlt und Sechzig-Stunden-Wochen mich dauerhaft auslaugen. Dennoch verschafft mir ein hohes Gehalt Sicherheit, Unabhängigkeit und die Möglichkeit, meine Familie großzügig abzusichern. Ist es nicht etwas idealistisch, finanziellen Erfolg abzutun, wenn Geld doch unmittelbar über persönliche Freiheit entscheidet?“",
+      "„Ich unterschätze finanzielle Stabilität keineswegs“, stellte Thomas klar. „Sobald jedoch Grundbedürfnisse und Sicherheit gedeckt sind, bringt das Streben nach immer mehr Geld abnehmende emotionale Erträge. Letztendlich sollte wahrer beruflicher Erfolg daran gemessen werden, ob die tägliche Arbeit mit den eigenen Werten und dem persönlichen Wohlbefinden im Einklang steht.“"
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Warum stellt Hannah Thomas' Berufswahl zu Beginn des Gesprächs infrage?",
+        "points": 1,
+        "reponse_modele": "Weil er ein hervorragender Student war, sich aber für einen schlecht bezahlten Beruf entschieden hat, während für sie das Gehalt der klarste Erfolgsbeweis ist.",
+        "mots_cles": [
+          { "mot": "Gehalt", "variantes": ["Einkommen", "Maßstab", "Jahrgangsbester"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Was motiviert Thomas in seinem Beruf trotz des bescheidenen Einkommens?",
+        "points": 1,
+        "reponse_modele": "Er empfindet tiefe innere Befriedigung, weil seine wissenschaftliche Arbeit zum Schutz bedrohter Meeresökosysteme beiträgt.",
+        "mots_cles": [
+          { "mot": "Sinnhaftigkeit", "variantes": ["Ökosysteme schützen", "Zufriedenheit", "Forschung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Welchen persönlichen Preis zahlt Hannah laut eigener Aussage für ihr hohes Einkommen?",
+        "points": 1,
+        "reponse_modele": "Sie arbeitet sechzig Stunden pro Woche, fühlt sich ständig erschöpft und vermisst oft einen tieferen Sinn in ihrer Tätigkeit.",
+        "mots_cles": [
+          { "mot": "auslaugen", "variantes": ["Sechzig-Stunden-Wochen", "erschöpft", "wenig Sinn"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie die Bedeutung des Adverbs „offenherzig“ im ersten Absatz.",
+        "points": 1,
+"reponse_modele": "Es bedeutet ehrlich, direkt, freimütig und ohne Zurückhaltung.",
+"mots_cles": [
+{ "mot": "ehrlich", "variantes": ["direkt", "freimütig", "offen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Wie rechtfertigt Hannah im dritten Absatz den hohen Stellenwert des Geldes?",
+"points": 1,
+"reponse_modele": "Sie erklärt, dass ein hohes Einkommen finanzielle Sicherheit, Unabhängigkeit und gute Versorgungsmöglichkeiten für die Familie garantiert.",
+"mots_cles": [
+{ "mot": "Sicherheit", "variantes": ["Unabhängigkeit", "Familie", "Freiheit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Was meint Thomas mit der Formulierung „abnehmende emotionale Erträge“ im letzten Absatz?",
+"points": 1,
+"reponse_modele": "Sobald ein sicheres Auskommen erreicht ist, führt noch mehr Geld zu immer geringerem zusätzlichem Glücksgefühl.",
+"mots_cles": [
+{ "mot": "weniger Glück", "variantes": ["Grundbedürfnisse gedeckt", "sinkende Zufriedenheit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Analysieren Sie die grammatische Form „Würde ich meine Laufbahn jedoch allein an meinem Kontostand messen, wäre ich zutiefst unglücklich.“",
+"points": 1,
+"reponse_modele": "Es handelt sich um einen irrealen Bedingungssatz der Gegenwart im Konjunktiv II ohne „wenn“, der eine hypothetische Situation und deren Folge beschreibt.",
+"mots_cles": [
+{ "mot": "Konjunktiv II", "variantes": ["irrealer Bedingungssatz", "hypothetisch", "ohne wenn"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Wie definiert Thomas echten beruflichen Erfolg am Ende des Dialogs?",
+"points": 1,
+"reponse_modele": "Als Übereinstimmung zwischen der täglichen Arbeit, den eigenen moralischen Werten und der körperlichen wie seelischen Gesundheit.",
+"mots_cles": [
+{ "mot": "Einklang", "variantes": ["eigene Werte", "Wohlbefinden", "Übereinstimmung"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-023b",
+"titre": "Junge Hochschulabsolventen vor den Herausforderungen des Arbeitsmarktes",
+"titre2": "Übung 23",
+"audios": [
+{ "id": "audio-de-read-b2-023b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-023b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Sechs Monate nach ihrem Abschluss mit Auszeichnung in internationaler Wirtschaft saß Amélie am Küchentisch und starrte auf ihre vierundneunzigste Absage per E-Mail. Wie Millionen junger Erwachsener, die heute ins Berufsleben eintreten, hatte sie jeden herkömmlichen Rat befolgt: Sie hatte fleißig studiert, zwei unbezahlte Praktika absolviert und drei Fremdsprachen gemeistert. Dennoch fand sie sich in einer frustrierenden Zwickmühle gefangen – Arbeitgeber verlangten drei Jahre Berufserfahrung für Einstiegspositionen, verweigerten jedoch genau jene Chancen, um diese Erfahrung zu sammeln.",
+"Amélies Notlage spiegelt ein tiefgreifendes strukturelles Missverhältnis zwischen Hochschulbildung und modernen Arbeitsmärkten wider. Da Universitätsabschlüsse immer verbreiteter geworden sind, garantieren akademische Zeugnisse allein keinen sofortigen Berufseinstieg mehr. Zudem haben viele Unternehmen aus Kostengründen traditionelle Traineeprogramme gestrichen und erwarten, dass neu eingestellte Absolventen vom ersten Tag an voll einsatzfähig sind.",
+"Folglich werden junge Absolventen überproportional oft in prekäre Beschäftigungsverhältnisse wie befristete Verträge, Gig-Economy-Jobs oder unterbezahlte Praktika gedrängt. Über die finanzielle Unsicherheit hinaus verzögert diese langwierige berufliche Schwebezeit wichtige Lebensschritte – darunter wirtschaftliche Unabhängigkeit, Eigentumserwerb und Familiengründung –, was bei einer ganzen Generation zu tiefer Ernüchterung führt.",
+"Dennoch weigerte sich Amélie, zu resignieren, und änderte ihre Strategie. Statt sich ausschließlich auf automatisierte Online-Jobportale zu verlassen, besuchte sie Fachkonferenzen, baute ein Online-Portfolio eigener Wirtschaftsanalysen auf und nahm direkt Kontakt zu Mentoren auf. Obgleich strukturelle Reformen bei den Einstellungsverfahren dringend nötig bleiben, verhalfen ihr aktives Netzwerken und vorzeigbare Praxisprojekte schließlich zu einer Stelle als Junior-Analystin."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "In welcher widersprüchlichen Situation („Zwickmühle“) befand sich Amélie bei der Jobsuche?",
+"points": 1,
+"reponse_modele": "Unternehmen forderten für Anfängerstellen mehrere Jahre Berufserfahrung, gaben ihr aber keine Stelle, um diese Erfahrung überhaupt zu erwerben.",
+"mots_cles": [
+{ "mot": "Berufserfahrung", "variantes": ["Einstiegspositionen", "Teufelskreis", "verweigerten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Warum reicht ein Universitätsabschluss laut dem zweiten Absatz heute oft nicht mehr für einen direkten Berufseinstieg?",
+"points": 1,
+"reponse_modele": "Weil heute viel mehr Menschen studieren und viele Firmen aus Spargründen interne Einarbeitungs- und Traineeprogramme abgeschafft haben.",
+"mots_cles": [
+{ "mot": "verbreiteter", "variantes": ["Traineeprogramme gestrichen", "Kostengründen", "einsatzfähig"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche langfristigen persönlichen Folgen haben unsichere Arbeitsverhältnisse für junge Erwachsene?",
+"points": 1,
+"reponse_modele": "Sie müssen wichtige Schritte wie finanzielle Selbstständigkeit, den Kauf einer Wohnung oder die Gründung einer Familie verschieben.",
+"mots_cles": [
+{ "mot": "Lebensschritte verzögert", "variantes": ["Unabhängigkeit", "Familiengründung", "Eigentum"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „prekär“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet unsicher, schlecht abgesichert, schwierig oder heikel.",
+"mots_cles": [
+{ "mot": "unsicher", "variantes": ["schlecht bezahlt", "ungewiss", "instabil"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Wie veränderte Amélie ihre Bewerbungsstrategie, um schließlich Erfolg zu haben?",
+"points": 1,
+"reponse_modele": "Sie nutzte nicht mehr nur Online-Jobbörsen, sondern knüpfte Kontakte auf Konferenzen, zeigte eigene Arbeitsproben und suchte sich Mentoren.",
+"mots_cles": [
+{ "mot": "Netzwerken", "variantes": ["Fachkonferenzen", "Portfolio", "Mentoren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Folglich“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet die direkten negativen Auswirkungen (befristete Jobs und verzögerte Lebensplanung) aus dem zuvor beschriebenen Arbeitsmarktproblem ab.",
+"mots_cles": [
+{ "mot": "Konsequenz", "variantes": ["Folge", "Ergebnis", "deshalb"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche implizite Kritik an modernen Bewerbungsverfahren äußert der Text?",
+"points": 1,
+"reponse_modele": "Kritisiert werden unpersönliche automatische Bewerbungsportale sowie die mangelnde Bereitschaft von Firmen, Berufseinsteiger auszubilden.",
+"mots_cles": [
+{ "mot": "automatisierte Portale", "variantes": ["unpersönlich", "Ausbildung", "Erwartungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche ausgewogene Botschaft vermittelt der Schlusssatz der Erzählung?",
+"points": 1,
+"reponse_modele": "Eigeninitiative und Praxisprojekte helfen Absolventen beim Berufseinstieg, dennoch müssen Unternehmen ihre Einstellungspraktiken grundlegend reformieren.",
+"mots_cles": [
+{ "mot": "Eigeninitiative und Reformen", "variantes": ["Netzwerken", "Einstellungsverfahren"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-024b",
+"titre": "Unternehmertum als Lösung gegen Jugendarbeitslosigkeit",
+"titre2": "Übung 24",
+"audios": [
+{ "id": "audio-de-read-b2-024b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-024b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Vor einem Publikum junger Innovatoren auf dem jährlichen Jugendwirtschaftsforum eröffnete Start-up-Mentor Kwame Mensah seine Rede mit einer kühnen Aussage: „Wenn der traditionelle Arbeitsmarkt Ihnen seine Türen verschließt, hören Sie auf, in der Schlange zu warten, und bauen Sie Ihr eigenes Haus.“ Angesichts hartnäckig hoher Jugendarbeitslosigkeit in vielen Regionen preisen Regierungen und internationale Organisationen das Unternehmertum zunehmend als dynamischen Motor für Arbeitsplätze und wirtschaftliche Selbstbestimmung an.",
+"Unbestreitbar bietet die Gründung eines Start-ups oder Kleinunternehmens überzeugende Vorteile. Junge Gründer verfügen über digitale Kompetenz, Anpassungsfähigkeit und frische Perspektiven, die es ihnen ermöglichen, ungedeckte Bedürfnisse vor Ort zu erkennen – von Apps für nachhaltige Landwirtschaft bis hin zu lokalen Logistikdiensten. Indem junge Unternehmer innovative Ideen in tragfähige Geschäftsmodelle verwandeln, sichern sie nicht nur ihr eigenes Einkommen, sondern schaffen auch Arbeitsplätze für Gleichaltrige.",
+"Dennoch warnte Mensah seine Zuhörer davor, die Start-up-Kultur zu romantisieren. „Soziale Medien verherrlichen Milliardäre, die scheinbar über Nacht reich wurden, doch die Realität zeigt, dass fast neunzig Prozent aller Neugründungen innerhalb der ersten fünf Jahre scheitern“, mahnte er. Ohne Zugang zu bezahlbarem Startkapital, fachlicher Beratung und rechtlicher Absicherung kann der Druck zur Selbstständigkeit benachteiligte Jugendliche in erdrückende Schulden und psychische Erschöpfung treiben.",
+"Daher darf Unternehmertum von der Politik niemals als Ausrede benutzt werden, um die Schaffung regulärer Arbeitsplätze zu vernachlässigen. Nur wenn es durch zugängliche Mikrokredite, Gründerzentren und verlässliche soziale Sicherungsnetze unterstützt wird, kann junges Unternehmertum als echte Chance gedeihen statt als verzweifelter letzter Ausweg."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche Metapher verwendete Kwame Mensah, um junge Menschen zur Unternehmensgründung zu ermutigen?",
+"points": 1,
+"reponse_modele": "Er riet ihnen, „ihr eigenes Haus zu bauen“, statt vor verschlossenen Türen zu warten – also selbst eigene Arbeitsplätze zu schaffen.",
+"mots_cles": [
+{ "mot": "eigenes Haus bauen", "variantes": ["selbst Arbeitsplätze schaffen", "nicht warten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche besonderen Stärken bringen junge Gründer laut dem zweiten Absatz mit?",
+"points": 1,
+"reponse_modele": "Ihre Vertrautheit mit digitalen Technologien, hohe Flexibilität und ein unverstellter Blick für ungelöste Probleme in ihrer Umgebung.",
+"mots_cles": [
+{ "mot": "digitale Kompetenz", "variantes": ["Anpassungsfähigkeit", "frische Perspektiven", "Bedürfnisse"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Warum warnt Mensah davor, dem Bild von Start-ups in sozialen Netzwerken zu glauben?",
+"points": 1,
+"reponse_modele": "Weil soziale Medien seltene Extrembeispiele verherrlichen, während in Wirklichkeit rund neunzig Prozent der neuen Firmen innerhalb von fünf Jahren scheitern.",
+"mots_cles": [
+{ "mot": "neunzig Prozent scheitern", "variantes": ["romantisieren", "Milliardäre", "Realität"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Begriffs „Startkapital“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Es bezeichnet das anfängliche Geld oder Finanzpolster, das benötigt wird, um ein neues Unternehmen zu gründen und aufzubauen.",
+"mots_cles": [
+{ "mot": "Anfangsfinanzierung", "variantes": ["Gründungsgeld", "Investition", "Kapital"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welchen Gefahren sind junge Gründer ausgesetzt, wenn ihnen institutionelle Unterstützung fehlt?",
+"points": 1,
+"reponse_modele": "Sie laufen Gefahr, sich hoch zu verschulden und unter extremem Stress einen Burn-out zu erleiden.",
+"mots_cles": [
+{ "mot": "Schulden", "variantes": ["psychische Erschöpfung", "Burn-out", "Risiko"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet von den optimistischen Chancen junger Start-ups zu einer realistischen Warnung vor hohen Verlustrisiken über.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Warnung", "trotzdem", "Gegenargument"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche politische Gefahr spricht der Redner im letzten Absatz an?",
+"points": 1,
+"reponse_modele": "Regierungen könnten Jugend-Start-ups anpreisen, um sich vor ihrer Verantwortung zu drücken, selbst reguläre Arbeitsplätze zu fördern.",
+"mots_cles": [
+{ "mot": "Ausrede", "variantes": ["Politik", "vernachlässigen", "reguläre Arbeitsplätze"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche Rahmenbedingungen sind laut dem Fazit nötig, damit junges Unternehmertum erfolgreich ist?",
+"points": 1,
+"reponse_modele": "Bezahlbare Mikrokredite, professionelle Gründerzentren und ein starkes soziales Netz für den Fall eines Scheiterns.",
+"mots_cles": [
+{ "mot": "Mikrokredite", "variantes": ["Gründerzentren", "Sicherungsnetze"], "poids": 1.0 }
+]
+}
+]
+},
+{
+    "id": "B2-025b",
+    "titre": "Das Verschwinden bestimmter Berufe durch neue Technologien",
+    "titre2": "Übung 25",
+    "audios": [
+      { "id": "audio-de-read-b2-025b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-025b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Im Laufe der Menschheitsgeschichte haben technologische Durchbrüche wiederholt einst unverzichtbare Berufsfelder überflüssig gemacht. Ebenso wie die Erfindung des Automobils Kutscher verdrängte und die elektrische Straßenbeleuchtung Laternenanzünder ersetzte, gestalten heute rasante Fortschritte in der künstlichen Intelligenz und Robotik die Berufswelt in beispiellosem Tempo um. Von Bankkassierern und Einzelhandelsverkäufern bis hin zu Sachbearbeitern in der Datenerfassung verschwinden Tätigkeiten, die auf vorhersehbaren Routineabläufen beruhen, zusehends.",
+      "Ökonomen berufen sich zur Erklärung dieses Phänomens häufig auf Joseph Schumpeters Konzept der „schöpferischen Zerstörung“. Dieser Theorie zufolge vernichten aufkommende Technologien zwar zwangsläufig veraltete Arbeitsplätze, bringen jedoch gleichzeitig völlig neue Branchen und Berufsbilder hervor – etwa Spezialisten für Cybersicherheit, Techniker für erneuerbare Energien oder KI-Ethiker –, die vor einer Generation noch unvorstellbar waren.",
+      "Dennoch bietet historischer Optimismus betroffenen Arbeitnehmern in der Gegenwart nur geringen Trost. Anders als frühere industrielle Revolutionen, die sich über mehrere Jahrzehnte erstreckten und Generationen eine schrittweise Anpassung ermöglichten, vollzieht sich der aktuelle digitale Wandel binnen weniger Jahre. Zudem kann ein fünfzigjähriger Produktionsleiter oder Verwaltungsangestellter ohne umfassende finanzielle und bildungspolitische Unterstützung nicht mühelos in die Softwareentwicklung wechseln.",
+      "Folglich erfordert die Bewältigung des Berufswandels vorausschauende Sozialpolitik statt eines blinden Vertrauens in die Marktkräfte. Sofern Regierungen und Unternehmen nicht massiv in berufliche Umschulungsprogramme und finanzielle Überbrückungshilfen investieren, droht der technologische Fortschritt Millionen erfahrener Arbeitskräfte dauerhaft an den Rand zu drängen."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Welche historischen Beispiele führt der Autor an, um zu zeigen, dass Technologie schon immer Berufe verdrängt hat?",
+        "points": 1,
+        "reponse_modele": "Das Automobil ersetzte Kutscher, und die elektrische Straßenbeleuchtung machte Laternenanzünder überflüssig.",
+        "mots_cles": [
+          { "mot": "Kutscher", "variantes": ["Laternenanzünder", "Automobil", "elektrische Beleuchtung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Welches gemeinsame Merkmal teilen die modernen Berufe, die derzeit besonders stark verschwinden?",
+        "points": 1,
+        "reponse_modele": "Sie basieren alle auf regelmäßigen, vorhersehbaren Routineaufgaben, die leicht automatisiert werden können.",
+        "mots_cles": [
+          { "mot": "Routineabläufe", "variantes": ["vorhersehbar", "automatisiert", "wiederholend"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Erklären Sie die wirtschaftliche Theorie der „schöpferischen Zerstörung“ im zweiten Absatz.",
+        "points": 1,
+        "reponse_modele": "Neue Technologien zerstören einerseits alte Arbeitsplätze, schaffen andererseits aber völlig neue Branchen und moderne Berufe.",
+        "mots_cles": [
+          { "mot": "alte Arbeitsplätze vernichten", "variantes": ["neue Branchen schaffen", "Innovation"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie die Bedeutung des Adverbs „zusehends“ im ersten Absatz.",
+        "points": 1,
+        "reponse_modele": "Es bedeutet sichtbar, merklich, immer schneller oder offensichtlich.",
+        "mots_cles": [
+          { "mot": "merklich", "variantes": ["immer schneller", "sichtbar", "deutlich"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Warum fällt Arbeitnehmern die Anpassung an den digitalen Wandel heute schwerer als in früheren Revolutionen?",
+        "points": 1,
+        "reponse_modele": "Weil der Wandel viel schneller in wenigen Jahren abläuft und ältere Beschäftigte ohne Hilfe kaum hochspezialisierte IT-Berufe erlernen können.",
+        "mots_cles": [
+          { "mot": "Tempo", "variantes": ["wenige Jahre", "ältere Arbeitnehmer", "Umschulung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Welche grammatische und logische Funktion erfüllt der Konnektor „Sofern“ im letzten Satz?",
+        "points": 1,
+        "reponse_modele": "Er leitet eine notwendige Bedingung ein („falls nicht“ / „wenn nicht“) und warnt vor sozialer Ausgrenzung ohne staatliche Maßnahmen.",
+        "mots_cles": [
+          { "mot": "Bedingung", "variantes": ["falls nicht", "Warnung", "Konditionalsatz"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Welche Haltung nimmt der Autor gegenüber dem „blinden Vertrauen in die Marktkräfte“ ein?",
+        "points": 1,
+        "reponse_modele": "Er lehnt es ab, da der freie Markt allein den schnellen Wandel nicht sozial abfedern kann und politische Eingriffe nötig sind.",
+        "mots_cles": [
+          { "mot": "ablehnend", "variantes": ["kritisch", "Sozialpolitik nötig", "nicht ausreichend"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Welche zwei konkreten politischen Maßnahmen fordert der Autor im Schlussabsatz?",
+        "points": 1,
+        "reponse_modele": "Massive Investitionen in Umschulungsprogramme sowie finanzielle Hilfen zur Überbrückung während der Neuorientierung.",
+        "mots_cles": [
+          { "mot": "Umschulungsprogramme", "variantes": ["Überbrückungshilfen", "finanziell"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-026b",
+    "titre": "Sollten wir Arbeitsplatzsicherheit oder berufliche Freiheit priorisieren?",
+    "titre2": "Übung 26",
+    "audios": [
+      { "id": "audio-de-read-b2-026b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-026b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Als Elena in derselben Woche sowohl eine unbefristete Stelle im öffentlichen Dienst als auch das Angebot eines Berliner Tech-Start-ups für eine freiberufliche Tätigkeit als UX-Designerin erhielt, stand sie vor einem klassischen modernen Dilemma. Rat suchend wandte sie sich an ihren älteren Bruder Marco, einen erfahrenen Personalberater. „Nimm die unbefristete Stelle ohne zu zögern an, Elena“, riet Marco sofort. „In Zeiten wirtschaftlicher Unsicherheit sind ein festes Gehalt, bezahlter Urlaub und Rentenansprüche unbezahlbare Werte, die dich vor unvorhersehbaren Krisen schützen.“",
+      "Elena runzelte die Stirn und scrollte auf ihrem Tablet durch das Angebot des Start-ups. „Ich sehe den Reiz von Stabilität durchaus, Marco, wirklich. Dennoch löst die Vorstellung, die nächsten dreißig Jahre starren bürokratischen Abläufen zu folgen, Beklemmung bei mir aus. Als unabhängige Freiberuflerin könnte ich meine Kunden selbst wählen, ortsunabhängig arbeiten und mich ständig neuen kreativen Herausforderungen stellen.“",
+      "„Freiheit klingt berauschend, wenn man sechsundzwanzig und kerngesund ist“, entgegnete Marco pragmatisch. „Allerdings bringt Selbstständigkeit auch unregelmäßige Einkünfte, keinerlei Lohnfortzahlung im Krankheitsfall und den unaufhörlichen Stress mit sich, ständig neue Aufträge akquirieren zu müssen. Viele Freiberufler arbeiten letztlich weitaus mehr Stunden als Festangestellte, bloß um finanziell über Wasser zu bleiben.“",
+      "Elena nickte nachdenklich und erkannte, dass keine der beiden Optionen von Natur aus überlegen war. Anstatt Sicherheit und Freiheit als unvereinbare Gegensätze zu betrachten, handelte sie einen Kompromiss aus: Sie nahm die feste Anstellung an, sicherte sich jedoch vertraglich zwei Homeoffice-Tage pro Woche sowie die Erlaubnis, nebenberuflich ausgewählte Kreativprojekte zu verfolgen."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Vor welcher schwierigen beruflichen Entscheidung stand Elena im ersten Absatz?",
+        "points": 1,
+        "reponse_modele": "Sie musste sich zwischen einer sicheren Festanstellung im öffentlichen Dienst und einer flexiblen freiberuflichen Arbeit für ein Start-up entscheiden.",
+        "mots_cles": [
+          { "mot": "unbefristete Stelle", "variantes": ["öffentlicher Dienst", "freiberuflich", "Start-up"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Warum empfiehlt Marco seiner Schwester dringend die feste Anstellung?",
+        "points": 1,
+        "reponse_modele": "Weil ein regelmäßiges Einkommen, bezahlter Urlaub und Altersvorsorge in unsicheren Zeiten wichtigen Schutz bieten.",
+        "mots_cles": [
+          { "mot": "festes Gehalt", "variantes": ["bezahlter Urlaub", "Rentenansprüche", "Schutz"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Was reizt Elena an der freiberuflichen Tätigkeit?",
+        "points": 1,
+        "reponse_modele": "Sie möchte ihre Kunden selbst aussuchen, von überall aus arbeiten und abwechslungsreiche kreative Projekte ohne starre Bürokratie umsetzen.",
+        "mots_cles": [
+          { "mot": "Kunden selbst wählen", "variantes": ["ortsunabhängig", "kreativ", "Bürokratie"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie die Bedeutung des Verbs „akquirieren“ im dritten Absatz.",
+        "points": 1,
+        "reponse_modele": "Es bedeutet neue Kunden, Aufträge oder Projekte aktiv gewinnen und anwerben.",
+        "mots_cles": [
+          { "mot": "Kunden gewinnen", "variantes": ["Aufträge beschaffen", "anwerben"], "poids": 1.0 }
+        ]
+      },
+      {
+      "id": "Q5",
+"question": "Welche Schattenseiten der Selbstständigkeit nennt Marco im dritten Absatz?",
+"points": 1,
+"reponse_modele": "Schwankende Einnahmen, fehlende Absicherung bei Krankheit, ständiger Druck bei der Auftragssuche und oft längere Arbeitszeiten.",
+"mots_cles": [
+{ "mot": "unregelmäßige Einkünfte", "variantes": ["Krankheitsfall", "Stress", "mehr Stunden"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Allerdings“ in Marcos zweiter Antwort?",
+"points": 1,
+"reponse_modele": "Er schränkt Elenas romantische Vorstellung von Freiheit ein und lenkt den Blick auf die finanziellen Risiken der Selbstständigkeit.",
+"mots_cles": [
+{ "mot": "Einschränkung", "variantes": ["Gegensatz", "Risiken", "jedoch"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Was deutet Marco mit dem Satz „Freiheit klingt berauschend, wenn man sechsundzwanzig und kerngesund ist“ an?",
+"points": 1,
+"reponse_modele": "Dass junge Menschen oft unterschätzen, wie wichtig soziale Absicherung bei künftigen Krankheiten, im Alter oder bei Familiengründung wird.",
+"mots_cles": [
+{ "mot": "Zukunftsrisiken", "variantes": ["Krankheit", "Alter", "kurzsichtig", "Absicherung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Wie löste Elena ihr Dilemma im Schlussabsatz?",
+"points": 1,
+"reponse_modele": "Sie wählte einen Mittelweg, indem sie die sichere Stelle annahm, aber Homeoffice-Tage und eigene Nebenprojekte vertraglich vereinbarte.",
+"mots_cles": [
+{ "mot": "Kompromiss", "variantes": ["Homeoffice", "Nebenprojekte", "feste Anstellung"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-027b",
+"titre": "Die Vereinbarkeit von Berufs- und Privatleben",
+"titre2": "Übung 27",
+"audios": [
+{ "id": "audio-de-read-b2-027b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-027b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"In der heutigen Arbeitswelt gehört eine nachhaltige Balance zwischen Beruf und Privatleben zu den größten Herausforderungen für Beschäftigte. Angetrieben durch ständige digitale Erreichbarkeit, globale Zeitzonen und eine Leistungskultur, die Überstunden als Ehrenzeichen feiert, opfern Millionen Berufstätige regelmäßig Schlaf, Hobbys und familiäre Beziehungen auf dem Altar der Produktivität. Paradoxerweise belegen arbeitsmedizinische Studien, dass chronische Überarbeitung die geistige Leistungsfähigkeit mindert, die Fehlerquote erhöht und schwere Burn-out-Erkrankungen begünstigt.",
+"Angesichts dieser schädlichen Auswirkungen erproben immer mehr zukunftsorientierte Unternehmen und Regierungen strukturelle Reformen. Insbesondere Modellversuche zur Vier-Tage-Woche – bei der Beschäftigte bei verkürzter Arbeitszeit volles Gehalt erhalten – lieferten bemerkenswert positive Ergebnisse, darunter geringere Fehlzeiten, höhere Mitarbeiterbindung und eine gleichbleibende oder sogar gesteigerte Produktivität. Ebenso zielen Gesetze zum „Recht auf Nichterreichbarkeit“ darauf ab, Arbeitnehmer außerhalb der Dienstzeiten vor beruflichen E-Mails zu schützen.",
+"Dennoch können formale Richtlinien allein kein Gleichgewicht garantieren, solange die ungeschriebene Unternehmenskultur unverändert bleibt. Wenn Beförderungen stillschweigend jene Mitarbeiter belohnen, die abends länger bleiben oder am Wochenende Nachrichten beantworten, fühlen sich Beschäftigte trotz offizieller Gesundheitsprogramme zur Selbstausbeutung gedrängt.",
+"Letztendlich erfordert die Wiederherstellung der Harmonie zwischen beruflichem Ehrgeiz und persönlichem Wohlbefinden sowohl institutionelle Verantwortung als auch klare individuelle Grenzen. Erst wenn Gesellschaften aufhören, den Wert eines Menschen allein an seiner wirtschaftlichen Leistung zu messen, werden Einzelne wirklich frei sein, ein erfülltes Leben zu führen."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche kulturellen und technischen Faktoren erschweren heute die Work-Life-Balance?",
+"points": 1,
+"reponse_modele": "Dauerhafte digitale Erreichbarkeit, internationale Zeitzonen und eine Arbeitskultur, die ständige Überstunden verherrlicht.",
+"mots_cles": [
+{ "mot": "Erreichbarkeit", "variantes": ["Überstunden", "Leistungskultur", "Zeitzonen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welches Paradoxon bezüglich Überarbeitung zeigen arbeitsmedizinische Studien im ersten Absatz?",
+"points": 1,
+"reponse_modele": "Obwohl Menschen länger arbeiten, um mehr zu leisten, sinkt durch Überarbeitung die Konzentration, Fehler nehmen zu und Burn-out droht.",
+"mots_cles": [
+{ "mot": "Leistungsfähigkeit mindert", "variantes": ["Fehlerquote", "Burn-out", "kontraproduktiv"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche positiven Effekte zeigten sich bei Versuchen mit der Vier-Tage-Woche?",
+"points": 1,
+"reponse_modele": "Weniger Krankheitstage, geringere Kündigungsraten und eine stabile oder sogar höhere Arbeitsleistung.",
+"mots_cles": [
+{ "mot": "geringere Fehlzeiten", "variantes": ["Mitarbeiterbindung", "gesteigerte Produktivität"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Begriffs „Recht auf Nichterreichbarkeit“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Der gesetzliche Schutz von Arbeitnehmern davor, nach Feierabend oder im Urlaub dienstliche Anrufe und E-Mails beantworten zu müssen.",
+"mots_cles": [
+{ "mot": "Feierabend", "variantes": ["keine E-Mails", "Schutz", "Dienstzeiten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum scheitern offizielle Gesundheitsprogramme in Firmen laut dem dritten Absatz oft in der Praxis?",
+"points": 1,
+"reponse_modele": "Weil Vorgesetzte bei Beförderungen heimlich immer noch diejenigen bevorzugen, die abends und am Wochenende arbeiten.",
+"mots_cles": [
+{ "mot": "Beförderungen", "variantes": ["Unternehmenskultur", "Wochenende", "länger bleiben"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er weist auf die Grenzen formaler Gesetze hin, wenn die gelebte Alltagskultur im Büro weiterhin Druck ausübt.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Grenzen", "trotzdem", "Einschränkung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Was versteht der Autor unter „Selbstausbeutung“ im dritten Absatz?",
+"points": 1,
+"reponse_modele": "Dass Arbeitnehmer ohne direkten Befehl freiwillig zu viel arbeiten, weil sie Angst um ihre Karrierechancen haben.",
+"mots_cles": [
+{ "mot": "freiwillig überarbeiten", "variantes": ["Karrieredruck", "ohne direkten Befehl"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welcher tiefere gesellschaftliche Wandel ist laut dem Schlussabsatz für eine echte Work-Life-Balance nötig?",
+"points": 1,
+"reponse_modele": "Die Gesellschaft muss aufhören, den menschlichen Wert ausschließlich nach beruflichem Erfolg und wirtschaftlicher Produktivität zu beurteilen.",
+"mots_cles": [
+{ "mot": "Wert eines Menschen", "variantes": ["wirtschaftliche Leistung", "Umdenken"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-028b",
+"titre": "Die Folgen der Automatisierung für Arbeitnehmer",
+"titre2": "Übung 28",
+"audios": [
+{ "id": "audio-de-read-b2-028b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-028b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"In einem riesigen Logistikzentrum am Stadtrand von Rotterdam gleiten Hunderte autonome Roboter lautlos über Bodenraster und sortieren Pakete mit millimetergenauer Präzision. Vor zehn Jahren beschäftigte dieselbe Anlage noch über vierhundert menschliche Arbeitskräfte; heute überwacht eine kleine Kerntruppe von dreißig Technikern die automatisierte Flotte aus einem verglasten Kontrollraum. Szenen wie diese vervielfachen sich weltweit und werfen dringende Fragen nach den sozialen Folgen der raschen Automatisierung auf.",
+"Befürworter der industriellen Automatisierung betonen deren unbestreitbare Vorteile für Produktivität und Arbeitssicherheit. Maschinen können rund um die Uhr ohne Ermüdung arbeiten und entlasten Menschen von gefährlichen, körperlich zermürbenden Tätigkeiten wie schwerem Heben oder dem Umgang mit Chemikalien. Zudem können sinkende Produktionskosten zu erschwinglicheren Konsumgütern und höherer Wettbewerbsfähigkeit führen.",
+"Allerdings warnen Arbeitsökonomen davor, dass Automatisierung ohne gerechte Umverteilung die Einkommensungleichheit dramatisch verschärfen wird. Fließen die durch Robotereffizienz erwirtschafteten Unternehmensgewinne ausschließlich an Aktionäre und Softwareeigentümer, drohen der Mittel- und Arbeiterschicht Lohnstagnation oder strukturelle Arbeitslosigkeit. Selbst hochqualifizierte Akademiker – darunter Radiologen, Finanzanalysten und Übersetzer – erleben heute, wie Teile ihrer Arbeit durch generative Algorithmen ergänzt oder ersetzt werden.",
+"Letztendlich ist Technologie an sich weder gutartig noch zerstörerisch; ihre Wirkung hängt allein von politischen und ethischen Entscheidungen ab. Wenn Gesellschaften fortschrittliche Maßnahmen ergreifen – etwa die Besteuerung automatisierter Wertschöpfung, die Stärkung von Gewerkschaften und die Weitergabe von Produktivitätsgewinnen durch Arbeitszeitverkürzungen –, kann Automatisierung die Menschheit von schwerer Plackerei befreien, statt Beschäftigte in soziale Unsicherheit zu stürzen."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Wie hat sich die Belegschaft im Rotterdamer Logistikzentrum im Laufe eines Jahrzehnts verändert?",
+"points": 1,
+"reponse_modele": "Die Zahl der Beschäftigten sank von über vierhundert Arbeitern auf nur noch dreißig Techniker, die Roboter überwachen.",
+"mots_cles": [
+{ "mot": "vierhundert auf dreißig", "variantes": ["Roboter", "Techniker", "reduziert"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche Vorteile bietet die Automatisierung laut dem zweiten Absatz für Arbeiter und Verbraucher?",
+"points": 1,
+"reponse_modele": "Sie schützt Menschen vor gefährlicher, schwerer körperlicher Arbeit und senkt Produktionskosten, wodurch Produkte günstiger werden.",
+"mots_cles": [
+{ "mot": "Arbeitssicherheit", "variantes": ["gefährliche Tätigkeiten", "erschwingliche Güter"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Warum könnte die Automatisierung die soziale Ungleichheit vergrößern?",
+"points": 1,
+"reponse_modele": "Wenn die Gewinne durch Roboter nur an Eigentümer und Aktionäre gehen, während normale Arbeitnehmer ihren Job verlieren oder keine Lohnerhöhungen erhalten.",
+"mots_cles": [
+{ "mot": "Aktionäre", "variantes": ["Unternehmensgewinne", "Lohnstagnation", "Arbeitslosigkeit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Substantivs „Plackerei“ im letzten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet harte, mühsame, eintönige und körperlich anstrengende Arbeit.",
+"mots_cles": [
+{ "mot": "harte Arbeit", "variantes": ["Mühe", "Schufterei", "anstrengend"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche akademischen Berufsgruppen sind inzwischen ebenfalls von modernen Algorithmen betroffen?",
+"points": 1,
+"reponse_modele": "Fachärzte wie Radiologen, Finanzexperten sowie Übersetzer.",
+"mots_cles": [
+{ "mot": "Radiologen", "variantes": ["Finanzanalysten", "Übersetzer", "Akademiker"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Allerdings“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet von den technischen Vorteilen zu den sozialen und wirtschaftlichen Gefahren der Ungleichheit über.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Einschränkung", "Gefahren", "jedoch"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Was meint der Autor damit, dass Technologie „weder gutartig noch zerstörerisch“ sei?",
+"points": 1,
+"reponse_modele": "Technik ist neutral; ob sie den Menschen nutzt oder schadet, hängt davon ab, wie Politik und Gesellschaft ihre Gewinne verteilen.",
+"mots_cles": [
+{ "mot": "neutral", "variantes": ["politische Entscheidungen", "Umverteilung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche drei politischen Lösungen schlägt der Autor im Schlussabsatz vor?",
+"points": 1,
+"reponse_modele": "Die Besteuerung von Robotergewinnen, stärkere Gewerkschaften und kürzere Arbeitszeiten bei vollem Lohnausgleich.",
+"mots_cles": [
+{ "mot": "Besteuerung", "variantes": ["Gewerkschaften", "Arbeitszeitverkürzungen"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-029b",
+"titre": "Ist Arbeit noch eine Quelle persönlicher Erfüllung?",
+"titre2": "Übung 29",
+"audios": [
+{ "id": "audio-de-read-b2-029b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-029b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Über weite Teile der Moderne hinweg nahm Arbeit einen zentralen Platz in der menschlichen Identität ein; wenn sich Fremde kennenlernen, lautet die erste Frage fast immer: „Was machen Sie beruflich?“ Über die materielle Existenzsicherung hinaus wurde sinnvolle Tätigkeit lange als wichtige Quelle für Selbstwertgefühl, soziale Zugehörigkeit und persönliche Erfüllung gefeiert. Etwas Greifbares herzustellen, Patienten zu heilen oder junge Menschen zu unterrichten ermöglicht es Einzelnen, ihre Talente in gesellschaftlich anerkannte Beiträge einzubringen.",
+"Dennoch deutet das wachsende Phänomen der inneren Kündigung – populär als „Quiet Quitting“ bezeichnet – darauf hin, dass dieses traditionelle Band zwischen Arbeit und Erfüllung brüchig wird. Der Anthropologe David Graeber prägte den Begriff der „Bullshit-Jobs“, um die Zunahme von Verwaltungs- und Konzernstellen zu beschreiben, die selbst die dort Beschäftigten insgeheim für völlig sinnlos halten. Wenn Arbeitnehmer sich vom Zweck ihrer Tätigkeit entfremdet fühlen oder wie austauschbare Zahnräder in einer bürokratischen Maschine behandelt werden, weicht Begeisterung unweigerlich dem Zynismus.",
+"Darüber hinaus kann die Erwartung, ein einziger Beruf müsse sämtliche emotionalen und existenziellen Bedürfnisse stillen, eine unrealistische Last auf das Arbeitsleben legen. Wenn Unternehmen „Leidenschaft“ als Ersatz für faire Bezahlung und gesunde Grenzen propagieren, droht Beschäftigten bei Entlassungen oder Umstrukturierungen eine tiefe emotionale Krise.",
+"Gleichwohl hat Arbeit ihre Fähigkeit zu inspirieren nicht verloren, sofern sie auf Autonomie, Können und gesellschaftlichem Nutzen beruht. Auch wenn wir Identität und Lebensfreude ebenso außerhalb des Berufs – durch Kunst, Gemeinschaft und Freundschaften – pflegen sollten, bleibt sinnvolle Arbeit ein unverzichtbarer Pfeiler menschlicher Würde."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Wie veranschaulicht der erste Satz die zentrale Bedeutung von Arbeit für unsere Identität?",
+"points": 1,
+"reponse_modele": "Er zeigt, dass die Frage nach dem Beruf fast immer die allererste Frage ist, wenn sich zwei fremde Menschen begegnen.",
+"mots_cles": [
+{ "mot": "Was machen Sie beruflich", "variantes": ["erste Frage", "Identität", "Fremde"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche immateriellen Vorteile bietet eine sinnvolle Berufstätigkeit laut dem ersten Absatz?",
+"points": 1,
+"reponse_modele": "Sie stärkt das Selbstbewusstsein, vermittelt soziale Zugehörigkeit und gibt das Gefühl, etwas Nützliches für andere zu leisten.",
+"mots_cles": [
+{ "mot": "Selbstwertgefühl", "variantes": ["Zugehörigkeit", "gesellschaftliche Beiträge"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Was versteht man laut dem zweiten Absatz unter sogenannten „Bullshit-Jobs“?",
+"points": 1,
+"reponse_modele": "Bürokratische Stellen in Unternehmen oder Verwaltungen, die selbst von den Mitarbeitern als überflüssig und sinnlos empfunden werden.",
+"mots_cles": [
+{ "mot": "sinnlos", "variantes": ["Verwaltungsstellen", "überflüssig", "entfremdet"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „brüchig“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet zerbrechlich, instabil, schwach oder kurz davor zu zerfallen.",
+"mots_cles": [
+{ "mot": "zerbrechlich", "variantes": ["instabil", "schwach", "fragil"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche Gefahr entsteht, wenn Firmen von ihren Mitarbeitern bedingungslose „Leidenschaft“ verlangen?",
+"points": 1,
+"reponse_modele": "Leidenschaft wird oft als Ausrede für niedrige Löhne oder Überstunden missbraucht, und bei einer Kündigung bricht die ganze Identität zusammen.",
+"mots_cles": [
+{ "mot": "faire Bezahlung", "variantes": ["Grenzen", "Entlassungen", "emotionale Krise"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Gleichwohl“ zu Beginn des letzten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet eine ausgewogene Gegenthese ein („trotzdem“ / „dennoch“) und betont, dass Arbeit unter guten Bedingungen weiterhin erfüllend sein kann.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["trotzdem", "dennoch", "Ausgleich"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche drei Bedingungen machen Arbeit laut dem Schlussabsatz wirklich motivierend?",
+"points": 1,
+"reponse_modele": "Eigene Entscheidungsfreiheit (Autonomie), fachliche Meisterschaft (Können) und ein erkennbarer Nutzen für die Gesellschaft.",
+"mots_cles": [
+{ "mot": "Autonomie", "variantes": ["Können", "gesellschaftlicher Nutzen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welchen ausgewogenen Rat gibt der Autor am Ende für ein erfülltes Leben?",
+"points": 1,
+"reponse_modele": "Gute Arbeit ist wichtig für die Menschenwürde, aber man sollte sein Glück nicht allein im Beruf suchen, sondern auch in Kunst, Freunden und Gemeinschaft.",
+"mots_cles": [
+{ "mot": "außerhalb des Berufs", "variantes": ["Kunst", "Freundschaften", "Menschenwürde"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-030b",
+"titre": "Ist Weiterbildung unverzichtbar geworden?",
+"titre2": "Übung 30",
+"audios": [
+{ "id": "audio-de-read-b2-030b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-030b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Noch vor wenigen Jahrzehnten folgte Bildung einem vorhersehbaren linearen Verlauf: Junge Menschen erwarben in ihrer Jugend einen Hochschulabschluss oder Gesellenbrief, der sie anschließend durch ein stabiles vierzigjähriges Berufsleben trug. Heute hingegen haben rasante technologische Innovationen, sich wandelnde Branchenstandards und längere Lebensarbeitszeiten dieses Modell völlig überholt. Ökonomen schätzen, dass die Halbwertszeit technischen Fachwissens auf unter fünf Jahre gesunken ist – was bedeutet, dass mit zweiundzwanzig erlerntes Wissen rasch veraltet.",
+"Folglich hat sich Weiterbildung – oft als lebenslanges Lernen bezeichnet – von einem freiwilligen Karrierebonus zu einer absoluten Notwendigkeit für das berufliche Überleben entwickelt. Ob durch Abendkurse an Hochschulen, betriebliche Workshops oder anerkannte Online-Zertifikate: Beschäftigte müssen ihre Kenntnisse kontinuierlich aktualisieren und erweitern, um vermittelbar zu bleiben. Über den Schutz vor Arbeitslosigkeit hinaus hält lebenslanges Lernen den Geist flexibel und ermöglicht Erwachsenen in der Lebensmitte einen Wechsel in völlig neue Berufsfelder.",
+"Dennoch hindern erhebliche strukturelle Hürden viele Erwachsene daran, regelmäßig an Weiterbildungen teilzunehmen. Berufstätige Eltern und Geringverdiener verfügen oft weder über die nötige Freizeit noch über das frei verfügbare Einkommen, um kostspielige Kurse zu finanzieren. Zudem wird die Last der ständigen Anpassung unfair auf einzelne Arbeitnehmer abgewälzt, wenn Arbeitgeber Fortbildung lediglich als Kostenfaktor statt als strategische Zukunftsinvestition betrachten.",
+"Daher erfordert der Aufbau einer echten Kultur des lebenslangen Lernens geteilte Verantwortung. Wenn Regierungen staatlich geförderte Weiterbildungskonten bereitstellen und Unternehmen bezahlte Lernzeiten in die reguläre Arbeitswoche integrieren, wird Weiterbildung zu einem zugänglichen Recht, das allen Bürgern ermöglicht, im stetigen Wandel erfolgreich zu bestehen."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Wie funktionierte der Zusammenhang zwischen Ausbildung und Beruf in früheren Generationen?",
+"points": 1,
+"reponse_modele": "Ein einziger Abschluss in der Jugend reichte in der Regel aus, um damit vierzig Jahre lang im selben Beruf zu arbeiten.",
+"mots_cles": [
+{ "mot": "linearer Verlauf", "variantes": ["Jugend", "vierzigjähriges Berufsleben", "ein Abschluss"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Was bedeutet die Aussage, dass die „Halbwertszeit technischen Fachwissens“ auf unter fünf Jahre gesunken ist?",
+"points": 1,
+"reponse_modele": "Dass technisches Wissen durch schnelle Innovationen schon nach weniger als fünf Jahren zur Hälfte veraltet und überholt ist.",
+"mots_cles": [
+{ "mot": "veraltet", "variantes": ["unter fünf Jahre", "schneller Wandel"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche Vorteile bringt lebenslanges Lernen neben dem Schutz vor Arbeitslosigkeit?",
+"points": 1,
+"reponse_modele": "Es hält das Gehirn geistig beweglich und erleichtert Erwachsenen den beruflichen Umstieg in neue Branchen.",
+"mots_cles": [
+{ "mot": "Geist flexibel", "variantes": ["Wechsel in neue Berufsfelder", "Umstieg"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „vermittelbar“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet auf dem Arbeitsmarkt gefragt, einstellbar und für Arbeitgeber attraktiv bleibend.",
+"mots_cles": [
+{ "mot": "einstellbar", "variantes": ["Arbeitsmarkt", "beschäftigungsfähig", "attraktiv"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche Hindernisse erschweren berufstätigen Eltern und Geringverdienern die Weiterbildung?",
+"points": 1,
+"reponse_modele": "Ihnen fehlen häufig die freie Zeit neben Familie und Job sowie das Geld für teure Kursgebühren.",
+"mots_cles": [
+{ "mot": "Freizeit", "variantes": ["Einkommen", "Geld", "Eltern"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet von der Notwendigkeit der Weiterbildung zu den sozialen und zeitlichen Barrieren über, die vielen den Zugang versperren.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Hürden", "trotzdem", "Einschränkung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche Kritik äußert der Autor im dritten Absatz an kurzsichtigen Arbeitgebern?",
+"points": 1,
+"reponse_modele": "Sie sehen Fortbildung nur als lästige Ausgabe statt als Investition und überlassen die Kosten allein den Mitarbeitern.",
+"mots_cles": [
+{ "mot": "Kostenfaktor statt Investition", "variantes": ["unfair abgewälzt", "Arbeitnehmer"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche zwei konkreten Maßnahmen schlägt der Autor im Schlussabsatz vor, um Weiterbildung für alle zugänglich zu machen?",
+"points": 1,
+"reponse_modele": "Staatlich finanzierte Weiterbildungskonten für Bürger und bezahlte Lernzeiten innerhalb der regulären Arbeitszeit in Unternehmen.",
+"mots_cles": [
+{ "mot": "Weiterbildungskonten", "variantes": ["bezahlte Lernzeiten", "Regierungen und Unternehmen"], "poids": 1.0 }
 ]
 }
 ]
