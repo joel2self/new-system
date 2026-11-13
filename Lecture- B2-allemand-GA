@@ -1,278 +1,947 @@
-[
+{
+    "id": "b001",
+    "titre": "Zwingt uns die moderne Gesellschaft zu einem zu schnellen Leben?",
+    "titre2": "Exercice b001 (Rede / Discours)",
+    "texte": [
+      "Sehr geehrte Damen und Herren, liebe Gäste,",
+      "wir haben uns heute hier versammelt, um ein unsichtbares, aber allgegenwärtiges Phänomen kritisch zu hinterfragen: die Diktatur der Unmittelbarkeit. Unsere Epoche, die von einer rasanten Digitalisierung geprägt ist, scheint Geschwindigkeit zur obersten Tugend erhoben zu haben. Es gilt, immer schneller zu agieren, elektronische Nachrichten augenblicklich zu beantworten und Informationen noch im Moment ihrer Entstehung zu konsumieren. Doch zu welchem Preis geschieht dies? Obwohl diese Beschleunigung zweifellos eine gewisse wirtschaftliche Produktivität fördert, entfremdet sie den modernen Menschen zunehmend von sich selbst.",
+      "Es lässt sich nämlich nicht leugnen, dass ausgedehnte Zeiträume – jene Phasen, die der tiefen Reflexion und der geistigen Reifung gewidmet sind – heute oft als Anomalie oder gar als Verlust an Rentabilität wahrgenommen werden. Infolgedessen leiden wir unter einer permanenten kognitiven Überlastung. Chronische Erschöpfung und berufliches Ausbrennen werden in einem besorgniserregenden Tempo zur Normalität. Vom zeitgenössischen Arbeitnehmer wird eine uneingeschränkte Erreichbarkeit verlangt, wodurch die schützende Grenze, die einst das Berufsleben vom privaten Rückzugsort trennte, nahezu vollständig aufgelöst wird.",
+      "Wenngleich manche Technikbefürworter argumentieren, dass uns moderne Werkzeuge von mühsamen Routineaufgaben befreien, beweist die gelebte Erfahrung oft das Gegenteil. Wir haben keine echte Freizeit gewonnen, sondern unsere Stunden lediglich verdichtet. Mit anderen Worten: Wir erledigen immer mehr Tätigkeiten gleichzeitig, ohne den gegenwärtigen Augenblick jemals bewusst auszukosten. Daher ist es dringend geboten, dass wir eine neue Kultur der Entschleunigung etablieren. Letztendlich bedeutet langsamer zu werden keineswegs, auf Fortschritt zu verzichten, sondern vielmehr die Selbstbestimmung über unsere eigene Existenz zurückzugewinnen. Vielen Dank für Ihre Aufmerksamkeit."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-001-01",
+        "question": "Was ist das zentrale Anliegen des Redners in seinem Vortrag?",
+        "reponses": [
+          { "id": "a", "texte": "Das Publikum dazu aufzufordern, sämtliche digitalen Geräte dauerhaft abzuschaffen.", "correcte": false },
+          { "id": "b", "texte": "Zu erklären, wie man durch moderne Technik seine berufliche Effizienz verdoppelt.", "correcte": false },
+          { "id": "c", "texte": "Die negativen psychischen und persönlichen Folgen des beschleunigten Lebensstils aufzuzeigen.", "correcte": true },
+          { "id": "d", "texte": "Die Arbeitsbedingungen der vorindustriellen Zeit uneingeschränkt zu verherrlichen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-001-02",
+        "question": "Wie werden tiefes Nachdenken und geistige Reifung laut dem Text heute oft betrachtet?",
+        "reponses": [
+          { "id": "a", "texte": "Als unverzichtbare Schlüsselkompetenzen für erfolgreiche Führungskräfte.", "correcte": false },
+          { "id": "b", "texte": "Als Hauptursache für den Rückgang der digitalen Kommunikation.", "correcte": false },
+          { "id": "c", "texte": "Als notwendige Erholungsphasen im Rahmen moderner Arbeitsverträge.", "correcte": false },
+          { "id": "d", "texte": "Als unrentable Abweichungen von der erwarteten Leistungsgeschwindigkeit.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-001-03",
+        "question": "Welche Auswirkung hat die Forderung nach ständiger Erreichbarkeit auf Arbeitnehmer?",
+        "reponses": [
+          { "id": "a", "texte": "Die Trennung zwischen beruflichen Pflichten und dem Privatleben verschwindet zunehmend.", "correcte": true },
+          { "id": "b", "texte": "Die Zusammenarbeit innerhalb der Familien wird harmonischer und entspannter.", "correcte": false },
+          { "id": "c", "texte": "Die tägliche Informationsflut im Büro nimmt spürbar ab.", "correcte": false },
+          { "id": "d", "texte": "Angestellte erhalten deutlich mehr bezahlten Urlaub als frühere Generationen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-001-04",
+        "question": "Wie widerlegt der Redner das Argument der Technikbefürworter?",
+        "reponses": [
+          { "id": "a", "texte": "Er weist darauf hin, dass digitale Geräte für normale Haushalte unbezahlbar sind.", "correcte": false },
+          { "id": "b", "texte": "Er betont, dass wir nicht mehr freie Zeit haben, sondern nur mehr Aufgaben in dieselbe Zeit pressen.", "correcte": true },
+          { "id": "c", "texte": "Er behauptet, dass Menschen biologisch nicht in der Lage sind, Computer zu bedienen.", "correcte": false },
+          { "id": "d", "texte": "Er beweist, dass Automatisierung bereits alle Büroarbeitsplätze vernichtet hat.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-001-05",
+        "question": "Was bedeutet die Formulierung „unsere Stunden lediglich verdichtet“ im dritten Absatz?",
+        "reponses": [
+          { "id": "a", "texte": "Wir schlafen nachts weniger, um länger am Computer arbeiten zu können.", "correcte": false },
+          { "id": "b", "texte": "Wir verzichten bewusst auf unwichtige Freizeitaktivitäten.", "correcte": false },
+          { "id": "c", "texte": "Wir packen immer mehr parallele Handlungen in denselben Zeitraum.", "correcte": true },
+          { "id": "d", "texte": "Unsere gesetzliche Arbeitszeit wurde auf wenige Stunden pro Tag verkürzt.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-001-06",
+        "question": "Welches Ziel verfolgt der Redner mit seinem Plädoyer für Entschleunigung?",
+        "reponses": [
+          { "id": "a", "texte", "Den wissenschaftlichen und technischen Fortschritt komplett zu stoppen.", "correcte": false },
+          { "id": "b", "texte": "Unternehmen dabei zu helfen, ihre Gewinne durch längere Arbeitszeiten zu steigern.", "correcte": false },
+          { "id": "c", "texte": "Menschen dazu zu bewegen, sich völlig aus der modernen Gesellschaft zurückzuziehen.", "correcte": false },
+          { "id": "d", "texte": "Individuen zu ermöglichen, wieder selbstbestimmt über ihr eigenes Leben zu verfügen.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-001-07",
+        "question": "Durch welchen Konnektor ließe sich „Wenngleich“ im dritten Absatz sinngemäß ersetzen?",
+        "reponses": [
+          { "id": "a", "texte": "Obschon", "correcte": true },
+          { "id": "b", "texte": "Folglich", "correcte": false },
+          { "id": "c", "texte": "Darüber hinaus", "correcte": false },
+          { "id": "d", "texte": "Demzufolge", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-001-08",
+        "question": "Wie lässt sich der Tonfall dieser Rede am treffendsten beschreiben?",
+        "reponses": [
+          { "id": "a", "texte": "Ironisch und belustigend.", "correcte": false },
+          { "id": "b", "texte": "Kulturkritisch und eindringlich.", "correcte": true },
+          { "id": "c", "texte": "Rein statistisch und emotionslos.", "correcte": false },
+          { "id": "d", "texte": "Resigniert und hoffnungslos.", "correcte": false }
+        ]
+      }
+    ]
+  },
   {
-  "exercises": [
-    {
-      "title": "Routine Quotidienne dans un Village de Montagne",
-      "slug": "routine-village-montagne",
-      "content": "Même si la plupart des gens ne le réalisent pas, chaque journée suit une routine, ou un ensemble établi de procédures et de pratiques générales. Les routines rendent les horaires quotidiens plus faciles à gérer, permettent de libérer du temps supplémentaire et assurent que les individus accomplissent autant de leurs tâches et objectifs que possible.\nJetons un coup d'œil à une routine typique dans un village de montagne!\nLe réveil sonne, et Émilie se lève en bâillant de son lit. Elle n'a pas beaucoup dormi la nuit précédente, il lui faut donc quelques minutes pour se lever et se préparer à commencer la journée.\nÉmilie entre dans la salle de bain et se lave le visage dans le lavabo, utilisant du savon et de l'eau chaude pour le faire. Elle se regarde dans le miroir et se sèche le visage avec une serviette. Ensuite, elle prend une douche et se nettoie.\nSous la douche, Émilie applique du shampoing sur ses cheveux et du savon sur le reste de son corps, avant de rincer et de sortir. Elle se sèche avec une plus grande serviette et s'habille avec ses vêtements. Enfin, elle se brosse les cheveux et sort.\nEnsuite, Émilie prend son petit déjeuner, comprenant du pain frais et du fromage local. Elle retourne ensuite dans la salle de bain pour se brosser les dents. Avant de quitter sa maison, Émilie fait son lit et vérifie que le feu de bois est bien éteint. Elle se rend à l'école à pied, un petit bâtiment en bois situé au cœur du village.\nÀ l'école, Émilie assiste aux cours, déjeune avec ses camarades de classe et socialise avec eux. Ensuite, elle rentre chez elle en fin d'après-midi.\nChez elle, Émilie termine ses devoirs et les place dans son sac à dos pour le lendemain. Une fois ses devoirs terminés, Émilie joue avec ses frères et sœurs dans les champs voisins avant de rentrer pour le dîner.\nÉmilie dîne avec sa famille, partageant un repas de soupe chaude et de pain frais. Pour clore cette journée bien remplie, Émilie se brosse les dents et se met au lit, prête à commencer une nouvelle journée dans les montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850964873-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1",
-        "https://feeds.soundcloud.com/stream/1850965542-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1h"
-      ],
-      "localStorage": "score_routine-village-montagne",
-      "questions": [
-        {
-          "question": "Quelle est la première activité quotidienne d'Émilie décrite dans le texte ?",
-          "choices": [
-            "Prendre son petit déjeuner",
-            "Se laver le visage",
-            "Allumer le feu de bois",
-            "Faire son lit"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie après s'être lavé le visage dans la salle de bain ?",
-          "choices": [
-            "Elle prend une douche",
-            "Elle s'habille",
-            "Elle se brosse les cheveux",
-            "Elle se brosse les dents"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quel aliment compose le petit déjeuner d'Émilie ?",
-          "choices": [
-            "Des œufs brouillés",
-            "Du pain frais et du fromage local",
-            "Des céréales avec du lait",
-            "Des fruits et du yaourt"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Où se rend Émilie après avoir pris son petit déjeuner ?",
-          "choices": [
-            "À l'école",
-            "Au travail",
-            "Chez sa grand-mère",
-            "Au marché"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Comment se rend Émilie à l'école ?",
-          "choices": [
-            "En voiture",
-            "En bus scolaire",
-            "À pied",
-            "À vélo"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'activité d'Émilie après l'école ?",
-          "choices": [
-            "Elle fait ses devoirs",
-            "Elle joue avec ses frères et sœurs",
-            "Elle va chez le voisin",
-            "Elle prend une douche"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le repas du soir d'Émilie avec sa famille ?",
-          "choices": [
-            "Des pâtes avec de la sauce tomate",
-            "De la soupe chaude et du pain frais",
-            "Des pizzas maison",
-            "Des légumes grillés avec du riz"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie juste avant de se coucher ?",
-          "choices": [
-            "Elle lit un livre",
-            "Elle regarde la télévision",
-            "Elle se brosse les dents",
-            "Elle écrit dans son journal intime"
-          ],
-          "answer": "c"
-        }
-      ]
-    },
-    {
-      "title": "Observation des Baleines Bleues dans l'Océan Indien",
-      "slug": "observation-baleines-ocean-indien",
-      "content": "Avez-vous déjà rêvé d'observer une baleine de près? Les baleines bleues sont les plus grands mammifères de la planète, pesant jusqu'à 200 tonnes. Elles peuvent atteindre jusqu'à 88 pieds de long, soit plus grand qu'un avion de ligne! Leurs migrations sont parmi les plus fascinantes au monde, avec les baleines bleues parcourant de nombreuses miles pour se nourrir et mettre bas. Les petits de baleines, appelés veaux, naissent au large des côtes de l'île Maurice, puis ensemble, ils parcourent plus de 10 000 kilomètres jusqu'aux eaux riches en krill de l'océan Antarctique. Le voyage dure de 4 à 5 mois et traverse l'océan Indien, avec des arrêts pour se reposer dans les eaux chaudes des Maldives. Vous pouvez observer ces baleines majestueuses le long des côtes de Madagascar et de l'Afrique du Sud, où elles viennent parfois près des rivages lors de leurs migrations saisonnières. Assurez-vous de garder un œil sur l'eau pour repérer les jets d'eau caractéristiques, annonçant l'émergence imminente de ces créatures géantes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850961696-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1",
-        "https://feeds.soundcloud.com/stream/1850963328-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1h"
-      ],
-      "localStorage": "score_observation-baleines-ocean-indien",
-      "questions": [
-        {
-          "question": "Quel est le sujet principal du texte ?",
-          "choices": [
-            "Les oiseaux migrateurs",
-            "Les baleines bleues dans l'océan Indien",
-            "Les baleines grises dans le Pacifique",
-            "Les requins dans l'Atlantique"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la caractéristique principale des baleines bleues ?",
-          "choices": [
-            "Leur taille immense",
-            "Leur vitesse de nage",
-            "Leur couleur bleue vive",
-            "Leur migration annuelle"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Où naissent les petits de baleines, selon le texte ?",
-          "choices": [
-            "Au large des côtes de l'île Maurice",
-            "Dans les eaux riches en krill de l'océan Antarctique",
-            "Dans les eaux chaudes des Maldives",
-            "Dans les eaux froides du Groenland"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelle est la durée approximative du voyage des baleines bleues depuis leur naissance jusqu'aux eaux de l'océan Antarctique ?",
-          "choices": [
-            "1 à 2 semaines",
-            "1 à 2 mois",
-            "4 à 5 mois",
-            "1 à 2 ans"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Où peut-on observer les baleines bleues le long de leurs migrations saisonnières ?",
-          "choices": [
-            "Les côtes du Brésil",
-            "Les côtes de l'Afrique du Sud et de Madagascar",
-            "Les côtes de l'Australie",
-            "Les côtes de la Californie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le comportement caractéristique des baleines bleues lorsqu'elles émergent de l'eau ?",
-          "choices": [
-            "Elles bondissent hors de l'eau.",
-            "Elles crachent de l'eau par leur évent.",
-            "Elles nagent en formation serrée.",
-            "Elles nagent rapidement vers la côte."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'intérêt de garder un œil sur l'eau lors de l'observation des baleines bleues ?",
-          "choices": [
-            "Pour éviter les collisions avec d'autres bateaux.",
-            "Pour repérer les jets d'eau annonçant leur émergence.",
-            "Pour observer les nageoires dorsales des baleines.",
-            "Pour surveiller les mouvements des poissons."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme qualifie le mieux les baleines bleues dans le texte ?",
-          "choices": [
-            "Gigantesques",
-            "Agiles",
-            "Timides",
-            "Chantantes"
-          ],
-          "answer": "a"
-        }
-      ]
-    },
-    {
-      "title": "Parc National de l'Himalaya",
-      "slug": "parc-national-himalaya",
-      "content": "Le plus grand parc national d'Asie, le parc national de l'Himalaya, s'étend sur 5 000 kilomètres carrés et s'étire à travers les contreforts de l'Himalaya en Inde, au Népal et au Bhoutan. Cela rend ce parc plus grand que plusieurs petits pays combinés. Il abrite une biodiversité incroyable avec plus de 500 espèces de plantes endémiques et plus de 100 espèces d'animaux, y compris le majestueux léopard des neiges et le rare panda rouge. De plus, le parc regorge de sanctuaires d'oiseaux qui attirent les ornithologues du monde entier. Dans ses vastes terres, le parc de l'Himalaya présente près de 200 lacs, 400 kilomètres de sentiers de randonnée et des cascades spectaculaires alimentées par les rivières de fonte des glaciers. En outre, le parc dispose de centres de recherche dédiés à l'étude de la biodiversité himalayenne et à la conservation des espèces menacées telles que le tigre du Bengale et le rhinocéros indien. Le parc repose sur une activité tectonique élevée en raison de sa situation près de la ceinture de feu de l'Himalaya, ce qui entraîne des séismes fréquents mais offre également des sources chaudes thermales appréciées des visiteurs. Des équipes de surveillance veillent à la sécurité des visiteurs et à la préservation de l'écosystème fragile du parc. Le parc national de l'Himalaya est un trésor naturel à découvrir pour quiconque cherche à explorer les merveilles de cette majestueuse chaîne de montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850957421-perinemagne-parc-national-de-lhimalaya-c1"
-      ],
-      "localStorage": "score_parc-national-himalaya",
-      "questions": [
-        {
-          "question": "Où se situe le parc national de l'Himalaya ?",
-          "choices": [
-            "En Chine",
-            "En Inde, au Népal et au Bhoutan",
-            "Au Japon",
-            "En Russie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la superficie approximative du parc national de l'Himalaya ?",
-          "choices": [
-            "500 kilomètres carrés",
-            "5 000 kilomètres carrés",
-            "50 000 kilomètres carrés",
-            "500 000 kilomètres carrés"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Combien d'espèces d'animaux sont présentes dans le parc national de l'Himalaya ?",
-          "choices": [
-            "Moins de 50 espèces",
-            "Environ 100 espèces",
-            "Plus de 100 espèces",
-            "Plus de 500 espèces"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'une des espèces animales emblématiques du parc national de l'Himalaya mentionnée dans le texte ?",
-          "choices": [
-            "Le tigre du Bengale",
-            "Le lion",
-            "Le kangourou",
-            "L'éléphant africain"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelles sont les caractéristiques géographiques du parc de l'Himalaya selon le texte ?",
-          "choices": [
-            "Des montagnes uniquement",
-            "Des lacs, des sentiers de randonnée et des cascades",
-            "Des déserts et des canyons",
-            "Des forêts uniquement"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'impact de l'activité tectonique près du parc national de l'Himalaya ?",
-          "choices": [
-            "Aucun impact",
-            "Des tremblements de terre fréquents et des sources chaudes thermales",
-            "Un climat très stable",
-            "Une faune et une flore très variées"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quels sont les efforts mentionnés dans le texte pour préserver le parc national de l'Himalaya ?",
-          "choices": [
-            "Des programmes de chasse",
-            "Des équipes de surveillance pour la sécurité des visiteurs et la préservation de l'écosystème",
-            "Des activités industrielles",
-            "L'urbanisation du parc"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme décrit le mieux le parc national de l'Himalaya selon le texte ?",
-          "choices": [
-            "Un trésor naturel",
-            "Un désert aride",
-            "Une zone industrielle",
-            "Un terrain vague"
-          ],
-          "answer": "a"
-        }
-      ]
-    
+    "id": "b002",
+    "titre": "Der Zwang zum Erfolg um jeden Preis in unserer Gesellschaft",
+    "titre2": "Exercice b002 (Dialog)",
+    "texte": [
+      "Elena: Hast du schon gehört, dass Markus die Direktorenstelle in Zürich abgelehnt hat? In der gesamten Abteilung herrscht fassungsloses Staunen. Immerhin hat er sich fünf Jahre lang gezielt auf diese Beförderung vorbereitet.",
+      "David: Ehrlich gesagt überrascht mich seine Entscheidung kaum. Als wir uns letzten Monat auf einen Kaffee trafen, gestand er mir, dass er kurz vor einem Nervenzusammenbruch stand. Er meinte, hätte er diesen Posten angenommen, hätte er den letzten Rest seines Privatlebens geopfert. Unsere Gesellschaft redet uns ein, beruflicher Aufstieg sei der einzige Maßstab für den eigenen Wert – aber Markus hat dieses Dogma endlich hinterfragt.",
+      "Elena: Ich verstehe deinen Punkt, obwohl es enormen Mut erfordert, aus diesem Hamsterrad auszusteigen. Heutzutage wird Ehrgeiz nicht bloß begrüßt, sondern geradezu vorausgesetzt. Wer nicht ständig auf karriereorientierten Netzwerken mit neuen Meilensteinen prahlt, gilt schnell als antriebslos oder gescheitert.",
+      "David: Ganz genau. Während frühere Generationen eine solide Erwerbstätigkeit primär als Mittel zum Zweck betrachteten, um ein erfülltes Familienleben zu finanzieren, erhebt unsere Leistungskultur den unaufhörlichen Erfolg zum Selbstzweck. Die Ironie dabei ist, dass viele Menschen sich innerlich umso leerer fühlen, je mehr äußere Auszeichnungen sie anhäufen. Markus hat erkannt, dass ihn die Jagd nach einem fremdbestimmten Erfolgsbegriff seine psychische Gesundheit gekostet hätte.",
+      "Elena: Trotzdem frage ich mich, ob er diesen Schritt nicht irgendwann bereuen wird, sobald die erste Erleichterung verflogen ist. Es kann ziemlich einsam machen, wenn man stehen bleibt, während alle anderen um einen herum weitersprinten.",
+      "David: Vorübergehend mag das zutreffen. Dennoch ist es weitaus gesünder, Erfolg nach eigenen Kriterien zu definieren, als ein Rennen zu gewinnen, an dem man eigentlich nie teilnehmen wollte."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-002-01",
+        "question": "Warum reagieren Markus’ Kollegen so verwundert auf seine Absage?",
+        "reponses": [
+          { "id": "a", "texte": "Weil er zuvor angekündigt hatte, aus privaten Gründen unbedingt in die Schweiz ziehen zu wollen.", "correcte": false },
+           { "id": "b", "texte": "Weil er das Unternehmen verlässt, um ohne finanzielle Rücklagen Künstler zu werden.", "correcte": false },
+{ "id": "c", "texte": "Weil er jahrelang systematisch auf genau diese Führungsposition hingearbeitet hatte.", "correcte": true },
+{ "id": "d", "texte": "Weil die Stelle in Zürich mit einem deutlich niedrigeren Gehalt verbunden war.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-002-02",
+"question": "Was erfuhr David bei seinem letzten Treffen über Markus’ psychischen Zustand?",
+"reponses": [
+{ "id": "a", "texte": "Markus fühlte sich den fachlichen Anforderungen in Zürich nicht gewachsen.", "correcte": false },
+{ "id": "b", "texte": "Markus war wütend über die mangelnde Unterstützung durch seine Vorgesetzten.", "correcte": false },
+{ "id": "c", "texte": "Markus hatte bereits ein besseres Vertragsangebot eines Konkurrenzunternehmens vorliegen.", "correcte": false },
+{ "id": "d", "texte": "Markus befand sich am Rande eines psychischen Zusammenbruchs.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-002-03",
+"question": "Was bedeutet die Metapher „aus diesem Hamsterrad auszusteigen“ in Elenas Aussage?",
+"reponses": [
+{ "id": "a", "texte": "Sich freiwillig aus einem erschöpfenden, endlosen Kreislauf von Leistungsdruck zu befreien.", "correcte": true },
+{ "id": "b", "texte": "Regelmäßig Sport zu treiben, um beruflichen Stress abzubauen.", "correcte": false },
+{ "id": "c", "texte": "Nach Erreichen der finanziellen Unabhängigkeit vorzeitig in Rente zu gehen.", "correcte": false },
+{ "id": "d", "texte": "Schwierige Projektaufgaben an jüngere Teammitglieder abzugeben.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-002-04",
+"question": "Wie wird laut Elena jemand wahrgenommen, der seine beruflichen Erfolge nicht öffentlich zur Schau stellt?",
+"reponses": [
+{ "id": "a", "texte": "Als besonders bescheiden und emotional gefestigt.", "correcte": false },
+{ "id": "b", "texte": "Als wenig ehrgeizig oder beruflich stagnierend.", "correcte": true },
+{ "id": "c", "texte": "Als Vorbild für eine gesunde Work-Life-Balance.", "correcte": false },
+{ "id": "d", "texte": "Als jemand, der kurz vor einer großen Beförderung steht.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-002-05",
+"question": "Welchen Unterschied sieht David zwischen früheren Generationen und der heutigen Leistungskultur?",
+"reponses": [
+{ "id": "a", "texte": "Früher arbeiteten Menschen deutlich mehr Stunden, litten aber seltener unter Erschöpfung.", "correcte": false },
+{ "id": "b", "texte": "Früher legten Arbeitnehmer mehr Wert auf öffentliche Anerkennung als auf finanzielle Sicherheit.", "correcte": false },
+{ "id": "c", "texte": "Früher diente Arbeit der Finanzierung des Lebens, heute gilt der Erfolg selbst als höchstes Lebensziel.", "correcte": true },
+{ "id": "d", "texte": "Früher gab es kaum Möglichkeiten, beruflich im Ausland Karriere zu machen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-002-06",
+"question": "Welche Befürchtung äußert Elena gegen Ende des Gesprächs?",
+"reponses": [
+{ "id": "a", "texte": "Dass Markus wegen mangelnder Loyalität gekündigt werden könnte.", "correcte": false },
+{ "id": "b", "texte": "Dass sie selbst nun gezwungen sein wird, die Stelle in Zürich zu übernehmen.", "correcte": false },
+{ "id": "c", "texte": "Dass Markus’ Absage die Jahresprämie der gesamten Abteilung verringert.", "correcte": false },
+{ "id": "d", "texte": "Dass Markus sich langfristig isoliert fühlen oder seine Entscheidung bereuen könnte.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-002-07",
+"question": "Welche grammatische Form liegt im Satz „hätte er diesen Posten angenommen, hätte er ... geopfert“ vor?",
+"reponses": [
+{ "id": "a", "texte": "Konjunktiv II der Vergangenheit (irreale Bedingung in der Vergangenheit).", "correcte": true },
+{ "id": "b", "texte": "Konjunktiv I zur Kennzeichnung der indirekten Rede.", "correcte": false },
+{ "id": "c", "texte": "Futur II zum Ausdruck einer abgeschlossenen Handlung in der Zukunft.", "correcte": false },
+{ "id": "d", "texte": "Vorgangspassiv im Plusquamperfekt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-002-08",
+"question": "Wie bewertet David Markus’ Entscheidung abschließend?",
+"reponses": [
+{ "id": "a", "texte": "Er hält sie für einen strategischen Fehler, der Markus’ Ruf dauerhaft schadet.", "correcte": false },
+{ "id": "b", "texte": "Er befürwortet sie ausdrücklich, weil Markus seine eigenen Maßstäbe für ein gutes Leben setzt.", "correcte": true },
+{ "id": "c", "texte": "Er rät Markus, das Angebot doch noch anzunehmen, falls das Gehalt erhöht wird.", "correcte": false },
+{ "id": "d", "texte": "Er enthält sich jeder Bewertung und möchte sich nicht einmischen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b003",
+"titre": "Einsamkeit in einer zunehmend vernetzten Welt",
+"titre2": "Exercice b003 (Erzählung / Récit)",
+"texte": [
+"Als Clara auf dem Balkon ihrer Wohnung im zwanzigsten Stock stand, breitete sich die Großstadt unter ihr aus wie eine leuchtende Platine. Drinnen piepte ihr Smartphone unaufhörlich und meldete Dutzende Reaktionen auf ein Foto, das sie eine Stunde zuvor veröffentlicht hatte. Auf dem Papier verkörperte sie das Idealbild sozialer Integration: Sie zählte über zweitausend Online-Abonnenten, gehörte sechs aktiven Chatgruppen an und nahm wöchentlich an virtuellen Netzwerktreffen teil. Dennoch umhüllte eine bedrückende, hohle Stille ihr Wohnzimmer.",
+"Im Laufe der letzten drei Jahre hatten sich ihre echten Freundschaften unmerklich verflüchtigt und waren durch mühelose, aber oberflächliche digitale Kontakte ersetzt worden. Immer wenn sie sich überfordert fühlte, scrollte sie durch sorgfältig inszenierte Bilderströme von Bekannten, die an exotischen Stränden lächelten – was ihr Gefühl der Ausgrenzung nur noch verstärkte. Obwohl sie rund um die Uhr erreichbar war, wurde ihr schmerzlich bewusst, dass sie niemanden hatte, den sie an einem Dienstagabend um zehn Uhr spontan und ohne Vorankündigung hätte anrufen können.",
+"Soziologen bezeichnen dieses Paradoxon zunehmend als „hypervernetzte Einsamkeit“. Digitale Plattformen sind darauf ausgelegt, Nähe zu simulieren, während sie genau jene Verletzlichkeit umgehen, die echte menschliche Bindung erfordert. Ein rasches Emoji vermittelt die Illusion von Anteilnahme, ohne Zeit, physische Präsenz oder emotionale Investition abzuverlangen. Während Clara den fernen Scheinwerfern auf den Stadtautobahnen zusah, fasste sie einen stillen Entschluss. Wenn sie die unsichtbare Mauer um sich herum einreißen wollte, müsste sie sich ausloggen und wieder das Risiko der Unbeholfenheit echter Begegnungen von Angesicht zu Angesicht eingehen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-003-01",
+"question": "Welcher Gegensatz wird im ersten Absatz der Erzählung herausgearbeitet?",
+"reponses": [
+{ "id": "a", "texte": "Der Gegensatz zwischen dem lauten Straßenverkehr und Claras Vorliebe für das Landleben.", "correcte": false },
+{ "id": "b", "texte": "Der Gegensatz zwischen Claras beruflichem Erfolg und ihren finanziellen Sorgen.", "correcte": false },
+{ "id": "c", "texte": "Der Gegensatz zwischen Claras großer Online-Reichweite und ihrer tiefen inneren Einsamkeit.", "correcte": true },
+{ "id": "d", "texte": "Der Gegensatz zwischen älteren Generationen und technikbegeisterten Jugendlichen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-003-02",
+"question": "Wie wirkte sich das Betrachten sozialer Netzwerke auf Clara aus, wenn sie gestresst war?",
+"reponses": [
+{ "id": "a", "texte": "Es lenkte sie ab und motivierte sie, ihren nächsten Urlaub zu planen.", "correcte": false },
+{ "id": "b", "texte": "Es beruhigte sie, weil sie sah, dass andere Menschen ähnliche Probleme hatten.", "correcte": false },
+{ "id": "c", "texte": "Es inspirierte sie dazu, alte Schulfreunde um Rat zu fragen.", "correcte": false },
+{ "id": "d", "texte": "Es verstärkte ihr Gefühl von Isolation und Einsamkeit noch weiter.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-003-03",
+"question": "Woran erkennt Clara besonders deutlich, dass ihr echte, tiefgehende Beziehungen fehlen?",
+"reponses": [
+{ "id": "a", "texte": "Sie hat niemanden, den sie abends spontan ohne vorherige Absprache anrufen könnte.", "correcte": true },
+{ "id": "b", "texte": "Sie erhält ausschließlich automatisierte Werbenachrichten auf ihrem Smartphone.", "correcte": false },
+{ "id": "c", "texte": "Sie wohnt allein im zwanzigsten Stock eines anonymen Hochhauses.", "correcte": false },
+{ "id": "d", "texte": "Sie hat vor drei Jahren sämtliche Messaging-Apps von ihrem Telefon gelöscht.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-003-04",
+"question": "Warum schaffen digitale Plattformen laut dem Text keine wirkliche Intimität?",
+"reponses": [
+{ "id": "a", "texte": "Weil Algorithmen Beiträge von engen Familienmitgliedern absichtlich blockieren.", "correcte": false },
+{ "id": "b", "texte": "Weil sie emotionale Verletzlichkeit und echtes Engagement vermeiden.", "correcte": true },
+{ "id": "c", "texte": "Weil schriftliche Nachrichten von Empfängern grundsätzlich missverstanden werden.", "correcte": false },
+{ "id": "d", "texte": "Weil Nutzer in sozialen Netzwerken selten unter ihrem richtigen Namen auftreten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-003-05",
+"question": "Was bedeutet die Formulierung „sorgfältig inszenierte Bilderströme“ im zweiten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Fotos, die von professionellen Reisejournalisten aufgenommen wurden.", "correcte": false },
+{ "id": "b", "texte": "Veraltete Urlaubsfotos aus vergangenen Jahrzehnten.", "correcte": false },
+{ "id": "c", "texte": "Beiträge, die gezielt ausgewählt und bearbeitet wurden, um ein ideales Leben darzustellen.", "correcte": true },
+{ "id": "d", "texte": "Bilder, die zufällig von künstlicher Intelligenz erzeugt wurden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-003-06",
+"question": "Was impliziert der Autor über das Versenden eines kurzen Emojis?",
+"reponses": [
+{ "id": "a", "texte": "Es ist die wirksamste Methode, um einen trauernden Freund zu trösten.", "correcte": false },
+{ "id": "b", "texte": "Es gilt im beruflichen Umfeld weltweit als unhöflich.", "correcte": false },
+{ "id": "c", "texte": "Es stärkt Fernfreundschaften über viele Jahre hinweg zuverlässig.", "correcte": false },
+{ "id": "d", "texte": "Es täuscht Mitgefühl vor, ohne echte Zeit oder Zuwendung zu erfordern.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-003-07",
+"question": "Welchen Entschluss fasst Clara am Ende der Erzählung?",
+"reponses": [
+{ "id": "a", "texte": "Sich auszuloggen und wieder reale persönliche Begegnungen zu wagen.", "correcte": true },
+{ "id": "b", "texte": "In eine Kleinstadt zu ziehen, in der digitale Medien kaum genutzt werden.", "correcte": false },
+{ "id": "c", "texte": "Noch mehr Online-Foren beizutreten, um Gleichgesinnte zu finden.", "correcte": false },
+{ "id": "d", "texte": "Alle Benachrichtigungen stummzuschalten, aber täglich weiter Fotos zu posten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-003-08",
+"question": "Welche Erzählperspektive wird in diesem Text verwendet?",
+"reponses": [
+{ "id": "a", "texte": "Ein Ich-Erzähler, der über seine eigene Kindheit nachdenkt.", "correcte": false },
+{ "id": "b", "texte": "Ein personaler Erzähler, der Claras innere Gedanken und Gefühle schildert.", "correcte": true },
+{ "id": "c", "texte": "Ein sachlicher Zeitungsbericht mit statistischen Umfrageergebnissen.", "correcte": false },
+{ "id": "d", "texte": "Ein Dialog zwischen zwei Soziologen über Mediennutzung.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b004",
+"titre": "Übermäßiger Konsum und seine Folgen für unseren Alltag",
+"titre2": "Exercice b004 (Semi-Dialog / Radio-Interview)",
+"texte": [
+"Moderatorin: Willkommen zurück bei „Perspektiven der Gegenwart“. Heute sprechen wir mit dem Verhaltensökonomen Dr. Arthur Pendelton über den Hyperkonsum. Herr Dr. Pendelton, warum kaufen wir ständig Dinge, die wir objektiv gar nicht benötigen?",
+"Dr. Pendelton: Vielen Dank für die Einladung. Die Antwort liegt im Wandel des modernen Marketings. Früher stellten Werbeanzeigen den praktischen Nutzen eines Produkts in den Vordergrund. Heute hingegen verkaufen Konzerne Identität und emotionale Entlastung. Wann immer Menschen Stress oder innere Leere empfinden, löst ein Kauf einen kurzen Dopamin-Schub aus. Leider verfliegt diese Befriedigung rasch, sodass Konsumenten in einem endlosen Kreislauf des Erwerbs gefangen bleiben.",
+"Moderatorin: Dennoch wird häufig argumentiert, dass hoher Konsum das Wirtschaftswachstum ankurbelt und Arbeitsplätze sichert. Hat diese Dynamik nicht auch eine positive Seite?",
+"Dr. Pendelton: Auf makroökonomischer Ebene stützen Konsumausgaben zweifellos das kurzfristige Wachstum. Betrachtet man jedoch die Konsequenzen für unseren Alltag, fällt die Bilanz verheerend aus. Viele Haushalte verschulden sich, um einen Lebensstil zu finanzieren, den sie sich nicht leisten können. Zudem sind unsere Wohnungen mit ungenutzten Gegenständen überfüllt, was ironischerweise visuellen Stress und mentale Erschöpfung erzeugt. Ganz zu schweigen von der verheerenden Umweltbilanz durch geplante Obsoleszenz – also die bewusste Herstellung von Produkten, die vorzeitig kaputtgehen.",
+"Moderatorin: Wie kann sich der Einzelne aus dieser Konditionierung befreien, wenn jede digitale Plattform darauf programmiert ist, Kaufimpulse auszulösen?",
+"Dr. Pendelton: Bewusstsein ist der erste Schritt. Vor jeder nicht lebensnotwendigen Anschaffung rate ich dazu, eine verbindliche Wartezeit von achtundvierzig Stunden einzuhalten. Meistens flaut der Impuls in dieser Zeit ab – ein klares Zeichen dafür, dass das Bedürfnis künstlich erzeugt wurde."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-004-01",
+"question": "Wie hat sich die Werbung laut Dr. Pendelton im Laufe der Zeit verändert?",
+"reponses": [
+{ "id": "a", "texte": "Sie betont heute ausschließlich die ökologische Nachhaltigkeit von Produkten.", "correcte": false },
+{ "id": "b", "texte": "Sie nutzt keine digitalen Algorithmen mehr, sondern setzt wieder auf Zeitungen.", "correcte": false },
+{ "id": "c", "texte": "Sie verkauft statt bloßer Nützlichkeit heute Selbstbild und emotionalen Trost.", "correcte": true },
+{ "id": "d", "texte": "Sie warnt Verbraucher offen vor den Risiken von Impulskäufen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-004-02",
+"question": "Warum führt Einkaufen laut dem Experten nicht zu dauerhafter Zufriedenheit?",
+"reponses": [
+{ "id": "a", "texte": "Weil bestellte Waren oft verspätet oder beschädigt geliefert werden.", "correcte": false },
+{ "id": "b", "texte": "Weil Verbraucher sofort ein schlechtes Gewissen gegenüber der Umwelt bekommen.", "correcte": false },
+{ "id": "c", "texte": "Weil Familienangehörige spontane Geldausgaben meist kritisieren.", "correcte": false },
+{ "id": "d", "texte": "Weil das kurze Glücksgefühl schnell nachlässt und zu immer neuen Käufen antreibt.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-004-03",
+"question": "Welches Gegenargument bringt die Moderatorin in ihrer zweiten Frage ein?",
+"reponses": [
+{ "id": "a", "texte": "Dass hohe Konsumausgaben die Wirtschaft stärken und Arbeitsplätze schaffen.", "correcte": true },
+{ "id": "b", "texte": "Dass Einkaufen ein harmloses Hobby im Vergleich zu anderen Süchten ist.", "correcte": false },
+{ "id": "c", "texte": "Dass günstige Produkte es ärmeren Familien ermöglichen, mehr Geld zu sparen.", "correcte": false },
+{ "id": "d", "texte": "Dass Minimalismus nur für wohlhabende Menschen umsetzbar ist.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-004-04",
+"question": "Welche negativen Alltagsfolgen des Überkonsums nennt Dr. Pendelton?",
+"reponses": [
+{ "id": "a", "texte": "Kürzere Arbeitszeiten und Langeweile an den Wochenenden.", "correcte": false },
+{ "id": "b", "texte": "Überschuldung von Haushalten und geistige Ermüdung durch überfüllte Wohnräume.", "correcte": true },
+{ "id": "c", "texte": "Einen Mangel an grundlegenden Lebensmitteln in städtischen Supermärkten.", "correcte": false },
+{ "id": "d", "texte": "Zunehmende Konkurrenz unter Nachbarn um gut bezahlte Stellen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-004-05",
+"question": "Wie wird „geplante Obsoleszenz“ im Interview definiert?",
+"reponses": [
+{ "id": "a", "texte": "Das Recycling alter Elektronikbauteile für neue Geräte.", "correcte": false },
+{ "id": "b", "texte": "Die Senkung von Verkaufspreisen, um kleinere Konkurrenten zu verdrängen.", "correcte": false },
+{ "id": "c", "texte": "Die gezielte Konstruktion von Waren, damit sie schnell defekt oder unbrauchbar werden.", "correcte": true },
+{ "id": "d", "texte": "Das gesetzliche Verbot von Einwegplastik in modernen Geschäften.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-004-06",
+"question": "Welchen konkreten Rat gibt Dr. Pendelton gegen spontane Impulskäufe?",
+"reponses": [
+{ "id": "a", "texte": "Alle Online-Banking-Apps zu löschen und nur noch bar zu bezahlen.", "correcte": false },
+{ "id": "b", "texte": "Vor dem Kauf eines neuen Gegenstands immer einen alten zu verschenken.", "correcte": false },
+{ "id": "c", "texte": "Vor dem Betreten eines Einkaufszentrums einen Finanzberater zu konsultieren.", "correcte": false },
+{ "id": "d", "texte": "Vor nicht notwendigen Anschaffungen verpflichtend 48 Stunden abzuwarten.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-004-07",
+"question": "Was geschieht meistens, wenn man Dr. Pendeltons 48-Stunden-Regel anwendet?",
+"reponses": [
+{ "id": "a", "texte": "Der Kaufwunsch verschwindet und entlarvt das Bedürfnis als künstlich geweckt.", "correcte": true },
+{ "id": "b", "texte": "Das gewünschte Produkt wird deutlich günstiger angeboten.", "correcte": false },
+{ "id": "c", "texte": "Der Artikel ist ausverkauft und löst starkes Bedauern aus.", "correcte": false },
+{ "id": "d", "texte": "Der Verbraucher findet ein besseres Modell einer anderen Marke.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-004-08",
+"question": "Wie lässt sich die Haltung von Dr. Pendelton im Gespräch beschreiben?",
+"reponses": [
+{ "id": "a", "texte": "Panikmacherisch und aggressiv.", "correcte": false },
+{ "id": "b", "texte": "Analytisch und praxisorientiert.", "correcte": true },
+{ "id": "c", "texte": "Gleichgültig und unentschlossen.", "correcte": false },
+{ "id": "d", "texte": "Überzeugt davon, dass Konzerne sich freiwillig mäßigen werden.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b005",
+"titre": "Kann man glücklich sein, wenn man mit weniger lebt?",
+"titre2": "Exercice b005 (Erfahrungsbericht / Récit réflexif)",
+"texte": [
+"Vor drei Jahren glich meine Wohnung einem überfüllten Lagerraum, der aus allen Nähten platzte. Jeder Schrank war vollgestopft mit ungetragenen Kleidungsstücken, veralteten Elektronikgeräten und Spontankäufen, die längst ihren Reiz verloren hatten. Obwohl ich ein gutes Gehalt verdiente, fühlte ich mich ständig angespannt – sowohl finanziell als auch mental. Erst als mich ein plötzlicher Wasserschaden zwang, meine wichtigsten Habseligkeiten für zwei Monate in einen einzigen Koffer zu packen, erlebte ich eine unerwartete Erkenntnis: Ich vermisste fast nichts von dem, was ich zurückgelassen hatte.",
+"Dieser Vorfall gab den Anstoß für meinen Wandel hin zu einem bewussten Minimalismus. Anfangs nahmen Skeptiker in meinem Freundeskreis an, ich würde nun ein freudloses Leben voller Entbehrungen führen. Doch das Gegenteil war der Fall: Das Loslassen materiellen Überflusses erwies sich als zutiefst befreiend. Während der Besitz zahlreicher Gegenstände zuvor endlose Pflege, Reinigung und Ordnung erfordert hatte, gab mir ein reduzierter Haushalt meine wertvollste nicht erneuerbare Ressource zurück: Zeit. Zudem sanken meine monatlichen Ausgaben drastisch, sodass ich meine Arbeitszeit reduzieren konnte, ohne meine finanzielle Sicherheit zu gefährden.",
+"Selbstverständlich ist Minimalismus kein Allheilmittel und darf keinesfalls mit unfreiwilliger Armut verwechselt werden. Sich aus einer Position wirtschaftlicher Sicherheit heraus für Einfachheit zu entscheiden, unterscheidet sich grundlegend vom Mangel an Lebensnotwendigem. Dennoch bietet freiwillige Einfachheit für jene, die im Kreislauf materieller Anhäufung gefangen sind, eine überzeugende Alternative. Letztendlich bemisst sich wahrer Reichtum selten an der Fülle dessen, was wir besitzen, sondern vielmehr an der Geringfügigkeit dessen, was wir tatsächlich brauchen, um zufrieden zu sein."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-005-01",
+"question": "Welches Ereignis löste beim Autor den Übergang zu einem minimalistischen Lebensstil aus?",
+"reponses": [
+{ "id": "a", "texte": "Ein unerwarteter Arbeitsplatzverlust, der strenge Sparmaßnahmen erforderte.", "correcte": false },
+{ "id": "b", "texte": "Ein Dokumentarfilm über Umweltverschmutzung durch Plastikmüll.", "correcte": false },
+{ "id": "c", "texte": "Ein Wasserschaden, durch den er zwei Monate lang nur mit einem Koffer auskommen musste.", "correcte": true },
+{ "id": "d", "texte": "Der Umzug in eine deutlich kleinere Wohnung in einer anderen Stadt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-005-02",
+"question": "Wie fühlte sich der Autor vor seinem Lebenswandel trotz seines guten Einkommens?",
+"reponses": [
+{ "id": "a", "texte": "Stolz auf seine Sammlung wertvoller und seltener Gegenstände.", "correcte": false },
+{ "id": "b", "texte": "Rundum zufrieden mit seiner Karriere und seinen Wohnverhältnissen.", "correcte": false },
+{ "id": "c", "texte": "Großzügig und bereit, seinen Besitz an Wohltätigkeitsorganisationen zu spenden.", "correcte": false },
+{ "id": "d", "texte": "Dauerhaft finanziell gestresst und geistig überfordert.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-005-03",
+"question": "Wie reagierten Freunde zunächst auf die Veränderung des Autors?",
+"reponses": [
+{ "id": "a", "texte": "Sie glaubten fälschlicherweise, er zwinge sich zu einem harten Leben voller Verzicht.", "correcte": true },
+{ "id": "b", "texte": "Sie folgten sofort seinem Beispiel und verkauften ihren gesamten Hausrat.", "correcte": false },
+{ "id": "c", "texte": "Sie kritisierten ihn dafür, zu viel Geld für Lagerräume auszugeben.", "correcte": false },
+{ "id": "d", "texte": "Sie bemerkten die Veränderungen in seiner Wohnung überhaupt nicht.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-005-04",
+"question": "Welche konkreten Vorteile gewann der Autor durch den Verzicht auf Überflüssiges?",
+"reponses": [
+{ "id": "a", "texte": "Eine Beförderung im Beruf und höheres gesellschaftliches Ansehen.", "correcte": false },
+{ "id": "b", "texte": "Mehr freie Zeit und die Möglichkeit, seine Arbeitsstunden zu verringern.", "correcte": true },
+{ "id": "c", "texte": "Genug Ersparnisse, um ein großes Ferienhaus auf dem Land zu kaufen.", "correcte": false },
+{ "id": "d", "texte": "Anerkennung als professioneller Berater für Inneneinrichtung.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-005-05",
+"question": "Was bedeutet das Verb „sanken“ in „sanken meine monatlichen Ausgaben drastisch“?",
+"reponses": [
+{ "id": "a", "texte": "Sie schwankten unvorhersehbar von Monat zu Monat.", "correcte": false },
+{ "id": "b", "texte": "Sie blieben über Jahre hinweg unverändert.", "correcte": false },
+{ "id": "c", "texte": "Sie fielen schnell und in großem Umfang.", "correcte": true },
+{ "id": "d", "texte": "Sie stiegen leicht aufgrund der allgemeinen Inflation.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-005-06",
+"question": "Welche wichtige Unterscheidung trifft der Autor im letzten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Zwischen minimalistischer Kunst und minimalistischer Architektur.", "correcte": false },
+{ "id": "b", "texte": "Zwischen digitalem Minimalismus und dem Aufräumen von Schränken.", "correcte": false },
+{ "id": "c", "texte": "Zwischen kurzfristiger Haushaltsplanung und langfristiger Altersvorsorge.", "correcte": false },
+{ "id": "d", "texte": "Zwischen freiwillig gewählter Einfachheit und unfreiwilliger wirtschaftlicher Armut.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-005-07",
+"question": "Was impliziert die Aussage, Minimalismus sei „kein Allheilmittel“?",
+"reponses": [
+{ "id": "a", "texte": "Er ist keine Wunderlösung, die sämtliche menschlichen Probleme beseitigt.", "correcte": true },
+{ "id": "b", "texte": "Er ist eine strenge Philosophie, die nur in Klöstern praktiziert werden kann.", "correcte": false },
+{ "id": "c", "texte": "Er ist in bestimmten konsumorientierten Ländern gesetzlich verboten.", "correcte": false },
+{ "id": "d", "texte": "Er verlangt die Einhaltung komplizierter mathematischer Regeln.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-005-08",
+"question": "Wie definiert der Autor abschließend „wahren Reichtum“?",
+"reponses": [
+{ "id": "a", "texte": "Genug Geld zu besitzen, um alles ohne Blick auf das Preisschild kaufen zu können.", "correcte": false },
+{ "id": "b", "texte": "Nur sehr wenige materielle Dinge zu benötigen, um Zufriedenheit zu empfinden.", "correcte": true },
+{ "id": "c", "texte": "Hochwertige Gegenstände zu erwerben, die mehrere Jahrzehnte halten.", "correcte": false },
+{ "id": "d", "texte": "Überschüssiges Einkommen vollständig an Umweltorganisationen zu spenden.", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "b006",
+    "titre": "Der Wandel menschlicher Beziehungen im digitalen Zeitalter",
+    "titre2": "Exercice b006",
+    "texte": [
+      "Sehr geehrte Damen und Herren, geschätzte Kolleginnen und Kollegen,",
+      "in den vergangenen zwei Jahrzehnten hat die menschliche Kommunikation einen Wandel durchlaufen, der tiefgreifender ist als jede Veränderung seit der Erfindung des Buchdrucks. Heute kuratieren Algorithmen unsere sozialen Kreise, Sofortnachrichten überbrücken Kontinente in Millisekunden, und romantische Partnerschaften beginnen häufig mit einer flüchtigen Fingerbewegung auf einem leuchtenden Bildschirm. Doch während wir diese beispiellose Vernetzung feiern, müssen wir uns einer drängenden Frage stellen: Bereichern digitale Technologien unsere zwischenmenschlichen Beziehungen tatsächlich, oder verwandeln sie Intimität unmerklich in etwas Fragileres und Unverbindlicheres?",
+      "Einerseits wäre es unredlich, die bemerkenswerten Vorteile digitaler Kommunikation zu übersehen. Fernbeziehungen, die einst enorme Geduld und kostspielige Telefongespräche erforderten, lassen sich heute durch mühelose tägliche Videoanrufe aufrechterhalten. Darüber hinaus haben gesellschaftliche Minderheiten, die sich in ihrem unmittelbaren geografischen Umfeld früher isoliert fühlten, im Internet lebendige Unterstützungsnetzwerke gefunden. Mit anderen Worten: Räumliche Distanz stellt kein unüberwindbares Hindernis mehr für emotionale Nähe oder gemeinsame Interessen dar.",
+      "Andererseits warnen Soziologen zunehmend vor dem, was sie als „reibungslose Interaktion“ bezeichnen. Authentische menschliche Beziehungen wurden historisch gesehen durch Kompromissbereitschaft, Geduld und den Willen geformt, unangenehme Missverständnisse von Angesicht zu Angesicht zu bewältigen. Moderne digitale Plattformen hingegen fördern die Illusion grenzenloser Auswahl und eines mühelosen Ausstiegs. Wird ein Gespräch etwas anstrengend, kann man eine Benachrichtigung schlicht stummschalten, eine Antwort auf unbestimmte Zeit verzögern oder den Kontakt kommentarlos abbrechen, ohne jemals mit der emotionalen Reaktion des Gegenübers konfrontiert zu werden. Folglich schwindet unsere kollektive Toleranz gegenüber zwischenmenschlichen Reibungen stetig.",
+      "Auch wenn Technik ständigen Kontakt ermöglicht, darf die Häufigkeit der Kommunikation niemals mit der Tiefe einer Verbindung verwechselt werden. Hundert oberflächliche Textnachrichten können nicht jene feine Empathie ersetzen, die durch ein gemeinsames Schweigen, einen ermutigenden Blick oder ein ungestörtes Gespräch bei einer Tasse Kaffee entsteht. Wenn wir im einundzwanzigsten Jahrhundert bedeutungsvolle Bindungen bewahren wollen, müssen digitale Werkzeuge Diener unserer Menschlichkeit bleiben und dürfen physische Präsenz nicht ersetzen. Vielen Dank."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-006-01",
+        "question": "Welche zentrale Frage wirft der Redner zu Beginn seines Vortrags auf?",
+        "reponses": [
+          { "id": "a", "texte": "Ob digitale Werkzeuge Beziehungen vertiefen oder sie oberflächlicher machen.", "correcte": true },
+          { "id": "b", "texte": "Ob der Buchdruck die Gesellschaft stärker verändert hat als moderne Smartphones.", "correcte": false },
+          { "id": "c", "texte": "Wie Algorithmen verbessert werden können, um schneller Partner zu finden.", "correcte": false },
+          { "id": "d", "texte": "Warum herkömmliche Telefongespräche für Durchschnittsfamilien zu teuer geworden sind.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-006-02",
+        "question": "Welchen positiven Effekt der digitalen Kommunikation erkennt der Redner im zweiten Absatz an?",
+        "reponses": [
+          { "id": "a", "texte": "Sie hat sämtliche Missverständnisse zwischen Lebenspartnern beseitigt.", "correcte": false },
+          { "id": "b", "texte": "Sie reduziert die Zeit, die Menschen täglich vor Bildschirmen verbringen.", "correcte": false },
+          { "id": "c", "texte": "Sie ermöglicht isolierten Menschen, über ihren Wohnort hinaus Gemeinschaft zu finden.", "correcte": true },
+          { "id": "d", "texte": "Sie bewegt Menschen dazu, häufiger ausführliche Gespräche in Cafés zu führen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-006-03",
+        "question": "Was verstehen Soziologen laut dem Text unter „reibungsloser Interaktion“?",
+        "reponses": [
+          { "id": "a", "texte": "Gespräche, die völlig frei von technischen Störungen oder Verzögerungen ablaufen.", "correcte": false },
+          { "id": "b", "texte": "Harmonische Beziehungen, die auf gegenseitigem Respekt und Kompromissen beruhen.", "correcte": false },
+          { "id": "c", "texte": "Online-Debatten, bei denen sich alle Teilnehmer höflich über Streitthemen einigen.", "correcte": false },
+          { "id": "d", "texte": "Kommunikation, bei der man Anstrengung und emotionalen Konflikten leicht ausweichen kann.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-006-04",
+        "question": "Wie beeinflussen moderne Plattformen laut dem Redner unseren Umgang mit schwierigen Gesprächen?",
+        "reponses": [
+          { "id": "a", "texte": "Sie zwingen Nutzer dazu, Konflikte sofort per Videoanruf zu klären.", "correcte": false },
+          { "id": "b", "texte": "Sie machen es leicht, Menschen ohne Verantwortung zu ignorieren oder abzubrechen.", "correcte": true },
+          { "id": "c", "texte": "Sie geben automatische Ratschläge, wie man sich wirkungsvoller entschuldigt.", "correcte": false },
+          { "id": "d", "texte": "Sie steigern die Geduld beim Warten auf eine verspätete Antwort.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-006-05",
+        "question": "Was bedeutet das Adjektiv „unredlich“ im zweiten Absatz („wäre es unredlich“)?",
+        "reponses": [
+          { "id": "a", "texte": "Wissenschaftlich durch Statistiken eindeutig belegt.", "correcte": false },
+          { "id": "b", "texte": "Übermäßig optimistisch im Hinblick auf künftige Entwicklungen.", "correcte": false },
+          { "id": "c", "texte": "Unaufrichtig oder offensichtliche Tatsachen absichtlich verschweigend.", "correcte": true },
+          { "id": "d", "texte": "Besonders innovativ und zukunftsorientiert.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-006-06",
+        "question": "Welche Unterscheidung trifft der Redner im letzten Absatz?",
+        "reponses": [
+          { "id": "a", "texte", "Zwischen häufigem Kontakt und einer wirklich tiefen menschlichen Bindung.", "correcte": true },
+          { "id": "b", "texte": "Zwischen beruflichem Netzwerken und familiären Verpflichtungen.", "correcte": false },
+          { "id": "c", "texte": "Zwischen älteren Generationen und technikbegeisterten Jugendlichen.", "correcte": false },
+          { "id": "d", "texte": "Zwischen gedruckter Literatur und modernen Kurznachrichten.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-006-07",
+        "question": "Welche abschließende Empfehlung formuliert der Redner?",
+        "reponses": [
+          { "id": "a", "texte": "Alle Konten in sozialen Netzwerken zu löschen, um die Gesundheit zu schützen.", "correcte": false },
+          { "id": "b", "texte": "Gesetzliche Obergrenzen für die tägliche Nutzung von Messaging-Diensten einzuführen.", "correcte": false },
+          { "id": "c", "texte": "Die Erforschung digitaler Trends einzustellen und sich auf Geschichte zu konzentrieren.", "correcte": false },
+          { "id": "d", "texte": "Digitale Mittel als Unterstützung realer Begegnungen zu nutzen statt als deren Ersatz.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-006-08",
+        "question": "Wie ist die Argumentation des Redners im gesamten Text aufgebaut?",
+        "reponses": [
+          { "id": "a", "texte": "Durch eine persönliche Kindheitsanekdote ohne Analyse gesellschaftlicher Entwicklungen.", "correcte": false },
+          { "id": "b", "texte": "Durch die ausgewogene Gegenüberstellung von Vor- und Nachteilen vor einem Fazit.", "correcte": true },
+          { "id": "c", "texte": "Durch eine durchgehende Verurteilung sämtlicher Technologieunternehmen.", "correcte": false },
+          { "id": "d", "texte": "Durch eine chronologische Auflistung bedeutender technischer Erfindungen.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b007",
+    "titre": "Die Rolle der Solidarität in einer individualistischen Gesellschaft",
+    "titre2": "Exercice b007",
+    "texte": [
+      "Nadia: Hast du gestern den Andrang im Stadtteilzentrum gesehen? Ehrlich gesagt hatte ich fast erwartet, dass nur drei oder vier Freiwillige zur Lebensmittelsammlung erscheinen würden, vor allem angesichts der Tatsache, wie besessen heute alle von ihren eigenen Terminkalendern zu sein scheinen.",
+      "Thomas: Ich war ebenfalls angenehm überrascht. Fast sechzig Menschen haben mit angepackt, und örtliche Bäckereien haben unverkauftes Brot gespendet, ohne überhaupt darum gebeten worden zu sein. Das beweist, dass unter der Oberfläche des modernen Individualismus noch immer ein tief verwurzelter Instinkt für Solidarität schlummert. Wenn eine Krise eintritt oder ein konkreter Bedarf entsteht, wissen Gemeinschaften sehr wohl, wie man mobilisiert.",
+      "Nadia: Das stimmt, allerdings frage ich mich skeptisch, ob dieser Geist anhält, sobald die akute Notlage vorüber ist. Unsere Gesellschaft preist unentwegt Eigenverantwortung und persönlichen Erfolg. Von klein auf wird uns vermittelt, dass Erfolg ein individuelles Verdienst sei und Scheitern allein auf eigenes Verschulden zurückgehe. Folglich zögern viele Menschen aus Scham, um Hilfe zu bitten, während andere soziale Unterstützung eher als Last denn als kollektive Pflicht betrachten.",
+      "Thomas: Da sprichst du einen wichtigen Punkt an. Solidarität dauerhaft zu verankern ist weitaus schwieriger, als spontane Großzügigkeit an einem Wochenende zu wecken. Dennoch glaube ich, dass viele Menschen allmählich erkennen, dass extremer Individualismus eine Falle ist. Schau dir nur die steigende Vereinsamung in Großstädten oder die Vernachlässigung älterer Menschen an. Ganz gleich, wie wohlhabend oder unabhängig man sich wähnt – wir bleiben fundamental voneinander abhängig. Wenn unser soziales Gefüge zerreißt, trägt letztlich jeder die Folgen.",
+"Nadia: Einverstanden. Vielleicht brauchen wir nicht bloß gelegentliche Wohltätigkeit, sondern einen kulturellen Wandel, der gegenseitige Hilfe als Grundpfeiler des Alltags begreift. Würden Schulen und Unternehmen Zusammenarbeit ebenso begeistert belohnen wie harten Wettbewerb, fühlte sich Solidarität nicht wie eine Ausnahme an, sondern wäre schlicht selbstverständlich.",
+"Thomas: Genau. Wahre Widerstandskraft entsteht nicht dadurch, dass man allein dasteht, sondern durch das Wissen, dass einen jemand auffängt, wenn man strauchelt."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-007-01",
+"question": "Warum zweifelte Nadia zunächst am Erfolg der Lebensmittelsammlung?",
+"reponses": [
+{ "id": "a", "texte": "Das Stadtteilzentrum hatte die Veranstaltung nicht rechtzeitig angekündigt.", "correcte": false },
+{ "id": "b", "texte": "Örtliche Geschäfte hatten Lebensmittelspenden zuvor grundsätzlich abgelehnt.", "correcte": false },
+{ "id": "c", "texte": "Sie glaubte, die Menschen seien zu sehr mit ihren eigenen Zeitplänen beschäftigt.", "correcte": true },
+{ "id": "d", "texte": "Schlechtes Wetter hinderte die meisten Anwohner daran, ihre Wohnungen zu verlassen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-007-02",
+"question": "Wie deutet Thomas die hohe Teilnehmerzahl bei der Hilfsaktion?",
+"reponses": [
+{ "id": "a", "texte": "Als Beleg dafür, dass Menschen nur helfen, wenn sie öffentliche Anerkennung suchen.", "correcte": false },
+{ "id": "b", "texte": "Als Zeichen dafür, dass staatliche Sozialprogramme überflüssig geworden sind.", "correcte": false },
+{ "id": "c", "texte": "Als Hinweis darauf, dass Anwohner an Wochenenden zu viel ungenutzte Freizeit haben.", "correcte": false },
+{ "id": "d", "texte": "Als Beweis, dass unter dem Individualismus weiterhin ein starkes Solidaritätsgefühl existiert.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-007-03",
+"question": "Welche negative Folge entsteht laut Nadia durch die Überbetonung extremer Eigenverantwortung?",
+"reponses": [
+{ "id": "a", "texte": "Menschen schämen sich, in schwierigen Lebenslagen Unterstützung einzufordern.", "correcte": true },
+{ "id": "b", "texte": "Arbeitnehmer werden unproduktiver, weil sie sich zu sehr auf Kollegen verlassen.", "correcte": false },
+{ "id": "c", "texte": "Hilfsorganisationen erhalten mehr Spenden, als sie sinnvoll verteilen können.", "correcte": false },
+{ "id": "d", "texte": "Junge Erwachsene verzichten darauf, anspruchsvolle Berufe zu ergreifen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-007-04",
+"question": "Was meint Thomas mit seiner Aussage, extremer Individualismus sei „eine Falle“?",
+"reponses": [
+{ "id": "a", "texte": "Unabhängige Alleinstehende zahlen deutlich höhere Steuern als Großfamilien.", "correcte": false },
+{ "id": "b", "texte": "Moderne Gesetze erschweren es Bürgern, eigene unabhängige Unternehmen zu gründen.", "correcte": false },
+{ "id": "c", "texte": "Die Illusion völliger Unabhängigkeit verkennt unsere gegenseitige Angewiesenheit und führt zu Isolation.", "correcte": true },
+{ "id": "d", "texte": "Ehrenamtliche Arbeit verlangt Berufstätigen zu große finanzielle Opfer ab.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-007-05",
+"question": "Was bedeutet die Formulierung „Wenn unser soziales Gefüge zerreißt“ in Thomas’ zweiter Äußerung?",
+"reponses": [
+{ "id": "a", "texte": "Wenn die Textilindustrie in Großstädten wirtschaftlich zusammenbricht.", "correcte": false },
+{ "id": "b", "texte": "Wenn das Netz aus Vertrauen und gegenseitigem Halt in der Gesellschaft zerfällt.", "correcte": true },
+{ "id": "c", "texte": "Wenn sich Modetrends in städtischen Regionen immer stärker angleichen.", "correcte": false },
+{ "id": "d", "texte": "Wenn politische Parteien neue Bündnisse für Sozialgesetze schließen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-007-06",
+"question": "Welche langfristige Veränderung schlägt Nadia vor, um Solidarität im Alltag zu verankern?",
+"reponses": [
+{ "id": "a", "texte": "Wohltätige Wochenendarbeit für alle erwachsenen Bürger gesetzlich vorzuschreiben.", "correcte": false },
+{ "id": "b", "texte": "Geldprämien durch öffentliche Ehrenurkunden für Hilfsbereitschaft zu ersetzen.", "correcte": false },
+{ "id": "c", "texte": "Wettbewerbsorientierte Sportarten an Schulen vollständig abzuschaffen.", "correcte": false },
+{ "id": "d", "texte": "Kooperation in Schulen und Betrieben ebenso hoch zu bewerten wie Konkurrenzdenken.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-007-07",
+"question": "Welche grammatische Struktur verwendet Nadia im Satz „Würden Schulen ... belohnen, fühlte sich Solidarität ... an“?",
+"reponses": [
+{ "id": "a", "texte": "Konjunktiv II für eine hypothetische, gewünschte Situation in der Gegenwart.", "correcte": true },
+{ "id": "b", "texte": "Indikativ Präsens zur Beschreibung einer bereits bestehenden Regelung.", "correcte": false },
+{ "id": "c", "texte": "Konjunktiv I zur Wiedergabe einer fremden politischen Forderung.", "correcte": false },
+{ "id": "d", "texte": "Zustandspassiv zum Ausdruck eines abgeschlossenen gesellschaftlichen Wandels.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-007-08",
+"question": "Wie entwickeln sich die Standpunkte von Nadia und Thomas bis zum Ende des Dialogs?",
+"reponses": [
+{ "id": "a", "texte": "Sie bleiben tief zerstritten darüber, ob Wohltätigkeit mehr schadet als nützt.", "correcte": false },
+{ "id": "b", "texte": "Thomas überzeugt Nadia davon, dass persönlicher Ehrgeiz grundsätzlich unmoralisch ist.", "correcte": false },
+{ "id": "c", "texte": "Sie greifen die Gedanken des anderen auf und gelangen zu einer gemeinsamen Schlussfolgerung.", "correcte": true },
+{ "id": "d", "texte": "Nadia überredet Thomas, sein Engagement im Stadtteilzentrum künftig einzustellen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b008",
+"titre": "Neue Familienstrukturen in der zeitgenössischen Welt",
+"titre2": "Exercice b008",
+"texte": [
+"Als Julians Großmutter Margarete an jenem Sonntagnachmittag über den langen Eichentisch blickte, konnte sie ein feines Lächeln kaum verbergen. Fünfzig Jahre zuvor, als sie in einer stillen Dorfkirche geheiratet hatte, schien die Definition von Familie unumstößlich: ein verheiratetes heterosexuelles Paar, das leibliche Kinder unter einem gemeinsamen Dach großzieht. Jede Abweichung von diesem Entwurf wurde hinter vorgehaltener Hand beargwöhnt. Und doch stieß sie nun mit einem lebendigen Mosaik aus Verwandten an, das sich sämtlichen traditionellen Etiketten ihrer Jugend entzog.",
+"Zu ihrer Linken saß ihr ältester Sohn David gemeinsam mit seiner zweiten Ehefrau Klara sowie den drei Kindern, die sie zusammen erzogen – zwei aus Davids erster Ehe und eines aus Klaras früherer Beziehung. Obwohl das Zusammenführen zweier unterschiedlicher Haushalte anfangs Spannungen über gegensätzliche Alltagsroutinen und Loyalitäten ausgelöst hatte, hatten Geduld und offene Gespräche sie allmählich zu einer gefestigten Einheit verschmolzen. Auf der anderen Tischseite diskutierte Julian angeregt über Studienbewerbungen mit seinem Lebenspartner Sam, mit dem er derzeit das anspruchsvolle Adoptionsverfahren für ein Kleinkind durchlief.",
+"Unterdessen hatte Margaretes jüngste Tochter Sophie einen Weg gewählt, der in der Jugend ihrer Mutter undenkbar gewesen wäre: bewusste Alleinerziehende aus freier Entscheidung, tatkräftig unterstützt von zwei langjährigen Freundinnen, die im selben Wohnhaus lebten und als liebevolle Co-Betreuerinnen fungierten. Während Traditionalisten den Rückgang der klassischen Kleinfamilie häufig als Symptom moralischen Verfalls beklagen, sah Margarete vor ihren Augen etwas völlig anderes entstehen. Sie erkannte, dass das Wesen der Familie niemals in starren Urkunden oder biologischer Einheitlichkeit gelegen hatte. Vielmehr beruhte es auf bewusster Verbindlichkeit, emotionaler Geborgenheit und der täglichen Entscheidung, füreinander einzustehen. Als fröhliches Lachen durch den Raum hallte, wusste Margarete, dass sich zwar die äußere Architektur der Familie gewandelt hatte, ihr eigentlicher Zweck jedoch so beständig geblieben war wie eh und je."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-008-01",
+"question": "Wie wurde der Begriff Familie in Margaretes Jugend gesellschaftlich aufgefasst?",
+"reponses": [
+{ "id": "a", "texte": "Als flexibles Modell, das sich von Dorf zu Dorf stark unterschied.", "correcte": false },
+{ "id": "b", "texte": "Als veraltete Institution, die junge Paare möglichst rasch abschaffen wollten.", "correcte": false },
+{ "id": "c", "texte": "Als rein wirtschaftliche Partnerschaft, die von Gemeindevorstehern vereinbart wurde.", "correcte": false },
+{ "id": "d", "texte": "Als starre Norm, bei der abweichende Lebensformen gesellschaftlich missbilligt wurden.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-008-02",
+"question": "Welcher Herausforderung mussten sich David und Klara zu Beginn ihrer Patchworkfamilie stellen?",
+"reponses": [
+{ "id": "a", "texte": "Konflikten aufgrund unterschiedlicher Gewohnheiten und familiärer Bindungen.", "correcte": true },
+{ "id": "b", "texte": "Finanziellen Engpässen durch den Umzug in ein deutlich größeres Haus.", "correcte": false },
+{ "id": "c", "texte": "Scharfem Widerstand von Margarete gegen ihre zweite Eheschließung.", "correcte": false },
+{ "id": "d", "texte": "Großen Schwierigkeiten, geeignete Schulen für ihre drei Kinder zu finden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-008-03",
+"question": "Wie gestaltet Sophie laut der Erzählung ihren Alltag mit ihrem Kind?",
+"reponses": [
+{ "id": "a", "texte": "Völlig auf sich allein gestellt ohne jegliche Hilfe aus ihrem sozialen Umfeld.", "correcte": false },
+{ "id": "b", "texte": "Als bewusst alleinerziehende Mutter mit enger Unterstützung zweier Freundinnen im selben Haus.", "correcte": true },
+{ "id": "c", "texte": "Indem Margarete das Kind während der gesamten Arbeitswoche bei sich betreut.", "correcte": false },
+{ "id": "d", "texte": "Durch eine gerichtlich festgelegte Wechselbetreuung mit ihrem ehemaligen Ehemann.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-008-04",
+"question": "Worin unterscheidet sich Margaretes Sichtweise von der Haltung der „Traditionalisten“?",
+"reponses": [
+{ "id": "a", "texte": "Traditionalisten begrüßen die moderne Vielfalt, während Margarete alte Bräuche vorzieht.", "correcte": false },
+{ "id": "b", "texte": "Traditionalisten betonen wirtschaftliche Stabilität, während Margarete nur auf Urkunden achtet.", "correcte": false },
+{ "id": "c", "texte": "Traditionalisten deuten neue Familienformen als Niedergang, während Margarete darin verlässliche Fürsorge sieht.", "correcte": true },
+{ "id": "d", "texte": "Traditionalisten fördern Adoptionen, während Margarete nur leibliche Verwandtschaft anerkennt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-008-05",
+"question": "Was bedeutet das Adjektiv „unumstößlich“ im ersten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Fragil und nur vorübergehend gültig.", "correcte": false },
+{ "id": "b", "texte": "Geheimnisvoll und schwer verständlich.", "correcte": false },
+{ "id": "c", "texte": "Öffentlich umstritten und häufig kritisiert.", "correcte": false },
+{ "id": "d", "texte": "Unveränderlich, feststehend und nicht infrage zu stellen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-008-06",
+"question": "Worin liegt laut Margaretes Erkenntnis das eigentliche Fundament einer Familie?",
+"reponses": [
+{ "id": "a", "texte": "In bewusster Verlässlichkeit, emotionalem Halt und täglichem Füreinander-Einstehen.", "correcte": true },
+{ "id": "b", "texte": "Im Tragen desselben Familiennamens und dem Leben im selben Heimatort.", "correcte": false },
+{ "id": "c", "texte": "In der Weitergabe von Immobilien über mehrere Generationen hinweg.", "correcte": false },
+{ "id": "d", "texte": "In der strengen Einhaltung kirchlicher Zeremonien und Eheverträge.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-008-07",
+"question": "Warum verwendet der Autor im letzten Satz die Metapher „äußere Architektur der Familie“?",
+"reponses": [
+{ "id": "a", "texte": "Um hervorzuheben, dass moderne Familien lieber in neu gebauten Wohnungen leben.", "correcte": false },
+{ "id": "b", "texte": "Um zu zeigen, dass sich zwar die äußere Form geändert hat, die innere Funktion aber erhalten bleibt.", "correcte": true },
+{ "id": "c", "texte": "Um anzudeuten, dass Familienbeziehungen professionelle Beratung benötigen.", "correcte": false },
+{ "id": "d", "texte": "Um die hohen Wohnkosten für große Patchworkfamilien zu kritisieren.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-008-08",
+"question": "Welche Eigenschaften beschreiben Margaretes Haltung während des Familientreffens am besten?",
+"reponses": [
+{ "id": "a", "texte": "Nostalgisch und missbilligend.", "correcte": false },
+{ "id": "b", "texte": "Verwirrt und überfordert.", "correcte": false },
+{ "id": "c", "texte": "Aufgeschlossen und liebevoll.", "correcte": true },
+{ "id": "d", "texte": "Distanziert und gleichgültig.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b009",
+"titre": "Der Einfluss sozialer Normen auf unsere persönlichen Entscheidungen",
+"titre2": "Exercice b009",
+"texte": [
+"Moderator: Willkommen bei „Denkanstöße“. Heute gehen wir gemeinsam mit der Sozialpsychologin Dr. Miriam Vance einer faszinierenden Frage nach: Wie frei sind unsere persönlichen Entscheidungen wirklich? Frau Dr. Vance, die meisten von uns halten sich für unabhängige Denker, doch Ihre Forschung legt etwas anderes nahe.",
+"Dr. Vance: Das trifft zu. Der Mensch ist evolutionär auf soziale Zugehörigkeit programmiert. Vor Jahrtausenden bedeutete der Ausschluss aus einer Gemeinschaft physische Lebensgefahr, weshalb sich unser Gehirn darauf spezialisiert hat, das Verhalten der Gruppe genau zu beobachten und zu spiegeln. Auch wenn unser Überleben heute nicht mehr durch Abweichung bedroht ist, steuern unsichtbare soziale Normen noch immer alles – von unserer Berufswahl bis hin zu den Meilensteinen, die wir bis zum dreißigsten Lebensjahr erreicht haben wollen.",
+"Moderator: Könnten Sie uns ein konkretes Beispiel dafür geben, wie diese Normen unbemerkt wirken?",
+"Dr. Vance: Gern. Denken Sie an das klassische Lebensskript: Studium abschließen, eine angesehene Stelle antreten, Eigentum erwerben, heiraten und Kinder bekommen. Bemerkenswert ist, wie selten Menschen innehalten, um zu prüfen, ob sie jeden einzelnen Schritt tatsächlich aus eigenem Antrieb wünschen oder lediglich Punkte abhaken, um gesellschaftliche Anerkennung zu ernten. Zudem haben soziale Medien diesen Druck verzehnfacht. Während frühere Generationen sich nur mit Nachbarn oder Kollegen verglichen, messen wir unser Leben heute an Millionen kuratierter Erfolgsgeschichten weltweit.",
+"Moderator: Das klingt ziemlich deterministisch. Bedeutet das, dass echte Autonomie unmöglich ist?",
+"Dr. Vance: Keineswegs – vorausgesetzt, wir entwickeln Selbstreflexion. Soziale Normen sind zwar mächtig, aber weder Naturgesetze noch unzerbrechliche Ketten. Wann immer jemand trotz äußerlich „richtiger“ Entscheidungen anhaltende Unzufriedenheit verspürt, deutet dies meist darauf hin, dass übernommene Wertvorstellungen mit den eigenen authentischen Bedürfnissen kollidieren. Indem wir hinterfragen, warum wir etwas begehren, können wir echte Wünsche von gesellschaftlicher Konditionierung unterscheiden und einen weitaus erfüllenderen Weg einschlagen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-009-01",
+"question": "Warum hat sich das menschliche Gehirn laut Dr. Vance ursprünglich darauf eingestellt, Gruppenverhalten nachzuahmen?",
+"reponses": [
+{ "id": "a", "texte": "Weil frühe Menschen noch keine Sprache besaßen, um eigene Ideen auszudrücken.", "correcte": false },
+{ "id": "b", "texte": "Weil Stammesführer jeden bestraften, der überlieferte Bräuche infrage stellte.", "correcte": false },
+{ "id": "c", "texte": "Weil Nachahmung der schnellste Weg zur Erfindung neuer Werkzeuge war.", "correcte": false },
+{ "id": "d", "texte": "Weil soziale Ausgrenzung in der Frühgeschichte das physische Überleben gefährdete.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-009-02",
+"question": "Was versteht Dr. Vance unter dem „klassischen Lebensskript“?",
+"reponses": [
+{ "id": "a", "texte": "Einen vorhersehbaren Ablauf erwarteter Lebensstationen wie Karriere, Eigentum und Familiengründung.", "correcte": true },
+{ "id": "b", "texte": "Einen beliebten Ratgeber für junge Hochschulabsolventen beim Berufseinstieg.", "correcte": false },
+{ "id": "c", "texte": "Eine Reihe gesetzlicher Vorschriften, die von modernen Staaten durchgesetzt werden.", "correcte": false },
+{ "id": "d", "texte": "Einen Finanzplan, mit dem junge Erwachsene vor dem vierzigsten Lebensjahr in Rente gehen können.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-009-03",
+"question": "Wie haben soziale Medien den Druck gesellschaftlicher Normen verstärkt?",
+"reponses": [
+{ "id": "a", "texte": "Indem sie Nutzer sperren, die unkonventionelle Meinungen veröffentlichen.", "correcte": false },
+{ "id": "b", "texte": "Indem sie den sozialen Vergleich vom lokalen Umfeld auf Millionen idealisierter Lebensläufe weltweit ausweiten.", "correcte": true },
+{ "id": "c", "texte": "Indem sie Unternehmen zwingen, Bewerber allein nach deren Follower-Zahlen einzustellen.", "correcte": false },
+{ "id": "d", "texte": "Indem sie persönliche Gespräche zwischen Nachbarn und Arbeitskollegen vollständig ersetzen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-009-04",
+"question": "Welche Sorge äußert der Moderator nach Dr. Vances Erklärung zur sozialen Prägung?",
+"reponses": [
+{ "id": "a", "texte": "Ob psychologische Forschung von großen Technologiekonzernen finanziert werden sollte.", "correcte": false },
+{ "id": "b", "texte": "Ob junge Menschen heute überhaupt noch heiraten oder Wohneigentum erwerben möchten.", "correcte": false },
+{ "id": "c", "texte": "Ob echte persönliche Freiheit und unabhängiges Entscheiden überhaupt erreichbar sind.", "correcte": true },
+{ "id": "d", "texte": "Ob frühere Generationen stärker unter Gruppenzwang litten als die heutige Jugend.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-009-05",
+"question": "Worauf weist anhaltende Unzufriedenheit trotz äußerem Erfolg laut Dr. Vance oft hin?",
+"reponses": [
+{ "id": "a", "texte": "Auf mangelnde Dankbarkeit für materiellen Wohlstand und finanzielle Sicherheit.", "correcte": false },
+{ "id": "b", "texte": "Auf die Unfähigkeit, sich auf einem globalisierten Arbeitsmarkt durchzusetzen.", "correcte": false },
+{ "id": "c", "texte": "Auf die Notwendigkeit, in ein anderes Land mit weniger Traditionen auszuwandern.", "correcte": false },
+{ "id": "d", "texte": "Auf einen Konflikt zwischen anerzogenen Erwartungen und den eigenen wahren Bedürfnissen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-009-06",
+"question": "Wie können Menschen laut der Expertin Selbstbestimmung über ihre Entscheidungen zurückgewinnen?",
+"reponses": [
+{ "id": "a", "texte": "Durch Selbstreflexion und das kritische Hinterfragen der Motive hinter den eigenen Zielen.", "correcte": true },
+{ "id": "b", "texte": "Indem sie sämtliche Ratschläge von Familienmitgliedern und Mentoren ignorieren.", "correcte": false },
+{ "id": "c", "texte": "Indem sie bewusst immer genau das Gegenteil dessen tun, was die Gesellschaft erwartet.", "correcte": false },
+{ "id": "d", "texte": "Indem sie langfristige Bindungen im Berufs- wie im Privatleben grundsätzlich vermeiden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-009-07",
+"question": "Was bedeutet das Verb „kollidieren“ im letzten Absatz („mit den eigenen ... Bedürfnissen kollidieren“)?",
+"reponses": [
+{ "id": "a", "texte": "Harmonisch miteinander verschmelzen und sich gegenseitig verstärken.", "correcte": false },
+{ "id": "b", "texte": "In Widerspruch geraten und aufeinanderprallen.", "correcte": true },
+{ "id": "c", "texte": "Sich im Laufe des Erwachsenwerdens unbemerkt auflösen.", "correcte": false },
+{ "id": "d", "texte": "Durch äußere Anerkennung belohnt werden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-009-08",
+"question": "Welche Aussage fasst Dr. Vances Gesamtbotschaft am treffendsten zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Menschen sind hilflose Opfer ihrer evolutionären Programmierung.", "correcte": false },
+{ "id": "b", "texte": "Traditionelle Lebensstationen garantieren der Mehrheit der Menschen dauerhaftes Glück.", "correcte": false },
+{ "id": "c", "texte": "Obwohl soziale Normen uns stark prägen, ermöglicht bewusstes Nachdenken freie Entscheidungen.", "correcte": true },
+{ "id": "d", "texte": "Gesellschaftliche Anpassung ist heute überlebenswichtiger als vor vielen Jahrtausenden.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b010",
+"titre": "Sollten wir immer danach streben, unseren Lebensstandard zu verbessern?",
+"titre2": "Exercice b010",
+"texte": [
+"Über Generationen hinweg galt das Streben nach einem stetig höheren Lebensstandard als unangefochtener Motor des modernen Fortschritts. Ökonomen bemessen nationalen Erfolg anhand des Bruttoinlandsprodukts, während Einzelpersonen persönlichen Aufstieg häufig mit größeren Häusern, schnelleren Fahrzeugen und modernsten Luxusgütern gleichsetzen. Zweifellos hat die Anhebung des materiellen Lebensstandards Millionen Menschen aus bitterer Armut befreit, die Lebenserwartung verlängert und zahlreiche vermeidbare Krankheiten zurückgedrängt. Doch sobald grundlegende physische und finanzielle Bedürfnisse solide gedeckt sind, stellt sich die Frage: Steigert die rastlose Jagd nach materiellen Verbesserungen das menschliche Wohlbefinden weiter, oder schlägt sie irgendwann ins Gegenteil um?",
+"Befürworter eines kontinuierlichen wirtschaftlichen und materiellen Wachstums argumentieren, dass menschliches Streben von Natur aus grenzenlos sei. Aus dieser Perspektive treibt der Wunsch nach größerem Komfort technologische Innovationen voran, schafft Arbeitsplätze und erweitert die persönliche Freiheit. Größere finanzielle Mittel ermöglichen Zugang zu erstklassiger Gesundheitsversorgung, Bildung und Reisen. Folglich könnte ein Verzicht auf materiellen Fortschritt zu wirtschaftlicher Stagnation und geringeren Chancen für künftige Generationen führen.",
+"Dennoch stellen zahlreiche psychologische und ökologische Erkenntnisse diese Annahme zunehmend infrage. Verhaltensökonomen sprechen von der „hedonischen Tretmühle“ – der menschlichen Neigung, sich rasch an verbesserte materielle Umstände zu gewöhnen, sodass der anfängliche Reiz eines höheren Einkommens oder einer Luxusanschaffung schnell verfliegt. Da die Erwartungen parallel zum Einkommen steigen, arbeiten viele Menschen immer länger, bloß um einen Lebensstil aufrechtzuerhalten, der ihnen kaum noch echte Freude bereitet. Zudem ist das universelle Streben nach unbegrenztem Konsum auf einem Planeten mit endlichen Ressourcen ökologisch unhaltbar und beschleunigt Klimakrise sowie Artensterben.",
+"Letztlich liegt der Denkfehler nicht im Wunsch nach einem angemessenen Lebensstandard, sondern im Versäumnis, zwischen „Lebensstandard“ und „Lebensqualität“ zu unterscheiden. Während Ersterer materiellen Wohlstand und Komfort misst, umfasst Letztere innere Ruhe, verlässliche Beziehungen, freie Zeit und eine intakte Umwelt. Sobald materielle Genügsamkeit erreicht ist, täten Gesellschaften wie Einzelpersonen weitaus klüger daran, ihre Ambitionen auf die Bereicherung ihrer Lebensqualität zu richten, statt endlos materiellen Überfluss anzuhäufen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-010-01",
+"question": "Welche historischen Errungenschaften eines steigenden Lebensstandards erkennt der Autor im ersten Absatz an?",
+"reponses": [
+{ "id": "a", "texte": "Die weltweit völlig gleichmäßige Verteilung von Vermögen zwischen allen Ländern.", "correcte": false },
+{ "id": "b", "texte": "Die Verringerung extremer Armut, höhere Lebenserwartung und Bekämpfung vermeidbarer Krankheiten.", "correcte": true },
+{ "id": "c", "texte": "Die Senkung globaler Treibhausgasemissionen durch moderne Industrieproduktion.", "correcte": false },
+{ "id": "d", "texte": "Die Beseitigung von Arbeitsstress und die Verkürzung der durchschnittlichen Arbeitswoche.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-010-02",
+"question": "Warum halten Befürworter stetigen Wachstums das Streben nach materiellem Aufstieg für vorteilhaft?",
+"reponses": [
+{ "id": "a", "texte": "Es bewegt Menschen dazu, einen größeren Teil ihres Einkommens für Wohltätigkeit zu spenden.", "correcte": false },
+{ "id": "b", "texte": "Es beweist, dass nationales Glück ausschließlich vom Bruttoinlandsprodukt abhängt.", "correcte": false },
+{ "id": "c", "texte": "Es verhindert, dass Menschen zu stark an überholten Familientraditionen festhalten.", "correcte": false },
+{ "id": "d", "texte": "Es fördert Innovationen, schafft Arbeitsplätze und verbessert den Zugang zu Bildung und Medizin.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-010-03",
+"question": "Wie wird das Phänomen der „hedonischen Tretmühle“ im dritten Absatz erklärt?",
+"reponses": [
+{ "id": "a", "texte": "Die schnelle Gewöhnung an neuen Wohlstand, wodurch zusätzliche Luxusgüter bald kein Mehr an Glück bringen.", "correcte": true },
+{ "id": "b", "texte": "Die Gewohnheit, regelmäßig Sport zu treiben, um beruflichen Leistungsdruck abzubauen.", "correcte": false },
+{ "id": "c", "texte": "Ein wirtschaftlicher Kreislauf, in dem Inflation jährliche Gehaltserhöhungen sofort aufzehrt.", "correcte": false },
+{ "id": "d", "texte": "Die Neigung wohlhabender Verbraucher, ungenutzte Waren an ärmere Haushalte zu verschenken.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-010-04",
+"question": "Welches ökologische Argument führt der Autor gegen unbegrenztes materielles Wachstum an?",
+"reponses": [
+{ "id": "a", "texte": "Erneuerbare Energien sind für Schwellenländer finanziell unerschwinglich.", "correcte": false },
+{ "id": "b", "texte": "Endloser Konsum auf einer Erde mit begrenzten Ressourcen verschärft Klimawandel und Artenverlust.", "correcte": true },
+{ "id": "c", "texte": "Städtische Ausdehnung hat weltweit sämtliche landwirtschaftlichen Flächen zerstört.", "correcte": false },
+{ "id": "d", "texte": "Recyclingprogramme sind völlig wirkungslos bei der Reduzierung von Industrieabfällen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-010-05",
+"question": "Welche wichtige begriffliche Unterscheidung trifft der Autor im Schlussabsatz?",
+"reponses": [
+{ "id": "a", "texte", "Zwischen kurzfristigen Geldanlagen und langfristiger Altersvorsorge.", "correcte": false },
+{ "id": "b", "texte": "Zwischen nationaler Wirtschaftspolitik und internationalen Handelsabkommen.", "correcte": false },
+{ "id": "c", "texte": "Zwischen materiellem Besitz (Lebensstandard) und ganzheitlichem Wohlbefinden (Lebensqualität).", "correcte": true },
+{ "id": "d", "texte": "Zwischen ererbtem Familienvermögen und selbst erarbeitetem unternehmerischem Erfolg.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-010-06",
+"question": "Wann sollten Menschen laut dem Autor ihren Fokus weg von weiterer materieller Anhäufung verlagern?",
+"reponses": [
+{ "id": "a", "texte": "Unmittelbar nach dem Abschluss der Sekundarschule.", "correcte": false },
+{ "id": "b", "texte": "Erst nach dem Erreichen des gesetzlichen Rentenalters.", "correcte": false },
+{ "id": "c", "texte": "Immer dann, wenn die Weltwirtschaft in eine vorübergehende Rezession gerät.", "correcte": false },
+{ "id": "d", "texte": "Sobald ihre grundlegenden materiellen und finanziellen Bedürfnisse verlässlich gesichert sind.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-010-07",
+"question": "Welche grammatische Form liegt im Satz „täten Gesellschaften ... weitaus klüger daran, ihre Ambitionen ... zu richten“ vor?",
+"reponses": [
+{ "id": "a", "texte": "Konjunktiv II zum Ausdruck einer dringenden Empfehlung bzw. eines Ratschlags.", "correcte": true },
+{ "id": "b", "texte": "Präteritum Indikativ zur Schilderung einer abgeschlossenen historischen Reform.", "correcte": false },
+{ "id": "c", "texte": "Imperativ Plural als direkter gesetzlicher Befehl an die Bürger.", "correcte": false },
+{ "id": "d", "texte": "Futur I zur Vorhersage einer unvermeidlichen wirtschaftlichen Entwicklung.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-010-08",
+"question": "Welche Aussage fasst die Hauptthese des Essays am besten zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Wirtschaftlicher Fortschritt muss sofort gestoppt werden, um die Umwelt zu retten.", "correcte": false },
+{ "id": "b", "texte": "Jenseits grundlegender Sicherheit bringt die Pflege der Lebensqualität mehr Erfüllung als endloser Konsum.", "correcte": true },
+{ "id": "c", "texte": "Wahres Glück ist ohne ein stetig steigendes Einkommen grundsätzlich unmöglich.", "correcte": false },
+{ "id": "d", "texte": "Regierungen sollten Luxusgüter verbieten, um psychische Unzufriedenheit zu verhindern.", "correcte": false }
+]
+}
+]
+}
+]
