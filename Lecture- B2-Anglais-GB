@@ -945,5 +945,911 @@
 ]
 }
 ]
+},
+{
+    "id": "B2-011b",
+    "titre": "Should Schools Prioritize Knowledge or Skills?",
+    "titre2": "Exercise 11",
+    "audios": [
+      { "id": "audio-en-read-b2-011b-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-b2-011b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "In contemporary educational policy, few debates are as fiercely contested as the tension between knowledge-rich curricula and skills-based learning. With the advent of artificial intelligence and instant access to encyclopedic information via smartphones, many reformers argue that memorizing historical dates or scientific formulas has become obsolete. Instead, they maintain that schools ought to prioritize transferable competencies—such as problem-solving, collaboration, and digital literacy—so that students can adapt to a rapidly evolving labor market.",
+      "Nevertheless, cognitive scientists warn that pitting knowledge against skills rests on a false dichotomy. Extensive empirical research demonstrates that critical thinking and problem-solving cannot operate in a vacuum; they are inextricably bound to domain-specific knowledge stored in long-term memory. For instance, a student cannot effectively analyze a complex geopolitical crisis or evaluate the credibility of an online source without possessing a solid foundation of historical and civic facts.",
+      "On the other hand, an overemphasis on rote memorization risks turning classrooms into passive environments where curiosity is stifled. When curricula are overloaded with disconnected facts solely for standardized testing, students often struggle to apply what they have learned to real-world contexts. Therefore, the most effective pedagogical models integrate both dimensions, using foundational knowledge as the raw material through which higher-order skills are cultivated.",
+      "Ultimately, education should not be reduced to a binary choice between knowing and doing. If schools wish to prepare autonomous citizens rather than mere test-takers, they must ensure that deep disciplinary understanding goes hand in hand with practical, adaptable competencies."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Why do some educational reformers believe memorizing facts is no longer necessary?",
+        "points": 1,
+        "reponse_modele": "Because smartphones and artificial intelligence provide instant access to information, making adaptability and practical skills more relevant for modern jobs.",
+        "mots_cles": [
+          { "mot": "technology", "variantes": ["smartphones", "AI", "instant access"], "poids": 0.5 },
+          { "mot": "skills", "variantes": ["competencies", "labor market", "obsolete"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "What counterargument do cognitive scientists present in the second paragraph?",
+        "points": 1,
+        "reponse_modele": "They explain that critical thinking and problem-solving depend heavily on having background knowledge stored in long-term memory.",
+        "mots_cles": [
+          { "mot": "knowledge", "variantes": ["memory", "facts", "foundation"], "poids": 0.6 },
+          { "mot": "critical thinking", "variantes": ["skills", "vacuum", "depend"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "What is the main drawback of focusing exclusively on rote memorization?",
+        "points": 1,
+        "reponse_modele": "It makes students passive, kills their curiosity, and leaves them unable to apply facts to real-life situations.",
+        "mots_cles": [
+          { "mot": "passive", "variantes": ["curiosity", "stifled"], "poids": 0.5 },
+          { "mot": "real-world", "variantes": ["apply", "disconnected"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Explain the meaning of the phrase 'false dichotomy' as used in the second paragraph.",
+        "points": 1,
+        "reponse_modele": "It refers to presenting two things as mutually exclusive opposites when they actually complement each other.",
+        "mots_cles": [
+          { "mot": "opposite", "variantes": ["mutually exclusive", "artificial choice", "misleading contrast"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "How does the author suggest reconciling knowledge and skills in the third paragraph?",
+        "points": 1,
+        "reponse_modele": "By treating basic knowledge as the essential foundation needed to practice and develop advanced skills.",
+        "mots_cles": [
+          { "mot": "integrate", "variantes": ["combine", "raw material", "both"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "What is the function of the connector 'Nevertheless' at the start of the second paragraph?",
+        "points": 1,
+        "reponse_modele": "It introduces scientific evidence that challenges the reformers' claim that factual knowledge is outdated.",
+        "mots_cles": [
+          { "mot": "contrast", "variantes": ["challenge", "counterargument", "opposition"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "What implicit criticism of standardized testing is expressed in the text?",
+        "points": 1,
+        "reponse_modele": "The author implies that standardized tests encourage superficial memorization of isolated facts rather than deep understanding.",
+        "mots_cles": [
+          { "mot": "superficial", "variantes": ["memorization", "isolated facts", "test-takers"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "What goal should schools pursue according to the concluding sentence?",
+        "points": 1,
+        "reponse_modele": "Schools should aim to develop independent, thoughtful citizens by combining thorough subject knowledge with practical skills.",
+        "mots_cles": [
+          { "mot": "autonomous citizens", "variantes": ["independent", "not test-takers"], "poids": 0.5 },
+          { "mot": "combine", "variantes": ["knowledge and skills", "hand in hand"], "poids": 0.5 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B2-012b",
+    "titre": "The Limitations of the Traditional Education System",
+    "titre2": "Exercise 12",
+    "audios": [
+      { "id": "audio-en-read-b2-012b-1", "url": "soundcloud.com" },
+      { "id": "audio-en-read-b2-012b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "After fifteen years of teaching secondary school physics, David Mercer handed in his resignation, exhausted by what he described as an antiquated industrial model of schooling. Sitting across from his former colleague, Sarah Jenkins, in a quiet café, David explained his frustration. 'Our classrooms still operate like nineteenth-century factories,' he said earnestly. 'Students are grouped strictly by age, marched from one subject to another at the sound of a bell, and expected to absorb identical material at the exact same pace.'",
+      "Sarah listened sympathetically, stirring her coffee before replying. 'I understand your disillusionment, David, especially regarding standardized pacing. When bright students are forced to wait, they grow disengaged; conversely, struggling learners fall permanently behind because the curriculum refuses to pause. Yet, we cannot overlook the logistical realities. Public schools must educate millions of children simultaneously with limited budgets.'",
+      "'Budget constraints are real, Sarah, but they shouldn't excuse pedagogical rigidity,' David countered. 'Furthermore, traditional schooling rewards compliance and conformity while penalizing intellectual risk-taking. Students quickly learn that asking unconventional questions wastes precious exam preparation time. Consequently, we extinguish their natural curiosity before they even reach university.'",
+      "Sarah nodded slowly, acknowledging the validity of his critique. 'Even though the traditional system provides vital structure and social integration for many youths, I agree that it urgently needs reform. Unless we incorporate personalized learning pathways and interdisciplinary projects, we risk preparing young people for a world that no longer exists.'"
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Why does David compare traditional schools to 'nineteenth-century factories'?",
+        "points": 1,
+        "reponse_modele": "Because students are sorted by age, controlled by bells, and forced to learn the same content at a uniform speed.",
+        "mots_cles": [
+          { "mot": "uniform", "variantes": ["same pace", "standardized", "bell"], "poids": 0.6 },
+          { "mot": "age", "variantes": ["grouped", "industrial", "rigid"], "poids": 0.4 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "According to Sarah, how does standardized pacing negatively affect different types of students?",
+        "points": 1,
+        "reponse_modele": "Advanced students become bored while waiting, whereas slower learners fall behind permanently because the class moves on.",
+        "mots_cles": [
+          { "mot": "bored", "variantes": ["disengaged", "bright students"], "poids": 0.5 },
+          { "mot": "fall behind", "variantes": ["struggling", "pace"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "What practical constraint does Sarah mention to explain why schools operate this way?",
+        "points": 1,
+        "reponse_modele": "She points out that public schools must teach huge numbers of students at once with restricted financial resources.",
+        "mots_cles": [
+          { "mot": "budget", "variantes": ["limited resources", "money", "millions"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Explain the meaning of the word 'disillusionment' in the second paragraph.",
+        "points": 1,
+        "reponse_modele": "It means disappointment resulting from discovering that something is not as good or effective as one believed.",
+"mots_cles": [
+{ "mot": "disappointment", "variantes": ["frustration", "loss of faith", "discouragement"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "How does traditional schooling affect students' curiosity according to David?",
+"points": 1,
+"reponse_modele": "It discourages unconventional questions and rewards obedience to pass exams, eventually destroying their natural curiosity.",
+"mots_cles": [
+{ "mot": "compliance", "variantes": ["conformity", "exams", "penalizing"], "poids": 0.5 },
+{ "mot": "curiosity", "variantes": ["extinguish", "questions"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "What is the grammatical effect of using 'Unless' in Sarah's final sentence?",
+"points": 1,
+"reponse_modele": "It introduces a negative condition ('if we do not'), warning of a serious consequence if reforms are not implemented.",
+"mots_cles": [
+{ "mot": "condition", "variantes": ["if not", "warning", "consequence"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "What positive aspects of traditional schooling does Sarah defend in the final paragraph?",
+"points": 1,
+"reponse_modele": "She notes that it offers essential structure and helps young people integrate socially.",
+"mots_cles": [
+{ "mot": "structure", "variantes": ["organization", "stability"], "poids": 0.5 },
+{ "mot": "social integration", "variantes": ["socialization", "peers"], "poids": 0.5 }
+]
+},
+{
+"id": "Q8",
+"question": "What specific reforms does Sarah propose to modernize education?",
+"points": 1,
+"reponse_modele": "She suggests introducing individualized learning paths and projects that combine multiple academic subjects.",
+"mots_cles": [
+{ "mot": "personalized", "variantes": ["individualized", "pathways"], "poids": 0.5 },
+{ "mot": "interdisciplinary", "variantes": ["projects", "subjects"], "poids": 0.5 }
+]
+}
+]
+},
+{
+"id": "B2-013b",
+"titre": "Can Distance Learning Replace Face-to-Face Classes?",
+"titre2": "Exercise 13",
+"audios": [
+{ "id": "audio-en-read-b2-013b-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-b2-013b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"When global lockdowns forced universities to migrate overnight onto video-conferencing platforms, many commentators predicted the imminent demise of the traditional brick-and-mortar campus. At first glance, distance learning appeared revolutionary: students could attend lectures from anywhere in the world, replay recorded explanations at their own convenience, and save substantial sums on commuting and accommodation. For working adults and learners in remote regions, online education undeniably democratized access to knowledge.",
+"However, as months of virtual instruction stretched on, significant pedagogical shortcomings became apparent. Deprived of physical proximity, professors struggled to read subtle non-verbal cues—such as confused expressions or restless body language—that normally signal when a concept needs clarification. Meanwhile, isolated behind muted microphones and turned-off cameras, many students experienced severe motivational decline and cognitive fatigue.",
+"Moreover, education encompasses far more than the mere transmission of information; it is fundamentally a social process. Spontaneous debates in hallways, collaborative laboratory experiments, and peer mentorship foster emotional intelligence and interpersonal skills that software cannot replicate. Furthermore, online learning exacerbated existing socioeconomic divides, as disadvantaged students often lacked high-speed internet or quiet study spaces at home.",
+"Consequently, most educators now agree that while digital tools are invaluable supplements, distance learning cannot fully replace face-to-face classes. Instead, hybrid models—combining the flexibility of online resources with the irreplaceable human dynamic of physical classrooms—represent the most promising path forward."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "What initial advantages made distance learning seem revolutionary?",
+"points": 1,
+"reponse_modele": "Students could learn from anywhere, rewatch recorded lectures, save money on travel and housing, and access education from remote areas.",
+"mots_cles": [
+{ "mot": "flexibility", "variantes": ["anywhere", "replay", "convenience"], "poids": 0.5 },
+{ "mot": "cost", "variantes": ["save", "commuting", "access"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "Why did professors find teaching online more difficult according to the second paragraph?",
+"points": 1,
+"reponse_modele": "Because they could not see students' facial expressions or body language to tell if they understood the lesson.",
+"mots_cles": [
+{ "mot": "non-verbal cues", "variantes": ["body language", "expressions", "cameras"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "What psychological effects did prolonged online learning have on students?",
+"points": 1,
+"reponse_modele": "Many felt isolated, lost motivation, and suffered from mental exhaustion.",
+"mots_cles": [
+{ "mot": "motivation", "variantes": ["isolated", "fatigue", "exhaustion"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Explain the meaning of 'brick-and-mortar campus' in the first paragraph.",
+"points": 1,
+"reponse_modele": "It refers to a physical university with actual buildings, as opposed to an online or virtual institution.",
+"mots_cles": [
+{ "mot": "physical", "variantes": ["traditional", "buildings", "in-person"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "How did distance learning worsen social inequalities?",
+"points": 1,
+"reponse_modele": "Lower-income students frequently lacked reliable internet connections or quiet places to study at home.",
+"mots_cles": [
+{ "mot": "internet", "variantes": ["technology", "connection"], "poids": 0.5 },
+{ "mot": "study spaces", "variantes": ["home", "disadvantaged", "quiet"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "What is the role of the connector 'Moreover' at the beginning of the third paragraph?",
+"points": 1,
+"reponse_modele": "It introduces an additional, broader argument explaining why physical presence is essential for social development.",
+"mots_cles": [
+{ "mot": "addition", "variantes": ["furthermore", "add", "another point"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "What does the author imply about the true nature of education in the third paragraph?",
+"points": 1,
+"reponse_modele": "Education is not just transferring data; it relies heavily on human interaction and social experiences.",
+"mots_cles": [
+{ "mot": "social process", "variantes": ["interaction", "not just information", "human"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "What solution does the author advocate in the final paragraph?",
+"points": 1,
+"reponse_modele": "A hybrid approach that blends online flexibility with in-person classroom interaction.",
+"mots_cles": [
+{ "mot": "hybrid", "variantes": ["blended", "combine", "both"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-014b",
+"titre": "The Importance of Developing Critical Thinking from an Early Age",
+"titre2": "Exercise 14",
+"audios": [
+{ "id": "audio-en-read-b2-014b-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-b2-014b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"In an era saturated with algorithmic echo chambers, sensationalist headlines, and sophisticated misinformation, the ability to think critically has become an indispensable survival skill. Yet, too often, critical thinking is treated as an advanced academic module reserved for university students. Developmental psychologists argue, however, that waiting until late adolescence to cultivate analytical reasoning is a profound mistake, as young children naturally possess an insatiable curiosity that makes them ideal critical thinkers.",
+"Whenever a six-year-old persistently asks 'Why?', they are essentially practicing the fundamentals of philosophical inquiry. Unfortunately, traditional elementary schooling frequently dampens this instinct by rewarding children for quickly reciting the single 'correct' answer rather than exploring how conclusions are reached. If primary teachers were instead trained to encourage open-ended questioning, evidence evaluation, and respectful disagreement, pupils would internalize healthy skepticism early on.",
+"Furthermore, fostering critical thinking in childhood strengthens democratic resilience. Citizens who learn early in life to distinguish verifiable facts from emotional manipulation are far less susceptible to populist rhetoric or conspiracy theories later in adulthood. Even though some parents worry that teaching children to question authority might breed disrespect, educators clarify that genuine critical thinking is rooted in intellectual humility—the willingness to revise one's own beliefs when presented with better evidence.",
+"Ultimately, equipping young minds with analytical tools is not about teaching them what to think, but rather how to think. In a complex and uncertain world, nurturing independent judgment from childhood remains our strongest safeguard for individual autonomy and collective truth."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Why has critical thinking become essential in modern society according to the first paragraph?",
+"points": 1,
+"reponse_modele": "Because people are constantly exposed to misinformation, biased algorithms, and sensational news.",
+"mots_cles": [
+{ "mot": "misinformation", "variantes": ["fake news", "headlines", "algorithms"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "How do traditional elementary schools often discourage children's natural curiosity?",
+"points": 1,
+"reponse_modele": "By rewarding pupils for memorizing one right answer quickly instead of encouraging them to ask questions and analyze reasoning.",
+"mots_cles": [
+{ "mot": "correct answer", "variantes": ["memorizing", "reciting", "dampens"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "What political or social benefit does early critical thinking provide according to the third paragraph?",
+"points": 1,
+"reponse_modele": "It protects democracy by helping future adults resist emotional manipulation, populism, and conspiracy theories.",
+"mots_cles": [
+{ "mot": "democracy", "variantes": ["democratic", "citizens"], "poids": 0.4 },
+{ "mot": "manipulation", "variantes": ["conspiracy", "populist", "facts"], "poids": 0.6 }
+]
+},
+{
+"id": "Q4",
+"question": "Explain the meaning of 'intellectual humility' as defined in the third paragraph.",
+"points": 1,
+"reponse_modele": "It means being open-minded enough to change one's opinion when confronted with stronger factual evidence.",
+"mots_cles": [
+{ "mot": "revise beliefs", "variantes": ["change mind", "evidence", "open-minded"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "How does the author address parents' fears that critical thinking makes children disrespectful?",
+"points": 1,
+"reponse_modele": "By explaining that critical thinking is based on respectful disagreement and humility rather than rebellion against authority.",
+"mots_cles": [
+{ "mot": "humility", "variantes": ["respectful", "evidence", "not disrespect"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Identify the conditional structure in the second paragraph and explain its purpose.",
+"points": 1,
+"reponse_modele": "'If primary teachers were instead trained... pupils would internalize...' (second conditional) presents an ideal hypothetical reform to show its positive outcome.",
+"mots_cles": [
+{ "mot": "second conditional", "variantes": ["hypothetical", "If primary teachers", "would internalize"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "What does the anecdote about a six-year-old asking 'Why?' illustrate?",
+"points": 1,
+"reponse_modele": "It shows that young children naturally possess an investigative mindset that schools should nurture rather than suppress.",
+"mots_cles": [
+{ "mot": "natural curiosity", "variantes": ["instinct", "philosophical", "innate"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Explain the distinction made in the final paragraph between 'what to think' and 'how to think.'",
+"points": 1,
+"reponse_modele": "Teaching 'what to think' imposes fixed ideas, while teaching 'how to think' gives students the reasoning skills to form their own conclusions.",
+"mots_cles": [
+{ "mot": "independent judgment", "variantes": ["reasoning skills", "autonomy", "analyze"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-015b",
+"titre": "Educational Inequalities and Their Consequences for the Future",
+"titre2": "Exercise 15",
+"audios": [
+{ "id": "audio-en-read-b2-015b-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-b2-015b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Standing before the parliamentary education committee, policy researcher Nadia Benali laid two photographs side by side on the table. 'On your left,' she began steadily, 'is a public secondary school in an affluent suburb, boasting modern science laboratories, small class sizes, and experienced teachers. On your right is an underfunded school barely ten kilometers away, plagued by leaking roofs, outdated textbooks, and chronic staff shortages. Yet, at the end of the year, students from both institutions will be judged by the exact same national examination.'",
+"Benali argued that such structural disparities violate the foundational promise of equal opportunity. When educational funding is tied to local property taxes or when wealthier families can afford private tutoring and extracurricular enrichment, school systems inadvertently reproduce social class divisions rather than dismantling them. Consequently, a child's postal code often predicts their adult income far more accurately than their innate talent or work ethic.",
+"Moreover, the committee was reminded that educational inequality inflicts severe macroeconomic damage on the entire nation. When millions of low-income youths are deprived of quality instruction, society squanders an immense reservoir of potential doctors, engineers, and innovators. In other words, failing to invest equitably in disadvantaged schools is not merely a moral failure; it is an act of economic self-sabotage.",
+"Concluding her testimony, Benali urged lawmakers to implement progressive funding formulas that allocate additional resources to struggling districts. 'If we genuinely believe in meritocracy,' she declared, 'we must first ensure that every child starts the race from the same starting line.'"
+],
+"questions": [
+{
+"id": "Q1",
+"question": "What stark contrast did Nadia Benali illustrate using two photographs?",
+"points": 1,
+"reponse_modele": "She contrasted a well-equipped, wealthy suburban school with a poorly funded, deteriorating school nearby whose students take the same exam.",
+"mots_cles": [
+{ "mot": "wealthy", "variantes": ["affluent", "modern", "resources"], "poids": 0.5 },
+{ "mot": "underfunded", "variantes": ["poor", "shortages", "same exam"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "How do school systems unintentionally reinforce social class divisions according to Benali?",
+"points": 1,
+"reponse_modele": "Through unequal funding based on neighborhood wealth and affluent families paying for private tutoring and extra activities.",
+"mots_cles": [
+{ "mot": "funding", "variantes": ["taxes", "tutoring", "wealth"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Why does Benali describe educational inequality as 'economic self-sabotage'?",
+"points": 1,
+"reponse_modele": "Because depriving poor students of good education wastes valuable future talent and slows national economic growth.",
+"mots_cles": [
+{ "mot": "wasted talent", "variantes": ["squanders", "innovators", "economy"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Explain the meaning of the verb 'to squander' in the third paragraph.",
+"points": 1,
+"reponse_modele": "It means to waste something valuable recklessly or foolishly.",
+"mots_cles": [
+{ "mot": "waste", "variantes": ["throw away", "lose", "misuse"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "What does Benali mean by saying a child's 'postal code' predicts their future income?",
+"points": 1,
+"reponse_modele": "She means that the neighborhood where a child grows up determines their opportunities more than their personal ability or effort.",
+"mots_cles": [
+{ "mot": "neighborhood", "variantes": ["where they live", "background", "location"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "What is the function of the phrase 'In other words' in the third paragraph?",
+"points": 1,
+"reponse_modele": "It reformulates her economic argument more forcefully to highlight the practical self-interest of investing in poor schools.",
+"mots_cles": [
+{ "mot": "reformulate", "variantes": ["rephrase", "summarize", "emphasize"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "What specific policy reform does Benali recommend to lawmakers?",
+"points": 1,
+"reponse_modele": "She proposes progressive funding systems that give extra financial support to disadvantaged school districts.",
+"mots_cles": [
+{ "mot": "progressive funding", "variantes": ["more money", "resources", "struggling districts"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Interpret the sports metaphor in Benali's final sentence.",
+"points": 1,
+"reponse_modele": "True meritocracy can only exist if all children receive equal support and conditions before competing for success.",
+"mots_cles": [
+{ "mot": "equal opportunity", "variantes": ["fairness", "same conditions", "meritocracy"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-016b",
+"titre": "Should Student Assessment Methods Be Reformed?",
+"titre2": "Exercise 16",
+"audios": [
+{ "id": "audio-en-read-b2-016b-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-b2-016b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"For decades, high-stakes standardized exams and numerical grading systems have served as the primary yardsticks for measuring academic achievement. Proponents of traditional testing argue that objective examinations provide an impartial, transparent benchmark that allows universities and employers to compare candidates fairly across different institutions. Without standardized metrics, they warn, grading could easily succumb to teacher bias or grade inflation.",
+"Nevertheless, a growing chorus of educators and psychologists contends that conventional assessment methods offer a remarkably narrow snapshot of human intelligence. High-stakes final exams predominantly measure short-term memory recall and performance under acute time pressure, while largely ignoring essential attributes such as creativity, resilience, and sustained effort. Consequently, many capable students suffer from debilitating test anxiety that prevents them from demonstrating their genuine understanding.",
+"Furthermore, numerical grades often shift students' motivation from intrinsic curiosity to extrinsic validation. When learners become obsessed with chasing percentages or letter grades, they tend to avoid intellectually challenging tasks for fear of lowering their average. Conversely, alternative approaches—such as continuous formative assessment, portfolio evaluations, and detailed qualitative feedback—encourage students to view mistakes as constructive stepping stones toward mastery.",
+"Ultimately, reforming assessment does not require abolishing all rigorous standards. Rather, if education systems were to adopt a balanced combination of summative exams and continuous, competency-based evaluations, grading would become a genuine tool for learning rather than a mere mechanism for sorting."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "What main arguments are used to defend standardized exams in the first paragraph?",
+"points": 1,
+"reponse_modele": "They offer an objective, fair way to compare students from different schools and prevent teacher favoritism or grade inflation.",
+"mots_cles": [
+{ "mot": "objective", "variantes": ["impartial", "fair", "compare", "transparent"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Why do critics argue that high-stakes exams give an incomplete picture of student ability?",
+"points": 1,
+"reponse_modele": "Because they only test memorization under time stress and overlook qualities like creativity, perseverance, and deep understanding.",
+"mots_cles": [
+{ "mot": "memorization", "variantes": ["time pressure", "narrow"], "poids": 0.5 },
+{ "mot": "creativity", "variantes": ["resilience", "anxiety", "ignore"], "poids": 0.5 }
+]
+},
+{
+"id": "Q3",
+"question": "How do numerical grades negatively affect student motivation according to the third paragraph?",
+"points": 1,
+"reponse_modele": "Students focus on getting high marks instead of learning for curiosity, and they avoid difficult subjects that might hurt their GPA.",
+"mots_cles": [
+{ "mot": "extrinsic", "variantes": ["chasing grades", "percentages", "avoid challenges"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Explain the meaning of the word 'debilitating' in the second paragraph.",
+"points": 1,
+"reponse_modele": "It means weakening or impairing someone's ability to function normally.",
+"mots_cles": [
+{ "mot": "weakening", "variantes": ["paralyzing", "harmful", "impairing", "overwhelming"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "What alternative evaluation methods are mentioned in the third paragraph?",
+"points": 1,
+"reponse_modele": "Continuous formative assessment, student portfolios, and descriptive qualitative feedback.",
+"mots_cles": [
+{ "mot": "formative", "variantes": ["portfolios", "qualitative feedback", "continuous"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "What is the rhetorical function of 'Conversely' in the third paragraph?",
+"points": 1,
+"reponse_modele": "It contrasts the fear-driven mindset caused by numerical grades with the growth mindset fostered by qualitative feedback.",
+"mots_cles": [
+{ "mot": "contrast", "variantes": ["opposition", "compare", "opposite"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "What is implied by distinguishing between a 'tool for learning' and a 'mechanism for sorting' in the conclusion?",
+"points": 1,
+"reponse_modele": "Assessment should help students improve and grow rather than simply ranking and labeling them as winners or losers.",
+"mots_cles": [
+{ "mot": "improve", "variantes": ["growth", "help learn", "not ranking"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "What balanced reform does the author recommend at the end of the text?",
+"points": 1,
+"reponse_modele": "Combining traditional final exams with ongoing, skill-based evaluations to maintain standards while supporting student progress.",
+"mots_cles": [
+{ "mot": "combination", "variantes": ["blend", "summative and continuous", "balanced"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-017b",
+"titre": "Should Education Give More Importance to Creativity?",
+"titre2": "Exercise 17",
+"audios": [
+{ "id": "audio-en-read-b2-017b-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-b2-017b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"When twelve-year-old Leo submitted a short science-fiction story explaining cellular mitosis for his biology assignment, he expected praise for his originality. Instead, his teacher handed the paper back with a low mark and a stern note in red ink: 'Stick to the textbook definitions.' Disheartened, Leo threw his story into the recycling bin and resolved never to deviate from standard formulas again. Unfortunately, Leo's experience is far from isolated; across the globe, education systems routinely treat creativity as a frivolous extracurricular hobby rather than an essential cognitive skill.",
+"Historically, school hierarchies have placed mathematics and languages at the pinnacle, while relegating music, visual arts, and drama to the margins. Whenever school budgets tighten, artistic programs are almost invariably the first to be cut. Yet, neuroscientists and economists increasingly warn that marginalizing creativity is profoundly shortsighted in an era of rapid automation.",
+"While artificial intelligence excels at routine calculations and data processing, divergent thinking—the capacity to generate original ideas and connect seemingly unrelated concepts—remains uniquely human. Moreover, creativity is not confined to painting or poetry; it is the driving force behind scientific breakthroughs, sustainable engineering, and diplomatic conflict resolution.",
+"Therefore, elevating creativity in schools does not mean abandoning academic rigor. On the contrary, when teachers encourage experimentation, tolerate constructive failure, and integrate artistic inquiry across all subjects, students become far more engaged and resilient thinkers. If society hopes to solve unprecedented global challenges, schools must stop educating creativity out of children."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "What happened to Leo when he tried to be creative in his biology homework?",
+"points": 1,
+"reponse_modele": "His teacher gave him a poor grade and told him to copy textbook definitions instead, discouraging him from being original again.",
+"mots_cles": [
+{ "mot": "low mark", "variantes": ["bad grade", "criticized", "textbook"], "poids": 0.5 },
+{ "mot": "discouraged", "variantes": ["disheartened", "gave up"], "poids": 0.5 }
+]
+},
+{
+"id": "Q2",
+"question": "How are artistic subjects typically treated in traditional school hierarchies?",
+"points": 1,
+"reponse_modele": "They are given lower status than math and languages and are the first programs eliminated when funding is reduced.",
+"mots_cles": [
+{ "mot": "margins", "variantes": ["lower status", "cut", "budgets"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Why is creativity increasingly valuable in the age of artificial intelligence?",
+"points": 1,
+"reponse_modele": "Because machines can handle routine tasks, whereas generating original ideas and linking diverse concepts is a distinctly human strength.",
+"mots_cles": [
+{ "mot": "divergent thinking", "variantes": ["original ideas", "human", "AI cannot"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Explain the meaning of the word 'frivolous' as used in the first paragraph.",
+"points": 1,
+"reponse_modele": "It means lacking serious purpose, importance, or practical value.",
+"mots_cles": [
+{ "mot": "unimportant", "variantes": ["not serious", "trivial", "superficial"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "How does the author challenge the stereotype that creativity only applies to the arts?",
+"points": 1,
+"reponse_modele": "By pointing out that creativity is essential for scientific discoveries, engineering solutions, and diplomacy.",
+"mots_cles": [
+{ "mot": "science", "variantes": ["engineering", "diplomacy", "breakthroughs"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "What is the role of the connector 'On the contrary' in the final paragraph?",
+"points": 1,
+"reponse_modele": "It refutes the misconception that creativity lowers academic standards, showing instead that it deepens student engagement.",
+"mots_cles": [
+{ "mot": "refute", "variantes": ["opposite", "contrast", "corrects"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "What does the teacher's red-ink note symbolize in the narrative?",
+"points": 1,
+"reponse_modele": "It symbolizes rigid conformity and institutional resistance to independent or imaginative thought.",
+"mots_cles": [
+{ "mot": "conformity", "variantes": ["rigidity", "authority", "suppressing creativity"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "What changes in teaching practices does the author advocate in the conclusion?",
+"points": 1,
+"reponse_modele": "Teachers should promote experimentation, accept productive mistakes, and weave creative thinking into every discipline.",
+"mots_cles": [
+{ "mot": "experimentation", "variantes": ["tolerate failure", "integrate", "all subjects"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-018b",
+"titre": "The Advantages and Limitations of Bilingual Education",
+"titre2": "Exercise 18",
+"audios": [
+{ "id": "audio-en-read-b2-018b-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-b2-018b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"In an increasingly interconnected global economy, bilingual education has surged in popularity among parents and policymakers alike. Rather than treating foreign languages as isolated subjects taught for a few hours a week, immersion programs deliver core academic content—such as history, mathematics, or science—in two languages. Neurolinguistic research consistently highlights the cognitive advantages of this approach: bilingual students often demonstrate superior executive functioning, enhanced mental flexibility, and stronger problem-solving abilities.",
+"Beyond cognitive benefits, bilingual education fosters deep intercultural empathy and expands professional horizons. Students who master multiple languages gain direct access to diverse cultural perspectives, making them more adaptable communicators in multicultural workplaces. Furthermore, in heritage-language communities, bilingual schooling plays a vital role in preserving ancestral identities and strengthening intergenerational bonds.",
+"Nevertheless, implementing effective bilingual education presents substantial pedagogical and logistical hurdles. Critics point out that when students struggle to grasp complex scientific or mathematical concepts in a non-native language, their overall academic comprehension may temporarily suffer. Moreover, severe shortages of qualified teachers who are simultaneously fluent in the target language and trained in specialized subject pedagogy frequently undermine program quality.",
+"Ultimately, the success of bilingual education hinges on thoughtful execution and equitable access. Even though immersion programs require significant institutional investment, providing well-supported bilingual pathways ensures that multilingualism becomes an empowering asset for all learners rather than an exclusive privilege for affluent elites."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "How do bilingual immersion programs differ from traditional foreign language classes?",
+"points": 1,
+"reponse_modele": "Instead of teaching language as a separate subject for a few hours, immersion programs teach core subjects like math and science in two languages.",
+"mots_cles": [
+{ "mot": "core subjects", "variantes": ["math", "science", "content", "immersion"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "What cognitive advantages do bilingual students develop according to neurolinguistic research?",
+"points": 1,
+"reponse_modele": "They show better executive function, greater mental flexibility, and improved problem-solving skills.",
+"mots_cles": [
+{ "mot": "executive functioning", "variantes": ["mental flexibility", "problem-solving", "brain"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "How does bilingual education benefit minority or heritage-language communities?",
+"points": 1,
+"reponse_modele": "It helps maintain cultural identity and improves communication across different generations within families.",
+"mots_cles": [
+{ "mot": "identity", "variantes": ["heritage", "culture", "intergenerational"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Explain the meaning of the verb 'to hinge on' in the final paragraph.",
+"points": 1,
+"reponse_modele": "It means to depend entirely on something else.",
+"mots_cles": [
+{ "mot": "depend on", "variantes": ["rely on", "be determined by"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "What are the two main obstacles to implementing bilingual education mentioned in the third paragraph?",
+"points": 1,
+"reponse_modele": "Students may have difficulty understanding complex subjects in a second language, and there is a lack of teachers qualified in both language and subject matter.",
+"mots_cles": [
+{ "mot": "comprehension", "variantes": ["complex concepts", "non-native"], "poids": 0.5 },
+{ "mot": "teacher shortages", "variantes": ["qualified teachers", "fluent"], "poids": 0.5 }
+]
+},
+{
+"id": "Q6",
+"question": "What is the function of the connector 'Nevertheless' at the start of the third paragraph?",
+"points": 1,
+"reponse_modele": "It shifts the focus from the advantages of bilingual education to its practical challenges and limitations.",
+"mots_cles": [
+{ "mot": "contrast", "variantes": ["transition", "limitations", "drawbacks"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "What social risk does the author warn against in the concluding sentence?",
+"points": 1,
+"reponse_modele": "The risk that high-quality bilingual education could become reserved only for wealthy families if public schools do not invest in it.",
+"mots_cles": [
+{ "mot": "elitism", "variantes": ["privilege", "affluent", "inequality", "accessible"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "What is the author's overall stance on bilingual education?",
+"points": 1,
+"reponse_modele": "Balanced yet supportive: the author acknowledges practical difficulties but strongly believes investment in bilingual programs is worthwhile.",
+"mots_cles": [
+{ "mot": "supportive", "variantes": ["balanced", "positive", "worthwhile"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-019b",
+"titre": "The Influence of Family Background on Academic Success",
+"titre2": "Exercise 19",
+"audios": [
+{ "id": "audio-en-read-b2-019b-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-b2-019b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"While modern societies like to believe that academic success is purely the product of individual intelligence and hard work, decades of sociological research tell a far more nuanced story. In the 1960s, French sociologist Pierre Bourdieu introduced the concept of 'cultural capital' to explain why children from educated, middle-class households consistently outperform their working-class peers. Beyond financial wealth, privileged parents transmit subtle linguistic habits, familiarity with literature and arts, and an intuitive understanding of how educational institutions operate.",
+"Consider, for example, the daily interactions within different households. Children raised in homes filled with books and complex dinner-table discussions enter primary school already fluent in the formal academic register favored by teachers. Conversely, students from disadvantaged backgrounds often experience a cultural disconnect between the language spoken at home and the expectations of the classroom, which can be misdiagnosed as a lack of aptitude.",
+"Furthermore, family background shapes parental involvement and educational aspirations. Affluent parents frequently possess the flexible schedules and confidence needed to advocate for their children, request specialized support, or navigate complex university admissions. Meanwhile, working-class parents, despite valuing education deeply, may feel intimidated by academic authorities or constrained by demanding shift work.",
+"Nevertheless, family origin need not become an inescapable destiny. When schools actively demystify academic expectations, provide universal early-childhood programs, and offer structured mentorship, they can effectively bridge the cultural gap and empower students from all backgrounds to thrive."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "What is 'cultural capital' as introduced by Pierre Bourdieu in the first paragraph?",
+"points": 1,
+"reponse_modele": "It refers to non-financial advantages passed down by educated families, such as language skills, cultural knowledge, and familiarity with school norms.",
+"mots_cles": [
+{ "mot": "non-financial", "variantes": ["linguistic", "knowledge", "habits", "institutions"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "How do home environments give some children an early advantage when starting school?",
+"points": 1,
+"reponse_modele": "Exposure to books and rich conversations makes them comfortable with the formal language style used by teachers.",
+"mots_cles": [
+{ "mot": "formal language", "variantes": ["books", "discussions", "academic register"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "What mistake do schools sometimes make regarding students from working-class backgrounds?",
+"points": 1,
+"reponse_modele": "They may confuse a difference in home language style with a lack of intelligence or academic ability.",
+"mots_cles": [
+{ "mot": "misdiagnosed", "variantes": ["lack of aptitude", "language disconnect", "intelligence"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Explain the meaning of the verb 'to demystify' in the final paragraph.",
+"points": 1,
+"reponse_modele": "It means to make a complex or confusing subject easier to understand and less intimidating.",
+"mots_cles": [
+{ "mot": "clarify", "variantes": ["make clear", "explain", "simplify"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Why are working-class parents often less involved in school affairs even when they care deeply about education?",
+"points": 1,
+"reponse_modele": "Because they may feel intimidated by school officials or lack free time due to rigid, demanding jobs.",
+"mots_cles": [
+{ "mot": "intimidated", "variantes": ["shift work", "schedules", "time"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "What is the role of the connector 'Meanwhile' in the third paragraph?",
+"points": 1,
+"reponse_modele": "It introduces a simultaneous contrast between the proactive advocacy of wealthy parents and the barriers faced by working-class parents.",
+"mots_cles": [
+{ "mot": "contrast", "variantes": ["comparison", "at the same time", "opposition"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "What common societal myth does the author challenge in the opening sentence?",
+"points": 1,
+"reponse_modele": "The myth that school success depends exclusively on personal talent and effort without any influence from social origin.",
+"mots_cles": [
+{ "mot": "meritocracy", "variantes": ["hard work alone", "individual effort", "myth"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "What three measures can schools take to overcome family background inequalities according to the conclusion?",
+"points": 1,
+"reponse_modele": "They can clearly explain academic rules, invest in early-childhood education, and provide organized mentoring programs.",
+"mots_cles": [
+{ "mot": "early-childhood", "variantes": ["mentorship", "expectations", "demystify"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-020b",
+"titre": "Is Education the Key to a More Equitable Society?",
+"titre2": "Exercise 20",
+"audios": [
+{ "id": "audio-en-read-b2-020b-1", "url": "soundcloud.com" },
+{ "id": "audio-en-read-b2-020b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"During an international symposium on social justice, moderator Clara Moreau invited two speakers—educator Dr. Samuel Mensah and economist Professor Helen Vance—to debate whether education remains the ultimate engine of social mobility. Dr. Mensah spoke first with conviction: 'Throughout history, universal public education has been the greatest equalizer ever conceived. By equipping marginalized youth with literacy, credentials, and civic awareness, schools empower individuals to transcend the socioeconomic circumstances of their birth.'",
+"Professor Vance nodded respectfully before offering a sobering counterpoint. 'While I admire that ideal, Samuel, empirical data suggests we have placed an unrealistic burden on schools alone. Over the past three decades, university enrollment has expanded dramatically, yet wealth inequality has continued to widen. When labor markets undervalue essential jobs, housing becomes unaffordable, and tax systems favor inherited wealth, a diploma alone can no longer guarantee upward mobility.'",
+"'You raise a crucial structural point, Helen,' Dr. Mensah replied thoughtfully. 'However, without quality education, disadvantaged communities are stripped of the very voice and analytical tools needed to challenge unjust economic policies. Education does not merely prepare workers for the economy; it cultivates critical citizens capable of demanding systemic reform.'",
+"Synthesizing their exchange, Clara Moreau concluded that education is an indispensable foundation for equity, yet insufficient in isolation. Unless educational investment is paired with fair labor laws, affordable healthcare, and progressive economic policies, schools will continuously be asked to solve social inequalities they did not create."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Why does Dr. Samuel Mensah call public education 'the greatest equalizer'?",
+"points": 1,
+"reponse_modele": "Because it gives disadvantaged young people the skills, qualifications, and civic knowledge needed to rise above their birth circumstances.",
+"mots_cles": [
+{ "mot": "social mobility", "variantes": ["transcend", "marginalized", "empower", "skills"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "What economic evidence does Professor Helen Vance use to challenge Dr. Mensah's optimism?",
+"points": 1,
+"reponse_modele": "She notes that although more people attend university than ever before, economic inequality has still increased over the last thirty years.",
+"mots_cles": [
+{ "mot": "university enrollment", "variantes": ["inequality widened", "diploma", "wealth"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "According to Professor Vance, what external factors limit the power of a diploma today?",
+"points": 1,
+"reponse_modele": "Low wages for essential jobs, expensive housing, and tax systems that benefit inherited wealth.",
+"mots_cles": [
+{ "mot": "housing", "variantes": ["wages", "taxes", "inherited wealth", "labor market"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Explain the meaning of the adjective 'sobering' in the second paragraph.",
+"points": 1,
+"reponse_modele": "It means making someone think seriously and realistically, often by presenting uncomfortable facts.",
+"mots_cles": [
+{ "mot": "serious", "variantes": ["realistic", "thought-provoking", "uncomfortable"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "How does Dr. Mensah defend the importance of education even in an unequal economy?",
+"points": 1,
+"reponse_modele": "He argues that education gives citizens the critical thinking skills and political voice needed to fight for fairer economic laws.",
+"mots_cles": [
+{ "mot": "civic", "variantes": ["voice", "challenge policies", "critical citizens"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "What is the role of the connector 'Yet' in Professor Vance's second sentence?",
+"points": 1,
+"reponse_modele": "It highlights the contradiction between rising university attendance and growing wealth inequality.",
+"mots_cles": [
+{ "mot": "contradiction", "variantes": ["contrast", "paradox", "however"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "What implicit criticism is conveyed in Clara Moreau's final clause ('asked to solve social inequalities they did not create')?",
+"points": 1,
+"reponse_modele": "She implies that politicians unfairly expect schools to fix deep economic and social problems instead of reforming broader public policies.",
+"mots_cles": [
+{ "mot": "unfair burden", "variantes": ["politicians", "root causes", "broader policies"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "What comprehensive solution does the moderator propose at the end of the debate?",
+"points": 1,
+"reponse_modele": "Combining strong public education with fair labor protections, accessible healthcare, and progressive taxation.",
+"mots_cles": [
+{ "mot": "paired", "variantes": ["combine", "labor laws", "healthcare", "economic policies"], "poids": 1.0 }
+]
+}
+]
 }
 ]
