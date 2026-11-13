@@ -1,278 +1,894 @@
-[
+{
+    "id": "B2-001b",
+    "titre": "Zwingt uns die moderne Gesellschaft, zu schnell zu leben?",
+    "titre2": "Übung 1",
+    "audios": [
+      { "id": "audio-de-read-b2-001b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-001b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "In unserer zeitgenössischen Welt scheint die Beschleunigung des Lebensrhythmus zu einer unhinterfragten Norm geworden zu sein. Angetrieben durch die digitale Revolution und die ständige Erreichbarkeit werden wir unaufhörlich dazu angehalten, unsere Zeit sowohl im beruflichen als auch im privaten Bereich zu optimieren. Dieser unerbittliche Wettlauf gegen die Zeit bringt jedoch tiefgreifende Paradoxien mit sich. Obgleich moderne Technologien ursprünglich entwickelt wurden, um uns von zeitraubenden Aufgaben zu befreien, haben sie unsere mentale Belastung tatsächlich erhöht, indem sie die Grenzen zwischen Arbeit und Erholung verwischt haben.",
+      "Dennoch beschränkt sich diese tägliche Eile nicht auf ein bloßes Zeitmanagement; sie verändert strukturell unser Verhältnis zum Nachdenken und zu unseren Mitmenschen. Soziologen weisen darauf hin, dass die ständige Unmittelbarkeit die Differenziertheit ernsthaft untergräbt. Indem die moderne Gesellschaft sofortige Antworten einfordert, verdrängt sie die Zeit, die für die Verarbeitung komplexer Informationen notwendig wäre. Folglich polarisieren sich Meinungen, und die Menschen zeigen eine wachsende Ungeduld gegenüber dem Warten, das nicht mehr als Atempause, sondern als unerträgliche Systemstörung wahrgenommen wird.",
+      "Hingegen entstehen gegen diese Diktatur des Augenblicks zunehmend kulturelle Widerstandsbewegungen. Das Konzept des „Slow Living“, obwohl es bisweilen für seinen elitären Charakter kritisiert wird, plädiert für eine bewusste Rückeroberung der Langsamkeit. Seine Befürworter sind der Ansicht, dass es dringend erforderlich sei, durch kontemplative Tätigkeiten oder einen regionaleren Konsumstil wieder Entschleunigung zu erlernen. Während diese Initiativen noch eher marginal bleiben, zeugen sie von einer entscheidenden Erkenntnis: Absolute Geschwindigkeit darf nicht mit echtem menschlichem Fortschritt gleichgesetzt werden.",
+      "Letztendlich geht die Frage der Zeitlichkeit weit über eine rein persönliche Entscheidung hinaus und erweist sich als zentrales Thema der öffentlichen Gesundheit und des sozialen Zusammenhalts. Wenn eine allgemeine Entfremdung vermieden werden soll, muss die Gesellschaft eine kollektive Reflexion über die Grenzen einleiten, die wir dem Kult der Dringlichkeit setzen müssen."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Welches zentrale Paradoxon wird vom Autor im ersten Absatz hervorgehoben?",
+        "points": 1,
+        "reponse_modele": "Obwohl moderne Technologien eigentlich Zeit sparen sollten, erhöhen sie unsere mentale Belastung, weil sie die Grenze zwischen Arbeit und Freizeit auflösen.",
+        "mots_cles": [
+          { "mot": "Technologien", "variantes": ["digital", "Erreichbarkeit"], "poids": 0.3 },
+          { "mot": "mentale Belastung", "variantes": ["Stress", "Überforderung"], "poids": 0.4 },
+          { "mot": "Grenzen", "variantes": ["Arbeit und Erholung", "Freizeit"], "poids": 0.3 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Wie beeinflusst der Zwang zu sofortigen Antworten laut Soziologen die öffentliche Meinungsbildung?",
+        "points": 1,
+        "reponse_modele": "Er verhindert differenziertes Nachdenken, erschwert das Verstehen komplexer Themen und führt zu einer Polarisierung der Meinungen.",
+        "mots_cles": [
+          { "mot": "Differenziertheit", "variantes": ["Nachdenken", "Verarbeitung"], "poids": 0.5 },
+          { "mot": "Polarisierung", "variantes": ["polarisieren", "Spaltung"], "poids": 0.5 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Wie wird das Warten in der heutigen Leistungsgesellschaft meist wahrgenommen?",
+        "points": 1,
+        "reponse_modele": "Nicht mehr als erholsame Pause, sondern negativ als eine inakzeptable Störung des Ablaufs.",
+        "mots_cles": [
+          { "mot": "Systemstörung", "variantes": ["Störung", "unerträglich", "Ungeduld"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Erklären Sie die Bedeutung des Adjektivs „unerbittlich“ im ersten Absatz.",
+        "points": 1,
+        "reponse_modele": "Es bedeutet unaufhörlich, gnadenlos, hartnäckig und ohne Nachsicht.",
+        "mots_cles": [
+          { "mot": "unaufhörlich", "variantes": ["gnadenlos", "konsequent", "ohne Pause"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Welche Kritik wird häufig an der „Slow Living“-Bewegung geübt?",
+        "points": 1,
+        "reponse_modele": "Ihr wird manchmal vorgeworfen, elitär zu sein und sich nur für privilegierte Menschen zu eignen.",
+        "mots_cles": [
+          { "mot": "elitär", "variantes": ["privilegiert", "exklusiv", "nicht für alle"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Welche logische Funktion erfüllt der Konnektor „Hingegen“ zu Beginn des dritten Absatzes?",
+        "points": 1,
+        "reponse_modele": "Er leitet einen Gegensatz ein und stellt den negativen Folgen der Beschleunigung bewusste Gegenbewegungen zur Entschleunigung gegenüber.",
+        "mots_cles": [
+          { "mot": "Gegensatz", "variantes": ["Kontrast", "Gegenbewegung", "Opposition"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Welche implizite Aussage vermittelt der Autor durch die Metapher „Diktatur des Augenblicks“?",
+        "points": 1,
+        "reponse_modele": "Der Autor deutet an, dass die Menschen ihre Freiheit verloren haben und dem ständigen Zeitdruck hilflos unterworfen sind.",
+        "mots_cles": [
+          { "mot": "Unfreiheit", "variantes": ["Zwang", "Unterwerfung", "Druck"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Was fordert der Autor im Schlussabsatz, um eine allgemeine Entfremdung zu verhindern?",
+        "points": 1,
+        "reponse_modele": "Die Gesellschaft muss gemeinsam darüber nachdenken, wie sie dem Kult der ständigen Eile klare Grenzen setzen kann.",
+        "mots_cles": [
+          { "mot": "kollektive Reflexion", "variantes": ["gemeinsam nachdenken", "Grenzen setzen"], "poids": 1.0 }
+        ]
+      }
+    ]
+  },
   {
-  "exercises": [
-    {
-      "title": "Routine Quotidienne dans un Village de Montagne",
-      "slug": "routine-village-montagne",
-      "content": "Même si la plupart des gens ne le réalisent pas, chaque journée suit une routine, ou un ensemble établi de procédures et de pratiques générales. Les routines rendent les horaires quotidiens plus faciles à gérer, permettent de libérer du temps supplémentaire et assurent que les individus accomplissent autant de leurs tâches et objectifs que possible.\nJetons un coup d'œil à une routine typique dans un village de montagne!\nLe réveil sonne, et Émilie se lève en bâillant de son lit. Elle n'a pas beaucoup dormi la nuit précédente, il lui faut donc quelques minutes pour se lever et se préparer à commencer la journée.\nÉmilie entre dans la salle de bain et se lave le visage dans le lavabo, utilisant du savon et de l'eau chaude pour le faire. Elle se regarde dans le miroir et se sèche le visage avec une serviette. Ensuite, elle prend une douche et se nettoie.\nSous la douche, Émilie applique du shampoing sur ses cheveux et du savon sur le reste de son corps, avant de rincer et de sortir. Elle se sèche avec une plus grande serviette et s'habille avec ses vêtements. Enfin, elle se brosse les cheveux et sort.\nEnsuite, Émilie prend son petit déjeuner, comprenant du pain frais et du fromage local. Elle retourne ensuite dans la salle de bain pour se brosser les dents. Avant de quitter sa maison, Émilie fait son lit et vérifie que le feu de bois est bien éteint. Elle se rend à l'école à pied, un petit bâtiment en bois situé au cœur du village.\nÀ l'école, Émilie assiste aux cours, déjeune avec ses camarades de classe et socialise avec eux. Ensuite, elle rentre chez elle en fin d'après-midi.\nChez elle, Émilie termine ses devoirs et les place dans son sac à dos pour le lendemain. Une fois ses devoirs terminés, Émilie joue avec ses frères et sœurs dans les champs voisins avant de rentrer pour le dîner.\nÉmilie dîne avec sa famille, partageant un repas de soupe chaude et de pain frais. Pour clore cette journée bien remplie, Émilie se brosse les dents et se met au lit, prête à commencer une nouvelle journée dans les montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850964873-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1",
-        "https://feeds.soundcloud.com/stream/1850965542-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1h"
-      ],
-      "localStorage": "score_routine-village-montagne",
-      "questions": [
-        {
-          "question": "Quelle est la première activité quotidienne d'Émilie décrite dans le texte ?",
-          "choices": [
-            "Prendre son petit déjeuner",
-            "Se laver le visage",
-            "Allumer le feu de bois",
-            "Faire son lit"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie après s'être lavé le visage dans la salle de bain ?",
-          "choices": [
-            "Elle prend une douche",
-            "Elle s'habille",
-            "Elle se brosse les cheveux",
-            "Elle se brosse les dents"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quel aliment compose le petit déjeuner d'Émilie ?",
-          "choices": [
-            "Des œufs brouillés",
-            "Du pain frais et du fromage local",
-            "Des céréales avec du lait",
-            "Des fruits et du yaourt"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Où se rend Émilie après avoir pris son petit déjeuner ?",
-          "choices": [
-            "À l'école",
-            "Au travail",
-            "Chez sa grand-mère",
-            "Au marché"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Comment se rend Émilie à l'école ?",
-          "choices": [
-            "En voiture",
-            "En bus scolaire",
-            "À pied",
-            "À vélo"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'activité d'Émilie après l'école ?",
-          "choices": [
-            "Elle fait ses devoirs",
-            "Elle joue avec ses frères et sœurs",
-            "Elle va chez le voisin",
-            "Elle prend une douche"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le repas du soir d'Émilie avec sa famille ?",
-          "choices": [
-            "Des pâtes avec de la sauce tomate",
-            "De la soupe chaude et du pain frais",
-            "Des pizzas maison",
-            "Des légumes grillés avec du riz"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie juste avant de se coucher ?",
-          "choices": [
-            "Elle lit un livre",
-            "Elle regarde la télévision",
-            "Elle se brosse les dents",
-            "Elle écrit dans son journal intime"
-          ],
-          "answer": "c"
-        }
-      ]
-    },
-    {
-      "title": "Observation des Baleines Bleues dans l'Océan Indien",
-      "slug": "observation-baleines-ocean-indien",
-      "content": "Avez-vous déjà rêvé d'observer une baleine de près? Les baleines bleues sont les plus grands mammifères de la planète, pesant jusqu'à 200 tonnes. Elles peuvent atteindre jusqu'à 88 pieds de long, soit plus grand qu'un avion de ligne! Leurs migrations sont parmi les plus fascinantes au monde, avec les baleines bleues parcourant de nombreuses miles pour se nourrir et mettre bas. Les petits de baleines, appelés veaux, naissent au large des côtes de l'île Maurice, puis ensemble, ils parcourent plus de 10 000 kilomètres jusqu'aux eaux riches en krill de l'océan Antarctique. Le voyage dure de 4 à 5 mois et traverse l'océan Indien, avec des arrêts pour se reposer dans les eaux chaudes des Maldives. Vous pouvez observer ces baleines majestueuses le long des côtes de Madagascar et de l'Afrique du Sud, où elles viennent parfois près des rivages lors de leurs migrations saisonnières. Assurez-vous de garder un œil sur l'eau pour repérer les jets d'eau caractéristiques, annonçant l'émergence imminente de ces créatures géantes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850961696-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1",
-        "https://feeds.soundcloud.com/stream/1850963328-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1h"
-      ],
-      "localStorage": "score_observation-baleines-ocean-indien",
-      "questions": [
-        {
-          "question": "Quel est le sujet principal du texte ?",
-          "choices": [
-            "Les oiseaux migrateurs",
-            "Les baleines bleues dans l'océan Indien",
-            "Les baleines grises dans le Pacifique",
-            "Les requins dans l'Atlantique"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la caractéristique principale des baleines bleues ?",
-          "choices": [
-            "Leur taille immense",
-            "Leur vitesse de nage",
-            "Leur couleur bleue vive",
-            "Leur migration annuelle"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Où naissent les petits de baleines, selon le texte ?",
-          "choices": [
-            "Au large des côtes de l'île Maurice",
-            "Dans les eaux riches en krill de l'océan Antarctique",
-            "Dans les eaux chaudes des Maldives",
-            "Dans les eaux froides du Groenland"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelle est la durée approximative du voyage des baleines bleues depuis leur naissance jusqu'aux eaux de l'océan Antarctique ?",
-          "choices": [
-            "1 à 2 semaines",
-            "1 à 2 mois",
-            "4 à 5 mois",
-            "1 à 2 ans"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Où peut-on observer les baleines bleues le long de leurs migrations saisonnières ?",
-          "choices": [
-            "Les côtes du Brésil",
-            "Les côtes de l'Afrique du Sud et de Madagascar",
-            "Les côtes de l'Australie",
-            "Les côtes de la Californie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le comportement caractéristique des baleines bleues lorsqu'elles émergent de l'eau ?",
-          "choices": [
-            "Elles bondissent hors de l'eau.",
-            "Elles crachent de l'eau par leur évent.",
-            "Elles nagent en formation serrée.",
-            "Elles nagent rapidement vers la côte."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'intérêt de garder un œil sur l'eau lors de l'observation des baleines bleues ?",
-          "choices": [
-            "Pour éviter les collisions avec d'autres bateaux.",
-            "Pour repérer les jets d'eau annonçant leur émergence.",
-            "Pour observer les nageoires dorsales des baleines.",
-            "Pour surveiller les mouvements des poissons."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme qualifie le mieux les baleines bleues dans le texte ?",
-          "choices": [
-            "Gigantesques",
-            "Agiles",
-            "Timides",
-            "Chantantes"
-          ],
-          "answer": "a"
-        }
-      ]
-    },
-    {
-      "title": "Parc National de l'Himalaya",
-      "slug": "parc-national-himalaya",
-      "content": "Le plus grand parc national d'Asie, le parc national de l'Himalaya, s'étend sur 5 000 kilomètres carrés et s'étire à travers les contreforts de l'Himalaya en Inde, au Népal et au Bhoutan. Cela rend ce parc plus grand que plusieurs petits pays combinés. Il abrite une biodiversité incroyable avec plus de 500 espèces de plantes endémiques et plus de 100 espèces d'animaux, y compris le majestueux léopard des neiges et le rare panda rouge. De plus, le parc regorge de sanctuaires d'oiseaux qui attirent les ornithologues du monde entier. Dans ses vastes terres, le parc de l'Himalaya présente près de 200 lacs, 400 kilomètres de sentiers de randonnée et des cascades spectaculaires alimentées par les rivières de fonte des glaciers. En outre, le parc dispose de centres de recherche dédiés à l'étude de la biodiversité himalayenne et à la conservation des espèces menacées telles que le tigre du Bengale et le rhinocéros indien. Le parc repose sur une activité tectonique élevée en raison de sa situation près de la ceinture de feu de l'Himalaya, ce qui entraîne des séismes fréquents mais offre également des sources chaudes thermales appréciées des visiteurs. Des équipes de surveillance veillent à la sécurité des visiteurs et à la préservation de l'écosystème fragile du parc. Le parc national de l'Himalaya est un trésor naturel à découvrir pour quiconque cherche à explorer les merveilles de cette majestueuse chaîne de montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850957421-perinemagne-parc-national-de-lhimalaya-c1"
-      ],
-      "localStorage": "score_parc-national-himalaya",
-      "questions": [
-        {
-          "question": "Où se situe le parc national de l'Himalaya ?",
-          "choices": [
-            "En Chine",
-            "En Inde, au Népal et au Bhoutan",
-            "Au Japon",
-            "En Russie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la superficie approximative du parc national de l'Himalaya ?",
-          "choices": [
-            "500 kilomètres carrés",
-            "5 000 kilomètres carrés",
-            "50 000 kilomètres carrés",
-            "500 000 kilomètres carrés"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Combien d'espèces d'animaux sont présentes dans le parc national de l'Himalaya ?",
-          "choices": [
-            "Moins de 50 espèces",
-            "Environ 100 espèces",
-            "Plus de 100 espèces",
-            "Plus de 500 espèces"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'une des espèces animales emblématiques du parc national de l'Himalaya mentionnée dans le texte ?",
-          "choices": [
-            "Le tigre du Bengale",
-            "Le lion",
-            "Le kangourou",
-            "L'éléphant africain"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelles sont les caractéristiques géographiques du parc de l'Himalaya selon le texte ?",
-          "choices": [
-            "Des montagnes uniquement",
-            "Des lacs, des sentiers de randonnée et des cascades",
-            "Des déserts et des canyons",
-            "Des forêts uniquement"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'impact de l'activité tectonique près du parc national de l'Himalaya ?",
-          "choices": [
-            "Aucun impact",
-            "Des tremblements de terre fréquents et des sources chaudes thermales",
-            "Un climat très stable",
-            "Une faune et une flore très variées"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quels sont les efforts mentionnés dans le texte pour préserver le parc national de l'Himalaya ?",
-          "choices": [
-            "Des programmes de chasse",
-            "Des équipes de surveillance pour la sécurité des visiteurs et la préservation de l'écosystème",
-            "Des activités industrielles",
-            "L'urbanisation du parc"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme décrit le mieux le parc national de l'Himalaya selon le texte ?",
-          "choices": [
-            "Un trésor naturel",
-            "Un désert aride",
-            "Une zone industrielle",
-            "Un terrain vague"
-          ],
-          "answer": "a"
-        }
-      ]
-    
+    "id": "B2-002b",
+    "titre": "Der Zwang zum Erfolg um jeden Preis in unserer Gesellschaft",
+    "titre2": "Übung 2",
+    "audios": [
+      { "id": "audio-de-read-b2-002b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-002b-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "Während einer Fernsehdiskussion über die psychische Gesundheit junger Erwachsener konfrontierte die klinische Psychologin Dr. Katharina Berg den Risikokapitalgeber Markus Lindner mit dem modernen Leistungsdruck. „Schauen Sie sich doch um, Herr Lindner“, begann Dr. Berg eindringlich. „Schon in der Grundschule wird Kindern vermittelt, dass ihr Selbstwert ausschließlich von messbaren Leistungen abhängt. Wenn sie keine Spitzennoten oder begehrten Praktika ergattern, fühlen sie sich völlig unzulänglich. Folglich haben Angststörungen und Burn-out epidemische Ausmaße angenommen.“",
+      "Markus Lindner seufzte und beugte sich vor, bevor er antwortete. „Ich bestreite keineswegs, dass ein hoher Druck herrscht, Frau Dr. Berg. Dennoch war der Wettbewerb schon immer der wichtigste Motor menschlicher Innovation. Würden wir aufhören, Exzellenz zu fördern, käme die Gesellschaft unweigerlich zum Stillstand. Ehrgeiz treibt Menschen dazu an, über ihre vermeintlichen Grenzen hinauszuwachsen und Außergewöhnliches zu leisten, wovon letztlich alle profitieren.“",
+      "„Zwischen gesundem Ehrgeiz und toxischem Perfektionismus besteht jedoch ein gewaltiger Unterschied“, entgegnete Dr. Berg scharf. „Wenn eine Gesellschaft das Ideal propagiert, man müsse um jeden Preis erfolgreich sein, werden moralische Grenzen leicht überschritten, und Scheitern wird als persönliches Versagen stigmatisiert statt als natürlicher Lernprozess begriffen. Zudem isoliert dieses unerbittliche Streben nach Status die Menschen, da Gleichaltrige nur noch als Konkurrenten wahrgenommen werden.“",
+      "Markus Lindner hielt nachdenklich inne und räumte ein: „Vielleicht liegt das Problem darin, wie eng wir Erfolg heutzutage definieren. Mit anderen Worten: Wir neigen dazu, Leistung ausschließlich mit finanziellem Reichtum und öffentlichem Ansehen gleichzusetzen. Obgleich wirtschaftlicher Antrieb unverzichtbar bleibt, stimme ich zu, dass unsere Kultur Widerstandsfähigkeit, Empathie und persönliche Erfüllung ebenso hoch schätzen sollte wie materiellen Triumph.“"
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Welches Hauptargument führt Dr. Katharina Berg im ersten Absatz an?",
+        "points": 1,
+        "reponse_modele": "Junge Menschen lernen von klein auf, dass ihr Wert nur von Noten und messbaren Erfolgen abhängt, was zu massiven Ängsten und Burn-out führt.",
+        "mots_cles": [
+          { "mot": "Selbstwert", "variantes": ["Leistungen", "Noten", "Angststörungen", "Burn-out"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Wie rechtfertigt Markus Lindner den gesellschaftlichen Wettbewerb?",
+        "points": 1,
+        "reponse_modele": "Er betont, dass Wettbewerb Innovationen antreibt, Stillstand verhindert und Menschen motiviert, ihr volles Potenzial zum Wohl aller auszuschöpfen.",
+        "mots_cles": [
+          { "mot": "Innovation", "variantes": ["Stillstand", "Grenzen hinauswachsen", "alle profitieren"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Welche negativen Folgen hat laut Dr. Berg ein „toxischer Perfektionismus“?",
+        "points": 1,
+        "reponse_modele": "Moralische Regeln werden missachtet, Fehler werden als Schwäche verurteilt und soziale Beziehungen leiden, weil jeder jeden als Rivalen sieht.",
+"mots_cles": [
+{ "mot": "moralische Grenzen", "variantes": ["Scheitern stigmatisiert", "isoliert", "Konkurrenten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „unzulänglich“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet nicht ausreichend, minderwertig, schwach oder den Anforderungen nicht gewachsen.",
+"mots_cles": [
+{ "mot": "nicht ausreichend", "variantes": ["minderwertig", "ungenügend", "schwach"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Wie verändert sich Markus Lindners Haltung am Ende des Gesprächs?",
+"points": 1,
+"reponse_modele": "Er gibt zu, dass Erfolg zu einseitig über Geld und Status definiert wird, und stimmt zu, dass Empathie und innere Zufriedenheit genauso wichtig sind.",
+"mots_cles": [
+{ "mot": "eng definieren", "variantes": ["Reichtum", "Empathie", "Erfüllung", "stimmt zu"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion hat die Wendung „Mit anderen Worten“ im letzten Absatz?",
+"points": 1,
+"reponse_modele": "Sie dient dazu, die vorherige Aussage zur engen Erfolgsdefinition klarer und verständlicher umzuformulieren.",
+"mots_cles": [
+{ "mot": "Umformulierung", "variantes": ["Erklärung", "Präzisierung", "verdeutlichen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Analysieren Sie die grammatische Struktur „Würden wir aufhören, Exzellenz zu fördern, käme die Gesellschaft unweigerlich zum Stillstand.“",
+"points": 1,
+"reponse_modele": "Es handelt sich um einen irrealen Bedingungssatz im Konjunktiv II ohne „wenn“ (Verb-Erst-Stellung), der eine hypothetische negative Folge beschreibt.",
+"mots_cles": [
+{ "mot": "Konjunktiv II", "variantes": ["irrealer Bedingungssatz", "hypothetisch", "ohne wenn"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche Werte sollten laut dem Fazit des Dialogs stärker anerkannt werden?",
+"points": 1,
+"reponse_modele": "Psychische Widerstandsfähigkeit (Resilienz), Mitgefühl (Empathie) und persönliche Sinnstiftung.",
+"mots_cles": [
+{ "mot": "Widerstandsfähigkeit", "variantes": ["Empathie", "persönliche Erfüllung"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-003b",
+"titre": "Einsamkeit in einer zunehmend vernetzten Welt",
+"titre2": "Übung 3",
+"audios": [
+{ "id": "audio-de-read-b2-003b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-003b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Allein in seiner minimalistischen Stadtwohnung sitzend, scrollte Julian endlos durch Hunderte farbenfrohe Fotos auf seinem Social-Media-Feed. Auf dem Papier war er besser vernetzt als je ein Mensch zuvor in der Geschichte: Er gehörte Dutzenden Online-Gruppen an und tauschte täglich Nachrichten mit Bekannten auf drei Kontinenten aus. Doch während das blaue Licht des Bildschirms sein müdes Gesicht erhellte, breitete sich ein tiefes Gefühl der Leere in seiner Brust aus. Trotz über tausend virtueller Freunde wurde ihm schmerzlich bewusst, dass er niemanden anrufen konnte, als ihn plötzlich eine Welle der Traurigkeit überrollte.",
+"Julians Erfahrung veranschaulicht ein wachsendes soziologisches Phänomen: das Paradoxon der digitalen Hyperkonnektivität. Obgleich soziale Plattformen konzipiert wurden, um geografische Distanzen zu überbrücken und Zugehörigkeit zu stiften, ersetzen sie häufig tiefgehende Intimität durch oberflächliche Interaktionen. Ein schnelles „Gefällt mir“ oder ein flüchtiger Kommentar verschafft zwar einen sofortigen Dopaminschub, wohingegen der Aufbau echter Beziehungen Verletzlichkeit, Geduld und physische Präsenz erfordert.",
+"Darüber hinaus verschärfen sorgfältig kuratierte Online-Profile oft das Gefühl der Isolation. Wenn Menschen ihre ungeschönte, chaotische Realität ständig mit den idealisierten Höhepunkten anderer vergleichen, fühlen sie sich leicht ausgeschlossen und unzulänglich. Folglich ziehen sich viele noch weiter in digitale Räume zurück und geraten in einen Teufelskreis, in dem genau jenes Werkzeug, das Einsamkeit lindern soll, diese letztlich vertieft.",
+"Dennoch erkannte Julian schließlich, dass passives Scrollen sein grundlegendes Bedürfnis nach menschlicher Wärme niemals stillen könnte. In der darauffolgenden Woche schaltete er seine Benachrichtigungen stumm und trat einer lokalen Theatergruppe bei. Auch wenn das Verlassen seiner digitalen Komfortzone anfangs Überwindung kostete, stellten echte Gespräche von Angesicht zu Angesicht langsam sein Zugehörigkeitsgefühl wieder her – ein Beweis dafür, dass wahre Verbundenheit sich nicht digitalisieren lässt."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welcher zentrale Widerspruch wird im ersten Absatz in Julians Leben beschrieben?",
+"points": 1,
+"reponse_modele": "Obwohl Julian weltweit über tausend Online-Kontakte hat, fühlt er sich innerlich völlig einsam und hat keinen echten Freund für persönliche Krisen.",
+"mots_cles": [
+{ "mot": "vernetzt vs einsam", "variantes": ["virtuelle Freunde", "Leere", "niemanden anrufen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Worin unterscheiden sich laut dem zweiten Absatz digitale Kontakte von echten Beziehungen?",
+"points": 1,
+"reponse_modele": "Online-Kontakte sind oberflächlich und liefern schnelle Bestätigung, während echte Beziehungen Zeit, Offenheit und persönliche Begegnungen brauchen.",
+"mots_cles": [
+{ "mot": "oberflächlich", "variantes": ["Verletzlichkeit", "Geduld", "physische Präsenz"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Warum verstärken inszenierte Social-Media-Profile das Gefühl der Ausgrenzung?",
+"points": 1,
+"reponse_modele": "Weil Nutzer ihren normalen, unperfekten Alltag mit den geschönten Erfolgsbildern anderer vergleichen und sich dadurch minderwertig fühlen.",
+"mots_cles": [
+{ "mot": "vergleichen", "variantes": ["idealisiert", "ungeschönte Realität", "ausgeschlossen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „lindern“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet mildern, abschwächen, erleichtern oder weniger schmerzhaft machen.",
+"mots_cles": [
+{ "mot": "mildern", "variantes": ["abschwächen", "verringern", "erleichtern"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welchen konkreten Schritt unternahm Julian, um seine Einsamkeit zu überwinden?",
+"points": 1,
+"reponse_modele": "Er deaktivierte seine Handy-Benachrichtigungen und schloss sich einer Theatergruppe in seiner Nachbarschaft an.",
+"mots_cles": [
+{ "mot": "Theatergruppe", "variantes": ["Benachrichtigungen stumm", "persönlich", "Begegnungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Darüber hinaus“ zu Beginn des dritten Absatzes?",
+"points": 1,
+"reponse_modele": "Er fügt ein weiteres Argument hinzu, das erklärt, wie soziale Netzwerke die Einsamkeit noch verstärken.",
+"mots_cles": [
+{ "mot": "Ergänzung", "variantes": ["weiteres Argument", "Steigerung", "außerdem"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Was symbolisiert das „blaue Licht des Bildschirms“ im ersten Absatz?",
+"points": 1,
+"reponse_modele": "Es steht symbolisch für die kalte, künstliche Technik, die echte menschliche Wärme nicht ersetzen kann.",
+"mots_cles": [
+{ "mot": "Kälte", "variantes": ["künstlich", "Technik", "fehlende Wärme"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche zentrale Erkenntnis vermittelt der Schlusssatz der Erzählung?",
+"points": 1,
+"reponse_modele": "Echte menschliche Nähe entsteht nur durch reale Begegnungen im Alltag und lässt sich nicht durch digitale Plattformen ersetzen.",
+"mots_cles": [
+{ "mot": "nicht digitalisieren", "variantes": ["echte Gespräche", "Zugehörigkeit", "physisch"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-004b",
+"titre": "Übermäßiger Konsum und seine Folgen für unseren Alltag",
+"titre2": "Übung 4",
+"audios": [
+{ "id": "audio-de-read-b2-004b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-004b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Sehr geehrte Damen und Herren, geschätzte Delegierte, wir versammeln uns heute an einem kritischen Wendepunkt der Menschheitsgeschichte. In den vergangenen Jahrzehnten wurde der Hyperkonsum unaufhörlich als Königsweg zu persönlichem Glück und wirtschaftlichem Wohlstand angepriesen. Wir wurden darauf konditioniert, Dinge zu kaufen, die wir kaum benötigen, mit Geld, das wir oft nicht besitzen, um Menschen zu beeindrucken, die wir kaum kennen. Doch dieser unersättliche Hunger nach materieller Anhäufung hat sowohl unserem Planeten als auch unserem psychischen Wohlbefinden einen verheerenden Tribut abverlangt.",
+"Betrachten wir zunächst die ökologische Katastrophe, die sich vor unseren Augen abspielt. Jedes Kleidungsstück, das nach einer einzigen Saison weggeworfen wird, und jedes elektronische Gerät, das binnen zwei Jahren veraltet ist, trägt zu Bergen giftigen Mülls bei und erschöpft endliche natürliche Ressourcen. Obgleich Konzerne häufig sogenannte „Greenwashing“-Strategien einsetzen, um unser kollektives Gewissen zu beruhigen, bleibt die nüchterne Wahrheit unverändert: Unendliches Wirtschaftswachstum auf einem begrenzten Planeten ist eine mathematische Unmöglichkeit.",
+"Darüber hinaus versklavt uns der übermäßige Konsum auf subtile Weise in unserem Alltag. Um einen ständig wachsenden Lebensstandard zu finanzieren, sind Menschen gezwungen, immer länger zu arbeiten, und opfern dabei Freizeit, Familienleben und persönliche Leidenschaften. Folglich füllen sich unsere Wohnungen mit Besitztümern, die ständige Pflege, Versicherung und Stauraum erfordern – sodass schließlich die Dinge, die wir besitzen, uns selbst besitzen.",
+"Daher appelliere ich an Sie, neu zu überdenken, was wahren Reichtum ausmacht. Würden wir unseren Fokus vom gedankenlosen Erwerb auf verantwortungsvolle Ressourcenschonung verlagern, könnten wir nicht nur Ökosysteme für künftige Generationen bewahren, sondern auch unsere eigene Freiheit zurückgewinnen. Letztendlich lässt sich echte Erfüllung nicht im Einkaufszentrum kaufen; sie wächst durch sinnvolle Erfahrungen und gelebte Mitmenschlichkeit."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welches Hauptziel verfolgt der Redner im ersten Absatz seiner Ansprache?",
+"points": 1,
+"reponse_modele": "Er kritisiert den übermäßigen Konsum und zeigt auf, wie dieser sowohl die Umwelt zerstört als auch der menschlichen Psyche schadet.",
+"mots_cles": [
+{ "mot": "Hyperkonsum kritisieren", "variantes": ["Planet", "psychisches Wohlbefinden", "Folgen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Wie täuschen Unternehmen laut dem Redner die Verbraucher in Umweltfragen?",
+"points": 1,
+"reponse_modele": "Durch „Greenwashing“-Marketing geben sie sich umweltfreundlich, um Käufer zu beruhigen, obwohl ihre Produktion weiterhin Ressourcen zerstört.",
+"mots_cles": [
+{ "mot": "Greenwashing", "variantes": ["Gewissen beruhigen", "täuschen", "Konzerne"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Erklären Sie das Paradoxon am Ende des dritten Absatzes („sodass schließlich die Dinge, die wir besitzen, uns selbst besitzen“).",
+"points": 1,
+"reponse_modele": "Menschen kaufen Gegenstände, um ihr Leben zu bereichern, doch die Pflege, Finanzierung und Lagerung dieser Dinge rauben ihnen Zeit und Freiheit.",
+"mots_cles": [
+{ "mot": "Besitztümer", "variantes": ["Pflege", "Freiheit rauben", "länger arbeiten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Adjektivs „unersättlich“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet niemals zufriedenstellbar, maßlos oder immer nach mehr verlangend.",
+"mots_cles": [
+{ "mot": "maßlos", "variantes": ["nicht zu befriedigen", "gierig", "immer mehr"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Warum bezeichnet der Redner unendliches Wirtschaftswachstum als „mathematische Unmöglichkeit“?",
+"points": 1,
+"reponse_modele": "Weil die Rohstoffe und Kapazitäten der Erde begrenzt sind und keinen endlosen Verbrauch tragen können.",
+"mots_cles": [
+{ "mot": "begrenzter Planet", "variantes": ["endliche Ressourcen", "Erschöpfung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welches rhetorische Stilmittel verwendet der Redner im Satz „Dinge zu kaufen, die wir kaum benötigen, mit Geld, das wir oft nicht besitzen, um Menschen zu beeindrucken, die wir kaum kennen“?",
+"points": 1,
+"reponse_modele": "Einen Parallelismus (Dreierfigur / Trikolon), der durch rhythmische Wiederholung die Absurdität des Konsumzwangs zuspitzt.",
+"mots_cles": [
+{ "mot": "Parallelismus", "variantes": ["Dreierfigur", "Wiederholung", "Absurdität"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welchen Tonfall schlägt der Redner in dieser Ansprache an?",
+"points": 1,
+"reponse_modele": "Einen eindringlichen, kritischen, appellierenden und aufrüttelnden Tonfall.",
+"mots_cles": [
+{ "mot": "eindringlich", "variantes": ["appellierend", "kritisch", "ernst"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welche Alternative zum materiellen Konsum schlägt der Redner im Schlussabsatz vor?",
+"points": 1,
+"reponse_modele": "Verantwortungsbewussten Umgang mit Ressourcen sowie die Konzentration auf menschliche Beziehungen und wertvolle Lebenserfahrungen.",
+"mots_cles": [
+{ "mot": "Ressourcenschonung", "variantes": ["Erfahrungen", "Mitmenschlichkeit"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-005b",
+"titre": "Können wir glücklich sein, wenn wir mit weniger leben?",
+"titre2": "Übung 5",
+"audios": [
+{ "id": "audio-de-read-b2-005b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-005b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Als Clara ankündigte, ihr Vorstadthaus zu verkaufen und in ein vierzig Quadratmeter großes Tiny House zu ziehen, hielten ihre Kollegen sie für verrückt. Jahrelang hatte sie die Karriereleiter erklommen und dabei Designerkleidung, Luxusgeräte sowie erdrückende Schulden angehäuft. Dennoch fühlte sie sich trotz ihres hohen Gehalts dauerhaft erschöpft und gefangen. Der Wendepunkt kam, als ein schwerer gesundheitlicher Warnschuss sie zwang, ihre Prioritäten neu zu ordnen. Wie sie später in ihrem Tagebuch festhielt, erkannte sie, dass ihr Streben nach materiellem Überfluss sie innerlich verarmt zurückgelassen hatte.",
+"In den folgenden sechs Monaten unterzog sich Clara einem konsequenten Entrümpelungsprozess und spendete achtzig Prozent ihres Besitzes. Anfangs löste das Trennen von Erinnerungsstücken heftige Ängste aus; schließlich vermittelt uns die Gesellschaft, dass das Loslassen von Gegenständen dem Verlust eines Teils unserer Identität gleichkommt. Doch als das physische Chaos verschwand, stellte sich eine unerwartete geistige Klarheit ein. Ohne den ständigen Druck, unnötige Dinge zu putzen, zu ordnen und abzubezahlen, entdeckte sie eine Fülle an freier Zeit.",
+"Kritiker der freiwilligen Einfachheit wenden häufig ein, Minimalismus sei ein privilegierter Lebensstil, den sich nur Menschen mit bereits bestehender finanzieller Sicherheit leisten könnten. Obgleich Clara einräumte, dass unfreiwillige Armut etwas völlig anderes sei als gewählte Genügsamkeit, betonte sie, dass jeder davon profitieren könne, Konsumimpulse kritisch zu hinterfragen. Auch wenn das Leben mit weniger sorgfältige Budgetplanung erforderte, ermöglichte es ihr, ihre Arbeitszeit zu reduzieren und wieder zu malen – eine Leidenschaft, die sie ein Jahrzehnt zuvor aufgegeben hatte.",
+"Zwei Jahre nach Beginn ihres minimalistischen Weges berichtete Clara von einer tiefen Zufriedenheit. Indem sie sich bewusst für das Genug statt für den Überfluss entschied, bewies sie, dass Glück selten daraus entsteht, mehr zu besitzen, sondern vielmehr daraus, weniger zu brauchen."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welches Ereignis veranlasste Clara dazu, ihr Leben radikal umzustellen?",
+"points": 1,
+"reponse_modele": "Ein ernstes gesundheitliches Warnzeichen brachte sie dazu, ihre Erschöpfung zu erkennen und ihre Lebensziele neu zu bewerten.",
+"mots_cles": [
+{ "mot": "gesundheitlicher Warnschuss", "variantes": ["Krankheit", "Prioritäten", "erschöpft"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Warum empfand Clara anfangs Angst, als sie sich von ihren Besitztümern trennte?",
+"points": 1,
+"reponse_modele": "Weil uns beigebracht wird, persönliche Dinge und Erinnerungsstücke als Teil unserer eigenen Identität zu betrachten.",
+"mots_cles": [
+{ "mot": "Identität", "variantes": ["Erinnerungsstücke", "Loslassen", "Angst"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche positiven Veränderungen erlebte Clara nach dem Ausmisten ihrer Wohnung?",
+"points": 1,
+"reponse_modele": "Sie gewann geistige Klarheit, viel mehr Freizeit und konnte ihre Arbeitsstunden verringern, um wieder zu malen.",
+"mots_cles": [
+{ "mot": "geistige Klarheit", "variantes": ["Freizeit", "Arbeitszeit reduzieren", "malen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung von „innerlich verarmt“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet, dass man sich trotz finanziellen Reichtums seelisch leer, unerfüllt und sinnlos fühlt.",
+"mots_cles": [
+{ "mot": "seelisch leer", "variantes": ["unerfüllt", "trotz Reichtum", "sinnlos"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Wie begegnet Clara dem Vorwurf, Minimalismus sei nur etwas für Wohlhabende?",
+"points": 1,
+"reponse_modele": "Sie unterscheidet zwischen erzwungener Armut und bewusster Bescheidenheit und erklärt, dass jeder Konsumzwänge hinterfragen kann.",
+"mots_cles": [
+{ "mot": "Armut vs Genügsamkeit", "variantes": ["Konsumimpulse hinterfragen", "jeder"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion hat der Konnektor „Doch“ im zweiten Absatz?",
+"points": 1,
+"reponse_modele": "Er markiert den Wendepunkt von Claras anfänglicher Verlustangst hin zur befreienden mentalen Erleichterung.",
+"mots_cles": [
+{ "mot": "Wendepunkt", "variantes": ["Gegensatz", "Kontrast", "Veränderung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Was verrät die Reaktion von Claras Kollegen im ersten Satz über gesellschaftliche Normen?",
+"points": 1,
+"reponse_modele": "Sie zeigt, dass der freiwillige Verzicht auf Statussymbole und großen Besitz in unserer Gesellschaft als unvernünftig oder verrückt gilt.",
+"mots_cles": [
+{ "mot": "Verzicht gilt als verrückt", "variantes": ["Statussymbole", "Normen", "Unverständnis"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Fassen Sie die Kernaussage des Schlusssatzes in eigenen Worten zusammen.",
+"points": 1,
+"reponse_modele": "Wahres Lebensglück hängt nicht davon ab, immer mehr Dinge anzuhäufen, sondern mit dem zufrieden zu sein, was man wirklich braucht.",
+"mots_cles": [
+{ "mot": "weniger brauchen", "variantes": ["Genug", "Zufriedenheit", "nicht besitzen"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-006b",
+"titre": "Die Entwicklung menschlicher Beziehungen im digitalen Zeitalter",
+"titre2": "Übung 6",
+"audios": [
+{ "id": "audio-de-read-b2-006b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-006b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Als sich das Universitätsseminar zur digitalen Soziologie dem Ende zuneigte, fragte Professor Liam Weber seine Studierenden, wie die Technologie ihre romantischen und freundschaftlichen Bindungen verändert habe. Maya, eine einundzwanzigjährige Psychologiestudentin, meldete sich sofort zu Wort. „Ehrlich gesagt, Herr Professor, haben Dating-Apps und Messenger-Dienste Beziehungen in einen Konsummarkt verwandelt“, bemerkte sie. „Weil scheinbar endlose Optionen nur einen Wisch entfernt sind, haben viele Menschen Angst vor fester Bindung. Sobald ein kleiner Konflikt auftritt, ist es einfacher, jemanden zu ‚ghosten‘, als gemeinsam Unannehmlichkeiten durchzustehen.“",
+"Neben ihr meldete sich Lukas mit einer differenzierteren Sichtweise zu Wort. „Obgleich ich zustimme, dass Ghosting ein toxischer Trend ist, haben digitale Werkzeuge menschliche Verbindungen auch demokratisiert“, argumentierte er. „Mein engster Freund lebt beispielsweise in Tokio, und wir haben uns über ein Online-Spieleforum kennengelernt. Hätte es das Internet nicht gegeben, wären sich unsere Wege niemals gekreuzt. Zudem finden introvertierte Menschen oder Minderheiten online oft wertvolle emotionale Unterstützung, die ihnen in ihrem unmittelbaren physischen Umfeld fehlt.“",
+"Professor Weber nickte zustimmend zu diesem Austausch und fasste die Standpunkte für den Kurs zusammen. Er stellte fest, dass digitale Kommunikation wie ein zweischneidiges Schwert wirke: Sie beseitige geografische Barrieren und fördere Nischengemeinschaften, begünstige jedoch gleichzeitig eine Wegwerfmentalität und schwäche die Konfliktlösungskompetenz.",
+"Letztendlich kam das Seminar zu dem Schluss, dass Algorithmen nicht allein für die moderne Fragilität von Beziehungen verantwortlich gemacht werden können. Auch wenn Plattformen darauf ausgelegt sind, Aufmerksamkeit zu maximieren statt tiefe Bindungen zu stiften, behalten Menschen dennoch die Eigenverantwortung dafür, wie sie miteinander umgehen."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Warum vergleicht Maya moderne Partnersuche mit einem „Konsummarkt“?",
+"points": 1,
+"reponse_modele": "Weil Dating-Apps den Eindruck unbegrenzter Auswahl vermitteln, sodass Menschen Partner schnell austauschen und echte Verbindlichkeit scheuen.",
+"mots_cles": [
+{ "mot": "endlose Optionen", "variantes": ["austauschbar", "Angst vor Bindung", "Wisch"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welches Gegenargument führt Lukas zugunsten digitaler Plattformen an?",
+"points": 1,
+"reponse_modele": "Er betont, dass das Internet tiefe Freundschaften über Kontinente hinweg ermöglicht und schüchternen Menschen oder Randgruppen Halt gibt.",
+"mots_cles": [
+{ "mot": "Distanzen überwinden", "variantes": ["Tokio", "introvertiert", "Minderheiten", "Unterstützung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Erklären Sie die Bedeutung des Begriffs „ghosten“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet, den Kontakt zu einer Person plötzlich und ohne jede Erklärung vollständig abzubrechen.",
+"mots_cles": [
+{ "mot": "Kontakt abbrechen", "variantes": ["ohne Erklärung", "verschwinden", "nicht mehr antworten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Was meint Professor Weber damit, dass digitale Kommunikation ein „zweischneidiges Schwert“ sei?",
+"points": 1,
+"reponse_modele": "Sie bringt einerseits große Vorteile wie globale Vernetzung, hat aber andererseits Nachteile wie Oberflächlichkeit und mangelnde Konfliktfähigkeit.",
+"mots_cles": [
+{ "mot": "Vor- und Nachteile", "variantes": ["zwei Seiten", "Chancen und Risiken"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Analysieren Sie die grammatische Struktur „Hätte es das Internet nicht gegeben, wären sich unsere Wege niemals gekreuzt.“",
+"points": 1,
+"reponse_modele": "Es ist ein irrealer Bedingungssatz der Vergangenheit im Konjunktiv II (Plusquamperfekt) ohne „wenn“, der eine nicht eingetretene Alternative ausdrückt.",
+"mots_cles": [
+{ "mot": "Konjunktiv II Vergangenheit", "variantes": ["irrealer Bedingungssatz", "ohne wenn"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welches Ziel verfolgen soziale Plattformen laut dem Schlussabsatz hauptsächlich?",
+"points": 1,
+"reponse_modele": "Sie sind darauf programmiert, möglichst viel Bildschirmzeit und Aufmerksamkeit zu binden, nicht aber tiefe menschliche Freundschaften zu fördern.",
+"mots_cles": [
+{ "mot": "Aufmerksamkeit maximieren", "variantes": ["Engagement", "nicht tiefe Bindungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche Aussage steckt hinter dem Begriff „Eigenverantwortung“ im letzten Satz?",
+"points": 1,
+"reponse_modele": "Menschen können ihr Verhalten nicht allein auf Apps schieben, sondern entscheiden selbst, ob sie andere respektvoll und verbindlich behandeln.",
+"mots_cles": [
+{ "mot": "selbst verantwortlich", "variantes": ["freie Entscheidung", "Respekt", "Verhalten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Warum eignet sich die Form des Semi-Dialogs besonders gut für diese Themenstellung?",
+"points": 1,
+"reponse_modele": "Sie stellt gegensätzliche Erfahrungen junger Menschen lebendig dar und führt sie anschließend durch den Professor zu einer ausgewogenen Synthese.",
+"mots_cles": [
+{ "mot": "gegensätzliche Perspektiven", "variantes": ["Synthese", "ausgewogen", "lebendig"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-007b",
+"titre": "Die Rolle der Solidarität in einer individualistischen Gesellschaft",
+"titre2": "Übung 7",
+"audios": [
+{ "id": "audio-de-read-b2-007b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-007b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Moderne westliche Gesellschaften feiern seit Langem den Triumph des Individualismus, indem sie persönliche Autonomie, Selbstständigkeit und individuelle Rechte über kollektive Verpflichtungen stellen. Obgleich dieser kulturelle Wandel viele Menschen zweifellos von starren traditionellen Hierarchien befreit hat, hat er zugleich das soziale Gefüge geschwächt, das Gemeinschaften zusammenhält. Wenn persönlicher Erfolg ausschließlich als Ergebnis individueller Leistung betrachtet wird, werden Verletzlichkeit und Armut häufig als persönliches Versagen missdeutet statt als strukturelle Herausforderung.",
+"Dennoch legen Krisen auf bemerkenswerte Weise die Illusion absoluter Selbstgenügsamkeit offen. Während der schweren Winterstromausfälle, die im vergangenen Jahr die nördliche Region trafen, waren Tausende Bewohner fast eine Woche lang ohne Heizung und Elektrizität. Anfangs führte Panik zu Hamsterkäufen in den Supermärkten. Doch binnen achtundvierzig Stunden entstand eine außergewöhnliche Welle gelebter Solidarität: Nachbarn öffneten ihre Häuser für ältere Menschen, Freiwillige organisierten Gemeinschaftsküchen, und Fremde teilten Stromgeneratoren, ohne eine Gegenleistung zu erwarten.",
+"Soziologen argumentieren, dass ein solch spontaner Altruismus beweist, wie tief Empathie in der menschlichen Natur verankert ist, selbst wenn hyperindividualistische Normen sie oft überdecken. Allerdings reicht das bloße Vertrauen auf spontane Hilfsbereitschaft in Notlagen nicht aus, um eine krisenfeste Gesellschaft aufzubauen. Institutionalisierte Solidarität – verankert durch öffentliche Gesundheitsversorgung, progressive Besteuerung und Sozialprogramme – ist unerlässlich, damit gegenseitige Hilfe kein vorübergehendes Phänomen bleibt, sondern ein dauerhafter Pfeiler sozialer Gerechtigkeit ist.",
+"Zusammenfassend lässt sich sagen, dass Individualismus und Solidarität einander nicht ausschließen müssen. Wenn wir als freie Individuen gedeihen wollen, müssen wir erkennen, dass unser persönliches Wohlergehen untrennbar mit dem Wohl unserer Mitmenschen verbunden ist."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche negative Folge eines übersteigerten Individualismus wird im ersten Absatz genannt?",
+"points": 1,
+"reponse_modele": "Er lockert den gesellschaftlichen Zusammenhalt und führt dazu, dass Armut oder Notlagen als eigene Schuld der Betroffenen angesehen werden.",
+"mots_cles": [
+{ "mot": "soziales Gefüge", "variantes": ["persönliches Versagen", "Armut", "Zusammenhalt"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Wie reagierten die Bewohner während des im zweiten Absatz beschriebenen Stromausfalls?",
+"points": 1,
+"reponse_modele": "Nach kurzer anfänglicher Panik halfen sich die Nachbarn gegenseitig, nahmen Senioren auf, kochten gemeinsam und teilten Generatoren kostenlos.",
+"mots_cles": [
+{ "mot": "Solidarität", "variantes": ["ältere Menschen", "Gemeinschaftsküchen", "Generatoren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Worin unterscheidet der Autor „spontanen Altruismus“ von „institutionalisierter Solidarität“?",
+"points": 1,
+"reponse_modele": "Spontaner Altruismus entsteht kurzfristig in akuten Krisen, während institutionalisierte Solidarität dauerhafte Sicherheit durch Gesetze, Steuern und Sozialsysteme bietet.",
+"mots_cles": [
+{ "mot": "vorübergehend vs dauerhaft", "variantes": ["Krise", "Steuern", "Gesundheitsversorgung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „missdeuten“ im ersten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet falsch verstehen, fehlinterpretieren oder unzutreffend beurteilen.",
+"mots_cles": [
+{ "mot": "falsch verstehen", "variantes": ["fehlinterpretieren", "falsch auslegen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Was beweist das Beispiel des Stromausfalls laut Soziologen über den Menschen?",
+"points": 1,
+"reponse_modele": "Dass Mitgefühl und Hilfsbereitschaft fest zur menschlichen Natur gehören, auch wenn der Alltag oft egoistisch wirkt.",
+"mots_cles": [
+{ "mot": "Empathie", "variantes": ["menschliche Natur", "Hilfsbereitschaft", "verankert"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Dennoch“ zu Beginn des zweiten Absatzes?",
+"points": 1,
+"reponse_modele": "Er leitet einen Gegensatz ein und zeigt, dass Krisen trotz der egoistischen Alltagskultur die gegenseitige Abhängigkeit der Menschen aufdecken.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Kontrast", "trotzdem", "Widerspruch"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Warum genügt freiwillige Wohltätigkeit nach Ansicht des Autors nicht für soziale Gerechtigkeit?",
+"points": 1,
+"reponse_modele": "Weil spontane Hilfe nur in Ausnahmesituationen wirkt und verlässliche staatliche Strukturen nicht ersetzen kann.",
+"mots_cles": [
+{ "mot": "reicht nicht aus", "variantes": ["dauerhafter Pfeiler", "Sozialprogramme", "verlässlich"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Wie bringt der Autor Individualismus und Solidarität im Schlussabsatz miteinander in Einklang?",
+"points": 1,
+"reponse_modele": "Er betont, dass persönliche Freiheit nur dann dauerhaft gelingt, wenn es auch der gesamten Gemeinschaft gut geht.",
+"mots_cles": [
+{ "mot": "untrennbar verbunden", "variantes": ["Gemeinwohl", "nicht ausschließen", "Wohlergehen"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-008b",
+"titre": "Neue Familienstrukturen in der zeitgenössischen Welt",
+"titre2": "Übung 8",
+"audios": [
+{ "id": "audio-de-read-b2-008b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-008b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Über weite Teile des zwanzigsten Jahrhunderts hinweg galt die Kleinfamilie – bestehend aus einem verheirateten heterosexuellen Paar und seinen leiblichen Kindern – als unangefochtener Goldstandard des häuslichen Lebens. Heute hingegen haben demografische Veränderungen, Rechtsreformen und gewandelte Geschlechterrollen das Verständnis von Familie radikal erweitert. Alleinerziehende Haushalte, Patchworkfamilien, gleichgeschlechtliche Eltern und Mehrgenerationenhäuser sind längst keine statistischen Ausnahmen mehr, sondern spiegeln die vielfältige Realität der Gegenwart wider.",
+"Dieser Wandel hat unter Soziologen und Politikern intensive Debatten ausgelöst. Konservative Kritiker äußern häufig die Sorge, der Rückgang der traditionellen Ehe untergrabe die gesellschaftliche Stabilität und enthalte Kindern männliche wie weibliche Rollenvorbilder vor. Umgekehrt belegen umfangreiche Langzeitstudien, dass die psychologische Entwicklung eines Kindes weitaus weniger von der äußeren Familienform abhängt als von der emotionalen Wärme, Verlässlichkeit und finanziellen Sicherheit innerhalb des Haushalts.",
+"Darüber hinaus veranschaulicht das Aufkommen sogenannter „Wahlfamilien“ – eng verbundener Freundeskreise, die klassische familiäre Aufgaben übernehmen –, dass Verwandtschaft zunehmend durch Zuneigung und gegenseitige Fürsorge statt allein durch Blutsverwandtschaft definiert wird. Obgleich sich Rechtssysteme in vielen Ländern nur langsam an diese Realitäten anpassen, insbesondere beim Erbrecht oder bei medizinischen Entscheidungsbefugnissen, wandeln sich die gesellschaftlichen Einstellungen rasch.",
+"Letztendlich spiegelt die Vielfalt der Familienstrukturen eine breitere Demokratisierung des Privatlebens wider. Anstatt Menschen in eine starre Einheitsform zu zwängen, erkennen moderne Gesellschaften zunehmend an, dass Liebe, Verlässlichkeit und Verantwortung in ganz unterschiedlichen Lebensgemeinschaften gedeihen können."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche Faktoren haben laut dem ersten Absatz zur Vielfalt heutiger Familienformen beigetragen?",
+"points": 1,
+"reponse_modele": "Demografischer Wandel, neue Gesetze und veränderte Rollenbilder von Männern und Frauen.",
+"mots_cles": [
+{ "mot": "demografische Veränderungen", "variantes": ["Rechtsreformen", "Geschlechterrollen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche Befürchtungen äußern konservative Kritiker gegenüber dem Rückgang der klassischen Ehe?",
+"points": 1,
+"reponse_modele": "Sie fürchten, dass die gesellschaftliche Stabilität leidet und Kindern wichtige weibliche oder männliche Bezugspersonen fehlen.",
+"mots_cles": [
+{ "mot": "Stabilität", "variantes": ["Rollenvorbilder", "Ehe"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Was ist laut Langzeitstudien tatsächlich entscheidend für eine gesunde kindliche Entwicklung?",
+"points": 1,
+"reponse_modele": "Liebevolle Zuwendung, ein stabiles Umfeld und wirtschaftliche Sicherheit sind viel wichtiger als die formale Familienstruktur.",
+"mots_cles": [
+{ "mot": "emotionale Wärme", "variantes": ["Verlässlichkeit", "finanzielle Sicherheit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Definieren Sie den Begriff „Wahlfamilie“ anhand des dritten Absatzes.",
+"points": 1,
+"reponse_modele": "Ein enger Kreis von Freunden, die füreinander wie echte Familienmitglieder sorgen, ohne biologisch verwandt zu sein.",
+"mots_cles": [
+{ "mot": "Freundeskreis", "variantes": ["Zuneigung", "Fürsorge", "ohne Blutsverwandtschaft"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "In welchen rechtlichen Bereichen hinken Gesetze den neuen Lebensformen oft hinterher?",
+"points": 1,
+"reponse_modele": "Beim Erbrecht sowie bei der Befugnis, in medizinischen Notfällen Entscheidungen für Partner oder Angehörige zu treffen.",
+"mots_cles": [
+{ "mot": "Erbrecht", "variantes": ["medizinische Entscheidungen", "Rechtssysteme"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche Funktion erfüllt der Konnektor „Umgekehrt“ im zweiten Absatz?",
+"points": 1,
+"reponse_modele": "Er stellt den Befürchtungen konservativer Kritiker wissenschaftliche Studienergebnisse gegenüber, die diese Sorgen entkräften.",
+"mots_cles": [
+{ "mot": "Gegensatz", "variantes": ["Widerlegung", "Gegenargument", "Kontrast"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche Haltung nimmt der Autor gegenüber modernen Familienformen ein? Begründen Sie Ihre Antwort.",
+"points": 1,
+"reponse_modele": "Eine befürwortende und optimistische Haltung, da er von einer „vielfältigen Realität“ und einer „Demokratisierung des Privatlebens“ spricht.",
+"mots_cles": [
+{ "mot": "befürwortend", "variantes": ["positiv", "Demokratisierung", "gedeihlich"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Erklären Sie die Metapher „starre Einheitsform“ im Schlussabsatz.",
+"points": 1,
+"reponse_modele": "Sie bezeichnet ein einziges, unflexibles Familienmodell, dem sich früher alle Menschen unabhängig von ihren individuellen Bedürfnissen anpassen mussten.",
+"mots_cles": [
+{ "mot": "unflexibles Modell", "variantes": ["Konformität", "einziges Muster", "Zwang"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-009b",
+"titre": "Der Einfluss sozialer Normen auf unsere persönlichen Entscheidungen",
+"titre2": "Übung 9",
+"audios": [
+{ "id": "audio-de-read-b2-009b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-009b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Am Rednerpult einer Universitätsabschlussfeier stehend, richtete der renommierte Ethiker Prof. Dr. Markus König eine beunruhigende Frage an das Publikum: „Wie viele der Lebensentscheidungen, die Sie heute feiern, waren tatsächlich Ihre eigenen, und wie viele wurden heimlich von unsichtbaren sozialen Normen vorgeschrieben?“ Ein Raunen ging durch die Aula, während die Absolventen nachdenklich Blicke austauschten. „Wir sind stolz darauf, autonome Individuen zu sein“, fuhr König fort, „doch von der Berufswahl bis hin zu den Meilensteinen, die wir bis dreißig erreichen wollen, passen wir uns ständig unausgesprochenen Erwartungen an.“",
+"König erklärte, dass soziale Normen wie eine unsichtbare Architektur funktionieren, die menschliches Verhalten lenkt. Einerseits sichern sie gesellschaftliche Ordnung und Verlässlichkeit; ohne gemeinsame Höflichkeitsregeln und moralische Standards würde das tägliche Zusammenleben im Chaos versinken. Andererseits ersticken übermäßig starre Normen die Authentizität und bestrafen Abweichungen. Die Angst vor sozialer Ächtung zwingt viele Menschen dazu, ihre wahren Wünsche zugunsten sicherer, konventioneller Lebenswege zu unterdrücken.",
+"„Bedenken Sie, wie stark Gruppenzwang selbst im Erwachsenenalter wirkt“, bemerkte er. „Obgleich uns niemand ausdrücklich dazu zwingt, ein prestigeträchtiges Auto zu kaufen oder einer linearen Karriere zu folgen, belohnen subtile Signale aus Medien und Familie die Anpassung und belächeln Eigenwilligkeit. Folglich wachen viele Menschen in der Lebensmitte auf und stellen fest, dass sie eine Leiter erklommen haben, die an der falschen Wand lehnte.“",
+"Zum Abschluss seiner Rede forderte Prof. König die Absolventen zu bewusster Nonkonformität auf. „Wahre Freiheit bedeutet nicht, jede Regel leichtsinnig abzulehnen“, riet er. „Vielmehr erfordert sie, übernommene Normen kritisch zu hinterfragen, damit wir – wenn wir uns anpassen – dies aus freier Entscheidung tun und nicht aus blinder Gewohnheit.“"
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche provokante Frage stellte Prof. König den Absolventen zu Beginn seiner Rede?",
+"points": 1,
+"reponse_modele": "Er fragte sie, wie viele ihrer bisherigen Lebensentscheidungen wirklich frei getroffen wurden und wie viele nur gesellschaftlichen Erwartungen folgten.",
+"mots_cles": [
+{ "mot": "eigene Entscheidungen", "variantes": ["soziale Normen", "vorgeschrieben", "Erwartungen"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welche positive Funktion erfüllen soziale Normen laut Prof. König?",
+"points": 1,
+"reponse_modele": "Sie sorgen für gesellschaftliche Ordnung, Berechenbarkeit und ein friedliches Miteinander im Alltag.",
+"mots_cles": [
+{ "mot": "Ordnung", "variantes": ["Verlässlichkeit", "Zusammenleben", "Regeln"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Warum entscheiden sich viele Erwachsene gegen ihre eigenen Träume und für konventionelle Wege?",
+"points": 1,
+"reponse_modele": "Weil sie gesellschaftliche Ausgrenzung oder Spott fürchten und nach der Anerkennung durch Familie und Umfeld streben.",
+"mots_cles": [
+{ "mot": "Angst vor Ächtung", "variantes": ["Gruppenzwang", "Anerkennung", "belächeln"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Substantivs „Ächtung“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet gesellschaftliche Ausgrenzung, Verurteilung oder soziale Isolation durch die Gemeinschaft.",
+"mots_cles": [
+{ "mot": "Ausgrenzung", "variantes": ["Isolation", "Verurteilung", "Ausschluss"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Deuten Sie die Metapher „eine Leiter erklommen haben, die an der falschen Wand lehnte“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Man hat jahrelang hart für gesellschaftlichen Erfolg gekämpft, erkennt aber zu spät, dass diese Ziele gar nicht zum eigenen Glück passen.",
+"mots_cles": [
+{ "mot": "falsche Ziele", "variantes": ["Karriere", "Unerfülltheit", "Reue"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Wie gliedert Prof. König seine Argumentation im zweiten Absatz mithilfe von „Einerseits... Andererseits“?",
+"points": 1,
+"reponse_modele": "Er stellt die stabilisierenden Vorteile sozialer Regeln ausgewogen den einschränkenden Gefahren übertriebener Anpassung gegenüber.",
+"mots_cles": [
+{ "mot": "Abwägung", "variantes": ["Vor- und Nachteile", "Gegenüberstellung", "Balance"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Warum ging nach Königs Einstiegsfrage ein Raunen durch den Saal?",
+"points": 1,
+"reponse_modele": "Weil die Frage die Studierenden überraschte, verunsicherte und zum kritischen Nachdenken über ihre eigenen Motive zwang.",
+"mots_cles": [
+{ "mot": "Verunsicherung", "variantes": ["Nachdenken", "Überraschung", "Selbstreflexion"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Wie definiert Prof. König „wahre Freiheit“ am Ende seiner Rede?",
+"points": 1,
+"reponse_modele": "Als die Fähigkeit, gesellschaftliche Regeln bewusst zu prüfen und selbstbestimmte Entscheidungen zu treffen, statt blind der Gewohnheit zu folgen.",
+"mots_cles": [
+{ "mot": "kritisch hinterfragen", "variantes": ["freie Entscheidung", "nicht blinde Gewohnheit"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "B2-010b",
+"titre": "Sollten wir immer danach streben, unseren Lebensstandard zu verbessern?",
+"titre2": "Übung 10",
+"audios": [
+{ "id": "audio-de-read-b2-010b-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-b2-010b-2", "url": "soundcloud.com" }
+],
+"texte": [
+"Über Generationen hinweg galt das unaufhörliche Streben nach einem höheren Lebensstandard als unangefochtene Tugend und Synonym für menschlichen Fortschritt. Ökonomen messen nationalen Erfolg am Bruttoinlandsprodukt, während Einzelne nach größeren Häusern, schnelleren Autos und modernsten Luxusgütern streben. Unbestreitbar hat die Hebung des Lebensstandards Millionen Menschen aus bitterer Armut befreit, tödliche Krankheiten eingedämmt und den Zugang zu Bildung erweitert. Dennoch stellt sich die Frage: Verbessert das ständige Streben nach mehr tatsächlich noch unsere Lebensqualität, sobald materielle Grundbedürfnisse gedeckt sind?",
+"Psychologen bezeichnen dieses Dilemma als „hedonische Tretmühle“. Sobald unser Einkommen und unser materieller Komfort steigen, passen sich unsere Erwartungen fast augenblicklich an, sodass die anfängliche Freude über einen Kauf rasch verfliegt. Folglich arbeiten Menschen immer härter, bloß um ein Luxusniveau aufrechtzuerhalten, das ihnen längst kein echtes Glück mehr bereitet. Zudem geht dieses ständige Höher-Schneller-Weiter oft zulasten immaterieller Werte wie Gemeinschaftssinn, innerer Ruhe und ökologischer Nachhaltigkeit.",
+"Hingegen warnen Kritiker wirtschaftlicher Stagnation davor, dass ein Verzicht auf das Streben nach Verbesserung zu Selbstzufriedenheit führen und die Mittel für wichtige medizinische und wissenschaftliche Forschung schmälern könnte. Obgleich materieller Überfluss kontraproduktiv sein kann, treiben menschliche Neugier und der Wunsch, komplexe Probleme zu lösen, Gesellschaften auf natürliche Weise voran. Die Herausforderung besteht daher darin, zwischen quantitativem „Lebensstandard“ und qualitativer „Lebensqualität“ zu unterscheiden.",
+"Letztendlich müssen sich Gesellschaften fragen, ob endloses materielles Wachstum ein vernünftiges Ziel bleibt. Würden wir Fortschritt künftig an Wohlbefinden, freier Zeit und ökologischem Gleichgewicht statt an reiner Wirtschaftsleistung messen, erhielte das Streben nach einem besseren Leben eine weitaus reichere und nachhaltigere Bedeutung."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche historischen Errungenschaften eines steigenden Lebensstandards erkennt der Autor im ersten Absatz an?",
+"points": 1,
+"reponse_modele": "Er hat Millionen aus extremer Armut geholt, gefährliche Krankheiten bekämpft und mehr Menschen Bildung ermöglicht.",
+"mots_cles": [
+{ "mot": "Armut", "variantes": ["Krankheiten", "Bildung", "befreit"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Erklären Sie das psychologische Phänomen der „hedonischen Tretmühle“ im zweiten Absatz.",
+"points": 1,
+"reponse_modele": "Menschen gewöhnen sich so schnell an mehr Geld und Luxus, dass das Glücksgefühl sofort verschwindet und sie immer mehr kaufen müssen.",
+"mots_cles": [
+{ "mot": "Gewöhnung", "variantes": ["Erwartungen anpassen", "Freude verfliegt", "immer mehr"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Welche immateriellen Werte leiden häufig unter dem dauerhaften Streben nach materiellem Aufstieg?",
+"points": 1,
+"reponse_modele": "Soziale Gemeinschaft, seelische Gelassenheit und der Schutz der Umwelt.",
+"mots_cles": [
+{ "mot": "Gemeinschaftssinn", "variantes": ["innere Ruhe", "Nachhaltigkeit", "Umwelt"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Erklären Sie die Bedeutung des Verbs „schmälern“ im dritten Absatz.",
+"points": 1,
+"reponse_modele": "Es bedeutet verringern, reduzieren, kürzen oder beeinträchtigen.",
+"mots_cles": [
+{ "mot": "verringern", "variantes": ["reduzieren", "kürzen", "mindern"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welches Argument führen Kritiker gegen eine Abkehr vom wirtschaftlichen Fortschrittsstreben an?",
+"points": 1,
+"reponse_modele": "Ohne Antrieb könnte Bequemlichkeit entstehen, und es gäbe weniger finanzielle Mittel für wichtige Forschung in Medizin und Technik.",
+"mots_cles": [
+{ "mot": "Forschung", "variantes": ["Selbstzufriedenheit", "Stagnation", "Mittel"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Worin besteht laut dem dritten Absatz der Unterschied zwischen „Lebensstandard“ und „Lebensqualität“?",
+"points": 1,
+"reponse_modele": "Lebensstandard misst messbaren materiellen Besitz und Einkommen, während Lebensqualität das innere Wohlbefinden und die Zufriedenheit beschreibt.",
+"mots_cles": [
+{ "mot": "quantitativ vs qualitativ", "variantes": ["Besitz vs Wohlbefinden", "materiell"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welche Funktion erfüllt die rhetorische Frage am Ende des ersten Absatzes?",
+"points": 1,
+"reponse_modele": "Sie leitet von der Würdigung historischer Erfolge zur kritischen Kernfrage des Textes über, ob endloses Wachstum noch glücklich macht.",
+"mots_cles": [
+{ "mot": "Überleitung", "variantes": ["Kernfrage einleiten", "kritische Wendung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Woran sollte gesellschaftlicher Fortschritt laut dem Schlussabsatz künftig gemessen werden?",
+"points": 1,
+"reponse_modele": "An menschlichem Wohlbefinden, freier Lebenszeit und dem Einklang mit der Natur statt allein am Bruttoinlandsprodukt.",
+"mots_cles": [
+{ "mot": "Wohlbefinden", "variantes": ["freie Zeit", "ökologisches Gleichgewicht"], "poids": 1.0 }
+]
+}
+]
+}
+]
