@@ -106,8 +106,8 @@
       "Elena: Trotzdem frage ich mich, ob er diesen Schritt nicht irgendwann bereuen wird, sobald die erste Erleichterung verflogen ist. Es kann ziemlich einsam machen, wenn man stehen bleibt, während alle anderen um einen herum weitersprinten.",
       "David: Vorübergehend mag das zutreffen. Dennoch ist es weitaus gesünder, Erfolg nach eigenen Kriterien zu definieren, als ein Rennen zu gewinnen, an dem man eigentlich nie teilnehmen wollte."
     ],
-    "audios": [{ "id": "audio-de-read-b2-001b-1", "url": "soundcloud.com" },
-      { "id": "audio-de-read-b2-001b-2", "url": "soundcloud.com" }],
+    "audios": [{ "id": "audio-de-read-b2-002b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-002b-2", "url": "soundcloud.com" }],
     "questions": [
       {
         "id": "q-de-read-b2-002-01",
@@ -200,8 +200,8 @@
 "Im Laufe der letzten drei Jahre hatten sich ihre echten Freundschaften unmerklich verflüchtigt und waren durch mühelose, aber oberflächliche digitale Kontakte ersetzt worden. Immer wenn sie sich überfordert fühlte, scrollte sie durch sorgfältig inszenierte Bilderströme von Bekannten, die an exotischen Stränden lächelten – was ihr Gefühl der Ausgrenzung nur noch verstärkte. Obwohl sie rund um die Uhr erreichbar war, wurde ihr schmerzlich bewusst, dass sie niemanden hatte, den sie an einem Dienstagabend um zehn Uhr spontan und ohne Vorankündigung hätte anrufen können.",
 "Soziologen bezeichnen dieses Paradoxon zunehmend als „hypervernetzte Einsamkeit“. Digitale Plattformen sind darauf ausgelegt, Nähe zu simulieren, während sie genau jene Verletzlichkeit umgehen, die echte menschliche Bindung erfordert. Ein rasches Emoji vermittelt die Illusion von Anteilnahme, ohne Zeit, physische Präsenz oder emotionale Investition abzuverlangen. Während Clara den fernen Scheinwerfern auf den Stadtautobahnen zusah, fasste sie einen stillen Entschluss. Wenn sie die unsichtbare Mauer um sich herum einreißen wollte, müsste sie sich ausloggen und wieder das Risiko der Unbeholfenheit echter Begegnungen von Angesicht zu Angesicht eingehen."
 ],
-"audios": [{ "id": "audio-de-read-b2-001b-1", "url": "soundcloud.com" },
-      { "id": "audio-de-read-b2-001b-2", "url": "soundcloud.com" }],
+"audios": [{ "id": "audio-de-read-b2-003b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-003b-2", "url": "soundcloud.com" }],
 "questions": [
 {
 "id": "q-de-read-b2-003-01",
@@ -297,8 +297,8 @@
 "Moderatorin: Wie kann sich der Einzelne aus dieser Konditionierung befreien, wenn jede digitale Plattform darauf programmiert ist, Kaufimpulse auszulösen?",
 "Dr. Pendelton: Bewusstsein ist der erste Schritt. Vor jeder nicht lebensnotwendigen Anschaffung rate ich dazu, eine verbindliche Wartezeit von achtundvierzig Stunden einzuhalten. Meistens flaut der Impuls in dieser Zeit ab – ein klares Zeichen dafür, dass das Bedürfnis künstlich erzeugt wurde."
 ],
-"audios": [{ "id": "audio-de-read-b2-001b-1", "url": "soundcloud.com" },
-      { "id": "audio-de-read-b2-001b-2", "url": "soundcloud.com" }],
+"audios": [{ "id": "audio-de-read-b2-004b-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-b2-004b-2", "url": "soundcloud.com" }],
 "questions": [
 {
 "id": "q-de-read-b2-004-01",
@@ -2367,6 +2367,480 @@
 { "id": "b", "texte": "Historische Beispiele beweisen, dass Beschäftigte bei Branchenumbrüchen keinerlei Hilfe benötigen.", "correcte": false },
 { "id": "c", "texte": "Technischer Wandel lässt zwar manche Berufe verschwinden, doch kluge Sozialpolitik ermöglicht faire Übergänge.", "correcte": true },
 { "id": "d", "texte": "Nur körperlich arbeitende Beschäftigte laufen Gefahr, ihren Arbeitsplatz durch Automatisierung zu verlieren.", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "b026",
+    "titre": "Sollten wir der Arbeitsplatzsicherheit oder der beruflichen Freiheit den Vorzug geben?",
+    "titre2": "Exercice b026",
+    "texte": [
+      "Lukas: Ich habe gestern Abend lange mit meinem jüngeren Bruder diskutiert, Clara. Er hat nach seinem Informatikstudium zwei völlig gegensätzliche Angebote vorliegen: eine unbefristete Stelle im öffentlichen Dienst mit geregelten Arbeitszeiten und verlässlicher Altersvorsorge – oder den Einstieg als selbstständiger Entwickler in ein kleines, junges Start-up mit freier Zeiteinteilung, aber unsicherem Einkommen. Ehrlich gesagt wusste ich selbst nicht, wozu ich ihm raten soll.",
+      "Clara: Das ist tatsächlich eine der grundlegendsten Lebensentscheidungen im modernen Berufsleben, Lukas. Lange Zeit galt ein dauerhafter Arbeitsplatz bei einem großen Arbeitgeber als unangefochtenes Ideal: Er bietet planbare Einkünfte, sozialen Schutz im Krankheitsfall und die innere Ruhe, langfristige Entscheidungen wie eine Familiengründung oder einen Wohnungskauf ohne ständige Existenzangst zu treffen.",
+      "Lukas: Genau diese Sicherheit schätzt mein Bruder durchaus. Gleichzeitig befürchtet er jedoch, in starren Hierarchien und langwierigen Genehmigungsverfahren geistig einzurosten. Viele junge Berufstätige wünschen sich heute vor allem Autonomie: Sie wollen selbst bestimmen, wann, wo und an welchen Projekten sie arbeiten, statt Jahrzehnte lang nach fremden Vorgaben zu funktionieren.",
+      "Clara: Diesen Wunsch nach Selbstbestimmung kann ich gut nachvollziehen, zumal sich selbst vermeintlich sichere Konzernstellen in Zeiten wirtschaftlicher Umbrüche oft schneller auflösen als gedacht. Dennoch wird berufliche Freiheit in sozialen Medien manchmal stark romantisiert. Wer freiberuflich oder in einem jungen Unternehmen arbeitet, trägt das gesamte wirtschaftliche Risiko allein, hat selten bezahlten Urlaub und steht unter dem ständigen Druck, neue Aufträge zu gewinnen.",
+      "Lukas: Mit anderen Worten: Was auf den ersten Blick wie grenzenlose Freiheit aussieht, kann leicht in Selbstausbeutung umschlagen, wenn finanzielle Rücklagen fehlen.",
+      "Clara: Ganz genau. Deshalb gibt es auch keine pauschale Antwort für alle Lebensphasen. Wer zunächst in einem stabilen Umfeld Berufserfahrung, Rücklagen und ein Netzwerk aufbaut, schafft sich oft genau jene Grundlage, die später echte unternehmerische Freiheit ohne existenzielle Panik ermöglicht."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-026-01",
+        "question": "Vor welcher beruflichen Entscheidung steht Lukas’ jüngerer Bruder?",
+        "reponses": [
+          { "id": "a", "texte": "Ob er ein zweites Studium im Ausland beginnen oder sofort heiraten soll.", "correcte": false },
+          { "id": "b", "texte": "Ob er eine sichere Stelle im öffentlichen Dienst oder eine freie, aber riskante Tätigkeit in einem Start-up wählt.", "correcte": true },
+          { "id": "c", "texte": "Ob er in seiner Heimatstadt bleiben oder für einen großen Konzern nach Asien umziehen soll.", "correcte": false },
+          { "id": "d", "texte": "Ob er seine Arbeitszeit halbieren soll, um mehr Zeit für ehrenamtliche Arbeit zu gewinnen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-026-02",
+        "question": "Welche Vorteile einer unbefristeten Festanstellung hebt Clara im zweiten Absatz hervor?",
+        "reponses": [
+          { "id": "a", "texte": "Völlige Freiheit bei der Auswahl der Arbeitsprojekte und unbegrenzte Urlaubstage.", "correcte": false },
+          { "id": "b", "texte": "Schnellere Beförderungen und deutlich höhere Gewinnbeteiligungen als in Start-ups.", "correcte": false },
+          { "id": "c", "texte": "Verlässliches Einkommen, soziale Absicherung und Planungssicherheit für Familie und Wohnen.", "correcte": true },
+          { "id": "d", "texte": "Verzicht auf jegliche feste Arbeitszeiten und behördliche Vorschriften.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-026-03",
+        "question": "Was befürchtet Lukas’ Bruder im Falle einer Anstellung im öffentlichen Dienst?",
+        "reponses": [
+          { "id": "a", "texte": "Dass unflexible Strukturen und langsame Abläufe seine Kreativität und Entwicklung hemmen könnten.", "correcte": true },
+          { "id": "b", "texte": "Dass er dort deutlich mehr Überstunden leisten müsste als als selbstständiger Entwickler.", "correcte": false },
+          { "id": "c", "texte": "Dass die Gehälter im öffentlichen Dienst jedes Jahr stark schwanken.", "correcte": false },
+          { "id": "d", "texte": "Dass er keine Möglichkeit hätte, im Team mit anderen Informatikern zusammenzuarbeiten.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-026-04",
+        "question": "Welche Schattenseiten beruflicher Selbstständigkeit beschreibt Clara in ihrem zweiten Beitrag?",
+        "reponses": [
+          { "id": "a", "texte": "Strenge Kleidervorschriften und tägliche Kontrollgespräche mit Vorgesetzten.", "correcte": false },
+          { "id": "b", "texte": "Ein gesetzliches Verbot, für mehrere Auftraggeber gleichzeitig zu arbeiten.", "correcte": false },
+          { "id": "c", "texte": "Fehlende Anerkennung akademischer Studienabschlüsse in jungen Technologieunternehmen.", "correcte": false },
+          { "id": "d", "texte": "Alleiniges finanzielles Risiko, fehlender bezahlter Urlaub und dauerhafter Druck zur Kundensuche.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-026-05",
+        "question": "Was bedeutet die Wendung „geistig einzurosten“ in Lukas’ zweitem Redebeitrag?",
+        "reponses": [
+          { "id": "a", "texte": "Durch mangelnde Herausforderung unbeweglich zu werden und seine Kreativität zu verlieren.", "correcte": true },
+          { "id": "b", "texte": "Sich durch zu viele anspruchsvolle Aufgaben körperlich zu überlasten.", "correcte": false },
+          { "id": "c", "texte": "In einem Team schnell die Führungsrolle zu übernehmen.", "correcte": false },
+          { "id": "d", "texte": "Alte Computerprogramme technisch zu modernisieren.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-026-06",
+        "question": "Was versteht Lukas unter der Gefahr der „Selbstausbeutung“?",
+        "reponses": [
+          { "id": "a", "texte": "Dass Arbeitgeber ihre Angestellten ohne Bezahlung am Wochenende arbeiten lassen.", "correcte": false },
+          { "id": "b", "texte": "Dass Selbstständige aus finanzieller Not ohne Pausen über ihre eigenen Grenzen hinaus arbeiten.", "correcte": true },
+          { "id": "c", "texte": "Dass junge Berufstätige ihr gesamtes Gehalt für teure Luxusgüter ausgeben.", "correcte": false },
+          { "id": "d", "texte": "Dass Unternehmen hohe Steuern auf innovative Softwareprodukte zahlen müssen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-026-07",
+        "question": "Was bedeutet das Adjektiv „pauschale“ in Claras letzter Antwort („keine pauschale Antwort für alle Lebensphasen“)?",
+        "reponses": [
+          { "id": "a", "texte": "Wissenschaftlich bewiesene und endgültige.", "correcte": false },
+          { "id": "b", "texte": "Finanziell kostspielige.", "correcte": false },
+          { "id": "c", "texte": "Allgemeingültige, für jeden Fall gleichermaßen passende.", "correcte": true },
+          { "id": "d", "texte": "Vorübergehende und unsichere.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-026-08",
+        "question": "Welchen pragmatischen Weg schlägt Clara am Ende des Gesprächs vor?",
+        "reponses": [
+          { "id": "a", "texte": "Berufliche Freiheit grundsätzlich zu meiden, da Sicherheit immer wichtiger ist.", "correcte": false },
+          { "id": "b", "texte": "Sofort nach dem Studium ein eigenes Unternehmen ohne finanzielle Reserven zu gründen.", "correcte": false },
+          { "id": "c", "texte": "Alle fünf Jahre zwischen dem öffentlichen Dienst und der Privatwirtschaft zu wechseln.", "correcte": false },
+          { "id": "d", "texte": "Zunächst in sicherem Rahmen Erfahrung und Ersparnisse zu sammeln, um später freier entscheiden zu können.", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b027",
+    "titre": "Die Vereinbarkeit von Berufs- und Privatleben",
+    "titre2": "Exercice b027",
+    "texte": [
+      "Als die Architektin Nora an einem Sonntagabend am Küchentisch saß und während des Abendessens mit ihren beiden Kindern zum dritten Mal reflexartig nach ihrem Diensttelefon griff, um eine E-Mail ihres Bauherrn zu beantworten, traf sie der enttäuschte Blick ihres achtjährigen Sohnes unvorbereitet. In diesem Moment wurde ihr schlagartig bewusst, wie sehr die Grenzen zwischen Erwerbsarbeit und Privatleben in den vergangenen Jahren verschwommen waren. Was einst als Gewinn an digitaler Flexibilität begonnen hatte, hatte sich schleichend in eine Kultur ständiger Erreichbarkeit verwandelt, in der selbst Feierabende und Wochenenden von beruflichen Verpflichtungen durchdrungen waren.",
+      "Noras Erfahrung spiegelt ein weitverbreitetes Dilemma moderner Arbeitswelten wider. Zwar erleichtern mobile Endgeräte und flexible Arbeitszeitmodelle vielerorts die Organisation von Arztterminen, Kinderbetreuung oder Pflegeaufgaben. Gleichzeitig führt die fehlende räumliche und zeitliche Trennung dazu, dass viele Beschäftigte innerlich kaum noch abschalten können. Arbeitsmediziner warnen eindringlich davor, dass chronische Entgrenzung langfristig zu Schlafstörungen, emotionaler Erschöpfung und wachsenden Spannungen in Partnerschaften und Familien führt. Paradoxerweise sinkt durch dauerhafte Überlastung letztlich sogar die berufliche Kreativität und Konzentrationsfähigkeit.",
+      "In den folgenden Wochen beschloss Nora, die Verantwortung für eine gesunde Balance nicht länger allein als private Zeitmanagement-Frage zu betrachten, sondern auch strukturell anzugehen. Sie vereinbarte mit ihrem Architekturbüro klare Kernzeiten, deaktivierte nach achtzehn Uhr sämtliche dienstlichen Benachrichtigungen und setzte sich in der Teamleitung erfolgreich dafür ein, dass abendliche E-Mails künftig nicht mehr erwartet werden. Bereits nach zwei Monaten spürte sie, wie nicht nur die gemeinsamen Abende mit ihrer Familie an Ruhe gewannen, sondern auch ihre eigene Leistungsfähigkeit im Büro spürbar stieg. Nora erkannte, dass eine gelingende Vereinbarkeit von Beruf und Privatleben sowohl persönliche Konsequenz als auch eine Unternehmenskultur erfordert, die Erholung nicht als mangelnden Ehrgeiz, sondern als Voraussetzung nachhaltiger Arbeit anerkennt."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-027-01",
+"question": "Welches alltägliche Erlebnis führte bei Nora zu einem Umdenken?",
+"reponses": [
+{ "id": "a", "texte": "Sie verpasste wegen einer verspäteten Baubesprechung das Schulkonzert ihrer Tochter.", "correcte": false },
+{ "id": "b", "texte": "Der enttäuschte Blick ihres Sohnes, als sie beim Sonntagsabendessen mehrfach dienstliche E-Mails las.", "correcte": true },
+{ "id": "c", "texte": "Ihr Arbeitgeber kürzte ihr Gehalt, weil sie am Wochenende nicht telefonisch erreichbar war.", "correcte": false },
+{ "id": "d", "texte": "Sie verlor ein wichtiges Bauprojekt, weil sie eine Nachricht erst am Montagmorgen beantwortete.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-027-02",
+"question": "Welchen positiven Nutzen flexibler digitaler Arbeitsmittel erkennt der zweite Absatz an?",
+"reponses": [
+{ "id": "a", "texte": "Sie verkürzen die wöchentliche Gesamtarbeitszeit aller Angestellten automatisch um mehrere Stunden.", "correcte": false },
+{ "id": "b", "texte": "Sie ersetzen vollständig die Notwendigkeit öffentlicher Kindertagesstätten.", "correcte": false },
+{ "id": "c", "texte": "Sie helfen dabei, private Pflichten wie Arztbesuche oder Kinderbetreuung leichter zu koordinieren.", "correcte": true },
+{ "id": "d", "texte": "Sie verhindern zuverlässig Konflikte zwischen Vorgesetzten und Teammitgliedern.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-027-03",
+"question": "Welche gesundheitlichen und beruflichen Folgen hat laut Arbeitsmedizinern eine dauerhafte Vermischung von Arbeit und Freizeit?",
+"reponses": [
+{ "id": "a", "texte": "Schlafprobleme, seelische Erschöpfung, familiäre Konflikte sowie sinkende Konzentration und Kreativität.", "correcte": true },
+{ "id": "b", "texte": "Schnellere Beförderungen bei gleichzeitiger Verbesserung der körperlichen Fitness.", "correcte": false },
+{ "id": "c", "texte": "Ein sinkendes Interesse an modernen Kommunikationsmitteln wie Smartphones und Laptops.", "correcte": false },
+{ "id": "d", "texte": "Höhere Produktivität am Abend, aber geringere Motivation am frühen Morgen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-027-04",
+"question": "Welche konkreten Veränderungen setzte Nora persönlich und in ihrem Büro um?",
+"reponses": [
+{ "id": "a", "texte": "Sie kündigte ihre Stelle im Architekturbüro und arbeitete künftig ausschließlich in Teilzeit von zu Hause.", "correcte": false },
+{ "id": "b", "texte": "Sie verzichtete vollständig auf ein Mobiltelefon und kommunizierte nur noch per Post.", "correcte": false },
+{ "id": "c", "texte": "Sie beantragte ein halbes Jahr unbezahlten Urlaub, um sich ganz ihrer Familie zu widmen.", "correcte": false },
+{ "id": "d", "texte": "Sie legte feste Arbeitszeiten fest, schaltete abends Benachrichtigungen ab und erreichte klare Teamregeln.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-027-05",
+"question": "Was bedeutet das Substantiv „Entgrenzung“ im zweiten Absatz („dass chronische Entgrenzung langfristig zu Schlafstörungen ... führt“)?",
+"reponses": [
+{ "id": "a", "texte": "Auflösung der klaren Trennlinie zwischen Arbeitszeit und privater Erholungszeit.", "correcte": true },
+{ "id": "b", "texte": "Wegfall staatlicher Grenzkontrollen für internationale Geschäftsreisende.", "correcte": false },
+{ "id": "c", "texte": "Strenge Begrenzung der täglichen Bildschirmzeit durch den Arbeitgeber.", "correcte": false },
+{ "id": "d", "texte": "Räumliche Verlagerung großer Unternehmen in ländliche Regionen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-027-06",
+"question": "Was bedeutet das Adjektiv „durchdrungen“ im ersten Absatz („von beruflichen Verpflichtungen durchdrungen waren“)?",
+"reponses": [
+{ "id": "a", "texte": "Vollständig befreit und geschützt.", "correcte": false },
+{ "id": "b", "texte": "Komplett erfasst, erfüllt und beherrscht.", "correcte": true },
+{ "id": "c", "texte": "Finanziell entschädigt und belohnt.", "correcte": false },
+{ "id": "d", "texte": "Rechtlich verboten und untersagt.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-027-07",
+"question": "Wie wirkten sich die neuen Regeln nach zwei Monaten auf Noras Berufsalltag aus?",
+"reponses": [
+{ "id": "a", "texte": "Kunden beschwerten sich über längere Antwortzeiten am Wochenende.", "correcte": false },
+{ "id": "b", "texte": "Ihre Kollegen lehnten die neuen Regeln ab, weil sie lieber nachts arbeiteten.", "correcte": false },
+{ "id": "c", "texte": "Ihre Konzentration und Leistungsfähigkeit im Büro verbesserten sich spürbar.", "correcte": true },
+{ "id": "d", "texte": "Ihr Büro musste mehrere Projekte an konkurrierende Architekten abgeben.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-027-08",
+"question": "Welche zentrale Botschaft vermittelt die Erzählung am Ende?",
+"reponses": [
+{ "id": "a", "texte": "Vereinbarkeit von Beruf und Familie ist reine Privatsache und hängt allein vom persönlichen Willen ab.", "correcte": false },
+{ "id": "b", "texte": "Moderne Smartphones sollten in Familienhaushalten am Wochenende grundsätzlich verboten werden.", "correcte": false },
+{ "id": "c", "texte": "Beruflicher Ehrgeiz und ein harmonisches Familienleben schließen einander dauerhaft aus.", "correcte": false },
+{ "id": "d", "texte": "Echte Work-Life-Balance braucht eigene Konsequenz ebenso wie eine Unternehmenskultur, die Erholung achtet.", "correcte": true }
+]
+}
+]
+},
+{
+"id": "b028",
+"titre": "Die Folgen der Automatisierung für die Arbeitnehmer",
+"titre2": "Exercice b028",
+"texte": [
+"Sehr geehrte Damen und Herren, geschätzte Vertreterinnen und Vertreter der Sozialpartner, liebe Gäste,",
+"seit den ersten mechanischen Webstühlen der industriellen Revolution begleitet die Sorge um den Verlust menschlicher Arbeit jeden großen technologischen Umbruch. Heute jedoch vollzieht sich die Automatisierung in einer völlig neuen Dimension: Intelligente Robotik, vernetzte Fertigungsstraßen und selbstlernende Software übernehmen längst nicht mehr nur schwere körperliche Routinetätigkeiten in Fabriken, sondern zunehmend auch anspruchsvolle Aufgaben in Verwaltung, Logistik, Buchhaltung und Kundenservice. Für Millionen Arbeitnehmerinnen und Arbeitnehmer stellt sich daher die drängende Frage, ob die fortschreitende Automatisierung zu sozialer Entwertung führt – oder den Weg zu humaneren und kreativeren Arbeitsbedingungen ebnet.",
+"Einerseits birgt die Automatisierung unbestreitbare Chancen zur Verbesserung der Arbeitswelt. Wo Maschinen gefährliche, gesundheitsschädliche oder körperlich zermürbende Tätigkeiten übernehmen, sinkt das Risiko von Arbeitsunfällen und chronischen Berufskrankheiten erheblich. Gleichzeitig steigern automatisierte Prozesse die Produktivität von Betrieben, was deren internationale Wettbewerbsfähigkeit sichert und im Idealfall Spielräume für kürzere Arbeitszeiten, höhere Löhne und geistig anregendere Tätigkeiten eröffnet.",
+"Andererseits darf nicht übersehen werden, dass die Übergangsphasen des technologischen Wandels oft mit erheblichen sozialen Härten verbunden sind. Besonders gefährdet sind Beschäftigte mit mittleren Qualifikationen in stark standardisierten Berufen, deren Stellen abgebaut werden, während neu entstehende Positionen völlig andere digitale Kompetenzen verlangen. Ohne rechtzeitige Umschulung drohen langfristige Arbeitslosigkeit, Einkommenseinbußen und das schmerzhafte Gefühl, auf dem Arbeitsmarkt nicht mehr gebraucht zu werden. Zudem warnen Arbeitssoziologen vor einer zunehmenden algorithmischen Überwachung, bei der digitale Systeme jeden Arbeitsschritt in Echtzeit messen und den Leistungsdruck massiv erhöhen.",
+"Letztendlich ist die Automatisierung kein unkontrollierbares Naturereignis, sondern ein gestaltbarer Prozess. Wenn Unternehmen, Gewerkschaften und Politik frühzeitig in bezahlte Weiterbildung während der Arbeitszeit investieren, klare Schutzregeln gegen digitale Dauerüberwachung erlassen und Produktivitätsgewinne gerecht verteilen, kann Automatisierung den Menschen dienen, statt sie zu verdrängen. Vielen Dank."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-028-01",
+"question": "Wodurch unterscheidet sich die heutige Automatisierung laut dem ersten Absatz von früheren technischen Umbrüchen?",
+"reponses": [
+{ "id": "a", "texte": "Sie betrifft heute ausschließlich kleine landwirtschaftliche Familienbetriebe.", "correcte": false },
+{ "id": "b", "texte": "Sie erfasst neben körperlicher Fabrikarbeit auch Büro-, Logistik- und Dienstleistungsberufe.", "correcte": true },
+{ "id": "c", "texte": "Sie verläuft deutlich langsamer als die Einführung mechanischer Webstühle.", "correcte": false },
+{ "id": "d", "texte": "Sie verursacht keinerlei Sorgen mehr um den Erhalt bestehender Arbeitsplätze.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-028-02",
+"question": "Welche positiven Auswirkungen kann Automatisierung laut dem zweiten Absatz für Beschäftigte haben?",
+"reponses": [
+{ "id": "a", "texte": "Sie garantiert jedem Arbeitnehmer automatisch eine unbefristete Anstellung bis zur Rente.", "correcte": false },
+{ "id": "b", "texte": "Sie macht berufliche Weiterbildung und digitale Kenntnisse im Arbeitsleben überflüssig.", "correcte": false },
+{ "id": "c", "texte": "Sie verringert Gesundheitsrisiken durch schwere Arbeit und schafft Potenzial für bessere Arbeitsbedingungen.", "correcte": true },
+{ "id": "d", "texte": "Sie führt dazu, dass kleine Handwerksbetriebe keine Maschinen mehr anschaffen müssen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-028-03",
+"question": "Welche Arbeitnehmergruppe ist laut dem dritten Absatz besonders vom Stellenabbau bedroht?",
+"reponses": [
+{ "id": "a", "texte": "Beschäftigte mit mittleren Abschlüssen in stark geregelten, gleichförmigen Tätigkeitsfeldern.", "correcte": true },
+{ "id": "b", "texte": "Künstlerinnen, Pflegekräfte und Lehrkräfte an öffentlichen Grundschulen.", "correcte": false },
+{ "id": "c", "texte": "Führungskräfte in internationalen Forschungs- und Entwicklungsabteilungen.", "correcte": false },
+{ "id": "d", "texte": "Hochspezialisierte Softwareentwickler und Ingenieure für Robotik.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-028-04",
+"question": "Welche zusätzliche Gefahr für die verbleibenden Beschäftigten betonen Arbeitssoziologen im dritten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Den vollständigen Wegfall von gesetzlichen Urlaubsansprüchen in großen Industriekonzernen.", "correcte": false },
+{ "id": "b", "texte": "Sinkende Sicherheitsstandards bei der Bedienung moderner Fertigungsroboter.", "correcte": false },
+{ "id": "c", "texte": "Die Verpflichtung, eigene Computer auf eigene Kosten für die Arbeit im Betrieb anzuschaffen.", "correcte": false },
+{ "id": "d", "texte": "Lückenlose digitale Kontrolle einzelner Arbeitsschritte und dadurch steigenden Leistungsdruck.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-028-05",
+"question": "Was bedeutet das Adjektiv „zermürbende“ im zweiten Absatz („gefährliche, gesundheitsschädliche oder körperlich zermürbende Tätigkeiten“)?",
+"reponses": [
+{ "id": "a", "texte": "Kräftezehrende, erschöpfende und langfristig aufreibende.", "correcte": true },
+{ "id": "b", "texte": "Abwechslungsreiche und geistig anregende.", "correcte": false },
+{ "id": "c", "texte": "Finanziell besonders gut bezahlte.", "correcte": false },
+{ "id": "d", "texte": "Kurze und technisch unkomplizierte.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-028-06",
+"question": "Was bedeutet das Substantiv „Sozialpartner“ in der Anrede des Redners?",
+"reponses": [
+{ "id": "a", "texte": "Wohltätige Vereine, die kostenlose Mahlzeiten an Bedürftige verteilen.", "correcte": false },
+{ "id": "b", "texte": "Gewerkschaften und Arbeitgeberverbände als Vertreter von Arbeitnehmern und Unternehmen.", "correcte": true },
+{ "id": "c", "texte": "Soziale Netzwerke im Internet, die Stellenanzeigen veröffentlichen.", "correcte": false },
+{ "id": "d", "texte": "Ehepartner, die gemeinsam ein kleines Familienunternehmen gründen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-028-07",
+"question": "Welche drei Maßnahmen fordert der Redner im Schlussabsatz für eine sozial gerechte Automatisierung?",
+"reponses": [
+{ "id": "a", "texte": "Ein gesetzliches Verbot selbstlernender Software, höhere Zölle und längere Lebensarbeitszeiten.", "correcte": false },
+{ "id": "b", "texte": "Die Abschaffung von Gewerkschaften, private Weiterbildungskredite und niedrigere Unternehmenssteuern.", "correcte": false },
+{ "id": "c", "texte": "Bezahlte Qualifizierung im Beruf, Schutz vor digitaler Überwachung und faire Teilhabe an Gewinnen.", "correcte": true },
+{ "id": "d", "texte": "Die Verstaatlichung sämtlicher Industriebetriebe und einheitliche Löhne für alle Berufe.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-028-08",
+"question": "Welche Hauptthese vertritt der Redner zum Abschluss seines Vortrags?",
+"reponses": [
+{ "id": "a", "texte": "Automatisierung wird zwangsläufig zu dauerhafter Massenarbeitslosigkeit ohne politische Gegenmittel führen.", "correcte": false },
+{ "id": "b", "texte": "Arbeitnehmer sollten technische Neuerungen im Betrieb durch Streiks grundsätzlich blockieren.", "correcte": false },
+{ "id": "c", "texte": "Der technologische Wandel regelt soziale Fragen auf dem Arbeitsmarkt langfristig ganz von selbst.", "correcte": false },
+{ "id": "d", "texte": "Automatisierung ist politisch und betrieblich gestaltbar und kann bei klugen Regeln allen zugutekommen.", "correcte": true }
+]
+}
+]
+},
+{
+"id": "b029",
+"titre": "Ist Arbeit noch immer eine Quelle persönlicher Erfüllung?",
+"titre2": "Exercice b029",
+"texte": [
+"Moderator: Willkommen bei „Arbeitswelt im Wandel“. Lange Zeit galt der Beruf als zentraler Anker menschlicher Identität: Man fragte neue Bekannte zuerst, was sie beruflich machen, und schöpfte aus fachlicher Leistung Selbstachtung und gesellschaftliche Anerkennung. Heute hingegen sprechen viele von „stiller Kündigung“, wachsender Erschöpfung und einem neuen Wunsch nach Distanz zum Job. Darüber sprechen wir mit der Arbeitspsychologin Dr. Elena Weber. Frau Dr. Weber, hat die Arbeit ihre Kraft als Quelle persönlicher Erfüllung verloren?",
+"Dr. Weber: Vielen Dank. Ich würde eher sagen, dass sich unsere Erwartungen an die Arbeit tiefgreifend gewandelt haben, während viele Arbeitsbedingungen hinter dieser Entwicklung zurückgeblieben sind. Menschen suchen keineswegs bloß Bequemlichkeit – im Gegenteil: Fast alle wollen etwas Sinnvolles beitragen, ihre Fähigkeiten entfalten und Wertschätzung erfahren. Wenn jedoch Arbeitsverdichtung, endlose Bürokratie und das Gefühl, ein austauschbares Rädchen in einer Maschine zu sein, überhandnehmen, schlägt ursprüngliches Engagement in innere Kündigung um.",
+"Moderator: Manche Beobachter meinen, gerade jüngere Generationen sähen Arbeit heute viel nüchterner – eher als reine Einkommensquelle, um ein erfülltes Privatleben zu finanzieren. Stimmen Sie dem zu?",
+"Dr. Weber: Teilweise ja, und das ist auch eine gesunde Korrektur früherer Überhöhungen. Wenn Arbeit zum alleinigen Lebensinhalt erhoben wird, macht sie uns extrem verletzlich – etwa bei Krankheit, Arbeitslosigkeit oder beim Übergang in den Ruhestand. Dennoch zeigt unsere Forschung, dass junge Erwachsene keineswegs gleichgültig gegenüber ihrer Tätigkeit sind: Sie verlangen bloß zu Recht gesunde Grenzen, eine faire Bezahlung und einen erkennbaren gesellschaftlichen Nutzen ihrer Arbeit.",
+"Moderator: Was macht eine Tätigkeit aus psychologischer Sicht dann tatsächlich zu einer Quelle von Erfüllung?",
+"Dr. Weber: Vor allem drei Faktoren: ein gewisses Maß an Autonomie bei der Gestaltung der eigenen Aufgaben, die Möglichkeit zur fachlichen Weiterentwicklung und ein respektvolles Miteinander im Team. Arbeit muss nicht jeden Tag wie ein großes Abenteuer sein – aber wenn wir spüren, dass unser Einsatz einen positiven Unterschied macht und unsere Würde geachtet wird, bleibt sie eine der wichtigsten Quellen menschlicher Zufriedenheit."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-029-01",
+"question": "Wie erklärt Dr. Weber Phänomene wie die „stille Kündigung“ in ihrer ersten Antwort?",
+"reponses": [
+{ "id": "a", "texte": "Damit, dass heutige Arbeitnehmer grundsätzlich weniger fleißig sind als frühere Generationen.", "correcte": false },
+{ "id": "b", "texte": "Damit, dass hohe Ansprüche an sinnvolle Arbeit oft auf überlastende und unpersönliche Bedingungen treffen.", "correcte": true },
+{ "id": "c", "texte": "Damit, dass die Gehälter in den meisten Branchen für den Lebensunterhalt nicht mehr ausreichen.", "correcte": false },
+{ "id": "d", "texte": "Damit, dass junge Berufstätige lieber ehrenamtlich arbeiten als feste Verträge zu unterschreiben.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-029-02",
+"question": "Welche Gefahr sieht Dr. Weber, wenn Menschen ihre Arbeit zum einzigen Sinn ihres Lebens machen?",
+"reponses": [
+{ "id": "a", "texte": "Dass sie im Beruf zu viele Risiken eingehen und häufig den Arbeitgeber wechseln.", "correcte": false },
+{ "id": "b", "texte": "Dass sie zu viel Geld für teure Weiterbildungen außerhalb der Arbeitszeit ausgeben.", "correcte": false },
+{ "id": "c", "texte": "Dass sie bei Krisen, Jobverlust oder bei der Pensionierung in ein tiefes inneres Loch fallen können.", "correcte": true },
+{ "id": "d", "texte": "Dass ihre Kolleginnen und Kollegen sie wegen ihres großen Ehrgeizes ausgrenzen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-029-03",
+"question": "Wie beschreibt Dr. Weber die Einstellung jüngerer Generationen zur Erwerbsarbeit?",
+"reponses": [
+{ "id": "a", "texte": "Sie sind nicht desinteressiert, sondern fordern sinnvolle Aufgaben, faire Löhne und gesunde Grenzen.", "correcte": true },
+{ "id": "b", "texte": "Sie lehnen jede Form von Teamarbeit und beruflicher Verantwortung grundsätzlich ab.", "correcte": false },
+{ "id": "c", "texte": "Sie interessieren sich ausschließlich für die Höhe des Gehalts und überhaupt nicht für das Arbeitsklima.", "correcte": false },
+{ "id": "d", "texte": "Sie wünschen sich eine Rückkehr zu strengen Hierarchien und festen Bürozeiten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-029-04",
+"question": "Welche drei psychologischen Voraussetzungen nennt Dr. Weber für eine erfüllende Berufstätigkeit?",
+"reponses": [
+{ "id": "a", "texte": "Hohe Jahresprämien, internationale Geschäftsreisen und repräsentative Titel.", "correcte": false },
+{ "id": "b", "texte": "Kurze Arbeitswege, kostenlose Verpflegung im Betrieb und lange Sommerferien.", "correcte": false },
+{ "id": "c", "texte": "Abwechslungsreiche Abenteuer, tägliche Erfolgserlebnisse und öffentliche Auszeichnungen.", "correcte": false },
+{ "id": "d", "texte": "Gestaltungsspielraum, Lern- und Entwicklungsmöglichkeiten sowie ein wertschätzendes Teamklima.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-029-05",
+"question": "Was bedeutet das Substantiv „Arbeitsverdichtung“ in Dr. Webers erstem Redebeitrag?",
+"reponses": [
+{ "id": "a", "texte": "Zunahme der Arbeitsmenge und des Zeitdrucks innerhalb derselben Arbeitszeit.", "correcte": true },
+{ "id": "b", "texte": "Räumliche Zusammenlegung mehrerer kleiner Büros zu einem großen Großraumbüro.", "correcte": false },
+{ "id": "c", "texte": "Verkürzung der täglichen Mittagspause durch neue tarifliche Vereinbarungen.", "correcte": false },
+{ "id": "d", "texte": "Erhöhung der Anzahl neuer Mitarbeiter in stark belasteten Abteilungen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-029-06",
+"question": "Was bedeutet das Substantiv „Überhöhungen“ in Dr. Webers zweiter Antwort („eine gesunde Korrektur früherer Überhöhungen“)?",
+"reponses": [
+{ "id": "a", "texte": "Unberechtigte Gehaltsforderungen von Führungskräften in großen Konzernen.", "correcte": false },
+{ "id": "b", "texte": "Übertriebene Idealisierung und Überbewertung der Arbeit gegenüber anderen Lebensbereichen.", "correcte": true },
+{ "id": "c", "texte": "Zu hohe Anforderungen bei staatlichen Abschlussprüfungen an Universitäten.", "correcte": false },
+{ "id": "d", "texte": "Steigende Mietpreise in den Innenstädten großer Wirtschaftsmetropolen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-029-07",
+"question": "Was versteht man laut dem Text unter dem Phänomen der „inneren Kündigung“?",
+"reponses": [
+{ "id": "a", "texte": "Das schriftliche Einreichen der Kündigung bei der Personalabteilung nach einem Streit.", "correcte": false },
+{ "id": "b", "texte": "Die vorzeitige Beendigung einer beruflichen Ausbildung aus gesundheitlichen Gründen.", "correcte": false },
+{ "id": "c", "texte": "Den emotionalen Rückzug von der Arbeit, bei dem man nur noch das Nötigste ohne Engagement tut.", "correcte": true },
+{ "id": "d", "texte": "Den Wechsel in eine andere Abteilung innerhalb desselben Unternehmens.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-029-08",
+"question": "Welche Gesamtbotschaft vermittelt Dr. Weber im letzten Satz des Interviews?",
+"reponses": [
+{ "id": "a", "texte": "Erfüllung findet man heute ausschließlich in der Freizeit, niemals aber im Beruf.", "correcte": false },
+{ "id": "b", "texte": "Nur kreative künstlerische Berufe können Menschen langfristig glücklich machen.", "correcte": false },
+{ "id": "c", "texte": "Arbeit sollte wieder der einzige Mittelpunkt des menschlichen Lebens werden.", "correcte": false },
+{ "id": "d", "texte": "Arbeit bleibt eine wichtige Quelle der Zufriedenheit, wenn sie Sinn stiftet und die Menschenwürde achtet.", "correcte": true }
+]
+}
+]
+},
+{
+"id": "b030",
+"titre": "Ist Weiterbildung heute unverzichtbar geworden?",
+"titre2": "Exercice b030",
+"texte": [
+"Über viele Jahrzehnte hinweg folgte der klassische Lebenslauf einem übersichtlichen Dreischritt: Auf eine abgeschlossene Schul- und Berufsausbildung oder ein Hochschulstudium folgte eine jahrzehntelange Erwerbstätigkeit im erlernten Beruf, bevor schließlich der wohlverdiente Ruhestand begann. Das einmal erworbene Fachwissen reichte oft aus, um ein gesamtes Arbeitsleben lang sicher und kompetent tätig zu sein. In unserer Gegenwart jedoch hat dieses lineare Modell ausgedient. Angesichts rasanter technologischer Entwicklungen, der Digitalisierung nahezu aller Branchen und des ökologischen Strukturwandels ist lebenslanges Lernen vom wohlklingenden Schlagwort zu einer schlichten beruflichen Notwendigkeit geworden.",
+"Die Gründe für die wachsende Bedeutung kontinuierlicher Weiterbildung liegen auf der Hand. Fachliche Kenntnisse und technische Werkzeuge veralten heute in einem Tempo, das früher unvorstellbar gewesen wäre – ob in der Medizin, im Handwerk, im Ingenieurwesen oder in der Verwaltung. Wer sich regelmäßig neue digitale Kompetenzen, interkulturelle Fähigkeiten oder methodisches Wissen aneignet, schützt sich nicht nur wirksamer vor Arbeitslosigkeit, sondern gewinnt auch größere berufliche Gestaltungsfreiheit und Aufstiegschancen. Zudem stärkt geistige Neugier nachweislich die kognitive Beweglichkeit bis ins hohe Alter.",
+"Dennoch stößt das Ideal des lebenslangen Lernens in der Praxis oft auf erhebliche soziale Hürden. Studien zeigen immer wieder das sogenannte Matthäus-Prinzip der Weiterbildung: Gerade jene, die bereits über hohe Bildungsabschlüsse verfügen, nehmen besonders häufig an Kursen teil, während Beschäftigte mit geringeren Qualifikationen, ältere Arbeitnehmer oder Alleinerziehende deutlich seltener Zugang finden. Hohe Kursgebühren, mangelnde Freistellung durch Arbeitgeber und familiäre Zeitknappheit verwandeln Weiterbildung leicht in ein Privileg für ohnehin Begünstigte.",
+"Letztendlich darf Weiterbildung nicht als bloße Pflicht verstanden werden, sich ständig dem Druck des Marktes anzupassen, sondern als gemeinschaftliche Investition in die Zukunftsfähigkeit des Einzelnen wie der Gesellschaft. Durch gesetzliche Bildungszeitansprüche, finanzielle Förderprogramme und eine offene Lernkultur in den Betrieben können wir sicherstellen, dass lebenslanges Lernen für alle Beschäftigten zu einer echten Chance wird. Vielen Dank."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-030-01",
+"question": "Wodurch unterschied sich der frühere klassische Berufsweg laut dem ersten Absatz von der heutigen Realität?",
+"reponses": [
+{ "id": "a", "texte": "Früher wechselten Arbeitnehmer alle fünf Jahre freiwillig ihren Beruf und ihren Wohnort.", "correcte": false },
+{ "id": "b", "texte": "Früher genügte die einmalige Erstausbildung meist für das gesamte Berufsleben, während heute ständiges Lernen nötig ist.", "correcte": true },
+{ "id": "c", "texte": "Früher gab es deutlich mehr staatliche Förderprogramme für Erwachsenenbildung als in der Gegenwart.", "correcte": false },
+{ "id": "d", "texte": "Früher begannen junge Menschen erst mit dreißig Jahren ihre erste berufliche Tätigkeit.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-030-02",
+"question": "Welche Vorteile bietet regelmäßige Weiterbildung laut dem zweiten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Sie garantiert eine sofortige Gehaltsverdopplung nach jedem abgeschlossenen Wochenendseminar.", "correcte": false },
+{ "id": "b", "texte": "Sie befreit Arbeitnehmer von der Pflicht, in Teams mit jüngeren Kollegen zusammenzuarbeiten.", "correcte": false },
+{ "id": "c", "texte": "Sie verringert das Risiko von Jobverlust, eröffnet neue Karrierewege und hält den Geist fit.", "correcte": true },
+{ "id": "d", "texte": "Sie verkürzt die gesetzliche Lebensarbeitszeit um bis zu fünf Jahre.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-030-03",
+"question": "Was besagt das im dritten Absatz erwähnte „Matthäus-Prinzip“ im Bereich der Weiterbildung?",
+"reponses": [
+{ "id": "a", "texte": "Dass Menschen mit bereits hoher Vorbildung viel häufiger Weiterbildungen nutzen als geringer Qualifizierte.", "correcte": true },
+{ "id": "b", "texte": "Dass ältere Arbeitnehmer im Durchschnitt doppelt so viele Kurse besuchen wie junge Berufseinsteiger.", "correcte": false },
+{ "id": "c", "texte": "Dass digitale Online-Kurse genauso wirksam sind wie klassischer Präsenzunterricht.", "correcte": false },
+{ "id": "d", "texte": "Dass kleine Handwerksbetriebe mehr Geld in Schulungen investieren als große Industriekonzerne.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-030-04",
+"question": "Welche praktischen Hindernisse erschweren vielen Beschäftigten die Teilnahme an Kursen?",
+"reponses": [
+{ "id": "a", "texte": "Ein akuter Mangel an qualifizierten Dozenten an Volkshochschulen und Universitäten.", "correcte": false },
+{ "id": "b", "texte": "Strenge Aufnahmeprüfungen, die Bewerber ohne Abitur grundsätzlich ausschließen.", "correcte": false },
+{ "id": "c", "texte": "Gesetzliche Vorschriften, die Weiterbildungen während der regulären Arbeitswoche verbieten.", "correcte": false },
+{ "id": "d", "texte": "Hohe Teilnahmekosten, fehlende Freistellung im Betrieb und Zeitmangel durch familiäre Pflichten.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-030-05",
+"question": "Was bedeutet die Wendung „hat dieses lineare Modell ausgedient“ im ersten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Dieses frühere Ablaufmodell ist veraltet und entspricht nicht mehr den heutigen Anforderungen.", "correcte": true },
+{ "id": "b", "texte": "Dieses bewährte Modell wird heute von allen großen Unternehmen wieder eingeführt.", "correcte": false },
+{ "id": "c", "texte": "Dieses Modell wurde durch internationale Arbeitsgerichte gesetzlich vorgeschrieben.", "correcte": false },
+{ "id": "d", "texte": "Dieses Modell gilt ausschließlich für technische und naturwissenschaftliche Berufe.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-030-06",
+"question": "Was bedeutet das Substantiv „Freistellung“ im dritten Absatz („mangelnde Freistellung durch Arbeitgeber“)?",
+"reponses": [
+{ "id": "a", "texte": "Fristlose Kündigung eines langjährigen Mitarbeiters.", "correcte": false },
+{ "id": "b", "texte": "Bezahlte Befreiung von der regulären Arbeitspflicht, um an einer Schulung teilzunehmen.", "correcte": true },
+{ "id": "c", "texte": "Kostenlose Bereitstellung von Computern für das Arbeiten im Homeoffice.", "correcte": false },
+{ "id": "d", "texte": "Öffentliche Ausschreibung neuer Führungspositionen innerhalb eines Betriebs.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-030-07",
+"question": "Welche Maßnahmen empfiehlt der Redner im Schlussabsatz, um Weiterbildung für alle zugänglich zu machen?",
+"reponses": [
+{ "id": "a", "texte": "Verpflichtende Wochenendkurse für alle Arbeitslosen und Kürzung der staatlichen Renten.", "correcte": false },
+{ "id": "b", "texte": "Die Abschaffung klassischer Berufsausbildungen zugunsten kurzer Online-Zertifikate.", "correcte": false },
+{ "id": "c", "texte": "Gesetzliche Ansprüche auf Bildungszeit, finanzielle Zuschüsse und lernfreundliche Betriebskulturen.", "correcte": true },
+{ "id": "d", "texte": "Steuererleichterungen für Privatpersonen, die teure Fernstudiengänge selbst bezahlen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-030-08",
+"question": "Welche Hauptthese fasst den gesamten Vortrag am treffendsten zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Weiterbildung ist heute unverzichtbar, muss aber sozial gerecht gefördert werden, damit alle teilhaben können.", "correcte": true },
+{ "id": "b", "texte": "Nur junge Arbeitnehmer unter dreißig Jahren profitieren wirklich von beruflichen Fortbildungen.", "correcte": false },
+{ "id": "c", "texte": "Staatliche Förderprogramme für Weiterbildung sind unnötig, da der Markt alles selbst regelt.", "correcte": false },
+{ "id": "d", "texte": "Handwerkliche Berufe sind vom technologischen Wandel kaum betroffen und benötigen keine Schulungen.", "correcte": false }
 ]
 }
 ]
@@ -6093,7 +6567,7 @@
 ]
 },
 {
-"id": "q-de-read-b2-069-02",
+"id": "q-de-read-b2-070-02",
 "question": "Welche inneren Spannungen erleben Menschen mit mehrkulturellen Wurzeln laut dem zweiten Absatz häufig?",
 "reponses": [
 { "id": "a", "texte": "Sie haben Schwierigkeiten, überhaupt eine der beiden Sprachen fließend zu erlernen.", "correcte": false },
