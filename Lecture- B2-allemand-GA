@@ -943,5 +943,1427 @@
 ]
 }
 ]
+},
+{
+    "id": "b011",
+    "titre": "Sollten Schulen dem Wissen oder den Kompetenzen Vorrang einräumen?",
+    "titre2": "Exercice b011",
+    "texte": [
+      "Sehr geehrte Mitglieder des Bildungsrats, geschätzte Lehrkräfte und liebe Eltern,",
+      "kaum eine Debatte wird in der zeitgenössischen Pädagogik so leidenschaftlich geführt wie das Spannungsverhältnis zwischen der Vermittlung fundierten Fachwissens und der Förderung praktischer Kompetenzen. In einer Ära, in der gewaltige digitale Enzyklopädien in jeder Hosentasche stecken, argumentieren Kritiker des traditionellen Schulwesens häufig, das Auswendiglernen historischer Daten, naturwissenschaftlicher Formeln oder literarischer Begriffe sei überholt. Stattdessen fordern sie, dass sich Schulen nahezu ausschließlich auf übertragbare Schlüsselkompetenzen – wie Teamfähigkeit, Anpassungsfähigkeit und digitale Medienkompetenz – konzentrieren sollten. Dennoch erweist sich die Gegenüberstellung von Wissen und Kompetenzen als tiefgreifender pädagogischer Trugschluss.",
+      "Einerseits bringen Befürworter eines kompetenzorientierten Lehrplans durchaus berechtigte Einwände vor. Moderne Volkswirtschaften wandeln sich in rasantem Tempo, sodass spezifische technische Informationen, die heute erlernt werden, bereits innerhalb eines Jahrzehnts veraltet sein können. Folglich müssen Schülerinnen und Schüler zweifellos lernen, unbekannte Probleme zu analysieren, überzeugend zu kommunizieren und in vielfältigen Teams zusammenzuarbeiten. Ohne diese vielseitigen Fähigkeiten würde selbst der fleißigste Absolvent in der komplexen Arbeitswelt des einundzwanzigsten Jahrhunderts scheitern.",
+      "Andererseits belegt die Kognitionswissenschaft eindrucksvoll, dass höhere Denkfähigkeiten nicht in einem intellektuellen Vakuum gedeihen können. Man kann über ein Thema nicht kritisch nachdenken, über das man keinerlei Grundlagenwissen besitzt, noch lässt sich ein komplexes Problem lösen, ohne auf ein reiches Reservoir an Faktenwissen im Langzeitgedächtnis zurückzugreifen. Um beispielsweise die Glaubwürdigkeit eines Online-Artikels über den Klimawandel oder die öffentliche Gesundheit zu beurteilen, bedarf es eines soliden Verständnisses naturwissenschaftlicher Grundprinzipien und historischer Zusammenhänge.",
+      "Darüber hinaus birgt der Verzicht auf strukturierte Wissensvermittlung die Gefahr, soziale Ungleichheiten zu verschärfen. Während bildungsnahe Familien kulturelles Kapital und Allgemeinwissen oft zu Hause durch Bücher, Reisen und Gespräche vermitteln, sind benachteiligte Kinder stark auf öffentliche Schulen angewiesen, um dieses geistige Fundament zu erwerben. Letztendlich verbindet ein wirksames Bildungssystem anspruchsvolles Fachwissen untrennbar mit praktischer Kompetenzentwicklung. Vielen Dank."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-011-01",
+        "question": "Warum halten manche Kritiker das Auswendiglernen von Fakten in der Schule für veraltet?",
+        "reponses": [
+          { "id": "a", "texte": "Weil moderne Universitäten keine Aufnahmeprüfungen mehr verlangen.", "correcte": false },
+          { "id": "b", "texte": "Weil Schülerinnen und Schüler über Smartphones jederzeit Zugriff auf riesige Informationsmengen haben.", "correcte": true },
+          { "id": "c", "texte": "Weil Arbeitgeber Bewerber ohne formale Schulabschlüsse bevorzugen.", "correcte": false },
+          { "id": "d", "texte": "Weil sich naturwissenschaftliche Gesetze alle paar Monate vollständig ändern.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-011-02",
+        "question": "Welche Hauptthese vertritt der Redner hinsichtlich Wissen und Kompetenzen?",
+        "reponses": [
+          { "id": "a", "texte": "Theoretische Fächer sollten abgeschafft und durch reine Berufsausbildung ersetzt werden.", "correcte": false },
+          { "id": "b", "texte": "Traditionelles Auswendiglernen ist deutlich wertvoller als Teamfähigkeit oder Anpassungsfähigkeit.", "correcte": false },
+          { "id": "c", "texte": "Wissen und Kompetenzen sind keine Gegensätze, sondern bedingen einander untrennbar.", "correcte": true },
+          { "id": "d", "texte": "Digitale Medienkompetenz sollte erst an den Hochschulen unterrichtet werden.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-011-03",
+        "question": "Welches Argument für einen kompetenzorientierten Unterricht erkennt der Redner an?",
+        "reponses": [
+          { "id": "a", "texte": "Der schnelle wirtschaftliche Wandel erfordert anpassungsfähige Arbeitskräfte mit Problemlösungs- und Teamfähigkeit.", "correcte": true },
+          { "id": "b", "texte": "Jugendliche mögen Gruppenprojekte deutlich lieber als das Lesen von Lehrbüchern.", "correcte": false },
+          { "id": "c", "texte": "Die Bewertung praktischer Fähigkeiten fällt Lehrkräften leichter als die Korrektur von Klausuren.", "correcte": false },
+          { "id": "d", "texte": "Fachwissen war im beruflichen Alltag noch nie von praktischem Nutzen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-011-04",
+        "question": "Warum ist Hintergrundwissen laut der Kognitionswissenschaft unverzichtbar?",
+        "reponses": [
+          { "id": "a", "texte": "Es beeindruckt Personalverantwortliche bei ersten Vorstellungsgesprächen.", "correcte": false },
+          { "id": "b", "texte": "Es verhindert, dass Jugendliche während des Unterrichts im Internet surfen.", "correcte": false },
+          { "id": "c", "texte": "Es ersetzt die Notwendigkeit, im Berufsleben mit Kollegen zusammenzuarbeiten.", "correcte": false },
+          { "id": "d", "texte": "Kritisches Denken und Problemlösen setzen gespeichertes Faktenwissen als Grundlage voraus.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-011-05",
+        "question": "Was bedeutet die Formulierung „in einem intellektuellen Vakuum“ im dritten Absatz?",
+        "reponses": [
+          { "id": "a", "texte": "In völliger Isolierung von konkreten Fachinhalten und Vorwissen.", "correcte": true },
+          { "id": "b", "texte": "In einem ruhigen Klassenzimmer ohne digitale Ablenkungen.", "correcte": false },
+          { "id": "c", "texte": "In einer Lernumgebung, in der Fragen der Schüler verboten sind.", "correcte": false },
+          { "id": "d", "texte": "In einem Schulsystem ohne moderne Laborausstattung.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-011-06",
+        "question": "Wie könnte der Verzicht auf strukturierte Wissensvermittlung soziale Ungleichheiten verschärfen?",
+        "reponses": [
+          { "id": "a", "texte": "Wohlhabende Eltern würden ihre Kinder vollständig von öffentlichen Schulen abmelden.", "correcte": false },
+          { "id": "b", "texte": "Nur wohlhabende Schulen können sich Computer für den digitalen Unterricht leisten.", "correcte": false },
+          { "id": "c", "texte": "Benachteiligte Kinder sind auf Schulen für jenes Allgemeinwissen angewiesen, das privilegierte Familien zu Hause vermitteln.", "correcte": true },
+          { "id": "d", "texte": "Einkommensschwache Familien bevorzugen klassische Prüfungen gegenüber praktischen Workshops.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-011-07",
+        "question": "Was bedeutet das Substantiv „Trugschluss“ am Ende des ersten Absatzes?",
+        "reponses": [
+          { "id": "a", "texte": "Eine bewiesene wissenschaftliche Erkenntnis.", "correcte": false },
+          { "id": "b", "texte": "Eine irreführende Annahme oder fehlerhafte Schlussfolgerung.", "correcte": true },
+          { "id": "c", "texte": "Eine innovative Unterrichtsmethode.", "correcte": false },
+          { "id": "d", "texte": "Eine vorübergehende Haushaltskrise.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-011-08",
+        "question": "Welche Lösung schlägt der Redner zum Abschluss vor?",
+        "reponses": [
+          { "id": "a", "texte": "Den Schülern die freie Wahl zu lassen, ob sie lieber Fakten oder Kompetenzen lernen möchten.", "correcte": false },
+          { "id": "b", "texte": "Das Schuljahr zu verlängern, um beide Bereiche getrennt voneinander zu unterrichten.", "correcte": false },
+          { "id": "c", "texte": "Traditionelle Lehrkräfte durch Fachleute aus der Wirtschaft zu ersetzen.", "correcte": false },
+          { "id": "d", "texte": "Fundiertes Fachwissen und praktische Kompetenzen untrennbar im Lehrplan zu vereinen.", "correcte": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b012",
+    "titre": "Die Grenzen des traditionellen Bildungssystems",
+    "titre2": "Exercice b012",
+    "texte": [
+      "Professorin Bergmann: Wenn ich mir die aktuellen Schulabbrecherquoten ansehe, Markus, beschleicht mich das Gefühl, dass unser traditionelles Schulmodell die heutige Jugend kaum noch erreicht. Wir stützen uns noch immer auf einen Bauplan aus dem Industriezeitalter – standardisierte Lehrpläne, starre Altersklassen und frontale Belehrung –, um junge Menschen auf eine grundlegend gewandelte Welt vorzubereiten.",
+      "Markus: Da stimme ich dir voll und ganz zu, Sarah. Als Gymnasiallehrer erlebe ich täglich, wie wissbegierige Jugendliche abschalten, weil das System Einheitlichkeit über Individualität stellt. Wenn dreißig Schülerinnen und Schüler denselben Stoff im exakt gleichen Tempo durcharbeiten müssen, langweilen sich schnelle Lerner, während jene, die mehr Zeit bräuchten, dauerhaft den Anschluss verlieren. Infolgedessen weicht natürliche Neugier oft der Angst vor schlechten Noten.",
+      "Professorin Bergmann: Ganz genau. Hinzu kommt, dass die herkömmliche Schule Wissen in isolierte Fächer zerstückelt – fünfundvierzig Minuten Geschichte, abrupt gefolgt von Mathematik und anschließend Biologie –, als hielten sich reale gesellschaftliche Herausforderungen an Fachbereichsgrenzen. Tatsächlich erfordern Themen wie nachhaltige Stadtentwicklung oder die Ethik künstlicher Intelligenz vernetztes, fächerübergreifendes Denken.",
+"Markus: Ganz zu schweigen von der Überbetonung des Auswendiglernens und standardisierter Prüfungen. Jugendliche werden darauf trainiert, vorgegebene Antworten zu reproduzieren, statt eigene Fragen zu stellen oder aus konstruktiven Fehlern zu lernen. Unterläuft einem Schüler in einer Klassenarbeit ein Fehler, wird dieser als dauerhafter Makel im Zeugnis bestraft, obwohl Versuch und Irrtum doch die eigentliche Grundlage echten Verstehens bilden.",
+"Professorin Bergmann: Dennoch sollten wir das Kind nicht mit dem Bade ausschütten. Strukturierte Klassenzimmer bieten wichtige soziale Kontakte, Verlässlichkeit und gleichen Zugang zu qualifizierten Lehrkräften. Die Aufgabe besteht nicht darin, die öffentliche Schule abzuschaffen, sondern sie flexibler, individueller und forschungsorientierter zu gestalten.",
+"Markus: Treffend formuliert. Wenn wir unsere Methoden nicht an vielfältige Lernstile anpassen und intrinsische Motivation fördern, bereiten wir junge Menschen auf eine Welt vor, die es längst nicht mehr gibt."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-012-01",
+"question": "Welchen historischen Ursprung des traditionellen Schulsystems kritisiert Professorin Bergmann?",
+"reponses": [
+{ "id": "a", "texte": "Es stammt aus einer Zeit, in der digitale Medien den Unterricht vollständig dominierten.", "correcte": false },
+{ "id": "b", "texte": "Es wurde ursprünglich ausschließlich für wohlhabende Aristokraten entworfen.", "correcte": false },
+{ "id": "c", "texte": "Es basiert auf einem überholten Modell der Industriegesellschaft mit starren Vorgaben und Frontalunterricht.", "correcte": true },
+{ "id": "d", "texte": "Es räumt Jugendlichen zu viele Freiheiten bei der Wahl ihrer eigenen Stundenpläne ein.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-012-02",
+"question": "Was geschieht laut Markus, wenn alle Jugendlichen im gleichen Tempo lernen müssen?",
+"reponses": [
+{ "id": "a", "texte": "Die Klassenführung wird einfacher und die Prüfungsergebnisse verbessern sich überall.", "correcte": false },
+{ "id": "b", "texte": "Schnelle Lerner unterfordern sich und langweilen sich, während langsamere Schüler zurückbleiben.", "correcte": true },
+{ "id": "c", "texte": "Schüler gründen automatisch Lerngruppen, um einander nach dem Unterricht zu helfen.", "correcte": false },
+{ "id": "d", "texte": "Lehrkräfte haben deutlich mehr Zeit für individuelle Beratungsgespräche.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-012-03",
+"question": "Warum kritisiert Professorin Bergmann die strikte Trennung des Schultags in isolierte Einzelfächer?",
+"reponses": [
+{ "id": "a", "texte": "Weil fünfundvierzig Minuten zu lang sind, um sich auf ein einziges Thema zu konzentrieren.", "correcte": false },
+{ "id": "b", "texte": "Weil Geschichte und Biologie für moderne Berufe keine Bedeutung mehr haben.", "correcte": false },
+{ "id": "c", "texte": "Weil Lehrkräfte lieber sämtliche Fächer in derselben Schulklasse unterrichten würden.", "correcte": false },
+{ "id": "d", "texte": "Weil komplexe Gegenwartsprobleme nur durch fächerübergreifendes Denken gelöst werden können.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-012-04",
+"question": "Wie geht das traditionelle Bewertungssystem laut Markus mit Fehlern um?",
+"reponses": [
+{ "id": "a", "texte": "Es bestraft Fehler als dauerhafte Minuspunkte, statt sie als natürlichen Teil des Lernprozesses zu nutzen.", "correcte": true },
+{ "id": "b", "texte": "Es betrachtet Fehler als wertvolle Schritte hin zu tieferem Verständnis.", "correcte": false },
+{ "id": "c", "texte": "Es wertet Fehler als Hinweis darauf, dass die Lehrkraft den Stoff unklar erklärt hat.", "correcte": false },
+{ "id": "d", "texte": "Es erlaubt Schülern, jede Prüfung ohne Konsequenzen beliebig oft zu wiederholen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-012-05",
+"question": "Was bedeutet die Redewendung „das Kind nicht mit dem Bade ausschütten“ in Professorin Bergmanns Beitrag?",
+"reponses": [
+{ "id": "a", "texte": "Die frühkindliche Bildung aus dem staatlichen Schulsystem auszugliedern.", "correcte": false },
+{ "id": "b", "texte": "Die bewährten Stärken der Schule zu bewahren, während man ihre Schwächen reformiert.", "correcte": true },
+{ "id": "c", "texte": "Alle bestehenden öffentlichen Bildungseinrichtungen vollständig abzuschaffen.", "correcte": false },
+{ "id": "d", "texte": "Eltern die alleinige Verantwortung für den Hausunterricht ihrer Kinder zu übertragen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-012-06",
+"question": "Welche positiven Aufgaben strukturierter Schulen hebt Professorin Bergmann hervor?",
+"reponses": [
+{ "id": "a", "texte": "Strenge Disziplinarstrafen und landesweite Vergleichsarbeiten.", "correcte": false },
+{ "id": "b", "texte": "Wettbewerb zwischen den Schülern um begehrte Hochschulstipendien.", "correcte": false },
+{ "id": "c", "texte": "Soziale Begegnung, Verlässlichkeit und gerechten Zugang zu ausgebildeten Lehrkräften.", "correcte": true },
+{ "id": "d", "texte": "Einheitliche Schulkleidung zum Ausgleich sozialer Unterschiede.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-012-07",
+"question": "Was drückt das Verb „reproduzieren“ in Markus’ zweitem Redebeitrag aus?",
+"reponses": [
+{ "id": "a", "texte": "Kontroverse Theorien selbstbewusst und originell zu diskutieren.", "correcte": false },
+{ "id": "b", "texte": "Umfangreiche Romane in prägnanten Aufsätzen zusammenzufassen.", "correcte": false },
+{ "id": "c", "texte": "Gemeinsam mit Mitschülern naturwissenschaftliche Experimente zu entwerfen.", "correcte": false },
+{ "id": "d", "texte": "Auswendig gelernte Standardantworten mechanisch ohne tieferes Verständnis wiederzugeben.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-012-08",
+"question": "Worin stimmen beide Gesprächspartner abschließend überein?",
+"reponses": [
+{ "id": "a", "texte": "Die öffentliche Schule sollte komplett durch selbstgesteuerte Online-Kurse ersetzt werden.", "correcte": false },
+{ "id": "b", "texte": "Die Schule muss flexibler und schülerzentrierter werden, um auf die Gegenwart vorzubereiten.", "correcte": true },
+{ "id": "c", "texte": "Schulabbrecherquoten sinken nur, wenn die Abschlussanforderungen gesenkt werden.", "correcte": false },
+{ "id": "d", "texte": "Lehrkräfte sollten höhere Gehälter erhalten, bevor Lehrpläne geändert werden.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b013",
+"titre": "Kann der Fernunterricht den Präsenzunterricht ersetzen?",
+"titre2": "Exercice b013",
+"texte": [
+"Als Elena sich für einen berufsbegleitenden Online-Masterstudiengang im Bereich Umweltpolitik einschrieb, glaubte sie zunächst, das ideale Bildungsmodell entdeckt zu haben. Befreit vom erschöpfenden täglichen Pendeln durch eine verstopfte Großstadt konnte sie aufgezeichnete Vorlesungen an ihrem sonnigen Küchentisch verfolgen, während sie frisch gebrühten Kaffee trank. Im ersten Monat fühlte sich diese Flexibilität berauschend an. Wann immer ihr ein komplexes Wirtschaftsmodell Schwierigkeiten bereitete, pausierte sie einfach das Video, spulte zehn Sekunden zurück und wiederholte die Erklärung in ihrem eigenen Tempo. Zudem vereinte ihre virtuelle Studiengruppe Berufstätige aus vier Kontinenten, was die Forumsdiskussionen durch vielfältige globale Perspektiven bereicherte.",
+"Dennoch zeigten sich im Verlauf der düsteren Wintermonate feine Risse in ihrem digitalen Lernparadies. Ohne den physischen Rhythmus des Betretens eines Hörsaals verschwamm die Grenze zwischen akademischen Pflichten und privater Erholung allmählich. Aufschieberitis schlich sich unmerklich ein; das Ansehen aufgezeichneter Seminare wurde immer häufiger auf den späten Sonntagabend vertagt. Noch schwerer wog, dass Elena die spontane intellektuelle Lebendigkeit eines echten Seminarraums vermisste – die ungezwungenen Gespräche auf dem Flur nach einer anregenden Vorlesung oder das ermutigende Nicken eines Dozenten, der einen fragenden Blick sofort bemerkte.",
+"Der Wendepunkt kam während eines gemeinsamen Gruppenprojekts. Trotz Videokonferenzen, geteilter Dokumente und Sofortnachrichten erwies sich die Abstimmung über drei Zeitzonen hinweg als frustrierend unpersönlich. Missverständnisse verhärteten sich in schriftlichen Nachrichtenverläufen, und die Hälfte der Teilnehmenden ließ ihre Kameras ausgeschaltet, wodurch lebendige Menschen auf stumme schwarze Rechtecke reduziert wurden. An jenem Abend begriff Elena, was Bildungsforscher seit Langem betonen: Obwohl der Fernunterricht hervorragend geeignet ist, Bildungszugänge zu demokratisieren und flexible Zeitpläne zu ermöglichen, kann er die soziale Dynamik des Präsenzunterrichts nicht vollständig ersetzen. Bildung ist weit mehr als das Herunterladen digitaler Inhalte; sie ist ein zutiefst menschlicher Dialog, der auf Präsenz, gegenseitiger Verbindlichkeit und gemeinsamer Neugier beruht. Letztlich gelangte sie zu der Überzeugung, dass die Zukunft des Lernens in einem durchdachten Hybridmodell liegt, das digitale Flexibilität mit unersetzlicher persönlicher Begegnung verbindet."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-013-01",
+"question": "Welche Vorteile des Online-Studiums schätzte Elena im ersten Monat besonders?",
+"reponses": [
+{ "id": "a", "texte": "Deutlich niedrigere Studiengebühren und einen Studienabschluss in der halben Regelstudienzeit.", "correcte": false },
+{ "id": "b", "texte": "Tägliche Einzelbetreuung durch ihre Professorinnen und Professoren.", "correcte": false },
+{ "id": "c", "texte": "Den Wegfall des Pendelns, individuelles Lerntempo bei Videos und den Austausch mit internationalen Kommilitonen.", "correcte": true },
+{ "id": "d", "texte": "Das völlige Fehlen von Abgabefristen oder gemeinsamen Gruppenarbeiten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-013-02",
+"question": "Wie wirkte sich das Fehlen eines physischen Campus allmählich auf Elenas Lerngewohnheiten aus?",
+"reponses": [
+{ "id": "a", "texte": "Die Grenze zwischen Studium und Freizeit löste sich auf, sodass sie Vorlesungen immer weiter vor sich herschob.", "correcte": true },
+{ "id": "b", "texte": "Sie geriet in einen übertriebenen Konkurrenzkampf mit ihren internationalen Mitstudierenden.", "correcte": false },
+{ "id": "c", "texte": "Sie verbrachte zu viel Zeit damit, zu örtlichen Bibliotheken zu fahren, um ruhige Arbeitsplätze zu suchen.", "correcte": false },
+{ "id": "d", "texte": "Sie schloss alle Kurse Monate vor dem Termin ab und langweilte sich.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-013-03",
+"question": "Welche Elemente des klassischen Präsenzunterrichts begann Elena zu vermissen?",
+"reponses": [
+{ "id": "a", "texte": "Strenge Anwesenheitslisten und handschriftliche Klausuren auf Papier.", "correcte": false },
+{ "id": "b", "texte": "Große Hörsäle, in denen man anonym in der letzten Reihe sitzen konnte.", "correcte": false },
+{ "id": "c", "texte": "Gedruckte Lehrbücher und das Mittagessen in der Universitätsmensa.", "correcte": false },
+{ "id": "d", "texte": "Spontane Gespräche nach dem Seminar und unmittelbare nonverbale Rückmeldungen der Lehrenden.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-013-04",
+"question": "Warum empfand Elena das gemeinsame Gruppenprojekt als besonders frustrierend?",
+"reponses": [
+{ "id": "a", "texte": "Ihre Gruppenmitglieder weigerten sich, digitale Arbeitsprogramme zu verwenden.", "correcte": false },
+{ "id": "b", "texte": "Unterschiedliche Zeitzonen, schriftliche Missverständnisse und ausgeschaltete Kameras erschwerten die Zusammenarbeit.", "correcte": true },
+{ "id": "c", "texte": "Der Dozent vergab ein unfaires Thema ohne Bezug zur Umweltpolitik.", "correcte": false },
+{ "id": "d", "texte": "Häufige Internetausfälle verhinderten die rechtzeitige Abgabe ihrer Arbeit.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-013-05",
+"question": "Was bedeutet die Formulierung „Bildungszugänge zu demokratisieren“ im dritten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Studierende über die Lehrinhalte der Professoren abstimmen zu lassen.", "correcte": false },
+{ "id": "b", "texte": "Alle Universitäten zu identischen politischen Lehrplänen zu verpflichten.", "correcte": false },
+{ "id": "c", "texte": "Bildung unabhängig vom Wohnort für eine breitere, vielfältigere Bevölkerungsschicht zugänglich zu machen.", "correcte": true },
+{ "id": "d", "texte": "Prüfungsnoten abzuschaffen, damit jeder eingeschriebene Student automatisch besteht.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-013-06",
+"question": "Warum vergleicht der Text schweigende Kommilitonen mit „schwarzen Rechtecken“?",
+"reponses": [
+{ "id": "a", "texte": "Um zu verdeutlichen, wie ausgeschaltete Kameras menschliche Präsenz und Lebendigkeit nehmen.", "correcte": true },
+{ "id": "b", "texte": "Um die veraltete Benutzeroberfläche von Videokonferenzprogrammen zu kritisieren.", "correcte": false },
+{ "id": "c", "texte": "Um anzudeuten, dass die Studierenden heimlich Filme während der Sitzung ansahen.", "correcte": false },
+{ "id": "d", "texte": "Um zu zeigen, dass visuelle Hilfsmittel in Masterseminaren überflüssig sind.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-013-07",
+"question": "Wie definiert Elena gegen Ende der Geschichte das Wesen echter Bildung?",
+"reponses": [
+{ "id": "a", "texte": "Als effizientes Herunterladen von Fachvorträgen auf persönliche Endgeräte.", "correcte": false },
+{ "id": "b", "texte": "Als menschlichen Austausch, der auf Präsenz, gemeinsamer Verantwortung und Neugier basiert.", "correcte": true },
+{ "id": "c", "texte": "Als individuelle Leistung, die am besten in völliger Abgeschiedenheit gelingt.", "correcte": false },
+{ "id": "d", "texte": "Als bloße Voraussetzung für gut bezahlte Positionen im öffentlichen Dienst.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-013-08",
+"question": "Zu welcher Schlussfolgerung gelangt Elena am Ende über die Zukunft des Lernens?",
+"reponses": [
+{ "id": "a", "texte": "Online-Universitäten werden physische Hochschulen innerhalb von zehn Jahren vollständig verdrängen.", "correcte": false },
+{ "id": "b", "texte": "Fernunterricht sollte für Masterstudiengänge gesetzlich verboten werden.", "correcte": false },
+{ "id": "c", "texte": "Studierende sollten Online-Kurse ausschließlich während der Wintermonate belegen.", "correcte": false },
+{ "id": "d", "texte": "Ein Hybridmodell aus digitaler Flexibilität und persönlichem Austausch vor Ort ist am sinnvollsten.", "correcte": true }
+]
+}
+]
+},
+{
+"id": "b014",
+"titre": "Die Bedeutung der Förderung kritischen Denkens von klein auf",
+"titre2": "Exercice b014",
+"texte": [
+"Moderatorin: Guten Morgen, liebe Zuhörerinnen und Zuhörer. Heute sprechen wir in „Bildung aktuell“ mit dem Kognitionspsychologen Dr. Julian Mercer darüber, warum die Förderung kritischen Denkens bereits in der Grundschule zu einer dringenden Aufgabe geworden ist. Herr Dr. Mercer, viele glauben, kleine Kinder dächten noch zu konkret, um komplexe Argumente zu analysieren. Warum sollte man so früh damit beginnen?",
+"Dr. Mercer: Diese Annahme unterschätzt die natürliche Neugier von Kindern erheblich. Zwischen sechs und zehn Jahren fragen Kinder unaufhörlich „Warum?“ – doch der traditionelle Schulunterricht trainiert ihnen dieses Fragen oft ab und belohnt lediglich das Auswendiglernen „richtiger“ Standardantworten. Warten wir bis zur Universität, um kritisches Hinterfragen einzuführen, müssen wir jahrelang eingeübte passive Lerngewohnheiten mühsam wieder abbauen. Ein früher Beginn lehrt Kinder, dass Wissen keine starre Regelsammlung ist, sondern etwas, das erforscht und überprüft werden darf.",
+"Moderatorin: Angesichts der gewaltigen Flut an Fehlinformationen auf digitalen Plattformen: Wie schützt frühes kritisches Denken junge Lernende konkret?",
+"Dr. Mercer: Enorm. Heutige Kinder wachsen inmitten von Algorithmen auf, die die Grenze zwischen Journalismus, Unterhaltung und versteckter Werbung verwischen. Schon einfache Übungen im Klassenzimmer – etwa zwei widersprüchliche Darstellungen desselben Ereignisses zu vergleichen oder zu fragen: „Wer hat diese Botschaft verfasst und mit welcher Absicht?“ – verleihen Kindern eine intellektuelle Immunität. Statt ihnen vorzuschreiben, was sie denken sollen, zeigen wir ihnen, wie man Belege prüft und emotionale Manipulation erkennt.",
+"Moderatorin: Manche Eltern befürchten, dass Kinder durch ständiges Hinterfragen respektlos gegenüber Lehrkräften oder Familienregeln werden könnten. Was entgegnen Sie dieser Sorge?",
+"Dr. Mercer: Das ist ein verbreitetes Missverständnis. Kritisches Denken hat nichts mit Zynismus oder blindem Widerstand zu tun; es ist diszipliniertes, respektvolles Nachforschen. Tatsächlich werden Kinder, die in konstruktiver Argumentation geschult sind, zu besseren Zuhörern, weil sie fundierte Begründungen von bloßen Vorurteilen unterscheiden können. Letztendlich geht es nicht darum, Autorität zu untergraben, sondern urteilsfähige Bürgerinnen und Bürger heranzubilden, die eine lebendige Demokratie tragen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-014-01",
+"question": "Wie beeinflusst der herkömmliche Schulunterricht laut Dr. Mercer oft die natürliche Neugier von Kindern?",
+"reponses": [
+{ "id": "a", "texte": "Er überfordert sie mit philosophischen Debatten, bevor sie richtig lesen können.", "correcte": false },
+{ "id": "b", "texte": "Er erzieht sie dazu, weniger Fragen zu stellen und stattdessen vorgegebene Antworten auswendig zu lernen.", "correcte": true },
+{ "id": "c", "texte": "Er ermutigt sie, aggressiv mit ihren Mitschülerinnen und Mitschülern zu streiten.", "correcte": false },
+{ "id": "d", "texte": "Er erlaubt ihnen, Grundlagenfächer wie Mathematik und Rechtschreibung zu überspringen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-014-02",
+"question": "Warum spricht sich Dr. Mercer dagegen aus, kritisches Denken erst an der Universität zu vermitteln?",
+"reponses": [
+{ "id": "a", "texte": "Weil Universitätsprofessoren keine Ausbildung in Kognitionspsychologie besitzen.", "correcte": false },
+{ "id": "b", "texte": "Weil die meisten jungen Erwachsenen keine Hochschule besuchen.", "correcte": false },
+{ "id": "c", "texte": "Weil Studierende bis dahin bereits über viele Jahre hinweg passive Lerngewohnheiten verinnerlicht haben.", "correcte": true },
+{ "id": "d", "texte": "Weil die Lehrpläne der Grundschule ohnehin zu viel ungenutzte Zeit enthalten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-014-03",
+"question": "Wie können Grundschullehrkräfte Kindern beim Umgang mit Online-Fehlinformationen helfen?",
+"reponses": [
+{ "id": "a", "texte": "Indem sie Kinder verschiedene Sichtweisen vergleichen und nach Urheber sowie Absicht einer Nachricht fragen lassen.", "correcte": true },
+{ "id": "b", "texte": "Indem sie jeglichen Zugang zu Computern und Tablets bis zur Oberstufe verbieten.", "correcte": false },
+{ "id": "c", "texte": "Indem sie eine staatlich geprüfte Liste vertrauenswürdiger Webseiten auswendig lernen lassen.", "correcte": false },
+{ "id": "d", "texte": "Indem sie Kinder dazu anhalten, Nachrichtenartikel grundsätzlich zu ignorieren.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-014-04",
+"question": "Was bedeutet die Metapher „intellektuelle Immunität“ in Dr. Mercers zweiter Antwort?",
+"reponses": [
+{ "id": "a", "texte": "Die Befreiung von standardisierten Prüfungen in der Grundschule.", "correcte": false },
+{ "id": "b", "texte": "Widerstandsfähigkeit gegenüber konstruktiver Kritik von Lehrkräften und Eltern.", "correcte": false },
+{ "id": "c", "texte": "Ein außergewöhnliches Gedächtnis für naturwissenschaftliche Fachbegriffe.", "correcte": false },
+{ "id": "d", "texte": "Schutz davor, leichtgläubig auf Falschmeldungen oder emotionale Manipulation hereinzufallen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-014-05",
+"question": "Welche Befürchtung hegen manche Eltern hinsichtlich des kritischen Hinterfragens bei Kindern?",
+"reponses": [
+{ "id": "a", "texte": "Dass es zu schlechteren Noten in klassischen Rechtschreibtests führen könnte.", "correcte": false },
+{ "id": "b", "texte": "Dass Kinder dadurch respektlos gegenüber Erwachsenen und gesellschaftlichen Regeln werden könnten.", "correcte": true },
+{ "id": "c", "texte": "Dass es übermäßige Ängste vor globalen politischen Krisen auslöst.", "correcte": false },
+{ "id": "d", "texte": "Dass Lehrkräfte den Kindern ihre eigenen politischen Meinungen aufzwingen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-014-06",
+"question": "Wie grenzt Dr. Mercer kritisches Denken von Zynismus ab?",
+"reponses": [
+{ "id": "a", "texte": "Zynismus wird am Gymnasium gelehrt, kritisches Denken hingegen erst an der Hochschule.", "correcte": false },
+{ "id": "b", "texte": "Zynismus stützt sich auf wissenschaftliche Beweise, kritisches Denken auf Intuition.", "correcte": false },
+{ "id": "c", "texte": "Kritisches Denken ist diszipliniertes, respektvolles Prüfen statt bloßer Auflehnung oder Misstrauen.", "correcte": true },
+{ "id": "d", "texte": "Kritisches Denken vermeidet es, Autoritäten infrage zu stellen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-014-07",
+"question": "Warum werden kritisch geschulte Kinder laut dem Experten zu besseren Zuhörern?",
+"reponses": [
+{ "id": "a", "texte": "Weil sie lernen, stichhaltige Argumente von unbegründeten Vorurteilen zu unterscheiden.", "correcte": true },
+{ "id": "b", "texte": "Weil sie Angst davor haben, vor ihren Mitschülern korrigiert zu werden.", "correcte": false },
+{ "id": "c", "texte": "Weil sie dafür benotet werden, wie leise sie während des Unterrichts sitzen.", "correcte": false },
+{ "id": "d", "texte": "Weil sie lieber Erwachsenen zuhören, als selbst ihre Meinung zu äußern.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-014-08",
+"question": "Welchen übergeordneten gesellschaftlichen Nutzen verbindet Dr. Mercer mit frühem kritischem Denken?",
+"reponses": [
+{ "id": "a", "texte": "Schnelleres Wirtschaftswachstum im Technologiesektor.", "correcte": false },
+{ "id": "b", "texte": "Die Senkung der staatlichen Ausgaben für öffentliche Universitäten.", "correcte": false },
+{ "id": "c", "texte": "Die Beseitigung sämtlicher Meinungsverschiedenheiten in öffentlichen Debatten.", "correcte": false },
+{ "id": "d", "texte": "Die Stärkung der Demokratie durch selbstständige, urteilsfähige Bürgerinnen und Bürger.", "correcte": true }
+]
+}
+]
+},
+{
+"id": "b015",
+"titre": "Bildungsungleichheiten und ihre Folgen für die Zukunft",
+"titre2": "Exercice b015",
+"texte": [
+"Bildung wird gemeinhin als der entscheidende soziale Aufzug gepriesen – als unparteiische Institution, die Talent und Fleiß unabhängig von der sozialen Herkunft eines Kindes belohnt. In der Theorie betritt jedes Kind das Klassenzimmer mit denselben Chancen auf Entfaltung. In der Praxis jedoch verwandeln anhaltende Bildungsungleichheiten Schulen häufig von Motoren sozialer Mobilität in Mechanismen, die bestehende Klassenunterschiede verfestigen. Wenn der Zugang zu hochwertigem Unterricht maßgeblich von der Postleitzahl und dem Haushaltseinkommen abhängt, reichen die Folgen weit über einzelne Zeugnisse hinaus und gefährden den langfristigen Zusammenhalt ganzer Gesellschaften.",
+"Die Ursachen von Bildungsdisparitäten sind vielschichtig und zeigen sich lange vor dem ersten Schultag. Kinder aus wohlhabenden Haushalten profitieren meist von anregenden frühkindlichen Lernumgebungen, privater Nachhilfe, stabilen Internetzugängen und außerschulischer Förderung. Im Gegensatz dazu kämpfen unterfinanzierte Schulen in benachteiligten Stadtteilen häufig mit überfüllten Klassen, veralteten Lehrmitteln und chronischem Lehrkräftemangel. Folglich müssen benachteiligte Schülerinnen und Schüler ungleich größere Anstrengungen unternehmen, um überhaupt erst jene Startlinie zu erreichen, die für wohlhabendere Gleichaltrige selbstverständlich ist.",
+"Darüber hinaus potenzieren sich die Auswirkungen dieser ungleichen Ausgangsbedingungen im Laufe eines Lebens dramatisch. Geringere Bildungsabschlüsse schränken den Zugang zu renommierten Hochschulen und zukunftssicheren Berufen ein, wodurch nachfolgende Generationen in einem Kreislauf prekärer Beschäftigung und niedrigerer Lebenserwartung gefangen bleiben. Auf gesamtwirtschaftlicher Ebene bedeutet die mangelnde Förderung einkommensschwacher Jugendlicher eine immense Verschwendung menschlichen Potenzials. Staaten berauben sich künftiger Wissenschaftler, Innovatoren und Führungskräfte, nur weil diesen in ihren prägenden Jahren angemessene Ressourcen fehlten.",
+"Dennoch ist Bildungsungleichheit weder unvermeidlich noch unumkehrbar. Länder, denen es gelungen ist, Leistungsunterschiede erfolgreich zu verringern, belegen, dass gezielte öffentliche Investitionen – etwa flächendeckende frühkindliche Förderung, bedarfsgerechte Schulfinanzierung und Anreize für erfahrene Lehrkräfte in sozial benachteiligten Gebieten – tiefgreifende gesellschaftliche Erträge bringen. Letztlich ist echte Chancengleichheit im Bildungswesen nicht bloß eine moralische Pflicht, sondern eine pragmatische Investition in eine gerechtere und stabilere Zukunft."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-015-01",
+"question": "Welchen Widerspruch hebt der Autor im ersten Absatz hervor?",
+"reponses": [
+{ "id": "a", "texte": "Den Unterschied zwischen ländlichen Landwirtschaftsschulen und städtischen Fachakademien.", "correcte": false },
+{ "id": "b", "texte": "Die Debatte zwischen Gymnasiallehrkräften und Universitätsverwaltungen.", "correcte": false },
+{ "id": "c", "texte": "Das Ideal der Bildung als gerechter Aufstiegschance gegenüber der Realität verfestigter sozialer Unterschiede.", "correcte": true },
+{ "id": "d", "texte": "Den Vergleich zwischen Alphabetisierungsraten des 19. Jahrhunderts und modernen Testergebnissen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-015-02",
+"question": "Mit welchen Problemen kämpfen unterfinanzierte Schulen in benachteiligten Vierteln häufig?",
+"reponses": [
+{ "id": "a", "texte": "Überfüllte Klassenzimmer, überholte Unterrichtsmaterialien und ein dauerhafter Mangel an Lehrkräften.", "correcte": true },
+{ "id": "b", "texte": "Übermäßige Hausaufgaben und zu strenge Aufnahmeprüfungen.", "correcte": false },
+{ "id": "c", "texte": "Verpflichtender Wochenendunterricht und teure Schuluniformen.", "correcte": false },
+{ "id": "d", "texte": "Ein Überschuss an digitalen Geräten ohne ausreichende Stromversorgung.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-015-03",
+"question": "Was impliziert die Aussage, benachteiligte Schüler müssten härter arbeiten, „um überhaupt erst jene Startlinie zu erreichen“?",
+"reponses": [
+{ "id": "a", "texte": "Sie müssen längere Schulwege zu Fuß zurücklegen als ihre Mitschüler.", "correcte": false },
+{ "id": "b", "texte": "Sie müssen strukturelle Nachteile überwinden, um nur das Ausgangsniveau privilegierter Kinder zu erlangen.", "correcte": true },
+{ "id": "c", "texte": "Sie müssen vor der Einschulung zusätzliche Aufnahmeprüfungen ablegen.", "correcte": false },
+{ "id": "d", "texte": "Sie verbringen mehr Stunden im Sportunterricht als in akademischen Fächern.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-015-04",
+"question": "Wie schaden Bildungsungleichheiten der gesamten Gesellschaft laut dem dritten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Sie lassen Studiengebühren für Familien der Mittelschicht rasant ansteigen.", "correcte": false },
+{ "id": "b", "texte": "Sie zwingen Regierungen zu Steuererhöhungen für kleine Handwerksbetriebe.", "correcte": false },
+{ "id": "c", "texte": "Sie führen zu überfüllten Universitäten, die Absolventen nicht mehr unterbringen können.", "correcte": false },
+{ "id": "d", "texte": "Sie verschwenden wertvolle Talente und berauben Länder künftiger Wissenschaftler und Innovatoren.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-015-05",
+"question": "Was bedeutet das Adjektiv „prekär“ in der Wendung „prekärer Beschäftigung“ im dritten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Unsicher, schlecht bezahlt und ohne langfristige Stabilität.", "correcte": true },
+{ "id": "b", "texte": "Hochspezialisiert und gesellschaftlich angesehen.", "correcte": false },
+{ "id": "c", "texte": "Umweltfreundlich und in Teilzeit organisiert.", "correcte": false },
+{ "id": "d", "texte": "Streng durch Gewerkschaften reguliert.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-015-06",
+"question": "Welche politische Maßnahme nennt der Autor als wirksam zur Verringerung von Leistungsunterschieden?",
+"reponses": [
+{ "id": "a", "texte": "Die Privatisierung aller öffentlichen Sekundarschulen in einkommensschwachen Bezirken.", "correcte": false },
+{ "id": "b", "texte": "Den Ersatz menschlicher Lehrkräfte durch automatisierte Online-Lernplattformen.", "correcte": false },
+{ "id": "c", "texte": "Flächendeckende frühkindliche Förderung und Anreize für erfahrene Lehrkräfte in benachteiligten Regionen.", "correcte": true },
+{ "id": "d", "texte": "Die strikte Trennung von Kindern nach Testergebnissen ab dem fünften Lebensjahr.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-015-07",
+"question": "Was bedeutet das Substantiv „Zusammenhalt“ im ersten Absatz („den langfristigen Zusammenhalt ganzer Gesellschaften“)?",
+"reponses": [
+{ "id": "a", "texte": "Strenge Unterordnung unter staatliche Überwachungsgesetze.", "correcte": false },
+{ "id": "b", "texte": "Solidarität, gegenseitiges Vertrauen und innere Verbundenheit der Bürger.", "correcte": true },
+{ "id": "c", "texte": "Rasche Verstädterung ländlicher Landwirtschaftsregionen.", "correcte": false },
+{ "id": "d", "texte": "Wirtschaftlicher Wettbewerb zwischen verschiedenen sozialen Schichten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-015-08",
+"question": "Wie bewertet der Autor Investitionen in Chancengleichheit im letzten Satz des Essays?",
+"reponses": [
+{ "id": "a", "texte": "Als idealistisches Wohltätigkeitsprojekt mit ungewissem wirtschaftlichem Nutzen.", "correcte": false },
+{ "id": "b", "texte": "Als vorübergehende Maßnahme, bis Automatisierung einfache Arbeit ersetzt.", "correcte": false },
+{ "id": "c", "texte": "Als alleinige Aufgabe privater Stiftungen statt staatlicher Institutionen.", "correcte": false },
+{ "id": "d", "texte": "Sowohl als moralische Verpflichtung als auch als kluge Investition in gesellschaftliche Stabilität.", "correcte": true }
+]
+}
+]
+},
+{
+    "id": "b016",
+    "titre": "Sollten die Bewertungsmethoden für Schülerinnen und Schüler reformiert werden?",
+    "titre2": "Exercice b016",
+    "texte": [
+      "Sehr geehrte Damen und Herren, geschätzte Pädagoginnen und Pädagogen, liebe Eltern,",
+      "seit über einem Jahrhundert gelten standardisierte Prüfungen und Ziffernnoten als unangefochtene Währung schulischer Leistung. Jedes Frühjahr sitzen Millionen Jugendliche in stillen Turnhallen und kämpfen gegen die Uhr, um jahrelange geistige Entwicklung innerhalb eines starren Zeitfensters von drei Stunden unter Beweis zu stellen. Doch je weiter sich unsere Erkenntnisse über die menschliche Kognition und die Anforderungen moderner Arbeitswelten entwickeln, desto deutlicher tritt eine unbequeme Wahrheit zutage: Herkömmliche Prüfungsformate messen häufig bloße Anpassungsbereitschaft und kurzfristiges Auswendiglernen statt echten Verständnisses oder intellektueller Neugier.",
+      "Einerseits heben Befürworter klassischer Tests zu Recht die Bedeutung von Objektivität und Vergleichbarkeit hervor. Standardisierte Klausuren bieten Hochschulen und Arbeitgebern einen einheitlichen Maßstab, um Bewerberinnen und Bewerber aus unterschiedlichsten Regionen und sozialen Verhältnissen fair einzuschätzen. Ohne klare, messbare Kriterien könnten Auswahlverfahren leicht subjektiven Vorurteilen oder persönlicher Günstlingswirtschaft erliegen. Mit anderen Worten: Noten liefern ein praktisches, transparentes Raster, um große Jahrgänge effizient einzuordnen.",
+      "Andererseits zieht die einseitige Fixierung auf entscheidende Abschlussprüfungen gravierende unbeabsichtigte Folgen nach sich. Wenn die gesamte akademische Zukunft eines jungen Menschen von einer einzigen Prüfungsnote abhängt, steigt die Versagensangst sprunghaft an und echtes Lernen verkommt zu strategischem Pauken. Sobald die Klausur geschrieben ist, verflüchtigt sich ein Großteil des auswendig gelernten Stoffes innerhalb weniger Wochen. Zudem erfassen traditionelle Papierprüfungen kaum jene Schlüsselkompetenzen des einundzwanzigsten Jahrhunderts – etwa kooperatives Problemlösen, mündliche Überzeugungskraft, Belastbarkeit in unsicheren Situationen und kreative Synthese. Infolgedessen werden viele hochbegabte Lernende, die unter künstlichem Zeitdruck blockieren, zu Unrecht als leistungsschwach abgestempelt.",
+      "Eine Reform der Leistungsbewertung bedeutet keineswegs den Verzicht auf fachlichen Anspruch; vielmehr verlangt sie eine Erweiterung unseres pädagogischen Instrumentariums. Fortschrittliche Bildungssysteme belegen bereits den hohen Wert von Lernportfolios, projektbezogenen Bewertungen und kontinuierlichem formativem Feedback, das Jugendliche noch während des Lernprozesses begleitet, statt sie erst an der Ziellinie zu beurteilen. Wenn Schulen tiefgründige Denker statt gestresster Prüfungskandidaten hervorbringen sollen, müssen wir unsere Prüfungsformen neu gestalten. Vielen Dank."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-016-01",
+        "question": "Welchen grundlegenden Mangel stellt der Redner bei traditionellen standardisierten Prüfungen fest?",
+        "reponses": [
+          { "id": "a", "texte": "Sie sind für öffentliche Schulträger finanziell kaum noch zu bewältigen.", "correcte": false },
+          { "id": "b", "texte": "Sie bevorzugen Jugendliche, die mündliche Vorträge gegenüber schriftlichen Arbeiten vorziehen.", "correcte": false },
+          { "id": "c", "texte": "Sie belohnen oft kurzfristiges Auswendiglernen und Gehorsam statt tiefen Verständnisses.", "correcte": true },
+          { "id": "d", "texte": "Ihre Korrektur nimmt für Lehrkräfte zu viele Wochen in Anspruch.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-016-02",
+        "question": "Welchen berechtigten Vorteil herkömmlicher Tests erkennt der Redner im zweiten Absatz an?",
+        "reponses": [
+          { "id": "a", "texte": "Sie beseitigen Prüfungsangst vor Bewerbungen an Hochschulen vollständig.", "correcte": false },
+          { "id": "b", "texte": "Sie sorgen dafür, dass erlerntes Wissen auch Jahre nach dem Abschluss dauerhaft erhalten bleibt.", "correcte": false },
+          { "id": "c", "texte": "Sie machen schriftliche Rückmeldungen der Lehrkräfte während des Schuljahres überflüssig.", "correcte": false },
+          { "id": "d", "texte": "Sie bieten einen objektiven, einheitlichen Maßstab für faire Vergleiche zwischen Kandidaten.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-016-03",
+        "question": "Was geschieht laut dem Text, wenn die Zukunft junger Menschen stark von einer einzigen Prüfung abhängt?",
+        "reponses": [
+          { "id": "a", "texte": "Ängste nehmen stark zu und Lernen reduziert sich auf oberflächliches Pauken, das rasch vergessen wird.", "correcte": true },
+          { "id": "b", "texte": "Schülerinnen und Schüler arbeiten enger zusammen, um Lernmaterialien auszutauschen.", "correcte": false },
+          { "id": "c", "texte": "Universitäten senken ihre Zulassungsbedingungen für nervöse Bewerber.", "correcte": false },
+          { "id": "d", "texte": "Lehrkräfte verzichten in den letzten Schulmonaten komplett auf Hausaufgaben.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-016-04",
+        "question": "Welche Kompetenzen werden durch klassische Papierklausuren kaum erfasst?",
+        "reponses": [
+          { "id": "a", "texte": "Rechtschreibsicherheit und grundlegende Rechenfertigkeiten.", "correcte": false },
+          { "id": "b", "texte": "Teamarbeit, mündliche Kommunikation, Anpassungsfähigkeit und kreative Verknüpfung.", "correcte": true },
+          { "id": "c", "texte": "Lesegeschwindigkeit und das Befolgen präziser schriftlicher Arbeitsanweisungen.", "correcte": false },
+          { "id": "d", "texte": "Die Kenntnis historischer Jahreszahlen und naturwissenschaftlicher Formeln.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-016-05",
+        "question": "Was bedeutet das Substantiv „Günstlingswirtschaft“ im zweiten Absatz?",
+        "reponses": [
+          { "id": "a", "texte": "Staatliche Finanzhilfen für leistungsschwache öffentliche Schulen.", "correcte": false },
+          { "id": "b", "texte": "Sparsame Haushaltsführung durch kommunale Bildungsbehörden.", "correcte": false },
+          { "id": "c", "texte": "Unfaire Bevorzugung bestimmter Personen aufgrund persönlicher Beziehungen statt Leistung.", "correcte": true },
+          { "id": "d", "texte": "Wirtschaftlicher Wettbewerb zwischen privaten Nachhilfeinstituten.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-016-06",
+        "question": "Wodurch unterscheidet sich „formatives Feedback“ von klassischen Abschlussprüfungen?",
+        "reponses": [
+          { "id": "a", "texte": "Es erstellt landesweite Ranglisten aller Schülerinnen und Schüler.", "correcte": false },
+          { "id": "b", "texte": "Es wird vollautomatisch durch künstliche Intelligenz berechnet.", "correcte": false },
+          { "id": "c", "texte": "Es beschränkt sich ausschließlich auf sportliche und künstlerische Fächer.", "correcte": false },
+          { "id": "d", "texte": "Es unterstützt Lernende bereits während des Lernprozesses, statt sie erst am Ende zu bewerten.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-016-07",
+        "question": "Was betont der Redner hinsichtlich einer Reform der Leistungsbewertung?",
+        "reponses": [
+          { "id": "a", "texte": "Sie wahrt hohe fachliche Standards, erweitert aber die Möglichkeiten, Können zu zeigen.", "correcte": true },
+          { "id": "b", "texte": "Sie verlangt die sofortige Abschaffung jeglicher Noten und Leistungsnachweise.", "correcte": false },
+          { "id": "c", "texte": "Sie sollte ausschließlich in Grundschulen und niemals an Hochschulen umgesetzt werden.", "correcte": false },
+          { "id": "d", "texte": "Sie lässt sich nur durch eine Verdoppelung des nationalen Bildungshaushalts finanzieren.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-016-08",
+        "question": "Welches übergeordnete Ziel verfolgt der Redner mit seiner Forderung nach einer Prüfungsreform?",
+        "reponses": [
+          { "id": "a", "texte": "Das Schuljahr durch die Streichung sämtlicher Frühjahrsprüfungen zu verkürzen.", "correcte": false },
+          { "id": "b", "texte": "Selbstständige Denker heranzubilden statt verängstigter Prüfungskandidaten.", "correcte": true },
+          { "id": "c", "texte": "Die Vergabe von Studienplätzen künftig per Losverfahren zu regeln.", "correcte": false },
+          { "id": "d", "texte": "Die wöchentliche Arbeitsbelastung von Sekundarschullehrkräften zu halbieren.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b017",
+    "titre": "Sollte die Bildung der Kreativität mehr Bedeutung beimessen?",
+    "titre2": "Exercice b017",
+    "texte": [
+      "Clara: Ich habe mir gerade die geplanten Haushaltskürzungen für unsere Sekundarschulen angesehen, Liam, und bin fassungslos. Sobald die Mittel knapp werden, stehen bildende Kunst, Theater und Musik als Erste auf der Streichliste, als wäre Kreativität bloß eine verzichtbare Dekoration statt einer grundlegenden geistigen Fähigkeit.",
+      "Liam: Ich teile deine Enttäuschung, Clara, auch wenn ich nachvollziehen kann, warum Schulträger unter Druck stehen. Eltern und Bildungspolitiker bewerten Schulen in erster Linie nach ihren Ergebnissen in Mathematik und Lesekompetenz. Folglich gehen Schulleitungen davon aus, dass die Konzentration aller verfügbaren Ressourcen auf Kernfächer die sicherste Investition in die Berufschancen der Absolventen darstellt.",
+      "Clara: Doch genau diese Denkweise zeugt von einem tiefgreifenden Missverständnis der modernen Arbeitswelt. Routinemäßige Analyseaufgaben und einfache Programmierung werden zunehmend von künstlicher Intelligenz übernommen. Was Maschinen jedoch nicht ersetzen können, ist echte Originalität – die Fähigkeit, scheinbar unzusammenhängende Konzepte zu verknüpfen, neuartige Lösungen zu entwerfen und divergent zu denken. Indem wir kreative Fächer an den Rand drängen, berauben wir Jugendliche genau jener Stärken, die sie künftig unersetzlich machen.",
+"Liam: Das ist ein überzeugendes Argument. Zudem beschränkt sich Kreativität keineswegs auf das Bemalen von Leinwänden oder das Komponieren von Sinfonien. Ein Physiker, der eine unkonventionelle Hypothese aufstellt, oder eine Unternehmerin, die ein nachhaltiges Geschäftsmodell entwickelt, stützt sich maßgeblich auf schöpferische Vorstellungskraft. Tragischerweise erziehen traditionelle Klassenzimmer Kinder oft weg vom offenen Denken, indem sie darauf beharren, dass es für jedes Problem nur eine einzige vorbestimmte Lösung gebe.",
+"Clara: Ganz genau! Selbst im Geschichts- oder Naturwissenschaftsunterricht ließe sich Kreativität fördern, indem Lehrkräfte offene Fragestellungen zulassen, intellektuelle Risikobereitschaft belohnen und Schülern erlauben, eigene Forschungsprojekte zu konzipieren. Wenn Lernende Raum zum Experimentieren ohne Angst vor sofortigem Scheitern erhalten, steigt ihr Engagement sprunghaft an.",
+"Liam: Du hast mich überzeugt. Statt Kreativität als Luxus für den Freitagnachmittag zu behandeln, müssen Schulen schöpferisches Denken im Herzen jedes einzelnen Unterrichtsfachs verankern."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-017-01",
+"question": "Warum ist Clara über den vorgeschlagenen Schulhaushalt empört?",
+"reponses": [
+{ "id": "a", "texte": "Lehrkräfte für Mathematik verdienen deutlich weniger als Kunstlehrer.", "correcte": false },
+{ "id": "b", "texte": "Mehrere Stadtteilschulen sollen aus Kostengründen geschlossen werden.", "correcte": false },
+{ "id": "c", "texte": "Künstlerische Fächer werden zuerst gekürzt, wodurch Kreativität als unwichtig abgetan wird.", "correcte": true },
+{ "id": "d", "texte": "Jugendliche müssen künftig alle Musikinstrumente und Lehrbücher selbst kaufen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-017-02",
+"question": "Wie erklärt Liam zunächst die Entscheidung der Schulbehörden?",
+"reponses": [
+{ "id": "a", "texte": "Die Behördenmitglieder hegen eine persönliche Abneigung gegen Theater und bildende Kunst.", "correcte": false },
+{ "id": "b", "texte": "Nur sehr wenige Jugendliche melden sich freiwillig für Musik- oder Kunstkurse an.", "correcte": false },
+{ "id": "c", "texte": "Kunstprogramme erfordern teure Sicherheitsausrüstung, die nicht versichert werden kann.", "correcte": false },
+{ "id": "d", "texte": "Schulen werden vorrangig an Leistungen in Mathematik und Lesen gemessen, weshalb diese Fächer Vorrang erhalten.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-017-03",
+"question": "Warum ist Kreativität laut Clara für die berufliche Zukunft junger Menschen unverzichtbar?",
+"reponses": [
+{ "id": "a", "texte": "Weil künstliche Intelligenz Routinearbeit übernimmt und menschliche Originalität besonders wertvoll macht.", "correcte": true },
+{ "id": "b", "texte": "Weil künftig die meisten Arbeitsplätze in der Unterhaltungs- und Modebranche entstehen.", "correcte": false },
+{ "id": "c", "texte": "Weil Arbeitgeber bei Vorstellungsgesprächen nicht mehr auf Schul- oder Studienabschlüsse achten.", "correcte": false },
+{ "id": "d", "texte": "Weil kreative Berufe grundsätzlich höhere Einstiegsgehälter bieten als Ingenieurberufe.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-017-04",
+"question": "Wie erweitert Liam in seinem zweiten Beitrag das Verständnis von Kreativität?",
+"reponses": [
+{ "id": "a", "texte": "Er behauptet, dass Mannschaftssport mehr Fantasie verlangt als das Malen.", "correcte": false },
+{ "id": "b", "texte": "Er zeigt, dass schöpferisches Denken auch für wissenschaftliche Entdeckungen und Unternehmertum entscheidend ist.", "correcte": true },
+{ "id": "c", "texte": "Er meint, Kreativität sei eine angeborene Eigenschaft, die man nicht erlernen könne.", "correcte": false },
+{ "id": "d", "texte": "Er erklärt, dass nur Universitätsprofessoren divergent denken müssten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-017-05",
+"question": "Was bedeutet die Wendung „auf der Streichliste stehen“ in Claras erstem Redebeitrag?",
+"reponses": [
+{ "id": "a", "texte": "In einen neu renovierten Gebäudeflügel der Schule verlegt werden.", "correcte": false },
+{ "id": "b", "texte": "Als besonders förderungswürdiges Leuchtturmprojekt ausgezeichnet werden.", "correcte": false },
+{ "id": "c", "texte": "Zur Abschaffung oder starken Kürzung vorgesehen sein.", "correcte": true },
+{ "id": "d", "texte": "Mit handwerklichen Werkkursen zusammengelegt werden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-017-06",
+"question": "Wodurch unterdrücken traditionelle Klassenzimmer laut Liam ungewollt die Kreativität?",
+"reponses": [
+{ "id": "a", "texte": "Indem sie Jugendlichen erlauben, ihre Unterrichtsthemen frei auszuwählen.", "correcte": false },
+{ "id": "b", "texte": "Indem sie pro Halbjahr zu viele Gruppenprojekte verlangen.", "correcte": false },
+{ "id": "c", "texte": "Indem sie Jugendliche ermutigen, kontroverse gesellschaftliche Fragen zu debattieren.", "correcte": false },
+{ "id": "d", "texte": "Indem sie auf genau einer vorbestimmten richtigen Antwort für jedes Problem bestehen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-017-07",
+"question": "Wie können Lehrkräfte laut Clara Kreativität auch in nicht-künstlerischen Fächern fördern?",
+"reponses": [
+{ "id": "a", "texte": "Durch offene Fragestellungen, Mut zum geistigen Risiko und eigene Schülerforschungsprojekte.", "correcte": true },
+{ "id": "b", "texte": "Durch den Ersatz von Geschichtsbüchern durch illustrierte Comics.", "correcte": false },
+{ "id": "c", "texte": "Durch die Abschaffung schriftlicher Aufgaben zugunsten reiner mündlicher Mitarbeit.", "correcte": false },
+{ "id": "d", "texte": "Durch die Einladung professioneller Schauspieler in den Naturwissenschaftsunterricht.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-017-08",
+"question": "Zu welchem gemeinsamen Fazit gelangen Clara und Liam am Ende des Gesprächs?",
+"reponses": [
+{ "id": "a", "texte": "Schulen sollten freitags den Mathematikunterricht streichen, um Platz für Theater zu schaffen.", "correcte": false },
+{ "id": "b", "texte": "Kreativität muss fächerübergreifend gefördert werden statt als nebensächlicher Zusatz zu gelten.", "correcte": true },
+{ "id": "c", "texte": "Eltern sollten Kunstkurse privat außerhalb der regulären Schulzeit finanzieren.", "correcte": false },
+{ "id": "d", "texte": "Haushaltskürzungen sind unvermeidbar und schaden der Lernmotivation kaum.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b018",
+"titre": "Die Vorteile und Grenzen zweisprachiger Bildung",
+"titre2": "Exercice b018",
+"texte": [
+"Als Sofia und ihr Ehemann beschlossen, ihren siebenjährigen Sohn Leo an einer deutsch-englischen Immersionsschule in Wien anzumelden, erwarteten sie einen mühelosen sprachlichen Triumph. Da sie ausführlich über die kognitiven Vorzüge der Zweisprachigkeit gelesen hatten – gesteigerte exekutive Funktionen, höhere geistige Flexibilität und ausgeprägte kulturelle Empathie –, stellten sie sich vor, wie Leo binnen weniger Monate nahtlos zwischen beiden Sprachen wechseln würde. In seinem ersten Schuljahr erwies sich die Wirklichkeit jedoch als deutlich vielschichtiger, als es die Hochglanzbroschüren der Schule nahegelegt hatten.",
+"Anfangs kam Leo oft erschöpft und gelegentlich frustriert nach Hause. Grundlegende Konzepte der Mathematik und Sachkunde in einer Sprache zu begreifen, die er sich erst noch aneignete, verlangte enorme geistige Ausdauer. Mehrere Monate lang schien sein deutscher Wortschatz leicht hinter dem seiner einsprachigen Altersgenossen zurückzubleiben, was besorgte Nachfragen wohlmeinender Verwandter auslöste. Sie befürchteten, der zweisprachige Unterricht könne ihn verwirren oder seine allgemeine schulische Entwicklung bremsen. Selbst Sofia fragte sich vorübergehend, ob sie ihrem Kind eine unnötige Last aufgebürdet hatten.",
+"Dennoch vollzog sich bis zum Ende seines dritten Schuljahres eine bemerkenswerte Verwandlung. Nicht nur übertraf Leos Leseverständnis in seiner Muttersprache inzwischen die Erwartungen seiner Klassenstufe, sondern er entwickelte auch eine verblüffende Fähigkeit, die Bedeutung unbekannter Wörter durch den Vergleich sprachlicher Wurzeln in beiden Sprachen zu erschließen. Als Sofia beobachtete, wie er im Sommer in einem Wiener Café mühelos für einen verirrten Touristen übersetzte, erlebte sie unmittelbar, wie die Zweisprachigkeit seinen Horizont weit über bloßes Vokabelwissen hinaus erweiterte. Zugleich erkannte sie jedoch die strukturellen Grenzen solcher Programme: Ohne regelmäßigen Kontakt außerhalb des Klassenzimmers erreichen viele Lernende kaum echte Sprachflüssigkeit, und begrenzte Platzkapazitäten beschränken Immersionsschulen oft auf privilegierte Stadtviertel. Letztlich begriff Sofia, dass zweisprachige Bildung zwar Geduld während ihrer anspruchsvollen Anfangsphase erfordert, ihre langfristigen geistigen und interkulturellen Gewinne die anfänglichen Wachstumsschmerzen jedoch bei Weitem aufwiegen – vorausgesetzt, Gesellschaften machen solche Angebote allen Kindern zugänglich."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-018-01",
+"question": "Was bewog Sofia und ihren Mann dazu, eine zweisprachige Immersionsschule für Leo zu wählen?",
+"reponses": [
+{ "id": "a", "texte": "Die Tatsache, dass die Immersionsschule deutlich näher an ihrem Wohnort lag als andere Schulen.", "correcte": false },
+{ "id": "b", "texte": "Ihr Plan, im kommenden Jahr dauerhaft in ein englischsprachiges Land umzuziehen.", "correcte": false },
+{ "id": "c", "texte": "Studien über kognitive Vorteile wie geistige Beweglichkeit und interkulturelles Einfühlungsvermögen.", "correcte": true },
+{ "id": "d", "texte": "Eine Vorgabe ihrer Arbeitgeber, ihr Kind zweisprachig zu erziehen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-018-02",
+"question": "Warum war Leo während seines ersten Schuljahres häufig müde und frustriert?",
+"reponses": [
+{ "id": "a", "texte": "Seine Mitschüler weigerten sich, in den Pausen mit ihm zu sprechen.", "correcte": false },
+{ "id": "b", "texte": "Der Schultag war zwei Stunden länger als an herkömmlichen Grundschulen.", "correcte": false },
+{ "id": "c", "texte": "Seine Lehrkräfte gaben doppelt so viele Hausaufgaben auf wie einsprachige Schulen.", "correcte": false },
+{ "id": "d", "texte": "Das Erlernen komplexer Fächer wie Mathematik in einer neuen Sprache kostete viel geistige Kraft.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-018-03",
+"question": "Was löste in Leos ersten Schulmonaten Besorgnis bei Verwandten aus?",
+"reponses": [
+{ "id": "a", "texte": "Sein deutscher Wortschatz wirkte vorübergehend etwas kleiner als der einsprachiger Kinder.", "correcte": true },
+{ "id": "b", "texte": "Leo weigerte sich bei Familientreffen, überhaupt noch Deutsch zu sprechen.", "correcte": false },
+{ "id": "c", "texte": "Er fiel durch seine ersten Prüfungen in Mathematik und Sachkunde.", "correcte": false },
+{ "id": "d", "texte": "Die hohen Schulgebühren brachten die Familie in finanzielle Schwierigkeiten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-018-04",
+"question": "Wie hatten sich Leos sprachliche Fähigkeiten bis zum Ende des dritten Schuljahres entwickelt?",
+"reponses": [
+{ "id": "a", "texte": "Er beschloss, wieder auf eine einsprachige Grundschule zu wechseln.", "correcte": false },
+{ "id": "b", "texte": "Er übertraf die Leseerwartungen seiner Stufe und konnte neue Wörter über Sprachwurzeln herleiten.", "correcte": true },
+{ "id": "c", "texte": "Er sprach fließend Englisch, hatte aber große Probleme mit der deutschen Rechtschreibung.", "correcte": false },
+{ "id": "d", "texte": "Er benötigte private Nachhilfe, um den Anschluss an seine Klasse zu halten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-018-05",
+"question": "Was bedeutet das Adjektiv „verblüffend“ im dritten Absatz („eine verblüffende Fähigkeit“)?",
+"reponses": [
+{ "id": "a", "texte": "Zögerlich und anfällig für häufige Fehler.", "correcte": false },
+{ "id": "b", "texte": "Streng aus Wörterbuchlisten auswendig gelernt.", "correcte": false },
+{ "id": "c", "texte": "Erstaunlich und bemerkenswert treffsicher.", "correcte": true },
+{ "id": "d", "texte": "Besorgniserregend und ungewöhnlich langsam.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-018-06",
+"question": "Welche Einschränkungen zweisprachiger Bildung erkennt Sofia im letzten Abschnitt an?",
+"reponses": [
+{ "id": "a", "texte": "Kinder verlieren ihren heimischen Akzent und entfremden sich von ihrer Kultur.", "correcte": false },
+{ "id": "b", "texte": "Zweisprachige Absolventen haben schlechtere Berufschancen in internationalen Betrieben.", "correcte": false },
+{ "id": "c", "texte": "Lehrkräfte an Immersionsschulen verfügen oft über keine Hochschulausbildung.", "correcte": false },
+{ "id": "d", "texte": "Ohne Anwendung außerhalb der Schule leidet die Flüssigkeit, und Plätze sind oft auf wohlhabende Viertel begrenzt.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-018-07",
+"question": "Worauf bezieht sich die Metapher „anfängliche Wachstumsschmerzen“ im letzten Satz?",
+"reponses": [
+{ "id": "a", "texte": "Auf die vorübergehende Anstrengung und Müdigkeit beim Einleben in eine zweite Unterrichtssprache.", "correcte": true },
+{ "id": "b", "texte": "Auf körperliche Kopfschmerzen durch das Lesen kleiner Schrift in fremdsprachigen Büchern.", "correcte": false },
+{ "id": "c", "texte": "Auf Meinungsverschiedenheiten zwischen Eltern und Schulleitung über Lehrpläne.", "correcte": false },
+{ "id": "d", "texte": "Auf finanzielle Engpässe neu gegründeter zweisprachiger Schulen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-018-08",
+"question": "Zu welcher abschließenden Einschätzung gelangt Sofia über zweisprachige Bildung?",
+"reponses": [
+{ "id": "a", "texte": "Sie eignet sich nur für Kinder, die schon mit fünf Jahren außergewöhnliches Sprachtalent zeigen.", "correcte": false },
+{ "id": "b", "texte": "Ihr langfristiger Nutzen rechtfertigt die frühe Mühe, und sie sollte allen Kindern offenstehen.", "correcte": true },
+{ "id": "c", "texte": "Eltern sollten bis zur Sekundarschule warten, bevor sie eine zweite Sprache einführen.", "correcte": false },
+{ "id": "d", "texte": "Unterricht im Klassenzimmer allein genügt immer für muttersprachliche Perfektion.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b019",
+"titre": "Der Einfluss des familiären Hintergrunds auf den schulischen Erfolg",
+"titre2": "Exercice b019",
+"texte": [
+"Moderator: Willkommen bei „Gesellschaft im Blick“. Heute sprechen wir mit der Bildungssoziologin Dr. Nadia Koury über eine hartnäckige Realität im Schulwesen: den starken Zusammenhang zwischen familiärer Herkunft und schulischem Erfolg. Frau Dr. Koury, warum bleibt der sozioökonomische Status trotz jahrzehntelanger Schulreformen ein so verlässlicher Maßstab für Bildungsergebnisse?",
+"Dr. Koury: Vielen Dank. Der Hauptgrund liegt darin, dass Lernen nicht erst am Schultor beginnt oder dort endet. In der Soziologie sprechen wir von „kulturellem Kapital“ – jenen feinen Gewohnheiten, dem Wortschatz, der Einstellung zum Lesen und der Vertrautheit mit institutionellen Erwartungen, die Eltern an ihre Kinder weitergeben. Wenn Eltern aus bildungsnahen oder wohlhabenden Haushalten Gute-Nacht-Geschichten vorlesen, Museen besuchen oder ihre Kinder darin schulen, konstruktiv mit Lehrkräften zu sprechen, beherrschen diese Kinder bereits bei der Einschulung die ungeschriebenen Regeln schulischen Erfolgs.",
+"Moderator: Bedeutet das, dass finanzieller Wohlstand allein darüber entscheidet, ob ein Kind in der Schule erfolgreich ist?",
+"Dr. Koury: Nicht ausschließlich, wenngleich finanzielle Stabilität chronischen Stress mindert und Ressourcen wie ruhige Arbeitsplätze oder Nachhilfe ermöglicht. Dennoch spielen elterliche Zuwendung und emotionale Unterstützung eine ebenso entscheidende Rolle. Selbst in einkommensschwachen Haushalten trotzen Kinder häufig statistischen Wahrscheinlichkeiten, wenn Eltern hohe Erwartungen äußern, echtes Interesse an den Schulaufgaben zeigen und einen konstruktiven Umgang mit Fehlern vorleben. Umgekehrt kann übermäßiger elterlicher Druck, der ausschließlich auf Spitzennoten fixiert ist, unabhängig vom Einkommen zu Erschöpfung und Prüfungsangst führen.",
+"Moderator: Wie können öffentliche Schulen diese Ungleichheiten ausgleichen, damit der Lebensweg eines Kindes nicht durch seine Herkunft vorbestimmt wird?",
+"Dr. Koury: Schulen müssen diese Lücke aktiv überbrücken, statt vorauszusetzen, dass alle Familien über identische Mittel verfügen. Kostenlose Nachmittagsbetreuung, das Ausleihen von Büchern und digitalen Endgeräten sowie die vorurteilsfreie Einbindung von Eltern aus Arbeiterfamilien als gleichberechtigte Partner können die Schulkultur grundlegend verändern. Auch wenn wir nicht jedes häusliche Umfeld angleichen können, können wir sicherstellen, dass Schulen das Potenzial jedes Kindes entfalten, statt bloß ererbte Privilegien zu belohnen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-019-01",
+"question": "Wie definiert Dr. Koury den Begriff „kulturelles Kapital“ in ihrer ersten Antwort?",
+"reponses": [
+{ "id": "a", "texte": "Ersparnisse, die Familien gezielt für teure Studiengebühren anlegen.", "correcte": false },
+{ "id": "b", "texte": "Staatliche Fördergelder für Schulen in historischen Innenstädten.", "correcte": false },
+{ "id": "c", "texte": "Sprachgewohnheiten, kulturelle Erfahrungen und Vertrautheit mit schulischen Erwartungen aus dem Elternhaus.", "correcte": true },
+{ "id": "d", "texte": "Die Anzahl verschiedener Fremdsprachen, die innerhalb eines Haushalts gesprochen werden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-019-02",
+"question": "Warum passen sich Kinder aus wohlhabenden Familien oft leichter an schulische Anforderungen an?",
+"reponses": [
+{ "id": "a", "texte": "Weil Lehrkräfte ihnen absichtlich leichtere Hausaufgaben erteilen.", "correcte": false },
+{ "id": "b", "texte": "Weil sie Schulen besuchen, die auf standardisierte Prüfungen verzichten.", "correcte": false },
+{ "id": "c", "texte": "Weil sie weniger Zeit mit außerschulischen Freizeitaktivitäten verbringen.", "correcte": false },
+{ "id": "d", "texte": "Weil sie die ungeschriebenen Regeln und den geschätzten Wortschatz der Schule schon zu Hause erlernen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-019-03",
+"question": "Wie können Eltern mit geringem Einkommen ihre Kinder laut Dr. Koury zum Schulerfolg führen?",
+"reponses": [
+{ "id": "a", "texte": "Durch hohe Erwartungen, echtes Interesse am Lernen und die Förderung von Widerstandskraft bei Fehlern.", "correcte": true },
+{ "id": "b", "texte": "Durch zusätzliche Nebenjobs, um teure private Internate zu finanzieren.", "correcte": false },
+{ "id": "c", "texte": "Durch strenge Bestrafung jeder Note unterhalb des Klassendurchschnitts.", "correcte": false },
+{ "id": "d", "texte": "Indem sie sämtliche Bildungsentscheidungen allein der Schulleitung überlassen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-019-04",
+"question": "Welche negative Folge kann übermäßiger Leistungsdruck der Eltern unabhängig vom Einkommen auslösen?",
+"reponses": [
+{ "id": "a", "texte": "Er führt dazu, dass Jugendliche das Interesse am Schulsport verlieren.", "correcte": false },
+{ "id": "b", "texte": "Er kann seelische Erschöpfung und starke Prüfungsangst hervorrufen.", "correcte": true },
+{ "id": "c", "texte": "Er zwingt Schulen dazu, ihre Abschlussanforderungen abzusenken.", "correcte": false },
+{ "id": "d", "texte": "Er verleitet Schülerinnen und Schüler dazu, bei Aufnahmeprüfungen zu täuschen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-019-05",
+"question": "Was bedeutet das Verb „mindert“ in Dr. Kourys zweiter Antwort („chronischen Stress mindert“)?",
+"reponses": [
+{ "id": "a", "texte": "Verdoppelt oder verschärft erheblich.", "correcte": false },
+{ "id": "b", "texte": "Ignoriert oder verheimlicht vollständig.", "correcte": false },
+{ "id": "c", "texte": "Verringert oder schwächt ab.", "correcte": true },
+{ "id": "d", "texte": "Misst anhand statistischer Tabellen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-019-06",
+"question": "Welche konkreten Maßnahmen empfiehlt Dr. Koury öffentlichen Schulen zum Abbau von Ungleichheit?",
+"reponses": [
+{ "id": "a", "texte": "Aufteilung der Schüler in verschiedene Zweige je nach Beruf der Eltern.", "correcte": false },
+{ "id": "b", "texte": "Abschaffung von Hausaufgaben, damit das häusliche Umfeld keine Rolle mehr spielt.", "correcte": false },
+{ "id": "c", "texte": "Geldstrafen für Eltern, die nicht an monatlichen Schulkonferenzen teilnehmen.", "correcte": false },
+{ "id": "d", "texte": "Kostenlose Nachmittagsförderung, Ausleihe von Lernmitteln und respektvolle Einbindung aller Eltern.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-019-07",
+"question": "Was bedeutet die Wendung „trotzen statistischen Wahrscheinlichkeiten“ über benachteiligte Schüler?",
+"reponses": [
+{ "id": "a", "texte": "Sie erzielen hohe schulische Erfolge entgegen ungünstigen sozialen Vorhersagen.", "correcte": true },
+{ "id": "b", "texte": "Sie haben Schwierigkeiten im Mathematik- und Wahrscheinlichkeitsunterricht.", "correcte": false },
+{ "id": "c", "texte": "Sie weigern sich, an nationalen Bildungsstudien teilzunehmen.", "correcte": false },
+{ "id": "d", "texte": "Sie wechseln häufig zwischen verschiedenen Schulbezirken.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-019-08",
+"question": "Wie fasst Dr. Koury den idealen Auftrag öffentlicher Schulen abschließend zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Die Rolle der Eltern bei der Erziehung vollständig zu ersetzen.", "correcte": false },
+{ "id": "b", "texte": "Die Fähigkeiten jedes Kindes zu entfalten, statt bloß ererbte Vorteile zu bestätigen.", "correcte": true },
+{ "id": "c", "texte": "Fördermittel auf die besten Schüler zu konzentrieren, um landesweite Ranglisten anzuführen.", "correcte": false },
+{ "id": "d", "texte": "Häusliche Umfelder durch verpflichtende Elternkurse zu vereinheitlichen.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b020",
+"titre": "Ist Bildung der Schlüssel zu einer gerechteren Gesellschaft?",
+"titre2": "Exercice b020",
+"texte": [
+"Seit dem Zeitalter der Aufklärung preisen fortschrittliche Denker die allgemeine Bildung als Grundpfeiler einer gerechten und demokratischen Gesellschaft. Nach diesem beständigen Ideal baut der Zugang zu Wissen für alle Bürgerinnen und Bürger ererbte Privilegien ab, befähigt Einzelne zur verantwortungsvollen Teilhabe am Gemeinwesen und lässt Leistung über soziale Herkunft triumphieren. Zweifellos haben allgemeine Alphabetisierung und erweiterte Bildungschancen historisch bemerkenswerte soziale Mobilität ausgelöst, Millionen Menschen aus der Armut befreit und die Gleichberechtigung der Geschlechter weltweit vorangebracht. Dennoch stellt sich in einer Zeit wachsender wirtschaftlicher Polarisierung die Frage, ob Bildung allein eine wirklich gerechte Gesellschaft schaffen kann oder ob die Erwartung, Schulen könnten strukturelle Ungerechtigkeit im Alleingang heilen, das Klassenzimmer überfordert.",
+"Befürworter der Bildung als Hauptmotor der Gleichheit verweisen auf überzeugende Belege. Höhere Bildungsabschlüsse korrelieren stark mit höherem Lebenseinkommen, besseren Gesundheitswerten und größerer Widerstandsfähigkeit in Wirtschaftskrisen. Darüber hinaus führen inklusive Klassenzimmer junge Menschen unterschiedlichster religiöser, kultureller und sozialer Herkunft zusammen und fördern so jenes gegenseitige Einfühlungsvermögen und kritische Bürgerbewusstsein, das zum Abbau von Vorurteilen nötig ist. Aus dieser Sicht bleibt der Ausbau hochwertiger Bildung das wirksamste Instrument des Staates, um Chancengleichheit herzustellen.",
+"Soziologen und Ökonomen warnen jedoch zunehmend davor, Bildung als Ersatz für umfassende Sozialreformen zu betrachten. Selbst wenn benachteiligte Studierende einen Hochschulabschluss erwerben, stoßen sie auf dem Arbeitsmarkt häufig auf hartnäckige Hürden – darunter unbezahlte Praktika, die sich nur wohlhabende Familien leisten können, unbewusste Vorurteile bei Einstellungsverfahren sowie fehlende einflussreiche Netzwerke. Zudem führt die Ausweitung höherer Bildung oft zu einer „Abschlussinflation“: Tätigkeiten, für die früher ein Sekundarabschluss genügte, verlangen heute einen Mastertitel, wodurch sich das Ziel für Jugendliche aus Arbeiterfamilien ständig weiter verschiebt. Mit anderen Worten: Schulen können Ergebnisse kaum angleichen, wenn die wirtschaftliche Gesamtstruktur Vermögen und Chancen weiterhin bei einer schmalen Elite konzentriert.",
+"Letztlich ist Bildung ein unverzichtbarer Katalysator für soziale Gerechtigkeit, jedoch kein selbstgenügsames Allheilmittel. Schulen können menschliches Potenzial wecken und mündige Bürger formen, doch echte Gerechtigkeit erfordert ebenso faire Arbeitsgesetze, bezahlbaren Wohnraum, zugängliche Gesundheitsversorgung und progressive Besteuerung. Nur wenn Bildungschancen mit wirtschaftlicher Fairness einhergehen, kann die Gesellschaft ihr Versprechen gleicher Würde für alle einlösen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-020-01",
+"question": "Welche historischen Errungenschaften allgemeiner Bildung erkennt der Autor im ersten Absatz an?",
+"reponses": [
+{ "id": "a", "texte": "Die Abschaffung sämtlicher Wirtschaftskrisen und Lohnunterschiede in Industrieländern.", "correcte": false },
+{ "id": "b", "texte": "Die Garantie einer leitenden Staatsstelle für jeden Hochschulabsolventen.", "correcte": false },
+{ "id": "c", "texte": "Die Förderung sozialen Aufstiegs, den Abbau von Armut und Fortschritte bei der Gleichberechtigung.", "correcte": true },
+{ "id": "d", "texte": "Den Ersatz von Gewerkschaften und gesetzlichen Mindestlöhnen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-020-02",
+"question": "Welchen gesellschaftlichen Nutzen inklusiver Schulen hebt der zweite Absatz neben höherem Einkommen hervor?",
+"reponses": [
+{ "id": "a", "texte": "Sie senken die Gesundheitskosten durch verpflichtenden täglichen Schulsport.", "correcte": false },
+{ "id": "b", "texte": "Sie garantieren identische Prüfungsnoten für alle Schülerinnen und Schüler.", "correcte": false },
+{ "id": "c", "texte": "Sie ermöglichen Unternehmen, Arbeitskräfte direkt an Grundschulen anzuwerben.", "correcte": false },
+{ "id": "d", "texte": "Sie verbinden Jugendliche verschiedener Herkunft und fördern Empathie sowie den Abbau von Vorurteilen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-020-03",
+"question": "Welchen Hindernissen begegnen benachteiligte Hochschulabsolventen häufig beim Berufseinstieg?",
+"reponses": [
+{ "id": "a", "texte": "Unbezahlten Praktika, Vorurteilen bei Bewerbungen und mangelnden beruflichen Kontakten.", "correcte": true },
+{ "id": "b", "texte": "Einem gesetzlichen Verbot für Absolventen öffentlicher Universitäten, im Finanzsektor zu arbeiten.", "correcte": false },
+{ "id": "c", "texte": "Geringeren fachlichen Kenntnissen im Vergleich zu Jugendlichen ohne Hochschulstudium.", "correcte": false },
+{ "id": "d", "texte": "Fehlender Bereitschaft, für eine Arbeitsstelle in größere Wirtschaftszentren umzuziehen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-020-04",
+"question": "Wie wird der Begriff „Abschlussinflation“ im dritten Absatz erklärt?",
+"reponses": [
+{ "id": "a", "texte": "Das Ansteigen von Studiengebühren schneller als die allgemeine Teuerungsrate.", "correcte": false },
+{ "id": "b", "texte": "Die Forderung höherer akademischer Titel für Berufe, die früher geringere Qualifikationen verlangten.", "correcte": true },
+{ "id": "c", "texte": "Die Verleihung von Ehrendoktorwürden an wohlhabende Universitätsstifter.", "correcte": false },
+{ "id": "d", "texte": "Der Verkauf gefälschter Zeugnisse über unregulierte Internetseiten.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-020-05",
+"question": "Worauf bezieht sich das Substantiv „Polarisierung“ in „wachsender wirtschaftlicher Polarisierung“?",
+"reponses": [
+{ "id": "a", "texte": "Auf eine zunehmende Kluft zwischen sehr Wohlhabenden und Armen bei schrumpfender Mitte.", "correcte": true },
+{ "id": "b", "texte": "Auf Handelsabkommen ausschließlich zwischen Ländern der nördlichen Erdhalbkugel.", "correcte": false },
+{ "id": "c", "texte": "Auf rasche Investitionen in erneuerbare Sonnen- und Windenergie.", "correcte": false },
+{ "id": "d", "texte": "Auf ein vorübergehendes Einfrieren internationaler Banküberweisungen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-020-06",
+"question": "Warum können Schulen laut dem Autor nicht allein für gesellschaftliche Gleichheit sorgen?",
+"reponses": [
+{ "id": "a", "texte": "Weil Lehrkräfte keine Ausbildung in Wirtschafts- und Politikwissenschaften besitzen.", "correcte": false },
+{ "id": "b", "texte": "Weil das Klassenzimmer eine Wirtschaftsstruktur nicht ausgleichen kann, die Vermögen bei Wenigen bündelt.", "correcte": true },
+{ "id": "c", "texte": "Weil die meisten Jugendlichen handwerkliche Berufe einem Studium vorziehen.", "correcte": false },
+{ "id": "d", "texte": "Weil digitale Technologien den klassischen Schulunterricht überflüssig machen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-020-07",
+"question": "Was bedeutet das Substantiv „Katalysator“ im letzten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Ein großes Hindernis, das gesellschaftlichen Fortschritt verlangsamt.", "correcte": false },
+{ "id": "b", "texte": "Ein unbedeutendes Detail ohne wirkliche Auswirkung auf Ergebnisse.", "correcte": false },
+{ "id": "c", "texte": "Eine treibende Kraft, die positive Veränderungen auslöst und beschleunigt.", "correcte": true },
+{ "id": "d", "texte": "Eine finanzielle Strafe für ungerechte Bildungseinrichtungen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-020-08",
+"question": "Welche abschließende Hauptthese vertritt der Autor?",
+"reponses": [
+{ "id": "a", "texte": "Regierungen sollten Hochschulen nicht mehr finanzieren und das Geld stattdessen in Wohnungsbau stecken.", "correcte": false },
+{ "id": "b", "texte": "Soziale Gleichheit ist unabhängig von Bildungs- oder Wirtschaftspolitik grundsätzlich unerreichbar.", "correcte": false },
+{ "id": "c", "texte": "Nur Privatschulen bieten jene Qualität, die für echten sozialen Aufstieg notwendig ist.", "correcte": false },
+{ "id": "d", "texte": "Bildung ist unverzichtbar für Gerechtigkeit, muss aber durch umfassende Wirtschafts- und Sozialreformen ergänzt werden.", "correcte": true }
+]
+}
+]
+},
+{
+    "id": "b021",
+    "titre": "Verändert die Telearbeit die Berufswelt dauerhaft?",
+    "titre2": "Exercice b021",
+    "texte": [
+      "Sehr geehrte Damen und Herren, geschätzte Führungskräfte und Personalleiterinnen,",
+      "noch vor wenigen Jahren galt das Arbeiten von zu Hause aus als seltenes Privileg, das fast ausschließlich leitenden Beratern oder freiberuflichen Kreativen vorbehalten war. Heute hingegen haben Homeoffice- und Hybridmodelle die jahrhundertealte Annahme erschüttert, dass Produktivität zwingend die physische Anwesenheit in einem zentralen Bürogebäude voraussetzt. Während Unternehmen diesen tiefgreifenden strukturellen Wandel bewältigen, müssen wir jedoch kritisch prüfen, ob die Telearbeit eine dauerhafte Befreiung der modernen Arbeitswelt darstellt oder lediglich eine subtile Verlagerung unternehmerischer Kontrolle mit langfristigen Schattenseiten mit sich bringt.",
+      "Einerseits verweisen Befürworter dezentraler Arbeitsformen auf beeindruckende Gewinne bei Effizienz und Wohlbefinden. Der Wegfall erschöpfender täglicher Pendelfahrten hat Millionen Arbeitnehmerinnen und Arbeitnehmern wertvolle Lebenszeit zurückgegeben, die sie nun in ihr Familienleben, ihre körperliche Gesundheit und konzentrierte Tiefenarbeit ohne die ständigen Unterbrechungen eines Großraumbüros investieren können. Darüber hinaus ermöglicht die geografische Flexibilität Unternehmen, herausragende Fachkräfte unabhängig vom Wohnort zu gewinnen, und belebt gleichzeitig kleinere Gemeinden, die zuvor unter der Abwanderung in die Metropolen litten.",
+      "Andererseits warnen Organisationspsychologen davor, dass eine dauerhafte räumliche Trennung allmählich jenen informellen sozialen Kitt auflöst, auf den lebendige Arbeitsplätze angewiesen sind. Spontane Ideensammlungen in der Kaffeeküche, die beiläufige Einarbeitung jüngerer Berufseinsteiger und eine geteilte Unternehmenskultur lassen sich über terminierte Videokonferenzen kaum nachbilden. Zudem verschwimmt im heimischen Arbeitszimmer häufig die Grenze zwischen beruflicher Pflicht und privater Erholung, was zu einer Mentalität ständiger Erreichbarkeit und einem erhöhten Risiko stiller Erschöpfung führt. Hinzu kommt das Phänomen der sogenannten Präsenzverzerrung, bei der Vorgesetzte unbewusst jene Kolleginnen und Kollegen bei Beförderungen bevorzugen, die sie regelmäßig persönlich vor Ort antreffen.",
+      "Letztlich wird das klassische Büro weder vollständig verschwinden noch werden wir jemals zur starren Fünf-Tage-Präsenzpflicht als universeller Norm zurückkehren. Vielmehr werden künftig jene Organisationen florieren, die physische Arbeitsräume nicht als Kontrollzentren, sondern als gezielte Orte für Zusammenarbeit, Mentoring und Gemeinschaftspflege begreifen und zugleich die neu gewonnene Autonomie der Telearbeit bewahren. Vielen Dank."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-021-01",
+        "question": "Wie wurde das Arbeiten von zu Hause aus vor wenigen Jahren überwiegend betrachtet?",
+        "reponses": [
+          { "id": "a", "texte": "Als veraltete Arbeitsweise aus dem neunzehnten Jahrhundert.", "correcte": false },
+          { "id": "b", "texte": "Als gesetzliche Maßnahme zur Verringerung des städtischen Berufsverkehrs.", "correcte": false },
+          { "id": "c", "texte": "Als seltene Ausnahme, die meist selbstständigen Kreativen oder erfahrenen Beratern vorbehalten war.", "correcte": true },
+          { "id": "d", "texte": "Als bevorzugtes Modell großer Industrieunternehmen zur Steigerung der Produktion.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-021-02",
+        "question": "Welche positiven Auswirkungen der Telearbeit nennt der Redner im zweiten Absatz?",
+        "reponses": [
+          { "id": "a", "texte": "Zeitersparnis durch wegfallendes Pendeln, ungestörtes Arbeiten und überregionale Rekrutierung.", "correcte": true },
+          { "id": "b", "texte": "Schnellere Beförderungen für Berufseinsteiger und engere Freundschaften im Team.", "correcte": false },
+          { "id": "c", "texte": "Höhere Unternehmenssteuern und sinkende Internetkosten für Privathaushalte.", "correcte": false },
+          { "id": "d", "texte": "Die vollständige Abschaffung von Überstunden in sämtlichen Wirtschaftszweigen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-021-03",
+        "question": "Was versteht der Redner unter dem „informellen sozialen Kitt“ im dritten Absatz?",
+        "reponses": [
+          { "id": "a", "texte": "Digitale Kommunikationsprogramme zur Überwachung der Arbeitszeit.", "correcte": false },
+          { "id": "b", "texte": "Strenge Arbeitsverträge, die einen Wechsel zu Konkurrenzfirmen verhindern.", "correcte": false },
+          { "id": "c", "texte": "Kostspielige jährliche Betriebsausflüge in luxuriöse Tagungshotels.", "correcte": false },
+          { "id": "d", "texte": "Beiläufige Gespräche, spontanen Ideenaustausch und alltägliches Mentoring im Büro.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-021-04",
+        "question": "Wie wird das Phänomen der „Präsenzverzerrung“ in der Rede erklärt?",
+        "reponses": [
+          { "id": "a", "texte": "Die Abneigung von Unternehmen, Bewerber aus benachbarten Regionen einzustellen.", "correcte": false },
+          { "id": "b", "texte": "Die unbewusste Neigung von Führungskräften, vor Ort anwesende Mitarbeitende bei Beförderungen vorzuziehen.", "correcte": true },
+          { "id": "c", "texte": "Der Wunsch vieler Angestellter, in unmittelbarer Nähe ihres Arbeitsplatzes zu wohnen.", "correcte": false },
+          { "id": "d", "texte": "Das Unbehagen von Beschäftigten in überfüllten Großraumbüros.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-021-05",
+        "question": "Welches psychische Risiko entsteht laut dem dritten Absatz durch das Arbeiten in den eigenen vier Wänden?",
+        "reponses": [
+          { "id": "a", "texte": "Angestellte verlernen den Umgang mit herkömmlichen Bürogeräten.", "correcte": false },
+          { "id": "b", "texte": "Arbeitnehmer werden übermäßig abhängig vom täglichen Lob ihrer Vorgesetzten.", "correcte": false },
+          { "id": "c", "texte": "Die Vermischung von Beruf und Freizeit fördert ständige Erreichbarkeit und schleichende Erschöpfung.", "correcte": true },
+          { "id": "d", "texte": "Mitarbeitende weigern sich zunehmend, an Videokonferenzen teilzunehmen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-021-06",
+        "question": "Was bedeutet das Verb „florieren“ im letzten Absatz („werden künftig jene Organisationen florieren“)?",
+        "reponses": [
+          { "id": "a", "texte": "Erfolgreich gedeihen und sich hervorragend entwickeln.", "correcte": true },
+          { "id": "b", "texte": "Ihre Büroflächen aus Kostengründen vollständig aufgeben.", "correcte": false },
+          { "id": "c", "texte": "Strenge Überwachungsprogramme für Heimarbeit einführen.", "correcte": false },
+          { "id": "d", "texte": "Sich ausschließlich auf ältere, erfahrene Fachkräfte beschränken.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-021-07",
+        "question": "Welche künftige Rolle weist der Redner physischen Bürogebäuden zu?",
+        "reponses": [
+          { "id": "a", "texte": "Sie werden innerhalb weniger Jahre komplett in Wohnhäuser umgewandelt.", "correcte": false },
+          { "id": "b", "texte": "Sie dienen nur noch der Aufbewahrung gedruckter Unternehmensarchive.", "correcte": false },
+          { "id": "c", "texte": "Sie verlangen wieder eine verpflichtende Anwesenheit an sechs Tagen pro Woche.", "correcte": false },
+          { "id": "d", "texte": "Sie fungieren als gezielte Begegnungsorte für Teamarbeit, Einarbeitung und Gemeinschaft.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-021-08",
+        "question": "Welche Aussage fasst das Fazit des Redners am treffendsten zusammen?",
+        "reponses": [
+          { "id": "a", "texte": "Telearbeit ist eine vorübergehende Modeerscheinung ohne bleibende Wirkung.", "correcte": false },
+          { "id": "b", "texte": "Zukunftsfähige Unternehmen verbinden ortsunabhängige Selbstbestimmung mit sinnvoller persönlicher Zusammenarbeit.", "correcte": true },
+          { "id": "c", "texte": "Klassische Büros sind im digitalen Zeitalter vollständig überflüssig geworden.", "correcte": false },
+          { "id": "d", "texte": "Arbeitnehmer müssen sich künftig zwischen hohem Gehalt und Homeoffice entscheiden.", "correcte": false }
+        ]
+      }
+    ]
+  },
+   {
+    "id": "b022",
+    "titre": "Ist beruflicher Erfolg zwangsläufig an die Gehaltshöhe gebunden?",
+    "titre2": "Exercice b022",
+    "texte": [
+      "Daniel: Ich habe gestern zufällig unsere ehemalige Kommilitonin Klara getroffen, Sophie. Du wirst kaum glauben, welchen beruflichen Richtungswechsel sie vollzogen hat. Sie hat ihre hochdotierte Partnerschaft in einer Frankfurter Wirtschaftskanzlei gekündigt, um eine kleine gemeinnützige Bildungsstiftung zu leiten – und dabei fast sechzig Prozent weniger Gehalt in Kauf genommen.",
+      "Sophie: Ehrlich gesagt bewundere ich ihre Konsequenz, auch wenn ich mir gut vorstellen kann, wie fassungslos ihr Umfeld reagiert hat. In unserer Gesellschaft ist das Einkommen zum bequemsten Maßstab für beruflichen Wert geworden. Verdient jemand ein sechsstelliges Jahresgehalt, gehen alle automatisch davon aus, dass diese Person es „geschafft“ hat, während die Entscheidung für eine geringer entlohnte Berufung oft als mangelnder Ehrgeiz missdeutet wird.",
+      "Daniel: Ganz genau. Doch wer Klara vor zwei Jahren aufmerksam beobachtete, sah eine dauerhaft erschöpfte Frau, die zynisch über die Motive ihrer Mandanten sprach und ihren eigenen Idealen völlig entfremdet war. Natürlich bietet eine hohe Vergütung finanzielle Sicherheit, Komfort und gesellschaftliches Ansehen, was man angesichts steigender Lebenshaltungskosten keineswegs leichtfertig abtun sollte. Dennoch führt ein immer höheres Einkommen selten zu tieferer beruflicher Erfüllung, sobald erst einmal ein solider Lebensstandard gesichert ist.",
+      "Sophie: Da bin ich völlig deiner Meinung. Wahrer beruflicher Erfolg ist weitaus vielschichtiger als der monatliche Gehaltszettel. Für viele Berufstätige wiegen Zeitsouveränität, geistige Herausforderung, ein wertschätzendes Kollegium und das konkrete Gefühl, einen sinnvollen Beitrag für das Gemeinwohl zu leisten, deutlich schwerer als die Anhäufung überschüssigen Kapitals. Denk nur an engagierte Lehrkräfte, Pflegekräfte oder Grundlagenforscher – ihre Bezahlung spiegelt den immensen gesellschaftlichen Wert ihrer Arbeit selten wider, und doch würde niemand ihren tiefgreifenden Erfolg bestreiten.",
+      "Daniel: Trotzdem sollten wir niedrige Löhne auch nicht romantisieren. Gesellschaften nutzen Idealismus oft als Vorwand, um systemrelevante Berufsgruppen unterzubezahlen, indem sie behaupten, sinnvolle Arbeit sei bereits Lohn genug. Im Idealfall sollte Erfolg niemanden vor die falsche Wahl zwischen finanzieller Würde und persönlicher Sinnhaftigkeit stellen.",
+      "Sophie: Treffend gesagt. Erfolg neu zu definieren bedeutet, Sinnhaftigkeit, fachliche Meisterschaft und Wohlbefinden neben einer fairen Entlohnung wertzuschätzen – statt den eigenen Selbstwert allein vom Kontostand diktieren zu lassen."
+    ],
+    "audios": [],
+    "questions": [
+      {
+        "id": "q-de-read-b2-022-01",
+        "question": "Welche tiefgreifende berufliche Entscheidung hat Klara vor Kurzem getroffen?",
+        "reponses": [
+          { "id": "a", "texte": "Sie ist nach Frankfurt gezogen, um eine Beförderung bei einer internationalen Großbank anzunehmen.", "correcte": false },
+          { "id": "b", "texte": "Sie hat sich nach einer großen Erbschaft vorzeitig aus dem Berufsleben zurückgezogen.", "correcte": false },
+          { "id": "c", "texte": "Sie hat eine lukrative Kanzlei verlassen, um für deutlich weniger Geld eine Bildungsstiftung zu führen.", "correcte": true },
+          { "id": "d", "texte": "Sie hat eine private Beratungsagentur gegründet, um ihr Jahreseinkommen zu verdoppeln.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-022-02",
+        "question": "Wie beschreibt Sophie die vorherrschende gesellschaftliche Haltung gegenüber hohen Gehältern?",
+        "reponses": [
+          { "id": "a", "texte": "Die meisten Menschen misstrauen wohlhabenden Berufstätigen und zweifeln an deren Moral.", "correcte": false },
+          { "id": "b", "texte": "Ein hohes Einkommen gilt als Hauptbeweis für Erfolg, während schlechter bezahlte Wege als unambitioniert gelten.", "correcte": true },
+          { "id": "c", "texte": "Die Gesellschaft ermutigt junge Absolventen dazu, finanzielle Sicherheit völlig zu ignorieren.", "correcte": false },
+          { "id": "d", "texte": "Die Mehrheit der Bürger glaubt, dass Lehrkräfte und Pflegepersonal überbezahlt seien.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-022-03",
+        "question": "In welcher inneren Verfassung befand sich Klara während ihrer Zeit als Wirtschaftsanwältin?",
+        "reponses": [
+          { "id": "a", "texte": "Sie war chronisch übermüdet, desillusioniert und von ihren persönlichen Werten abgeschnitten.", "correcte": true },
+          { "id": "b", "texte": "Sie war gelangweilt, weil ihr unter der Woche zu viel ungenutzte Freizeit blieb.", "correcte": false },
+          { "id": "c", "texte": "Sie fürchtete ständig, dass ihre Kanzlei bald Insolvenz anmelden müsse.", "correcte": false },
+          { "id": "d", "texte": "Sie fühlte sich durch häufige Geschäftsreisen belebt und stolz auf ihre juristischen Siege.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-022-04",
+        "question": "Welche nicht-finanziellen Bestandteile beruflichen Erfolgs hebt Sophie besonders hervor?",
+        "reponses": [
+          { "id": "a", "texte": "Repräsentative Firmenwagen, Eckbüros und internationale Flüge in der Businessclass.", "correcte": false },
+          { "id": "b", "texte": "Medienpräsenz, akademische Auszeichnungen und großzügige Vorruhestandsregelungen.", "correcte": false },
+          { "id": "c", "texte": "Strenge Arbeitsroutinen, die möglichst wenig geistige Anstrengung erfordern.", "correcte": false },
+          { "id": "d", "texte": "Selbstbestimmte Zeiteinteilung, geistige Anregung, gute Kollegen und gesellschaftlicher Nutzen.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-022-05",
+        "question": "Was bedeutet das Verb „missdeutet“ in Sophies erstem Redebeitrag („als mangelnder Ehrgeiz missdeutet wird“)?",
+        "reponses": [
+          { "id": "a", "texte": "Öffentlich mit großer Bewunderung gefeiert wird.", "correcte": false },
+          { "id": "b", "texte": "Falsch ausgelegt oder irrtümlich verstanden wird.", "correcte": true },
+          { "id": "c", "texte": "Anhand wirtschaftlicher Statistiken genau untersucht wird.", "correcte": false },
+          { "id": "d", "texte": "Von universitären Karriereberatern ausdrücklich empfohlen wird.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-022-06",
+        "question": "Welche gesellschaftliche Kritik äußert Daniel in seinem letzten Redebeitrag?",
+        "reponses": [
+          { "id": "a", "texte": "Gemeinnützige Stiftungen seien schlecht verwaltet und verschwendeten Spendengelder.", "correcte": false },
+          { "id": "b", "texte": "Berufstätige, die Gehaltseinbußen hinnehmen, bereuten diesen Schritt ausnahmslos nach zwei Jahren.", "correcte": false },
+          { "id": "c", "texte": "Arbeitgeber und Gesellschaft nutzen die Leidenschaft von Beschäftigten oft als Ausrede für zu niedrige Löhne.", "correcte": true },
+          { "id": "d", "texte": "Regierungen sollten privaten Unternehmen verbieten, hohe Jahresprämien auszuzahlen.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-022-07",
+        "question": "Was meint Daniel mit der Formulierung „vor die falsche Wahl zwischen finanzieller Würde und persönlicher Sinnhaftigkeit stellen“?",
+        "reponses": [
+          { "id": "a", "texte": "Sich zwischen einer Tätigkeit im Technologiesektor oder im Finanzwesen entscheiden zu müssen.", "correcte": false },
+          { "id": "b", "texte": "Überlegen zu müssen, ob man sein Gehalt für das Alter spart oder sofort ausgibt.", "correcte": false },
+          { "id": "c", "texte": "Zwischen zwei identischen Stellenangeboten in derselben Großstadt wählen zu müssen.", "correcte": false },
+          { "id": "d", "texte": "Gezwungen zu sein, entweder ein angemessenes Einkommen oder erfüllende Arbeit zu wählen, als schlössen beide einander aus.", "correcte": true }
+        ]
+      },
+      {
+        "id": "q-de-read-b2-022-08",
+        "question": "Zu welchem gemeinsamen Fazit gelangen Daniel und Sophie am Ende des Gesprächs?",
+        "reponses": [
+          { "id": "a", "texte": "Wahrer Erfolg verbindet faire Bezahlung mit persönlichem Sinn, Weiterentwicklung und Wohlbefinden.", "correcte": true },
+          { "id": "b", "texte": "Geld spielt für die Zufriedenheit Erwachsener und die Karriereplanung keinerlei Rolle.", "correcte": false },
+          { "id": "c", "texte": "Alle Berufstätigen sollten Konzernstellen kündigen, um für gemeinnützige Organisationen zu arbeiten.", "correcte": false },
+          { "id": "d", "texte": "Hohe Gehälter garantieren Zufriedenheit, sofern man seine Freizeit gut organisiert.", "correcte": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b023",
+    "titre": "Junge Hochschulabsolventen angesichts der Herausforderungen des Arbeitsmarktes",
+    "titre2": "Exercice b023",
+    "texte": [
+      "Als Lukas im Juni über die Bühne der Universitätsaula schritt und sein Masterzeugnis in internationaler Volkswirtschaftslehre entgegennahm, glaubte er aufrichtig, die größte Hürde liege nun hinter ihm. Da er mit Auszeichnung abgeschlossen und bereits zwei Sommerpraktika absolviert hatte, rechnete er fest damit, noch vor Herbstbeginn zwischen mehreren Stellenangeboten wählen zu können. Sechs Monate später jedoch saß Lukas an seinem Schreibtisch, umgeben von höflichen Absage-E-Mails, und sah sich mit einer ernüchternden Wirklichkeit konfrontiert, die Millionen junger Absolventen weltweit teilen: Akademische Titel allein garantieren längst keinen reibungslosen Übergang mehr in eine sichere Beschäftigung.",
+      "Jeder Morgen folgte demselben entmutigenden Ritual. Lukas durchforstete Online-Stellenportale, auf denen nahezu jede ausgeschriebene „Einstiegsposition“ drei bis fünf Jahre einschlägige Berufserfahrung verlangte – eine paradoxe Zwickmühle, die Berufsanfänger ausschloss, bevor sie überhaupt beginnen konnten. Wann immer er eine Bewerbung abschickte, verschwand sein sorgfältig angepasster Lebenslauf in automatisierten Auswahlalgorithmen und löste selten auch nur eine standardisierte Eingangsbestätigung aus. Bei den wenigen Gelegenheiten, zu denen er zu Vorstellungsgesprächen eingeladen wurde, boten ihm Unternehmen häufig unbezahlte Traineeships oder prekäre Kurzzeitverträge an, die als „unschätzbare Lernchancen“ angepriesen wurden.",
+"Zunächst bezog Lukas diese Absagen auf sich selbst, zweifelte an seiner fachlichen Eignung und bereute seine Studienwahl. Doch bei einem offenen Abendessen mit ehemaligen Kommilitonen stellte er fest, dass selbst Absolventen der Ingenieurwissenschaften und Informatik auf identische Engpässe stießen – verursacht durch wirtschaftliche Unsicherheit, Einstellungsstopps und rasche technologische Umstrukturierungen. Die Erkenntnis, dass seine Schwierigkeiten struktureller und nicht persönlicher Natur waren, nahm ihm eine schwere psychische Last. Anstatt passiv Hunderte Online-Formulare abzusenden, änderte Lukas seine Strategie: Er besuchte örtliche Fachseminare, bat ehemalige Absolventen um Informationsgespräche und unterstützte ehrenamtlich eine städtische Nachhaltigkeitsgenossenschaft mit Datenanalysen, um vorzeigbare Praxisprojekte aufzubauen. Innerhalb von acht Wochen führte ein Kontakt aus einem Workshop zu einer Stelle als Junior-Analyst. Letztlich erkannte Lukas, dass der moderne Arbeitsmarkt die Belastbarkeit junger Absolventen zwar hart auf die Probe stellt, die Verbindung aus Anpassungsfähigkeit, aktivem Netzwerken und praktischer Eigeninitiative jedoch entscheidend bleibt, um einen Studienabschluss in eine sinnvolle Laufbahn zu verwandeln."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-023-01",
+"question": "Warum war Lukas unmittelbar nach seinem Studienabschluss zuversichtlich, schnell Arbeit zu finden?",
+"reponses": [
+{ "id": "a", "texte": "Seine Familie besaß eine international tätige Wirtschaftsberatungsfirma.", "correcte": false },
+{ "id": "b", "texte": "Ein Professor hatte ihm eine unbefristete Forschungsstelle an der Universität zugesagt.", "correcte": false },
+{ "id": "c", "texte": "In seinem Heimatland herrschte ein akuter Mangel an Volkswirtschaftsabsolventen.", "correcte": false },
+{ "id": "d", "texte": "Er hatte sein Studium mit Bestnoten abgeschlossen und bereits zwei Praktika vorzuweisen.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-023-02",
+"question": "Auf welchen Widerspruch stieß Lukas bei der Suche auf Online-Jobportalen?",
+"reponses": [
+{ "id": "a", "texte": "Unternehmen boten hohe Gehälter an, weigerten sich aber, den Arbeitsort zu nennen.", "correcte": false },
+{ "id": "b", "texte": "Stellen, die als Einstiegspositionen beworben wurden, setzten dennoch mehrjährige Berufserfahrung voraus.", "correcte": true },
+{ "id": "c", "texte": "Arbeitgeber verlangten für einfache Bürotätigkeiten einen Doktortitel.", "correcte": false },
+{ "id": "d", "texte": "Stellenanzeigen waren ausschließlich in Fremdsprachen verfasst, die er nicht beherrschte.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-023-03",
+"question": "Welche Art von Stellen boten Unternehmen an, wenn Lukas tatsächlich zu Gesprächen eingeladen wurde?",
+"reponses": [
+{ "id": "a", "texte": "Unbezahlte Praktika oder unsichere Zeitverträge, die als wertvolle Lerngelegenheiten dargestellt wurden.", "correcte": true },
+{ "id": "b", "texte": "Unbefristete Führungspositionen mit großzügigen Umzugspaketen.", "correcte": false },
+{ "id": "c", "texte": "Teilzeitstellen als Lehrkraft an örtlichen Berufsschulen.", "correcte": false },
+{ "id": "d", "texte": "Freiberufliche Fernaufträge, die mit Firmenaktien vergütet wurden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-023-04",
+"question": "Wie veränderte sich Lukas’ Sichtweise nach dem Treffen mit seinen ehemaligen Kommilitonen?",
+"reponses": [
+{ "id": "a", "texte": "Er beschloss, an die Universität zurückzukehren, um zusätzlich Informatik zu studieren.", "correcte": false },
+{ "id": "b", "texte": "Er verlor jeden Mut und stellte seine Bewerbungsbemühungen vollständig ein.", "correcte": false },
+{ "id": "c", "texte": "Er erkannte, dass seine Probleme auf allgemeine Marktbedingungen und nicht auf persönliches Versagen zurückgingen.", "correcte": true },
+{ "id": "d", "texte": "Er vereinbarte mit seinen Freunden, gemeinsam ein eigenes Online-Stellenportal zu gründen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-023-05",
+"question": "Was bedeutet das Substantiv „Zwickmühle“ im zweiten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Eine spezielle Software zum automatischen Filtern digitaler Bewerbungen.", "correcte": false },
+{ "id": "b", "texte": "Ein auswegloses Dilemma, bei dem zwei widersprüchliche Bedingungen jeden Fortschritt blockieren.", "correcte": true },
+{ "id": "c", "texte": "Eine staatliche Überbrückungshilfe für arbeitslose Hochschulabsolventen.", "correcte": false },
+{ "id": "d", "texte": "Ein standardisiertes Auswahlverfahren mit mehreren Gesprächsrunden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-023-06",
+"question": "Welche strategischen Änderungen verhalfen Lukas schließlich zu einer Anstellung?",
+"reponses": [
+{ "id": "a", "texte": "Das Versenden identischer Standardlebensläufe an Tausende internationaler Konzerne.", "correcte": false },
+{ "id": "b", "texte": "Die Beauftragung einer teuren Agentur zur Umschreibung seiner akademischen Zeugnisse.", "correcte": false },
+{ "id": "c", "texte": "Der Umzug ins Ausland in ein Land mit geringeren Studienanforderungen.", "correcte": false },
+{ "id": "d", "texte": "Der Besuch von Fachveranstaltungen, Gespräche mit Ehemaligen und ehrenamtliche Praxisprojekte.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-023-07",
+"question": "Worauf bezieht sich das Substantiv „Engpässe“ im dritten Absatz („auf identische Engpässe stießen“)?",
+"reponses": [
+{ "id": "a", "texte": "Auf Hindernisse und Stockungen, die den Einstieg in den Arbeitsmarkt erschweren.", "correcte": true },
+{ "id": "b", "texte": "Auf Verkehrsstaus während des morgendlichen Berufsverkehrs in Großstädten.", "correcte": false },
+{ "id": "c", "texte": "Auf Lieferprobleme bei technischen Geräten in Universitätsbibliotheken.", "correcte": false },
+{ "id": "d", "texte": "Auf finanzielle Prämien für besonders leistungsstarke Studienabsolventen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-023-08",
+"question": "Welche zentrale Lehre zieht Lukas am Ende der Erzählung aus seiner Erfahrung?",
+"reponses": [
+{ "id": "a", "texte": "Universitätsabschlüsse haben in der modernen Wirtschaft jeglichen Wert verloren.", "correcte": false },
+{ "id": "b", "texte": "Absolventen sollten unbezahlte Praktika dauerhaft akzeptieren, bis Firmen sie übernehmen.", "correcte": false },
+{ "id": "c", "texte": "Um schwierige Arbeitsmärkte zu meistern, braucht es Ausdauer, Netzwerke und praktische Eigeninitiative.", "correcte": true },
+{ "id": "d", "texte": "Online-Jobportale sind der zuverlässigste Weg für einen schnellen Berufseinstieg.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b024",
+"titre": "Unternehmertum als Lösung gegen Jugendarbeitslosigkeit",
+"titre2": "Exercice b024",
+"texte": [
+"Moderator: Willkommen bei „Wirtschaft der Zukunft“. Da die Jugendarbeitslosigkeit in vielen Regionen hartnäckig hoch bleibt, preisen Regierungen das Unternehmertum zunehmend als Allheilmittel an. Heute begrüßen wir den Ökonomen Dr. Samuel Osei. Herr Dr. Osei, kann die Ermutigung junger Menschen zur Unternehmensgründung das Problem der Jugendarbeitslosigkeit wirklich lösen?",
+"Dr. Osei: Vielen Dank. Unternehmertum spielt zweifellos eine wichtige Rolle für die wirtschaftliche Dynamik, doch es als universelle Wunderlösung darzustellen, ist irreführend. Auf der positiven Seite befähigen der Abbau bürokratischer Hürden und gezielte Mikrozuschüsse kreative junge Erwachsene dazu, ihre eigene Beschäftigung zu schaffen, statt passiv auf knappe Konzernstellen zu warten. Zudem haben digitale Plattformen die Gründungskosten drastisch gesenkt, sodass eine Zweiundzwanzigjährige mit einem Laptop und einer überzeugenden Idee über Nacht weltweite Kunden erreichen kann.",
+"Moderator: Das klingt vielversprechend. Warum warnen Sie dennoch davor, Selbstständigkeit als pauschale Lösung zu betrachten?",
+"Dr. Osei: Weil die statistische Realität Differenzierung verlangt. Etwa die Hälfte aller neu gegründeten Kleinunternehmen scheitert innerhalb der ersten fünf Jahre, und junge Gründer sind besonders verwundbar. Anders als erfahrene Fachkräfte verfügen Hochschulabsolventen selten über nennenswerte finanzielle Rücklagen, Branchennetzwerke oder Führungserfahrung. Scheitert ein Unternehmen, verliert ein junger Gründer nicht bloß seinen Arbeitsplatz – er häuft womöglich drückende persönliche Schulden an, ohne Anspruch auf klassische Arbeitslosenversicherung zu haben.",
+"Moderator: Darüber hinaus weisen Kritiker darauf hin, dass vieles, was heute als „junges Unternehmertum“ bezeichnet wird, in Wahrheit prekäre Plattformarbeit ist – etwa selbstständige Lieferfahrten oder kleinteilige Online-Aufträge. Teilen Sie diese Sorge?",
+"Dr. Osei: Voll und ganz. Es besteht ein gewaltiger Unterschied zwischen echtem, innovationsgetriebenem Unternehmertum und erzwungener Scheinselbstständigkeit aus reiner Not. Wenn Regierungen junges Unternehmertum nachhaltig fördern wollen, müssen sie Startkapital mit Mentoring-Programmen, Finanzbildung und verlässlichen sozialen Sicherungsnetzen verknüpfen. Letztlich sollte die Existenzgründung ein gut begleiteter Weg für Menschen mit tragfähigen Ideen sein – und keine bequeme Ausrede für Politiker, sich ihrer Verantwortung für stabile, fair bezahlte Arbeitsplätze zu entziehen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-024-01",
+"question": "Wie haben digitale Technologien laut Dr. Osei das junge Unternehmertum erleichtert?",
+"reponses": [
+{ "id": "a", "texte": "Sie garantieren, dass jedes Online-Start-up innerhalb von sechs Monaten Gewinne erzielt.", "correcte": false },
+{ "id": "b", "texte": "Sie befreien junge Gründer in den ersten Jahren vollständig von Unternehmenssteuern.", "correcte": false },
+{ "id": "c", "texte": "Sie haben alle herkömmlichen Einzelhandelsgeschäfte durch virtuelle Einkaufszentren ersetzt.", "correcte": false },
+{ "id": "d", "texte": "Sie haben die Startkosten stark gesenkt und den Zugang zu internationalen Märkten eröffnet.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-024-02",
+"question": "Warum sind junge Gründer bei der Unternehmensgründung besonders gefährdet?",
+"reponses": [
+{ "id": "a", "texte": "Sie dürfen bis zum dreißigsten Lebensjahr gesetzlich keine Bankkredite aufnehmen.", "correcte": false },
+{ "id": "b", "texte": "Ihnen fehlen meist finanzielle Reserven, berufliche Kontakte und Managementerfahrung.", "correcte": true },
+{ "id": "c", "texte": "Verbraucher misstrauen grundsätzlich Produkten, die von Menschen unter fünfundzwanzig entwickelt wurden.", "correcte": false },
+{ "id": "d", "texte": "Universitäten verbieten Vollzeitstudierenden die Anmeldung gewerblicher Betriebe.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-024-03",
+"question": "Welche schwerwiegende Folge droht jungen Unternehmern, wenn ihr Start-up scheitert?",
+"reponses": [
+{ "id": "a", "texte": "Hohe persönliche Schulden bei gleichzeitig fehlendem Anspruch auf Arbeitslosengeld.", "correcte": true },
+{ "id": "b", "texte": "Ein dauerhaftes Berufsverbot für Tätigkeiten im öffentlichen Dienst.", "correcte": false },
+{ "id": "c", "texte": "Ein verpflichtender zweijähriger Sozialdienst in gemeinnützigen Einrichtungen.", "correcte": false },
+{ "id": "d", "texte": "Die Aberkennung ihres Hochschulabschlusses durch die Bildungsbehörden.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-024-04",
+"question": "Welche wichtige Unterscheidung trifft Dr. Osei in seiner letzten Antwort?",
+"reponses": [
+{ "id": "a", "texte": "Zwischen Technologie-Start-ups und traditionellen Familienrestaurants.", "correcte": false },
+{ "id": "b", "texte": "Zwischen inländischen Handelsabkommen und internationalen Exportvorschriften.", "correcte": false },
+{ "id": "c", "texte": "Zwischen echter innovativer Unternehmensgründung und unsicherer Selbstständigkeit aus Jobmangel.", "correcte": true },
+{ "id": "d", "texte": "Zwischen privaten Risikokapitalgebern und klassischen Geschäftsbanken.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-024-05",
+"question": "Was bedeutet das Substantiv „Allheilmittel“ in der ersten Frage des Moderators?",
+"reponses": [
+{ "id": "a", "texte": "Eine gefährliche Geldanlage, die sofortige finanzielle Verluste verursacht.", "correcte": false },
+{ "id": "b", "texte": "Eine einfache universelle Lösung für ein komplexes gesellschaftliches Problem.", "correcte": true },
+{ "id": "c", "texte": "Eine staatliche Sondersteuer für große Technologiekonzerne.", "correcte": false },
+{ "id": "d", "texte": "Eine langsame Reform, deren Wirkung erst nach Jahrzehnten sichtbar wird.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-024-06",
+"question": "Welche politischen Maßnahmen empfiehlt Dr. Osei für ein nachhaltiges junges Unternehmertum?",
+"reponses": [
+{ "id": "a", "texte": "Die Schließung öffentlicher Universitäten und deren Umwandlung in Gründerzentren.", "correcte": false },
+{ "id": "b", "texte": "Die Abschaffung des Mindestlohns, damit Start-ups Praktikanten kostenlos beschäftigen können.", "correcte": false },
+{ "id": "c", "texte": "Die Verpflichtung großer Konzerne, jedes scheiternde Jugendunternehmen aufzukaufen.", "correcte": false },
+{ "id": "d", "texte": "Die Verbindung von Zuschüssen mit Mentoring, Finanzwissen und sozialer Absicherung.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-024-07",
+"question": "Welche politische Kritik äußert Dr. Osei ganz am Ende des Interviews?",
+"reponses": [
+{ "id": "a", "texte": "Politiker dürfen Selbstständigkeit nicht als Vorwand nutzen, um die Schaffung stabiler Arbeitsplätze zu vernachlässigen.", "correcte": true },
+{ "id": "b", "texte": "Regierungen geben zu viel Steuergeld für Arbeitslosenunterstützung junger Erwachsener aus.", "correcte": false },
+{ "id": "c", "texte": "Ökonomen haben das Ausmaß der weltweiten Jugendarbeitslosigkeit stark übertrieben.", "correcte": false },
+{ "id": "d", "texte": "Junge Menschen sind zu bequem, um auf wettbewerbsintensiven Märkten Risiken einzugehen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-024-08",
+"question": "Wie lässt sich Dr. Oseis Haltung zum Thema junges Unternehmertum charakterisieren?",
+"reponses": [
+{ "id": "a", "texte": "Bedingungslos begeistert, da er darin den einzigen Weg zur wirtschaftlichen Erholung sieht.", "correcte": false },
+{ "id": "b", "texte": "Völlig ablehnend, weil junge Menschen grundsätzlich keine Firmen gründen sollten.", "correcte": false },
+{ "id": "c", "texte": "Ausgewogen und realistisch, indem er Chancen anerkennt, aber vor einseitiger Überbetonung warnt.", "correcte": true },
+{ "id": "d", "texte": "Gleichgültig, da wirtschaftliche Entwicklungen nicht durch Politik beeinflusst werden könnten.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "b025",
+"titre": "Das Verschwinden bestimmter Berufe durch neue Technologien",
+"titre2": "Exercice b025",
+"texte": [
+"Im gesamten Verlauf der Wirtschaftsgeschichte haben technologische Durchbrüche die Berufslandschaft stetig umgestaltet, einst unverzichtbare Tätigkeiten überflüssig gemacht und zugleich völlig neue Wirtschaftszweige hervorgebracht. Ebenso wie die Einführung der Elektrizität den Beruf des städtischen Laternenanzünders auslöschte und Automobile die Kutscher verdrängten, lassen gegenwärtige Fortschritte in künstlicher Intelligenz, Robotik und Softwareautomatisierung zahlreiche traditionelle Rollen rasch schrumpfen. Von Supermarktkassierern und Bankangestellten bis hin zu Sachbearbeitern in Rechtsabteilungen und Datenerfassern gehen ganze Beschäftigungsfelder in beispiellosem Tempo zurück. Dennoch bleibt die Frage, ob dieser technologische Umbruch in massenhafter struktureller Verdrängung oder in einer qualitativen Aufwertung menschlicher Arbeit mündet, eine der prägenden Debatten unseres Jahrhunderts.",
+"Optimistische Ökonomen verweisen auf historische Vorbilder, um zu belegen, dass technologischer Wandel langfristig mehr Chancen schafft als vernichtet. Als im späten zwanzigsten Jahrhundert Geldautomaten eingeführt wurden, sagten viele das sofortige Aussterben der Bankkassierer voraus; stattdessen ermöglichten geringere Betriebskosten den Banken, mehr Filialen zu eröffnen und menschliche Mitarbeiter in höherwertige Kundenberatungsrollen zu versetzen. In ähnlicher Weise argumentieren Befürworter, dass moderne Algorithmen Beschäftigte von eintönigen Routineaufgaben befreien werden, sodass sie sich auf komplexe Problemlösungen, zwischenmenschliche Pflege und kreative Innovationen konzentrieren können – Bereiche, in denen menschliches Einfühlungsvermögen unersetzlich bleibt.",
+"Kritiker warnen jedoch, dass sich die aktuelle Welle der Veränderung sowohl in ihrer Geschwindigkeit als auch in ihrer Reichweite grundlegend von früheren industriellen Revolutionen unterscheidet. Während die Mechanisierung vor allem körperliche Muskelkraft automatisierte, greift künstliche Intelligenz zunehmend in kognitive und akademische Berufe ein – etwa bei Radiologen, Finanzanalysten, Übersetzern und Softwareentwicklern. Zudem erfordern neu entstehende Hochtechnologieberufe oft hochspezialisierte Qualifikationen, die verdrängte Beschäftigte mittleren Alters nicht über Nacht erwerben können. Folglich droht technologischer Fortschritt ohne vorausschauendes Gegensteuern die Einkommensungleichheit zu vertiefen.",
+"Letztlich ist das Verschwinden bestimmter Berufe weder ein Grund zur Panik noch ein Anlass zur Selbstzufriedenheit. Technologie allein bestimmt nicht über soziale Ergebnisse; vielmehr entscheiden politische Weichenstellungen darüber, wie ihre Gewinne verteilt werden. Durch erhebliche Investitionen in zugängliche Weiterbildungsprogramme, die Modernisierung sozialer Sicherungsnetze und eine menschenzentrierte Arbeitsmarktpolitik können Gesellschaften sicherstellen, dass technischer Fortschritt die menschliche Würde stärkt, statt Beschäftigte überflüssig zu machen."
+],
+"audios": [],
+"questions": [
+{
+"id": "q-de-read-b2-025-01",
+"question": "Warum erwähnt der Autor im ersten Absatz städtische Laternenanzünder und Kutscher?",
+"reponses": [
+{ "id": "a", "texte": "Um zu zeigen, dass neue Technologien historisch schon immer alte Berufe ersetzt und neue geschaffen haben.", "correcte": true },
+{ "id": "b", "texte": "Um dafür zu plädieren, in modernen Städten zu Verkehrsmitteln des 19. Jahrhunderts zurückzukehren.", "correcte": false },
+{ "id": "c", "texte": "Um zu beweisen, dass die Elektrifizierung in der Vergangenheit dauerhafte Massenarbeitslosigkeit auslöste.", "correcte": false },
+{ "id": "d", "texte": "Um anzudeuten, dass körperliche Arbeit sicherer ist als die Arbeit an modernen Computern.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-025-02",
+"question": "Was geschah laut dem Text nach der Einführung von Geldautomaten?",
+"reponses": [
+{ "id": "a", "texte": "Alle menschlichen Bankangestellten wurden innerhalb von fünf Jahren entlassen.", "correcte": false },
+{ "id": "b", "texte": "Kunden boykottierten die Automaten und verlangten weiterhin klassische Papierschalter.", "correcte": false },
+{ "id": "c", "texte": "Die Bankgebühren stiegen aufgrund teurer Maschinenwartung sprunghaft an.", "correcte": false },
+{ "id": "d", "texte": "Banken eröffneten mehr Filialen und setzten ihre Mitarbeiter verstärkt in der Kundenberatung ein.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-025-03",
+"question": "Wodurch unterscheidet sich die heutige technologische Revolution laut Kritikern von früheren Umbrüchen?",
+"reponses": [
+{ "id": "a", "texte": "Sie betrifft ausschließlich landwirtschaftliche Arbeitskräfte in Entwicklungsländern.", "correcte": false },
+{ "id": "b", "texte": "Sie verläuft schneller und automatisiert geistige Büroberufe statt nur körperlicher Arbeit.", "correcte": true },
+{ "id": "c", "texte": "Sie vollzieht sich deutlich langsamer und lässt Beschäftigten Jahrzehnte zur Anpassung.", "correcte": false },
+{ "id": "d", "texte": "Sie stützt sich ausschließlich auf erneuerbare Energiequellen statt auf fossile Brennstoffe.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-025-04",
+"question": "Warum fällt verdrängten Beschäftigten der Wechsel in neu geschaffene Technologieberufe oft schwer?",
+"reponses": [
+{ "id": "a", "texte": "Technologieunternehmen weigern sich grundsätzlich, Bewerber über dreißig einzustellen.", "correcte": false },
+{ "id": "b", "texte": "Hochtechnologieberufe zahlen deutlich weniger als klassische Einzelhandels- oder Bürotätigkeiten.", "correcte": false },
+{ "id": "c", "texte": "Neue Stellen erfordern oft hochspezialisierte Kenntnisse, deren Erwerb viel Zeit beansprucht.", "correcte": true },
+{ "id": "d", "texte": "Alle neuen Technologiearbeitsplätze befinden sich in abgelegenen ländlichen Regionen.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-025-05",
+"question": "Was bedeutet das Verb „greift ... ein“ im dritten Absatz („greift künstliche Intelligenz zunehmend in kognitive ... Berufe ein“)?",
+"reponses": [
+{ "id": "a", "texte": "Dringt schrittweise in Arbeitsbereiche vor und übernimmt dort bisher menschliche Aufgaben.", "correcte": true },
+{ "id": "b", "texte": "Schützt und festigt bestehende berufliche Grenzen dauerhaft.", "correcte": false },
+{ "id": "c", "texte": "Arbeitet harmonisch mit menschlichen Fachärzten und Übersetzern zusammen.", "correcte": false },
+{ "id": "d", "texte": "Zieht sich aufgrund technischer Grenzen rasch aus anspruchsvollen Sektoren zurück.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-025-06",
+"question": "Was bedeutet das Substantiv „Selbstzufriedenheit“ im letzten Absatz?",
+"reponses": [
+{ "id": "a", "texte": "Extreme Angst und Widerstand gegenüber wissenschaftlichem Fortschritt.", "correcte": false },
+{ "id": "b", "texte": "Unkritische Sorglosigkeit, die mögliche Risiken und Handlungsbedarf ignoriert.", "correcte": true },
+{ "id": "c", "texte": "Strenger Gehorsam gegenüber unternehmerischen Managementvorgaben.", "correcte": false },
+{ "id": "d", "texte": "Großzügige finanzielle Unterstützung für arbeitslose Bürgerinnen und Bürger.", "correcte": false }
+]
+},
+{
+"id": "q-de-read-b2-025-07",
+"question": "Was entscheidet laut dem Autor letztlich darüber, ob Technologie den Beschäftigten nützt oder schadet?",
+"reponses": [
+{ "id": "a", "texte": "Die Geschwindigkeit, mit der moderne Computerprozessoren hergestellt werden.", "correcte": false },
+{ "id": "b", "texte": "Ob Verbraucher aufhören, automatisierte Produkte und Dienstleistungen zu kaufen.", "correcte": false },
+{ "id": "c", "texte": "Die natürlichen Gesetze von Angebot und Nachfrage ohne staatliche Eingriffe.", "correcte": false },
+{ "id": "d", "texte": "Politische Entscheidungen zu Weiterbildung, sozialer Sicherung und Arbeitsmarktgestaltung.", "correcte": true }
+]
+},
+{
+"id": "q-de-read-b2-025-08",
+"question": "Welche Aussage fasst die Hauptargumentation des Essays am treffendsten zusammen?",
+"reponses": [
+{ "id": "a", "texte": "Regierungen sollten künstliche Intelligenz verbieten, um traditionelle Arbeitsplätze zu retten.", "correcte": false },
+{ "id": "b", "texte": "Historische Beispiele beweisen, dass Beschäftigte bei Branchenumbrüchen keinerlei Hilfe benötigen.", "correcte": false },
+{ "id": "c", "texte": "Technischer Wandel lässt zwar manche Berufe verschwinden, doch kluge Sozialpolitik ermöglicht faire Übergänge.", "correcte": true },
+{ "id": "d", "texte": "Nur körperlich arbeitende Beschäftigte laufen Gefahr, ihren Arbeitsplatz durch Automatisierung zu verlieren.", "correcte": false }
+]
+}
+]
 }
 ]
