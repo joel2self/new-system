@@ -5064,5 +5064,1276 @@
 ]
 }
 ]
+},
+{
+    "id": "en-c2-005-01",
+    "id2": "en-c2-005-01",
+    "titre": "Artificial Intelligence and the Redefinition of Human Agency",
+    "titre2": "Exercise 41",
+    "texte": [
+      "Philosophical and Technological Essay — Throughout every prior technological revolution—from the printing press and the steam engine to electricity and early computing—machines functioned largely as obedient amplifiers of explicit human intention. A hammer extended physical force, a telescope sharpened optical perception, and a spreadsheet accelerated arithmetic, yet the locus of judgment, purpose, and authorship remained unmistakably human. Contemporary artificial intelligence, however, introduces a qualitatively distinct rupture: for the first time, human beings are interacting with autonomous, probabilistic systems capable of generating persuasive prose, diagnosing medical images, composing software, filtering job applicants, and recommending judicial or financial decisions through statistical architectures whose internal reasoning remains opaque even to their creators. In delegating ever wider spheres of evaluation and choice to intelligent machines, humanity confronts an urgent existential and philosophical question: how is human agency itself being redefined when tools cease to be passive instruments and begin acting as cognitive proxies?",
+      "The first subtle transformation occurs through what philosophers of technology term 'frictionless delegation'. Whenever a writer relies on predictive text to complete sentences, a physician defers reflexively to an algorithmic diagnostic score, or a citizen navigates cities and relationships through automated recommendations, agency is rarely seized in a dramatic coup; rather, it erodes incrementally through convenience. Because algorithmic suggestions arrive instantaneously, fluently, and backed by the seductive aura of mathematical objectivity, human operators increasingly experience independent verification as an inefficient burden. Over time, genuine decision-making risks decaying into passive 'rubber-stamping'—leaving human beings formally responsible for outcomes whose underlying premises they neither examined nor understood.",
+      "This quiet erosion of active judgment is compounded by the epistemological opacity of modern deep-learning systems. Unlike classical rule-based software, where an engineer could trace a faulty outcome back to an explicit line of human-written code, large neural networks operate across billions of weighted parameters trained on vast, messy datasets. When an opaque model denies a loan, flags a welfare recipient for fraud, or ranks a candidate as unsuitable, the affected individual confronts a Kafkaesque wall of statistical correlation without intelligible explanation. Agency requires not merely the freedom to choose, but the capacity to demand and comprehend reasons; where algorithmic authority replaces transparent justification, citizens risk becoming subjects of inscrutable calculation.",
+      "Equally profound is the reshaping of human creativity, language, and self-understanding in an environment saturated with synthetic intelligence. Language has never been merely a neutral utility for transmitting data; it is the primary medium through which human beings wrestle with ambiguity, discover what they think, and forge an authentic voice. When generative systems effortlessly produce fluent, plausible summaries, essays, and artworks in seconds, there is a growing temptation to mistake statistical average for creative insight and polished fluency for genuine understanding. If human beings outsource the difficult, hesitant labour of writing, interpreting, and struggling with complex ideas, they risk atrophying the very intellectual muscles through which autonomous thought is formed.",
+      "The bitter irony of contemporary artificial intelligence rhetoric is that while engineers frequently anthropomorphise machines—describing them as 'thinking', 'hallucinating', or 'reasoning'—social and economic institutions simultaneously mechanise human beings, measuring workers' keystrokes, warehouse movements, and emotional tone against algorithmic efficiency benchmarks. By attributing agency to statistical models while reducing human workers to predictable variables within automated workflows, technological ideology inverts the proper moral hierarchy between persons and tools.",
+      "Preserving and enriching human agency in the age of artificial intelligence does not require a Luddite rejection of computational tools, which hold extraordinary promise for accelerating scientific discovery, climate modelling, accessibility, and medical research. Instead, it demands designing technologies around the principle of 'cognitive augmentation' rather than cognitive replacement—requiring explainable models in high-stakes public decisions, preserving meaningful human contestability, protecting creative and educational spaces for unassisted human struggle, and legally anchoring moral accountability exclusively in human persons and institutions.",
+      "Ultimately, intelligence is not identical to agency, nor is predictive accuracy synonymous with wisdom. A machine may calculate probabilities across trillions of tokens, yet it possesses no lived mortality, no vulnerability to suffering, no moral conscience, and no stake in the shared human world. Redefining human agency for the twenty-first century means remembering that technology should expand our capacity to question, deliberate, and care—never relieve us of the irreplaceable human responsibility of deciding what is true, just, and worthy of our devotion."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-c2-005-01-1",
+        "url": "soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-c2-005-01-2",
+        "url": "soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-c2-005-01-01",
+        "question": "How does contemporary artificial intelligence differ from earlier technological inventions according to the opening paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "Whereas earlier tools merely extended explicit human intentions, modern AI systems autonomously generate evaluations and decisions through internal processes that are often opaque.", "correcte": true },
+          { "id": "b", "texte": "Earlier technologies such as the printing press and telescope already made autonomous moral and judicial decisions.", "correcte": false },
+          { "id": "c", "texte": "Contemporary AI systems rely exclusively on simple, transparent arithmetic rules written line by line by human engineers.", "correcte": false },
+          { "id": "d", "texte": "Modern artificial intelligence has eliminated all human involvement in software design and medical diagnosis.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-01-02",
+        "question": "What does the author mean by 'frictionless delegation' in the second paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "The gradual surrender of independent critical judgment because instant, convenient algorithmic recommendations make active verification feel unnecessary.", "correcte": true },
+          { "id": "b", "texte": "A dramatic political revolution in which machines forcibly seize control of government ministries.", "correcte": false },
+          { "id": "c", "texte": "A mechanical engineering technique used to reduce heat inside data centre cooling systems.", "correcte": false },
+          { "id": "d", "texte": "The refusal of physicians and writers to use any digital tools in their daily professional work.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-01-03",
+        "question": "Why does the opacity of deep-learning models threaten democratic and personal agency according to the third paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "Because when complex neural networks deny credit, jobs, or benefits without intelligible reasons, individuals cannot challenge or understand decisions affecting their lives.", "correcte": true },
+          { "id": "b", "texte": "Because classical rule-based software was completely incapable of tracing faulty code back to human programmers.", "correcte": false },
+          { "id": "c", "texte": "Because statistical correlation always provides clear, morally justified explanations for every automated rejection.", "correcte": false },
+          { "id": "d", "texte": "Because modern neural networks operate using fewer than a dozen transparent parameters.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-01-04",
+        "question": "What intellectual risk does over-reliance on generative text and media pose according to the fourth paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "Outsourcing the demanding process of writing and grappling with ambiguity weakens the critical thinking skills through which authentic thought develops.", "correcte": true },
+          { "id": "b", "texte": "Generative models always produce ungrammatical, incoherent sentences that nobody finds persuasive.", "correcte": false },
+          { "id": "c", "texte": "Language serves purely as a technical tool for moving data and plays no role in human self-understanding.", "correcte": false },
+          { "id": "d", "texte": "Polished algorithmic fluency guarantees genuine comprehension and original philosophical insight.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-01-05",
+        "question": "What ironic inversion in contemporary technological culture does the author highlight in the fifth paragraph?",
+        "reponses": [
+        { "id": "a", "texte": "While human-like qualities such as thinking are attributed to statistical machines, human workers are increasingly monitored and treated like predictable machine parts.", "correcte": true },
+{ "id": "b", "texte": "Engineers refuse to use human metaphors when describing artificial intelligence models.", "correcte": false },
+{ "id": "c", "texte": "Automated workplace surveillance has freed warehouse and office staff from efficiency metrics.", "correcte": false },
+{ "id": "d", "texte": "Modern institutions consistently prioritise human moral dignity over algorithmic productivity scores.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-01-06",
+"question": "What does the phrase 'passive rubber-stamping' signify at the end of the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Approving automated recommendations automatically without independent scrutiny, while still bearing nominal responsibility for the outcome.", "correcte": true },
+{ "id": "b", "texte": "Using traditional ink stamps to certify historical archives in public libraries.", "correcte": false },
+{ "id": "c", "texte": "Rejecting all algorithmic suggestions in favour of slow manual calculations.", "correcte": false },
+{ "id": "d", "texte": "Designing physical keyboards for high-speed data entry operators.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-01-07",
+"question": "What does the expression 'cognitive augmentation' mean in the sixth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Designing technologies to support and sharpen human reasoning and creativity rather than replacing active human thought.", "correcte": true },
+{ "id": "b", "texte": "Surgically implanting microchips into students' brains to eliminate the need for reading or study.", "correcte": false },
+{ "id": "c", "texte": "Abolishing computational tools in scientific and medical research laboratories.", "correcte": false },
+{ "id": "d", "texte": "Transferring legal and moral accountability from human institutions to autonomous software.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-01-08",
+"question": "Which safeguards does the author propose in the sixth paragraph for governing artificial intelligence?",
+"reponses": [
+{ "id": "a", "texte": "Mandating explainable systems in consequential decisions, ensuring human appeal rights, protecting unassisted learning, and keeping legal accountability strictly human.", "correcte": true },
+{ "id": "b", "texte": "Banning all use of computational models in climate science and medical diagnostics.", "correcte": false },
+{ "id": "c", "texte": "Granting autonomous algorithms full legal personhood so corporations are no longer liable for errors.", "correcte": false },
+{ "id": "d", "texte": "Replacing school essay writing entirely with automated text generation.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-01-09",
+"question": "Why can machines never replace human moral agency according to the concluding paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Because probabilistic calculation lacks mortal experience, vulnerability, conscience, and personal stake in a shared human community.", "correcte": true },
+{ "id": "b", "texte": "Because computers are mathematically incapable of processing large quantities of textual tokens.", "correcte": false },
+{ "id": "c", "texte": "Because predictive accuracy is completely useless in scientific research.", "correcte": false },
+{ "id": "d", "texte": "Because human beings have no moral responsibility to question or deliberate over technological outcomes.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-01-10",
+"question": "Which statement best synthesises the central argument of this essay?",
+"reponses": [
+{ "id": "a", "texte": "While AI offers vast scientific potential, uncritical reliance on opaque probabilistic systems erodes human judgment, language, and accountability, requiring human-centred design that augments rather than replaces conscious agency.", "correcte": true },
+{ "id": "b", "texte": "Humanity should reject all artificial intelligence technologies to return to pre-digital methods of work and inquiry.", "correcte": false },
+{ "id": "c", "texte": "Deep-learning algorithms provide transparent moral explanations that make human oversight unnecessary.", "correcte": false },
+{ "id": "d", "texte": "Outsourcing writing and critical evaluation to generative models strengthens independent intellectual muscles.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "en-c2-005-02",
+"id2": "en-c2-005-02",
+"titre": "Algorithmic Governance and the Erosion of Democratic Deliberation",
+"titre2": "Exercise 42",
+"texte": [
+"Political and Digital Chronicle — Modern constitutional democracy rests upon a deceptively simple normative premise: that laws and public policies derive their legitimacy from open, transparent deliberation among free and equal citizens capable of scrutinising reasons and holding decision-makers to account. Over the past two decades, however, a quiet transformation has altered how public authority and civic debate actually operate: across both state bureaucracies and private digital platforms, algorithmic governance has steadily assumed functions once reserved for democratic institutions. From predictive policing maps and automated welfare eligibility scoring to social media ranking algorithms that curate what billions of citizens read, see, and debate each day, opaque computational architectures increasingly shape collective life without legislative debate, public visibility, or meaningful consent.",
+"The first casualty of algorithmic governance in the public sector is the principle of transparent, contestable administration. When municipal authorities, tax agencies, immigration boards, or judicial risk-assessment tools rely on proprietary machine-learning models to allocate social housing, flag benefit recipients for investigation, or estimate criminal recidivism, political value judgments are disguised as neutral mathematical outputs. Every predictive algorithm embeds contested human assumptions—which historical arrest data to trust, how to weigh false positives against false negatives, and what counts as 'risk' or 'efficiency'—yet wrapping those policy choices inside trade-secret software insulates them from parliamentary scrutiny and citizen challenge.",
+"Equally profound is the transformation of the democratic public sphere by engagement-maximising platform algorithms. As Jürgen Habermas argued in his classic account of deliberative democracy, healthy self-government requires shared public forums where citizens encounter diverse viewpoints and weigh competing arguments through rational exchange. Commercial social media architectures, by contrast, are engineered around attention extraction and advertising revenue: empirical research consistently demonstrates that recommendation engines systematically amplify moral outrage, tribal hostility, and sensationalist oversimplification because emotionally charged content holds user attention longer than nuanced policy analysis.",
+"This algorithmic curation produces a double distortion of democratic deliberation. On one hand, personalised filter bubbles and ideological echo chambers fragment the shared factual horizon without which citizens cannot even agree on what problems exist to be debated. On the other hand, the relentless velocity of viral outrage rewards performative political theatre over patient legislative compromise—pressuring elected representatives to govern for instant algorithmic applause rather than long-term public stewardship.",
+"The subtle irony of algorithmic governance is that it often presents itself as a cure for human bias and political gridlock, yet ends up amplifying historical inequalities while dissolving democratic accountability. Because machine-learning models are trained on historical records scarred by past discrimination in policing, lending, hiring, and healthcare, automated systems frequently reproduce and scale systemic inequities under a veneer of scientific impartiality. When harm occurs, responsibility evaporates into a labyrinth of software vendors, data brokers, and public officials who each claim the algorithm merely followed objective data.",
+"Defending democratic deliberation in the algorithmic age does not mean banning computational analytics from public administration or regulating online speech through heavy-handed state censorship. Rather, it requires subjecting algorithmic power to constitutional principles of transparency, proportionality, and popular sovereignty: banning proprietary secrecy in public-sector algorithms, mandating independent algorithmic impact audits, prohibiting surveillance-based micro-targeting in political advertising, and fostering public-interest digital infrastructures designed for civic dialogue rather than outrage maximisation.",
+"Ultimately, democracy is not merely an optimisation problem to be solved by predictive software; it is a collective moral conversation about the kind of society we wish to inhabit together. Whenever opaque algorithms replace public reason and engagement metrics displace civic deliberation, citizens are reduced from co-authors of their laws to data points steered by invisible architectures. Preserving self-government requires ensuring that code remains subordinate to constitution—and that human judgment never surrenders its voice to the silent tyranny of the algorithm."
+],
+"audios": [
+{
+"id": "audio-en-read-c2-005-02-1",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-c2-005-02-2",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-c2-005-02-01",
+"question": "How is algorithmic governance altering democratic societies according to the opening paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Opaque computational systems in both government agencies and digital platforms increasingly make consequential public decisions and shape debate without democratic scrutiny.", "correcte": true },
+{ "id": "b", "texte": "Predictive policing and social media algorithms have strengthened open parliamentary debate over every administrative rule.", "correcte": false },
+{ "id": "c", "texte": "Constitutional democracies have banned all automated scoring systems from public bureaucracies.", "correcte": false },
+{ "id": "d", "texte": "Citizens actively vote on the design of recommendation algorithms before platforms deploy them.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-02-02",
+"question": "Why does using proprietary algorithms in public administration undermine accountability according to the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Contested political choices embedded in software design are hidden behind trade secrets and presented as neutral mathematical facts, shielding them from challenge.", "correcte": true },
+{ "id": "b", "texte": "Predictive models contain no human assumptions and always measure risk with absolute moral objectivity.", "correcte": false },
+{ "id": "c", "texte": "Commercial software companies publish all source code and training weights for free public inspection.", "correcte": false },
+{ "id": "d", "texte": "Automated welfare and judicial scoring tools make it easier for citizens to overturn unfair administrative decisions.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-02-03",
+"question": "How do commercial social media algorithms distort the public sphere described by Jürgen Habermas in the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Because advertising profit depends on capturing attention, ranking systems favour outrage and tribal conflict over rational, nuanced civic exchange.", "correcte": true },
+{ "id": "b", "texte": "Recommendation engines systematically suppress emotionally charged content in order to promote calm policy analysis.", "correcte": false },
+{ "id": "c", "texte": "Commercial platforms are engineered primarily to foster consensus across diverse political viewpoints.", "correcte": false },
+{ "id": "d", "texte": "Jürgen Habermas argued that deliberative democracy functions best when citizens avoid encountering opposing arguments.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-02-04",
+"question": "How does algorithmic curation affect elected politicians according to the fourth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Viral outrage incentivises dramatic posturing for immediate online applause at the expense of patient compromise and long-term governance.", "correcte": true },
+{ "id": "b", "texte": "Personalised filter bubbles unite all voters around a single shared factual understanding of national problems.", "correcte": false },
+{ "id": "c", "texte": "Social media velocity encourages lawmakers to ignore short-term popularity and focus exclusively on multi-decade reforms.", "correcte": false },
+{ "id": "d", "texte": "Ideological echo chambers eliminate political polarisation between rival parties.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-02-05",
+"question": "What paradox regarding bias and responsibility does the author expose in the fifth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Promised as neutral cures for human prejudice, algorithms trained on biased historical data actually automate inequality while allowing officials and vendors to evade blame.", "correcte": true },
+{ "id": "b", "texte": "Machine-learning models automatically erase all historical discrimination present in policing and lending records.", "correcte": false },
+{ "id": "c", "texte": "When an automated system causes harm, public officials and data brokers immediately accept full personal responsibility.", "correcte": false },
+{ "id": "d", "texte": "Historical datasets used to train public algorithms are completely free from past social inequities.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-02-06",
+"question": "What does the phrase 'a veneer of scientific impartiality' signify in the fifth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "A misleading outward appearance of objective neutrality that disguises underlying human biases and unequal outcomes.", "correcte": true },
+{ "id": "b", "texte": "A thin layer of protective wood applied to laboratory tables in university physics departments.", "correcte": false },
+{ "id": "c", "texte": "Verified mathematical proof that an algorithm treats every demographic group fairly.", "correcte": false },
+{ "id": "d", "texte": "Transparent peer review conducted by independent sociologists prior to software deployment.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-02-07",
+"question": "Which democratic reforms does the author propose in the sixth paragraph to regulate algorithmic power?",
+"reponses": [
+{ "id": "a", "texte": "Outlawing secret proprietary code in public agencies, requiring independent audits, banning surveillance-based political ads, and building civic-minded digital spaces.", "correcte": true },
+{ "id": "b", "texte": "Instituting strict government censorship of individual citizens' political opinions online.", "correcte": false },
+{ "id": "c", "texte": "Prohibiting public administrations from using any computers or statistical records.", "correcte": false },
+{ "id": "d", "texte": "Allowing private software vendors to keep public welfare algorithms permanently confidential.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-02-08",
+"question": "What does the phrase 'surveillance-based micro-targeting in political advertising' mean in the sixth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Using detailed personal data tracked from individuals' online behaviour to deliver tailored, often manipulative political messages unseen by the wider public.", "correcte": true },
+{ "id": "b", "texte": "Broadcasting identical television campaign commercials to every household across a nation.", "correcte": false },
+{ "id": "c", "texte": "Using satellite imagery to monitor compliance with international arms-control treaties.", "correcte": false },
+{ "id": "d", "texte": "Conducting anonymous public opinion polls outside municipal polling stations.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-02-09",
+"question": "What distinction concludes the chronicle in the seventh paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Democracy is an ongoing moral conversation among self-governing citizens rather than a technical optimisation task for opaque software.", "correcte": true },
+{ "id": "b", "texte": "Predictive algorithms are far better suited than human deliberation to decide what kind of society citizens should build.", "correcte": false },
+{ "id": "c", "texte": "Engagement metrics accurately reflect the deepest ethical consensus of a democratic community.", "correcte": false },
+{ "id": "d", "texte": "Constitutional principles must adapt to obey commercial software architectures.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-02-10",
+"question": "Which statement best synthesises the central argument of this chronicle?",
+"reponses": [
+{ "id": "a", "texte": "Opaque public-sector algorithms and outrage-driven social platforms erode democratic accountability and shared deliberation, requiring transparency, independent audits, and civic-oriented digital governance.", "correcte": true },
+{ "id": "b", "texte": "Automated decision-making in policing, welfare, and media has eliminated human bias and strengthened democratic consensus.", "correcte": false },
+{ "id": "c", "texte": "Protecting trade secrets for private software vendors is more important than allowing citizens to contest public administrative decisions.", "correcte": false },
+{ "id": "d", "texte": "State censorship of online opinions is the only effective way to restore rational public debate.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "en-c2-005-03",
+"id2": "en-c2-005-03",
+"titre": "The Epistemic Crisis in the Age of Synthetic Media and Deepfakes",
+"titre2": "Exercise 43",
+"texte": [
+"Epistemological and Media Essay — For nearly two centuries following the invention of photography and audio recording, human societies relied upon an implicit evidentiary compact: while written accounts or partisan speeches might distort reality, a photograph, a video clip, or a voice recording carried the persuasive weight of direct sensory witness. Seeing and hearing were treated as anchors of shared factual reality in courtrooms, journalism, diplomacy, and historical memory. Today, rapid advances in generative adversarial networks, diffusion models, and voice-cloning synthesis have shattered that evidentiary compact. In an age where photorealistic video, convincing audio fabrications, and fluent synthetic text can be generated in seconds at negligible cost, humanity confronts a profound epistemic crisis: how can democratic societies sustain shared truth when our senses themselves can no longer distinguish authentic documentation from algorithmic fabrication?",
+"The most immediate danger of synthetic media is not merely that gullible audiences will be tricked by isolated fabricated videos—a political leader uttering inflammatory words never spoken, a forged diplomatic crisis, or fabricated battlefield footage—though such illusions can spark real-world panic, market crashes, or violence before corrections ever catch up. Far more insidious is what legal scholars Bobby Chesney and Danielle Citron have termed the 'liar's dividend': once citizens know that any audio or video recording might be a deepfake, powerful actors caught on genuine recordings committing corruption, abuse, or war crimes can effortlessly dismiss authentic evidence as synthetic manipulation.",
+"This epistemic erosion strikes at the very heart of institutional trust across journalism, justice, and science. Investigative journalism depends on verifiable documentary sources; judicial systems rely on authenticated visual and audio evidence; and democratic elections require a baseline consensus on what candidates actually said and did. When the cost of producing plausible fabrication approaches zero while the cost of forensic verification remains slow, technical, and inaccessible to ordinary citizens, public discourse risks collapsing into radical scepticism—a state in which people believe nothing except what already flatters their tribal prejudices.",
+"Compounding this visual and auditory uncertainty is the industrial-scale pollution of the digital information commons by synthetic text. As automated language models flood websites, academic repositories, review platforms, and social networks with billions of plausible-sounding yet unverified articles, fake citations, and fabricated grassroots comments, the internet risks cannibalising its own reliability. Future researchers and ordinary readers alike face an increasingly murky archive where genuine human testimony and primary documentation are buried beneath mountains of algorithmic mimicry.",
+"The subtle irony of this synthetic deluge is that technological solutions alone—such as automated deepfake detectors or digital watermarking—consistently lag behind generative capabilities in a perpetual cat-and-mouse race. Every detection algorithm trained to spot subtle pixel artifacts or acoustic anomalies quickly becomes training feedback that teaches the next generation of synthetic models how to erase those very telltale traces. Relying purely on technical patches to cure an epistemic crisis mistakes a profound social and institutional challenge for a mere software bug.",
+"Navigating the age of synthetic media without surrendering to nihilistic cynicism therefore requires rebuilding robust chains of human and institutional provenance. Cryptographic content-authenticity standards embedded at the moment of capture—verifying when, where, and by what device a genuine recording was created—must be paired with strict legal liability for malicious impersonation, renewed investment in independent public-interest journalism with rigorous editorial verification, and universal education in critical source evaluation.",
+"Ultimately, truth has never been guaranteed solely by the mechanics of cameras or microphones; it has always rested upon trustworthy human institutions, professional integrity, and a citizenry willing to value evidence over comforting illusion. In a world awash with synthetic mirages, preserving a shared reality demands reinforcing those human anchors of accountability—reminding ourselves that while machines can imitate the surface of the world, only responsible human beings can vouch for its truth."
+],
+"audios": [
+{
+"id": "audio-en-read-c2-005-03-1",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-c2-005-03-2",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-c2-005-03-01",
+"question": "What long-standing assumption about evidence has been undermined by synthetic media according to the opening paragraph?",
+"reponses": [
+{ "id": "a", "texte": "The belief that photographic, video, and audio recordings serve as reliable, direct proof of real events rather than easily fabricated illusions.", "correcte": true },
+{ "id": "b", "texte": "The idea that written speeches and partisan newspapers could ever distort historical reality.", "correcte": false },
+{ "id": "c", "texte": "The assumption that generating photorealistic deepfakes remains prohibitively expensive and slow.", "correcte": false },
+{ "id": "d", "texte": "The principle that courtrooms and diplomats should never rely on documented visual evidence.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-03-02",
+"question": "What does the 'liar's dividend' describe in the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "The advantage gained by guilty actors who can dismiss genuine incriminating recordings as fake simply because synthetic media exists.", "correcte": true },
+{ "id": "b", "texte": "Financial profits earned by software engineers who create educational deepfake detection tools.", "correcte": false },
+{ "id": "c", "texte": "A legal fine imposed on politicians caught spreading fabricated battlefield footage.", "correcte": false },
+{ "id": "d", "texte": "The heightened public trust in authentic video recordings caused by widespread awareness of voice cloning.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-03-03",
+"question": "How does the asymmetry between fabrication and verification affect public discourse according to the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Because fake content is effortless to produce while forensic proof is slow and complex, citizens retreat into cynical disbelief and accept only what fits their biases.", "correcte": true },
+{ "id": "b", "texte": "Forensic verification is far faster and cheaper for ordinary citizens than generating synthetic media.", "correcte": false },
+{ "id": "c", "texte": "Widespread scepticism encourages voters to verify every claim objectively regardless of tribal prejudice.", "correcte": false },
+{ "id": "d", "texte": "Judicial systems and investigative journalists no longer require authenticated documentary evidence.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-03-04",
+"question": "What threat does synthetic text pose to the digital archive according to the fourth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Flooding the internet with unverified articles, fake citations, and synthetic comments buries genuine human testimony and degrades future knowledge.", "correcte": true },
+{ "id": "b", "texte": "Automated language models exclusively publish peer-reviewed primary historical documents.", "correcte": false },
+{ "id": "c", "texte": "Synthetic text has improved the accuracy of academic repositories and consumer review platforms.", "correcte": false },
+{ "id": "d", "texte": "Algorithmic mimicry makes it easier for future researchers to locate authentic eyewitness accounts.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-03-05",
+"question": "Why are automated deepfake detection tools insufficient on their own according to the fifth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Because generative models rapidly learn from detection algorithms to eliminate flaws, turning technical fixes into an endless arms race.", "correcte": true },
+{ "id": "b", "texte": "Because detection algorithms have already achieved permanent one-hundred-percent accuracy against all synthetic media.", "correcte": false },
+{ "id": "c", "texte": "Because pixel artifacts and acoustic anomalies never change across newer generations of AI models.", "correcte": false },
+{ "id": "d", "texte": "Because the epistemic crisis is purely a minor software glitch with no social dimension.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-03-06",
+"question": "What does the phrase 'chains of human and institutional provenance' refer to in the sixth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Verifiable records of origin combining technical capture authentication with accountable journalistic, legal, and editorial verification.", "correcte": true },
+{ "id": "b", "texte": "Supply chains used to manufacture optical lenses for digital cameras.", "correcte": false },
+{ "id": "c", "texte": "Anonymous social media accounts that share unverified rumours without editorial oversight.", "correcte": false },
+{ "id": "d", "texte": "Historical genealogies tracing the ancestry of prominent software developers.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-03-07",
+"question": "What does the verb 'cannibalising' imply in the fourth paragraph ('the internet risks cannibalising its own reliability')?",
+"reponses": [
+{ "id": "a", "texte": "Destroying its own trustworthiness and usefulness from within by saturating digital spaces with self-referential synthetic fabrications.", "correcte": true },
+{ "id": "b", "texte": "Expanding server storage capacity by recycling obsolete computer hardware.", "correcte": false },
+{ "id": "c", "texte": "Strengthening the credibility of online encyclopaedias through automated text generation.", "correcte": false },
+{ "id": "d", "texte": "Protecting primary historical archives from commercial advertising.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-03-08",
+"question": "Which combined measures does the author advocate in the sixth paragraph to safeguard shared reality?",
+"reponses": [
+{ "id": "a", "texte": "Cryptographic capture authentication, legal accountability for harmful impersonation, strong independent journalism, and critical media education.", "correcte": true },
+{ "id": "b", "texte": "Relying exclusively on automated deepfake detectors while defunding independent journalism.", "correcte": false },
+{ "id": "c", "texte": "Banning all digital cameras and audio recorders from courtrooms and newsrooms.", "correcte": false },
+{ "id": "d", "texte": "Exempting malicious voice-cloning impersonators from legal liability to protect innovation.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-03-09",
+"question": "What ultimate foundation of truth does the author reaffirm in the concluding paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Reliable human institutions, ethical verification standards, and citizens committed to evidence rather than mechanical recording devices alone.", "correcte": true },
+{ "id": "b", "texte": "The infallible mechanical perfection of cameras and microphones independent of human integrity.", "correcte": false },
+{ "id": "c", "texte": "The ability of generative machines to vouch morally for the authenticity of their own outputs.", "correcte": false },
+{ "id": "d", "texte": "Accepting comforting illusions whenever verifying factual evidence requires civic effort.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-03-10",
+"question": "Which statement best synthesises the central argument of this essay?",
+"reponses": [
+{ "id": "a", "texte": "Synthetic media and deepfakes undermine trust in audio-visual and textual evidence while granting wrongdoers the liar's dividend, requiring cryptographic provenance, legal accountability, independent journalism, and critical literacy.", "correcte": true },
+{ "id": "b", "texte": "Automated deepfake detectors alone will soon eliminate all deceptive synthetic media without requiring institutional or educational reform.", "correcte": false },
+{ "id": "c", "texte": "Widespread awareness of deepfakes makes it harder for corrupt officials to deny authentic recordings of their misconduct.", "correcte": false },
+{ "id": "d", "texte": "Flooding online repositories with synthetic text enriches historical archives and simplifies academic research.", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "en-c2-005-04",
+    "id2": "en-c2-005-04",
+    "titre": "Digital Surveillance and the End of the Private Sphere",
+    "titre2": "Exercise 44",
+    "texte": [
+      "Philosophical and Legal Essay — Across modern constitutional thought, the private sphere was never conceived merely as a bourgeois shelter for eccentric hobbies or guilty secrets; it was recognised as the indispensable sanctuary in which autonomous individuality, dissenting thought, intimate trust, and democratic citizenship are incubated. Without a protected space shielded from the relentless gaze of state authorities, employers, and neighbours, human beings rarely dare to experiment with unconventional ideas, revise inherited beliefs, or organise political opposition. Yet over the past two decades, the convergence of ubiquitous smartphones, biometric sensors, smart-home ecosystems, predictive data brokers, and state intelligence architectures has quietly dismantled the material foundations of privacy—leaving contemporary citizens inhabiting a glass house where nearly every movement, search query, heart rate fluctuation, and private conversation leaves a permanent digital trace.",
+      "What distinguishes twenty-first-century surveillance from earlier authoritarian monitoring is its seamless, distributed, and seemingly voluntary character. Whereas twentieth-century secret police apparatuses relied on costly human informants, physical wiretaps, and overt intimidation, contemporary surveillance capitalism—as Shoshana Zuboff has incisively diagnosed—operates through seductive convenience. Citizens willingly carry tracking beacons in their pockets, install listening microphones in their kitchens, and surrender intimate biometric profiles in exchange for free navigation, personalised entertainment, and frictionless credit scoring. Because surveillance wears the friendly mask of user service rather than the uniform of a state censor, its cumulative erosion of autonomy goes largely unperceived.",
+      "Equally consequential is the symbiotic fusion between commercial data harvesting and state security power. Vast repositories of behavioural metadata accumulated by private technology conglomerates and opaque data brokers routinely become accessible to law enforcement, immigration authorities, and intelligence agencies—often bypassing the traditional constitutional warrants required to search a physical home. When a government can purchase or subpoena years of continuous location histories, private messaging metadata, and psychological vulnerability profiles without ever knocking on a citizen's door, traditional legal protections against unreasonable search and seizure are rendered functionally obsolete.",
+      "The psychological and civic cost of living under pervasive observability is profound: it induces a subtle, anticipatory self-censorship that hollows out democratic vitality from within. Behavioral research confirms that when individuals suspect their reading habits, medical searches, political associations, or financial transactions are permanently logged and scored, they instinctively gravitate toward safe, conventional orthodoxy. Dissenting movements lose the sheltered incubation space required to mature before facing public scrutiny, while marginalised communities disproportionately bear the brunt of algorithmic suspicion and predictive policing.",
+      "Defenders of pervasive data collection frequently dismiss privacy concerns with the familiar cliché that 'those who have nothing to hide have nothing to fear'. That maxim rests upon a fundamental misunderstanding of both human dignity and political power. First, privacy is not about concealing wrongdoing; it is about maintaining contextual integrity and personal sovereignty—deciding which facets of one's vulnerability, illness, grief, or political curiosity to share with whom. Second, what counts as 'nothing to hide' is never fixed by the citizen; it is defined retroactively by whichever government, insurer, employer, or algorithm happens to hold power tomorrow.",
+      "Reclaiming the private sphere in the digital age does not require abandoning connected technologies or retreating offline into isolation. Rather, it demands updating constitutional rights for an algorithmic century: enshrining strict data minimisation and purpose-limitation laws, banning the commercial sale of sensitive location and biometric profiles, prohibiting indiscriminate mass surveillance without individualized judicial warrants, protecting strong end-to-end encryption as a fundamental civic safeguard, and designing privacy-preserving public digital infrastructures.",
+      "Ultimately, a society that abolishes the private sphere does not produce transparent virtue; it produces timid conformity and asymmetric domination. Privacy is the oxygen of moral autonomy—the quiet, unmonitored space in which a human being becomes a self rather than a predictable profile. Preserving that sanctuary against both state overreach and commercial extraction remains one of the defining struggles for human freedom in the twenty-first century."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-c2-005-04-1",
+        "url": "soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-c2-005-04-2",
+        "url": "soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-c2-005-04-01",
+        "question": "Why did modern constitutional thought treat the private sphere as essential according to the opening paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "Because unmonitored personal space allows individuals to develop independent thought, intimate trust, and political dissent free from constant external pressure.", "correcte": true },
+          { "id": "b", "texte": "Because privacy was designed primarily to help wealthy citizens conceal illegal financial transactions from courts.", "correcte": false },
+          { "id": "c", "texte": "Because smartphone sensors and biometric trackers have strengthened physical barriers around private homes.", "correcte": false },
+          { "id": "d", "texte": "Because democratic citizenship thrives best when neighbours and employers observe every private conversation.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-04-02",
+        "question": "How does contemporary surveillance differ from twentieth-century authoritarian monitoring according to the second paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "Instead of relying on overt state intimidation and costly human spies, it operates invisibly through everyday digital conveniences that users willingly adopt.", "correcte": true },
+          { "id": "b", "texte": "Modern surveillance relies exclusively on uniformed secret police officers tapping physical telephone wires.", "correcte": false },
+          { "id": "c", "texte": "Shoshana Zuboff argued that personalised digital services protect users against any form of behavioural tracking.", "correcte": false },
+          { "id": "d", "texte": "Citizens openly refuse to use smartphones or smart-home devices whenever data collection is involved.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-04-03",
+        "question": "How does commercial data collection weaken traditional constitutional protections against state intrusion according to the third paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "State agencies can obtain detailed location, communication, and psychological records from private data brokers, circumventing traditional judicial search warrants.", "correcte": true },
+          { "id": "b", "texte": "Private technology conglomerates strictly refuse to share any metadata with law enforcement or intelligence agencies.", "correcte": false },
+          { "id": "c", "texte": "Constitutional rules requiring physical home search warrants automatically block governments from buying commercial data.", "correcte": false },
+          { "id": "d", "texte": "Behavioural metadata collected by apps is deleted immediately before any third party can access it.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-04-04",
+        "question": "What civic and psychological consequences follow from living under constant digital observation according to the fourth paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "People practise pre-emptive self-censorship toward safe orthodoxy, depriving dissenting ideas of space to develop while exposing minorities to heightened scrutiny.", "correcte": true },
+          { "id": "b", "texte": "Permanent logging of reading habits encourages citizens to explore radical political ideas more boldly.", "correcte": false },
+          { "id": "c", "texte": "Algorithmic scoring systems eliminate discrimination against marginalised communities in policing.", "correcte": false },
+          { "id": "d", "texte": "Anticipatory self-censorship strengthens democratic vitality by ensuring unanimous agreement.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-04-05",
+        "question": "How does the author refute the maxim 'those who have nothing to hide have nothing to fear' in the fifth paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "By showing that privacy protects personal dignity and control over sensitive vulnerabilities, and that future authorities or insurers can retroactively redefine what counts as suspicious.", "correcte": true },
+          { "id": "b", "texte": "By arguing that only people engaged in criminal wrongdoing ever require personal privacy.", "correcte": false },
+          { "id": "c", "texte": "By claiming that definitions of acceptable conduct remain permanently fixed across all future governments.", "correcte": false },
+          { "id": "d", "texte": "By asserting that sharing medical grief and vulnerability with employers has no impact on human dignity.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-04-06",
+"question": "What does the phrase 'contextual integrity' mean in the fifth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "The principle that personal information should flow only according to the norms appropriate to a specific social relationship, rather than being endlessly repurposed across contexts.", "correcte": true },
+{ "id": "b", "texte": "The architectural stability of historic courthouses in constitutional democracies.", "correcte": false },
+{ "id": "c", "texte": "Publishing all private medical and financial records online so that context is never misunderstood.", "correcte": false },
+{ "id": "d", "texte": "A software algorithm that verifies spelling accuracy in encrypted email messages.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-04-07",
+"question": "Which legal and technical safeguards does the author propose in the sixth paragraph to restore privacy?",
+"reponses": [
+{ "id": "a", "texte": "Enforcing data minimisation, banning commercial trade in sensitive personal data, requiring judicial warrants for surveillance, and protecting strong encryption.", "correcte": true },
+{ "id": "b", "texte": "Weakening end-to-end encryption so intelligence agencies can scan private messages automatically.", "correcte": false },
+{ "id": "c", "texte": "Requiring citizens to abandon all smartphones and disconnect permanently from the internet.", "correcte": false },
+{ "id": "d", "texte": "Permitting data brokers to sell biometric profiles freely so long as users receive free entertainment.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-04-08",
+"question": "What does the metaphor in the first paragraph—'inhabiting a glass house'—convey?",
+"reponses": [
+{ "id": "a", "texte": "Living in an environment of total transparency where private actions and habits are continuously visible to external observers.", "correcte": true },
+{ "id": "b", "texte": "A sustainable architectural trend using solar-heated glass walls in modern residential housing.", "correcte": false },
+{ "id": "c", "texte": "The fragile financial state of technology startups that lack physical office buildings.", "correcte": false },
+{ "id": "d", "texte": "A legal requirement forcing government ministries to hold all meetings in transparent rooms.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-04-09",
+"question": "What contrast concludes the essay in the seventh paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Abolishing privacy yields fearful conformity and unequal power rather than genuine virtue, whereas unmonitored space allows individuals to develop autonomous selfhood.", "correcte": true },
+{ "id": "b", "texte": "Total observability produces courageous moral virtue by eliminating all opportunity for private error.", "correcte": false },
+{ "id": "c", "texte": "Becoming a predictable algorithmic profile is the highest form of modern human freedom.", "correcte": false },
+{ "id": "d", "texte": "State overreach is far less dangerous to privacy than voluntary offline solitude.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-04-10",
+"question": "Which statement best synthesises the central argument of this essay?",
+"reponses": [
+{ "id": "a", "texte": "Convenience-driven commercial tracking and state data access are dismantling the private sphere, inducing self-censorship and unequal power, and requiring strong legal limits, encryption, and data minimisation to safeguard moral and democratic autonomy.", "correcte": true },
+{ "id": "b", "texte": "Because ordinary citizens have nothing to hide, pervasive biometric and location tracking poses no threat to democratic freedom.", "correcte": false },
+{ "id": "c", "texte": "The only way to protect personal privacy in the twenty-first century is to abolish digital technology entirely.", "correcte": false },
+{ "id": "d", "texte": "Traditional physical search warrants remain fully sufficient to prevent governments from accessing commercial metadata.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "en-c2-005-05",
+"id2": "en-c2-005-05",
+"titre": "Cognitive Offloading and the Transformation of Human Intelligence",
+"titre2": "Exercise 45",
+"texte": [
+"Cognitive and Cultural Chronicle — Ever since human beings first scratched tally marks onto bone, carved alphabets into clay, and compiled printed encyclopaedias, external tools have served as vital scaffolds for the human mind. In Plato's Phaedrus, King Thamus famously warned that the invention of writing would implant forgetfulness in learners' souls by encouraging reliance on external marks rather than internal memory—a critique that modern commentators often invoke to dismiss anxieties surrounding digital technologies as timeless technophobia. Yet while external memory aids undeniably freed human cognition for higher-order synthesis across millennia, contemporary digital and generative systems represent a qualitative leap in 'cognitive offloading': rather than merely storing facts we have already understood, search engines, GPS navigation, automated translation, and large language models increasingly perform the active work of orientation, synthesis, translation, and reasoning on our behalf.",
+"Cognitive scientists define cognitive offloading as the use of physical action or external tools to reduce the mental effort required to perform a task. In moderate, deliberate forms, offloading is an indispensable adaptive strategy: jotting down a shopping list or using a calculator for complex arithmetic liberates scarce working memory for creative problem-solving. Trouble arises, however, when offloading shifts from selective assistance to continuous substitution—bypassing the productive cognitive friction through which deep comprehension, spatial intuition, and long-term neural consolidation actually occur.",
+"Empirical studies across neuroscience and educational psychology reveal the subtle costs of habitual cognitive delegation. Research on satellite navigation demonstrates that drivers who rely reflexively on turn-by-turn GPS instructions fail to construct internal cognitive maps of their environment, exhibiting measurably reduced hippocampal activity compared to navigators who orient themselves through landmarks and memory. Similarly, experiments on the 'Google effect' show that when individuals expect information to remain effortlessly searchable online, they remember far less of the content itself—retaining merely the pathway to retrieve it rather than integrating knowledge into a coherent internal web of understanding.",
+"With the arrival of generative artificial intelligence capable of drafting essays, summarising dense books, writing software code, and solving multistep analytical problems on command, cognitive offloading has entered uncharted territory. Learning to write clearly, structure an argument, debug an error, or struggle through a difficult text is never merely about producing an external deliverable; the struggle itself is the transformative process by which the mind sharpens judgment, detects logical fallacies, and builds conceptual mastery. When students and professionals routinely delegate that formative struggle to generative proxies, they risk acquiring an illusion of competence—mistaking the fluency of an external tool for their own intellectual capability.",
+"The bitter irony of frictionless cognitive assistance is that it weakens the very expertise required to supervise the machine effectively. Identifying a subtle hallucination in an AI-generated legal brief, spotting a flawed medical assumption, or recognising an ideological bias in an automated summary presupposes deep domain knowledge cultivated through years of unassisted study and error. If a society stops training novices through demanding foundational practice because machines can already perform entry-level tasks, it steadily erodes the pipeline of genuine experts capable of auditing automated systems.",
+"Navigating this transformation wisely does not mean banning digital calculators, search engines, or artificial intelligence from classrooms and workplaces—an effort as futile as trying to outlaw the printing press. Instead, it requires cultivating 'metacognitive literacy': teaching learners and citizens when to offload routine mechanical tasks and when to deliberately embrace cognitive effort so that foundational capacities of memory, spatial orientation, close reading, and analytical reasoning remain vibrant.",
+"Ultimately, human intelligence is not a static warehouse of data that can be safely outsourced without consequence; it is a living, embodied faculty strengthened by engagement, curiosity, and resistance. External tools can vastly extend the reach of a well-formed mind, yet they can never substitute for the internal architecture of understanding that makes a human being capable of independent thought, wisdom, and self-direction."
+],
+"audios": [
+{
+"id": "audio-en-read-c2-005-05-1",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-c2-005-05-2",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-c2-005-05-01",
+"question": "How does contemporary digital offloading differ from historical tools like writing or encyclopaedias according to the opening paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Whereas earlier tools primarily stored known facts externally, modern AI and digital systems increasingly perform active reasoning, orientation, and synthesis in place of human minds.", "correcte": true },
+{ "id": "b", "texte": "Plato argued that the invention of writing had no effect whatsoever on human memory or learning.", "correcte": false },
+{ "id": "c", "texte": "Ancient tally marks and clay tablets already performed autonomous reasoning and translation for human users.", "correcte": false },
+{ "id": "d", "texte": "Modern search engines and language models require far more internal memorisation than printed encyclopaedias.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-05-02",
+"question": "When does cognitive offloading shift from being helpful to harmful according to the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "When it moves beyond freeing working memory for complex thought and instead replaces the challenging mental effort needed for deep learning and neural consolidation.", "correcte": true },
+{ "id": "b", "texte": "Whenever a person writes down a brief shopping list or uses a calculator for complex arithmetic.", "correcte": false },
+{ "id": "c", "texte": "Because human working memory is unlimited and never benefits from any external assistance.", "correcte": false },
+{ "id": "d", "texte": "Because productive cognitive friction prevents long-term understanding from taking place.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-05-03",
+"question": "What do neuroscience and psychology findings on GPS navigation and the 'Google effect' show according to the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Habitual reliance on external navigation and instant search weakens internal mental mapping and deep memory integration in favour of merely remembering where to look things up.", "correcte": true },
+{ "id": "b", "texte": "Drivers relying exclusively on turn-by-turn GPS develop stronger hippocampal activity and richer mental maps than landmark navigators.", "correcte": false },
+{ "id": "c", "texte": "Expecting information to be easily searchable online improves long-term recall of detailed factual content.", "correcte": false },
+{ "id": "d", "texte": "Digital navigation tools have no measurable impact on how the brain processes spatial environments.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-05-04",
+"question": "What danger arises when students and professionals routinely delegate writing and problem-solving to generative AI according to the fourth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Skipping the intellectual struggle of structuring ideas leads people to confuse the machine's polished output with their own actual mastery.", "correcte": true },
+{ "id": "b", "texte": "Generative AI models are incapable of producing coherent summaries or debugging software code.", "correcte": false },
+{ "id": "c", "texte": "The sole educational purpose of writing an essay is to produce a finished text as quickly as possible.", "correcte": false },
+{ "id": "d", "texte": "Delegating difficult texts to automated tools sharpens a student's ability to spot logical fallacies.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-05-05",
+"question": "What long-term paradox regarding human expertise does the author highlight in the fifth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "By automating entry-level tasks that traditionally trained beginners, societies risk losing the deep human experts needed to detect AI errors and biases.", "correcte": true },
+{ "id": "b", "texte": "Users with no foundational domain knowledge easily detect subtle errors in AI-generated legal and medical briefs.", "correcte": false },
+{ "id": "c", "texte": "Eliminating demanding foundational practice accelerates the development of senior scientific expertise.", "correcte": false },
+{ "id": "d", "texte": "Generative AI systems never produce flawed assumptions or subtle factual hallucinations.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-05-06",
+"question": "What does the phrase 'productive cognitive friction' mean in the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "The constructive mental effort and resistance experienced while grappling with a difficult problem, which strengthens comprehension and memory.", "correcte": true },
+{ "id": "b", "texte": "Personal hostility between computer programmers and educational psychologists.", "correcte": false },
+{ "id": "c", "texte": "Slow internet connection speeds that frustrate users trying to load search engine results.", "correcte": false },
+{ "id": "d", "texte": "Unnecessary administrative paperwork that delays scientific research grants.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-05-07",
+"question": "What does 'metacognitive literacy' entail according to the sixth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "The self-aware judgment to know when delegating routine tasks to tools is helpful and when active, unassisted mental effort is essential to preserve core faculties.", "correcte": true },
+{ "id": "b", "texte": "Banning all digital calculators, search engines, and computers from schools and universities.", "correcte": false },
+{ "id": "c", "texte": "Memorising entire digital encyclopaedias word for word without using any external notes.", "correcte": false },
+{ "id": "d", "texte": "Training students exclusively to write prompts for generative artificial intelligence models.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-05-08",
+"question": "What does the phrase 'an illusion of competence' signify in the fourth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "The false belief that one understands a subject deeply simply because one can generate fluent answers using an external digital tool.", "correcte": true },
+{ "id": "b", "texte": "A stage magician's trick performed during a university psychology lecture.", "correcte": false },
+{ "id": "c", "texte": "Genuine conceptual mastery achieved through years of independent analytical study.", "correcte": false },
+{ "id": "d", "texte": "The inability of modern software to produce grammatically fluent prose.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-05-09",
+"question": "How does the author characterise human intelligence in the concluding paragraph?",
+"reponses": [
+{ "id": "a", "texte": "As a dynamic, embodied capacity strengthened by active struggle and engagement rather than a passive storage bin of facts.", "correcte": true },
+{ "id": "b", "texte": "As an obsolete biological storage device that can be completely replaced by cloud servers without loss.", "correcte": false },
+{ "id": "c", "texte": "As a faculty that weakens whenever confronted with intellectual resistance or curiosity.", "correcte": false },
+{ "id": "d", "texte": "As identical in structure and purpose to statistical language models.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-05-10",
+"question": "Which statement best synthesises the central argument of this chronicle?",
+"reponses": [
+{ "id": "a", "texte": "While selective cognitive offloading aids human thought, habitual delegation of orientation, memory, and reasoning to GPS, search engines, and AI weakens deep understanding and future expertise, requiring metacognitive literacy that protects active intellectual effort.", "correcte": true },
+{ "id": "b", "texte": "Because anxieties about digital tools mirror Plato's critique of writing, cognitive offloading has zero measurable effect on brain function or expertise.", "correcte": false },
+{ "id": "c", "texte": "Schools and workplaces should prohibit all computational tools so students rely solely on unaided memorisation.", "correcte": false },
+{ "id": "d", "texte": "Delegating entry-level analytical work to AI automatically produces more qualified human experts to supervise complex systems.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "en-c2-005-06",
+"id2": "en-c2-005-06",
+"titre": "Technological Determinism Versus Democratic Regulation of Innovation",
+"titre2": "Exercise 46",
+"texte": [
+"Critical Intellectual Dialogue — Characters: Victor, a venture capitalist and historian of innovation; Nadia, a philosopher of technology and legal scholar — Victor: 'Let us look honestly at the history of technological revolutions, Nadia: from the printing press and electricity to the internet and artificial intelligence, transformative technologies advance according to an internal scientific and economic momentum that political regulation can delay locally, yet never fundamentally halt. Whenever governments attempt to impose heavy pre-emptive rules on emerging technologies, they rarely stop innovation; they simply drive research, talent, and capital toward rival jurisdictions while leaving their own citizens dependent on foreign standards. Must democracies not accept that technological trajectory is largely autonomous and adapt society to innovation rather than trying to legislate its direction?'",
+"Nadia: 'What you describe as an autonomous natural law, Victor, is precisely what philosophers of technology expose as the ideology of technological determinism—a convenient myth that disguises contingent corporate and political choices as inevitable destiny. Technologies do not drop from the sky like asteroids; they are shaped at every stage by public research subsidies, patent regimes, antitrust policies, liability rules, and investment incentives. When societies banned human reproductive cloning, phased out ozone-depleting chlorofluorocarbons, or enforced strict pharmaceutical safety trials, democratic law did not destroy innovation—it steered ingenuity away from reckless harm toward humane, socially beneficial trajectories.'",
+"Victor: 'Pharmaceutical trials and chemical bans address well-defined physical hazards, yet foundational technologies like artificial intelligence or biotechnology are dual-use and general-purpose: the very same neural architecture that accelerates protein folding for life-saving medicines can also be adapted for cyber-offence or automated disinformation. If regulators restrict foundational research out of fear of potential misuse, do we not risk forfeiting enormous human benefits in health, climate modelling, and productivity?'",
+"Nadia: 'Nobody serious advocates halting foundational scientific inquiry, Victor; democratic regulation distinguishes carefully between open scientific research and the reckless commercial deployment of high-risk systems onto millions of unconsenting citizens. Notice the subtle sleight of hand in Silicon Valley rhetoric: technology conglomerates routinely invoke the noble mantle of open science to resist safety audits, copyright accountability, and transparency obligations, even while locking their own proprietary models behind trade secrets and aggressive lobbying.'",
+"Victor: 'Still, given the fierce geopolitical race between rival superpowers over artificial intelligence, quantum computing, and synthetic biology, any democracy that slows down for elaborate ethical deliberation risks ceding strategic supremacy to authoritarian regimes that recognise no democratic constraints at all.'",
+"Nadia: 'That 'race to the bottom' argument is the oldest excuse for abandoning ethical standards—and it is strategically self-defeating! Unregulated haste produces brittle, unsafe, untrustworthy systems that trigger public backlash, financial bubbles, and catastrophic security vulnerabilities. Conversely, democratic societies achieve lasting leadership precisely when they set high, credible standards of safety, reliability, and human rights—just as aviation safety rules and medical ethics transformed experimental technologies into trusted global industries.'",
+"Victor: 'You make a compelling case that regulation need not be the enemy of innovation, provided rules remain agile, technically literate, and focused on real risks rather than bureaucratic box-ticking.'",
+"Nadia: 'Exactly, Victor: innovation is a magnificent engine, but an engine without a steering wheel is not freedom—it is a hazard. Democratic regulation is how free citizens hold the steering wheel together, ensuring that technological power serves human dignity, ecological survival, and shared prosperity rather than forcing society to adapt blindly to whatever happens to be profitable.'"
+],
+"audios": [
+{
+"id": "audio-en-read-c2-005-06-1",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-c2-005-06-2",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-c2-005-06-01",
+"question": "What view of technological change does Victor defend in the opening paragraph?",
+"reponses": [
+{ "id": "a", "texte": "He argues that innovation follows an unstoppable internal momentum, and that strict national regulations merely push research abroad while weakening domestic competitiveness.", "correcte": true },
+{ "id": "b", "texte": "He claims that governments should ban artificial intelligence and the internet to protect traditional industries.", "correcte": false },
+{ "id": "c", "texte": "He believes that technological progress is entirely controlled by democratic parliaments.", "correcte": false },
+{ "id": "d", "texte": "He asserts that pre-emptive regulation has always succeeded in permanently halting scientific discovery.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-06-02",
+"question": "How does Nadia challenge 'technological determinism' in the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "She argues that technologies are shaped by human laws, subsidies, and policy choices, citing medical trials and environmental bans as proof that regulation steers innovation constructively.", "correcte": true },
+{ "id": "b", "texte": "She agrees that technologies evolve like natural asteroids completely beyond human legal influence.", "correcte": false },
+{ "id": "c", "texte": "She contends that pharmaceutical safety trials and cloning bans destroyed scientific progress.", "correcte": false },
+{ "id": "d", "texte": "She denies that public research subsidies or patent regimes have any effect on technological development.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-06-03",
+"question": "What dilemma regarding general-purpose technologies does Victor raise in the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Because the same underlying AI tools can serve both beneficial medical goals and harmful cyber uses, restricting core research might sacrifice major social gains.", "correcte": true },
+{ "id": "b", "texte": "Biotechnology and artificial intelligence have no beneficial applications in medicine or climate modelling.", "correcte": false },
+{ "id": "c", "texte": "Dual-use technologies can never be adapted for cyber-offence or disinformation.", "correcte": false },
+{ "id": "d", "texte": "Foundational scientific research is completely separate from protein folding and productivity.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-06-04",
+"question": "What hypocrisy in corporate anti-regulation rhetoric does Nadia expose in the fourth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Tech companies appeal to the ideal of open science to evade safety and transparency rules while keeping their own commercial models closed behind trade secrets.", "correcte": true },
+{ "id": "b", "texte": "Democratic regulators demand halting all basic university research before commercial products are tested.", "correcte": false },
+{ "id": "c", "texte": "Large technology conglomerates voluntarily publish all proprietary weights and submit to safety audits.", "correcte": false },
+{ "id": "d", "texte": "Commercial deployment of high-risk systems always occurs with the explicit consent of every citizen.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-06-05",
+"question": "How does Nadia counter Victor's geopolitical 'race to the bottom' argument in the sixth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "She argues that rushing unsafe products undermines public trust and security, whereas high safety and ethical standards build durable global leadership, as in aviation and medicine.", "correcte": true },
+{ "id": "b", "texte": "She admits that democracies must abandon all ethical standards to compete with authoritarian regimes.", "correcte": false },
+{ "id": "c", "texte": "She claims that aviation safety rules prevented commercial air travel from becoming a global industry.", "correcte": false },
+{ "id": "d", "texte": "She asserts that geopolitical competition between superpowers does not exist in artificial intelligence.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-06-06",
+"question": "What does the phrase 'dual-use and general-purpose' mean in the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Technologies capable of serving both peaceful, beneficial civilian purposes and harmful or military applications across many different fields.", "correcte": true },
+{ "id": "b", "texte": "Household appliances equipped with two separate electrical power plugs.", "correcte": false },
+{ "id": "c", "texte": "Software programs designed exclusively for a single narrow accounting task.", "correcte": false },
+{ "id": "d", "texte": "International treaties signed by exactly two neighbouring countries.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-06-07",
+"question": "What does the expression 'bureaucratic box-ticking' signify in Victor's penultimate turn (paragraph 7)?",
+"reponses": [
+{ "id": "a", "texte": "Superficial, mechanical compliance with formal paperwork rules that creates administrative burden without addressing genuine risks.", "correcte": true },
+{ "id": "b", "texte": "Inspecting wooden shipping crates at maritime customs ports.", "correcte": false },
+{ "id": "c", "texte": "Rigorous, technically informed safety testing conducted by independent scientists.", "correcte": false },
+{ "id": "d", "texte": "Counting paper ballots manually after a national parliamentary election.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-06-08",
+"question": "How does Victor's stance evolve by the seventh paragraph of the dialogue?",
+"reponses": [
+{ "id": "a", "texte": "He acknowledges that regulation can coexist with innovation so long as rules are flexible, technically informed, and targeted at substantive risks.", "correcte": true },
+{ "id": "b", "texte": "He insists that all forms of legal oversight over technology must be abolished immediately.", "correcte": false },
+{ "id": "c", "texte": "He concludes that technological innovation should be permanently halted to protect social stability.", "correcte": false },
+{ "id": "d", "texte": "He argues that bureaucratic paperwork is more important than technical literacy.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-06-09",
+"question": "What metaphor concludes the dialogue in Nadia's final reply?",
+"reponses": [
+{ "id": "a", "texte": "Innovation is compared to a powerful engine, while democratic regulation is the steering wheel that allows citizens to guide it toward humane goals.", "correcte": true },
+{ "id": "b", "texte": "Democratic regulation is compared to a brake that permanently stops the engine of human progress.", "correcte": false },
+{ "id": "c", "texte": "Society is compared to a passenger locked inside a driverless vehicle with no controls.", "correcte": false },
+{ "id": "d", "texte": "Corporate profitability is compared to an infallible compass guiding ecological survival.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-06-10",
+"question": "Which statement best synthesises the overarching message of this dialogue?",
+"reponses": [
+{ "id": "a", "texte": "Rejecting the myth that technology evolves autonomously beyond human choice, agile and technically informed democratic regulation steers innovation away from harm and builds trustworthy, humane progress.", "correcte": true },
+{ "id": "b", "texte": "Because innovation follows an unchangeable deterministic path, societies must adapt passively to whatever technologies corporations create.", "correcte": false },
+{ "id": "c", "texte": "Competing with authoritarian regimes requires democracies to abolish all safety audits and human rights standards.", "correcte": false },
+{ "id": "d", "texte": "Genuine scientific inquiry can only flourish when commercial deployment is completely exempt from public accountability.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "en-c2-005-07",
+"id2": "en-c2-005-07",
+"titre": "The Ethics of Automation in Medicine, Justice, and Warfare",
+"titre2": "Exercise 47",
+"texte": [
+"Applied Ethics Essay — As algorithmic systems and autonomous robotics advance rapidly from low-stakes consumer conveniences into high-stakes arenas of life, liberty, and death, modern societies confront a profound moral threshold: the automation of decision-making in medicine, criminal justice, and warfare. Proponents of automation in each domain invoke compelling promises—algorithms that detect tumours earlier than fatigued radiologists, risk-assessment tools that eliminate erratic judicial sentencing disparities, and autonomous weapon systems that spare soldiers' lives while executing strikes with sub-second precision. Yet when statistical machines are entrusted with decisions that touch the core of human vulnerability, moral agency, and bodily inviolability, technical efficiency alone can never suffice as an ethical justification.",
+"In medicine, artificial intelligence holds extraordinary potential to augment clinical diagnosis, personalise therapies, and expand healthcare access in underserved regions. Nevertheless, automating medical judgment carries subtle ethical hazards that go beyond accuracy rates alone. Clinical care is never merely a pattern-recognition puzzle; it is a deeply human encounter grounded in trust, empathy, shared deliberation over quality of life, and contextual understanding of a patient's values and fears. When algorithmic recommendations dominate clinical workflows, physicians risk becoming passive intermediaries deferring to black-box scores—while hidden biases in training datasets can systematically underdiagnose illnesses in women or minority populations whose symptoms diverge from historical norms.",
+"Even more acute are the constitutional and moral dilemmas posed by automation in criminal justice. Across several jurisdictions, courts and parole boards have adopted predictive algorithms to estimate defendants' likelihood of reoffending when setting bail, sentences, or probation conditions. Far from delivering impartial mathematical fairness, these systems routinely embed structural inequities: because historical arrest and conviction data reflect unequal policing across neighbourhoods and social classes, algorithms trained on that past predict higher 'risk' for disadvantaged defendants, laundering systemic prejudice into ostensibly objective numbers. Worse still, judging an individual based on group statistical correlations rather than personal conduct and capacity for moral reform violates the foundational principle of individualised justice.",
+"Nowhere, however, are the moral stakes of automation more existential than in the development of lethal autonomous weapon systems—machines capable of selecting and engaging human targets without meaningful human control. Defenders argue that autonomous drones and robotic sentries could theoretically reduce battlefield casualties and obey international humanitarian law more consistently than terrified human soldiers. Yet delegating the decision to take a human life to an algorithm crosses a fundamental moral Rubicon: a machine possesses no conscience, cannot comprehend the tragic gravity of killing, cannot exercise mercy when a combatant surrenders ambiguously, and cannot be held morally or legally accountable when a targeting error slaughters civilians.",
+"Across all three domains—medicine, justice, and warfare—automation threatens to create what ethicists call a 'responsibility gap'. When an automated diagnostic tool misses a fatal condition, a sentencing algorithm wrongfully denies freedom, or an autonomous weapon commits a war crime, responsibility fractures across software engineers, data curators, procurement officials, and commanders—leaving victims with no accountable moral agent to answer for irreversible harm.",
+"Establishing clear ethical boundaries therefore requires enshrining the principle of 'meaningful human control' across all consequential domains. In medicine, algorithms must remain transparent decision-support aids subordinated to clinician judgment and informed patient consent; in criminal justice, opaque proprietary risk-scoring of human liberty must be prohibited in favour of accountable judicial reasoning; and in warfare, international law must enact a binding treaty banning lethal autonomous weapons that operate without direct human moral agency and command accountability.",
+"Ultimately, the true measure of a civilisation's wisdom is not what it can automate, but what it refuses to delegate to machines. Healing the sick, judging fellow citizens, and deciding questions of life and death are not mere computational tasks to be optimised for speed; they are solemn moral responsibilities that define our shared humanity—and must forever remain anchored in conscious, accountable human hands."
+],
+"audios": [
+{
+"id": "audio-en-read-c2-005-07-1",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-c2-005-07-2",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-c2-005-07-01",
+"question": "Why does the author argue in the opening paragraph that technical efficiency cannot be the sole standard for automating medicine, justice, and warfare?",
+"reponses": [
+{ "id": "a", "texte": "Because decisions affecting human life, liberty, and bodily integrity involve profound moral agency, empathy, and accountability that statistics cannot replace.", "correcte": true },
+{ "id": "b", "texte": "Because algorithmic systems are completely incapable of detecting medical tumours or processing data rapidly.", "correcte": false },
+{ "id": "c", "texte": "Because proponents of automation never claim any benefits for clinical diagnosis or judicial consistency.", "correcte": false },
+{ "id": "d", "texte": "Because low-stakes consumer conveniences pose identical moral dangers to lethal autonomous weapons.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-07-02",
+"question": "What ethical concerns arise when algorithmic recommendations dominate medical care according to the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Over-reliance on opaque scores can weaken empathetic doctor-patient dialogue and perpetuate diagnostic biases against underrepresented groups.", "correcte": true },
+{ "id": "b", "texte": "Artificial intelligence has no potential to improve medical access in underserved regions.", "correcte": false },
+{ "id": "c", "texte": "Historical medical training datasets always represent women and minority populations with complete accuracy.", "correcte": false },
+{ "id": "d", "texte": "Clinical medicine is purely a pattern-recognition puzzle unrelated to patient values or fears.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-07-03",
+"question": "Why do predictive risk-assessment tools threaten fairness in criminal justice according to the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "They turn biased historical arrest data into seemingly neutral scores and judge individuals by group statistics rather than personal responsibility and capacity for change.", "correcte": true },
+{ "id": "b", "texte": "Historical arrest and conviction records are entirely free from socioeconomic or neighbourhood disparities.", "correcte": false },
+{ "id": "c", "texte": "Predictive algorithms evaluate each defendant exclusively through their capacity for moral reform.", "correcte": false },
+{ "id": "d", "texte": "Mathematical risk scores have eliminated all disparities in bail and parole decisions.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-07-04",
+"question": "Why does delegating lethal targeting to autonomous weapons cross a fundamental moral boundary according to the fourth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Because machines lack conscience, moral understanding, capacity for mercy, and legal accountability when fatal mistakes occur.", "correcte": true },
+{ "id": "b", "texte": "Because autonomous drones are slower at processing sensor inputs than human soldiers on a battlefield.", "correcte": false },
+{ "id": "c", "texte": "Because international humanitarian law already permits machines to bear criminal guilt in war crimes trials.", "correcte": false },
+{ "id": "d", "texte": "Because terrified human soldiers never make mistakes under battlefield pressure.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-07-05",
+"question": "What is meant by the 'responsibility gap' described in the fifth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "The diffusion of accountability across programmers, data providers, officials, and operators so that no single human agent answers when an automated system causes severe harm.", "correcte": true },
+{ "id": "b", "texte": "A time delay between programming a medical algorithm and installing it in a hospital computer.", "correcte": false },
+{ "id": "c", "texte": "The wage difference between software engineers and military commanders.", "correcte": false },
+{ "id": "d", "texte": "A legal rule holding software developers personally guilty of war crimes whenever an algorithm errs.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-07-06",
+"question": "What does the idiom 'crosses a fundamental moral Rubicon' mean in the fourth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Passes an irrevocable ethical boundary beyond which fundamental human principles are compromised.", "correcte": true },
+{ "id": "b", "texte": "Transports military robotic equipment across a river in northern Italy.", "correcte": false },
+{ "id": "c", "texte": "Reaches a temporary diplomatic ceasefire negotiated by international observers.", "correcte": false },
+{ "id": "d", "texte": "Solves a complex mathematical equation required to calibrate drone navigation.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-07-07",
+"question": "Which concrete policies does the author advocate in the sixth paragraph under 'meaningful human control'?",
+"reponses": [
+{ "id": "a", "texte": "Keeping medical AI subordinate to clinician and patient judgment, banning opaque risk-scoring in criminal sentencing, and enacting a treaty against lethal autonomous weapons.", "correcte": true },
+{ "id": "b", "texte": "Banning all computer-assisted diagnostic tools from hospitals and clinics worldwide.", "correcte": false },
+{ "id": "c", "texte": "Replacing human judges with proprietary risk-scoring algorithms to guarantee impartial sentencing.", "correcte": false },
+{ "id": "d", "texte": "Allowing autonomous weapon systems to select targets independently during international conflicts.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-07-08",
+"question": "What subtle criticism is implied in the third paragraph's phrase 'laundering systemic prejudice into ostensibly objective numbers'?",
+"reponses": [
+{ "id": "a", "texte": "Using mathematical formulas to disguise historical social discrimination as neutral, scientific truth.", "correcte": true },
+{ "id": "b", "texte": "Cleaning statistical datasets to remove all traces of past policing bias before training an algorithm.", "correcte": false },
+{ "id": "c", "texte": "Investigating financial money laundering through predictive banking software.", "correcte": false },
+{ "id": "d", "texte": "Demonstrating that numbers are inherently incapable of reflecting human prejudice.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-07-09",
+"question": "What principle concludes the essay in the seventh paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Civilisational wisdom is measured by refusing to outsource solemn duties of care, justice, and life-and-death judgment to unaccountable machines.", "correcte": true },
+{ "id": "b", "texte": "True civilisational progress requires automating every possible judicial and military decision for maximum speed.", "correcte": false },
+{ "id": "c", "texte": "Healing the sick and judging citizens are primarily computational tasks best left to algorithms.", "correcte": false },
+{ "id": "d", "texte": "Accountable human hands are too slow and biased to retain authority over high-stakes moral choices.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-07-10",
+"question": "Which statement best synthesises the overarching argument of this essay?",
+"reponses": [
+{ "id": "a", "texte": "Automating high-stakes decisions in medicine, criminal justice, and warfare threatens empathy, individualised fairness, moral conscience, and legal accountability, requiring strict human control and international bans on autonomous lethal systems.", "correcte": true },
+{ "id": "b", "texte": "Superior statistical accuracy justifies delegating criminal sentencing and lethal targeting entirely to autonomous algorithms.", "correcte": false },
+{ "id": "c", "texte": "Predictive risk-scoring tools eliminate historical policing bias by treating every defendant purely as an individual.", "correcte": false },
+{ "id": "d", "texte": "The responsibility gap can be easily resolved by granting legal personhood to medical and military software.", "correcte": false }
+]
+}
+]
+},
+{
+    "id": "en-c2-005-08",
+    "id2": "en-c2-005-08",
+    "titre": "Digital Colonialism and the Global Inequality of Data Ownership",
+    "titre2": "Exercise 48",
+    "texte": [
+      "Geopolitical and Digital Essay — Throughout the nineteenth and twentieth centuries, colonial empires expanded their wealth by extracting physical raw materials—rubber, copper, cotton, timber, and petroleum—from peripheral territories, refining them in metropolitan factories, and selling high-value finished goods back to the very populations whose labour and land had supplied the inputs. In the twenty-first century, a strikingly analogous architecture of asymmetric extraction has emerged across the digital frontier, one that legal scholars and economists increasingly term 'digital colonialism'. Rather than seizing territorial provinces with gunboats, dominant transnational technology conglomerates capture the behavioural, linguistic, agricultural, genomic, and social data generated by billions of users across the Global South, process that raw data inside distant cloud servers and artificial intelligence laboratories, and resell proprietary digital services, predictive analytics, and automated software back to developing societies at monopoly rents.",
+      "The material foundation of this new dependency rests upon severe infrastructural asymmetry. While smartphones and social media applications have spread rapidly across Africa, Latin America, and South Asia, the physical backbone of the digital economy—submarine fibre-optic cables, hyperscale cloud data centres, semiconductor fabrication plants, and foundational artificial intelligence compute clusters—remains overwhelmingly concentrated within a handful of wealthy jurisdictions. Under glossy philanthropic initiatives offering 'free' internet connectivity or subsidised educational software, dominant platforms frequently secure de facto monopolies over local digital ecosystems, crowding out indigenous startups before they can scale.",
+      "Equally consequential is the linguistic and cultural homogenisation embedded within contemporary artificial intelligence training pipelines. Large language and multimodal models are trained predominantly on English-language and Western-centric datasets, encoding specific cultural assumptions, legal norms, and historical perspectives as universal defaults. When schools, hospitals, courts, and public administrations across the Global South adopt imported automated tools without local data sovereignty, they risk subtle epistemic subjugation: local languages are marginalised as 'low-resource' anomalies, indigenous knowledge systems are omitted from algorithmic memory, and social decisions are mediated by models blind to local context.",
+      "Furthermore, international trade rules and digital commerce agreements frequently lock developing nations into permanent data-exporting roles. By prohibiting data localisation requirements, banning source-code disclosure audits, and barring customs duties on electronic transmissions, sweeping digital trade clauses prevent emerging economies from taxing foreign digital rents or nurturing sovereign cloud and artificial intelligence industries—replicating the exact free-trade asymmetries that once hindered industrial development in post-colonial states.",
+      "The bitter irony of digital colonialism is that the human populations generating the vast datasets needed to train global algorithms—whether underpaid content moderators filtering traumatic material in Nairobi or Manila, smallholder farmers uploading crop diagnostics, or billions of mobile users producing linguistic and behavioural patterns—capture scarcely a fraction of the resulting financial or technological value. Raw human experience is treated as an unowned commons free for corporate enclosure, while the resulting intelligence is guarded behind impenetrable intellectual property fortresses.",
+      "Overcoming digital colonialism does not require severing global connectivity or retreating into authoritarian internet censorship, which merely substitutes domestic state surveillance for foreign corporate extraction. Instead, it demands building genuine 'digital sovereignty' rooted in democratic accountability and South-South cooperation: investing in regional public cloud infrastructure and shared supercomputing centres, establishing collective data trusts that ensure communities retain ownership and benefit-sharing over local data, supporting open-source multilingual artificial intelligence tailored to local languages, and reforming global digital trade rules to allow fair taxation and technology transfer.",
+      "Ultimately, data is never a lifeless mineral waiting passively beneath the soil; it is the encoded trace of human speech, labour, culture, and social life. A global digital order in which a few technological empires own the collective memory and predictive intelligence of humanity while billions remain mere tenants in their own digital homes is incompatible with sovereign equality. True emancipation in the twenty-first century requires ensuring that every society possesses the infrastructural, linguistic, and legal power to own its data and author its own digital future."
+    ],
+    "audios": [
+      {
+        "id": "audio-en-read-c2-005-08-1",
+        "url": "soundcloud.com"
+      },
+      {
+        "id": "audio-en-read-c2-005-08-2",
+        "url": "soundcloud.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q-en-read-c2-005-08-01",
+        "question": "How does 'digital colonialism' mirror historical resource extraction according to the opening paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "Dominant tech firms extract raw personal and social data from developing regions, process it in distant AI centres, and sell costly proprietary services back to those populations.", "correcte": true },
+          { "id": "b", "texte": "Transnational technology conglomerates use naval gunboats to annex physical territories across the Global South.", "correcte": false },
+          { "id": "c", "texte": "Developing nations retain full ownership of cloud servers and resell finished AI models to wealthy countries.", "correcte": false },
+          { "id": "d", "texte": "Historical colonial empires focused primarily on exporting finished manufactured goods from peripheral territories.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-08-02",
+        "question": "How do seemingly generous connectivity initiatives reinforce digital dependency according to the second paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "Subsidised or 'free' platform access helps foreign giants capture local markets and displace domestic startups while core cloud and chip infrastructure stays concentrated abroad.", "correcte": true },
+          { "id": "b", "texte": "Philanthropic connectivity programmes build independent semiconductor fabrication plants inside every developing country.", "correcte": false },
+          { "id": "c", "texte": "Hyperscale data centres and submarine cables are evenly distributed across Africa, Latin America, and South Asia.", "correcte": false },
+          { "id": "d", "texte": "Subsidised foreign software encourages indigenous technology startups to dominate local ecosystems.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-08-03",
+        "question": "What cultural and epistemic risks arise when developing countries rely on imported AI models according to the third paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "Models trained mostly on Western, English-language data marginalise local languages and indigenous knowledge while applying foreign norms to local public decisions.", "correcte": true },
+          { "id": "b", "texte": "Large language models automatically prioritise indigenous knowledge systems over English-language datasets.", "correcte": false },
+          { "id": "c", "texte": "Imported automated tools always understand local legal norms and cultural contexts without adaptation.", "correcte": false },
+          { "id": "d", "texte": "Public administrations across the Global South refuse to use any software trained on foreign datasets.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-08-04",
+        "question": "How do certain international digital trade rules constrain emerging economies according to the fourth paragraph?",
+        "reponses": [
+          { "id": "a", "texte": "By outlawing local data storage rules, code audits, and digital tariffs, they stop developing states from taxing foreign tech rents or fostering domestic cloud industries.", "correcte": true },
+          { "id": "b", "texte": "Digital trade agreements require foreign tech corporations to transfer their proprietary source code to local regulators.", "correcte": false },
+          { "id": "c", "texte": "Electronic transmission duties provide developing governments with their largest source of public tax revenue.", "correcte": false },
+          { "id": "d", "texte": "Post-colonial states industrialised rapidly by banning all domestic infant-industry protections.", "correcte": false }
+        ]
+      },
+      {
+        "id": "q-en-read-c2-005-08-05",
+        "question": "What economic injustice does the author expose in the fifth paragraph regarding data generation and value capture?",
+        "reponses": [
+          { "id": "a", "texte": "Users and underpaid data workers across the Global South supply essential human inputs for AI training yet receive minimal financial reward while outputs are locked behind patents.", "correcte": true },
+          { "id": "b", "texte": "Content moderators in Nairobi and Manila receive substantial equity shares in the global AI models they help train.", "correcte": false },
+          { "id": "c", "texte": "Corporate platforms treat trained AI models as an open public commons free for anyone to copy.", "correcte": false },
+{ "id": "d", "texte": "Smallholder farmers capture the majority of financial profits generated by agricultural diagnostic platforms.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-08-06",
+"question": "What does the phrase 'epistemic subjugation' signify in the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "A form of domination in which foreign frameworks of knowledge, language, and reasoning displace a society's own ways of understanding the world.", "correcte": true },
+{ "id": "b", "texte": "A military treaty forcing defeated nations to surrender their naval fleets.", "correcte": false },
+{ "id": "c", "texte": "An educational reform translating scientific textbooks into local minority languages.", "correcte": false },
+{ "id": "d", "texte": "A computer hardware failure that erases backup files from university servers.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-08-07",
+"question": "What are 'collective data trusts' mentioned in the sixth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Legal governance structures that manage community data on behalf of citizens so local populations control how it is used and share in its economic benefits.", "correcte": true },
+{ "id": "b", "texte": "Monopolistic cartels formed by foreign technology conglomerates to fix cloud computing prices.", "correcte": false },
+{ "id": "c", "texte": "Secret government intelligence archives used to monitor political dissidents.", "correcte": false },
+{ "id": "d", "texte": "Offshore bank accounts holding tax-exempt royalties from software patents.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-08-08",
+"question": "Why does the author distinguish democratic digital sovereignty from authoritarian internet censorship in the sixth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Because genuine sovereignty empowers citizens and regional cooperation rather than replacing foreign corporate exploitation with domestic state surveillance.", "correcte": true },
+{ "id": "b", "texte": "Because cutting off global internet connectivity is the fastest way to build open-source multilingual AI.", "correcte": false },
+{ "id": "c", "texte": "Because domestic state surveillance is harmless so long as foreign companies are excluded.", "correcte": false },
+{ "id": "d", "texte": "Because South-South cooperation requires banning all international scientific communication.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-08-09",
+"question": "What metaphor concludes the essay in the seventh paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Citizens of developing nations are warned against remaining mere 'tenants in their own digital homes', deprived of ownership over their collective data and future.", "correcte": true },
+{ "id": "b", "texte": "Data is compared to a lifeless mineral rock that has no connection to human culture or speech.", "correcte": false },
+{ "id": "c", "texte": "Technological empires are praised as generous landlords maintaining affordable housing for humanity.", "correcte": false },
+{ "id": "d", "texte": "Sovereign equality is compared to abandoning digital technology in favour of traditional agriculture.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-08-10",
+"question": "Which statement best synthesises the overarching argument of this essay?",
+"reponses": [
+{ "id": "a", "texte": "Concentrated infrastructure, Western-biased AI training, restrictive trade rules, and unequal value capture create a new digital colonialism that requires regional compute investment, data trusts, multilingual open AI, and fairer trade governance.", "correcte": true },
+{ "id": "b", "texte": "Free platform connectivity initiatives and unrestricted digital trade rules automatically ensure equal technological sovereignty for the Global South.", "correcte": false },
+{ "id": "c", "texte": "Data is an unowned physical mineral whose extraction requires no compensation or benefit-sharing with generating communities.", "correcte": false },
+{ "id": "d", "texte": "Imposing authoritarian national firewalls is the most effective way for developing nations to overcome digital inequality.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "en-c2-005-09",
+"id2": "en-c2-005-09",
+"titre": "Hyperconnectivity and the Fragmentation of Collective Attention",
+"titre2": "Exercise 49",
+"texte": [
+"Cultural and Sociological Chronicle — Never before in human civilisation has the species been linked together by an instantaneous planetary nervous system capable of transmitting news, images, emergencies, and scientific breakthroughs across oceans in milliseconds. Celebrated at the dawn of the internet as the arrival of a global agora that would deepen mutual understanding and civic solidarity, ubiquitous hyperconnectivity has paradoxically delivered a fractured, breathless culture marked by chronic distraction and collective attentional exhaustion. When billions of minds are tethered simultaneously to real-time notification streams, breaking-news alerts, and algorithmic feeds competing fiercely for every waking second, attention—the scarcest and most precious resource of conscious life—is shattered into thousands of fleeting, disconnected fragments.",
+"As the economist Herbert Simon prophetically observed half a century ago, a wealth of information inevitably creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of sources that might consume it. Today, however, allocation is rarely guided by conscious human intention; it is auctioned off millisecond by millisecond inside an industrial 'attention economy'. Digital platforms engineered around advertising revenue thrive not on calm comprehension, but on continuous emotional arousal—deploying endless feeds, autoplay videos, social validation counters, and crisis alerts that keep users jumping restlessly from stimulus to stimulus without ever lingering long enough to absorb context.",
+"The consequence of this perpetual interruption is not merely individual fatigue, but the erosion of what sociologists call 'collective attention'—the shared capacity of a society to focus sustained, coordinated scrutiny upon complex, slow-moving structural challenges. Genuine democratic problem-solving requires temporal continuity: holding an issue such as climate transition, educational reform, housing affordability, or healthcare capacity in public view long enough to examine evidence, debate trade-offs, and monitor implementation. Hyperconnected media ecosystems, by contrast, operate on a frantic twenty-four-hour amnesia cycle: each morning's manufactured outrage eclipses yesterday's unresolved crisis, leaving public memory shallow and political accountability fleeting.",
+"Equally corrosive is how hyperconnectivity simultaneously overwhelms individuals with global suffering while paradoxically inducing moral numbness. Exposed relentlessly to a stream of distant wars, ecological disasters, scandals, and personal tragedies compressed between trivial entertainment clips and commercial advertisements, the human nervous system struggles to distinguish the momentous from the mundane. Deprived of quiet intervals for emotional digestion and ethical reflection, citizens alternate between acute anxiety and defensive desensitisation—scrolling past human catastrophe with the same reflexive thumb gesture used to skip an advertisement.",
+"The subtle irony of hyperconnectivity is that being reachable everywhere at every moment often undermines genuine human presence. In families, classrooms, cafés, and civic gatherings, split attention—one eye on a physical companion, the other monitoring a glowing screen—impoverishes the depth of listening upon which empathy and trust depend. Connected nominally to thousands of distant acquaintances, the hyperconnected subject frequently experiences a thinned, distracted intimacy with the people sitting directly across the table.",
+"Restoring collective attentional sovereignty does not demand retreating into digital isolation or abandoning the genuine marvels of global communication. Rather, it requires treating human attention as a vital civic and ecological commons deserving deliberate protection: designing humane digital interfaces free from manipulative infinite-scroll traps, supporting slow, investigative journalism and public-interest media insulated from click-driven advertising, establishing institutional norms protecting uninterrupted time in schools and workplaces, and cultivating cultural habits of deep reading and unhurried presence.",
+"Ultimately, what a civilisation pays attention to determines what it understands, what it cares for, and what it becomes. An interconnected world drowned in noise is no wiser than an isolated one; true connection begins only when we reclaim the quiet discipline to look away from the frantic stream, focus together on what truly matters, and give our undivided presence to the shared world we inhabit."
+],
+"audios": [
+{
+"id": "audio-en-read-c2-005-09-1",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-c2-005-09-2",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-c2-005-09-01",
+"question": "What paradox of modern digital connectivity does the author introduce in the opening paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Although instantaneous global networks were expected to foster a unified civic forum, constant alerts and feeds have instead shattered human focus and induced widespread distraction.", "correcte": true },
+{ "id": "b", "texte": "Global communication networks still take several weeks to transmit news and images across oceans.", "correcte": false },
+{ "id": "c", "texte": "Ubiquitous hyperconnectivity has eliminated breaking-news alerts and strengthened sustained concentration.", "correcte": false },
+{ "id": "d", "texte": "Early internet theorists predicted that digital networks would destroy civic solidarity and attention.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-09-02",
+"question": "How did Herbert Simon explain the relationship between information abundance and attention according to the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "When information becomes overwhelmingly abundant, human attention becomes the scarce resource that competing sources fight to capture.", "correcte": true },
+{ "id": "b", "texte": "Increasing the volume of available information automatically expands the human brain's capacity to absorb everything calmly.", "correcte": false },
+{ "id": "c", "texte": "Advertising-driven digital platforms are designed to encourage slow, uninterrupted reading of complex texts.", "correcte": false },
+{ "id": "d", "texte": "Social validation counters help users allocate their attention independently of commercial platforms.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-09-03",
+"question": "Why does fragmented 'collective attention' weaken democratic governance according to the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Rapidly shifting daily outrage cycles prevent society from maintaining sustained focus on complex long-term problems or holding leaders accountable for follow-through.", "correcte": true },
+{ "id": "b", "texte": "Twenty-four-hour news cycles strengthen public memory by reminding citizens continuously of unresolved structural reforms.", "correcte": false },
+{ "id": "c", "texte": "Complex challenges like healthcare and climate transition are best solved through brief, impulsive bursts of public attention.", "correcte": false },
+{ "id": "d", "texte": "Hyperconnected media ecosystems naturally prioritise slow policy implementation over sensational controversy.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-09-04",
+"question": "How does continuous exposure to distant crises mixed with trivial content affect moral sensitivity according to the fourth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Without quiet space to process grief or reflect ethically, people become overwhelmed and desensitised, treating grave tragedies like fleeting entertainment.", "correcte": true },
+{ "id": "b", "texte": "Compressing war footage between commercial advertisements deepens citizens' sustained moral engagement.", "correcte": false },
+{ "id": "c", "texte": "Constant exposure to global disasters eliminates anxiety and strengthens emotional resilience.", "correcte": false },
+{ "id": "d", "texte": "The human nervous system effortlessly distinguishes momentous tragedies from trivial clips without needing quiet reflection.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-09-05",
+"question": "What interpersonal irony of hyperconnectivity does the author highlight in the fifth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Being constantly reachable to distant networks divides attention during face-to-face interactions, weakening deep listening and genuine closeness with people physically present.", "correcte": true },
+{ "id": "b", "texte": "Monitoring a smartphone during conversations improves empathy and attentiveness toward companions across the table.", "correcte": false },
+{ "id": "c", "texte": "Hyperconnected individuals spend significantly more uninterrupted quality time with family members than offline generations.", "correcte": false },
+{ "id": "d", "texte": "Maintaining thousands of online acquaintances automatically produces deep, unhurried intimacy.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-09-06",
+"question": "What does the phrase 'a global agora' mean in the opening paragraph?",
+"reponses": [
+{ "id": "a", "texte": "A worldwide open public gathering space where citizens exchange ideas and deliberate together on common affairs.", "correcte": true },
+{ "id": "b", "texte": "An international currency exchange market operating twenty-four hours a day.", "correcte": false },
+{ "id": "c", "texte": "A private telecommunications satellite owned by a multinational corporation.", "correcte": false },
+{ "id": "d", "texte": "An ancient Greek temple closed to foreign travellers and merchants.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-09-07",
+"question": "What does the expression 'twenty-four-hour amnesia cycle' signify in the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "The rapid news turnover in which each day's sensational story displaces yesterday's important issue before any real understanding or action occurs.", "correcte": true },
+{ "id": "b", "texte": "A neurological sleep disorder that causes patients to lose all personal memories every night.", "correcte": false },
+{ "id": "c", "texte": "A scheduled daily maintenance routine that deletes temporary internet browser cookies.", "correcte": false },
+{ "id": "d", "texte": "A historical archive program preserving daily newspaper headlines for future historians.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-09-08",
+"question": "Which measures does the author propose in the sixth paragraph to protect collective attention?",
+"reponses": [
+{ "id": "a", "texte": "Regulating manipulative interface designs, funding non-clickbait public journalism, safeguarding distraction-free school and work periods, and reviving deep reading.", "correcte": true },
+{ "id": "b", "texte": "Shutting down global telecommunications networks so citizens live in permanent digital isolation.", "correcte": false },
+{ "id": "c", "texte": "Expanding click-driven advertising models across public-interest media and educational platforms.", "correcte": false },
+{ "id": "d", "texte": "Encouraging employees and students to keep notification alerts active during all classes and meetings.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-09-09",
+"question": "What concluding insight does the author offer in the seventh paragraph?",
+"reponses": [
+{ "id": "a", "texte": "True human connection and collective wisdom depend not on constant digital noise, but on consciously choosing where to direct sustained, shared attention.", "correcte": true },
+{ "id": "b", "texte": "An interconnected society saturated with real-time alerts is automatically wiser than earlier civilisations.", "correcte": false },
+{ "id": "c", "texte": "What a civilisation pays attention to has no bearing on its moral character or political future.", "correcte": false },
+{ "id": "d", "texte": "Looking away from digital streams isolates individuals from the shared human world.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-09-10",
+"question": "Which statement best synthesises the overarching argument of this chronicle?",
+"reponses": [
+{ "id": "a", "texte": "Commercial hyperconnectivity fractures individual and collective attention—weakening democratic follow-through, moral sensitivity, and real presence—and requires humane interface design, public-interest media, and deliberate practices of sustained focus.", "correcte": true },
+{ "id": "b", "texte": "Herbert Simon proved that an abundance of online information naturally strengthens sustained civic attention.", "correcte": false },
+{ "id": "c", "texte": "Constant exposure to breaking-news alerts enhances empathy and prevents desensitisation to human suffering.", "correcte": false },
+{ "id": "d", "texte": "The only solution to digital distraction is abandoning global communication technologies altogether.", "correcte": false }
+]
+}
+]
+},
+{
+"id": "en-c2-005-10",
+"id2": "en-c2-005-10",
+"titre": "Can Human Wisdom Keep Pace with Exponential Technological Power?",
+"titre2": "Exercise 50",
+"texte": [
+"Solemn Address — Distinguished scientists, philosophers, jurists, educators, and fellow citizens, we stand at an extraordinary threshold in the long evolutionary story of our species. Within a few brief generations, human ingenuity has unlocked powers that ancient mythologies attributed solely to the gods: splitting the atomic nucleus, editing the genetic code of living organisms, engineering planetary climate systems, and creating artificial intelligences capable of surpassing human performance across widening domains of cognition. Yet as the curve of technological capability rises exponentially, a sobering question echoes across every laboratory, parliament, and household on Earth: can human wisdom—our capacity for moral judgment, self-restraint, long-term foresight, and compassion—keep pace with our accelerating power to reshape or destroy the world?",
+"To confront this question honestly, we must first acknowledge a fundamental asymmetry in how science and wisdom develop. Scientific and technological knowledge is cumulative and exponential: each generation of researchers stands upon the shoulders of its predecessors, inheriting validated equations, refined instruments, and vast digital codebases without needing to reinvent calculus or semiconductor physics from scratch. Moral wisdom, by contrast, is neither cumulative nor automatically inherited in our genes or machines: every human being is born ethically unfinished and must learn anew—through culture, education, empathy, and hard-won experience—how to master fear, pride, greed, and tribal hostility.",
+"This developmental gap—what the philosopher Günther Anders incisively termed the 'Promethean discrepancy'—grows perilous whenever institutional incentives reward speed and capability over reflection and restraint. In a global economy governed by fierce commercial competition and geopolitical rivalry, engineers, corporations, and states face relentless pressure to build and deploy powerful systems first and ask ethical questions later. When 'move fast and break things' migrates from trivial consumer software into synthetic biology, autonomous weaponry, climate geo-engineering, or foundational artificial intelligence, breaking things ceases to be a playful slogan and becomes an existential hazard.",
+"Yet despairing fatalism—the belief that humanity is biologically doomed to destroy itself through cleverness without wisdom—is both historically inaccurate and morally irresponsible. Across the twentieth and twenty-first centuries, humanity has repeatedly demonstrated that when confronted clearly with existential peril, collective wisdom can forge binding guardrails: nuclear non-proliferation treaties and arms-control hotlines that prevented atomic catastrophe during the Cold War, the Montreal Protocol that healed the stratospheric ozone layer, international bans on biological and chemical weapons, and global conventions prohibiting human reproductive cloning.",
+"Building a civilization whose wisdom matches its technological reach requires elevating ethical governance from an afterthought to the core architecture of innovation. First, we must embed anticipatory precaution and democratic accountability into emerging technologies—requiring rigorous independent safety evaluations, international verification treaties for frontier artificial intelligence and biosecurity, and enforceable liability rules ensuring that power is never divorced from responsibility.",
+"Second, we must transform education to heal the artificial divorce between technical mastery and humanistic wisdom. Training brilliant engineers, computer scientists, and molecular biologists without grounding them in history, ethics, ecology, and philosophy produces formidable specialists blind to the human consequences of their creations—just as educating humanists ignorant of science leaves citizens unable to govern a technological civilisation. Future generations need integrated fluency in both the 'how' of capability and the 'why' of human flourishing.",
+"Ladies and gentlemen, technology is neither our saviour nor our executioner; it is an amplifier of human intention. Whether exponential power becomes an instrument of ecological healing, shared abundance, and deeper human dignity—or the author of irreversible ruin—will not be decided by algorithms or equations. It will be decided by whether we summon the humility to recognise our limits, the solidarity to govern our inventions together, and the timeless courage to place wisdom firmly at the helm of power."
+],
+"audios": [
+{
+"id": "audio-en-read-c2-005-10-1",
+"url": "soundcloud.com"
+},
+{
+"id": "audio-en-read-c2-005-10-2",
+"url": "soundcloud.com"
+}
+],
+"questions": [
+{
+"id": "q-en-read-c2-005-10-01",
+"question": "What defining challenge of modern civilisation frames the speaker's opening paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Whether human moral judgment, foresight, and self-restraint can develop fast enough to govern technologies capable of transforming or destroying life on Earth.", "correcte": true },
+{ "id": "b", "texte": "Whether scientific innovation has permanently stalled across genetics, computing, and energy.", "correcte": false },
+{ "id": "c", "texte": "Whether ancient mythologies possessed superior nuclear and genetic technologies compared to modern science.", "correcte": false },
+{ "id": "d", "texte": "Whether artificial intelligence has already eliminated all need for human moral judgment.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-10-02",
+"question": "What structural difference between scientific progress and moral wisdom does the speaker explain in the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Scientific knowledge accumulates automatically across generations, whereas each generation must learn ethical maturity and self-control anew.", "correcte": true },
+{ "id": "b", "texte": "Moral wisdom accumulates automatically in human genes while scientific equations must be reinvented from scratch each generation.", "correcte": false },
+{ "id": "c", "texte": "Contemporary researchers refuse to build upon the mathematical and physical discoveries of earlier centuries.", "correcte": false },
+{ "id": "d", "texte": "Human beings are born with fully developed ethical wisdom that requires no education or cultural cultivation.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-10-03",
+"question": "Why does Günther Anders's 'Promethean discrepancy' become especially dangerous in modern markets and geopolitics according to the third paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Commercial and strategic rivalry pressures actors to deploy high-risk technologies rapidly before assessing catastrophic consequences.", "correcte": true },
+{ "id": "b", "texte": "Commercial corporations consistently delay releasing new technologies until decades of ethical reflection are completed.", "correcte": false },
+{ "id": "c", "texte": "The slogan 'move fast and break things' poses no danger when applied to synthetic biology or autonomous weapons.", "correcte": false },
+{ "id": "d", "texte": "Geopolitical rivalry eliminates all temptation to rush dangerous innovations into deployment.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-10-04",
+"question": "How does the speaker refute fatalistic pessimism in the fourth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "By citing successful international agreements—such as nuclear arms control, the Montreal Protocol, and cloning bans—proving humanity can restrain dangerous technologies.", "correcte": true },
+{ "id": "b", "texte": "By arguing that Cold War nuclear tensions resolved themselves without any treaties or diplomatic hotlines.", "correcte": false },
+{ "id": "c", "texte": "By claiming that stratospheric ozone depletion was cured automatically without international regulation.", "correcte": false },
+{ "id": "d", "texte": "By asserting that human beings are biologically incapable of cooperating to prevent existential threats.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-10-05",
+"question": "What institutional measures are recommended in the fifth paragraph to align innovation with wisdom?",
+"reponses": [
+{ "id": "a", "texte": "Independent pre-deployment safety testing, global verification treaties for advanced AI and biosecurity, and strict legal accountability for creators and operators.", "correcte": true },
+{ "id": "b", "texte": "Eliminating safety evaluations so frontier artificial intelligence can be deployed without regulatory delay.", "correcte": false },
+{ "id": "c", "texte": "Separating technological power from legal liability so innovators never face consequences for harm.", "correcte": false },
+{ "id": "d", "texte": "Treating ethical governance as an optional afterthought once technologies are widely adopted.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-10-06",
+"question": "What educational reform does the speaker call for in the sixth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Integrating ethics, history, and philosophy into scientific training while ensuring humanists understand science so citizens can govern technology wisely.", "correcte": true },
+{ "id": "b", "texte": "Separating technical engineering completely from philosophical and historical studies to boost specialisation.", "correcte": false },
+{ "id": "c", "texte": "Eliminating science education for humanities students so they can focus exclusively on classical literature.", "correcte": false },
+{ "id": "d", "texte": "Training molecular biologists and computer scientists to ignore the social impacts of their inventions.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-10-07",
+"question": "What does the phrase 'born ethically unfinished' signify in the second paragraph?",
+"reponses": [
+{ "id": "a", "texte": "That human beings do not enter the world with automatic moral maturity, but must cultivate empathy, restraint, and judgment through upbringing and experience.", "correcte": true },
+{ "id": "b", "texte": "That modern babies are born with fewer genetic traits than earlier human generations.", "correcte": false },
+{ "id": "c", "texte": "That educational institutions are incapable of teaching ethical reasoning to young people.", "correcte": false },
+{ "id": "d", "texte": "That moral philosophy has not yet finished writing its basic textbooks.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-10-08",
+"question": "What does the contrast between 'the how of capability and the why of human flourishing' mean at the end of the sixth paragraph?",
+"reponses": [
+{ "id": "a", "texte": "Balancing technical know-how about what we can build with deep ethical reflection on what goals genuinely serve human dignity and well-being.", "correcte": true },
+{ "id": "b", "texte": "Replacing scientific experimentation with purely rhetorical questions about human happiness.", "correcte": false },
+{ "id": "c", "texte": "Prioritising technical efficiency over any consideration of human values or ecological survival.", "correcte": false },
+{ "id": "d", "texte": "Separating engineers and philosophers into isolated academic departments that never interact.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-10-09",
+"question": "How does the speaker characterise technology in the final paragraph?",
+"reponses": [
+{ "id": "a", "texte": "As a neutral amplifier of human choices whose ultimate impact depends on human humility, collective governance, and moral courage.", "correcte": true },
+{ "id": "b", "texte": "As an autonomous saviour that will automatically guarantee shared abundance and ecological healing.", "correcte": false },
+{ "id": "c", "texte": "As an inevitable executioner programmed to bring about the irreversible ruin of humanity.", "correcte": false },
+{ "id": "d", "texte": "As an independent force whose future direction will be decided solely by equations and algorithms.", "correcte": false }
+]
+},
+{
+"id": "q-en-read-c2-005-10-10",
+"question": "Which statement best synthesises the overarching message of this solemn address?",
+"reponses": [
+{ "id": "a", "texte": "Because moral wisdom is not automatically cumulative like science, matching exponential technological power requires anticipatory safety governance, international treaties, and integrated scientific-humanistic education guided by collective responsibility.", "correcte": true },
+{ "id": "b", "texte": "Humanity is biologically condemned to self-destruction because moral wisdom can never keep pace with scientific invention.", "correcte": false },
+{ "id": "c", "texte": "Commercial speed and unrestricted competition are sufficient to ensure that frontier AI and synthetic biology remain safe.", "correcte": false },
+{ "id": "d", "texte": "Past international agreements like the Montreal Protocol prove that technological risks resolve themselves without legal guardrails.", "correcte": false }
+]
+}
+]
 }
 ]
