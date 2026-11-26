@@ -7355,7 +7355,7 @@
         "id": "q-en-biz-c2-006-08-04",
         "question": "What happens if frontline staff believe escalating quality warnings leads to retaliation (paragraph 5)?",
         "reponses": [
-          { "id": "a", "texte": "Quality-assurance engineers voluntarily work unpaid overtime to fix hidden defects quietly.", "correcte false },
+          { "id": "a", "texte": "Quality-assurance engineers voluntarily work unpaid overtime to fix hidden defects quietly.", "correcte": false },
           { "id": "b", "texte": "Hidden operational hazards remain buried until an even larger catastrophe erupts.", "correcte": true },
           { "id": "c", "texte": "Plant supervisors automatically receive higher annual bonuses for suppressing variance alerts.", "correcte": false },
           { "id": "d", "texte": "External regulators reduce inspection frequency once internal email leaks stop.", "correcte": false }
