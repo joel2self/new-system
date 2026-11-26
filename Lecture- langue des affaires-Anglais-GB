@@ -7168,6 +7168,343 @@
 ]
 },
 {
+    "id": "DE-C2-065",
+    "id2": "DE-C2-065",
+    "titre": "Korruptionsprävention im öffentlichen Beschaffungswesen und in privatwirtschaftlichen Partnerschaften",
+    "titre2": "Übung 65",
+    "audios": [
+      { "id": "audio-de-read-c2-065-1", "url": "soundcloud.com" },
+      { "id": "audio-de-read-c2-065-2", "url": "soundcloud.com" }
+    ],
+    "texte": [
+      "VERGABE- UND COMPLIANCE-RECHTLICHES GUTACHTEN — EUROPÄISCHES INSTITUT FÜR ÖFFENTLICHES AUFTRAGSWESEN UND INTEGRITÄTSFORSCHUNG (BERLIN – WIEN – ZÜRICH). Kaum ein Schnittfeld zwischen Staat und Privatwirtschaft weist eine so hohe Anfälligkeit für verdeckte Wertabschöpfung und Wettbewerbsverzerrungen auf wie das öffentliche Beschaffungswesen (Public Procurement) sowie großvolumige privatwirtschaftliche Konsortial- und Infrastrukturpartnerschaften. Nach Schätzungen der OECD fließen weltweit jährlich über zehn Billionen US-Dollar in staatliche Bau-, Liefer- und Dienstleistungsaufträge — ein Volumen, das ohne rigorose Kontrollarchitekturen erhebliche Korruptions- und Kartellanreize erzeugt.",
+      "In der modernen Vergabepraxis vollzieht sich Korruption nur noch selten über direkte Bargeldzuwendungen, sondern über ‚hochgradig verrechtlichte Umgehungskonstruktionen‘: passgenau auf einen einzigen Bieter zugeschnittene technische Leistungsbeschreibungen (‚Gold-Plating‘), künstlich verknappte Angebotsfristen, Scheinkonsortien (Bid Rigging), überteuerte Beratungs- und Lobbyingverträge mit lokalen ‚Türöffnern‘ (Third-Party Intermediaries) sowie systematisch einkalkulierte Nachtragsforderungen nach Zuschlagserteilung.",
+      "Auch in reinen ‚privatwirtschaftlichen Lieferanten- und Kooperationsbeziehungen‘ (§ 299 StGB) verursachen verdeckte Kick-back-Vereinbarungen mit Einkaufsverantwortlichen, fingierte Subunternehmerrechnungen und wechselseitige Gebietsabsprachen massive Vermögensschäden und untergraben das Vertrauen in funktionierende Märkte.",
+      "Die Sanktionsfolgen aufgedeckter Vergabekorruption haben sich durch nationale und supranationale Rechtsinstrumente dramatisch verschärft: Neben empfindlichen Unternehmensgeldbußen nach §§ 30, 130 OWiG, der vollständigen Gewinnabschöpfung und strafrechtlichen Freiheitsstrafen gegen beteiligte Führungskräfte droht die Eintragung in nationale ‚Wettbewerbsregister‘ (WRegG) sowie das weltweite ‚Cross-Debarment‘ durch die Weltbank und regionale Entwicklungsbanken — was für infrastruktur- und exportorientierte Konzerne den mehrjährigen Ausschluss von sämtlichen öffentlichen Großprojekten bedeutet.",
+      "Wirksame Korruptionsprävention nach der internationalen Norm ‚ISO 37001‘ erfordert daher ein ‚mehrstufiges präventives Kontroll- und Governance-System‘: Erstens eine kompromisslose ‚Third-Party-Due-Diligence‘ vor jeder Einbindung von Handelsvertretern, Konsortialpartnern und Nachunternehmern — inklusive Offenlegung der wirtschaftlich Berechtigten, striktem Verbot reiner Erfolgshonorare ohne nachweisbare Gegenleistung sowie vertraglichen Audit- und außerordentlichen Kündigungsrechten.",
+      "Zweitens sichern ‚vollständig digitalisierte E-Procurement-Plattformen und algorithmische Anomalie-Analysen‘ die Integrität des Ausschreibungsprozesses: Durch lückenlose elektronische Prüfpfade (Audit Trails), verpflichtende Einkäufer-Rotationen in kritischen Warengruppen und KI-gestützte Screening-Tools — die auffällige Preisabstände zwischen Bietern, wiederkehrende Subunternehmerketten oder ungewöhnliche Nachtragsquoten automatisch markieren — werden Absprachen frühzeitig aufgedeckt.",
+      "Drittens setzen öffentliche Auftraggeber und Konsortien bei komplexen Großvorhaben zunehmend auf ‚verbindliche Integritätspakte‘ (Integrity Pacts) unter Aufsicht unabhängiger externer Monitore sowie geschützte digitale Hinweisgebersysteme (nach dem Hinweisgeberschutzgesetz), die Whistleblowern volle Vertraulichkeit und Schutz vor Vergeltungsmaßnahmen garantieren.",
+      "Letztlich ist konsequente Korruptionsprävention kein bürokratischer Selbstzweck, sondern die entscheidende Voraussetzung für allokative Markteffizienz: Nur wo technisches Können, Qualität und wirtschaftliche Leistungsfähigkeit statt verdeckter Seilschaften über den Zuschlag entscheiden, entsteht nachhaltiger gesellschaftlicher wie unternehmerischer Wohlstand."
+    ],
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Wie hoch beziffert die OECD im ersten Absatz das jährliche weltweite Volumen öffentlicher Bau-, Liefer- und Dienstleistungsaufträge?",
+        "points": 1,
+        "reponse_modele": "Auf über zehn Billionen US-Dollar jährlich.",
+        "mots_cles": [
+          { "mot": "über zehn Billionen US-Dollar jährlich laut OECD", "variantes": ["zehn Billionen US-Dollar", "OECD"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q2",
+        "question": "Welche fünf verrechtlichten Umgehungsmechanismen der Korruption nennt der zweite Absatz anstelle direkter Bargeldzuwendungen?",
+        "points": 1,
+        "reponse_modele": "Passgenau auf einen Bieter zugeschnittene Leistungsbeschreibungen (Gold-Plating), künstlich verknappte Angebotsfristen, Scheinkonsortien (Bid Rigging), überteuerte Beratungsverträge mit lokalen Türöffnern (Third-Party Intermediaries) sowie einkalkulierte Nachtragsforderungen nach dem Zuschlag.",
+        "mots_cles": [
+          { "mot": "zugeschnittene Leistungsbeschreibungen (Gold-Plating), künstlich verknappte Fristen, Scheinkonsortien (Bid Rigging), überteuerte Verträge mit Third-Party Intermediaries und Nachtragsforderungen", "variantes": ["Gold-Plating", "Bid Rigging", "Third-Party Intermediaries"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q3",
+        "question": "Was versteht man unter dem im vierten Absatz erwähnten ‚Cross-Debarment‘ durch die Weltbank und regionale Entwicklungsbanken?",
+        "points": 1,
+        "reponse_modele": "Den wechselseitigen, weltweiten Ausschluss eines wegen Korruption sanktionierten Unternehmens von sämtlichen öffentlich finanzierten Großprojekten aller beteiligten Entwicklungsbanken über mehrere Jahre hinweg.",
+        "mots_cles": [
+          { "mot": "weltweites Cross-Debarment durch Weltbank und regionale Entwicklungsbanken als mehrjähriger Ausschluss von öffentlichen Großprojekten", "variantes": ["Cross-Debarment", "Wettbewerbsregister"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q4",
+        "question": "Welche drei Anforderungen stellt der fünfte Absatz (nach ISO 37001) an eine wirksame ‚Third-Party-Due-Diligence‘?",
+        "points": 1,
+        "reponse_modele": "Die Offenlegung der wirtschaftlich Berechtigten, ein striktes Verbot reiner Erfolgshonorare ohne nachweisbare Gegenleistung sowie vertragliche Audit- und außerordentliche Kündigungsrechte.",
+        "mots_cles": [
+          { "mot": "Offenlegung wirtschaftlich Berechtigter, Verbot reiner Erfolgshonorare ohne nachweisbare Gegenleistung sowie vertragliche Audit- und außerordentliche Kündigungsrechte (ISO 37001)", "variantes": ["ISO 37001", "Erfolgshonorare", "Third-Party-Due-Diligence"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q5",
+        "question": "Welche verdächtigen Muster erkennen KI-gestützte Screening-Tools auf digitalen E-Procurement-Plattformen laut Absatz 6?",
+        "points": 1,
+        "reponse_modele": "Auffällige Preisabstände zwischen Bietern, wiederkehrende Subunternehmerketten und ungewöhnliche Nachtragsquoten.",
+        "mots_cles": [
+          { "mot": "auffällige Preisabstände zwischen Bietern, wiederkehrende Subunternehmerketten oder ungewöhnliche Nachtragsquoten", "variantes": ["E-Procurement-Plattformen", "Preisabstände", "Nachtragsquoten"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q6",
+        "question": "Welche beiden Schutz- und Kontrollinstrumente nennt der siebte Absatz für komplexe Großvorhaben?",
+        "points": 1,
+        "reponse_modele": "Verbindliche Integritätspakte (Integrity Pacts) unter Aufsicht unabhängiger externer Monitore sowie geschützte digitale Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz.",
+        "mots_cles": [
+          { "mot": "verbindliche Integritätspakte (Integrity Pacts) unter Aufsicht externer Monitore und geschützte digitale Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz", "variantes": ["Integrity Pacts", "Hinweisgeberschutzgesetz"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q7",
+        "question": "Welcher Paragraf des deutschen Strafgesetzbuches erfasst Bestechlichkeit und Bestechung im rein privatwirtschaftlichen Geschäftsverkehr (Absatz 3)?",
+        "points": 1,
+        "reponse_modele": "§ 299 StGB.",
+        "mots_cles": [
+          { "mot": "§ 299 StGB im privatwirtschaftlichen Geschäftsverkehr", "variantes": ["§ 299 StGB", "Kick-back-Vereinbarungen"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q8",
+        "question": "Welche weiteren Sanktionen nennt der vierte Absatz neben dem Ausschluss von öffentlichen Ausschreibungen?",
+        "points": 1,
+        "reponse_modele": "Empfindliche Unternehmensgeldbußen nach §§ 30, 130 OWiG, die vollständige Gewinnabschöpfung sowie strafrechtliche Freiheitsstrafen gegen beteiligte Führungskräfte.",
+        "mots_cles": [
+          { "mot": "Unternehmensgeldbußen nach §§ 30, 130 OWiG, vollständige Gewinnabschöpfung und Freiheitsstrafen gegen Führungskräfte", "variantes": ["§§ 30, 130 OWiG", "Gewinnabschöpfung"], "poids": 1.0 }
+        ]
+      },
+      {
+        "id": "Q9",
+        "question": "Warum sind verpflichtende Einkäufer-Rotationen in kritischen Warengruppen sinnvoll (Absatz 6)?",
+        "points": 1,
+        "reponse_modele": "Weil dadurch zu enge persönliche Bindungen oder verdeckte Seilschaften zwischen einzelnen Einkäufern und bestimmten Lieferanten verhindert werden.",
+        "mots_cles": [
+          { "mot": "verpflichtende Einkäufer-Rotationen in kritischen Warengruppen zur Sicherung der Integrität", "variantes": ["Einkäufer-Rotationen", "Audit Trails"], "poids": 1.0 }
+Use code with caution.
+]
+},
+{
+"id": "Q10",
+"question": "Welche drei Faktoren müssen laut dem Schlussabsatz über den Zuschlag entscheiden, damit nachhaltiger Wohlstand entsteht?",
+"points": 1,
+"reponse_modele": "Technisches Können, Qualität und wirtschaftliche Leistungsfähigkeit (statt verdeckter Seilschaften).",
+"mots_cles": [
+{ "mot": "technisches Können, Qualität und wirtschaftliche Leistungsfähigkeit statt verdeckter Seilschaften", "variantes": ["technisches Können, Qualität und wirtschaftliche Leistungsfähigkeit", "Markteffizienz"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "DE-C2-066",
+"id2": "DE-C2-066",
+"titre": "Internationale Schiedsgerichtsbarkeit und die Grenzen staatlicher Gerichtshoheit",
+"titre2": "Übung 66",
+"audios": [
+{ "id": "audio-de-read-c2-066-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-c2-066-2", "url": "soundcloud.com" }
+],
+"texte": [
+"VÖLKER- UND SCHIEDSVERFAHRENSRECHTLICHE ANALYSE — EUROPÄISCHES INSTITUT FÜR TRANSNATIONALE STREITBEILEGUNG UND INVESTITIONSRECHT (FRANKFURT AM MAIN – GENF – WIEN). Die internationale Schiedsgerichtsbarkeit beruht auf einem bemerkenswerten rechtsstaatlichen Spannungsverhältnis: Privat bestellte Schiedsrichter entscheiden kraft vertraglicher Parteiautonomie verbindlich über milliardenschwere Handels- und Investitionskonflikte — und ihre Schiedssprüche entfalten weltweit dieselbe Rechtskraft wie Urteile staatlicher Höchstgerichte. Dennoch bleibt diese private Gerichtsbarkeit an entscheidenden Schnittstellen auf die Anerkennung und Zwangsgewalt staatlicher Gerichte angewiesen.",
+"In der internationalen Streitbeilegungspraxis sind zwei klar getrennte Verfahrenswelten zu unterscheiden: die ‚internationale Handelsschiedsgerichtsbarkeit‘ (Commercial Arbitration zwischen Unternehmen, etwa vor der ICC, der DIS oder dem LCIA) sowie die ‚Investor-Staat-Schiedsgerichtsbarkeit‘ (Investor-State Dispute Settlement, ISDS — häufig vor dem Weltbank-Schiedszentrum ICSID auf Basis bilateraler Investitionsschutzabkommen oder multilateraler Verträge).",
+"Ihre weitreichende Unabhängigkeit gegenüber staatlichen Eingriffen stützt die Schiedsgerichtsbarkeit auf zwei dogmatische Kernprinzipien: die ‚Kompetenz-Kompetenz‘ (wonach das Schiedsgericht zunächst selbst über seine eigene Zuständigkeit entscheidet) sowie die ‚Autonomie der Schiedsklausel‘ (Separability), der zufolge eine Schiedsvereinbarung selbst dann fortbesteht, wenn der übrige Hauptvertrag angefochten oder für nichtig erklärt wird.",
+"Gleichwohl endet die Autonomie privater Schiedsgerichte dort, wo ‚zwingende staatliche Eingriffsnormen und der ‚Ordre Public‘ (öffentliche Ordnung)‘ berührt sind: Staatliche Gerichte am Schiedsort können einen Schiedsspruch im Aufhebungsverfahren (Set-Aside) kassieren, und Vollstreckungsgerichte dürfen die Anerkennung nach Art. V des New Yorker Übereinkommens von 1958 verweigern, wenn das rechtliche Gehör verletzt wurde, der Streitgegenstand nicht schiedsfähig ist (etwa im Kernbereich des Kartell-, Insolvenz- oder Strafrechts) oder das Ergebnis fundamentalen Gerechtigkeitsprinzipien widerspricht.",
+"Eine besonders harte Grenze staatlicher Gerichtshoheit offenbart sich bei der ‚Zwangsvollstreckung gegen souveräne Staaten‘: Zwar unterwirft sich ein Staat durch Unterzeichnung einer Schiedsklausel dem Erkenntnisverfahren, doch schützt die völkerrechtliche ‚Vollstreckungsimmunität‘ (Sovereign Immunity from Execution) hoheitlich genutztes Staatsvermögen — wie Botschaftsgrundstücke, Zentralbankreserven oder Marineeinheiten — vor der Pfändung, sodass obsiegende Kläger oft jahrelang nach rein kommerziell genutzten Staatsvermögenswerten fahnden müssen.",
+"Zudem befindet sich die ‚Investor-Staat-Schiedsgerichtsbarkeit (ISDS)‘ in einem tiefgreifenden Legitimationswandel: Nachdem der Europäische Gerichtshof (EuGH) in seinen wegweisenden Achmea- und Komstroy-Entscheidungen intra-europäische Investitionsschiedsklauseln für unionsrechtswidrig erklärt hat und zahlreiche Industriestaaten aus Sorge vor Klagen gegen Klimaschutzgesetze (‚Regulatory Chill‘) aus dem Energiechartavertrag ausgetreten sind, verlagert sich der Investitionsschutz neu.",
+"Zur Überwindung dieser Vertrauenskrise arbeiten die Europäische Union und die UN-Kommission für internationales Handelsrecht (UNCITRAL) an einer ‚institutionellen Reform der Investitionsgerichtsbarkeit‘ — hin zu einem ständigen multilateralen Investitionsgerichtshof mit hauptamtlichen Richtern, einer regulären Berufungsinstanz, strengen Verhaltensregeln gegen Interessenkonflikte sowie ausdrücklichen Schutzklauseln für das staatliche Regulierungsrecht (Right to Regulate).",
+"Letztlich beruht die Funktionsfähigkeit der internationalen Schiedsgerichtsbarkeit auf einer fein austarierten Arbeitsteilung zwischen privater Vertragsfreiheit und staatlicher Rechtskontrolle: Nur wenn Schiedsverfahren höchste rechtsstaatliche Integrität wahren und demokratische Regulierungsräume respektieren, bleibt ihre globale Durchsetzungskraft dauerhaft gesichert."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche beiden Verfahrenswelten unterscheidet der zweite Absatz in der internationalen Schiedsgerichtsbarkeit?",
+"points": 1,
+"reponse_modele": "Die internationale Handelsschiedsgerichtsbarkeit (Commercial Arbitration zwischen Unternehmen, z. B. vor ICC, DIS oder LCIA) und die Investor-Staat-Schiedsgerichtsbarkeit (ISDS — häufig vor dem Weltbank-Schiedszentrum ICSID auf Grundlage von Investitionsschutzabkommen).",
+"mots_cles": [
+{ "mot": "internationale Handelsschiedsgerichtsbarkeit (Commercial Arbitration vor ICC/DIS/LCIA) und Investor-Staat-Schiedsgerichtsbarkeit (ISDS / ICSID)", "variantes": ["Commercial Arbitration", "ISDS", "ICSID", "DIS"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Erklären Sie die beiden dogmatischen Prinzipien ‚Kompetenz-Kompetenz‘ und ‚Separability‘ (Autonomie der Schiedsklausel) im dritten Absatz.",
+"points": 1,
+"reponse_modele": "‚Kompetenz-Kompetenz‘ besagt, dass das Schiedsgericht zunächst selbst über seine eigene Zuständigkeit entscheidet; ‚Separability‘ bedeutet, dass die Schiedsvereinbarung auch dann wirksam bleibt, wenn der übrige Hauptvertrag angefochten oder nichtig wird.",
+"mots_cles": [
+{ "mot": "Kompetenz-Kompetenz (Schiedsgericht entscheidet selbst über Zuständigkeit) und Separability (Schiedsklausel bleibt bei Nichtigkeit des Hauptvertrags bestehen)", "variantes": ["Kompetenz-Kompetenz", "Separability"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Aus welchen drei Gründen dürfen staatliche Gerichte nach Art. V des New Yorker Übereinkommens die Vollstreckung eines Schiedsspruchs verweigern (Absatz 4)?",
+"points": 1,
+"reponse_modele": "Bei Verletzung des rechtlichen Gehörs, bei fehlender Schiedsfähigkeit des Streitgegenstands (etwa im Kernbereich von Kartell-, Insolvenz- oder Strafrecht) oder bei einem Verstoß gegen den ‚Ordre Public‘ (fundamentale Gerechtigkeitsprinzipien).",
+"mots_cles": [
+{ "mot": "Verletzung des rechtlichen Gehörs, fehlende Schiedsfähigkeit (Kartell-, Insolvenz-, Strafrecht) oder Verstoß gegen den Ordre Public nach Art. V New Yorker Übereinkommen", "variantes": ["Ordre Public", "New Yorker Übereinkommen", "schiedsfähig"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Wie schränkt die völkerrechtliche ‚Vollstreckungsimmunität‘ den Zugriff auf das Vermögen souveräner Staaten ein (Absatz 5)?",
+"points": 1,
+"reponse_modele": "Sie schützt hoheitlich genutztes Staatsvermögen — wie Botschaftsgrundstücke, Zentralbankreserven oder Marineeinheiten — vor der Pfändung, sodass obsiegende Kläger ausschließlich auf rein kommerziell genutztes Staatsvermögen zugreifen können.",
+"mots_cles": [
+{ "mot": "Vollstreckungsimmunität schützt hoheitliches Staatsvermögen (Botschaftsgrundstücke, Zentralbankreserven, Marineeinheiten) vor Pfändung, sodass nur kommerziell genutztes Staatsvermögen pfändbar ist", "variantes": ["Vollstreckungsimmunität", "Zentralbankreserven", "kommerziell genutzten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Welche beiden Entwicklungen haben laut Absatz 6 zu einer Legitimationskrise der bisherigen Investor-Staat-Schiedsgerichtsbarkeit (ISDS) geführt?",
+"points": 1,
+"reponse_modele": "Erstens erklärte der EuGH in den Achmea- und Komstroy-Urteilen intra-europäische Investitionsschiedsklauseln für unionsrechtswidrig; zweitens traten viele Industriestaaten aus Sorge vor Milliardenklagen gegen Klimaschutzgesetze (‚Regulatory Chill‘) aus dem Energiechartavertrag aus.",
+"mots_cles": [
+{ "mot": "EuGH erklärte intra-europäische ISDS-Klauseln (Achmea/Komstroy) für unionsrechtswidrig, und Industriestaaten traten aus Angst vor Klagen gegen Klimaschutzgesetze (Regulatory Chill) aus dem Energiechartavertrag aus", "variantes": ["Achmea", "Komstroy", "Regulatory Chill", "Energiechartavertrag"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche vier Reformbausteine verfolgen die EU und UNCITRAL laut dem siebten Absatz beim Umbau der Investitionsgerichtsbarkeit?",
+"points": 1,
+"reponse_modele": "Einen ständigen multilateralen Investitionsgerichtshof mit hauptamtlichen Richtern, eine reguläre Berufungsinstanz, strenge Verhaltensregeln gegen Interessenkonflikte sowie ausdrückliche Schutzklauseln für das staatliche Regulierungsrecht (Right to Regulate).",
+"mots_cles": [
+{ "mot": "ständiger multilateraler Investitionsgerichtshof mit hauptamtlichen Richtern, Berufungsinstanz, Verhaltensregeln gegen Interessenkonflikte und Schutzklauseln für das Right to Regulate", "variantes": ["UNCITRAL", "Right to Regulate", "Berufungsinstanz"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Was bedeutet der Begriff ‚Regulatory Chill‘ im sechsten Absatz?",
+"points": 1,
+"reponse_modele": "Die Gefahr, dass Regierungen aus Angst vor hohen Schadensersatzklagen ausländischer Investoren vor Schiedsgerichten auf notwendige Klimaschutz- oder Umweltgesetze verzichten.",
+"mots_cles": [
+{ "mot": "Sorge vor Klagen gegen Klimaschutzgesetze (Regulatory Chill)", "variantes": ["Regulatory Chill", "Klimaschutzgesetze"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Welches Spannungsverhältnis der internationalen Schiedsgerichtsbarkeit beschreibt der erste Absatz?",
+"points": 1,
+"reponse_modele": "Privat bestellte Schiedsrichter fällen kraft Vertragsfreiheit Schiedssprüche mit der Rechtskraft staatlicher Höchstgerichtsurteile, bleiben aber an entscheidenden Stellen auf die Anerkennung und Zwangsgewalt staatlicher Gerichte angewiesen.",
+"mots_cles": [
+{ "mot": "privat bestellte Schiedsrichter fällen Urteile mit Rechtskraft staatlicher Höchstgerichte, bleiben aber auf staatliche Anerkennung und Zwangsgewalt angewiesen", "variantes": ["Parteiautonomie", "Zwangsgewalt"], "poids": 1.0 }
+]
+},
+{
+"id": "Q9",
+"question": "Wofür steht die Abkürzung ‚DIS‘ im zweiten Absatz?",
+"points": 1,
+"reponse_modele": "Deutsche Institution für Schiedsgerichtsbarkeit (neben der Internationalen Handelskammer ICC und dem London Court of International Arbitration LCIA).",
+"mots_cles": [
+{ "mot": "ICC, DIS oder LCIA als Institutionen der Handelsschiedsgerichtsbarkeit", "variantes": ["DIS", "ICC", "LCIA"], "poids": 1.0 }
+]
+},
+{
+"id": "Q10",
+"question": "Welche beiden Bedingungen sichern laut dem Schlussabsatz dauerhaft die globale Durchsetzungskraft von Schiedsverfahren?",
+"points": 1,
+"reponse_modele": "Dass Schiedsverfahren höchste rechtsstaatliche Integrität wahren und demokratische Regulierungsräume respektieren.",
+"mots_cles": [
+{ "mot": "Wahrung höchster rechtsstaatlicher Integrität und Respektierung demokratischer Regulierungsräume", "variantes": ["rechtsstaatliche Integrität", "demokratische Regulierungsräume"], "poids": 1.0 }
+]
+}
+]
+},
+{
+"id": "DE-C2-067",
+"id2": "DE-C2-067",
+"titre": "Der Schutz von Geschäftsgeheimnissen in hochgradig wettbewerbsintensiven Wirtschaftsumfeldern",
+"titre2": "Übung 67",
+"audios": [
+{ "id": "audio-de-read-c2-067-1", "url": "soundcloud.com" },
+{ "id": "audio-de-read-c2-067-2", "url": "soundcloud.com" }
+],
+"texte": [
+"IMMATERIALGÜTER- UND SICHERHEITSRECHTLICHES MEMORANDUM — PRAXISGRUPPE FÜR GEHEIMNISSCHUTZ, WETTBEWERBSRECHT UND CYBERSICHERHEIT (MÜNCHEN – FRANKFURT – ZÜRICH). In einer wissens- und algorithmenbasierten Ökonomie beruht der entscheidende Wettbewerbsvorsprung hochspezialisierter Unternehmen vielfach auf vertraulichem Fertigungs-, Software- und Kunden-Know-how, das bewusst nicht zum Patent angemeldet wird. Während Patente eine öffentliche Offenlegung der technischen Lehre verlangen und nach zwanzig Jahren ablaufen, gewähren ‚Geschäftsgeheimnisse‘ (Trade Secrets) zeitlich unbegrenzten Schutz — allerdings nur solange ihre faktische Vertraulichkeit lückenlos gewahrt bleibt.",
+"Mit der Umsetzung der europäischen Geschäftsgeheimnis-Richtlinie (EU 2016/943) im deutschen ‚Geschäftsgeheimnisgesetz (GeschGehG)‘ hat sich die Rechtslage für Unternehmen grundlegend verschärft: Nach § 2 Nr. 1 lit. b GeschGehG genießt eine vertrauliche Information überhaupt nur dann gesetzlichen Geheimnisschutz, wenn der Inhaber im Streitfall nachweisen kann, dass sie Gegenstand ‚den Umständen nach angemessener Geheimhaltungsmaßnahmen‘ war — andernfalls gilt das Wissen als gemeinfrei und darf von Konkurrenten sanktionslos verwertet werden.",
+"In hochgradig wettbewerbsintensiven Märkten entstehen die größten Abflussrisiken an drei kritischen Einfallstoren: Erstens durch die ‚zunehmende Abwerbung und Fluktuation von Spitzenentwicklern und Vertriebsleitern‘. Wechselt eine Schlüsselkraft zum Wettbewerber, verläuft die juristische Trennlinie zwischen dem rechtmäßig nutzbaren allgemeinen Berufswissen des Arbeitnehmers und der rechtswidrigen Mitnahme vertraulicher Konstruktionszeichnungen, Preiskalkulationen oder Kundenlisten oft schmal.",
+"Zweitens bildet das ‚gesetzlich erlaubte Reverse Engineering‘ (§ 3 Abs. 1 Nr. 2 GeschGehG) eine erhebliche Herausforderung: Das Gesetz erlaubt ausdrücklich das Beobachten, Untersuchen, Rückbauen und Testen eines rechtmäßig erworbenen Produkts — sofern dies nicht im B2B-Vertrag wirksam ausgeschlossen wurde oder das Geheimnis durch technische Verschlüsselung gegen Auslesen gesichert ist.",
+"Drittens verschärfen ‚digitale Kollaborationsplattformen, Cloud-Zulieferernetze und generative KI-Werkzeuge‘ die Gefahr unkontrollierten Wissensabflusses: Kopieren Mitarbeitende vertrauliche Quellcodes, Forschungsberichte oder Angebotskalkulationen unbedacht in ungeschützte öffentliche KI-Sprachmodelle, geht der rechtliche Geheimnisstatus unwiederbringlich verloren.",
+"Auch in Gerichtsprozessen gegen Geheimnisverrat scheiterten Geschädigte früher oft an der Sorge, das Geheimnis im öffentlichen Verfahren erst recht offenlegen zu müssen — obwohl § 16 GeschGehG inzwischen spezielle gerichtliche Geheimhaltungsanordnungen (‚In-Camera-Verfahren‘) zur Begrenzung des Einsichtskreises vorsieht.",
+"Ein gerichtsfestes Schutzkonzept verlangt daher eine ‚dreistufige Geheimnisschutz-Governance‘: erstens die systematische Klassifizierung und Inventarisierung der unternehmenskritischen ‚Kronjuwelen‘ (Top-Secret-Wissen versus allgemeines Betriebswissen); zweitens technische ‚Zero-Trust-Sicherheitskontrollen‘ (rollenbasierte Zugriffsrechte, Data-Loss-Prevention-Filter, digitale Wasserzeichen und striktes Verbot ungesicherter öffentlicher KI-Tools); und drittens maßgeschneiderte Geheimhaltungs- und Wettbewerbsverbotsklauseln samt ‚Exit-Interviews und forensischen IT-Audits‘ beim Ausscheiden von Schlüsselpersonen.",
+"Letztlich ist der Schutz von Geschäftsgeheimnissen kein einmaliges juristisches Vertragswerk, sondern ein kontinuierlicher organisatorischer und technologischer Wachsamkeitsprozess: Nur wer seine wertvollsten Wissensvorsprünge aktiv identifiziert, technisch abschottet und rechtlich dokumentiert, bewahrt seine Innovationsrendite vor fremder Ausbeutung."
+],
+"questions": [
+{
+"id": "Q1",
+"question": "Welche zwingende Voraussetzung verlangt § 2 Nr. 1 lit. b GeschGehG, damit vertrauliches Know-how überhaupt als Geschäftsgeheimnis geschützt wird (Absatz 2)?",
+"points": 1,
+"reponse_modele": "Der Inhaber muss nachweisen, dass die Information Gegenstand ‚den Umständen nach angemessener Geheimhaltungsmaßnahmen‘ war — sonst gilt das Wissen als gemeinfrei und darf von Konkurrenten straffrei genutzt werden.",
+"mots_cles": [
+{ "mot": "nachweislich den Umständen nach angemessene Geheimhaltungsmaßnahmen nach § 2 Nr. 1 lit. b GeschGehG, andernfalls gilt das Wissen als gemeinfrei", "variantes": ["GeschGehG", "angemessene Geheimhaltungsmaßnahmen", "gemeinfrei"], "poids": 1.0 }
+]
+},
+{
+"id": "Q2",
+"question": "Welches schwierige Abgrenzungsproblem entsteht laut dem dritten Absatz beim Wechsel von Spitzenentwicklern oder Vertriebsleitern zur Konkurrenz?",
+"points": 1,
+"reponse_modele": "Die schmale juristische Trennlinie zwischen dem allgemeinen beruflichen Erfahrungswissen, das der Arbeitnehmer rechtmäßig weiterverwenden darf, und der rechtswidrigen Mitnahme vertraulicher Konstruktionszeichnungen, Preiskalkulationen oder Kundenlisten.",
+"mots_cles": [
+{ "mot": "Trennlinie zwischen rechtmäßig nutzbarem allgemeinem Berufswissen des Arbeitnehmers und rechtswidriger Mitnahme vertraulicher Konstruktionszeichnungen, Preiskalkulationen oder Kundenlisten", "variantes": ["Berufswissen", "Fluktuation", "Kundenlisten"], "poids": 1.0 }
+]
+},
+{
+"id": "Q3",
+"question": "Wann ist das sogenannte ‚Reverse Engineering‘ nach § 3 Abs. 1 Nr. 2 GeschGehG rechtlich zulässig und wie kann ein Unternehmen es verhindern (Absatz 4)?",
+"points": 1,
+"reponse_modele": "Das Untersuchen, Rückbauen und Testen eines rechtmäßig erworbenen Produkts ist gesetzlich erlaubt, es sei denn, das Unternehmen schließt es im B2B-Vertrag ausdrücklich aus oder sichert das Geheimnis durch technische Verschlüsselung gegen Auslesen.",
+"mots_cles": [
+{ "mot": "erlaubt bei rechtmäßig erworbenen Produkten (§ 3 Abs. 1 Nr. 2 GeschGehG), sofern nicht im B2B-Vertrag ausgeschlossen oder technisch verschlüsselt", "variantes": ["Reverse Engineering", "§ 3 Abs. 1 Nr. 2 GeschGehG", "Verschlüsselung"], "poids": 1.0 }
+]
+},
+{
+"id": "Q4",
+"question": "Welche Gefahr geht laut dem fünften Absatz von der unbedachten Nutzung öffentlicher KI-Sprachmodelle durch Mitarbeitende aus?",
+"points": 1,
+"reponse_modele": "Kopieren Mitarbeitende vertrauliche Quellcodes, Forschungsberichte oder Angebotskalkulationen in ungeschützte öffentliche KI-Sprachmodelle, geht der rechtliche Geheimnisstatus unwiederbringlich verloren.",
+"mots_cles": [
+{ "mot": "Kopieren vertraulicher Quellcodes, Forschungsberichte oder Kalkulationen in ungeschützte öffentliche KI-Sprachmodelle zerstört den rechtlichen Geheimnisstatus unwiederbringlich", "variantes": ["öffentliche KI-Sprachmodelle", "Quellcodes"], "poids": 1.0 }
+]
+},
+{
+"id": "Q5",
+"question": "Wie schützt § 16 GeschGehG ein klagendes Unternehmen im Gerichtsprozess vor der öffentlichen Preisgabe seines Geheimnisses (Absatz 6)?",
+"points": 1,
+"reponse_modele": "Durch spezielle gerichtliche Geheimhaltungsanordnungen (‚In-Camera-Verfahren‘), die den Kreis der Einsichtsberechtigten während des Prozesses eng begrenzen.",
+"mots_cles": [
+{ "mot": "spezielle gerichtliche Geheimhaltungsanordnungen (In-Camera-Verfahren) nach § 16 GeschGehG begrenzen den Einsichtskreis", "variantes": ["§ 16 GeschGehG", "In-Camera-Verfahren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q6",
+"question": "Welche drei Stufen gehören laut Absatz 7 zu einer gerichtsfesten ‚Geheimnisschutz-Governance‘?",
+"points": 1,
+"reponse_modele": "Erstens die Klassifizierung und Inventarisierung der ‚Kronjuwelen‘ (Top-Secret-Wissen versus allgemeines Betriebswissen); zweitens technische Zero-Trust-Sicherheitskontrollen (rollenbasierte Zugriffe, Data-Loss-Prevention-Filter, Wasserzeichen und Verbot öffentlicher KI-Tools); und drittens maßgeschneiderte Geheimhaltungs- und Wettbewerbsverbotsklauseln samt Exit-Interviews und forensischen IT-Audits beim Ausscheiden von Schlüsselpersonen.",
+"mots_cles": [
+{ "mot": "Klassifizierung der Kronjuwelen, technische Zero-Trust-Kontrollen (DLP-Filter, Wasserzeichen, Verbot öffentlicher KI-Tools) und Geheimhaltungsklauseln samt Exit-Interviews und forensischen IT-Audits", "variantes": ["Kronjuwelen", "Data-Loss-Prevention-Filter", "Exit-Interviews"], "poids": 1.0 }
+]
+},
+{
+"id": "Q7",
+"question": "Welchen strategischen Vorteil bieten Geschäftsgeheimnisse gegenüber Patenten laut dem ersten Absatz?",
+"points": 1,
+"reponse_modele": "Während Patente eine öffentliche Offenlegung verlangen und nach zwanzig Jahren ablaufen, gewähren Geschäftsgeheimnisse zeitlich unbegrenzten Schutz, solange ihre faktische Vertraulichkeit gewahrt bleibt.",
+"mots_cles": [
+{ "mot": "zeitlich unbegrenzter Schutz ohne öffentliche Offenlegung der technischen Lehre im Gegensatz zu zwanzigjährigen Patenten", "variantes": ["zeitlich unbegrenzten Schutz", "zwanzig Jahren"], "poids": 1.0 }
+]
+},
+{
+"id": "Q8",
+"question": "Wozu dienen ‚Exit-Interviews und forensische IT-Audits‘ beim Ausscheiden von Schlüsselpersonen (Absatz 7)?",
+"points": 1,
+"reponse_modele": "Um ausscheidende Mitarbeiter nachweislich auf ihre fortbestehenden Geheimhaltungspflichten hinzuweisen und technisch zu überprüfen, ob vor dem Austritt unbefugt Daten kopiert oder abgezogen wurden.",
+"mots_cles": [
+{ "mot": "Exit-Interviews und forensische IT-Audits beim Ausscheiden von Schlüsselpersonen zur Absicherung und Beweissicherung", "variantes": ["Exit-Interviews", "forensischen IT-Audits"], "poids": 1.0 }
+]
+},
+{
+"id": "Q9",
+"question": "Auf welcher europäischen Richtlinie basiert das deutsche Geschäftsgeheimnisgesetz (Absatz 2)?",
+"points": 1,
+"reponse_modele": "Auf der europäischen Geschäftsgeheimnis-Richtlinie (EU 2016/943).",
+"mots_cles": [
+{ "mot": "europäische Geschäftsgeheimnis-Richtlinie (EU 2016/943)", "variantes": ["EU 2016/943", "Geschäftsgeheimnis-Richtlinie"], "poids": 1.0 }
+]
+},
+{
+"id": "Q10",
+"question": "Welche drei kontinuierlichen Schritte sichern laut dem Schlussabsatz die Innovationsrendite vor fremder Ausbeutung?",
+"points": 1,
+"reponse_modele": "Die wertvollsten Wissensvorsprünge aktiv identifizieren, technisch abschotten und rechtlich dokumentieren.",
+"mots_cles": [
+{ "mot": "wertvollste Wissensvorsprünge aktiv identifizieren, technisch abschotten und rechtlich dokumentieren", "variantes": ["identifizieren, technisch abschotten und rechtlich dokumentieren", "Innovationsrendite"], "poids": 1.0 }
+]
+}
+]
+},
+{
     "id": "EN-C2-068",
     "id2": "EN-C2-068",
     "titre": "Intellectual Property Strategy, Standard-Essential Patents, and Open Innovation Ecosystems",
